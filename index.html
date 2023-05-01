@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Placeholder</title>
+<link rel="stylesheet" href="style.css"/>
+<link rel="icon" href="icon.ico"/>
+</head>
+<body>
+<div id="header">
+	<div id="title">Placeholder</div>
+	<div id="linx">
+		<a href="about">About</a>
+		<a href="log">Archive</a>
+		<a href="mspfa">MSPFA</a>
+	</div>
+</div>
+<div id="flexy">
+	<div id="side">
+		i donno what 2 put here yet but a bar on the side looks coooool
+	</div>
+	<div id="comic">
+		<div class="options">
+			<a href="/">&lt;&lt;</a>
+			<a class="back">&lt;</a>
+			<span class="pagenum">Page 1</span>
+			<a href="/">&gt;</a>
+			<a class="back">&gt;&gt;</a>
+		</div>
+		<svg id="svg-map" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2150 3035">
+			<image width="2150" height="3035" xlink:href="qq.png"></image>
+			<rect x="1105" y="293" width="582" height="187" opacity="0" c="#000" text="后备箱里放汽油很危险？！"></rect>
+			<rect x="542" y="945" width="770" height="204" opacity="0" c="#000" text="我就问你哪个更危险：火灾风险还是在森林里用完油？！"></rect>
+			<rect x="1503" y="1112" width="333" height="148" opacity="0" c="#0cf" text="要我说就是火灾。"></rect>
+			<rect x="162" y="1949" width="368" height="172" opacity="0" c="#000" text="我又没问你！"></rect>
+			<rect x="894" y="1934" width="329" height="131" opacity="0" c="#0cf" text="我也没回你。"></rect>
+			<rect x="1663" y="1903" width="405" height="280" opacity="0" c="#000" text="唉，对不起。我这就是开车开累了。"></rect>
+		</svg>
+		<!--<img class="pic" src="qq.png" usemap="#map"/>
+		<map id="translate-map" name="map">
+    		<area href="www.baidu.com" c="#000" text="后备箱里放汽油很危险？！" coords="1115,302,1677,467" shape="rect"/>
+    		<area c="#000" text="我就问你哪个更危险：火灾风险还是在森林里用完油？！" coords="554,942,1296,1147" shape="rect"/>
+    		<area c="#0cf" text="要我说就是火灾。" coords="1508,1115,1835,1259" shape="rect"/>
+    		<area c="#000" text="我又没问你！" coords="170,1957,525,2117" shape="rect"/>
+    		<area c="#0cf" text="我也没回你。" coords="898,1930,1212,2067" shape="rect"/>
+    		<area c="#0cf" text="唉，对不起。我这就是开车开累了。" coords="1671,1914,1654,2162,2059,2185,2053,1906" shape="poly"/>
+			<area c="red" text="hello" coords="0, 0, 100, 100" shape="rect"/>
+		</map>-->
+		<div class="options">
+			<a href="/">&lt;&lt;</a>
+			<a class="back">&lt;</a>
+			<span class="pagenum">Page 1</span>
+			<a href="/">&gt;</a>
+			<a class="back">&gt;&gt;</a>
+		</div>
+	</div>
+</div>
+<script src="titleBox.js"></script>
+<script>
+	let map = Array.from(document.getElementById('svg-map').children);
+	map.shift();
+	document.body.appendChild(titleBox(map));
+</script>
+</body>
+</html>

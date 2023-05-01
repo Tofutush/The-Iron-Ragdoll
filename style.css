@@ -1,0 +1,63 @@
+@font-face {
+	font-family: josefin;
+	src: url(JosefinSans.ttf);
+}
+@font-face {
+	font-family: josefin;
+	src: url(JosefinSans-Italic.ttf);
+	font-style: italic;
+}
+body {
+	background-color: #aaa;
+	margin: 0;
+	font-family: josefin;
+}
+img, image {
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+#header {
+	background-image: linear-gradient(to top, #0000, #000);
+	color: #fff;
+	padding: 30px 0;
+	text-align: center;
+	width: 100%;
+}
+#title {
+	font-size: 60px;
+	margin: 20px;
+}
+#linx {
+	font-size: 35px;
+	margin: 15px;
+}
+#linx a {
+	padding: 20px;
+}
+#flexy {
+	display: flex;
+	justify-content: space-between;
+	margin: 30px auto;
+	width: 80%;
+}
+#side {
+	overflow-y: scroll;
+	position: sticky;
+	top: 30px;
+	width: 15%;
+	height: 500px;
+	background-color: red;
+}
+#comic {
+	width: 80%;
+}
+#comic img {
+	width: 100%;
+}
+.options {
+	display: flex;
+	font-size: 30px;
+	justify-content: space-around;
+	width: 100%;
+}
