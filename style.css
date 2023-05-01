@@ -36,7 +36,6 @@ body {
 }
 #img {
 	margin: auto;
-	//max-width: 600px;
 }
 #comic img {
 	width: 100%;
@@ -47,4 +46,11 @@ body {
 	justify-content: space-around;
 	margin: 30px 0;
 	width: 100%;
+}
+.options a {
+	cursor: pointer;
+	color: #000;
+}
+.noclick {
+	cursor: not-allowed !important;
 }

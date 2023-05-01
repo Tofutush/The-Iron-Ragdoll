@@ -17,26 +17,20 @@
 <div id="comic">
 	<div class="options">
 		<a href="/">&lt;&lt;</a>
-		<a class="back">&lt;</a>
+		<a>&lt;</a>
 		<span class="pagenum"><a href="log">Page 1</a></span>
-		<a href="/">&gt;</a>
-		<a class="back">&gt;&gt;</a>
+		<a>&gt;</a>
+		<a>&gt;&gt;</a>
 	</div>
 	<div id="img"><img src="0/1.png"/></div>
 	<div class="options">
 		<a href="/">&lt;&lt;</a>
-		<a class="back">&lt;</a>
+		<a>&lt;</a>
 		<span class="pagenum"><a href="log">Page 1</a></span>
-		<a href="/">&gt;</a>
-		<a class="back">&gt;&gt;</a>
+		<a>&gt;</a>
+		<a>&gt;&gt;</a>
 	</div>
 </div>
-<script src="titleBox.js"></script>
-<script>
-let url = new URLSearchParams(window.location.search);
-let pagenum = url.get('page') || 0;
-
-function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
-</script>
+<script src="page.js"></script>
 </body>
 </html>
