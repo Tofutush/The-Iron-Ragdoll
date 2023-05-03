@@ -21,10 +21,8 @@ function saveButtons() {
     });
     save[1].addEventListener('click', e => {
         let place = localStorage.getItem('place');
-        if(place)
-            flipPage(place);
-        else
-            alert('no place was saved!');
+        if(place) flipPage(place);
+        else alert('no place was saved!');
     });
 }
 
