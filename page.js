@@ -1,5 +1,5 @@
 // max number of pages, used in the last comic button
-const maxPageNum = 2;
+const maxPageNum = 3;
 
 window.onload = function() {
     console.log('loaded');
@@ -10,11 +10,30 @@ window.onload = function() {
     setImage(pagenum);
     pageLinx();
     doNoClicks();
+    saveButtons();
+}
+
+function saveButtons() {
+    let save = document.getElementById('save').children;
+    save[0].addEventListener('click', e => {
+        localStorage.setItem('place', pagenum);
+        alert(`Page ${pagenum} saved!`);
+    });
+    save[1].addEventListener('click', e => {
+        let place = localStorage.getItem('place');
+        if(place)
+            flipPage(place);
+        else
+            alert('no place was saved!');
+    });
 }
 
 function pageLinx() {
     for(let option of options) {
         a = option.children;
+        a[0].addEventListener('click', e => {
+            flipPage(0);
+        });
         a[1].addEventListener('click', e => {
             flipPage(Math.max(0, pagenum - 1));
         });
@@ -29,6 +48,7 @@ function pageLinx() {
 
 function flipPage(num) {
     if(num == pagenum) return;
+    window.scrollTo(0, 0);
     window.history.pushState({}, null, `?page=${num}`);
     document.title = `Prospit's Requiem | Page ${num}`;
     changeThingInMiddle(num);
