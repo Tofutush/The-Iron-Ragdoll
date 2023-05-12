@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Prospit's Requiem</title>
+<link rel="stylesheet" href="../style.css"/>
+<link rel="icon" href="../icon.ico"/>
+<style>
+	.episodes {
+		display: grid;
+		grid-template-columns: repeat(5, 1fr);
+	}
+	.episodes a {
+		color: #fff;
+		font-size: 24px;
+		padding: 1em;
+		text-align: center;
+	}
+</style>
+</head>
+<body>
+<div id="header">
+	<div id="title">Prospit's Requiem</div>
+	<div id="linx">
+		<a target="_blank" href="../about">About</a>
+		<a target="_blank" href="../characters">Characters</a>
+		<div class="dpdn">
+			<a>Other</a>
+			<ul class="dpdn-ul">
+				<a target="_blank" href="https://mspfa.com/?s=&p=1">MSPFA</a>
+				<a target="_blank" href="https://webtoons.com">Webtoons</a>
+				<a target="_blank" href="https://tapas.io/series/Prospits-Requiem">Tapas</a>
+				<a target="_blank" href="https://globalcomix.com/c/prospit-s-requiem">Globalcomix</a>
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="comic">
+</div>
+<script>
+    const c = [
+        ['Cover Page', ['3intro']],
+        ['Chapter 1: Welcome to Hillslope',
+            ['3arrival',
+			 '3bluff',
+			 '5welcome',
+			 '4perfume',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',
+			 '4wefwe',],],
+    ];
+	let cc = document.getElementById('comic');
+
+	let count = 0;
+	for(let z = 0; z < c.length; z++) {
+		cc.appendChild(elt('h1', {}, elt('a', {href: `../?page=${count++}`}, c[z][0])));
+		let ep = elt('div', {className: 'episodes'});
+		let eps = c[z][1];
+		for(let x = 0; x < eps.length; x++) {
+			text = eps[x].replace(/[0-9]+/, '');
+			ep.appendChild(elt('a', {href: `../?page=${count}`}, text));
+			count += parseInt(eps[x]);
+		}
+		cc.appendChild(ep);
+	};
+
+	function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
+</script>
+</body>
+</html>

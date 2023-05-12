@@ -1,5 +1,11 @@
 // max number of pages, used in the last comic button
-const maxPageNum = 3;
+const maxPageNum = 7;
+// authors notes
+const authorsNotes = {
+    1: `<p>This is the start of Prospit's Requiem! Thanks a lot for your willingness to give this a shot!</p>
+		<p>Prospit's Requiem is also available on MSPFA, Webtoons, Tapas and Globalcomix (see dropdown menu when hovering "Other" above). It would be so kind of you to leave comments on those platforms, or click the subscribe button!</p>
+		<p>(I don't recommend doing all the reading there, though, especially on Webtoons and Tapas. They've got those funky size restrictions that make the images all blurry. But it would help me so much to drop by and leave some likes!)</p>`,
+};
 
 window.onload = function() {
     console.log('loaded');
@@ -8,6 +14,7 @@ window.onload = function() {
     window.options = document.querySelectorAll('.options');
     changeThingInMiddle(pagenum);
     setImage(pagenum);
+    addAuthorsNotes(pagenum);
     pageLinx();
     doNoClicks();
     saveButtons();
@@ -51,8 +58,14 @@ function flipPage(num) {
     document.title = `Prospit's Requiem | Page ${num}`;
     changeThingInMiddle(num);
     setImage(num);
+    addAuthorsNotes(num);
     pagenum = num;
     doNoClicks();
+}
+
+function preLoad(num) {
+    let img = new Image();
+    img.url = getImgUrl(num);
 }
 
 function doNoClicks() {
@@ -71,6 +84,17 @@ function doNoClicks() {
     }
 }
 
+function addAuthorsNotes(num) {
+    let el = document.getElementById('note');
+    let note = authorsNotes[num];
+    if(note) {
+        el.innerHTML = note;
+        el.style.display = 'block';
+    } else {
+        el.style.display = 'none';
+    }
+}
+
 function changeThingInMiddle(num) {
     // full fledge single letter variable mode but i dont care
     let q = document.querySelectorAll('.pagenum')
@@ -80,7 +104,11 @@ function changeThingInMiddle(num) {
 }
 
 function setImage(num) {
-    document.getElementById('img').children[0].src = String(Math.floor(num / 100) + '/' + num + '.png');
+    document.getElementById('img').children[0].src = getImgUrl(num);
+}
+
+function getImgUrl(num) {
+    return String(Math.floor(num / 100) + '/' + num + '.png');
 }
 
 // code from Grepper

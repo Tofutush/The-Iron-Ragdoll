@@ -8,14 +8,26 @@
 	font-style: italic;
 }
 body {
-	background-color: #aaa;
+	background-color: #000;
+	color: #fff;
 	margin: 0;
 	font-family: josefin;
+}
+h1 {
+	color: #fe0;
+	font-size: 2em;
+}
+h2 {
+	color: #fe0;
+}
+p {
+	font-size: 24px;
+	line-height: 1.1em;
+	text-align: justify;
 }
 a {
 	color: #fe0;
 	text-decoration: none;
-	transition: color .3s;
 }
 a:hover {
 	text-decoration: underline;
@@ -26,6 +38,7 @@ a:hover {
 	padding: 30px 0;
 	text-align: center;
 	width: 100%;
+	user-select: none;
 }
 #title {
 	color: #fe0;
@@ -52,10 +65,12 @@ a:hover {
 	cursor: default;
 }
 .dpdn-ul {
+	background-color: #000;
+	border-radius: 10px;
 	display: none;
 	font-size: 24px;
 	margin: 0;
-	padding: 10px 0;
+	padding: 10px;
 	position: absolute;
 	width: 133px; /* how do you sync width w/ only css? */
 }
@@ -67,7 +82,7 @@ a:hover {
 	display: block;
 }
 #comic {
-	margin: auto;
+	margin: 0 auto 1em auto;
 	max-width: 800px;
 }
 #img {
@@ -93,4 +108,18 @@ a:hover {
 }
 .noclick {
 	cursor: not-allowed !important;
+}
+#note {
+	background-color: #fff6;
+	border-radius: 15px;
+	padding: 1em;
+}
+#note p {
+	font-style: italic;
+}
+#note p:first-child {
+	margin-top: 0;
+}
+#note p:last-child {
+	margin-bottom: 0;
 }
