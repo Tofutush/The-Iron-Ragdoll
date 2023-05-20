@@ -7,9 +7,14 @@
 	src: url(JosefinSans-Italic.ttf);
 	font-style: italic;
 }
+:root {
+	--yellow: #fe0;
+	--text: #fff;
+}
 body {
+	background-attachment: fixed;
 	background-color: #000;
-	color: #fff;
+	background-size: contain;
 	margin: 0;
 	font-family: josefin;
 }
@@ -21,9 +26,14 @@ h2 {
 	color: #fe0;
 }
 p {
+	color: var(--text);
 	font-size: 24px;
+	font-style: italic;
 	line-height: 1.1em;
 	text-align: justify;
+}
+p i {
+	font-style: normal;
 }
 a {
 	color: #fe0;
@@ -81,12 +91,23 @@ a:hover {
 .dpdn:hover .dpdn-ul {
 	display: block;
 }
-#comic {
+#flexbox {
+	display: flex;
 	margin: 0 auto 1em auto;
-	max-width: 800px;
+	width: fit-content;
 }
-#img {
+#translation {
+	font-family: 微软雅黑 light;
+	height: fit-content;
+	margin: 90px 2em;
+	position: sticky;
+	top: 30px;
+	width: 250px;
+	z-index: -999;
+}
+#comic {
 	margin: auto;
+	max-width: 800px;
 }
 #comic img {
 	width: 100%;
@@ -97,29 +118,30 @@ a:hover {
 	justify-content: space-around;
 	margin: 30px 0;
 	width: 100%;
-	user-select: none;;
+	user-select: none;
 }
 #save {
 	font-size: 24px;
 }
 .options a, #save a {
 	cursor: pointer;
-	color: #000;
+	color: var(--text);
 }
-.noclick {
+.noclick:hover {
 	cursor: not-allowed !important;
+	text-decoration: none;
 }
-#note {
-	background-color: #fff6;
+.graybox {
+	background-color: #ffffff80;
 	border-radius: 15px;
 	padding: 1em;
 }
-#note p {
-	font-style: italic;
-}
-#note p:first-child {
+.graybox p:first-child {
 	margin-top: 0;
 }
-#note p:last-child {
+.graybox p:last-child {
 	margin-bottom: 0;
+}
+#note p {
+	font-style: italic;
 }

@@ -1,10 +1,17 @@
 // max number of pages, used in the last comic button
-const maxPageNum = 7;
+const maxPageNum = 0;
 // authors notes
 const authorsNotes = {
     1: `<p>This is the start of Prospit's Requiem! Thanks a lot for your willingness to give this a shot!</p>
 		<p>Prospit's Requiem is also available on MSPFA, Webtoons, Tapas and Globalcomix (see dropdown menu when hovering "Other" above). It would be so kind of you to leave comments on those platforms, or click the subscribe button!</p>
 		<p>(I don't recommend doing all the reading there, though, especially on Webtoons and Tapas. They've got those funky size restrictions that make the images all blurry. But it would help me so much to drop by and leave some likes!)</p>`,
+    3: `<p>Inconsistency Alert!!! Sparky keeps toggling between sitting in the left seat and sitting in the right. Sorry guys, but geez is this stuff hard. I do my best.</p>
+        <p>Also, Sparky isn't wearing a seat belt the entire time. Please do buckle up.</p>`,
+	6: `<p>Okay, so that was like, a <i>really</i> quick representation of Hillslope. There's definitely going to be more stuff besides grass, buildings and a single road. But the important landmarks are there: two apartments, two small house-like things, and an abandoned, broken building.</p>`
+};
+// background stuff
+const BGStuff = {
+    0: ['forest-night', '#fff'],
 };
 
 window.onload = function() {
@@ -12,12 +19,24 @@ window.onload = function() {
     window.url = new URLSearchParams(window.location.search);
     window.pagenum = Math.max(0, Number(url.get('page') || 0));
     window.options = document.querySelectorAll('.options');
+    if(maxPageNum < pagenum) return;
     changeThingInMiddle(pagenum);
     setImage(pagenum);
-    addAuthorsNotes(pagenum);
+    changeBG(pagenum);
+    addANotes(pagenum);
     pageLinx();
     doNoClicks();
     saveButtons();
+    arrowNavigation();
+}
+
+function arrowNavigation() {
+    document.body.addEventListener('keydown', e => {
+        if(e.key == 'ArrowLeft') // left arrow
+            this.flipPage('prev');
+        if(e.key == 'ArrowRight') // right arrow
+            this.flipPage('next');
+    });
 }
 
 function saveButtons() {
@@ -40,10 +59,10 @@ function pageLinx() {
             flipPage(0);
         });
         a[1].addEventListener('click', e => {
-            flipPage(Math.max(0, pagenum - 1));
+            flipPage('prev');
         });
         a[3].addEventListener('click', e => {
-            flipPage(Math.min(maxPageNum, pagenum + 1));
+            flipPage('next');
         });
         a[4].addEventListener('click', e => {
             flipPage(maxPageNum);
@@ -51,14 +70,18 @@ function pageLinx() {
     }
 }
 
+// flip page without refresh; num can be number or "next" or "prev"
 function flipPage(num) {
-    if(num == pagenum) return;
+    if(num == 'next') num = Math.min(maxPageNum, pagenum + 1);
+    if(num == 'prev') num = Math.max(0, pagenum - 1);
+    if(num == pagenum || num > maxPageNum) return;
     window.scrollTo(0, 0);
     window.history.pushState({}, null, `?page=${num}`);
     document.title = `Prospit's Requiem | Page ${num}`;
     changeThingInMiddle(num);
     setImage(num);
-    addAuthorsNotes(num);
+    changeBG(num);
+    addANotes(num);
     pagenum = num;
     doNoClicks();
 }
@@ -84,7 +107,8 @@ function doNoClicks() {
     }
 }
 
-function addAuthorsNotes(num) {
+function addANotes(num) {
+    // authors notes
     let el = document.getElementById('note');
     let note = authorsNotes[num];
     if(note) {
@@ -93,6 +117,9 @@ function addAuthorsNotes(num) {
     } else {
         el.style.display = 'none';
     }
+    // translation
+    // stupid encoding keeps eating my translations.
+    // document.getElementById('translation').children[0].innerHTML = translation[num];
 }
 
 function changeThingInMiddle(num) {
@@ -105,6 +132,13 @@ function changeThingInMiddle(num) {
 
 function setImage(num) {
     document.getElementById('img').children[0].src = getImgUrl(num);
+}
+
+function changeBG(num) {
+    while(!BGStuff[num]) num--;
+    document.body.style.backgroundImage = `url(bg/${BGStuff[num][0]}.png)`;
+    let root = document.querySelector(':root');
+    root.style.setProperty('--text', BGStuff[num][1]);
 }
 
 function getImgUrl(num) {
