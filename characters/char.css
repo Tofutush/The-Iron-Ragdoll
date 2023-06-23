@@ -1,5 +1,6 @@
 #comic {
 	max-width: 1000px;
+	width: auto;
 }
 .char {
 	align-items: center;

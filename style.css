@@ -74,7 +74,6 @@ a:hover {
 	margin: 0;
 	padding: 10px;
 	position: absolute;
-	width: 133px; /* how do you sync width w/ only css? */
 }
 .dpdn-ul a {
 	display: block;
@@ -99,7 +98,7 @@ a:hover {
 }
 #comic {
 	margin: auto;
-	max-width: 800px;
+	width: 800px;
 }
 #comic img {
 	width: 100%;
