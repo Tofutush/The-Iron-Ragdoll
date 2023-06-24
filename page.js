@@ -1,5 +1,5 @@
 // max number of pages, used in the last comic button
-const maxPageNum = 15;
+const maxPageNum = 0;
 // authors notes
 const authorsNotes = {
 	1: `<p>This is the start of The Iron Ragdoll! Thanks a lot for your willingness to give this a shot!</p>
