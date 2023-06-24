@@ -2,8 +2,8 @@
 const maxPageNum = 15;
 // authors notes
 const authorsNotes = {
-	1: `<p>This is the start of Prospit's Requiem! Thanks a lot for your willingness to give this a shot!</p>
-		<p>Prospit's Requiem is also available on MSPFA, Webtoons, Tapas and Globalcomix (see dropdown menu when hovering "Other" above). It would be so kind of you to leave comments on those platforms, or click the subscribe button!</p>
+	1: `<p>This is the start of The Iron Ragdoll! Thanks a lot for your willingness to give this a shot!</p>
+		<p>The Iron Ragdoll is also available on MSPFA, Webtoons, Tapas and Globalcomix (see dropdown menu when hovering "Other" above). It would be so kind of you to leave comments on those platforms, or click the subscribe button!</p>
 		<p>(I don't recommend doing all the reading there, though, especially on Webtoons and Tapas. They've got those funky size restrictions that make the images all blurry. But it would help me so much to drop by and leave some likes!)</p>`,
 	3: `<p>Inconsistency Alert!!! Sparky keeps toggling between sitting in the left seat and sitting in the right. Sorry guys, but geez is this stuff hard. I do my best.</p>
         <p>Also, Sparky isn't wearing a seat belt the entire time. Please do buckle up.</p>`,
@@ -81,7 +81,7 @@ function flipPage(num) {
     if(num == pagenum || num > maxPageNum) return;
     window.scrollTo(0, 0);
     window.history.pushState({}, null, `?page=${num}`);
-    document.title = `Prospit's Requiem | Page ${num}`;
+    document.title = `The Iron Ragdoll | Page ${num}`;
     changeThingInMiddle(num);
     setImage(num);
     changeBG(num);
