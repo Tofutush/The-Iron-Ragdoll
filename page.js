@@ -1,5 +1,5 @@
 // max number of pages, used in the last comic button
-const maxPageNum = 0;
+const maxPageNum = 17;
 // authors notes
 const authorsNotes = {
 	1: `<p>This is the start of The Iron Ragdoll! Thanks a lot for your willingness to give this a shot!</p>
@@ -12,6 +12,7 @@ const authorsNotes = {
 	8: `<p>Don't bother looking; the anklet is covered up by Sparky's huge pant sleeves. This is not an excuse for poor drawing (although the drawing <i>is</i> poor). It's actually her pants.</p>`,
 	11: `<p>This page is drawn in Clip Studio Paint who actually cares about comics. I still love SAI2, but despite that, creating comics in it was a nightmare. I'm still going to do most of my other drawings in SAI2 (including Forty Donuts) but for comics I'm using CSP.</p>
 		 <p>And yeah, I will eventually redraw the previous pages in CSP too, but right now it's too early to be turning back.</p>`,
+	17: `<p>When Cosmo asked Sparky whether she could remember names, she wasn't asking Sparky. She was asking <i>you</i>. Can you remember these characters? You will meet more of them.</p>`,
 };
 // background stuff
 const BGStuff = {
