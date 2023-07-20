@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true
+}

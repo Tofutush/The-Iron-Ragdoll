@@ -1,0 +1,22 @@
+.theme-light {
+	--color-red-rgb: 0, 204, 255;
+	--color-red: #00ccff;
+	--color-orange-rgb: 227, 104, 211;
+	--color-orange: #e368d3;
+	--color-yellow-rgb: 0, 130, 130;
+	--color-yellow: #008282;
+	--color-green-rgb: 0, 0, 0;
+	--color-green: #000000;
+	--color-cyan-rgb: 0, 0, 0;
+	--color-cyan: #000000;
+	--color-blue-rgb: 0, 0, 0;
+	--color-blue: #000000;
+	--color-purple-rgb: 0, 0, 0;
+	--color-purple: #000000;
+	--color-pink-rgb: 0, 0, 0;
+	--color-pink: #000000;
+}
+
+.markdown-preview-view, .view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+	padding: 24px calc(var(--file-margins) + 24px);
+}

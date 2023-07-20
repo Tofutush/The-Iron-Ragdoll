@@ -1,0 +1,2 @@
+- owner of the bakery
+- wants [[Sparky]] to frame Tephra for [[Starry]]'s assault

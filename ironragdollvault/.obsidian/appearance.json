@@ -1,0 +1,15 @@
+{
+  "accentColor": "#000000",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Rubik,微软雅黑,微软雅黑 light,Comfortaa,Segoe UI",
+  "textFontFamily": "Rubik,Josefin Sans",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 20,
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "colors"
+  ]
+}

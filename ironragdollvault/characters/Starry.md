@@ -1,0 +1,2 @@
+- pretends to be unconsious
+- later pretends to have amnesia

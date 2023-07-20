@@ -1,0 +1,2 @@
+- bartender
+- got the Tavern from [[Tephra]], who got it from [[Ribbon]] without permission

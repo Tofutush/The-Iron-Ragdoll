@@ -1,0 +1,2 @@
+- author avatar
+- childhood friend of [[Sky]]

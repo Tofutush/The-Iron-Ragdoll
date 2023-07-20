@@ -1,0 +1,3 @@
+- [[Sparky]]'s half-sister
+- daughter of [[Peacock]] and [[Amber]].
+- can read minds

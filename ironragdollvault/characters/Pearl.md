@@ -1,0 +1,4 @@
+- Spoiled brat
+- Thinks she is superior to everyone else
+- Treats Sparky like shit and plays her around
+- cares about outer appearance way more than [[Cosmo]]

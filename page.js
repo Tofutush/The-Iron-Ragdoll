@@ -25,7 +25,7 @@ window.onload = function() {
     window.url = new URLSearchParams(window.location.search);
     window.pagenum = Math.max(0, Number(url.get('page') || 0));
     window.options = document.querySelectorAll('.options');
-    if(maxPageNum < pagenum) return;
+    if(maxPageNum < pagenum) flipPage(0);
     changeThingInMiddle(pagenum);
     setImage(pagenum);
     changeBG(pagenum);
