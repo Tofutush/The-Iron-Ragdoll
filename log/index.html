@@ -5,6 +5,9 @@
 <link rel="stylesheet" href="../style.css"/>
 <link rel="icon" href="../icon.ico"/>
 <style>
+	h1 a {
+		color: #0cf;
+	}
 	.episodes {
 		display: grid;
 		grid-template-columns: repeat(5, 1fr);
@@ -39,27 +42,28 @@
 <div id="comic">
 </div>
 <script>
-    const c = [
-        ['Cover Page', /*['3intro']*/],
-        // ['Chapter 1: Welcome to Hillslope',
-        //     ['3arrival',
-		// 	 '3bluff',
-		// 	 '5welcome',
-		// 	 '2perfume',
-		// 	 '4keys',
-		// 	 '2twin',
-		// 	 '2news',
-		// 	 '4wefwe',
-		// 	 '4wefwe',
-		// 	 '4wefwe',
-		// 	 '4wefwe',
-		// 	 '4wefwe',
-		// 	 '4wefwe',
-		// 	 '4wefwe',
-		// 	 '4wefwe',
-		// 	 '4wefwe',
-		// 	 '4wefwe',],],
-    ];
+	const c = [
+		['Cover Page', ['3intro']],
+		['Chapter 1: Welcome to Hillslope',
+			['3arrival',
+		 	'3bluff',
+		 	'5welcome',
+		 	'2perfume',
+		 	'4keys',
+		 	'2twin',
+		 	'2wake',
+			]
+		],
+		['Chapter 2: What Do You Want',
+			['1bluh']
+		],
+		['Chapter 3: Dusty Boxes and Dried Blood',
+			['1bluh']
+		],
+		['Chapter 4: Where Shit Goes Down',
+			['1bluh']
+		],
+	];
 	let cc = document.getElementById('comic');
 
 	let count = 0;
