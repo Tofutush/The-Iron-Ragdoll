@@ -15,9 +15,9 @@
               "state": {
                 "file": "relation chart.canvas",
                 "viewState": {
-                  "x": 112.64092476962792,
-                  "y": -1144.718793688992,
-                  "zoom": -1.0647644372781109
+                  "x": -235.51690598552065,
+                  "y": -416.0487278955393,
+                  "zoom": -1.4814311039447776
                 }
               }
             }
@@ -30,8 +30,8 @@
               "state": {
                 "file": "plot chart.canvas",
                 "viewState": {
-                  "x": -367.6882510573812,
-                  "y": 3900.8030792840414,
+                  "x": 1287.6173226845435,
+                  "y": 3588.2452458627404,
                   "zoom": -0.40164654859652466
                 }
               }
@@ -41,14 +41,11 @@
             "id": "bb9236b9f832e0c8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "plot chart.canvas",
-                "viewState": {
-                  "x": -495.52500000000015,
-                  "y": 3913.049999999998,
-                  "zoom": 0
-                }
+                "file": "transcript.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -58,13 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Sparky.md",
+                "file": "characters/Willow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relation chart.canvas",
+                "file": "transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relation chart.canvas",
+                "file": "transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relation chart.canvas"
+                "file": "transcript.md"
               }
             }
           }
@@ -191,24 +189,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5f09a44f4df6afb",
+  "active": "bb9236b9f832e0c8",
   "lastOpenFiles": [
+    "random idea/script.md",
+    "characters/Willow.md",
+    "relation chart.canvas",
     "plot chart.canvas",
-    "Transcript.md",
+    "transcript.md",
+    "random idea",
+    "characters/Jam.md",
     "characters/Sparky.md",
     "characters/Melody.md",
     "characters/Dragonfly.md",
-    "relation chart.canvas",
     "characters/Cosmo.md",
     "characters/Sky.md",
     "characters/Tomato.md",
     "characters/Potato.md",
     "characters/Alaska.md",
-    "characters/Jam.md",
     "characters/Amulet.md",
     "characters/Tephra.md",
     "2023-07-11.md",
-    "characters/Willow.md",
     "characters/Qibli.md",
     "characters/Tundra.md",
     "characters/Starry.md",
@@ -219,7 +219,6 @@
     "characters/Jerboa.md",
     "characters/Icicle.md",
     "characters/Amber.md",
-    "characters/Transcript.md",
     "Untitled 1.canvas",
     "characters"
   ]

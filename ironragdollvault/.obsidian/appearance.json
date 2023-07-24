@@ -2,7 +2,7 @@
   "accentColor": "#000000",
   "theme": "moonstone",
   "interfaceFontFamily": "Rubik,微软雅黑,微软雅黑 light,Comfortaa,Segoe UI",
-  "textFontFamily": "Rubik,Josefin Sans",
+  "textFontFamily": "Times New Roman,Josefin Sans,Rubik,宋体",
   "monospaceFontFamily": "Consolas",
   "baseFontSize": 20,
   "baseFontSizeAction": false,

@@ -216,3 +216,21 @@ Sparky: What? I'm not asking you to return the key. I want you to *apologize*! A
 Cosmo: Alright, Sparky, for the last time, I did not steal your stupid ass key.
 
 ???: Well, Cosmo *is* a bit of a pickpocket, but it's just a harmless quirk, I'm sure! Uh, can you hear me?
+### #twin
+
+Knock knock
+
+Potato: Hello Sparky my name is Potato I'm Tomato's twin brother and also the mailman I deliver news every day and if you need anything delivered you can ask me I know it's late but I still wanna drop by and say hello!
+
+Sparky: I'm sorry?
+
+Potato: Oh right I'm sorry too I often talk too quickly but when I slow down I just forget what I was supposed to say you know? It's like words all tumbling through my brain and out my mouth but the important thing is that I'm the mailman and I deliver the mail before you even wake up I like this because I get to run around town without meeting any people I actually dislike company especially... and so that's the story of my life how are you doing?
+
+Sparky: Uh... Nice to meet you?
+
+Potato: Nice to meet you too Sparky good bye!
+
+Sparky: ... The fuck did he say?
+
+### #wake
+### #news
