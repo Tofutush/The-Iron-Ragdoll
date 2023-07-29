@@ -1,3 +1,7 @@
+## synopsis
+
+What's worse than being kidnapped on your birthday? Trying to solve a stale mystery when nearly everyone else is trying to push you towards their own version of the truth? Maybe. Living in a town full of left-behind children with everything constantly going to hell? Maybe. Sparky experiences all three, and more.
+
 ## Chapter 0
 ### #intro
 

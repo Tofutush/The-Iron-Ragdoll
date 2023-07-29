@@ -6,6 +6,7 @@
   "spellcheckLanguages": [
     "en-US"
   ],
-  "newFileLocation": "root",
-  "alwaysUpdateLinks": true
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "livePreview": false
 }
