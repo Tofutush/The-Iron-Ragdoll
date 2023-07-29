@@ -6,7 +6,7 @@
 
 - cares about students
 	- concerned about [[Sky]]'s health
-	- forced everyone to learn sign language for [[mute boy]]
+	- forced everyone to learn sign language for [[Firecrackers]]
 
 ## neutral traits
 

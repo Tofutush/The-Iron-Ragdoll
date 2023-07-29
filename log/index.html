@@ -69,64 +69,28 @@
 <div id="comic">
 	<table id="episodes" cellspacing="10"></table>
 </div>
+<script src="../episodes.js"></script>
 <script>
-	const c = [
-		['Cover Page', ['3intro']],
-		['Chapter 1: Welcome to Hillslope',
-			['3arrival',
-		 	'3bluff',
-		 	'5welcome',
-		 	'2perfume',
-		 	'4keys',
-		 	'2twin',
-		 	'2wake',
-			'3news',
-			]
-		],
-		['Chapter 2: What Do You Want',
-			['1bluh']
-		],
-		['Chapter 3: Dusty Boxes and Dried Blood',
-			['1bluh']
-		],
-		['Chapter 4: Where Shit Goes Down',
-			['1bluh']
-		],
-	];
-	
+window.onload = function() {
 	let ep = document.getElementById('episodes');
-	let count = 0;
-	for(let z = 0; z < c.length; z++) {
+	for(let z = 0; z < episodes.length; z++) {
 		let head = elt('td', {},
 					elt('h1', {className: 'chapter'},
-					elt('a', {href: `../?page=${count++}`}, c[z][0])));
+					elt('a', {href: `../?page=${episodes[z][0][1]}`}, episodes[z][0][0])));
 		head.setAttribute('colspan', '3');
 		ep.appendChild(elt('tr', {}, head));
-		let eps = c[z][1];
+		let flag;
+		let eps = episodes[z][1];
 		for(let x = 0; x < eps.length; x++) {
-			text = eps[x].replace(/[0-9]+/, '');
+			// check if it's released (but not if local)
+			if(!window.location.href.includes('file:///E:/github/The-Iron-Ragdoll') && new Date().toJSON().slice(0, 10) < eps[x][1]) return;
 			ep.appendChild(elt('tr', {},
-				elt('td', {}, elt('a', {href: `../?page=${count}`, text})),
+				elt('td', {}, elt('a', {href: `../?page=${eps[x][3]}`}, eps[x][0])),
 				elt('td', {}, elt('div', {className: 'dot-line'})),
-				elt('td', {}, count.toString())));
-			count += parseInt(eps[x]);
+				elt('td', {}, eps[x][2].toString())));
 		}
-		// cc.appendChild(elt('h1', {}, elt('a', {href: `../?page=${count++}`}, c[z][0])));
-		// let ep = elt('table', {className: 'episodes'});
-		// let eps = c[z][1];
-		// for(let x = 0; x < eps.length; x++) {
-		// 	text = eps[x].replace(/[0-9]+/, '');
-		// 	ep.appendChild(elt('tr', {},
-		// 		elt('td', {}, elt('a', {href: `../?page=${count}`, text})),
-		// 		elt('td', {}, elt('div', {className: 'dot-line'})),
-		// 		elt('td', {}, count.toString())));
-		// 	console.log(count);
-		// 	console.log(elt('td', {}, count.toString()));
-		// 	count += parseInt(eps[x]);
-		// }
-		// cc.appendChild(ep);
 	};
-
+}
 	function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
 </script>
 </body>

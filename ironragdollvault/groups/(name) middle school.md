@@ -2,7 +2,7 @@
 - [[Sparky]]
 - [[Qibli]]
 - [[Sky]]
-- [[mute boy]]
+- [[Firecrackers]]
 - [[paralyzed girl]]
 - [[Tomato]]
 

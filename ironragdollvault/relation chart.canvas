@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"group","id":"5d52223725cad5d9","x":-721,"y":-1387,"width":722,"height":564,"label":"press"},
-		{"id":"2fb941097057033f","x":-440,"y":188,"width":602,"height":633,"type":"group","label":"The Iron Ragdolls"},
+		{"type":"group","id":"2fb941097057033f","x":-440,"y":188,"width":602,"height":633,"label":"The Iron Ragdolls"},
 		{"type":"group","id":"f91748f8eec7ed7d","x":520,"y":-1364,"width":692,"height":522,"label":"tundra 4 mayor"},
 		{"type":"text","text":"**[[Ribbon]]**: a parent who expects the most out of [[Sparky]], who sees a child as a vending machine where you can drop a coin in and immediately get a drink. also very controlling, hates it when she sees [[Sparky]] falling in love with [[Pearl]]. catchphrase: \"i gave so much to you, and *this* is what you repay me with?? what would you be without me??? #wip\"\n\n**[[Amber]]**: a parent who gives too much, cares for the kids so much that she loses herself. but later, she started living for her own pleasure\n\n**[[Peacock]]'s parents**: indirectly abusive, sources of fear and horror, controls [[Peacock]] in almost every aspect of his life","id":"ed589255e6e89837","x":-1663,"y":-2099,"width":606,"height":465,"color":"#ff0000"},
 		{"type":"file","file":"characters/Melody.md","id":"3795a26db9ae4b71","x":80,"y":-1802,"width":172,"height":74,"color":"#426600"},
@@ -21,7 +21,7 @@
 		{"type":"file","file":"characters/Willow.md","id":"c9fea3c2f2e3f0e8","x":-895,"y":406,"width":165,"height":83,"color":"#199400"},
 		{"type":"file","file":"characters/Amber.md","id":"53120c2b17abc72c","x":-846,"y":232,"width":168,"height":93,"color":"#e15f19"},
 		{"type":"file","file":"characters/Peacock.md","id":"09f61f7ffbe53e93","x":-1103,"y":-2,"width":190,"height":89,"color":"#2300ff"},
-		{"id":"39601bdebe6001d9","x":-187,"y":427,"width":207,"height":85,"type":"file","file":"characters/mute boy.md"},
+		{"type":"file","file":"characters/Firecrackers.md","id":"39601bdebe6001d9","x":-187,"y":427,"width":254,"height":63},
 		{"type":"file","file":"characters/Dragonfly.md","id":"fb7c0322f6466024","x":580,"y":-1204,"width":218,"height":91,"color":"#03adb1"},
 		{"type":"file","file":"characters/Tomato.md","id":"1ba532126bc1864a","x":585,"y":-1029,"width":174,"height":82,"color":"#a10000"},
 		{"type":"file","file":"characters/Cosmo.md","id":"2db7254209fe904b","x":958,"y":-1004,"width":169,"height":84,"color":"#998cbd"},

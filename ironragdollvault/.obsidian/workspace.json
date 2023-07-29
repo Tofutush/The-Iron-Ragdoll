@@ -15,9 +15,9 @@
               "state": {
                 "file": "relation chart.canvas",
                 "viewState": {
-                  "x": 305.3991954018401,
-                  "y": 259.4742574448915,
-                  "zoom": -1.7670481414596242
+                  "x": 173.04064779235006,
+                  "y": 323.76115005423935,
+                  "zoom": -1.3358858063817025
                 }
               }
             }
@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "transcript.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/mute boy.md",
+                "file": "characters/Firecrackers.md",
                 "mode": "source",
                 "source": true
               }
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plot chart.canvas",
+                "file": "transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plot chart.canvas",
+                "file": "transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plot chart.canvas"
+                "file": "transcript.md"
               }
             }
           }
@@ -201,13 +201,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0ae1df679f7a4f3",
+  "active": "bb9236b9f832e0c8",
   "lastOpenFiles": [
-    "transcript.md",
-    "plot chart.canvas",
+    "characters/Firecrackers.md",
+    "Excalidraw/test.excalidraw.md",
     "relation chart.canvas",
+    "Excalidraw",
+    "plot chart.canvas",
+    "transcript.md",
     "characters/Jam.md",
-    "characters/mute boy.md",
     "characters/Sky.md",
     "characters/Tundra.md",
     "characters/template/character.md",
@@ -232,7 +234,6 @@
     "random idea",
     "characters/Melody.md",
     "characters/Dragonfly.md",
-    "characters/Cosmo.md",
     "Untitled 1.canvas",
     "characters"
   ]

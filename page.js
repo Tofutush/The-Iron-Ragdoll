@@ -1,7 +1,16 @@
 // max number of pages, used in the last comic button
 
-// TO BE CHANGED SO THAT WE CAN AUTO UPDATE!
-const maxPageNum = 0;
+// function getMaxPageNum() {
+// 	let maxPageNum = 0;
+// 	let dateString = new Date().toJSON().slice(0, 10);
+// 	for(let z = 0; z < episodes.length; z++) {
+// 		let eps = episodes[z][1];
+// 		for(let x = 0; x < eps.length; x++) {
+// 			if(dateString < eps[x][1]) return;
+// 			else maxPageNum = eps[x][2];
+// 		}
+// 	}
+// }
 
 // authors notes
 const authorsNotes = {
@@ -32,10 +41,29 @@ const themes = {
 }
 
 window.onload = function() {
-	console.log('loaded');
 	window.url = new URLSearchParams(window.location.search);
 	window.pagenum = Math.max(0, Number(url.get('page') || 0));
 	window.options = document.querySelectorAll('.options');
+	// get max page num
+	window.maxPageNum = 0;
+	let dateString = new Date().toJSON().slice(0, 10);
+	for(let z = 0; z < episodes.length; z++) {
+		let eps = episodes[z][1];
+		let flag;
+		for(let x = 0; x < eps.length; x++) {
+			// once we hit a date larger than today, break
+			if(dateString < eps[x][1]) {
+				flag = true;
+				break;
+			}
+			// else, set the maxPageNum and go on
+			maxPageNum = eps[x][3] + eps[x][2] - 1;
+		}
+		if(flag) break;
+	}
+	// if local, always see all
+	if(window.location.href.includes('file:///E:/github/The-Iron-Ragdoll'))
+		maxPageNum = episodes[episodes.length - 1][1][episodes[episodes.length - 1][1].length - 1][3]; // this looks REALLY awkward but i kinda like it bc funny
 	if(maxPageNum < pagenum) flipPage(0);
 	changeThingInMiddle(pagenum);
 	setImage(pagenum);
