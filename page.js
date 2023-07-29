@@ -1,18 +1,21 @@
 // max number of pages, used in the last comic button
+
+// TO BE CHANGED SO THAT WE CAN AUTO UPDATE!
 const maxPageNum = 0;
+
 // authors notes
 const authorsNotes = {
 	1: `<p>This is the start of The Iron Ragdoll! Thanks a lot for your willingness to give this a shot!</p>
-		<p>The Iron Ragdoll is also available on MSPFA, Webtoons, Tapas and Globalcomix (see dropdown menu when hovering "Other" above). It would be so kind of you to leave comments on those platforms, or click the subscribe button!</p>
-		<p>(I don't recommend doing all the reading there, though, especially on Webtoons and Tapas. They've got those funky size restrictions that make the images all blurry. But it would help me so much to drop by and leave some likes!)</p>`,
+		<p>The Iron Ragdoll is also available on MSPFA, Webtoons, Tapas, Globalcomix, and ComicFury (see dropdown menu when hovering "Other" above). It would be so kind of you subscribe and leave comments!</p>`,
 	3: `<p>Inconsistency Alert!!! Sparky keeps toggling between sitting in the left seat and sitting in the right. Sorry guys, but geez is this stuff hard. I do my best.</p>
 		<p>Also, Sparky isn't wearing a seat belt the entire time. Please do buckle up.</p>`,
 	4: `<p>They are not family. They look like family, but those two people are only like two years older than Sparky. You will meet them soon.</p>`,
 	6: `<p>Okay, so that was like, a <i>really</i> quick representation of Hillslope. There's definitely going to be more stuff besides grass, buildings and a single road. But the important landmarks are there: two apartments, two small house-like things, and an abandoned, broken building.</p>`,
 	8: `<p>Don't bother looking; the anklet is covered up by Sparky's huge pant sleeves. This is not an excuse for poor drawing (although the drawing <i>is</i> poor). It's actually her pants.</p>`,
-	11: `<p>This page is drawn in Clip Studio Paint who actually cares about comics. I still love SAI2, but despite that, creating comics in it was a nightmare. I'm still going to do most of my other drawings in SAI2 (including Forty Donuts) but for comics I'm using CSP.</p>
+	11: `<p>This page is drawn in Clip Studio Paint. Drawing comics in SAI was horrible. I will eventually redraw the previous ten pages with CSP too, but right now it's too early to be turning back.</p>
 		 <p>And yeah, I will eventually redraw the previous pages in CSP too, but right now it's too early to be turning back.</p>`,
 	17: `<p>When Cosmo asked Sparky whether she could remember names, she wasn't asking Sparky. She was asking <i>you</i>. Can you remember these characters? You will meet more of them.</p>`,
+	24: `<p>New day, new shitty problems!`,
 };
 // background stuff
 const BGStuff = {
@@ -24,7 +27,8 @@ const themes = {
 	night: ':root { --text: #fff; }',
 	day: `:root { --text: #000; }
 		  #header { background-image: none; }
-		  #title { text-shadow: none; }`,
+		  #title { text-shadow: none; }
+		  .dpdn-ul { background-color: #ffffff80; }`,
 }
 
 window.onload = function() {
