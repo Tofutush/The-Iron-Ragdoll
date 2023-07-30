@@ -5,6 +5,7 @@ funny, likable...
 
 ## good traits
 - loyal and friendly
+- "best to enjoy life while you got the chance!" (core trait)
 
 ## neutral traits
 - resents authority

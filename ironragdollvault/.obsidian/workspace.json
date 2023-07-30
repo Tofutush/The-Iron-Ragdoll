@@ -30,9 +30,9 @@
               "state": {
                 "file": "plot chart.canvas",
                 "viewState": {
-                  "x": 1145.6859183309434,
-                  "y": 1205.8525250331286,
-                  "zoom": -0.6989815646782879
+                  "x": 665,
+                  "y": 1463,
+                  "zoom": 0
                 }
               }
             }
@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "transcript.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Firecrackers.md",
+                "file": "characters/Sky.md",
                 "mode": "source",
                 "source": true
               }
@@ -67,14 +67,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Jam.md",
+                "file": "groups/the iron ragdolls.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +140,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transcript.md",
-                "collapseAll": false,
+                "file": "plot chart.canvas",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transcript.md",
+                "file": "plot chart.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transcript.md"
+                "file": "plot chart.canvas"
               }
             }
           }
@@ -201,22 +201,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb9236b9f832e0c8",
+  "active": "b0ae1df679f7a4f3",
   "lastOpenFiles": [
+    "transcript.md",
+    "characters/Sky.md",
+    "characters/Sparky.md",
+    "groups/the iron ragdolls.md",
+    "characters/Jam.md",
     "characters/Firecrackers.md",
     "Excalidraw/test.excalidraw.md",
     "relation chart.canvas",
     "Excalidraw",
     "plot chart.canvas",
-    "transcript.md",
-    "characters/Jam.md",
-    "characters/Sky.md",
     "characters/Tundra.md",
     "characters/template/character.md",
     "characters/Untitled.md",
     "characters/template",
     "2023-07-27.md",
-    "groups/the iron ragdolls.md",
     "characters/Amulet.md",
     "characters/bitch teacher.md",
     "characters/Amber.md",
@@ -227,7 +228,6 @@
     "characters/Willow.md",
     "groups/the press.md",
     "groups",
-    "characters/Sparky.md",
     "characters/paralyzed girl.md",
     "mute boy.md",
     "random idea/script.md",

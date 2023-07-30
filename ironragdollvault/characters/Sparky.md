@@ -1,6 +1,7 @@
 Main character. Need I say more?
 
 ## good traits
+- truth. "I don't want anybody lying to me anymore." (core trait)
 - strong, both physically and mentally
 	- lv. 800 superstrength
 		- cant fight until [[Dragonfly]] taught her how

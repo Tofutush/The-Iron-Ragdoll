@@ -1,5 +1,5 @@
 ## members
 - [[Sky]]: leader, founder
 - [[Sparky]]: muscles (and memory)
-- [[Firecrackers]]: ???
+- [[Firecrackers]]: father figure
 - [[Qibli]]: name coiner
