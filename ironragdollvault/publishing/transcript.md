@@ -1,8 +1,9 @@
 ## synopsis
 
-What's worse than being kidnapped on your birthday? Trying to solve a stale mystery when nearly everyone else is trying to push you towards their own version of the truth? Maybe. Living in a town full of left-behind children with everything constantly going to hell? Maybe. Sparky experiences all three, and more.
+What's worse than being kidnapped on your birthday? Trying to solve a stale mystery when nearly everyone else is trying to push you towards their own version of the truth? Maybe. Living in a town full of unwanted children with everything constantly going to hell? Maybe. Sparky experiences all three, and more.
 
 ## Chapter 0
+
 ### #intro
 
 Driver: It's DANGEROUS to keep petrol in the trunk?! What do you think is more dangerous: fire hazard or getting stranded in the woods?
@@ -31,7 +32,7 @@ Sparky: God dammit, I can lean over and kill you right now do you know that?!
 
 Driver: Yes, you've told me three times already. Let's listen to some music.
 
-## Chapter 1
+## Chapter 1: Welcome to Hillslope
 ### #arrival
 
 Driver: Rise and shine, sleepyhead.
@@ -237,5 +238,12 @@ Potato: Nice to meet you too Sparky good bye!
 Sparky: ... The fuck did he say?
 
 ### #wake
+
+Ring ring ring...
+
+Sparky: Can you shut up now? For fuck's sake I still wanna sleep! How do I stop this thing? Great!
+
 ### #news
 ### #weirdos
+
+### #party

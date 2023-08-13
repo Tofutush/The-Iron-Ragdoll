@@ -2,11 +2,9 @@
   "promptDelete": false,
   "readableLineLength": false,
   "showFrontmatter": false,
-  "showLineNumber": true,
-  "spellcheckLanguages": [
-    "en-US"
-  ],
+  "showLineNumber": false,
+  "spellcheckLanguages": null,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "livePreview": false
+  "livePreview": true
 }

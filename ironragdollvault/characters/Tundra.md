@@ -1,3 +1,8 @@
+---
+gender: ♂
+superpower: immortality lv. 99999
+---
+
 self-proclaimed mayor
 
 ## aura

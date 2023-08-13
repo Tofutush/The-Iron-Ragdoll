@@ -1,0 +1,3 @@
+.markdown-preview-view, .view-content > .markdown-source-view.mod-cm6 > .cm-editor > .cm-scroller {
+	padding: 24px calc(var(--file-margins) + 24px);
+}

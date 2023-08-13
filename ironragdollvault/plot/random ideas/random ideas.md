@@ -1,0 +1,5 @@
+Why would you guys take something that's as important like this grade and scores, and link it to something so meaningless and trivial like some stupid-ass book report? But then that's what humans have done for ages. Create meaning in what would've had none.
+
+When I read the ending of The Book Thief, I cried in the middle of evening study hall in front of a bunch of people. I read Boy's Life four times already, and I really don't consider it necessary to read it a fifth time. But you don't care. All you care about is those stupid little passages copied from the internet or written by AI. All you care about is how we "analyze" those books, how we think what each standalone sentence means. And you grade us based on how close to the convention it is.
+
+Sophie: "I have my breakfast at the bakery in the morning. I also go to the tavern in the evening to chill out with other folks. I don't see why you have to view each other as rivals. You could totally collaborate! That will make both of you better. I mean, if you go on making each other's storefronts worse, I'd no longer go to any of your places and just have breakfast at home and hang out in the woods instead!"

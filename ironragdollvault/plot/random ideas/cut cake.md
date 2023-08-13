@@ -1,0 +1,1 @@
+Someone cuts up a cake in front of everyone, saying we shouldn't split people into so many groups.

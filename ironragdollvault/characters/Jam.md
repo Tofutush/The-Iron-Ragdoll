@@ -1,3 +1,8 @@
+---
+gender: ♂
+weapon: umbrella
+---
+
 ## aura
 
 - on the surface he seems like a bad teacher, but he actually cares a lot about his students.
@@ -10,7 +15,6 @@
 
 ## neutral traits
 
-- has ageusia (lacks sense of taste).
 - has aphantasia (unable to imagine images) and anauralia (no inner voice) (how to merge into plot? #potential_plot_point)
 - loves umbrellas. has a bunch of them.
 

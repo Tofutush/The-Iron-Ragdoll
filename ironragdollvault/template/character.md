@@ -7,3 +7,5 @@
 ## bad traits
 
 ## quirks
+
+## relationships

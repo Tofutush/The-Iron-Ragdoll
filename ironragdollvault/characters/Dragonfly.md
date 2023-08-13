@@ -1,5 +1,11 @@
+---
+gender: ♂
+weapon: fists
+superpower: superstrength lv. 413
+---
+
 [[Sparky]]'s martial arts mentor
-disguises himself as [[Melody]]
+pretends to disguise himself as [[Melody]], actually isn't melody
 theme song: warrior by beth crowley
 
 ## aura

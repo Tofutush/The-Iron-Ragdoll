@@ -1,5 +1,8 @@
 [
   "better-word-count",
   "optimize-canvas-connections",
-  "canvas-filter"
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "dataview",
+  "obsidian-file-color"
 ]

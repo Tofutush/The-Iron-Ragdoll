@@ -8,73 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5f09a44f4df6afb",
+            "id": "338089894de5848b",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "plot/plot chart.canvas",
+                "viewState": {
+                  "x": 128.76632221938155,
+                  "y": 2410.7089860680885,
+                  "zoom": -0.7010077591042585
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5dc163c1238331fc",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "relation chart.canvas",
                 "viewState": {
-                  "x": 173.04064779235006,
-                  "y": 323.76115005423935,
-                  "zoom": -1.3358858063817025
+                  "x": 456.28478332449544,
+                  "y": -1225.2478734603649,
+                  "zoom": -1.237649129629138
                 }
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "b0ae1df679f7a4f3",
+            "id": "6e73ad95cfe0a1c8",
             "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "plot chart.canvas",
-                "viewState": {
-                  "x": 665,
-                  "y": 1463,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "bb9236b9f832e0c8",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transcript.md",
+                "file": "character table.md",
                 "mode": "preview",
-                "source": true
-              }
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
-            "id": "a405fcb31d6b6a36",
+            "id": "f34e3bf4458f1367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Sky.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "da49cee1017d9941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "groups/the iron ragdolls.md",
-                "mode": "source",
-                "source": true
+                "file": "publishing/transcript.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#needs_thinking",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plot chart.canvas",
+                "file": "publishing/transcript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plot chart.canvas",
+                "file": "publishing/transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +174,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plot chart.canvas"
+                "file": "publishing/transcript.md"
               }
+            }
+          },
+          {
+            "id": "a704dc4f35035fb5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -189,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,43 +200,52 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0ae1df679f7a4f3",
+  "active": "f34e3bf4458f1367",
   "lastOpenFiles": [
-    "transcript.md",
-    "characters/Sky.md",
-    "characters/Sparky.md",
-    "groups/the iron ragdolls.md",
-    "characters/Jam.md",
-    "characters/Firecrackers.md",
-    "Excalidraw/test.excalidraw.md",
-    "relation chart.canvas",
-    "Excalidraw",
-    "plot chart.canvas",
-    "characters/Tundra.md",
-    "characters/template/character.md",
-    "characters/Untitled.md",
-    "characters/template",
-    "2023-07-27.md",
-    "characters/Amulet.md",
-    "characters/bitch teacher.md",
-    "characters/Amber.md",
-    "characters/Alaska.md",
-    "zh-cn translation.md",
-    "groups/(name) middle school.md",
-    "groups/tundra 4 mayor.md",
-    "characters/Willow.md",
-    "groups/the press.md",
-    "groups",
-    "characters/paralyzed girl.md",
-    "mute boy.md",
-    "random idea/script.md",
-    "random idea",
-    "characters/Melody.md",
     "characters/Dragonfly.md",
-    "Untitled 1.canvas",
-    "characters"
+    "plot/plot chart.canvas",
+    "character table.md",
+    "relation chart.canvas",
+    "locations/Moreland",
+    "characters/Willow.md",
+    "plot/random ideas/go to Tibet.md",
+    "plot/random ideas/the spy.md",
+    "plot/random ideas/random ideas.md",
+    "plot/random ideas/Sparky hurriedly gets into a taxi.md",
+    "plot/random ideas/We're here to block the bullets, not shoot the sniper..md",
+    "plot/random ideas/worth living.md",
+    "plot/random ideas/afterlife.md",
+    "plot/random ideas/dumb ppl.md",
+    "plot/random ideas/watch kids.md",
+    "plot/random ideas/if peacock is sparky's real dad.md",
+    "plot/random ideas/Call me insensitive; call me apathetic … you guys will never get it..md",
+    "plot/random ideas/English.md",
+    "plot/random ideas/two cents.md",
+    "plot/random ideas/mascot costumes are stuffy and hot.md",
+    "plot/random ideas/crack soy sauce bottle like an egg.md",
+    "plot/random ideas/Ribbon vs. Qibli.md",
+    "plot/random ideas/cut cake.md",
+    "plot/random ideas/Qibli's hat on fire.md",
+    "plot/random ideas",
+    "characters/Cosmo.md",
+    "plot/People visit him.md",
+    "characters/Icicle.md",
+    "plot/Tundra & Tomato go to hospital.md",
+    "locations/Lyscrewvia",
+    "1D30E910.png",
+    "things",
+    "locations/Lyscrewvia/Hillslope",
+    "locations",
+    "ironragdollvault/relation chart.canvas",
+    "publishing",
+    "plot",
+    "Untitled.canvas",
+    "Excalidraw",
+    "template",
+    "Untitled 1.canvas"
   ]
 }

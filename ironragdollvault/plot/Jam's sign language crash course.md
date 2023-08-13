@@ -1,0 +1,1 @@
+[[Jam]] makes [[Sparky]] learn sign language with him after school because [[Firecrackers]] is mute

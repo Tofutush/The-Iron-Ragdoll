@@ -1,0 +1,1 @@
+Just by looking at you, we can conclude that we have too many humans alive on this world that the world is running out of intelligence and common sense to give to each of them.

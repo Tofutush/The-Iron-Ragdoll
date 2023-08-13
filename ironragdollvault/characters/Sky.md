@@ -1,3 +1,8 @@
+---
+gender: ♂
+weapon: poker cards
+---
+
 - combination of traits from all my friends!
 
 ## aura
@@ -15,6 +20,11 @@ funny, likable...
 
 ## quirks
 - fidgety. most of the time twiddles a deck of poker like erato. sometimes spin finger fidget. at home squeezes polandballs. if nothing is on his hand, snaps fingers.
-- loves the soviet union and likes singing songs such as Katyusha, Moskau, and the soviet national anthem (ptc)
+- loves countryballs. has polandball and israelcube.
 - loves military history (ptc)
 - loves photography, hardcore coding, and everything physics (sam, jerry)
+
+## relationships
+
+- [[Elmwood and Dazzle]]: father
+- [[Dazzle]]: mother

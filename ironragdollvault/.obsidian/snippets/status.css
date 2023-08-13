@@ -1,0 +1,16 @@
+.buffer {
+background-color: #dbeddb;
+}
+.drawing {
+background-color: #fadec9;
+}
+.sketched {
+background-color: #eaeaea;
+}
+.published {
+background-color: #d3e5ef;
+}
+.status {
+    border-radius: 50px;
+    padding: 4px;
+}

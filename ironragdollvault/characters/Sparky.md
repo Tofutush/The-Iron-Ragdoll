@@ -1,3 +1,9 @@
+---
+gender: ♀
+weapon: M1911 (primarily)
+superpower: superstrength lv. 800
+---
+
 Main character. Need I say more?
 
 ## good traits
@@ -13,6 +19,18 @@ Main character. Need I say more?
 - can't lie. doesn't know how
 - aggressive, tends to strike first and cause trouble
 	- but zero defense skills. if she stays on the defensive for too long she will lose
-- greedy
+- she's got 5/7 out of the seven deadly sins
+	- lust
+	- gluttony
+	- greed
+	- wrath
+	- envy
 
 ## quirks
+- twiddles whisker-hair when lying
+
+## relationships
+- [[Jackal]]: bio father
+- [[Amber]]: mother
+- [[Peacock]]: stepfather
+- [[Willow]]: half-sister

@@ -1,0 +1,2 @@
+Sure, my life is a lot easier than a bunch of other people's, but that doesn't make it any more worth living.   
+> Yeah, my life is ordinary and even mundane, but that doesn't make it any _less_ worth living!

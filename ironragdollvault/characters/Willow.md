@@ -1,3 +1,8 @@
+---
+gender: ♀
+superpower: mind-reading lv. 185
+---
+
 - [[Sparky]]'s half-sister
 - daughter of [[Peacock]] and [[Amber]].
 - can read minds
