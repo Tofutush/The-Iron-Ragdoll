@@ -60,7 +60,7 @@
 		{"type":"text","text":"Ribbon takes Sparky to meet Starry, and gives her files for Starry's case, and presents Tephra as the main suspect","id":"dfb67ea605c31eb8","x":-449,"y":977,"width":319,"height":163,"color":"3"},
 		{"type":"text","text":"Sparky bangs her head on the floor until it bleeds in front of Peacock's parents","id":"ca8eb02e496107cf","x":389,"y":5494,"width":238,"height":139,"color":"2"},
 		{"type":"text","text":"It is revealed that his parents told Peacock to get rid of Sparky","id":"4a535f1dbf7cd496","x":196,"y":5280,"width":230,"height":134,"color":"#2300ff"},
-		{"type":"text","text":"Dragonfly challenges sparky to a wrist-bend and loses, confirming that she is very strong, but bad at fighting. he teaches her","id":"5e33fff8ddee6f7e","x":-87,"y":2219,"width":249,"height":203,"color":"#03adad"},
+		{"type":"text","text":"Dragonfly challenges sparky to a wrist-bend and loses, confirming that she is very strong, but bad at fighting. he teaches her","id":"5e33fff8ddee6f7e","x":-87,"y":2219,"width":249,"height":203,"color":"#00adad"},
 		{"type":"file","file":"plot/Sparky's first day.md","id":"3698b4810b0c8735","x":-410,"y":5253,"width":238,"height":87,"color":"2"},
 		{"type":"file","file":"plot/Jam's sign language crash course.md","id":"8a2c0a06b7916b0d","x":-561,"y":5463,"width":309,"height":125,"color":"#724a09"},
 		{"type":"text","text":"Peacock's parents freak out and throws Sparky out the door","id":"82dd793a2003ea9a","x":211,"y":5688,"width":244,"height":123},
@@ -95,7 +95,9 @@
 		{"type":"text","text":"Peacock comes and collects Tundra, taking Sparky away as well (why? because his parents went back home)","id":"30670ce0e53e092d","x":849,"y":3862,"width":287,"height":208,"color":"#2300ff"},
 		{"type":"text","text":"Sky says it's ai-generated","id":"fac89761bfb59867","x":1613,"y":7261,"width":250,"height":78,"color":"5"},
 		{"type":"text","text":"someone shackles Tomato up to fix something #needs_thinking ","id":"8d423f8b06d7b5aa","x":1463,"y":2069,"width":226,"height":156},
-		{"id":"c708195fba9666e0","x":-223,"y":2514,"width":266,"height":147,"color":"#03adad","type":"text","text":"in the second session, Dragonfly tells Sparky that he and Melody are the same person"}
+		{"id":"c708195fba9666e0","x":-223,"y":2514,"width":266,"height":147,"color":"#00adad","type":"text","text":"in the second session, Dragonfly tells Sparky that he and Melody are the same person"},
+		{"id":"158ad6f5badf99eb","x":4012,"y":-1084,"width":191,"height":94,"color":"#426600","type":"text","text":"Melody arrives at Hillslope"},
+		{"id":"7f76750a97cc126b","x":4031,"y":-906,"width":236,"height":121,"color":"#00adad","type":"text","text":"Dragonfly convinces him to play \"same person\" with him"}
 	],
 	"edges":[
 		{"id":"af8be62f7bba6277","fromNode":"09dbea60f7605638","fromSide":"bottom","toNode":"742f8b68afe41921","toSide":"top"},
@@ -161,6 +163,7 @@
 		{"id":"321e55d6b7ff5262","fromNode":"3c5a0bb3a72f212c","fromSide":"bottom","toNode":"3698b4810b0c8735","toSide":"top"},
 		{"id":"cd1d450ca5f402ff","fromNode":"3698b4810b0c8735","fromSide":"bottom","toNode":"8a2c0a06b7916b0d","toSide":"top"},
 		{"id":"e4279d96d2375f60","fromNode":"605257c7edd7d4dd","fromSide":"bottom","toNode":"96c758ba26e3b21d","toSide":"top"},
-		{"id":"154952706727237f","fromNode":"5e33fff8ddee6f7e","fromSide":"bottom","toNode":"c708195fba9666e0","toSide":"top"}
+		{"id":"154952706727237f","fromNode":"5e33fff8ddee6f7e","fromSide":"bottom","toNode":"c708195fba9666e0","toSide":"top"},
+		{"id":"b8bf187b858885f7","fromNode":"158ad6f5badf99eb","fromSide":"bottom","toNode":"7f76750a97cc126b","toSide":"top"}
 	]
 }

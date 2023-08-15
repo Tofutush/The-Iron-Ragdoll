@@ -68,7 +68,7 @@
     {
       "id": "ZcIcuNxOpwGbx8hQlNBjb",
       "name": "Dragonfly",
-      "value": "#03adb1"
+      "value": "#00adad"
     },
     {
       "id": "a6lEelnp4HyS6ZzuynU1f",
@@ -277,6 +277,10 @@
     {
       "path": "plot/random ideas/go to Tibet.md",
       "color": "zTkSM6Fbw90Pw921Q-Iaq"
+    },
+    {
+      "path": "locations/Lyscrewvia/Hillslope",
+      "color": "TtQzb7EryImP_gPEl81z5"
     }
   ]
 }

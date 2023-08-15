@@ -23199,6 +23199,7 @@ var FileColorPlugin = class extends import_obsidian3.Plugin {
 
 // src/index.ts
 var src_default = FileColorPlugin;
+
 /**
  * @license React
  * react-dom.development.js

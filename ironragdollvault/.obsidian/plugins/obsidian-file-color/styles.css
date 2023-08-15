@@ -3,3 +3,7 @@
   color: var(--file-color-color);
 background-color: var(--file-color-bg);
 }
+
+.workspace-leaf-content[data-type="file-explorer"] .nav-files-container .nav-folder-title.file-color-file:hover, .workspace-leaf-content[data-type="file-explorer"] .nav-files-container .nav-file-title.file-color-file:hover {
+background-color: color-mix(in srgb,var(--file-color-bg),#000 7%);
+}

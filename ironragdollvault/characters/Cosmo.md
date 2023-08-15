@@ -1,6 +1,6 @@
 ---
 gender: ♀
-superpower: mind reading lv. 26
+superpower: lie detection lv. 26
 ---
 
 Theme song: Applause by Lady Gaga

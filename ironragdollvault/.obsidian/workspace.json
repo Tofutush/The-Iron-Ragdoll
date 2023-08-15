@@ -16,9 +16,9 @@
               "state": {
                 "file": "plot/plot chart.canvas",
                 "viewState": {
-                  "x": 128.76632221938155,
-                  "y": 2410.7089860680885,
-                  "zoom": -0.7010077591042585
+                  "x": 207.7100551362,
+                  "y": 2364.9070128165117,
+                  "zoom": -1.658650783230947
                 }
               },
               "pinned": true
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "f34e3bf4458f1367",
+            "id": "5e8beb5e5b164ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,11 +204,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f34e3bf4458f1367",
+  "active": "5e8beb5e5b164ead",
   "lastOpenFiles": [
-    "characters/Dragonfly.md",
+    "publishing/chapters & episodes.md",
     "plot/plot chart.canvas",
     "character table.md",
+    "plot/Sparky invites the iron ragdolls.md",
+    "characters/Cosmo.md",
+    "publishing/transcript.md",
+    "characters/Dragonfly.md",
     "relation chart.canvas",
     "locations/Moreland",
     "characters/Willow.md",
@@ -231,10 +235,6 @@
     "plot/random ideas/cut cake.md",
     "plot/random ideas/Qibli's hat on fire.md",
     "plot/random ideas",
-    "characters/Cosmo.md",
-    "plot/People visit him.md",
-    "characters/Icicle.md",
-    "plot/Tundra & Tomato go to hospital.md",
     "locations/Lyscrewvia",
     "1D30E910.png",
     "things",
