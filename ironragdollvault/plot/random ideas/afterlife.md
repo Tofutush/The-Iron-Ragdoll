@@ -1,1 +1,0 @@
-No, we don't life for the afterlife! Come on, for fuck's sake we *die* in the afterlife!

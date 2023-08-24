@@ -1,2 +1,0 @@
-Ribbon: Sparky, here, look at me. Right, calm down. You see, nobody gives a fuck about what you think or how you feel. The one and only thing that matters is what you do.
-> Qibli: That's not true. I care about thinking and feeling! Maybe doing things makes us succeed, but thinking and feeling is what makes us human!

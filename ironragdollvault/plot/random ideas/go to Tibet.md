@@ -1,1 +1,0 @@
-Qibli is the only one left standing.

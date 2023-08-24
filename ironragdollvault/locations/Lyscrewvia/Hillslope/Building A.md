@@ -1,6 +1,0 @@
-1. [[Alaska]]
-2. [[Dragonfly]]
-3. [[Jerboa]]
-4. [[Myriad]]
-5. [[Potato]]
-6. [[Tundra]]

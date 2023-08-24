@@ -1,5 +1,0 @@
----
-gender: ♀
----
-
-paralyzed while dancing.

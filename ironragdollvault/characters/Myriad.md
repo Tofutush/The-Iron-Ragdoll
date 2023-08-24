@@ -1,8 +1,0 @@
----
-gender: ♀
-superpower: fairywing mutation
----
-
-- editor in the press
-- apathetic douche
-- has wings but are too afraid to show them, so she wears a backpack all the time
