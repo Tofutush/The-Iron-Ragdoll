@@ -62,8 +62,10 @@ window.onload = function() {
 		if(flag) break;
 	}
 	// if local, always see all
-	if(window.location.href.includes('file:///E:/github/The-Iron-Ragdoll'))
-		maxPageNum = episodes[episodes.length - 1][1][episodes[episodes.length - 1][1].length - 1][3]; // this looks REALLY awkward but i kinda like it bc funny
+	if(window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')) {
+		let last = episodes[episodes.length - 1][1][episodes[episodes.length - 1][1].length - 1];
+		maxPageNum = last[3] + last[2] - 1;
+	}
 	if(maxPageNum < pagenum) flipPage(0);
 	changeThingInMiddle(pagenum);
 	setImage(pagenum);
