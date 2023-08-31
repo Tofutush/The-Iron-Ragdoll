@@ -21,10 +21,10 @@ const authorsNotes = {
 	4: `<p>They are not family. They look like family, but those two people are only like two years older than Sparky. You will meet them soon.</p>`,
 	6: `<p>Okay, so that was like, a <i>really</i> quick representation of Hillslope. There's definitely going to be more stuff besides grass, buildings and a single road. But the important landmarks are there: two apartments, two small house-like things, and an abandoned, broken building.</p>`,
 	8: `<p>Don't bother looking; the anklet is covered up by Sparky's huge pant sleeves. This is not an excuse for poor drawing (although the drawing <i>is</i> poor). It's actually her pants.</p>`,
-	11: `<p>This page is drawn in Clip Studio Paint. Drawing comics in SAI was horrible. I will eventually redraw the previous ten pages with CSP too, but right now it's too early to be turning back.</p>
-		 <p>And yeah, I will eventually redraw the previous pages in CSP too, but right now it's too early to be turning back.</p>`,
+	11: `<p>This page is drawn in Clip Studio Paint. Drawing comics in SAI was horrible. I will eventually redraw the previous ten pages with CSP too, but right now it's too early to be turning back.</p>`,
 	17: `<p>When Cosmo asked Sparky whether she could remember names, she wasn't asking Sparky. She was asking <i>you</i>. Can you remember these characters? You will meet more of them.</p>`,
 	24: `<p>New day, new shitty problems!`,
+	28: `<p>Sparky in the bottom-left panel kinda looks like a gorilla. Sorry guys, I'm still working on it.</p>`,
 };
 // background stuff
 const BGStuff = {
