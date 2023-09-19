@@ -25,6 +25,7 @@ const authorsNotes = {
 	17: `<p>When Cosmo asked Sparky whether she could remember names, she wasn't asking Sparky. She was asking <i>you</i>. Can you remember these characters? You will meet more of them.</p>`,
 	24: `<p>New day, new shitty problems!`,
 	28: `<p>Sparky in the bottom-left panel kinda looks like a gorilla. Sorry guys, I'm still working on it.</p>`,
+	34: `<p>My tablet broke down while drawing "party," and the new one is quite different from the old one and I'm still getting used to it. So I apologize if these pages look weird!</p>`,
 };
 // background stuff
 const BGStuff = {
