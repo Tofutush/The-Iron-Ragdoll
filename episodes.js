@@ -25,17 +25,17 @@ let episodes = [
 			['well', '2024-04-07', 4],
 		]
 	],
-	// [['Chapter 2: What Do You Want', 1],
+	[['Chapter 2: Time, Space, and Darts', 1],
+		[
+			['1bluh', '9999-99-99', 99],
+		]
+	],
+	// [['Chapter 3: What Do You Want', 1],
 	// 	[
 	// 		['1bluh', '9999-99-99', 99],
 	// 	]
 	// ],
-	// [['Chapter 3: Dusty Boxes and Dried Blood', 1],
-	// 	[
-	// 		['1bluh', '9999-99-99', 99],
-	// 	]
-	// ],
-	// [['Chapter 4: Where Shit Goes Down', 1],
+	// [['Chapter 4: Dusty Boxes and Dried Blood', 1],
 	// 	[
 	// 		['1bluh', '9999-99-99', 99],
 	// 	]
