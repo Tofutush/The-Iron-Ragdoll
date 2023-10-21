@@ -27,7 +27,7 @@ let episodes = [
 	],
 	[['Chapter 2: Time, Space, and Darts', 1],
 		[
-			['1bluh', '9999-99-99', 99],
+			['time', '2024-04-21', 4],
 		]
 	],
 	// [['Chapter 3: What Do You Want', 1],
