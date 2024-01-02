@@ -17,7 +17,7 @@ let episodes = [
 			['weirdos', '2023-12-17', 3],
 			['party', '2023-12-31', 3],
 			['lemonade', '2024-01-14', 3],
-			['suit', '2024-01-28', 3],
+			['granddad', '2024-01-28', 3],
 			['tiles', '2024-02-11', 3],
 			['seat', '2024-02-25', 2],
 			['useless', '2024-03-10', 4],
@@ -28,6 +28,7 @@ let episodes = [
 	[['Chapter 2: Time, Space, and Darts', 1],
 		[
 			['time', '2024-04-21', 4],
+			['attic', '2024-05-05', 3],
 		]
 	],
 	// [['Chapter 3: What Do You Want', 1],
