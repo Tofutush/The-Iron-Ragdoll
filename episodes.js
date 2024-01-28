@@ -27,8 +27,13 @@ let episodes = [
 	],
 	[['Chapter 2: Time, Space, and Darts', 1],
 		[
-			['time', '2024-04-21', 4],
-			['attic', '2024-05-05', 3],
+			['time', '2024-05-26', 4],
+			['attic', '2024-06-09', 3],
+			['fixed', '2024-06-23', 3],
+			['mystery', '2024-07-07', 3],
+			['cool', '2024-07-21', 2],
+			['recap', '2024-08-04', 3],
+			['cooperation', '2024-08-18', 3],
 		]
 	],
 	// [['Chapter 3: What Do You Want', 1],
