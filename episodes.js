@@ -1,10 +1,10 @@
 let episodes = [
-	[['Cover Page', 1],
+	[['Intro', 1, 'Just the intro.'],
 		[
 			['intro', '2023-08-13', 3],
 		]
 	],
-	[['Chapter 1: Welcome to Hillslope', 1],
+	[['Chapter 1: Welcome to Hillslope', 1, "Sparky settles in her new home. She knows it's supposed to be bad, but somehow it's worse."],
 		[
 			['arrival', '2023-08-27', 3],
 			['bluff', '2023-09-10', 3],
@@ -25,7 +25,7 @@ let episodes = [
 			['well', '2024-04-07', 4],
 		]
 	],
-	[['Chapter 2: Time, Space, and Darts', 1],
+	[['Chapter 2: Time, Space, and Darts', 1, "Ah, yes, the three fundamental elements of the universe."],
 		[
 			['time', '2024-05-26', 4],
 			['attic', '2024-06-09', 3],
@@ -34,14 +34,17 @@ let episodes = [
 			['cool', '2024-07-21', 2],
 			['recap', '2024-08-04', 3],
 			['cooperation', '2024-08-18', 3],
+			['accident', '09-01-2024', 3],
+			['purpose', '09-15-2024', 4],
+			['smart', '09-29-2024', 3],
 		]
 	],
-	// [['Chapter 3: What Do You Want', 1],
+	// [['Chapter 3: What Do You Want', 1, "Sparky wakes up tied to a chair. She is now a detective."],
 	// 	[
 	// 		['1bluh', '9999-99-99', 99],
 	// 	]
 	// ],
-	// [['Chapter 4: Dusty Boxes and Dried Blood', 1],
+	// [['Chapter 4: Dusty Boxes and Dried Blood', 1, "Detective Sparky is not very good at solving mysteries. But who cares? She doesn't need to be."],
 	// 	[
 	// 		['1bluh', '9999-99-99', 99],
 	// 	]
