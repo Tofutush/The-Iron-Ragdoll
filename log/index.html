@@ -4,30 +4,21 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLQ8ZWC7GZ"></script>
 <script>if(!window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')){window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-CLQ8ZWC7GZ');}</script>
-<title>The Iron Ragdoll | Archive</title>
+<title>The Iron Ragdoll | Log</title>
 <link rel="stylesheet" href="../style.css"/>
 <link rel="icon" href="../icon.ico"/>
 <style>
-	h1 a {
+	.chapter h1 {
+		font-size: 36px;
+		margin-bottom: 0;
+	}
+	.chapter a {
 		color: #0cf;
 	}
-	/* .episodes {
-		display: grid;
-		grid-template-columns: repeat(5, 1fr);
+	.chapter p {
+		margin-top: 0;
+		text-indent: 2em;
 	}
-	.episodes a:hover {
-		text-decoration: none;
-		background-color: #fff5;
-		border-radius: 999px;
-	}
-	.episodes a {
-		color: #fff;
-		font-size: 24px;
-		font-style: italic;
-		padding: 0.5em;
-		text-align: center;
-		margin: 0.5em;
-	} */
 	#episodes {
 		color: #fff;
 		font-size: 30px;
@@ -52,9 +43,6 @@
 	}
 	.dot-line {
 		border-top: 5px dotted #fffb;
-	}
-	.chapter {
-		font-size: 36px;
 	}
 </style>
 </head>
@@ -92,9 +80,10 @@
 window.onload = function() {
 	let ep = document.getElementById('episodes');
 	for(let z = 0; z < episodes.length; z++) {
-		let head = elt('td', {},
-					elt('h1', {className: 'chapter'},
-					elt('a', {href: `../?page=${episodes[z][0][1]}`}, episodes[z][0][0])));
+		let head = elt('td', {className: 'chapter'},
+					elt('h1', {},
+					elt('a', {href: `../?page=${episodes[z][0][1]}`}, episodes[z][0][0])),
+					elt('p', {}, episodes[z][0][2]));
 		head.setAttribute('colspan', '4');
 		ep.appendChild(elt('tr', {}, head));
 		let flag, eps = episodes[z][1];
