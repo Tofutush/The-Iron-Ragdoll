@@ -115,8 +115,8 @@ function flipPage(num) {
 	if(num == 'next') num = Math.min(maxPageNum, pagenum + 1);
 	if(num == 'prev') num = Math.max(0, pagenum - 1);
 	if(num == pagenum || !withinRange(num)) return;
-	window.scrollTo(0, 0);
 	window.history.pushState({}, null, `?page=${num}`);
+	location.hash = '#comic'; // scroll to comic
 	document.title = `The Iron Ragdoll | Page ${num}`;
 	changeNumberInMiddle(num);
 	preloadImg(num - 1);
