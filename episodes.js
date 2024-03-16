@@ -37,6 +37,9 @@ let episodes = [
 			['accident', '09-01-2024', 3],
 			['purpose', '09-15-2024', 4],
 			['smart', '09-29-2024', 3],
+			['surprise', '2024-10-13', 3],
+			['party 2', '2024-10-27', 2],
+			['cake', '2024-11-10', 2],
 		]
 	],
 	// [['Chapter 3: What Do You Want', 1, "Sparky wakes up tied to a chair. She is now a detective."],
