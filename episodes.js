@@ -25,7 +25,7 @@ let episodes = [
 			['well', '2024-04-07', 4],
 		]
 	],
-	[['Chapter 2: Time, Space, and Darts', 1, "Ah, yes, the three fundamental elements of the universe."],
+	[['Chapter 2: Time, Space, and Tails', 1, "Ah, yes, the three fundamental elements of the universe."],
 		[
 			['time', '2024-05-26', 4],
 			['attic', '2024-06-09', 3],
@@ -40,6 +40,10 @@ let episodes = [
 			['surprise', '2024-10-13', 3],
 			['party 2', '2024-10-27', 2],
 			['cake', '2024-11-10', 2],
+			['bread', '2024-11-24', 2],
+			['play', '2024-12-08', 4],
+			['water', '2024-12-22', 3],
+			['back', '2025-01-05', 2],
 		]
 	],
 	// [['Chapter 3: What Do You Want', 1, "Sparky wakes up tied to a chair. She is now a detective."],
