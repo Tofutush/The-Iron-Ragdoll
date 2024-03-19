@@ -5,11 +5,20 @@
 <link rel="stylesheet" href="../style.css"/>
 <link rel="icon" href="../icon.ico"/>
 <style>
+body {
+	overflow: -moz-scrollbars-none;
+}
+
+body::-webkit-scrollbar {
+	width: 0 !important;
+}
+
 #chs {
 	display: flex;
 	gap: 24px;
 	overflow-x: scroll;
 	padding: 12px 0;
+	user-select: none;
 }
 
 .ch {
@@ -80,6 +89,7 @@
 </div>
 <div id="comic">
 	<h1 style="text-align: center;">Under construction!</h1>
+	<p>Click to reveal info.</p>
 	<div id="chs">
 		<div class="ch" ch="sparky"><img src="img/sparky.png"/></div>
 		<div class="ch" ch="ribbon"><img src="img/ribbon.png"/></div>
