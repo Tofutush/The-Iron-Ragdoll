@@ -1,3 +1,82 @@
+// new code
+
+const themes = {
+	night: ':root { --text: #fff; }',
+	day: `:root { --text: #000; }
+		  #header { background-image: none; }
+		  #title { text-shadow: none; }
+		  .dpdn-ul { background-color: #ffffff80; }`,
+}
+
+let url = new URLSearchParams(window.location.search);
+
+// get maxPageNum
+let dateString = new Date().toJSON().slice(0, 10);
+for(let z = 0; z < episodes.length; z++) {
+	let eps = episodes[z][1];
+	let flag;
+	for(let x = 0; x < eps.length; x++) {
+		// once we hit a date larger than today, break
+		if(dateString < eps[x][1]) {
+			flag = true;
+			break;
+		}
+		// else, set the maxPageNum and go on
+		maxPageNum = eps[x][3] + eps[x][2] - 1;
+	}
+	if(flag) break;
+}
+// if local, always see all
+if(window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')) {
+	let last = episodes[episodes.length - 1][1][episodes[episodes.length - 1][1].length - 1];
+	maxPageNum = last[3] + last[2] - 1;
+}
+
+let TIR = new Comic(
+	"The Iron Ragdoll",
+	0,
+	maxPageNum,
+	Number(url.get('page') || 0),
+	document.querySelectorAll('.pagenum'),
+	document.getElementById('img').children[0],
+	document.getElementById('note'),
+	document.querySelectorAll('.options'),
+	document.getElementById('save').children,
+	{
+		0: {
+			bg: 'forest-night',
+			theme: 'night'
+		},
+		11: {
+			bg: 'hillslope-night',
+			theme: 'night'
+		},
+		24: {
+			bg: 'hillslope-day',
+			theme: 'day'
+		},
+		35: {
+			bg: 'tavern',
+			theme: 'night'
+		},
+	},
+	'comic',
+	num => {
+		return String(Math.floor(num / 100) + '/' + num + '.png');
+	},
+	obj => {
+		document.body.style.backgroundImage = `url(bg/${obj.bg}.png)`;
+		document.getElementById('theme').innerHTML = themes[obj.theme];
+	}
+);
+
+
+
+
+
+/* prev code
+
+
 // background stuff
 const BGStuff = {
 	0: ['forest-night', 'night'],
@@ -40,6 +119,10 @@ window.onload = function() {
 		maxPageNum = last[3] + last[2] - 1;
 	}
 	if(maxPageNum < pagenum) flipPage(0);
+	if(isNaN(pagenum)) {
+		document.body.innerHTML = '<p>TF do you want? the page number has to be a number!</p>';
+		return;
+	};
 	changeNumberInMiddle(pagenum);
 	setImage(pagenum);
 	changeBG(pagenum);
@@ -211,3 +294,4 @@ class YouAreSoStupidError extends Error {
 }
 
 function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
+*/
