@@ -26,8 +26,10 @@ body::-webkit-scrollbar {
 	background-color: #fffa;
 	border-radius: 16px;
 	display: flex;
+	height: 120px;
 	justify-content: center;
 	margin: auto;
+	width: 120px;
 }
 
 .ch img {
@@ -41,6 +43,15 @@ body::-webkit-scrollbar {
 
 .ch.active {
 	background-color: #fffc;
+}
+
+.unrevealed img {
+	filter: brightness(0);
+}
+
+.unrevealed:hover {
+	cursor: default;
+	background-color: #fffa;
 }
 
 ::-webkit-scrollbar {
@@ -92,18 +103,20 @@ body::-webkit-scrollbar {
 	<p>Click to reveal info.</p>
 	<div id="chs">
 		<div class="ch" ch="sparky"><img src="thumb/sparky.png"/></div>
-		<div class="ch" ch="ribbon"><img src="thumb/ribbon.png"/></div>
-		<div class="ch" ch="tephra"><img src="thumb/tephra.png"/></div>
-		<div class="ch" ch="tundra"><img src="thumb/tundra.png"/></div>
-		<div class="ch" ch="cosmo"><img src="thumb/cosmo.png"/></div>
-		<div class="ch" ch="myriad"><img src="thumb/myriad.png"/></div>
-		<div class="ch" ch="jerboa"><img src="thumb/jerboa.png"/></div>
 		<div class="ch" ch="icicle"><img src="thumb/icicle.png"/></div>
+		<div class="ch" ch="ribbon"><img src="thumb/ribbon.png"/></div>
+		<div class="ch" ch="cosmo"><img src="thumb/cosmo.png"/></div>
 		<div class="ch" ch="tomato"><img src="thumb/tomato.png"/></div>
+		<div class="ch" ch="gg"><img src="thumb/gg.png"/></div>
 		<div class="ch" ch="potato"><img src="thumb/potato.png"/></div>
-		<!-- <div class="ch" ch="gg"><img src="thumb/gg.png"/></div> -->
-		<div class="ch" ch="alaska"><img src="thumb/alaska.png"/></div>
+		<div class="ch" ch="tephra"><img src="thumb/tephra.png"/></div>
 		<div class="ch" ch="melody"><img src="thumb/melody.png"/></div>
+		<div class="ch" ch="jerboa"><img src="thumb/jerboa.png"/></div>
+		<div class="ch" ch="tundra"><img src="thumb/tundra.png"/></div>
+		<div class="ch" ch="myriad"><img src="thumb/myriad.png"/></div>
+		<div class="ch" ch="alaska"><img src="thumb/alaska.png"/></div>
+		<div class="ch unrevealed" ch="peacock"><img src="thumb/peacock.png"/></div>
+		<div class="ch unrevealed" ch="dragonfly"><img src="thumb/dragonfly.png"/></div>
 	</div>
 	<div id="descs">
 		<div class="desc" id="sparky">
@@ -147,8 +160,8 @@ body::-webkit-scrollbar {
 			<p>Here's your newspaper have a nice day bye!</p>
 		</div>
 		<div class="desc" id="gg">
-			<h1>Guillotine Girl</h1>
-			<p></p>
+			<h1>???</h1>
+			<p>???</p>
 		</div>
 		<div class="desc" id="alaska">
 			<h1>Alaska</h1>
@@ -157,6 +170,14 @@ body::-webkit-scrollbar {
 		<div class="desc" id="melody">
 			<h1>Melody</h1>
 			<p>...</p>
+		</div>
+		<div class="desc" id="peacock">
+			<h1>Scarface</h1>
+			<p></p>
+		</div>
+		<div class="desc" id="dragonfly">
+			<h1>Dragonfly</h1>
+			<p></p>
 		</div>
 	</div>
 </div>
@@ -170,8 +191,10 @@ for(desc of descs) {
 }
 
 for(ch of chs) {
-	let chName = ch.getAttribute('ch');
-	ch.addEventListener('click', e => switchDescs(e, chName));
+	if(!Array.from(ch.classList).includes('unrevealed')) {
+		let chName = ch.getAttribute('ch');
+		ch.addEventListener('click', e => switchDescs(e, chName));
+	}
 }
 
 function switchDescs(e, id) {
