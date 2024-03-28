@@ -61,6 +61,7 @@ let TIR = new Comic(
 		},
 	},
 	'comic',
+	episodes,
 	num => {
 		return String(Math.floor(num / 100) + '/' + num + '.png');
 	},
