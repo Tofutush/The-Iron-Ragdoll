@@ -26,6 +26,7 @@ class Comic {
 		saveButton,
 		theme,
 		whereToScrollTo,
+		episodes,
 		getImgUrl,
 		updateTheme) {
 		this.name = comicName;
@@ -44,6 +45,7 @@ class Comic {
 		this.saveButton = saveButton;
 		this.theme = theme;
 		this.whereToScrollTo = whereToScrollTo;
+		this.episodes = episodes;
 		this.getImgUrl = getImgUrl;
 		this.updateTheme = updateTheme;
 		this.doInit();
@@ -73,8 +75,8 @@ class Comic {
 		if(!this.withinRange(this.pageNum)) num = this.minPageNum;
 		// go away if not number or no need 2 flip
 		if(isNaN(num) || num == this.pageNum) return;
-		// round
-		num = Math.round(num);
+		// remove stuff after decimal
+		num = Math.floor(num);
 		window.history.pushState({}, null, `?page=${num}`);
 		location.hash = `#${this.whereToScrollTo}`; // scroll to comic
 		document.title = `${this.name} | Page ${num}`;
@@ -188,15 +190,49 @@ class Comic {
 			w.addEventListener('keydown', e => {
 				if(e.key == 'Enter') {
 					e.preventDefault();
-					if(w.innerText.toLowerCase() == 'last') {
-						this.flipPage(this.maxPageNum);
-					} else if (w.innerText.toLowerCase() == 'first') {
-						this.flipPage(this.minPageNum);
-					} else {
-						let n = parseInt(w.innerText);
-						if(this.withinRange(n)) this.flipPage(n);
-						else w.innerText = this.pageNum;
+					let num = parseInt(w.innerText);
+					let str = w.innerText.toLowerCase();
+					if(!isNaN(num) && this.withinRange(num) && num != this.pageNum) {
+						console.log('is valid number');
+						this.flipPage(num);
+						return;
+					} else if(str == 'last') {console.log('last'); this.flipPage(this.maxPageNum); return;}
+					else if(str == 'first') {console.log('fitsr'); this.flipPage(this.minPageNum); return;}
+					else if(this.episodes) {
+						console.log('episode');
+						for(let ch of this.episodes) {
+							for(let z = 1; z < ch.length; z++) {
+								for(let ep of ch[z]) {
+									if(ep[0] == str) {
+										console.log(ep);
+										this.flipPage(ep[3]);
+										return;
+									}
+								}
+							}
+						}
 					}
+					console.log('no, go bakc');
+					w.innerText = this.pageNum;
+					// if() {
+					// 	if() this.flipPage(num);
+					// 	else w.innerText = this.pageNum;
+					// } else {
+					// 	if(str == 'last') {
+					// 		this.flipPage(this.maxPageNum);
+					// 	} else if (str == 'first') {
+					// 		this.flipPage(this.minPageNum);
+					// 	} else if(this.episodes) {
+					// 		for(let ch of this.episodes) {
+					// 			for(let z = 1; z < ch.length; z++) {
+					// 				if(z[0] == str) {
+					// 					this.flipPage(z[2]);
+					// 					return;
+					// 				}
+					// 			}
+					// 		}
+					// 	}
+					// }
 				}
 			});
 		}
