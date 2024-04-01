@@ -206,7 +206,7 @@ class Comic {
 						for(let ch of this.episodes) {
 							for(let z = 1; z < ch.length; z++) {
 								for(let ep of ch[z]) {
-									if(ep[3] > this.maxPageNum) return;
+									if(ep[3] > this.maxPageNum) break;
 									if(ep[0] == str) {
 										console.log(ep);
 										this.flipPage(ep[3]);
