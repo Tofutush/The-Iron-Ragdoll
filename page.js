@@ -6,7 +6,7 @@ const themes = {
 		  #header { background-image: none; }
 		  #title { text-shadow: none; }
 		  .dpdn-ul { background-color: #ffffff80; }`,
-}
+};
 
 let url = new URLSearchParams(window.location.search);
 
