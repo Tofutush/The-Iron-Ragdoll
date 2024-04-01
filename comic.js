@@ -196,13 +196,17 @@ class Comic {
 						console.log('is valid number');
 						this.flipPage(num);
 						return;
-					} else if(str == 'last') {console.log('last'); this.flipPage(this.maxPageNum); return;}
-					else if(str == 'first') {console.log('fitsr'); this.flipPage(this.minPageNum); return;}
-					else if(this.episodes) {
-						console.log('episode');
+					} else if(str == 'last') {
+						this.flipPage(this.maxPageNum);
+						return;
+					} else if(str == 'first') {
+						this.flipPage(this.minPageNum);
+						return;
+					} else if(this.episodes) {
 						for(let ch of this.episodes) {
 							for(let z = 1; z < ch.length; z++) {
 								for(let ep of ch[z]) {
+									if(ep[3] > this.maxPageNum) return;
 									if(ep[0] == str) {
 										console.log(ep);
 										this.flipPage(ep[3]);
