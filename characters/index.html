@@ -3,71 +3,8 @@
 <head>
 <title>The Iron Ragdoll | Characters</title>
 <link rel="stylesheet" href="../style.css"/>
+<link rel="stylesheet" href="style.css"/>
 <link rel="icon" href="../icon.ico"/>
-<style>
-body {
-	overflow: -moz-scrollbars-none;
-}
-
-body::-webkit-scrollbar {
-	width: 0 !important;
-}
-
-#chs {
-	display: flex;
-	gap: 24px;
-	overflow-x: scroll;
-	padding: 12px 0;
-	user-select: none;
-}
-
-.ch {
-	align-items: center;
-	background-color: #fffa;
-	border-radius: 16px;
-	display: flex;
-	height: 120px;
-	justify-content: center;
-	margin: auto;
-	width: 120px;
-}
-
-.ch img {
-	height: 120px;
-}
-
-.ch:hover {
-	background-color: #fffb;
-	cursor: pointer;
-}
-
-.ch.active {
-	background-color: #fffc;
-}
-
-.unrevealed img {
-	filter: brightness(0);
-}
-
-.unrevealed:hover {
-	cursor: default;
-	background-color: #fffa;
-}
-
-::-webkit-scrollbar {
-	background-color: #0000;
-	height: 12px;
-}
-
-::-webkit-scrollbar-thumb {
-	background-color: #fffa;
-	border-radius: 999px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-	background-color: #fffb;
-}
-</style>
 </head>
 <body>
 <div id="header">
@@ -98,85 +35,96 @@ body::-webkit-scrollbar {
 	</div>
 </div>
 <div id="comic">
-	<h1 style="text-align: center;">Under construction!</h1>
 	<p>Click to reveal info.</p>
 	<div id="chs">
 		<div class="ch" ch="sparky"><img src="thumb/sparky.png"/></div>
-		<div class="ch" ch="icicle"><img src="thumb/icicle.png"/></div>
+		<div class="ch unrevealed" ch="amber"><img src="thumb/amber.png"/></div>
+		<!-- <div class="ch" ch="icicle"><img src="thumb/icicle.png"/></div> -->
 		<div class="ch" ch="ribbon"><img src="thumb/ribbon.png"/></div>
 		<div class="ch" ch="cosmo"><img src="thumb/cosmo.png"/></div>
 		<div class="ch" ch="tomato"><img src="thumb/tomato.png"/></div>
 		<div class="ch" ch="guillotine"><img src="thumb/guillotine.png"/></div>
-		<div class="ch" ch="potato"><img src="thumb/potato.png"/></div>
+		<!-- <div class="ch" ch="potato"><img src="thumb/potato.png"/></div> -->
 		<div class="ch" ch="tephra"><img src="thumb/tephra.png"/></div>
 		<div class="ch" ch="melody"><img src="thumb/melody.png"/></div>
 		<div class="ch" ch="jerboa"><img src="thumb/jerboa.png"/></div>
 		<div class="ch" ch="tundra"><img src="thumb/tundra.png"/></div>
-		<div class="ch" ch="myriad"><img src="thumb/myriad.png"/></div>
+		<!-- <div class="ch" ch="myriad"><img src="thumb/myriad.png"/></div> -->
 		<div class="ch" ch="alaska"><img src="thumb/alaska.png"/></div>
+		<div class="ch unrevealed" ch="starry"><img src="thumb/starry.png"/></div>
 		<div class="ch unrevealed" ch="peacock"><img src="thumb/peacock.png"/></div>
 		<div class="ch unrevealed" ch="dragonfly"><img src="thumb/dragonfly.png"/></div>
 	</div>
 	<div id="descs">
-		<div class="desc" id="sparky">
+		<div class="desc" id="sparky" style="--c: #0cf;">
 			<h1>Sparky</h1>
-			<p>What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!</p>
+			<p class="quote">What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!</p>
+			<h2>Reference</h2>
+			<img src="turn/sparky.png"/>
+			<img src="exp/sparky.png"/>
 		</div>
-		<div class="desc" id="ribbon">
+		<div class="desc" id="amber" style="--c: #e15f19;">
+			<h1>Amber</h1>
+		</div>
+		<div class="desc" id="ribbon" style="--c: #e368d3;">
 			<h1>Ribbon</h1>
-			<p>I can give you cake. I can give you donuts. I can give you pancakes. I only want one thing in return: gratitude.</p>
+			<p class="quote">I can give you cake. I can give you donuts. I can give you pancakes. I only want one thing in return: gratitude.</p>
 		</div>
-		<div class="desc" id="tephra">
+		<div class="desc" id="tephra" style="--c: #008282;">
 			<h1>Tephra</h1>
-			<p>Sit the fuck down everyone. The investigation is underway.</p>
+			<p class="quote">Sit the fuck down everyone. The investigation is underway.</p>
 		</div>
-		<div class="desc" id="tundra">
+		<div class="desc" id="tundra" style="--c: #800080;">
 			<h1>Tundra</h1>
-			<p>What's the big deal?</p>
+			<p class="quote">What's the big deal?</p>
 		</div>
-		<div class="desc" id="cosmo">
+		<div class="desc" id="cosmo" style="--c: #998cbd;">
 			<h1>Cosmo</h1>
-			<p>Stop bothering me!</p>
+			<p class="quote">Press, press, please make way!</p>
 		</div>
 		<div class="desc" id="myriad">
 			<h1>Myriad</h1>
 			<p>The press. Please make way. MOVE!</p>
 		</div>
-		<div class="desc" id="jerboa">
+		<div class="desc" id="jerboa" style="--c: #0867af;">
 			<h1>Jerboa</h1>
-			<p>Lemonade? Sweet lemonade? Salty lemonade? Peppered?</p>
+			<p class="quote">Lemonade? Sweet lemonade? Salty lemonade? Peppered?</p>
 		</div>
 		<div class="desc" id="icicle">
 			<h1>Icicle</h1>
 			<p></p>
 		</div>
-		<div class="desc" id="tomato">
+		<div class="desc" id="tomato" style="--c: #A10000;">
 			<h1>Tomato</h1>
-			<p>I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...</p>
+			<p class="quote">I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...</p>
 		</div>
 		<div class="desc" id="potato">
 			<h1>Potato</h1>
 			<p>Here's your newspaper have a nice day bye!</p>
 		</div>
-		<div class="desc" id="guillotine">
+		<div class="desc" id="guillotine" style="--c: #d0ae3a;">
 			<h1>???</h1>
-			<p>???</p>
+			<p class="quote">???</p>
 		</div>
-		<div class="desc" id="alaska">
+		<div class="desc" id="alaska" style="--c: #6C0404;">
 			<h1>Alaska</h1>
-			<p>WOW!</p>
+			<p class="quote">WOW!</p>
 		</div>
-		<div class="desc" id="melody">
+		<div class="desc" id="starry" style="--c: #CC770F;">
+			<h1>Starry</h1>
+			<p class="quote">zzz...</p>
+		</div>
+		<div class="desc" id="melody" style="--c: #426600;">
 			<h1>Melody</h1>
-			<p>...</p>
+			<p class="quote">...</p>
 		</div>
-		<div class="desc" id="peacock">
+		<div class="desc" id="peacock" style="--c: #2300ff;">
 			<h1>Scarface</h1>
-			<p></p>
+			<p class="quote">(No quote yet)</p>
 		</div>
-		<div class="desc" id="dragonfly">
+		<div class="desc" id="dragonfly" style="--c: #00adad;">
 			<h1>Dragonfly</h1>
-			<p></p>
+			<p class="quote">(No quote yet)</p>
 		</div>
 	</div>
 </div>
