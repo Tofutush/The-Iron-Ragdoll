@@ -1,67 +1,35 @@
-<!DOCTYPE html>
-<html>
+
+<!doctype html>
+<html lang="en">
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLQ8ZWC7GZ"></script>
 <script>if(!window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')){window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-CLQ8ZWC7GZ');}</script>
 <title>The Iron Ragdoll | Log</title>
 <link rel="stylesheet" href="../style.css"/>
+<link rel="stylesheet" href="log.css"/>
+
 <link rel="icon" href="../icon.ico"/>
-<style>
-	.chapter h1 {
-		font-size: 40px;
-		margin-bottom: 0;
-	}
-	.chapter a {
-		color: #0cf;
-	}
-	.chapter p {
-		font-size: 16px;
-		margin-top: 0;
-		text-indent: 2em;
-	}
-	#episodes {
-		color: #fff;
-		font-size: 30px;
-		margin-bottom: 24px;
-	}
-	#episodes td:first-child {
-		font-size: 28px;
-		text-align: right;
-		vertical-align: bottom;
-	}
-	/* date */
-	#episodes td:nth-child(2) {
-		font-size: 12px;
-		white-space: nowrap;
-		vertical-align: bottom;
-	}
-	/* dot line */
-	#episodes td:nth-child(3) {
-		font-size: 28px;
-		padding: 5px;
-		width: 100%;
-	}
-	#episodes td:last-child {
-		text-align: left;
-	}
-	.dot-line {
-		border-top: 5px dotted #fffb;
-	}
-</style>
+
 </head>
 <body>
 <div id="header">
-	<div id="title"><a href="/The-Iron-Ragdoll">The Iron Ragdoll</a></div>
+	<div id="title">
+	<a href="../">The Iron Ragdoll</a>
+	
+	</div>
 	<div id="linx">
+		
 		<a target="_blank" href="../about">About</a>
+		
+		
+		<a target="_blank" href="../log">Log</a>
+		
+		
 		<a target="_blank" href="../characters">Characters</a>
-		<!-- <div class="dpdn">
-			<a>Characters</a>
-			<ul class="dpdn-ul" style="margin: 0 48px">
-				<a target="_blank" href="https://artfight.net/~Tofutush">Art Fight</a>
-			</ul>
-		</div> -->
+		
 		<div class="dpdn">
 			<a>Mirrors</a>
 			<ul class="dpdn-ul">
@@ -77,9 +45,11 @@
 		</div>
 	</div>
 </div>
+
 <div id="comic">
-	<table id="episodes" cellspacing="10"></table>
-</div>
+
+<table id="episodes" cellspacing="10"></table>
+
 <script src="../episodes.js"></script>
 <script>
 window.onload = function() {
@@ -103,7 +73,9 @@ window.onload = function() {
 		}
 	};
 }
-	function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
+function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
 </script>
+</div>
+
 </body>
 </html>
