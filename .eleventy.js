@@ -18,7 +18,6 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('page.js');
 	// fonts
 	eleventyConfig.addPassthroughCopy('stuff');
-	
 	return {
 		passthroughFileCopy: true
 	};
