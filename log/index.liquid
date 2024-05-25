@@ -1,0 +1,32 @@
+---
+layout: layout.liquid
+title: Log
+---
+
+<table id="episodes" cellspacing="10"></table>
+
+<script src="../episodes.js"></script>
+<script>
+window.onload = function() {
+	let ep = document.getElementById('episodes');
+	for(let z = 0; z < episodes.length; z++) {
+		let head = elt('td', {className: 'chapter'},
+					elt('h1', {},
+					elt('a', {href: `../?page=${episodes[z][0][1]}`}, episodes[z][0][0])),
+					elt('p', {}, episodes[z][0][2]));
+		head.setAttribute('colspan', '4');
+		ep.appendChild(elt('tr', {}, head));
+		let flag, eps = episodes[z][1];
+		for(let x = 0; x < eps.length; x++) {
+			// check if it's released (but not if local)
+			if(!window.location.href.includes('file:///E:/github/The-Iron-Ragdoll') && new Date().toJSON().slice(0, 10) < eps[x][1]) return;
+			ep.appendChild(elt('tr', {},
+				elt('td', {}, elt('a', {href: `../?page=${eps[x][3]}`}, eps[x][0])),
+				elt('td', {}, eps[x][1]),
+				elt('td', {}, elt('div', {className: 'dot-line'})),
+				elt('td', {}, eps[x][3].toString())));
+		}
+	};
+}
+function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
+</script>
