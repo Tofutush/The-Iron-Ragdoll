@@ -1,0 +1,77 @@
+---
+title: uh
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CLQ8ZWC7GZ"></script>
+<script>if(!window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')){window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-CLQ8ZWC7GZ');}</script>
+<title>The Iron Ragdoll{% if page.url != '/' %} | {{ title }}{% endif %}</title>
+<link rel="stylesheet" href="{% if page.url != '/' %}../{% endif %}style.css"/>
+{% if page.url == '/log/' %}<link rel="stylesheet" href="log.css"/>{% endif %}
+{% if page.url == '/characters/' %}<link rel="stylesheet" href="characters.css"/>{% endif %}
+<link rel="icon" href="{% if page.url != '/' %}../{% endif %}icon.ico"/>
+{% if page.url == '/' %}<style id="theme"></style>{% endif %}
+</head>
+<body>
+<div id="header">
+	<div id="title">
+	{% if page.url == '/' %}
+	The Iron Ragdoll
+	{% else %}<a href="../">The Iron Ragdoll</a>
+	{% endif %}
+	</div>
+	<div id="linx">
+		{% if page.url == '/' %}
+		<a target="_blank" href="about">About</a>
+		{% else %}
+		<a target="_blank" href="../about">About</a>
+		{% endif %}
+		{% if page.url == '/' %}
+		<a target="_blank" href="/log">Log</a>
+		{% else %}
+		<a target="_blank" href="../log">Log</a>
+		{% endif %}
+		{% if page.url == '/characters/' %}
+		<div class="dpdn">
+			<a>Other</a>
+			<ul class="dpdn-ul">
+				<a target="_blank" href="https://artfight.net/~Tofutush">Art Fight</a>
+				<a target="_blank" href="https://toyhou.se/Tofutush">Toyhouse</a>
+			</ul>
+		</div>
+		{% else %}
+		<a target="_blank" href="../characters">Characters</a>
+		{% endif %}
+		<div class="dpdn">
+			<a>Mirrors</a>
+			<ul class="dpdn-ul">
+				<a target="_blank" href="https://mspfa.com/?s=50350&p=1">MSPFA</a>
+				<a target="_blank" href="https://the-iron-ragdoll.thecomicseries.com">ComicFury</a>
+				<a target="_blank" href="https://tapas.io/series/The-Iron-Ragdoll">Tapas</a>
+				<a target="_blank" href="https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en">NamiComi</a>
+				<a target="_blank" href="https://us.dillyhub.com/project/2fadcccb59fe82c">Dillyhub</a>
+				<a target="_blank" href="https://globalcomix.com/c/the-iron-ragdoll">Globalcomix</a>
+				<p style="font-size: 12px;">I may have too many mirrors.</p>
+				<p style="font-size: 12px;">But then, like backups,<br>one can never have too many mirrors.</p>
+			</ul>
+		</div>
+	</div>
+</div>
+{% if page.url == '/' %}
+<div id="flexbox">
+	<div id="comic">
+	{{ content }}
+	</div>
+</div>
+{% else %}
+<div id="comic">
+{{ content }}
+</div>
+{% endif %}
+</body>
+</html>
