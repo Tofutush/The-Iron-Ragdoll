@@ -3,7 +3,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('0');
 	eleventyConfig.addPassthroughCopy('bg');
 	eleventyConfig.addPassthroughCopy('characters');
-	eleventyConfig.addPassthroughCopy('log');
+	eleventyConfig.addPassthroughCopy('chapters');
 	eleventyConfig.addPassthroughCopy('icon.ico');
 	// css
 	eleventyConfig.addPassthroughCopy('style.css');

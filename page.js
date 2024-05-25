@@ -10,27 +10,28 @@ const themes = {
 
 let url = new URLSearchParams(window.location.search);
 
-// get maxPageNum
-let dateString = new Date().toJSON().slice(0, 10);
-for(let z = 0; z < episodes.length; z++) {
-	let eps = episodes[z][1];
-	let flag;
-	for(let x = 0; x < eps.length; x++) {
-		// once we hit a date larger than today, break
-		if(dateString < eps[x][1]) {
-			flag = true;
-			break;
-		}
-		// else, set the maxPageNum and go on
-		maxPageNum = eps[x][3] + eps[x][2] - 1;
-	}
-	if(flag) break;
-}
-// if local, always see all
-if(window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')) {
-	let last = episodes[episodes.length - 1][1][episodes[episodes.length - 1][1].length - 1];
-	maxPageNum = last[3] + last[2] - 1;
-}
+// // get maxPageNum
+// let dateString = new Date().toJSON().slice(0, 10);
+// for(let z = 0; z < episodes.length; z++) {
+// 	let eps = episodes[z][1];
+// 	let flag;
+// 	for(let x = 0; x < eps.length; x++) {
+// 		// once we hit a date larger than today, break
+// 		if(dateString < eps[x][1]) {
+// 			flag = true;
+// 			break;
+// 		}
+// 		// else, set the maxPageNum and go on
+// 		maxPageNum = eps[x][3] + eps[x][2] - 1;
+// 	}
+// 	if(flag) break;
+// }
+maxPageNum = episodes[episodes.length - 1][episodes[episodes.length - 1].length - 1];
+// // if local, always see all
+// if(window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')) {
+// 	let last = episodes[episodes.length - 1][1][episodes[episodes.length - 1][1].length - 1];
+// 	maxPageNum = last[3] + last[2] - 1;
+// }
 
 let TIR = new Comic(
 	"The Iron Ragdoll",
