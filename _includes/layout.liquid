@@ -32,7 +32,7 @@ title: uh
 		<a target="_blank" href="../about">About</a>
 		{% endif %}
 		{% if page.url == '/' %}
-		<a target="_blank" href="/chapters">Chapters</a>
+		<a target="_blank" href="chapters">Chapters</a>
 		{% else %}
 		<a target="_blank" href="../chapters">Chapters</a>
 		{% endif %}
@@ -44,6 +44,8 @@ title: uh
 				<a target="_blank" href="https://toyhou.se/Tofutush">Toyhouse</a>
 			</ul>
 		</div>
+		{% elsif page.url == '/' %}
+			<a target="_blank" href="characters">Characters</a>
 		{% else %}
 		<a target="_blank" href="../characters">Characters</a>
 		{% endif %}
