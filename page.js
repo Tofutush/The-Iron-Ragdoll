@@ -26,6 +26,7 @@ let url = new URLSearchParams(window.location.search);
 // 	}
 // 	if(flag) break;
 // }
+console.log(episodes, episodes[episodes.length - 1][episodes[episodes.length - 1].length - 1]);
 maxPageNum = episodes[episodes.length - 1][episodes[episodes.length - 1].length - 1];
 // // if local, always see all
 // if(window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')) {
