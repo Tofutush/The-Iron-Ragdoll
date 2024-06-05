@@ -1,25 +1,35 @@
 ---
 layout: layout.liquid
-title: Page {{ pagination.items[0].pagenum }}
 pagination:
   data: comicpages
   size: 1
-permalink: "page-{{ pagination.items[0].pagenum }}/"
+permalink: "page-{{ pagination.pageNumber }}/"
+eleventyComputed:
+  title: "Page {{ pagination.pageNumber }}"
+  bg: "/bg/{{ pagination.items[0].bg }}.png"
 ---
 
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="img"><img src="{{ pagination.items[0].pagenum | getimgurl }}"/></div>
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
-
 <div id="save">
 	<a>Save place</a>
 	<a>Load place</a>
 </div>
-<div id="note" class="graybox"></div>
+{% if pagination.items[0].note %}
+  <div id="note" class="graybox">{{ pagination.items[0].note }}</div>
+{% endif %}
+<script>
+  let saveButton = document.getElementById('save').children;
+  saveButton[0].addEventListener('click', e => {
+      localStorage.setItem('place', {{ pagination.pageNumber }});
+      alert(`Page {{ pagination.pageNumber }} saved!`);
+  });
+  saveButton[1].addEventListener('click', e => {
+      let place = localStorage.getItem('place');
+      if(place) window.open(`/page-${place}/`);
+      else alert('no place was saved!');
+  });
+</script>
 </div>
-<!--<div id="translation"><div class="graybox">nothing going on here yet.</div></div>-->
 </div>
-{% comment %} <script src="episodes.js"></script>
-<script src="authornotes.js"></script>
-<script src="comic.js"></script>
-<script src="page.js"></script> {% endcomment %}
