@@ -5,17 +5,20 @@ title: uh
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Google tag (gtag.js) -->
-{% comment %} <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLQ8ZWC7GZ"></script>
-<script>if(!window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')){window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-CLQ8ZWC7GZ');}</script> {% endcomment %}
-<title>The Iron Ragdoll{% if page.url != '/' %} | {{ title }}{% endif %}</title>
-<link rel="stylesheet" href="{% if page.url != '/' %}../{% endif %}style.css"/>
-{% if page.url == '/chapters/' %}<link rel="stylesheet" href="chapters.css"/>{% endif %}
-{% if page.url == '/characters/' %}<link rel="stylesheet" href="characters.css"/>{% endif %}
-<link rel="icon" href="{% if page.url != '/' %}../{% endif %}icon.ico"/>
-{% if page.url == '/' %}<style id="theme"></style>{% endif %}
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>The Iron Ragdoll{% if page.url != '/' %} | {{ title }}{% endif %}</title>
+	<link rel="stylesheet" href="{% if page.url != '/' %}../{% endif %}style.css"/>
+	{% if page.url == '/chapters/' %}<link rel="stylesheet" href="chapters.css"/>{% endif %}
+	{% if page.url == '/characters/' %}<link rel="stylesheet" href="characters.css"/>{% endif %}
+	<link rel="icon" href="{% if page.url != '/' %}../{% endif %}icon.ico"/>
+	{% if page.url contains '/page-' %}
+		<style>
+		body {
+			background-image: url({{ bg }});
+		}
+		</style>
+	{% endif %}
 </head>
 <body>
 <div id="header">

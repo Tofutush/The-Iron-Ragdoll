@@ -1,6 +1,6 @@
 module.exports = function(eleventyConfig) {
 	// images
-	eleventyConfig.addPassthroughCopy('0');
+	eleventyConfig.addPassthroughCopy('comics');
 	eleventyConfig.addPassthroughCopy('bg');
 	eleventyConfig.addPassthroughCopy('characters');
 	eleventyConfig.addPassthroughCopy('chapters');
@@ -9,15 +9,16 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('style.css');
 	// eleventyConfig.addPassthroughCopy('characters/style.css');
 	// js
-	eleventyConfig.addPassthroughCopy('authornotes.js');
-	eleventyConfig.addPassthroughCopy('comic.js');
-	eleventyConfig.addPassthroughCopy('episodes.js');
-	eleventyConfig.addPassthroughCopy('page.js');
+	eleventyConfig.addPassthroughCopy('comicpages.js');
+	// eleventyConfig.addPassthroughCopy('authornotes.js');
+	// eleventyConfig.addPassthroughCopy('comic.js');
+	// eleventyConfig.addPassthroughCopy('episodes.js');
+	// eleventyConfig.addPassthroughCopy('page.js');
 	// fonts
 	eleventyConfig.addPassthroughCopy('stuff');
 	eleventyConfig.addFilter('getimgurl', function(num) {
 		num = parseInt(num);
-		return String('/' + Math.floor(num / 100) + '/' + num + '.png')
+		return String('/comics/' + Math.floor(num / 100) + '/' + num + '.png')
 	});
 	eleventyConfig.addShortcode('arrows', function(f, p, n, l, num) {
 		return `
