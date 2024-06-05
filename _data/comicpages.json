@@ -3,25 +3,29 @@
 		"pagenum": 0,
 		"chapter": 0,
 		"bg": "forest-night",
-		"theme": "night"
+		"theme": "night",
+		"date": "2023-08-14"
 	},
 	{
 		"pagenum": 1,
 		"chapter": 1,
 		"bg": "forest-night",
 		"theme": "night",
-		"note": "<p>This is the start of The Iron Ragdoll! Thanks a lot for your willingness to give this a shot!</p><p>The Iron Ragdoll is also available on other platforms (see dropdown menu when hovering "Other" above). It would be so kind of you subscribe and leave comments!</p>`"
+		"date": "2023-08-14",
+		"note": "<p>This is the start of The Iron Ragdoll! Thanks a lot for your willingness to give this a shot!</p><p>The Iron Ragdoll is also available on other platforms (see dropdown menu when hovering \"Other\" above). It would be so kind of you subscribe and leave comments!</p>`"
 	},
 	{
 		"pagenum": 2,
 		"chapter": 1,
 		"bg": "forest-night",
-		"theme": "night"
+		"theme": "night",
+		"date": "2023-08-14"
 	},
 	{
 		"pagenum": 3,
 		"chapter": 1,
 		"bg": "forest-night",
-		"theme": "night"
+		"theme": "night",
+		"date": "2023-08-14"
 	}
 ]
