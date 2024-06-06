@@ -9,7 +9,6 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('style.css');
 	// eleventyConfig.addPassthroughCopy('characters/style.css');
 	// js
-	eleventyConfig.addPassthroughCopy('comicpages.js');
 	// eleventyConfig.addPassthroughCopy('authornotes.js');
 	// eleventyConfig.addPassthroughCopy('comic.js');
 	// eleventyConfig.addPassthroughCopy('episodes.js');

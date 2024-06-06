@@ -8,7 +8,7 @@ title: uh
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>The Iron Ragdoll{% if page.url != '/' %} | {{ title }}{% endif %}</title>
-	<link rel="stylesheet" href="{% if page.url != '/' %}../{% endif %}style.css"/>
+	<link rel="stylesheet" href="/style.css"/>
 	{% if page.url == '/chapters/' %}<link rel="stylesheet" href="chapters.css"/>{% endif %}
 	{% if page.url == '/characters/' %}<link rel="stylesheet" href="characters.css"/>{% endif %}
 	<link rel="icon" href="{% if page.url != '/' %}../{% endif %}icon.ico"/>
@@ -67,16 +67,10 @@ title: uh
 		</div>
 	</div>
 </div>
-{% if page.url == '/' %}
 <div id="flexbox">
 	<div id="comic">
 	{{ content }}
 	</div>
 </div>
-{% else %}
-<div id="comic">
-{{ content }}
-</div>
-{% endif %}
 </body>
 </html>
