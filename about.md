@@ -3,9 +3,9 @@ layout: layout.liquid
 title: About
 ---
 
-Apparently, seeing the literal ghost of the victim doesn't make solving the murder easier.
+*Apparently, seeing the literal ghost of the victim doesn't make solving the murder any easier.*
 
-Sparky just wants to go home.
+*Sparky just wants to go home.*
 
 # About
 
@@ -15,8 +15,8 @@ Also available on [MSPFA](https://mspfa.com/?s=50350&p=1), [Globalcomix](https:/
 
 # Let me tell you about Homestuck.
 
-*The Iron Ragdoll* is heavily inspired by the webcomic [Homestuck](https://www.homestuck.com) by Andrew Hussie, because I love that comic. You should read it too! ... Or not.
+*The Iron Ragdoll* is heavily inspired by the webcomic [Homestuck](https://www.homestuck.com) by Andrew Hussie, because I love that comic. You should read it too! ... Or not. Nope nope definitely not. The impact Homestuck has on a person lasts for a lifetime, whether you like it or not.
 
-*The Iron Ragdoll* was originally the backstory of a character, also called Sparky, in my Homestuck fan adventure, Forty Donuts. When her backstory developed so, I decided to simply make it into my original comic. The Sparky in Forty Donuts now has a boring mundane backstory now, but I don't regret it.
+This was originally the backstory of a character, also called Sparky, in my Homestuck fan adventure. Then I decided to simply make it into my original comic. So, here it is.
 
-And that's why even though it is not a fanwork of Homestuck, it still has a lot of Homestuck elements, such as six-letter names, the aliased art style, and a lot of people wearing gray or black clothes with symbols on them. The ears and horns are a substitute for troll horns, because a lot of character designs look weird without them.
+And that's why this comic still smells Honestuck-y. Six-letter names, the aliased art style, a lot of people wearing gray or black clothes with symbols on them... The ears and horns are a substitute for troll horns, because a lot of character designs look weird without them.
