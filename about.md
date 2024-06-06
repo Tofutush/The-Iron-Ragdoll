@@ -3,11 +3,13 @@ layout: layout.liquid
 title: About
 ---
 
+Apparently, seeing the literal ghost of the victim doesn't make solving the murder easier.
+
+Sparky just wants to go home.
+
 # About
 
 *The Iron Ragdoll* is a webcomic by Tofutush.
-
-"What's worse than being kidnapped on your birthday? Trying to solve a stale mystery when nearly everyone else is trying to push you towards their own version of the truth? Maybe. Living in a town full of unwanted children with everything constantly going to hell? Maybe. Sparky experiences all three, and more."
 
 Also available on [MSPFA](https://mspfa.com/?s=50350&p=1), [Globalcomix](https://globalcomix.com/c/the-iron-ragdoll), [ComicFury](https://the-iron-ragdoll.thecomicseries.com), [NamiComi](https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en), and [Tapas](https://tapas.io/series/The-Iron-Ragdoll)
 

@@ -3,7 +3,7 @@ layout: layout.liquid
 pagination:
   data: comicpages
   size: 1
-permalink: "page-{{ pagination.pageNumber }}/"
+permalink: "{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber }}{% endif %}/"
 eleventyComputed:
   title: "Page {{ pagination.pageNumber }}"
   bg: "/bg/{{ pagination.items[0].bg }}.png"
@@ -27,7 +27,10 @@ eleventyComputed:
   });
   saveButton[1].addEventListener('click', e => {
       let place = localStorage.getItem('place');
-      if(place) window.open(`/page-${place}/`);
+      if(place) {
+        if(place == 0) window.open('/');
+        else window.open(`/page-${place}/#comic`);
+      }
       else alert('no place was saved!');
   });
 </script>

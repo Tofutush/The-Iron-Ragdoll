@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>The Iron Ragdoll | Log</title>
-	<link rel="stylesheet" href="../style.css"/>
+	<link rel="stylesheet" href="/style.css"/>
 	<link rel="stylesheet" href="chapters.css"/>
 	
 	<link rel="icon" href="../icon.ico"/>
@@ -42,9 +42,9 @@
 		</div>
 	</div>
 </div>
-
-<div id="comic">
-
+<div id="flexbox">
+	<div id="comic">
+	
 <script src="../episodes.js"></script>
 <script>
 let c = document.getElementById('comic');
@@ -82,7 +82,7 @@ for(let z = 0; z < episodes.length; z++) {
 // }
 function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
 </script>
+	</div>
 </div>
-
 </body>
 </html>

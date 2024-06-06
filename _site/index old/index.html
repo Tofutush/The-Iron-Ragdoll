@@ -1,57 +1,32 @@
----
-title: uh
----
 
 <!doctype html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>The Iron Ragdoll{% if page.url != '/' %} | {{ title }}{% endif %}</title>
+	<title>The Iron Ragdoll | uh</title>
 	<link rel="stylesheet" href="/style.css"/>
-	{% if page.url == '/chapters/' %}<link rel="stylesheet" href="chapters.css"/>{% endif %}
-	{% if page.url == '/characters/' %}<link rel="stylesheet" href="characters.css"/>{% endif %}
-	<link rel="icon" href="{% if page.url != '/' %}../{% endif %}icon.ico"/>
-	{% if page.url contains '/page-' %}
-		<style>
-		body {
-			background-image: url({{ bg }});
-		}
-		</style>
-	{% endif %}
+	
+	
+	<link rel="icon" href="../icon.ico"/>
+	
 </head>
 <body>
 <div id="header">
 	<div id="title">
-	{% if page.url == '/' %}
-	The Iron Ragdoll
-	{% else %}<a href="../">The Iron Ragdoll</a>
-	{% endif %}
+	<a href="../">The Iron Ragdoll</a>
+	
 	</div>
 	<div id="linx">
-		{% if page.url == '/' %}
-		<a target="_blank" href="about">About</a>
-		{% else %}
+		
 		<a target="_blank" href="../about">About</a>
-		{% endif %}
-		{% if page.url == '/' %}
-		<a target="_blank" href="chapters">Chapters</a>
-		{% else %}
+		
+		
 		<a target="_blank" href="../chapters">Chapters</a>
-		{% endif %}
-		{% if page.url == '/characters/' %}
-		<div class="dpdn">
-			<a>Other</a>
-			<ul class="dpdn-ul">
-				<a target="_blank" href="https://artfight.net/~Tofutush">Art Fight</a>
-				<a target="_blank" href="https://toyhou.se/Tofutush">Toyhouse</a>
-			</ul>
-		</div>
-		{% elsif page.url == '/' %}
-			<a target="_blank" href="characters">Characters</a>
-		{% else %}
+		
+		
 		<a target="_blank" href="../characters">Characters</a>
-		{% endif %}
+		
 		<div class="dpdn">
 			<a>Mirrors</a>
 			<ul class="dpdn-ul">
@@ -69,7 +44,7 @@ title: uh
 </div>
 <div id="flexbox">
 	<div id="comic">
-	{{ content }}
+	<a href="/page-0">page 0</a>
 	</div>
 </div>
 </body>
