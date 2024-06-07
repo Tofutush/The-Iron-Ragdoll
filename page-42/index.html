@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>The Iron Ragdoll | About</title>
+	<title>The Iron Ragdoll | Page 42</title>
 	<style>@font-face {
 	font-family: lexend;
 	src: url(stuff/Lexend.ttf);
@@ -164,6 +164,17 @@ a:hover {
 	
 	<link rel="icon" href="../icon.ico"/>
 	
+		<style>
+		body {
+			background-image: url(../bg/tavern.png);
+		}
+		
+			:root {
+				--text: #fff;
+			}
+		
+		</style>
+	
 </head>
 <body>
 <div id="header">
@@ -198,16 +209,48 @@ a:hover {
 </div>
 <div id="flexbox">
 	<div id="comic">
-	<p><em>Apparently, seeing the literal ghost of the victim doesn't make solving the murder any easier.</em></p>
-<p><em>Sparky just wants to go home.</em></p>
-<h1>About</h1>
-<p><em>The Iron Ragdoll</em> is a webcomic by Tofutush.</p>
-<p>Also available on <a href="https://mspfa.com/?s=50350&amp;p=1">MSPFA</a>, <a href="https://globalcomix.com/c/the-iron-ragdoll">Globalcomix</a>, <a href="https://the-iron-ragdoll.thecomicseries.com">ComicFury</a>, <a href="https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en">NamiComi</a>, and <a href="https://tapas.io/series/The-Iron-Ragdoll">Tapas</a></p>
-<h1>Let me tell you about Homestuck.</h1>
-<p><em>The Iron Ragdoll</em> is heavily inspired by the webcomic <a href="https://www.homestuck.com">Homestuck</a> by Andrew Hussie, because I love that comic. You should read it too! ... Or not. Nope nope definitely not. The impact Homestuck has on a person lasts for a lifetime, whether you like it or not.</p>
-<p>This was originally the backstory of a character, also called Sparky, in my Homestuck fan adventure. Then I decided to simply make it into my original comic. So, here it is.</p>
-<p>And that's why this comic still smells Honestuck-y. Six-letter names, the aliased art style, a lot of people wearing gray or black clothes with symbols on them... The ears and horns are a substitute for troll horns, because a lot of character designs look weird without them.</p>
+	
 
+<div class="options">
+	<a  href="../#comic"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m11 17-5-5 5-5"/><path d="m18 17-5-5 5-5"/></svg></a>
+	<a  href="../page-41/#comic"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m15 18-6-6 6-6"/></svg></a>
+	<p>Page <span class="pagenum" contenteditable="true">42</span></p>
+	<a  href="../page-43/#comic"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m9 18 6-6-6-6"/></svg></a>
+	<a  href="../page-56/#comic"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m6 17 5-5-5-5"/><path d="m13 17 5-5-5-5"/></svg></a>
+</div>
+		
+<div id="img"><img src="/comics/0/42.png"/></div>
+
+<div class="options">
+	<a  href="../#comic"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m11 17-5-5 5-5"/><path d="m18 17-5-5 5-5"/></svg></a>
+	<a  href="../page-41/#comic"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m15 18-6-6 6-6"/></svg></a>
+	<p>Page <span class="pagenum" contenteditable="true">42</span></p>
+	<a  href="../page-43/#comic"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m9 18 6-6-6-6"/></svg></a>
+	<a  href="../page-56/#comic"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m6 17 5-5-5-5"/><path d="m13 17 5-5-5-5"/></svg></a>
+</div>
+		
+<div id="save">
+	<a>Save place</a>
+	<a>Load place</a>
+</div>
+
+<script>
+  let saveButton = document.getElementById('save').children;
+  saveButton[0].addEventListener('click', e => {
+      localStorage.setItem('place', 42);
+      alert(`Page 42 saved!`);
+  });
+  saveButton[1].addEventListener('click', e => {
+      let place = localStorage.getItem('place');
+      if(place) {
+        if(place == 0) window.open('/');
+        else window.open(`/page-${place}/#comic`);
+      }
+      else alert('no place was saved!');
+  });
+</script>
+</div>
+</div>
 	</div>
 </div>
 </body>
