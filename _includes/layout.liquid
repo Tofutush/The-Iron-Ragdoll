@@ -1,22 +1,36 @@
----
-title: uh
----
-
 <!doctype html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>The Iron Ragdoll{% if page.url != '/' %} | {{ title }}{% endif %}</title>
-	<link rel="stylesheet" href="/style.css"/>
+	<style>{% include 'style.css' %}</style>
 	{% if page.url == '/chapters/' %}<link rel="stylesheet" href="chapters.css"/>{% endif %}
 	{% if page.url == '/characters/' %}<link rel="stylesheet" href="characters.css"/>{% endif %}
 	<link rel="icon" href="{% if page.url != '/' %}../{% endif %}icon.ico"/>
-	{% if page.url contains '/page-' %}
+	{% if page.url contains '/page-' or page.url == '/' %}
 		<style>
 		body {
 			background-image: url({{ bg }});
 		}
+		{% if theme == 'night' %}
+			:root {
+				--text: #fff;
+			}
+		{% elsif theme == 'day' %}
+			:root {
+				--text: #000;
+			}
+		  	#header {
+				background-image: none;
+			}
+		  	#title {
+				text-shadow: none;
+			}
+		  	.dpdn-ul {
+				background-color: #ffffff80;
+			}
+		{% endif %}
 		</style>
 	{% endif %}
 </head>
