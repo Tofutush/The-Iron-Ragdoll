@@ -36,35 +36,20 @@
 </head>
 <body>
 <div id="header">
-	<div id="title">
-	{% if page.url == '/' %}
-	The Iron Ragdoll
-	{% else %}<a href="../">The Iron Ragdoll</a>
-	{% endif %}
-	</div>
+	<div id="title"><a href="/">The Iron Ragdoll</a></div>
 	<div id="linx">
-		{% if page.url == '/' %}
-		<a target="_blank" href="about">About</a>
-		{% else %}
-		<a target="_blank" href="../about">About</a>
-		{% endif %}
-		{% if page.url == '/' %}
-		<a target="_blank" href="chapters">Chapters</a>
-		{% else %}
-		<a target="_blank" href="../chapters">Chapters</a>
-		{% endif %}
+		<a target="_blank" href="/about">About</a>
+		<a target="_blank" href="/chapters">Chapters</a>
 		{% if page.url == '/characters/' %}
-		<div class="dpdn">
-			<a>Other</a>
-			<ul class="dpdn-ul">
-				<a target="_blank" href="https://artfight.net/~Tofutush">Art Fight</a>
-				<a target="_blank" href="https://toyhou.se/Tofutush">Toyhouse</a>
-			</ul>
-		</div>
-		{% elsif page.url == '/' %}
-			<a target="_blank" href="characters">Characters</a>
+			<div class="dpdn">
+				<a>Other</a>
+				<ul class="dpdn-ul">
+					<a target="_blank" href="https://artfight.net/~Tofutush">Art Fight</a>
+					<a target="_blank" href="https://toyhou.se/Tofutush">Toyhouse</a>
+				</ul>
+			</div>
 		{% else %}
-		<a target="_blank" href="../characters">Characters</a>
+			<a target="_blank" href="/characters">Characters</a>
 		{% endif %}
 		<div class="dpdn">
 			<a>Mirrors</a>
