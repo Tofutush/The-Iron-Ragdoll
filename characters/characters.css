@@ -16,7 +16,7 @@ body::-webkit-scrollbar {
 
 .ch {
 	align-items: center;
-	background-color: #fffa;
+	background-color: #fff8;
 	border-radius: 16px;
 	display: flex;
 	height: 120px;
@@ -30,12 +30,12 @@ body::-webkit-scrollbar {
 }
 
 .ch:hover {
-	background-color: #fffb;
+	background-color: #fffa;
 	cursor: pointer;
 }
 
 .ch.active {
-	background-color: #fffc;
+	background-color: #fffb;
 }
 
 .unrevealed img {
@@ -44,7 +44,7 @@ body::-webkit-scrollbar {
 
 .unrevealed:hover {
 	cursor: default;
-	background-color: #fffa;
+	background-color: #fff8;
 }
 
 .desc > * {
@@ -56,14 +56,14 @@ body::-webkit-scrollbar {
 }
 
 .desc img {
-	background-color: #fffa;
+	background-color: #fff8;
 	border-radius: 16px;
 	width: 100%;
 	user-select: none;
 }
 
 .quote {
-	border: 3px solid #fffa;
+	border: 3px solid #fff8;
 	border-radius: 12px;
 	padding: 1em;
 }
@@ -74,10 +74,10 @@ body::-webkit-scrollbar {
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: #fffa;
+	background-color: #fff8;
 	border-radius: 999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-	background-color: #fffb;
+	background-color: #fffa;
 }
