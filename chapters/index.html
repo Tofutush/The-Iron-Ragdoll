@@ -1,18 +1,169 @@
-
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CLQ8ZWC7GZ"></script>
-<script>if(!window.location.href.includes('file:///E:/github/The-Iron-Ragdoll')){window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-CLQ8ZWC7GZ');}</script>
-<title>The Iron Ragdoll | Log</title>
-<link rel="stylesheet" href="../style.css"/>
-<link rel="stylesheet" href="chapters.css"/>
-
-<link rel="icon" href="../icon.ico"/>
-
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>The Iron Ragdoll | Chapters</title>
+	<style>@font-face {
+	font-family: lexend;
+	src: url(stuff/Lexend.ttf);
+}
+:root {
+	--text: #fff;
+	--blue: #0cf;
+}
+body {
+	background-attachment: fixed;
+	background-color: #000;
+	background-size: cover;
+	background-position: center;
+	margin: 0;
+	font-family: lexend;
+}
+h1 {
+	color: var(--blue);
+	font-size: 2em;
+	line-height: 1.5;
+	margin-bottom: 1em;
+	margin-top: 1.5em;
+}
+h2 {
+	color: var(--text);
+}
+p {
+	color: var(--text);
+	font-size: 24px;
+	line-height: 1.5;
+	text-align: justify;
+}
+p a {
+	color: var(--blue);
+}
+i {
+	font-style: normal;
+}
+a {
+	color: var(--text);
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+#header {
+	background-image: linear-gradient(to top, #0000, #000);
+	color: #fff;
+	padding: 30px 0;
+	text-align: center;
+	width: 100%;
+	user-select: none;
+}
+#title {
+	color: var(--text);
+	font-size: 60px;
+	margin: 20px;
+	text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
+}
+#linx {
+	font-size: 35px;
+	margin: 15px;
+	position: relative;
+}
+#linx a {
+	padding: 20px;
+	transition: text-shadow .3s;
+}
+#linx a:hover {
+	text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
+}
+.dpdn {
+	display: inline-block;
+}
+.dpdn > a {
+	cursor: default;
+}
+.dpdn-ul {
+	background-color: #00000080;
+	border-radius: 10px;
+	display: none;
+	font-size: 24px;
+	margin: 0;
+	padding: 10px;
+	position: absolute;
+	z-index: 999;
+}
+.dpdn-ul a {
+	display: block;
+	padding: 10px 0 !important;
+}
+.dpdn:hover .dpdn-ul {
+	display: block;
+}
+#flexbox {
+	display: flex;
+	margin: 0 auto 1em auto;
+	width: fit-content;
+}
+#translation {
+	font-family: 微软雅黑 light;
+	height: fit-content;
+	margin: 90px 2em;
+	position: sticky;
+	top: 30px;
+	width: 250px;
+	z-index: -999;
+}
+#comic {
+	margin: auto;
+	margin-bottom: 2em;
+	width: 800px;
+}
+#comic #img img {
+	width: 100%;
+}
+.options, #save {
+	color: #fff;
+	display: flex;
+	font-size: 30px;
+	justify-content: space-around;
+	margin: 30px 0;
+	width: 100%;
+	user-select: none;
+}
+.options > p {
+	font-size: 32px;
+	margin: 0;
+}
+#save {
+	font-size: 24px;
+}
+.options a, #save a {
+	cursor: pointer;
+	color: var(--text);
+}
+.options svg {
+	stroke: var(--text);
+}
+.noclick svg {
+	opacity: 0.5;
+}
+.noclick:hover {
+	cursor: not-allowed !important;
+}
+.graybox {
+	background-color: #ffffff80;
+	border-radius: 15px;
+	padding: 1em;
+}
+.graybox p:first-child {
+	margin-top: 0;
+}
+.graybox p:last-child {
+	margin-bottom: 0;
+}</style>
+	<link rel="stylesheet" href="chapters.css"/>
+	
+	<link rel="icon" href="../icon.ico"/>
+	
 </head>
 <body>
 <div id="header">
@@ -45,47 +196,25 @@
 		</div>
 	</div>
 </div>
+<div id="flexbox">
+	<div id="comic">
+	
 
-<div id="comic">
+	<div class="chapter">
+		<h1><a href="../page-1/">Chapter 0: Intro</a></h1>
+		<div class="dot-line"></div>
+		<p>1</p>
+	</div>
+	<p class="chapter-desc">Just the intro.</p>
 
-<script src="../episodes.js"></script>
-<script>
-let c = document.getElementById('comic');
-for(let z = 0; z < episodes.length; z++) {
-	let f = elt('div', {className: 'chapter'},
-		elt('h1', {},
-			elt('a', {href: `../?page=${episodes[z][3]}`}, episodes[z][0])
-		),
-		elt('div', {className: 'dot-line'}),
-		elt('p', {}, episodes[z][3].toString())
-	);
-	c.appendChild(f);
-	c.appendChild(elt('p', {className: 'chapter-desc'}, episodes[z][2]));
-}
-// window.onload = function() {
-// 	let ep = document.getElementById('episodes');
-// 	for(let z = 0; z < episodes.length; z++) {
-// 		let head = elt('td', {className: 'chapter'},
-// 					elt('h1', {},
-// 					elt('a', {href: `../?page=${episodes[z][0][1]}`}, episodes[z][0][0])),
-// 					elt('p', {}, episodes[z][0][2]));
-// 		head.setAttribute('colspan', '4');
-// 		ep.appendChild(elt('tr', {}, head));
-// 		let flag, eps = episodes[z][1];
-// 		for(let x = 0; x < eps.length; x++) {
-// 			// check if it's released (but not if local)
-// 			if(!window.location.href.includes('file:///E:/github/The-Iron-Ragdoll') && new Date().toJSON().slice(0, 10) < eps[x][1]) return;
-// 			ep.appendChild(elt('tr', {},
-// 				elt('td', {}, elt('a', {href: `../?page=${eps[x][3]}`}, eps[x][0])),
-// 				elt('td', {}, eps[x][1]),
-// 				elt('td', {}, elt('div', {className: 'dot-line'})),
-// 				elt('td', {}, eps[x][3].toString())));
-// 		}
-// 	};
-// }
-function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
-</script>
+	<div class="chapter">
+		<h1><a href="../page-4/">Chapter 1: Welcome to Hillslope</a></h1>
+		<div class="dot-line"></div>
+		<p>4</p>
+	</div>
+	<p class="chapter-desc">Sparky settles in her new home. She knows it's supposed to be bad, but somehow it's worse.</p>
+
+	</div>
 </div>
-
 </body>
 </html>
