@@ -54,12 +54,12 @@ a:hover {
 #title {
 	color: var(--text);
 	font-size: 60px;
-	margin: 20px;
+	margin: .5em;
 	text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
 }
 #linx {
 	font-size: 35px;
-	margin: 15px;
+	margin: 1em 1em .5em 1em;
 	position: relative;
 }
 #linx a {
