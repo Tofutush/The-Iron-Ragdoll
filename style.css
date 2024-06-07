@@ -76,7 +76,7 @@ a:hover {
 	cursor: default;
 }
 .dpdn-ul {
-	background-color: #00000080;
+	background-color: #fff8;
 	border-radius: 10px;
 	display: none;
 	font-size: 24px;
@@ -144,7 +144,7 @@ a:hover {
 	cursor: not-allowed !important;
 }
 .graybox {
-	background-color: #ffffff80;
+	background-color: #fff8;
 	border-radius: 15px;
 	padding: 1em;
 }
