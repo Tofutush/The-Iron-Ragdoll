@@ -1,0 +1,32 @@
+[
+    {
+        "name": "no",
+        "chars": [
+            {
+                "name": "Sparky",
+                "color": "#0cf"
+            }
+        ]
+    },
+    {
+        "name": "Hillslope",
+        "chars": [
+            {
+                "name": "Ribbon",
+                "color": "#e368d3"
+            },
+            {
+                "name": "Cosmo",
+                "color": "#998cbd"
+            },
+            {
+                "name": "Tomato",
+                "color": "#A10000"
+            },
+            {
+                "name": "Guillotine",
+                "color": "#d0ae3a"
+            }
+        ]
+    }
+]
