@@ -35,5 +35,20 @@
         "cat": "Hillslope",
         "name": "Melody",
         "color": "#426600"
+    },
+    {
+        "cat": "Hillslope",
+        "name": "Jerboa",
+        "color": "#0867af"
+    },
+    {
+        "cat": "Hillslope",
+        "name": "Tundra",
+        "color": "#800080"
+    },
+    {
+        "cat": "Sparky's Family",
+        "name": "Amber",
+        "color": "#e15f19"
     }
 ]

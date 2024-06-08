@@ -3,8 +3,15 @@ layout: layout.liquid
 title: Characters
 ---
 
-{% for ch in characters %}
-	<a href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
+{% assign sparky = characters | getChByName: "Sparky" %}
+<a href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a>
+<br/>
+{% for category in categories %}
+	{% assign cat = characters | getChByCat: category %}
+	{% for ch in cat %}
+		<a href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
+	{% endfor %}
+	<br/>
 {% endfor %}
 
 <p>Click to reveal info.</p>
