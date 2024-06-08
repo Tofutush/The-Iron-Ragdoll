@@ -4,11 +4,12 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>The Iron Ragdoll{% if page.url != '/' %} | {{ title }}{% endif %}</title>
-	<link rel="stylesheet" href="/style.css"/>
-	{% if page.url == '/chapters/' %}<link rel="stylesheet" href="chapters.css"/>{% endif %}
-	{% if page.url == '/characters/' %}<link rel="stylesheet" href="characters.css"/>{% endif %}
-	<link rel="icon" href="{% if page.url != '/' %}../{% endif %}icon.ico"/>
+	<link rel="stylesheet" href="/css/style.css"/>
+	<link rel="icon" href="/icon.ico"/>
+	{% if page.url == '/chapters/' %}<link rel="stylesheet" href="/css/chapters.css"/>{% endif %}
+	{% if page.url contains '/characters/' %}<link rel="stylesheet" href="/css/characters.css"/>{% endif %}
 	{% if page.url contains '/page-' or page.url == '/' %}
+		<link rel="stylesheet" href="/css/comic.css"/>
 		<style>
 		body {
 			background-image: url({{ bg }});

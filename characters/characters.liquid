@@ -1,0 +1,17 @@
+---
+layout: layout.liquid
+pagination:
+  data: characters
+  size: 1
+permalink: "characters/{{ pagination.items[0].name}}/"
+eleventyComputed:
+  title: "{{ pagination.items[0].name }}"
+---
+
+<div class="desc" id="sparky" style="--c: {{ pagination.items[0].color }};">
+	<h1>{{ pagination.items[0].name }}</h1>
+	<p class="quote">{{ pagination.items[0].quote }}</p>
+	<h2>Reference</h2>
+	<img src="/img/characters/turn/{{ pagination.items[0].name | lowerCase }}.png"/>
+	<img src="/img/characters/exp/{{ pagination.items[0].name | lowerCase }}.png"/>
+</div>
