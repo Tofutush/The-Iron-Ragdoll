@@ -11,6 +11,13 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('stuff');
 	eleventyConfig.addPassthroughCopy('style.css');
 	// filters
+	eleventyConfig.addFilter('lowerCase', function(s) {
+		console.log(s);
+		console.log(s);
+		console.log(s);
+		console.log(s);
+		return s.toLowerCase();
+	});
 	eleventyConfig.addFilter('getimgurl', function(num) {
 		num = parseInt(num);
 		return String('/comics/' + Math.floor(num / 100) + '/' + num + '.png')
