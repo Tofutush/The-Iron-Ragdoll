@@ -15,6 +15,12 @@ module.exports = function(eleventyConfig) {
 		num = parseInt(num);
 		return String('/img/comics/' + Math.floor(num / 100) + '/' + num + '.png')
 	});
+	eleventyConfig.addFilter('getChByName', function(arr, name) {
+		return arr.find(ch => ch.name == name);
+	})
+	eleventyConfig.addFilter('getChByCat', function(arr, cat) {
+		return arr.filter(c => c.cat == cat);
+	});
 	// shortcodes
 	eleventyConfig.addShortcode('arrows', function(f, p, n, l, num) {
 		let dot;
