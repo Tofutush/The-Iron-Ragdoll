@@ -1,32 +1,39 @@
 [
     {
-        "name": "no",
-        "chars": [
-            {
-                "name": "Sparky",
-                "color": "#0cf"
-            }
-        ]
+        "cat": "main",
+        "name": "Sparky",
+        "color": "#0cf",
+        "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!"
     },
     {
-        "name": "Hillslope",
-        "chars": [
-            {
-                "name": "Ribbon",
-                "color": "#e368d3"
-            },
-            {
-                "name": "Cosmo",
-                "color": "#998cbd"
-            },
-            {
-                "name": "Tomato",
-                "color": "#A10000"
-            },
-            {
-                "name": "Guillotine",
-                "color": "#d0ae3a"
-            }
-        ]
+        "cat": "Hillslope",
+        "name": "Ribbon",
+        "color": "#e368d3"
+    },
+    {
+        "cat": "Hillslope",
+        "name": "Cosmo",
+        "color": "#998cbd",
+        "quote": "If everyone believes it, then it is the truth."
+    },
+    {
+        "cat": "Hillslope",
+        "name": "Tomato",
+        "color": "#A10000"
+    },
+    {
+        "cat": "Hillslope",
+        "name": "Guillotine",
+        "color": "#d0ae3a"
+    },
+    {
+        "cat": "Hillslope",
+        "name": "Tephra",
+        "color": "#008282"
+    },
+    {
+        "cat": "Hillslope",
+        "name": "Melody",
+        "color": "#426600"
     }
 ]

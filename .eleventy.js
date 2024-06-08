@@ -3,24 +3,17 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	// copies
-	eleventyConfig.addPassthroughCopy('comics');
-	eleventyConfig.addPassthroughCopy('bg');
-	eleventyConfig.addPassthroughCopy('characters');
-	eleventyConfig.addPassthroughCopy('chapters');
+	eleventyConfig.addPassthroughCopy('img');
+	eleventyConfig.addPassthroughCopy('css');
 	eleventyConfig.addPassthroughCopy('icon.ico');
-	eleventyConfig.addPassthroughCopy('stuff');
-	eleventyConfig.addPassthroughCopy('style.css');
+	eleventyConfig.addPassthroughCopy('Lexend.tff');
 	// filters
 	eleventyConfig.addFilter('lowerCase', function(s) {
-		console.log(s);
-		console.log(s);
-		console.log(s);
-		console.log(s);
 		return s.toLowerCase();
 	});
 	eleventyConfig.addFilter('getimgurl', function(num) {
 		num = parseInt(num);
-		return String('/comics/' + Math.floor(num / 100) + '/' + num + '.png')
+		return String('/img/comics/' + Math.floor(num / 100) + '/' + num + '.png')
 	});
 	// shortcodes
 	eleventyConfig.addShortcode('arrows', function(f, p, n, l, num) {
