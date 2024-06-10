@@ -6,12 +6,16 @@ body::-webkit-scrollbar {
 	width: 0 !important;
 }
 
-#chs {
+.chs {
 	display: flex;
-	gap: 24px;
-	overflow-x: scroll;
-	padding: 12px 0;
-	user-select: none;
+	flex-wrap: wrap;
+	gap: 2em;
+}
+
+.chs > div {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
 }
 
 .ch {
@@ -22,6 +26,7 @@ body::-webkit-scrollbar {
 	height: 120px;
 	justify-content: center;
 	margin: auto;
+	user-select: none;
 	width: 120px;
 }
 
@@ -29,13 +34,9 @@ body::-webkit-scrollbar {
 	height: 120px;
 }
 
-.ch:hover {
-	background-color: #fffa;
-	cursor: pointer;
-}
-
-.ch.active {
-	background-color: #fffb;
+.chs > div > a {
+	margin: 0.5em 0;
+	font-size: 24px;
 }
 
 .unrevealed img {
@@ -45,6 +46,12 @@ body::-webkit-scrollbar {
 .unrevealed:hover {
 	cursor: default;
 	background-color: #fff8;
+}
+
+#back {
+	align-items: center;
+	display: flex;
+	font-size: 24px;
 }
 
 .desc > * {

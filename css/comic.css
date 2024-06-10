@@ -1,0 +1,33 @@
+
+#comic #img img {
+	width: 100%;
+}
+.options, #save {
+	color: #fff;
+	display: flex;
+	font-size: 30px;
+	justify-content: space-around;
+	margin: 30px 0;
+	width: 100%;
+	user-select: none;
+}
+.options > p {
+	font-size: 32px;
+	margin: 0;
+}
+#save {
+	font-size: 24px;
+}
+.options a, #save a {
+	cursor: pointer;
+	color: var(--text);
+}
+.options svg {
+	stroke: var(--text);
+}
+.noclick svg {
+	opacity: 0.5;
+}
+.noclick:hover {
+	cursor: not-allowed !important;
+}
