@@ -3,7 +3,7 @@ layout: layout.liquid
 pagination:
   data: characters
   size: 1
-permalink: "characters/{{ pagination.items[0].name}}/"
+permalink: "characters/{{ pagination.items[0].name | lowerCase }}/"
 eleventyComputed:
   title: "{{ pagination.items[0].name }}"
 ---
