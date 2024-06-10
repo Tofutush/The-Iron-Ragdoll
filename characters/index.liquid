@@ -11,7 +11,7 @@ title: Characters
 				<img src="/img/characters/thumb/{{ sparky.name | lowerCase }}.png"/>
 			</a>
 		</div>
-		<a style="color: {{ sparky.color }}" href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a>
+		<a style="--c: {{ sparky.color }}" href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a>
 	</div>
 </div>
 {% for category in categories %}
@@ -25,7 +25,7 @@ title: Characters
 					<img src="/img/characters/thumb/{{ ch.name | lowerCase }}.png"/>
 				</a>
 			</div>
-			<a style="color: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
+			<a style="--c: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
 		</div>
 	{% endfor %}
 	</div>

@@ -35,8 +35,14 @@ body::-webkit-scrollbar {
 }
 
 .chs > div > a {
+	color: var(--c);
 	margin: 0.5em 0;
 	font-size: 24px;
+}
+
+.chs > div > a::selection {
+	background-color: var(--c);
+	color: #fff;
 }
 
 .unrevealed img {

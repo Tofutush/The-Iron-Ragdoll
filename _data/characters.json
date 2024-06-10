@@ -47,6 +47,21 @@
         "color": "#800080"
     },
     {
+        "cat": "Hillslope",
+        "name": "Alaska",
+        "color": "#6C0404"
+    },
+    {
+        "cat": "Hillslope",
+        "name": "Starry",
+        "color": "#CC770F"
+    },
+    {
+        "cat": "Hillslope",
+        "name": "Dragonfly",
+        "color": "#00adad"
+    },
+    {
         "cat": "Sparky's Family",
         "name": "Amber",
         "color": "#e15f19"
