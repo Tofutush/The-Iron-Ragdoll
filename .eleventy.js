@@ -6,7 +6,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('img');
 	eleventyConfig.addPassthroughCopy('css');
 	eleventyConfig.addPassthroughCopy('icon.ico');
-	eleventyConfig.addPassthroughCopy('Lexend.tff');
+	eleventyConfig.addPassthroughCopy('Lexend.ttf');
 	// filters
 	eleventyConfig.addFilter('lowerCase', function(s) {
 		return s.toLowerCase();

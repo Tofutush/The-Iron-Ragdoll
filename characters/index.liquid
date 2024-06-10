@@ -4,17 +4,34 @@ title: Characters
 ---
 
 {% assign sparky = characters | getChByName: "Sparky" %}
-<a href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a>
-<br/>
+<div class="chs">
+	<div>
+		<div class="ch">
+			<a href="{{ sparky.name | lowerCase }}/">
+				<img src="/img/characters/thumb/{{ sparky.name | lowerCase }}.png"/>
+			</a>
+		</div>
+		<a style="color: {{ sparky.color }}" href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a>
+	</div>
+</div>
 {% for category in categories %}
 	{% assign cat = characters | getChByCat: category %}
+	<h1>{{ category }}</h1>
+	<div class="chs">
 	{% for ch in cat %}
-		<a href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
+		<div>
+			<div class="ch">
+				<a href="{{ ch.name | lowerCase }}/">
+					<img src="/img/characters/thumb/{{ ch.name | lowerCase }}.png"/>
+				</a>
+			</div>
+			<a style="color: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
+		</div>
 	{% endfor %}
-	<br/>
+	</div>
 {% endfor %}
 
-<p>Click to reveal info.</p>
+{% comment %} <p>Click to reveal info.</p>
 <div id="chs">
 	<div class="ch" ch="sparky"><img src="thumb/sparky.png"/></div>
 	<div class="ch unrevealed" ch="amber"><img src="thumb/amber.png"/></div>
@@ -40,8 +57,8 @@ title: Characters
 		<p class="quote">What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!</p>
 		<h2>Reference</h2>
 		<img src="turn/sparky.png"/>
-		<img src="exp/sparky.png"/> {% endcomment %}
-		{% comment %} {% include 'character', name: "Sparky", quote: "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!" %} {% endcomment %}
+		<img src="exp/sparky.png"/>
+		{% comment %} {% include 'character', name: "Sparky", quote: "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!" %}
 	</div>
 	<div class="desc" id="amber" style="--c: #e15f19;">
 		<h1>Amber</h1>
@@ -133,4 +150,4 @@ function switchDescs(e, id) {
 	e.currentTarget.classList.add('active');
 	document.getElementById(id).style.display = 'block';
 }
-</script>
+</script> {% endcomment %}

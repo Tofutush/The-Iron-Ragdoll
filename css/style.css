@@ -1,6 +1,6 @@
 @font-face {
 	font-family: lexend;
-	src: url(/Lexend.ttf);
+	src: url(/The-Iron-Ragdoll/Lexend.ttf);
 }
 :root {
 	--text: #fff;
@@ -95,7 +95,6 @@ a:hover {
 #flexbox {
 	display: flex;
 	margin: 0 auto 1em auto;
-	width: fit-content;
 }
 #translation {
 	font-family: 微软雅黑 light;
@@ -121,4 +120,10 @@ a:hover {
 }
 .graybox p:last-child {
 	margin-bottom: 0;
+}
+
+@media only screen and (max-width: 400px) {
+	#flexbox {
+		padding: 2em;
+	}
 }
