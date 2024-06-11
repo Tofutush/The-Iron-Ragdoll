@@ -24,7 +24,8 @@
     {
         "cat": "Hillslope",
         "name": "Guillotine",
-        "color": "#d0ae3a"
+        "color": "#d0ae3a",
+        "hidden": true
     },
     {
         "cat": "Hillslope",
@@ -54,16 +55,115 @@
     {
         "cat": "Hillslope",
         "name": "Starry",
-        "color": "#CC770F"
+        "color": "#CC770F",
+        "hidden": true
     },
     {
         "cat": "Hillslope",
         "name": "Dragonfly",
-        "color": "#00adad"
+        "color": "#00adad",
+        "hidden": true
+    },
+    {
+        "cat": "Coastline Middle School",
+        "name": "Qibli",
+        "color": "#440044",
+        "hidden": true
+    },
+    {
+        "cat": "Coastline Middle School",
+        "name": "Sky",
+        "color": "#236ce1",
+        "hidden": true
+    },
+    {
+        "cat": "Coastline Middle School",
+        "name": "Firecrackers",
+        "color": "#8214bd",
+        "hidden": true
+    },
+    {
+        "cat": "Coastline Middle School",
+        "name": "Myriad",
+        "color": "#d01b84",
+        "hidden": true
     },
     {
         "cat": "Sparky's Family",
         "name": "Amber",
-        "color": "#e15f19"
+        "color": "#e15f19",
+        "hidden": true
+    },
+    {
+        "cat": "Sparky's Family",
+        "name": "Peacock",
+        "color": "#20f",
+        "hidden": true
+    },
+    {
+        "cat": "Sparky's Family",
+        "name": "Fantasy",
+        "color": "#ce00af",
+        "hidden": true
+    },
+    {
+        "cat": "Sparky's Family",
+        "name": "Ironheart",
+        "color": "#69272b",
+        "hidden": true
+    },
+    {
+        "cat": "Sparky's Family",
+        "name": "Willow",
+        "color": "#199400",
+        "hidden": true
+    },
+    {
+        "cat": "Sparky's Family",
+        "name": "Nightsun",
+        "color": "#130b51",
+        "hidden": true
+    },
+    {
+        "cat": "Sparky's Family",
+        "name": "Bramble",
+        "color": "#E19D0E",
+        "hidden": true
+    },
+    {
+        "cat": "Hyrax's Family",
+        "name": "Hyrax",
+        "color": "#333333",
+        "hidden": true
+    },
+    {
+        "cat": "Hyrax's Family",
+        "name": "Beauty",
+        "color": "#CE6C07",
+        "hidden": true
+    },
+    {
+        "cat": "Hyrax's Family",
+        "name": "Chastity",
+        "color": "#C3BB4E",
+        "hidden": true
+    },
+    {
+        "cat": "Hyrax's Family",
+        "name": "Devotion",
+        "color": "#017909",
+        "hidden": true
+    },
+    {
+        "cat": "Hyrax's Family",
+        "name": "Elegance",
+        "color": "#1054ad",
+        "hidden": true
+    },
+    {
+        "cat": "Hyrax's Family",
+        "name": "Animus",
+        "color": "#a10000",
+        "hidden": true
     }
 ]

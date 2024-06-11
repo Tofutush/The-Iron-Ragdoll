@@ -14,19 +14,22 @@ title: Characters
 		<a style="--c: {{ sparky.color }}" href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a>
 	</div>
 </div>
+
 {% for category in categories %}
-	{% assign cat = characters | getChByCat: category %}
+	{% assign cat = characters | getChByCat: category | log %}
 	<h1>{{ category }}</h1>
 	<div class="chs">
 	{% for ch in cat %}
-		<div>
-			<div class="ch">
-				<a href="{{ ch.name | lowerCase }}/">
-					<img src="/img/characters/thumb/{{ ch.name | lowerCase }}.png"/>
-				</a>
+		{% if ch.hidden != true %}
+			<div>
+				<div class="ch">
+					<a href="{{ ch.name | lowerCase }}/">
+						<img src="/img/characters/thumb/{{ ch.name | lowerCase }}.png"/>
+					</a>
+				</div>
+				<a style="--c: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
 			</div>
-			<a style="--c: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
-		</div>
+		{% endif %}
 	{% endfor %}
 	</div>
 {% endfor %}
