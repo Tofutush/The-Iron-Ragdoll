@@ -77,6 +77,10 @@ body::-webkit-scrollbar {
 	user-select: none;
 }
 
+.desc a {
+	color: var(--c);
+}
+
 .quote {
 	font-style: italic;
 	margin: 1em;
@@ -87,12 +91,30 @@ body::-webkit-scrollbar {
 	border-width: 4px 0;
 	color: var(--text);
 	font-size: 24px;
-	padding: 1em;
-	width: 100%;
+	padding: 1em 0;
+}
+
+.attr > div {
+	display: flex;
+}
+
+.attr > div > div {
+	padding: 0.5em;
+}
+
+.attr > div > div:first-child {
+	color: var(--c);
+	text-align: right;
+	width: 30%;
+}
+
+.attr > div > div:last-child {
+	text-align: left;
+	width: 70%;
 }
 
 .attr th {
-	color: var(--blue);
+	color: var(--c);
 	padding: .5em;
 	text-align: right;
 }
@@ -113,4 +135,20 @@ body::-webkit-scrollbar {
 
 ::-webkit-scrollbar-thumb:hover {
 	background-color: #fffa;
+}
+
+@media only screen and (max-width: 400px) {
+	.attr > div {
+		display: block;
+	}
+
+	.attr > div > div:first-child {
+		text-align: left;
+		width: 100%;
+	}
+	
+	.attr > div > div:last-child {
+		text-align: right;
+		width: 100%;
+	}
 }
