@@ -3,16 +3,39 @@ layout: layout.liquid
 pagination:
   data: characters
   size: 1
+  alias: ch
 permalink: "characters/{{ pagination.items[0].name | lowerCase }}/"
 eleventyComputed:
   title: "{{ pagination.items[0].name }}"
 ---
-
+{{ ch | log }}
 <a id="back" href="../"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m15 18-6-6 6-6"/></svg> Back</a>
-<div class="desc" id="sparky" style="--c: {{ pagination.items[0].color }};">
-	<h1>{{ pagination.items[0].name }}</h1>
-	<p class="quote">{{ pagination.items[0].quote }}</p>
-	<h2>Reference</h2>
-	<img src="/img/characters/turn/{{ pagination.items[0].name | lowerCase }}.png"/>
-	<img src="/img/characters/exp/{{ pagination.items[0].name | lowerCase }}.png"/>
+<div class="desc" id="sparky" style="--c: {{ ch.color }};">
+	<h1>{{ ch.name }}</h1>
+	{% if ch.desc %}
+		<p>{{ ch.desc }}</p>
+	{% endif %}
+	{% if ch.quote %}
+		<p class="quote">{{ ch.quote }}</p>
+	{% endif %}
+	{% if ch.attr %}
+		<h2>Info <a class="collapsible">?</a></h2>
+		<div class="collapsible-content">
+			{% renderFile './characters/characterinfo.md' %}
+		</div>
+		<table class="attr">
+			{% for att in ch.attr %}
+				<tr>
+					<th>{{ att[0] }}</th>
+					<td>{{ att[1] }}</td>
+				</tr>
+			{% endfor %}
+		</table>
+	{% endif %}
+	{% if ch.refs %}
+		<h2>References</h2>
+		{% for ref in ch.refs %}
+			<img src="/img/characters/refs/{{ ch.name | lowerCase }} {{ ref }}.png"/>
+		{% endfor %}
+	{% endif %}
 </div>

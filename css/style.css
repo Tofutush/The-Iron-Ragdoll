@@ -5,6 +5,7 @@
 :root {
 	--text: #fff;
 	--blue: #0cf;
+	--box: #fff8;
 }
 body {
 	background-attachment: fixed;
@@ -16,13 +17,14 @@ body {
 }
 h1 {
 	color: var(--blue);
-	font-size: 2em;
+	font-size: 2.5em;
 	line-height: 1.5;
 	margin-bottom: 1em;
 	margin-top: 1.5em;
 }
 h2 {
 	color: var(--text);
+	font-size: 2em;
 }
 p {
 	color: var(--text);
@@ -76,7 +78,7 @@ a:hover {
 	cursor: default;
 }
 .dpdn-ul {
-	background-color: #fff8;
+	background-color: var(--box);
 	border-radius: 10px;
 	display: none;
 	font-size: 24px;
@@ -111,7 +113,7 @@ a:hover {
 	width: 800px;
 }
 .graybox {
-	background-color: #fff8;
+	background-color: var(--box);
 	border-radius: 15px;
 	padding: 1em;
 }
@@ -120,6 +122,52 @@ a:hover {
 }
 .graybox p:last-child {
 	margin-bottom: 0;
+}
+
+.tooltip {
+	position: relative;
+}
+
+.tooltip .tooltip-text {
+	background-color: var(--box);
+	border-radius: 6px;
+	bottom: 100%;
+	color: var(--text);
+	left: 50%;
+	margin-left: -60px;
+	opacity: 0;
+	padding: 5px 0;
+	position: absolute;
+	text-align: center;
+	transition: all .3s;
+	width: 120px;
+	z-index: 1;
+}
+
+.tooltip .tooltip-text::after {
+	content: " ";
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	margin-left: -5px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: var(--box) transparent transparent transparent;
+}
+
+.tooltip:hover .tooltip-text {
+	opacity: 1;
+}
+
+.collapsible {
+	cursor: pointer;
+}
+
+.collapsible-content {
+	margin: 0 !important;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height .3s ease-out;
 }
 
 @media only screen and (max-width: 400px) {

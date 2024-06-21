@@ -3,12 +3,22 @@
         "cat": "main",
         "name": "Sparky",
         "color": "#0cf",
-        "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!"
+        "desc": "Our protagonist! Need I say more?",
+        "attr": {
+            "Full name": "Sparky Amber Jackal / Sparky Amber Peacock",
+            "gender": "Female (cis)"
+        },
+        "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
+        "refs": [
+            "turn",
+            "exp"
+        ]
     },
     {
         "cat": "Hillslope",
         "name": "Ribbon",
-        "color": "#e368d3"
+        "color": "#e368d3",
+        "desc": "Owner of the bakery!"
     },
     {
         "cat": "Hillslope",

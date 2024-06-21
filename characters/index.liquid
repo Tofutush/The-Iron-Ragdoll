@@ -16,7 +16,7 @@ title: Characters
 </div>
 
 {% for category in categories %}
-	{% assign cat = characters | getChByCat: category | log %}
+	{% assign cat = characters | getChByCat: category %}
 	<h1>{{ category }}</h1>
 	<div class="chs">
 	{% for ch in cat %}
