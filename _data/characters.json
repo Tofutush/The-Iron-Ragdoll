@@ -1,179 +1,195 @@
 [
-    {
-        "cat": "main",
-        "name": "Sparky",
-        "color": "#0cf",
-        "desc": "Our protagonist! Need I say more?",
-        "attr": {
-            "Full name": "Sparky Amber Jackal / Sparky Amber Peacock",
-            "gender": "Female (cis)"
-        },
-        "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
-        "refs": [
-            "turn",
-            "exp"
-        ]
+  {
+    "cat": "main",
+    "name": "Sparky",
+    "color": "#0cf",
+    "desc": "Our protagonist! Need I say more?",
+    "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
+    "attr": {
+      "Full name": "Sparky Amber Jackal / Sparky Amber Peacock",
+      "Nickname": "Spark (by Tundra)",
+      "Gender": "Female (cis)",
+      "Birthday": "2017 Aug 14<sup>th</sup>",
+      "Nationality": "Bauhinian",
+      "Orientation": "Bisexual, deep in the closet",
+      "Marital status": "Married (<a href=\"../nightsun\">Nightsun</a>)",
+      "Occupation": "Personal bodyguard",
+      "Weapon": "M1911 pistol",
+      "Power": "Superstrength lv. 800"
     },
-    {
-        "cat": "Hillslope",
-        "name": "Ribbon",
-        "color": "#e368d3",
-        "desc": "Owner of the bakery!"
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Cosmo",
-        "color": "#998cbd",
-        "quote": "If everyone believes it, then it is the truth."
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Tomato",
-        "color": "#A10000"
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Guillotine",
-        "color": "#d0ae3a",
-        "hidden": true
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Tephra",
-        "color": "#008282"
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Melody",
-        "color": "#426600"
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Jerboa",
-        "color": "#0867af"
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Tundra",
-        "color": "#800080"
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Alaska",
-        "color": "#6C0404"
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Starry",
-        "color": "#CC770F",
-        "hidden": true
-    },
-    {
-        "cat": "Hillslope",
-        "name": "Dragonfly",
-        "color": "#00adad",
-        "hidden": true
-    },
-    {
-        "cat": "Coastline Middle School",
-        "name": "Qibli",
-        "color": "#440044",
-        "hidden": true
-    },
-    {
-        "cat": "Coastline Middle School",
-        "name": "Sky",
-        "color": "#236ce1",
-        "hidden": true
-    },
-    {
-        "cat": "Coastline Middle School",
-        "name": "Firecrackers",
-        "color": "#8214bd",
-        "hidden": true
-    },
-    {
-        "cat": "Coastline Middle School",
-        "name": "Myriad",
-        "color": "#d01b84",
-        "hidden": true
-    },
-    {
-        "cat": "Sparky's Family",
-        "name": "Amber",
-        "color": "#e15f19",
-        "hidden": true
-    },
-    {
-        "cat": "Sparky's Family",
-        "name": "Peacock",
-        "color": "#20f",
-        "hidden": true
-    },
-    {
-        "cat": "Sparky's Family",
-        "name": "Fantasy",
-        "color": "#ce00af",
-        "hidden": true
-    },
-    {
-        "cat": "Sparky's Family",
-        "name": "Ironheart",
-        "color": "#69272b",
-        "hidden": true
-    },
-    {
-        "cat": "Sparky's Family",
-        "name": "Willow",
-        "color": "#199400",
-        "hidden": true
-    },
-    {
-        "cat": "Sparky's Family",
-        "name": "Nightsun",
-        "color": "#130b51",
-        "hidden": true
-    },
-    {
-        "cat": "Sparky's Family",
-        "name": "Bramble",
-        "color": "#E19D0E",
-        "hidden": true
-    },
-    {
-        "cat": "Hyrax's Family",
-        "name": "Hyrax",
-        "color": "#333333",
-        "hidden": true
-    },
-    {
-        "cat": "Hyrax's Family",
-        "name": "Beauty",
-        "color": "#CE6C07",
-        "hidden": true
-    },
-    {
-        "cat": "Hyrax's Family",
-        "name": "Chastity",
-        "color": "#C3BB4E",
-        "hidden": true
-    },
-    {
-        "cat": "Hyrax's Family",
-        "name": "Devotion",
-        "color": "#017909",
-        "hidden": true
-    },
-    {
-        "cat": "Hyrax's Family",
-        "name": "Elegance",
-        "color": "#1054ad",
-        "hidden": true
-    },
-    {
-        "cat": "Hyrax's Family",
-        "name": "Animus",
-        "color": "#a10000",
-        "hidden": true
+    "refs": [
+      "turn",
+      "exp"
+    ]
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Ribbon",
+    "color": "#e368d3",
+    "desc": "Owner of the bakery!",
+    "attr": {
+      "Nickname": "Rib (by Tundra)",
+      "Gender": "Female",
+      "Birthday": "2015 Aug 14<sup>th</sup>",
+      "Nationality": "Bauhinian",
+      "Orientation": "Heterosexual",
+      "Weapon": "Frying pan"
     }
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Cosmo",
+    "color": "#998cbd",
+    "quote": "If everyone believes it, then it is the truth."
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Tomato",
+    "color": "#A10000"
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Guillotine",
+    "color": "#d0ae3a",
+    "hidden": true
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Tephra",
+    "color": "#008282"
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Melody",
+    "color": "#426600"
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Jerboa",
+    "color": "#0867af"
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Tundra",
+    "color": "#800080"
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Alaska",
+    "color": "#6C0404"
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Starry",
+    "color": "#CC770F",
+    "hidden": true
+  },
+  {
+    "cat": "Hillslope",
+    "name": "Dragonfly",
+    "color": "#00adad",
+    "hidden": true
+  },
+  {
+    "cat": "Coastline Middle School",
+    "name": "Qibli",
+    "color": "#440044",
+    "hidden": true
+  },
+  {
+    "cat": "Coastline Middle School",
+    "name": "Sky",
+    "color": "#236ce1",
+    "hidden": true
+  },
+  {
+    "cat": "Coastline Middle School",
+    "name": "Firecrackers",
+    "color": "#8214bd",
+    "hidden": true
+  },
+  {
+    "cat": "Coastline Middle School",
+    "name": "Myriad",
+    "color": "#d01b84",
+    "hidden": true
+  },
+  {
+    "cat": "Sparky's Family",
+    "name": "Amber",
+    "color": "#e15f19",
+    "hidden": true
+  },
+  {
+    "cat": "Sparky's Family",
+    "name": "Peacock",
+    "color": "#20f",
+    "hidden": true
+  },
+  {
+    "cat": "Sparky's Family",
+    "name": "Fantasy",
+    "color": "#ce00af",
+    "hidden": true
+  },
+  {
+    "cat": "Sparky's Family",
+    "name": "Ironheart",
+    "color": "#69272b",
+    "hidden": true
+  },
+  {
+    "cat": "Sparky's Family",
+    "name": "Willow",
+    "color": "#199400",
+    "hidden": true
+  },
+  {
+    "cat": "Sparky's Family",
+    "name": "Nightsun",
+    "color": "#130b51",
+    "hidden": true
+  },
+  {
+    "cat": "Sparky's Family",
+    "name": "Bramble",
+    "color": "#E19D0E",
+    "hidden": true
+  },
+  {
+    "cat": "Hyrax's Family",
+    "name": "Hyrax",
+    "color": "#333333",
+    "hidden": true
+  },
+  {
+    "cat": "Hyrax's Family",
+    "name": "Beauty",
+    "color": "#CE6C07",
+    "hidden": true
+  },
+  {
+    "cat": "Hyrax's Family",
+    "name": "Chastity",
+    "color": "#C3BB4E",
+    "hidden": true
+  },
+  {
+    "cat": "Hyrax's Family",
+    "name": "Devotion",
+    "color": "#017909",
+    "hidden": true
+  },
+  {
+    "cat": "Hyrax's Family",
+    "name": "Elegance",
+    "color": "#1054ad",
+    "hidden": true
+  },
+  {
+    "cat": "Hyrax's Family",
+    "name": "Animus",
+    "color": "#a10000",
+    "hidden": true
+  }
 ]

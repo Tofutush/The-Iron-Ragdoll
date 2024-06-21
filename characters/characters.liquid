@@ -19,18 +19,18 @@ eleventyComputed:
 		<p class="quote">{{ ch.quote }}</p>
 	{% endif %}
 	{% if ch.attr %}
-		<h2>Info <a class="collapsible">?</a></h2>
+		<h2>Info <a class="collapsible">(?)</a></h2>
 		<div class="collapsible-content">
 			{% renderFile './characters/characterinfo.md' %}
 		</div>
-		<table class="attr">
+		<div class="attr">
 			{% for att in ch.attr %}
-				<tr>
-					<th>{{ att[0] }}</th>
-					<td>{{ att[1] }}</td>
-				</tr>
+				<div>
+					<div>{{ att[0] }}</div>
+					<div>{{ att[1] }}</div>
+				</div>
 			{% endfor %}
-		</table>
+		</div>
 	{% endif %}
 	{% if ch.refs %}
 		<h2>References</h2>
