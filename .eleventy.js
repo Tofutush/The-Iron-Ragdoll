@@ -1,10 +1,12 @@
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = require("@11ty/eleventy");
 
 module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img');
 	eleventyConfig.addPassthroughCopy('css');
+	eleventyConfig.addPassthroughCopy('js');
 	eleventyConfig.addPassthroughCopy('icon.ico');
 	eleventyConfig.addPassthroughCopy('Lexend.ttf');
 	// filters
