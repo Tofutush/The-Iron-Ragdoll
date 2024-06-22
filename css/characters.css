@@ -123,6 +123,52 @@ body::-webkit-scrollbar {
 	padding: .5em;
 }
 
+.palette {
+	border-radius: 12px;
+	cursor: pointer;
+	display: flex;
+	height: 120px;
+	overflow: hidden;
+}
+
+.palette > div {
+	align-items: center;
+	display: flex;
+	flex: 1;
+	flex-basis: 0px;
+	justify-content: center;
+	transition: all .1s;
+}
+
+.palette > div:hover {
+	flex-basis: 80px;
+}
+
+.palette > div > div {
+	align-items: center;
+	background-color: var(--box);
+	border-radius: 6px;
+	color: #fff;
+	display: none;
+	flex-direction: column;
+	font-weight: bold;
+	justify-content: center;
+	padding: 6px;
+	text-align: center;
+}
+
+.palette > div > div > span:first-child {
+	font-size: 24px;
+}
+
+.palette > div > div > span:last-child {
+	font-size: 16px;
+}
+
+.palette > div:hover > div {
+	display: flex;
+}
+
 ::-webkit-scrollbar {
 	background-color: #0000;
 	height: 12px;
