@@ -13,6 +13,9 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter('lowerCase', function(s) {
 		return s.toLowerCase();
 	});
+	eleventyConfig.addFilter('upperCase', function(s) {
+		return s.toUpperCase();
+	});
 	eleventyConfig.addFilter('getimgurl', function(num) {
 		num = parseInt(num);
 		return String('/img/comics/' + Math.floor(num / 100) + '/' + num + '.png')
