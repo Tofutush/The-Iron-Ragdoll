@@ -13,7 +13,7 @@
       "Nationality":"Bauhinian",
       "Orientation":"Bisexual, deep in the closet",
       "Marital status":"Married (<a href=\"../nightsun\">Nightsun</a>)",
-      "Occupation":"Personal bodyguard",
+      "Occupation":"Close protection officer",
       "Weapon":"M1911 pistol",
       "Power":"Superstrength lv. 800"
     },
@@ -38,6 +38,10 @@
       "Nationality":"Bauhinian",
       "Orientation":"Heterosexual",
       "Weapon":"Frying pan"
+    },
+    "palette":{
+      "apron folds":"#787878",
+      "hair":"#2e2e2e"
     }
   },
   {
@@ -53,6 +57,13 @@
       "Occupation":"Journalist",
       "Weapon":"Throwing stars",
       "Power":"Lie detection"
+    },
+    "palette":{
+      "middle eye":"#fe0",
+      "left eye":"#DCBBF0",
+      "right eye":"#A5D6F7",
+      "shirt":"#B2B8E3",
+      "hair":"#2e2e2e"
     }
   },
   {
@@ -137,7 +148,8 @@
     "desc":"Photographer for the press!",
     "attr":{
       "Gender":"Male",
-      "Nationality":"Bauhinian"
+      "Nationality":"Bauhinian",
+      "Occupation":"Journalist"
     }
   },
   {
@@ -246,7 +258,11 @@
     "cat":"Hyrax's Family",
     "name":"Elegance",
     "color":"#1054ad",
-    "hidden":true
+    "hidden":true,
+    "attr":{
+      "Gender":"Female (cis)",
+      "Power":"Time precision"
+    }
   },
   {
     "cat":"Hyrax's Family",
