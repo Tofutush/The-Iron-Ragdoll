@@ -7,9 +7,9 @@ body::-webkit-scrollbar {
 }
 
 .chs {
-	display: flex;
-	flex-wrap: wrap;
+	display: grid;
 	gap: 2em;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 	user-select: none;
 }
 
@@ -183,9 +183,29 @@ body::-webkit-scrollbar {
 	background-color: #fffa;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 700px) {
+	.chs {
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+	}
+}
+
+@media only screen and (max-width: 650px) {
+	.chs {
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+}
+
+@media only screen and (max-width: 450px) {
+	.chs {
+		grid-template-columns: 1fr 1fr;
+	}
+
 	.attr > div {
 		display: block;
+	}
+
+	.attr > div > div {
+		padding: .5em 0;
 	}
 
 	.attr > div > div:first-child {
