@@ -1,5 +1,5 @@
 #gallery img {
-	background-color: #fff8;
+	background-color: var(--box);
 	border-radius: 16px;
 	user-select: none;
 }

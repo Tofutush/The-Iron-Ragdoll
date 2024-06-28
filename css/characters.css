@@ -27,6 +27,7 @@ body::-webkit-scrollbar {
 }
 .ch img {
 	height: 120px;
+	width: 120px;
 }
 .chs > div > a {
 	background-color: var(--c);
@@ -58,7 +59,7 @@ body::-webkit-scrollbar {
 	color: var(--c);
 }
 .desc img {
-	background-color: #fff8;
+	background-color: var(--box);
 	border-radius: 16px;
 	width: 100%;
 	user-select: none;
