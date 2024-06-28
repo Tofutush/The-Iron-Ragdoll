@@ -42,17 +42,16 @@ module.exports = function(eleventyConfig) {
 			</div>
 		`;
 	});
-	eleventyConfig.addShortcode('image', async function (path, name, type, size, className, alt) {
+	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt) {
 		console.log(path + name + '.' + type);
 		let metadata = await Image(path + name + '.' + type, {
 			widths: [size],
-			formats: ["webp"],
-			urlPath: "/img/gallery/shrunk/",
-			outputDir: "./_site/img/gallery/shrunk/"
+			formats: ['webp'],
+			urlPath: '/' + path,
+			outputDir: './_site/' + path
 		});
 		let imageAttributes = {
 			alt,
-			class: className,
 			loading: "lazy",
 			decoding: "async",
 		};

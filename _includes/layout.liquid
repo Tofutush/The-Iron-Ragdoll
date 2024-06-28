@@ -8,7 +8,8 @@
 	<link rel="icon" href="/icon.ico"/>
 	{% if page.url == '/chapters/' %}<link rel="stylesheet" href="/css/chapters.css"/>{% endif %}
 	{% if page.url contains '/characters/' %}<link rel="stylesheet" href="/css/characters.css"/>{% endif %}
-	{% if page.url contains '/page-' or page.url == '/' %}
+	{% if page.url contains '/gallery/' %}<link rel="stylesheet" href="/css/gallery.css"/>{% endif %}
+		{% if page.url contains '/page-' or page.url == '/' %}
 		<link rel="stylesheet" href="/css/comic.css"/>
 		<style>
 		body {

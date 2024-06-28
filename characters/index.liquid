@@ -8,7 +8,8 @@ title: Characters
 	<div>
 		<div class="ch">
 			<a href="{{ sparky.name | lowerCase }}/">
-				<img src="/img/gallery/{{ sparky.name | lowerCase }} thumb.png"/>
+				{% comment %} <img src="/img/gallery/{{ sparky.name | lowerCase }} thumb.png"/> {% endcomment %}
+				{% image "img/gallery/" "sparky thumb" "png" 200 "" %}
 			</a>
 		</div>
 		<a style="--c: {{ sparky.color }}" href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a>
@@ -24,7 +25,9 @@ title: Characters
 			<div>
 				<div class="ch">
 					<a href="{{ ch.name | lowerCase }}/">
-						<img src="/img/gallery/{{ ch.name | lowerCase }} thumb.png"/>
+						{% comment %} <img src="/img/gallery/{{ ch.name | lowerCase }} thumb.png"/> {% endcomment %}
+						 {% assign bruhhh = ch.name | append: " thumb" %}
+						{% image "img/gallery/" bruhhh "png" 200 "" %}
 					</a>
 				</div>
 				<a style="--c: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
