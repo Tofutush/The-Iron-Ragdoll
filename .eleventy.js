@@ -1,4 +1,5 @@
-const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = require("@11ty/eleventy");
+const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = require('@11ty/eleventy');
+const Image = require('@11ty/eleventy-img');
 
 module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
@@ -40,6 +41,22 @@ module.exports = function(eleventyConfig) {
 				<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#comic"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m6 17 5-5-5-5"/><path d="m13 17 5-5-5-5"/></svg></a>
 			</div>
 		`;
+	});
+	eleventyConfig.addShortcode('image', async function (path, name, type, size, className, alt) {
+		console.log(path + name + '.' + type);
+		let metadata = await Image(path + name + '.' + type, {
+			widths: [size],
+			formats: ["webp"],
+			urlPath: "/img/gallery/shrunk/",
+			outputDir: "./_site/img/gallery/shrunk/"
+		});
+		let imageAttributes = {
+			alt,
+			class: className,
+			loading: "lazy",
+			decoding: "async",
+		};
+		return Image.generateHTML(metadata, imageAttributes);
 	});
 	return {
 		passthroughFileCopy: true,
