@@ -2,3 +2,9 @@
 layout: layout.liquid
 title: Gallery
 ---
+
+<div id="gallery">
+	{% for img in gallery %}
+		 {% image "img/gallery/" img.name img.type 200 "graybox" "" %}
+	{% endfor %}
+</div>

@@ -1,0 +1,29 @@
+[
+    {
+        "name":"alaska thumb",
+        "type":"png",
+        "tags":[
+            "alaska",
+            "headshot"
+        ],
+        "style":"lineless"
+    },
+    {
+        "name":"buttercup stand",
+        "type":"png",
+        "tags":[
+            "buttercup",
+            "fullbody"
+        ],
+        "style":"normal"
+    },
+    {
+        "name":"buttercup thumb",
+        "type":"png",
+        "tags":[
+            "buttercup",
+            "headshot"
+        ],
+        "style":"lineless"
+    }
+]
