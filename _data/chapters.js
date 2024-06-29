@@ -19,6 +19,5 @@ module.exports = function() {
 		episodes[z].pagenum = count;
 		count += episodes[z].pages + 1;
 	}
-	console.log(episodes);
 	return episodes;
 }
