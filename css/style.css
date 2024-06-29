@@ -129,11 +129,9 @@ a:hover {
 .graybox p:last-child {
 	margin-bottom: 0;
 }
-
 .tooltip {
 	position: relative;
 }
-
 .tooltip .tooltip-text {
 	background-color: var(--box);
 	border-radius: 6px;
@@ -150,7 +148,6 @@ a:hover {
 	width: 120px;
 	z-index: 1;
 }
-
 .tooltip .tooltip-text::after {
 	content: " ";
 	position: absolute;
@@ -161,28 +158,23 @@ a:hover {
 	border-style: solid;
 	border-color: var(--box) transparent transparent transparent;
 }
-
 .tooltip:hover .tooltip-text {
 	opacity: 1;
 }
-
 .collapsible {
 	cursor: pointer;
 }
-
 .collapsible-content {
 	margin: 0 !important;
 	max-height: 0;
 	overflow: hidden;
 	transition: max-height .3s ease-out;
 }
-
 @media only screen and (max-width: 620px) {
 	#linx {
 		flex-direction: column;
 	}
 }
-
 @media only screen and (max-width: 450px) {
 	p {
 		text-align: left;
