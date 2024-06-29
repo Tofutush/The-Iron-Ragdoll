@@ -26,7 +26,7 @@ title: Characters
 				<div class="ch">
 					<a href="{{ ch.name | lowerCase }}/">
 						{% comment %} <img src="/img/gallery/{{ ch.name | lowerCase }} thumb.png"/> {% endcomment %}
-						 {% assign bruhhh = ch.name | append: " thumb" %}
+						 {% assign bruhhh = ch.name | lowerCase | append: " thumb" %}
 						{% image "img/gallery/" bruhhh "png" 200 "" %}
 					</a>
 				</div>

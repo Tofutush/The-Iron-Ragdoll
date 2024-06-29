@@ -61,6 +61,7 @@ body::-webkit-scrollbar {
 .desc img {
 	background-color: var(--box);
 	border-radius: 16px;
+	height: 100%;
 	width: 100%;
 	user-select: none;
 }

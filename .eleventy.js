@@ -5,7 +5,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	// copies
-	eleventyConfig.addPassthroughCopy('img');
+	//eleventyConfig.addPassthroughCopy('img');
 	eleventyConfig.addPassthroughCopy('css');
 	eleventyConfig.addPassthroughCopy('js');
 	eleventyConfig.addPassthroughCopy('icon.ico');
@@ -19,7 +19,7 @@ module.exports = function(eleventyConfig) {
 	});
 	eleventyConfig.addFilter('getimgurl', function(num) {
 		num = parseInt(num);
-		return String('/img/comics/' + Math.floor(num / 100) + '/' + num + '.png')
+		return String(Math.floor(num / 100) + '/' + num)
 	});
 	eleventyConfig.addFilter('getChByName', function(arr, name) {
 		return arr.find(ch => ch.name == name);
@@ -43,7 +43,6 @@ module.exports = function(eleventyConfig) {
 		`;
 	});
 	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt) {
-		console.log(path + name + '.' + type);
 		let metadata = await Image(path + name + '.' + type, {
 			widths: [size],
 			formats: ['webp'],
