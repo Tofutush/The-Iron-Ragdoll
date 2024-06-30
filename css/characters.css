@@ -141,17 +141,6 @@ body::-webkit-scrollbar {
 .palette > div:hover > div {
 	display: flex;
 }
-::-webkit-scrollbar {
-	background-color: #0000;
-	height: 12px;
-}
-::-webkit-scrollbar-thumb {
-	background-color: #fff8;
-	border-radius: 999px;
-}
-::-webkit-scrollbar-thumb:hover {
-	background-color: #fffa;
-}
 @media only screen and (max-width: 700px) {
 	.chs {
 		grid-template-columns: 1fr 1fr 1fr 1fr;
