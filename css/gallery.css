@@ -27,6 +27,7 @@
 	position: fixed;
 	top: 0;
 	width: 100%;
+	overflow: scroll;
 }
 .modal img {
 	width: auto;
@@ -57,5 +58,12 @@
 @media only screen and (max-width: 450px) {
 	#gallery {
 		grid-template-columns: 1fr 1fr;
+	}
+	.modal {
+		flex-direction: column;
+	}
+	.modal img {
+		width: 90%;
+		height: auto;
 	}
 }
