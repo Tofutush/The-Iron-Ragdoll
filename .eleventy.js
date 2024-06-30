@@ -1,9 +1,11 @@
 const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = require('@11ty/eleventy');
 const Image = require('@11ty/eleventy-img');
+const MarkdownIt = require("markdown-it");
 
 module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
+	const mdRender = new MarkdownIt();
 	// copies
 	//eleventyConfig.addPassthroughCopy('img');
 	eleventyConfig.addPassthroughCopy('css');
@@ -27,6 +29,9 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter('getChByCat', function(arr, cat) {
 		return arr.filter(c => c.cat == cat);
 	});
+	eleventyConfig.addFilter("renderMD", function(rawString) {
+		return mdRender.render(rawString);
+	});
 	// shortcodes
 	eleventyConfig.addShortcode('arrows', function(f, p, n, l, num) {
 		let dot;
@@ -43,11 +48,25 @@ module.exports = function(eleventyConfig) {
 		`;
 	});
 	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt) {
-		let metadata = await Image(path + name + '.' + type, {
+		let metadata = await Image('img/' + path + name + '.' + type, {
 			widths: [size],
 			formats: ['webp'],
-			urlPath: '/' + path,
-			outputDir: './_site/' + path
+			urlPath: '/img/' + path,
+			outputDir: './_site/img/' + path
+		});
+		let imageAttributes = {
+			alt,
+			loading: "lazy",
+			decoding: "async",
+		};
+		return Image.generateHTML(metadata, imageAttributes);
+	});
+	eleventyConfig.addShortcode('imageOrig', async function (path, name, alt) {
+		let metadata = await Image('img/' + path + name, {
+			widths: ['auto'],
+			formats: ['auto'],
+			urlPath: '/img/' + path,
+			outputDir: './_site/img/' + path
 		});
 		let imageAttributes = {
 			alt,

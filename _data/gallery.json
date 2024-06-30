@@ -2,28 +2,503 @@
     {
         "name":"alaska thumb",
         "type":"png",
-        "tags":[
-            "alaska",
-            "headshot"
+        "ch":[
+            "alaska"
         ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"atlasia flag",
+        "type":"svg",
+        "ch":[
+            "atlasia"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"atlasia token",
+        "type":"svg",
+        "ch":[
+            "atlasia"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"bauhinia flag",
+        "type":"svg",
+        "ch":[
+            "bauhinia"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"bauhinia nsa symbol",
+        "type":"svg",
+        "ch":[
+            "bauhinia"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"bauhinia nsa stamp",
+        "type":"svg",
+        "ch":[
+            "bauhinia"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"bauhinia nsa stamp confidential",
+        "type":"svg",
+        "ch":[
+            "bauhinia"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"bauhinia token",
+        "type":"svg",
+        "ch":[
+            "bauhinia"
+        ],
+        "scope":"design",
         "style":"lineless"
     },
     {
         "name":"buttercup stand",
         "type":"png",
-        "tags":[
-            "buttercup",
-            "fullbody"
+        "ch":[
+            "buttercup"
         ],
+        "scope":"full-body",
         "style":"normal"
     },
     {
         "name":"buttercup thumb",
         "type":"png",
-        "tags":[
-            "buttercup",
-            "headshot"
+        "ch":[
+            "buttercup"
         ],
+        "scope":"headshot",
         "style":"lineless"
+    },
+    {
+        "name":"cms friends",
+        "type":"png",
+        "ch":[
+            "sparky",
+            "sky",
+            "qibli",
+            "firecrackers"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"cosmo thumb",
+        "type":"png",
+        "ch":[
+            "cosmo"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"dragonfly thumb",
+        "type":"png",
+        "ch":[
+            "dragonfly"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"fantasy thumb",
+        "type":"png",
+        "ch":[
+            "fantasy"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"fanton flag",
+        "type":"svg",
+        "ch":[
+            "fanton"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"fanton symbol",
+        "type":"svg",
+        "ch":[
+            "fanton"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"fern thumb",
+        "type":"png",
+        "ch":[
+            "fern"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"firecrackers thumb",
+        "type":"png",
+        "ch":[
+            "firecrackers"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"guillotine thumb",
+        "type":"png",
+        "ch":[
+            "guillotine"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"icicle old",
+        "type":"png",
+        "ch":[
+            "icicle"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"icicle thumb",
+        "type":"png",
+        "ch":[
+            "icicle"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"ironheart thumb",
+        "type":"png",
+        "ch":[
+            "ironheart"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"jerboa cute",
+        "type":"png",
+        "ch":[
+            "jerboa"
+        ],
+        "scope":"full-body",
+        "style":"fuzzy"
+    },
+    {
+        "name":"jerboa head",
+        "type":"png",
+        "ch":[
+            "jerboa"
+        ],
+        "scope":"headshot",
+        "style":"normal"
+    },
+    {
+        "name":"jerboa stand",
+        "type":"png",
+        "ch":[
+            "jerboa"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"jerboa thumb",
+        "type":"png",
+        "ch":[
+            "jerboa"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"lark thumb",
+        "type":"png",
+        "ch":[
+            "lark"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"melody old",
+        "type":"png",
+        "ch":[
+            "melody"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"melody sparky tephra",
+        "type":"png",
+        "ch":[
+            "melody",
+            "sparky",
+            "tephra"
+        ],
+        "scope":"half-body",
+        "style":"normal"
+    },
+    {
+        "name":"melody thumb",
+        "type":"png",
+        "ch":[
+            "melody"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"moonbeam thumb",
+        "type":"png",
+        "ch":[
+            "moonbeam"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"moreland flag",
+        "type":"svg",
+        "ch":[
+            "moreland"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"moreland symbol",
+        "type":"svg",
+        "ch":[
+            "moreland"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"moreland token",
+        "type":"svg",
+        "ch":[
+            "moreland"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"myriad thumb",
+        "type":"png",
+        "ch":[
+            "myriad"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"myriad wings",
+        "type":"png",
+        "ch":[
+            "myriad"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"nightsun thumb",
+        "type":"png",
+        "ch":[
+            "nightsun"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"peacock family",
+        "type":"png",
+        "ch":[
+            "amber",
+            "peacock",
+            "sparky",
+            "willow",
+            "fantasy",
+            "ironheart"
+        ],
+        "scope":"half-body",
+        "style":"normal",
+        "background":true
+    },
+    {
+        "name":"peacock thumb",
+        "type":"png",
+        "ch":[
+            "peacock"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"potato thumb",
+        "type":"png",
+        "ch":[
+            "potato"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"qibli thumb",
+        "type":"png",
+        "ch":[
+            "qibli"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"ribbon head",
+        "type":"png",
+        "ch":[
+            "ribbon"
+        ],
+        "scope":"headshot",
+        "style":"normal"
+    },
+    {
+        "name":"ribbon thumb",
+        "type":"png",
+        "ch":[
+            "ribbon"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"sky thumb",
+        "type":"png",
+        "ch":[
+            "sky"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"snake thumb",
+        "type":"png",
+        "ch":[
+            "snake"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"snowball thumb",
+        "type":"png",
+        "ch":[
+            "snowball"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"sparky & pearl stand",
+        "type":"png",
+        "ch":[
+            "sparky",
+            "pearl"
+        ],
+        "scope":"full-body",
+        "style":"messy"
+    },
+    {
+        "name":"sparky and nightsun spinning",
+        "type":"png",
+        "ch":[
+            "sparky",
+            "nightsun"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"sparky carrying pearl",
+        "type":"png",
+        "ch":[
+            "sparky",
+            "pearl"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"sparky cute",
+        "type":"png",
+        "ch":[
+            "sparky"
+        ],
+        "scope":"full-body",
+        "style":"fuzzy"
+    },
+    {
+        "name":"sparky dumb",
+        "type":"png",
+        "ch":[
+            "sparky"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"sparky elegance glowbugs",
+        "type":"png",
+        "ch":[
+            "sparky",
+            "elegance"
+        ],
+        "scope":"full-body",
+        "style":"lineless",
+        "comment":"This is some vague plot idea in my head, that Elegance and Sparky got kidnapped and that's what set Sparky on her path as a bodyguard.\n\nThe song is 虫儿飞, or Glowbugs Fly. I translated the lyrics because I like it and I don't think anyone else ever translated them. I am not a translator and two of my worst school subjects are Chinese and English, so don't yell."
+    },
+    {
+        "name":"sparky expressions",
+        "type":"png",
+        "ch":[
+            "sparky"
+        ],
+        "scope":"headshot",
+        "style":"normal"
+    },
+    {
+        "name":"sparky head",
+        "type":"png",
+        "ch":[
+            "sparky"
+        ],
+        "scope":"headshot",
+        "style":"normal"
     }
 ]
