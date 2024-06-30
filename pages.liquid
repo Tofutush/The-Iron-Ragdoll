@@ -14,7 +14,7 @@ eleventyComputed:
 <div id="img">
   {% comment %} <img src="{{ pagination.items[0].pagenum | getimgurl }}"/> {% endcomment %}
   {% assign bruhhh = pagination.items[0].pagenum | getimgurl %}
-  {% image "img/comics/" bruhhh "png" 1000 "" %}
+  {% image "comics/" bruhhh "png" 1000 "" %}
 </div>
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="save">

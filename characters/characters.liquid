@@ -53,7 +53,7 @@ eleventyComputed:
 		{% for ref in ch.refs %}
 			{% comment %} <img src="/img/gallery/{{ ch.name | lowerCase }} {{ ref }}.png"/> {% endcomment %}
 			{% assign bruhhh = ch.name | lowerCase | append: " " | append: ref %}
-			{% image "img/gallery/" bruhhh "png" 1000 "" %}
+			{% image "gallery/" bruhhh "png" 1000 "" %}
 		{% endfor %}
 	{% endif %}
 </div>
