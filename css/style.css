@@ -170,9 +170,6 @@ a:hover {
 	overflow: hidden;
 	transition: max-height .3s ease-out;
 }
-::-webkit-scrollbar {
-	display: none;
-}
 @media only screen and (max-width: 620px) {
 	#linx {
 		flex-direction: column;
