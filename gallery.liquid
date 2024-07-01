@@ -5,7 +5,15 @@ title: Gallery
 
 <div id="gallery">
 	{% for img in gallery %}
-		<div>{% image "gallery/" img.name img.type 200 "" %}</div>
+		<div>
+			{% if img.comment %}
+				<div class="tooltip">
+					<span class="tooltip-text">Comment attached</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-ellipsis"><circle cx="12" cy="12" r="1"/><circle cx="19" cy="12" r="1"/><circle cx="5" cy="12" r="1"/></svg>
+				</div>
+			{% endif %}
+			{% image "gallery/" img.name img.type 200 "" %}
+		</div>
 	{% endfor %}
 </div>
 <div id="modals">
@@ -32,8 +40,10 @@ for(let z = 0; z < divs.length; z++) {
 		let modal = modals[z];
 		let close = modal.querySelector('.close');
 		modal.style.display = 'flex';
+		document.body.style.overflow = 'hidden';
 		close.addEventListener('click', e => {
 			modal.style.display = 'none';
+			document.body.style.overflow = 'scroll';
 		});
 // 		let img = divs[z].children[0];
 // 		let content = elt('div', {className: 'modal-content'});
