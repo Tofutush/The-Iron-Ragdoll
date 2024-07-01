@@ -3,10 +3,18 @@
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 #gallery div {
-	user-select: none;
+	aspect-ratio: 1;
 	display: flex;
 	justify-content: center;
-	aspect-ratio: 1;
+	position: relative;
+	user-select: none;
+}
+#gallery .tooltip {
+	bottom: 4px;
+	color: var(--box);
+	cursor: pointer;
+	position: absolute;
+	right: 12px;
 }
 #gallery img {
 	background-color: var(--box);
@@ -19,7 +27,7 @@
 }
 .modal {
 	align-items: center;
-	background-color: #0008;
+	background-color: #000;
 	display: none;
 	justify-content: center;
 	height: 100%;
@@ -35,8 +43,9 @@
 	margin: 2em;
 }
 .comment {
-	max-width: 800px;
+	max-width: 500px;
 	margin: 2em;
+	margin-left: 0;
 }
 .close {
 	color: #fff;
