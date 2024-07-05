@@ -65,6 +65,9 @@ body {
 .desc a {
 	color: var(--c);
 }
+.desc .collapsible-content {
+	margin: 0;
+}
 .quote {
 	font-style: italic;
 	margin: 1em;
