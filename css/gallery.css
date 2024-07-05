@@ -1,13 +1,64 @@
+.tags {
+	color: #fff;
+	font-size: 24px;
+	margin: 2em 1em;
+}
+
+.tags .collapsible {
+	color: var(--blue);
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 0;
+}
+
+.tags .collapsible:hover {
+	text-decoration: underline;
+}
+
+.tags .collapsible-content {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1em;
+	justify-content: space-between;
+	margin-top: 1em;
+	user-select: none;
+}
+
+.tags .collapsible-content::after {
+	content: "";
+	flex: auto;
+}
+
+.tags .collapsible-content div {
+	background-color: var(--box);
+	border-radius: 6px;
+	cursor: pointer;
+	line-height: 1;
+	padding: 4px 6px;
+	text-transform: capitalize;
+}
+
+.tags .collapsible-content div:hover {
+	background-color: #fffa;
+}
+
+.tags .collapsible-content div.active {
+	background-color: #fff;
+	color: #000;
+}
+
 #gallery {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
-#gallery div {
+#gallery > div {
 	aspect-ratio: 1;
 	display: flex;
 	justify-content: center;
 	position: relative;
-	user-select: none;
+}
+#gallery > div.hidden {
+	display: none;
 }
 #gallery .tooltip {
 	bottom: 4px;
@@ -16,7 +67,7 @@
 	position: absolute;
 	right: 12px;
 }
-#gallery img {
+#gallery > div > img {
 	background-color: var(--box);
 	border-radius: 16px;
 	cursor: pointer;
@@ -24,6 +75,7 @@
 	width: 140px;
 	padding: .5em;
 	height: 140px;
+	user-select: none;
 }
 .modal {
 	align-items: center;
@@ -35,7 +87,8 @@
 	position: fixed;
 	top: 0;
 	width: 100%;
-	overflow: scroll;
+	overflow: auto;
+	z-index: 999;
 }
 .modal img {
 	width: auto;
@@ -74,5 +127,8 @@
 	.modal img {
 		width: 90%;
 		height: auto;
+	}
+	.tags .collapsible-content {
+		justify-content: flex-start;
 	}
 }
