@@ -100,7 +100,10 @@
       "Nationality":"Bauhinian",
       "Occupation":"Secret police officer",
       "Weapon":"Walther P38 pistol"
-    }
+    },
+    "refs":[
+      "turn"
+    ]
   },
   {
     "cat":"Hillslope",

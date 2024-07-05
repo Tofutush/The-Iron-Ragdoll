@@ -3,9 +3,18 @@ layout: layout.liquid
 title: Gallery
 ---
 
+<div class="tags">
+	<p class="collapsible">Tags (click to expand)</p>
+	<div class="collapsible-content">
+		{% for tag in tags %}
+			<div name="{{ tag }}">{{ tag }}</div>
+		{% endfor %}
+	</div>
+</div>
+
 <div id="gallery">
 	{% for img in gallery %}
-		<div>
+		<div class="{% for c in img.ch %}{{ c }} {% endfor %}">
 			{% if img.comment %}
 				<div class="tooltip">
 					<span class="tooltip-text">Comment attached</span>
@@ -13,10 +22,22 @@ title: Gallery
 				</div>
 			{% endif %}
 			{% image "gallery/" img.name img.type 200 "" %}
+			<div class="modal">
+				<div class="close">
+					<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" class="lucide lucide-x"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+				</div>
+				{% assign bruhhh = img.name | append: "." | append: img.type %}
+				{% imageOrig "gallery/" bruhhh "" %}
+				{% if img.comment %}
+					<div class="comment">
+						{{ img.comment | renderMD }}
+					</div>
+				{% endif %}
+			</div>
 		</div>
 	{% endfor %}
 </div>
-<div id="modals">
+{% comment %} <div id="modals">
 	{% for img in gallery %}
 		<div class="modal">
 			<div class="close">
@@ -31,40 +52,48 @@ title: Gallery
 			{% endif %}
 		</div>
 	{% endfor %}
-</div>
+</div> {% endcomment %}
 <script>
+// see image
 let divs = document.getElementById('gallery').children;
-let modals = document.getElementById('modals').children;
+// let modals = document.getElementById('modals').children;
 for(let z = 0; z < divs.length; z++) {
-	divs[z].addEventListener('click', e => {
-		let modal = modals[z];
+	let img = divs[z].querySelector('img');
+	img.addEventListener('click', e => {
+		// let modal = modals[z];
+		let modal = divs[z].querySelector('.modal');
 		let close = modal.querySelector('.close');
 		modal.style.display = 'flex';
 		document.body.style.overflow = 'hidden';
 		close.addEventListener('click', e => {
 			modal.style.display = 'none';
-			document.body.style.overflow = 'scroll';
+			document.body.style.overflow = 'auto';
 		});
-// 		let img = divs[z].children[0];
-// 		let content = elt('div', {className: 'modal-content'});
-// 		let metadata = await Image('img/gallery/sparky jerboa deal.png', {
-// 			widths: ['auto'],
-// 			formats: ['auto'],
-// 			urlPath: '/img/gallery/',
-// 			outputDir: './_site/img/gallery'
-// 		});
-// 		let imageAttributes = {
-// 			alt,
-// 			loading: "lazy",
-// 			decoding: "async",
-// 		};
-// 		content.innerHTML = (Image.generateHTML(metadata, imageAttributes));
-// 		let box = elt('div', {className: 'modal'}, content);
-// 		box.addEventListener('click', e => {
-// 			document.body.removeChild(box);
-// 		});
-// 		document.body.appendChild(box);
 	});
+}
+// tags
+let filter = [];
+let tags = document.querySelector('.tags').querySelector('.collapsible-content').children;
+for(let z = 0; z < tags.length; z++) {
+	tags[z].addEventListener('click', e => {
+		if(tags[z].classList.contains('active')) {
+			tags[z].classList.remove('active');
+			filter.splice(filter.indexOf(tags[z].getAttribute('name')), 1);
+		} else {
+			tags[z].classList.add('active');
+			filter.push(tags[z].getAttribute('name'));
+		}
+		filterImgs()
+	});
+}
+function filterImgs() {
+	for(let z = 0; z < divs.length; z++) {
+		if(filter.every(f => divs[z].classList.contains(f))) {
+			divs[z].classList.remove('hidden');
+		} else {
+			divs[z].classList.add('hidden');
+		}
+	}
 }
 function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}
 </script>
