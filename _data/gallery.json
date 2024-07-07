@@ -173,6 +173,15 @@
         "style":"lineless"
     },
     {
+        "name":"fanton token",
+        "type":"svg",
+        "ch":[
+            "fanton"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
         "name":"fern thumb",
         "type":"png",
         "ch":[
@@ -398,7 +407,8 @@
             "potato"
         ],
         "scope":"headshot",
-        "style":"lineless"
+        "style":"lineless",
+        "comment":"Potato is another character I cut. He was originally Tomato's twin brother, and the mailman. Now Alaska is the mailman."
     },
     {
         "name":"qibli thumb",
@@ -530,5 +540,223 @@
         ],
         "scope":"headshot",
         "style":"normal"
+    },
+    {
+        "name":"sparky jerboa deal",
+        "type":"png",
+        "ch":[
+            "sparky",
+            "jerboa"
+        ],
+        "scope":"full-body",
+        "style":"messy"
+    },
+    {
+        "name":"sparky old",
+        "type":"png",
+        "ch":[
+            "sparky"
+        ],
+        "scope":"full-body",
+        "style":"normal",
+        "comment":"An old picture of Sparky."
+    },
+    {
+        "name":"sparky thumb",
+        "type":"png",
+        "ch":[
+            "sparky"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"sparky turn",
+        "type":"png",
+        "ch":[
+            "sparky"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"sparky xmas 2023",
+        "type":"png",
+        "ch":[
+            "sparky"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"sparky zombie",
+        "type":"png",
+        "ch":[
+            "sparky"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"starcorp flag",
+        "type":"svg",
+        "ch":[
+            "starcorp"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"starcorp logo",
+        "type":"svg",
+        "ch":[
+            "starcorp"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"starry thumb",
+        "type":"png",
+        "ch":[
+            "starry"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"sunny thumb",
+        "type":"png",
+        "ch":[
+            "sunny"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"sylvandia flag",
+        "type":"svg",
+        "ch":[
+            "sylvandia"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"sylvandia token",
+        "type":"svg",
+        "ch":[
+            "sylvandia"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
+        "name":"tephra head",
+        "type":"png",
+        "ch":[
+            "tephra"
+        ],
+        "scope":"headshot",
+        "style":"normal"
+    },
+    {
+        "name":"tephra stand",
+        "type":"png",
+        "ch":[
+            "tephra"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"tephra thumb",
+        "type":"png",
+        "ch":[
+            "tephra"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"tephra turn",
+        "type":"png",
+        "ch":[
+            "tephra"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"tephra xmas 2023",
+        "type":"png",
+        "ch":[
+            "tephra"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"thunder thumb",
+        "type":"png",
+        "ch":[
+            "thunder"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"tomato thumb",
+        "type":"png",
+        "ch":[
+            "tomato"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"tundra stand",
+        "type":"png",
+        "ch":[
+            "tundra"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"tundra thumb",
+        "type":"png",
+        "ch":[
+            "tundra"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"tundra xmas 2023",
+        "type":"png",
+        "ch":[
+            "tundra"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"vampire thumb",
+        "type":"png",
+        "ch":[
+            "vampire"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"willow thumb",
+        "type":"png",
+        "ch":[
+            "willow"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
     }
 ]
