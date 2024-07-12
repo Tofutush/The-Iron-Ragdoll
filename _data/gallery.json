@@ -228,6 +228,19 @@
         "style":"lineless"
     },
     {
+        "name":"int",
+        "type":"png",
+        "ch":[
+            "peacock",
+            "qibli",
+            "tephra",
+            "sparky"
+        ],
+        "scope":"comic",
+        "style":"sketch",
+        "comment":"This is pure shitpost. Peacock asks the three kids what \"int\" stands for. They each have their own answers."
+    },
+    {
         "name":"ironheart thumb",
         "type":"png",
         "ch":[
@@ -595,7 +608,8 @@
             "sparky"
         ],
         "scope":"full-body",
-        "style":"normal"
+        "style":"normal",
+        "comment":"To this day I still don't know why I drew this."
     },
     {
         "name":"starcorp flag",

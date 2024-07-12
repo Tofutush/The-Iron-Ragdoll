@@ -5,7 +5,7 @@ desc: A bunch of pictures I drew.
 ---
 
 <div class="tags">
-	<p class="collapsible">Tags (click to expand)</p>
+	<p class="collapsible">Tags (press shift to multi-select)</p>
 	<div class="collapsible-content">
 		{% for tag in tags %}
 			<div name="{{ tag }}">{{ tag }}</div>
@@ -38,22 +38,6 @@ desc: A bunch of pictures I drew.
 		</div>
 	{% endfor %}
 </div>
-{% comment %} <div id="modals">
-	{% for img in gallery %}
-		<div class="modal">
-			<div class="close">
-				<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" class="lucide lucide-x"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
-			</div>
-			{% assign bruhhh = img.name | append: "." | append: img.type %}
-			{% imageOrig "gallery/" bruhhh "" %}
-			{% if img.comment %}
-				<div class="comment">
-					{{ img.comment | renderMD }}
-				</div>
-			{% endif %}
-		</div>
-	{% endfor %}
-</div> {% endcomment %}
 <script>
 // see image
 let divs = document.getElementById('gallery').children;
@@ -61,7 +45,6 @@ let divs = document.getElementById('gallery').children;
 for(let z = 0; z < divs.length; z++) {
 	let img = divs[z].querySelector('img');
 	img.addEventListener('click', e => {
-		// let modal = modals[z];
 		let modal = divs[z].querySelector('.modal');
 		let close = modal.querySelector('.close');
 		modal.style.display = 'flex';
@@ -81,8 +64,16 @@ for(let z = 0; z < tags.length; z++) {
 			tags[z].classList.remove('active');
 			filter.splice(filter.indexOf(tags[z].getAttribute('name')), 1);
 		} else {
-			tags[z].classList.add('active');
-			filter.push(tags[z].getAttribute('name'));
+			if(e.shiftKey) {
+				tags[z].classList.add('active');
+				filter.push(tags[z].getAttribute('name'));
+			} else {
+				for(let x = 0; x < tags.length; x++) {
+					tags[x].classList.remove('active');
+				}
+				tags[z].classList.add('active');
+				filter = [tags[z].getAttribute('name')];
+			}
 		}
 		filterImgs()
 	});
