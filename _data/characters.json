@@ -7,12 +7,12 @@
     "quote":"What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
     "attr":{
       "Full name":"Sparky Amber Jackal<br/>Sparky Amber Peacock",
-      "Nickname":"Spark (by Tundra)",
+      "Nickname":"Spark (by Tundra)<br/>Sister (by Willow)<br/>Sis (by Ironheart)",
       "Gender":"Female (cis)",
       "Birthday":"2017 Aug 14<sup>th</sup>",
       "Nationality":"Bauhinian",
       "Orientation":"Bisexual, deep in the closet",
-      "Marital status":"Married (<a href=\"../nightsun\">Nightsun</a>)",
+      "Marital status":"Married (to <a href=\"../nightsun\">Nightsun</a>)",
       "Occupation":"Close protection officer",
       "Weapon":"M1911 pistol",
       "Power":"Superstrength lv. 800"
@@ -71,6 +71,10 @@
     "name":"Tomato",
     "color":"#A10000",
     "quote":"I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
+    "palette":{
+      "shirt":"#575757",
+      "hair":"#2e2e2e"
+    },
     "attr":{
       "Nickname":"Tom (by Tundra)",
       "Gender":"Male",
@@ -101,6 +105,12 @@
       "Occupation":"Secret police officer",
       "Weapon":"Walther P38 pistol"
     },
+    "palette":{
+      "belt and holster": "#AE7500",
+      "buckle":"#7D4500",
+      "gun handle":"#757575",
+      "hair":"#2e2e2e"
+    },
     "refs":[
       "turn"
     ]
@@ -110,6 +120,10 @@
     "name":"Melody",
     "color":"#426600",
     "quote":"...",
+    "palette":{
+      "hat":"#575757",
+      "hair":"#2e2e2e"
+    },
     "attr":{
       "Nickname":"Mel (by Tundra)",
       "Gender":"Male",
@@ -123,6 +137,11 @@
     "name":"Jerboa",
     "color":"#0867af",
     "desc":"Owner, bartender, and everything else of the tavern!",
+    "palette":{
+      "shirt light":"#727272",
+      "shirt dark":"#4F4F4F",
+      "hair":"#2E2E2E"
+    },
     "attr":{
       "Full name":"Jerboa Kangaroo Koala",
       "Nickname":"Jerb (by Tundra)",
@@ -137,6 +156,10 @@
     "color":"#800080",
     "desc":"Self-proclaimed mayor of Hillslope!",
     "quote":"What's the big deal?",
+    "palette":{
+      "tie":"#2E6CF7",
+      "hair":"#2E2E2E"
+    },
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian",
@@ -149,6 +172,10 @@
     "name":"Alaska",
     "color":"#6C0404",
     "desc":"Photographer for the press!",
+    "palette":{
+      "shirt":"#FFF",
+      "hair":"#2E2E2E"
+    },
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian",
