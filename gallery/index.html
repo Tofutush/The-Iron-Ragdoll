@@ -50,7 +50,7 @@
 	<div id="comic">
 	
 <div class="tags">
-	<p class="collapsible">Tags (click to expand)</p>
+	<p class="collapsible">Tags (press shift to multi-select)</p>
 	<div class="collapsible-content">
 		
 			<div name="sparky">sparky</div>
@@ -61,7 +61,11 @@
 		
 			<div name="jerboa">jerboa</div>
 		
+			<div name="qibli">qibli</div>
+		
 			<div name="fanton">fanton</div>
+		
+			<div name="peacock">peacock</div>
 		
 			<div name="melody">melody</div>
 		
@@ -75,8 +79,6 @@
 		
 			<div name="sky">sky</div>
 		
-			<div name="qibli">qibli</div>
-		
 			<div name="firecrackers">firecrackers</div>
 		
 			<div name="fantasy">fantasy</div>
@@ -88,8 +90,6 @@
 			<div name="myriad">myriad</div>
 		
 			<div name="nightsun">nightsun</div>
-		
-			<div name="peacock">peacock</div>
 		
 			<div name="willow">willow</div>
 		
@@ -542,6 +542,29 @@
 				</div>
 				
 				<img alt="" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/ZCPcem7dd5-500.png" width="500" height="500">
+				
+			</div>
+		</div>
+	
+		<div class="peacock qibli tephra sparky ">
+			
+				<div class="tooltip">
+					<span class="tooltip-text">Comment attached</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-ellipsis"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+				</div>
+			
+			<img alt="" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/Dc7T-8r29a-200.webp" width="200" height="167">
+			<div class="modal">
+				<div class="close">
+					<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" class="lucide lucide-x"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
+				</div>
+				
+				<img alt="" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/Dc7T-8r29a-1580.png" width="1580" height="1320">
+				
+					<div class="comment">
+						<p>This is pure shitpost. Peacock asks the three kids what &quot;int&quot; stands for. They each have their own answers.</p>
+
+					</div>
 				
 			</div>
 		</div>
@@ -1104,6 +1127,11 @@
 	
 		<div class="sparky ">
 			
+				<div class="tooltip">
+					<span class="tooltip-text">Comment attached</span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-ellipsis"><circle cx="12" cy="12" r="1"></circle><circle cx="19" cy="12" r="1"></circle><circle cx="5" cy="12" r="1"></circle></svg>
+				</div>
+			
 			<img alt="" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/DkXWEzirSx-200.webp" width="200" height="251">
 			<div class="modal">
 				<div class="close">
@@ -1111,6 +1139,11 @@
 				</div>
 				
 				<img alt="" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/DkXWEzirSx-1523.png" width="1523" height="1918">
+				
+					<div class="comment">
+						<p>To this day I still don't know why I drew this.</p>
+
+					</div>
 				
 			</div>
 		</div>
@@ -1234,13 +1267,13 @@
 	
 		<div class="tephra ">
 			
-			<img alt="" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/_2PyNMWluI-200.webp" width="200" height="76">
+			<img alt="" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/Cch-JgOq-0-200.webp" width="200" height="76">
 			<div class="modal">
 				<div class="close">
 					<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" class="lucide lucide-x"><path d="M18 6 6 18"></path><path d="m6 6 12 12"></path></svg>
 				</div>
 				
-				<img alt="" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/_2PyNMWluI-2600.png" width="2600" height="1000">
+				<img alt="" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/Cch-JgOq-0-2600.png" width="2600" height="1000">
 				
 			</div>
 		</div>
@@ -1350,7 +1383,6 @@
 		</div>
 	
 </div>
-
 <script>
 // see image
 let divs = document.getElementById('gallery').children;
@@ -1358,7 +1390,6 @@ let divs = document.getElementById('gallery').children;
 for(let z = 0; z < divs.length; z++) {
 	let img = divs[z].querySelector('img');
 	img.addEventListener('click', e => {
-		// let modal = modals[z];
 		let modal = divs[z].querySelector('.modal');
 		let close = modal.querySelector('.close');
 		modal.style.display = 'flex';
@@ -1378,8 +1409,16 @@ for(let z = 0; z < tags.length; z++) {
 			tags[z].classList.remove('active');
 			filter.splice(filter.indexOf(tags[z].getAttribute('name')), 1);
 		} else {
-			tags[z].classList.add('active');
-			filter.push(tags[z].getAttribute('name'));
+			if(e.shiftKey) {
+				tags[z].classList.add('active');
+				filter.push(tags[z].getAttribute('name'));
+			} else {
+				for(let x = 0; x < tags.length; x++) {
+					tags[x].classList.remove('active');
+				}
+				tags[z].classList.add('active');
+				filter = [tags[z].getAttribute('name')];
+			}
 		}
 		filterImgs()
 	});
