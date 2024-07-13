@@ -630,6 +630,15 @@
         "style":"lineless"
     },
     {
+        "name":"starcorp private security logo",
+        "type":"svg",
+        "ch":[
+            "starcorp"
+        ],
+        "scope":"design",
+        "style":"lineless"
+    },
+    {
         "name":"starry thumb",
         "type":"png",
         "ch":[
