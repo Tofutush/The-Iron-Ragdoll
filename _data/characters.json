@@ -71,15 +71,15 @@
     "name":"Tomato",
     "color":"#A10000",
     "quote":"I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
-    "palette":{
-      "shirt":"#575757",
-      "hair":"#2e2e2e"
-    },
     "attr":{
       "Nickname":"Tom (by Tundra)",
       "Gender":"Male",
       "Nationality":"Bauhinian",
       "Weapon":"Wrench"
+    },
+    "palette":{
+      "shirt":"#575757",
+      "hair":"#2e2e2e"
     }
   },
   {
@@ -147,8 +147,11 @@
       "Nickname":"Jerb (by Tundra)",
       "Gender":"Male",
       "Nationality":"Bauhinian",
-      "Occupation":"Chemist, undertaker, and chemist again"
-    }
+      "Occupation":"Bartender, chemist, undertaker, and chemist again"
+    },
+    "refs":[
+      "turn"
+    ]
   },
   {
     "cat":"Hillslope",
