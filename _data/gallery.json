@@ -286,6 +286,15 @@
         "style":"lineless"
     },
     {
+        "name":"jerboa turn",
+        "type":"png",
+        "ch":[
+            "jerboa"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
         "name":"lark thumb",
         "type":"png",
         "ch":[
@@ -590,7 +599,8 @@
             "sparky"
         ],
         "scope":"full-body",
-        "style":"normal"
+        "style":"normal",
+        "comment":"The flag of the Republic of Bauhinia.\n\nIn the middle of the flag is a bauhinia flower with leaves behind it, the symbol of the Republic of Bauhinia. The flower grows in the subtropics -- all throughout Bauhinia -- and blooms in the winter. It stands for the core Bauhinia values of family, harmony, and love."
     },
     {
         "name":"sparky xmas 2023",
