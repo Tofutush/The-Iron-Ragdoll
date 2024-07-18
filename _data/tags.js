@@ -1,4 +1,4 @@
-const gallery = require('./gallery.json');
+const gallery = require('./gallery.js');
 
 module.exports = function() {
 	let ch = [];
