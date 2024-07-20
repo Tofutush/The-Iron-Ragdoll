@@ -68,6 +68,15 @@ body {
 .desc .collapsible-content {
 	margin: 0;
 }
+.desc .note {
+	margin: 1em 3em;
+}
+.desc .note > p:first-child {
+	margin-top: 0;
+}
+.desc .note > p:last-child {
+	margin-bottom: 0;
+}
 .quote {
 	font-style: italic;
 	margin: 1em;
