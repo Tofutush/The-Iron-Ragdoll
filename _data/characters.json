@@ -23,8 +23,10 @@
     },
     "refs":[
       "turn",
+      "note",
       "expressions"
-    ]
+    ],
+    "note":"The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter."
   },
   {
     "cat":"Hillslope",
@@ -42,7 +44,10 @@
     "palette":{
       "apron folds":"#787878",
       "hair":"#2e2e2e"
-    }
+    },
+    "refs":[
+      "turn"
+    ]
   },
   {
     "cat":"Hillslope",
@@ -64,7 +69,12 @@
       "right eye":"#A5D6F7",
       "shirt":"#B2B8E3",
       "hair":"#2e2e2e"
-    }
+    },
+    "refs":[
+      "turn",
+      "note"
+    ],
+    "note":"Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n\nSleeves are wider than a normal sleeve.\n\nBoth the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n\nShoes and hairband match color.\n\nThe yellow eye (yellow with black pupil) is always open."
   },
   {
     "cat":"Hillslope",

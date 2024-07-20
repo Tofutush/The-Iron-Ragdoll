@@ -52,9 +52,12 @@ eleventyComputed:
 	</div>
 	{% if ch.refs %}
 		{% for ref in ch.refs %}
-			{% comment %} <img src="/img/gallery/{{ ch.name | lowerCase }} {{ ref }}.png"/> {% endcomment %}
-			{% assign bruhhh = ch.name | lowerCase | append: " " | append: ref %}
-			{% image "gallery/" bruhhh "png" 1000 "" %}
+			{% if ref == "note" %}
+				<div class="note">{{ ch.note | renderMD }}</div>
+			{% else %}
+				{% assign bruhhh = ch.name | lowerCase | append: " " | append: ref %}
+				{% image "gallery/" bruhhh "png" 1000 "" %}
+			{% endif %}
 		{% endfor %}
 	{% endif %}
 </div>
