@@ -1,9 +1,10 @@
 const gallery = require('./gallery.js');
 
 module.exports = function() {
+	let g = gallery();
 	let ch = [];
-	for(let z = 0; z < gallery.length; z++) {
-		for(let a of gallery[z].ch) {
+	for(let z = 0; z < g.length; z++) {
+		for(let a of g[z].ch) {
 			ch.push(a);
 		}
 	}
