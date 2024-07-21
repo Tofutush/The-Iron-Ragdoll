@@ -808,5 +808,14 @@
         ],
         "scope":"fullbody",
         "style":"normal"
+    },
+    {
+        "name":"animus thumb",
+        "type":"png",
+        "ch":[
+            "animus"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
     }
 ]

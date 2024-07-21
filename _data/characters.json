@@ -12,7 +12,7 @@
       "Birthday":"2017 Aug 14<sup>th</sup>",
       "Nationality":"Bauhinian",
       "Orientation":"Bisexual, deep in the closet",
-      "Marital status":"Married (to <a href=\"../nightsun\">Nightsun</a>)",
+      "Marital status":"Married (to <a href=\"../nightsun/\">Nightsun</a>)",
       "Occupation":"Close protection officer",
       "Weapon":"M1911 pistol",
       "Power":"Superstrength lv. 800"
@@ -265,7 +265,15 @@
     "cat":"Sparky's Family",
     "name":"Nightsun",
     "color":"#130b51",
-    "hidden":true
+    "hidden":true,
+    "attr":{
+      "Gender":"Male",
+      "Nationality":"Bauhinian?",
+      "Orientation":"Bisexual, deep in the closet",
+      "Marital status":"Married (to <a href=\"../sparky/\">Sparky</a>)",
+      "Occupation":"Employee at Starcorp",
+      "Weapon":"Seedling sword"
+    }
   },
   {
     "cat":"Sparky's Family",
@@ -283,19 +291,31 @@
     "cat":"Hyrax's Family",
     "name":"Beauty",
     "color":"#CE6C07",
-    "hidden":true
+    "hidden":true,
+    "attr":{
+      "Gender":"Female (cis)",
+      "Full name":"Beauty Cherry Hyrax"
+    }
   },
   {
     "cat":"Hyrax's Family",
     "name":"Chastity",
     "color":"#C3BB4E",
-    "hidden":true
+    "hidden":true,
+    "attr":{
+      "Gender":"Female (cis)",
+      "Full name":"Chastity Cherry Hyrax"
+    }
   },
   {
     "cat":"Hyrax's Family",
     "name":"Devotion",
     "color":"#017909",
-    "hidden":true
+    "hidden":true,
+    "attr":{
+      "Gender":"Female (cis)",
+      "Full name":"Devotion Cherry Hyrax"
+    }
   },
   {
     "cat":"Hyrax's Family",
@@ -304,13 +324,25 @@
     "hidden":true,
     "attr":{
       "Gender":"Female (cis)",
+      "Full name":"Elegance Cherry Hyrax",
       "Power":"Time precision"
     }
   },
   {
     "cat":"Hyrax's Family",
     "name":"Animus",
+    "desc":"Chairman of Starcorp!",
     "color":"#a10000",
-    "hidden":true
+    "hidden":true,
+    "attr":{
+      "Gender":"Male (cis)",
+      "Full name":"Animus Hyrax Cherry",
+      "Nationality":"Bauhinian",
+      "Orientation":"Homosexual",
+      "Occupation":"Chairman of a company or something like that not that I care"
+    },
+    "palette":{
+      "hair":"#2E2E2E"
+    }
   }
 ]
