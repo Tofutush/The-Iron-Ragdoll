@@ -25,7 +25,10 @@ module.exports = function(eleventyConfig) {
 	});
 	eleventyConfig.addFilter('getChByName', function(arr, name) {
 		return arr.find(ch => ch.name == name);
-	})
+	});
+	eleventyConfig.addFilter('filterGallery', function(arr, f) {
+		return arr.filter(a => a.ch.includes(f.toLowerCase()));
+	});
 	eleventyConfig.addFilter('getChByCat', function(arr, cat) {
 		return arr.filter(c => c.cat == cat);
 	});

@@ -15,30 +15,5 @@ desc: A bunch of pictures I drew.
 		</div>
 	</div>
 </div>
-
-<div id="gallery">
-	{% for img in gallery %}
-		<div class="{% for c in img.ch %}{{ c }} {% endfor %}">
-			{% if img.comment %}
-				<div class="tooltip">
-					<span class="tooltip-text">Comment attached</span>
-					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-ellipsis"><circle cx="12" cy="12" r="1"/><circle cx="19" cy="12" r="1"/><circle cx="5" cy="12" r="1"/></svg>
-				</div>
-			{% endif %}
-			{% image "gallery/" img.name img.type 200 "" %}
-			<div class="modal">
-				<div class="close">
-					<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter" class="lucide lucide-x"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
-				</div>
-				{% assign bruhhh = img.name | append: "." | append: img.type %}
-				{% imageOrig "gallery/" bruhhh "" %}
-				{% if img.comment %}
-					<div class="comment">
-						{{ img.comment | renderMD }}
-					</div>
-				{% endif %}
-			</div>
-		</div>
-	{% endfor %}
-</div>
-<script src="./js/gallery.js"></script>
+{% include 'gallery' imgs: gallery %}
+<script src="/js/gallery.js"></script>
