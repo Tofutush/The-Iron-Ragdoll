@@ -1,21 +1,22 @@
-.tags {
+#tags {
 	color: #fff;
 	font-size: 24px;
 	margin: 2em 1em;
 }
 
-.tags .collapsible {
+#tags .collapsible {
 	color: var(--blue);
 	font-size: 1.5em;
 	font-weight: bold;
-	margin: 0;
+	margin-bottom: .75em;
+	margin-top: 1.25em;
 }
 
-.tags .collapsible:hover {
+#tags .collapsible:hover {
 	text-decoration: underline;
 }
 
-.tags .collapsible-content {
+.tags {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 1em;
@@ -24,12 +25,12 @@
 	user-select: none;
 }
 
-.tags .collapsible-content::after {
+.tags::after {
 	content: "";
 	flex: auto;
 }
 
-.tags .collapsible-content div {
+.tags div {
 	background-color: var(--box);
 	border-radius: 6px;
 	cursor: pointer;
@@ -38,11 +39,11 @@
 	text-transform: capitalize;
 }
 
-.tags .collapsible-content div:hover {
+.tags div:hover {
 	background-color: #fffa;
 }
 
-.tags .collapsible-content div.active {
+.tags div.active {
 	background-color: #fff;
 	color: #000;
 }
@@ -102,6 +103,7 @@
 }
 .comment {
 	margin: 2em;
+	max-width: 90vw;
 	width: 800px;
 }
 .close {
@@ -111,24 +113,26 @@
 	right: 2em;
 	top: 2em;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 780px) {
 	#gallery {
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 	}
 }
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 670px) {
 	#gallery {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
 }
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 480px) {
 	#gallery {
 		grid-template-columns: 1fr 1fr;
 	}
-	.comment {
-		width: 90vw;
-	}
 	.tags .collapsible-content {
 		justify-content: flex-start;
+	}
+}
+@media only screen and (max-width: 315px) {
+	#gallery {
+		grid-template-columns: 1fr;
 	}
 }

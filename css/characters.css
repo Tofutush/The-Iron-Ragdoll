@@ -150,17 +150,17 @@ body {
 .palette > div:hover > div {
 	display: flex;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 780px) {
 	.chs {
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 	}
 }
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 670px) {
 	.chs {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
 }
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 480px) {
 	.chs {
 		grid-template-columns: 1fr 1fr;
 	}

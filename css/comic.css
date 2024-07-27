@@ -15,6 +15,9 @@
 	font-size: 32px;
 	margin: 0;
 }
+.options > p::before {
+	content: "Page ";
+}
 #save {
 	font-size: 24px;
 }
@@ -30,4 +33,12 @@
 }
 .noclick:hover {
 	cursor: not-allowed !important;
+}
+@media only screen and (max-width: 360px) {
+	.options > p {
+		font-size: 28px;
+	}
+	.options > p::before {
+		content: "";
+	}
 }

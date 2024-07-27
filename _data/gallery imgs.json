@@ -37,34 +37,33 @@
         "comment":"The flag of the Republic of Bauhinia.\n\nIn the middle of the flag is a bauhinia flower with leaves behind it, the symbol of the Republic of Bauhinia. The flower grows in the subtropics -- all throughout Bauhinia -- and blooms in the winter. It stands for the core Bauhinia values of family, harmony, and love."
     },
     {
-        "name":"bauhinia nsa symbol",
+        "name":"mssb stamp confidential",
         "type":"svg",
         "ch":[
             "bauhinia"
         ],
         "scope":"design",
         "style":"lineless",
-        "comment":"The National Security Agency of Bauhinia features a symbol that is a variant of the national emblem, a bauhinia flower with leaves behind it.\n\nThe three sharp spikes on each of the bauhinia petals are for Bauhinia's enemies. The gleaming edge represents the strength and determination of the NSA in their mission. The bauhinia leaves are double-layered, meaning that the NSA guards the homeland against threats both foreign and domestic."
+        "comment":"This is the stamp the Ministry of State Security stamps on its *confidential* documents."
     },
     {
-        "name":"bauhinia nsa stamp",
+        "name":"mssb stamp",
         "type":"svg",
         "ch":[
             "bauhinia"
         ],
         "scope":"design",
         "style":"lineless",
-        "comment":"This is a stamp the NSAB stamps on its documents."
+        "comment":"This is the stamp the Ministry of State Security stamps on its documents."
     },
     {
-        "name":"bauhinia nsa stamp confidential",
+        "name":"mssb symbol",
         "type":"svg",
         "ch":[
             "bauhinia"
         ],
         "scope":"design",
-        "style":"lineless",
-        "comment":"This is a stamp the NSAB stamps on its *confidential* documents."
+        "style":"lineless"
     },
     {
         "name":"bauhinia police symbol",
@@ -814,6 +813,15 @@
         "type":"png",
         "ch":[
             "animus"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"amber thumb",
+        "type":"png",
+        "ch":[
+            "amber"
         ],
         "scope":"headshot",
         "style":"lineless"
