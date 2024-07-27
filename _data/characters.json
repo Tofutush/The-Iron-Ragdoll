@@ -99,8 +99,7 @@
     "attr":{
       "Gender":"Female",
       "Nationality":"Atlasian"
-    },
-    "hidden":true
+    }
   },
   {
     "cat":"Hillslope",
@@ -198,74 +197,62 @@
   {
     "cat":"Hillslope",
     "name":"Starry",
-    "color":"#CC770F",
-    "hidden":true
+    "color":"#CC770F"
   },
   {
     "cat":"Hillslope",
     "name":"Dragonfly",
-    "color":"#00adad",
-    "hidden":true
+    "color":"#00adad"
   },
   {
     "cat":"Coastline Middle School",
     "name":"Qibli",
-    "color":"#440044",
-    "hidden":true
+    "color":"#440044"
   },
   {
     "cat":"Coastline Middle School",
     "name":"Sky",
-    "color":"#236ce1",
-    "hidden":true
+    "color":"#236ce1"
   },
   {
     "cat":"Coastline Middle School",
     "name":"Firecrackers",
-    "color":"#8214bd",
-    "hidden":true
+    "color":"#8214bd"
   },
   {
     "cat":"Coastline Middle School",
     "name":"Myriad",
-    "color":"#d01b84",
-    "hidden":true
+    "color":"#d01b84"
   },
   {
     "cat":"Sparky's Family",
     "name":"Amber",
-    "color":"#e15f19",
-    "hidden":true
+    "color":"#e15f19"
   },
   {
     "cat":"Sparky's Family",
     "name":"Peacock",
-    "color":"#20f",
-    "hidden":true
+    "color":"#20f"
   },
   {
     "cat":"Sparky's Family",
     "name":"Fantasy",
-    "color":"#ce00af",
-    "hidden":true
+    "color":"#ce00af"
   },
   {
     "cat":"Sparky's Family",
     "name":"Ironheart",
-    "color":"#69272b",
-    "hidden":true
+    "color":"#69272b"
   },
   {
     "cat":"Sparky's Family",
     "name":"Willow",
-    "color":"#199400",
-    "hidden":true
+    "color":"#199400"
   },
   {
     "cat":"Sparky's Family",
     "name":"Nightsun",
     "color":"#130b51",
-    "hidden":true,
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian?",
@@ -291,7 +278,6 @@
     "cat":"Hyrax's Family",
     "name":"Beauty",
     "color":"#CE6C07",
-    "hidden":true,
     "attr":{
       "Gender":"Female (cis)",
       "Full name":"Beauty Cherry Hyrax"
@@ -301,7 +287,6 @@
     "cat":"Hyrax's Family",
     "name":"Chastity",
     "color":"#C3BB4E",
-    "hidden":true,
     "attr":{
       "Gender":"Female (cis)",
       "Full name":"Chastity Cherry Hyrax"
@@ -311,7 +296,6 @@
     "cat":"Hyrax's Family",
     "name":"Devotion",
     "color":"#017909",
-    "hidden":true,
     "attr":{
       "Gender":"Female (cis)",
       "Full name":"Devotion Cherry Hyrax"
@@ -321,7 +305,6 @@
     "cat":"Hyrax's Family",
     "name":"Elegance",
     "color":"#1054ad",
-    "hidden":true,
     "attr":{
       "Gender":"Female (cis)",
       "Full name":"Elegance Cherry Hyrax",
@@ -333,7 +316,6 @@
     "name":"Animus",
     "desc":"Chairman of Starcorp!",
     "color":"#a10000",
-    "hidden":true,
     "attr":{
       "Gender":"Male (cis)",
       "Full name":"Animus Hyrax Cherry",
