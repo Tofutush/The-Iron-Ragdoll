@@ -1,0 +1,27 @@
+.chapter {
+	align-items: center;
+	display: flex;
+	gap: 2em;
+	justify-content: space-between;
+}
+.chapter h1 {
+	font-size: 32px;
+	margin: 0;
+	text-wrap: nowrap;
+}
+.chapter a {
+	color: #0cf;
+}
+.chapter p {
+	font-size: 24px;
+	margin: 0;
+}
+.chapter-desc {
+	font-size: 24px;
+	margin: 1em 1em 1.5em 1em;
+	text-indent: 2em;
+}
+.dot-line {
+	border-top: 5px dotted #fffb;
+	width: 100%;
+}

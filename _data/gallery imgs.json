@@ -825,5 +825,41 @@
         ],
         "scope":"headshot",
         "style":"lineless"
+    },
+    {
+        "name":"beauty thumb",
+        "type":"png",
+        "ch":[
+            "beauty"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"chastity thumb",
+        "type":"png",
+        "ch":[
+            "chastity"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"devotion thumb",
+        "type":"png",
+        "ch":[
+            "devotion"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"elegance thumb",
+        "type":"png",
+        "ch":[
+            "elegance"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
     }
 ]
