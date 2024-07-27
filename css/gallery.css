@@ -96,6 +96,7 @@
 	justify-content: flex-start;
 }
 .modal img {
+	background-color: transparent;
 	height: 90vh;
 	margin: 5vh 0;
 	object-fit: contain;
