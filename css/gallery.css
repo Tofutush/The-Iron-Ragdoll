@@ -131,9 +131,17 @@
 	.tags .collapsible-content {
 		justify-content: flex-start;
 	}
+	.comment-attached {
+		display: none;
+	}
+	#gallery > div > img {
+		height: 100px;
+		width: 100px;
+	}
 }
-@media only screen and (max-width: 315px) {
-	#gallery {
-		grid-template-columns: 1fr;
+@media only screen and (max-width: 300px) {
+	#gallery > div > img {
+		height: 80px;
+		width: 80px;
 	}
 }
