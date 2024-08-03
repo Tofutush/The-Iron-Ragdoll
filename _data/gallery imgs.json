@@ -805,7 +805,7 @@
         "ch":[
             "cosmo"
         ],
-        "scope":"fullbody",
+        "scope":"full-body",
         "style":"normal"
     },
     {
@@ -861,5 +861,18 @@
         ],
         "scope":"headshot",
         "style":"lineless"
+    },
+    {
+        "name":"cherry hyrax family",
+        "type":"png",
+        "ch":[
+            "beauty",
+            "chastity",
+            "devotion",
+            "elegance",
+            "animus"
+        ],
+        "scope":"full-body",
+        "style":"normal"
     }
 ]
