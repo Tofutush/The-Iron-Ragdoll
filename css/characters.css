@@ -150,6 +150,18 @@ body {
 .palette > div:hover > div {
 	display: flex;
 }
+.prev-next {
+	display: flex;
+	font-size: 24px;
+	justify-content: space-around;
+}
+.prev-next a {
+	align-items: center;
+	display: flex;
+}
+.prev-next svg {
+	stroke: var(--c);
+}
 @media only screen and (max-width: 780px) {
 	.chs {
 		grid-template-columns: 1fr 1fr 1fr 1fr;

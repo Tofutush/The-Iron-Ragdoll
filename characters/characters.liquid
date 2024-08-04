@@ -65,5 +65,9 @@ eleventyComputed:
 		<h2>Gallery</h2>
 		{% include 'gallery' imgs: filteredGallery %}
 	{% endif %}
+	<div class="prev-next">
+		<a href="{{ pagination.previous }}"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m15 18-6-6 6-6"/></svg> prev</a>
+		<a href="{{ pagination.next }}">next <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m9 18 6-6-6-6"/></svg></a>
+	</div>
 </div>
 <script src="/js/gallery.js"></script>
