@@ -874,5 +874,15 @@
         ],
         "scope":"full-body",
         "style":"normal"
+    },
+    {
+        "name":"nightsun motorbike",
+        "type":"png",
+        "ch":[
+            "nightsun"
+        ],
+        "scope":"half-body",
+        "style":"normal",
+        "comment":"That is *not* a motorbike despite the image name. I *meant* to draw one though."
     }
 ]
