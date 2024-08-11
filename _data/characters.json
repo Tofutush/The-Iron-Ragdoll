@@ -7,7 +7,7 @@
     "quote":"What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
     "attr":{
       "Full name":"Sparky Amber Jackal<br/>Sparky Amber Peacock",
-      "Nickname":"Spark (by Tundra)<br/>Sister (by Willow)<br/>Sis (by Ironheart)",
+      "Nickname":"Spark (by Tundra)",
       "Gender":"Female (cis)",
       "Birthday":"2017 Aug 14<sup>th</sup>",
       "Nationality":"Bauhinian",
@@ -96,6 +96,7 @@
     "cat":"Hillslope",
     "name":"Guillotine",
     "color":"#d0ae3a",
+    "desc": "Who is this girl and why does she want us to call her \"Guillotine\"?",
     "attr":{
       "Gender":"Female",
       "Nationality":"Atlasian"
@@ -197,42 +198,105 @@
   {
     "cat":"Hillslope",
     "name":"Starry",
-    "color":"#CC770F"
+    "color":"#CC770F",
+    "desc":"Basically a dead guy already.",
+    "attr":{
+      "Gender":"Male",
+      "Nationality":"Bauhinian"
+    }
   },
   {
     "cat":"Hillslope",
     "name":"Dragonfly",
-    "color":"#00adad"
+    "color":"#00adad",
+    "desc":"Some martial arts master in the woods.",
+    "attr":{
+      "Gender":"Male",
+      "Nationality":"Bauhinian",
+      "Weapon":"His fists. A wood branch if there is one nearby."
+    }
   },
   {
     "cat":"Coastline Middle School",
     "name":"Qibli",
-    "color":"#440044"
+    "color":"#440044",
+    "desc":"Magic chicken ADHD girl.",
+    "attr":{
+      "Full name":"Qibli Sandstorm Lightning",
+      "Gender":"Female (cis)",
+      "Birthday":"2017 Feb 2<sup>nd</sup>",
+      "Nationality":"Bauhinian",
+      "Orientation":"Asexual",
+      "Weapon":"Wand",
+      "Power":"Telekinesis lv. 10"
+    }
   },
   {
     "cat":"Coastline Middle School",
     "name":"Sky",
-    "color":"#236ce1"
+    "color":"#236ce1",
+    "desc":"Adventurous fidgety boy with interests in everything tech.",
+    "attr":{
+      "Full name":"Sky Elmwood Dazzle",
+      "Gender":"Male",
+      "Birthday":"2017 Apr 13<sup>th</sup>",
+      "Nationality":"Bauhinian",
+      "Weapon":"Playing cards with blade edges"
+    },
+    "palette":{
+      "hair":"#2E2E2E"
+    }
   },
   {
     "cat":"Coastline Middle School",
     "name":"Firecrackers",
-    "color":"#8214bd"
+    "color":"#8214bd",
+    "desc":"Big mute boy. Loudest person you would ever meet.",
+    "attr":{
+      "Full name":"Firecrackers Pinecone Duck",
+      "Nickname":"Crackers (by Sky)",
+      "Gender":"Male",
+      "Birthday":"2017 May 20<sup>th</sup>",
+      "Weapon":"Firecrackers"
+    }
   },
   {
     "cat":"Coastline Middle School",
     "name":"Myriad",
-    "color":"#d01b84"
+    "color":"#d01b84",
+    "desc":"Quiet girl with a secret that the pictures below already spoil.",
+    "attr":{
+      "Gender":"Female",
+      "Nationality":"Bauhinian"
+    }
   },
   {
     "cat":"Sparky's Family",
     "name":"Amber",
-    "color":"#e15f19"
+    "color":"#e15f19",
+    "desc":"Hardworking girl who would be cheerful if she had the time to smile.",
+    "attr":{
+      "Gender":"Female (cis)",
+      "Nationality":"Bauhinian",
+      "Orientation":"Heterosexual",
+      "Marital status":"Married (to <a href=\"../peacock/\">Peacock</a>)",
+      "Occupation":"Secretary and then unemployed",
+      "Deceased":""
+    }
   },
   {
     "cat":"Sparky's Family",
     "name":"Peacock",
-    "color":"#20f"
+    "color":"#20f",
+    "desc":"Creepy old boy who knows everything and more.",
+    "attr":{
+      "Gender":"Male (cis)",
+      "Nationality":"Bauhinian",
+      "Orientation":"Heterosexual",
+      "Marital status":"Widowed<br/>Previously widowed by <a href=\"../rainbow/\">Rainbow</a>, divorced <a href=\"../reindeer/\">Reindeer</a>, and widowed by <a href=\"../amber/\">Amber</a>",
+      "Occupation":"Personal attorney",
+      "Power":"Superstrength lv. 800"
+    }
   },
   {
     "cat":"Sparky's Family",
