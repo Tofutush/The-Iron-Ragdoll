@@ -188,7 +188,7 @@ body {
 	}
 	
 	.attr > div > div:last-child {
-		text-align: right;
+		text-align: left;
 		width: 100%;
 	}
 }
