@@ -391,5 +391,41 @@
     "palette":{
       "hair":"#2E2E2E"
     }
+  },
+  {
+    "cat":"The Bauhinian Archives",
+    "name":"Jaculus",
+    "hidden":true,
+    "desc":"<a href=\"../jerboa/\">Jerboa</a>'s big sister.",
+    "color":"#008bc7",
+    "attr":{
+      "Gender":"Female (cis)",
+      "Full name":"Jaculus Koala Kangaroo",
+      "Nationality":"Bauhinian"
+    }
+  },
+  {
+    "cat":"The Bauhinian Archives",
+    "name":"Koala",
+    "hidden":true,
+    "desc":"<a href=\"../jerboa/\">Jerboa</a>'s mother, lead scientist of Project Boomerang.",
+    "color":"#7F8587",
+    "attr":{
+      "Gender":"Female (cis)",
+      "Nationality":"Bauhinian",
+      "Occupation":"Physician"
+    }
+  },
+  {
+    "cat":"The Bauhinian Archives",
+    "name":"Kangaroo",
+    "hidden":true,
+    "desc":"<a href=\"../jerboa/\">Jerboa</a>'s father, co-lead scientist of Project Boomerang.",
+    "color":"#A36D1F",
+    "attr":{
+      "Gender":"Male (cis)",
+      "Nationality":"Bauhinian",
+      "Occupation":"Physician"
+    }
   }
 ]
