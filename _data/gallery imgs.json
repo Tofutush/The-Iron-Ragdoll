@@ -884,5 +884,17 @@
         "scope":"half-body",
         "style":"normal",
         "comment":"That is *not* a motorbike despite the image name. I *meant* to draw one though."
+    },
+    {
+        "name":"jerboa family",
+        "type":"png",
+        "ch":[
+            "jerboa",
+            "jaculus",
+            "koala",
+            "kangaroo"
+        ],
+        "scope":"full-body",
+        "style":"normal"
     }
 ]
