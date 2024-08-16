@@ -9,7 +9,7 @@ module.exports = function() {
 		}
 	}
 	ch = [...new Set(ch)];
-	return ch.sort((a, b) => a < b);
+	return ch.sort((a, b) => a.localeCompare(b));
 }
 
 // https://stackoverflow.com/questions/3579486/sort-a-javascript-array-by-frequency-and-then-filter-repeats
