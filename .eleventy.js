@@ -1,6 +1,6 @@
 const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = require('@11ty/eleventy');
 const Image = require('@11ty/eleventy-img');
-const MarkdownIt = require("markdown-it");
+const MarkdownIt = require('markdown-it');
 
 module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
@@ -19,6 +19,9 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter('upperCase', function(s) {
 		return s.toUpperCase();
 	});
+	eleventyConfig.addFilter('capitalize', function(s) {
+		return s[0].toUpperCase() + s.slice(1);
+	});
 	eleventyConfig.addFilter('getimgurl', function(num) {
 		num = parseInt(num);
 		return String(Math.floor(num / 100) + '/' + num)
@@ -31,6 +34,11 @@ module.exports = function(eleventyConfig) {
 	});
 	eleventyConfig.addFilter('getChByCat', function(arr, cat) {
 		return arr.filter(c => c.cat == cat);
+	});
+	eleventyConfig.addFilter('getChColor', function(arr, name) {
+		let ch = arr.filter(c => c.name.toLowerCase() == name.toLowerCase());
+		if(ch.length) return ch[0].color;
+		return `Character ${name} not found!`;
 	});
 	eleventyConfig.addFilter("renderMD", function(rawString) {
 		return mdRender.render(rawString);

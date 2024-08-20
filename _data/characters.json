@@ -26,7 +26,7 @@
       "note",
       "expressions"
     ],
-    "note":"The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter."
+    "note":"The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n\nThe highlights on her hair goes down, up, and then down."
   },
   {
     "cat":"Hillslope",
@@ -296,7 +296,11 @@
       "Marital status":"Widowed<br/>(Previously widowed by <a href=\"../rainbow/\">Rainbow</a>, divorced <a href=\"../reindeer/\">Reindeer</a>, and widowed by <a href=\"../amber/\">Amber</a>)",
       "Occupation":"Personal attorney",
       "Power":"Superstrength lv. 800"
-    }
+    },
+    "refs":[
+      "note"
+    ],
+    "note":"The highlight on his hair goes up, down, and then up."
   },
   {
     "cat":"Sparky's Family",
@@ -324,7 +328,11 @@
       "Marital status":"Married (to <a href=\"../sparky/\">Sparky</a>)",
       "Occupation":"Employee at Starcorp",
       "Weapon":"Seedling sword"
-    }
+    },
+    "refs":[
+      "note"
+    ],
+    "note":"The highlight on his hair goes up, down, and then up."
   },
   {
     "cat":"Sparky's Family",

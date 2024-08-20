@@ -14,11 +14,16 @@
 				</div>
 				{% assign bruhhh = img.name | append: "." | append: img.type %}
 				{% imageOrig "gallery/" bruhhh "" %}
-				{% if img.comment %}
-					<div class="comment">
+				<div class="chbuttons">
+					{% for ch in img.ch %}
+						<div>{% include 'chButton', ch: ch %}</div>
+					{% endfor %}
+				</div>
+				<div class="comment">
+					{% if img.comment %}
 						{{ img.comment | renderMD }}
-					</div>
-				{% endif %}
+					{% endif %}
+				</div>
 			</div>
 		</div>
 	{% endfor %}

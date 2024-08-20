@@ -13,7 +13,8 @@ desc: The characters!
 				{% image "gallery/" "sparky thumb" "png" 200 "" %}
 			</a>
 		</div>
-		<a style="--c: {{ sparky.color }}" href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a>
+		{% comment %} <a class="character-button" style="--c: {{ sparky.color }}" href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a> {% endcomment %}
+		{% include 'chButton', ch: "Sparky" %}
 	</div>
 </div>
 
@@ -31,7 +32,8 @@ desc: The characters!
 						{% image "gallery/" bruhhh "png" 200 "" %}
 					</a>
 				</div>
-				<a style="--c: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a>
+				{% comment %} <a class="character-button" style="--c: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a> {% endcomment %}
+				{% include 'chButton', ch: ch.name %}
 			</div>
 		{% endif %}
 	{% endfor %}

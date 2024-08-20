@@ -883,7 +883,7 @@
         ],
         "scope":"half-body",
         "style":"normal",
-        "comment":"That is *not* a motorbike despite the image name. I *meant* to draw one though."
+        "comment":"That is *not* a motorbike despite the image name. I *meant* to draw one though. Also his highlight is wrong. It's supposed to be up, down, up, similar to Peacock and opposite Sparky."
     },
     {
         "name":"jerboa family",
@@ -897,5 +897,15 @@
         "scope":"full-body",
         "style":"normal",
         "comment":"Kangaroo looks like he has such a small face..."
+    },
+    {
+        "name":"sparky willow",
+        "type":"png",
+        "ch":[
+            "sparky",
+            "willow"
+        ],
+        "scope":"full-body",
+        "style":"normal"
     }
 ]
