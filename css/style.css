@@ -175,6 +175,14 @@ a:hover {
 .collapsible-content > p:last-child {
 	margin-bottom: 0;
 }
+.character-button {
+	background-color: var(--c);
+	border-radius: .5rem;
+	display: block;
+	font-size: 20px;
+	padding: 0.5rem 0.7rem;
+	user-select: none;
+}
 @media only screen and (max-width: 620px) {
 	#linx {
 		flex-direction: column;
