@@ -103,7 +103,15 @@
 	width: 90vw;
 }
 .comment {
-	margin: 2em;
+	max-width: 90vw;
+	width: 800px;
+}
+.chbuttons {
+	display: flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	justify-content: center;
+	margin: 1em 0;
 	max-width: 90vw;
 	width: 800px;
 }
