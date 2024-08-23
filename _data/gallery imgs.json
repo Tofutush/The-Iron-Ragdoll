@@ -907,5 +907,25 @@
         ],
         "scope":"full-body",
         "style":"normal"
+    },
+    {
+        "name":"qibli stand wand",
+        "type":"png",
+        "ch":[
+            "qibli"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"sparky ironheart interrogation",
+        "type":"png",
+        "ch":[
+            "ironheart",
+            "sparky"
+        ],
+        "scope":"full-body",
+        "style":"normal",
+        "comment":"Sibling rivalry done right."
     }
 ]
