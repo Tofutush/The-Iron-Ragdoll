@@ -20,6 +20,7 @@ jobs:
         run: |
           npm ci
           npm run build
+          npm run buildneo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
@@ -33,4 +34,4 @@ jobs:
         with:
           api_token: ${{ secrets.NEOCITIES_API_KEY }}
           cleanup: true
-          dist_dir: _site
+          dist_dir: _neocities

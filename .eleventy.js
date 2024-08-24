@@ -88,6 +88,6 @@ module.exports = function(eleventyConfig) {
 	});
 	return {
 		passthroughFileCopy: true,
-		pathPrefix: '/The-Iron-Ragdoll/'
+		// pathPrefix: '/The-Iron-Ragdoll/'
 	};
 };

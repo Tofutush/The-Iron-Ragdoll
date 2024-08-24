@@ -5,8 +5,9 @@
   "main": "authornotes.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "eleventy --serve",
-    "build": "eleventy"
+    "serve": "eleventy --serve --pathprefix=The-Iron-Ragdoll",
+    "build": "eleventy --pathprefix=The-Iron-Ragdoll",
+    "buildneo": "eleventy --output=_neocities"
   },
   "keywords": [],
   "author": "",
