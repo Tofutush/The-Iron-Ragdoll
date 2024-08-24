@@ -2,6 +2,10 @@
 	font-family: lexend;
 	src: url(/The-Iron-Ragdoll/Lexend.ttf);
 }
+@font-face {
+	font-family: lexend;
+	src: url(/Lexend.ttf);
+}
 :root {
 	--text: #fff;
 	--blue: #0cf;
