@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "eleventy --serve --pathprefix=The-Iron-Ragdoll",
     "build": "eleventy --pathprefix=The-Iron-Ragdoll",
-    "buildneo": "eleventy --output=_neocities"
+    "buildneo": "eleventy --output=_neocities",
+    "copy": "copyfiles -u 1 \"./_site/img/**/*.*\" \"./_neocities\""
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^4.0.2",
+    "copyfiles": "^2.4.1",
     "markdown-it": "^14.1.0"
   }
 }
