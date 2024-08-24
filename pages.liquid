@@ -7,7 +7,7 @@ pagination:
 permalink: "{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber }}{% endif %}/"
 eleventyComputed:
   title: "Page {{ pagination.pageNumber }}"
-  bg: "/The-Iron-Ragdoll/img/bg/{{ pagination.items[0].bg }}.png"
+  bg: "{{ '/usedimg/bg/' | append: pagination.items[0].bg | append: '.png' | htmlBaseUrl }}"
   theme: "{{ pagination.items[0].theme }}"
 ---
 

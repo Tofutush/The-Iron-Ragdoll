@@ -21,6 +21,7 @@ jobs:
           npm ci
           npm run build
           npm run buildneo
+          npm run copy
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
