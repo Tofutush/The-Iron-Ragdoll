@@ -927,5 +927,41 @@
         "scope":"full-body",
         "style":"normal",
         "comment":"Sibling rivalry done right."
+    },
+    {
+        "name":"goose thumb",
+        "type":"png",
+        "ch":[
+            "goose"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"halcyon thumb",
+        "type":"png",
+        "ch":[
+            "halcyon"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"paperweight thumb",
+        "type":"png",
+        "ch":[
+            "paperweight"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
+    },
+    {
+        "name":"pumpkin thumb",
+        "type":"png",
+        "ch":[
+            "pumpkin"
+        ],
+        "scope":"headshot",
+        "style":"lineless"
     }
 ]

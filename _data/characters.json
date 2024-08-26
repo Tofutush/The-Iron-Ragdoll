@@ -341,6 +341,62 @@
     "hidden":true
   },
   {
+    "cat":"Ministry of State Security",
+    "name":"Goose",
+    "color":"#D54269",
+    "attr":{
+      "Gender":"Female",
+      "Nationality":"Bauhinian",
+      "Occupation":"State security officer",
+      "weapon":"Baton"
+    },
+    "palette":{
+      "hair":"#2E2E2E"
+    }
+  },
+  {
+    "cat":"Ministry of State Security",
+    "name":"Pumpkin",
+    "color":"#E3744D",
+    "attr":{
+      "Gender":"Male",
+      "Nationality":"Bauhinian",
+      "Occupation":"State security officer",
+      "weapon":"Baton"
+    },
+    "palette":{
+      "hair":"#754413"
+    }
+  },
+  {
+    "cat":"Ministry of State Security",
+    "name":"Halcyon",
+    "color":"#008E9B",
+    "attr":{
+      "Gender":"Male",
+      "Nationality":"Bauhinian",
+      "Occupation":"State security officer",
+      "weapon":"Baton"
+    },
+    "palette":{
+      "hair":"#2e2e2e"
+    }
+  },
+  {
+    "cat":"Ministry of State Security",
+    "name":"Paperweight",
+    "color":"#2e2e2e",
+    "attr":{
+      "Gender":"Male",
+      "Nationality":"Bauhinian",
+      "Occupation":"State security officer",
+      "weapon":"Baton"
+    },
+    "palette":{
+      "hair":"#888"
+    }
+  },
+  {
     "cat":"Hyrax's Family",
     "name":"Hyrax",
     "color":"#333333",
