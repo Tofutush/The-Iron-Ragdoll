@@ -963,5 +963,53 @@
         ],
         "scope":"headshot",
         "style":"lineless"
+    },
+    {
+        "name":"goose stand",
+        "type":"png",
+        "ch":[
+            "goose"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"halcyon stand",
+        "type":"png",
+        "ch":[
+            "halcyon"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"mss groupshot",
+        "type":"png",
+        "ch":[
+            "halcyon",
+            "pumpkin",
+            "goose",
+            "paperweight"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"pumpkin stand",
+        "type":"png",
+        "ch":[
+            "pumpkin"
+        ],
+        "scope":"full-body",
+        "style":"normal"
+    },
+    {
+        "name":"paperweight stand",
+        "type":"png",
+        "ch":[
+            "paperweight"
+        ],
+        "scope":"full-body",
+        "style":"normal"
     }
 ]
