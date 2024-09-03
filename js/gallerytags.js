@@ -1,19 +1,5 @@
 // see image
 let divs = document.getElementById('gallery').children;
-// let modals = document.getElementById('modals').children;
-for(let z = 0; z < divs.length; z++) {
-	let img = divs[z].querySelector('img');
-	img.addEventListener('click', e => {
-		let modal = divs[z].querySelector('.modal');
-		let close = modal.querySelector('.close');
-		modal.style.display = 'flex';
-		document.body.style.overflow = 'hidden';
-		close.addEventListener('click', e => {
-			modal.style.display = 'none';
-			document.body.style.overflow = 'auto';
-		});
-	});
-}
 // tags
 let filter = [];
 let tags = document.querySelector('.tags').children;
@@ -46,4 +32,3 @@ function filterImgs() {
 		}
 	}
 }
-function elt(type,props,...children){let dom=document.createElement(type);if(props)Object.assign(dom,props);for(let child of children){if(typeof child!="string")dom.appendChild(child);else dom.appendChild(document.createTextNode(child));}return(dom);}

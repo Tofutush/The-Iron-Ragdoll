@@ -59,32 +59,40 @@ module.exports = function(eleventyConfig) {
 		`;
 	});
 	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt) {
-		let metadata = await Image('img/' + path + name + '.' + type, {
-			widths: [size],
-			formats: ['webp'],
-			urlPath: '/img/' + path,
-			outputDir: './_site/img/' + path
-		});
-		let imageAttributes = {
-			alt,
-			loading: "lazy",
-			decoding: "async",
-		};
-		return Image.generateHTML(metadata, imageAttributes);
+		try { 
+			let metadata = await Image('img/' + path + name + '.' + type, {
+				widths: [size],
+				formats: ['webp'],
+				urlPath: '/img/' + path,
+				outputDir: './_site/img/' + path
+			});
+			let imageAttributes = {
+				alt,
+				loading: "lazy",
+				decoding: "async",
+			};
+			return Image.generateHTML(metadata, imageAttributes);
+		} catch(e) {
+			return '';
+		}
 	});
 	eleventyConfig.addShortcode('imageOrig', async function (path, name, alt) {
-		let metadata = await Image('img/' + path + name, {
-			widths: ['auto'],
-			formats: ['auto'],
-			urlPath: '/img/' + path,
-			outputDir: './_site/img/' + path
-		});
-		let imageAttributes = {
-			alt,
-			loading: "lazy",
-			decoding: "async",
-		};
-		return Image.generateHTML(metadata, imageAttributes);
+		try {
+			let metadata = await Image('img/' + path + name, {
+				widths: ['auto'],
+				formats: ['auto'],
+				urlPath: '/img/' + path,
+				outputDir: './_site/img/' + path
+			});
+			let imageAttributes = {
+				alt,
+				loading: "lazy",
+				decoding: "async",
+			};
+			return Image.generateHTML(metadata, imageAttributes);
+		} catch(e) {
+			return '<p>TBA!</p>';
+		}
 	});
 	return {
 		passthroughFileCopy: true,
