@@ -21,11 +21,6 @@
       "hair":"#2e2e2e",
       "shirt":"#000"
     },
-    "refs":[
-      "turn",
-      "note",
-      "expressions"
-    ],
     "note":"The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n\nThe highlights on her hair goes down, up, and then down."
   },
   {
@@ -44,10 +39,7 @@
     "palette":{
       "apron folds":"#787878",
       "hair":"#2e2e2e"
-    },
-    "refs":[
-      "turn"
-    ]
+    }
   },
   {
     "cat":"Hillslope",
@@ -70,10 +62,6 @@
       "shirt":"#B2B8E3",
       "hair":"#2e2e2e"
     },
-    "refs":[
-      "turn",
-      "note"
-    ],
     "note":"Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n\nSleeves are wider than a normal sleeve.\n\nBoth the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n\nShoes and hairband match color.\n\nThe yellow eye (yellow with black pupil) is always open."
   },
   {
@@ -120,10 +108,7 @@
       "buckle":"#7D4500",
       "gun handle":"#757575",
       "hair":"#2e2e2e"
-    },
-    "refs":[
-      "turn"
-    ]
+    }
   },
   {
     "cat":"Hillslope",
@@ -158,10 +143,7 @@
       "Gender":"Male",
       "Nationality":"Bauhinian",
       "Occupation":"Bartender, chemist, undertaker, and chemist again"
-    },
-    "refs":[
-      "turn"
-    ]
+    }
   },
   {
     "cat":"Hillslope",
@@ -297,9 +279,6 @@
       "Occupation":"Personal attorney",
       "Power":"Superstrength lv. 800"
     },
-    "refs":[
-      "note"
-    ],
     "note":"The highlight on his hair goes up, down, and then up."
   },
   {
@@ -329,9 +308,6 @@
       "Occupation":"Employee at Starcorp",
       "Weapon":"Seedling sword"
     },
-    "refs":[
-      "note"
-    ],
     "note":"The highlight on his hair goes up, down, and then up."
   },
   {

@@ -33,23 +33,7 @@ eleventyComputed:
 			{% endfor %}
 		</div>
 	{% endif %}
-	<h2>References</h2>
-	<div class="palette">
-		<div style="background-color:{{ ch.color }}">
-			<div>
-				<span>{{ ch.color | upperCase }}</span>
-				<span>accent</span>
-			</div>
-		</div>
-		{% for p in ch.palette %}
-			<div style="background-color:{{ p[1] }}">
-				<div>
-					<span>{{ p[1] | upperCase }}</span>
-					<span>{{ p[0] }}</span>
-				</div>
-			</div>
-		{% endfor %}
-	</div>
+	{% comment %} <h2>References</h2>
 	{% if ch.refs %}
 		{% for ref in ch.refs %}
 			{% if ref == "note" %}
@@ -59,10 +43,29 @@ eleventyComputed:
 				{% image "gallery/" bruhhh "png" 1000 "" %}
 			{% endif %}
 		{% endfor %}
-	{% endif %}
+	{% endif %} {% endcomment %}
 	{% assign filteredGallery = gallery | filterGallery: ch.name %}
 	{% if filteredGallery.size > 0 %}
 		<h2>Gallery</h2>
+		<div class="palette">
+			<div style="background-color:{{ ch.color }}">
+				<div>
+					<span>{{ ch.color | upperCase }}</span>
+					<span>accent</span>
+				</div>
+			</div>
+			{% for p in ch.palette %}
+				<div style="background-color:{{ p[1] }}">
+					<div>
+						<span>{{ p[1] | upperCase }}</span>
+						<span>{{ p[0] }}</span>
+					</div>
+				</div>
+			{% endfor %}
+		</div>
+		{% if ch.note %}
+			<div class="note">{{ ch.note | renderMD }}</div>
+		{% endif %}
 		{% include 'gallery' imgs: filteredGallery %}
 	{% endif %}
 	<div class="prev-next">
