@@ -124,7 +124,7 @@ a:hover {
 }
 .graybox {
 	background-color: var(--box);
-	border-radius: 15px;
+	border-radius: 16px;
 	padding: 1em;
 }
 .graybox p:first-child {

@@ -42,22 +42,19 @@ body {
 }
 #back {
 	align-items: center;
+	color: var(--text);
 	display: flex;
 	font-size: 24px;
 }
 .desc > * {
-	margin: 1em 0;
+	margin: 1.5rem 0;
 }
 .desc h1, .desc h2 {
 	color: var(--c);
 }
-/* .desc img {
-	background-color: var(--box);
-	border-radius: 16px;
-	height: 100%;
-	width: 100%;
-	user-select: none;
-} */
+.desc #info {
+	margin-bottom: 0;
+}
 .desc a {
 	color: var(--c);
 }
@@ -72,6 +69,26 @@ body {
 }
 .desc .note > p:last-child {
 	margin-bottom: 0;
+}
+.title {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2rem;
+}
+.title img {
+	background-color: var(--box);
+	border-radius: 16px;
+	height: 160px;
+	user-select: none;
+	width: 160px;
+}
+.title-info {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.title-info > * {
+	margin: 1rem 0;
 }
 .quote {
 	font-style: italic;

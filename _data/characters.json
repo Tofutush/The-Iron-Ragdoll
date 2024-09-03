@@ -85,6 +85,7 @@
     "name":"Guillotine",
     "color":"#d0ae3a",
     "desc": "Who is this girl and why does she want us to call her \"Guillotine\"?",
+    "quote":"I'm dead now! You can't kill me!",
     "attr":{
       "Gender":"Female",
       "Nationality":"Atlasian"
@@ -132,6 +133,7 @@
     "name":"Jerboa",
     "color":"#0867af",
     "desc":"Owner, bartender, and everything else of the tavern!",
+    "quote":"Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!",
     "palette":{
       "shirt light":"#727272",
       "shirt dark":"#4F4F4F",
@@ -167,6 +169,7 @@
     "name":"Alaska",
     "color":"#6C0404",
     "desc":"Photographer for the press!",
+    "quote":"Smile for the camera! Cheese!",
     "palette":{
       "shirt":"#FFF",
       "hair":"#2E2E2E"
@@ -182,6 +185,7 @@
     "name":"Starry",
     "color":"#CC770F",
     "desc":"Basically a dead guy already.",
+    "quote":"zzz...",
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian"
