@@ -51,13 +51,13 @@ body {
 .desc h1, .desc h2 {
 	color: var(--c);
 }
-.desc img {
+/* .desc img {
 	background-color: var(--box);
 	border-radius: 16px;
 	height: 100%;
 	width: 100%;
 	user-select: none;
-}
+} */
 .desc a {
 	color: var(--c);
 }
@@ -65,7 +65,7 @@ body {
 	margin: 0;
 }
 .desc .note {
-	margin: 1em 3em;
+	margin: 2em 1em;
 }
 .desc .note > p:first-child {
 	margin-top: 0;
@@ -112,6 +112,7 @@ body {
 	cursor: pointer;
 	display: flex;
 	height: 120px;
+	margin: 2em 0;
 	overflow: hidden;
 }
 .palette > div {
