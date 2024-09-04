@@ -1,4 +1,4 @@
-#comic #img img {
+#main-content #img img {
 	width: 100%;
 	height: 100%;
 }
@@ -14,6 +14,7 @@
 .options > p {
 	font-size: 32px;
 	margin: 0;
+	text-indent: 0;
 }
 .options > p::before {
 	content: "Page ";
