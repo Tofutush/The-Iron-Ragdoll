@@ -69,6 +69,7 @@
     "cat":"Hillslope",
     "name":"Tomato",
     "color":"#A10000",
+    "darkcolor":true,
     "quote":"I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
     "attr":{
       "Nickname":"Tom (by Tundra)",
@@ -116,6 +117,7 @@
     "cat":"Hillslope",
     "name":"Melody",
     "color":"#426600",
+    "darkcolor":true,
     "quote":"...",
     "palette":{
       "hat":"#575757",
@@ -133,6 +135,7 @@
     "cat":"Hillslope",
     "name":"Jerboa",
     "color":"#0867af",
+    "darkcolor":true,
     "desc":"Owner, bartender, and everything else of the tavern!",
     "quote":"Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!",
     "palette":{
@@ -152,6 +155,7 @@
     "cat":"Hillslope",
     "name":"Tundra",
     "color":"#800080",
+    "darkcolor":true,
     "desc":"Self-proclaimed mayor of Hillslope!",
     "quote":"What's the big deal?",
     "palette":{
@@ -169,6 +173,7 @@
     "cat":"Hillslope",
     "name":"Alaska",
     "color":"#6C0404",
+    "darkcolor":true,
     "desc":"Photographer for the press!",
     "quote":"Smile for the camera! Cheese!",
     "palette":{
@@ -207,6 +212,7 @@
     "cat":"Coastline Middle School",
     "name":"Qibli",
     "color":"#440044",
+    "darkcolor":true,
     "desc":"Magic chicken ADHD girl.",
     "attr":{
       "Full name":"Qibli Sandstorm Lightning",
@@ -238,6 +244,7 @@
     "cat":"Coastline Middle School",
     "name":"Firecrackers",
     "color":"#8214bd",
+    "darkcolor":true,
     "desc":"Big mute boy. Loudest person you would ever meet.",
     "attr":{
       "Full name":"Firecrackers Pinecone Duck",
@@ -294,7 +301,8 @@
   {
     "cat":"Sparky's Family",
     "name":"Ironheart",
-    "color":"#69272b"
+    "color":"#69272b",
+    "darkcolor":true
   },
   {
     "cat":"Sparky's Family",
@@ -305,6 +313,7 @@
     "cat":"Sparky's Family",
     "name":"Nightsun",
     "color":"#130b51",
+    "darkcolor":true,
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian?",
@@ -367,6 +376,7 @@
     "cat":"Ministry of State Security",
     "name":"Paperweight",
     "color":"#2e2e2e",
+    "darkcolor":true,
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian",
@@ -381,6 +391,7 @@
     "cat":"Hyrax's Family",
     "name":"Hyrax",
     "color":"#333333",
+    "darkcolor":true,
     "hidden":true
   },
   {
@@ -425,6 +436,7 @@
     "name":"Animus",
     "desc":"Chairman of Starcorp!",
     "color":"#a10000",
+    "darkcolor":true,
     "attr":{
       "Gender":"Male (cis)",
       "Full name":"Animus Hyrax Cherry",
