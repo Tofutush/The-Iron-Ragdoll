@@ -186,6 +186,9 @@ body {
 	.chs {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
+	.title {
+		justify-content: center;
+	}
 }
 @media only screen and (max-width: 480px) {
 	.chs {
