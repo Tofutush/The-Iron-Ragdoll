@@ -13,10 +13,11 @@
 	position: relative;
 }
 .left-side {
-	flex: 1;
+	flex-shrink: 0;
+	width: 360px;
 }
 .right-side {
-	max-width: 800px;
+	flex-grow: 1;
 }
 .desc > * {
 	margin: 1.5rem 0;
@@ -137,12 +138,9 @@
 		flex-direction: column;
 		gap: 0;
 	}
-	/* .left-side {
-		width: 100%;
+	.left-side {
+		width: unset;
 	}
-	.right-side {
-		width: 100%;
-	} */
 }
 @media only screen and (max-width: 480px) {
 	.attr > div > div {
