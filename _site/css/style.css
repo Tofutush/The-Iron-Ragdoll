@@ -108,9 +108,9 @@ a:hover {
 .dpdn:hover .dpdn-ul {
 	display: block;
 }
-#flexbox {
-	display: flex;
+#main-content {
 	margin: 2em auto;
+	max-width: 800px;
 	padding: 0 2em;
 }
 #translation {
@@ -121,11 +121,6 @@ a:hover {
 	top: 30px;
 	width: 250px;
 	z-index: -999;
-}
-#comic {
-	margin: auto;
-	margin-bottom: 2em;
-	max-width: 800px;
 }
 .graybox {
 	background-color: var(--box);
