@@ -10,70 +10,74 @@ eleventyComputed:
   desc: "{{ ch.desc }}"
 ---
 
-<div class="desc" style="--c: {{ ch.color }};">
 <a id="back" href="../"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m15 18-6-6 6-6"/></svg> Back</a>
-	<div class="title">
-		{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-		{% imageOrig "gallery/" bruhhh "" %}
-		<div class="title-info">
-			<h1 id="name">{{ ch.name }}</h1>
-			{% if ch.desc %}
-				<p>{{ ch.desc }}</p>
-			{% endif %}
+<div class="desc" style="--c: {{ ch.color }};">
+	<div class="left-side">
+		<div class="title">
+			{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
+			{% imageOrig "gallery/" bruhhh "" %}
+			<div class="title-info">
+				<h1 id="name">{{ ch.name }}</h1>
+				{% if ch.desc %}
+					<p>{{ ch.desc }}</p>
+				{% endif %}
+			</div>
 		</div>
 	</div>
-	{% if ch.quote %}
-		<p class="quote">{{ ch.quote }}</p>
-	{% endif %}
-	{% if ch.attr %}
-		<h2 id="info">Info <a class="collapsible tooltip"><span class="tooltip-text">Click for more</span>(?)</a></h2>
-		<div class="collapsible-content">
-			{% renderFile './characters/characterinfo.md' %}
-		</div>
-		<div class="attr">
-			{% for att in ch.attr %}
-				<div>
-					<div>{{ att[0] }}</div>
-					<div>{{ att[1] }}</div>
-				</div>
-			{% endfor %}
-		</div>
-	{% endif %}
-	{% if ch.bio %}
-		<h2 id="bio">Biography</h2>
-		{% assign firstFiveLetters = ch.bio | slice: 0, 5 %}
-		{% if firstFiveLetters == 'file:' %}
-			{% assign fileName = ch.bio | slice: 5 | append: ".md" %}
-			{% assign filePath = './characters/files/' | append: fileName | log %}
-			{% renderFile filePath %}
-		{% else %}
-			{{ ch.bio | renderMD }}
+	<div class="right-side">
+		{% if ch.quote %}
+			<p class="quote">{{ ch.quote }}</p>
 		{% endif %}
-	{% endif %}
-	{% assign filteredGallery = gallery | filterGallery: ch.name %}
-	{% if filteredGallery.size > 0 %}
-		<h2 id="design">Gallery</h2>
-		<div class="palette">
-			<div style="background-color:{{ ch.color }}">
-				<div>
-					<span>{{ ch.color | upperCase }}</span>
-					<span>accent</span>
-				</div>
+		{% if ch.attr %}
+			<h2 id="info">Info <a class="collapsible tooltip"><span class="tooltip-text">Click for more</span>(?)</a></h2>
+			<div class="collapsible-content">
+				{% renderFile './characters/characterinfo.md' %}
 			</div>
-			{% for p in ch.palette %}
-				<div style="background-color:{{ p[1] }}">
+			<div class="attr">
+				{% for att in ch.attr %}
 					<div>
-						<span>{{ p[1] | upperCase }}</span>
-						<span>{{ p[0] }}</span>
+						<div>{{ att[0] }}</div>
+						<div>{{ att[1] }}</div>
+					</div>
+				{% endfor %}
+			</div>
+		{% endif %}
+		{% if ch.bio %}
+			<h2 id="bio">Biography</h2>
+			{% assign firstFiveLetters = ch.bio | slice: 0, 5 %}
+			{% if firstFiveLetters == 'file:' %}
+				{% assign fileName = ch.bio | slice: 5 | append: ".md" %}
+				{% assign filePath = './characters/files/' | append: fileName | log %}
+				{% renderFile filePath %}
+			{% else %}
+				{{ ch.bio | renderMD }}
+			{% endif %}
+		{% endif %}
+		{% assign filteredGallery = gallery | filterGallery: ch.name %}
+		{% if filteredGallery.size > 0 %}
+			<h2 id="design">Gallery</h2>
+			<div class="palette">
+				<div style="background-color:{{ ch.color }}">
+					<div>
+						<span>{{ ch.color | upperCase }}</span>
+						<span>accent</span>
 					</div>
 				</div>
-			{% endfor %}
-		</div>
-		{% if ch.note %}
-			<div class="note">{{ ch.note | renderMD }}</div>
+				{% for p in ch.palette %}
+					<div style="background-color:{{ p[1] }}">
+						<div>
+							<span>{{ p[1] | upperCase }}</span>
+							<span>{{ p[0] }}</span>
+						</div>
+					</div>
+				{% endfor %}
+			</div>
+			{% if ch.note %}
+				<div class="note">{{ ch.note | renderMD }}</div>
+			{% endif %}
+			{% include 'gallery' imgs: filteredGallery %}
 		{% endif %}
-		{% include 'gallery' imgs: filteredGallery %}
-	{% endif %}
+	</div>
 	<div class="prev-next">
 		<a href="{{ pagination.previous }}"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m15 18-6-6 6-6"/></svg> prev</a>
 		<a href="{{ pagination.next }}">next <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m9 18 6-6-6-6"/></svg></a>

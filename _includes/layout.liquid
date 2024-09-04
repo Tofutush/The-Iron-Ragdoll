@@ -46,7 +46,7 @@
 					text-shadow: none;
 				}
 				.dpdn-ul {
-					background-color: #ffffff80;
+					background-color: var(--box);
 				}
 			{% endif %}
 		</style>
@@ -74,14 +74,8 @@
 		</div>
 	</div>
 </div>
-<div id="flexbox">
-	{% if page.url contains '/characters/' and page.url != '/characters/' %}
-		{{ content }}
-	{% else %}
-		<div id="comic">
-		{{ content }}
-		</div>
-	{% endif %}
+<div id="main-content">
+	{{ content }}
 </div>
 <script src="/js/collapsible.js"></script>
 </body>
