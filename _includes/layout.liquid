@@ -13,33 +13,42 @@
 	<title>The Iron Ragdoll{% if page.url != '/' %} | {{ title }}{% endif %}</title>
 	<link rel="stylesheet" href="/css/style.css"/>
 	<link rel="icon" href="/icon.ico"/>
-	{% if page.url == '/chapters/' %}<link rel="stylesheet" href="/css/chapters.css"/>{% endif %}
-	{% if page.url contains '/characters/' %}<link rel="stylesheet" href="/css/characters.css"/>{% endif %}
-	{% if page.url contains '/gallery/' or page.url contains '/characters/' %}<link rel="stylesheet" href="/css/gallery.css"/>{% endif %}
-		{% if page.url contains '/page-' or page.url == '/' %}
+	{% if page.url == '/chapters/' %}
+		<link rel="stylesheet" href="/css/chapters.css"/>
+	{% endif %}
+	{% if page.url == '/characters/' %}
+		<link rel="stylesheet" href="/css/characterspage.css"/>
+	{% endif %}
+	{% if page.url contains '/characters/' and page.url != '/characters/' %}
+		<link rel="stylesheet" href="/css/characters.css"/>
+	{% endif %}
+	{% if page.url contains '/gallery/' or page.url contains '/characters/' %}
+		<link rel="stylesheet" href="/css/gallery.css"/>
+	{% endif %}
+	{% if page.url contains '/page-' or page.url == '/' %}
 		<link rel="stylesheet" href="/css/comic.css"/>
 		<style>
-		body {
-			background-image: url({{ bg }});
-		}
-		{% if theme == 'night' %}
-			:root {
-				--text: #fff;
+			body {
+				background-image: url({{ bg }});
 			}
-		{% elsif theme == 'day' %}
-			:root {
-				--text: #000;
-			}
-		  	#header {
-				background-image: none;
-			}
-		  	#title {
-				text-shadow: none;
-			}
-		  	.dpdn-ul {
-				background-color: #ffffff80;
-			}
-		{% endif %}
+			{% if theme == 'night' %}
+				:root {
+					--text: #fff;
+				}
+			{% elsif theme == 'day' %}
+				:root {
+					--text: #000;
+				}
+				#header {
+					background-image: none;
+				}
+				#title {
+					text-shadow: none;
+				}
+				.dpdn-ul {
+					background-color: #ffffff80;
+				}
+			{% endif %}
 		</style>
 	{% endif %}
 </head>
@@ -66,9 +75,13 @@
 	</div>
 </div>
 <div id="flexbox">
-	<div id="comic">
-	{{ content }}
-	</div>
+	{% if page.url contains '/characters/' and page.url != '/characters/' %}
+		{{ content }}
+	{% else %}
+		<div id="comic">
+		{{ content }}
+		</div>
+	{% endif %}
 </div>
 <script src="/js/collapsible.js"></script>
 </body>
