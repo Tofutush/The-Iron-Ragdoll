@@ -17,6 +17,7 @@
       "Weapon":"M1911 pistol",
       "Power":"Superstrength lv. 800"
     },
+    "bio":"file:sp bio",
     "palette": {
       "hair":"#2e2e2e",
       "shirt":"#000"

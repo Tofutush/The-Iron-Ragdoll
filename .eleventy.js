@@ -40,8 +40,11 @@ module.exports = function(eleventyConfig) {
 		if(ch.length) return ch[0].color;
 		return `Character ${name} not found!`;
 	});
-	eleventyConfig.addFilter("renderMD", function(rawString) {
+	eleventyConfig.addFilter('renderMD', function(rawString) {
 		return mdRender.render(rawString);
+	});
+	eleventyConfig.addFilter('slice', function(str, s, e) {
+		return str.slice(s, e ? e : str.length);
 	});
 	// shortcodes
 	eleventyConfig.addShortcode('arrows', function(f, p, n, l, num) {
