@@ -142,12 +142,14 @@ a:hover {
 	bottom: 100%;
 	color: var(--text);
 	font-size: 16px;
+	font-weight: normal;
 	left: 50%;
 	margin-left: -66px;
 	opacity: 0;
 	padding: 6px;
 	position: absolute;
 	text-align: center;
+	text-shadow: none;
 	transition: all .3s;
 	width: 120px;
 	z-index: 1;

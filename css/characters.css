@@ -13,10 +13,10 @@
 	position: relative;
 }
 .left-side {
-	width: 30%;
+	flex: 1;
 }
 .right-side {
-	width: 70%;
+	max-width: 800px;
 }
 .desc > * {
 	margin: 1.5rem 0;
@@ -135,21 +135,17 @@
 @media only screen and (max-width: 780px) {
 	.desc {
 		flex-direction: column;
+		gap: 0;
 	}
+	/* .left-side {
+		width: 100%;
+	}
+	.right-side {
+		width: 100%;
+	} */
 }
 @media only screen and (max-width: 480px) {
-	.attr > div {
-		display: block;
-	}
 	.attr > div > div {
 		padding: .5em 0;
-	}
-	.attr > div > div:first-child {
-		text-align: left;
-		width: 100%;
-	}
-	.attr > div > div:last-child {
-		text-align: left;
-		width: 100%;
 	}
 }
