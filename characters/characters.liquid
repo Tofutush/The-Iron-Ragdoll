@@ -39,17 +39,17 @@ eleventyComputed:
 			{% endfor %}
 		</div>
 	{% endif %}
-	{% comment %} <h2>References</h2>
-	{% if ch.refs %}
-		{% for ref in ch.refs %}
-			{% if ref == "note" %}
-				<div class="note">{{ ch.note | renderMD }}</div>
-			{% else %}
-				{% assign bruhhh = ch.name | lowerCase | append: " " | append: ref %}
-				{% image "gallery/" bruhhh "png" 1000 "" %}
-			{% endif %}
-		{% endfor %}
-	{% endif %} {% endcomment %}
+	{% if ch.bio %}
+		<h2 id="bio">Biography</h2>
+		{% assign firstFiveLetters = ch.bio | slice: 0, 5 %}
+		{% if firstFiveLetters == 'file:' %}
+			{% assign fileName = ch.bio | slice: 5 | append: ".md" %}
+			{% assign filePath = './characters/files/' | append: fileName | log %}
+			{% renderFile filePath %}
+		{% else %}
+			{{ ch.bio | renderMD }}
+		{% endif %}
+	{% endif %}
 	{% assign filteredGallery = gallery | filterGallery: ch.name %}
 	{% if filteredGallery.size > 0 %}
 		<h2 id="design">Gallery</h2>
