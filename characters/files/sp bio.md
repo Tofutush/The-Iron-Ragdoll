@@ -1,6 +1,6 @@
 ### Early Life
 
-Sparky was born in Coastline in 2017.
+Sparky was born in Coastline in 2017 to Amber and Jackal.
 
 ### Hillslope
 

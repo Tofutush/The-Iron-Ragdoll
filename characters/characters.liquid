@@ -54,7 +54,7 @@ eleventyComputed:
 			{% assign firstFiveLetters = ch.bio | slice: 0, 5 %}
 			{% if firstFiveLetters == 'file:' %}
 				{% assign fileName = ch.bio | slice: 5 | append: ".md" %}
-				{% assign filePath = './characters/files/' | append: fileName | log %}
+				{% assign filePath = './characters/files/' | append: fileName %}
 				{% renderFile filePath %}
 			{% else %}
 				{{ ch.bio | renderMD }}
