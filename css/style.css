@@ -21,20 +21,25 @@ body {
 }
 h1 {
 	color: var(--blue);
-	font-size: 2.5em;
+	font-size: 2.5rem;
 	line-height: 1.5;
 	margin-bottom: .75em;
 	margin-top: 1.25em;
 }
 h2 {
 	color: var(--text);
-	font-size: 2em;
+	font-size: 2rem;
+}
+h3 {
+	color: var(--text);
+	font-size: 1.75rem;
 }
 p {
 	color: var(--text);
 	font-size: 24px;
 	line-height: 1.5;
 	text-align: justify;
+	text-indent: 2em;
 }
 p a {
 	color: var(--blue);
@@ -103,10 +108,10 @@ a:hover {
 .dpdn:hover .dpdn-ul {
 	display: block;
 }
-#flexbox {
-	display: flex;
-	margin: 0 auto 1em auto;
-	padding: 2em;
+#main-content {
+	margin: 2em auto;
+	max-width: 800px;
+	padding: 0 2em;
 }
 #translation {
 	font-family: 微软雅黑 light;
@@ -117,14 +122,9 @@ a:hover {
 	width: 250px;
 	z-index: -999;
 }
-#comic {
-	margin: auto;
-	margin-bottom: 2em;
-	width: 800px;
-}
 .graybox {
 	background-color: var(--box);
-	border-radius: 15px;
+	border-radius: 16px;
 	padding: 1em;
 }
 .graybox p:first-child {
@@ -142,12 +142,14 @@ a:hover {
 	bottom: 100%;
 	color: var(--text);
 	font-size: 16px;
+	font-weight: normal;
 	left: 50%;
 	margin-left: -66px;
 	opacity: 0;
 	padding: 6px;
 	position: absolute;
 	text-align: center;
+	text-shadow: none;
 	transition: all .3s;
 	width: 120px;
 	z-index: 1;
@@ -195,5 +197,6 @@ a:hover {
 @media only screen and (max-width: 480px) {
 	p {
 		text-align: left;
+		text-indent: 0;
 	}
 }
