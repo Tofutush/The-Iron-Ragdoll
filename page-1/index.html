@@ -85,19 +85,20 @@
   <div id="note" class="graybox"><p>This is the start of The Iron Ragdoll! Thanks a lot for your willingness to give this a shot!</p><p>The Iron Ragdoll is also available on other platforms (see dropdown menu when hovering "Other" above). It would be so kind of you subscribe and leave comments!</p></div>
 
 <script>
-  let saveButton = document.getElementById('save').children;
-  saveButton[0].addEventListener('click', e => {
-      localStorage.setItem('place', 1);
-      alert(`Page 1 saved!`);
-  });
-  saveButton[1].addEventListener('click', e => {
-      let place = localStorage.getItem('place');
-      if(place) {
-        if(place == 0) window.open('/');
-        else window.open(`/page-${place}/#comic`);
-      }
-      else alert('no place was saved!');
-  });
+// save
+let saveButton = document.getElementById('save').children;
+saveButton[0].addEventListener('click', e => {
+	localStorage.setItem('place', 1);
+	alert(`Page 1 saved!`);
+});
+saveButton[1].addEventListener('click', e => {
+	let place = localStorage.getItem('place');
+	if(place) {
+		if(place == 0) window.open('/');
+		else window.open(`/page-${place}/#comic`);
+	}
+	else alert('no place was saved!');
+});
 </script>
 </div>
 

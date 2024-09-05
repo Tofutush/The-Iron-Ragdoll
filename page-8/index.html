@@ -85,19 +85,20 @@
   <div id="note" class="graybox"><p>Don't bother looking; the anklet is covered up by Sparky's huge pant sleeves. This is not an excuse for poor drawing (although the drawing is poor). It's actually her pants.</p></div>
 
 <script>
-  let saveButton = document.getElementById('save').children;
-  saveButton[0].addEventListener('click', e => {
-      localStorage.setItem('place', 8);
-      alert(`Page 8 saved!`);
-  });
-  saveButton[1].addEventListener('click', e => {
-      let place = localStorage.getItem('place');
-      if(place) {
-        if(place == 0) window.open('/');
-        else window.open(`/page-${place}/#comic`);
-      }
-      else alert('no place was saved!');
-  });
+// save
+let saveButton = document.getElementById('save').children;
+saveButton[0].addEventListener('click', e => {
+	localStorage.setItem('place', 8);
+	alert(`Page 8 saved!`);
+});
+saveButton[1].addEventListener('click', e => {
+	let place = localStorage.getItem('place');
+	if(place) {
+		if(place == 0) window.open('/');
+		else window.open(`/page-${place}/#comic`);
+	}
+	else alert('no place was saved!');
+});
 </script>
 </div>
 
