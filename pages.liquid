@@ -13,8 +13,8 @@ eleventyComputed:
 
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="img">
-  {% assign bruhhh = pagination.items[0].pagenum | getimgurl %}
-  {% image "comics/" bruhhh "png" 1000 "" %}
+  {% assign bruhhh = pagination.items[0].pagenum | getimgurl | append: '.png' %}
+  {% image "comics/" bruhhh 1000 "" %}
 </div>
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="save">

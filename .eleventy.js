@@ -61,9 +61,9 @@ module.exports = function(eleventyConfig) {
 			</div>
 		`;
 	});
-	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt) {
+	eleventyConfig.addShortcode('image', async function (path, name, size, alt) {
 		try { 
-			let metadata = await Image('img/' + path + name + '.' + type, {
+			let metadata = await Image('img/' + path + name, {
 				widths: [size],
 				formats: ['webp'],
 				urlPath: '/img/' + path,
