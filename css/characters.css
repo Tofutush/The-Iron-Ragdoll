@@ -62,6 +62,15 @@
 	margin: 1rem 0;
 	text-indent: 0;
 }
+#info {
+	align-items: center;
+	display: flex;
+	gap: .5rem;
+}
+#info .tooltip {
+	display: inline-flex;
+	height: 28px;
+}
 .quote {
 	font-style: italic;
 	margin: 1em;
