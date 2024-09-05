@@ -22,6 +22,7 @@ body {
 h1 {
 	color: var(--blue);
 	font-size: 2.5rem;
+	font-weight: normal;
 	line-height: 1.5;
 	margin-bottom: .75em;
 	margin-top: 1.25em;
@@ -29,14 +30,17 @@ h1 {
 h2 {
 	color: var(--text);
 	font-size: 2rem;
+	font-weight: normal;
 }
 h3 {
 	color: var(--text);
 	font-size: 1.75rem;
+	font-weight: normal;
 }
 p {
 	color: var(--text);
 	font-size: 24px;
+	font-weight: 300;
 	line-height: 1.5;
 	text-align: justify;
 	text-indent: 2em;
@@ -49,6 +53,7 @@ i {
 }
 a {
 	color: var(--text);
+	font-weight: 300;
 	text-decoration: none;
 }
 a:hover {
@@ -165,6 +170,7 @@ a:hover {
 	border-color: var(--box) transparent transparent transparent;
 }
 .tooltip:hover .tooltip-text {
+	font-weight: 300;
 	opacity: 1;
 }
 .collapsible {
@@ -186,7 +192,7 @@ a:hover {
 	border-radius: .5rem;
 	display: block;
 	font-size: 20px;
-	font-weight: normal;
+	font-weight: 300;
 	padding: 0.5rem 0.7rem;
 	text-indent: 0;
 	user-select: none;

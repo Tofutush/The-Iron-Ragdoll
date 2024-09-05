@@ -4,13 +4,12 @@
 	gap: 2em;
 	justify-content: space-between;
 }
-.chapter h1 {
-	font-size: 32px;
-	margin: 0;
-	text-wrap: nowrap;
-}
 .chapter a {
 	color: #0cf;
+	font-size: 32px;
+	font-weight: normal;
+	margin: 0;
+	text-wrap: nowrap;
 }
 .chapter p {
 	font-size: 24px;
