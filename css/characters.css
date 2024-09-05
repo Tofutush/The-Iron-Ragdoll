@@ -14,8 +14,10 @@
 }
 .left-side {
 	flex-shrink: 0;
-	text-align: left !important;
 	width: 360px;
+}
+.left-side .collapsible-content p {
+	text-align: left;
 }
 .right-side {
 	flex-grow: 1;
@@ -77,8 +79,10 @@
 }
 .attr > div > div:first-child {
 	color: var(--c);
+	font-weight: normal;
 }
 .attr > div > div:last-child {
+	font-weight: 300;
 	margin-left: 1em;
 }
 .palette {
