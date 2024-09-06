@@ -2,6 +2,7 @@
   {
     "cat":"main",
     "name":"Sparky",
+    "abbr":"sp",
     "color":"#0cf",
     "desc":"Our protagonist! Need I say more?",
     "quote":"What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
@@ -17,7 +18,7 @@
       "Weapon":"M1911 pistol",
       "Power":"Superstrength lv. 800"
     },
-    "bio":"file:sp bio",
+    "bio":"file",
     "palette": {
       "hair":"#2e2e2e",
       "shirt":"#000"
@@ -27,6 +28,7 @@
   {
     "cat":"Hillslope",
     "name":"Ribbon",
+    "abbr":"rb",
     "color":"#e368d3",
     "desc":"Owner of the bakery!",
     "attr":{
@@ -45,6 +47,7 @@
   {
     "cat":"Hillslope",
     "name":"Cosmo",
+    "abbr":"cs",
     "color":"#998cbd",
     "desc":"Editor of the press!",
     "quote":"If everyone believes it, then it is the truth.",
@@ -54,7 +57,7 @@
       "Nationality":"Bauhinian",
       "Occupation":"Journalist",
       "Weapon":"Throwing stars",
-      "Power":"Lie detection"
+      "Power":"Lie detection, unregistered"
     },
     "palette":{
       "middle eye":"#fe0",
@@ -68,6 +71,7 @@
   {
     "cat":"Hillslope",
     "name":"Tomato",
+    "abbr":"tm",
     "color":"#A10000",
     "darkcolor":true,
     "quote":"I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
@@ -85,17 +89,22 @@
   {
     "cat":"Hillslope",
     "name":"Guillotine",
+    "abbr":"gt",
     "color":"#d0ae3a",
     "desc": "Who is this girl and why does she want us to call her \"Guillotine\"?",
     "quote":"I'm dead now! You can't kill me!",
     "attr":{
       "Gender":"Female",
       "Nationality":"Atlasian"
+    },
+    "palette":{
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Hillslope",
     "name":"Tephra",
+    "abbr":"tf",
     "color":"#008282",
     "desc":"The boss of everything at once, but nothing in particular.",
     "quote":"Sit the fuck down everyone. The investigation is underway.",
@@ -116,6 +125,7 @@
   {
     "cat":"Hillslope",
     "name":"Melody",
+    "abbr":"ml",
     "color":"#426600",
     "darkcolor":true,
     "quote":"...",
@@ -134,6 +144,7 @@
   {
     "cat":"Hillslope",
     "name":"Jerboa",
+    "abbr":"jb",
     "color":"#0867af",
     "darkcolor":true,
     "desc":"Owner, bartender, and everything else of the tavern!",
@@ -154,6 +165,7 @@
   {
     "cat":"Hillslope",
     "name":"Tundra",
+    "abbr":"td",
     "color":"#800080",
     "darkcolor":true,
     "desc":"Self-proclaimed mayor of Hillslope!",
@@ -172,6 +184,7 @@
   {
     "cat":"Hillslope",
     "name":"Alaska",
+    "abbr":"al",
     "color":"#6C0404",
     "darkcolor":true,
     "desc":"Photographer for the press!",
@@ -189,28 +202,38 @@
   {
     "cat":"Hillslope",
     "name":"Starry",
+    "abbr":"st",
     "color":"#CC770F",
     "desc":"Basically a dead guy already.",
     "quote":"zzz...",
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian"
+    },
+    "palette":{
+      "glasses":"#666",
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Hillslope",
     "name":"Dragonfly",
+    "abbr":"df",
     "color":"#00adad",
     "desc":"Some martial arts master in the woods.",
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian",
       "Weapon":"His fists. A wood branch if there is one nearby."
+    },
+    "palette":{
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Coastline Middle School",
     "name":"Qibli",
+    "abbr":"qb",
     "color":"#440044",
     "darkcolor":true,
     "desc":"Magic chicken ADHD girl.",
@@ -222,11 +245,18 @@
       "Orientation":"Asexual",
       "Weapon":"Wand",
       "Power":"Telekinesis lv. 10"
+    },
+    "palette":{
+      "wand":"#B025B0",
+      "shirt":"#4A70D7",
+      "glasses":"#9e9e9e",
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Coastline Middle School",
     "name":"Sky",
+    "abbr":"sk",
     "color":"#236ce1",
     "desc":"Adventurous fidgety boy with interests in everything tech.",
     "attr":{
@@ -243,6 +273,7 @@
   {
     "cat":"Coastline Middle School",
     "name":"Firecrackers",
+    "abbr":"fc",
     "color":"#8214bd",
     "darkcolor":true,
     "desc":"Big mute boy. Loudest person you would ever meet.",
@@ -252,21 +283,32 @@
       "Gender":"Male",
       "Birthday":"2017 May 20<sup>th</sup>",
       "Weapon":"Firecrackers"
+    },
+    "palette":{
+      "shirt":"#B98ED0",
+      "horns":"#AA9468",
+      "hair":"#473103"
     }
   },
   {
     "cat":"Coastline Middle School",
     "name":"Myriad",
+    "abbr":"my",
     "color":"#d01b84",
     "desc":"Quiet girl with a secret that the pictures below already spoil.",
     "attr":{
       "Gender":"Female",
       "Nationality":"Bauhinian"
+    },
+    "palette":{
+      "dress":"#696969",
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Sparky's Family",
     "name":"Amber",
+    "abbr":"am",
     "color":"#e15f19",
     "desc":"Hardworking girl who would be cheerful if she had the time to smile.",
     "attr":{
@@ -276,11 +318,15 @@
       "Marital status":"Married (to <a href=\"../peacock/\">Peacock</a>)",
       "Occupation":"Secretary and then unemployed",
       "Deceased":""
+    },
+    "palette":{
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Sparky's Family",
     "name":"Peacock",
+    "abbr":"pc",
     "color":"#20f",
     "desc":"Creepy old boy who knows everything and more.",
     "attr":{
@@ -291,27 +337,64 @@
       "Occupation":"Personal attorney",
       "Power":"Superstrength lv. 800"
     },
+    "palette":{
+      "scar outer":"#F6B6AC",
+      "scar inner":"#D29D95",
+      "hair":"#2E2E2E"
+    },
     "note":"The highlight on his hair goes up, down, and then up."
   },
   {
     "cat":"Sparky's Family",
     "name":"Fantasy",
-    "color":"#ce00af"
+    "abbr":"fs",
+    "color":"#ce00af",
+    "attr":{
+      "Gender":"Female",
+      "Nationality":"Bauhinian",
+      "Marital status":"Married",
+      "Deceased":""
+    },
+    "palette":{
+      "necklace":"#caf1f1",
+      "hair":"#2E2E2E"
+    }
   },
   {
     "cat":"Sparky's Family",
     "name":"Ironheart",
+    "abbr":"ih",
     "color":"#69272b",
-    "darkcolor":true
+    "darkcolor":true,
+    "attr":{
+      "Gender":"Male",
+      "Nationality":"Bauhinian"
+    },
+    "palette":{
+      "shirt":"#b9ac95",
+      "pants":"#624b22",
+      "hair":"#2E2E2E"
+    }
   },
   {
     "cat":"Sparky's Family",
     "name":"Willow",
-    "color":"#199400"
+    "abbr":"wl",
+    "color":"#199400",
+    "attr":{
+      "Gender":"Female",
+      "Nationality":"Bauhinian",
+      "Power":"Mind reading lv. 24"
+    },
+    "palette":{
+      "shirt":"#84C776",
+      "hair":"#2E2E2E"
+    }
   },
   {
     "cat":"Sparky's Family",
     "name":"Nightsun",
+    "abbr":"ns",
     "color":"#130b51",
     "darkcolor":true,
     "attr":{
@@ -322,119 +405,160 @@
       "Occupation":"Employee at Starcorp",
       "Weapon":"Seedling sword"
     },
+    "palette":{
+      "hair":"#2E2E2E",
+      "suit":"#000"
+    },
     "note":"The highlight on his hair goes up, down, and then up."
   },
   {
     "cat":"Sparky's Family",
     "name":"Bramble",
+    "abbr":"bb",
     "color":"#E19D0E",
-    "hidden":true
+    "attr":{
+      "Gender":"Male",
+      "Nationality":"Bauhinian"
+    }
   },
   {
     "cat":"Ministry of State Security",
     "name":"Goose",
+    "abbr":"gs",
     "color":"#D54269",
     "attr":{
       "Gender":"Female",
       "Nationality":"Bauhinian",
       "Occupation":"State security officer",
-      "weapon":"Baton"
+      "Weapon":"Baton"
     },
     "palette":{
+      "shoulder pads":"#f01ace",
+      "boots":"#8c1078",
       "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Ministry of State Security",
     "name":"Pumpkin",
+    "abbr":"pk",
     "color":"#E3744D",
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian",
       "Occupation":"State security officer",
-      "weapon":"Baton"
+      "Weapon":"Baton"
     },
     "palette":{
+      "shoulder pads":"#f01ace",
+      "boots":"#8c1078",
       "hair":"#754413"
     }
   },
   {
     "cat":"Ministry of State Security",
     "name":"Halcyon",
+    "abbr":"hy",
     "color":"#008E9B",
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian",
       "Occupation":"State security officer",
-      "weapon":"Baton"
+      "Weapon":"Baton"
     },
     "palette":{
+      "shoulder pads":"#f01ace",
+      "boots":"#8c1078",
       "hair":"#2e2e2e"
     }
   },
   {
     "cat":"Ministry of State Security",
     "name":"Paperweight",
+    "abbr":"pw",
     "color":"#2e2e2e",
     "darkcolor":true,
     "attr":{
       "Gender":"Male",
       "Nationality":"Bauhinian",
       "Occupation":"State security officer",
-      "weapon":"Baton"
+      "Weapon":"Baton"
     },
-    "bio":"Paperweight was born in the countryside in northern Bauhinia. His parents died when he was really little, and he was often bullied in the orphanage, so one night he stole a bag of buns and a bag of water, and ran all the way to the Mountain Temple, half begging and half stealing along the way after the buns ran out.\n\nAt the Mountain Temple, the master accepted him out of sympathy. He learned and mastered Mountain-style martial arts. When he grew up, his master secured him a job at the Ministry of State Security, where he'd been working ever since.",
+    "bio":"Paperweight was born in the countryside in northern Bauhinia. His parents died when he was really little, and he was often bullied in the orphanage, so one night he stole a bag of buns and a bag of water, and ran all the way to the Mountain Temple, half begging and half stealing along the way after the buns ran out.\n\nAt the Mountain Temple, the master accepted him out of sympathy. He learned and mastered Wood-style martial arts. When he grew up, his master secured him a job at the Ministry of State Security, where he'd been working ever since.",
     "palette":{
+      "shoulder pads":"#f01ace",
+      "boots":"#8c1078",
       "hair":"#888"
     }
   },
   {
     "cat":"Hyrax's Family",
     "name":"Hyrax",
+    "abbr":"hx",
     "color":"#333333",
-    "darkcolor":true,
-    "hidden":true
+    "darkcolor":true
   },
   {
     "cat":"Hyrax's Family",
     "name":"Beauty",
+    "abbr":"bt",
     "color":"#CE6C07",
     "attr":{
       "Gender":"Female (cis)",
       "Full name":"Beauty Cherry Hyrax"
+    },
+    "palette":{
+      "shirt":"#5e5e5e",
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Hyrax's Family",
     "name":"Chastity",
+    "abbr":"ct",
     "color":"#C3BB4E",
     "attr":{
       "Gender":"Female (cis)",
       "Full name":"Chastity Cherry Hyrax"
+    },
+    "palette":{
+      "shirt":"#5e5e5e",
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Hyrax's Family",
     "name":"Devotion",
+    "abbr":"dv",
     "color":"#017909",
     "attr":{
       "Gender":"Female (cis)",
       "Full name":"Devotion Cherry Hyrax"
+    },
+    "palette":{
+      "shirt":"#5e5e5e",
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Hyrax's Family",
     "name":"Elegance",
+    "abbr":"eg",
     "color":"#1054ad",
     "attr":{
       "Gender":"Female (cis)",
       "Full name":"Elegance Cherry Hyrax",
-      "Power":"Time precision"
+      "Power":"Time precision lv. 57"
+    },
+    "palette":{
+      "shirt":"#5e5e5e",
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"Hyrax's Family",
     "name":"Animus",
+    "abbr":"an",
     "desc":"Chairman of Starcorp!",
     "color":"#a10000",
     "darkcolor":true,
@@ -447,43 +571,56 @@
       "Weapon":"Nun-chucks"
     },
     "palette":{
+      "shirt":"#5e5e5e",
       "hair":"#2E2E2E"
     }
   },
   {
     "cat":"The Bauhinian Archives",
     "name":"Jaculus",
-    "hidden":true,
+    "abbr":"jc",
     "desc":"<a href=\"../jerboa/\">Jerboa</a>'s big sister.",
     "color":"#008bc7",
     "attr":{
       "Gender":"Female (cis)",
       "Full name":"Jaculus Koala Kangaroo",
       "Nationality":"Bauhinian"
+    },
+    "palette":{
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"The Bauhinian Archives",
     "name":"Koala",
-    "hidden":true,
+    "abbr":"kl",
     "desc":"<a href=\"../jerboa/\">Jerboa</a>'s mother, lead scientist of Project Boomerang.",
     "color":"#7F8587",
     "attr":{
       "Gender":"Female (cis)",
       "Nationality":"Bauhinian",
       "Occupation":"Physician"
+    },
+    "palette":{
+      "glasses":"#727272",
+      "suit":"#816339",
+      "hair":"#2E2E2E"
     }
   },
   {
     "cat":"The Bauhinian Archives",
     "name":"Kangaroo",
-    "hidden":true,
+    "abbr":"kg",
     "desc":"<a href=\"../jerboa/\">Jerboa</a>'s father, co-lead scientist of Project Boomerang.",
     "color":"#A36D1F",
     "attr":{
       "Gender":"Male (cis)",
       "Nationality":"Bauhinian",
       "Occupation":"Physician"
+    },
+    "palette":{
+      "suit":"#5D6B6F",
+      "hair":"#2E2E2E"
     }
   }
 ]

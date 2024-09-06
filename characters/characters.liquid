@@ -49,11 +49,22 @@ eleventyComputed:
 		{% if ch.quote %}
 			<p class="quote">{{ ch.quote }}</p>
 		{% endif %}
+		{% if ch.about %}
+			<h2 id="about">About</h2>
+			{% assign firstFourLetters = ch.about | slice: 0, 4 %}
+			{% if firstFourLetters == 'file' %}
+				{% assign fileName = ch.abbr | append: " bio.md" %}
+				{% assign filePath = './characters/files/' | append: fileName %}
+				{% renderFile filePath %}
+			{% else %}
+				{{ ch.about | renderMD }}
+			{% endif %}
+		{% endif %}
 		{% if ch.bio %}
 			<h2 id="bio">Biography</h2>
-			{% assign firstFiveLetters = ch.bio | slice: 0, 5 %}
-			{% if firstFiveLetters == 'file:' %}
-				{% assign fileName = ch.bio | slice: 5 | append: ".md" %}
+			{% assign firstFourLetters = ch.bio | slice: 0, 4 %}
+			{% if firstFourLetters == 'file' %}
+				{% assign fileName = ch.abbr | append: " bio.md" %}
 				{% assign filePath = './characters/files/' | append: fileName %}
 				{% renderFile filePath %}
 			{% else %}
