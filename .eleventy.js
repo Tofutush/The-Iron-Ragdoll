@@ -76,7 +76,7 @@ module.exports = function(eleventyConfig) {
 			};
 			return Image.generateHTML(metadata, imageAttributes);
 		} catch(e) {
-			return '';
+			return '<p>TBA!</p>';
 		}
 	});
 	eleventyConfig.addShortcode('imageOrig', async function (path, name, alt) {
