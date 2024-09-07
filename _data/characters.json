@@ -23,6 +23,7 @@
       "hair":"#2e2e2e",
       "shirt":"#000"
     },
+    "perms":"- Her pupils point towards the middle! Unless she's looking at somewhere in particular.",
     "note":"The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n\nThe highlights on her hair goes down, up, and then down."
   },
   {
@@ -436,7 +437,8 @@
       "shoulder pads":"#f01ace",
       "boots":"#8c1078",
       "hair":"#2E2E2E"
-    }
+    },
+    "perms":"file:mssperms.md"
   },
   {
     "cat":"Ministry of State Security",
@@ -453,7 +455,8 @@
       "shoulder pads":"#f01ace",
       "boots":"#8c1078",
       "hair":"#754413"
-    }
+    },
+    "perms":"file:mssperms.md"
   },
   {
     "cat":"Ministry of State Security",
@@ -470,7 +473,8 @@
       "shoulder pads":"#f01ace",
       "boots":"#8c1078",
       "hair":"#2e2e2e"
-    }
+    },
+    "perms":"file:mssperms.md"
   },
   {
     "cat":"Ministry of State Security",
@@ -489,7 +493,8 @@
       "shoulder pads":"#f01ace",
       "boots":"#8c1078",
       "hair":"#888"
-    }
+    },
+    "perms":"file:mssperms.md"
   },
   {
     "cat":"Hyrax's Family",

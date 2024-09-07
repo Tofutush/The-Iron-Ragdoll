@@ -12,8 +12,8 @@ eleventyComputed:
 
 {% if ch.darkcolor %}
 	<style>
-	.attr > div > div:first-child, .prev-next a, .prev-next svg, .desc h1, .desc h2, .desc h3, .desc a {
-	text-shadow: 1px 1px 2px #fff, -1px -1px 2px #fff, 1px -1px 2px #fff, -1px 1px 2px #fff;
+	.attr > div > div:first-child, .prev-next a, .desc h1, .desc h2, .desc h3, .desc a {
+		text-shadow: 1px 1px 2px #fff, -1px -1px 2px #fff, 1px -1px 2px #fff, -1px 1px 2px #fff;
 	}
 	</style>
 {% endif %}
@@ -95,6 +95,22 @@ eleventyComputed:
 			{% endif %}
 			{% include 'gallery' imgs: filteredGallery %}
 		{% endif %}
+		<h2 id="perms">Drawing Permissions <a class="collapsible tooltip"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
+		<div class="collapsible-content">
+			{% if ch.perms %}
+				<h3>Character Permissions</h3>
+				{% assign firstFiveLetters = ch.perms | slice: 0, 5 %}
+				{% if firstFiveLetters == 'file:' %}
+					{% assign fileName = ch.perms | slice: 5 %}
+					{% assign filePath = './characters/files/' | append: fileName %}
+					{% renderFile filePath %}
+				{% else %}
+					{{ ch.perms | renderMD }}
+				{% endif %}
+				<h3>Global Permissions</h3>
+			{% endif %}
+			{% renderFile './characters/files/globalperms.md' %}
+		</div>
 	</div>
 </div>
 <div class="prev-next" style="--c: {{ ch.color }};">
