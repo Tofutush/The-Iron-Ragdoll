@@ -30,7 +30,9 @@ module.exports = function(eleventyConfig) {
 		return arr.find(ch => ch.name == name);
 	});
 	eleventyConfig.addFilter('filterGallery', function(arr, f) {
-		return arr.filter(a => a.ch.includes(f.toLowerCase()));
+		return arr.filter(a => {
+			if(a.ch) return a.ch.includes(f.toLowerCase())
+		});
 	});
 	eleventyConfig.addFilter('getChByCat', function(arr, cat) {
 		return arr.filter(c => c.cat == cat);

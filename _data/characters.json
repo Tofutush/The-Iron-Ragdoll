@@ -627,35 +627,5 @@
       "suit":"#5D6B6F",
       "hair":"#2E2E2E"
     }
-  },
-  {
-    "cat":"Country",
-    "name":"Bauhinia",
-    "color":"#f01ace",
-    "hidden":true
-  },
-  {
-    "cat":"Country",
-    "name":"Fanton",
-    "color":"#B212D2",
-    "hidden":true
-  },
-  {
-    "cat":"Country",
-    "name":"Atlasia",
-    "color":"#09721A",
-    "hidden":true
-  },
-  {
-    "cat":"Country",
-    "name":"Moreland",
-    "color":"#169986",
-    "hidden":true
-  },
-  {
-    "cat":"Country",
-    "name":"Sylvandia",
-    "color":"#217DE6",
-    "hidden":true
   }
 ]

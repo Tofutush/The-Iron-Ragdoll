@@ -11,27 +11,18 @@
     {
         "name":"atlasia flag",
         "type":"svg",
-        "ch":[
-            "atlasia"
-        ],
         "scope":"design",
         "style":"lineless"
     },
     {
         "name":"atlasia token",
         "type":"svg",
-        "ch":[
-            "atlasia"
-        ],
         "scope":"design",
         "style":"lineless"
     },
     {
         "name":"bauhinia flag",
         "type":"svg",
-        "ch":[
-            "bauhinia"
-        ],
         "scope":"design",
         "style":"lineless",
         "comment":"The flag of the Republic of Bauhinia.\n\nIn the middle of the flag is a bauhinia flower with leaves behind it, the symbol of the Republic of Bauhinia. The flower grows in the subtropics -- all throughout Bauhinia -- and blooms in the winter. It stands for the core Bauhinia values of family, harmony, and love."
@@ -39,9 +30,6 @@
     {
         "name":"mssb stamp confidential",
         "type":"svg",
-        "ch":[
-            "bauhinia"
-        ],
         "scope":"design",
         "style":"lineless",
         "comment":"This is the stamp the Ministry of State Security stamps on its *confidential* documents."
@@ -49,9 +37,6 @@
     {
         "name":"mssb stamp",
         "type":"svg",
-        "ch":[
-            "bauhinia"
-        ],
         "scope":"design",
         "style":"lineless",
         "comment":"This is the stamp the Ministry of State Security stamps on its documents."
@@ -59,18 +44,12 @@
     {
         "name":"mssb symbol",
         "type":"svg",
-        "ch":[
-            "bauhinia"
-        ],
         "scope":"design",
         "style":"lineless"
     },
     {
         "name":"bauhinia police symbol",
         "type":"svg",
-        "ch":[
-            "bauhinia"
-        ],
         "scope":"design",
         "style":"lineless",
         "comment":"I had so much fun drawing all these bauhinia variations. This is the symbol of the Bauhinian police, or the Public Security Bureau of Bauhinia.\n\nThe flower petals are presented as sharp blades, symbolizing the will of the police force in safeguarding the Bauhinian people."
@@ -78,18 +57,12 @@
     {
         "name":"bauhinia police symbol title",
         "type":"svg",
-        "ch":[
-            "bauhinia"
-        ],
         "scope":"design",
         "style":"lineless"
     },
     {
         "name":"bauhinia token",
         "type":"svg",
-        "ch":[
-            "bauhinia"
-        ],
         "scope":"design",
         "style":"lineless"
     },
@@ -155,9 +128,6 @@
     {
         "name":"fanton flag",
         "type":"svg",
-        "ch":[
-            "fanton"
-        ],
         "scope":"design",
         "style":"lineless",
         "comment":"The flag of the Republic of Fanton.\n\n"
@@ -165,18 +135,12 @@
     {
         "name":"fanton symbol",
         "type":"svg",
-        "ch":[
-            "fanton"
-        ],
         "scope":"design",
         "style":"lineless"
     },
     {
         "name":"fanton token",
         "type":"svg",
-        "ch":[
-            "fanton"
-        ],
         "scope":"design",
         "style":"lineless"
     },
@@ -345,27 +309,18 @@
     {
         "name":"moreland flag",
         "type":"svg",
-        "ch":[
-            "moreland"
-        ],
         "scope":"design",
         "style":"lineless"
     },
     {
         "name":"moreland symbol",
         "type":"svg",
-        "ch":[
-            "moreland"
-        ],
         "scope":"design",
         "style":"lineless"
     },
     {
         "name":"moreland token",
         "type":"svg",
-        "ch":[
-            "moreland"
-        ],
         "scope":"design",
         "style":"lineless"
     },
@@ -676,18 +631,12 @@
     {
         "name":"sylvandia flag",
         "type":"svg",
-        "ch":[
-            "sylvandia"
-        ],
         "scope":"design",
         "style":"lineless"
     },
     {
         "name":"sylvandia token",
         "type":"svg",
-        "ch":[
-            "sylvandia"
-        ],
         "scope":"design",
         "style":"lineless"
     },
