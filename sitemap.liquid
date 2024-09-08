@@ -1,0 +1,12 @@
+---
+layout: layout.liquid
+title: sitemap
+---
+
+<ul>
+    {% for item in collections.all %}
+        {% unless item.data.ignore %}
+            <li><a href="{{ item.url }}">{{ item.url }}</a></li>
+        {% endunless %}
+    {% endfor %}
+</ul>

@@ -4,6 +4,7 @@ pagination:
   data: characters
   size: 1
   alias: ch
+  addAllPagesToCollections: true
 permalink: "characters/{{ pagination.items[0].name | lowerCase }}/"
 eleventyComputed:
   title: "{{ pagination.items[0].name }}"

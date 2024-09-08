@@ -4,6 +4,7 @@ desc: A comic!
 pagination:
   data: comicpages
   size: 1
+  addAllPagesToCollections: true
 permalink: "{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber }}{% endif %}/"
 eleventyComputed:
   title: "Page {{ pagination.pageNumber }}"
