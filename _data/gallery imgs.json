@@ -960,5 +960,15 @@
         ],
         "scope":"full-body",
         "style":"normal"
+    },
+    {
+        "name":"sparky nightsun back",
+        "type":"png",
+        "ch":[
+            "sparky",
+            "nightsun"
+        ],
+        "scope":"full-body",
+        "style":"normal"
     }
 ]

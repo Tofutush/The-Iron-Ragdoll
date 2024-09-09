@@ -408,6 +408,10 @@
     },
     "palette":{
       "hair":"#2E2E2E",
+      "sword handle":"#510E0B",
+      "sword highlight":"#fff",
+      "sword blade lighter":"#D6D6D6",
+      "sword blade":"#adadad",
       "suit":"#000"
     },
     "note":"The highlight on his hair goes up, down, and then up."
