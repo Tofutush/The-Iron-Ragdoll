@@ -42,6 +42,12 @@ module.exports = function(eleventyConfig) {
 		if(ch.length) return ch[0].color;
 		return `Character ${name} not found!`;
 	});
+	eleventyConfig.addFilter('filterRelations', function(arr, f) {
+		return arr.filter(a => a.ch.includes(f.toLowerCase()));
+	});
+	eleventyConfig.addFilter('getOtherCh', function(rel, ch) {
+		return rel.ch.filter(a => a != ch.toLowerCase()).join();
+	})
 	eleventyConfig.addFilter('renderMD', function(rawString) {
 		return mdRender.render(rawString);
 	});
