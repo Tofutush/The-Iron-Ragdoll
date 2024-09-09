@@ -73,6 +73,15 @@ eleventyComputed:
 				{{ ch.bio | renderMD }}
 			{% endif %}
 		{% endif %}
+		{% assign filteredRelations = relationships | filterRelations: ch.name %}
+		{% if filteredRelations.size > 0 %}
+			<h2 id="relations">Relationships</h2>
+			{% for rel in filteredRelations %}
+				{% assign otherCh = rel | getOtherCh: ch.name %}
+				<h3><a class="rel-h3" style="--c: {{ characters | getChColor: otherCh }}" href="../{{ otherCh | lowerCase }}/">{{ otherCh }}</h3>
+				{{ rel.desc | renderMD }}
+			{% endfor %}
+		{% endif %}
 		{% assign filteredGallery = gallery | filterGallery: ch.name %}
 		{% if filteredGallery.size > 0 %}
 			<h2 id="design">Gallery</h2>

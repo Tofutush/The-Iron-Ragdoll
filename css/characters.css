@@ -94,6 +94,14 @@
 	font-weight: 300;
 	margin-left: 1em;
 }
+h3 {
+	margin-left: 1em;
+}
+.rel-h3 {
+	color: var(--c);
+	font-weight: normal;
+	text-transform: capitalize;
+}
 .palette {
 	border-radius: 16px;
 	cursor: pointer;

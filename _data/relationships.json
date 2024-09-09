@@ -4,6 +4,13 @@
             "sparky",
             "amber"
         ],
-        "desc":"Sparky is Amber's daughter. Sparky loves her almost obsessively. Amber seems to me more focused on [Willow](../willow/)"
+        "desc":"Sparky is Amber's daughter. Sparky loves her almost obsessively. Amber seems to me more focused on [Willow](../willow/), however."
+    },
+    {
+        "ch":[
+            "sparky",
+            "peacock"
+        ],
+        "desc":"Peacock is Sparky's step-father ~~and reincarnation~~. Sparky hates him because he didn't match up to the perfect father (Jackal) in her mind."
     }
 ]
