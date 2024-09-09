@@ -207,6 +207,7 @@ ul {
 	padding-inline-start: 2em;
 }
 ul li {
+	line-height: 1.5;
 	margin: .5em 0;
 }
 @media only screen and (max-width: 620px) {
