@@ -27,6 +27,7 @@ eleventyComputed:
 			{% imageOrig "gallery/" bruhhh "" %}
 			<div class="title-info">
 				<h1 id="name">{{ ch.name }}</h1>
+				{% if ch.namezh %}<h1 id="name-zh">{{ ch.namezh }}</h1>{% endif %}
 				{% if ch.desc %}
 					<p>{{ ch.desc }}</p>
 				{% endif %}
@@ -55,7 +56,7 @@ eleventyComputed:
 			<h2 id="about">About</h2>
 			{% assign firstFourLetters = ch.about | slice: 0, 4 %}
 			{% if firstFourLetters == 'file' %}
-				{% assign fileName = ch.abbr | append: " bio.md" %}
+				{% assign fileName = ch.abbr | append: " about.md" %}
 				{% assign filePath = './characters/files/' | append: fileName %}
 				{% renderFile filePath %}
 			{% else %}
