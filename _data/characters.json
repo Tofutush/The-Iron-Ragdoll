@@ -2,6 +2,7 @@
   {
     "cat":"main",
     "name":"Sparky",
+    "name-zh":"闪闪",
     "abbr":"sp",
     "color":"#0cf",
     "desc":"Our protagonist! Need I say more?",
@@ -29,6 +30,7 @@
   {
     "cat":"Hillslope",
     "name":"Ribbon",
+    "name-zh":"曲旋丝",
     "abbr":"rb",
     "color":"#e368d3",
     "desc":"Owner of the bakery!",
@@ -72,6 +74,7 @@
   {
     "cat":"Hillslope",
     "name":"Tomato",
+    "name-zh":"番茄",
     "abbr":"tm",
     "color":"#A10000",
     "darkcolor":true,
@@ -90,6 +93,7 @@
   {
     "cat":"Hillslope",
     "name":"Guillotine",
+    "name-zh":"断头台",
     "abbr":"gt",
     "color":"#d0ae3a",
     "desc": "Who is this girl and why does she want us to call her \"Guillotine\"?",
@@ -105,6 +109,7 @@
   {
     "cat":"Hillslope",
     "name":"Tephra",
+    "name-zh":"火山灰",
     "abbr":"tf",
     "color":"#008282",
     "desc":"The boss of everything at once, but nothing in particular.",
@@ -126,6 +131,7 @@
   {
     "cat":"Hillslope",
     "name":"Melody",
+    "name-zh":"音韵",
     "abbr":"ml",
     "color":"#426600",
     "darkcolor":true,
@@ -145,6 +151,7 @@
   {
     "cat":"Hillslope",
     "name":"Jerboa",
+    "name-zh":"跳鼠",
     "abbr":"jb",
     "color":"#0867af",
     "darkcolor":true,
@@ -166,6 +173,7 @@
   {
     "cat":"Hillslope",
     "name":"Tundra",
+    "name-zh":"冰封雪",
     "abbr":"td",
     "color":"#800080",
     "darkcolor":true,
@@ -185,6 +193,7 @@
   {
     "cat":"Hillslope",
     "name":"Alaska",
+    "name-zh":"阿拉斯加",
     "abbr":"al",
     "color":"#6C0404",
     "darkcolor":true,
@@ -203,6 +212,7 @@
   {
     "cat":"Hillslope",
     "name":"Starry",
+    "name-zh":"星星",
     "abbr":"st",
     "color":"#CC770F",
     "desc":"Basically a dead guy already.",
@@ -219,6 +229,7 @@
   {
     "cat":"Hillslope",
     "name":"Dragonfly",
+    "name-zh":"蜻蜓",
     "abbr":"df",
     "color":"#00adad",
     "desc":"Some martial arts master in the woods.",
@@ -234,6 +245,7 @@
   {
     "cat":"Coastline Middle School",
     "name":"Qibli",
+    "name-zh":"奇轹",
     "abbr":"qb",
     "color":"#440044",
     "darkcolor":true,
@@ -257,6 +269,7 @@
   {
     "cat":"Coastline Middle School",
     "name":"Sky",
+    "name-zh":"万里晴",
     "abbr":"sk",
     "color":"#236ce1",
     "desc":"Adventurous fidgety boy with interests in everything tech.",
@@ -274,6 +287,7 @@
   {
     "cat":"Coastline Middle School",
     "name":"Firecrackers",
+    "name-zh":"爆竹",
     "abbr":"fc",
     "color":"#8214bd",
     "darkcolor":true,
@@ -309,6 +323,7 @@
   {
     "cat":"Sparky's Family",
     "name":"Amber",
+    "name-zh":"琥珀",
     "abbr":"am",
     "color":"#e15f19",
     "desc":"Hardworking girl who would be cheerful if she had the time to smile.",
@@ -327,6 +342,7 @@
   {
     "cat":"Sparky's Family",
     "name":"Peacock",
+    "name-zh":"孔雀",
     "abbr":"pc",
     "color":"#20f",
     "desc":"Creepy old boy who knows everything and more.",
@@ -348,6 +364,7 @@
   {
     "cat":"Sparky's Family",
     "name":"Fantasy",
+    "name-zh":"奇幻",
     "abbr":"fs",
     "color":"#ce00af",
     "attr":{
@@ -364,6 +381,7 @@
   {
     "cat":"Sparky's Family",
     "name":"Ironheart",
+    "name-zh":"铁心",
     "abbr":"ih",
     "color":"#69272b",
     "darkcolor":true,
@@ -380,6 +398,7 @@
   {
     "cat":"Sparky's Family",
     "name":"Willow",
+    "name-zh":"柳儿",
     "abbr":"wl",
     "color":"#199400",
     "attr":{
@@ -395,6 +414,7 @@
   {
     "cat":"Sparky's Family",
     "name":"Nightsun",
+    "name-zh":"午夜阳",
     "abbr":"ns",
     "color":"#130b51",
     "darkcolor":true,
@@ -429,6 +449,7 @@
   {
     "cat":"Ministry of State Security",
     "name":"Goose",
+    "name-zh":"白鹅",
     "abbr":"gs",
     "color":"#D54269",
     "attr":{
@@ -447,6 +468,7 @@
   {
     "cat":"Ministry of State Security",
     "name":"Pumpkin",
+    "name-zh":"南瓜",
     "abbr":"pk",
     "color":"#E3744D",
     "attr":{
@@ -465,6 +487,7 @@
   {
     "cat":"Ministry of State Security",
     "name":"Halcyon",
+    "name-zh":"太平",
     "abbr":"hy",
     "color":"#008E9B",
     "attr":{
@@ -483,6 +506,7 @@
   {
     "cat":"Ministry of State Security",
     "name":"Paperweight",
+    "name-zh":"镇纸",
     "abbr":"pw",
     "color":"#2e2e2e",
     "darkcolor":true,
@@ -501,8 +525,36 @@
     "perms":"file:mssperms.md"
   },
   {
+    "cat":"Pearl's Journey Home",
+    "name":"Buttercup",
+    "abbr":"bc",
+    "desc":"Fleash rebel fighting for independence from Sylvandia.",
+    "color":"#8c7503",
+    "darkcolor":true,
+    "attr":{
+      "Gender":"Female (cis)",
+      "Nationality":"Sylvandian",
+      "Ethnicity":"Fleaish",
+      "Weapon":"Rifle"
+    },
+    "bio":"Buttercup was born into a poor Fleaish family in Sylvandia and sold into prostitution when she was little. She received the boots from one particular client who refused to pay real money. She joined a rebellion for independence one day.\n\nOkay that's all I have. I originally named the state Buttercup was in \"Flea,\" but then I'm like it's a pretty good thing to have a state named after your ethnicity. I mean, there's no *state* named Sioux in the US, is there? So I gotta come up with a new name. You won't believe how long it took me to think of the names for the five countries (except for Bauhinia; that one was obvious). Thinking up five new state names is gonna be a pain. Maybe I'll make up a forum post and ask other people for names.",
+    "palette":{
+      "buckle":"#909090",
+      "sleeve crosses":"#BC4B1D",
+      "badana":"EBD101",
+      "coat sleeve":"D6D3A4",
+      "coat":"#A49045",
+      "shirt":"#615010",
+      "hat, belt, and boots":"#81550B",
+      "boot pattern arrow":"#B39C76",
+      "boot pattern background":"#8A7655",
+      "hair":"#372603"
+    }
+  },
+  {
     "cat":"Hyrax's Family",
     "name":"Hyrax",
+    "name-zh":"蹄兔",
     "abbr":"hx",
     "color":"#333333",
     "darkcolor":true
@@ -510,6 +562,7 @@
   {
     "cat":"Hyrax's Family",
     "name":"Beauty",
+    "name-zh":"招娣",
     "abbr":"bt",
     "color":"#CE6C07",
     "attr":{
@@ -524,6 +577,7 @@
   {
     "cat":"Hyrax's Family",
     "name":"Chastity",
+    "name-zh":"招财",
     "abbr":"ct",
     "color":"#C3BB4E",
     "attr":{
@@ -538,6 +592,7 @@
   {
     "cat":"Hyrax's Family",
     "name":"Devotion",
+    "name-zh":"招婿",
     "abbr":"dv",
     "color":"#017909",
     "attr":{
@@ -552,6 +607,7 @@
   {
     "cat":"Hyrax's Family",
     "name":"Elegance",
+    "name-zh":"招运",
     "abbr":"eg",
     "color":"#1054ad",
     "attr":{
@@ -567,6 +623,7 @@
   {
     "cat":"Hyrax's Family",
     "name":"Animus",
+    "name-zh":"鲲鹏",
     "abbr":"an",
     "desc":"Chairman of Starcorp!",
     "color":"#a10000",
@@ -587,6 +644,7 @@
   {
     "cat":"The Bauhinian Archives",
     "name":"Jaculus",
+    "name-zh":"跃鼠",
     "abbr":"jc",
     "desc":"<a href=\"../jerboa/\">Jerboa</a>'s big sister.",
     "color":"#008bc7",
@@ -602,6 +660,7 @@
   {
     "cat":"The Bauhinian Archives",
     "name":"Koala",
+    "name-zh":"树袋",
     "abbr":"kl",
     "desc":"<a href=\"../jerboa/\">Jerboa</a>'s mother, lead scientist of Project Boomerang.",
     "color":"#7F8587",
@@ -619,6 +678,7 @@
   {
     "cat":"The Bauhinian Archives",
     "name":"Kangaroo",
+    "name-zh":"袋鼠",
     "abbr":"kg",
     "desc":"<a href=\"../jerboa/\">Jerboa</a>'s father, co-lead scientist of Project Boomerang.",
     "color":"#A36D1F",
