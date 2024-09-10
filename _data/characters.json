@@ -24,8 +24,7 @@
       "hair":"#2e2e2e",
       "shirt":"#000"
     },
-    "perms":"- Her pupils point towards the middle! Unless she's looking at somewhere in particular.",
-    "note":"The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n\nThe highlights on her hair goes down, up, and then down."
+    "note":"- The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n- The highlights on her hair goes down, up, and then down.\n- Her pupils point towards the middle! Unless she's looking at somewhere in particular."
   },
   {
     "cat":"Hillslope",
@@ -69,7 +68,7 @@
       "shirt":"#B2B8E3",
       "hair":"#2e2e2e"
     },
-    "note":"Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n\nSleeves are wider than a normal sleeve.\n\nBoth the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n\nShoes and hairband match color.\n\nThe yellow eye (yellow with black pupil) is always open."
+    "note":"- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
   },
   {
     "cat":"Hillslope",
@@ -463,7 +462,7 @@
       "boots":"#8c1078",
       "hair":"#2E2E2E"
     },
-    "perms":"file:mssperms.md"
+    "note":"file:mssperms.md"
   },
   {
     "cat":"Ministry of State Security",
@@ -482,7 +481,7 @@
       "boots":"#8c1078",
       "hair":"#754413"
     },
-    "perms":"file:mssperms.md"
+    "note":"file:mssperms.md"
   },
   {
     "cat":"Ministry of State Security",
@@ -501,7 +500,7 @@
       "boots":"#8c1078",
       "hair":"#2e2e2e"
     },
-    "perms":"file:mssperms.md"
+    "note":"file:mssperms.md"
   },
   {
     "cat":"Ministry of State Security",
@@ -522,7 +521,7 @@
       "boots":"#8c1078",
       "hair":"#888"
     },
-    "perms":"file:mssperms.md"
+    "note":"file:mssperms.md"
   },
   {
     "cat":"Pearl's Journey Home",
