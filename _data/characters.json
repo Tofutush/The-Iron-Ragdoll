@@ -525,6 +525,22 @@
   },
   {
     "cat":"Pearl's Journey Home",
+    "name":"Pearl",
+    "abbr":"pr",
+    "desc":"A little girl who cries pearls",
+    "color":"#caf1f1",
+    "attr":{
+      "Full name":"Pearl Gemstone",
+      "Gender":"Female",
+      "Nationality":"Sylvandian"
+    },
+    "bio":"Pearl was kidnapped from her hometown in [Snowdale](/world/sylvandia/snowdale/), [Sylvandia](/world/sylvandia/), after Starcorp discovered that she cried pearl tears. She was kept in a basement and tortured every day to produce pearls. [Fantasy](../fantasy/)'s necklace was made from her tears.\n\nAfter [Sparky](../sparky/) discovered this, she tried to send her home.",
+    "palette":{
+      "hair":"#000"
+    }
+  },
+  {
+    "cat":"Pearl's Journey Home",
     "name":"Buttercup",
     "abbr":"bc",
     "desc":"Fleash rebel fighting for independence from Sylvandia.",
