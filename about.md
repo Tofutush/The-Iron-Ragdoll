@@ -16,7 +16,7 @@ Also available on [MSPFA](https://mspfa.com/?s=50350&p=1), [Globalcomix](https:/
 
 # Content Warnings
 
-The comic and the contents of this site will contain profanity and general violence.
+The comic and the contents of this site will contain profanity and cartoon violence.
 
 This will be the only content warning site-wide. Viewer discretion is advised.
 
