@@ -14,6 +14,11 @@ desc: About The Iron Ragdoll.
 
 Also available on [MSPFA](https://mspfa.com/?s=50350&p=1), [Globalcomix](https://globalcomix.com/c/the-iron-ragdoll), [ComicFury](https://the-iron-ragdoll.thecomicseries.com), [NamiComi](https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en), and [Tapas](https://tapas.io/series/The-Iron-Ragdoll). (I may have too many mirrors. But then, like backups,<br>one can never have too many mirrors.)
 
+# Content Warnings
+
+The comic and the contents of this site will contain profanity and general violence.
+
+This will be the only content warning site-wide. Viewer discretion is advised.
 
 # Let me tell you about Homestuck.
 
