@@ -25,9 +25,6 @@
 .desc > * {
 	margin: 1.5rem 0;
 }
-.desc h1, .desc h2, .desc h3 {
-	color: var(--c);
-}
 .desc a {
 	color: var(--c);
 }

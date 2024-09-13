@@ -14,7 +14,7 @@ body {
 }
 .ch {
 	align-items: center;
-	background-color: #fff8;
+	background-color: var(--box);
 	border-radius: 16px;
 	display: flex;
 	height: 120px;
@@ -28,10 +28,6 @@ body {
 }
 .chs > div > a {
 	margin: 1rem 0;
-}
-.chs > div > a::selection {
-	background-color: var(--c);
-	color: #fff;
 }
 @media only screen and (max-width: 780px) {
 	.chs {
