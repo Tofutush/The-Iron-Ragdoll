@@ -13,3 +13,4 @@ title: Changelog
 - Tried link color. It seems to work!
 - Added [Starcorp](/world/bauhinia/starcorp/).
 - Might consider switching to light mode since a lot of the link colors are too dark.
+    - I did it.

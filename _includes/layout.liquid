@@ -33,14 +33,14 @@
 				background-image: url({{ bg }});
 			}
 			{% if theme == 'night' %}
-				:root {
+				body.light, body.dark {
 					--text: #fff;
 				}
 			{% elsif theme == 'day' %}
-				:root {
+				body.light, body.dark {
 					--text: #000;
 				}
-				#header {
+				body.dark #header {
 					background-image: none;
 				}
 				#title {
@@ -53,7 +53,7 @@
 		</style>
 	{% endif %}
 </head>
-<body>
+<body class="{% if page.url contains '/page-' or page.url == '/' %}dark{% else %}light{% endif %}">
 <div id="header">
 	<div id="title"><a href="/">The Iron Ragdoll</a></div>
 	<div id="linx">
