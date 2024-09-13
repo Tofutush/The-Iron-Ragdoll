@@ -6,21 +6,21 @@
 	font-family: lexend;
 	src: url(/Lexend.ttf);
 }
-:root {
-	--text: #fff;
-	--blue: #0cf;
-	--box: #fff8;
-}
 body {
+	--text: #fff;
+	--bg: #000;
+	--c: #0cf;
+	--box: #fff8;
+	--font-size: 24px;
 	background-attachment: fixed;
-	background-color: #000;
+	background-color: var(--bg);
 	background-size: cover;
 	background-position: center;
 	margin: 0;
 	font-family: lexend;
 }
 h1 {
-	color: var(--blue);
+	color: var(--c);
 	font-size: 2.5rem;
 	font-weight: normal;
 	line-height: 2;
@@ -28,25 +28,25 @@ h1 {
 	margin-top: 1.25em;
 }
 h2 {
-	color: var(--blue);
+	color: var(--c);
 	font-size: 2rem;
 	font-weight: normal;
 }
 h3 {
-	color: var(--blue);
+	color: var(--c);
 	font-size: 1.75rem;
 	font-weight: normal;
 }
 p {
 	color: var(--text);
-	font-size: 24px;
+	font-size: var(--font-size);
 	font-weight: 300;
 	line-height: 2;
 	text-align: justify;
 	text-indent: 2em;
 }
 a {
-	color: var(--blue);
+	color: var(--c);
 	font-weight: 300;
 	text-decoration: none;
 }
@@ -100,7 +100,7 @@ a:hover {
 	background-color: var(--box);
 	border-radius: 10px;
 	display: none;
-	font-size: 24px;
+	font-size: var(--font-size);
 	margin: 0;
 	padding: 10px;
 	position: absolute;
@@ -201,7 +201,7 @@ a:hover {
 }
 ul {
 	color: var(--text);
-	font-size: 24px;
+	font-size: var(--font-size);
 	font-weight: 300;
 	list-style: disc;
 	padding-inline-start: 2em;

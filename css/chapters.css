@@ -12,11 +12,11 @@
 	text-wrap: nowrap;
 }
 .chapter p {
-	font-size: 24px;
+	font-size: var(--font-size);
 	margin: 0;
 }
 .chapter-desc {
-	font-size: 24px;
+	font-size: var(--font-size);
 	margin: 1em 1em 1.5em 1em;
 }
 .dot-line {
