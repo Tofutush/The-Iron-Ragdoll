@@ -79,7 +79,7 @@ eleventyComputed:
 			<h2 id="relations">Relationships</h2>
 			{% for rel in filteredRelations %}
 				{% assign otherCh = rel | getOtherCh: ch.name %}
-				<h3><a class="rel-h3" style="--c: {{ characters | getChColor: otherCh }}" href="../{{ otherCh | lowerCase }}/">{{ otherCh }}</a></h3>
+				<h3><a class="rel-h3" href="../{{ otherCh | lowerCase }}/">{{ otherCh }}</a></h3>
 				{{ rel.desc | renderMD }}
 			{% endfor %}
 		{% endif %}
