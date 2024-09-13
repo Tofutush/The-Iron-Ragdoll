@@ -25,9 +25,6 @@
 .desc > * {
 	margin: 1.5rem 0;
 }
-.desc a {
-	color: var(--c);
-}
 .desc .collapsible-content {
 	margin: 0;
 }
@@ -95,7 +92,6 @@ h3 {
 	margin-left: 1em;
 }
 .rel-h3 {
-	color: var(--c);
 	font-weight: normal;
 	text-transform: capitalize;
 }
@@ -145,7 +141,6 @@ h3 {
 }
 .prev-next a {
 	align-items: center;
-	color: var(--c);
 	display: flex;
 }
 .prev-next svg {

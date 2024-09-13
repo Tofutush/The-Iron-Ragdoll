@@ -10,3 +10,4 @@ title: Changelog
 - Started a changelog because it sounds like a good idea.
 - Cleaned up the CSS a *wee* bit.
     - Also added some pointless variables.
+- Tried link color. It seems to work!

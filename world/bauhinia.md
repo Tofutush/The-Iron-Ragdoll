@@ -9,7 +9,7 @@ The Republic of Bauhinia is in the south of the continent, with most of its terr
 
 I really can't write shit man sorry.
 
-Basically, Bauhinia is a terrible place (better than [Atlasia](../atlasia/) though). Bauhinia is controlled by Starcorp. Bauhinia has a huge wealth gap.
+Basically, Bauhinia is a terrible place (better than [Atlasia](../atlasia/) though). Bauhinia is controlled by [Starcorp](starcorp/). Bauhinia has a huge wealth gap.
 
 Apparently kids can own guns in Bauhinia. I mean, [Sparky](/characters/sparky/) got one through mail from [her mom](/characters/amber/).
 
