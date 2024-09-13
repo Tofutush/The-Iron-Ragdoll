@@ -2,77 +2,103 @@
 	font-family: lexend;
 	src: url(/The-Iron-Ragdoll/Lexend.ttf);
 }
+
 @font-face {
 	font-family: lexend;
 	src: url(/Lexend.ttf);
 }
-:root {
-	--text: #fff;
-	--blue: #0cf;
-	--box: #fff8;
-}
+
 body {
+	--font-size: 24px;
 	background-attachment: fixed;
-	background-color: #000;
+	background-color: var(--bg);
 	background-size: cover;
 	background-position: center;
 	margin: 0;
 	font-family: lexend;
 }
+
+body.dark {
+	--text: #fff;
+	--bg: #000;
+	--c: #0cf;
+	--box: #fff8;
+}
+
+body.light {
+	--text: #000;
+	--bg: #eee;
+	--c: #0cf;
+	--box: #0001;
+}
+
 h1 {
-	color: var(--blue);
+	color: var(--c);
 	font-size: 2.5rem;
 	font-weight: normal;
 	line-height: 2;
 	margin-bottom: .75em;
 	margin-top: 1.25em;
 }
+
 h2 {
-	color: var(--blue);
+	color: var(--c);
 	font-size: 2rem;
 	font-weight: normal;
 }
+
 h3 {
-	color: var(--blue);
+	color: var(--c);
 	font-size: 1.75rem;
 	font-weight: normal;
 }
+
 p {
 	color: var(--text);
-	font-size: 24px;
+	font-size: var(--font-size);
 	font-weight: 300;
 	line-height: 2;
 	text-align: justify;
 	text-indent: 2em;
 }
+
 a {
-	color: var(--blue);
+	color: var(--c);
 	font-weight: 300;
 	text-decoration: none;
 }
+
 i {
 	font-style: normal;
 }
+
 a:hover {
 	text-decoration: underline;
 }
+
 #header {
-	background-image: linear-gradient(to top, #0000, #000);
-	color: #fff;
+	color: var(--text);
 	padding-top: 2em;
 	text-align: center;
 	width: 100%;
 	user-select: none;
 }
+
+body.dark #header {
+	background-image: linear-gradient(to top, #0000, #000);
+}
+
 #header a {
 	color: var(--text);
 }
+
 #title {
 	color: var(--text);
 	font-size: 60px;
 	margin: .5em;
 	text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
 }
+
 #linx {
 	align-items: center;
 	display: flex;
@@ -80,44 +106,54 @@ a:hover {
 	margin: auto;
 	width: fit-content;
 }
-#linx > a {
+
+#linx>a {
 	margin: .5em;
 	transition: text-shadow .3s;
 }
-#linx > .dpdn {
+
+#linx>.dpdn {
 	margin: .5em;
 }
+
 #linx a:hover {
 	text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
 }
+
 .dpdn {
 	display: inline-block;
 }
-.dpdn > a {
+
+.dpdn>a {
 	cursor: default;
 }
+
 .dpdn-ul {
 	background-color: var(--box);
 	border-radius: 10px;
 	display: none;
-	font-size: 24px;
+	font-size: var(--font-size);
 	margin: 0;
 	padding: 10px;
 	position: absolute;
 	z-index: 999;
 }
+
 .dpdn-ul a {
 	display: block;
 	padding: 10px 0 !important;
 }
+
 .dpdn:hover .dpdn-ul {
 	display: block;
 }
+
 #main-content {
 	margin: 2em auto;
 	max-width: 800px;
 	padding: 0 2em;
 }
+
 #translation {
 	font-family: 微软雅黑 light;
 	height: fit-content;
@@ -127,20 +163,25 @@ a:hover {
 	width: 250px;
 	z-index: -999;
 }
+
 .graybox {
 	background-color: var(--box);
 	border-radius: 16px;
 	padding: 1em;
 }
+
 .graybox p:first-child {
 	margin-top: 0;
 }
+
 .graybox p:last-child {
 	margin-bottom: 0;
 }
+
 .tooltip {
 	position: relative;
 }
+
 .tooltip .tooltip-text {
 	background-color: var(--box);
 	border-radius: 6px;
@@ -160,6 +201,7 @@ a:hover {
 	width: 120px;
 	z-index: 1;
 }
+
 .tooltip .tooltip-text::after {
 	content: " ";
 	position: absolute;
@@ -170,24 +212,30 @@ a:hover {
 	border-style: solid;
 	border-color: var(--box) transparent transparent transparent;
 }
+
 .tooltip:hover .tooltip-text {
 	font-weight: 300;
 	opacity: 1;
 }
+
 .collapsible {
 	cursor: pointer;
 }
+
 .collapsible-content {
 	max-height: 0;
 	overflow: hidden;
 	transition: max-height .3s ease-out;
 }
-.collapsible-content > *:first-child {
+
+.collapsible-content>*:first-child {
 	margin-top: 0;
 }
-.collapsible-content > *:last-child {
+
+.collapsible-content>*:last-child {
 	margin-bottom: 0;
 }
+
 .character-button {
 	background-color: var(--c);
 	border-radius: .5rem;
@@ -199,27 +247,32 @@ a:hover {
 	text-shadow: none !important;
 	user-select: none;
 }
+
 ul {
 	color: var(--text);
-	font-size: 24px;
+	font-size: var(--font-size);
 	font-weight: 300;
 	list-style: disc;
 	padding-inline-start: 2em;
 }
+
 ul li {
 	line-height: 2;
 	margin: .5em 0;
 }
+
 @media only screen and (max-width: 620px) {
 	#linx {
 		flex-direction: column;
 	}
 }
+
 @media only screen and (max-width: 480px) {
 	p {
 		text-align: left;
 		text-indent: 0;
 	}
+
 	ul {
 		padding-inline-start: 1em;
 	}
