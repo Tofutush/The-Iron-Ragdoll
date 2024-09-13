@@ -11,16 +11,8 @@ eleventyComputed:
   desc: "{{ ch.desc }}"
 ---
 
-
-{% if ch.darkcolor %}
-	<style>
-	.attr > div > div:first-child, .prev-next a, .desc h1, .desc h2, .desc h3, .desc a {
-		text-shadow: 1px 1px 2px #fff, -1px -1px 2px #fff, 1px -1px 2px #fff, -1px 1px 2px #fff;
-	}
-	</style>
-{% endif %}
 <a id="back" href="../"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m15 18-6-6 6-6"/></svg> Back</a>
-<div class="desc" style="--c: {{ ch.color }};">
+<div class="desc {% if ch.darkcolor %}darkcolor{% endif %}" style="--c: {{ ch.color }};">
 	<div class="left-side">
 		<div class="title">
 			{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}

@@ -1,17 +1,20 @@
 body {
 	overflow: -moz-scrollbars-none;
 }
+
 .chs {
 	display: grid;
 	gap: 2em;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 	user-select: none;
 }
-.chs > div {
+
+.chs>div {
 	align-items: center;
 	display: flex;
 	flex-direction: column;
 }
+
 .ch {
 	align-items: center;
 	background-color: var(--box);
@@ -22,23 +25,32 @@ body {
 	margin: auto;
 	width: 120px;
 }
+
+body.light .ch {
+	background-color: #0000;
+}
+
 .ch img {
 	height: 120px;
 	width: 120px;
 }
-.chs > div > a {
+
+.chs>div>a {
 	margin: 1rem 0;
 }
+
 @media only screen and (max-width: 780px) {
 	.chs {
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 	}
 }
+
 @media only screen and (max-width: 670px) {
 	.chs {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
 }
+
 @media only screen and (max-width: 480px) {
 	.chs {
 		grid-template-columns: 1fr 1fr;
