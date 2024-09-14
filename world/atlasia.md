@@ -1,6 +1,10 @@
 ---
 layout: layout.liquid
 title: Atlasia
+eleventyNavigation:
+  key: Atlasia
+  parent: World
+  order: 3
 ---
 
 # Atlasia

@@ -70,9 +70,9 @@ body.dark .desc.darkcolor .desc a {
 .title img {
 	background-color: var(--box);
 	border-radius: 16px;
-	height: 160px;
+	height: 200px;
 	user-select: none;
-	width: 160px;
+	width: 200px;
 }
 
 body.light .title img {

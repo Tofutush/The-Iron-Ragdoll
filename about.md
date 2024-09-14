@@ -2,6 +2,10 @@
 layout: layout.liquid
 title: About
 desc: About The Iron Ragdoll.
+eleventyNavigation:
+  key: About
+  parent: Root
+  order: 1
 ---
 
 *Apparently, seeing the literal ghost of the victim doesn't make solving the murder any easier.*

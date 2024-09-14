@@ -1,12 +1,10 @@
 ---
 layout: layout.liquid
 title: sitemap
+eleventyNavigation:
+  key: sitemap
+  parent: Root
+  order: 1000
 ---
 
-<ul>
-    {% for item in collections.all %}
-        {% unless item.data.ignore %}
-            <li><a href="{{ item.url }}">{{ item.url }}</a></li>
-        {% endunless %}
-    {% endfor %}
-</ul>
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml }}
