@@ -19,6 +19,7 @@
 }
 ---
 
+<link rel="stylesheet" href="/css/characters.css"/>
 {% comment %} <a id="back" href="../"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><path d="m15 18-6-6 6-6"/></svg> Back</a> {% endcomment %}
 <div class="desc {% if ch.darkcolor %}darkcolor{% endif %}" style="--c: {{ ch.color }};">
 	<div class="left-side">
@@ -67,9 +68,10 @@
 			<h2 id="bio">Biography</h2>
 			{% assign firstFourLetters = ch.bio | slice: 0, 4 %}
 			{% if firstFourLetters == 'file' %}
-				{% assign fileName = ch.abbr | append: " bio.md" %}
+				{% comment %} {% assign fileName = ch.abbr | append: " bio.md" %}
 				{% assign filePath = './characters/files/' | append: fileName %}
-				{% renderFile filePath %}
+				{% renderFile filePath %} {% endcomment %}
+				<p><a href="biography/">Read more!</a></p>
 			{% else %}
 				{{ ch.bio | renderMD }}
 			{% endif %}

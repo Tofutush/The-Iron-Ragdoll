@@ -25,9 +25,6 @@ navOptions:
 	{% if page.url == '/characters/' %}
 		<link rel="stylesheet" href="/css/characterspage.css"/>
 	{% endif %}
-	{% if page.url contains '/characters/' and page.url != '/characters/' %}
-		<link rel="stylesheet" href="/css/characters.css"/>
-	{% endif %}
 	{% if page.url contains '/gallery/' or page.url contains '/characters/' %}
 		<link rel="stylesheet" href="/css/gallery.css"/>
 	{% endif %}
@@ -89,7 +86,11 @@ navOptions:
 </div>
 <div id="main-content">
 	{% unless page.url contains '/page-' or page.url == '/' %}
-		{% assign bc = collections.all | eleventyNavigationBreadcrumb: title, navOptions %}
+		{% if navTitle %}
+			{% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
+		{% else %}
+			{% assign bc = collections.all | eleventyNavigationBreadcrumb: title, navOptions %}
+		{% endif %}
 		{% assign length = bc | size %}
 		{% if length > 2 %}
 			<div class="breadcrumbs">
