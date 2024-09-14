@@ -22,8 +22,8 @@
 
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="img">
-  {% assign bruhhh = pagination.items[0].pagenum | getimgurl | append: '.png' %}
-  {% image "comics/" bruhhh 1000 "" %}
+	{% assign bruhhh = pagination.items[0].pagenum | getimgurl | append: '.png' %}
+	{% image "comics/" bruhhh 1000 "" %}
 </div>
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="save">
@@ -31,7 +31,7 @@
 	<a>Load place</a>
 </div>
 {% if pagination.items[0].note %}
-  <div id="note" class="graybox">{{ pagination.items[0].note }}</div>
+	<div id="note" class="graybox">{{ pagination.items[0].note }}</div>
 {% endif %}
 <script>
 // save

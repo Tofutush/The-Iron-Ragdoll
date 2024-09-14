@@ -20,7 +20,7 @@ class Collapsible {
 	click() {
 		this.div.addEventListener('click', e => {
 			this.div.classList.toggle('collapsible-active');
-			if(this.content.style.maxHeight) {
+			if (this.content.style.maxHeight) {
 				this.content.style.maxHeight = null;
 			} else {
 				this.content.style.maxHeight = this.content.scrollHeight + 'px';
@@ -28,10 +28,10 @@ class Collapsible {
 		})
 	}
 }
-(function() {
+(function () {
 	let collapsible = document.getElementsByClassName('collapsible');
 	let list = [];
-	for(let z = 0; z < collapsible.length; z++) {
+	for (let z = 0; z < collapsible.length; z++) {
 		let content = document.querySelector(collapsible[z].getAttribute('target'));
 		console.log(collapsible[z].getAttribute('target'));
 		console.log(content);
