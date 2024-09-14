@@ -1,6 +1,6 @@
-(function() {
+(function () {
 	let divs = document.getElementById('gallery').children;
-	for(let z = 0; z < divs.length; z++) {
+	for (let z = 0; z < divs.length; z++) {
 		let img = divs[z].querySelector('img');
 		img.addEventListener('click', e => {
 			console.log('clicked');
