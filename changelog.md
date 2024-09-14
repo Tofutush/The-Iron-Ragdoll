@@ -14,6 +14,8 @@ eleventyNavigation:
 - Added breadcrumbs!
 - Added `tephra walk.gif` and `sparky dragonfly.png`.
   - I haven't figured out a way to put gifs on here yet sorry.
+- Added dates to all the images
+  - I just went through the gallery folder and copied the last modified dates of the files over.
 
 ## 2024/09/13
 
