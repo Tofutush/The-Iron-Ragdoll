@@ -3,10 +3,10 @@
 	display: flex;
 	gap: 2em;
 	justify-content: space-between;
+	line-height: 2;
 }
 
 .chapter a {
-	color: #0cf;
 	font-size: 32px;
 	font-weight: normal;
 	margin: 0;
