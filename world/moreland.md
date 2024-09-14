@@ -1,6 +1,10 @@
 ---
 layout: layout.liquid
 title: Moreland
+eleventyNavigation:
+  key: Moreland
+  parent: World
+  order: 4
 ---
 
 # Moreland

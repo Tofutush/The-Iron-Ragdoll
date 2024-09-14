@@ -14,7 +14,12 @@ a[href*="moreland/"] {
 	color: #169986;
 }
 
-a[href*="sylvandia/"] {
+a[href*="sylvandia/"],
+a[href*="solarine/"],
+a[href*="lunarale/"],
+a[href*="mistle/"],
+a[href*="holliloli/"],
+a[href*="snowdale/"] {
 	color: #217DE6;
 }
 

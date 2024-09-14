@@ -1,6 +1,10 @@
 ---
 layout: layout.liquid
 title: Fanton
+eleventyNavigation:
+  key: Fanton
+  parent: World
+  order: 2
 ---
 
 # Fanton

@@ -1,6 +1,10 @@
 ---
 layout: layout.liquid
 title: Bauhinia
+eleventyNavigation:
+  key: Bauhinia
+  parent: World
+  order: 1
 ---
 
 # Bauhinia

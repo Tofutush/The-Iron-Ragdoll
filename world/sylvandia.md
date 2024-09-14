@@ -1,6 +1,10 @@
 ---
 layout: layout.liquid
 title: Sylvandia
+eleventyNavigation:
+  key: Sylvandia
+  parent: World
+  order: 5
 ---
 
 # Sylvandia

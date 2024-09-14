@@ -1,9 +1,17 @@
 ---
 layout: layout.liquid
 title: Changelog
+eleventyNavigation:
+  key: Changelog
+  parent: Root
+  order: 999
 ---
 
 # Changelog
+
+## 2024/09/14
+
+- Added breadcrumbs!
 
 ## 2024/09/13
 

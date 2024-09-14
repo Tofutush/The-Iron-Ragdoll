@@ -248,6 +248,24 @@ body.dark #header {
 	user-select: none;
 }
 
+.breadcrumbs {
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	font-size: var(--font-size);
+	margin: 2rem 0;
+}
+
+.breadcrumbs span {
+	height: 24px;
+	margin: 0 .3em;
+	user-select: none;
+}
+
+.breadcrumbs a {
+	color: var(--text);
+}
+
 ul {
 	color: var(--text);
 	font-size: var(--font-size);
