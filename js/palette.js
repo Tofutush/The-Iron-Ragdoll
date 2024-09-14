@@ -30,7 +30,7 @@ class Palette {
 		this.replaceString();
 	}
 	calcTextColor() {
-		for(let z = 0; z < this.colors.length; z++) {
+		for (let z = 0; z < this.colors.length; z++) {
 			let rgbStr = this.colors[z].style.backgroundColor;
 			let rgbArr = this.getRgbArray(rgbStr);
 			let brightness = this.getBrightness(rgbArr);
@@ -39,10 +39,10 @@ class Palette {
 		}
 	}
 	replaceString() {
-		for(let z = 0; z < this.colors.length; z++) {
+		for (let z = 0; z < this.colors.length; z++) {
 			let str = this.colors[z].children[0].children[0];
 			let hex = str.innerText;
-			if(hex.length < 6) {
+			if (hex.length < 6) {
 				hex = this.hexTo6Digit(hex);
 				str.innerText = hex;
 			}
@@ -55,13 +55,13 @@ class Palette {
 		return Math.round(((parseInt(color[0]) * 299) + (parseInt(color[1]) * 587) + (parseInt(color[2]) * 114)) / 1000)
 	}
 	hexTo6Digit(hex) {
-		if(hex[0] == '#') hex = hex.substring(1);
+		if (hex[0] == '#') hex = hex.substring(1);
 		return '#' + hex[0] + hex[0] + hex[1] + hex[1] + hex[2] + hex[2];
 	}
 }
-(function() {
+(function () {
 	let palette = document.querySelector('.palette');
-	if(palette) {
+	if (palette) {
 		p = new Palette(palette);
 	}
 })();

@@ -28,6 +28,7 @@ body {
 
 body.light .ch {
 	background-color: #0000;
+	border: 4px solid var(--box);
 }
 
 .ch img {
