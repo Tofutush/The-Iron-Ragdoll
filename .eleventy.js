@@ -3,7 +3,7 @@ const Image = require('@11ty/eleventy-img');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const MarkdownIt = require('markdown-it');
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -15,51 +15,51 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('icon.ico');
 	eleventyConfig.addPassthroughCopy('Lexend.ttf');
 	// filters
-	eleventyConfig.addFilter('lowerCase', function(s) {
+	eleventyConfig.addFilter('lowerCase', function (s) {
 		return s.toLowerCase();
 	});
-	eleventyConfig.addFilter('upperCase', function(s) {
+	eleventyConfig.addFilter('upperCase', function (s) {
 		return s.toUpperCase();
 	});
-	eleventyConfig.addFilter('capitalize', function(s) {
+	eleventyConfig.addFilter('capitalize', function (s) {
 		return s[0].toUpperCase() + s.slice(1);
 	});
-	eleventyConfig.addFilter('getimgurl', function(num) {
+	eleventyConfig.addFilter('getimgurl', function (num) {
 		num = parseInt(num);
 		return String(Math.floor(num / 100) + '/' + num)
 	});
-	eleventyConfig.addFilter('getChByName', function(arr, name) {
+	eleventyConfig.addFilter('getChByName', function (arr, name) {
 		return arr.find(ch => ch.name == name);
 	});
-	eleventyConfig.addFilter('filterGallery', function(arr, f) {
+	eleventyConfig.addFilter('filterGallery', function (arr, f) {
 		return arr.filter(a => {
-			if(a.ch) return a.ch.includes(f.toLowerCase())
+			if (a.ch) return a.ch.includes(f.toLowerCase())
 		});
 	});
-	eleventyConfig.addFilter('getChByCat', function(arr, cat) {
+	eleventyConfig.addFilter('getChByCat', function (arr, cat) {
 		return arr.filter(c => c.cat == cat);
 	});
-	eleventyConfig.addFilter('getChColor', function(arr, name) {
+	eleventyConfig.addFilter('getChColor', function (arr, name) {
 		let ch = arr.filter(c => c.name.toLowerCase() == name.toLowerCase());
-		if(ch.length) return ch[0].color;
+		if (ch.length) return ch[0].color;
 		return `Character ${name} not found!`;
 	});
-	eleventyConfig.addFilter('filterRelations', function(arr, f) {
+	eleventyConfig.addFilter('filterRelations', function (arr, f) {
 		return arr.filter(a => a.ch.includes(f.toLowerCase()));
 	});
-	eleventyConfig.addFilter('getOtherCh', function(rel, ch) {
+	eleventyConfig.addFilter('getOtherCh', function (rel, ch) {
 		return rel.ch.filter(a => a != ch.toLowerCase()).join();
 	})
-	eleventyConfig.addFilter('renderMD', function(rawString) {
+	eleventyConfig.addFilter('renderMD', function (rawString) {
 		return mdRender.render(rawString);
 	});
-	eleventyConfig.addFilter('slice', function(str, s, e) {
+	eleventyConfig.addFilter('slice', function (str, s, e) {
 		return str.slice(s, e ? e : str.length);
 	});
 	// shortcodes
-	eleventyConfig.addShortcode('arrows', function(f, p, n, l, num) {
+	eleventyConfig.addShortcode('arrows', function (f, p, n, l, num) {
 		let dot;
-		if(this.page.url == '/') dot = '';
+		if (this.page.url == '/') dot = '';
 		else dot = '..';
 		return `
 			<div class="options">
@@ -72,7 +72,7 @@ module.exports = function(eleventyConfig) {
 		`;
 	});
 	eleventyConfig.addShortcode('image', async function (path, name, size, alt) {
-		try { 
+		try {
 			let metadata = await Image('img/' + path + name, {
 				widths: [size],
 				formats: ['webp'],
@@ -85,7 +85,7 @@ module.exports = function(eleventyConfig) {
 				decoding: "async",
 			};
 			return Image.generateHTML(metadata, imageAttributes);
-		} catch(e) {
+		} catch (e) {
 			return '<p>TBA!</p>';
 		}
 	});
@@ -103,7 +103,7 @@ module.exports = function(eleventyConfig) {
 				decoding: "async",
 			};
 			return Image.generateHTML(metadata, imageAttributes);
-		} catch(e) {
+		} catch (e) {
 			return '<p>TBA!</p>';
 		}
 	});

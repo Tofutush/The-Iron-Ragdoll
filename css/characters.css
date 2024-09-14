@@ -19,6 +19,12 @@
 	position: relative;
 }
 
+h1,
+h2,
+h3 {
+	color: var(--c);
+}
+
 body.dark .desc.darkcolor .attr>div>div:first-child,
 body.dark .desc.darkcolor .prev-next a,
 body.dark .desc.darkcolor .desc h1,
