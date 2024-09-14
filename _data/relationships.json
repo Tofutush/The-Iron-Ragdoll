@@ -1,37 +1,37 @@
 [
     {
-        "ch":[
+        "ch": [
             "sparky",
             "amber"
         ],
-        "desc":"Sparky is Amber's daughter. Sparky loves her almost obsessively. Amber seems to me more focused on [Willow](../willow/), however."
+        "desc": "Sparky is Amber's daughter. Sparky loves her almost obsessively. Amber seems to me more focused on [Willow](../willow/), however."
     },
     {
-        "ch":[
+        "ch": [
             "sparky",
             "peacock"
         ],
-        "desc":"Peacock is Sparky's step-father ~~and reincarnation~~. Sparky hates him because he didn't match up to the perfect father (Jackal) in her mind.\n\nPeacock, on the other hand, was deep in conflict as he both hated who he was in the past, but also desparately wanted to *be* who he was in the past."
+        "desc": "Peacock is Sparky's step-father ~~and reincarnation~~. Sparky hates him because he didn't match up to the perfect father (Jackal) in her mind.\n\nPeacock, on the other hand, was deep in conflict as he both hated who he was in the past, but also desparately wanted to *be* who he was in the past."
     },
     {
-        "ch":[
+        "ch": [
             "sparky",
             "willow"
         ],
-        "desc":"Willow is Sparky's half-sister, with the same mother ([Amber](../amber/)) but different fathers. Willow was the one who understood Sparky the most, because of her mind-reading."
+        "desc": "Willow is Sparky's half-sister, with the same mother ([Amber](../amber/)) but different fathers. Willow was the one who understood Sparky the most, because of her mind-reading."
     },
     {
-        "ch":[
+        "ch": [
             "sparky",
             "ironheart"
         ],
-        "desc":"Sparky and Ironheart are locked in an eternal childish sibling rivalry despite not meeting each other for very long and growing into adults."
+        "desc": "Sparky and Ironheart are locked in an eternal childish sibling rivalry despite not meeting each other for very long and growing into adults."
     },
     {
-        "ch":[
+        "ch": [
             "jerboa",
             "tephra"
         ],
-        "desc":"Jerboa is Tephra's little pet. He does everything Tephra tells him to do."
+        "desc": "Jerboa is Tephra's little pet. He does everything Tephra tells him to do."
     }
 ]

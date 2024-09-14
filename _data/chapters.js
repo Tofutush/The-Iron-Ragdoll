@@ -1,4 +1,4 @@
-module.exports = function() {
+module.exports = function () {
 	let episodes = [
 		{
 			num: 0,
@@ -14,7 +14,7 @@ module.exports = function() {
 		}
 	];
 	let count = 1;
-	for(let z = 0; z < episodes.length; z++) {
+	for (let z = 0; z < episodes.length; z++) {
 		episodes[z].title = `Chapter ${episodes[z].num}: ${episodes[z].name}`;
 		episodes[z].pagenum = count;
 		count += episodes[z].pages + 1;
