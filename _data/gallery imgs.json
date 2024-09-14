@@ -970,5 +970,17 @@
         ],
         "scope":"full-body",
         "style":"normal"
+    },
+    {
+        "name":"sparky dragonfly",
+        "type":"png",
+        "ch":[
+            "sparky",
+            "dragonfly"
+        ],
+        "scope":"full-body",
+        "style":"normal",
+        "date":"2024-09-14",
+        "comment":"Drew this at like 1 a.m.. I was not well."
     }
 ]

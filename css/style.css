@@ -248,6 +248,13 @@ body.dark #header {
 	user-select: none;
 }
 
+code {
+	background-color: var(--box);
+	border-radius: 6px;
+	font-family: Consolas;
+	padding: 3px 8px;
+}
+
 .breadcrumbs {
 	align-items: center;
 	display: flex;

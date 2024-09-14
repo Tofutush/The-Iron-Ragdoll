@@ -12,6 +12,8 @@ eleventyNavigation:
 ## 2024/09/14
 
 - Added breadcrumbs!
+- Added `tephra walk.gif` and `sparky dragonfly.png`.
+  - I haven't figured out a way to put gifs on here yet sorry.
 
 ## 2024/09/13
 
