@@ -10,6 +10,8 @@ eleventyNavigation:
 
 # Sparky's Bio
 
+(LOL this is basically a summary of the entire comic.)
+
 ## Early Life
 
 Sparky was born in Coastline in 2017 to [Amber](../amber/) and Jackal. Because of her superstrength, Jackal made her work on the construction site with him.
@@ -20,7 +22,7 @@ When she was 4, Jackal died in a workplace accident. Her mom was struggling to s
 
 In Hillslope, she was dragged into solving two mysteries -- Amulet's murder and [Starry](../starry/)'s assault. She ended up digging up Starcorp's meth lab inside Hillslope.
 
-Meanwhile, she learned and mastered Fire-style martial arts from [Dragonfly](../dragonfly/).
+Meanwhile, she learned and mastered some sort of wild martial arts from [Dragonfly](../dragonfly/).
 
 ## Coastline Middle School
 

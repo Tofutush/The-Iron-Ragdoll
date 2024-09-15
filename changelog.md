@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024/09/15
+
+- Added some character information.
+- Added [MSS](/world/bauhinia/mss/).
+
 ## 2024/09/14
 
 - Added breadcrumbs!
