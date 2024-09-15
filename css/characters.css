@@ -202,7 +202,7 @@ h3 {
 }
 
 .prev-next svg {
-	stroke: var(--c);
+	stroke: var(--text);
 }
 
 @media only screen and (max-width: 780px) {
