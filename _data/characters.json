@@ -19,6 +19,7 @@
       "Weapon": "M1911 pistol",
       "Power": "Superstrength lv. 800"
     },
+    "about":"Sparky is a cheerful girl who once stood for something. She hides her trauma behind bright smiles and is almost uncapable of taking anything seriously. Usually she looks happy to other people, but she can turn agressive at the drop of a pin. She is currently the bodyguard of [Animus](../animus/).",
     "bio": "file",
     "palette": {
       "hair": "#2e2e2e",
@@ -33,6 +34,7 @@
     "abbr": "rb",
     "color": "#e368d3",
     "desc": "Owner of the bakery!",
+    "about":"Ribbon is a cute girl who loves baking and taught [Sparky](../sparky/) to cook. Though she isn't taking care of her for nothing!\n\nShe has a huge crush on [Starry](../starry/) and is determined to not only find out who attacked him, but also make the assiliant regret what they did for the rest of their life.\n\nAlso she's a murderer herself.",
     "attr": {
       "Nickname": "Rib (by Tundra)",
       "Gender": "Female",
@@ -59,8 +61,9 @@
       "Nationality": "Bauhinian",
       "Occupation": "Journalist",
       "Weapon": "Throwing stars",
-      "Power": "Lie detection, unregistered"
+      "Power": "Mind reading, unregistered"
     },
+    "about":"Cosmo has the mind-reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
     "palette": {
       "middle eye": "#fe0",
       "left eye": "#DCBBF0",
@@ -256,7 +259,7 @@
       "Nationality": "Bauhinian",
       "Orientation": "Asexual",
       "Weapon": "Wand",
-      "Power": "Telekinesis lv. 10"
+      "Power": "Magic lv. 10"
     },
     "palette": {
       "wand": "#B025B0",
@@ -403,7 +406,7 @@
     "attr": {
       "Gender": "Female",
       "Nationality": "Bauhinian",
-      "Power": "Mind reading lv. 24"
+      "Power": "Mind reading lv. 150"
     },
     "palette": {
       "shirt": "#84C776",
@@ -450,7 +453,9 @@
     "name": "Goose",
     "namezh": "白鹅",
     "abbr": "gs",
+    "desc":"Bandwagon girl.",
     "color": "#D54269",
+    "about":"Goose is *just* like other girls. She likes everything other girls like. She does everything other girls do. She listens to whatever music is most popular at the moment. She watches whatever show is most popular at the moment. She got into the college everyone wants to go into. She got the job everyone wants to get.\n\nGoose is just happy to spend her life on the bandwagon.\n\n---\n\nGoose is an officer at the [Ministry of State Security](/world/bauhinia/mss). She likes juggling her baton and giving vague threats about sending people to a possible Ministry of Love.",
     "attr": {
       "Gender": "Female",
       "Nationality": "Bauhinian",
@@ -476,6 +481,7 @@
       "Occupation": "State security officer",
       "Weapon": "Baton"
     },
+    "about":"Pumpkin's great-grandparents immigrated to [Bauhinia](/world/bauhinia/) from a country I haven't thought of.",
     "palette": {
       "shoulder pads": "#f01ace",
       "boots": "#8c1078",
@@ -493,8 +499,10 @@
       "Gender": "Male",
       "Nationality": "Bauhinian",
       "Occupation": "State security officer",
-      "Weapon": "Baton"
+      "Weapon": "Baton",
+      "Power":"Magic lv. undisclosed"
     },
+    "about":"Halcyon was born with strong magic, so he was required by the [Bauhinian](/world/bauhinia/) government to store it in a government-issued card. He could only use it under strict supervision.\n\nHalcyon wrote his Bachelor's thesis on magical teleportation.\n\nAlso, Halcyon is a [Morelandian](/world/moreland/) spy working for the [MSS](/world/bauhinia/mss/).",
     "palette": {
       "shoulder pads": "#f01ace",
       "boots": "#8c1078",
@@ -515,6 +523,7 @@
       "Occupation": "State security officer",
       "Weapon": "Baton"
     },
+    "about":"Paperweight is a grouchy old guy who hates young people (especially [Pumpkin](../pumpkin/)) and fun. He works at the [Ministry of State Security](/world/bauhinia/mss/) but is going to retire soon.",
     "bio": "Paperweight was born in the countryside in northern Bauhinia. His parents died when he was really little, and he was often bullied in the orphanage, so one night he stole a bag of buns and a bag of water, and ran all the way to the Mountain Temple, half begging and half stealing along the way after the buns ran out.\n\nAt the Mountain Temple, the master accepted him out of sympathy. He learned and mastered Wood-style martial arts. When he grew up, his master secured him a job at the Ministry of State Security, where he'd been working ever since.",
     "palette": {
       "shoulder pads": "#f01ace",
@@ -628,7 +637,7 @@
     "attr": {
       "Gender": "Female (cis)",
       "Full name": "Elegance Cherry Hyrax",
-      "Power": "Time precision lv. 57"
+      "Power": "Time precision lv. 260"
     },
     "palette": {
       "shirt": "#5e5e5e",
