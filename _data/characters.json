@@ -670,7 +670,7 @@
     "name": "Jaculus",
     "namezh": "跃鼠",
     "abbr": "jc",
-    "desc": "<a href=\"../jerboa/\">Jerboa</a>'s big sister.",
+    "desc": "[Jerboa](../jerboa/)'s big sister.",
     "color": "#008bc7",
     "attr": {
       "Gender": "Female (cis)",
@@ -686,7 +686,7 @@
     "name": "Koala",
     "namezh": "树袋",
     "abbr": "kl",
-    "desc": "<a href=\"../jerboa/\">Jerboa</a>'s mother, lead scientist of Project Boomerang.",
+    "desc": "[Jerboa](../jerboa/)'s mother, lead scientist of Project Boomerang.",
     "color": "#7F8587",
     "attr": {
       "Gender": "Female (cis)",
@@ -704,7 +704,7 @@
     "name": "Kangaroo",
     "namezh": "袋鼠",
     "abbr": "kg",
-    "desc": "<a href=\"../jerboa/\">Jerboa</a>'s father, co-lead scientist of Project Boomerang.",
+    "desc": "[Jerboa](../jerboa/)'s father, co-lead scientist of Project Boomerang.",
     "color": "#A36D1F",
     "attr": {
       "Gender": "Male (cis)",

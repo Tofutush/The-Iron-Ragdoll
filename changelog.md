@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024/09/16
+
+- Fixed a wee problem in [Jaculus](/characters/jaculus/), [Koala](/characters/koala/) and [Kangaroo](/characters/kangaroo/).
+
 ## 2024/09/15
 
 - Added some character information.
