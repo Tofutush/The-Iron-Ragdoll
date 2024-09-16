@@ -30,7 +30,7 @@
 				<h1 id="name">{{ ch.name }}</h1>
 				{% if ch.namezh %}<h1 id="name-zh">{{ ch.namezh }}</h1>{% endif %}
 				{% if ch.desc %}
-					<p>{{ ch.desc }}</p>
+					{{ ch.desc | renderMD }}
 				{% endif %}
 			</div>
 		</div>
