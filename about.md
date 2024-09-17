@@ -24,6 +24,12 @@ The comic and the contents of this site will contain profanity and cartoon viole
 
 This will be the only content warning site-wide. Viewer discretion is advised.
 
+# What is mine and what isn't
+
+Most content on this site is made by myself. What isn't: I use 11ty as a site-generator. Some code is inspired by StackOverflow and Grepper answers. The hosting is provided by either Github Pages or Neocities, depending on where you are.
+
+All stories, characters, and artwork on this site are created by myself. Art by others can be found on [my Toyhouse](https://toyhou.se/Tofutush).
+
 # Let me tell you about Homestuck.
 
 *The Iron Ragdoll* is heavily inspired by the webcomic [Homestuck](https://www.homestuck.com) by Andrew Hussie, because I love that comic. You should read it too! ... Or not. Nope nope definitely not. The impact Homestuck has on a person lasts for a lifetime, whether you like it or not.
