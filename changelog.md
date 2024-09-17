@@ -9,6 +9,15 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024/09/17
+
+- Added world pages
+	- [Coastline](/world/bauhinia/coastline/)
+		- [Coastline Middle School](/world/bauhinia/coastline/cms/)
+		- [The Safe house](/world/bauhinia/coastline/safe%20house/)
+	- [Flower City](/world/bauhinia/flower%20city/)
+		- [University of Flower City](/world/bauhinia/flower%20city/ufc/)
+
 ## 2024/09/16
 
 - Fixed a wee problem in [Jaculus](/characters/jaculus/), [Koala](/characters/koala/) and [Kangaroo](/characters/kangaroo/).

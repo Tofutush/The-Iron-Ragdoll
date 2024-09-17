@@ -20,3 +20,8 @@ Apparently kids can own guns in Bauhinia. I mean, [Sparky](/characters/sparky/) 
 Bauhinia used to be a huge empire spanning across almost the entire continent. That was why everyone spoke the same language, totally not because I'm too lazy. But then the empire declined, other countries were getting independent, and Bauhinia itself had a republican revolution. Its territory is reduced to the south.
 
 The most similar real-life parallel to Bauhinia geographically is southern China.
+
+## Cities
+
+- [Flower City](/world/bauhinia/flower%20city/)
+- [Coastline](/world/bauhinia/coastline/)
