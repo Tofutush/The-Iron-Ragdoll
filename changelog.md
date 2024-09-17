@@ -12,6 +12,8 @@ eleventyNavigation:
 ## 2024/09/16
 
 - Fixed a wee problem in [Jaculus](/characters/jaculus/), [Koala](/characters/koala/) and [Kangaroo](/characters/kangaroo/).
+- Added `goose hat.gif`.
+- Added trivia and inspiration section for characters.
 
 ## 2024/09/15
 
