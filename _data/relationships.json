@@ -4,28 +4,35 @@
             "sparky",
             "amber"
         ],
-        "desc": "Sparky is Amber's daughter. Sparky loves her almost obsessively. Amber seems to me more focused on [Willow](../willow/), however."
+        "desc": "Sparky is Amber's daughter. Sparky loves her almost obsessively. Amber seems to be more focused on [Willow](../willow/), however."
     },
     {
         "ch": [
             "sparky",
             "peacock"
         ],
-        "desc": "Peacock is Sparky's step-father ~~and reincarnation~~. Sparky hates him because he didn't match up to the perfect father (Jackal) in her mind.\n\nPeacock, on the other hand, was deep in conflict as he both hated who he was in the past, but also desparately wanted to *be* who he was in the past."
+        "desc": "Peacock is Sparky's step-father ~~and reincarnation~~. Sparky hates him because he didn't match up to the perfect father (Jackal) in her mind.\n\nPeacock, on the other hand, is deep in conflict as he both hates who he was in the past, but also desparately wants to *be* who he was in the past."
     },
     {
         "ch": [
             "sparky",
             "willow"
         ],
-        "desc": "Willow is Sparky's half-sister, with the same mother ([Amber](../amber/)) but different fathers. Willow was the one who understood Sparky the most, because of her mind-reading."
+        "desc": "Willow is Sparky's half-sister, with the same mother ([Amber](../amber/)) but different fathers. Willow is the one who understands Sparky the most, because of her mind-reading."
     },
     {
         "ch": [
             "sparky",
             "ironheart"
         ],
-        "desc": "Sparky and Ironheart are locked in an eternal childish sibling rivalry despite not meeting each other for very long and growing into adults."
+        "desc": "Ironheart is Sparky's step-brother. Sparky and Ironheart are locked in an eternal childish sibling rivalry despite not meeting each other for very long and growing into adults."
+    },
+    {
+        "ch": [
+            "sparky",
+            "nightsun"
+        ],
+        "desc": "Sparky is Nightsun's wife.\n\nThey're both bisexual and deep in the closet. They both know the other is bisexual. They're both trying all sorts of gimmicks to make the other come out.\n\nNightsun is an agent sent to get close to Sparky in order to get information on [Animus](../animus/). (No, I don't know who sent him, gimme some time.) Sparky knows this. He knows she knows. She knows he know she knows. They both pretend to not know anything."
     },
     {
         "ch": [
