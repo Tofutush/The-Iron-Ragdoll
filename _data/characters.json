@@ -21,6 +21,13 @@
     },
     "about":"Sparky is a cheerful girl who once stood for something. She hides her trauma behind bright smiles and is almost uncapable of taking anything seriously. Usually she looks happy to other people, but she can turn agressive at the drop of a pin. She is currently the bodyguard of [Animus](../animus/).",
     "bio": "file",
+    "trivia":[
+      "She twiddles her whisker-like hair when lying."
+    ],
+    "insp":[
+      "Homestuck indigobloods",
+      "Diesel from <i>Warriors: Graystripe's Adventure</i> (Pretty out-of-the-blue but yes, it is definitely an inspiration)"
+    ],
     "palette": {
       "hair": "#2e2e2e",
       "shirt": "#000"
@@ -43,6 +50,10 @@
       "Orientation": "Heterosexual",
       "Weapon": "Frying pan"
     },
+    "insp":[
+      "Homestuck bronzebloods",
+      "红太狼"
+    ],
     "palette": {
       "apron folds": "#787878",
       "hair": "#2e2e2e"
@@ -71,6 +82,9 @@
       "shirt": "#B2B8E3",
       "hair": "#2e2e2e"
     },
+    "insp":[
+      "Homestuck ceruleanbloods"
+    ],
     "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
   },
   {
@@ -87,6 +101,9 @@
       "Nationality": "Bauhinian",
       "Weapon": "Wrench"
     },
+    "insp":[
+      "Homestuck rustbloods"
+    ],
     "palette": {
       "shirt": "#575757",
       "hair": "#2e2e2e"
@@ -123,6 +140,9 @@
       "Occupation": "Secret police officer",
       "Weapon": "Walther P38 pistol"
     },
+    "insp":[
+      "Homestuck tealbloods"
+    ],
     "palette": {
       "belt and holster": "#AE7500",
       "buckle": "#7D4500",
@@ -148,7 +168,10 @@
       "Nationality": "Bauhinian",
       "Occupation": "Private detective",
       "Weapon": "Dagger"
-    }
+    },
+    "insp":[
+      "Homestuck olivebloods"
+    ]
   },
   {
     "cat": "Hillslope",
@@ -170,7 +193,10 @@
       "Gender": "Male",
       "Nationality": "Bauhinian",
       "Occupation": "Bartender, chemist, undertaker, and chemist again"
-    }
+    },
+    "insp":[
+      "Jerboas (obviously)"
+    ]
   },
   {
     "cat": "Hillslope",
@@ -190,7 +216,10 @@
       "Nationality": "Bauhinian",
       "Weapon": "None, unless joints count",
       "Power": "Immortality"
-    }
+    },
+    "insp":[
+      "Homestuck purplebloods"
+    ]
   },
   {
     "cat": "Hillslope",
@@ -226,7 +255,10 @@
     "palette": {
       "glasses": "#666",
       "hair": "#2E2E2E"
-    }
+    },
+    "insp":[
+      "Homestuck jadebloods"
+    ]
   },
   {
     "cat": "Hillslope",
@@ -266,7 +298,10 @@
       "shirt": "#4A70D7",
       "glasses": "#9e9e9e",
       "hair": "#2E2E2E"
-    }
+    },
+    "insp":[
+      "Qibli from <i>Wings of Fire</i> for the name"
+    ]
   },
   {
     "cat": "Coastline Middle School",
@@ -436,7 +471,7 @@
       "sword blade": "#adadad",
       "suit": "#000"
     },
-    "note": "The highlight on his hair goes up, down, and then up."
+    "note": "- The highlight on his hair goes up, down, and then up."
   },
   {
     "cat": "Sparky's Family",
@@ -663,7 +698,10 @@
     "palette": {
       "shirt": "#5e5e5e",
       "hair": "#2E2E2E"
-    }
+    },
+    "insp":[
+      "The animus powers in <i>Wings of Fire</i> that taught me the word"
+    ]
   },
   {
     "cat": "The Bauhinian Archives",
