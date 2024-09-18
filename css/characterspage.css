@@ -19,6 +19,7 @@ body {
 	align-items: center;
 	background-color: var(--box);
 	border-radius: 16px;
+	box-sizing: border-box;
 	display: flex;
 	height: 120px;
 	justify-content: center;

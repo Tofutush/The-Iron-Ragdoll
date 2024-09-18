@@ -14,8 +14,8 @@ body {
 	background-color: var(--bg);
 	background-size: cover;
 	background-position: center;
-	margin: 0;
 	font-family: lexend;
+	margin: 0;
 }
 
 body.dark {
@@ -268,8 +268,69 @@ code {
 	user-select: none;
 }
 
+.breadcrumbs svg {
+	stroke: var(--text);
+}
+
 .breadcrumbs a {
 	color: var(--text);
+}
+
+#theme-toggle-wrap {
+	display: flex;
+	justify-content: center;
+	margin: 2rem;
+}
+
+#theme-toggle {
+	background-color: var(--c);
+	border-radius: 999px;
+	cursor: pointer;
+	height: 36px;
+	padding: 4px;
+	position: relative;
+	transition: all .3s;
+	width: 72px;
+}
+
+#button {
+	align-items: center;
+	background-color: var(--bg);
+	border-radius: 999px;
+	display: flex;
+	height: 36px;
+	justify-content: center;
+	position: relative;
+	transition: all .3s;
+	width: 36px;
+}
+
+body.light #button {
+	left: 0px;
+}
+
+body.dark #button {
+	left: 36px;
+}
+
+#button svg {
+	stroke: var(--text);
+}
+
+body.dark #button svg:first-child {
+	display: none;
+}
+
+body.light #button svg:first-child {
+	display: block;
+}
+
+body.dark #button svg:last-child {
+	display: block;
+}
+
+body.light #button svg:last-child {
+	display: none;
 }
 
 ul {
