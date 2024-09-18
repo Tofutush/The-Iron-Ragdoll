@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2024/09/18
 
 - Added [Peacock's bio](/characters/peacock/biography/).
+- Added light / dark mode toggle. Note that some things may be really hard to read with dark mode.
 
 ## 2024/09/17
 
