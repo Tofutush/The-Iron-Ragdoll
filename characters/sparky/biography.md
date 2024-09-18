@@ -14,25 +14,25 @@ eleventyNavigation:
 
 ## Early Life
 
-Sparky was born in Coastline in 2017 to [Amber](../amber/) and Jackal. Because of her superstrength, Jackal made her work on the construction site with him. She learned to swear from his colleagues.
+Sparky was born in Coastline in 2017 to [Amber](/characters/amber/) and Jackal. Because of her superstrength, Jackal made her work on the construction site with him. She learned to swear from his colleagues.
 
-When she was 4, Jackal died in a workplace accident. And then, when she was 5 (almost 6), she was taken to Hillslope. She thought it was because her mom couldn't afford to take care of her anymore. (Actually, it's because [Peacock](../peacock/)'s parents didn't want her.)
+When she was 4, Jackal died in a workplace accident. And then, when she was 5 (almost 6), she was taken to Hillslope. She thought it was because her mom couldn't afford to take care of her anymore. (Actually, it's because [Peacock](/characters/peacock/)'s parents didn't want her.)
 
 ## Hillslope
 
-In Hillslope, she was dragged into solving two mysteries -- Amulet's murder and [Starry](../starry/)'s assault. She ended up digging up Starcorp's meth lab inside Hillslope.
+In Hillslope, she was dragged into solving two mysteries -- Amulet's murder and [Starry](/characters/starry/)'s assault. She ended up digging up Starcorp's meth lab inside Hillslope.
 
-Meanwhile, she learned and mastered some sort of wild martial arts from [Dragonfly](../dragonfly/).
+Meanwhile, she learned and mastered some sort of wild martial arts from [Dragonfly](/characters/dragonfly/).
 
 ## Coastline Middle School
 
-In 2030, when she was 13, Peacock came and took her back to Coastline, revealing that he was her stepfather, and that he put her in Hillslope because his parents disapproved of him raising a kid that wasn't biological. But now his parents returned to the countryside, so he took her back to live with her new family -- Amber, Peacock, her younger half-sister [Willow](../willow/), and her older step-sister [Fantasy](../fantasy/) who is attending college in Flower City.
+In 2030, when she was 13, Peacock came and took her back to Coastline, revealing that he was her stepfather, and that he put her in Hillslope because his parents disapproved of him raising a kid that wasn't biological. But now his parents returned to the countryside, so he took her back to live with her new family -- Amber, Peacock, her younger half-sister [Willow](/characters/willow/), and her older step-sister [Fantasy](/characters/fantasy/) who is attending college in Flower City.
 
-After getting back to Coastline, Sparky started attending Coastline Middle School as a seventh grader. There, she met some good friends, [Qibli](../qibli/), [Sky](../sky/), and [Firecrackers](../firecrackers/). They would solve some mysteries together, and as they did so, they came closer and closer to a conspiracy at the heart of Starcorp.
+After getting back to Coastline, Sparky started attending Coastline Middle School as a seventh grader. There, she met some good friends, [Qibli](/characters/qibli/), [Sky](/characters/sky/), and [Firecrackers](/characters/firecrackers/). They would solve some mysteries together, and as they did so, they came closer and closer to a conspiracy at the heart of Starcorp.
 
 ## The Pickpocket
 
-There was a pickpocket at school. Sparky and her friends investigated. So did [Myriad](../myriad/).
+There was a pickpocket at school. Sparky and her friends investigated. So did [Myriad](/characters/myriad/).
 
 ## The Nuke in the Basement
 

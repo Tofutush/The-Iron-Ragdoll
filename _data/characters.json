@@ -383,14 +383,16 @@
     "abbr": "pc",
     "color": "#20f",
     "desc": "Creepy old boy who knows everything and more.",
+    "about": "Peacock is [Hyrax](../hyrax/)'s old friend and personal attorney.\n\n~~He is also [Sparky](../sparky/)'s reincarnation.~~",
     "attr": {
       "Gender": "Male (cis)",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
-      "Marital status": "Widowed<br/>(Previously widowed by <a href=\"../rainbow/\">Rainbow</a>, divorced <a href=\"../reindeer/\">Reindeer</a>, and widowed by <a href=\"../amber/\">Amber</a>)",
+      "Marital status": "Widowed<br/>(Previously widowed by Rainbow, divorced Reindeer, and widowed by <a href=\"../amber/\">Amber</a>)",
       "Occupation": "Personal attorney",
       "Power": "Superstrength lv. 800"
     },
+    "bio": "file",
     "palette": {
       "scar outer": "#F6B6AC",
       "scar inner": "#D29D95",

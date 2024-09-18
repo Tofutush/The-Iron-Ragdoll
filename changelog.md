@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024/09/18
+
+- Added [Peacock's bio](/characters/peacock/biography/).
+
 ## 2024/09/17
 
 - Added world pages
