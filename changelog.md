@@ -9,12 +9,17 @@ eleventyNavigation:
 
 # Changelog
 
-## 2024/09/18
+## 2024-09-19
+
+- Made the svg line caps round.
+	- Maybe I should start using the icons instead of copying and pasting svgs?
+
+## 2024-09-18
 
 - Added [Peacock's bio](/characters/peacock/biography/).
 - Added light / dark mode toggle. Note that some things may be really hard to read with dark mode.
 
-## 2024/09/17
+## 2024-09-17
 
 - Added world pages
 	- [Coastline](/world/bauhinia/coastline/)
@@ -23,18 +28,18 @@ eleventyNavigation:
 	- [Flower City](/world/bauhinia/flower%20city/)
 		- [University of Flower City](/world/bauhinia/flower%20city/ufc/)
 
-## 2024/09/16
+## 2024-09-16
 
 - Fixed a wee problem in [Jaculus](/characters/jaculus/), [Koala](/characters/koala/) and [Kangaroo](/characters/kangaroo/).
 - Added `goose hat.gif`.
 - Added trivia and inspiration section for characters.
 
-## 2024/09/15
+## 2024-09-15
 
 - Added some character information.
 - Added [MSS](/world/bauhinia/mss/).
 
-## 2024/09/14
+## 2024-09-14
 
 - Added breadcrumbs!
 - Added `tephra walk.gif` and `sparky dragonfly.png`.
@@ -43,7 +48,7 @@ eleventyNavigation:
 	- I just went through the gallery folder and copied the last modified dates of the files over.
 - CSS tweaks.
 
-## 2024/09/13
+## 2024-09-13
 
 - Started a changelog because it sounds like a good idea.
 - Cleaned up the CSS a *wee* bit.
