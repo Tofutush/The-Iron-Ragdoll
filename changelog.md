@@ -13,6 +13,8 @@ eleventyNavigation:
 
 - Made the svg line caps round.
 	- Maybe I should start using the icons instead of copying and pasting svgs?
+- Added `buzz.png`, `mitzi ashford.png`, `odona.png`, `zuperbg.png`.
+- Updated [About](/about/).
 
 ## 2024-09-18
 

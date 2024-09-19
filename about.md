@@ -26,7 +26,12 @@ This will be the only content warning site-wide. Viewer discretion is advised.
 
 # What is mine and what isn't
 
-Most content on this site is made by myself. What isn't: I use 11ty as a site-generator. Some code is inspired by StackOverflow and Grepper answers. The hosting is provided by either Github Pages or Neocities, depending on where you are.
+Most content on this site is made by myself. What isn't:
+
+- I use 11ty as a static site generator.
+- Some code is inspired by (read: copied from) StackOverflow and Grepper answers.
+- Icons are from Lucide.
+- The hosting is provided by either Github Pages or Neocities, depending on where you are.
 
 All stories, characters, and artwork on this site are created by myself. Art by others can be found on [my Toyhouse](https://toyhou.se/Tofutush).
 
