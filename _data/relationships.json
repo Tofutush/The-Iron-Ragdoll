@@ -1,10 +1,10 @@
 [
     {
-        "ch":[
+        "ch": [
             "sparky",
             "ribbon"
         ],
-        "desc":"Ribbon and Sparky have the same birthday, though Ribbon was two years older than Sparky. Ribbon showed Sparky the ropes around Hillslope, taught her to cook and bake, and asked her to investigate the attack on [Starry](../starry/). Sparky was about to take all the caring she gave her for granted. She couldn't have been more mistaken.\n\n*Gratitude gets you far, Sparky. Very far.*"
+        "desc": "Ribbon and Sparky have the same birthday, though Ribbon was two years older than Sparky. Ribbon showed Sparky the ropes around Hillslope, taught her to cook and bake, and asked her to investigate the attack on [Starry](../starry/). Sparky was about to take all the caring she gave her for granted. She couldn't have been more mistaken.\n\n*Gratitude gets you far, Sparky. Very far.*"
     },
     {
         "ch": [
@@ -37,6 +37,13 @@
     {
         "ch": [
             "sparky",
+            "pearl"
+        ],
+        "desc": "Sparky took care of Pearl like she's her daughter. However, as they ran out of money and was struggling to move forward in [Sylvandia](/world/sylvandia/), she found herself also looking at Pearl and seeing not a person, but a machine for producing pearls."
+    },
+    {
+        "ch": [
+            "sparky",
             "nightsun"
         ],
         "desc": "Sparky is Nightsun's wife.\n\nThey're both bisexual and deep in the closet. They both know the other is bisexual. They're both trying all sorts of gimmicks to make the other come out.\n\nNightsun is an agent sent to get close to Sparky in order to get information on [Animus](../animus/). (No, I don't know who sent him, gimme some time.) Sparky knows this. He knows she knows. She knows he know she knows. They both pretend to not know anything."
@@ -47,5 +54,19 @@
             "tephra"
         ],
         "desc": "Jerboa is Tephra's little pet. He does everything Tephra tells him to do."
+    },
+    {
+        "ch": [
+            "cosmo",
+            "tomato"
+        ],
+        "desc": "Cosmo and Tomato hate each other for some reason. Mainly, Cosmo is always trying to get Tomato to run errands for her and Tomato's getting fed up."
+    },
+    {
+        "ch": [
+            "paperweight",
+            "pumpkin"
+        ],
+        "desc": "Paperweight hates Pumpkin because he's so annoying. Also because he's jealous at how Pumpkin was smarter and stronger than him. And that he's mad at himself for growing old."
     }
 ]
