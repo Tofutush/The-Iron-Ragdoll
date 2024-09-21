@@ -1119,7 +1119,7 @@
         "scope": "full-body",
         "style": "normal",
         "date": "2024-09-09",
-        "comment":"Art trade with [HeebHullaballo](https://toyhou.se/HeebHullaballo), featuring [Zuper](https://toyhou.se/23960825.zuper)."
+        "comment": "Art trade with [HeebHullaballo](https://toyhou.se/HeebHullaballo), featuring [Zuper](https://toyhou.se/23960825.zuper)."
     },
     {
         "name": "odona",
@@ -1127,6 +1127,21 @@
         "scope": "full-body",
         "style": "normal",
         "date": "2024-09-08",
-        "comment":"Gift art for [wingsofmoonlight](https://toyhou.se/wingsofmoonlight), featuring [Odona](https://toyhou.se/29103402.odona)."
+        "comment": "Gift art for [wingsofmoonlight](https://toyhou.se/wingsofmoonlight), featuring [Odona](https://toyhou.se/29103402.odona)."
+    },
+    {
+        "name": "lepolde",
+        "type": "png",
+        "scope": "full-body",
+        "style": "normal",
+        "date": "2024-09-21",
+        "comment": "Art trade with [Honk-Shoo](https://toyhou.se/Honk-Shoo), featuring [Lepolde](https://toyhou.se/27103327.lepolde-leppy)."
+    },
+    {
+        "name": "pearl thumb",
+        "type": "png",
+        "scope": "headshot",
+        "style": "lineless",
+        "date": "2024-09-21"
     }
 ]

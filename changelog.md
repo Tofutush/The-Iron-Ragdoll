@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-09-21
+
+- Added `lepolde.png`, `pearl thumb.png`.
+
 ## 2024-09-19
 
 - Made the svg line caps round.
