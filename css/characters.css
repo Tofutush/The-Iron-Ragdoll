@@ -25,15 +25,6 @@ h3 {
 	color: var(--c);
 }
 
-body.dark .desc.darkcolor .attr>div>div:first-child,
-body.dark .desc.darkcolor .prev-next a,
-body.dark .desc.darkcolor .desc h1,
-body.dark .desc.darkcolor .desc h2,
-body.dark .desc.darkcolor .desc h3,
-body.dark .desc.darkcolor .desc a {
-	text-shadow: 1px 1px 2px #fff, -1px -1px 2px #fff, 1px -1px 2px #fff, -1px 1px 2px #fff;
-}
-
 .left-side {
 	flex-shrink: 0;
 	width: 360px;
