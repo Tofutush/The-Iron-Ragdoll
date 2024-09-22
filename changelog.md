@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-09-22
+
+- Added `cosmo alaska subway.png`.
+- Added page [Hillslope](/world/bauhinia/coastline/hillslope/).
+
 ## 2024-09-21
 
 - Added `lepolde.png`, `pearl thumb.png`.
