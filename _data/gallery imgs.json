@@ -1140,8 +1140,23 @@
     {
         "name": "pearl thumb",
         "type": "png",
+        "ch": [
+            "pearl"
+        ],
         "scope": "headshot",
         "style": "lineless",
         "date": "2024-09-21"
+    },
+    {
+        "name": "cosmo alaska subway",
+        "type": "png",
+        "ch": [
+            "cosmo",
+            "alaska"
+        ],
+        "scope": "full-body",
+        "style": "normal",
+        "date": "2024-09-22",
+        "comment": "I don't draw these that often, so here it is: Cosmo and Alaska on a late-night subway.\n\nCan't be sure if this is canon though. I mean, right now in [Hillslope](/world/bauhinia/coastline/hillslope/) there aren't any *subways* of course, and I haven't really thought about what they're going to do after leaving Hillslope."
     }
 ]
