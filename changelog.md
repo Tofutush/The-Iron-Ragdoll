@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-09-23
+
+- Added the [RSS feed](/feed.xml/).
+
 ## 2024-09-22
 
 - Added `cosmo alaska subway.png`.
