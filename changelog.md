@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2024-09-23
 
 - Added the [RSS feed](/feed.xml/).
+- Started to add custom 404 pages. [Look here](/motherfucker/).
 
 ## 2024-09-22
 
