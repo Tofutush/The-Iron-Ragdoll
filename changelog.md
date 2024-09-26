@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-09-25
+
+- Added `alex oris.png` and `tbn soapbox.png`.
+
 ## 2024-09-23
 
 - Added the [RSS feed](/feed.xml/).
