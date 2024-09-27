@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-09-27
+
+- Added `melody jerboa.png`.
+
 ## 2024-09-25
 
 - Added `alex oris.png` and `tbn soapbox.png`.

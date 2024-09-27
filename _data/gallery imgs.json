@@ -1174,5 +1174,16 @@
         "style": "normal",
         "date": "2024-09-25",
         "comment": "Art trade with [S04PB0X](https://toyhou.se/S04PB0X), featuring [Gimme A Minute, Needs Name](https://toyhou.se/29380911.gimme-a-minute-needs-name)."
+    },
+    {
+        "name": "melody jerboa",
+        "type": "png",
+        "ch": [
+            "melody",
+            "jerboa"
+        ],
+        "scope": "full-body",
+        "style": "normal",
+        "date": "2024-09-27"
     }
 ]
