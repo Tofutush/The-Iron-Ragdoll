@@ -19,15 +19,15 @@ body {
 }
 
 body.dark {
-	--text: #fff;
-	--bg: #000;
+	--text: #fff9f2;
+	--bg: #121212;
 	--c: #0cf;
 	--box: #fff8;
 }
 
 body.light {
-	--text: #000;
-	--bg: #eee;
+	--text: #121212;
+	--bg: #fff9f2;
 	--c: #db2777;
 	--box: #0001;
 }
