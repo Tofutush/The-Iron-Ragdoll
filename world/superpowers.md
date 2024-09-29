@@ -8,7 +8,7 @@ eleventyNavigation:
 
 # Superpowers
 
-Some people are born with superpowers. There are some different types of superpowers.
+Some people are born with superpowers. There are some different types of superpowers. One person can only have up to one power.
 
 (Wow this intro sucks.)
 
@@ -35,6 +35,8 @@ That is, if your power is strong enough. Weak mind reading powers are extremely 
 Get mutilated beyond recognition and still recover with an able body! Literally never die! Except...
 
 For each immortal there is *one* thing that can kill them. And you won't know which.
+
+Immortality can be detected through DNA tests. This is the rarest superpower, followed by magic.
 
 ## Time Precision
 
