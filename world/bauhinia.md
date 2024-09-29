@@ -25,3 +25,7 @@ The most similar real-life parallel to Bauhinia geographically is southern China
 
 - [Flower City](/world/bauhinia/flower%20city/)
 - [Coastline](/world/bauhinia/coastline/)
+
+## Stuff
+
+[Superpowers in Bauhinia](/world/bauhinia/superpowers/)

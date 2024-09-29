@@ -16,7 +16,7 @@ eleventyNavigation:
 
 Sparky was born in Coastline in 2017 to [Amber](/characters/amber/) and Jackal. Because of her superstrength, Jackal made her work on the construction site with him. She learned to swear from his colleagues.
 
-When she was 4, Jackal died in a workplace accident. And then, when she was 5 (almost 6), she was taken to Hillslope. She thought it was because her mom couldn't afford to take care of her anymore. (Actually, it's because [Peacock](/characters/peacock/)'s parents didn't want her.)
+When she was 4, Jackal died in a workplace accident. And then, when she was 7 (almost 8), she was taken to Hillslope. She thought it was because her mom couldn't afford to take care of her anymore. (Actually, it's because [Peacock](/characters/peacock/)'s parents didn't want her.)
 
 ## Hillslope
 
