@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-09-30
+
+- Added `silhouettes.png`.
+- Did some CSS changes.
+
 ## 2024-09-29
 
 - Changed Sparky's age in [her bio](/characters/sparky/biography/).
