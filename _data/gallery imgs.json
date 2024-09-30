@@ -1185,5 +1185,26 @@
         "scope": "full-body",
         "style": "normal",
         "date": "2024-09-27"
+    },
+    {
+        "name": "silhouettes",
+        "type": "png",
+        "ch": [
+            "sparky",
+            "ribbon",
+            "starry",
+            "tomato",
+            "guillotine",
+            "alaska",
+            "cosmo",
+            "tephra",
+            "jerboa",
+            "tundra",
+            "melody",
+            "dragonfly"
+        ],
+        "scope": "full-body",
+        "style": "lineless",
+        "date": "2024-09-30"
     }
 ]
