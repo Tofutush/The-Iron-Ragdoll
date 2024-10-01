@@ -10,13 +10,6 @@
         "date": "2024-05-13"
     },
     {
-        "name": "all tokens",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-12"
-    },
-    {
         "name": "atlasia flag",
         "type": "svg",
         "scope": "design",
@@ -1206,5 +1199,20 @@
         "scope": "full-body",
         "style": "lineless",
         "date": "2024-09-30"
+    },
+    {
+        "name": "westavia flag",
+        "type": "svg",
+        "scope": "design",
+        "style": "lineless",
+        "date": "2024-10-02",
+        "comment": "The flag of the Republic of [Westavia](/world/westavia/)."
+    },
+    {
+        "name": "westavia token",
+        "type": "svg",
+        "scope": "design",
+        "style": "lineless",
+        "date": "2024-10-02"
     }
 ]
