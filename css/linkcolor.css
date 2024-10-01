@@ -13,6 +13,10 @@ a[href*="atlasia/"] {
 	color: #09721A;
 }
 
+a[href*="westavia/"] {
+	color: #D59528;
+}
+
 a[href*="moreland/"] {
 	color: #169986;
 }
