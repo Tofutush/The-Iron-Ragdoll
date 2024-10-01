@@ -11,7 +11,9 @@ eleventyNavigation:
 
 The Republic of Bauhinia is in the south of the continent, with most of its territory being in the sub-tropics. Bauhinia trees grow throughout the country.
 
-I really can't write shit man sorry.
+The bauhinia flower is the national symbol of Bauhinia. (In case it's not obvious enough.)
+
+The flag is *not* Hong Kong. Hong Kong is stupid. Bauhinia is... well, still pretty stupid I admit but nothing is stupider than HK.
 
 Basically, Bauhinia is a terrible place (better than [Atlasia](../atlasia/) though). Bauhinia is controlled by [Starcorp](starcorp/). Bauhinia has a huge wealth gap.
 
