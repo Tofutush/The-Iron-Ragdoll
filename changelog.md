@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-01
+
+- Added [Overview](/world/overview/).
+- Added [Westavia](/world/westavia/).
+- Edited some pages.
+
 ## 2024-09-30
 
 - Added `silhouettes.png`.
