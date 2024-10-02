@@ -493,7 +493,7 @@
     "desc": "Bandwagon girl.",
     "color": "#D54269",
     "about": "Goose is *just* like other girls. She likes everything other girls like. She does everything other girls do. She listens to whatever music is most popular at the moment. She watches whatever show is most popular at the moment.\n\nGoose is just happy to spend her life on the bandwagon.\n\n---\n\nGoose is an officer at the [Ministry of State Security](/world/bauhinia/mss). She likes juggling her baton and giving vague threats about sending people to a possible Ministry of Love. She has a knack of trying her best at everything she puts her mind to do.",
-    "bio": "When Goose was little, her parents had hardly any expectations for her. Once they even missed her trying to pick her up from kindergarten because they forgot what she looked like. Goose grew up playing and gossiping with other girls, writing silly love letters to her crushes (there were a lot of them), and trying on her mom's makeup (which she still does because she couldn't afford to buy her own).",
+    "bio": "When Goose was little, her parents had hardly any expectations for her. Once they even missed her trying to pick her up from kindergarten because they forgot what she looked like. Goose grew up playing and gossiping with other girls, reading the most popular books (mostly trashy romance), writing silly love letters to her crushes (there were a lot of them), and trying on her mom's makeup (which she still does because she can't afford to buy her own).\n\nShe got a crappy score in her college entrance exam and went to a random college in the middle of nowhere (note: it was western Bauhinia). She graduated knowing absolutely nothing about what she was going to do with her life. (She even forgot what her major was.) She got a job as a janitor in a random office building.\n\nOne day, she saw a military recruitment ad. She was like, \"why not?\" and went. She almost didn't make the cut, but she did.\n\nAfter serving two years in the army, she got recruited into the MSS and moved to [Coastline](/world/bauhinia/coastline/).",
     "attr": {
       "Gender": "Female",
       "Nationality": "Bauhinian",
@@ -503,6 +503,8 @@
     "palette": {
       "shoulder pads": "#f01ace",
       "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
       "hair": "#2E2E2E"
     },
     "note": "file:mssperms.md"
@@ -519,10 +521,13 @@
       "Occupation": "State security officer",
       "Weapon": "Baton"
     },
-    "about": "Pumpkin's great-grandparents immigrated to [Bauhinia](/world/bauhinia/) from a country I haven't thought of.",
+    "about": "Pumpkin is a goofy guy who loves slurping boba tea and hates filling out forms.",
+    "bio": "Pumpkin's grandparents immigrated to northern [Bauhinia](/world/bauhinia/) from [Westavia](/world/westavia/). His family still kept many of their Westavian traditions.",
     "palette": {
       "shoulder pads": "#f01ace",
       "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
       "hair": "#754413"
     },
     "note": "file:mssperms.md"
@@ -544,6 +549,8 @@
     "palette": {
       "shoulder pads": "#f01ace",
       "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
       "hair": "#2e2e2e"
     },
     "note": "file:mssperms.md"
@@ -566,6 +573,8 @@
     "palette": {
       "shoulder pads": "#f01ace",
       "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
       "hair": "#888"
     },
     "note": "file:mssperms.md"
