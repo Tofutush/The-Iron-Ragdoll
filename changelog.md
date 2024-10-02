@@ -9,11 +9,16 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-02
+
+- Added `sparky nuke.png`,
+- Edited some pages.
+
 ## 2024-10-01
 
 - Added [Overview](/world/overview/).
 - Added [Westavia](/world/westavia/).
-- Added `westavia flag.svg` and `westavia token.svg`.
+- Added `westavia flag.svg`, `westavia token.svg`.
 - Edited some pages.
 
 ## 2024-09-30

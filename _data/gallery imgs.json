@@ -1214,5 +1214,15 @@
         "scope": "design",
         "style": "lineless",
         "date": "2024-10-02"
+    },
+    {
+        "name": "sparky nuke",
+        "type": "png",
+        "ch": [
+            "sparky"
+        ],
+        "scope": "full-body",
+        "style": "normal",
+        "date": "2024-10-02"
     }
 ]
