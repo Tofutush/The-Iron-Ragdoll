@@ -1224,5 +1224,18 @@
         "scope": "full-body",
         "style": "normal",
         "date": "2024-10-02"
+    },
+    {
+        "name": "kids garbage",
+        "type": "png",
+        "ch": [
+            "qibli",
+            "sky",
+            "firecrackers",
+            "sparky"
+        ],
+        "scope": "headshot",
+        "style": "normal",
+        "date": "2024-10-03"
     }
 ]
