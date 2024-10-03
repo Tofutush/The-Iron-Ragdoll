@@ -19,12 +19,12 @@ class Collapsible {
 	}
 	click() {
 		this.div.addEventListener('click', e => {
-			this.div.classList.toggle('collapsible-active');
-			if (this.content.style.maxHeight) {
-				this.content.style.maxHeight = null;
-			} else {
-				this.content.style.maxHeight = this.content.scrollHeight + 'px';
-			}
+			this.content.classList.toggle('collapsible-active');
+			// if (this.content.style.maxHeight) {
+			// 	this.content.style.maxHeight = null;
+			// } else {
+			// 	this.content.style.maxHeight = this.content.scrollHeight + 'px';
+			// }
 		})
 	}
 }
@@ -34,7 +34,6 @@ class Collapsible {
 	for (let z = 0; z < collapsible.length; z++) {
 		let content = document.querySelector(collapsible[z].getAttribute('target'));
 		console.log(collapsible[z].getAttribute('target'));
-		console.log(content);
 		list.push(new Collapsible(collapsible[z], content));
 	}
 })();
