@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Moreland
+templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Moreland
   parent: World
@@ -8,6 +9,8 @@ eleventyNavigation:
 ---
 
 # Moreland
+
+{% image "gallery/" "moreland flag.svg" 1000 "Flag of Moreland" %}
 
 The Republic of Moreland parallels Mongolia geographically.
 

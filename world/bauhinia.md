@@ -1,33 +1,58 @@
 ---
 layout: layout.liquid
 title: Bauhinia
+templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Bauhinia
   parent: World
   order: 1
 ---
 
-# Bauhinia
+# The Republic of Bauhinia
 
-The Republic of Bauhinia is in the south of the continent, with most of its territory being in the sub-tropics. Bauhinia trees grow throughout the country.
+{% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" %}
+
+The pink bureaucratic fanatic.
 
 The bauhinia flower is the national symbol of Bauhinia. (In case it's not obvious enough.)
 
 The flag is *not* Hong Kong. Hong Kong is stupid. Bauhinia is... well, still pretty stupid I admit but nothing is stupider than HK.
 
-Basically, Bauhinia is a terrible place (better than [Atlasia](../atlasia/) though). Bauhinia is controlled by [Starcorp](starcorp/). Bauhinia has a huge wealth gap.
+## Geography
 
-Apparently kids can own guns in Bauhinia. I mean, [Sparky](/characters/sparky/) got one through mail from [her mom](/characters/amber/).
+Bauhinia is in the south of the continent, with most of its territory being in the sub-tropics. Bauhinia trees grow throughout the country.
 
-Bauhinia used to be a huge empire spanning across almost the entire continent. That was why everyone spoke the same language, totally not because I'm too lazy. But then the empire declined, other countries were getting independent, and Bauhinia itself had a republican revolution. Its territory is reduced to the south.
+The country experiences monsoons that blow from the southeast in summer and the southwest in winter, except that there's a mountain ridge blocking southwestern wind. So it's rainy in summer and dry in winter. Plenty of typhoons also blow here in summer.
 
-The most similar real-life parallel to Bauhinia geographically is southern China.
+The closest geographical mirror to Bauhinia is southern China.
 
-## Cities
+### Cities
 
-- [Flower City](/world/bauhinia/flower%20city/)
+- [Flower City](/world/bauhinia/flower%20city/) (capital)
 - [Coastline](/world/bauhinia/coastline/)
 
-## Stuff
+## Government
 
-[Superpowers in Bauhinia](/world/bauhinia/superpowers/)
+Bauhinia is a ministerial republic with an avid love for bureaucracy.
+
+### Ministries (that actually matter)
+
+- [Ministry of State Security](/world/bauhinia/mss/)
+
+## Economy
+
+Bauhinia is controlled by a huge company called [Starcorp](starcorp/) that nearly monopolizes every industry in the country.
+
+## Society
+
+...
+
+## History
+
+Bauhinia used to be a huge empire spanning across almost the entire continent. That was why everyone spoke the same language, totally not because I'm too lazy.
+
+The industrialization of Bauhinia eventually led to a republican revolution where the emperor was overthrown. But due to the country obviously being in a tizzy, other places seized the chance and declared independence. The new republican government was mad about it, but what can they do. They're most mad about [Fanton](/world/fanton/) who are literally just a bunch of starry-eyed tree lovers! But they could only watch as they stab their silly little striped flag into the ground and declare themselves independent.
+
+A long time later a world war broke out.
+
+And then there was the cold war.

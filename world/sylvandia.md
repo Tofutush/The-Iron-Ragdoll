@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Sylvandia
+templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Sylvandia
   parent: World
@@ -8,6 +9,8 @@ eleventyNavigation:
 ---
 
 # Sylvandia
+
+{% image "gallery/" "sylvandia flag.svg" 1000 "Flag of Sylvandia" %}
 
 The Sylvandian Federation. It is nominally independent but still in colonial limbo.
 
