@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Atlasia
+templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Atlasia
   parent: World
@@ -8,6 +9,8 @@ eleventyNavigation:
 ---
 
 # Atlasia
+
+{% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" %}
 
 The Free Republic of Atlasia.
 
