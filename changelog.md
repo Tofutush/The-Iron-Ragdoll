@@ -9,9 +9,13 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-03
+
+- Added `kids garbage.png`.
+
 ## 2024-10-02
 
-- Added `sparky nuke.png`,
+- Added `sparky nuke.png`.
 - Edited some pages.
 
 ## 2024-10-01
