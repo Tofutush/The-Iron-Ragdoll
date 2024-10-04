@@ -11,6 +11,7 @@ eleventyNavigation:
 
 ## 2024-10-04
 
+- Added `qibli sit.png`.
 - Edited some pages.
 
 ## 2024-10-03

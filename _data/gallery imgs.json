@@ -1237,5 +1237,16 @@
         "scope": "headshot",
         "style": "normal",
         "date": "2024-10-03"
+    },
+    {
+        "name": "qibli sit",
+        "type": "png",
+        "ch": [
+            "qibli"
+        ],
+        "scope": "full-body",
+        "style": "lineless",
+        "date": "2024-10-04",
+        "comment": "Hurricane bauhinias.\n\nI miss my old home."
     }
 ]
