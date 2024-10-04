@@ -3,7 +3,7 @@ layout: layout.liquid
 title: Safe house
 eleventyNavigation:
   key: Safe house
-  parent: Bauhinia
+  parent: Coastline
 ---
 
 # The Safe House

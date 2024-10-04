@@ -3,7 +3,7 @@ layout: layout.liquid
 title: Coastline Middle School
 eleventyNavigation:
   key: Coastline Middle School
-  parent: Bauhinia
+  parent: Coastline
 ---
 
 # Coastline Middle School

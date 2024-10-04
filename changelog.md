@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-04
+
+- Edited some pages.
+
 ## 2024-10-03
 
 - Added `kids garbage.png`.
