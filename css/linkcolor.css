@@ -1,7 +1,4 @@
-a[href*="bauhinia/"],
-a[href*="coastline/"],
-a[href*="ufc/"],
-a[href*="cms/"] {
+a[href*="bauhinia/"] {
 	color: #F01ACE;
 }
 
