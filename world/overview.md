@@ -21,7 +21,7 @@ So basically:
 
 <p style="text-align: center; text-indent: 0;"><a href="/world/moreland/">Moreland</a></p>
 
-<p style="text-align: center; text-indent: 0;"><a href="/world/atlasia/">Atlasia</a> / <a href="/world/westavia/">Westavia</a></p>
+<p style="text-align: center; text-indent: 0;"><a href="/world/westavia/">Westavia</a> / <a href="/world/atlasia/">Atlasia</a></p>
 
 <p style="text-align: center; text-indent: 0;"><a href="/world/fanton/">Fanton</a></p>
 
