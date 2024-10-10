@@ -13,7 +13,7 @@ eleventyNavigation:
 		<div class="ch">
 			<a href="{{ sparky.name | lowerCase }}/">
 				{% comment %} <img src="/img/gallery/{{ sparky.name | lowerCase }} thumb.png"/> {% endcomment %}
-				{% image "gallery/" "sparky thumb.png" 200 "" %}
+				{% image "gallery/" "sparky thumb.png" 200 "Sparky" %}
 			</a>
 		</div>
 		{% comment %} <a class="character-button" style="--c: {{ sparky.color }}" href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a> {% endcomment %}
@@ -32,7 +32,7 @@ eleventyNavigation:
 					<a href="{{ ch.name | lowerCase }}/">
 						{% comment %} <img src="/img/gallery/{{ ch.name | lowerCase }} thumb.png"/> {% endcomment %}
 						{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-						{% image "gallery/" bruhhh 200 "" %}
+						{% image "gallery/" bruhhh 200 ch.name %}
 					</a>
 				</div>
 				{% comment %} <a class="character-button" style="--c: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a> {% endcomment %}
