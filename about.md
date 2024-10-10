@@ -2,7 +2,6 @@
 layout: layout.liquid
 title: About
 desc: About The Iron Ragdoll.
-templateEngineOverride: liquid,md
 eleventyNavigation:
   key: About
   parent: Root
@@ -27,17 +26,20 @@ The comic and the contents of this site will contain profanity and cartoon viole
 
 This will be the only content warning site-wide. Viewer discretion is advised.
 
-## Buttons
+## Buttons and Webrings
 
-<div class="buttons"><a href="https://numbersstory.com"><img src="/img/bg/numbersstory.png"/></a><a href="https://dptr.neocities.org"><img src="/img/bg/dptr.gif"/></a><img src="/img/bg/iwasoncohost.gif"/></div>
+<div class="buttons"><img src="/img/bg/iwasoncohost.gif"/><a href="https://numbersstory.com"><img src="/img/bg/numbersstory.png"/></a><a href="https://dptr.neocities.org"><img src="/img/bg/dptr.gif"/></a><a href="https://midgetsausage.neocities.org/cooperbullet"><img src="/img/bg/cooperbullet.gif"/></a></div>
 
 Link to my site!
 
-<div class="buttons"><a href="https://numbersstory.com"><img src="/img/bg/numbersstory.png"/></div>
+<div class="buttons"><img src="/img/bg/numbersstory.png"/></div>
 
 ```html
 <a href="https://tofutush.github.io/The-Iron-Ragdoll"><img src="https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif"/></a>
 ```
+
+<script src="https://gusbus.space/smallweb-subway.js/comics.js"></script>
+<smallweb-subway-comics></smallweb-subway-comics>
 
 ## What is mine and what isn't
 

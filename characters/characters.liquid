@@ -25,7 +25,7 @@
 	<div class="left-side">
 		<div class="title">
 			{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-			{% imageOrig "gallery/" bruhhh "" %}
+			{% imageOrig "gallery/" bruhhh ch.name %}
 			<div class="title-info">
 				<h1 id="name">{{ ch.name }}</h1>
 				{% if ch.namezh %}<h1 id="name-zh">{{ ch.namezh }}</h1>{% endif %}
