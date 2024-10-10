@@ -32,11 +32,9 @@ This will be the only content warning site-wide. Viewer discretion is advised.
 
 Link to my site!
 
-<div class="buttons"><img src="/img/bg/numbersstory.png"/></div>
+<div class="buttons"><img src="/img/bg/88x31.gif"/></div>
 
-```html
-<a href="https://tofutush.github.io/The-Iron-Ragdoll"><img src="https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif"/></a>
-```
+<img src="/img/bg/468x80.png/"/>
 
 <script src="https://gusbus.space/smallweb-subway.js/comics.js"></script>
 <smallweb-subway-comics></smallweb-subway-comics>
