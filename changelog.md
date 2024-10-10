@@ -9,6 +9,14 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-10
+
+- Added buttons and webrings in [About](/about/).
+- Edited page number thing to make it easier later when revamping Chapter 1 (if ever).
+- Edited arrows when flipping pages.
+- Fixed save/load stuff.
+- Added RSS button.
+
 ## 2024-10-04
 
 - Added `qibli sit.png`.
