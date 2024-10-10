@@ -23,13 +23,15 @@
 
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="img">
-	{% assign bruhhh = pagination.items[0].pagenum | getimgurl | append: '.png' %}
-	{% image "comics/" bruhhh 1000 "" %}
+	{% assign bruhhh = pagination.items[0].url | append: '.png' %}
+	{% assign alt = "Page " | append: pagination.items[0].pagenum %}
+	{% image "comics/" bruhhh 1000 alt %}
 </div>
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="save">
-	<a class="tooltip"><span class="tooltip-text">Load</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-from-line"><path d="M19 3H5"/><path d="M12 21V7"/><path d="m6 15 6 6 6-6"/></svg></a>
-	<a class="tooltip"><span class="tooltip-text">Save</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-up-from-line"><path d="m18 9-6-6-6 6"/><path d="M12 3v14"/><path d="M5 21h14"/></svg></a>
+	<a class="tooltip"><span class="tooltip-text">Save</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-from-line"><path d="M19 3H5"/><path d="M12 21V7"/><path d="m6 15 6 6 6-6"/></svg></a>
+	<a class="tooltip"><span class="tooltip-text">Load</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-up-from-line"><path d="m18 9-6-6-6 6"/><path d="M12 3v14"/><path d="M5 21h14"/></svg></a>
+	<a class="tooltip" href="/feed.xml/"><span class="tooltip-text">RSS</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-rss"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg></a>
 </div>
 {% if pagination.items[0].note %}
 	<div id="note" class="graybox">{{ pagination.items[0].note }}</div>
@@ -45,7 +47,7 @@ saveButton[1].addEventListener('click', e => {
 	let place = localStorage.getItem('place');
 	if(place) {
 		if(place == 0) window.open('/');
-		else window.open(`/page-${place}/#comic`);
+		else window.open(`../page-${place}/#img`);
 	}
 	else alert('no place was saved!');
 });
