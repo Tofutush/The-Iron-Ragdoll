@@ -86,6 +86,33 @@ img {
 	width: 100%;
 }
 
+.buttons img {
+	width: 88px;
+	height: 31px;
+	margin: 0;
+}
+
+.buttons {
+	display: flex;
+	gap: .5rem;
+	justify-content: center;
+}
+
+pre {
+	max-width: 100%;
+	overflow-x: auto;
+	overflow-y: hidden;
+	padding: 1rem;
+	background-color: var(--box);
+	color: var(--text);
+	font-size: var(--font-size);
+	border-radius: 12px;
+}
+
+pre code {
+	background-color: transparent;
+}
+
 #header {
 	color: var(--text);
 	padding-top: 2em;
