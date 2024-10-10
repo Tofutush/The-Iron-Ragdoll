@@ -2,6 +2,7 @@
 layout: layout.liquid
 title: About
 desc: About The Iron Ragdoll.
+templateEngineOverride: liquid,md
 eleventyNavigation:
   key: About
   parent: Root
@@ -25,6 +26,18 @@ Start by reading it, or as I'm stuck in limbo right now, start reading about the
 The comic and the contents of this site will contain profanity and cartoon violence.
 
 This will be the only content warning site-wide. Viewer discretion is advised.
+
+## Buttons
+
+<div class="buttons"><a href="https://numbersstory.com"><img src="/img/bg/numbersstory.png"/></a><a href="https://dptr.neocities.org"><img src="/img/bg/dptr.gif"/></a><img src="/img/bg/iwasoncohost.gif"/></div>
+
+Link to my site!
+
+<div class="buttons"><a href="https://numbersstory.com"><img src="/img/bg/numbersstory.png"/></div>
+
+```html
+<a href="https://tofutush.github.io/The-Iron-Ragdoll"><img src="https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif"/></a>
+```
 
 ## What is mine and what isn't
 
