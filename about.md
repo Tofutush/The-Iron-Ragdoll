@@ -8,6 +8,8 @@ eleventyNavigation:
   order: 1
 ---
 
+<link rel="stylesheet" href="https://webcomicring.org/js/comicring.css">
+
 *Apparently, seeing the literal ghost of the victim doesn't make solving the murder any easier.*
 
 *Sparky just wants to go home.*
@@ -34,7 +36,11 @@ Link to my site!
 
 <div class="buttons"><img src="/img/bg/88x31.gif"/></div>
 
-<img src="/img/bg/468x80.png/"/>
+<img src="/img/bg/468x60.png"/>
+
+<div id='webcomicwebring'>
+<script type="text/javascript" src="https://webcomicring.org/js/comicring-variables.js"></script>
+<script type="text/javascript" src="https://webcomicring.org/js/comicring-widget.js"></script></div>
 
 <script src="https://gusbus.space/smallweb-subway.js/comics.js"></script>
 <smallweb-subway-comics></smallweb-subway-comics>
