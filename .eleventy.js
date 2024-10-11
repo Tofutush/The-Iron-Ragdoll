@@ -48,11 +48,11 @@ module.exports = function (eleventyConfig) {
 		return `Character ${name} not found!`;
 	});
 	eleventyConfig.addFilter('filterRelations', function (arr, f) {
-		return arr.filter(a => a.ch.includes(f.toLowerCase()));
+		return arr.filter(a => a.ch[0].includes(f.toLowerCase()) || a.ch[1].includes(f.toLowerCase()));
 	});
 	eleventyConfig.addFilter('getOtherCh', function (rel, ch) {
-		return rel.ch.filter(a => a != ch.toLowerCase()).join();
-	})
+		return rel.ch.filter(a => a[0] != ch.toLowerCase())[0];
+	});
 	eleventyConfig.addFilter('renderMD', function (rawString) {
 		return mdRender.render(rawString);
 	});

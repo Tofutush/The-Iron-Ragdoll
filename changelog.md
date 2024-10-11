@@ -13,6 +13,7 @@ eleventyNavigation:
 
 - Fixed the 468x60 img thing. Turned out my adblocker was blocking it. Weird.
 - Added WEB / COMIC / RING webring.
+- Edited relationships.
 
 ## 2024-10-10
 

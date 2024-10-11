@@ -1,72 +1,231 @@
 [
-    {
-        "ch": [
-            "sparky",
-            "ribbon"
-        ],
-        "desc": "Ribbon and Sparky have the same birthday, though Ribbon was two years older than Sparky. Ribbon showed Sparky the ropes around Hillslope, taught her to cook and bake, and asked her to investigate the attack on [Starry](../starry/). Sparky was about to take all the caring she gave her for granted. She couldn't have been more mistaken.\n\n*Gratitude gets you far, Sparky. Very far.*"
-    },
-    {
-        "ch": [
-            "sparky",
-            "amber"
-        ],
-        "desc": "Sparky is Amber's daughter. Sparky loves her almost obsessively. Amber seems to be more focused on [Willow](../willow/), however."
-    },
-    {
-        "ch": [
-            "sparky",
-            "peacock"
-        ],
-        "desc": "Peacock is Sparky's step-father ~~and reincarnation~~. Sparky hates him because he didn't match up to the perfect father (Jackal) in her mind.\n\nPeacock, on the other hand, is deep in conflict as he both hates who he was in the past, but also desparately wants to *be* who he was in the past."
-    },
-    {
-        "ch": [
-            "sparky",
-            "willow"
-        ],
-        "desc": "Willow is Sparky's half-sister, with the same mother ([Amber](../amber/)) but different fathers. Willow is the one who understands Sparky the most, because of her mind-reading."
-    },
-    {
-        "ch": [
-            "sparky",
-            "ironheart"
-        ],
-        "desc": "Ironheart is Sparky's step-brother. Sparky and Ironheart are locked in an eternal childish sibling rivalry despite not meeting each other for very long and growing into adults."
-    },
-    {
-        "ch": [
-            "sparky",
-            "pearl"
-        ],
-        "desc": "Sparky took care of Pearl like she's her daughter. However, as they ran out of money and was struggling to move forward in [Sylvandia](/world/sylvandia/), she found herself also looking at Pearl and seeing not a person, but a machine for producing pearls."
-    },
-    {
-        "ch": [
-            "sparky",
-            "nightsun"
-        ],
-        "desc": "Sparky is Nightsun's wife.\n\nThey're both bisexual and deep in the closet. They both know the other is bisexual. They're both trying all sorts of gimmicks to make the other come out.\n\nNightsun is an agent sent to get close to Sparky in order to get information on [Animus](../animus/). (No, I don't know who sent him, gimme some time.) Sparky knows this. He knows she knows. She knows he know she knows. They both pretend not to know anything."
-    },
-    {
-        "ch": [
-            "jerboa",
-            "tephra"
-        ],
-        "desc": "Jerboa is Tephra's little pet. He does everything Tephra tells him to do."
-    },
-    {
-        "ch": [
-            "cosmo",
-            "tomato"
-        ],
-        "desc": "Cosmo and Tomato hate each other for some reason. Mainly, Cosmo is always trying to get Tomato to run errands for her and Tomato's getting fed up."
-    },
-    {
-        "ch": [
-            "paperweight",
-            "pumpkin"
-        ],
-        "desc": "Paperweight hates Pumpkin because he's so annoying. Also because he's jealous at how Pumpkin was smarter and stronger than him. And that he's mad at himself for growing old."
-    }
+  {
+    "ch": [
+      [
+        "sparky"
+      ],
+      [
+        "ribbon"
+      ]
+    ],
+    "desc": "Ribbon and Sparky have the same birthday, though Ribbon was two years older than Sparky. Ribbon showed Sparky the ropes around Hillslope, taught her to cook and bake, and asked her to investigate the attack on [Starry](../starry/). Sparky was about to take all the caring she gave her for granted. She couldn't have been more mistaken.\n\n*Gratitude gets you far, Sparky. Very far.*"
+  },
+  {
+    "ch": [
+      [
+        "sparky",
+        "daughter"
+      ],
+      [
+        "amber",
+        "mother"
+      ]
+    ],
+    "desc": "Sparky loves Amber almost obsessively. Amber seems to be more focused on [Willow](../willow/), however."
+  },
+  {
+    "ch": [
+      [
+        "sparky",
+        "stepdaughter"
+      ],
+      [
+        "peacock",
+        "stepfather"
+      ]
+    ],
+    "desc": "Peacock is Sparky's step-father ~~and reincarnation~~. Sparky hates him because he didn't match up to the perfect father (Jackal) in her mind.\n\nPeacock, on the other hand, is deep in conflict as he both hates who he was in the past, but also desparately wants to *be* who he was in the past."
+  },
+  {
+    "ch": [
+      [
+        "sparky",
+        "older half-sister"
+      ],
+      [
+        "willow",
+        "younger half-sister"
+      ]
+    ],
+    "desc": "Willow is Sparky's half-sister, with the same mother ([Amber](../amber/)) but different fathers. Willow is the one who understands Sparky the most, because of her mind-reading."
+  },
+  {
+    "ch": [
+      [
+        "sparky",
+        "younger stepsister"
+      ],
+      [
+        "ironheart",
+        "older stepbrother"
+      ]
+    ],
+    "desc": "Sparky and Ironheart are locked in an eternal childish sibling rivalry despite growing into adults."
+  },
+  {
+    "ch": [
+      [
+        "sparky"
+      ],
+      [
+        "pearl"
+      ]
+    ],
+    "desc": "Sparky took care of Pearl like she's her daughter. However, as they ran out of money and was struggling to move forward in [Sylvandia](/world/sylvandia/), she found herself also looking at Pearl and seeing not a person, but a machine for producing pearls."
+  },
+  {
+    "ch": [
+      [
+        "sparky",
+        "wife"
+      ],
+      [
+        "nightsun",
+        "husband"
+      ]
+    ],
+    "desc": "They're both bisexual and deep in the closet. They both know the other is bisexual. They're both trying all sorts of gimmicks to make the other come out.\n\nNightsun is an agent sent to get close to Sparky in order to get information on [Animus](../animus/). (No, I don't know who sent him, gimme some time.) Sparky knows this. He knows she knows. She knows he know she knows. They both pretend not to know anything."
+  },
+  {
+    "ch": [
+      [
+        "jerboa",
+        "little pet"
+      ],
+      [
+        "tephra",
+        "boss"
+      ]
+    ],
+    "desc": "Jerboa does everything Tephra tells him to do."
+  },
+  {
+    "ch": [
+      [
+        "cosmo",
+        "enemy"
+      ],
+      [
+        "tomato",
+        "enemy"
+      ]
+    ],
+    "desc": "Cosmo and Tomato hate each other for some reason. Mainly, Cosmo is always trying to get Tomato to run errands for her and Tomato's getting fed up."
+  },
+  {
+    "ch": [
+      [
+        "paperweight",
+        "superior"
+      ],
+      [
+        "pumpkin"
+      ]
+    ],
+    "desc": "Paperweight hates Pumpkin because he's so annoying. Also because he's jealous at how Pumpkin was smarter and stronger than him. And that he's mad at himself for growing old."
+  },
+  {
+    "ch": [
+      [
+        "halcyon",
+        "shifu"
+      ],
+      [
+        "pumpkin",
+        "apprentice"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "goose",
+        "apprentice"
+      ],
+      [
+        "paperweight",
+        "shifu"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "koala",
+        "wife"
+      ],
+      [
+        "kangaroo",
+        "husband"
+      ]
+    ],
+    "desc": "Koala and Kangaroo met each other while studying physics in [Moreland](/world/moreland/)."
+  },
+  {
+    "ch": [
+      [
+        "jerboa",
+        "son"
+      ],
+      [
+        "koala",
+        "mother"
+      ]
+    ],
+    "desc": "Jerboa doesn't have memories of his mom. His only proof of her existence is a family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
+      [
+        "jerboa",
+        "son"
+      ],
+      [
+        "kangaroo",
+        "father"
+      ]
+    ],
+    "desc": "Jerboa doesn't have memories of his dad. His only proof of his existence is a family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
+      [
+        "jerboa",
+        "younger brother"
+      ],
+      [
+        "jaculus",
+        "older sister"
+      ]
+    ],
+    "desc": "Jerboa faintly remembers playing dolls with Jaculus. She is also in the family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
+      [
+        "jaculus",
+        "daughter"
+      ],
+      [
+        "koala",
+        "mother"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "jaculus",
+        "daughter"
+      ],
+      [
+        "kangaroo",
+        "father"
+      ]
+    ],
+    "desc": ""
+  }
 ]
