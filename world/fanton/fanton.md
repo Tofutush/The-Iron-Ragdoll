@@ -26,7 +26,7 @@ The closest geographical mirror to Bauhinia is Sichuan.
 
 ### Cities
 
-- [Lotus Lake City](lotus%20lake%20city/) (capital)
+- [Lotus Lake City](/world/fanton/lotus%20lake%20city/) (capital)
 
 ## Government
 

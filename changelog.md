@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-02
+
+- Edited some World pages.
+- Style tweaks.
+
 ## 2024-10-11
 
 - Fixed the 468x60 img thing. Turned out my adblocker was blocking it. Weird.
