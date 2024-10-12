@@ -55,4 +55,4 @@ The industrialization of Bauhinia eventually led to a republican revolution wher
 
 A long time later a world war broke out.
 
-And then there was the cold war.
+And then there was the cold war, during which [Project Boomerang](/world/bauhinia/project%20boomerang/) was carried out.
