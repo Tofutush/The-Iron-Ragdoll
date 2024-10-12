@@ -8,14 +8,14 @@
 
 .chapter a {
 	font-size: 32px;
-	font-weight: normal;
+	font-weight: bold;
 	margin: 0;
 	text-wrap: nowrap;
 }
 
 .chapter p {
-	font-size: var(--font-size);
 	margin: 0;
+	text-indent: 0;
 }
 
 .chapter-desc {
