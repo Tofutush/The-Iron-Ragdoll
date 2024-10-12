@@ -13,7 +13,7 @@
 }
 
 body {
-	--font-size: 24px;
+	--font-size: clamp(18px, 3vw, 24px);
 	background-attachment: fixed;
 	background-color: var(--bg);
 	background-size: cover;
@@ -39,8 +39,8 @@ body.light {
 
 h1 {
 	color: var(--text);
-	font-size: 2.5rem;
-	font-weight: normal;
+	font-size: clamp(1.5rem, 5vw, 2.5rem);
+	/* font-size: 2.5rem; */
 	line-height: 2;
 	margin-bottom: .75em;
 	margin-top: 1.25em;
@@ -48,22 +48,21 @@ h1 {
 
 h2 {
 	color: var(--text);
-	font-size: 2rem;
-	font-weight: normal;
+	font-size: clamp(1.3rem, 4vw, 2rem);
+	/* font-size: 2rem; */
 	line-height: 2;
 }
 
 h3 {
 	color: var(--text);
-	font-size: 1.75rem;
-	font-weight: normal;
+	font-size: clamp(1rem, 3.5vw, 1.75rem);
+	/* font-size: 1.75rem; */
 	line-height: 2;
 }
 
 p {
 	color: var(--text);
 	font-size: var(--font-size);
-	font-weight: 300;
 	line-height: 2;
 	text-align: justify;
 	text-indent: 2em;
@@ -71,7 +70,6 @@ p {
 
 a {
 	color: var(--c);
-	font-weight: 300;
 	text-decoration: none;
 }
 
@@ -138,6 +136,9 @@ body.dark #header {
 	color: var(--text);
 	font-size: clamp(32px, 5vw, 60px);
 	margin: .5em;
+}
+
+body.dark #title {
 	text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
 }
 
@@ -234,7 +235,6 @@ body.dark #header {
 	color: var(--text);
 	text-align: center;
 	font-size: 16px;
-	font-weight: 500;
 	padding: 5px 0;
 	border-radius: 6px;
 	position: absolute;
@@ -261,7 +261,6 @@ body.dark #header {
 .tooltip:hover .tooltip-text {
 	visibility: visible;
 	opacity: 1;
-	font-weight: 300;
 }
 
 .collapsible {
@@ -291,7 +290,6 @@ body.dark #header {
 	border-radius: .5rem;
 	display: block;
 	font-size: 20px;
-	font-weight: 300;
 	padding: 0.5rem 0.7rem;
 	text-indent: 0;
 	text-shadow: none !important;
@@ -310,12 +308,12 @@ code {
 	display: flex;
 	flex-wrap: wrap;
 	font-size: var(--font-size);
+	gap: .5rem;
 	margin: 2rem 0;
 }
 
 .breadcrumbs span {
 	height: 24px;
-	margin: 0 .3em;
 	user-select: none;
 }
 
@@ -387,7 +385,6 @@ body.light #button svg:last-child {
 ul {
 	color: var(--text);
 	font-size: var(--font-size);
-	font-weight: 300;
 	list-style: disc;
 	padding-inline-start: 2em;
 }
