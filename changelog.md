@@ -9,7 +9,14 @@ eleventyNavigation:
 
 # Changelog
 
-## 2024-10-02
+## 2024-10-13
+
+- Added some characters but they have like no info.
+- Added [Palettes](/characters/palettes/).
+- Changed the 404 pages.
+- Made `linkcolors.css` auto-generated.
+
+## 2024-10-12
 
 - Edited some World pages.
 - Style tweaks.
