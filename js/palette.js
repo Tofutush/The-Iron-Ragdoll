@@ -34,7 +34,7 @@ class Palette {
 			let rgbStr = this.colors[z].style.backgroundColor;
 			let rgbArr = this.getRgbArray(rgbStr);
 			let brightness = this.getBrightness(rgbArr);
-			let c = brightness > 125 ? '#000' : '#fff';
+			let c = brightness > 125 ? '#121212' : '#fff9f2';
 			this.colors[z].style.color = c;
 		}
 	}
@@ -60,8 +60,8 @@ class Palette {
 	}
 }
 (function () {
-	let palette = document.querySelector('.palette');
-	if (palette) {
-		p = new Palette(palette);
+	let palette = document.querySelectorAll('.palette');
+	for (let z = 0; z < palette.length; z++) {
+		if (palette[z]) p = new Palette(palette[z]);
 	}
 })();
