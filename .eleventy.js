@@ -3,6 +3,7 @@ const Image = require('@11ty/eleventy-img');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require('markdown-it');
+const { minify } = require('html-minifier-terser');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
@@ -112,6 +113,21 @@ module.exports = function (eleventyConfig) {
 		} catch (e) {
 			return '<p>TBA!</p>';
 		}
+	});
+	eleventyConfig.addTransform("htmlmin", async function (content) {
+		if ((this.page.outputPath || "").endsWith(".html")) {
+			// let minified = htmlmin.minify(content, {
+			// 	useShortDoctype: true,
+			// 	removeComments: true,
+			// 	collapseWhitespace: true,
+			// });
+			let minified = await minify(content, {
+				collapseWhitespace: true,
+			});
+			return minified;
+		}
+		// If not an HTML output, return content as-is
+		return content;
 	});
 	return {
 		passthroughFileCopy: true,
