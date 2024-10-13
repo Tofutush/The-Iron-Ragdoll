@@ -1,0 +1,10 @@
+<div class="palette">
+	{% for color in colors %}
+		<div style="background-color:{{ color[1] }}">
+			<div>
+				<span>{{ color[1] | upperCase }}</span>
+				<span>{{ color[0] | lowerCase }}</span>
+			</div>
+		</div>
+	{% endfor %}
+</div>

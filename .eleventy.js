@@ -47,6 +47,9 @@ module.exports = function (eleventyConfig) {
 		if (ch.length) return ch[0].color;
 		return `Character ${name} not found!`;
 	});
+	eleventyConfig.addFilter('getFullPalette', function (ch) {
+		return Object.assign({ "accent": ch.color }, ch.palette);
+	});
 	eleventyConfig.addFilter('filterRelations', function (arr, f) {
 		return arr.filter(a => a.ch[0].includes(f.toLowerCase()) || a.ch[1].includes(f.toLowerCase()));
 	});

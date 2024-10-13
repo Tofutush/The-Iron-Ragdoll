@@ -143,6 +143,10 @@ a[href*="pearl/"] {
 	color: #caf1f1;
 }
 
+a[href*="jackpot/"] {
+	color: #AC7C26;
+}
+
 a[href*="buttercup/"] {
 	color: #8c7503;
 }
@@ -181,4 +185,12 @@ a[href*="koala/"] {
 
 a[href*="kangaroo/"] {
 	color: #A36D1F;
+}
+
+a[href*="robin/"] {
+	color: #a72b0c;
+}
+
+a[href*="frosting/"] {
+	color: #F676D2;
 }
