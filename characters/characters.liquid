@@ -27,15 +27,15 @@
 			{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
 			{% imageOrig "gallery/" bruhhh ch.name %}
 			<div class="title-info">
-				<h1 id="name">{{ ch.name }}</h1>
-				{% if ch.namezh %}<h1 id="name-zh">{{ ch.namezh }}</h1>{% endif %}
+				<h1>{{ ch.name }}</h1>
+				{% if ch.namezh %}<h1>{{ ch.namezh }}</h1>{% endif %}
 				{% if ch.desc %}
 					{{ ch.desc | renderMD }}
 				{% endif %}
 			</div>
 		</div>
 		{% if ch.attr %}
-			<h2 id="info">Info <a class="collapsible tooltip" target="#infocollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
+			<h2>Info <a class="collapsible tooltip" target="#infocollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
 			<div id="infocollapse" class="collapsible-content">
 				{% renderFile './characters/characterinfo.md' %}
 			</div>
@@ -54,7 +54,7 @@
 			<p class="quote">{{ ch.quote }}</p>
 		{% endif %}
 		{% if ch.about %}
-			<h2 id="about">About</h2>
+			<h2>About</h2>
 			{% assign firstFourLetters = ch.about | slice: 0, 4 %}
 			{% if firstFourLetters == 'file' %}
 				{% assign filePath = './characters/files/' | append: ch.abbr | append: " about.md" %}
@@ -64,7 +64,7 @@
 			{% endif %}
 		{% endif %}
 		{% if ch.bio %}
-			<h2 id="bio">Biography</h2>
+			<h2>Biography</h2>
 			{% assign firstFourLetters = ch.bio | slice: 0, 4 %}
 			{% if firstFourLetters == 'file' %}
 				{% comment %} {% assign fileName = ch.abbr | append: " bio.md" %}
@@ -77,7 +77,7 @@
 		{% endif %}
 		{% assign filteredRelations = relationships | filterRelations: ch.name %}
 		{% if filteredRelations.size > 0 %}
-			<h2 id="relations">Relationships</h2>
+			<h2>Relationships</h2>
 			{% for rel in filteredRelations %}
 				{% assign otherCh = rel | getOtherCh: ch.name %}
 				<h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %}: {{ otherCh[1] }}{% endif %}</h3>
@@ -85,7 +85,7 @@
 			{% endfor %}
 		{% endif %}
 		{% if ch.trivia %}
-			<h2 id="trivia">Trivia</h2>
+			<h2>Trivia</h2>
 			<ul>
 				{% for tri in ch.trivia %}
 					<li>{{ tri }}</li>
@@ -93,7 +93,7 @@
 			</ul>
 		{% endif %}
 		{% if ch.insp %}
-			<h2 id="insp">Inspiration <a class="collapsible tooltip" target="#inspcollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
+			<h2>Inspiration <a class="collapsible tooltip" target="#inspcollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
 			<div id="inspcollapse" class="collapsible-content">
 				<p>The inspirations for the design and personalities of this character. This lists <i>all</i> the inspirations I've ever had, so if you see any other similarities, they're just coincidences.</p>
 			</div>
@@ -103,12 +103,12 @@
 				{% endfor %}
 			</ul>
 		{% endif %}
-		<h2 id="palette">Color palette</h2>
+		<h2>Color palette</h2>
 		{% assign palette = ch | getFullPalette %}
 		{% include 'palette' colors: palette %}
 		{% assign filteredGallery = gallery | filterGallery: ch.name %}
 		{% if filteredGallery.size > 0 %}
-			<h2 id="gallery">Gallery</h2>
+			<h2>Gallery</h2>
 				{% comment %} <div style="background-color:{{ ch.color }}">
 					<div>
 						<span>{{ ch.color }}</span>
@@ -125,7 +125,7 @@
 				{% endfor %} {% endcomment %}
 			{% include 'gallery' imgs: filteredGallery %}
 		{% endif %}
-		<h2 id="perms">Drawing Permissions <a class="collapsible tooltip" target="#permscollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
+		<h2>Drawing Permissions <a class="collapsible tooltip" target="#permscollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
 		<div id="permscollapse" class="collapsible-content">
 			<p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
 			{% if ch.note %}
