@@ -25,6 +25,9 @@ navOptions:
 	{% if page.url == '/characters/' %}
 		<link rel="stylesheet" href="/css/characterspage.css"/>
 	{% endif %}
+	{% if page.url == '/characters/' or page.url == '/characters/palettes/' %}
+		<link rel="stylesheet" href="/css/palette.css"/>
+	{% endif %}
 	{% if page.url contains '/gallery/' or page.url contains '/characters/' %}
 		<link rel="stylesheet" href="/css/gallery.css"/>
 	{% endif %}

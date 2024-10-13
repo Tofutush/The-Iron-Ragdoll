@@ -103,11 +103,13 @@
 				{% endfor %}
 			</ul>
 		{% endif %}
+		<h2 id="palette">Color palette</h2>
+		{% assign palette = ch | getFullPalette %}
+		{% include 'palette' colors: palette %}
 		{% assign filteredGallery = gallery | filterGallery: ch.name %}
 		{% if filteredGallery.size > 0 %}
-			<h2 id="design">Gallery</h2>
-			<div class="palette">
-				<div style="background-color:{{ ch.color }}">
+			<h2 id="gallery">Gallery</h2>
+				{% comment %} <div style="background-color:{{ ch.color }}">
 					<div>
 						<span>{{ ch.color }}</span>
 						<span>accent</span>
@@ -120,8 +122,7 @@
 							<span>{{ p[0] }}</span>
 						</div>
 					</div>
-				{% endfor %}
-			</div>
+				{% endfor %} {% endcomment %}
 			{% include 'gallery' imgs: filteredGallery %}
 		{% endif %}
 		<h2 id="perms">Drawing Permissions <a class="collapsible tooltip" target="#permscollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
