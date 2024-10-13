@@ -312,6 +312,9 @@
       "Weapon": "Playing cards with blade edges"
     },
     "palette": {
+      "horns": "#905605",
+      "horn grooves": "#754400",
+      "shaved hair": "#897E67",
       "hair": "#2E2E2E"
     },
     "note": "- Left horn points down, right horn points up."
@@ -792,6 +795,121 @@
       "Nationality": "Bauhinian"
     },
     "palette": {
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "cat": "Misc",
+    "name": "Fern",
+    "abbr": "fn",
+    "color": "#089b19",
+    "attr": {
+      "Gender": "Female",
+      "Nationality": "Fantoni"
+    },
+    "palette": {
+      "horns": "#905605",
+      "horn grooves": "#754400",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "cat": "Misc",
+    "name": "Sunny",
+    "abbr": "sn",
+    "color": "#071cbb",
+    "attr": {
+      "Gender": "Male",
+      "Nationality": "Fantoni"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "cat": "Misc",
+    "name": "Snake",
+    "abbr": "sa",
+    "color": "#c30963",
+    "attr": {
+      "Full name":"Snake Cloudy",
+      "Gender": "Male",
+      "Nationality": "Atlasian"
+    },
+    "palette": {
+      "horns": "#905605",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "cat": "Misc",
+    "name": "Vampire",
+    "abbr": "vp",
+    "color": "#dd8736",
+    "attr": {
+      "Gender": "Male",
+      "Nationality": "Atlasian"
+    },
+    "palette": {
+      "horns": "#905605",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "cat": "Misc",
+    "name": "Snowball",
+    "abbr": "sb",
+    "color": "#D920D2",
+    "attr": {
+      "Gender": "Female",
+      "Nationality": "Moose",
+      "Power": "Invisibility"
+    },
+    "palette": {
+      "horns": "#905605",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "cat": "Misc",
+    "name": "Lark",
+    "abbr": "lk",
+    "color": "#06B87B",
+    "attr": {
+      "Gender": "Male (trans)",
+      "Nationality": "Moose"
+    },
+    "palette": {
+      "horns": "#905605",
+      "horn grooves": "#754400",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "cat": "Misc",
+    "name": "Moonbeam",
+    "abbr": "mb",
+    "color": "#08d8e7",
+    "attr": {
+      "Gender": "Female",
+      "Nationality": "Sylvandian"
+    },
+    "palette": {
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "cat": "Misc",
+    "name": "Thunder",
+    "abbr": "tn",
+    "color":"#DCCB09",
+    "attr": {
+      "Gender": "Male",
+      "Nationality": "Sylvandian"
+    },
+    "palette": {
+      "horns": "#905605",
+      "horn grooves": "#754400",
       "hair": "#2E2E2E"
     }
   }
