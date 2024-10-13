@@ -194,3 +194,35 @@ a[href*="robin/"] {
 a[href*="frosting/"] {
 	color: #F676D2;
 }
+
+a[href*="fern/"] {
+	color: #089b19;
+}
+
+a[href*="sunny/"] {
+	color: #071cbb;
+}
+
+a[href*="snake/"] {
+	color: #c30963;
+}
+
+a[href*="vampire/"] {
+	color: #dd8736;
+}
+
+a[href*="snowball/"] {
+	color: #D920D2;
+}
+
+a[href*="lark/"] {
+	color: #06B87B;
+}
+
+a[href*="moonbeam/"] {
+	color: #08d8e7;
+}
+
+a[href*="thunder/"] {
+	color: #DCCB09;
+}
