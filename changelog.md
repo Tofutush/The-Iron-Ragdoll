@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-14
+
+- Added blockquote style.
+- Edited [Atlasia](/world/atlasia/) a bit.
+
 ## 2024-10-13
 
 - Added some characters but they have like no info.
