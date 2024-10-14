@@ -101,6 +101,44 @@ smallweb-subway-comics {
 	text-indent: 0;
 }
 
+blockquote {
+	font-style: italic;
+	margin: 1em 2em;
+	padding: 2em;
+	position: relative;
+	text-indent: 0;
+}
+
+blockquote::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 20%;
+	height: 20%;
+	border-top: 4px solid var(--box);
+	border-left: 4px solid var(--box);
+}
+
+blockquote::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 20%;
+	height: 20%;
+	border-bottom: 4px solid var(--box);
+	border-right: 4px solid var(--box);
+}
+
+blockquote p:first-child {
+	margin-top: 0;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
 pre {
 	max-width: 100%;
 	overflow-x: auto;
