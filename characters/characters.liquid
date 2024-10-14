@@ -20,7 +20,6 @@
 ---
 
 <link rel="stylesheet" href="/css/characters.css"/>
-{% comment %} <a id="back" href="../"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg> Back</a> {% endcomment %}
 <div class="desc {% if ch.darkcolor %}darkcolor{% endif %}" style="--c: {{ ch.color }};">
 	<div class="left-side">
 		<div class="title">
@@ -51,7 +50,7 @@
 	</div>
 	<div class="right-side">
 		{% if ch.quote %}
-			<p class="quote">{{ ch.quote }}</p>
+			<blockquote><p>{{ ch.quote }}</p></blockquote>
 		{% endif %}
 		{% if ch.about %}
 			<h2>About</h2>
@@ -67,9 +66,6 @@
 			<h2>Biography</h2>
 			{% assign firstFourLetters = ch.bio | slice: 0, 4 %}
 			{% if firstFourLetters == 'file' %}
-				{% comment %} {% assign fileName = ch.abbr | append: " bio.md" %}
-				{% assign filePath = './characters/files/' | append: fileName %}
-				{% renderFile filePath %} {% endcomment %}
 				<p><a href="biography/">Read more!</a></p>
 			{% else %}
 				{{ ch.bio | renderMD }}
@@ -109,20 +105,6 @@
 		{% assign filteredGallery = gallery | filterGallery: ch.name %}
 		{% if filteredGallery.size > 0 %}
 			<h2>Gallery</h2>
-				{% comment %} <div style="background-color:{{ ch.color }}">
-					<div>
-						<span>{{ ch.color }}</span>
-						<span>accent</span>
-					</div>
-				</div>
-				{% for p in ch.palette %}
-					<div style="background-color:{{ p[1] }}">
-						<div>
-							<span>{{ p[1] | upperCase }}</span>
-							<span>{{ p[0] }}</span>
-						</div>
-					</div>
-				{% endfor %} {% endcomment %}
 			{% include 'gallery' imgs: filteredGallery %}
 		{% endif %}
 		<h2>Drawing Permissions <a class="collapsible tooltip" target="#permscollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
