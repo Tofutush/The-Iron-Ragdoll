@@ -1,1252 +1,1292 @@
 [
-    {
-        "name": "alaska thumb",
-        "type": "png",
-        "ch": [
-            "alaska"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "atlasia flag",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09"
-    },
-    {
-        "name": "atlasia token",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09"
-    },
-    {
-        "name": "bauhinia flag",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09",
-        "comment": "The flag of the Republic of Bauhinia.\n\nIn the middle of the flag is a bauhinia flower with leaves behind it, the symbol of the Republic of Bauhinia. The flower grows in the subtropics -- all throughout Bauhinia -- and blooms in the winter. It stands for the core Bauhinia values of family, harmony, and love."
-    },
-    {
-        "name": "mssb stamp confidential",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-07-27",
-        "comment": "This is the stamp the Ministry of State Security stamps on its *confidential* documents."
-    },
-    {
-        "name": "mssb stamp",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-07-27",
-        "comment": "This is the stamp the Ministry of State Security stamps on its documents."
-    },
-    {
-        "name": "mssb symbol",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-07-27"
-    },
-    {
-        "name": "bauhinia police symbol",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-30",
-        "comment": "I had so much fun drawing all these bauhinia variations. This is the symbol of the Bauhinian police, or the Public Security Bureau of Bauhinia.\n\nThe flower petals are presented as sharp blades, symbolizing the will of the police force in safeguarding the Bauhinian people."
-    },
-    {
-        "name": "bauhinia police symbol title",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-07-27"
-    },
-    {
-        "name": "bauhinia token",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09"
-    },
-    {
-        "name": "buttercup stand",
-        "type": "png",
-        "ch": [
-            "buttercup"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-05-12",
-        "comment": "Buttercup! She's so cool and badass.\n\nI drew her on a piece of hotel scratch paper, and later turned that picture digital. I don't really know how her story would fit into the comic, but here: she was sold into prostitution at a young age (how young? IDK) and those boots were from a client who refused to pay real money. Then she escaped and joined a rebellion fighting for Fleaish independence from Sylvandia. I've yet to think of the nature of this rebellion."
-    },
-    {
-        "name": "buttercup thumb",
-        "type": "png",
-        "ch": [
-            "buttercup"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-14"
-    },
-    {
-        "name": "cms friends",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "sky",
-            "qibli",
-            "firecrackers"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-06-25",
-        "comment": "Something I drew out of boredom and never bothered to shade."
-    },
-    {
-        "name": "cosmo thumb",
-        "type": "png",
-        "ch": [
-            "cosmo"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "dragonfly thumb",
-        "type": "png",
-        "ch": [
-            "dragonfly"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "fantasy thumb",
-        "type": "png",
-        "ch": [
-            "fantasy"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-14"
-    },
-    {
-        "name": "fanton flag",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09",
-        "comment": "The flag of the Republic of Fanton.\n\n"
-    },
-    {
-        "name": "fanton symbol",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09"
-    },
-    {
-        "name": "fanton token",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09"
-    },
-    {
-        "name": "fern thumb",
-        "type": "png",
-        "ch": [
-            "fern"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-07-27"
-    },
-    {
-        "name": "firecrackers thumb",
-        "type": "png",
-        "ch": [
-            "firecrackers"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-06-08"
-    },
-    {
-        "name": "guillotine thumb",
-        "type": "png",
-        "ch": [
-            "guillotine"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "icicle old",
-        "type": "png",
-        "ch": [
-            "icicle"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2023-06-17",
-        "comment": "Icicle was an old character I cut. He was meant to be a co-investigator with Sparky, but I cut him because 1) I have one too many characters, 2) it's better for Sparky to be on her own, and 3) I don't have a reasonable explanation about why they didn't just make Icicle investigate by himself when *he* first arrived. So, bye, Icicle."
-    },
-    {
-        "name": "icicle thumb",
-        "type": "png",
-        "ch": [
-            "icicle"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-02-05"
-    },
-    {
-        "name": "int",
-        "type": "png",
-        "ch": [
-            "peacock",
-            "qibli",
-            "tephra",
-            "sparky"
-        ],
-        "scope": "comic",
-        "style": "sketch",
-        "date": "2024-07-12",
-        "comment": "This is pure shitpost. Peacock asks the three kids what \"int\" stands for. They each have their own answers."
-    },
-    {
-        "name": "ironheart thumb",
-        "type": "png",
-        "ch": [
-            "ironheart"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-14"
-    },
-    {
-        "name": "jerboa cute",
-        "type": "png",
-        "ch": [
-            "jerboa"
-        ],
-        "scope": "full-body",
-        "style": "fuzzy",
-        "date": "2024-01-31"
-    },
-    {
-        "name": "jerboa head",
-        "type": "png",
-        "ch": [
-            "jerboa"
-        ],
-        "scope": "headshot",
-        "style": "normal",
-        "date": "2024-02-02"
-    },
-    {
-        "name": "jerboa stand",
-        "type": "png",
-        "ch": [
-            "jerboa"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-06-02"
-    },
-    {
-        "name": "jerboa thumb",
-        "type": "png",
-        "ch": [
-            "jerboa"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "jerboa turn",
-        "type": "png",
-        "ch": [
-            "jerboa"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-07-17"
-    },
-    {
-        "name": "lark thumb",
-        "type": "png",
-        "ch": [
-            "lark"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-06-08"
-    },
-    {
-        "name": "melody old",
-        "type": "png",
-        "ch": [
-            "melody"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2023-06-17",
-        "comment": "This is an old picture, but honestly Melody hasn't changed."
-    },
-    {
-        "name": "melody sparky tephra",
-        "type": "png",
-        "ch": [
-            "melody",
-            "sparky",
-            "tephra"
-        ],
-        "scope": "half-body",
-        "style": "normal",
-        "date": "2024-06-25",
-        "comment": "Tephra, Sparky, and Melody as adults. They all became what's opposite of themselves.\n\nTephra is a cop, maintainer of law and order, when he used to live a life of crime. Sparky is a bodyguard for Animus, living for other people, guarding the interests of the few. Melody is a private detective, meddling in other people's affairs, when he used to keep to himself and mind only his own business."
-    },
-    {
-        "name": "melody thumb",
-        "type": "png",
-        "ch": [
-            "melody"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "moonbeam thumb",
-        "type": "png",
-        "ch": [
-            "moonbeam"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-06-08"
-    },
-    {
-        "name": "moreland flag",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09"
-    },
-    {
-        "name": "moreland symbol",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09"
-    },
-    {
-        "name": "moreland token",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09"
-    },
-    {
-        "name": "myriad thumb",
-        "type": "png",
-        "ch": [
-            "myriad"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "myriad wings",
-        "type": "png",
-        "ch": [
-            "myriad"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-05-26"
-    },
-    {
-        "name": "nightsun thumb",
-        "type": "png",
-        "ch": [
-            "nightsun"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-08-20"
-    },
-    {
-        "name": "peacock family",
-        "type": "png",
-        "ch": [
-            "amber",
-            "peacock",
-            "sparky",
-            "willow",
-            "fantasy",
-            "ironheart"
-        ],
-        "scope": "half-body",
-        "style": "normal",
-        "date": "2023-09-21",
-        "comment": "Peacock's family, all mysteriously happy. This is an old drawing; now, Amber never met Ironheart. And Fantasy's necklace should be light blue."
-    },
-    {
-        "name": "peacock thumb",
-        "type": "png",
-        "ch": [
-            "peacock"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "potato thumb",
-        "type": "png",
-        "ch": [
-            "potato"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-03-19",
-        "comment": "Potato is another character I cut. He was originally Tomato's twin brother, and the mailman. Now Alaska is the mailman."
-    },
-    {
-        "name": "qibli thumb",
-        "type": "png",
-        "ch": [
-            "qibli"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "ribbon head",
-        "type": "png",
-        "ch": [
-            "ribbon"
-        ],
-        "scope": "headshot",
-        "style": "normal",
-        "date": "2024-01-26"
-    },
-    {
-        "name": "ribbon thumb",
-        "type": "png",
-        "ch": [
-            "ribbon"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "ribbon turn",
-        "type": "png",
-        "ch": [
-            "ribbon"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-07-18"
-    },
-    {
-        "name": "sky thumb",
-        "type": "png",
-        "ch": [
-            "sky"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-06-25"
-    },
-    {
-        "name": "snake thumb",
-        "type": "png",
-        "ch": [
-            "snake"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-06-08"
-    },
-    {
-        "name": "snowball thumb",
-        "type": "png",
-        "ch": [
-            "snowball"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-06-08"
-    },
-    {
-        "name": "sparky & pearl stand",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "pearl"
-        ],
-        "scope": "full-body",
-        "style": "messy",
-        "date": "2024-06-21"
-    },
-    {
-        "name": "sparky and nightsun spinning",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "nightsun"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-03-21"
-    },
-    {
-        "name": "sparky carrying pearl",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "pearl"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-03-13"
-    },
-    {
-        "name": "sparky cute",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "full-body",
-        "style": "fuzzy",
-        "date": "2023-10-17"
-    },
-    {
-        "name": "sparky dumb",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-05-26"
-    },
-    {
-        "name": "sparky elegance glowbugs",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "elegance"
-        ],
-        "scope": "full-body",
-        "style": "lineless",
-        "date": "2024-06-30",
-        "comment": "This is some vague plot idea in my head, that Elegance and Sparky got kidnapped and that's what set Sparky on her path as a bodyguard.\n\nThe song is 虫儿飞, or Glowbugs Fly. I translated the lyrics because I like it and I don't think anyone else ever translated them. I am not a translator and two of my worst school subjects are Chinese and English, so don't yell."
-    },
-    {
-        "name": "sparky expressions",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "headshot",
-        "style": "normal",
-        "date": "2024-04-30"
-    },
-    {
-        "name": "sparky head",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "headshot",
-        "style": "normal",
-        "date": "2024-01-26"
-    },
-    {
-        "name": "sparky jerboa deal",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "jerboa"
-        ],
-        "scope": "full-body",
-        "style": "messy",
-        "date": "2024-06-20"
-    },
-    {
-        "name": "sparky old",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2023-06-13",
-        "comment": "An old picture of Sparky."
-    },
-    {
-        "name": "sparky thumb",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "sparky turn",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-05-26"
-    },
-    {
-        "name": "sparky xmas 2023",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-03-17"
-    },
-    {
-        "name": "sparky zombie",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-06-23",
-        "comment": "To this day I still don't know why I drew this."
-    },
-    {
-        "name": "starcorp flag",
-        "type": "svg",
-        "ch": [
-            "starcorp"
-        ],
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-03-09"
-    },
-    {
-        "name": "starcorp logo",
-        "type": "svg",
-        "ch": [
-            "starcorp"
-        ],
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-07-13"
-    },
-    {
-        "name": "starcorp private security logo",
-        "type": "svg",
-        "ch": [
-            "starcorp"
-        ],
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-07-13"
-    },
-    {
-        "name": "starry thumb",
-        "type": "png",
-        "ch": [
-            "starry"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "sunny thumb",
-        "type": "png",
-        "ch": [
-            "sunny"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-06-08"
-    },
-    {
-        "name": "sylvandia flag",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-03-05"
-    },
-    {
-        "name": "sylvandia token",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-06-09"
-    },
-    {
-        "name": "tephra head",
-        "type": "png",
-        "ch": [
-            "tephra"
-        ],
-        "scope": "headshot",
-        "style": "normal",
-        "date": "2024-01-31"
-    },
-    {
-        "name": "tephra stand",
-        "type": "png",
-        "ch": [
-            "tephra"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-06-02"
-    },
-    {
-        "name": "tephra thumb",
-        "type": "png",
-        "ch": [
-            "tephra"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "tephra turn",
-        "type": "png",
-        "ch": [
-            "tephra"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-07-10"
-    },
-    {
-        "name": "tephra xmas 2023",
-        "type": "png",
-        "ch": [
-            "tephra"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-03-17"
-    },
-    {
-        "name": "thunder thumb",
-        "type": "png",
-        "ch": [
-            "thunder"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-06-08"
-    },
-    {
-        "name": "tomato thumb",
-        "type": "png",
-        "ch": [
-            "tomato"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "tundra stand",
-        "type": "png",
-        "ch": [
-            "tundra"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-06-02"
-    },
-    {
-        "name": "tundra thumb",
-        "type": "png",
-        "ch": [
-            "tundra"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "willow thumb",
-        "type": "png",
-        "ch": [
-            "willow"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "tundra xmas 2023",
-        "type": "png",
-        "ch": [
-            "tundra"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-03-17"
-    },
-    {
-        "name": "vampire thumb",
-        "type": "png",
-        "ch": [
-            "vampire"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-06-08"
-    },
-    {
-        "name": "cosmo turn",
-        "type": "png",
-        "ch": [
-            "cosmo"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-07-20"
-    },
-    {
-        "name": "animus thumb",
-        "type": "png",
-        "ch": [
-            "animus"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-07-21"
-    },
-    {
-        "name": "amber thumb",
-        "type": "png",
-        "ch": [
-            "amber"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-05-13"
-    },
-    {
-        "name": "beauty thumb",
-        "type": "png",
-        "ch": [
-            "beauty"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-07-27"
-    },
-    {
-        "name": "chastity thumb",
-        "type": "png",
-        "ch": [
-            "chastity"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-07-27"
-    },
-    {
-        "name": "devotion thumb",
-        "type": "png",
-        "ch": [
-            "devotion"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-07-27"
-    },
-    {
-        "name": "elegance thumb",
-        "type": "png",
-        "ch": [
-            "elegance"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-07-27"
-    },
-    {
-        "name": "cherry hyrax family",
-        "type": "png",
-        "ch": [
-            "beauty",
-            "chastity",
-            "devotion",
-            "elegance",
-            "animus"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-08-03"
-    },
-    {
-        "name": "nightsun motorbike",
-        "type": "png",
-        "ch": [
-            "nightsun"
-        ],
-        "scope": "half-body",
-        "style": "normal",
-        "date": "2024-08-11",
-        "comment": "That is *not* a motorbike despite the image name. I *meant* to draw one though. Also his highlight is wrong. It's supposed to be up, down, up, similar to Peacock and opposite Sparky."
-    },
-    {
-        "name": "jerboa family",
-        "type": "png",
-        "ch": [
-            "jerboa",
-            "jaculus",
-            "koala",
-            "kangaroo"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-08-19",
-        "comment": "Kangaroo looks like he has such a small face..."
-    },
-    {
-        "name": "sparky willow",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "willow"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-08-20"
-    },
-    {
-        "name": "qibli stand wand",
-        "type": "png",
-        "ch": [
-            "qibli"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-08-22"
-    },
-    {
-        "name": "sparky ironheart interrogation",
-        "type": "png",
-        "ch": [
-            "ironheart",
-            "sparky"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "comment": "Sibling rivalry done right.",
-        "date": "2024-08-23"
-    },
-    {
-        "name": "goose thumb",
-        "type": "png",
-        "ch": [
-            "goose"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-08-26"
-    },
-    {
-        "name": "halcyon thumb",
-        "type": "png",
-        "ch": [
-            "halcyon"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-08-26"
-    },
-    {
-        "name": "paperweight thumb",
-        "type": "png",
-        "ch": [
-            "paperweight"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-08-26"
-    },
-    {
-        "name": "pumpkin thumb",
-        "type": "png",
-        "ch": [
-            "pumpkin"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-08-26"
-    },
-    {
-        "name": "goose stand",
-        "type": "png",
-        "ch": [
-            "goose"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-08-27"
-    },
-    {
-        "name": "halcyon stand",
-        "type": "png",
-        "ch": [
-            "halcyon"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-08-27"
-    },
-    {
-        "name": "mss groupshot",
-        "type": "png",
-        "ch": [
-            "halcyon",
-            "pumpkin",
-            "goose",
-            "paperweight"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-08-28"
-    },
-    {
-        "name": "pumpkin stand",
-        "type": "png",
-        "ch": [
-            "pumpkin"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-08-27"
-    },
-    {
-        "name": "paperweight stand",
-        "type": "png",
-        "ch": [
-            "paperweight"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-08-27"
-    },
-    {
-        "name": "sparky nightsun back",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "nightsun"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-09"
-    },
-    {
-        "name": "sparky dragonfly",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "dragonfly"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-14",
-        "comment": "Drew this at like 1 a.m.. I was not well."
-    },
-    {
-        "name": "buzz",
-        "type": "png",
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-19",
-        "comment": "Art trade with [QuikSylver](https://toyhou.se/QuikSylver), featuring [Buzz](https://toyhou.se/24316710.polly-buzzcock/24934083.negaverse-au-mc-buzz)."
-    },
-    {
-        "name": "mitzi ashford",
-        "type": "png",
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-11",
-        "comment": "Art trade with [Ozzanpa_Wowzers](https://toyhou.se/Ozzanpa_Wowzers), featuring [Mitzi](https://toyhou.se/21751118.mitzi) and [Ashford](https://toyhou.se/15762038.ashford)."
-    },
-    {
-        "name": "zuperbg",
-        "type": "png",
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-09",
-        "comment": "Art trade with [HeebHullaballo](https://toyhou.se/HeebHullaballo), featuring [Zuper](https://toyhou.se/23960825.zuper)."
-    },
-    {
-        "name": "odona",
-        "type": "png",
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-08",
-        "comment": "Gift art for [wingsofmoonlight](https://toyhou.se/wingsofmoonlight), featuring [Odona](https://toyhou.se/29103402.odona)."
-    },
-    {
-        "name": "lepolde",
-        "type": "png",
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-21",
-        "comment": "Art trade with [Honk-Shoo](https://toyhou.se/Honk-Shoo), featuring [Lepolde](https://toyhou.se/27103327.lepolde-leppy)."
-    },
-    {
-        "name": "pearl thumb",
-        "type": "png",
-        "ch": [
-            "pearl"
-        ],
-        "scope": "headshot",
-        "style": "lineless",
-        "date": "2024-09-21"
-    },
-    {
-        "name": "cosmo alaska subway",
-        "type": "png",
-        "ch": [
-            "cosmo",
-            "alaska"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-22",
-        "comment": "I don't draw these that often, so here it is: Cosmo and Alaska on a late-night subway.\n\nCan't be sure if this is canon though. I mean, right now in [Hillslope](/world/bauhinia/coastline/hillslope/) there aren't any *subways* of course, and I haven't really thought about what they're going to do after leaving Hillslope."
-    },
-    {
-        "name": "alex oris",
-        "type": "png",
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-25",
-        "comment": "Art trade with [mangocryptid](https://toyhou.se/mangocryptid), featuring [Alex](https://toyhou.se/13431827.alex-myers) and [Oris](https://toyhou.se/8024024.oris-mizrah-wip-profile)."
-    },
-    {
-        "name": "tbn soapbox",
-        "type": "png",
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-25",
-        "comment": "Art trade with [S04PB0X](https://toyhou.se/S04PB0X), featuring [Gimme A Minute, Needs Name](https://toyhou.se/29380911.gimme-a-minute-needs-name)."
-    },
-    {
-        "name": "melody jerboa",
-        "type": "png",
-        "ch": [
-            "melody",
-            "jerboa"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-09-27"
-    },
-    {
-        "name": "silhouettes",
-        "type": "png",
-        "ch": [
-            "sparky",
-            "ribbon",
-            "starry",
-            "tomato",
-            "guillotine",
-            "alaska",
-            "cosmo",
-            "tephra",
-            "jerboa",
-            "tundra",
-            "melody",
-            "dragonfly"
-        ],
-        "scope": "full-body",
-        "style": "lineless",
-        "date": "2024-09-30"
-    },
-    {
-        "name": "westavia flag",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-10-02",
-        "comment": "The flag of the Republic of [Westavia](/world/westavia/)."
-    },
-    {
-        "name": "westavia token",
-        "type": "svg",
-        "scope": "design",
-        "style": "lineless",
-        "date": "2024-10-02"
-    },
-    {
-        "name": "sparky nuke",
-        "type": "png",
-        "ch": [
-            "sparky"
-        ],
-        "scope": "full-body",
-        "style": "normal",
-        "date": "2024-10-02"
-    },
-    {
-        "name": "kids garbage",
-        "type": "png",
-        "ch": [
-            "qibli",
-            "sky",
-            "firecrackers",
-            "sparky"
-        ],
-        "scope": "headshot",
-        "style": "normal",
-        "date": "2024-10-03"
-    },
-    {
-        "name": "qibli sit",
-        "type": "png",
-        "ch": [
-            "qibli"
-        ],
-        "scope": "full-body",
-        "style": "lineless",
-        "date": "2024-10-04",
-        "comment": "Hurricane bauhinias.\n\nI miss my old home."
-    }
+  {
+    "name": "alaska thumb",
+    "type": "png",
+    "ch": [
+      "alaska"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "atlasia flag",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09"
+  },
+  {
+    "name": "atlasia token",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09"
+  },
+  {
+    "name": "bauhinia flag",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09",
+    "comment": "The flag of the Republic of Bauhinia.\n\nIn the middle of the flag is a bauhinia flower with leaves behind it, the symbol of the Republic of Bauhinia. The flower grows in the subtropics -- all throughout Bauhinia -- and blooms in the winter. It stands for the core Bauhinia values of family, harmony, and love."
+  },
+  {
+    "name": "mssb stamp confidential",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-07-27",
+    "comment": "This is the stamp the Ministry of State Security stamps on its *confidential* documents."
+  },
+  {
+    "name": "mssb stamp",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-07-27",
+    "comment": "This is the stamp the Ministry of State Security stamps on its documents."
+  },
+  {
+    "name": "mssb symbol",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-07-27"
+  },
+  {
+    "name": "bauhinia police symbol",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-30",
+    "comment": "I had so much fun drawing all these bauhinia variations. This is the symbol of the Bauhinian police, or the Public Security Bureau of Bauhinia.\n\nThe flower petals are presented as sharp blades, symbolizing the will of the police force in safeguarding the Bauhinian people."
+  },
+  {
+    "name": "bauhinia police symbol title",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-07-27"
+  },
+  {
+    "name": "bauhinia token",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09"
+  },
+  {
+    "name": "buttercup stand",
+    "type": "png",
+    "ch": [
+      "buttercup"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-05-12",
+    "comment": "Buttercup! She's so cool and badass.\n\nI drew her on a piece of hotel scratch paper, and later turned that picture digital. I don't really know how her story would fit into the comic, but here: she was sold into prostitution at a young age (how young? IDK) and those boots were from a client who refused to pay real money. Then she escaped and joined a rebellion fighting for Fleaish independence from Sylvandia. I've yet to think of the nature of this rebellion."
+  },
+  {
+    "name": "buttercup thumb",
+    "type": "png",
+    "ch": [
+      "buttercup"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-14"
+  },
+  {
+    "name": "cms friends",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "sky",
+      "qibli",
+      "firecrackers"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-06-25",
+    "comment": "Something I drew out of boredom and never bothered to shade."
+  },
+  {
+    "name": "cosmo thumb",
+    "type": "png",
+    "ch": [
+      "cosmo"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "dragonfly thumb",
+    "type": "png",
+    "ch": [
+      "dragonfly"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "fantasy thumb",
+    "type": "png",
+    "ch": [
+      "fantasy"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-14"
+  },
+  {
+    "name": "fanton flag",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09",
+    "comment": "The flag of the Republic of Fanton.\n\n"
+  },
+  {
+    "name": "fanton symbol",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09"
+  },
+  {
+    "name": "fanton token",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09"
+  },
+  {
+    "name": "fern thumb",
+    "type": "png",
+    "ch": [
+      "fern"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-07-27"
+  },
+  {
+    "name": "firecrackers thumb",
+    "type": "png",
+    "ch": [
+      "firecrackers"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-06-08"
+  },
+  {
+    "name": "guillotine thumb",
+    "type": "png",
+    "ch": [
+      "guillotine"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "icicle old",
+    "type": "png",
+    "ch": [
+      "icicle"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2023-06-17",
+    "comment": "Icicle was an old character I cut. He was meant to be a co-investigator with Sparky, but I cut him because 1) I have one too many characters, 2) it's better for Sparky to be on her own, and 3) I don't have a reasonable explanation about why they didn't just make Icicle investigate by himself when *he* first arrived. So, bye, Icicle."
+  },
+  {
+    "name": "icicle thumb",
+    "type": "png",
+    "ch": [
+      "icicle"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-02-05"
+  },
+  {
+    "name": "int",
+    "type": "png",
+    "ch": [
+      "peacock",
+      "qibli",
+      "tephra",
+      "sparky"
+    ],
+    "scope": "comic",
+    "style": "sketch",
+    "date": "2024-07-12",
+    "comment": "This is pure shitpost. Peacock asks the three kids what \"int\" stands for. They each have their own answers."
+  },
+  {
+    "name": "ironheart thumb",
+    "type": "png",
+    "ch": [
+      "ironheart"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-14"
+  },
+  {
+    "name": "jerboa cute",
+    "type": "png",
+    "ch": [
+      "jerboa"
+    ],
+    "scope": "full-body",
+    "style": "fuzzy",
+    "date": "2024-01-31"
+  },
+  {
+    "name": "jerboa head",
+    "type": "png",
+    "ch": [
+      "jerboa"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2024-02-02"
+  },
+  {
+    "name": "jerboa stand",
+    "type": "png",
+    "ch": [
+      "jerboa"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-06-02"
+  },
+  {
+    "name": "jerboa thumb",
+    "type": "png",
+    "ch": [
+      "jerboa"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "jerboa turn",
+    "type": "png",
+    "ch": [
+      "jerboa"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-07-17"
+  },
+  {
+    "name": "lark thumb",
+    "type": "png",
+    "ch": [
+      "lark"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-06-08"
+  },
+  {
+    "name": "melody old",
+    "type": "png",
+    "ch": [
+      "melody"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2023-06-17",
+    "comment": "This is an old picture, but honestly Melody hasn't changed."
+  },
+  {
+    "name": "melody sparky tephra",
+    "type": "png",
+    "ch": [
+      "melody",
+      "sparky",
+      "tephra"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2024-06-25",
+    "comment": "Tephra, Sparky, and Melody as adults. They all became what's opposite of themselves.\n\nTephra is a cop, maintainer of law and order, when he used to live a life of crime. Sparky is a bodyguard for Animus, living for other people, guarding the interests of the few. Melody is a private detective, meddling in other people's affairs, when he used to keep to himself and mind only his own business."
+  },
+  {
+    "name": "melody thumb",
+    "type": "png",
+    "ch": [
+      "melody"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "moonbeam thumb",
+    "type": "png",
+    "ch": [
+      "moonbeam"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-06-08"
+  },
+  {
+    "name": "moreland flag",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09"
+  },
+  {
+    "name": "moreland symbol",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09"
+  },
+  {
+    "name": "moreland token",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09"
+  },
+  {
+    "name": "myriad thumb",
+    "type": "png",
+    "ch": [
+      "myriad"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "myriad wings",
+    "type": "png",
+    "ch": [
+      "myriad"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-05-26"
+  },
+  {
+    "name": "nightsun thumb",
+    "type": "png",
+    "ch": [
+      "nightsun"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-08-20"
+  },
+  {
+    "name": "peacock family",
+    "type": "png",
+    "ch": [
+      "amber",
+      "peacock",
+      "sparky",
+      "willow",
+      "fantasy",
+      "ironheart"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2023-09-21",
+    "comment": "Peacock's family, all mysteriously happy. This is an old drawing; now, Amber never met Ironheart. And Fantasy's necklace should be light blue."
+  },
+  {
+    "name": "peacock thumb",
+    "type": "png",
+    "ch": [
+      "peacock"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "potato thumb",
+    "type": "png",
+    "ch": [
+      "potato"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-03-19",
+    "comment": "Potato is another character I cut. He was originally Tomato's twin brother, and the mailman. Now Alaska is the mailman."
+  },
+  {
+    "name": "qibli thumb",
+    "type": "png",
+    "ch": [
+      "qibli"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "ribbon head",
+    "type": "png",
+    "ch": [
+      "ribbon"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2024-01-26"
+  },
+  {
+    "name": "ribbon thumb",
+    "type": "png",
+    "ch": [
+      "ribbon"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "ribbon turn",
+    "type": "png",
+    "ch": [
+      "ribbon"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-07-18"
+  },
+  {
+    "name": "sky thumb",
+    "type": "png",
+    "ch": [
+      "sky"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-06-25"
+  },
+  {
+    "name": "snake thumb",
+    "type": "png",
+    "ch": [
+      "snake"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-06-08"
+  },
+  {
+    "name": "snowball thumb",
+    "type": "png",
+    "ch": [
+      "snowball"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-06-08"
+  },
+  {
+    "name": "sparky & pearl stand",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "pearl"
+    ],
+    "scope": "full-body",
+    "style": "messy",
+    "date": "2024-06-21"
+  },
+  {
+    "name": "sparky and nightsun spinning",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "nightsun"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-03-21"
+  },
+  {
+    "name": "sparky carrying pearl",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "pearl"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-03-13"
+  },
+  {
+    "name": "sparky cute",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "fuzzy",
+    "date": "2023-10-17"
+  },
+  {
+    "name": "sparky dumb",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-05-26"
+  },
+  {
+    "name": "sparky elegance glowbugs",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "elegance"
+    ],
+    "scope": "full-body",
+    "style": "lineless",
+    "date": "2024-06-30",
+    "comment": "This is some vague plot idea in my head, that Elegance and Sparky got kidnapped and that's what set Sparky on her path as a bodyguard.\n\nThe song is 虫儿飞, or Glowbugs Fly. I translated the lyrics because I like it and I don't think anyone else ever translated them. I am not a translator and two of my worst school subjects are Chinese and English, so don't yell."
+  },
+  {
+    "name": "sparky expressions",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2024-04-30"
+  },
+  {
+    "name": "sparky head",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2024-01-26"
+  },
+  {
+    "name": "sparky jerboa deal",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "jerboa"
+    ],
+    "scope": "full-body",
+    "style": "messy",
+    "date": "2024-06-20"
+  },
+  {
+    "name": "sparky old",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2023-06-13",
+    "comment": "An old picture of Sparky."
+  },
+  {
+    "name": "sparky thumb",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "sparky turn",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-05-26"
+  },
+  {
+    "name": "sparky xmas 2023",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-03-17"
+  },
+  {
+    "name": "sparky zombie",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-06-23",
+    "comment": "To this day I still don't know why I drew this."
+  },
+  {
+    "name": "starcorp flag",
+    "type": "svg",
+    "ch": [
+      "starcorp"
+    ],
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-03-09"
+  },
+  {
+    "name": "starcorp logo",
+    "type": "svg",
+    "ch": [
+      "starcorp"
+    ],
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-07-13"
+  },
+  {
+    "name": "starcorp private security logo",
+    "type": "svg",
+    "ch": [
+      "starcorp"
+    ],
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-07-13"
+  },
+  {
+    "name": "starry thumb",
+    "type": "png",
+    "ch": [
+      "starry"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "sunny thumb",
+    "type": "png",
+    "ch": [
+      "sunny"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-06-08"
+  },
+  {
+    "name": "sylvandia flag",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-03-05"
+  },
+  {
+    "name": "sylvandia token",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-06-09"
+  },
+  {
+    "name": "tephra head",
+    "type": "png",
+    "ch": [
+      "tephra"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2024-01-31"
+  },
+  {
+    "name": "tephra stand",
+    "type": "png",
+    "ch": [
+      "tephra"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-06-02"
+  },
+  {
+    "name": "tephra thumb",
+    "type": "png",
+    "ch": [
+      "tephra"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "tephra turn",
+    "type": "png",
+    "ch": [
+      "tephra"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-07-10"
+  },
+  {
+    "name": "tephra xmas 2023",
+    "type": "png",
+    "ch": [
+      "tephra"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-03-17"
+  },
+  {
+    "name": "thunder thumb",
+    "type": "png",
+    "ch": [
+      "thunder"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-06-08"
+  },
+  {
+    "name": "tomato thumb",
+    "type": "png",
+    "ch": [
+      "tomato"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "tundra stand",
+    "type": "png",
+    "ch": [
+      "tundra"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-06-02"
+  },
+  {
+    "name": "tundra thumb",
+    "type": "png",
+    "ch": [
+      "tundra"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "willow thumb",
+    "type": "png",
+    "ch": [
+      "willow"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "tundra xmas 2023",
+    "type": "png",
+    "ch": [
+      "tundra"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-03-17"
+  },
+  {
+    "name": "vampire thumb",
+    "type": "png",
+    "ch": [
+      "vampire"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-06-08"
+  },
+  {
+    "name": "cosmo turn",
+    "type": "png",
+    "ch": [
+      "cosmo"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-07-20"
+  },
+  {
+    "name": "animus thumb",
+    "type": "png",
+    "ch": [
+      "animus"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-07-21"
+  },
+  {
+    "name": "amber thumb",
+    "type": "png",
+    "ch": [
+      "amber"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-05-13"
+  },
+  {
+    "name": "beauty thumb",
+    "type": "png",
+    "ch": [
+      "beauty"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-07-27"
+  },
+  {
+    "name": "chastity thumb",
+    "type": "png",
+    "ch": [
+      "chastity"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-07-27"
+  },
+  {
+    "name": "devotion thumb",
+    "type": "png",
+    "ch": [
+      "devotion"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-07-27"
+  },
+  {
+    "name": "elegance thumb",
+    "type": "png",
+    "ch": [
+      "elegance"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-07-27"
+  },
+  {
+    "name": "cherry hyrax family",
+    "type": "png",
+    "ch": [
+      "beauty",
+      "chastity",
+      "devotion",
+      "elegance",
+      "animus"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-08-03"
+  },
+  {
+    "name": "nightsun motorbike",
+    "type": "png",
+    "ch": [
+      "nightsun"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2024-08-11",
+    "comment": "That is *not* a motorbike despite the image name. I *meant* to draw one though. Also his highlight is wrong. It's supposed to be up, down, up, similar to Peacock and opposite Sparky."
+  },
+  {
+    "name": "jerboa family",
+    "type": "png",
+    "ch": [
+      "jerboa",
+      "jaculus",
+      "koala",
+      "kangaroo"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-08-19",
+    "comment": "Kangaroo looks like he has such a small face..."
+  },
+  {
+    "name": "sparky willow",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "willow"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-08-20"
+  },
+  {
+    "name": "qibli stand wand",
+    "type": "png",
+    "ch": [
+      "qibli"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-08-22"
+  },
+  {
+    "name": "sparky ironheart interrogation",
+    "type": "png",
+    "ch": [
+      "ironheart",
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "comment": "Sibling rivalry done right.",
+    "date": "2024-08-23"
+  },
+  {
+    "name": "goose thumb",
+    "type": "png",
+    "ch": [
+      "goose"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-08-26"
+  },
+  {
+    "name": "halcyon thumb",
+    "type": "png",
+    "ch": [
+      "halcyon"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-08-26"
+  },
+  {
+    "name": "paperweight thumb",
+    "type": "png",
+    "ch": [
+      "paperweight"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-08-26"
+  },
+  {
+    "name": "pumpkin thumb",
+    "type": "png",
+    "ch": [
+      "pumpkin"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-08-26"
+  },
+  {
+    "name": "goose stand",
+    "type": "png",
+    "ch": [
+      "goose"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-08-27"
+  },
+  {
+    "name": "halcyon stand",
+    "type": "png",
+    "ch": [
+      "halcyon"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-08-27"
+  },
+  {
+    "name": "mss groupshot",
+    "type": "png",
+    "ch": [
+      "halcyon",
+      "pumpkin",
+      "goose",
+      "paperweight"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-08-28"
+  },
+  {
+    "name": "pumpkin stand",
+    "type": "png",
+    "ch": [
+      "pumpkin"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-08-27"
+  },
+  {
+    "name": "paperweight stand",
+    "type": "png",
+    "ch": [
+      "paperweight"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-08-27"
+  },
+  {
+    "name": "sparky nightsun back",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "nightsun"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-09"
+  },
+  {
+    "name": "sparky dragonfly",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "dragonfly"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-14",
+    "comment": "Drew this at like 1 a.m.. I was not well."
+  },
+  {
+    "name": "buzz",
+    "type": "png",
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-19",
+    "comment": "Art trade with [QuikSylver](https://toyhou.se/QuikSylver), featuring [Buzz](https://toyhou.se/24316710.polly-buzzcock/24934083.negaverse-au-mc-buzz)."
+  },
+  {
+    "name": "mitzi ashford",
+    "type": "png",
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-11",
+    "comment": "Art trade with [Ozzanpa_Wowzers](https://toyhou.se/Ozzanpa_Wowzers), featuring [Mitzi](https://toyhou.se/21751118.mitzi) and [Ashford](https://toyhou.se/15762038.ashford)."
+  },
+  {
+    "name": "zuperbg",
+    "type": "png",
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-09",
+    "comment": "Art trade with [HeebHullaballo](https://toyhou.se/HeebHullaballo), featuring [Zuper](https://toyhou.se/23960825.zuper)."
+  },
+  {
+    "name": "odona",
+    "type": "png",
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-08",
+    "comment": "Gift art for [wingsofmoonlight](https://toyhou.se/wingsofmoonlight), featuring [Odona](https://toyhou.se/29103402.odona)."
+  },
+  {
+    "name": "lepolde",
+    "type": "png",
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-21",
+    "comment": "Art trade with [Honk-Shoo](https://toyhou.se/Honk-Shoo), featuring [Lepolde](https://toyhou.se/27103327.lepolde-leppy)."
+  },
+  {
+    "name": "pearl thumb",
+    "type": "png",
+    "ch": [
+      "pearl"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-09-21"
+  },
+  {
+    "name": "cosmo alaska subway",
+    "type": "png",
+    "ch": [
+      "cosmo",
+      "alaska"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-22",
+    "comment": "I don't draw these that often, so here it is: Cosmo and Alaska on a late-night subway.\n\nCan't be sure if this is canon though. I mean, right now in [Hillslope](/world/bauhinia/coastline/hillslope/) there aren't any *subways* of course, and I haven't really thought about what they're going to do after leaving Hillslope."
+  },
+  {
+    "name": "alex oris",
+    "type": "png",
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-25",
+    "comment": "Art trade with [mangocryptid](https://toyhou.se/mangocryptid), featuring [Alex](https://toyhou.se/13431827.alex-myers) and [Oris](https://toyhou.se/8024024.oris-mizrah-wip-profile)."
+  },
+  {
+    "name": "tbn soapbox",
+    "type": "png",
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-25",
+    "comment": "Art trade with [S04PB0X](https://toyhou.se/S04PB0X), featuring [Gimme A Minute, Needs Name](https://toyhou.se/29380911.gimme-a-minute-needs-name)."
+  },
+  {
+    "name": "melody jerboa",
+    "type": "png",
+    "ch": [
+      "melody",
+      "jerboa"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-09-27"
+  },
+  {
+    "name": "silhouettes",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "ribbon",
+      "starry",
+      "tomato",
+      "guillotine",
+      "alaska",
+      "cosmo",
+      "tephra",
+      "jerboa",
+      "tundra",
+      "melody",
+      "dragonfly"
+    ],
+    "scope": "full-body",
+    "style": "lineless",
+    "date": "2024-09-30"
+  },
+  {
+    "name": "westavia flag",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-10-02",
+    "comment": "The flag of the Republic of [Westavia](/world/westavia/)."
+  },
+  {
+    "name": "westavia token",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-10-02"
+  },
+  {
+    "name": "sparky nuke",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-10-02"
+  },
+  {
+    "name": "kids garbage",
+    "type": "png",
+    "ch": [
+      "qibli",
+      "sky",
+      "firecrackers",
+      "sparky"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2024-10-03"
+  },
+  {
+    "name": "qibli sit",
+    "type": "png",
+    "ch": [
+      "qibli"
+    ],
+    "scope": "full-body",
+    "style": "lineless",
+    "date": "2024-10-04",
+    "comment": "Hurricane bauhinias.\n\nI miss my old home."
+  },
+  {
+    "name": "jaculus thumb",
+    "type": "png",
+    "ch": [
+      "jaculus"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-10-15"
+  },
+  {
+    "name": "koala thumb",
+    "type": "png",
+    "ch": [
+      "koala"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-10-15"
+  },
+  {
+    "name": "kangaroo thumb",
+    "type": "png",
+    "ch": [
+      "kangaroo"
+    ],
+    "scope": "headshot",
+    "style": "lineless",
+    "date": "2024-10-15"
+  },
+  {
+    "name": "qibli gape",
+    "type": "png",
+    "ch": [
+      "qibli"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2024-10-15"
+  }
 ]

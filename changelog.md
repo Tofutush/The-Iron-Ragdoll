@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-15
+
+- Added `jaculus thumb.png`, `koala thumb.png`, `kangaroo thumb.png`, and `qibli gape.png`.
+- Edited some characters and relationships.
+
 ## 2024-10-14
 
 - Added blockquote style.

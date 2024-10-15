@@ -278,6 +278,7 @@
     "abbr": "qb",
     "color": "#440044",
     "desc": "Magic chicken ADHD girl.",
+    "quote": "This pearl was not from an oyster. It was from a human. No, not man-made. From a human, the way ivory was from elephants.",
     "attr": {
       "Full name": "Qibli Sandstorm Lightning",
       "Gender": "Female (cis)",
@@ -294,7 +295,10 @@
       "hair": "#2E2E2E"
     },
     "insp": [
-      "Qibli from <i>Wings of Fire</i> for the name"
+      "Qibli from <i>Wings of Fire</i> for the name."
+    ],
+    "trivia": [
+      "She always talks in past tense. If you see her talking in present tense, then I probably made a mistake."
     ]
   },
   {
@@ -468,6 +472,9 @@
       "sword blade": "#adadad",
       "suit": "#000"
     },
+    "trivia": [
+      "Strawberry is his favorite flavor of lolipop."
+    ],
     "note": "- The highlight on his hair goes up, down, and then up."
   },
   {
@@ -832,7 +839,7 @@
     "abbr": "sa",
     "color": "#c30963",
     "attr": {
-      "Full name":"Snake Cloudy",
+      "Full name": "Snake Cloudy",
       "Gender": "Male",
       "Nationality": "Atlasian"
     },
@@ -902,7 +909,7 @@
     "cat": "Misc",
     "name": "Thunder",
     "abbr": "tn",
-    "color":"#DCCB09",
+    "color": "#DCCB09",
     "attr": {
       "Gender": "Male",
       "Nationality": "Sylvandian"
