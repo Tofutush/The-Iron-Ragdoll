@@ -13,6 +13,19 @@
   {
     "ch": [
       [
+        "ribbon",
+        "caretaker"
+      ],
+      [
+        "starry",
+        "crush"
+      ]
+    ],
+    "desc": "Ribbon has a huge crush on Starry. (Before he got knocked out, or it's gonna be creepy.) After he went into the coma, Ribbon took his room key and took care of him, keeping him alive every day by jamming water and soup down his throat with a funnel. If Starry wasn't aware of her crush before, he certainly is now."
+  },
+  {
+    "ch": [
+      [
         "sparky",
         "daughter"
       ],
@@ -242,7 +255,7 @@
     "desc": ""
   },
   {
-    "ch":[
+    "ch": [
       [
         "jackpot",
         "father"
@@ -252,6 +265,6 @@
         "son"
       ]
     ],
-    "desc":""
+    "desc": ""
   }
 ]
