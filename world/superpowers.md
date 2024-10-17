@@ -8,9 +8,7 @@ eleventyNavigation:
 
 # Superpowers
 
-Some people are born with superpowers. There are some different types of superpowers. One person can only have up to one power.
-
-(Wow this intro sucks.)
+Some people are born with ~~convenient plot devices~~ superpowers. There are some different types of superpowers. One person can only have up to one power. Read about them!
 
 ## Superstrength
 
@@ -49,3 +47,11 @@ Never be late again! Be able to tell the time down to the second (if you're stro
 - Possessors: [Qibli](/characters/qibli/), [Halcyon](/characters/halcyon/)
 
 Now, this is the best one of all. Powerful, mystical, and artificially rare (at least in [Bauhinia](/world/bauhinia/)).
+
+Magicians can do nearly anything they put their minds to. Most of it involve telekinesis, moving and levitating things without touching them; teleportation, moving things -- or people -- to other places instantly; and all sorts of little gimmicks like changing the words written on a book to prank your friends. The only things magicians can't do is bring dead things back to life, and magically manipulate other people's minds. (They can chop up their brains if they're strong enough though. And able to evade all the cops and live as a wanted fugitive the rest of their lives.)
+
+Magicians can choose to take their magic out of their body and into a vessel. Then they can only use their magic if they're physically in contact with the vessel. The magic is still theirs, and still only they can use it. But while all other spells function the same, they *cannot* take the magic back out again unless the vessel is completely broken -- for example, snapped in half. Slight chipping doesn't count.
+
+## Related pages
+
+- [Superpowers in Bauhinia](/world/bauhinia/superpowers/)

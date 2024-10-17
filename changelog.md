@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-17
+
+- Edited some world pages.
+
 ## 2024-10-15
 
 - Added `jaculus thumb.png`, `koala thumb.png`, `kangaroo thumb.png`, and `qibli gape.png`.
