@@ -29,12 +29,14 @@ So basically:
 
 All of them are republics, but Sylvandia's a federation while others are all unitary.
 
-They've just got out of a big hot war and entered an eternal cold war between [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/), splitting the continent into the north and the south, with [Fanton](/world/fanton/) and [Atlasia](/world/atlasia/) being with [Bauhinia](/world/bauhinia/) and [Westavia](/world/westavia/) and [Sylvandia](/world/sylvandia/) with [Moreland](/world/moreland/).
+They're locked in an eternal cold war between [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/), splitting the continent into the north and the south, with [Atlasia](/world/atlasia/) being with [Bauhinia](/world/bauhinia/), and [Westavia](/world/westavia/) and [Sylvandia](/world/sylvandia/) with [Moreland](/world/moreland/). [Fanton](/world/fanton/) is unaligned. But that is going to change.
 
 Do the countries have any ideological difference? Maybe they once did. In the end they're just the same.
 
 The main focus here is [Bauhinia](/world/bauhinia/), a bureaucratic fanatic with guns running amok.
 
-There's a company called [Starcorp](/world/bauhinia/starcorp/), the most powerful company in Bauhinia, having gotten rich during the war through arms dealing. Now Starcorp controls most of Bauhinia's industries and resources. Starcorp's chairman is [Hyrax](/characters/hyrax/), who has a best friend and personal attorney [Peacock](/characters/peacock/), who has a stepdaughter [Sparky](/characters/sparky/) who is the main character of our story.
+There's a company called [Starcorp](/world/bauhinia/starcorp/), the most powerful company in Bauhinia, having gotten rich during the war through arms dealing. Now Starcorp controls most of Bauhinia's industries and resources. Starcorp's chairman is [Hyrax](/characters/hyrax/), who has a best friend and personal attorney [Peacock](/characters/peacock/), who has a stepdaughter [Sparky](/characters/sparky/) who is the main character of our story. The story follows Sparky as she solves mysteries everywhere she goes, while trying to understand the world around her. But what Sparky spends her whole life trying to understand is now dumped completely to you on this little webbed site. Say thank me now.
 
 Later, after Sparky grew up, Hyrax had his son [Animus](/characters/animus/) replace him as the chairman. Hyrax also had Sparky become Animus's bodyguard and Peacock's son [Ironheart](/characters/ironheart/) become the CEO. Keep it in the family, right?
+
+Okay that's about it for the overview. Read about the ~~plot devices~~ [superpowers](/world/superpowers/) some people in this world have. Or read about the [history](/world/history/) of the countries!
