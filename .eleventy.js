@@ -4,15 +4,30 @@ const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require('markdown-it');
 const markdownItFootnote = require("markdown-it-footnote");
-const markdownItAnchor = require('markdown-it-anchor')
+const markdownItAnchor = require('markdown-it-anchor');
 const { minify } = require('html-minifier-terser');
 
 module.exports = function (eleventyConfig) {
-	eleventyConfig.setLibrary("md", markdownIt({
+	const mdIt = markdownIt({
 		html: true,
 		breaks: true,
 		linkify: true
-	}).use(markdownItFootnote).use(markdownItAnchor));
+	}).use(markdownItFootnote).use(markdownItAnchor);
+	mdIt.renderer.rules.footnote_caption = (tokens, idx) => {
+		let n = Number(tokens[idx].meta.id + 1).toString();
+		if (tokens[idx].meta.subId > 0) n += `:${tokens[idx].meta.subId}`;
+		return ` ${n}`;
+	}
+	mdIt.renderer.rules.footnote_anchor = (tokens, idx, options, env, slf) => {
+		const n = Number(tokens[idx].meta.id + 1).toString();
+		let prefix = '';
+		let id = '';
+		if (typeof env.docId === 'string') id = `-${env.docId}-`;
+		else id = prefix + n;
+		if (tokens[idx].meta.subId > 0) id += `:${tokens[idx].meta.subId}`;
+		return ` <a href="#fnref${id}" class="footnote-backref"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-move-up"><path d="M8 6L12 2L16 6"/><path d="M12 2V22"/></svg></a>`;
+	}
+	eleventyConfig.setLibrary("md", mdIt);
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
