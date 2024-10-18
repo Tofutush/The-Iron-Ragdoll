@@ -20,13 +20,13 @@ The panda is the national symbol of Fanton.
 
 Fanton is north of [Bauhinia](/world/bauhinia/), with half of its area being in a basin.
 
-Its capital, [Lotus Lake City](/world/fanton/lotus%20lake%20city/), rests on a plain at the edge of the basin.
+Its capital, [Lotus Lake City](/world/fanton/lotus-lake-city/), rests on a plain at the edge of the basin.
 
 The closest geographical mirror to Bauhinia is Sichuan.
 
 ### Cities
 
-- [Lotus Lake City](/world/fanton/lotus%20lake%20city/) (capital)
+- [Lotus Lake City](/world/fanton/lotus-lake-city/) (capital)
 
 ## Government
 

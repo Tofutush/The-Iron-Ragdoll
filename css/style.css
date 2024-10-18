@@ -154,6 +154,18 @@ pre code {
 	background-color: transparent;
 }
 
+.footnotes-list {
+	font-size: var(--font-size);
+}
+
+.footnotes-list p {
+	text-indent: 0;
+}
+
+::marker {
+	color: var(--text);
+}
+
 #header {
 	color: var(--text);
 	padding-top: 2em;
@@ -424,6 +436,12 @@ ul {
 	color: var(--text);
 	font-size: var(--font-size);
 	list-style: disc;
+	padding-inline-start: 2em;
+}
+
+ol {
+	color: var(--text);
+	font-size: var(--font-size);
 	padding-inline-start: 2em;
 }
 

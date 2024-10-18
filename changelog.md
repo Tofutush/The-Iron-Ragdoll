@@ -9,7 +9,7 @@ eleventyNavigation:
 
 # Changelog
 
-## 2024-10-17
+## 2024-10-18
 
 - Edited some world pages.
 
@@ -124,9 +124,9 @@ eleventyNavigation:
 - Added world pages
   - [Coastline](/world/bauhinia/coastline/)
     - [Coastline Middle School](/world/bauhinia/coastline/cms/)
-    - [The Safe house](/world/bauhinia/coastline/safe%20house/)
-  - [Flower City](/world/bauhinia/flower%20city/)
-    - [University of Flower City](/world/bauhinia/flower%20city/ufc/)
+    - [The Safe house](/world/bauhinia/coastline/safe-house/)
+  - [Flower City](/world/bauhinia/flower-city/)
+    - [University of Flower City](/world/bauhinia/flower-city/ufc/)
 
 ## 2024-09-16
 

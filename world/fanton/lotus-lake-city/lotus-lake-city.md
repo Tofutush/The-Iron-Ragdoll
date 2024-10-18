@@ -8,4 +8,4 @@ eleventyNavigation:
 
 # Lotus Lake City
 
-The capital of [Fanton](/world/fanton/). There's a [lake](/world/fanton/lotus%20lake%20city/lotus%20lake/) in it.
+The capital of [Fanton](/world/fanton/). There's a [lake](/world/fanton/lotus-lake-city/lotus-lake/) in it.

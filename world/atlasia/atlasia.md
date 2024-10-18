@@ -18,7 +18,7 @@ The green money-lovers.
 
 Atlasia is north of [Fanton](/world/fanton/) and east of [Westavia](/world/westavia/).
 
-It is mostly fertile plains suitable for growing rice, wheat, and corn, with some mountain ranges near its western border with [Westavia](/world/westavia/). [Mt. Atlas](/world/atlasia/mt.%20atlas/), the tallest mountain on the continent, stands between Atlasia and [Moreland](/world/moreland/).
+It is mostly fertile plains suitable for growing rice, wheat, and corn, with some mountain ranges near its western border with [Westavia](/world/westavia/). [Mt. Atlas](/world/atlasia/mt-atlas/), the tallest mountain on the continent, stands between Atlasia and [Moreland](/world/moreland/).
 
 The closest geographical mirror to Atlasia is northern China.
 
@@ -32,9 +32,9 @@ In Atlasia, parents don't get to name their kids. Kids decide their own names. Y
 
 Marriage as an institution is abolished. Nobody can dictate who you can or can't be with.
 
-Also, there is no age where you "legally turn into an adult." You're considered mature enough when you consider yourself mature enough. Although, the consensus is whenever you hit puberty.
+Also, there is no age where you "legally turn into an adult." You're considered mature enough when you consider yourself mature enough. Although, the consensus is whenever you hit puberty.[^1]
 
-Okay I'm being carried away a bit there; I'm not sure whether Rand herself would think that was what she wanted. But I mean like, she's fucking dead and I do what I want.
+[^1]: Okay I'm being carried away a bit there; I'm not sure whether Rand herself would think that was what she wanted. But I mean like, she's fucking dead and I do what I want.
 
 ## History
 
