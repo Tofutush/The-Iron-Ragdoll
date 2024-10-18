@@ -3,9 +3,16 @@ const Image = require('@11ty/eleventy-img');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require('markdown-it');
+const markdownItFootnote = require("markdown-it-footnote");
+const markdownItAnchor = require('markdown-it-anchor')
 const { minify } = require('html-minifier-terser');
 
 module.exports = function (eleventyConfig) {
+	eleventyConfig.setLibrary("md", markdownIt({
+		html: true,
+		breaks: true,
+		linkify: true
+	}).use(markdownItFootnote).use(markdownItAnchor));
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);

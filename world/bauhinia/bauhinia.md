@@ -28,7 +28,7 @@ The closest geographical mirror to Bauhinia is southern China.
 
 ### Cities
 
-- [Flower City](/world/bauhinia/flower%20city/) (capital)
+- [Flower City](/world/bauhinia/flower-city/) (capital)
 - [Coastline](/world/bauhinia/coastline/)
 
 ## Government
@@ -55,4 +55,4 @@ The industrialization of Bauhinia eventually led to a republican revolution wher
 
 A long time later a world war broke out.
 
-And then there was the cold war, during which [Project Boomerang](/world/bauhinia/project%20boomerang/) was carried out.
+And then there was the cold war, during which [Project Boomerang](/world/bauhinia/project-boomerang/) was carried out.

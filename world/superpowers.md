@@ -52,6 +52,6 @@ Magicians can do nearly anything they put their minds to. Most of it involve tel
 
 Magicians can choose to take their magic out of their body and into a vessel. Then they can only use their magic if they're physically in contact with the vessel. The magic is still theirs, and still only they can use it. But while all other spells function the same, they *cannot* take the magic back out again unless the vessel is completely broken -- for example, snapped in half. Slight chipping doesn't count.
 
-## Related pages
+## Related files
 
 - [Superpowers in Bauhinia](/world/bauhinia/superpowers/)

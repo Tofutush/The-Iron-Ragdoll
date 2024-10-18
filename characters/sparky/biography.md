@@ -40,7 +40,7 @@ While exploring an abandoned apartment building, Sparky and her friends found a 
 
 ## New Year 2032
 
-On the New Year's Eve of 2032, Peacock's parents came to Coastline for a new year surprise. They were not happy at the sight of Sparky. They yelled at her and tried to chase her out. Peacock pulled Sparky aside and gave her a credit card, [an address](/world/bauhinia/coastline/safe%20house/), and a key, and told her to spend the new year at that place -- *alone* -- until his parents left.
+On the New Year's Eve of 2032, Peacock's parents came to Coastline for a new year surprise. They were not happy at the sight of Sparky. They yelled at her and tried to chase her out. Peacock pulled Sparky aside and gave her a credit card, [an address](/world/bauhinia/coastline/safe-house/), and a key, and told her to spend the new year at that place -- *alone* -- until his parents left.
 
 Sparky, being Sparky, called her friends and did some urban camping.
 
