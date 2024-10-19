@@ -185,10 +185,6 @@ pre code {
 	user-select: none;
 }
 
-body.dark #header {
-	background-image: linear-gradient(to top, #0000, #000);
-}
-
 #header a {
 	color: var(--text);
 	text-decoration: none;
