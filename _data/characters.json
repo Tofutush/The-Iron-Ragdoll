@@ -407,7 +407,9 @@
     "namezh": "奇幻",
     "abbr": "fs",
     "color": "#ce00af",
+    "about":"The big sister away at [college](/world/bauhinia/flower-city/ufc/) and hardly heard from, except when she comes back for holidays. Died under mysterious circumstances, though this time the mystery may *finally* be too dangerous for Sparky to poke her nose in.",
     "attr": {
+      "Full name": "Fantasy Amber Peacock",
       "Gender": "Female",
       "Nationality": "Bauhinian",
       "Marital status": "Married",
@@ -425,6 +427,7 @@
     "abbr": "ih",
     "color": "#69272b",
     "attr": {
+      "Full name":"Ironheart Peacock Reindeer",
       "Gender": "Male",
       "Nationality": "Bauhinian"
     },
@@ -441,6 +444,7 @@
     "abbr": "wl",
     "color": "#199400",
     "attr": {
+      "Full name":"Willow Amber Peacock",
       "Gender": "Female",
       "Nationality": "Bauhinian",
       "Power": "Mind reading lv. 150"

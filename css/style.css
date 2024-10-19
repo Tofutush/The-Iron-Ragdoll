@@ -69,7 +69,7 @@ p {
 }
 
 a {
-	color: var(--text);
+	color: inherit;
 	text-decoration: underline;
 	text-decoration-color: var(--c);
 	transition: color .3s;
@@ -267,6 +267,7 @@ body.dark #linx a:hover {
 }
 
 #footer h3 {
+	color: var(--c);
 	margin: 0;
 }
 

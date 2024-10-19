@@ -8,7 +8,7 @@
         "ribbon"
       ]
     ],
-    "desc": "Ribbon and Sparky have the same birthday, though Ribbon was two years older than Sparky. Ribbon showed Sparky the ropes around Hillslope, taught her to cook and bake, and asked her to investigate the attack on [Starry](../starry/). Sparky was about to take all the caring she gave her for granted. She couldn't have been more mistaken.\n\n*Gratitude gets you far, Sparky. Very far.*"
+    "desc": "Ribbon and Sparky have the same birthday, though Ribbon was two years older than Sparky. Ribbon showed Sparky the ropes around Hillslope, taught her to cook and bake, and asked her to investigate the attack on [Starry](../starry/). Sparky was about to take all the caring she gave her for granted. She couldn't have been more mistaken.\n\n> *Gratitude gets you far, Sparky. Very far.*"
   },
   {
     "ch": [
@@ -98,6 +98,123 @@
       ]
     ],
     "desc": "They're both bisexual and deep in the closet. They both know the other is bisexual. They're both trying all sorts of gimmicks to make the other come out.\n\nNightsun is an agent sent to get close to Sparky in order to get information on [Animus](../animus/). (No, I don't know who sent him, gimme some time.) Sparky knows this. He knows she knows. She knows he know she knows. They both pretend not to know anything."
+  },
+  {
+    "ch":[
+      [
+        "amber",
+        "wife"
+      ],
+      [
+        "peacock",
+        "husband"
+      ]
+    ],
+    "desc":""
+  },
+  {
+    "ch":[
+      [
+        "amber",
+        "mother"
+      ],
+      [
+        "willow",
+        "daughter"
+      ]
+    ],
+    "desc":""
+  },
+  {
+    "ch":[
+      [
+        "amber",
+        "stepmother"
+      ],
+      [
+        "fantasy",
+        "stepdaughter"
+      ]
+    ],
+    "desc":""
+  },
+  {
+    "ch":[
+      [
+        "peacock",
+        "father"
+      ],
+      [
+        "fantasy",
+        "daughter"
+      ]
+    ],
+    "desc":""
+  },
+  {
+    "ch":[
+      [
+        "peacock",
+        "father"
+      ],
+      [
+        "ironheart",
+        "son"
+      ]
+    ],
+    "desc":""
+  },
+  {
+    "ch":[
+      [
+        "peacock",
+        "father"
+      ],
+      [
+        "willow",
+        "daughter"
+      ]
+    ],
+    "desc":""
+  },
+  {
+    "ch":[
+      [
+        "fantasy",
+        "older half-sister"
+      ],
+      [
+        "ironheart",
+        "younger half-brother"
+      ]
+    ],
+    "desc":""
+  },
+  {
+    "ch":[
+      [
+        "fantasy",
+        "older half-sister"
+      ],
+      [
+        "willow",
+        "younger half-sister"
+      ]
+    ],
+    "desc":""
+  },
+  {
+    "ch":[
+      [
+        "ironheart",
+        "older half-brother"
+      ],
+      [
+        "willow",
+        "younger half-sister"
+      ]
+    ],
+    "desc":""
   },
   {
     "ch": [
