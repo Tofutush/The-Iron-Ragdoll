@@ -21,7 +21,6 @@ body {
 	font-family: lexend;
 	hyphens: auto;
 	margin: 0;
-	transition: all .3s;
 }
 
 body.dark {
@@ -73,7 +72,7 @@ a {
 	color: var(--text);
 	text-decoration: underline;
 	text-decoration-color: var(--c);
-	transition: all .3s;
+	transition: color .3s;
 }
 
 a:hover {
@@ -186,10 +185,6 @@ pre code {
 	user-select: none;
 }
 
-body.dark #header {
-	background-image: linear-gradient(to top, #0000, #000);
-}
-
 #header a {
 	color: var(--text);
 	text-decoration: none;
@@ -258,6 +253,114 @@ body.dark #linx a:hover {
 
 .dpdn:hover .dpdn-ul {
 	display: block;
+}
+
+#footer {
+	border-top: 12px solid var(--box);
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+#footer a {
+	text-decoration: none;
+}
+
+#footer h3 {
+	margin: 0;
+}
+
+#footer-linx {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 2rem 0;
+	max-width: 800px;
+	justify-content: space-around;
+}
+
+#footer-linx img {
+	width: 88px;
+	height: 31px;
+}
+
+#footer-linx ul {
+	list-style: none;
+	margin: 0;
+	width: fit-content;
+}
+
+#footer-side {
+	margin: 2rem;
+	max-width: 450px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	gap: 2rem;
+}
+
+#footer-controls {
+	display: flex;
+	gap: 2rem;
+	justify-content: flex-end;
+}
+
+#back-to-top {
+	display: flex;
+	width: 44px;
+	height: 44px;
+	justify-content: center;
+	align-items: center;
+	background-color: var(--box);
+	border-radius: 999px;
+}
+
+#back-to-top a {
+	height: 24px;
+	width: 24px;
+}
+
+#back-to-top a:hover {
+	color: var(--text);
+}
+
+#footer-warning h3 {
+	text-align: right;
+}
+
+#footer-warning p {
+	text-indent: 0;
+	text-align: right;
+}
+
+@media only screen and (max-width: 1230px) {
+	#footer {
+		flex-direction: column-reverse;
+		align-items: flex-end;
+	}
+	#footer-linx {
+		max-width: 100%;
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 540px) {
+	#footer-side {
+		align-items: flex-start;
+		margin-bottom: 0;
+	}
+	#footer-warning h3, #footer-warning p {
+		text-align: left;
+	}
+	#footer-linx {
+		flex-direction: column;
+		margin: 0;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	#footer-linx ul {
+		padding-inline-start: 2em;
+	}
 }
 
 #main-content {
@@ -397,9 +500,9 @@ code {
 }
 
 #theme-toggle-wrap {
-	display: flex;
+	/* display: flex;
 	justify-content: center;
-	margin: 2rem;
+	margin: 2rem; */
 }
 
 #theme-toggle {
