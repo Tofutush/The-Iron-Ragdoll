@@ -41,14 +41,17 @@ navOptions:
 				body.light, body.dark {
 					--text: #fff9f2;
 				}
+				#header {
+					background-image: linear-gradient(to top, #0000, #121212);
+				}
+				#footer {
+					background-image: linear-gradient(to bottom, #0000, #121212);
+				}
 			{% elsif theme == 'day' %}
 				body.light, body.dark {
 					--text: #121212;
 				}
-				body.dark #header {
-					background-image: none;
-				}
-				#title {
+				body.dark #title {
 					text-shadow: none;
 				}
 				.dpdn-ul {
