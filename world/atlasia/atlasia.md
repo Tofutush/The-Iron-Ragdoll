@@ -16,11 +16,15 @@ The green money-lovers.
 
 ## Geography
 
-Atlasia is north of [Fanton](/world/fanton/) and east of [Westavia](/world/westavia/).
+Atlasia borders [Bauhinia](/world/bauhinia/) on the south, shares a short border with [Fanton](/world/fanton/) on the southwest, [Westavia](/world/westavia/) on the west, [Moreland](/world/moreland/) on the northwest, and shares a short border with [Sylvandia](/world/sylvandia/) on the north.
 
-It is mostly fertile plains suitable for growing rice, wheat, and corn, with some mountain ranges near its western border with [Westavia](/world/westavia/). [Mt. Atlas](/world/atlasia/mt-atlas/), the tallest mountain on the continent, stands between Atlasia and [Moreland](/world/moreland/).
+It is mostly fertile plains suitable for growing rice, wheat, and corn, with some mountain ranges near its border with [Westavia](/world/westavia/) and [Moreland](/world/moreland/) called the Atlasian Mountains. [Mt. Atlas](/world/atlasia/mt-atlas/), the tallest mountain on the continent, stands between Atlasia and [Moreland](/world/moreland/).
 
 The closest geographical mirror to Atlasia is northern China.
+
+## Regions
+
+- [Mt. Atlas](/world/atlasia/mt-atlas/)
 
 ## Government
 

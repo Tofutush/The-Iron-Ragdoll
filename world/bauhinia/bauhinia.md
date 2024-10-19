@@ -16,15 +16,17 @@ The pink bureaucratic fanatic.
 
 The bauhinia flower is the national symbol of Bauhinia. (In case it's not obvious enough.)
 
-The flag is *not* Hong Kong. Hong Kong is stupid. Bauhinia is... well, still pretty stupid I admit but nothing is stupider than HK.
+The flag is *not* Hong Kong. Hong Kong is *stupid*. Bauhinia is... well, still pretty stupid I admit but nothing is stupider than HK.
 
 ## Geography
 
+Bauhinia borders [Fanton](/world/fanton/) on the northwest and [Atlasia](/world/atlasia/) on the north.
+
 Bauhinia is in the south of the continent, with most of its territory being in the sub-tropics. Bauhinia trees grow throughout the country.
 
-The country experiences monsoons that blow from the southeast in summer and the southwest in winter, except that there's a mountain ridge blocking southwestern wind. So it's rainy in summer and dry in winter. Plenty of typhoons also blow here in summer.
+The country experiences monsoons that blow from the southeast in summer and the southwest in winter. For the northern parts of the country though, [Fanton](/world/fanton/) blocks out most of the southwestern wind.
 
-The closest geographical mirror to Bauhinia is southern China.
+The closest geographical mirror to Bauhinia is southern China plus southeast Asia.
 
 ### Cities
 
@@ -35,7 +37,7 @@ The closest geographical mirror to Bauhinia is southern China.
 
 Bauhinia is a ministerial republic with an avid love for bureaucracy.
 
-### Ministries (that actually matter)
+### Ministries
 
 - [Ministry of State Security](/world/bauhinia/mss/)
 
@@ -47,7 +49,7 @@ Bauhinia is controlled by a huge company called [Starcorp](starcorp/) that nearl
 
 ### Naming conventions
 
-The name of a Bauhinian consists of three parts: the given name, and the parents' given names.
+The name of a Bauhinian (or [Fantoni](/world/fanton/)) consists of three parts: the given name, and the parents' given names.
 
 For girls, their names would be given name + mother's given name + father's given name. For example, [Sparky](/characters/sparky/) [Amber](/characters/amber/) [Peacock](/characters/peacock/).
 
