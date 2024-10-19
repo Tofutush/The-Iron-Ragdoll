@@ -500,12 +500,6 @@ code {
 	text-decoration: underline;
 }
 
-#theme-toggle-wrap {
-	/* display: flex;
-	justify-content: center;
-	margin: 2rem; */
-}
-
 #theme-toggle {
 	background-color: var(--c);
 	border-radius: 999px;

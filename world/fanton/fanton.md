@@ -18,11 +18,20 @@ The panda is the national symbol of Fanton.
 
 ## Geography
 
-Fanton is north of [Bauhinia](/world/bauhinia/), with half of its area being in a basin.
+Fanton borders [Bauhinia](/world/bauhinia/) on the southeast, [Westavia](/world/westavia/) on the north, and shares a short border with [Atlasia](/world/atlasia/) on the northeast.
+
+Fanton's territory covers the [Fantoni Plateau](/world/fanton/fantoni-plateau/) and the [Fantoni Basin](/world/fanton/fantoni-basin/).
 
 Its capital, [Lotus Lake City](/world/fanton/lotus-lake-city/), rests on a plain at the edge of the basin.
 
-The closest geographical mirror to Bauhinia is Sichuan.
+The closest geographical mirror to Bauhinia is Sichuan plus the Yungui Plateau plus the Tibetan Plateau[^1].
+
+[^1]: It used to be *just* Sichuan. Why do I keep making Fanton bigger and bigger?
+
+### Regions
+
+- [Fantoni Basin](/world/fanton/fantoni-basin/)
+- [Fantoni Plateau](/world/fanton/fantoni-plateau/)
 
 ### Cities
 
@@ -39,6 +48,10 @@ Fanton remains relatively unindustrialized and heavily relies on the exportation
 ## Society
 
 Most Fantoni are brought up as nature-loving and vegetarian. In fact, most restaurants and cafeterias only serve vegetarian food. Because of this, the Fantoni have developed millions of different ways to make tofu, much to the delight of [Sparky](/characters/sparky/).
+
+### Naming conventions
+
+Fanton has the same naming conventions as [Bauhinia](/world/bauhinia/). [See here](/world/bauhinia/#naming-conventions).
 
 ## History
 

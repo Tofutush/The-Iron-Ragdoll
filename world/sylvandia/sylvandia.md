@@ -14,9 +14,13 @@ eleventyNavigation:
 
 The Sylvandian Federation. It is nominally independent but still in colonial limbo.
 
-Similar to Siberia geographically. (You do notice I'm just going kinda south to north in East Asia right.)
+## Geography
 
-## States
+Sylvandia borders [Moreland](/world/moreland/) on the south, and shares a short border with [Atlasia](/world/atlasia/) on the southeast.
+
+The closest geographical mirror to Sylvandia is Siberia.
+
+### States
 
 - [Solarine](solarine/)
 - [Lunarale](lunarale/)
