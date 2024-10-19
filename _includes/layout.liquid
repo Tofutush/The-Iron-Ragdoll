@@ -64,7 +64,10 @@ navOptions:
 	<div id="linx">
 		<a href="/about/">About</a>
 		<a href="/chapters/">Chapters</a>
-		<div class="dpdn">
+		<a href="/characters/">Characters</a>
+		<a href="/world/">World</a>
+		<a href="/gallery/">Gallery</a>
+		{% comment %} <div class="dpdn">
 			<a>Lore</a>
 			<ul class="dpdn-ul">
 				<a href="/characters/">Characters</a>
@@ -84,7 +87,7 @@ navOptions:
 				<a target="_blank" href="https://neocities.org/site/tofutush">Neocities</a>
 				<a target="_blank" href="https://tofutush.github.io/The-Iron-Ragdoll">Github.io</a>
 			</ul>
-		</div>
+		</div> {% endcomment %}
 	</div>
 </div>
 <div id="main-content">
@@ -110,31 +113,81 @@ navOptions:
 	{% endunless %}
 	{{ content }}
 </div>
-{% unless page.url contains '/page-' or page.url == '/' %}
-	<div id="theme-toggle-wrap">
-		<div id="theme-toggle">
-			<div id="button">
-				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
-				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+<div id="footer">
+	<div id="footer-linx">
+		<ul>
+			<li><h3>Buttons</h3></li>
+			<li><img alt="I was on Cohost" src="/img/bg/iwasoncohost.gif"/></li>
+			<li><a href="https://numbersstory.com"><img alt="Numbers Story" src="/img/bg/numbersstory.png"/></a></li>
+			<li><a href="https://dptr.neocities.org"><img alt="Departure" src="/img/bg/dptr.gif"/></a></li>
+			<li><a href="https://midgetsausage.neocities.org/cooperbullet"><img alt="Cooper Bullet" src="/img/bg/cooperbullet.gif"/></a></li>
+			<li><img alt="The Iron Ragdoll" src="/img/bg/88x31.gif"/></li>
+		</ul>
+		<ul>
+			<li><h3>Links</h3></li>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about/">About</a></li>
+			<li><a href="/chapters/">Chapters</a></li>
+			<li><a href="/sitemap/">Sitemap</a></li>
+			<li><a href="/feed.xml/">RSS Feed</a></li>
+		</ul>
+		<ul>
+			<li><h3>Lore</h3></li>
+			<li><a href="/characters/">Characters</a></li>
+			<li><a href="/world/">World</a></li>
+			<li><a href="/world/overview/">Overview</a></li>
+			<li><a href="/world/history/">History</a></li>
+			<li><a href="/world/superpowers/">Superpowers</a></li>
+			<li><a href="/gallery/">Gallery</a></li>
+		</ul>
+		<ul>
+			<li><h3>Mirrors</h3></li>
+			<li><a target="_blank" href="https://mspfa.com/?s=50350&p=1">MSPFA</a></li>
+			<li><a target="_blank" href="https://the-iron-ragdoll.thecomicseries.com">ComicFury</a></li>
+			<li><a target="_blank" href="https://tapas.io/series/The-Iron-Ragdoll">Tapas</a></li>
+			<li><a target="_blank" href="https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en">NamiComi</a></li>
+			<li><a target="_blank" href="https://globalcomix.com/c/the-iron-ragdoll">Globalcomix</a></li>
+			<li><a target="_blank" href="https://neocities.org/site/tofutush">Neocities</a></li>
+			<li><a target="_blank" href="https://tofutush.github.io/The-Iron-Ragdoll">Github.io</a></li>
+		</ul>
+	</div>
+	<div id="footer-side">
+		<div id="footer-controls">
+			{% unless page.url contains '/page-' or page.url == '/' %}
+				<div id="theme-toggle-wrap">
+					<div id="theme-toggle">
+						<div id="button">
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+						</div>
+					</div>
+				</div>
+				<script>
+					(function() {
+						let lightDark = parseInt(localStorage.getItem('light-dark'));
+						if(lightDark) {
+							document.body.classList.toggle('light');
+							document.body.classList.toggle('dark');
+						}
+						let toggle = document.querySelector('#theme-toggle');
+						toggle.addEventListener('click', e => {
+							document.body.classList.toggle('light');
+							document.body.classList.toggle('dark');
+							if(lightDark) localStorage.setItem('light-dark', 0);
+							else localStorage.setItem('light-dark', 1);
+						});
+					})();
+				</script>
+			{% endunless %}
+			<div id="back-to-top">
+				<a href="#top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-up-to-line"><path d="M5 3h14"/><path d="m18 13-6-6-6 6"/><path d="M12 7v14"/></svg></a>
 			</div>
 		</div>
+		<div id="footer-warning">
+			<h3>Content warning</h3>
+			<p>This site and its contents feature strong language, cartoon violence, and occasional mature themes. Viewer discretion is advised.</p>
+		</div>
 	</div>
-	<script>
-		(function() {
-			let lightDark = parseInt(localStorage.getItem('light-dark'));
-			if(lightDark) {
-				document.body.classList.toggle('light');
-				document.body.classList.toggle('dark');
-			}
-			let toggle = document.querySelector('#theme-toggle');
-			toggle.addEventListener('click', e => {
-				document.body.classList.toggle('light');
-				document.body.classList.toggle('dark');
-				if(lightDark) localStorage.setItem('light-dark', 0);
-				else localStorage.setItem('light-dark', 1);
-			});
-		})();
-	</script>
-{% endunless %}
+</div>
 </body>
 </html>

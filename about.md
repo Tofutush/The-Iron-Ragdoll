@@ -22,21 +22,20 @@ Also available on [MSPFA](https://mspfa.com/?s=50350&p=1), [Globalcomix](https:/
 
 Start by reading it, or as I'm stuck in limbo right now, start reading about the world in [Overview](/world/overview/)!
 
-## Content Warnings
-
-The comic and the contents of this site will contain profanity and cartoon violence.
-
-This will be the only content warning site-wide. Viewer discretion is advised.
-
 ## Buttons and Webrings
 
-<div class="buttons"><img src="/img/bg/iwasoncohost.gif"/><a href="https://numbersstory.com"><img src="/img/bg/numbersstory.png"/></a><a href="https://dptr.neocities.org"><img src="/img/bg/dptr.gif"/></a><a href="https://midgetsausage.neocities.org/cooperbullet"><img src="/img/bg/cooperbullet.gif"/></a></div>
+<div class="buttons">
+  <img alt="I was on Cohost" src="/img/bg/iwasoncohost.gif"/>
+  <a href="https://numbersstory.com"><img alt="Numbers Story" src="/img/bg/numbersstory.png"/></a>
+  <a href="https://dptr.neocities.org"><img alt="Departure" src="/img/bg/dptr.gif"/></a>
+  <a href="https://midgetsausage.neocities.org/cooperbullet"><img alt="Cooper Bullet" src="/img/bg/cooperbullet.gif"/></a>
+</div>
 
 Link to my site!
 
-<div class="buttons"><img src="/img/bg/88x31.gif"/></div>
+<div class="buttons"><img alt="The Iron Ragdoll" src="/img/bg/88x31.gif"/></div>
 
-<img src="/img/bg/468x60.png"/>
+<img alt="The Iron Ragdoll banner" src="/img/bg/468x60.png"/>
 
 <div id='webcomicwebring'>
 <script type="text/javascript" src="https://webcomicring.org/js/comicring-variables.js"></script>

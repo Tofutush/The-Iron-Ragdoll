@@ -21,7 +21,6 @@ body {
 	font-family: lexend;
 	hyphens: auto;
 	margin: 0;
-	transition: all .3s;
 }
 
 body.dark {
@@ -260,6 +259,73 @@ body.dark #linx a:hover {
 	display: block;
 }
 
+#footer {
+	border-top: 12px solid var(--box);
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+#footer a {
+	text-decoration: none;
+}
+
+#footer h3 {
+	margin: 0;
+}
+
+#footer-linx {
+	display: flex;
+	margin: 2rem 0;
+}
+
+#footer-linx ul {
+	list-style: none;
+	margin: 0;
+}
+
+#footer-side {
+	margin: 2rem;
+	max-width: 450px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#footer-controls {
+	display: flex;
+	gap: 2rem;
+	justify-content: flex-end;
+}
+
+#back-to-top {
+	display: flex;
+	width: 44px;
+	height: 44px;
+	justify-content: center;
+	align-items: center;
+	background-color: var(--box);
+	border-radius: 999px;
+}
+
+#back-to-top a {
+	height: 24px;
+	width: 24px;
+}
+
+#back-to-top a:hover {
+	color: var(--text);
+}
+
+#footer-warning h3 {
+	text-align: right;
+}
+
+#footer-warning p {
+	text-indent: 0;
+	text-align: right;
+}
+
 #main-content {
 	margin: 2em auto;
 	max-width: 800px;
@@ -397,9 +463,9 @@ code {
 }
 
 #theme-toggle-wrap {
-	display: flex;
+	/* display: flex;
 	justify-content: center;
-	margin: 2rem;
+	margin: 2rem; */
 }
 
 #theme-toggle {
