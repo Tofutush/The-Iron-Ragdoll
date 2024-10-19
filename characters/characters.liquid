@@ -76,7 +76,7 @@
 			<h2>Relationships</h2>
 			{% for rel in filteredRelations %}
 				{% assign otherCh = rel | getOtherCh: ch.name %}
-				<h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %}: {{ otherCh[1] }}{% endif %}</h3>
+				<h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
 				{{ rel.desc | renderMD }}
 			{% endfor %}
 		{% endif %}

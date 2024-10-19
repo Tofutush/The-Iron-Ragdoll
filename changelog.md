@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-19
+
+- Added a footer.
+- Edited some world pages.
+- Edited some characters.
+
 ## 2024-10-18
 
 - Edited some world pages.
