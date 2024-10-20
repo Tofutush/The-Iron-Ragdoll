@@ -12,11 +12,13 @@ eleventyNavigation:
 
 {% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" %}
 
-The pink bureaucratic fanatic.
+The pink bureaucratic fanatic[^1].
 
-The bauhinia flower is the national symbol of Bauhinia. (In case it's not obvious enough.)
+The bauhinia flower is the national symbol of Bauhinia[^2].
 
-The flag is *not* Hong Kong. Hong Kong is *stupid*. Bauhinia is... well, still pretty stupid I admit but nothing is stupider than HK.
+[^2]: In case it's not obvious enough.
+
+[^1]: The flag is *not* Hong Kong. Hong Kong is *stupid*. Bauhinia is... well, still pretty stupid I admit but nothing is stupider than HK.
 
 ## Geography
 
