@@ -10,7 +10,7 @@ eleventyNavigation:
 {% assign sparky = characters | getChByName: "Sparky" %}
 <div class="chs">
 	<div>
-		<div class="ch">
+		<div class="ch" style="--c: #0cf">
 			<a href="{{ sparky.name | lowerCase }}/">
 				{% comment %} <img src="/img/gallery/{{ sparky.name | lowerCase }} thumb.png"/> {% endcomment %}
 				{% image "gallery/" "sparky thumb.png" 200 "Sparky" %}
@@ -28,7 +28,7 @@ eleventyNavigation:
 	{% for ch in cat %}
 		{% if ch.hidden != true %}
 			<div>
-				<div class="ch">
+				<div class="ch" style="--c: {{ ch.color }}">
 					<a href="{{ ch.name | lowerCase }}/">
 						{% comment %} <img src="/img/gallery/{{ ch.name | lowerCase }} thumb.png"/> {% endcomment %}
 						{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}

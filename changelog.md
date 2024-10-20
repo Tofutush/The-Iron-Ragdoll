@@ -9,6 +9,15 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-20
+
+- Edited some characters.
+- Edited some world pages.
+- Added the date to each comic page.
+- Edited the layout a bit.
+- Added some fancy but meaningless CSS effects.
+  - It was originally fancier, but it was too fancy. So I dialed down the fancy-o-meter.
+
 ## 2024-10-19
 
 - Added a footer.
