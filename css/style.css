@@ -18,6 +18,7 @@ body {
 	background-color: var(--bg);
 	background-size: cover;
 	background-position: center;
+	color: var(--text);
 	font-family: lexend;
 	hyphens: auto;
 	margin: 0;
