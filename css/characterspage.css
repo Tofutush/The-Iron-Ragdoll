@@ -19,7 +19,6 @@ body {
 	align-items: center;
 	background-color: var(--box);
 	border-radius: 16px;
-	box-sizing: border-box;
 	display: flex;
 	height: 120px;
 	justify-content: center;
@@ -27,9 +26,8 @@ body {
 	width: 120px;
 }
 
-body.light .ch {
-	background-color: #0000;
-	border: 4px solid var(--box);
+.ch:hover {
+	box-shadow: 0 0 0 4px var(--c);
 }
 
 .ch img {
