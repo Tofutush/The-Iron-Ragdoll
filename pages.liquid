@@ -5,14 +5,15 @@
 	"pagination": {
 		"data": "comicpages",
 		"size": 1,
-		"addAllPagesToCollections": "true"
+		"addAllPagesToCollections": "true",
+		"alias": "comic"
 	},
 	"tags": ["comics"],
 	"permalink": "{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber }}{% endif %}/",
 	"eleventyComputed": {
 		"title": "Page {{ pagination.pageNumber }}",
-		"bg": "{{ '/img/bg/' | append: pagination.items[0].bg | append: '.png' | htmlBaseUrl }}",
-		"theme": "{{ pagination.items[0].theme }}",
+		"bg": "{{ '/img/bg/' | append: comic.bg | append: '.png' | htmlBaseUrl }}",
+		"theme": "{{ comic.theme }}",
 		"eleventyNavigation": {
 			"key": "{% if pagination.pageNumber != 0 %}Page {{ pagination.pageNumber }}{% else %}Root{% endif %}",
 			"parent": "{% if pagination.pageNumber != 0 %}Root{% endif %}"
@@ -23,18 +24,21 @@
 
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="img">
-	{% assign bruhhh = pagination.items[0].url | append: '.png' %}
-	{% assign alt = "Page " | append: pagination.items[0].pagenum %}
+	{% assign bruhhh = comic.url | append: '.png' %}
+	{% assign alt = "Page " | append: comic.pagenum %}
 	{% image "comics/" bruhhh 1000 alt %}
 </div>
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
-<div id="save">
-	<a class="tooltip"><span class="tooltip-text">Save</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-from-line"><path d="M19 3H5"/><path d="M12 21V7"/><path d="m6 15 6 6 6-6"/></svg></a>
-	<a class="tooltip"><span class="tooltip-text">Load</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-up-from-line"><path d="m18 9-6-6-6 6"/><path d="M12 3v14"/><path d="M5 21h14"/></svg></a>
-	<a class="tooltip" href="/feed.xml/"><span class="tooltip-text">RSS</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-rss"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg></a>
+<div id="date-save">
+	<p>{{ comic.date }}</p>
+	<div id="save">
+		<a class="tooltip"><span class="tooltip-text">Save</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-down-from-line"><path d="M19 3H5"/><path d="M12 21V7"/><path d="m6 15 6 6 6-6"/></svg></a>
+		<a class="tooltip"><span class="tooltip-text">Load</span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-up-from-line"><path d="m18 9-6-6-6 6"/><path d="M12 3v14"/><path d="M5 21h14"/></svg></a>
+		<a href="/feed.xml/"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-rss"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg></a>
+	</div>
 </div>
-{% if pagination.items[0].note %}
-	<div id="note" class="graybox">{{ pagination.items[0].note }}</div>
+{% if comic.note %}
+	<div id="note" class="graybox">{{ comic.note | renderMD }}</div>
 {% endif %}
 <script>
 // save
