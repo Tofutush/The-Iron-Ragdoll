@@ -22,7 +22,10 @@
     "about": "Sparky is a cheerful girl who once stood for something. She hides her trauma behind bright smiles and is almost uncapable of taking anything seriously. Usually she looks happy to other people, but she can turn agressive at the drop of a pin. She is currently the bodyguard of [Animus](../animus/).",
     "bio": "file",
     "trivia": [
-      "She twiddles her whisker-like hair when lying."
+      "She twiddles her whisker-like hair when lying.",
+      "Tofu is her favorite food. All kinds of them.",
+      "She loves spicy food.",
+      "She loves food."
     ],
     "insp": [
       "Homestuck indigobloods",
@@ -407,7 +410,7 @@
     "namezh": "奇幻",
     "abbr": "fs",
     "color": "#ce00af",
-    "about":"The big sister away at [college](/world/bauhinia/flower-city/ufc/) and hardly heard from, except when she comes back for holidays. Died under mysterious circumstances, though this time the mystery may *finally* be too dangerous for Sparky to poke her nose in.",
+    "about": "The big sister away at [college](/world/bauhinia/flower-city/ufc/) and hardly heard from, except when she comes back for holidays. Died under mysterious circumstances, though this time the mystery may *finally* be too dangerous for Sparky to poke her nose in.",
     "attr": {
       "Full name": "Fantasy Amber Peacock",
       "Gender": "Female",
@@ -427,7 +430,7 @@
     "abbr": "ih",
     "color": "#69272b",
     "attr": {
-      "Full name":"Ironheart Peacock Reindeer",
+      "Full name": "Ironheart Peacock Reindeer",
       "Gender": "Male",
       "Nationality": "Bauhinian"
     },
@@ -444,7 +447,7 @@
     "abbr": "wl",
     "color": "#199400",
     "attr": {
-      "Full name":"Willow Amber Peacock",
+      "Full name": "Willow Amber Peacock",
       "Gender": "Female",
       "Nationality": "Bauhinian",
       "Power": "Mind reading lv. 150"
@@ -486,6 +489,8 @@
     "name": "Bramble",
     "abbr": "bb",
     "color": "#E19D0E",
+    "desc": "Silly little boy who writes his feelings all over his face.",
+    "about":"Fantasy's son.",
     "attr": {
       "Gender": "Male",
       "Nationality": "Bauhinian"

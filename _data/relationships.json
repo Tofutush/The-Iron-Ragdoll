@@ -100,7 +100,7 @@
     "desc": "They're both bisexual and deep in the closet. They both know the other is bisexual. They're both trying all sorts of gimmicks to make the other come out.\n\nNightsun is an agent sent to get close to Sparky in order to get information on [Animus](../animus/). (No, I don't know who sent him, gimme some time.) Sparky knows this. He knows she knows. She knows he know she knows. They both pretend not to know anything."
   },
   {
-    "ch":[
+    "ch": [
       [
         "amber",
         "wife"
@@ -110,10 +110,10 @@
         "husband"
       ]
     ],
-    "desc":""
+    "desc": ""
   },
   {
-    "ch":[
+    "ch": [
       [
         "amber",
         "mother"
@@ -123,10 +123,10 @@
         "daughter"
       ]
     ],
-    "desc":""
+    "desc": ""
   },
   {
-    "ch":[
+    "ch": [
       [
         "amber",
         "stepmother"
@@ -136,10 +136,10 @@
         "stepdaughter"
       ]
     ],
-    "desc":""
+    "desc": ""
   },
   {
-    "ch":[
+    "ch": [
       [
         "peacock",
         "father"
@@ -149,10 +149,10 @@
         "daughter"
       ]
     ],
-    "desc":""
+    "desc": ""
   },
   {
-    "ch":[
+    "ch": [
       [
         "peacock",
         "father"
@@ -162,10 +162,10 @@
         "son"
       ]
     ],
-    "desc":""
+    "desc": ""
   },
   {
-    "ch":[
+    "ch": [
       [
         "peacock",
         "father"
@@ -175,10 +175,10 @@
         "daughter"
       ]
     ],
-    "desc":""
+    "desc": ""
   },
   {
-    "ch":[
+    "ch": [
       [
         "fantasy",
         "older half-sister"
@@ -188,10 +188,10 @@
         "younger half-brother"
       ]
     ],
-    "desc":""
+    "desc": ""
   },
   {
-    "ch":[
+    "ch": [
       [
         "fantasy",
         "older half-sister"
@@ -201,10 +201,10 @@
         "younger half-sister"
       ]
     ],
-    "desc":""
+    "desc": ""
   },
   {
-    "ch":[
+    "ch": [
       [
         "ironheart",
         "older half-brother"
@@ -214,7 +214,46 @@
         "younger half-sister"
       ]
     ],
-    "desc":""
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "fantasy",
+        "mother"
+      ],
+      [
+        "bramble",
+        "son"
+      ]
+    ],
+    "desc": "Bramble doesn't remember many things about his mom, but he remembers enough to say \"Auntie is mean, I love mama.\""
+  },
+  {
+    "ch": [
+      [
+        "sparky",
+        "aunt"
+      ],
+      [
+        "bramble",
+        "nephew"
+      ]
+    ],
+    "desc": "Bramble still refers to Sparky as his aunt even when he calls [Nightsun](/characters/nightsun/) his dad. Sparky is really mad about it. She really did care about Bramble. Now I wonder where I've seen this before... Ah yes, Sparky calling Peacock \"Peacock.\"\n\nBramble also constantly pesters Sparky into telling him what happened to [his mom](/characters/fantasy/), because \"Auntie knows *everything*!\" Truth is, Sparky would also very much like to know what happened to Fantasy."
+  },
+  {
+    "ch": [
+      [
+        "nightsun",
+        "stepfather"
+      ],
+      [
+        "bramble",
+        "stepson"
+      ]
+    ],
+    "desc": "Nightsun spends most of his time around Bramble after he quit his job after marrying [Sparky](/characters/sparky/). So naturally, Bramble likes him more. Nightsun, however, hates kids. He's just to scared to show it in front of Sparky."
   },
   {
     "ch": [
