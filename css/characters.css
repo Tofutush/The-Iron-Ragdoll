@@ -72,10 +72,6 @@ h3 {
 	width: 200px;
 }
 
-body.light .title img {
-	background-color: #0000;
-}
-
 .title-info,
 .title-info p {
 	text-align: center;
