@@ -8,7 +8,7 @@
     "desc": "Our protagonist! Need I say more?",
     "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
     "attr": {
-      "Full name": "Sparky Amber Jackal<br/>Sparky Amber Peacock",
+      "Full name": "Sparky Amber Peacock",
       "Nickname": "Spark (by Tundra)",
       "Gender": "Female (cis)",
       "Birthday": "2017 Aug 14<sup>th</sup>",
@@ -94,6 +94,7 @@
     "cat": "Hillslope",
     "name": "Tomato",
     "namezh": "番茄",
+    "desc": "The guy who can solve all your problems but doesn't want to.",
     "abbr": "tm",
     "color": "#A10000",
     "quote": "I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
@@ -158,6 +159,7 @@
     "namezh": "音韵",
     "abbr": "ml",
     "color": "#426600",
+    "desc": "Quiet badass.",
     "quote": "...",
     "palette": {
       "hat": "#575757",
@@ -298,6 +300,7 @@
       "hair": "#2E2E2E"
     },
     "insp": [
+      "Myself",
       "Qibli from <i>Wings of Fire</i> for the name."
     ],
     "trivia": [
@@ -324,6 +327,10 @@
       "shaved hair": "#897E67",
       "hair": "#2E2E2E"
     },
+    "insp": [
+      "My friends!",
+      "Yes I mashed up a lot of traits from my friends into him."
+    ],
     "note": "- Left horn points down, right horn points up."
   },
   {
@@ -490,8 +497,9 @@
     "abbr": "bb",
     "color": "#E19D0E",
     "desc": "Silly little boy who writes his feelings all over his face.",
-    "about":"Fantasy's son.",
+    "about": "Fantasy's son.",
     "attr": {
+      "Full name": "Bramble Nightsun Sparky",
       "Gender": "Male",
       "Nationality": "Bauhinian"
     }

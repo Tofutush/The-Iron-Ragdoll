@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-22
+
+- Edited some characters.
+- Deleted the "buttons" section from the footer. Why was it even there?
+
 ## 2024-10-20
 
 - Edited some characters.

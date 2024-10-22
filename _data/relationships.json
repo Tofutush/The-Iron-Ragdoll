@@ -60,7 +60,20 @@
         "younger half-sister"
       ]
     ],
-    "desc": "Willow is Sparky's half-sister, with the same mother ([Amber](../amber/)) but different fathers. Willow is the one who understands Sparky the most, because of her mind-reading."
+    "desc": "Sparky and Willow have the [same mother](/characters/amber/) but different fathers. Willow is the one who understands Sparky the most, because of her mind-reading."
+  },
+  {
+    "ch": [
+      [
+        "sparky",
+        "younger stepsister"
+      ],
+      [
+        "fantasy",
+        "older stepsister"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [
@@ -188,7 +201,7 @@
         "younger half-brother"
       ]
     ],
-    "desc": ""
+    "desc": "Fantasy and Ironheart have the [same father](/characters/peacock/) but different mothers."
   },
   {
     "ch": [
@@ -201,7 +214,7 @@
         "younger half-sister"
       ]
     ],
-    "desc": ""
+    "desc": "Fantasy and Willow have the [same father](/characters/peacock/) but different mothers."
   },
   {
     "ch": [
@@ -214,7 +227,7 @@
         "younger half-sister"
       ]
     ],
-    "desc": ""
+    "desc": "Willow and Ironheart have the [same father](/characters/peacock/) but different mothers."
   },
   {
     "ch": [
