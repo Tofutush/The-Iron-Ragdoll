@@ -23,11 +23,17 @@ On the info section of each character page, you can see their power listed if th
 
 ## Superstrength
 
-The definition of superstrength is pretty muddy. If really strong people in real life got transported into the world of TIR, would they be diagnosed with superstrength? Yeah, probably. Regardless, the Bauhinian government marks children who look strong enough for their age down as having superstrength.
+The definition of superstrength is pretty muddy. If really strong people in real life got transported into the world of TIR, would they be registered as having superstrength? Yeah, probably. Regardless, the Bauhinian government marks children who look strong enough for their age down as having superstrength.
+
+### Testing
 
 Testing is just lifting weights. The heavier you can lift, the higher your level. The Bauhinian government is responsible for any injury sustained during these tests (that is, if you can prove the test is administered by the government), so the doctors don't encourage people to try out heavy weights, making a lot of the levels lower than they actually are. Also, people can fake a lower level too.
 
 ## Mind Reading
+
+### Testing
+
+The examiner would think of something, and ask the examinee to describe it. Levels determined on the accuracy of the description.
 
 ## Immortality
 

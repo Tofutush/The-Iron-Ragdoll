@@ -79,6 +79,8 @@ h3 {
 
 .title-info h1 {
 	font-size: 2.5rem;
+	letter-spacing: 4px;
+	text-transform: uppercase;
 }
 
 .title-info>* {
