@@ -491,15 +491,6 @@ code {
 	stroke: var(--text);
 }
 
-.breadcrumbs a {
-	color: var(--text);
-	text-decoration: none;
-}
-
-.breadcrumbs a:hover {
-	text-decoration: underline;
-}
-
 #theme-toggle {
 	background-color: var(--c);
 	border-radius: 999px;
