@@ -27,6 +27,7 @@ Start by reading it, or as I'm stuck in limbo right now, start reading about the
 <div class="buttons">
   <img alt="Hosted by Neocities" src="/img/bg/hostedbyneocities.png"/>
   <img alt="I was on Cohost" src="/img/bg/iwasoncohost.gif"/>
+  <a href="https://kalechips.net/responsive/index"><img alt="Responsive" src="/img/bg/responsive.png"/></a>
   <a href="https://numbersstory.com"><img alt="Numbers Story" src="/img/bg/numbersstory.png"/></a>
   <a href="https://dptr.nekoweb.org"><img alt="Departure" src="/img/bg/dptr.gif"/></a>
   <a href="https://midgetsausage.neocities.org/cooperbullet"><img alt="Cooper Bullet" src="/img/bg/cooperbullet.gif"/></a>
@@ -40,8 +41,15 @@ Link to my site!
 <img alt="The Iron Ragdoll banner" src="/img/bg/468x60.png"/>
 
 <div id='webcomicwebring'>
-<script type="text/javascript" src="https://webcomicring.org/js/comicring-variables.js"></script>
-<script type="text/javascript" src="https://webcomicring.org/js/comicring-widget.js"></script></div>
+  <script type="text/javascript" src="https://webcomicring.org/js/comicring-variables.js"></script>
+  <script type="text/javascript" src="https://webcomicring.org/js/comicring-widget.js"></script>
+</div>
+
+<div id='focusfirst-webring'>
+  <script type="text/javascript" src="https://www.beepbird.net/webring/onionring-variables.js"></script>
+  <script type="text/javascript" src="https://www.beepbird.net/webring/onionring-widget.js"></script>
+  <noscript><a href='https://www.beepbird.net/index.html'><img src="https://www.beepbird.net/webring/focusfirst.png" alt="Focus First Index"></a></noscript>
+</div>
 
 <script src="https://gusbus.space/smallweb-subway.js/comics.js"></script>
 <smallweb-subway-comics></smallweb-subway-comics>
