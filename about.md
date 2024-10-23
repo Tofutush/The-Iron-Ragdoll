@@ -27,11 +27,17 @@ Start by reading it, or as I'm stuck in limbo right now, start reading about the
 <div class="buttons">
   <img alt="Hosted by Neocities" src="/img/bg/hostedbyneocities.png"/>
   <img alt="I was on Cohost" src="/img/bg/iwasoncohost.gif"/>
-  <a href="https://kalechips.net/responsive/index"><img alt="Responsive" src="/img/bg/responsive.png"/></a>
+  <a href="https://kalechips.net/responsive/index"><img alt="Responsive webring" src="/img/bg/responsive.png"/></a>
+  <a href="http://neocreatives.byethost5.com"><img alt="Neocreatives webring" src="/img/bg/neocreatives.png"/></a>
+  <a href="https://smoothsailing.asclaria.org"><img alt="Smooth Sailings Listings" src="/img/bg/smoothsailings.png"/></a>
+  <a href="https://list-me.com"><img alt="List me" src="/img/bg/linkme.png"/></a>
+  <a href="https://linklane.net"><img alt="Link lane" src="/img/bg/linklane.png"/></a>
   <a href="https://numbersstory.com"><img alt="Numbers Story" src="/img/bg/numbersstory.png"/></a>
   <a href="https://dptr.nekoweb.org"><img alt="Departure" src="/img/bg/dptr.gif"/></a>
   <a href="https://midgetsausage.neocities.org/cooperbullet"><img alt="Cooper Bullet" src="/img/bg/cooperbullet.gif"/></a>
   <a href="https://icecreampizzer.art/"><img alt="Ice Cream Pizzer" src="/img/bg/pizzer.gif"/></a>
+  <a href="https://melvian.xyz"><img alt="Melvian" src="/img/bg/melvian.png"/></a>
+  <a href="https://leilukin.com"><img alt="Leilukin's Hub" src="/img/bg/leilukinshub.png"/></a>
 </div>
 
 Link to my site!
