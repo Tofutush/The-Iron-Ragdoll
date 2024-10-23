@@ -12,7 +12,7 @@ eleventyNavigation:
 ## 2024-10-23
 
 - Added a [contact page](/contact/).
-- Added webrings.
+- Added more buttons.
 
 ## 2024-10-22
 

@@ -10,6 +10,7 @@ eleventyNavigation:
 <link rel="stylesheet" href="/css/contact.css"/>
 <h1>Contact</h1>
 <p>Send me a message! (Code by <a href="https://goblin-heart.net/sadgrl/learn/articles/create-webform-discord">Sadgrl</a>: <a href="https://codepen.io/sadness97/pen/YzEgxox">Codepen</a>)</p>
+<p>(Note: You can't do this on Neocities; head over <a href="https://tofutush.github.io/The-Iron-Ragdoll/contact">here</a> for an identical page!)</p>
 <form id="form">
 	<input type="text" id="name" maxlength="24" placeholder="Name, max 24 chars (optional)"/>
 	<input type="email" id="email" placeholder="Email (optional)"/>
@@ -25,7 +26,7 @@ document.getElementById('form').addEventListener('submit', e => {
 	request.setRequestHeader('Content-type', 'application/json');
 	var params = {
 		username: `Message from: ${document.getElementById('name').value || 'Anonymous'}`,
-		content: `Email: ${document.getElementById('email').value || 'Not provided'}\nFrom: ${window.location.href}\nMessage: ${document.getElementById('message').value}`,
+		content: `Email: ${document.getElementById('email').value || 'Not provided'}\nMessage: ${document.getElementById('message').value}`,
 	}
 	request.send(JSON.stringify(params));
 	alert('Thank you!');
