@@ -25,10 +25,12 @@ Start by reading it, or as I'm stuck in limbo right now, start reading about the
 ## Buttons and Webrings
 
 <div class="buttons">
+  <img alt="Hosted by Neocities" src="/img/bg/hostedbyneocities.png"/>
   <img alt="I was on Cohost" src="/img/bg/iwasoncohost.gif"/>
   <a href="https://numbersstory.com"><img alt="Numbers Story" src="/img/bg/numbersstory.png"/></a>
-  <a href="https://dptr.neocities.org"><img alt="Departure" src="/img/bg/dptr.gif"/></a>
+  <a href="https://dptr.nekoweb.org"><img alt="Departure" src="/img/bg/dptr.gif"/></a>
   <a href="https://midgetsausage.neocities.org/cooperbullet"><img alt="Cooper Bullet" src="/img/bg/cooperbullet.gif"/></a>
+  <a href="https://icecreampizzer.art/"><img alt="Ice Cream Pizzer" src="/img/bg/pizzer.gif"/></a>
 </div>
 
 Link to my site!
@@ -43,6 +45,10 @@ Link to my site!
 
 <script src="https://gusbus.space/smallweb-subway.js/comics.js"></script>
 <smallweb-subway-comics></smallweb-subway-comics>
+
+## Contact
+
+Leave me a message [over here](/contact/)!
 
 ## What is mine and what isn't
 
