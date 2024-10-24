@@ -12,7 +12,6 @@
 	"permalink": "{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber }}{% endif %}/",
 	"eleventyComputed": {
 		"title": "Page {{ pagination.pageNumber }}",
-		"bg": "{{ '/img/bg/' | append: comic.bg | append: '.png' | htmlBaseUrl }}",
 		"theme": "{{ comic.theme }}",
 		"eleventyNavigation": {
 			"key": "{% if pagination.pageNumber != 0 %}Page {{ pagination.pageNumber }}{% else %}Root{% endif %}",
@@ -21,7 +20,20 @@
 	}
 }
 ---
-
+<link rel="stylesheet" href="/css/comic.css"/>
+<style>
+body {
+	background-image: url({{ '/img/bg/' | append: comic.bg | append: '.png' | htmlBaseUrl }});
+}
+{% if theme == 'dark' %}
+#header {
+	background-image: linear-gradient(to top, #0000, #121212);
+}
+#footer {
+	background-image: linear-gradient(to bottom, #0000, #121212);
+}
+{% endif %}
+</style>
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="img">
 	{% assign bruhhh = comic.url | append: '.png' %}
