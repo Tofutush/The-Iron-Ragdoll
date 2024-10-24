@@ -1,0 +1,54 @@
+{
+  "02-10": {
+    "holidays": [
+      "New Year's Eve"
+    ]
+  },
+  "02-11": {
+    "holidays": [
+      "New Year"
+    ]
+  },
+  "02-24": {
+    "days": [
+      {
+        "image": "bauhinia token.svg",
+        "alt": "Bauhinia National Day",
+        "url": "/world/bauhinia/"
+      }
+    ],
+    "holidays": [
+      "Bauhinian National Holiday"
+    ]
+  },
+  "02-25": {
+    "holidays": [
+      "Bauhinian National Holiday"
+    ]
+  },
+  "02-26": {
+    "holidays": [
+      "Bauhinian National Holiday"
+    ]
+  },
+  "02-27": {
+    "holidays": [
+      "Bauhinian National Holiday"
+    ]
+  },
+  "02-28": {
+    "holidays": [
+      "Bauhinian National Holiday"
+    ]
+  },
+  "03-01": {
+    "holidays": [
+      "Bauhinian National Holiday"
+    ]
+  },
+  "03-02": {
+    "holidays": [
+      "Bauhinian National Holiday"
+    ]
+  }
+}
