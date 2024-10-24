@@ -11,7 +11,7 @@
       "Full name": "Sparky Amber Peacock",
       "Nickname": "Spark (by Tundra)",
       "Gender": "Female (cis)",
-      "Birthday": "2017 Aug 14<sup>th</sup>",
+      "Birthday": "2017-08-14",
       "Nationality": "Bauhinian",
       "Orientation": "Bisexual, deep in the closet",
       "Marital status": "Married (to <a href=\"../nightsun/\">Nightsun</a>)",
@@ -48,7 +48,7 @@
     "attr": {
       "Nickname": "Rib (by Tundra)",
       "Gender": "Female",
-      "Birthday": "2015 Aug 14<sup>th</sup>",
+      "Birthday": "2015-08-14",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Weapon": "Frying pan"
@@ -287,7 +287,7 @@
     "attr": {
       "Full name": "Qibli Sandstorm Lightning",
       "Gender": "Female (cis)",
-      "Birthday": "2017 Feb 2<sup>nd</sup>",
+      "Birthday": "2017-02-01",
       "Nationality": "Bauhinian",
       "Orientation": "Asexual",
       "Weapon": "Wand",
@@ -317,7 +317,7 @@
     "attr": {
       "Full name": "Sky Elmwood Dazzle",
       "Gender": "Male",
-      "Birthday": "2017 Apr 13<sup>th</sup>",
+      "Birthday": "2017-04-13",
       "Nationality": "Bauhinian",
       "Weapon": "Playing cards with blade edges"
     },
@@ -344,7 +344,7 @@
       "Full name": "Firecrackers Pinecone Duck",
       "Nickname": "Crackers (by Sky)",
       "Gender": "Male",
-      "Birthday": "2017 May 20<sup>th</sup>",
+      "Birthday": "2017-05-20",
       "Weapon": "Firecrackers"
     },
     "palette": {
@@ -595,7 +595,10 @@
       "hat symbol border": "#A7A7A7",
       "hair": "#888"
     },
-    "note": "file:mssperms.md"
+    "note": "file:mssperms.md",
+    "trivia": [
+      "He canonically speaks Cantonese. He's the only character who does, and other characters don't find anything off about it. I have yet to find an English equivalent of this."
+    ]
   },
   {
     "cat": "Pearl's Journey Home",
