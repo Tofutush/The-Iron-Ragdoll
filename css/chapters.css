@@ -1,16 +1,15 @@
 .chapter {
 	align-items: center;
 	display: flex;
-	gap: 2em;
+	gap: 2rem;
 	justify-content: space-between;
 	line-height: 2;
+	flex-wrap: wrap;
 }
 
-.chapter a {
-	font-size: 32px;
-	font-weight: bold;
+.chapter h1 {
 	margin: 0;
-	text-wrap: nowrap;
+	width: fit-content;
 }
 
 .chapter p {
@@ -18,16 +17,7 @@
 	text-indent: 0;
 }
 
-.chapter-desc {
-	font-size: var(--font-size);
-	margin: 1em 1em 1.5em 1em;
-}
-
 .dot-line {
-	border-top: 5px dotted #fffb;
-	width: 100%;
-}
-
-body.light .dot-line {
-	border-top: 5px dotted #0008;
+	border-top: 5px dotted var(--box);
+	flex-grow: 1;
 }

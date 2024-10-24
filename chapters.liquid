@@ -7,9 +7,10 @@ eleventyNavigation:
   parent: Root
 ---
 
+<link rel="stylesheet" href="/css/chapters.css"/>
 {% for ch in chapters %}
 	<div class="chapter">
-		<a href="../page-{{ ch.pagenum }}/">{{ ch.title }}</a>
+		<h1><a href="../page-{{ ch.pagenum }}/">{{ ch.title }}</a></h1>
 		<div class="dot-line"></div>
 		<p>{{ ch.pagenum }}</p>
 	</div>
