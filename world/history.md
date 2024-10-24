@@ -10,6 +10,8 @@ eleventyNavigation:
 
 The history of the world[^1]!
 
+(TL;DR: Speedrun industrialization killing the empire in record time.)
+
 [^1]: I am in no way a proper historian. I'm just here spending more time than I probably should have to attempt to build a coherent history to explain the current world order. Do yell at me (nicely) if there are things drastically wrong and illogical with these events. Also there are some phrases I may not know in English so there might be awkward phrasing (like "people who fight like wack-a-mole" instead of "guerrilla" for a recent example. I learned the word now).
 
 Note that this file isn't necessarily told in chronological order, since so many things are happening at the same time. It's *mostly* chronological.
