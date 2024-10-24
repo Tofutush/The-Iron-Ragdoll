@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-24
+
+- Added a [calendar](/world/calendar/)!
+- Moved stylesheets out of `layout.liquid`.
+
 ## 2024-10-23
 
 - Added a [contact page](/contact/).
