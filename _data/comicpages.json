@@ -4,7 +4,7 @@
 		"chapter": 0,
 		"url": "0/0",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-08-13"
 	},
 	{
@@ -12,7 +12,7 @@
 		"chapter": 1,
 		"url": "0/1",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-08-13",
 		"note": "This is the start of The Iron Ragdoll! Thanks a lot for your willingness to give this a shot!\n\nThe Iron Ragdoll is also available on other platforms (see the \"Mirrors\" section in the footer). It would be so kind of you subscribe and leave comments!"
 	},
@@ -21,7 +21,7 @@
 		"chapter": 1,
 		"url": "0/2",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-08-13",
 		"note": "Umm... This comic is going to be revamped. I don't know when that would happen yet, but I'd probably finish Chapter 2 before doing it..."
 	},
@@ -30,7 +30,7 @@
 		"chapter": 1,
 		"url": "0/3",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-08-13"
 	},
 	{
@@ -38,7 +38,7 @@
 		"chapter": 1,
 		"url": "0/4",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-08-27",
 		"note": "Sparky settles in her new home. She knows it's supposed to be bad, but somehow it's worse."
 	},
@@ -47,7 +47,7 @@
 		"chapter": 1,
 		"url": "0/5",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-08-27"
 	},
 	{
@@ -55,7 +55,7 @@
 		"chapter": 1,
 		"url": "0/6",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-08-27"
 	},
 	{
@@ -63,7 +63,7 @@
 		"chapter": 1,
 		"url": "0/7",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-08-27"
 	},
 	{
@@ -71,7 +71,7 @@
 		"chapter": 1,
 		"url": "0/8",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-09-10",
 		"note": "Don't bother looking; the anklet is covered up by Sparky's huge pant sleeves. This is not an excuse for poor drawing (although the drawing *is* poor). It's actually her pants."
 	},
@@ -80,7 +80,7 @@
 		"chapter": 1,
 		"url": "0/9",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-09-10"
 	},
 	{
@@ -88,7 +88,7 @@
 		"chapter": 1,
 		"url": "0/10",
 		"bg": "forest-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-09-10"
 	},
 	{
@@ -96,7 +96,7 @@
 		"chapter": 1,
 		"url": "0/11",
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-09-24"
 	},
 	{
@@ -104,7 +104,7 @@
 		"chapter": 1,
 		"url": "0/12",
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-09-24"
 	},
 	{
@@ -112,14 +112,14 @@
 		"chapter": 1,
 		"url": "0/13",
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-09-24"
 	},
 	{
 		"pagenum": 14,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-09-24",
 		"url": "0/14"
 	},
@@ -127,7 +127,7 @@
 		"pagenum": 15,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-09-24",
 		"url": "0/15"
 	},
@@ -135,7 +135,7 @@
 		"pagenum": 16,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-10-08",
 		"url": "0/16"
 	},
@@ -143,7 +143,7 @@
 		"pagenum": 17,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-10-08",
 		"url": "0/17"
 	},
@@ -151,7 +151,7 @@
 		"pagenum": 18,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-10-22",
 		"url": "0/18"
 	},
@@ -159,7 +159,7 @@
 		"pagenum": 19,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-10-22",
 		"url": "0/19"
 	},
@@ -167,7 +167,7 @@
 		"pagenum": 20,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-10-22",
 		"url": "0/20"
 	},
@@ -175,7 +175,7 @@
 		"pagenum": 21,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-10-22",
 		"url": "0/21"
 	},
@@ -183,7 +183,7 @@
 		"pagenum": 22,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-11-05",
 		"url": "0/22"
 	},
@@ -191,7 +191,7 @@
 		"pagenum": 23,
 		"chapter": 1,
 		"bg": "hillslope-night",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2023-11-05",
 		"url": "0/23"
 	},
@@ -199,7 +199,7 @@
 		"pagenum": 24,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-11-19",
 		"url": "0/24"
 	},
@@ -207,7 +207,7 @@
 		"pagenum": 25,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-11-19",
 		"url": "0/25"
 	},
@@ -215,7 +215,7 @@
 		"pagenum": 26,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-12-03",
 		"url": "0/26"
 	},
@@ -223,7 +223,7 @@
 		"pagenum": 27,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-12-03",
 		"url": "0/27"
 	},
@@ -231,7 +231,7 @@
 		"pagenum": 28,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-12-03",
 		"url": "0/28"
 	},
@@ -239,7 +239,7 @@
 		"pagenum": 29,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-12-17",
 		"url": "0/29"
 	},
@@ -247,7 +247,7 @@
 		"pagenum": 30,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-12-17",
 		"url": "0/30"
 	},
@@ -255,7 +255,7 @@
 		"pagenum": 31,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-12-17",
 		"url": "0/31"
 	},
@@ -263,7 +263,7 @@
 		"pagenum": 32,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-12-31",
 		"url": "0/32"
 	},
@@ -271,7 +271,7 @@
 		"pagenum": 33,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-12-31",
 		"url": "0/33"
 	},
@@ -279,7 +279,7 @@
 		"pagenum": 34,
 		"chapter": 1,
 		"bg": "hillslope-day",
-		"theme": "day",
+		"theme": "light",
 		"date": "2023-12-31",
 		"url": "0/34"
 	},
@@ -287,7 +287,7 @@
 		"pagenum": 35,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-01-14",
 		"url": "0/35"
 	},
@@ -295,7 +295,7 @@
 		"pagenum": 36,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-01-14",
 		"url": "0/36"
 	},
@@ -303,7 +303,7 @@
 		"pagenum": 37,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-01-14",
 		"url": "0/37"
 	},
@@ -311,7 +311,7 @@
 		"pagenum": 38,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-01-28",
 		"url": "0/38"
 	},
@@ -319,7 +319,7 @@
 		"pagenum": 39,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-01-28",
 		"url": "0/39"
 	},
@@ -327,7 +327,7 @@
 		"pagenum": 40,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-01-28",
 		"url": "0/40"
 	},
@@ -335,7 +335,7 @@
 		"pagenum": 41,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-02-11",
 		"url": "0/41"
 	},
@@ -343,7 +343,7 @@
 		"pagenum": 42,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-02-11",
 		"url": "0/42"
 	},
@@ -351,7 +351,7 @@
 		"pagenum": 43,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-02-11",
 		"url": "0/43"
 	},
@@ -359,7 +359,7 @@
 		"pagenum": 44,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-02-25",
 		"url": "0/44"
 	},
@@ -367,7 +367,7 @@
 		"pagenum": 45,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-02-25",
 		"url": "0/45"
 	},
@@ -375,7 +375,7 @@
 		"pagenum": 46,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-03-10",
 		"url": "0/46"
 	},
@@ -383,7 +383,7 @@
 		"pagenum": 47,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-03-10",
 		"url": "0/47"
 	},
@@ -391,7 +391,7 @@
 		"pagenum": 48,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-03-10",
 		"url": "0/48"
 	},
@@ -399,7 +399,7 @@
 		"pagenum": 49,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-03-10",
 		"url": "0/49"
 	},
@@ -407,7 +407,7 @@
 		"pagenum": 50,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-03-24",
 		"url": "0/50"
 	},
@@ -415,7 +415,7 @@
 		"pagenum": 51,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-03-24",
 		"url": "0/51"
 	},
@@ -423,7 +423,7 @@
 		"pagenum": 52,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-03-24",
 		"url": "0/52"
 	},
@@ -431,7 +431,7 @@
 		"pagenum": 53,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-04-07",
 		"url": "0/53"
 	},
@@ -439,7 +439,7 @@
 		"pagenum": 54,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-04-07",
 		"url": "0/54"
 	},
@@ -447,7 +447,7 @@
 		"pagenum": 55,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-04-07",
 		"url": "0/55"
 	},
@@ -455,7 +455,7 @@
 		"pagenum": 56,
 		"chapter": 1,
 		"bg": "tavern",
-		"theme": "night",
+		"theme": "dark",
 		"date": "2024-04-07",
 		"url": "0/56"
 	}

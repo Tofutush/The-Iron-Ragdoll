@@ -19,46 +19,8 @@ navOptions:
 	<link rel="stylesheet" href="/css/style.css"/>
 	<link rel="stylesheet" href="/css/linkcolor.css"/>
 	<link rel="icon" href="/icon.ico"/>
-	{% if page.url == '/characters/' %}
-		<link rel="stylesheet" href="/css/characterspage.css"/>
-	{% endif %}
-	{% if page.url contains '/characters/' %}
-		<link rel="stylesheet" href="/css/palette.css"/>
-	{% endif %}
-	{% if page.url contains '/gallery/' or page.url contains '/characters/' %}
-		<link rel="stylesheet" href="/css/gallery.css"/>
-	{% endif %}
-	{% if page.url contains '/page-' or page.url == '/' %}
-		<link rel="stylesheet" href="/css/comic.css"/>
-		<style>
-			body {
-				background-image: url({{ bg }});
-			}
-			{% if theme == 'night' %}
-				body.light, body.dark {
-					--text: #fff9f2;
-				}
-				#header {
-					background-image: linear-gradient(to top, #0000, #121212);
-				}
-				#footer {
-					background-image: linear-gradient(to bottom, #0000, #121212);
-				}
-			{% elsif theme == 'day' %}
-				body.light, body.dark {
-					--text: #121212;
-				}
-				body.dark #title {
-					text-shadow: none;
-				}
-				.dpdn-ul {
-					background-color: var(--box);
-				}
-			{% endif %}
-		</style>
-	{% endif %}
 </head>
-<body class="{% if page.url contains '/page-' or page.url == '/' %}dark{% else %}light{% endif %}">
+<body class="{% if page.url contains '/page-' or page.url == '/' %}{{ theme }}{% else %}light{% endif %}">
 <div id="header">
 	<div id="title"><a href="/">The Iron Ragdoll</a></div>
 	<div id="linx">
@@ -67,27 +29,6 @@ navOptions:
 		<a href="/characters/">Characters</a>
 		<a href="/world/">World</a>
 		<a href="/gallery/">Gallery</a>
-		{% comment %} <div class="dpdn">
-			<a>Lore</a>
-			<ul class="dpdn-ul">
-				<a href="/characters/">Characters</a>
-				<a href="/world/">World</a>
-				<a href="/gallery/">Gallery</a>
-				<a href="/sitemap/">Sitemap</a>
-			</ul>
-		</div>
-		<div class="dpdn">
-			<a>Mirrors</a>
-			<ul class="dpdn-ul">
-				<a target="_blank" href="https://mspfa.com/?s=50350&p=1">MSPFA</a>
-				<a target="_blank" href="https://the-iron-ragdoll.thecomicseries.com">ComicFury</a>
-				<a target="_blank" href="https://tapas.io/series/The-Iron-Ragdoll">Tapas</a>
-				<a target="_blank" href="https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en">NamiComi</a>
-				<a target="_blank" href="https://globalcomix.com/c/the-iron-ragdoll">Globalcomix</a>
-				<a target="_blank" href="https://neocities.org/site/tofutush">Neocities</a>
-				<a target="_blank" href="https://tofutush.github.io/The-Iron-Ragdoll">Github.io</a>
-			</ul>
-		</div> {% endcomment %}
 	</div>
 </div>
 <div id="main-content">
@@ -115,14 +56,6 @@ navOptions:
 </div>
 <div id="footer">
 	<div id="footer-linx">
-		{% comment %} <ul>
-			<li><h3>Buttons</h3></li>
-			<li><img alt="I was on Cohost" src="/img/bg/iwasoncohost.gif"/></li>
-			<li><a href="https://numbersstory.com"><img alt="Numbers Story" src="/img/bg/numbersstory.png"/></a></li>
-			<li><a href="https://dptr.neocities.org"><img alt="Departure" src="/img/bg/dptr.gif"/></a></li>
-			<li><a href="https://midgetsausage.neocities.org/cooperbullet"><img alt="Cooper Bullet" src="/img/bg/cooperbullet.gif"/></a></li>
-			<li><img alt="The Iron Ragdoll" src="/img/bg/88x31.gif"/></li>
-		</ul> {% endcomment %}
 		<ul>
 			<li><h3>Links</h3></li>
 			<li><a href="/">Home</a></li>
@@ -185,7 +118,7 @@ navOptions:
 		<div id="footer-warning">
 			<h3>Content warning</h3>
 			<p>This site and its contents feature strong language, cartoon violence, and occasional mature themes. Viewer discretion is advised.</p>
-			<p>Also: This site uses Javascript for theme switching, section expanding, gallery filtering, and calculating the color of palette text! It should be fine to view most other things with JS disabled.</p>
+			<p>Also: This site uses Javascript for theme switching, section expanding, and gallery filtering! It should be fine to view most other things with JS disabled.</p>
 		</div>
 	</div>
 </div>
