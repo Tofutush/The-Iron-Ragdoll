@@ -19,7 +19,7 @@
       "Weapon": "M1911 pistol",
       "Power": "Superstrength lv. 800"
     },
-    "about": "Sparky is a cheerful girl who once stood for something. She hides her trauma behind bright smiles and is almost uncapable of taking anything seriously. Usually she looks happy to other people, but she can turn agressive at the drop of a pin. She is currently the bodyguard of [Animus](../animus/).",
+    "about": "Sparky is a cheerful girl who once stood for something. She hides her trauma behind bright smiles and is almost uncapable of taking anything seriously. Usually she looks happy to other people, but she can turn aggressive at the drop of a pin. She is currently the bodyguard of [Animus](../animus/).",
     "bio": "file",
     "trivia": [
       "She twiddles her whisker-like hair when lying.",
@@ -397,6 +397,7 @@
     "about": "Peacock is [Hyrax](../hyrax/)'s old friend and personal attorney.\n\n~~He is also [Sparky](../sparky/)'s reincarnation.~~",
     "attr": {
       "Gender": "Male (cis)",
+      "Birthday": "1985-03-06",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Widowed<br/>(Previously widowed by Rainbow, divorced Reindeer, and widowed by <a href=\"../amber/\">Amber</a>)",
@@ -511,7 +512,7 @@
     "abbr": "gs",
     "desc": "Bandwagon girl.",
     "color": "#D54269",
-    "about": "Goose is *just* like other girls. She likes everything other girls like. She does everything other girls do. She listens to whatever music is most popular at the moment. She watches whatever show is most popular at the moment.\n\nGoose is just happy to spend her life on the bandwagon.\n\n---\n\nGoose is an officer at the [Ministry of State Security](/world/bauhinia/mss). She likes juggling her baton and giving vague threats about sending people to a possible Ministry of Love. She has a knack of trying her best at everything she puts her mind to do.",
+    "about": "Goose is *just* like other girls. She likes everything other girls like. She does everything other girls do. She listens to whatever music is most popular at the moment. She watches whatever show is most popular at the moment.\n\nGoose is just happy to spend her life on the bandwagon.\n\n---\n\nGoose is an officer at the [Ministry of State Security](/world/bauhinia/mss/). She likes juggling her baton and giving vague threats about sending people to a possible Ministry of Love. She has a knack of trying her best at everything she puts her mind to do.",
     "bio": "When Goose was little, her parents had hardly any expectations for her. Once they even missed her trying to pick her up from kindergarten because they forgot what she looked like. Goose grew up playing and gossiping with other girls, reading the most popular books (mostly trashy romance), writing silly love letters to her crushes (there were a lot of them), and trying on her mom's makeup (which she still does because she can't afford to buy her own).\n\nShe got a crappy score in her college entrance exam and went to a random college in the middle of nowhere (note: it was western Bauhinia). She graduated knowing absolutely nothing about what she was going to do with her life. (She even forgot what her major was.) She got a job as a janitor in a random office building.\n\nOne day, she saw a military recruitment ad. She was like, \"why not?\" and went. She almost didn't make the cut, but she did.\n\nAfter serving two years in the army, she got recruited into the MSS and moved to [Coastline](/world/bauhinia/coastline/).",
     "attr": {
       "Gender": "Female",
@@ -714,6 +715,7 @@
     "color": "#1054ad",
     "attr": {
       "Gender": "Female (cis)",
+      "Birthday": "2017-06-21",
       "Full name": "Elegance Cherry Hyrax",
       "Power": "Time precision lv. 260"
     },
@@ -731,6 +733,7 @@
     "color": "#a10000",
     "attr": {
       "Gender": "Male (cis)",
+      "Birthday": "2017-08-30",
       "Full name": "Animus Hyrax Cherry",
       "Nationality": "Bauhinian",
       "Orientation": "Homosexual, came out to Sparky only",

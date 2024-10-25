@@ -1,12 +1,17 @@
 {
-  "02-10": {
+  "01-22": {
     "holidays": [
       "New Year's Eve"
     ]
   },
-  "02-11": {
+  "01-23": {
     "holidays": [
       "New Year"
+    ]
+  },
+  "02-06": {
+    "holidays": [
+      "Yuanxiao"
     ]
   },
   "02-24": {
@@ -49,6 +54,42 @@
   "03-02": {
     "holidays": [
       "Bauhinian National Holiday"
+    ]
+  },
+  "06-12": {
+    "days": [
+      {
+        "image": "atlasia token.svg",
+        "alt": "Atlasian National Day",
+        "url": "/world/atlasia/"
+      }
+    ]
+  },
+  "06-24": {
+    "days": [
+      {
+        "image": "westavia token.svg",
+        "alt": "Westavian National Day",
+        "url": "/world/westavia/"
+      }
+    ]
+  },
+  "07-29": {
+    "days": [
+      {
+        "image": "sylvandia token.svg",
+        "alt": "Sylvandian Federation founding anniversary",
+        "url": "/world/sylvandia/"
+      }
+    ]
+  },
+  "12-21": {
+    "days": [
+      {
+        "image": "moreland token.svg",
+        "alt": "Guardian Moose Takeover anniversary",
+        "url": "/world/moreland/"
+      }
     ]
   }
 }

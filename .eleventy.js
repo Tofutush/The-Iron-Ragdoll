@@ -73,6 +73,22 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('getFullPalette', function (ch) {
 		return Object.assign({ "accent": ch.color }, ch.palette);
 	});
+	eleventyConfig.addFilter('to6DigitHex', function(hex) {
+		if (hex.length < 6) {
+			if (hex[0] == '#') hex = hex.substring(1);
+			hex = '#' + hex[0] + hex[0] + hex[1] + hex[1] + hex[2] + hex[2];
+		}
+		return hex;
+	})
+	eleventyConfig.addFilter('calculateBlackWhite', function(color) {
+		color = color.substring(1);
+		let rgbArr = [
+			parseInt(color.substring(0, 2), 16),
+			parseInt(color.substring(2, 4), 16),
+			parseInt(color.substring(4, 6), 16),
+		];
+		return Math.round(rgbArr[0] * 299 + rgbArr[1] * 587 + rgbArr[2] * 114) / 1000 > 125 ? '#121212' : '#fff9f2';
+	});
 	eleventyConfig.addFilter('filterRelations', function (arr, f) {
 		return arr.filter(a => a.ch[0].includes(f.toLowerCase()) || a.ch[1].includes(f.toLowerCase()));
 	});
@@ -139,13 +155,10 @@ module.exports = function (eleventyConfig) {
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
-			// let minified = htmlmin.minify(content, {
-			// 	useShortDoctype: true,
-			// 	removeComments: true,
-			// 	collapseWhitespace: true,
-			// });
 			let minified = await minify(content, {
 				collapseWhitespace: true,
+				minifyCSS: true,
+				minifyJS: true
 			});
 			return minified;
 		}
@@ -154,6 +167,5 @@ module.exports = function (eleventyConfig) {
 	});
 	return {
 		passthroughFileCopy: true,
-		// pathPrefix: '/The-Iron-Ragdoll/'
 	};
 };

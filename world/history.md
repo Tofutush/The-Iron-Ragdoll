@@ -28,7 +28,7 @@ Prodictivity surged. Capitalism was established as *the* economic model. The wor
 
 ## Moreland's independence
 
-The region that would become [Moreland](/world/moreland/) were the first to act. Having historically been some sort of place that was big on military[^4], they started a bourgeoisie revolution in 1930 and established a provisional reupblican government in 1935, complete with a provisional constitution.
+The region that would become [Moreland](/world/moreland/) were the first to act. Having historically been some sort of place that was big on military[^4], they started a bourgeoisie revolution in 1930 and established a provisional republican government in 1935, complete with a provisional constitution.
 
 [^4]: Yknow. Like Sparta?
 
