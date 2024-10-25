@@ -431,7 +431,7 @@ body.dark #linx a:hover {
 	user-select: none;
 }
 
-.tooltip .tooltip-text::after {
+/* .tooltip .tooltip-text::after {
 	content: "";
 	position: absolute;
 	top: 100%;
@@ -440,7 +440,7 @@ body.dark #linx a:hover {
 	border-width: 5px;
 	border-style: solid;
 	border-color: var(--box) transparent transparent transparent;
-}
+} */
 
 .tooltip:hover .tooltip-text {
 	visibility: visible;
