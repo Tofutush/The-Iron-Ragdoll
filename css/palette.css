@@ -32,12 +32,12 @@
 }
 
 .palette>div>div>span:first-child {
-	font-size: 24px;
+	font-size: var(--font-size);
 	text-transform: uppercase;
 }
 
 .palette>div>div>span:last-child {
-	font-size: 16px;
+	font-size: var(--font-size-small);
 }
 
 .palette>div:hover>div {
