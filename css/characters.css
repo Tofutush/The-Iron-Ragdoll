@@ -2,17 +2,6 @@
 	max-width: 1200px;
 }
 
-#back {
-	align-items: center;
-	color: var(--text);
-	display: flex;
-	font-size: 24px;
-}
-
-#back svg {
-	stroke: var(--text);
-}
-
 .desc {
 	display: flex;
 	gap: 2em;
@@ -78,7 +67,7 @@ h3 {
 }
 
 .title-info h1 {
-	font-size: 2.5rem;
+	font-size: var(--font-size-h1);
 	letter-spacing: 4px;
 	text-transform: uppercase;
 }
@@ -137,7 +126,7 @@ h3 {
 
 .prev-next {
 	display: flex;
-	font-size: 24px;
+	font-size: var(--font-size);
 	justify-content: space-around;
 }
 

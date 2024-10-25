@@ -1288,5 +1288,34 @@
     "scope": "headshot",
     "style": "normal",
     "date": "2024-10-15"
+  },
+  {
+    "name": "404",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-10-25"
+  },
+  {
+    "name": "sonetto",
+    "type": "png",
+    "scope": "half-body",
+    "style": "messy",
+    "date": "2024-10-25",
+    "comment": "Fan art of Sonetto from Reverse: 1999."
+  },
+  {
+    "name": "sparky carrying animus",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "animus"
+    ],
+    "scope": "full-body",
+    "style": "messy",
+    "date": "2024-10-25"
   }
 ]

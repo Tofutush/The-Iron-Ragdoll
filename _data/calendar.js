@@ -14,9 +14,7 @@ for (let z = 0; z < characters.length; z++) {
 		else if (days[monthDay] instanceof Object) {
 			days[monthDay].days = [obj];
 		} else {
-			days[monthDay] = { days: [obj] };
-			console.log(days[monthDay]);
-			
+			days[monthDay] = { days: [obj] };			
 		}
 	}
 }

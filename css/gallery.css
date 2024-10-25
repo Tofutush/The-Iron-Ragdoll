@@ -1,14 +1,11 @@
 #tags {
 	color: var(--text);
-	font-size: 24px;
+	font-size: var(--font-size);
 	margin: 2em 1em;
 }
 
 #tags .collapsible {
 	color: var(--c);
-	font-size: 1.5em;
-	margin-bottom: .75em;
-	margin-top: 1.25em;
 }
 
 #tags .collapsible:hover {
