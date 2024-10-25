@@ -34,7 +34,8 @@ eleventyNavigation:
 			{% if day.bdays.days %}
 				<div class="bdays">
 					{% for bday in day.bdays.days %}
-						<a href="{{ bday.url }}">
+						<a href="{{ bday.url }}" class="tooltip">
+							<span class="tooltip-text">{{ bday.alt }}</span>
 							{% image "gallery/" bday.image 200 bday.alt %}
 						</a>
 					{% endfor %}
