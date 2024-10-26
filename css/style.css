@@ -15,10 +15,14 @@
 body {
 	/* --font-size: clamp(18px, 3vw, 24px); */
 	--font-size: clamp(16px, 0.75rem + 0.8vw, 24px);
-	--font-size-h1: clamp(24px, 1rem + 1.6vw, 40px);
+	/* --font-size-h1: clamp(24px, 1rem + 1.6vw, 40px);
 	--font-size-h2: clamp(20px, 0.969rem + 1.1vw, 32px);
 	--font-size-h3: clamp(18px, 0.813rem + 1.00vw, 28px);
-	--font-size--small: clamp(12px, 0.625rem + 0.4vw, 16px);
+	--font-size-small: clamp(12px, 0.625rem + 0.4vw, 16px); */
+	--font-size-h1: calc(var(--font-size) * 1.5);
+	--font-size-h2: calc(var(--font-size) * 1.35);
+	--font-size-h3: calc(var(--font-size) * 1.2);
+	--font-size-small: calc(var(--font-size) * 0.8);
 	background-attachment: fixed;
 	background-color: var(--bg);
 	background-size: cover;
@@ -201,7 +205,8 @@ pre code {
 #title {
 	color: var(--text);
 	/* font-size: clamp(32px, 5vw, 60px); */
-	font-size: clamp(32px, 1.125rem + 2.80vw, 60px);
+	/* font-size: clamp(32px, 1.125rem + 2.80vw, 60px); */
+	font-size: calc(var(--font-size-h1) * 1.5);
 	margin: .5em;
 }
 
@@ -473,7 +478,7 @@ body.dark #linx a:hover {
 	background-color: var(--c);
 	border-radius: .5rem;
 	display: block;
-	font-size: var(--font-size);
+	font-size: var(--font-size-small);
 	padding: 0.5rem 0.7rem;
 	text-indent: 0;
 	text-shadow: none !important;
