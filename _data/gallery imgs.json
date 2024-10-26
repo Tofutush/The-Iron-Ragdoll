@@ -1317,5 +1317,25 @@
     "scope": "full-body",
     "style": "messy",
     "date": "2024-10-25"
+  },
+  {
+    "name": "paperweight sit",
+    "type": "png",
+    "ch": [
+      "paperweight"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-10-26"
+  },
+  {
+    "name": "sparky adult",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-10-26"
   }
 ]
