@@ -111,3 +111,5 @@ eleventyNavigation:
 - Added [Westavia](/world/westavia/).
 - Added `westavia flag.svg`, `westavia token.svg`.
 - Edited some pages.
+
+Never seen someone so enthusiastically read a changelog. Anyways, more for you: [older updates](old/).

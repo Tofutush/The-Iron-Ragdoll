@@ -2,6 +2,26 @@ body {
 	overflow: -moz-scrollbars-none;
 }
 
+#tags {
+	color: var(--text);
+	font-size: var(--font-size);
+	margin: 2em 1em;
+}
+
+.tags {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1em;
+	justify-content: space-between;
+	margin-top: 1em;
+	user-select: none;
+}
+
+.tags::after {
+	content: "";
+	flex: auto;
+}
+
 .chs {
 	display: grid;
 	gap: 2em;
