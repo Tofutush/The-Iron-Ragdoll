@@ -9,6 +9,8 @@ eleventyNavigation:
 
 # Superpowers in Bauhinia
 
+*You might wanna read [the main superpowers page](/world/superpowers/) first!*
+
 Bauhinia, being the bureaucratic fanatic it is, have a system of identifying and cataloging people with superpowers (called "the gifted").
 
 Each power has a level scale used to measure how strong a person is at that power. They start at 1 (0 meaning "no power" which is always omitted except in specific settings) and have no upper bound.

@@ -1,5 +1,4 @@
 const chs = require('./characters.json');
-
 module.exports = function () {
 	let cats = [];
 	for (let ch of chs) {

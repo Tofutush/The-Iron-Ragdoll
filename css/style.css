@@ -481,6 +481,7 @@ body.dark #linx a:hover {
 	font-size: var(--font-size-small);
 	padding: 0.5rem 0.7rem;
 	text-indent: 0;
+	text-decoration: none;
 	text-shadow: none !important;
 	user-select: none;
 }

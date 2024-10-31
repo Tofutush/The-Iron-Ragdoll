@@ -32,6 +32,8 @@
       "Diesel from <i>Warriors: Graystripe's Adventure</i> (Pretty out-of-the-blue but yes, it is definitely an inspiration)"
     ],
     "palette": {
+      "scar outer": "#F6B6AC",
+      "scar inner": "#D29D95",
       "hair": "#2e2e2e",
       "shirt": "#000"
     },
@@ -506,7 +508,7 @@
     }
   },
   {
-    "cat": "Ministry of State Security",
+    "cat": "A Nuke From Moreland",
     "name": "Goose",
     "namezh": "白鹅",
     "abbr": "gs",
@@ -530,7 +532,7 @@
     "note": "file:mssperms.md"
   },
   {
-    "cat": "Ministry of State Security",
+    "cat": "A Nuke From Moreland",
     "name": "Pumpkin",
     "namezh": "南瓜",
     "abbr": "pk",
@@ -553,7 +555,7 @@
     "note": "file:mssperms.md"
   },
   {
-    "cat": "Ministry of State Security",
+    "cat": "A Nuke From Moreland",
     "name": "Halcyon",
     "namezh": "太平",
     "abbr": "hy",
@@ -576,7 +578,7 @@
     "note": "file:mssperms.md"
   },
   {
-    "cat": "Ministry of State Security",
+    "cat": "A Nuke From Moreland",
     "name": "Paperweight",
     "namezh": "镇纸",
     "abbr": "pw",
@@ -588,7 +590,7 @@
       "Weapon": "Baton"
     },
     "about": "Paperweight is a grouchy old guy who hates young people (especially [Pumpkin](../pumpkin/)) and fun. He works at the [Ministry of State Security](/world/bauhinia/mss/) but is going to retire soon.",
-    "bio": "Paperweight was born in the countryside in northern Bauhinia. His parents died when he was really little, and he was often bullied in the orphanage, so one night he stole a bag of buns and a bag of water, and ran all the way to the Mountain Temple, half begging and half stealing along the way after the buns ran out.\n\nAt the Mountain Temple, the master accepted him out of sympathy. He learned and mastered Wood-style martial arts. When he grew up, his master secured him a job at the Ministry of State Security, where he'd been working ever since.",
+    "bio": "Paperweight was born in the countryside in northern Bauhinia. His parents died when he was really little, and he was often bullied in the orphanage, so one night he stole a bag of buns and a bag of water, and ran all the way to the Mountain Temple, half begging and half stealing along the way after the buns ran out.\n\nAt the Mountain Temple, the master accepted him out of sympathy. He learned and mastered Wood-style martial arts. When he grew up, his master sent him to join the army. Afterwards, he was recruited into the Ministry of State Security, where he'd been working ever since.",
     "palette": {
       "shoulder pads": "#f01ace",
       "boots": "#8c1078",
