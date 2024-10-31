@@ -56,6 +56,15 @@
       "Bauhinian National Holiday"
     ]
   },
+  "03-12": {
+    "days": [
+      {
+        "image": "fanton token.svg",
+        "alt": "Fantoni National Day",
+        "url": "/world/fanton/"
+      }
+    ]
+  },
   "06-12": {
     "days": [
       {

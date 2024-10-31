@@ -199,7 +199,8 @@
       "Occupation": "Bartender, chemist, undertaker, and chemist again"
     },
     "insp": [
-      "Jerboas (obviously)"
+      "Jerboas (obviously)",
+      "Tintin (for the little pike in his hair)"
     ]
   },
   {
@@ -671,8 +672,9 @@
     "abbr": "bt",
     "color": "#CE6C07",
     "attr": {
+      "Full name": "Beauty Cherry Hyrax",
       "Gender": "Female (cis)",
-      "Full name": "Beauty Cherry Hyrax"
+      "Birthday": "2014-01-04"
     },
     "palette": {
       "shirt": "#5e5e5e",
@@ -686,8 +688,9 @@
     "abbr": "ct",
     "color": "#C3BB4E",
     "attr": {
+      "Full name": "Chastity Cherry Hyrax",
       "Gender": "Female (cis)",
-      "Full name": "Chastity Cherry Hyrax"
+      "Birthday": "2015-03-14"
     },
     "palette": {
       "shirt": "#5e5e5e",
@@ -701,8 +704,9 @@
     "abbr": "dv",
     "color": "#017909",
     "attr": {
+      "Full name": "Devotion Cherry Hyrax",
       "Gender": "Female (cis)",
-      "Full name": "Devotion Cherry Hyrax"
+      "Birthday": "2016-05-18"
     },
     "palette": {
       "shirt": "#5e5e5e",
