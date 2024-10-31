@@ -7,16 +7,14 @@ eleventyNavigation:
   parent: Root
 ---
 <link rel="stylesheet" href="/css/characterspage.css"/>
-{% assign sparky = characters | getChByName: "Sparky" %}
+{% comment %} {% assign sparky = characters | getChByName: "Sparky" %}
 <div class="chs">
 	<div>
 		<div class="ch" style="--c: #0cf">
 			<a href="{{ sparky.name | lowerCase }}/">
-				{% comment %} <img src="/img/gallery/{{ sparky.name | lowerCase }} thumb.png"/> {% endcomment %}
 				{% image "gallery/" "sparky thumb.png" 200 "Sparky" %}
 			</a>
 		</div>
-		{% comment %} <a class="character-button" style="--c: {{ sparky.color }}" href="{{ sparky.name | lowerCase }}/">{{ sparky.name }}</a> {% endcomment %}
 		{% include 'chButton', ch: "Sparky" %}
 	</div>
 </div>
@@ -30,15 +28,33 @@ eleventyNavigation:
 			<div>
 				<div class="ch" style="--c: {{ ch.color }}">
 					<a href="{{ ch.name | lowerCase }}/">
-						{% comment %} <img src="/img/gallery/{{ ch.name | lowerCase }} thumb.png"/> {% endcomment %}
 						{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
 						{% image "gallery/" bruhhh 200 ch.name %}
 					</a>
 				</div>
-				{% comment %} <a class="character-button" style="--c: {{ ch.color }}" href="{{ ch.name | lowerCase }}/">{{ ch.name }}</a> {% endcomment %}
 				{% include 'chButton', ch: ch.name %}
 			</div>
 		{% endif %}
 	{% endfor %}
 	</div>
-{% endfor %}
+{% endfor %} {% endcomment %}
+<div id="tags">
+	<h1 class="collapsible" target="#filter"><a>Filter</a></h1>
+	<div id="filter" class="collapsible-content">
+		<p>I'm working on it!</p>
+	</div>
+</div>
+<div class="chs">
+	{% for ch in characters %}
+		<div>
+			<div class="ch" style="--c: {{ ch.color }}">
+				<a href="{{ ch.name | lowerCase }}/">
+					{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
+					{% image "gallery/" bruhhh 200 ch.name %}
+				</a>
+			</div>
+			{% include 'chButton', ch: ch.name %}
+		</div>
+	{% endfor %}
+</div>
+<script src="/js/collapsible.js"></script>
