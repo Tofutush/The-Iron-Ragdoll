@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2024-10-31
 
 - Added `paperweight sit.png`, `sparky adult.png`.
+- Added some more birthdays.
 - Edits.
 
 ## 2024-10-25
