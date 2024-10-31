@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-10-31
+
+- Added `paperweight sit.png`, `sparky adult.png`.
+- Edits.
+
 ## 2024-10-25
 
 - Added `404.png` and put it on the 404 page. Added `sonetto.png`, `sparky carrying animus.png`.
