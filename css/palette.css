@@ -13,7 +13,7 @@
 	flex: 1;
 	flex-basis: 0px;
 	justify-content: center;
-	transition: all .3s cubic-bezier(0, 1, 0, 1.5);
+	transition: all .3s var(--bezier);
 }
 
 .palette>div:hover {
