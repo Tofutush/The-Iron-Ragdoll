@@ -23,6 +23,7 @@ body {
 	--font-size-h2: calc(var(--font-size) * 1.35);
 	--font-size-h3: calc(var(--font-size) * 1.2);
 	--font-size-small: calc(var(--font-size) * 0.8);
+	--bezier: cubic-bezier(0, 0, 0, 1);
 	background-attachment: fixed;
 	background-color: var(--bg);
 	background-size: cover;
@@ -459,7 +460,7 @@ body.dark #linx a:hover {
 .collapsible-content {
 	height: 0;
 	overflow: hidden;
-	transition: all .3s ease-in-out;
+	transition: all .3s var(--bezier);
 }
 
 .collapsible-content.collapsible-active {
@@ -481,6 +482,7 @@ body.dark #linx a:hover {
 	font-size: var(--font-size-small);
 	padding: 0.5rem 0.7rem;
 	text-indent: 0;
+	text-decoration: none;
 	text-shadow: none !important;
 	user-select: none;
 }
@@ -529,7 +531,7 @@ code {
 	height: 36px;
 	justify-content: center;
 	position: relative;
-	transition: all .3s cubic-bezier(0, 1, 0, 1.5);
+	transition: all .3s var(--bezier);
 	width: 36px;
 }
 

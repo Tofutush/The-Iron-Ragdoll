@@ -4,13 +4,13 @@
 	margin: 2em 1em;
 }
 
-#tags .collapsible {
+/* #tags .collapsible {
 	color: var(--c);
 }
 
 #tags .collapsible:hover {
 	text-decoration: underline;
-}
+} */
 
 .tags {
 	display: flex;
