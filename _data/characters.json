@@ -1,12 +1,21 @@
 [
   {
-    "cat": "main",
     "name": "Sparky",
     "namezh": "闪闪",
     "abbr": "sp",
     "color": "#0cf",
     "desc": "Our protagonist! Need I say more?",
     "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
+    "tags": [
+      "Hillslope",
+      "Coastline",
+      "Bauhinia",
+      "Coastline Middle School",
+      "A Nuke from Moreland",
+      "Pearl's Journey Home",
+      "Sparky's family",
+      "Fancy Private School"
+    ],
     "attr": {
       "Full name": "Sparky Amber Peacock",
       "Nickname": "Spark (by Tundra)",
@@ -40,13 +49,16 @@
     "note": "- The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n- The highlights on her hair goes down, up, and then down.\n- Her pupils point towards the middle! Unless she's looking at somewhere in particular."
   },
   {
-    "cat": "Hillslope",
     "name": "Ribbon",
     "namezh": "曲旋丝",
     "abbr": "rb",
     "color": "#e368d3",
     "desc": "Owner of the bakery!",
     "about": "Ribbon is a cute girl who loves baking and taught [Sparky](../sparky/) to cook. Though she isn't taking care of her for nothing!\n\nShe has a huge crush on [Starry](../starry/) and is determined to not only find out who attacked him, but also make the assiliant regret what they did for the rest of their life.\n\nAlso she's a murderer herself.",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "attr": {
       "Nickname": "Rib (by Tundra)",
       "Gender": "Female",
@@ -65,12 +77,15 @@
     }
   },
   {
-    "cat": "Hillslope",
     "name": "Cosmo",
     "abbr": "cs",
     "color": "#998cbd",
     "desc": "Editor of the press!",
     "quote": "If everyone believes it, then it is the truth.",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "attr": {
       "Nickname": "Cos (by Tundra)",
       "Gender": "Female",
@@ -93,13 +108,16 @@
     "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
   },
   {
-    "cat": "Hillslope",
     "name": "Tomato",
     "namezh": "番茄",
     "desc": "The guy who can solve all your problems but doesn't want to.",
     "abbr": "tm",
     "color": "#A10000",
     "quote": "I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "attr": {
       "Nickname": "Tom (by Tundra)",
       "Gender": "Male",
@@ -115,13 +133,16 @@
     }
   },
   {
-    "cat": "Hillslope",
     "name": "Guillotine",
     "namezh": "断头台",
     "abbr": "gt",
     "color": "#d0ae3a",
     "desc": "Who is this girl and why does she want us to call her Guillotine?",
     "quote": "I'm dead now! You can't kill me!",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "attr": {
       "Gender": "Female",
       "Nationality": "Atlasian"
@@ -131,13 +152,16 @@
     }
   },
   {
-    "cat": "Hillslope",
     "name": "Tephra",
     "namezh": "火山灰",
     "abbr": "tf",
     "color": "#008282",
     "desc": "The boss of everything at once, but nothing in particular.",
-    "quote": "Sit the fuck down everyone. The investigation is underway.",
+    "quote": "Sit down everyone. The investigation is underway.",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "attr": {
       "Nickname": "Teff (by Tundra)",
       "Gender": "Male",
@@ -156,13 +180,16 @@
     }
   },
   {
-    "cat": "Hillslope",
     "name": "Melody",
     "namezh": "音韵",
     "abbr": "ml",
     "color": "#426600",
     "desc": "Quiet badass.",
     "quote": "...",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "palette": {
       "hat": "#575757",
       "hair": "#2e2e2e"
@@ -179,13 +206,16 @@
     ]
   },
   {
-    "cat": "Hillslope",
     "name": "Jerboa",
     "namezh": "跳鼠",
     "abbr": "jb",
     "color": "#0867af",
     "desc": "Owner, bartender, and everything else of the tavern!",
     "quote": "Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "palette": {
       "shirt light": "#727272",
       "shirt dark": "#4F4F4F",
@@ -204,13 +234,16 @@
     ]
   },
   {
-    "cat": "Hillslope",
     "name": "Tundra",
     "namezh": "冰封雪",
     "abbr": "td",
     "color": "#800080",
     "desc": "Self-proclaimed mayor of Hillslope!",
     "quote": "What's the big deal?",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "palette": {
       "tie": "#2E6CF7",
       "hair": "#2E2E2E"
@@ -226,13 +259,16 @@
     ]
   },
   {
-    "cat": "Hillslope",
     "name": "Alaska",
     "namezh": "阿拉斯加",
     "abbr": "al",
     "color": "#6C0404",
     "desc": "Photographer for the press!",
     "quote": "Smile for the camera! Cheese!",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "palette": {
       "shirt": "#FFF",
       "hair": "#2E2E2E"
@@ -244,13 +280,16 @@
     }
   },
   {
-    "cat": "Hillslope",
     "name": "Starry",
     "namezh": "星星",
     "abbr": "st",
     "color": "#CC770F",
     "desc": "Basically a dead guy already.",
     "quote": "zzz...",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "attr": {
       "Gender": "Male",
       "Nationality": "Bauhinian"
@@ -264,12 +303,15 @@
     ]
   },
   {
-    "cat": "Hillslope",
     "name": "Dragonfly",
     "namezh": "蜻蜓",
     "abbr": "df",
     "color": "#00adad",
     "desc": "Some martial arts master in the woods.",
+    "tags": [
+      "Hillslope",
+      "Bauhinia"
+    ],
     "attr": {
       "Gender": "Male",
       "Nationality": "Bauhinian",
@@ -280,13 +322,17 @@
     }
   },
   {
-    "cat": "Coastline Middle School",
     "name": "Qibli",
     "namezh": "奇轹",
     "abbr": "qb",
     "color": "#440044",
     "desc": "Magic chicken ADHD girl.",
     "quote": "This pearl was not from an oyster. It was from a human. No, not man-made. From a human, the way ivory was from elephants.",
+    "tags": [
+      "Coastline Middle School",
+      "Coastline",
+      "Bauhinia"
+    ],
     "attr": {
       "Full name": "Qibli Sandstorm Lightning",
       "Gender": "Female (cis)",
@@ -311,12 +357,16 @@
     ]
   },
   {
-    "cat": "Coastline Middle School",
     "name": "Sky",
     "namezh": "万里晴",
     "abbr": "sk",
     "color": "#236ce1",
     "desc": "Adventurous fidgety boy with interests in everything tech.",
+    "tags": [
+      "Coastline Middle School",
+      "Coastline",
+      "Bauhinia"
+    ],
     "attr": {
       "Full name": "Sky Elmwood Dazzle",
       "Gender": "Male",
@@ -337,12 +387,16 @@
     "note": "- Left horn points down, right horn points up."
   },
   {
-    "cat": "Coastline Middle School",
     "name": "Firecrackers",
     "namezh": "爆竹",
     "abbr": "fc",
     "color": "#8214bd",
     "desc": "Big mute boy. Loudest person you would ever meet.",
+    "tags": [
+      "Coastline Middle School",
+      "Coastline",
+      "Bauhinia"
+    ],
     "attr": {
       "Full name": "Firecrackers Pinecone Duck",
       "Nickname": "Crackers (by Sky)",
@@ -357,11 +411,15 @@
     }
   },
   {
-    "cat": "Coastline Middle School",
     "name": "Myriad",
     "abbr": "my",
     "color": "#d01b84",
     "desc": "Quiet girl with a secret that the pictures below already spoil.",
+    "tags": [
+      "Coastline Middle School",
+      "Coastline",
+      "Bauhinia"
+    ],
     "attr": {
       "Gender": "Female",
       "Nationality": "Bauhinian"
@@ -372,12 +430,16 @@
     }
   },
   {
-    "cat": "Sparky's Family",
     "name": "Amber",
     "namezh": "琥珀",
     "abbr": "am",
     "color": "#e15f19",
     "desc": "Hardworking girl who would be cheerful if she had the time to smile.",
+    "tags": [
+      "Coastline",
+      "Sparky's family",
+      "Bauhinia"
+    ],
     "attr": {
       "Gender": "Female (cis)",
       "Nationality": "Bauhinian",
@@ -391,13 +453,18 @@
     }
   },
   {
-    "cat": "Sparky's Family",
     "name": "Peacock",
     "namezh": "孔雀",
     "abbr": "pc",
     "color": "#20f",
     "desc": "Creepy old boy who knows everything and more.",
     "about": "Peacock is [Hyrax](../hyrax/)'s old friend and personal attorney.\n\n~~He is also [Sparky](../sparky/)'s reincarnation.~~",
+    "tags": [
+      "Coastline",
+      "Sparky's family",
+      "Starcorp",
+      "Bauhinia"
+    ],
     "attr": {
       "Gender": "Male (cis)",
       "Birthday": "1985-03-06",
@@ -416,12 +483,16 @@
     "note": "The highlight on his hair goes up, down, and then up."
   },
   {
-    "cat": "Sparky's Family",
     "name": "Fantasy",
     "namezh": "奇幻",
     "abbr": "fs",
     "color": "#ce00af",
     "about": "The big sister away at [college](/world/bauhinia/flower-city/ufc/) and hardly heard from, except when she comes back for holidays. Died under mysterious circumstances, though this time the mystery may *finally* be too dangerous for Sparky to poke her nose in.",
+    "tags": [
+      "Flower City",
+      "Sparky's family",
+      "Bauhinia"
+    ],
     "attr": {
       "Full name": "Fantasy Amber Peacock",
       "Gender": "Female",
@@ -435,11 +506,17 @@
     }
   },
   {
-    "cat": "Sparky's Family",
     "name": "Ironheart",
     "namezh": "铁心",
     "abbr": "ih",
     "color": "#69272b",
+    "tags": [
+      "Bauhinia",
+      "Sparky's family",
+      "Coastline",
+      "Fancy Private School",
+      "Starcorp"
+    ],
     "attr": {
       "Full name": "Ironheart Peacock Reindeer",
       "Gender": "Male",
@@ -452,11 +529,16 @@
     }
   },
   {
-    "cat": "Sparky's Family",
     "name": "Willow",
     "namezh": "柳儿",
     "abbr": "wl",
     "color": "#199400",
+    "tags": [
+      "Sparky's family",
+      "Coastline",
+      "Bauhinia",
+      "Fancy Private School"
+    ],
     "attr": {
       "Full name": "Willow Amber Peacock",
       "Gender": "Female",
@@ -469,11 +551,15 @@
     }
   },
   {
-    "cat": "Sparky's Family",
     "name": "Nightsun",
     "namezh": "午夜阳",
     "abbr": "ns",
     "color": "#130b51",
+    "tags": [
+      "Sparky's family",
+      "Coastline",
+      "Bauhinia"
+    ],
     "attr": {
       "Gender": "Male",
       "Nationality": "Bauhinian?",
@@ -496,12 +582,17 @@
     "note": "- The highlight on his hair goes up, down, and then up."
   },
   {
-    "cat": "Sparky's Family",
     "name": "Bramble",
     "abbr": "bb",
     "color": "#E19D0E",
     "desc": "Silly little boy who writes his feelings all over his face.",
     "about": "Fantasy's son.",
+    "tags": [
+      "Coastline",
+      "Sparky's family",
+      "Bauhinia",
+      "Fancy Private School"
+    ],
     "attr": {
       "Full name": "Bramble Nightsun Sparky",
       "Gender": "Male",
@@ -515,6 +606,10 @@
     "abbr": "gs",
     "desc": "Bandwagon girl.",
     "color": "#D54269",
+    "tags":[
+      "Ministry of State Security",
+      "A Nuke from Moreland"
+    ],
     "about": "Goose is *just* like other girls. She likes everything other girls like. She does everything other girls do. She listens to whatever music is most popular at the moment. She watches whatever show is most popular at the moment.\n\nGoose is just happy to spend her life on the bandwagon.\n\n---\n\nGoose is an officer at the [Ministry of State Security](/world/bauhinia/mss/). She likes juggling her baton and giving vague threats about sending people to a possible Ministry of Love. She has a knack of trying her best at everything she puts her mind to do.",
     "bio": "When Goose was little, her parents had hardly any expectations for her. Once they even missed her trying to pick her up from kindergarten because they forgot what she looked like. Goose grew up playing and gossiping with other girls, reading the most popular books (mostly trashy romance), writing silly love letters to her crushes (there were a lot of them), and trying on her mom's makeup (which she still does because she can't afford to buy her own).\n\nShe got a crappy score in her college entrance exam and went to a random college in the middle of nowhere (note: it was western Bauhinia). She graduated knowing absolutely nothing about what she was going to do with her life. (She even forgot what her major was.) She got a job as a janitor in a random office building.\n\nOne day, she saw a military recruitment ad. She was like, \"why not?\" and went. She almost didn't make the cut, but she did.\n\nAfter serving two years in the army, she got recruited into the MSS and moved to [Coastline](/world/bauhinia/coastline/).",
     "attr": {
@@ -671,6 +766,7 @@
     "namezh": "招娣",
     "abbr": "bt",
     "color": "#CE6C07",
+    "about": "The oldest daughter in the Cherry-Hyrax family.",
     "attr": {
       "Full name": "Beauty Cherry Hyrax",
       "Gender": "Female (cis)",

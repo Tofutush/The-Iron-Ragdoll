@@ -57,7 +57,7 @@
 			<h2>About</h2>
 			{% assign firstFourLetters = ch.about | slice: 0, 4 %}
 			{% if firstFourLetters == 'file' %}
-				{% assign filePath = './characters/files/' | append: ch.abbr | append: " about.md" %}
+				{% assign filePath = './characters/files/' | append: ch.name | toLowerCase | append: " about.md" %}
 				{% renderFile filePath %}
 			{% else %}
 				{{ ch.about | renderMD }}
