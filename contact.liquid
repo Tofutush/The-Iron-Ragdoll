@@ -12,24 +12,24 @@ eleventyNavigation:
 <p>Send me a message! (Code by <a href="https://goblin-heart.net/sadgrl/learn/articles/create-webform-discord">Sadgrl</a>: <a href="https://codepen.io/sadness97/pen/YzEgxox">Codepen</a>)</p>
 <p>(Note: You can't do this on Neocities; head over <a href="https://tofutush.github.io/The-Iron-Ragdoll/contact">here</a> for an identical page!)</p>
 <form id="form">
-	<input type="text" id="name" maxlength="24" placeholder="Name, max 24 chars (optional)"/>
-	<input type="email" id="email" placeholder="Email (optional)"/>
-	<textarea type="text" id="message" minlength="0" maxlength="300" placeholder="Put your comment here and click &quot;Send&quot;! Max 300 characters." required></textarea>
-	<input type="submit" value="Send"/>
+  <input type="text" id="name" maxlength="24" placeholder="Name, max 24 chars (optional)"/>
+  <input type="email" id="email" placeholder="Email (optional)"/>
+  <textarea type="text" id="message" minlength="0" maxlength="300" placeholder="Put your comment here and click &quot;Send&quot;! Max 300 characters." required></textarea>
+  <input type="submit" value="Send"/>
 </form>
 
 <script>
 document.getElementById('form').addEventListener('submit', e => {
-	e.preventDefault();
-	let request = new XMLHttpRequest();
-	request.open("POST", "https://discord.com/api/webhooks/1298468462414270496/UEQEB0zQpGbRYyfRkMSIJbf0zdNyX2w7HTzxB1qOk3rRp8GdA_PBxmc9CL5V-bdnWjEa");
-	request.setRequestHeader('Content-type', 'application/json');
-	var params = {
-		username: `Message from: ${document.getElementById('name').value || 'Anonymous'}`,
-		content: `Email: ${document.getElementById('email').value || 'Not provided'}\nMessage: ${document.getElementById('message').value}`,
-	}
-	request.send(JSON.stringify(params));
-	alert('Thank you!');
-	window.location.reload();
+  e.preventDefault();
+  let request = new XMLHttpRequest();
+  request.open("POST", "https://discord.com/api/webhooks/1298468462414270496/UEQEB0zQpGbRYyfRkMSIJbf0zdNyX2w7HTzxB1qOk3rRp8GdA_PBxmc9CL5V-bdnWjEa");
+  request.setRequestHeader('Content-type', 'application/json');
+  var params = {
+    username: `Message from: ${document.getElementById('name').value || 'Anonymous'}`,
+    content: `Email: ${document.getElementById('email').value || 'Not provided'}\nMessage: ${document.getElementById('message').value}`,
+  }
+  request.send(JSON.stringify(params));
+  alert('Thank you!');
+  window.location.reload();
 });
 </script>

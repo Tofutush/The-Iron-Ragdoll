@@ -9,52 +9,52 @@ eleventyNavigation:
 <link rel="stylesheet" href="/css/characterspage.css"/>
 {% comment %} {% assign sparky = characters | getChByName: "Sparky" %}
 <div class="chs">
-	<div>
-		<div class="ch" style="--c: #0cf">
-			<a href="{{ sparky.name | lowerCase }}/">
-				{% image "gallery/" "sparky thumb.png" 200 "Sparky" %}
-			</a>
-		</div>
-		{% include 'chButton', ch: "Sparky" %}
-	</div>
+  <div>
+    <div class="ch" style="--c: #0cf">
+      <a href="{{ sparky.name | lowerCase }}/">
+        {% image "gallery/" "sparky thumb.png" 200 "Sparky" %}
+      </a>
+    </div>
+    {% include 'chButton', ch: "Sparky" %}
+  </div>
 </div>
 
 {% for category in categories %}
-	{% assign cat = characters | getChByCat: category %}
-	<h1>{{ category }}</h1>
-	<div class="chs">
-	{% for ch in cat %}
-		{% if ch.hidden != true %}
-			<div>
-				<div class="ch" style="--c: {{ ch.color }}">
-					<a href="{{ ch.name | lowerCase }}/">
-						{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-						{% image "gallery/" bruhhh 200 ch.name %}
-					</a>
-				</div>
-				{% include 'chButton', ch: ch.name %}
-			</div>
-		{% endif %}
-	{% endfor %}
-	</div>
+  {% assign cat = characters | getChByCat: category %}
+  <h1>{{ category }}</h1>
+  <div class="chs">
+  {% for ch in cat %}
+    {% if ch.hidden != true %}
+      <div>
+        <div class="ch" style="--c: {{ ch.color }}">
+          <a href="{{ ch.name | lowerCase }}/">
+            {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
+            {% image "gallery/" bruhhh 200 ch.name %}
+          </a>
+        </div>
+        {% include 'chButton', ch: ch.name %}
+      </div>
+    {% endif %}
+  {% endfor %}
+  </div>
 {% endfor %} {% endcomment %}
 <div id="tags">
-	<h1 class="collapsible" target="#filter"><a>Filter</a></h1>
-	<div id="filter" class="collapsible-content">
-		<p>I'm working on it!</p>
-	</div>
+  <h1 class="collapsible" target="#filter"><a>Filter</a></h1>
+  <div id="filter" class="collapsible-content">
+    <p>I'm working on it!</p>
+  </div>
 </div>
 <div class="chs">
-	{% for ch in characters %}
-		<div>
-			<div class="ch" style="--c: {{ ch.color }}">
-				<a href="{{ ch.name | lowerCase }}/">
-					{% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-					{% image "gallery/" bruhhh 200 ch.name %}
-				</a>
-			</div>
-			{% include 'chButton', ch: ch.name %}
-		</div>
-	{% endfor %}
+  {% for ch in characters %}
+    <div>
+      <div class="ch" style="--c: {{ ch.color }}">
+        <a href="{{ ch.name | lowerCase }}/">
+          {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
+          {% image "gallery/" bruhhh 200 ch.name %}
+        </a>
+      </div>
+      {% include 'chButton', ch: ch.name %}
+    </div>
+  {% endfor %}
 </div>
 <script src="/js/collapsible.js"></script>
