@@ -132,7 +132,7 @@ module.exports = function (eleventyConfig) {
 			};
 			return Image.generateHTML(metadata, imageAttributes);
 		} catch (e) {
-			return '<p>TBA!</p>';
+			return `<p>${path}</p>`;
 		}
 	});
 	eleventyConfig.addShortcode('imageOrig', async function (path, name, alt) {
@@ -150,7 +150,7 @@ module.exports = function (eleventyConfig) {
 			};
 			return Image.generateHTML(metadata, imageAttributes);
 		} catch (e) {
-			return '<p>TBA!</p>';
+			return `<p>${path}</p>`;
 		}
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
