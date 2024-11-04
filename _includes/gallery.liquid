@@ -33,6 +33,7 @@
       </div>
       {% endif %}
       <div class="comment">
+        <p>{{ img.name }}</p>
         <p>{{ img.date }}</p>
         {% if img.comment %}
         {{ img.comment | renderMD }}
