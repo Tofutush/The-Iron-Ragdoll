@@ -9,7 +9,6 @@
 	border-radius: 16px;
 	background-position: center;
 	background-size: cover;
-	background-attachment: fixed;
 	background-color: var(--c);
 	padding: 1rem;
 	margin: 4rem 0;
@@ -62,6 +61,7 @@
 
 .bdays {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: flex-end;
 }
 
