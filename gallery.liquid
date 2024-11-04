@@ -9,15 +9,15 @@ eleventyNavigation:
 ---
 <link rel="stylesheet" href="/css/gallery.css"/>
 <div id="tags">
-	<h1 class="collapsible" target="#filter"><a>Filter</a></h1>
-	<div id="filter" class="collapsible-content">
-		<p>Press shift to multi-select</p>
-		<div class="tags">
-			{% for tag in tags %}
-				<div name="{{ tag }}">{{ tag }}</div>
-			{% endfor %}
-		</div>
-	</div>
+  <h1 class="collapsible" target="#filter"><a>Filter</a></h1>
+  <div id="filter" class="collapsible-content">
+    <p>Press shift to multi-select</p>
+    <div class="tags">
+      {% for tag in tags %}
+        <div name="{{ tag }}">{{ tag }}</div>
+      {% endfor %}
+    </div>
+  </div>
 </div>
 {% include 'gallery' imgs: gallery %}
 <script src="/js/gallery.js"></script>

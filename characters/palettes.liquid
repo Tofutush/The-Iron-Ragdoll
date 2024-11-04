@@ -7,7 +7,7 @@ eleventyNavigation:
 ---
 <link rel="stylesheet" href="/css/palette.css"/>
 {% for ch in characters %}
-	<h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
-	{% assign palette = ch | getFullPalette %}
-	{% include 'palette' colors: palette %}
+  <h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
+  {% assign palette = ch | getFullPalette %}
+  {% include 'palette' colors: palette %}
 {% endfor %}
