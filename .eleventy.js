@@ -73,14 +73,14 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('getFullPalette', function (ch) {
 		return Object.assign({ "accent": ch.color }, ch.palette);
 	});
-	eleventyConfig.addFilter('to6DigitHex', function(hex) {
+	eleventyConfig.addFilter('to6DigitHex', function (hex) {
 		if (hex.length < 6) {
 			if (hex[0] == '#') hex = hex.substring(1);
 			hex = '#' + hex[0] + hex[0] + hex[1] + hex[1] + hex[2] + hex[2];
 		}
 		return hex;
 	})
-	eleventyConfig.addFilter('calculateBlackWhite', function(color) {
+	eleventyConfig.addFilter('calculateBlackWhite', function (color) {
 		color = color.substring(1);
 		let rgbArr = [
 			parseInt(color.substring(0, 2), 16),
@@ -132,7 +132,7 @@ module.exports = function (eleventyConfig) {
 			};
 			return Image.generateHTML(metadata, imageAttributes);
 		} catch (e) {
-			return `<p>${path}</p>`;
+			return `<p>${name}</p>`;
 		}
 	});
 	eleventyConfig.addShortcode('imageOrig', async function (path, name, alt) {
@@ -150,7 +150,7 @@ module.exports = function (eleventyConfig) {
 			};
 			return Image.generateHTML(metadata, imageAttributes);
 		} catch (e) {
-			return `<p>${path}</p>`;
+			return `<p>${name}</p>`;
 		}
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
