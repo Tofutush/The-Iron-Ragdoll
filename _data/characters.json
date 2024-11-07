@@ -446,7 +446,7 @@
       "Orientation": "Heterosexual",
       "Marital status": "Married (to <a href=\"../peacock/\">Peacock</a>)",
       "Occupation": "Secretary and then unemployed",
-      "Deceased": ""
+      "Deceased": true
     },
     "palette": {
       "hair": "#2E2E2E"
@@ -498,7 +498,7 @@
       "Gender": "Female",
       "Nationality": "Bauhinian",
       "Marital status": "Married",
-      "Deceased": ""
+      "Deceased": true
     },
     "palette": {
       "necklace": "#caf1f1",

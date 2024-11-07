@@ -43,7 +43,7 @@
         {% for att in ch.attr %}
           <div>
             <div>{{ att[0] }}</div>
-            <div>{{ att[1] }}</div>
+         <div>{% unless att[0] == 'Deceased' %}{{ att[1] }}{% endunless %}</div>
           </div>
         {% endfor %}
       </div>
@@ -51,12 +51,11 @@
   </div>
   <div class="right-side">
     {% if ch.quote %}
-      <blockquote><p>{{ ch.quote }}</p></blockquote>
+      <blockquote>{{ ch.quote | renderMD }}</blockquote>
     {% endif %}
     {% if ch.about %}
       <h2>About</h2>
-      {% assign firstFourLetters = ch.about | slice: 0, 4 %}
-      {% if firstFourLetters == 'file' %}
+      {% if ch.about == 'file' %}
         {% assign filePath = './characters/files/' | append: ch.name | lowerCase | append: " about.md" %}
         {% renderFile filePath %}
       {% else %}
@@ -65,8 +64,7 @@
     {% endif %}
     {% if ch.bio %}
       <h2>Biography</h2>
-      {% assign firstFourLetters = ch.bio | slice: 0, 4 %}
-      {% if firstFourLetters == 'file' %}
+      {% if ch.bio == 'file' %}
         <p><a href="biography/">Read more!</a></p>
       {% else %}
         {{ ch.bio | renderMD }}
