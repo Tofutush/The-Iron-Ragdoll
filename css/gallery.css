@@ -47,7 +47,7 @@ body.light .tags div.active {
 
 #gallery {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(144px, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
 }
 
 #gallery>div.hidden {

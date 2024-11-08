@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-08
+
+- Added `fern stand.png`, `snowball lights.png`.
+- Made the grid CSS better.
+
 ## 2024-11-04
 
 - Added `nightsun sword.png`.
