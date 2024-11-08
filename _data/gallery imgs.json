@@ -1348,5 +1348,25 @@
     "scope": "full-body",
     "style": "normal",
     "date": "2024-11-01"
+  },
+  {
+    "name": "fern stand",
+    "type": "png",
+    "ch": [
+      "fern"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-11-08"
+  },
+  {
+    "name": "snowball lights",
+    "type": "png",
+    "ch": [
+      "snowball"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-11-08"
   }
 ]
