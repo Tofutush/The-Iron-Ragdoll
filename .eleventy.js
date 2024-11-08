@@ -90,10 +90,10 @@ module.exports = function (eleventyConfig) {
 		return Math.round(rgbArr[0] * 299 + rgbArr[1] * 587 + rgbArr[2] * 114) / 1000 > 125 ? '#121212' : '#fff9f2';
 	});
 	eleventyConfig.addFilter('filterRelations', function (arr, f) {
-		return arr.filter(a => a.ch[0].includes(f.toLowerCase()) || a.ch[1].includes(f.toLowerCase()));
+		return arr.filter(a => a.ch[0].includes(f) || a.ch[1].includes(f));
 	});
 	eleventyConfig.addFilter('getOtherCh', function (rel, ch) {
-		return rel.ch.filter(a => a[0] != ch.toLowerCase())[0];
+		return rel.ch.filter(a => a[0] != ch)[0];
 	});
 	eleventyConfig.addFilter('renderMD', function (rawString) {
 		return mdRender.render(rawString);
