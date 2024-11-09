@@ -164,6 +164,10 @@ blockquote p:last-child {
 	margin-bottom: 0;
 }
 
+blockquote em {
+	font-style: normal;
+}
+
 pre {
 	max-width: 100%;
 	overflow-x: auto;
