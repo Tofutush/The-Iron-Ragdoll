@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-09
+
+- Added `kids nuke.png`.
+- Character edits.
+
 ## 2024-11-08
 
 - Added `fern stand.png`, `snowball lights.png`.
