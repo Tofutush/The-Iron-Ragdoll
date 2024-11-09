@@ -72,6 +72,18 @@ h3 {
 	line-height: 2;
 }
 
+#main-content h2::before {
+	content: '# ';
+	color: var(--c);
+	filter: opacity(.3);
+}
+
+#main-content h3::before {
+	content: '## ';
+	color: var(--c);
+	filter: opacity(.3);
+}
+
 p {
 	color: var(--text);
 	/* font-size: var(--font-size); */
@@ -150,6 +162,10 @@ blockquote p:first-child {
 
 blockquote p:last-child {
 	margin-bottom: 0;
+}
+
+blockquote em {
+	font-style: normal;
 }
 
 pre {
