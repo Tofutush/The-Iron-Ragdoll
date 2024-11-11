@@ -5,6 +5,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require('markdown-it');
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require('markdown-it-anchor');
+const markdownItTOC = require('markdown-it-table-of-contents');
 const { minify } = require('html-minifier-terser');
 
 module.exports = function (eleventyConfig) {
@@ -12,7 +13,15 @@ module.exports = function (eleventyConfig) {
 		html: true,
 		breaks: true,
 		linkify: true
-	}).use(markdownItFootnote).use(markdownItAnchor);
+	}).use(markdownItFootnote).use(markdownItAnchor).use(markdownItTOC, {
+		includeLevel: [2, 3, 4],
+		transformContainerOpen: () => {
+			return '<div id="toc-wrap"><h2 class="collapsible" target="#toc"><a>Table of Contents</a></h2><ul id="toc" class="collapsible-content">';
+		},
+		transformContainerClose: () => {
+			return '</ul></div>';
+		},
+	});
 	mdIt.renderer.rules.footnote_caption = (tokens, idx) => {
 		let n = Number(tokens[idx].meta.id + 1).toString();
 		if (tokens[idx].meta.subId > 0) n += `:${tokens[idx].meta.subId}`;

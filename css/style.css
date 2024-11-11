@@ -202,6 +202,16 @@ pre code {
 	font-size: smaller;
 }
 
+#toc-wrap {
+	background-color: var(--box);
+	border-radius: 1em;
+	padding: .1em 2em;
+	width: fit-content;
+}
+#toc-wrap h2::before {
+	content: '';
+}
+
 #header {
 	color: var(--text);
 	padding-top: 2em;
@@ -474,6 +484,7 @@ body.dark #linx a:hover {
 }
 
 .collapsible-content {
+	margin: 0;
 	height: 0;
 	overflow: hidden;
 	transition: all .3s var(--bezier);
