@@ -33,7 +33,6 @@ class Collapsible {
 	let list = [];
 	for (let z = 0; z < collapsible.length; z++) {
 		let content = document.querySelector(collapsible[z].getAttribute('target'));
-		console.log(collapsible[z].getAttribute('target'));
 		list.push(new Collapsible(collapsible[z], content));
 	}
 })();

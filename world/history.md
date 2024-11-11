@@ -8,6 +8,8 @@ eleventyNavigation:
 
 # History
 
+[[toc]]
+
 The history of the world[^1]!
 
 (TL;DR: Speedrun industrialization killing the empire in record time.)
