@@ -16,10 +16,10 @@ module.exports = function (eleventyConfig) {
 	}).use(markdownItFootnote).use(markdownItAnchor).use(markdownItTOC, {
 		includeLevel: [2, 3, 4],
 		transformContainerOpen: () => {
-			return '<div id="toc-wrap"><h2 class="collapsible" target="#toc"><a>Table of Contents</a></h2><ul id="toc" class="collapsible-content">';
+			return '<div id="toc-wrap"><h2 class="collapsible" target="#toc"><a>Table of Contents</a></h2><div id="toc" class="collapsible-content">';
 		},
 		transformContainerClose: () => {
-			return '</ul></div>';
+			return '</div></div>';
 		},
 	});
 	mdIt.renderer.rules.footnote_caption = (tokens, idx) => {

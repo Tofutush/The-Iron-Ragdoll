@@ -30,17 +30,7 @@ Look into other people's deepest privacy. Listen in. What are they thinking abou
 
 That is, if your power is strong enough. Weak mind reading powers are extremely limited. For example, Cosmo can only tell whether people are lying -- though she's quite good at that.
 
-### Immortality
-
-- Possessors: [Tundra](/characters/tundra/)
-
-Get mutilated beyond recognition and still recover with an able body! Literally never die! Except...
-
-For each immortal there is *one* thing that can kill them. And you won't know what it is.
-
-Immortality can be detected through DNA tests. This is the rarest superpower, followed by magic.
-
-### Time Precision
+### Timekeeping
 
 - Possessors: [Elegance](/characters/elegance/), [Paperweight](/characters/paperweight/)
 
@@ -51,6 +41,20 @@ Never be late again! Be able to tell the time down to the second (if you're stro
 - Possessors: [Snowball](/characters/snowball/)
 
 Get invisible. Like, that's it. Exactly how much you can get invisible depends on your power strength. Like, weaker people might only get their immediate bodies invisible while their clothes are left hanging in the air; stronger people might be able to get a lot more things near them invisible. But no matter what, they have to be invisible *themselves* -- you can't hide something else but not yourself.
+
+### Hyperawareness
+
+Be able to see, hear, and smell things way better.
+
+### Immortality
+
+- Possessors: [Tundra](/characters/tundra/)
+
+Get mutilated beyond recognition and still recover with an able body! Literally never die! Except...
+
+For each immortal there is *one* thing that can kill them. And you won't know what it is.
+
+Immortality can be detected through DNA tests. This is the rarest superpower, followed by magic.
 
 ### Magic
 

@@ -9,10 +9,17 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-11
+
+- Added *the ability to* add a table of contents for MD files.
+- World pages edits.
+
 ## 2024-11-09
 
 - Added `kids nuke.png`.
 - Character edits.
+- World edits.
+- Rearranged the [Calendar](/world/calendar/) page.
 
 ## 2024-11-08
 

@@ -7,18 +7,21 @@ eleventyNavigation:
   parent: World
 ---
 <link rel="stylesheet" href="/css/calendar.css"/>
-<div style="max-width: 800px; margin: auto">
 <h1>Calendar</h1>
-<p>I spent way too much time on this. I always spend my time where I shouldn't. ADHD-ass brain.</p>
-<p>Anyways, a birthday and holiday calendar! Inspired by <a href="https://numbersstory.com/fun/birthdays">Numbers Story</a> by Kolo.</p>
-<p>I just used our solar calendar because I don't have enough brain juice to make one of my own, and also I've already been planning the story using this calendar.</p>
-<p>Note the difference between solar and lunar dates. Because of shenanigans, China (and by extension this world) mixes the solar and lunar calendars, with the solar calendar used in everyday life (and national holidays), and the lunar one used for traditional holidays.</p>
-<p>The two calendars don't have a fixed offset, so that means traditional holidays would land on a different solar date each year. For our convenience, we'll be assuming the year 2031 for lunar-solar date matching. (Which is actually written as 2032 in-universe because I am stupid.)</p>
-<p>Also you see how each month starts on Monday. The calendar here's a general list of dates but not specific to any year, my previous statement about 2031/2 notwithstanding. Also those cell-paddings are hard to get responsive (I tried). So I gave up. Let's not think too much into it. The point of the page is just a list of birthdays and holidays.</p>
+<div id="toc-wrap">
+  <h2 class="collapsible" target="#toc"><a>Table of Contents</a></h2>
+  <div id="toc" class="collapsible-content">
+    <ul>
+      {% for month in calendar %}
+        <li><a href="#{{ month.name | lowerCase }}">{{ month.name }}</a></li>
+      {% endfor %}
+      <li><a href="#notes">Notes</a></li>
+    </ul>
+  </div>
 </div>
 {% for month in calendar %}
 <div class="calendar">
-  <div><h1>{{ month.name }}</h1></div>
+  <div><h1 id="{{ month.name | lowerCase }}">{{ month.name }}</h1></div>
   {% for day in month.days %}
     <div{% if day.bdays.days %} class="has-birthday"{% endif %}>
       <div class="number{% if day.bdays.holidays %} has-holiday tooltip{% endif %}">
@@ -45,3 +48,12 @@ eleventyNavigation:
   {% endfor %}
 </div>
 {% endfor %}
+<div style="max-width: 800px; margin: auto">
+  <h1 id="notes">Notes</h1>
+  <p>I spent way too much time on this. I always spend my time where I shouldn't. ADHD-ass brain.</p>
+  <p>Anyways, a birthday and holiday calendar! Inspired by <a href="https://numbersstory.com/fun/birthdays">Numbers Story</a> by Kolo.</p>
+  <p>I just used our solar calendar because I don't have enough brain juice to make one of my own, and also I've already been planning the story using this calendar.</p>
+  <p>Note the difference between solar and lunar dates. Because of shenanigans, China (and by extension this world) mixes the solar and lunar calendars, with the solar calendar used in everyday life (and national holidays), and the lunar one used for traditional holidays.</p>
+  <p>The two calendars don't have a fixed offset, so that means traditional holidays would land on a different solar date each year. For our convenience, we'll be assuming the year 2031 for lunar-solar date matching. (Which is actually written as 2032 in-universe because I am stupid.)</p>
+  <p>Also you see how each month starts on Monday. The calendar here's a general list of dates but not specific to any year, my previous statement about 2031/2 notwithstanding. Also those cell-paddings are hard to get responsive (I tried). So I gave up. Let's not think too much into it. The point of the page is just a list of birthdays and holidays.</p>
+</div>
