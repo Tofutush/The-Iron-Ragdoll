@@ -7,9 +7,30 @@ eleventyNavigation:
   parent: Root
   order: 3
 ---
-
+<style>
+  #countries {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #countries img {
+    transition: transform .3s var(--bezier-bounce);
+  }
+  #countries img:hover {
+    transform: scale(1.5);
+  }
+</style>
 <h1><a href="overview/">Overview (click to read!)</a></h1>
-<p>Countries:</p>
+<h2>Countries</h2>
+<div id="countries">
+  <a href="bauhinia/">{% image 'gallery/' 'bauhinia flag.svg' 200 'Bauhinia' %}</a>
+  <a href="fanton/">{% image 'gallery/' 'fanton flag.svg' 200 'Fanton' %}</a>
+  <a href="atlasia/">{% image 'gallery/' 'atlasia flag.svg' 200 'Atlasia' %}</a>
+  <a href="westavia/">{% image 'gallery/' 'westavia flag.svg' 200 'Westavia' %}</a>
+  <a href="moreland/">{% image 'gallery/' 'moreland flag.svg' 200 'Moreland' %}</a>
+  <a href="sylvandia/">{% image 'gallery/' 'sylvandia flag.svg' 200 'Sylvandia' %}</a>
+</div>
 <ul>
   <li><a href="bauhinia/">Bauhinia</a></li>
   <li><a href="fanton/">Fanton</a></li>

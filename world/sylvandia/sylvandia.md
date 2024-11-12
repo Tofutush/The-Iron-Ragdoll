@@ -10,7 +10,7 @@ eleventyNavigation:
 
 # Sylvandia
 
-{% image "gallery/" "sylvandia flag.svg" 1000 "Flag of Sylvandia" %}
+{% image "gallery/" "sylvandia flag.svg" 1000 "Flag of Sylvandia" 'max' %}
 
 The Sylvandian Federation. It is nominally independent but still in colonial limbo.
 

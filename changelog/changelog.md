@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-12
+
+- Added `goose goose.png`, `goose float.gif`.
+- Character edits.
+- World edits.
+
 ## 2024-11-11
 
 - Added *the ability to* add a table of contents for MD files.

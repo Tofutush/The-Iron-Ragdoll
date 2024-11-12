@@ -1383,5 +1383,15 @@
     "scope": "full-body",
     "style": "normal",
     "date": "2024-11-09"
+  },
+  {
+    "name": "goose goose",
+    "type": "png",
+    "ch": [
+      "goose"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2024-11-12"
   }
 ]

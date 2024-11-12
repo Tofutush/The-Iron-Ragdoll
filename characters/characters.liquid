@@ -25,7 +25,7 @@
   <div class="left-side">
     <div class="title">
       {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-      {% imageOrig "gallery/" bruhhh ch.name %}
+      {% image "gallery/" bruhhh 'auto' ch.name %}
       <div class="title-info">
         <h1>{{ ch.name }}</h1>
         {% if ch.namezh %}<h1>{{ ch.namezh }}</h1>{% endif %}
@@ -79,7 +79,12 @@
         {% if rel.img %}
           {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
           {% assign mod = forloop.index |  modulo: 2 %}
-          <div class="rel-img {% if mod == 0 %}left{% else %}right{% endif %}">{% image "gallery/" rel.img 500 alt %}</div>
+          {% if mod == 0 %}
+            {% assign class = 'float-left' | append: ' rel-img' %}
+          {% else %}
+            {% assign class='float-right' | append: ' rel-img' %}
+          {% endif %}
+          {% image "gallery/" rel.img 500 alt class %}
         {% endif %}
         {{ rel.desc | renderMD }}
       {% endfor %}

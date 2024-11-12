@@ -125,7 +125,7 @@ module.exports = function (eleventyConfig) {
 			</div>
 		`;
 	});
-	eleventyConfig.addShortcode('image', async function (path, name, size, alt) {
+	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className) {
 		try {
 			let metadata = await Image('img/' + path + name, {
 				widths: [size],
@@ -136,24 +136,7 @@ module.exports = function (eleventyConfig) {
 			let imageAttributes = {
 				alt,
 				title: alt,
-				loading: "lazy",
-				decoding: "async",
-			};
-			return Image.generateHTML(metadata, imageAttributes);
-		} catch (e) {
-			return `<p>${name}</p>`;
-		}
-	});
-	eleventyConfig.addShortcode('imageOrig', async function (path, name, alt) {
-		try {
-			let metadata = await Image('img/' + path + name, {
-				widths: ['auto'],
-				formats: ['auto'],
-				urlPath: '/img/' + path,
-				outputDir: './_site/img/' + path
-			});
-			let imageAttributes = {
-				alt,
+				class: className,
 				loading: "lazy",
 				decoding: "async",
 			};

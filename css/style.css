@@ -24,6 +24,7 @@ body {
 	--font-size-h3: calc(var(--font-size) * 1.2);
 	--font-size-small: calc(var(--font-size) * 0.8);
 	--bezier: cubic-bezier(0, 0, 0, 1);
+	--bezier-bounce: cubic-bezier(0, 1, 0, 1.5);
 	background-attachment: fixed;
 	background-color: var(--bg);
 	background-size: cover;
@@ -104,9 +105,20 @@ a:hover {
 
 img {
 	display: block;
-	height: 100%;
 	margin: 1em auto;
+}
+
+img.max {
+	height: 100%;
 	width: 100%;
+}
+
+img.float-left {
+	float: left;
+}
+
+img.float-right {
+	float: right;
 }
 
 .buttons img {
@@ -594,13 +606,13 @@ ul {
 	color: var(--text);
 	font-size: var(--font-size);
 	list-style: disc;
-	padding-inline-start: 2em;
+	padding-inline-start: 3em;
 }
 
 ol {
 	color: var(--text);
 	font-size: var(--font-size);
-	padding-inline-start: 2em;
+	padding-inline-start: 3em;
 }
 
 ul li {
