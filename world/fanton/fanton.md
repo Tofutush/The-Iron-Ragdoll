@@ -10,7 +10,7 @@ eleventyNavigation:
 
 # The Republic of Fanton
 
-{% image "gallery/" "fanton flag.svg" 1000 "Flag of Fanton" %}
+{% image "gallery/" "fanton flag.svg" 1000 "Flag of Fanton" 'max' %}
 
 The purple starry-eyed tree-lovers.
 

@@ -10,7 +10,7 @@ eleventyNavigation:
 
 # The Republic of Atlasia
 
-{% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" %}
+{% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" 'max' %}
 
 The green money-lovers.
 

@@ -42,7 +42,7 @@ Immediately after the Guardian Moose seized the government, they employed drasti
 
 ## Atlasia's independence
 
-The creation of a truly independent Moreland pissed off more people than just the emperor. Some Mooose themselves -- though they never identified themselves as "Moose" -- deemed the new military government illegal and undemocratic. Seeking a future of freedom and opportunity, they moved to the southeast of Moreland (around the middle-east part of the continent) where the Guardian Moose hasn't yet controlled. They declared independence of [The Republic of Atlasia](/world/atlasia/) in 1945.
+The creation of a truly independent Moreland pissed off more people than just the emperor. Some Moose themselves -- though they never identified themselves as "Moose" -- deemed the new military government illegal and undemocratic. Seeking a future of freedom and opportunity, they moved to the southeast of Moreland (around the middle-east part of the continent) where the Guardian Moose hasn't yet controlled. They declared independence of [The Republic of Atlasia](/world/atlasia/) in 1945.
 
 ## Bauhinia's Republican Revolution
 

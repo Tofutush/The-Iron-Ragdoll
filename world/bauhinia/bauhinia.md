@@ -10,7 +10,7 @@ eleventyNavigation:
 
 # The Republic of Bauhinia
 
-{% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" %}
+{% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" 'max' %}
 
 The pink bureaucratic fanatic[^1].
 
