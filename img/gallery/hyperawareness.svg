@@ -1,0 +1,22 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_89_29)">
+<circle cx="250" cy="250" r="230" stroke="#018C54" stroke-width="40"/>
+<path d="M250 60V18" stroke="#018C54" stroke-width="32" stroke-linecap="round"/>
+<path d="M250 482V440" stroke="#018C54" stroke-width="32" stroke-linecap="round"/>
+<path d="M18 250H60" stroke="#018C54" stroke-width="32" stroke-linecap="round"/>
+<path d="M440 250H482" stroke="#018C54" stroke-width="32" stroke-linecap="round"/>
+<circle cx="250" cy="250" r="90" stroke="#018C54" stroke-width="28" stroke-linecap="round"/>
+<mask id="mask0_89_29" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="25" y="25" width="450" height="450">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M250 475C374.264 475 475 374.264 475 250C475 125.736 374.264 25 250 25C125.736 25 25 125.736 25 250C25 374.264 125.736 475 250 475ZM250 332C295.287 332 332 295.287 332 250C332 204.713 295.287 168 250 168C204.713 168 168 204.713 168 250C168 295.287 204.713 332 250 332Z" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_89_29)">
+<path d="M150 348.99L347.99 151" stroke="#018C54" stroke-width="32" stroke-linecap="round"/>
+<path d="M350.607 348.99L152.618 151" stroke="#018C54" stroke-width="32" stroke-linecap="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_89_29">
+<rect width="500" height="500" fill="white"/>
+</clipPath>
+</defs>
+</svg>

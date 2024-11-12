@@ -1393,5 +1393,61 @@
     "scope": "headshot",
     "style": "normal",
     "date": "2024-11-12"
+  },
+  {
+    "name": "hyperawareness",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-11-12"
+  },
+  {
+    "name": "immortality",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-11-12"
+  },
+  {
+    "name": "invisibility",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-11-12"
+  },
+  {
+    "name": "magic",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-11-12"
+  },
+  {
+    "name": "mind reading",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-11-12"
+  },
+  {
+    "name": "power relations",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-11-12"
+  },
+  {
+    "name": "superstrength",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-11-12"
+  },
+  {
+    "name": "timekeeping",
+    "type": "svg",
+    "scope": "design",
+    "style": "lineless",
+    "date": "2024-11-12"
   }
 ]
