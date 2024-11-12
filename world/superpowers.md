@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Superpowers
+templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Superpowers
   parent: World
@@ -16,6 +17,8 @@ Some people are born with ~~convenient plot devices~~ superpowers. There are som
 
 ### Superstrength
 
+{% image 'gallery/' 'superstrength.svg' 200 'Superstrength symbol' 'float-right' %}
+
 - Possessors: [Sparky](/characters/sparky/), [Peacock](/characters/peacock/)
 - People with superstrength are called strongpeople[^1]
 
@@ -27,12 +30,16 @@ Of course strength is something that can be trained up, and a lack of exercise c
 
 ### Timekeeping
 
+{% image 'gallery/' 'timekeeping.svg' 200 'Timekeeping symbol' 'float-right' %}
+
 - Possessors: [Elegance](/characters/elegance/), [Paperweight](/characters/paperweight/)
-- People with timekeeping are called timekeepers.
+- People with timekeeping are called timekeepers
 
 Never be late again! Be able to tell the time down to the second (if you're strong enough). Also be able to tell how much time passed between to certain events.
 
 ### Hyperawareness
+
+{% image 'gallery/' 'hyperawareness.svg' 200 'Hyperawareness symbol' 'float-right' %}
 
 - Possessors: [Pumpkin](/characters/pumpkin/)
 - People with hyperawareness are called sensors[^2]
@@ -43,12 +50,16 @@ Be able to see, hear, and smell things way better.
 
 ### Invisibility
 
+{% image 'gallery/' 'invisibility.svg' 200 'Invisibility symbol' 'float-right' %}
+
 - Possessors: [Snowball](/characters/snowball/)
-- People with invisibility are called invisibles.
+- People with invisibility are called invisibles
 
 Get invisible. Like, that's it. Exactly how much you can get invisible depends on your power strength. Like, weaker people might only get their immediate bodies invisible while their clothes are left hanging in the air; stronger people might be able to get a lot more things near them invisible. But no matter what, they have to be invisible *themselves* -- you can't hide something else but not yourself. Strong invisibles may even make themselves and everything they've hidden pass-through.
 
 ### Mind Reading
+
+{% image 'gallery/' 'mind reading.svg' 200 'Mind reading symbol' 'float-right' %}
 
 - Possessors: [Cosmo](/characters/cosmo/), [Willow](/characters/willow/)
 - People with mind reading are called mind-readers
@@ -59,8 +70,10 @@ That is, if your power is strong enough. Weak mind reading powers are extremely 
 
 ### Immortality
 
+{% image 'gallery/' 'immortality.svg' 200 'Immortality symbol' 'float-right' %}
+
 - Possessors: [Tundra](/characters/tundra/)
-- People with immortality are called immortals.
+- People with immortality are called immortals
 
 Get mutilated beyond recognition and still recover with an able body! Literally never die! Except...
 
@@ -69,6 +82,8 @@ For each immortal there is *one* thing that can kill them. And you won't know wh
 Immortality can be detected through DNA tests. This is the rarest superpower, followed by magic.
 
 ### Magic
+
+{% image 'gallery/' 'magic.svg' 200 'Magic symbol' 'float-right' %}
 
 - Possessors: [Qibli](/characters/qibli/), [Halcyon](/characters/halcyon/)
 - People with magic are called magicians
@@ -81,9 +96,11 @@ Magicians can choose to take their magic out of their body and into a vessel. Th
 
 ## Power blocking
 
-Powers do not exists solely on their own. They affect, and are affected by, each other.
+Powers do not exist solely on their own. They affect, and are affected by, each other.
 
-(Image TBA)
+{% image 'gallery/' 'power relations.svg' 1000 'Power relations chart' 'max' %}
+
+*How did you know I copied the five elements map?*
 
 The picture above shows which power can affect which. Power blocking happens when two people of different superpowers come in contact with each other -- the closer they are, the stronger the effects; usually when two people are in direct contact with each other, the one affected would just become a normal person.
 
