@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-13
+
+- Character edits.
+- World edits.
+- CSS tweaks.
+
 ## 2024-11-12
 
 - Added `goose goose.png`, `goose float.gif`.

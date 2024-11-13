@@ -8,28 +8,40 @@ eleventyNavigation:
   order: 3
 ---
 <style>
-  #countries {
+  .imgs {
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
     justify-content: center;
   }
-  #countries img {
+  .imgs img {
     transition: transform .3s var(--bezier-bounce);
   }
-  #countries img:hover {
+  .imgs img:hover {
     transform: scale(1.5);
   }
 </style>
 <h1><a href="overview/">Overview (click to read!)</a></h1>
 <h2>Countries</h2>
-<div id="countries">
+<div class="imgs">
   <a href="bauhinia/">{% image 'gallery/' 'bauhinia flag.svg' 200 'Bauhinia' %}</a>
   <a href="fanton/">{% image 'gallery/' 'fanton flag.svg' 200 'Fanton' %}</a>
   <a href="atlasia/">{% image 'gallery/' 'atlasia flag.svg' 200 'Atlasia' %}</a>
   <a href="westavia/">{% image 'gallery/' 'westavia flag.svg' 200 'Westavia' %}</a>
   <a href="moreland/">{% image 'gallery/' 'moreland flag.svg' 200 'Moreland' %}</a>
   <a href="sylvandia/">{% image 'gallery/' 'sylvandia flag.svg' 200 'Sylvandia' %}</a>
+</div>
+<h2>Stuff</h2>
+<div class="imgs">
+  <a href="history/">
+    {% figure 'bg/' 'history.png' 200 'History' 'Learn about history!' %}
+  </a>
+  <a href="superpowers/">
+    {% figure 'gallery/' 'power relations.svg' 200 'Superpowers' 'Learn about superpowers!' %}
+  </a>
+  <a href="calendar/">
+    {% figure 'bg/' 'calendar.png' 200 'Calendar' 'Calendar with holidays and birthdays!' %}
+  </a>
 </div>
 <p><a href="superpowers/">Learn about superpowers!</a></p>
 <p><a href="history/">Learn about history!</a></p>

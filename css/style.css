@@ -108,17 +108,35 @@ img {
 	margin: 1em;
 }
 
-img.max {
+.max {
 	height: 100%;
 	width: 100%;
 }
 
-img.float-left {
+.max img {
+	height: 100%;
+	width: 100%;
+}
+
+.float-left {
 	float: left;
 }
 
-img.float-right {
+.float-right {
 	float: right;
+}
+
+figure {
+	margin: 1em;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+
+figcaption {
+	font-size: smaller;
+	opacity: .8;
 }
 
 .buttons img {
@@ -220,6 +238,7 @@ pre code {
 	padding: .1em 2em;
 	width: fit-content;
 }
+
 #toc-wrap h2::before {
 	content: '';
 }
