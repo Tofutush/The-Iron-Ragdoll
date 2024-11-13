@@ -142,7 +142,27 @@ module.exports = function (eleventyConfig) {
 			};
 			return Image.generateHTML(metadata, imageAttributes);
 		} catch (e) {
-			return `<p>${name}</p>`;
+			return `<div>${name}</div>`;
+		}
+	});
+	eleventyConfig.addShortcode('figure', async function(path, name, size, alt, caption, className) {
+		try {
+			let metadata = await Image('img/' + path + name, {
+				widths: [size],
+				formats: ['webp'],
+				urlPath: '/img/' + path,
+				outputDir: './_site/img/' + path
+			});
+			let imageAttributes = {
+				alt,
+				title: alt,
+				loading: "lazy",
+				decoding: "async",
+			};
+			let img = Image.generateHTML(metadata, imageAttributes);
+			return `<figure class="${className}">${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
+		} catch (e) {
+			return `<div>${name}</div>`;
 		}
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {

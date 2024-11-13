@@ -10,8 +10,10 @@
 
 h1,
 h2,
-h3 {
-  color: var(--c);
+h3,
+#main-content h2::before,
+#main-content h3::before {
+  color: var(--accent);
 }
 
 .left-side {
@@ -108,7 +110,7 @@ h3 {
 }
 
 .attr>div>div:first-child {
-  color: var(--c);
+  color: var(--accent);
   font-weight: bold;
 }
 
