@@ -1,45 +1,57 @@
 <div id="gallery">
   {% for img in imgs %}
-  <div class="{% for c in img.ch %}{{ c }} {% endfor %}">
-    {% comment %} {% if img.comment %}
-    <div class="tooltip comment-attached">
-      <span class="tooltip-text">Comment attached</span>
-      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-        class="lucide lucide-ellipsis">
-        <circle cx="12" cy="12" r="1" />
-        <circle cx="19" cy="12" r="1" />
-        <circle cx="5" cy="12" r="1" />
-      </svg>
-    </div>
-    {% endif %} {% endcomment %}
-    {% assign bruhhh = img.name | append: "." | append: img.type %}
-    {% image "gallery/" bruhhh 120 img.name %}
-    <div class="modal">
-      <div class="close">
-        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none"
-          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-          <path d="M18 6 6 18" />
-          <path d="m6 6 12 12" />
-        </svg>
-      </div>
-      {% assign bruhhh = img.name | append: "." | append: img.type %}
-      {% image "gallery/" bruhhh 1000 img.name %}
-      {% if img.ch %}
-      <div class="chbuttons">
-        {% for ch in img.ch %}
-        <div>{% include 'chButton', ch: ch %}</div>
-        {% endfor %}
-      </div>
-      {% endif %}
-      <div class="comment">
-        <p>{{ img.name }}</p>
-        <p>{{ img.date }}</p>
+    <div tags="{% for c in img.ch %}{{ c | slugify }} {% endfor %}">
+      {% comment %}
         {% if img.comment %}
-        {{ img.comment | renderMD }}
+        <div class="tooltip comment-attached">
+        <span class="tooltip-text">Comment attached</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" 
+        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" 
+        class="lucide lucide-ellipsis"> 
+        <circle cx="12" cy="12" r="1" /> 
+        <circle cx="19" cy="12" r="1" /> 
+        <circle cx="5" cy="12" r="1" />
+        </svg>
+        </div>
         {% endif %}
+      {% endcomment %}
+      {% assign bruhhh = img.name | append: "." | append: img.type %}
+      {% image "gallery/" bruhhh 120 img.name %}
+      <div class="modal">
+        <div class="close">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="48"
+            height="48"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="lucide lucide-x">
+            <path d="M18 6 6 18" />
+            <path d="m6 6 12 12" />
+          </svg>
+        </div>
+        {% assign bruhhh = img.name | append: "." | append: img.type %}
+        {% image "gallery/" bruhhh 1000 img.name %}
+        {% if img.ch %}
+          <div class="chbuttons">
+            {% for ch in img.ch %}
+              <div>{% include 'chButton'
+, ch: ch %}</div>
+            {% endfor %}
+          </div>
+        {% endif %}
+        <div class="comment">
+          <p>{{ img.name }}</p>
+          <p>{{ img.date }}</p>
+          {% if img.comment %}
+            {{ img.comment | renderMD }}
+          {% endif %}
+        </div>
       </div>
     </div>
-  </div>
   {% endfor %}
 </div>
