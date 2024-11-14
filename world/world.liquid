@@ -15,13 +15,15 @@ eleventyNavigation:
     justify-content: center;
   }
   .imgs img {
-    transition: transform .3s var(--bezier-bounce);
+    transition: transform 0.3s var(--bezier-bounce);
   }
   .imgs img:hover {
     transform: scale(1.5);
   }
 </style>
-<h1><a href="overview/">Overview (click to read!)</a></h1>
+<h1>
+  <a href="overview/">Overview (click to read!)</a>
+</h1>
 <h2>Countries</h2>
 <div class="imgs">
   <a href="bauhinia/">{% image 'gallery/' 'bauhinia flag.svg' 200 'Bauhinia' %}</a>
@@ -43,8 +45,3 @@ eleventyNavigation:
     {% figure 'bg/' 'calendar.png' 200 'Calendar' 'Calendar with holidays and birthdays!' %}
   </a>
 </div>
-<p><a href="superpowers/">Learn about superpowers!</a></p>
-<p><a href="history/">Learn about history!</a></p>
-<p><a href="calendar/">Calendar with holidays and birthdays!</a></p>
-<p>I need to format this page better.</p>
-<p>This looks so ugly rn</p>
