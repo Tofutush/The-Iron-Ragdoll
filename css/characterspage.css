@@ -35,6 +35,10 @@ body {
 	flex-direction: column;
 }
 
+.chs>div.hidden {
+	display: none;
+}
+
 .ch {
 	align-items: center;
 	background-color: var(--box);
