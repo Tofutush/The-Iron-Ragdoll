@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-14
+
+- Finished character page filtering.
+
 ## 2024-11-13
 
 - Character edits.
