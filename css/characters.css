@@ -129,19 +129,6 @@ h3 {
 .rel-img {
   height: 8em;
   width: auto;
-  user-select: none;
-}
-
-.rel-img.right {
-  float: right;
-}
-
-.rel-img.left {
-  float: left;
-}
-
-.rel-img img {
-  margin: 0;
 }
 
 .prev-next {
