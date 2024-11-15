@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-15
+
+- Added `pumpkin horn.png`.
+- Character edits.
+
 ## 2024-11-14
 
 - Finished character page filtering.
