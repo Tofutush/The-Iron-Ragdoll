@@ -1449,5 +1449,15 @@
     "scope": "design",
     "style": "lineless",
     "date": "2024-11-12"
+  },
+  {
+    "name": "pumpkin horn",
+    "type": "png",
+    "ch": [
+      "pumpkin"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2024-11-15"
   }
 ]
