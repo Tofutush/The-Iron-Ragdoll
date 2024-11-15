@@ -120,10 +120,12 @@ img {
 
 .float-left {
 	float: left;
+	user-select: none;
 }
 
 .float-right {
 	float: right;
+	user-select: none;
 }
 
 figure {

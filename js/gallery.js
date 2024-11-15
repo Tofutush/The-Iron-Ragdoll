@@ -1,5 +1,4 @@
 (function () {
-	
 	let divs = document.getElementById('gallery').children;
 	console.log(document.getElementById('gallery'));
 	for (let z = 0; z < divs.length; z++) {
