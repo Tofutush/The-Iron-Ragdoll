@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 2
 ---
 
-# The Republic of Fanton
+# The Republic of Fanton / 范顿共和国
 
 {% image "gallery/" "fanton flag.svg" 1000 "Flag of Fanton" 'max' %}
 

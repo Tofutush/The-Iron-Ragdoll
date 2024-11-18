@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 4
 ---
 
-# Westavia
+# The Republic of Westavia / 伟思德维亚共和国
 
 {% image "gallery/" "westavia flag.svg" 1000 "Flag of Westavia" 'max' %}
 

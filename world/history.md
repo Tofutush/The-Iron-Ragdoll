@@ -6,7 +6,7 @@ eleventyNavigation:
   parent: World
 ---
 
-# History
+# History / 历史
 
 [[toc]]
 

@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 2
 ---
 
-# Lunarale
+# Lunarale / 阴州

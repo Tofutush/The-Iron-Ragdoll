@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 6
 ---
 
-# Sylvandia
+# The Sylvandian Federation / 希尔万迪亚合众国
 
 {% image "gallery/" "sylvandia flag.svg" 1000 "Flag of Sylvandia" 'max' %}
 

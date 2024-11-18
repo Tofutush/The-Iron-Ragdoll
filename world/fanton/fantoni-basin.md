@@ -6,6 +6,6 @@ eleventyNavigation:
   parent: Fanton
 ---
 
-# Fantoni Basin
+# Fantoni Basin / 范顿盆地
 
 A basin.
