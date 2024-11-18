@@ -6,6 +6,6 @@ eleventyNavigation:
   parent: Fanton
 ---
 
-# Fantoni Plateau
+# Fantoni Plateau / 范顿高原
 
 The highest place on the continent.

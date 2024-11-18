@@ -6,6 +6,6 @@ eleventyNavigation:
   parent: Fanton
 ---
 
-# Lotus Lake City
+# Lotus Lake City / 莲花湖城
 
 The capital of [Fanton](/world/fanton/). There's a [lake](/world/fanton/lotus-lake-city/lotus-lake/) in it.

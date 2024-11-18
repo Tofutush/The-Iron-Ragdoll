@@ -7,13 +7,13 @@ eleventyNavigation:
   parent: World
 ---
 
-# Superpowers
+# Superpowers / 超能力！
 
 [[toc]]
 
 Some people are born with ~~convenient plot devices~~ superpowers. There are some different types of superpowers. One person can only have up to one power, and you might be either strong or weak in it. Read about them!
 
-## Common powers
+## Common powers / 普通
 
 ### Superstrength
 
@@ -68,7 +68,7 @@ Look into other people's deepest privacy. Listen in. What are they thinking abou
 
 That is, if your power is strong enough. Weak mind reading powers are extremely limited. For example, Cosmo can only tell whether people are lying -- though she's quite good at that.
 
-## Power relations
+## Power relations / 能力间的关系
 
 Powers do not exist solely on their own. They affect, and are affected by, each other.
 
@@ -81,11 +81,11 @@ The picture above shows which power can affect which. The outer loop indicates b
 
 It happens when two people of different superpowers come in contact with each other. The effects depend on how close they are -- peaking when they directly touch each other -- and the respective strength of their powers.
 
-### Power boosting
+### Power boosting / 能力相生
 
 Each power would boost another power when they are near each other.
 
-### Power blocking
+### Power blocking / 能力相克
 
 Each power would also weaken another power if they are near each other.
 
@@ -101,7 +101,7 @@ Each power would also weaken another power if they are near each other.
 
 **Mind reading**: mind-readers cannot read the minds of invisibles, no matter whether they're currently invisible or not.
 
-## Special powers
+## Special powers / 特殊
 
 These powers are extremely rare, and don't have the [blocking](#power-blocking) and [boosting](#power-boosting) effects that the other five have.
 

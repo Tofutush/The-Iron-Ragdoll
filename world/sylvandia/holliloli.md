@@ -7,6 +7,6 @@ eleventyNavigation:
   order: 4
 ---
 
-# Holliloli
+# Holliloli / 冬青莉莉
 
 Yes I *am* serious with this name.

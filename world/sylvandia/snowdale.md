@@ -7,6 +7,6 @@ eleventyNavigation:
   order: 5
 ---
 
-# Snowdale
+# Snowdale / 雪镇
 
 The place [Pearl](/characters/pearl/) comes from.

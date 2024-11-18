@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2024-11-18
 
 - Added `beauty stand.png`.
+- Character edits.
 - 加上了中文字体。
 
 ## 2024-11-17

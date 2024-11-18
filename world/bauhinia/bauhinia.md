@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 1
 ---
 
-# The Republic of Bauhinia
+# The Republic of Bauhinia / 紫荆共和国
 
 {% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" 'max' %}
 

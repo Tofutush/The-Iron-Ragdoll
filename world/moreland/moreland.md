@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 5
 ---
 
-# Moreland
+# The Republic of Moreland / 莫尔兰共和国
 
 {% image "gallery/" "moreland flag.svg" 1000 "Flag of Moreland" 'max' %}
 

@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 3
 ---
 
-# The Republic of Atlasia
+# The Republic of Atlasia / 亚特莱西亚共和国
 
 {% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" 'max' %}
 

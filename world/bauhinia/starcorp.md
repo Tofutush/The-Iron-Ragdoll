@@ -6,7 +6,7 @@ eleventyNavigation:
   parent: Bauhinia
 ---
 
-# Starcorp
+# Starcorp / 繁星集团
 
 - [Hyrax](/characters/hyrax/)
 - [Peacock](/characters/peacock/)
