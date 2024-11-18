@@ -1459,5 +1459,15 @@
     "scope": "half-body",
     "style": "normal",
     "date": "2024-11-15"
+  },
+  {
+    "name": "beauty stand",
+    "type": "png",
+    "ch": [
+      "beauty"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-11-18"
   }
 ]
