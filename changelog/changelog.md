@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-18
+
+- Added `beauty stand.png`.
+
 ## 2024-11-17
 
 - Character edits.
