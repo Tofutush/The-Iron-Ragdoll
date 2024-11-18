@@ -9,7 +9,5 @@ module.exports = function () {
 		}
 	}
 	tags = [...new Set(tags)];
-	console.log(tags);
-	
 	return tags;
 }
