@@ -47,7 +47,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('css');
 	eleventyConfig.addPassthroughCopy('js');
 	eleventyConfig.addPassthroughCopy('icon.ico');
-	eleventyConfig.addPassthroughCopy('Lexend.ttf');
+	eleventyConfig.addPassthroughCopy('fonts');
 	// filters
 	eleventyConfig.addFilter("dateToRfc3339", pluginRss.dateToRfc3339);
 	eleventyConfig.addFilter('lowerCase', function (s) {
