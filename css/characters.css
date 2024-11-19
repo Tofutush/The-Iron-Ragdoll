@@ -129,6 +129,7 @@ h3 {
 .rel-img {
   height: 8em;
   width: auto;
+  margin: 1em;
 }
 
 #gallery>div>img:hover {

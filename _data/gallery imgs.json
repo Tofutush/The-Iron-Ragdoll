@@ -1469,5 +1469,35 @@
     "scope": "full-body",
     "style": "normal",
     "date": "2024-11-18"
+  },
+  {
+    "name": "chastity stand",
+    "type": "png",
+    "ch": [
+      "chastity"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-11-19"
+  },
+  {
+    "name": "devotion stand",
+    "type": "png",
+    "ch": [
+      "devotion"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-11-19"
+  },
+  {
+    "name": "elegance stand",
+    "type": "png",
+    "ch": [
+      "elegance"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-11-19"
   }
 ]
