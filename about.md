@@ -44,7 +44,7 @@ Link to my site!
 
 <div class="buttons"><img alt="The Iron Ragdoll" src="/img/bg/88x31.gif"/></div>
 
-<img alt="The Iron Ragdoll banner" src="/img/bg/468x60.png"/>
+<img class="max" alt="The Iron Ragdoll banner" src="/img/bg/468x60.png"/>
 
 <div id='webcomicwebring'>
   <script type="text/javascript" src="https://webcomicring.org/js/comicring-variables.js"></script>

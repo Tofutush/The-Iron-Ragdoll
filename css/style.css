@@ -115,17 +115,13 @@ a:hover {
 
 img {
 	display: block;
-	margin: 1em;
 }
 
-.max {
-	height: 100%;
-	width: 100%;
-}
-
+.max,
 .max img {
 	height: 100%;
 	width: 100%;
+	margin: 1em 0;
 }
 
 .float-left {
@@ -136,6 +132,13 @@ img {
 .float-right {
 	float: right;
 	user-select: none;
+}
+
+.float-left,
+.float-right,
+.float-left img,
+.float-right img {
+	margin: 1em;
 }
 
 figure {
