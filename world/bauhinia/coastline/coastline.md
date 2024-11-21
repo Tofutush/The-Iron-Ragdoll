@@ -14,3 +14,4 @@ Where most of the story takes place! A large city on the southern coast of [Bauh
 
 - [Coastline Middle School](/world/bauhinia/coastline/cms/)
 - [The Safe house](/world/bauhinia/coastline/safe-house/)
+- [The Abandoned house](/world/bauhinia/coastline/abandoned-house/)
