@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-21
+
+- Character edits.
+- World edits.
+
 ## 2024-11-19
 
 - Added `chastity stand.png`, `devotion stand.png`, `elegance stand.png`.
