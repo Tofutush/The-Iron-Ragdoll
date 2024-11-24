@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-24
+
+- Character edits.
+  - Added [Gecko](/characters/gecko/).
+- World edits.
+
 ## 2024-11-21
 
 - Character edits.

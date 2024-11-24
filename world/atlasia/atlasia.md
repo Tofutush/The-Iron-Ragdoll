@@ -40,6 +40,12 @@ Also, there is no age where you "legally turn into an adult." You're considered 
 
 [^1]: Okay I'm being carried away a bit there; I'm not sure whether Rand herself would think that was what she wanted. But I mean like, she's fucking dead and I do what I want.
 
+### Naming conventions
+
+Atlasia's naming conventions mirrors our western world, with a given name, an optional middle name, and a family name. For example, "[Jackpot Cloudy](/characters/jackpot/)" and "[Snake Cloudy](/characters/snake/)."
+
+Women change their family names to their partner's (since marriage isn't a thing anymore, they'd change their names to signify that they're together). It's still always the women changing names.
+
 ## History
 
 Atlasia was created by Moose immigrants after the Guardian Moose Takeover (Morelandian Revolution). They hated the new regime, so they made their own the way they liked it.
