@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-25
+
+- Added `dijkolo.png`.
+- Updated calendar.
+
 ## 2024-11-24
 
 - Character edits.
