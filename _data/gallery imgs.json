@@ -1507,5 +1507,16 @@
     "style": "normal",
     "date": "2024-11-25",
     "comment": "Fan art of Kolo and Dijamant, by [Numbers Story](https://numbersstory.com) by Kolo."
+  },
+  {
+    "name": "sparky fern panda",
+    "type": "png",
+    "ch": [
+      "fern",
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-11-27"
   }
 ]

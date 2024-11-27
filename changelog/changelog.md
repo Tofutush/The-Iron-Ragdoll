@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-27
+
+- Added `sparky fern panda.png`.
+- Character edits.
+
 ## 2024-11-25
 
 - Added `dijkolo.png`.
