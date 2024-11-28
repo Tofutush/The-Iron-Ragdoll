@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2024-11-28
 
 - New filter style on characters page.
+- Character edits.
 
 ## 2024-11-27
 
