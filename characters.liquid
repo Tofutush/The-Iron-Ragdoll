@@ -8,63 +8,26 @@ eleventyNavigation:
   parent: Root
 ---
 <link rel="stylesheet" href="/css/characterspage.css" />
-<link rel="stylesheet" href="/css/filter.css"/>
-{% comment %} {% assign sparky = characters | getChByName: "Sparky" %}
-            <div class="chs">
-              <div>
-                <div class="ch" style="--c: #0cf">
-                  <a href="{{ sparky.name | lowerCase }}/">
-                    {% image "gallery/" "sparky thumb.png" 200 "Sparky" %}
-                  </a>
-                </div>
-                {% include 'chButton', ch: "Sparky" %}
-              </div>
-            </div>
-            
-            {% for category in categories %}
-              {% assign cat = characters | getChByCat: category %}
-              <h1>{{ category }}</h1>
-              <div class="chs">
-              {% for ch in cat %}
-                {% if ch.hidden != true %}
-                  <div>
-                    <div class="ch" style="--c: {{ ch.color }}">
-                      <a href="{{ ch.name | lowerCase }}/">
-                        {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-                        {% image "gallery/" bruhhh 200 ch.name %}
-                      </a>
-                    </div>
-                    {% include 'chButton', ch: ch.name %}
-                  </div>
-                {% endif %}
-              {% endfor %}
-              </div>
-{% endfor %} {% endcomment %}
-<div id="tags">
-  <h1 class="collapsible" target="#filter">
-    <a>Filter</a>
-  </h1>
-  <div id="filter" class="collapsible-content">
-    <p>Press shift to multi-select</p>
+<p>Brand new filter style! Shift to multi-select. I know the tags list gets longer than the characters box brruuuhhh idk how to solve that. Also I haven't made mobile version yet.</p>
+<div id="flexbox">
     <div class="tags">
-      {% for tag in tagsplot %}
-        <div name="{{ tag }}">{{ tag }}</div>
-      {% endfor %}
+        {% for tag in tagsplot %}
+            <div name="{{ tag }}">{{ tag }}</div>
+        {% endfor %}
     </div>
-  </div>
-</div>
-<div class="chs">
-  {% for ch in characters %}
-    <div tags="{% for tag in ch.tags %}{{ tag | slugify }} {% endfor %}">
-      <div class="ch" style="--c: {{ ch.color }}">
-        <a href="{{ ch.name | lowerCase }}/">
-          {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-          {% image "gallery/" bruhhh 200 ch.name %}
-        </a>
-      </div>
-      {% include 'chButton', ch: ch.name %}
+    <div class="chs">
+        {% for ch in characters %}
+            <div tags="{% for tag in ch.tags %}{{ tag | slugify }} {% endfor %}">
+            <div class="ch" style="--c: {{ ch.color }}">
+                <a href="{{ ch.name | lowerCase }}/">
+                {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
+                {% image "gallery/" bruhhh 200 ch.name %}
+                </a>
+            </div>
+            {% include 'chButton', ch: ch.name %}
+            </div>
+        {% endfor %}
     </div>
-  {% endfor %}
 </div>
 <script src="/js/filter.js"></script>
 <script>
