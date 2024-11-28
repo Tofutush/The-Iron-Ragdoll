@@ -174,31 +174,11 @@ smallweb-subway-comics {
 blockquote {
 	font-style: italic;
 	margin: 1em 2em;
-	padding: 2em;
+	padding: 1em;
 	position: relative;
 	text-indent: 0;
-}
-
-blockquote::before {
-	content: '';
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 20%;
-	height: 20%;
-	border-top: 4px solid var(--box);
-	border-left: 4px solid var(--box);
-}
-
-blockquote::after {
-	content: '';
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	width: 20%;
-	height: 20%;
-	border-bottom: 4px solid var(--box);
-	border-right: 4px solid var(--box);
+	background-color: var(--box);
+	border-radius: 16px;
 }
 
 blockquote p:first-child {
@@ -677,6 +657,5 @@ hr {
 
 	blockquote {
 		margin: 1em;
-		padding: 1em;
 	}
 }

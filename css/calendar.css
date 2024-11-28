@@ -1,7 +1,3 @@
-#main-content {
-	max-width: 1200px;
-}
-
 .calendar {
 	display: grid;
 	grid-template: repeat(6, 1fr) / repeat(7, 1fr);
