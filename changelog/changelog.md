@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-28
+
+- New filter style on characters page.
+
 ## 2024-11-27
 
 - Added `sparky fern panda.png`.
