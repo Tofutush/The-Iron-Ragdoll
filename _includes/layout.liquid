@@ -19,6 +19,13 @@ navOptions:
   <link rel="stylesheet" href="/css/style.css"/>
   <link rel="stylesheet" href="/css/linkcolor.css"/>
   <link rel="icon" href="/icon.ico"/>
+  {% if widepage %}
+    <style>
+      #main-content {
+        max-width: 1200px;
+      }
+    </style>
+  {% endif %}
 </head>
 <body class="{% if page.url contains '/page-' or page.url == '/' %}{{ theme }}{% else %}light{% endif %}">
 <div id="header">
