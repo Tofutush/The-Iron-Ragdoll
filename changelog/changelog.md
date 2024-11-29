@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-29
+
+- Character edits.
+  - Added "Age estimation" for some.
+
 ## 2024-11-28
 
 - New filter style on characters page.
