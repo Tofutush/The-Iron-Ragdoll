@@ -1,7 +1,7 @@
 const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = require('@11ty/eleventy');
 const Image = require('@11ty/eleventy-img');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+// const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require('markdown-it');
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require('markdown-it-anchor');
@@ -40,7 +40,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
-	eleventyConfig.addPlugin(pluginRss);
+	// eleventyConfig.addPlugin(pluginRss);
 	const mdRender = new markdownIt();
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
@@ -49,7 +49,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('icon.ico');
 	eleventyConfig.addPassthroughCopy('fonts');
 	// filters
-	eleventyConfig.addFilter("dateToRfc3339", pluginRss.dateToRfc3339);
+	// eleventyConfig.addFilter("dateToRfc3339", pluginRss.dateToRfc3339);
 	eleventyConfig.addFilter('lowerCase', function (s) {
 		return s.toLowerCase();
 	});

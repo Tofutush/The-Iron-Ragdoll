@@ -1,0 +1,45 @@
+---json
+{
+  "permalink": "feed.xml",
+  "metadata": {
+  "title": "The Iron Ragdoll",
+  "subtitle": "A mystery webcomic!",
+  "language": "en",
+  "url": "https://tofutush.github.io/The-Iron-Ragdoll",
+  "author": {
+    "name": "Tofutush"
+  }
+  },
+  "eleventyNavigation": {
+  "key": "RSS Feed",
+  "parent": "Root"
+  }
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ metadata.url }}" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>The Iron Ragdoll</title>
+  <link>https://tofutush.github.io/The-Iron-Ragdoll</link>
+  <atom:link href="https://tofutush.github.io/The-Iron-Ragdoll/feed.xml" rel="self" type="application/rss+xml" />
+  <description>A mystery webcomic!</description>
+  <language>en</language>
+  {% for comic in comicpages | reverse %}
+    <item>
+      <title>The Iron Ragdoll page {{ comic.pagenum }}</title>
+      <link>https://tofutush.github.io/The-Iron-Ragdoll/page-{{ comic.pagenum }}</link>
+      <description>
+        {% assign bruhhh = comic.url | append: '.png' %}
+        {% assign alt = "Page " | append: comic.pagenum %}
+        {% image "comics/" bruhhh 1000 alt %}</img>
+        {% if comic.note %}
+          <div>{{ comic.note | renderMD }}</div>
+        {% endif %}
+      </description>
+      <pubDate>{{ comic.date }}</pubDate>
+      <dc:creator>Tofutush</dc:creator>
+      <guid>https://tofutush.github.io/The-Iron-Ragdoll/page-{{ comic.pagenum }}</guid>
+    </item>
+  {%- endfor %}
+</channel>
+</rss>
