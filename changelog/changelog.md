@@ -17,6 +17,7 @@ eleventyNavigation:
   - Wait hang on. `goose-float` and `goose-hat` both have hyphens too.
   - Whatever.
 - Character edits.
+- Redid the RSS feed a little.
 
 ## 2024-11-29
 
