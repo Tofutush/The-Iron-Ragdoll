@@ -9,6 +9,15 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-11-30
+
+- Added `goose-goose-2.gif`, `goosebump.gif`.
+  - Why'd `goose-goose-2` have hyphens in its name? When'd I do that?
+  - Whatever.
+  - Wait hang on. `goose-float` and `goose-hat` both have hyphens too.
+  - Whatever.
+- Character edits.
+
 ## 2024-11-29
 
 - Character edits.
