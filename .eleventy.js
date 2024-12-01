@@ -7,6 +7,7 @@ const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require('markdown-it-anchor');
 const markdownItTOC = require('markdown-it-table-of-contents');
 const { minify } = require('html-minifier-terser');
+const { existsSync } = require("fs");
 
 module.exports = function (eleventyConfig) {
 	const mdIt = markdownIt({
@@ -126,44 +127,38 @@ module.exports = function (eleventyConfig) {
 		`;
 	});
 	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className) {
-		try {
-			let metadata = await Image('img/' + path + name, {
-				widths: [size],
-				formats: ['webp'],
-				urlPath: '/img/' + path,
-				outputDir: './_site/img/' + path
-			});
-			let imageAttributes = {
-				alt,
-				title: alt,
-				class: className,
-				loading: "lazy",
-				decoding: "async",
-			};
-			return Image.generateHTML(metadata, imageAttributes);
-		} catch (e) {
-			return `<div>${name}</div>`;
-		}
+		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : "img/bg/placeholder.png";
+		let metadata = await Image(src, {
+			widths: [size],
+			formats: ['webp'],
+			urlPath: '/img/' + path,
+			outputDir: './_site/img/' + path
+		});
+		let imageAttributes = {
+			alt,
+			title: alt,
+			class: className,
+			loading: "lazy",
+			decoding: "async",
+		};
+		return Image.generateHTML(metadata, imageAttributes);
 	});
 	eleventyConfig.addShortcode('figure', async function(path, name, size, alt, caption, className) {
-		try {
-			let metadata = await Image('img/' + path + name, {
-				widths: [size],
-				formats: ['webp'],
-				urlPath: '/img/' + path,
-				outputDir: './_site/img/' + path
-			});
-			let imageAttributes = {
-				alt,
-				title: alt,
-				loading: "lazy",
-				decoding: "async",
-			};
-			let img = Image.generateHTML(metadata, imageAttributes);
-			return `<figure class="${className}">${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
-		} catch (e) {
-			return `<div>${name}</div>`;
-		}
+		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : "img/bg/placeholder.png";	
+		let metadata = await Image(src, {
+			widths: [size],
+			formats: ['webp'],
+			urlPath: '/img/' + path,
+			outputDir: './_site/img/' + path
+		});
+		let imageAttributes = {
+			alt,
+			title: alt,
+			loading: "lazy",
+			decoding: "async",
+		};
+		let img = Image.generateHTML(metadata, imageAttributes);
+		return `<figure class="${className}">${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
