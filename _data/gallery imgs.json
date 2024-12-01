@@ -1518,5 +1518,15 @@
     "scope": "full-body",
     "style": "normal",
     "date": "2024-11-27"
+  },
+  {
+    "name": "snake stand",
+    "type": "png",
+    "ch": [
+      "snake"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-12-01"
   }
 ]
