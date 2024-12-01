@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2024-12-01
 
 - Added placeholder image.
+- Added `snake stand.png`.
 - Moved old updates.
 
 *Never seen someone so enthusiastically read a changelog. Anyways, more for you: [older updates](old/).*
