@@ -18,7 +18,11 @@ A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/mo
 
 Westavia is quite sandy, with some really hot basins surrounded by mountain ranges. Eastern winds don't blow this far into the continent, so the place is dry and deserty. The sunshine made the country suitable for planting grapes.
 
-The closest geographical mirror to Westavia is Xinjiang.
+The closest geographical mirror to Westavia is Xinjiang and Central Asia.
+
+### Cities
+
+- [Pumpkin's Village](/world/westavia/pumpkins-village/) (Okay this is not a city I admit)
 
 ## Society
 

@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-02
+
+- Character edits.
+- Added [Pumpkin's Village](/world/westavia/pumpkins-village/).
+
 ## 2024-12-01
 
 - Added placeholder image.
