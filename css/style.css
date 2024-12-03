@@ -518,6 +518,7 @@ body.dark #linx a:hover {
 
 .collapsible-content.collapsible-active {
 	height: auto;
+	margin-bottom: 1em;
 }
 
 .collapsible-content>*:first-child {

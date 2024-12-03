@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-03
+
+- Added some new buttons.
+
 ## 2024-12-02
 
 - Character edits.
