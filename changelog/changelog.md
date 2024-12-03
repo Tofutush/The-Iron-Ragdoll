@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2024-12-03
 
 - Added some new buttons.
+- Fixed an embarrassing error that uploaded two copies of the site to Neocities.
 
 ## 2024-12-02
 
