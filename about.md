@@ -47,6 +47,7 @@ Leave me a message [over here](/contact/)!
   <a href="https://leilukin.com"><img alt="Leilukin's Hub" src="/img/bg/leilukinshub.png"/></a>
   <a href="https://glykon.neocities.org"><img alt="Glykon" src="/img/bg/glykon.png"/></a>
   <a href="https://visionaryparacosmos.neocities.org"><img alt="Visionary Paracosmos" src="/img/bg/visionaryparacosmos.png"/></a>
+  <a href="https://jadeevergreen.com"><img alt="Jade Evergreen" src="/img/bg/jadeevergreen.png"/></a>
 </div>
 
 Link to my site!
