@@ -72,6 +72,8 @@ Some webrings may not display on Neocities. Sorry! That's just how the ring is m
 <script src="https://gusbus.space/smallweb-subway.js/comics.js"></script>
 <smallweb-subway-comics></smallweb-subway-comics>
 
+<iframe id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=The Iron Ragdoll"></iframe>
+
 ## What is mine and what isn't
 
 Most content on this site is made by myself. What isn't:
