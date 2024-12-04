@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-04
+
+- Joined bucket webring.
+- Added `pearl snake.png`.
+- Character edits.
+
 ## 2024-12-03
 
 - Added some new buttons.
