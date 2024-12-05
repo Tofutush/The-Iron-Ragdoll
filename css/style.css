@@ -1,21 +1,11 @@
 @font-face {
 	font-family: lexend;
-	src: url(/The-Iron-Ragdoll/fonts/Lexend.ttf);
-}
-
-@font-face {
-	font-family: lexend;
-	src: url(/fonts/Lexend.ttf);
+	src: url(/The-Iron-Ragdoll/fonts/Lexend.ttf), url(/fonts/Lexend.ttf);
 }
 
 @font-face {
 	font-family: lxgw;
-	src: url(/The-Iron-Ragdoll/fonts/LXGWMarkerGothic-Regular.ttf);
-}
-
-@font-face {
-	font-family: lxgw;
-	src: url(/fonts/LXGWMarkerGothic-Regular.ttf);
+	src: url(/The-Iron-Ragdoll/fonts/LXGWMarkerGothic-Regular.ttf), url(/fonts/LXGWMarkerGothic-Regular.ttf);
 }
 
 & {
