@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-09
+
+- Added `sparky nightsun wallpaper.png`.
+- Character edits.
+- OC Webring test.
+
 ## 2024-12-04
 
 - Joined bucket webring.
