@@ -58,6 +58,15 @@ Link to my site!
 
 Some webrings may not display on Neocities. Sorry! That's just how the ring is made. Go [here](https://tofutush.github.io/The-Iron-Ragdoll/about#buttons-and-webrings) instead.
 
+<div id="oc-webring-widget">
+    <div id="oc-webring-title">OC Webring</div>
+    <div id="oc-webring-controls">
+        <a href="https://tofutush.github.io/oc-webring/prev/?site=The Iron Ragdoll">Previous</a>
+        <a href="https://tofutush.github.io/oc-webring/rand/?site=The Iron Ragdoll">Random</a>
+        <a href="https://tofutush.github.io/oc-webring/next/?site=The Iron Ragdoll">Next</a>
+    </div>
+</div>
+
 <div id='webcomicwebring'>
   <script type="text/javascript" src="https://webcomicring.org/js/comicring-variables.js"></script>
   <script type="text/javascript" src="https://webcomicring.org/js/comicring-widget.js"></script>
