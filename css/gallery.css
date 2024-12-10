@@ -40,7 +40,15 @@
 }
 
 .modal p {
-	color: #fff;
+	color: var(--bg-light);
+}
+
+.modal .name-date {
+    display: flex;
+    gap: 1em;
+    justify-content: space-between;
+    text-indent: 0;
+    opacity: .8;
 }
 
 .modal:has(.comment) {
