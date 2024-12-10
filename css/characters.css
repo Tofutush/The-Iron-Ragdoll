@@ -124,8 +124,8 @@ h3 {
 
 .rel-img {
   height: 8em;
-  width: auto;
-  margin: 1em;
+  width: 8em;
+  object-fit: contain;
 }
 
 #gallery>div>img:hover {

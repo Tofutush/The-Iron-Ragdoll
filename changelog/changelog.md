@@ -9,6 +9,13 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-10
+
+- Character edits.
+- World edits.
+  - Added page [ISA](/world/isa/).
+- CSS tweaks.
+
 ## 2024-12-09
 
 - Added `sparky nightsun wallpaper.png`.

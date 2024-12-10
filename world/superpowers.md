@@ -7,7 +7,7 @@ eleventyNavigation:
   parent: World
 ---
 
-# Superpowers / 超能力！
+# Superpowers / 超能力
 
 [[toc]]
 
@@ -52,7 +52,7 @@ Be able to see, hear, and smell things that other people can't. For weaker peopl
 
 {% figure 'gallery/' 'invisibility.svg' 200 'Invisibility symbol' '' 'float-right' %}
 
-- Possessors: [Snowball](/characters/snowball/)
+- Possessors: [Goose](/characters/goose/), [Snowball](/characters/snowball/)
 - People with invisibility are called invisibles
 
 Get invisible. Like, that's it. Exactly how much you can get invisible depends on your power strength. Like, weaker people might only get their immediate bodies invisible while their clothes are left hanging in the air; stronger people might be able to get a lot more things near them invisible. But no matter what, they have to be invisible *themselves* -- you can't hide something else but not yourself. Strong invisibles may even make themselves and everything they've hidden pass-through.
@@ -76,20 +76,32 @@ Powers do not exist solely on their own. They affect, and are affected by, each 
 
 The picture above shows which power can affect which. The outer loop indicates boosting, and the inner star indicates blocking. Which means:
 
-- Timekeeping boosts mind-reading. Mind-reading boosts hyperawareness. Hyperawareness boosts superstrength. Superstrength boosts invisibility. Invisibility boosts timekeeping.
-- Superstrength blocks timekeeping. Timekeeping blocks hyperawareness. Hyperawareness blocks invisibility. Invisibility blocks mind-reading. Mind-reading blocks superstrength.
+- Boosting: Timekeeping ==> mind-reading ==> hyperawareness ==> superstrength ==> invisibility ==> timekeeping.
+- Blocking: Superstrength ==> timekeeping ==> hyperawareness ==> invisibility ==> mind-reading ==> superstrength.
 
-It happens when two people of different superpowers come in contact with each other. The effects depend on how close they are -- peaking when they directly touch each other -- and the respective strength of their powers.
+It happens when two people with different superpowers come in contact with each other. The effects depend on how close they are -- peaking when they directly touch each other -- and the respective strength of their powers.
+
+Note that some boosting / blocking affects *everyone*, like sensors making strongpeople stronger, who can then use that boosted strength to beat more people up. But sometimes it only affects the target, like sensors finding invisible people.
 
 ### Power boosting / 能力相生
 
 Each power would boost another power when they are near each other.
 
+**Superstrength**: Being around sensors will make strongpeople even stronger, which is obviously pretty bad when a sensor is trying to fight a strongperson.
+
+**Hyperawareness**: Mind-readers can make sensors stronger.
+
+**Mind-reading**: Mind-readers can read more clearly the minds of timekeepers than anyone else. This includes their internal clocks!
+
+**Timekeeping**: Invisibles can make the time even more precise for timekeepers.
+
+**Invisibility**: Having strongpeople around can make an invisible hide themselves more. Depending on how strong each person's power is, they might even be able to hide from sensors.
+
 ### Power blocking / 能力相克
 
 Each power would also weaken another power if they are near each other.
 
-**Superstrength**: strongpeople[^3]'s extra strength will be weakened by mind-readers. When a mind-reader is present, their strength can be greatly reduced depending on both their power level and the mind-reader's -- although they won't feel a thing unless they start doing shit and breaking their backs.
+**Superstrength**: When a mind-reader is present, a strongperson[^3]'s strength can be greatly reduced depending on both their power level and the mind-reader's -- although they won't feel a thing unless they start doing shit and breaking their backs.
 
 [^3]: Damn I really need a better name.
 
@@ -97,7 +109,7 @@ Each power would also weaken another power if they are near each other.
 
 **Hyperawareness**: sensors' senses can be reduced by timekeepers.
 
-**Invisibility**: invisibles can be directly sensed by sensors.
+**Invisibility**: Invisibles may just reappear when a sensor walks into them or something.
 
 **Mind reading**: mind-readers cannot read the minds of invisibles, no matter whether they're currently invisible or not.
 
@@ -107,7 +119,7 @@ These powers are extremely rare, and don't have the [blocking](#power-blocking) 
 
 ### Immortality
 
-{% figure 'gallery/' 'immortality.svg' 200 'Immortality symbol' '' 'float-right' %}
+{% figure 'gallery/' 'immortality.svg' 200 'Immortality symbol YES I was lazy' '' 'float-right' %}
 
 - Possessors: [Tundra](/characters/tundra/)
 - People with immortality are called immortals
@@ -131,6 +143,15 @@ Magicians can do nearly anything they put their minds to. Most of it involve tel
 
 Magicians can choose to take their magic out of their body and into a vessel. Then they can only use their magic if they're physically in contact with the vessel. The magic is still theirs, and still only they can use it. But while all other spells function the same, they *cannot* take the magic back out again unless the vessel is completely broken -- for example, snapped in half. Slight chipping doesn't count.
 
+## Arch-people
+
+For each superpower, be it common or special, there will be at most *one* person alive at the time who will bear the title of Arch-whatever-they-are.
+
+Arch-people are obviously the most powerful at whatever their superpower is, but here's the catch: you can't be born into it. You have to have *conciously* did something about your superpower that no one else had ever done.
+
+For example, [Qibli](/characters/qibli/) crowned herself as the Arch-Magician (not officially, since at that time, the [Bauhinian government](/world/bauhinia/) had already completely illegalized anything related to magic) after discovering how to not only put fragments of her magic in vessels (previously it was only possible to put the entire thing in), but also let *other people*, non-magicians use it, something that has always been considered impossible.
+
 ## Related files
 
 - [Superpowers in Bauhinia](/world/bauhinia/superpowers/)
+- [International Superpowers Association](/world/isa/)
