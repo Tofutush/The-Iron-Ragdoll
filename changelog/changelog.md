@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-11
+
+- World edits
+  - Added page [Creatures](/world/creatures/).
+
 ## 2024-12-10
 
 - Character edits.
