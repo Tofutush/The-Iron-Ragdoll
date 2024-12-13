@@ -79,11 +79,13 @@ The picture above shows which power can affect which. The outer loop indicates b
 - Boosting: Timekeeping ==> mind-reading ==> hyperawareness ==> superstrength ==> invisibility ==> timekeeping.
 - Blocking: Superstrength ==> timekeeping ==> hyperawareness ==> invisibility ==> mind-reading ==> superstrength.
 
-It happens when two people with different superpowers come in contact with each other. The effects depend on how close they are -- peaking when they directly touch each other -- and the respective strength of their powers.
+Boosting will make the person being boosted stronger, and blocking will make the person being blocked weaker. The person *doing* the boosting and blocking does not get affected.
 
-Note that some boosting / blocking affects *everyone*, like sensors making strongpeople stronger, who can then use that boosted strength to beat more people up. But sometimes it only affects the target, like sensors finding invisible people.
+It happens automatically when two people with different superpowers come in contact with each other. The effects depend on how close they are -- peaking when they directly touch each other -- and the respective strength of their powers. People cannot consiously feel anything when it happens, but if you're experienced you can tell from signs anyways.
 
-### Power boosting / 能力相生
+<!-- Note that some boosting / blocking affects *everyone*, like sensors making strongpeople stronger, who can then use that boosted strength to beat more people up. But sometimes it only affects the target, like sensors finding invisible people. -->
+
+<!-- ### Power boosting / 能力相生
 
 Each power would boost another power when they are near each other.
 
@@ -111,11 +113,11 @@ Each power would also weaken another power if they are near each other.
 
 **Invisibility**: Invisibles may just reappear when a sensor walks into them or something.
 
-**Mind reading**: mind-readers cannot read the minds of invisibles, no matter whether they're currently invisible or not.
+**Mind reading**: mind-readers cannot read the minds of invisibles, no matter whether they're currently invisible or not. -->
 
 ## Special powers / 特殊
 
-These powers are extremely rare, and don't have the [blocking](#power-blocking) and [boosting](#power-boosting) effects that the other five have.
+These powers are extremely rare, and don't have the boosting and blocking effects that the other five have.
 
 ### Immortality
 
