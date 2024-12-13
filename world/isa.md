@@ -8,4 +8,9 @@ eleventyNavigation:
 
 # International Superpowers Association
 
-Association of superpower people, or "the gifted" as they're known in [Bauhinia](/world/bauhinia/). Headquarters in [Moreland](/world/moreland/).
+Association of superpowered people, or "the gifted" as they're known in [Bauhinia](/world/bauhinia/). Headquarters in [Westavia](/world/westavia/).
+
+## Related files
+
+- [Superpowers](/world/superpowers/)
+- [Superpowers in Bauhinia](/world/bauhinia/superpowers/)
