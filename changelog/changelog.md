@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-15
+
+- Revamped the gallery page so it's grouped by year-month.
+
 ## 2024-12-13
 
 - Character edits.

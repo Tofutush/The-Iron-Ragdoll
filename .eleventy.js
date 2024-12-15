@@ -67,10 +67,14 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('getChByName', function (arr, name) {
 		return arr.find(ch => ch.name == name);
 	});
+	eleventyConfig.addFilter('padStart', function(n, num, token) {
+		return n.toString().padStart(num, token);
+	});
 	eleventyConfig.addFilter('filterGallery', function (arr, f) {
-		return arr.filter(a => {
-			if (a.ch) return a.ch.includes(f.toLowerCase())
-		});
+		return arr.filter(a => a.ch?.includes(f.toLowerCase()));
+	});
+	eleventyConfig.addFilter('filterGalleryByDate', function (arr, f) {
+		return arr.filter(a => a.date?.includes(f));
 	});
 	eleventyConfig.addFilter('getChByCat', function (arr, cat) {
 		return arr.filter(c => c.cat == cat);
@@ -143,8 +147,8 @@ module.exports = function (eleventyConfig) {
 		};
 		return Image.generateHTML(metadata, imageAttributes);
 	});
-	eleventyConfig.addShortcode('figure', async function(path, name, size, alt, caption, className) {
-		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : "img/bg/placeholder.png";	
+	eleventyConfig.addShortcode('figure', async function (path, name, size, alt, caption, className) {
+		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : "img/bg/placeholder.png";
 		let metadata = await Image(src, {
 			widths: [size],
 			formats: ['webp'],
