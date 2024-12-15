@@ -1,4 +1,4 @@
-<div id="gallery">
+<div class="gallery">
   {% for img in imgs %}
   <div tags="{% for c in img.ch %}{{ c | slugify }} {% endfor %}">
     {% assign bruhhh = img.name | append: "." | append: img.type %}
