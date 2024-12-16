@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2024-12-15
 
 - Revamped the gallery page so it's grouped by year-month.
+- Added `sprinkles.png`, `huizhong.png`.
 
 ## 2024-12-13
 
