@@ -1569,5 +1569,25 @@
     "style": "normal",
     "date": "2024-12-15",
     "comment": "Gift art for [steak_soda](https://toyhou.se/steak_soda), featuring [Huizhong](https://toyhou.se/20494110.huizhong)."
+  },
+  {
+    "name": "paperweight young",
+    "type": "png",
+    "ch": [
+      "paperweight"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-12-16"
+  },
+  {
+    "name": "buttercup pride",
+    "type": "png",
+    "ch": [
+      "buttercup"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2024-12-16"
   }
 ]
