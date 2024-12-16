@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-16
+
+- Added `paperweight young.png`, `buttercup pride.png`.
+- Character edits.
+
 ## 2024-12-15
 
 - Revamped the gallery page so it's grouped by year-month.
