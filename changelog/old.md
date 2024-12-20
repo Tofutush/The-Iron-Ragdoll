@@ -100,7 +100,7 @@ eleventyNavigation:
 
 - Added `fern stand.png`, `snowball lights.png`.
 - Made the grid CSS better.
-- I can't believe I did it, I spent like a week making a JSON editor for my `characters.json` and `relationships.json` so I can edit characters easier. I spent so much fucking time I probably shouldn't have spent for something no one except me is ever going to use. There has to be something wrong with me. I wasted so much time but I loved it so much. Like why? Why? No reason.
+- I can't believe I did it, I spent like a week making a JSON editor for my `characters.json` and `relationships.json` so I can edit characters easier. I spent so much snabbergatting time I probably shouldn't have spent for something no one except me is ever going to use. There has to be something wrong with me. I wasted so much time but I loved it so much. Like why? Why? No reason.
 
 ## 2024-11-04
 
@@ -237,7 +237,7 @@ eleventyNavigation:
 ## 2024-09-23
 
 - Added the [RSS feed](/feed.xml/).
-- Started to add custom 404 pages. [Look here](/motherfucker/).
+- Started to add custom 404 pages. [Look here](/asjdsafhsdjfhsd/).
 
 ## 2024-09-22
 
