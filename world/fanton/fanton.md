@@ -57,6 +57,6 @@ Fanton has the same naming conventions as [Bauhinia](/world/bauhinia/). [See her
 
 Fanton was originally a part of the Bauhinian Empire. During the empire's industrialization, a group of people got mad at the destruction of nature and the endangerment of many plant and animal species. They saw their chance when revolution broke out in Bauhinia. Following all the other countries, they declared independence.
 
-Fanton was created at such a convenient time when everyone else was too busy sorting out their own mess to give a fuck about Fanton. The republic survived.
+Fanton was created at such a convenient time when everyone else was too busy sorting out their own mess to give a snabbergatt about Fanton. The republic survived.
 
 The creation of Fanton led a lot of the original inhabitants to move out in frustration, and a lot of like-minded individuals in other places to move in.

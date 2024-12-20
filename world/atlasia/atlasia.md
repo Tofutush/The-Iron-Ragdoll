@@ -38,7 +38,7 @@ Marriage as an institution is abolished. Nobody can dictate who you can or can't
 
 Also, there is no age where you "legally turn into an adult." You're considered mature enough when you consider yourself mature enough. Although, the consensus is whenever you hit puberty.[^1]
 
-[^1]: Okay I'm being carried away a bit there; I'm not sure whether Rand herself would think that was what she wanted. But I mean like, she's fucking dead and I do what I want.
+[^1]: Okay I'm being carried away a bit there; I'm not sure whether Rand herself would think that was what she wanted. But I mean like, this is *fiction*, so whatever.
 
 ### Naming conventions
 

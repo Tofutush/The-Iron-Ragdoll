@@ -34,7 +34,7 @@ The region that would become [Moreland](/world/moreland/) were the first to act.
 
 [^4]: Yknow. Like Sparta?
 
-How could the empire just stand and watch? In the same year, they sent troops to teach those fuckers a lesson. The young provisional government was under pressure from both the imperial army and its own citizens being unsatisfied because, well, they're being drafted and killed.
+How could the empire just stand and watch? In the same year, they sent troops to teach those snabbergatters a lesson. The young provisional government was under pressure from both the imperial army and its own citizens being unsatisfied because, well, they're being drafted and killed.
 
 That's when the Guardian Moose came in. A group of partisans, some former members of the provisional government's military, some ordinary people forced to take up arms against Bauhinia's soldiers, all of them brave fighters. In 1936, they took over the provisional government by force in an event later referred to as the Guardian Moose Takeover and seen as the peak of the Morelandian independence movement.
 
@@ -84,6 +84,6 @@ The empire found enough scabs and slowly the strike died down. But the worker's 
 
 Being right next to each other, one in the west and one in the east, and backed by two opposing forces, [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/) the two new nations started fighting each other in 1947, just two years after they were formed. They fought over territorial disputes between themselves, but actually the war was more of a proxy war between Bauhinia and Moreland.
 
-The war lasted for eight years, and ended when Bauhinia nuked Westavia. Surprise, motherfucker. We got nukes now. [Atlasia](/world/atlasia/) and [Westavia](/world/westavia/) drew permanent borders and signed a peace treaty. Moreland worked on their own nukes and pretty quickly made it, thanks to their spies. It was 1955[^5], and the cold war between the north and the south had started.
+The war lasted for eight years, and ended when Bauhinia nuked Westavia. Surprise, mothersnabbergatter. We got nukes now. [Atlasia](/world/atlasia/) and [Westavia](/world/westavia/) drew permanent borders and signed a peace treaty. Moreland worked on their own nukes and pretty quickly made it, thanks to their spies. It was 1955[^5], and the cold war between the north and the south had started.
 
 [^5]: Wow, the timeline started later than ours but the cold war kind of started at around the same time. What sort of a dramatic catch-up.
