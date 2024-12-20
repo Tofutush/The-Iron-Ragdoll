@@ -18,7 +18,7 @@ The bauhinia flower is the national symbol of Bauhinia[^2].
 
 [^2]: In case it's not obvious enough.
 
-[^1]: The flag is *not* Hong Kong. Hong Kong is *stupid*. Bauhinia is... well, still pretty stupid I admit but nothing is stupider than HK.
+[^1]: The flag is *not* Hong Kong. Hong Kong is *dumb*. Bauhinia is... well, still pretty dumb I admit but nothing is dumber than HK.
 
 ## Geography
 

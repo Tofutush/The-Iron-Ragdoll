@@ -44,7 +44,7 @@ Never be late again! Be able to tell the time down to the second (if you're stro
 - Possessors: [Pumpkin](/characters/pumpkin/)
 - People with hyperawareness are called sensors[^2]
 
-[^2]: This sounds stupid [throw better words at me please](/contact/).
+[^2]: This sounds dumb [throw better words at me please](/contact/).
 
 Be able to see, hear, and smell things that other people can't. For weaker people, they might only get enhanced senses, but for stronger people, they might literally be able to see stuff going on on the other side of town, or hear a pin dropped in a noisy room. It's also possible for someone to be extremely strong in one or two senses but lacking in the others.
 
