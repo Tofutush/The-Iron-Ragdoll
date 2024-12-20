@@ -36,7 +36,7 @@ Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/an
 
 Hyrax's family cat, a male tortiseshell. [Peacock](/characters/peacock/) came up with the name.
 
-## Parents with only names because of that stupid naming system I came up with
+## Parents with only names because of that dumb naming system I came up with
 
 ### Eagle
 
