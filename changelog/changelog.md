@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-20
+
+- Added `milk.png`.
+- Character edits.
+
 ## 2024-12-16
 
 - Added `paperweight young.png`, `buttercup pride.png`.
