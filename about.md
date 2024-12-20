@@ -18,7 +18,7 @@ eleventyNavigation:
 
 # About
 
-*The Iron Ragdoll* is a webcomic by Tofutush.
+*The Iron Ragdoll* is a webcomic by Tofutush. Or you might know me as Sirocco.
 
 Also available on [MSPFA](https://mspfa.com/?s=50350&p=1), [Globalcomix](https://globalcomix.com/c/the-iron-ragdoll), [ComicFury](https://the-iron-ragdoll.thecomicseries.com), [NamiComi](https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en), and [Tapas](https://tapas.io/series/The-Iron-Ragdoll). (I may have too many mirrors. But then, like backups, one can never have too many mirrors.)
 
