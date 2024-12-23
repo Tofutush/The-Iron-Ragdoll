@@ -51,7 +51,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('fonts');
 	// collections
 	eleventyConfig.addCollection("stories", collection =>
-		collection.getFilteredByGlob('stories/*.md').sort((a, b) => a.order - b.order)
+		collection.getFilteredByGlob('stories/*.md').sort((a, b) => a.data.order - b.data.order)
 	);
 	// filters
 	// eleventyConfig.addFilter("dateToRfc3339", pluginRss.dateToRfc3339);
