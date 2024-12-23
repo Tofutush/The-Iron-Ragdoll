@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-23
+
+- Added [stories](/stories/)! Now I can infodump about the plots and put the actual comic in even bigger hiatus limbo!
+
 ## 2024-12-20
 
 - Added `milk.png`.
