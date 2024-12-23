@@ -40,11 +40,11 @@
       <div id="infocollapse" class="collapsible-content">
         {% renderFile './characters/characterinfo.md' %}
       </div>
-      <div class="attr">
+      <div class="ch-attr">
         {% for att in ch.attr %}
           <div>
             <div>{{ att[0] }}</div>
-         <div>{% unless att[0] == 'Deceased' %}{{ att[1] }}{% endunless %}</div>
+            <div>{% unless att[0] == 'Deceased' %}{{ att[1] }}{% endunless %}</div>
           </div>
         {% endfor %}
       </div>
@@ -70,6 +70,11 @@
       {% else %}
         {{ ch.bio | renderMD }}
       {% endif %}
+    {% endif %}
+    {% assign filteredStories = collections.stories | filterStory: ch.name %}
+    {% if filteredStories.size > 0 %}
+        <h2>Stories</h2>
+        {% include 'storylist', stories: filteredStories %}
     {% endif %}
     {% assign filteredRelations = relationships | filterRelations: ch.name %}
     {% if filteredRelations.size > 0 %}

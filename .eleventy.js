@@ -49,8 +49,15 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('js');
 	eleventyConfig.addPassthroughCopy('icon.ico');
 	eleventyConfig.addPassthroughCopy('fonts');
+	// collections
+	eleventyConfig.addCollection("stories", collection =>
+		collection.getFilteredByGlob('stories/*.md').sort((a, b) => a.order - b.order)
+	);
 	// filters
 	// eleventyConfig.addFilter("dateToRfc3339", pluginRss.dateToRfc3339);
+    eleventyConfig.addFilter('filterStory', function (arr, ch) {
+        return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
+    });
 	eleventyConfig.addFilter('lowerCase', function (s) {
 		return s.toLowerCase();
 	});
@@ -67,7 +74,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('getChByName', function (arr, name) {
 		return arr.find(ch => ch.name == name);
 	});
-	eleventyConfig.addFilter('padStart', function(n, num, token) {
+	eleventyConfig.addFilter('padStart', function (n, num, token) {
 		return n.toString().padStart(num, token);
 	});
 	eleventyConfig.addFilter('filterGallery', function (arr, f) {

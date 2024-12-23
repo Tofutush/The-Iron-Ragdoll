@@ -1,0 +1,34 @@
+---json
+{
+  "layout": "layout.liquid",
+  "eleventyComputed": {
+    "eleventyNavigation": {
+        "key": "{{ title }}",
+        "parent": "Stories"
+    }
+  }
+}
+---
+<link rel="stylesheet" href="/css/story.css"/>
+<h1>{{ title }}</h1>
+
+<div class="attr">
+    <div class="attr-key">Main Cast</div>
+    <div class="attr-val chbuttons">
+        {% for ch in chs %}
+            <div>{% include 'chButton', ch: ch %}</div>
+        {% endfor %}
+    </div>
+    {% if location %}
+        <div class="attr-key">Location</div>
+        <div class="attr-val">{{ location }}</div>
+    {% endif %}
+    {% if summary %}
+        <div class="attr-key">Synopsis</div>
+        <div class="attr-val">{{ summary }}</div>
+    {% endif %}
+    <div class="attr-key">Time period</div>
+    <div class="attr-val">{{ time }}</div>
+</div>
+
+{{ content }}
