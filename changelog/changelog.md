@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-24
+
+- Upgraded to 11ty v3.
+  - It was a painful ride, but I did it.
+- Story edits.
+
 ## 2024-12-23
 
 - Added [stories](/stories/)! Now I can infodump about the plots and put the actual comic in even bigger hiatus limbo!

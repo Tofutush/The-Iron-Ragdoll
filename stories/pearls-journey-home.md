@@ -1,6 +1,7 @@
 ---
 layout: story.liquid
 title: Pearl's Journey Home
+canon: yes
 order: 4
 chs:
   - sparky
