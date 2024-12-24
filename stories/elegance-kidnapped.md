@@ -1,6 +1,7 @@
 ---
 layout: story.liquid
 title: Elegance Kidnapped
+canon: yes
 order: 4
 chs:
   - sparky

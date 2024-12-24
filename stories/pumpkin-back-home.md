@@ -1,6 +1,7 @@
 ---
 layout: story.liquid
 title: Pumpkin Back Home
+canon: yes
 order: 99
 chs:
   - pumpkin

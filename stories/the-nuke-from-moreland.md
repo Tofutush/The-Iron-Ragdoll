@@ -1,6 +1,7 @@
 ---
 layout: story.liquid
 title: The Nuke From Moreland
+canon: yes
 order: 3
 chs:
   - sparky

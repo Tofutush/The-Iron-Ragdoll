@@ -1,6 +1,7 @@
 ---
 layout: story.liquid
 title: Coastline Middle School Mysteries
+canon: yes
 order: 2
 chs:
   - sparky
