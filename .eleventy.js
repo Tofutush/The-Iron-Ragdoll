@@ -49,6 +49,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('js');
 	eleventyConfig.addPassthroughCopy('icon.ico');
 	eleventyConfig.addPassthroughCopy('fonts');
+	eleventyConfig.addPassthroughCopy('robots.txt');
 	// collections
 	eleventyConfig.addCollection("stories", collection =>
 		collection.getFilteredByGlob('stories/*.md').sort((a, b) => a.data.order - b.data.order)
