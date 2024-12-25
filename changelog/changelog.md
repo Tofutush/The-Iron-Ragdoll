@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ## 2024-12-25
 
-- Finally added a `sitemap.xml`.
+- Added `froese.png`.
 - Story edits.
 
 ## 2024-12-24

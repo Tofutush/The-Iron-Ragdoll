@@ -1,8 +1,8 @@
-<ul>
-    {% for story in stories %}
-        <li><a href="{{ story.page.url }}">{{ story.data.title }}</a></li>
+{% for story in stories %}
+    <div class="story">
+        <h3><a href="{{ story.page.url }}">{{ story.data.title }}</a></h3>
         {% if story.data.summary %}
-            </ul>{{ story.data.summary | renderMD }}<ul>
+            {{ story.data.summary | renderMD }}
         {% endif %}
-    {% endfor %}
-</ul>
+    </div>
+{% endfor %}
