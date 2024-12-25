@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-25
+
+- Finally added a `sitemap.xml`.
+- Story edits.
+
 ## 2024-12-24
 
 - Upgraded to 11ty v3.
