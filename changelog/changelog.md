@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-26
+
+- Story edits.
+
 ## 2024-12-25
 
 - Added `froese.png`.
