@@ -2,7 +2,7 @@
 layout: story.liquid
 title: Hillslope Mysteries
 canon: yes
-order: 1
+order: 101
 chs:
   - sparky
   - ribbon

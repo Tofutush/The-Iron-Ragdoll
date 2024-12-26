@@ -2,7 +2,7 @@
 layout: story.liquid
 title: Paperweight's Legacy Roadtrip
 canon: yes
-order: 98
+order: 202
 chs:
   - paperweight
   - goose

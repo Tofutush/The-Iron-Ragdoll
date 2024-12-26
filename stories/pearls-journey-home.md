@@ -2,7 +2,7 @@
 layout: story.liquid
 title: Pearl's Journey Home
 canon: yes
-order: 4
+order: 104
 chs:
   - sparky
   - qibli

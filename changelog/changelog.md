@@ -13,6 +13,7 @@ eleventyNavigation:
 
 - Added `jay jacome.png`.
 - Story edits.
+- Deleted the "Biography" section off all character profiles. Will start making a story for each backstory.
 
 ## 2024-12-25
 
