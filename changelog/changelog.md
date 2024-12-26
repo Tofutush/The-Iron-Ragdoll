@@ -11,6 +11,7 @@ eleventyNavigation:
 
 ## 2024-12-26
 
+- Added `jay jacome.png`.
 - Story edits.
 
 ## 2024-12-25
