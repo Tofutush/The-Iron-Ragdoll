@@ -1,14 +1,15 @@
 ---
-layout: layout.liquid
-title: Biography
-navTitle: bio-pc
-eleventyNavigation:
-    key: bio-pc
-    title: Biography
-    parent: Peacock
+layout: story.liquid
+title: Peacock's Backstory
+canon: yes
+order: 201
+chs:
+  - peacock
+  - sparky
+time: "?"
+location: "<a href=\"/world/bauhinia/\">Bauhinia</a>"
+summary: "Peacock's backstory."
 ---
-
-# Peacock's Bio
 
 ## Past Life
 
@@ -26,7 +27,7 @@ He looked them in the eyes and said, "Grandpapa."
 
 ## "Behavioral Correction Center"
 
-His parents freaked out and sent him to a delinquent camp. There, he met [Hyrax](/characters/hyrax/), also there because of a lovely [Starcorp](/world/bauhinia/starcorp/) family tradition of sending company successors to a hard place to "build character." They became good friends.
+His parents freaked out and sent him to a delinquent camp. There, he met [Hyrax](/characters/minor#hyrax/), also there because of a lovely [Starcorp](/world/bauhinia/starcorp/) family tradition of sending company successors to a hard place to "build character." They became good friends.
 
 ## Next Life
 

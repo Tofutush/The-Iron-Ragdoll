@@ -2,7 +2,7 @@
 layout: story.liquid
 title: Sparky Gets Searched
 canon: semi
-order: 50
+order: 301
 chs:
   - sparky
   - nightsun

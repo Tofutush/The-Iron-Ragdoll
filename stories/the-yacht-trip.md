@@ -2,7 +2,7 @@
 layout: story.liquid
 title: The Yacht Trip
 canon: yes
-order: 5
+order: 105
 chs:
   - sparky
   - peacock

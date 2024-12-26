@@ -64,14 +64,14 @@
         {{ ch.about | renderMD }}
       {% endif %}
     {% endif %}
-    {% if ch.bio %}
+    {% comment %} {% if ch.bio %}
       <h2>Biography</h2>
       {% if ch.bio == 'file' %}
         <p><a href="biography/">Read more!</a></p>
       {% else %}
         {{ ch.bio | renderMD }}
       {% endif %}
-    {% endif %}
+    {% endif %} {% endcomment %}
     {% assign filteredStories = collections.stories | filterStory: ch.name %}
     {% if filteredStories.size > 0 %}
         <h2>Stories</h2>
