@@ -5,3 +5,28 @@
     align-items: center;
     line-height: 1.5;
 }
+
+.story {
+    border: 8px solid var(--box);
+    border-radius: 16px;
+    padding: 2em;
+    margin: 1em;
+}
+
+.story>h3 {
+    margin-top: 0;
+}
+
+.story>h3:before {
+    content: '' !important;
+}
+
+.story>p:last-child {
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 480px) {
+    .story {
+        padding: 1em;
+    }
+}
