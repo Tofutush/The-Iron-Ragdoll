@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2024-12-27
+
+- Added "prev" and "next" arrows on each story page.
+
 ## 2024-12-26
 
 - Added `jay jacome.png`.
