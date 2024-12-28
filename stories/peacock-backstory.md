@@ -2,10 +2,9 @@
 layout: story.liquid
 title: Peacock's Backstory
 canon: yes
-order: 201
+order: 301
 chs:
   - peacock
-  - sparky
 time: "?"
 location: "<a href=\"/world/bauhinia/\">Bauhinia</a>"
 summary: "Peacock's backstory."
