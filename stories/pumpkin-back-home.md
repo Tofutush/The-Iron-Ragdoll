@@ -2,7 +2,7 @@
 layout: story.liquid
 title: Pumpkin Back Home
 canon: yes
-order: 203
+order: 202
 chs:
   - pumpkin
   - candlelight
