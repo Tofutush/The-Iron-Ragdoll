@@ -1597,22 +1597,30 @@
     "scope": "full-body",
     "style": "normal",
     "date": "2024-12-19",
-    "comment":"Secret Santa gift for [ashtonic](https://toyhou.se/ashtonic), featuring [Milk](https://toyhou.se/3160139.milk/)."
+    "comment": "Secret Santa gift for [ashtonic](https://toyhou.se/ashtonic), featuring [Milk](https://toyhou.se/3160139.milk/)."
   },
   {
-    "name":"froese",
-    "type":"png",
-    "scope":"full-body",
-    "style":"normal",
-    "date":"2024-12-25",
-    "comment":"Commission for [WackySass](https://toyhou.se/wackysass), featuring [Froese](https://toyhou.se/22114456.froese)."
+    "name": "froese",
+    "type": "png",
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-12-25",
+    "comment": "Commission for [WackySass](https://toyhou.se/wackysass), featuring [Froese](https://toyhou.se/22114456.froese)."
   },
   {
-    "name":"jay jacome",
-    "type":"png",
-    "scope":"headshot",
-    "style":"normal",
-    "date":"2024-12-26",
-    "comment":"Gift art for [pepperpenguin](https://toyhou.se/pepperpenguin), featuring [Jay Jacome](https://toyhou.se/16537685.jay-jacome)."
+    "name": "jay jacome",
+    "type": "png",
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2024-12-26",
+    "comment": "Gift art for [pepperpenguin](https://toyhou.se/pepperpenguin), featuring [Jay Jacome](https://toyhou.se/16537685.jay-jacome)."
+  },
+  {
+    "name": "berlin eagle",
+    "type": "png",
+    "scope": "full-body",
+    "style": "lineless",
+    "date": "2024-12-31",
+    "comment": "Fan art of Bkornblume and Eagle from Reverse: 1999."
   }
 ]

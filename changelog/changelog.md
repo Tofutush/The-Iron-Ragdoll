@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2024-12-31
 
 - Paginated the gallery by year.
+- Added `berlin eagle.png`.
 
 ## 2024-12-28
 
