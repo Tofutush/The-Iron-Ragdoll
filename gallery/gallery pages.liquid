@@ -1,0 +1,53 @@
+---json
+{
+    "layout": "layout.liquid",
+    "years": [2023, 2024],
+    "pagination": {
+        "data": "years",
+        "size": 1,
+        "alias": "year",
+        "addAllPagesToCollections": true
+    },
+    "permalink": "gallery/{{ year }}/",
+    "eleventyComputed": {
+        "title": "Gallery {{ year }}",
+        "desc": "A bunch of pictures I drew in {{ year }}.",
+        "eleventyNavigation": {
+            "key": "Gallery {{ year }}",
+            "title": "{{ year }}",
+            "parent": "Gallery"
+        }
+    }
+}
+---
+<link rel="stylesheet" href="/css/gallery.css"/>
+{% for month in (1..12) reversed %}
+    {% assign paddedMonth = month | padStart: 2, '0' %}
+    {% assign yearMonth = year | append: '-' | append: paddedMonth %}
+    {% assign filteredGallery = gallery | filterGalleryByDate: yearMonth %}
+    {% if filteredGallery.size > 0 %}
+        <h2>{{ yearMonth }}</h2>
+        {% include 'gallery' imgs: filteredGallery %}
+    {% endif %}
+{% endfor %}
+<hr/>
+{% assign prev = pagination.previous %}
+{% assign next = pagination.next %}
+{% if prev or next %}
+    <div class="prev-next">
+        {% if prev %}
+            <a href="{{ prev }}">
+                <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+                <span>Previous</span>
+            </a>
+        {% endif %}
+        <div></div>
+        {% if next %}
+            <a href="{{ next }}">
+                <span>Next</span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+            </a>
+        {% endif %}
+    </div>
+{% endif %}
+<script src="/js/gallery.js"></script>

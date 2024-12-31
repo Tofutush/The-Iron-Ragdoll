@@ -9,7 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
-## 2024-12-18
+## 2024-12-31
+
+- Paginated the gallery by year.
+
+## 2024-12-28
 
 - Story edits.
 
