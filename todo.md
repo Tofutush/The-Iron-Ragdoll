@@ -1,8 +1,3 @@
----
-layout: layout.liquid
-title: todo
----
-
 - finish gallery pagination
 - make sortable character list
   - sort color
