@@ -3,15 +3,16 @@ layout: layout.liquid
 title: Gallery
 desc: A bunch of pictures I drew.
 years:
- - 2024
  - 2023
+ - 2024
 eleventyNavigation:
   key: Gallery
   parent: Root
   order: 2
 ---
-{% for year in (2023..2024) reversed %}
-  <div id="years">
-    <div><a href="{{ year }}/">{{ year }}</a></div>
-  </div>
-{% endfor %}
+<link rel="stylesheet" href="/css/gallery.css"/>
+<div id="years">
+    {% for year in years %}
+        <a href="{{ year }}/">{{ year }}</a>
+    {% endfor %}
+</div>
