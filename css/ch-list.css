@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+    margin: 2rem auto;
+    overflow-x: auto;
+}
+
+thead tr {
+    background-color: var(--c);
+}
+
+th,
+td {
+    padding: 1em;
+    border: 0;
+    text-align: left;
+    white-space: nowrap;
+}
+
+th.sortable {
+    cursor: pointer;
+    user-select: none;
+}
+
+th.sortable.sorted:before {
+    content: '↓ ';
+}
+
+th.sortable.sorted-reverse:before {
+    content: '↑ ';
+}
