@@ -1,4 +1,3 @@
-- finish gallery pagination
 - make sortable character list
   - sort color
   - sort chinese ch

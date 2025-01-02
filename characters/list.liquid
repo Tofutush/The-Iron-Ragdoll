@@ -1,0 +1,28 @@
+---
+layout: layout.liquid
+title: Characters list
+desc: A sortable text list of characters.
+eleventyNavigation:
+  key: Characters list
+  title: List
+  parent: Characters
+---
+<link rel="stylesheet" href="/css/ch-list.css"/>
+<h1>Characters List</h1>
+<table>
+    <tr>
+        <th>No.</th>
+        <th>Name</th>
+        <th>中文</th>
+        <th>Color</th>
+    </tr>
+    {% for ch in characters %}
+        <tr>
+            <td>{{ forloop.index }}</td>
+            <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
+            <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
+            <td style="background-color: {{ ch.color }};"></td>
+        </tr>
+    {% endfor %}
+</table>
+<script src="/js/ch-list.js"></script>

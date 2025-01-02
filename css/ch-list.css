@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    margin: 2rem 0;
+    overflow-x: auto;
+    display: block;
+}
+
+tbody {
+    display: table;
+    width: 100%;
+}
+
+tr:first-child {
+    background-color: var(--c);
+}
+
+th,
+td {
+    padding: 1em;
+    border: 0;
+    text-align: center;
+    white-space: nowrap;
+}
+
+th:first-child,
+td:first-child {
+    text-align: right;
+}
