@@ -10,19 +10,69 @@ eleventyNavigation:
 <link rel="stylesheet" href="/css/ch-list.css"/>
 <h1>Characters List</h1>
 <table>
-    <tr>
-        <th>No.</th>
-        <th>Name</th>
-        <th>中文</th>
-        <th>Color</th>
-    </tr>
-    {% for ch in characters %}
+    <thead>
         <tr>
-            <td>{{ forloop.index }}</td>
-            <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
-            <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
-            <td style="background-color: {{ ch.color }};"></td>
+            <th>No.</th>
+            <th>Name</th>
+            <th>中文</th>
+            <th>Color</th>
         </tr>
-    {% endfor %}
+    </thead>
+    <tbody>
+        {% for ch in characters %}
+            <tr>
+                <td>{{ forloop.index }}</td>
+                <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
+                <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
+                <td style="background-color: {{ ch.color }};"></td>
+            </tr>
+        {% endfor %}
+    </tbody>
 </table>
-<script src="/js/ch-list.js"></script>
+<script src="/js/sort.js"></script>
+<script>
+    function RGBToHSL(rgb) {
+        let r, g, b;
+        m = rgb.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i);
+        if (m) {
+            r = m[1];
+            g = m[2];
+            b = m[3];
+        }
+        r /= 255; g /= 255; b /= 255;
+        let max = Math.max(r, g, b);
+        let min = Math.min(r, g, b);
+        let d = max - min;
+        let h;
+        if (d === 0) h = 0;
+        else if (max === r) h = (g - b) / d % 6;
+        else if (max === g) h = (b - r) / d + 2;
+        else if (max === b) h = (r - g) / d + 4;
+        let l = (min + max) / 2;
+        let s = d === 0 ? 0 : d / (1 - Math.abs(2 * l - 1));
+        console.log({ h: h * 60, s, l });
+
+        return { h: h * 60, s, l };
+    }
+    let sort = new SortTable(document.querySelector('table'));
+    sort.addSort({
+        colName: 'No.',
+        keyFunc: (td) => parseInt(td.innerText),
+        sortFunc: SortTable.sortFuncNumber
+    });
+    sort.addSort({
+        colName: 'Name',
+        keyFunc: (td) => td.querySelector('a').innerText,
+        sortFunc: SortTable.sortFuncString
+    });
+    sort.addSort({
+        colName: '中文',
+        keyFunc: (td) => td.querySelector('a').innerText,
+        sortFunc: SortTable.sortFuncZh
+    });
+    sort.addSort({
+        colName: 'Color',
+        keyFunc: (td) => RGBToHSL(td.style.backgroundColor),
+        sortFunc: SortTable.sortFuncHSL
+    });
+</script>

@@ -1,16 +1,10 @@
 table {
     border-collapse: collapse;
-    margin: 2rem 0;
+    margin: 2rem auto;
     overflow-x: auto;
-    display: block;
 }
 
-tbody {
-    display: table;
-    width: 100%;
-}
-
-tr:first-child {
+thead tr {
     background-color: var(--c);
 }
 
@@ -18,11 +12,19 @@ th,
 td {
     padding: 1em;
     border: 0;
-    text-align: center;
+    text-align: left;
     white-space: nowrap;
 }
 
-th:first-child,
-td:first-child {
-    text-align: right;
+th.sortable {
+    cursor: pointer;
+    user-select: none;
+}
+
+th.sortable.sorted:before {
+    content: '↓ ';
+}
+
+th.sortable.sorted-reverse:before {
+    content: '↑ ';
 }
