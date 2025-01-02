@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-02
+
+- Added a [sortable character list](/characters/list/).
+- Added `zuben el genubi.png`.
+
 ## 2024-12-31
 
 - Paginated the gallery by year.
