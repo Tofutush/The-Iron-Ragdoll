@@ -25,6 +25,8 @@ class SortTable {
 				}
 				let sortDesc = rowArray.slice().sort((a, b) => sortFunc(a.key, b.key));
 				let sortAsc = rowArray.slice().sort((a, b) => sortFunc(a.key, b.key)).reverse();
+				while (sortDesc[sortDesc.length - 1].key === '') sortDesc.unshift(sortDesc.pop());
+				while (sortAsc[sortAsc.length - 1].key === '') sortAsc.unshift(sortAsc.pop());
 				th.addEventListener('click', e => {
 					if (th.classList.contains('sorted')) {
 						for (let z = sortAsc.length - 1; z >= 0; z--)
@@ -52,8 +54,27 @@ class SortTable {
 		return a.localeCompare(b, 'zh-CN');
 	}
 	static sortFuncHSL(a, b) {
-		console.log(a, b);
-
 		return (a.h === b.h) ? ((a.s === b.s) ? a.l - b.l : a.s - b.s) : a.h - b.h;
+	}
+	static RGBToHSL(rgb) {
+		let r, g, b;
+		let m = rgb.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i);
+		if (m) {
+			r = m[1];
+			g = m[2];
+			b = m[3];
+		}
+		r /= 255; g /= 255; b /= 255;
+		let max = Math.max(r, g, b);
+		let min = Math.min(r, g, b);
+		let d = max - min;
+		let h;
+		if (d === 0) h = 0;
+		else if (max === r) h = (g - b) / d % 6;
+		else if (max === g) h = (b - r) / d + 2;
+		else if (max === b) h = (r - g) / d + 4;
+		let l = (min + max) / 2;
+		let s = d === 0 ? 0 : d / (1 - Math.abs(2 * l - 1));
+		return { h: h * 60, s, l };
 	}
 }
