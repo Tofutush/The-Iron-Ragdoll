@@ -14,6 +14,8 @@ eleventyNavigation:
 
 A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/moreland/), and west of [Atlasia](/world/atlasia/).
 
+[[toc]]
+
 ## Geography
 
 Westavia is quite sandy, with some really hot basins surrounded by mountain ranges. Eastern winds don't blow this far into the continent, so the place is dry and deserty. The sunshine made the country suitable for planting grapes.
@@ -22,7 +24,10 @@ The closest geographical mirror to Westavia is Xinjiang and Central Asia.
 
 ### Cities
 
-- [Pumpkin's Village](/world/westavia/pumpkins-village/) (Okay this is not a city I admit)
+Except for the capital, all cities and regions in Westavia are called "Area (number)."
+
+- [Area 29](/world/westavia/area-29/)
+  - [Nameless Village](/world/westavia/nameless-village/)
 
 ## Society
 

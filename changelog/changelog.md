@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-03
+
+- World edits.
+
 ## 2025-01-02
 
 - Added a [sortable character list](/characters/list/).

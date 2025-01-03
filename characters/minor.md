@@ -81,3 +81,11 @@ Hyrax's family cat, a male tortiseshell. [Peacock](/characters/peacock/) came up
 ### Cherry
 
 Hyrax's wife.
+
+### Cassowary
+
+[Nightsun](/characters/nightsun/)'s father.
+
+### Tourmaline
+
+[Nightsun](/characters/nightsun)'s mother.

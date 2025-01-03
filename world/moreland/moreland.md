@@ -14,6 +14,8 @@ eleventyNavigation:
 
 It's kind of my idea of an ideal society. And my idea of how an ideal society could be achieved. (Spoilers: it's Omelas.)
 
+[[toc]]
+
 ## Geography
 
 Moreland borders [Westavia](/world/westavia/) to the southwest, [Atlasia](/world/atlasia/) to the southeast, and [Sylvandia](/world/sylvandia/) to the north.

@@ -8,6 +8,10 @@ thead tr {
     background-color: var(--c);
 }
 
+tbody tr:nth-child(odd) {
+    background-color: var(--box);
+}
+
 th,
 td {
     padding: 1em;

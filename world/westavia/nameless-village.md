@@ -1,14 +1,18 @@
 ---
 layout: layout.liquid
-title: Pumpkin's Village
+title: Nameless Village
 eleventyNavigation:
-  key: Pumpkin's Village
+  key: Nameless Village
   parent: Westavia
 ---
 
-# Pumpkin's Village
+# Nameless Village
 
 A little village in the countryside of [Westavia](/world/westavia/).
+
+> Nameless village on the outskirts of Area 29
+>
+> It actually has a name, but to say it is a crime
 
 Most of the people there are farmers planting grapes, wheat, and cotton. Very stereotypically Westavian.
 
