@@ -16,6 +16,8 @@ The purple starry-eyed tree-lovers.
 
 The panda is the national symbol of Fanton.
 
+[[toc]]
+
 ## Geography
 
 Fanton borders [Bauhinia](/world/bauhinia/) on the southeast, [Westavia](/world/westavia/) on the north, and shares a short border with [Atlasia](/world/atlasia/) on the northeast.

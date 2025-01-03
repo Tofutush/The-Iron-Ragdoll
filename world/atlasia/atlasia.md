@@ -14,6 +14,8 @@ eleventyNavigation:
 
 The green money-lovers.
 
+[[toc]]
+
 ## Geography
 
 Atlasia borders [Bauhinia](/world/bauhinia/) on the south, shares a short border with [Fanton](/world/fanton/) on the southwest, [Westavia](/world/westavia/) on the west, [Moreland](/world/moreland/) on the northwest, and shares a short border with [Sylvandia](/world/sylvandia/) on the north.
@@ -22,7 +24,7 @@ It is mostly fertile plains suitable for growing rice, wheat, and corn, with som
 
 The closest geographical mirror to Atlasia is northern China.
 
-## Regions
+### Regions
 
 - [Mt. Atlas](/world/atlasia/mt-atlas/)
 
@@ -45,6 +47,10 @@ Also, there is no age where you "legally turn into an adult." You're considered 
 Atlasia's naming conventions mirrors our western world, with a given name, an optional middle name, and a family name. For example, "[Jackpot Cloudy](/characters/jackpot/)" and "[Snake Cloudy](/characters/snake/)."
 
 Women change their family names to their partner's (since marriage isn't a thing anymore, they'd change their names to signify that they're together). It's still always the women changing names.
+
+## Espionage
+
+Atlasia is a country rife with espionage activity both political and corporate, because of its vast economic and political freedom. The capital, [The Capital](/world/atlasia/the-capital/), is the de-facto spy capital of the world, where you can find agents of every country working for every goal using every tactic imaginable.
 
 ## History
 
