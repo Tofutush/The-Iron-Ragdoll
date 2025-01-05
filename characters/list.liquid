@@ -9,28 +9,30 @@ eleventyNavigation:
 ---
 <link rel="stylesheet" href="/css/ch-list.css"/>
 <h1>Characters List</h1>
-<table>
-    <thead>
-        <tr>
-            <th>No.</th>
-            <th>Name</th>
-            <th>中文</th>
-            <th>Nationality</th>
-            <th>Color</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for ch in characters %}
+<div class="table-container">
+    <table>
+        <thead>
             <tr>
-                <td>{{ forloop.index }}</td>
-                <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
-                <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
-                <td>{{ ch.attr.Nationality }}</td>
-                <td style="background-color: {{ ch.color }};"></td>
+                <th>No.</th>
+                <th>Name</th>
+                <th>中文</th>
+                <th>Nationality</th>
+                <th>Color</th>
             </tr>
-        {% endfor %}
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            {% for ch in characters %}
+                <tr>
+                    <td>{{ forloop.index }}</td>
+                    <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
+                    <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
+                    <td>{{ ch.attr.Nationality }}</td>
+                    <td style="background-color: {{ ch.color }};"></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
 <script src="/js/sort.js"></script>
 <script>
     let sort = new SortTable(document.querySelector('table'));

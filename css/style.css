@@ -531,6 +531,22 @@ body.dark #linx a:hover {
   user-select: none;
 }
 
+.box-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+}
+
+.box-nav>a {
+  background-color: var(--c);
+  color: var(--text);
+  padding: .5em .7em;
+  border-radius: 8px;
+  user-select: none;
+  text-decoration: none;
+}
+
 code {
   background-color: var(--box);
   border-radius: 6px;
