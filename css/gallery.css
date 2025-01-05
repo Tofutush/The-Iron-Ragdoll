@@ -1,22 +1,9 @@
-#years {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1em;
-}
-
-#years>a {
-    background-color: var(--c);
-    color: var(--text);
-    padding: .5em;
-    border-radius: 8px;
+.box-nav>a {
     opacity: .5;
-    user-select: none;
-    text-decoration: none;
 }
 
-#years>a[aria-current] {
-	opacity: 1;
+.box-nav>a[aria-current] {
+    opacity: 1;
 }
 
 .gallery {

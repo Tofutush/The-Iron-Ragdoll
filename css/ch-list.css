@@ -1,7 +1,12 @@
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+    margin: 2rem 0;
+}
+
 table {
     border-collapse: collapse;
-    margin: 2rem auto;
-    overflow-x: auto;
+    width: 100%;
 }
 
 thead tr {
