@@ -1630,5 +1630,15 @@
     "style": "normal",
     "date": "2025-01-02",
     "comment": "Art trade with [Kolo](https://numbersstory.com), featuring [Zuben El Genubi](https://characters.numbersstory.com/chara/sol/zubenelgenubi)."
+  },
+  {
+    "name": "cosmo snake year",
+    "type": "png",
+    "ch": [
+      "cosmo"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-01-06"
   }
 ]
