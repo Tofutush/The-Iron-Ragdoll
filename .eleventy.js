@@ -11,12 +11,13 @@ const { existsSync } = require("fs");
 const pinyin = require('chinese-to-pinyin');
 
 module.exports = function (eleventyConfig) {
+	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-');
 	const mdIt = markdownIt({
 		html: true,
 		breaks: true,
 		linkify: true
 	}).use(markdownItFootnote).use(markdownItAnchor, {
-		slugify: s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-')
+		slugify: slug
 	}).use(markdownItTOC, {
 		includeLevel: [2, 3, 4],
 		transformContainerOpen: () => {
@@ -58,7 +59,7 @@ module.exports = function (eleventyConfig) {
 		collection.getFilteredByGlob('stories/*.md').sort((a, b) => a.data.order - b.data.order)
 	);
 	// filters
-	// eleventyConfig.addFilter("dateToRfc3339", pluginRss.dateToRfc3339);
+	eleventyConfig.addFilter('slug', slug);
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
 		return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
 	});

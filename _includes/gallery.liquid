@@ -1,6 +1,6 @@
 <div class="gallery">
   {% for img in imgs %}
-  <div tags="{% for c in img.ch %}{{ c | slugify }} {% endfor %}">
+  <div tags="{% for c in img.ch %}{{ c | slug }} {% endfor %}">
     {% assign bruhhh = img.name | append: "." | append: img.type %}
     {% image "gallery/" bruhhh 120 img.name %}
     <div class="modal">
