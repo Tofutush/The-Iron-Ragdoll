@@ -8,13 +8,16 @@ const markdownItAnchor = require('markdown-it-anchor');
 const markdownItTOC = require('markdown-it-table-of-contents');
 const { minify } = require('html-minifier-terser');
 const { existsSync } = require("fs");
+const pinyin = require('chinese-to-pinyin');
 
 module.exports = function (eleventyConfig) {
 	const mdIt = markdownIt({
 		html: true,
 		breaks: true,
 		linkify: true
-	}).use(markdownItFootnote).use(markdownItAnchor).use(markdownItTOC, {
+	}).use(markdownItFootnote).use(markdownItAnchor, {
+		slugify: s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-')
+	}).use(markdownItTOC, {
 		includeLevel: [2, 3, 4],
 		transformContainerOpen: () => {
 			return '<div id="toc-wrap"><h2 class="collapsible" target="#toc"><a>Table of Contents</a></h2><div id="toc" class="collapsible-content">';
@@ -56,9 +59,9 @@ module.exports = function (eleventyConfig) {
 	);
 	// filters
 	// eleventyConfig.addFilter("dateToRfc3339", pluginRss.dateToRfc3339);
-    eleventyConfig.addFilter('filterStory', function (arr, ch) {
-        return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
-    });
+	eleventyConfig.addFilter('filterStory', function (arr, ch) {
+		return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
+	});
 	eleventyConfig.addFilter('lowerCase', function (s) {
 		return s.toLowerCase();
 	});
