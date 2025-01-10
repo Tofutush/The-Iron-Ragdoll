@@ -21,7 +21,7 @@ eleventyNavigation:
     </div>
     <div class="chs">
         {% for ch in characters %}
-            <div tags="{% for tag in ch.tags %}{{ tag | slugify }} {% endfor %}">
+            <div tags="{% for tag in ch.tags %}{{ tag | slug }} {% endfor %}">
             <div class="ch" style="--c: {{ ch.color }}">
                 <a href="{{ ch.name | lowerCase }}/">
                 {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
