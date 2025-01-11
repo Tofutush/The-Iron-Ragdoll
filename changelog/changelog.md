@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-11
+
+- Added new fun page, [scenario generator](/fun/scenarios/).
+
 ## 2025-01-04
 
 - Added [Fun](/fun/). Heavy WIP.
