@@ -619,7 +619,8 @@ ol {
   padding-inline-start: 3em;
 }
 
-ul li {
+ul li,
+ol li {
   line-height: 2;
   margin: .5em 0;
 }
