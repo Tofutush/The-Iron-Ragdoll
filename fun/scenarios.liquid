@@ -19,7 +19,10 @@ eleventyNavigation:
 <script src="/js/generator.js"></script>
 <script>
   let characters = [
-    {% for ch in characters %}"<a href=\"\/characters\/{{ ch.name | lowerCase }}/\">{{ ch.name }}</a>",{% endfor %}
+    {% for ch in characters %}
+      {% assign chUrl = '/characters/' | append: ch.name | lowerCase | append: '/' | htmlBaseUrl %}
+      "<a href=\"{{ chUrl }}\">{{ ch.name }}</a>",
+    {% endfor %}
   ];
   
   let generator = new Generator(
