@@ -28,17 +28,18 @@ eleventyNavigation:
   let generator = new Generator(
     [
       new GeneratorPlaceholder("c", characters, false),
-      new GeneratorPlaceholder("verb_trans", [
+      new GeneratorPlaceholder("verbTrans", [
         "killed",
         "ate",
       ]),
-      new GeneratorPlaceholder("noun_with_article", [
+      new GeneratorPlaceholder("nounWithArticle", [
         "a sandwich"
       ])
     ],
     [
-      "%c% %verb_trans% %c%.",
-      "%c% %verb_trans% %noun_with_article%."
+      // "%c% %verbTrans% %c%.",
+      // "%c% %verbTrans% %nounWithArticle%.",
+      "%c|2-3% %verbTrans% %c/nounWithArticle|1-2%.",
     ]
   );
   let div = document.getElementById("generated");
