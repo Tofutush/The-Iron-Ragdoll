@@ -1,0 +1,48 @@
+---
+layout: layout.liquid
+title: Scenarios
+desc: "Generate stupid scenarios!"
+eleventyNavigation:
+  key: Scenarios
+  parent: Fun
+---
+
+<h1>Scenarios</h1>
+
+<p>Generate random scenarios!</p>
+
+<button onclick="generate()">Generate!</button>
+
+<div id="generated"></div>
+
+<script src="/js/generator-placeholder.js"></script>
+<script src="/js/generator.js"></script>
+<script>
+  let characters = [
+    {% for ch in characters %}"<a href=\"\/characters\/{{ ch.name | lowerCase }}/\">{{ ch.name }}</a>",{% endfor %}
+  ];
+  
+  let generator = new Generator(
+    [
+      new GeneratorPlaceholder("c", characters, false),
+      new GeneratorPlaceholder("verb_trans", [
+        "killed",
+        "ate",
+      ]),
+      new GeneratorPlaceholder("noun_with_article", [
+        "a sandwich"
+      ])
+    ],
+    [
+      "%c% %verb_trans% %c%.",
+      "%c% %verb_trans% %noun_with_article%."
+    ]
+  );
+  let div = document.getElementById("generated");
+  function generate() {
+    let generated = generator.generate();
+    let p = document.createElement("p");
+    p.innerHTML = generated;
+    div.prepend(p);
+  }
+</script>

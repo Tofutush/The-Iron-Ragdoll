@@ -279,35 +279,6 @@ body.dark #linx a:hover {
   text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
 }
 
-.dpdn {
-  display: inline-block;
-}
-
-.dpdn>a {
-  cursor: default;
-}
-
-.dpdn-ul {
-  background-color: var(--box);
-  border-radius: 10px;
-  display: none;
-  font-size: var(--font-size);
-  margin: 0;
-  padding: 10px;
-  position: absolute;
-  z-index: 999;
-}
-
-.dpdn-ul a {
-  display: block;
-  font-size: clamp(16px, 2.5vw, 24px);
-  padding: 10px 0 !important;
-}
-
-.dpdn:hover .dpdn-ul {
-  display: block;
-}
-
 #footer {
   border-top: 12px solid var(--box);
   width: 100%;
