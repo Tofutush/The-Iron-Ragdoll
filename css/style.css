@@ -164,6 +164,7 @@ button {
   color: var(--text);
   cursor: pointer;
   font-size: var(--font-size);
+  font-family: lexend;
   padding: .5em 1em;
   user-select: none;
 }
