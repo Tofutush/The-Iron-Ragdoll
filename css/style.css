@@ -279,26 +279,6 @@ body.dark #linx a:hover {
   text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
 }
 
-.ch {
-	align-items: center;
-	background-color: var(--box);
-	border-radius: 16px;
-	display: flex;
-	height: 120px;
-	justify-content: center;
-	margin: auto;
-	width: 120px;
-}
-
-.ch:hover {
-	box-shadow: 0 0 0 4px var(--c);
-}
-
-.ch img {
-	height: 120px;
-	width: 120px;
-}
-
 #footer {
   border-top: 12px solid var(--box);
   width: 100%;
