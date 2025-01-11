@@ -1,10 +1,21 @@
 ---
 layout: layout.liquid
 title: Scenarios
-desc: "Generate stupid scenarios!"
+desc: Generate stupid scenarios!
 eleventyNavigation:
   key: Scenarios
   parent: Fun
 ---
-
+<link rel="stylesheet" href="/css/scenario.css"/>
 <h1>Scenarios</h1>
+
+<p>Generate stupid scenarios with one or two characters.</p>
+
+<div id="chs">
+  {% for ch in characters %}
+    <div class="ch" style="--c: {{ ch.color }}">
+      {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
+      {% image "gallery/" bruhhh 200 ch.name %}
+  </div>
+  {% endfor %}
+</div>
