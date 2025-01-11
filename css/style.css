@@ -157,6 +157,17 @@ figcaption {
   justify-content: center;
 }
 
+button {
+  background-color: var(--c);
+  border: 0;
+  border-radius: 8px;
+  color: var(--text);
+  cursor: pointer;
+  font-size: var(--font-size);
+  padding: .5em 1em;
+  user-select: none;
+}
+
 smallweb-subway-comics {
   text-indent: 0;
 }
