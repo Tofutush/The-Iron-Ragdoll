@@ -12,3 +12,30 @@ eleventyNavigation:
 <p>Generate random scenarios!</p>
 
 <button onclick="generate()">Generate!</button>
+
+<script src="/js/generator-placeholder.js"></script>
+<script src="/js/generator.js"></script>
+<script>
+  let characters = [
+    {% for ch in characters %}"{{ ch.name }}",{% endfor %}
+  ];
+  let generator = new Generator(
+    [
+      new GeneratorPlaceholder("c", characters, false),
+      new GeneratorPlaceholder("verb_trans", [
+        "killed",
+        "ate",
+      ]),
+      new GeneratorPlaceholder("noun_with_article", [
+        "a sandwich"
+      ])
+    ],
+    [
+      "%c% %verb_trans% %c%.",
+      "%c% %verb_trans% %noun_with_article%."
+    ]
+  );
+  function generate() {
+    generator.generate();
+  }
+</script>
