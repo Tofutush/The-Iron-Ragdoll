@@ -11,9 +11,9 @@ eleventyNavigation:
 
 <p>Generate random scenarios!</p>
 
-<button onclick="generate()">Generate!</button>
+<p><button onclick="generate()">Generate!</button></p>
 
-<div id="generated"></div>
+<ol reversed id="generated"></ol>
 
 <script src="/js/generator-placeholder.js"></script>
 <script src="/js/generator.js"></script>
@@ -41,8 +41,8 @@ eleventyNavigation:
   let div = document.getElementById("generated");
   function generate() {
     let generated = generator.generate();
-    let p = document.createElement("p");
-    p.innerHTML = generated;
-    div.prepend(p);
+    let li = document.createElement("li");
+    li.innerHTML = generated;
+    div.prepend(li);
   }
 </script>
