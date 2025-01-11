@@ -13,12 +13,15 @@ eleventyNavigation:
 
 <button onclick="generate()">Generate!</button>
 
+<div id="generated"></div>
+
 <script src="/js/generator-placeholder.js"></script>
 <script src="/js/generator.js"></script>
 <script>
   let characters = [
     {% for ch in characters %}"{{ ch.name }}",{% endfor %}
   ];
+  
   let generator = new Generator(
     [
       new GeneratorPlaceholder("c", characters, false),
@@ -35,7 +38,11 @@ eleventyNavigation:
       "%c% %verb_trans% %noun_with_article%."
     ]
   );
+  let div = document.getElementById("generated");
   function generate() {
-    generator.generate();
+    let generated = generator.generate();
+    let p = document.createElement("p");
+    p.innerHTML = generated;
+    div.prepend(p);
   }
 </script>
