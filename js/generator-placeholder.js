@@ -1,9 +1,12 @@
 class GeneratorPlaceholder {
-    constructor(id, replacements, allowRepeats = true) {
+    constructor({ id, replacements, allowRepeats = true, transform }) {
         this.id = id;
         this.replacements = replacements;
         this.allowRepeats = allowRepeats;
         this.alreadyRolled = [];
+        if (transform) {
+            this.replacements.forEach(transform);
+        }
     }
     roll() {
         let rolled = this.replacements[Math.floor(Math.random() * this.replacements.length)];
