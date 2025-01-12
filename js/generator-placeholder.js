@@ -25,9 +25,3 @@ class GeneratorPlaceholder {
         this.alreadyRolled = [];
     }
 }
-
-class GeneratorPlaceholderPresets {
-    static nounWithArticle = new GeneratorPlaceholder('nounWithArticle', [
-        'a sandwich',
-    ]);
-}
