@@ -12,7 +12,7 @@ class Generator {
     }
     generate() {
         let rolled = this.prompts[this.randomInRange(0, this.prompts.length - 1)];
-        let phs = rolled.match(/\%(?:[a-zA-Z]+)(?:\/[a-zA-Z]+)*(?:\|[1-9]+-[0-9]+)?\%/g);
+        let phs = rolled.match(/\%(?:[a-zA-Z]+)(?:\/[a-zA-Z]+)*(?:\|[0-9]+-[0-9]+)?\%/g);
         for (let z = 0; z < phs.length; z++) {
             let placeholder = phs[z];
             let split = placeholder.substring(1, placeholder.length - 1).split('|');
