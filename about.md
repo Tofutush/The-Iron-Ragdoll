@@ -92,6 +92,7 @@ Most content on this site is made by myself. What isn't:
 - Icons are from Lucide.
 - The hosting is provided by either Github Pages or Neocities, depending on where you are.
 - The text and background colors are from Cohost's color scheme.
+- Adjectives and adverbs in the [generator](/fun/scenarios/) are from [Corpora](https://github.com/dariusk/corpora).
 - 中文字体用的是[霞鹜漫黑 v0.312](https://github.com/lxgw/LxgwMarkerGothic)。
 
 All stories, characters, and artwork on this site are created by myself. Art by others can be found on [my Toyhouse](https://toyhou.se/Tofutush).
