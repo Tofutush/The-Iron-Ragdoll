@@ -33,7 +33,7 @@ class Generator {
             let string = '';
             for (let x = 0; x < results.length; x++)
                 string += results[x] + (x === results.length - 1 ? '' : (x === results.length - 2 ? (results.length > 2 ? ', and ' : ' and ') : ', '));
-            rolled = rolled.replace(phs[z], string);
+            rolled = rolled.replace(phs[z], string).replace('  ', ' ');
         }
         return rolled;
     }
