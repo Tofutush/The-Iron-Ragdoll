@@ -9,7 +9,7 @@ eleventyNavigation:
 
 <h1>Scenarios</h1>
 
-<p>Generate random scenarios!</p>
+<p>Generate random scenarios! Occasional grammar mistakes may appear.</p>
 
 <p><button onclick="generate()">Generate!</button></p>
 
@@ -17,35 +17,85 @@ eleventyNavigation:
 
 <script src="/js/generator-placeholder.js"></script>
 <script src="/js/generator.js"></script>
+<script src="/js/wordsfromcorpora.js"></script>
 <script>
   let characters = [
     {% for ch in characters %}
       {% assign chUrl = '/characters/' | append: ch.name | lowerCase | append: '/' | htmlBaseUrl %}
-      "<a href=\"{{ chUrl }}\">{{ ch.name }}</a>",
+      '<a href="{{ chUrl }}">{{ ch.name }}</a>',
     {% endfor %}
   ];
   
   let generator = new Generator(
     [
-      new GeneratorPlaceholder("c", characters, false),
-      new GeneratorPlaceholder("verbTrans", [
-        "killed",
-        "ate",
+      new GeneratorPlaceholder('c', characters, false),
+      new GeneratorPlaceholder('verbTransPast', [
+        'killed',
+        'ate',
+        'kicked',
+        'murdered',
+        'scared the shit out of',
+        'disgusted',
+        'hit',
+        'moved in with',
+        'annoyed the shit out of'
       ]),
-      new GeneratorPlaceholder("nounWithArticle", [
-        "a sandwich"
+      new GeneratorPlaceholder('verbIntrans', [
+        'succeed',
+        'die',
+        'run',
+        'jump',
+        'swim'
+      ]),
+      new GeneratorPlaceholder('nounWithArticle', [
+        'a sandwich',
+        'some treasure',
+        'a secret document',
+        'an elephant',
+        'a fence',
+        'a river',
+        'a forest',
+        'a lake'
+      ]),
+      new GeneratorPlaceholder('nounWithNoArticle', [
+        'sandwich',
+        'treasure',
+        'secret document',
+        'elephant',
+        'fence',
+        'river',
+        'lake',
+        'forest'
+      ]),
+      new GeneratorPlaceholder('adj', corporaAdjectives),
+      new GeneratorPlaceholder('adv', corporaAdverbs),
+      new GeneratorPlaceholder('relation', [
+        'on', 
+        'in',
+        'under',
+        'below',
+        'over',
+        'above',
+        'through',
+        'between',
+        'close to',
+        'near'
       ])
     ],
     [
-      "%c% %verbTrans% %c%.",
-      "%c% %verbTrans% %nounWithArticle%.",
-      "%c|2-3% %verbTrans% %c/nounWithArticle|1-2%.",
+      '%c% is %adj|1-4%.',
+      '%c% is %adv% %adj|1-4%.',
+      '%c|1-2% %verbTransPast% %c/nounWithArticle% %adv|0-1%.',
+      '%c|1-2% %verbTransPast% a %adj% %nounWithNoArticle% %adv|0-1%.',
+      '%c|1-2% %verbTransPast% %c/nounWithArticle% %adv|0-1% because they were %adj%.',
+      '%c|1-2% %verbTransPast% %c/nounWithArticle% %adv|0-1% in order to %verbIntrans%.',
+      '%c|1-2% %verbTransPast% %c/nounWithArticle% %adv|0-1% in order to %verbIntrans% %relation% %nounWithArticle%.'
     ]
   );
-  let div = document.getElementById("generated");
+  let div = document.getElementById('generated');
   function generate() {
     let generated = generator.generate();
-    let li = document.createElement("li");
+    let li = document.createElement('li');
     li.innerHTML = generated;
     div.prepend(li);
   }
