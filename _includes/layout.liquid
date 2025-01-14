@@ -65,7 +65,7 @@ navOptions:
   {{ content }}
 </div>
 <div id="footer">
-  <div id="footer-linx">
+  {% comment %} <div id="footer-linx">
     <ul>
       <li><h3>Links</h3></li>
       <li><a href="/">Home</a></li>
@@ -93,9 +93,10 @@ navOptions:
       <li><a target="_blank" href="https://neocities.org/site/tofutush">Neocities</a></li>
       <li><a target="_blank" href="https://tofutush.github.io/The-Iron-Ragdoll">Github.io</a></li>
     </ul>
-  </div>
-  <div id="footer-side">
+  </div> {% endcomment %}
+  {% comment %} <div id="footer-side"> {% endcomment %}
     <div id="footer-controls">
+      <a href="/nav/">Navigation</a>
       {% unless page.url contains '/page-' or page.url == '/' %}
         <div id="theme-toggle-wrap">
           <div id="theme-toggle">
@@ -111,12 +112,12 @@ navOptions:
         <a href="#top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-up-to-line"><path d="M5 3h14"/><path d="m18 13-6-6-6 6"/><path d="M12 7v14"/></svg></a>
       </div>
     </div>
-    <div id="footer-warning">
+    {% comment %} <div id="footer-warning">
       <h3>Content warning</h3>
       <p>This site and its contents feature strong language, cartoon violence, and occasional mature themes. Viewer discretion is advised.</p>
       <p>Also: This site uses Javascript for theme switching, section expanding, and gallery popup and filtering! It should be fine to view most other things with JS disabled.</p>
-    </div>
-  </div>
+    </div> {% endcomment %}
+  {% comment %} </div> {% endcomment %}
 </div>
 <script src="/js/collapsible.js"></script>
 </body>
