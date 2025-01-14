@@ -276,7 +276,8 @@ body.dark #title {
   font-size: var(--font-size-h2);
   justify-content: center;
   margin: auto;
-  width: fit-content;
+  width: 100%;
+  background-color: var(--box);
 }
 
 #linx>a {

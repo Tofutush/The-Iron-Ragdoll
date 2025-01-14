@@ -23,6 +23,12 @@ Most of the important links on the site. You can check out the [sitemap](/sitema
 
 ## The paracosm
 
+- [The world](/world/)!
+  - [Overview](/world/overview/)! A good place to start
+- [The characters](/characters/)!
+  - [A sortable list of characters](/characters/list/)
+- [Peep my gallery](/gallery/)!
+
 ## Meta stuff
 
 - [Misc](/misc/)
