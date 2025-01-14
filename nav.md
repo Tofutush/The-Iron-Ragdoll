@@ -4,7 +4,7 @@ title: Navigation
 eleventyNavigation:
   key: Navigation
   parent: Root
-  order: 0
+  order: 1
 ---
 
 [[toc]]
@@ -27,6 +27,7 @@ Most of the important links on the site. You can check out the [sitemap](/sitema
   - [Overview](/world/overview/)! A good place to start
 - [The characters](/characters/)
   - [A sortable list of characters](/characters/list/)
+- [Stories](/stories/): for the comic I'm never going to finish
 - [Peep my gallery](/gallery/)
 - [Fun pages](/fun/)
 

@@ -4,7 +4,7 @@ title: Changelog
 eleventyNavigation:
   key: Changelog
   parent: Root
-  order: 999
+  order: 990
 ---
 
 # Changelog

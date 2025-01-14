@@ -5,7 +5,7 @@ desc: About The Iron Ragdoll.
 eleventyNavigation:
   key: About
   parent: Root
-  order: 1
+  order: 2
 ---
 
 <link rel="stylesheet" href="https://webcomicring.org/js/comicring.css">
