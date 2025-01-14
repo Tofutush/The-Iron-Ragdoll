@@ -1640,5 +1640,46 @@
     "scope": "full-body",
     "style": "normal",
     "date": "2025-01-06"
+  },
+  {
+    "name": "peacock exploding butt",
+    "type": "png",
+    "ch": [
+      "peacock",
+      "willow"
+    ],
+    "scope": "comic",
+    "style": "sketch",
+    "date": "2025-01-14"
+  },
+  {
+    "name": "buttercup profile",
+    "type": "png",
+    "ch": [
+      "buttercup"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-01-14"
+  },
+  {
+    "name": "goose hidden face",
+    "type": "png",
+    "ch": [
+      "goose"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-01-14"
+  },
+  {
+    "name": "sparky gape emoji",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "headshot",
+    "style": "pixel",
+    "date": "2025-01-14"
   }
 ]
