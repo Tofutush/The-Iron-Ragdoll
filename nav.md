@@ -49,4 +49,4 @@ Most of the important links on the site. You can check out the [sitemap](/sitema
   - [Credits](/misc/credits/)
 - [RSS Feed](/feed.xml/)
 - [Changelog](/changelog/)
-- Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put the here: [contact](/contact/)
+- [Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here
