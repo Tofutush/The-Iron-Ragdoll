@@ -10,12 +10,13 @@ eleventyNavigation:
 
 Most content on this site is made by myself. What isn't:
 
-- I use 11ty as a static site generator.
+- I use [11ty](https://11ty.dev) as a static site generator.
 - Some code is inspired by (read: copied from) StackOverflow, W3C, and Grepper answers.
-- Icons are from Lucide.
-- The hosting is provided by either Github Pages or Neocities, depending on where you are.
-- The text and background colors are from Cohost's color scheme.
+- Icons are from [Lucide](https://lucide.dev).
+- The hosting is provided by either Github Pages or [Neocities](https://neocities.org), depending on where you are.
+- The text and background colors are from [Cohost](https://cohost.org)'s color scheme.
 - Adjectives and adverbs in the [generator](/fun/scenarios/) are from [Corpora](https://github.com/dariusk/corpora).
+- The [contact](/contact/) page uses [Sadgrl](https://goblin-heart.net/sadgrl/learn/articles/create-webform-discord)'s code.
 - 中文字体用的是[霞鹜漫黑 v0.312](https://github.com/lxgw/LxgwMarkerGothic)。
 
 All stories, characters, and artwork on this site are created by myself. Art by others can be found on [my Toyhouse](https://toyhou.se/Tofutush).
