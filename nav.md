@@ -33,6 +33,7 @@ Most of the important links on the site. You can check out the [sitemap](/sitema
 
 ## Outgoing
 
+- [Havoc 101](https://tofutush.github.io/havoc101), another cannot-complete-in-my-life project related to TIR
 - TIR comic mirrors (ranked by my personal bias)
   - [MSPFA](https://mspfa.com/?s=50350&p=1)
   - [ComicFury](https://the-iron-ragdoll.thecomicseries.com)
