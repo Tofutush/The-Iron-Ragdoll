@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-14
+
+- Added `peacock exploding butt.png`, `buttercup profile.png`, `goose hidden face.png`, and `sparky gape emoji.png`.
+
 ## 2025-01-12
 
 - Added new scenarios and words in the scenario generator.
