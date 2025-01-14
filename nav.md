@@ -38,8 +38,8 @@ Most of the important links on the site. You can check out the [sitemap](/sitema
   - [MSPFA](https://mspfa.com/?s=50350&p=1)
   - [ComicFury](https://the-iron-ragdoll.thecomicseries.com)
   - [Tapas](https://tapas.io/series/The-Iron-Ragdoll)
-  - [NamiComi](https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en)
   - [Globalcomix](https://globalcomix.com/c/the-iron-ragdoll)
+  - [NamiComi](https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en)
 - Site mirrors
   - [Neocities](https://neocities.org/site/tofutush)
   - [Github Pages](https://tofutush.github.io/The-Iron-Ragdoll)
