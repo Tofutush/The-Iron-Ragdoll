@@ -12,6 +12,9 @@ eleventyNavigation:
 ## 2025-01-14
 
 - Added `peacock exploding butt.png`, `buttercup profile.png`, `goose hidden face.png`, and `sparky gape emoji.png`.
+- Changed the layout a bit.
+  - Not just a bit actually.
+  - Added the [Navigation](/nav/) page.
 
 ## 2025-01-12
 
