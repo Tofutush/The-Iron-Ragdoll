@@ -262,7 +262,7 @@ pre code {
   /* font-size: clamp(32px, 5vw, 60px); */
   /* font-size: clamp(32px, 1.125rem + 2.80vw, 60px); */
   font-size: calc(var(--font-size-h1) * 1.5);
-  margin: .5em;
+  margin: .5em .5em 1em .5em;
 }
 
 body.dark #title {
@@ -273,7 +273,7 @@ body.dark #title {
   align-items: center;
   display: flex;
   flex-wrap: wrap;
-  font-size: var(--font-size-h2);
+  font-size: var(--font-size);
   justify-content: center;
   margin: auto;
   width: 100%;
@@ -622,8 +622,7 @@ ol {
   padding-inline-start: 3em;
 }
 
-ul li,
-ol li {
+li {
   line-height: 2;
   margin: .5em 0;
 }
