@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-15
+
+- Added `sparky nightsun crossdress.png`.
+
 ## 2025-01-14
 
 - Added `peacock exploding butt.png`, `buttercup profile.png`, `goose hidden face.png`, and `sparky gape emoji.png`.
@@ -40,4 +44,4 @@ eleventyNavigation:
 
 ---
 
-*Never seen someone so enthusiastically read a changelog. Anyways, more for you: [older updates](old/).*
+*Never seen someone read a changelog with this much enthusiasm. Anyways, more for you: [older updates](old/).*
