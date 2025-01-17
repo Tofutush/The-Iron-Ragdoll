@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-17
+
+- Edited some world pages.
+
 ## 2025-01-15
 
 - Added `sparky nightsun crossdress.png`.
