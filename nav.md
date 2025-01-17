@@ -13,6 +13,14 @@ eleventyNavigation:
 
 Most of the important links on the site. You can check out the [sitemap](/sitemap/) too!
 
+## Content warnings
+
+This site and its contents feature strong language, cartoon violence, and occasional mature themes. Viewer discretion is advised.
+
+It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Don't treat it so seriously.
+
+Also: This site uses Javascript for theme switching, section expanding, gallery popups, and filtering! It should be fine to view most other things with JS disabled.
+
 ## The comic
 
 (In hiatus hell right now)
@@ -31,6 +39,15 @@ Most of the important links on the site. You can check out the [sitemap](/sitema
 - [Peep my gallery](/gallery/)
 - [Fun pages](/fun/)
 
+## Meta stuff
+
+- [Misc](/misc/)
+  - [Buttons and webrings](/misc/links/)
+  - [Credits](/misc/credits/)
+- [RSS Feed](/feed.xml/)
+- [Changelog](/changelog/)
+- [Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here
+
 ## Outgoing
 
 - [Havoc 101](https://tofutush.github.io/havoc101), another cannot-complete-in-my-life project related to TIR
@@ -43,12 +60,3 @@ Most of the important links on the site. You can check out the [sitemap](/sitema
 - Site mirrors
   - [Neocities](https://neocities.org/site/tofutush)
   - [Github Pages](https://tofutush.github.io/The-Iron-Ragdoll)
-
-## Meta stuff
-
-- [Misc](/misc/)
-  - [Buttons and webrings](/misc/links/)
-  - [Credits](/misc/credits/)
-- [RSS Feed](/feed.xml/)
-- [Changelog](/changelog/)
-- [Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here
