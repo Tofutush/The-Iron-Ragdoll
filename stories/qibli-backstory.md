@@ -26,6 +26,6 @@ Needless to say, neither the MSS nor the [ISA](/world/isa/) were too happy about
 
 She didn't care. She wasn't no pussy anymore. After an entire childhood of being told she was useless, that she could never amount to anything, she could finally see that she was *not* useless. She was *something*. Even if that "thing" was a filthy-rich black-market dealer. But hey, she got a monopoly on magic! Isn't that nice? She was even slapping [Starcorp](/world/bauhinia/starcorp/), the ultimate monopolist, in the face!
 
-Of course Starcorp threatened to screw her over if she didn't sign that exploitive contract which would pass the molopoly to them. Of course I just had this idea off my head as I'm typing so it's not that well developed.
+Of course Starcorp threatened to screw her over if she didn't sign that exploitive contract which would pass the monopoly to them. Of course I just had this idea off my head as I'm typing so it's not that well developed.
 
-What would she feel when confronted by Sky, her old-friend-turned-secret-police? What about Sparky, her old-friend-turned-loyal-Starcorp-dog? (I'm so sorry I haven't worked on Firecrackers as much as the other three)
+What would she feel when confronted by Sky, her old-friend-turned-secret-police? What about Sparky, her old-friend-turned-loyal-Starcorp-dog? (I'm so sorry I haven't worked on Firecrackers as much as the other three) (Firecrackers died, didn't he. I can see Qibli putting flowers on his grave, or perhaps it was a mass grave and she wasn't even sure where exactly Firecrackers was buried, and Sparky was here, and Sky came here too, but he saw Qibli and was like "I have to arrest you," and Qibli was like "go ahead and try,,,")
