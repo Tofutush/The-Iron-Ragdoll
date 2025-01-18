@@ -145,8 +145,8 @@ module.exports = function (eleventyConfig) {
 			</div>
 		`;
 	});
-	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className) {
-		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : "img/bg/placeholder.png";
+	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className, fallback) {
+		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : (existsSync('img/' + path + fallback) ? 'img/' + path + fallback : "img/bg/placeholder.png");
 		let metadata = await Image(src, {
 			widths: [size],
 			formats: ['webp'],
