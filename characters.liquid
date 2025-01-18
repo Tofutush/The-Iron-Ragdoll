@@ -25,8 +25,9 @@ eleventyNavigation:
             <div tags="{% for tag in ch.tags %}{{ tag | slug }} {% endfor %}">
             <div class="ch" style="--c: {{ ch.color }}">
                 <a href="{{ ch.name | lowerCase }}/">
-                {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-                {% image "gallery/" bruhhh 200 ch.name %}
+                {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
+                {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
+                {% image "gallery/" profilePath 200 ch.name '' iconPath %}
                 </a>
             </div>
             {% include 'chButton', ch: ch.name %}
