@@ -9,9 +9,14 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-18
+
+- Updated some stories.
+
 ## 2025-01-17
 
 - Edited some world pages.
+- Updated some stories.
 
 ## 2025-01-15
 
