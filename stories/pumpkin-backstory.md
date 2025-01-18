@@ -5,14 +5,24 @@ canon: yes
 order: 305
 chs:
   - pumpkin
-time: "?"
-location: "<a href=\"/world/bauhinia/\">Bauhinia</a>"
+time: "2003 - present"
+location: "<a href=\"/world/bauhinia/\">Bauhinia</a>, <a href=\"/world/westavia/\">Westavia</a>"
 summary: "Pumpkin's backstory."
 ---
 
 Pumpkin's grandparents immigrated to northern [Bauhinia](/world/bauhinia/) from [Westavia](/world/westavia/). His family still kept many of their Westavian traditions.
 
-After joining the army and getting recruited into the [MSS](/world/bauhinia/mss/) as [Halcyon](/characters/halcyon/)'s apprentice, he was flipped into a [Morelandian](/world/moreland/) spy.
+His parents had really high expectations of him. Among the classic ones like getting into a good college, finding a good job, and marrying a good woman, there was also: become Bauhinian.
+
+Pumpkin grew to be a people-pleaser, always scared of letting them down, always blaming himself for not doing better. He studied hard, and then harder. His parents cut him off from the Westavian Bauhinian community, and yet he never fit in with the Bauhinian Bauhinians either. They paid for classes and tutors that filled up all his schedule, and guilt-tripped him, saying "we spent so much money on you." He did not have friends. He didn't know what he was supposed to be, or do, other than "what my mom and dad wanted."
+
+On exam day, the string snapped. He simply could not see the point. He submitted an empty answer sheet.
+
+When he left the test center, he was scared to go home but he didn't have any money to get lunch. He wandered around the city (*not* Coastline), thinking about what to do. Maybe he could live as a beggar. Maybe when he begged up enough money he could go to Westavia and find his grandparents' relatives.
+
+He somehow wandered into a recruitment office. So he joined the army.
+
+Later, he got recruited into the [MSS](/world/bauhinia/mss/) as [Halcyon](/characters/halcyon/)'s apprentice. He was flipped into a [Morelandian](/world/moreland/) spy.
 
 Though, as people prodded him, he freaked out and thought about telling on himself and Halcyon to get a lighter punishment. Halcyon killed him to shut him up. But he survived and scramed to Westavia to find the old [village](/world/westavia/nameless-village/) his grandparents came from. All he had was a name and a vague direction. And a Westavian passport he got from a forger, bearing his picture and the name "Curly."
 
