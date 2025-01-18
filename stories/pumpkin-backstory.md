@@ -22,8 +22,10 @@ When he left the test center, he was scared to go home but he didn't have any mo
 
 He somehow wandered into a recruitment office. So he joined the army.
 
-Later, he got recruited into the [MSS](/world/bauhinia/mss/) as [Halcyon](/characters/halcyon/)'s apprentice. He was flipped into a [Morelandian](/world/moreland/) spy.
+Later, he got recruited into the [MSS](/world/bauhinia/mss/) as [Halcyon](/characters/halcyon/)'s apprentice. Under pressure from Halcyon, he was flipped into a [Morelandian](/world/moreland/) spy.
 
-Though, as people prodded him, he freaked out and thought about telling on himself and Halcyon to get a lighter punishment. Halcyon killed him to shut him up. But he survived and scramed to Westavia to find the old [village](/world/westavia/nameless-village/) his grandparents came from. All he had was a name and a vague direction. And a Westavian passport he got from a forger, bearing his picture and the name "Curly."
+Though, as people (namely, [Goose](/characters/goose/)) prodded him, he freaked out and thought about telling on himself and Halcyon to get a lighter punishment. Halcyon killed him to shut him up. But he survived and scramed to Westavia to find the old [village](/world/westavia/nameless-village/) his grandparents came from. All he had was a name and a vague direction. And a Westavian passport he got from a forger, bearing his picture and the name "Curly."
 
 He went into Westavia and, after getting directions to his village, took a train to the city closest to it. On the train he met [Candlelight](/characters/candlelight/), who was going to the same place.
+
+The story continues in [Pumpkin Back Home](/stories/pumpkin-back-home/).
