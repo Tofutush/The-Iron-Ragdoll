@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2025-01-18
 
 - Updated some stories.
+- Added `sparky profile.png` and `trinket profile.png`.
 
 ## 2025-01-17
 
