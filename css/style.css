@@ -174,13 +174,11 @@ smallweb-subway-comics {
 }
 
 blockquote {
-  font-style: italic;
   margin: 1em 2em;
   padding: 1em;
   position: relative;
   text-indent: 0;
-  background-color: var(--box);
-  border-radius: 16px;
+  border-left: 8px solid var(--c);
 }
 
 blockquote p:first-child {
@@ -189,10 +187,6 @@ blockquote p:first-child {
 
 blockquote p:last-child {
   margin-bottom: 0;
-}
-
-blockquote em {
-  font-style: normal;
 }
 
 pre {
