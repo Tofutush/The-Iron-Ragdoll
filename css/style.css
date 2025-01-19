@@ -217,14 +217,27 @@ pre code {
 }
 
 #toc-wrap {
-  background-color: var(--box);
+  border: 8px solid var(--c);
   border-radius: 1em;
   padding: .1em 2em;
   width: fit-content;
 }
 
-#toc-wrap h2::before {
+#toc-wrap summary {
+  list-style: none;
+}
+
+summary {
+  cursor: pointer;
+  user-select: none;
+}
+
+#toc-wrap h3::before {
   content: '';
+}
+
+#toc ul {
+  list-style: decimal;
 }
 
 #header {

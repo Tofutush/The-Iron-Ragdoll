@@ -23,10 +23,10 @@ module.exports = function (eleventyConfig) {
 	}).use(markdownItTOC, {
 		includeLevel: [2, 3, 4],
 		transformContainerOpen: () => {
-			return '<div id="toc-wrap"><h2 class="collapsible" target="#toc"><a>Table of Contents</a></h2><div id="toc" class="collapsible-content">';
+			return '<details id="toc-wrap"><summary><h3>Table of Contents</h3></summary><div id="toc">';
 		},
 		transformContainerClose: () => {
-			return '</div></div>';
+			return '</div></details>';
 		},
 	}).use(markdownItExternalLinks, {
 		externalTarget: '_blank'

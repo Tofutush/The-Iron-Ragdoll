@@ -25,11 +25,11 @@
   padding: 1em 2em;
 }
 
-details summary::after {
+.callout details summary::after {
   content: '+';
 }
 
-details[open] summary::after {
+.callout details[open] summary::after {
   content: '-';
 }
 
