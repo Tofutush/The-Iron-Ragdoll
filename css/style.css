@@ -94,7 +94,6 @@ p {
   /* font-size: var(--font-size); */
   line-height: 2;
   text-align: justify;
-  text-indent: 2em;
 }
 
 a {
@@ -169,18 +168,11 @@ button {
   user-select: none;
 }
 
-smallweb-subway-comics {
-  text-indent: 0;
-}
-
 blockquote {
-  font-style: italic;
   margin: 1em 2em;
   padding: 1em;
   position: relative;
-  text-indent: 0;
-  background-color: var(--box);
-  border-radius: 16px;
+  border-left: 8px solid var(--c);
 }
 
 blockquote p:first-child {
@@ -189,10 +181,6 @@ blockquote p:first-child {
 
 blockquote p:last-child {
   margin-bottom: 0;
-}
-
-blockquote em {
-  font-style: normal;
 }
 
 pre {
@@ -221,7 +209,6 @@ pre code {
 
 .footnotes-list p {
   font-size: smaller;
-  text-indent: 0;
 }
 
 ::marker {
@@ -230,14 +217,27 @@ pre code {
 }
 
 #toc-wrap {
-  background-color: var(--box);
+  border: 8px solid var(--c);
   border-radius: 1em;
   padding: .1em 2em;
   width: fit-content;
 }
 
-#toc-wrap h2::before {
+#toc-wrap summary {
+  list-style: none;
+}
+
+summary {
+  cursor: pointer;
+  user-select: none;
+}
+
+#toc-wrap h3::before {
   content: '';
+}
+
+#toc ul {
+  list-style: decimal;
 }
 
 #header {
@@ -511,7 +511,6 @@ body.dark #linx a:hover {
   display: block;
   font-size: var(--font-size-small);
   padding: 0.5rem 0.7rem;
-  text-indent: 0;
   text-decoration: none;
   text-shadow: none !important;
   user-select: none;
@@ -696,7 +695,6 @@ hr {
 @media only screen and (max-width: 480px) {
   p {
     text-align: left;
-    text-indent: 0;
   }
 
   ul {

@@ -1,6 +1,7 @@
 .callout {
   border: 8px solid var(--c);
   border-radius: 16px;
+  margin: 1em 0;
 }
 
 .callout-title {
@@ -25,11 +26,11 @@
   padding: 1em 2em;
 }
 
-details summary::after {
+.callout details summary::after {
   content: '+';
 }
 
-details[open] summary::after {
+.callout details[open] summary::after {
   content: '-';
 }
 
