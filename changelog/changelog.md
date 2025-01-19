@@ -9,6 +9,13 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-19
+
+- Updated some stories.
+- Styling changes.
+- Redid the tables of contents with `summary/details` instead of `collapsible.js`.
+  - Goal is to delete `collapsible.js` altogether.
+
 ## 2025-01-18
 
 - Updated some stories.
