@@ -1,6 +1,7 @@
 .callout {
   border: 8px solid var(--c);
   border-radius: 16px;
+  margin: 1em 0;
 }
 
 .callout-title {
