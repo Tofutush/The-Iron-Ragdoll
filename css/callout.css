@@ -1,5 +1,21 @@
 .callout {
   border: 8px solid var(--c);
   border-radius: 16px;
-  padding: 2em;
+}
+
+.callout-title {
+  display: flex;
+  gap: .5em;
+  background-color: var(--c);
+  padding: 1em;
+  color: var(--bg);
+  align-items: center;
+}
+
+.callout-title-icon {
+  height: 24px;
+}
+
+.callout-title-inner {
+  line-height: 2;
 }
