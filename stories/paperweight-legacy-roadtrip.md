@@ -15,4 +15,6 @@ After the events in [The Nuke From Moreland](/stories/the-nuke-from-moreland/), 
 
 Having already been super pissed off by all his other old people problems like his medicine box the "leash of curses," he decided that instead of seeking treatment he would kickstart earlier his plan of retiring to and dying in [Fanton](/world/fanton/).
 
-He sent in his resignation form, got his endless source of free labor -- Goose, and asked her to drive him to the border, where he had people waiting to drive him to the old people home.
+He sent in his resignation form, got his endless source of free labor -- Goose, and asked her to drive him to the border, where he had people (hired using bribe money) waiting to drive him to the villa (bought using bribe money). Paperweight had received a lot of bribes, apparently.
+
+Along the way, he told Goose about his legend. The legend was not complete. She had to complete it for him. Tie up the loose ends.
