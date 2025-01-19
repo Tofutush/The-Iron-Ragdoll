@@ -1,0 +1,5 @@
+.callout {
+  border: 8px solid var(--c);
+  border-radius: 16px;
+  padding: 2em;
+}
