@@ -12,7 +12,8 @@ h3,
   color: var(--accent);
 }
 
-blockquote {
+blockquote,
+.story {
   border-color: var(--accent);
 }
 

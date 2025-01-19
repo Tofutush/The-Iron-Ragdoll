@@ -7,7 +7,7 @@
 }
 
 .story {
-    border: 8px solid var(--box);
+    border: 8px solid var(--c);
     border-radius: 16px;
     padding: 2em;
     margin: 1em;
