@@ -19,3 +19,13 @@
 .callout-title-inner {
   line-height: 2;
 }
+
+.callout-content {
+  padding: 1em 2em;
+}
+
+@media only screen and (max-width: 480px) {
+  .callout-content {
+    padding: 0 1em;
+  }
+}
