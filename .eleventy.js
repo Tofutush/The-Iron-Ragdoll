@@ -7,6 +7,7 @@ const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require('markdown-it-anchor');
 const markdownItTOC = require('markdown-it-table-of-contents');
 const markdownItExternalLinks = require('markdown-it-external-links');
+const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
 const { minify } = require('html-minifier-terser');
 const { existsSync } = require("fs");
 const pinyin = require('chinese-to-pinyin');
@@ -29,7 +30,7 @@ module.exports = function (eleventyConfig) {
 		},
 	}).use(markdownItExternalLinks, {
 		externalTarget: '_blank'
-	});
+	}).use(markdownItObsidianCallouts);
 	mdIt.renderer.rules.footnote_caption = (tokens, idx) => {
 		let n = Number(tokens[idx].meta.id + 1).toString();
 		if (tokens[idx].meta.subId > 0) n += `:${tokens[idx].meta.subId}`;
