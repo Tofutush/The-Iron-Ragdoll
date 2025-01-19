@@ -94,7 +94,6 @@ p {
   /* font-size: var(--font-size); */
   line-height: 2;
   text-align: justify;
-  text-indent: 2em;
 }
 
 a {
@@ -169,15 +168,10 @@ button {
   user-select: none;
 }
 
-smallweb-subway-comics {
-  text-indent: 0;
-}
-
 blockquote {
   margin: 1em 2em;
   padding: 1em;
   position: relative;
-  text-indent: 0;
   border-left: 8px solid var(--c);
 }
 
@@ -215,7 +209,6 @@ pre code {
 
 .footnotes-list p {
   font-size: smaller;
-  text-indent: 0;
 }
 
 ::marker {
@@ -505,7 +498,6 @@ body.dark #linx a:hover {
   display: block;
   font-size: var(--font-size-small);
   padding: 0.5rem 0.7rem;
-  text-indent: 0;
   text-decoration: none;
   text-shadow: none !important;
   user-select: none;
@@ -690,7 +682,6 @@ hr {
 @media only screen and (max-width: 480px) {
   p {
     text-align: left;
-    text-indent: 0;
   }
 
   ul {
