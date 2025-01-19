@@ -1,0 +1,2 @@
+- [ ] lucide icons stop copy pasting svg (see https://github.com/GrimLink/eleventy-plugin-lucide-icons/blob/main/index.js)
+- [ ] comic page support for multiple comics??
