@@ -44,6 +44,10 @@ They looked at the nuke for a bit, collected the kids' information, and took the
 
 The kids figured out that they left the nuke in the basement to get picked up tomorrow. So they started plotting: they would steal the nuke tonight.
 
+> [!info] Why didn't the MSS send people over to collect the nuke ASAP?
+>
+> Because they *knew* Sparky was Peacock's daughter.
+
 ## The theft
 
 They arrived near the abandoned house at midnight. Sparky brought a cart. She and Firecrackers went down to get the nuke out, while Sky and Qibli stood watch outside.
