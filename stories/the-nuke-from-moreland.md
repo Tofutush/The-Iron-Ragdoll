@@ -46,7 +46,7 @@ They looked at the nuke for a bit, collected the kids' information, and took the
 
 The kids figured out that they left the nuke in the basement to get picked up tomorrow. So they started plotting: they would steal the nuke tonight.
 
-> [!info]+ Why didn't the MSS send people over to collect the nuke ASAP?
+> [!question]+ Why didn't the MSS send people over to collect the nuke ASAP?
 >
 > Because they *knew* Sparky was Peacock's daughter, and they already suspect Starcorp. They *let* Sparky attempt to steal it, so she could get involved.
 
@@ -71,6 +71,12 @@ Also Paperweight got extremely pissed off at Qibli, because her warmth spells *h
 Paperweight told the kids that if they could find out exactly how the nuke ended up there, they could have it.
 
 Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to the side and asked him to come to the MSS each night to report progress. Essentially, to spy on his friends. The manipulation was simple against a kid, and he agreed.
+
+> [!question]+ Why did they choose Sky?
+> He already showed signs of being annoyed by Sparky's "claim to fame." Plus signs of an ego. Motivation.
+
+> [!question]+ Why let him into the MSS then, if he has such an ego?
+> Well, maybe he worked on it. And showed incredible talent. And joined the military. We'll see.
 
 They were just using Sparky's Peacock connection since they suspected it was Starcorp. Sure enough, Gecko, the smuggler who stashed the nuke there, contacted Peacock as soon as she knew the nuke had been found.
 
