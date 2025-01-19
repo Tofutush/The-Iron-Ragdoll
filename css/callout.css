@@ -10,6 +10,7 @@
   padding: 1em;
   color: var(--bg);
   align-items: center;
+  user-select: none;
 }
 
 .callout-title-icon {
@@ -22,6 +23,14 @@
 
 .callout-content {
   padding: 1em 2em;
+}
+
+details summary::after {
+  content: '+';
+}
+
+details[open] summary::after {
+  content: '-';
 }
 
 @media only screen and (max-width: 480px) {
