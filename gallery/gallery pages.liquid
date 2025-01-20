@@ -35,10 +35,10 @@
         {% include 'gallery' imgs: filteredGallery %}
     {% endif %}
 {% endfor %}
-<hr/>
 {% assign prev = pagination.previous %}
 {% assign next = pagination.next %}
 {% if prev or next %}
+    <hr/>
     <div class="prev-next">
         {% if prev %}
             <a href="{{ prev }}">
