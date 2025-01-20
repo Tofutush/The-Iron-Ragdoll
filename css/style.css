@@ -172,7 +172,7 @@ blockquote {
   margin: 1em 2em;
   padding: 1em;
   position: relative;
-  border-left: 8px solid var(--c);
+  border-left: 8px solid var(--box);
 }
 
 blockquote p:first-child {
@@ -217,7 +217,7 @@ pre code {
 }
 
 #toc-wrap {
-  border: 8px solid var(--c);
+  border: 8px solid var(--box);
   border-radius: 1em;
   padding: .1em 2em;
   width: fit-content;

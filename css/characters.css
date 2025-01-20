@@ -12,11 +12,6 @@ h3,
   color: var(--accent);
 }
 
-blockquote,
-.story {
-  border-color: var(--accent);
-}
-
 .left-side {
   flex-shrink: 0;
   width: 360px;
@@ -133,7 +128,7 @@ h3 {
   object-fit: contain;
 }
 
-#gallery>div>img:hover {
+.gallery>div>img:hover {
   box-shadow: 0 0 0 4px var(--accent);
 }
 
