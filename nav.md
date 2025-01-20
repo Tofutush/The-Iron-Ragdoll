@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Navigation
+templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Navigation
   parent: Root
@@ -25,39 +26,39 @@ Also: This site uses Javascript for theme switching, section expanding, gallery 
 
 (In hiatus hell right now)
 
-- [Start from the beginning](/)
-- [The about page](/about/)
-- [The chapters](/chapters/)
+- [{% lucide 'play' %} Start from the beginning](/)
+- [{% lucide 'info' %} The about page](/about/)
+- [{% lucide 'table-of-contents' %} The chapters](/chapters/)
 
 ## The paracosm
 
-- [The world](/world/)
-  - [Overview](/world/overview/)! A good place to start
-- [The characters](/characters/)
-  - [A sortable list of characters](/characters/list/)
-- [Stories](/stories/): for the comic I'm never going to finish
-- [Peep my gallery](/gallery/)
-- [Fun pages](/fun/)
+- [{% lucide 'earth' %} The world](/world/)
+  - [{% lucide 'square-chart-gantt' %} Overview](/world/overview/)! A good place to start
+- [{% lucide 'contact-round' %} The characters](/characters/)
+  - [{% lucide 'table-2' %} A sortable list of characters](/characters/list/)
+- [{% lucide 'scroll-text' %} Stories](/stories/): for the comic I'm never going to finish
+- [{% lucide 'images' %} Peep my gallery](/gallery/)
+- [{% lucide 'ferris-wheel' %} Fun pages](/fun/)
 
 ## Meta stuff
 
-- [Misc](/misc/)
-  - [Buttons and webrings](/misc/links/)
-  - [Credits](/misc/credits/)
-- [RSS Feed](/feed.xml/)
-- [Changelog](/changelog/)
-- [Sitemap](/sitemap/)
-- [Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here
+- [{% lucide 'circle-ellipsis' %} Misc](/misc/)
+  - [{% lucide 'torus' %} Buttons and webrings](/misc/links/)
+  - [{% lucide 'thumbs-up' %} Credits](/misc/credits/)
+- [{% lucide 'rss' %} RSS Feed](/feed.xml/)
+- [{% lucide 'clock-8' %} Changelog](/changelog/)
+- [{% lucide 'code-xml' %} Sitemap](/sitemap/)
+- [{% lucide 'notebook-tabs' %} Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here
 
 ## Outgoing
 
 - [Havoc 101](https://tofutush.github.io/havoc101), another cannot-complete-in-my-life project related to TIR
 - TIR comic mirrors (ranked by my personal bias)
-  - [MSPFA](https://mspfa.com/?s=50350&p=1)
+  - [{% lucide 'box' %} MSPFA](https://mspfa.com/?s=50350&p=1)
   - [ComicFury](https://the-iron-ragdoll.thecomicseries.com)
-  - [Tapas](https://tapas.io/series/The-Iron-Ragdoll)
+  - [{% lucide 'droplet' %} Tapas](https://tapas.io/series/The-Iron-Ragdoll)
   - [Globalcomix](https://globalcomix.com/c/the-iron-ragdoll)
   - [NamiComi](https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en)
 - Site mirrors
-  - [Neocities](https://neocities.org/site/tofutush)
-  - [Github Pages](https://tofutush.github.io/The-Iron-Ragdoll)
+  - [{% lucide 'cat' %}{% lucide 'brush' %} Neocities](https://neocities.org/site/tofutush)
+  - [{% lucide 'github' %} Github Pages](https://tofutush.github.io/The-Iron-Ragdoll)
