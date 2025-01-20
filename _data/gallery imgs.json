@@ -1715,5 +1715,13 @@
     "scope": "headshot",
     "style": "normal",
     "date": "2025-01-18"
+  },
+  {
+    "name": "tiramisu",
+    "type": "png",
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-01-20",
+    "comment": "Gift art for Ket, featuring Tiramisu."
   }
 ]
