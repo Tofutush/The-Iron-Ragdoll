@@ -110,6 +110,10 @@ img {
   display: block;
 }
 
+svg {
+  vertical-align: text-bottom;
+}
+
 .max,
 .max img {
   height: 100%;
@@ -238,6 +242,7 @@ summary {
 
 #toc ul {
   list-style: decimal;
+  padding-inline-start: 1em;
 }
 
 #header {
