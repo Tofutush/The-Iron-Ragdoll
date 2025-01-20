@@ -46,6 +46,7 @@ Also: This site uses Javascript for theme switching, section expanding, gallery 
   - [Credits](/misc/credits/)
 - [RSS Feed](/feed.xml/)
 - [Changelog](/changelog/)
+- [Sitemap](/sitemap/)
 - [Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here
 
 ## Outgoing
