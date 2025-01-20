@@ -8,6 +8,7 @@
   background-color: var(--c);
   padding: 1em;
   color: var(--bg);
+  user-select: none;
 }
 
 .callout-title-icon {

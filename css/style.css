@@ -227,10 +227,13 @@ pre code {
   width: fit-content;
 }
 
+#toc summary {
+  user-select: none;
+}
+
 details summary {
   list-style: none;
   cursor: pointer;
-  user-select: none;
   display: flex;
   align-items: center;
   gap: .5em;
@@ -494,7 +497,7 @@ body.dark #linx a:hover {
   opacity: 1;
 }
 
-.collapsible {
+/* .collapsible {
   cursor: pointer;
 }
 
@@ -516,7 +519,7 @@ body.dark #linx a:hover {
 
 .collapsible-content>*:last-child {
   margin-bottom: 0;
-}
+} */
 
 .character-button {
   background-color: var(--c);
