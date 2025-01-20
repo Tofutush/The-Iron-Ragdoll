@@ -128,7 +128,7 @@ h3 {
   object-fit: contain;
 }
 
-#gallery>div>img:hover {
+.gallery>div>img:hover {
   box-shadow: 0 0 0 4px var(--accent);
 }
 
