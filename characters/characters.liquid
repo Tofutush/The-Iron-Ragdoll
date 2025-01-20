@@ -105,7 +105,7 @@
         {% endfor %}
       </ul>
     {% endif %}
-    {% if ch.insp %}
+    {% comment %} {% if ch.insp %}
       <h2>Inspiration <a class="collapsible tooltip" target="#inspcollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
       <div id="inspcollapse" class="collapsible-content">
         <p>The inspirations for the design and personalities of this character. This lists <i>all</i> the inspirations I've ever had, so if you see any other similarities, they're just coincidences.</p>
@@ -115,7 +115,7 @@
           <li>{{ ins }}</li>
         {% endfor %}
       </ul>
-    {% endif %}
+    {% endif %} {% endcomment %}
     <h2>Color palette</h2>
     {% assign palette = ch | getFullPalette %}
     {% include 'palette' colors: palette %}
@@ -146,18 +146,21 @@
 {% assign prev = pagination.previous %}
 {% assign next = pagination.next %}
 {% if prev or next %}
+  <hr/>
     <div class="prev-next">
         {% if prev %}
             <a href="{{ prev }}">
-                <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
-                <span>Previous</span>
+                {% comment %} <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg> {% endcomment %}
+                 {% lucide 'chevron-left' %}
+                <p>Previous</p>
             </a>
         {% endif %}
         <div></div>
         {% if next %}
             <a href="{{ next }}">
-                <span>Next</span>
-                <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+                <p>Next</p>
+                {% lucide 'chevron-right' %}
+                {% comment %} <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg> {% endcomment %}
             </a>
         {% endif %}
     </div>
