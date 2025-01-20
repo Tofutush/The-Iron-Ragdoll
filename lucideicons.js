@@ -23,10 +23,10 @@ function iconSVGString(name, options) {
     name = name.toLowerCase();
     if (!icons[name]) throw new Error(`icon with name ${name} not found`);
     let attrs = {
-        width: options.size || options.width,
-        height: options.size || options.height,
-        className: `lucide lucide-${name}`,
         ...defaultOptions,
+        width: options.size || options.width || 24,
+        height: options.size || options.height || 24,
+        className: `lucide lucide-${name}`,
         ...options
     };
     delete attrs.size;
