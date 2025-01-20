@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-20
+
+- Started to use new profile icons for characters.
+  - Expect me to continue procrastinating.
+
 ## 2025-01-19
 
 - Updated some stories.
