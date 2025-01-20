@@ -83,38 +83,6 @@ Boosting will make the person being boosted stronger, and blocking will make the
 
 It happens automatically when two people with different superpowers come in contact with each other. The effects depend on how close they are -- peaking when they directly touch each other -- and the respective strength of their powers. People cannot consiously feel anything when it happens, but if you're experienced you can tell from signs anyways.
 
-<!-- Note that some boosting / blocking affects *everyone*, like sensors making strongpeople stronger, who can then use that boosted strength to beat more people up. But sometimes it only affects the target, like sensors finding invisible people. -->
-
-<!-- ### Power boosting / 能力相生
-
-Each power would boost another power when they are near each other.
-
-**Superstrength**: Being around sensors will make strongpeople even stronger, which is obviously pretty bad when a sensor is trying to fight a strongperson.
-
-**Hyperawareness**: Mind-readers can make sensors stronger.
-
-**Mind-reading**: Mind-readers can read more clearly the minds of timekeepers than anyone else. This includes their internal clocks!
-
-**Timekeeping**: Invisibles can make the time even more precise for timekeepers.
-
-**Invisibility**: Having strongpeople around can make an invisible hide themselves more. Depending on how strong each person's power is, they might even be able to hide from sensors.
-
-### Power blocking / 能力相克
-
-Each power would also weaken another power if they are near each other.
-
-**Superstrength**: When a mind-reader is present, a strongperson[^3]'s strength can be greatly reduced depending on both their power level and the mind-reader's -- although they won't feel a thing unless they start doing shit and breaking their backs.
-
-[^3]: Damn I really need a better name.
-
-**Timekeeping**: timekeepers' sense of time can be distorted by strongpeople. Especially if they're touching each other, the timekeeper -- if they aren't aware that the other guy is a strongperson -- would often mistake some other sign as their internal clock, such as their heartbeat or whatever.
-
-**Hyperawareness**: sensors' senses can be reduced by timekeepers.
-
-**Invisibility**: Invisibles may just reappear when a sensor walks into them or something.
-
-**Mind reading**: mind-readers cannot read the minds of invisibles, no matter whether they're currently invisible or not. -->
-
 ## Special powers / 特殊
 
 These powers are extremely rare, and don't have the boosting and blocking effects that the other five have.
