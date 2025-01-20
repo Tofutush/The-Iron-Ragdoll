@@ -238,6 +238,7 @@ summary {
 
 #toc ul {
   list-style: decimal;
+  padding-inline-start: 1em;
 }
 
 #header {
