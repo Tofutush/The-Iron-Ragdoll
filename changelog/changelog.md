@@ -13,6 +13,7 @@ eleventyNavigation:
 
 - Started to use new profile icons for characters.
   - Expect me to continue procrastinating.
+- Deleted `collapsible.js`.
 
 ## 2025-01-19
 
