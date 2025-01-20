@@ -5,12 +5,9 @@
 }
 
 .callout-title {
-  display: flex;
-  gap: .5em;
   background-color: var(--c);
   padding: 1em;
   color: var(--bg);
-  align-items: center;
   user-select: none;
 }
 
@@ -24,14 +21,6 @@
 
 .callout-content {
   padding: 1em 2em;
-}
-
-.callout details summary::after {
-  content: '+';
-}
-
-.callout details[open] summary::after {
-  content: '-';
 }
 
 @media only screen and (max-width: 480px) {

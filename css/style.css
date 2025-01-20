@@ -227,13 +227,24 @@ pre code {
   width: fit-content;
 }
 
-#toc-wrap summary {
-  list-style: none;
+#toc summary {
+  user-select: none;
 }
 
-summary {
+details summary {
+  list-style: none;
   cursor: pointer;
-  user-select: none;
+  display: flex;
+  align-items: center;
+  gap: .5em;
+}
+
+details summary::after {
+  content: '+';
+}
+
+details[open] summary::after {
+  content: '-';
 }
 
 #toc-wrap h3::before {
@@ -486,7 +497,7 @@ body.dark #linx a:hover {
   opacity: 1;
 }
 
-.collapsible {
+/* .collapsible {
   cursor: pointer;
 }
 
@@ -508,7 +519,7 @@ body.dark #linx a:hover {
 
 .collapsible-content>*:last-child {
   margin-bottom: 0;
-}
+} */
 
 .character-button {
   background-color: var(--c);
