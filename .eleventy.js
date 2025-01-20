@@ -11,6 +11,7 @@ const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
 const { minify } = require('html-minifier-terser');
 const { existsSync } = require("fs");
 const pinyin = require('chinese-to-pinyin');
+const { iconSVGString, eleventyLucideIconsPlugin } = require('./lucideicons.js');
 
 module.exports = function (eleventyConfig) {
 	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-');
@@ -43,12 +44,14 @@ module.exports = function (eleventyConfig) {
 		if (typeof env.docId === 'string') id = `-${env.docId}-`;
 		else id = prefix + n;
 		if (tokens[idx].meta.subId > 0) id += `:${tokens[idx].meta.subId}`;
-		return ` <a href="#fnref${id}" class="footnote-backref"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-move-up"><path d="M8 6L12 2L16 6"/><path d="M12 2V22"/></svg></a>`;
+		return ` <a href="#fnref${id}" class="footnote-backref">${iconSVGString('move-up', { size: 18 })}</a>`;
+		// return ` <a href="#fnref${id}" class="footnote-backref"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-move-up"><path d="M8 6L12 2L16 6"/><path d="M12 2V22"/></svg></a>`;
 	}
 	eleventyConfig.setLibrary("md", mdIt);
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
+	eleventyConfig.addPlugin(eleventyLucideIconsPlugin);
 	// eleventyConfig.addPlugin(pluginRss);
 	const mdRender = new markdownIt();
 	// copies
@@ -138,13 +141,22 @@ module.exports = function (eleventyConfig) {
 		else dot = '..';
 		return `
 			<div class="options">
-				<a ${p ? '' : 'class="noclick"'} href="${dot}${f}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m11 17-5-5 5-5"/><path d="m18 17-5-5 5-5"/></svg></a>
-				<a ${p ? '' : 'class="noclick"'} href="${dot}${p}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></a>
+				<a ${p ? '' : 'class="noclick"'} href="${dot}${f}#img">${iconSVGString('chevrons-left')}</a>
+				<a ${p ? '' : 'class="noclick"'} href="${dot}${p}#img">${iconSVGString('chevron-left')}</a>
 				<p><span class="pagenum">${num}</span></p>
-				<a ${n ? '' : 'class="noclick"'} href="${dot}${n}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></a>
-				<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 17 5-5-5-5"/><path d="m13 17 5-5-5-5"/></svg></a>
+				<a ${n ? '' : 'class="noclick"'} href="${dot}${n}#img">${iconSVGString('chevron-right')}</a>
+				<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#img">${iconSVGString('chevrons-right')}</a>
 			</div>
 		`;
+		// return `
+		// 	<div class="options">
+		// 		<a ${p ? '' : 'class="noclick"'} href="${dot}${f}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m11 17-5-5 5-5"/><path d="m18 17-5-5 5-5"/></svg></a>
+		// 		<a ${p ? '' : 'class="noclick"'} href="${dot}${p}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></a>
+		// 		<p><span class="pagenum">${num}</span></p>
+		// 		<a ${n ? '' : 'class="noclick"'} href="${dot}${n}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></a>
+		// 		<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 17 5-5-5-5"/><path d="m13 17 5-5-5-5"/></svg></a>
+		// 	</div>
+		// `;
 	});
 	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className, fallback) {
 		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : (existsSync('img/' + path + fallback) ? 'img/' + path + fallback : "img/bg/placeholder.png");
