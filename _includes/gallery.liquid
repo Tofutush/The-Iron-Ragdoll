@@ -4,14 +4,7 @@
     {% assign bruhhh = img.name | append: "." | append: img.type %}
     {% image "gallery/" bruhhh 120 img.name %}
     <div class="modal">
-      <div class="close">
-        {% comment %} <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none"
-          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-          <path d="M18 6 6 18" />
-          <path d="m6 6 12 12" />
-        </svg> {% endcomment %}
-        {% lucide 'x' 48 %}
-      </div>
+      <div class="close">{% lucide 'x' 48 %}</div>
       {% assign bruhhh = img.name | append: "." | append: img.type %}
       {% image "gallery/" bruhhh 1000 img.name %}
       {% if img.ch %}
