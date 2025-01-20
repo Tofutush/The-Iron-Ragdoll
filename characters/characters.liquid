@@ -26,8 +26,9 @@
 <div class="desc {% if ch.darkcolor %}darkcolor{% endif %}" style="--accent: {{ ch.color }};">
   <div class="left-side">
     <div class="title">
-      {% assign bruhhh = ch.name | lowerCase | append: " thumb.png" %}
-      {% image "gallery/" bruhhh 'auto' ch.name %}
+      {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
+      {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
+      {% image "gallery/" profilePath 'auto' ch.name '' iconPath %}
       <div class="title-info">
         <h1>{{ ch.name }}</h1>
         {% if ch.namezh %}<h1>{{ ch.namezh }}</h1>{% endif %}
