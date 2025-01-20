@@ -14,6 +14,8 @@ eleventyNavigation:
 - Started to use new profile icons for characters.
   - Expect me to continue procrastinating.
 - Deleted `collapsible.js`.
+- Added fancy icons to [nav](/nav/).
+- Edited some stories.
 
 ## 2025-01-19
 

@@ -40,7 +40,7 @@ They looked at the nuke for a bit, collected the kids' information, and took the
 
 > *I've never seen such a big car before!* Firecrackers bounced up and down in his seat.
 >
-> "It's because Peacock has a bunch of kids outside," said Sparky. "He needs a car big enough to put all of them in. Even this one is a bit too small so he had to deliver them in batches."
+> "It's because Peacock has a bunch of kids outside," Sparky said. "He needs a car big enough to put all of them in. Even this one is a bit too small so he had to deliver them in batches."
 >
 > Peacock rolled his eyes.
 
@@ -76,9 +76,56 @@ Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to
 > He already showed signs of being annoyed by Sparky's "claim to fame." Plus signs of an ego. Motivation.
 
 > [!question]+ Why let him into the MSS then, if he has such an ego?
-> Well, maybe he worked on it. And showed incredible talent. And joined the military. We'll see.
+> Well, maybe he worked on it. And showed incredible talent. And joined the military. He did grow up.
+>
 
-They were just using Sparky's Peacock connection since they suspected it was Starcorp. Sure enough, Gecko, the smuggler who stashed the nuke there, contacted Peacock as soon as she knew the nuke had been found.
+The MSS were just using Sparky's Peacock connection since they suspected it was Starcorp. Sure enough, Gecko, the smuggler who stashed the nuke there, contacted Peacock as soon as she knew the nuke had been found.
+
+Sparky overheard their phone conversation and noted down the time and place for the meeting. Starlight cafe. Tomorrow afternoon.
+
+She informed her friends, of course. Who could make it? Ah, Qibli wasn't coming. Firecrackers could. Sky? Depends. He would let you know in the morning. Good.
+
+## Pumpkin's confession
+
+Sky went to the MSS to tattle. Starlight cafe, tomorrow afternoon. This is great, keep it up. Would you like a lollipop?
+
+It was getting late. Pumpkin drove Sky back home. But as a mole, Pumpkin's fragile string was snapping.
+
+> They stopped at a red light.
+>
+> "Sky, can I ask you a question?" Pumpkin said, staring straight ahead at the road.
+>
+> "What question?"
+>
+> "If you found out that someone is a spy. Betrayed Bauhinia. Spying on us. What would you do?"
+>
+> "Report to the MSS immediately!"
+>
+> "What if you *are* the MSS?"
+>
+> Sky sat there dumbfounded for a split second, but he got the implication.
+>
+> "I'd report to my boss, then." he said.
+>
+> "What if -- " Pumpkin stopped himself. "This stuff is complicated, but the short story is that you can't just 'report to your boss.'"
+>
+> "You have to tell *someone*. Anyone! Officer Goose! Paperweight! Halcyon!"
+>
+> Pumpkin gave a startled jolt when he said "Halcyon," but it was only because the light turned green. They drove straight on.
+>
+> "What if exposing the mole would ruin your own life?" Pumpkin asked. "For example, he could hire someone to assassinate you and your family."
+>
+> "You still gotta do it," Sky said. "No doubts I would do it," he added, though he knew that if he were really in the same situation he would also second-guess himself.
+>
+> "What if..." Pumpkin started. Sky was worried he might be more focused on coming up with the question than on the road. But he never finished.
+>
+> The journey was completed in silence.
+
+Guess what? Our dear Halcyon bugged the car.
+
+## Gecko
+
+Sparky drugged Peacock during lunch, tucked him into bed, took his phone, and headed over.
 
 ## You reached the ramble zone
 
