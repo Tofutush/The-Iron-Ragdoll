@@ -112,10 +112,6 @@
 		grid-template-columns: 1fr 1fr;
 	} */
 
-    .tags .collapsible-content {
-        justify-content: flex-start;
-    }
-
     /* 
 	.comment-attached {
 		display: none;
