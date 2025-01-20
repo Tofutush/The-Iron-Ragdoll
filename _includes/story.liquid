@@ -40,21 +40,5 @@
 {% assign next = collections.stories | getNextCollectionItem %}
 {% if prev or next %}
     <hr/>
-    <div class="prev-next">
-        {% if prev %}
-            <a href="{{ prev.url }}">
-                {% lucide 'chevron-left' %}
-                {% comment %} <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg> {% endcomment %}
-                <p>Previous</p>
-            </a>
-        {% endif %}
-        <div></div>
-        {% if next %}
-            <a href="{{ next.url }}">
-                <p>Next</p>
-                {% lucide 'chevron-right' %}
-                {% comment %} <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg> {% endcomment %}
-            </a>
-        {% endif %}
-    </div>
+    {% include 'prevnext' prev: prev.url, next: next.url %}
 {% endif %}
