@@ -141,13 +141,22 @@ module.exports = function (eleventyConfig) {
 		else dot = '..';
 		return `
 			<div class="options">
-				<a ${p ? '' : 'class="noclick"'} href="${dot}${f}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m11 17-5-5 5-5"/><path d="m18 17-5-5 5-5"/></svg></a>
-				<a ${p ? '' : 'class="noclick"'} href="${dot}${p}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></a>
+				<a ${p ? '' : 'class="noclick"'} href="${dot}${f}#img">${iconSVGString('chevrons-left')}</a>
+				<a ${p ? '' : 'class="noclick"'} href="${dot}${p}#img">${iconSVGString('chevron-left')}</a>
 				<p><span class="pagenum">${num}</span></p>
-				<a ${n ? '' : 'class="noclick"'} href="${dot}${n}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></a>
-				<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 17 5-5-5-5"/><path d="m13 17 5-5-5-5"/></svg></a>
+				<a ${n ? '' : 'class="noclick"'} href="${dot}${n}#img">${iconSVGString('chevron-right')}</a>
+				<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#img">${iconSVGString('chevrons-right')}</a>
 			</div>
 		`;
+		// return `
+		// 	<div class="options">
+		// 		<a ${p ? '' : 'class="noclick"'} href="${dot}${f}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m11 17-5-5 5-5"/><path d="m18 17-5-5 5-5"/></svg></a>
+		// 		<a ${p ? '' : 'class="noclick"'} href="${dot}${p}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></a>
+		// 		<p><span class="pagenum">${num}</span></p>
+		// 		<a ${n ? '' : 'class="noclick"'} href="${dot}${n}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></a>
+		// 		<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 17 5-5-5-5"/><path d="m13 17 5-5-5-5"/></svg></a>
+		// 	</div>
+		// `;
 	});
 	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className, fallback) {
 		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : (existsSync('img/' + path + fallback) ? 'img/' + path + fallback : "img/bg/placeholder.png");
