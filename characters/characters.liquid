@@ -38,10 +38,10 @@
       </div>
     </div>
     {% if ch.attr %}
-      <h2>Info <a class="collapsible tooltip" target="#infocollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
-      <div id="infocollapse" class="collapsible-content">
-        {% renderFile './characters/characterinfo.md' %}
-      </div>
+      <details>
+        <summary><h2>Info</h2></summary>
+        <div id="attr-info">{% renderFile './characters/characterinfo.md' %}</div>
+      </details>
       <div class="ch-attr">
         {% for att in ch.attr %}
           <div>
@@ -124,23 +124,25 @@
       <h2>Gallery</h2>
       {% include 'gallery' imgs: filteredGallery %}
     {% endif %}
-    <h2>Drawing Permissions <a class="collapsible tooltip" target="#permscollapse"><span class="tooltip-text">Click for more</span> <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-help"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg></a></h2>
-    <div id="permscollapse" class="collapsible-content">
-      <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
-      {% if ch.note %}
-        <h3>Character Permissions</h3>
-        {% assign firstFiveLetters = ch.note | slice: 0, 5 %}
-        {% if firstFiveLetters == 'file:' %}
-          {% assign fileName = ch.note | slice: 5 %}
-          {% assign filePath = './characters/files/' | append: fileName %}
-          {% renderFile filePath %}
-        {% else %}
-          {{ ch.note | renderMD }}
+    <details>
+      <summary><h2>Drawing Permissions</h2></summary>
+      <div>
+        <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
+        {% if ch.note %}
+          <h3>Character Permissions</h3>
+          {% assign firstFiveLetters = ch.note | slice: 0, 5 %}
+          {% if firstFiveLetters == 'file:' %}
+            {% assign fileName = ch.note | slice: 5 %}
+            {% assign filePath = './characters/files/' | append: fileName %}
+            {% renderFile filePath %}
+          {% else %}
+            {{ ch.note | renderMD }}
+          {% endif %}
+          <h3>Global Permissions</h3>
         {% endif %}
-        <h3>Global Permissions</h3>
-      {% endif %}
-      {% renderFile './characters/files/globalperms.md' %}
-    </div>
+        {% renderFile './characters/files/globalperms.md' %}
+      </div>
+    </details>
   </div>
 </div>
 {% assign prev = pagination.previous %}
