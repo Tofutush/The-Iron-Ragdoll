@@ -35,13 +35,12 @@ function iconSVGString(name, options) {
 }
 
 function eleventyLucideIconsPlugin(eleventyConfig, options = {}) {
-    console.log(eleventyConfig);
-    
     eleventyConfig.addShortcode('lucide', function (name, size, stroke, strokeWidth) {
-        if (size) options.size = size;
-        if (stroke) options.stroke = stroke;
-        if (strokeWidth) options['stroke-width'] = strokeWidth;
-        return iconSVGString(name, options);
+        let newOptions = { ...options };
+        if (size) newOptions.size = size;
+        if (stroke) newOptions.stroke = stroke;
+        if (strokeWidth) newOptions['stroke-width'] = strokeWidth;
+        return iconSVGString(name, newOptions);
     });
 }
 
