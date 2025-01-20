@@ -11,7 +11,7 @@ const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
 const { minify } = require('html-minifier-terser');
 const { existsSync } = require("fs");
 const pinyin = require('chinese-to-pinyin');
-const { iconSVGString } = require('./lucideicons.js');
+const { iconSVGString, eleventyLucideIconsPlugin } = require('./lucideicons.js');
 
 module.exports = function (eleventyConfig) {
 	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-');
@@ -51,6 +51,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
+	eleventyConfig.addPlugin(eleventyLucideIconsPlugin);
 	// eleventyConfig.addPlugin(pluginRss);
 	const mdRender = new markdownIt();
 	// copies
