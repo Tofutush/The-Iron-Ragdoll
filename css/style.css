@@ -227,13 +227,21 @@ pre code {
   width: fit-content;
 }
 
-#toc-wrap summary {
+details summary {
   list-style: none;
-}
-
-summary {
   cursor: pointer;
   user-select: none;
+  display: flex;
+  align-items: center;
+  gap: .5em;
+}
+
+details summary::after {
+  content: '+';
+}
+
+details[open] summary::after {
+  content: '-';
 }
 
 #toc-wrap h3::before {
