@@ -35,7 +35,9 @@ function iconSVGString(name, options) {
 }
 
 function eleventyLucideIconsPlugin(eleventyConfig, options = {}) {
-    eleventyConfig.addShortCode('lucide', function (name, size, stroke, strokeWidth) {
+    console.log(eleventyConfig);
+    
+    eleventyConfig.addShortcode('lucide', function (name, size, stroke, strokeWidth) {
         if (size) options.size = size;
         if (stroke) options.stroke = stroke;
         if (strokeWidth) options['stroke-width'] = strokeWidth;
