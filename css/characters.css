@@ -12,10 +12,6 @@ h3,
   color: var(--accent);
 }
 
-blockquote {
-  border-color: var(--accent);
-}
-
 .left-side {
   flex-shrink: 0;
   width: 360px;
