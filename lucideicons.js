@@ -34,6 +34,16 @@ function iconSVGString(name, options) {
     return `<svg ${attrsToString(attrs)}>${svgContent}</svg>`
 }
 
+function eleventyLucideIconsPlugin(eleventyConfig, options = {}) {
+    eleventyConfig.addShortCode('lucide', function (name, size, stroke, strokeWidth) {
+        if (size) options.size = size;
+        if (stroke) options.stroke = stroke;
+        if (strokeWidth) options['stroke-width'] = strokeWidth;
+        return iconSVGString(name, options);
+    });
+}
+
 module.exports = {
-    iconSVGString: iconSVGString
+    iconSVGString: iconSVGString,
+    eleventyLucideIconsPlugin: eleventyLucideIconsPlugin
 }
