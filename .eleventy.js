@@ -14,7 +14,7 @@ const pinyin = require('chinese-to-pinyin');
 const { iconSVGString, eleventyLucideIconsPlugin } = require('./lucideicons.js');
 
 module.exports = function (eleventyConfig) {
-	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-');
+	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-').replace(/\'+/g, '');
 	const mdIt = markdownIt({
 		html: true,
 		breaks: true,
