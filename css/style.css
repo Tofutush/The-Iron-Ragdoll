@@ -310,9 +310,7 @@ body.dark #linx a:hover {
 
 #footer {
   border-top: 12px solid var(--box);
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
+  padding: 2rem 2rem 0 0;
 }
 
 /* #footer a {
@@ -358,10 +356,15 @@ body.dark #linx a:hover {
 
 #footer-controls {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
   justify-content: flex-end;
-  margin: 2rem;
   align-items: center;
+  float: right;
+}
+
+#footer-img img {
+  height: 300px;
+  width: auto;
 }
 
 #back-to-top {
@@ -381,6 +384,10 @@ body.dark #linx a:hover {
 
 #back-to-top a:hover {
   color: var(--text);
+}
+
+#back-to-top svg {
+  vertical-align: baseline;
 }
 
 /* #footer-warning h3 {
