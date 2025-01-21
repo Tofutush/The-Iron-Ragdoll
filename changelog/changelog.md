@@ -13,6 +13,8 @@ eleventyNavigation:
 
 - Added country name pronunciations to their pages. They should be pretty intuitive, but just in case.
 - Changed "The Nuke from Moreland" into "*A* Nuke from Moreland," because I was mixing them all up and needed a standard name.
+- Added a footer image. Now I gotta draw a bunch more and randomly switch between them.
+  - Why do I always add drawing tasks to myself...
 
 ## 2025-01-20
 
