@@ -12,6 +12,8 @@ eleventyNavigation:
 
 {% image "gallery/" "moreland flag.svg" 1000 "Flag of Moreland" 'max' %}
 
+MORE-lend: the teal friendly people.
+
 It's kind of my idea of an ideal society. And my idea of how an ideal society could be achieved. (Spoilers: it's Omelas.)
 
 [[toc]]

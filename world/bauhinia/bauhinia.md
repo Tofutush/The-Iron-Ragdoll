@@ -12,7 +12,7 @@ eleventyNavigation:
 
 {% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" 'max' %}
 
-The pink bureaucratic fanatic[^1].
+Bau-HEE-nee-a: the pink bureaucratic fanatic[^1].
 
 [^1]: The flag is *not* Hong Kong. Hong Kong is *dumb*. Bauhinia is... well, still pretty dumb I admit but nothing is dumber than HK.
 

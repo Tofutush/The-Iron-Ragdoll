@@ -12,6 +12,8 @@ eleventyNavigation:
 
 {% image "gallery/" "westavia flag.svg" 1000 "Flag of Westavia" 'max' %}
 
+Wes-DAY-vee-a: the brown alcoholics.
+
 A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/moreland/), and west of [Atlasia](/world/atlasia/).
 
 [[toc]]
