@@ -68,7 +68,9 @@ Also Paperweight got extremely pissed off at Qibli, because her warmth spells *h
 
 ## The challenge
 
-Paperweight told the kids that if they could find out exactly how the nuke ended up there, they could have it.
+So Paperweight had the kids cuffed to the heater and on more than one occasion zapped them through knocking the radiator with a stun baton. Pumpkin burst in, pleading to Paperweight to treat the kids better. Classic good-cop-bad-cop, but they fell for it.
+
+Pumpkin begged for a compromise. Paperweight told the kids that if they could find out exactly how the nuke ended up there, they could have it.
 
 Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to the side and asked him to come to the MSS each night to report progress. Essentially, to spy on his friends. The manipulation was simple against a kid, and he agreed.
 
@@ -77,7 +79,6 @@ Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to
 
 > [!question]+ Why let him into the MSS then, if he has such an ego?
 > Well, maybe he worked on it. And showed incredible talent. And joined the military. He did grow up.
->
 
 The MSS were just using Sparky's Peacock connection since they suspected it was Starcorp. Sure enough, Gecko, the smuggler who stashed the nuke there, contacted Peacock as soon as she knew the nuke had been found.
 
@@ -87,9 +88,9 @@ She informed her friends, of course. Who could make it? Ah, Qibli wasn't coming.
 
 ## Pumpkin's confession
 
-Sky went to the MSS to tattle. Starlight cafe, tomorrow afternoon. This is great, keep it up. Would you like a lollipop?
+Sky went to the MSS to tattle. Starlight cafe, tomorrow afternoon. This is great, keep it up. Would you like a lollipop? Have an ice cream.
 
-It was getting late. Pumpkin drove Sky back home. But as a mole, Pumpkin's fragile string was snapping.
+It was getting late, and it was raining, so Pumpkin drove Sky back home. But as a mole, Pumpkin's fragile string was snapping.
 
 > They stopped at a red light.
 >
@@ -121,7 +122,16 @@ It was getting late. Pumpkin drove Sky back home. But as a mole, Pumpkin's fragi
 >
 > The journey was completed in silence.
 
+> [!note] A sentence I don't know where to put
+> Sky sat watching the raindrops race each other to the bottom of the window.
+
 Guess what? Our dear Halcyon bugged the car.
+
+That night, after Pumpkin dropped Sky off at his place, he drove the MSS car back to the lot, and hopped on his bike to ride home.
+
+He never got home.
+
+In the same alleyway he rode through every single day, where he fed stray cats and said hello to people through their windows, Halcyon met him with a noose around his neck.
 
 ## Gecko
 
