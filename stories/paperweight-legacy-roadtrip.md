@@ -11,7 +11,7 @@ location: "<a href=\"/world/bauhinia/\">Bauhinia</a>"
 summary: "Paperweight retires. His apprentice Goose drives him to the Fantoni border. Paperweight opens his tightly-sealed box of memories. This is an unfinished case that Goose has to complete."
 ---
 
-After the events in [The Nuke From Moreland](/stories/the-nuke-from-moreland/), Paperweight was diagnosed with chronic leukemia.
+After the events in [The Nuke From Moreland](/stories/a-nuke-from-moreland/), Paperweight was diagnosed with chronic leukemia.
 
 Having already been super pissed off by all his other old people problems like his medicine box the "leash of curses," he decided that instead of seeking treatment he would kickstart earlier his plan of retiring to and dying in [Fanton](/world/fanton/).
 

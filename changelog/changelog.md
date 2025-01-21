@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-21
+
+- Added country name pronunciations to their pages. They should be pretty intuitive, but just in case.
+- Changed "The Nuke from Moreland" into "*A* Nuke from Moreland," because I was mixing them all up and needed a standard name.
+
 ## 2025-01-20
 
 - Started to use new profile icons for characters.

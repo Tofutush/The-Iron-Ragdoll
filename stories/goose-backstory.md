@@ -26,4 +26,4 @@ One by one these people left her. Pumpkin was murdered, Halcyon traded away, and
 
 [^1]: [Paperweight Legacy Roadtrip](/stories/paperweight-legacy-roadtrip/)
 
-She got an apprentice, [Sky](/characters/sky/) from [the Moreland nuke thing](/stories/the-nuke-from-moreland/), who then went on to create his own legend during the Fantoni invasion.
+She got an apprentice, [Sky](/characters/sky/) from [the Moreland nuke thing](/stories/a-nuke-from-moreland/), who then went on to create his own legend during the Fantoni invasion.
