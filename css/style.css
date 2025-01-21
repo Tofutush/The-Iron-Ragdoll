@@ -203,7 +203,6 @@ pre code {
 }
 
 .footnote-backref {
-  text-decoration: none;
   vertical-align: middle;
 }
 
@@ -339,7 +338,7 @@ body.dark #linx a:hover {
   color: var(--text);
 }
 
-#back-to-top svg {
+#back-to-top svg, .footnote-backref svg {
   vertical-align: baseline;
 }
 

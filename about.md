@@ -24,7 +24,9 @@ Start by [reading it](/), or as I'm stuck in limbo right now, start reading abou
 
 ## About me
 
-Tofutush here. I may also be Mafia Don, Sirocco, or XXQ. I like comics and OCs. I belong to the Cat Cult where we worship cats. You should join us.
+Tofutush here. I like comics and OCs. I belong to the Cat Cult where we worship cats. You should join us.
+
+A good spy[^1] has many aliases. I may also be Mafia Don, Sirocco, XXQ, 黑帮老大，吸螺壳, depending on the context.
 
 Stalk me or whatever:
 
@@ -41,3 +43,5 @@ Captain Underpants, in Professor Poopypants's silly name chart, when you plug in
 ### How old are you to be still obsessed with Captain Underpants
 
 😭
+
+[^1]: No, sorry, [officer](/world/bauhinia/mss/), that's *figurative language*, I'm not actually a spy, wait hang on are you listening? I told you I'm not -- I can explain -- *BAM*
