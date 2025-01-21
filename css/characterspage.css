@@ -67,10 +67,8 @@ body {
 	background-color: var(--box);
 	border-radius: 16px;
 	display: flex;
-	/* height: 120px; */
 	justify-content: center;
 	margin: auto;
-	/* width: 120px; */
 	overflow: hidden;
 }
 
