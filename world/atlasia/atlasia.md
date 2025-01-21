@@ -12,7 +12,7 @@ eleventyNavigation:
 
 {% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" 'max' %}
 
-The green money-lovers.
+At-LAY-zha: the green money-lovers.
 
 [[toc]]
 
