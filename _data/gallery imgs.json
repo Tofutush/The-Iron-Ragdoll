@@ -1723,5 +1723,24 @@
     "style": "normal",
     "date": "2025-01-20",
     "comment": "Gift art for Ket, featuring Tiramisu."
+  },
+  {
+    "name": "kraken",
+    "type": "png",
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-01-21",
+    "comment": "Art trade with [Grimm](https://web-surfer.neocities.org), featuring [Lottie Deckard](https://web-surfer.neocities.org/chara/DeckardLottie)."
+  },
+  {
+    "name": "sparky nightsun footer",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "nightsun"
+    ],
+    "scope": "full-body",
+    "style": "lineless",
+    "date": "2025-01-21"
   }
 ]
