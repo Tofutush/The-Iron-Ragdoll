@@ -17,7 +17,7 @@ eleventyNavigation:
 <div id="flexbox">
     <div class="tags">
         {% for tag in tagsplot %}
-            <div name="{{ tag }}">{{ tag }}</div>
+            <div name="{{ tag | slug }}">{{ tag }}</div>
         {% endfor %}
     </div>
     <div class="chs">
