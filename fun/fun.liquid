@@ -11,6 +11,6 @@ eleventyNavigation:
 
 <ul>
   {% for file in collections.fun %}
-    <li><a href="{{ file.url }}">{{ file.data.title }}</a></li>
+    {% include 'fileLi', file: file %}
   {% endfor %}
 </ul>
