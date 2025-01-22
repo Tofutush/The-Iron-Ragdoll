@@ -2,6 +2,7 @@
 layout: layout.liquid
 title: Overview
 templateEngineOverride: liquid,md
+tags: lore
 eleventyNavigation:
   key: Overview
   parent: World

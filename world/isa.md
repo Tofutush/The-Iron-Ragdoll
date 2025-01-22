@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: International Superpowers Association
+tags: lore
 eleventyNavigation:
   key: International Superpowers Association
   parent: World

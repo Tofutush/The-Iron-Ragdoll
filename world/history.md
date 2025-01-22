@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: History
+tags: lore
 eleventyNavigation:
   key: History
   parent: World
