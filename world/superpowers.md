@@ -2,6 +2,7 @@
 layout: layout.liquid
 title: Superpowers
 templateEngineOverride: liquid,md
+tags: lore
 eleventyNavigation:
   key: Superpowers
   parent: World

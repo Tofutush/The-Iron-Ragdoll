@@ -33,18 +33,10 @@ eleventyNavigation:
   <a href="moreland/">{% figure 'gallery/' 'moreland flag.svg' 200 'Moreland' %}</a>
   <a href="sylvandia/">{% figure 'gallery/' 'sylvandia flag.svg' 200 'Sylvandia' %}</a>
 </div>
-<h2>Stuff</h2>
-<div class="imgs">
-  <a href="history/">
-    {% figure 'bg/' 'history.png' 200 'History' 'Learn about history!' %}
-  </a>
-  <a href="superpowers/">
-    {% figure 'gallery/' 'power relations.svg' 200 'Superpowers' 'Learn about superpowers!' %}
-  </a>
-  <a href="creatures/">
-    {% figure 'gallery/' 'creatures.png' 200 'Creatures' 'Learn about creatures!' %}
-  </a>
-  <a href="calendar/">
-    {% figure 'bg/' 'calendar.png' 200 'Calendar' 'Calendar with holidays and birthdays!' %}
-  </a>
-</div>
+<h2>Lore files list</h2>
+<ul>
+  {% assign sortedLore = collections.lore | sort: "url" %}
+  {% for file in sortedLore %}
+    <li><a href="{{ file.url }}">{{ file.data.title }}</a>: {{ file.data.desc }}</li>
+  {% endfor %}
+</ul>
