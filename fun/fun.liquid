@@ -10,6 +10,7 @@ eleventyNavigation:
 <h1>Fun</h1>
 
 <ul>
-  <li><a href="mss-quiz/">MSS personality quiz</a></li>
-  <li><a href="scenarios/">Scenario generator</a></li>
+  {% for file in collections.fun %}
+    <li><a href="{{ file.url }}">{{ file.data.title }}</a></li>
+  {% endfor %}
 </ul>
