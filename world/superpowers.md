@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Superpowers
+desc: Superpowers, and how they interact with each other!
 templateEngineOverride: liquid,md
 tags: lore
 eleventyNavigation:

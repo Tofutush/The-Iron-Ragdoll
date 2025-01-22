@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: History
+desc: A brief history of the world.
 tags: lore
 eleventyNavigation:
   key: History
