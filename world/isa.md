@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: International Superpowers Association
+desc: The international organization for superpowers.
 tags: lore
 eleventyNavigation:
   key: International Superpowers Association
