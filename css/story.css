@@ -22,10 +22,6 @@
     content: '' !important;
 }
 
-.story>p:first-of-type {
-    opacity: .5;
-}
-
 .story>p:last-child {
     margin-bottom: 0;
 }
