@@ -571,6 +571,11 @@ hr {
   stroke: var(--text);
 }
 
+::selection {
+  background-color: var(--c);
+  color: var(--bg);
+}
+
 #oc-webring-widget {
   display: flex;
   flex-direction: column;
