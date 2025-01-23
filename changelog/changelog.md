@@ -12,6 +12,9 @@ eleventyNavigation:
 ## 2025-01-24
 
 - Added `sparky willow hug.png`.
+- Changed the selection color.
+- Made it show a random picture on the footer.
+  - It's generated at build time so the picture of each page would stay the same unless there is a update! Also there are only 2 pictures at the moment, but I'm going to draw more. Add that on top of my ~50 new icons.
 
 ## 2025-01-21
 
