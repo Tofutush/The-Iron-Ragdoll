@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "folder tree",
+    "justify",
+    "line height"
+  ],
+  "interfaceFontFamily": "din round pro,微软雅黑",
+  "textFontFamily": "JetBrains Mono,SundayComics BB,Bookerly,霞鹜文楷",
+  "cssTheme": "Mado Miniflow"
+}

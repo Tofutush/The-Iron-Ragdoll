@@ -1,0 +1,17 @@
+{
+  "areFoldersHidden": true,
+  "matchCaseInsensitive": true,
+  "addHiddenFoldersToObsidianIgnoreList": false,
+  "hideBottomStatusBarIndicatorText": true,
+  "enableCompatQuickExplorer": false,
+  "attachmentFolderNames": [
+    "startsWith::_",
+    "css",
+    "fun",
+    "gallery",
+    "img",
+    "js",
+    "node_modules",
+    "fonts"
+  ]
+}

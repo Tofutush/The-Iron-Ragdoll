@@ -7,6 +7,6 @@ eleventyNavigation:
   parent: Moreland
 ---
 
-# Morelandian Intelligency Agency
+# Morelandian Intelligence Agency
 
 The intelligence agency handling intelligence for [Moreland](/world/moreland/).

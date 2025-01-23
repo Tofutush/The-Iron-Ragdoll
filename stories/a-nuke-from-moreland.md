@@ -118,12 +118,12 @@ It was getting late, and it was raining, so Pumpkin drove Sky back home. But as 
 >
 > "You still gotta do it," Sky said. "No doubts I would do it," he added, though he knew that if he were really in the same situation he would also second-guess himself.
 >
-> "What if..." Pumpkin started. Sky was worried he might be more focused on coming up with the question than on the road. But he never finished.
+> "What if…" Pumpkin started. Sky was worried he might be more focused on coming up with the question than on the road. But he never finished.
 >
 > The journey was completed in silence.
 
 > [!note] A sentence I don't know where to put
-> Sky sat watching the raindrops race each other to the bottom of the window.
+> Sky sat watching the raindrops race each other to the bottom of the window. He lost the bet. His drop was going so fast, but it got stuck just a couple centimeters away from the bottom. He took his eyes off the side window.
 
 Guess what? Our dear Halcyon bugged the car.
 
@@ -131,7 +131,17 @@ That night, after Pumpkin dropped Sky off at his place, he drove the MSS car bac
 
 He never got home.
 
-In the same alleyway he rode through every single day, where he fed stray cats and said hello to people through their windows, Halcyon met him with a noose around his neck.
+In the same alleyway he rode through every single day, where he fed stray cats and said hello to people through their windows, Halcyon was waiting for him with a noose for his neck.
+
+Pumpkin was totally unprepared. But Lark was ready.
+
+He coaxed Pumpkin's soul out of him -- it was solid, surprisingly; and in the shape of a pumpkin, unsurprisingly. With the soul tucked into his pocket, Lark sent the empty body into the alley with a slight push.
+
+It was too dark for Halcyon to notice Pumpkin's empty eyes. He pounced on the body and strangled him with uncanny expertise. He then got into a rented car and dumped the corpse in a landfill.
+
+Lark followed him. The roles were reversed -- usually Halcyon would be the one tailing an agent like Lark.
+
+He made sure Halcyon was far away, and snuck into the landfill and put Pumpkin's soul back. He woke up, confused as snabbergatt, since in his view he had just been about to head into the alley.
 
 ## Gecko
 
@@ -140,3 +150,8 @@ Sparky drugged Peacock during lunch, tucked him into bed, took his phone, and he
 ## You reached the ramble zone
 
 This is where my thoughts aren't organized. Proceed with caution.
+
+- Lark's timeline? When did the MSS know about him? How does he plan to get the nuke, besides assisting the kids with their challenge?
+- how did lark know about halcyon killing pumpkin? why does he wanna help him, since pumpkin is useless to them now?
+	- maybe he thinks that by helping pumpkin live, he could still potentially work for them in the future
+	- does the mia even know about pumpkin, since hes halcyon's informant?
