@@ -148,7 +148,7 @@ Gecko arrived, looked around the place, and headed for Firecrackers, probably th
 
 ## Pumpkin's murder
 
-Halcyon had an entire night and day to plan. Pumpkin was collecting evidence. Evidence that should not ever see the light of day.
+Halcyon had an entire night and day to plan. Pumpkin was collecting evidence. Evidence that should not ever see the light of day, and Halcyon is there to make sure of that.
 
 ## You reached the ramble zone
 

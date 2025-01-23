@@ -8,7 +8,12 @@ eleventyNavigation:
 
 # Ministry of State Security / 紫荆国安部
 
+The main security apparatus of Bauhinia, handling both intelligence and counterintelligence. Every bit as bureaucratical as you'd imagine a Bauhinian government agency to be.
+
+## Members
+
 - [Goose](/characters/goose/)
 - [Pumpkin](/characters/pumpkin/)
 - [Halcyon](/characters/halcyon/)
 - [Paperweight](/characters/paperweight/)
+- [Sky](/characters/sky/) (later)

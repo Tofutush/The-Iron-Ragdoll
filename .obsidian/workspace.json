@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.0026054382324
+    "width": 255.00260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "9c4d8bf76cf7e2d8",
@@ -135,11 +136,12 @@
   },
   "active": "48423d0d2f97f11d",
   "lastOpenFiles": [
+    "world/bauhinia/mss.md",
+    "thumb.png",
+    "stories/a-nuke-from-moreland.md",
     "_site/img/gallery/4isAbSTCk--1000.webp",
     "_site/img/gallery/4isAbSTCk--120.webp",
     "world/bauhinia/coastline/abandoned-house.md",
-    "stories/a-nuke-from-moreland.md",
-    "world/bauhinia/mss.md",
     "world/moreland/mia.md",
     "world/isa.md",
     "world/overview.md",
