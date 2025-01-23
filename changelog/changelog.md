@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-24
+
+- Added `sparky willow hug.png`.
+
 ## 2025-01-21
 
 - Added country name pronunciations to their pages. They should be pretty intuitive, but just in case.

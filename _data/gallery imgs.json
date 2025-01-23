@@ -1749,5 +1749,16 @@
     "scope": "full-body",
     "style": "sketch",
     "date": "2025-01-22"
+  },
+  {
+    "name": "sparky willow hug",
+    "type": "png",
+    "ch": [
+      "sparky",
+      "willow"
+    ],
+    "scope": "full-body",
+    "style": "lineless",
+    "date": "2025-01-24"
   }
 ]
