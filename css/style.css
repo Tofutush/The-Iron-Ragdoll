@@ -342,7 +342,7 @@ body.dark #linx a:hover {
   color: var(--text);
 }
 
-#back-to-top svg, .footnote-backref svg {
+#back-to-top svg, .footnote-backref svg, .callout svg {
   vertical-align: baseline;
 }
 
