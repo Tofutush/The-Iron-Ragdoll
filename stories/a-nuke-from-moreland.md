@@ -28,7 +28,7 @@ I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you w
 
 The kids gained a little fame around the place as pet detectives after they recovered Qibli's cat, Sandstorm. So one of Qibli's neighbors came to her for help when their cat went missing.
 
-Firecrackers pointed out a [house](/world/bauhinia/coastline/abandoned-house/) nearby, abandoned during its construction stage and forever a pile of cement, and told his friends to look there.
+Firecrackers pointed out a house nearby, abandoned during its construction stage and forever a pile of cement, and told his friends to look there.
 
 They found no cat, but they did find a nuke.
 
@@ -88,7 +88,7 @@ She informed her friends, of course. Who could make it? Ah, Qibli wasn't coming.
 
 ## Pumpkin's confession
 
-Sky went to the MSS to tattle. Starlight cafe, tomorrow afternoon. This is great, keep it up. Would you like a lollipop? Have an ice cream.
+Sky went to the MSS to tattle. Starlight cafe, tomorrow afternoon. This is great, keep it up. Would you like a lollipop? Have an ice cream. Oh, can *you* go? We'd recommend against it.
 
 It was getting late, and it was raining, so Pumpkin drove Sky back home. But as a mole, Pumpkin's fragile string was snapping.
 
@@ -122,30 +122,33 @@ It was getting late, and it was raining, so Pumpkin drove Sky back home. But as 
 >
 > The journey was completed in silence.
 
-> [!note] A sentence I don't know where to put
+> [!note]+ A sentence I don't know where to put
 > Sky sat watching the raindrops race each other to the bottom of the window. He lost the bet. His drop was going so fast, but it got stuck just a couple centimeters away from the bottom. He took his eyes off the side window.
 
-Guess what? Our dear Halcyon bugged the car.
+After Pumpkin dropped Sky off at his place, he drove the MSS car back to the lot, and hopped on his bike to ride home.
 
-That night, after Pumpkin dropped Sky off at his place, he drove the MSS car back to the lot, and hopped on his bike to ride home.
+He didn't know our dear Halcyon bugged the car and overheard their entire conversation.
 
-He never got home.
-
-In the same alleyway he rode through every single day, where he fed stray cats and said hello to people through their windows, Halcyon was waiting for him with a noose for his neck.
-
-Pumpkin was totally unprepared. But Lark was ready.
-
-He coaxed Pumpkin's soul out of him -- it was solid, surprisingly; and in the shape of a pumpkin, unsurprisingly. With the soul tucked into his pocket, Lark sent the empty body into the alley with a slight push.
-
-It was too dark for Halcyon to notice Pumpkin's empty eyes. He pounced on the body and strangled him with uncanny expertise. He then got into a rented car and dumped the corpse in a landfill.
-
-Lark followed him. The roles were reversed -- usually Halcyon would be the one tailing an agent like Lark.
-
-He made sure Halcyon was far away, and snuck into the landfill and put Pumpkin's soul back. He woke up, confused as snabbergatt, since in his view he had just been about to head into the alley.
+> [!question]+ Why didn't Halcyon kill Pumpkin immediately, but waited a day?
+> Give dude some time, it was 22:00.
+>
+> He also knew Pumpkin wouldn't have that many guts either; he would spend a day or two tidying up evidence.
 
 ## Gecko
 
-Sparky drugged Peacock during lunch, tucked him into bed, took his phone, and headed over.
+The next day, Sparky drugged Peacock during lunch, tucked him into bed, took his phone, and headed over.
+
+She hailed a taxi, picked up Firecrackers from his parents' grocery store, and got to Starlight Cafe.
+
+Gecko and Peacock had a signal agreed: a male, with a briefcase placed by his feet and his jacket slung on the back of the seat. Sparky stole both of them from her home, and Firecrackers sat in the place Peacock was supposed to sit. Sparky sat where Gecko would've had her back to her.
+
+The MSS was there even before they arrived, sitting in corners.
+
+Gecko arrived, looked around the place, and headed for Firecrackers, probably thinking he was a bit too young for his voice. Before Sparky could walk towards her, before Gecko even sat down, the MSS plainclothes pounced on her and took her away. Sparky tried to stop them, but she was heavily outnumbered. Gecko was taken into custody by the MSS.
+
+## Pumpkin's murder
+
+Halcyon had an entire night and day to plan. Pumpkin was collecting evidence. Evidence that should not ever see the light of day.
 
 ## You reached the ramble zone
 
