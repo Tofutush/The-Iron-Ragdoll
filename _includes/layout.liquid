@@ -81,7 +81,8 @@ navOptions:
       </div>
     </div>
     <div id="footer-img">
-      {% image 'gallery/' 'sparky nightsun footer.png' 500 '' %}
+      {% assign footerimg = footerimgs | randomItem %}
+      {% image 'gallery/' footerimg 500 '' %}
     </div>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>

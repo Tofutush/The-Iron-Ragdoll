@@ -65,6 +65,9 @@ module.exports = function (eleventyConfig) {
 	);
 	// filters
 	eleventyConfig.addFilter('slug', slug);
+	eleventyConfig.addFilter('randomItem', function (arr) {
+		return arr[Math.floor(Math.random() * arr.length)];
+	});
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
 		return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
 	});
