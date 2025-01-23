@@ -70,21 +70,6 @@ Look into other people's deepest privacy. Listen in. What are they thinking abou
 
 That is, if your power is strong enough. Weak mind reading powers are extremely limited. For example, Cosmo can only tell whether people are lying -- though she's quite good at that.
 
-## Power relations / 能力间的关系
-
-Powers do not exist solely on their own. They affect, and are affected by, each other.
-
-{% figure 'gallery/' 'power relations.svg' 1000 'Power relations chart' 'How did you know I copied the five elements map?' 'max' %}
-
-The picture above shows which power can affect which. The outer loop indicates boosting, and the inner star indicates blocking. Which means:
-
-- Boosting: Timekeeping ==> mind-reading ==> hyperawareness ==> superstrength ==> invisibility ==> timekeeping.
-- Blocking: Superstrength ==> timekeeping ==> hyperawareness ==> invisibility ==> mind-reading ==> superstrength.
-
-Boosting will make the person being boosted stronger, and blocking will make the person being blocked weaker. The person *doing* the boosting and blocking does not get affected.
-
-It happens automatically when two people with different superpowers come in contact with each other. The effects depend on how close they are -- peaking when they directly touch each other -- and the respective strength of their powers. People cannot consiously feel anything when it happens, but if you're experienced you can tell from signs anyways.
-
 ## Special powers / 特殊
 
 These powers are extremely rare, and don't have the boosting and blocking effects that the other five have.
@@ -96,7 +81,7 @@ These powers are extremely rare, and don't have the boosting and blocking effect
 - Possessors: [Tundra](/characters/tundra/)
 - People with immortality are called immortals
 
-Get mutilated beyond recognition and still recover with an able body! Literally never die! Except...
+Get mutilated beyond recognition and still recover with an able body! Literally never die! Except…
 
 For each immortal there is *one* thing that can kill them. And you won't know what it is.
 
