@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b15f8fdc06001744",
+        "id": "f2f0115e28302427",
         "type": "tabs",
         "children": [
           {
-            "id": "48423d0d2f97f11d",
+            "id": "e4463bff2ba1cdfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "world/superpowers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "superpowers"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "roadtrip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,10 +92,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "world/superpowers.md"
+                "file": "world/bauhinia/coastline/cms.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of superpowers"
+              "title": "Outline of cms"
             }
           }
         ]
@@ -118,13 +113,37 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "48423d0d2f97f11d",
+  "active": "9246cbd193ae4c7c",
   "lastOpenFiles": [
+    "changelog/changelog.md",
+    "_site/img/bg/linklane.png",
+    "_site/img/bg/linkme.png",
+    "_site/img/bg/iwasoncohost.gif",
+    "_site/img/bg/hostedbyneocities.png",
+    "_site/img/bg/jadeevergreen.png",
+    "_site/img/bg/immjs.gif",
+    "_site/img/bg/homestuck.png",
+    "_site/img/bg/dptr.gif",
+    "_site/img/bg/hillslope-night.png",
+    "_site/img/bg/hillslope-day.png",
+    "_site/css/story.css",
+    "_site/css/style.css",
+    "_site/css/palette.css",
+    "_site/css/gallery.css",
+    "_site/css/filter.css",
+    "_site/css/contact.css",
+    "_site/css/comic.css",
+    "_site/css/characterspage.css",
+    "stories/cms-mysteries.md",
+    "stories/hillslope-mysteries.md",
+    "stories/goose-backstory.md",
+    "stories/elegance-kidnapped.md",
     "stories/a-nuke-from-moreland.md",
+    "_site/fonts/Lexend.ttf",
+    "_site/fonts/LXGWMarkerGothic-Regular.ttf",
+    "stories/paperweights-roadtrip.md",
+    "world/superpowers.md",
     "world/bauhinia/mss.md",
-    "thumb.png",
-    "_site/img/gallery/4isAbSTCk--1000.webp",
-    "_site/img/gallery/4isAbSTCk--120.webp",
     "world/bauhinia/coastline/abandoned-house.md",
     "world/moreland/mia.md",
     "world/isa.md",

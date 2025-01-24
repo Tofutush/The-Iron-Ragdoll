@@ -16,8 +16,9 @@ chs:
   - gecko
   - lark
 time: 2031
-location: "<a href=\"/world/bauhinia/coastline/\">Coastline</a>"
-summary: "The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke."
+location: <a href="/world/bauhinia/coastline/">Coastline</a>
+summary: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
+titlezh: 莫尔兰核弹
 ---
 
 I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you wanna read it. I think the questioning scene was pretty cool though. The main problem is that no one has any personality.
@@ -125,20 +126,25 @@ It was getting late, and it was raining, so Pumpkin drove Sky back home. But as 
 > [!note]+ A sentence I don't know where to put
 > Sky sat watching the raindrops race each other to the bottom of the window. He lost the bet. His drop was going so fast, but it got stuck just a couple centimeters away from the bottom. He took his eyes off the side window.
 
-After Pumpkin dropped Sky off at his place, he drove the MSS car back to the lot, and hopped on his bike to ride home.
-
 He didn't know our dear Halcyon bugged the car and overheard their entire conversation.
 
-> [!question]+ Why didn't Halcyon kill Pumpkin immediately, but waited a day?
-> Give dude some time, it was 22:00.
->
-> He also knew Pumpkin wouldn't have that many guts either; he would spend a day or two tidying up evidence.
+After Pumpkin dropped Sky off at his place, he drove the MSS car back to the lot, and hopped on his bike to ride home.
+
+He never got home.
+
+In the same alleyway he rode through every single day, where he fed stray cats and said hello to people through their windows, Halcyon was waiting for him with a noose for his neck.
+
+He strangled him, shoved him into the trunk of a car without a license plate, and drove the car into a landfill.
+
+> [!bug]+ Tofu that's a terrible murder; the police would find him in no time
+> I have no idea how to murder someone and leave no evidence in our modern world okay (even without the cameras everywhere I probably wouldn't have any idea either). If I *did* know then you should probably be worried.
+
+> [!note]+
+> Maybe there was no camera in or near the alley. Wouldn't that be convenient.
 
 ## Gecko
 
-The next day, Sparky drugged Peacock during lunch, tucked him into bed, took his phone, and headed over.
-
-She hailed a taxi, picked up Firecrackers from his parents' grocery store, and got to Starlight Cafe.
+The next day, Sparky bought some melatonin in the morning and drugged Peacock at lunch. She tucked him into bed, took his phone and briefcase, hailed a taxi, picked up Firecrackers from his parents' grocery store, and got to Starlight Cafe.
 
 Gecko and Peacock had a signal agreed: a male, with a briefcase placed by his feet and his jacket slung on the back of the seat. Sparky stole both of them from her home, and Firecrackers sat in the place Peacock was supposed to sit. Sparky sat where Gecko would've had her back to her.
 
@@ -146,15 +152,23 @@ The MSS was there even before they arrived, sitting in corners.
 
 Gecko arrived, looked around the place, and headed for Firecrackers, probably thinking he was a bit too young for his voice. Before Sparky could walk towards her, before Gecko even sat down, the MSS plainclothes pounced on her and took her away. Sparky tried to stop them, but she was heavily outnumbered. Gecko was taken into custody by the MSS.
 
-## Pumpkin's murder
+## The investigation of Pumpkin's disappearance
 
-Halcyon had an entire night and day to plan. Pumpkin was collecting evidence. Evidence that should not ever see the light of day, and Halcyon is there to make sure of that.
+The next morning, the police were knocking on Sky's door. He was the last person seen with Pumpkin, so they wanted some questions answered.
 
-## You reached the ramble zone
+Apparently, Pumpkin's boyfriend called the police after not having Pumpkin return home two nights ago, and not being able to find him for an entire day (the same day Sparky went to meet Gecko). The police saw Pumpkin sending Sky home, and saw the plate-less car, but couldn't trace its origins.
 
-This is where my thoughts aren't organized. Proceed with caution.
+At the police station, the MSS came to get Sky. They obtained an alibi from his parents that he did get home and stay there right after Pumpkin dropped him off. They asked him whether Pumpkin was acting weird during the ride. Sky was so nervous he couldn't think straight. He didn't tell them about the mole thing.
 
-- Lark's timeline? When did the MSS know about him? How does he plan to get the nuke, besides assisting the kids with their challenge?
-- how did lark know about halcyon killing pumpkin? why does he wanna help him, since pumpkin is useless to them now?
-	- maybe he thinks that by helping pumpkin live, he could still potentially work for them in the future
-	- does the mia even know about pumpkin, since hes halcyon's informant?
+### What should (probably) be going through a logical person's mind right now?
+
+For Sky, he should think that if something happened to Pumpkin right after him telling Sky about the mole, he must've been targeted *by* the mole to prevent him from tattling (which is exactly what Halcyon intended). And he must've bugged the car in order to overhear their conversation. So by this logic, the mole would be coming for *Sky* next. His task is to figure out *who* the mole is (the suspect pool only contains 3 people), and expose them with evidence. If he could not achieve that, he must run and hide. His friends chose the former route for him.
+
+For Goose and Paperweight, since they do not know about Pumpkin's confession, *and* they're not even sure Pumpkin is dead, they would start by collaborating with the police and approach the disappearance with your usual methods: interviewing his family, friends, and neighbors to figure out where he might have gone, or the worst case scenario in which he is dead.
+
+For Halcyon, his main task is to aid the investigation without drawing suspicion onto himself, which should be easy.
+
+## Related stories
+
+- [Paperweight's Roadtrip](/stories/paperweights-roadtrip)
+- [Pumpkin Back Home](/stories/pumpkin-back-home)

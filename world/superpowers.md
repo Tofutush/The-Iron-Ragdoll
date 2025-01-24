@@ -104,7 +104,7 @@ Magicians can choose to take their magic out of their body and into a vessel. Th
 
 For each superpower, be it common or special, there will be at most *one* person alive at the time who will bear the title of Arch-whatever-they-are.
 
-Arch-people are obviously the most powerful at whatever their superpower is, but here's the catch: you can't be born into it. You have to have *conciously* did something about your superpower that no one else had ever done.
+Arch-people are obviously the most powerful at whatever their superpower is, but here's the catch: you can't be born into it. You have to have *consciously* did something about your superpower that no one else had ever done.
 
 For example, [Qibli](/characters/qibli/) crowned herself as the Arch-Magician (not officially, since at that time, the [Bauhinian government](/world/bauhinia/) had already completely illegalized anything related to magic) after discovering how to not only put fragments of her magic in vessels (previously it was only possible to put the entire thing in), but also let *other people*, non-magicians use it, something that has always been considered impossible.
 
