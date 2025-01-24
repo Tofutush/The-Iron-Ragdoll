@@ -24,6 +24,6 @@ After serving two years in the navy, she got recruited into the MSS. Her assigne
 
 One by one these people left her. Pumpkin was murdered, Halcyon traded away, and Paperweight got sick and retired to die[^1]. She crafted her own legend by completing Paperweight's legacy.
 
-[^1]: [Paperweight Legacy Roadtrip](/stories/paperweight-legacy-roadtrip/)
+[^1]: [Paperweight's Roadtrip](/stories/paperweights-roadtrip/)
 
 She got an apprentice, [Sky](/characters/sky/) from [the Moreland nuke thing](/stories/a-nuke-from-moreland/), who then went on to create his own legend during the Fantoni invasion.

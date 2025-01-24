@@ -1,14 +1,14 @@
 ---
 layout: story.liquid
-title: Paperweight's Legacy Roadtrip
+title: Paperweight's Roadtrip
 canon: yes
 order: 201
 chs:
   - paperweight
   - goose
 time: "?"
-location: "<a href=\"/world/bauhinia/\">Bauhinia</a>"
-summary: "Paperweight retires. His apprentice Goose drives him to the Fantoni border. Paperweight opens his tightly-sealed box of memories. This is an unfinished case that Goose has to complete."
+location: <a href="/world/bauhinia/">Bauhinia</a>
+summary: Paperweight retires. His apprentice Goose drives him to the Fantoni border. Paperweight opens his tightly-sealed box of memories. This is an unfinished case that Goose has to complete.
 ---
 
 After the events in [The Nuke From Moreland](/stories/a-nuke-from-moreland/), Paperweight was diagnosed with chronic leukemia.

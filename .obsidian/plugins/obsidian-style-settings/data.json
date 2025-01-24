@@ -2,7 +2,7 @@
   "mado-miniflow@@theme-color": "theme-grayscale",
   "mado-miniflow@@toggle-tab-design": true,
   "mado-miniflow@@toggle-note-radius": false,
-  "mado-miniflow@@toggle-tab-height": true,
+  "mado-miniflow@@toggle-tab-height": false,
   "mado-miniflow@@toggle-titlebar-buttons": false,
   "mado-miniflow@@toggle-side-ribbons": true,
   "mado-miniflow@@toggle-sidebar-toggle-left": false,

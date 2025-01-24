@@ -11,6 +11,11 @@ eleventyNavigation:
 
 ## 2025-01-24
 
+- Edited some stories.
+- Edited some world pages.
+
+## 2025-01-23
+
 - Added `sparky willow hug.png`.
 - Changed the selection color.
 - Made it show a random picture on the footer.
@@ -21,7 +26,7 @@ eleventyNavigation:
 - Added country name pronunciations to their pages. They should be pretty intuitive, but just in case.
 - Changed "The Nuke from Moreland" into "*A* Nuke from Moreland," because I was mixing them all up and needed a standard name.
 - Added a footer image. Now I gotta draw a bunch more and randomly switch between them.
-  - Why do I always add drawing tasks to myself...
+  - Why do I always add drawing tasks to myself…
 
 ## 2025-01-20
 

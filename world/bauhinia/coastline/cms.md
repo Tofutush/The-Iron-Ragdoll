@@ -6,7 +6,7 @@ eleventyNavigation:
   parent: Coastline
 ---
 
-# Coastline Middle School
+# Coastline Middle School / 沿海十一中
 
 - [Sparky](/characters/sparky/)
 - [Qibli](/characters/qibli/)
