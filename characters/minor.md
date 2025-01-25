@@ -20,7 +20,7 @@ Characters that I have a name of but doesn't have a large role in the story. Or 
 
 ### Hyrax
 
-Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/animus/). Husband of Cherry. Friend of [Peacock](/characters/peacock/). Pretty much perceived as a legend in the Starcorp family.
+Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/animus/). Husband of Cherry. Friend of [Peacock](/characters/peacock/). Pretty much perceived as a legend in the Starcorp family. Owns a huge-ass island.
 
 ### Peach
 

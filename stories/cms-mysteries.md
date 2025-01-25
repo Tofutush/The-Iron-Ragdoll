@@ -15,4 +15,8 @@ summary: Sparky makes friends at school and struggles to catch up because she re
 titlezh: 沿海十一中扒手案
 ---
 
-Kleptomaniac at large. The kids get involved after one of Sky's many poker card decks went missing. Sparky gets it wrong.
+Sparky started attending [Coastline Middle School](/world/bauhinia/coastline/cms/). She met some good friends: [Qibli](/characters/qibli/), [Sky](/characters/sky/), [Firecrackers](/characters/firecrackers/), and [Myriad](/characters/myriad/).
+
+But recently there's been a huge number of cases of stolen stuff. Little stuff, like pens and rulers. Sparky and her friends just bought replacements and did not complain.
+
+However, the thief turned to more valuable stuff. After a pretty expensive deck of poker cards was stolen from Sky, the friends decided to investigate.
