@@ -1,12 +1,13 @@
 {
   "accentColor": "",
-  "baseFontSize": 24,
+  "baseFontSize": 20,
   "enabledCssSnippets": [
     "folder tree",
     "justify"
   ],
   "interfaceFontFamily": "din round pro,微软雅黑",
-  "textFontFamily": "Crimson Pro,Bookerly,SundayComics BB,JetBrains Mono,霞鹜文楷",
+  "textFontFamily": "DIN Round Pro,Crimson Pro,Bookerly,SundayComics BB,JetBrains Mono,霞鹜文楷",
   "cssTheme": "Mado Miniflow",
-  "theme": "system"
+  "theme": "system",
+  "monospaceFontFamily": "JetBrains Mono"
 }
