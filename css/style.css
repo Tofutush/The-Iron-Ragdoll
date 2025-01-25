@@ -319,8 +319,9 @@ body.dark #linx a:hover {
 }
 
 #footer-img img {
-  height: 300px;
-  width: auto;
+  height: auto;
+  max-width: 100%;
+  width: 300px;
 }
 
 #back-to-top {
@@ -342,7 +343,9 @@ body.dark #linx a:hover {
   color: var(--text);
 }
 
-#back-to-top svg, .footnote-backref svg, .callout svg {
+#back-to-top svg,
+.footnote-backref svg,
+.callout svg {
   vertical-align: baseline;
 }
 
