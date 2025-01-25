@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/elegance-kidnapped.md",
+                "file": "stories/a-nuke-from-moreland.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "elegance-kidnapped"
+              "title": "a-nuke-from-moreland"
             }
           }
         ]
@@ -97,10 +97,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stories/elegance-kidnapped.md"
+                "file": "stories/a-nuke-from-moreland.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of elegance-kidnapped"
+              "title": "Outline of a-nuke-from-moreland"
             }
           }
         ]
@@ -120,6 +120,7 @@
   },
   "active": "22e5fd695e5edf9d",
   "lastOpenFiles": [
+    "stories/elegance-kidnapped.md",
     "stories/cms-mysteries.md",
     "changelog/changelog.md",
     "characters/minor.md",
@@ -146,7 +147,6 @@
     "_site/css/characterspage.css",
     "stories/hillslope-mysteries.md",
     "stories/goose-backstory.md",
-    "stories/elegance-kidnapped.md",
     "stories/a-nuke-from-moreland.md",
     "_site/fonts/Lexend.ttf",
     "_site/fonts/LXGWMarkerGothic-Regular.ttf",

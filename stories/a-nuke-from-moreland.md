@@ -166,7 +166,23 @@ For Sky, he should think that if something happened to Pumpkin right after him t
 
 For Goose and Paperweight, since they do not know about Pumpkin's confession, *and* they're not even sure Pumpkin is dead, they would start by collaborating with the police and approach the disappearance with your usual methods: interviewing his family, friends, and neighbors to figure out where he might have gone, or the worst case scenario in which he is dead.
 
-For Halcyon, his main task is to aid the investigation without drawing suspicion onto himself, which should be easy.
+For Halcyon, his main task is to aid the investigation without drawing suspicion onto himself, which should be easy. Ideally, Pumpkin would never be found, and declared presumed dead, and the case would get shoved on the shelf with all the other unsolved mysteries.
+
+## Ramble zone
+
+So they go find Pumpkin's boyfriend, who doesn't even have a name or design or *anything*. Sorry, Pumpkin. Candlelight's a better boyfriend for ya.
+
+BF says Pumpkin hasn't come home that night, he wasn't that worried since he does work late sometimes, but the entire day he couldn't get in contact with him. the last message he received from pumpkin was "i wont be home for dinner tonight."
+
+why do pumpkin and his bf live together? idk gay behavior? they rented the apartment together. is that like too uncommon
+
+when asked about pumpkins work nature, he just said "he worked in the government"
+
+when do the kids meet lark?
+
+how do the kids figure out halcyon did it?
+
+sky told his friends about pumpkins car confession.
 
 ## Related stories
 
