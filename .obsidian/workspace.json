@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f0115e28302427",
+        "id": "856964b173828955",
         "type": "tabs",
         "children": [
           {
-            "id": "e4463bff2ba1cdfa",
+            "id": "22e5fd695e5edf9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "stories/elegance-kidnapped.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "elegance-kidnapped"
             }
           }
         ]
@@ -92,10 +97,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "world/bauhinia/coastline/cms.md"
+                "file": "stories/elegance-kidnapped.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of cms"
+              "title": "Outline of elegance-kidnapped"
             }
           }
         ]
@@ -113,9 +118,14 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "9246cbd193ae4c7c",
+  "active": "22e5fd695e5edf9d",
   "lastOpenFiles": [
+    "stories/cms-mysteries.md",
     "changelog/changelog.md",
+    "characters/minor.md",
+    "characters/characterinfo.md",
+    "characters/files/globalperms.md",
+    "characters/files/mssperms.md",
     "_site/img/bg/linklane.png",
     "_site/img/bg/linkme.png",
     "_site/img/bg/iwasoncohost.gif",
@@ -134,7 +144,6 @@
     "_site/css/contact.css",
     "_site/css/comic.css",
     "_site/css/characterspage.css",
-    "stories/cms-mysteries.md",
     "stories/hillslope-mysteries.md",
     "stories/goose-backstory.md",
     "stories/elegance-kidnapped.md",
