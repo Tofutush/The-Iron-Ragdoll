@@ -1760,5 +1760,15 @@
     "scope": "full-body",
     "style": "lineless",
     "date": "2025-01-24"
+  },
+  {
+    "name": "qibli birthday",
+    "type": "png",
+    "ch": [
+      "qibli"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-01-25"
   }
 ]
