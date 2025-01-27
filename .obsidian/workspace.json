@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/a-nuke-from-moreland.md",
+                "file": "about.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a-nuke-from-moreland"
+              "title": "about"
             }
           }
         ]
@@ -97,10 +97,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stories/a-nuke-from-moreland.md"
+                "file": "about.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of a-nuke-from-moreland"
+              "title": "Outline of about"
             }
           }
         ]
@@ -120,6 +120,7 @@
   },
   "active": "22e5fd695e5edf9d",
   "lastOpenFiles": [
+    "stories/a-nuke-from-moreland.md",
     "stories/elegance-kidnapped.md",
     "stories/cms-mysteries.md",
     "changelog/changelog.md",
@@ -147,7 +148,6 @@
     "_site/css/characterspage.css",
     "stories/hillslope-mysteries.md",
     "stories/goose-backstory.md",
-    "stories/a-nuke-from-moreland.md",
     "_site/fonts/Lexend.ttf",
     "_site/fonts/LXGWMarkerGothic-Regular.ttf",
     "stories/paperweights-roadtrip.md",
