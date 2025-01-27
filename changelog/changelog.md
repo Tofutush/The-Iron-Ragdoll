@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-27
+
+- Made some slight edits.
+- Created a stub [soul](/world/souls/) page.
+
 ## 2025-01-24
 
 - Edited some stories.
