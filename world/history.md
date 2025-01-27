@@ -28,7 +28,7 @@ The Industrial Revolution broke out in 1911[^2] when people found out how to use
 
 [^3]: They skipped steam right. I guess they did. Also I wonder why there's "steampunk" and "cyberpunk" but not some sort of "electricpunk"? Why'd you leave my baby out?
 
-Prodictivity surged. Capitalism was established as *the* economic model. The working class emerged. People began eyeing the Bauhinian emperor and talking about new forms of government.
+Productivity surged. Capitalism was established as *the* economic model. The working class emerged. People began eyeing the Bauhinian emperor and talking about new forms of government.
 
 ## Moreland's independence
 
@@ -36,15 +36,15 @@ The region that would become [Moreland](/world/moreland/) were the first to act.
 
 [^4]: Yknow. Like Sparta?
 
-How could the empire just stand and watch? In the same year, they sent troops to teach those snabbergatters a lesson. The young provisional government was under pressure from both the imperial army and its own citizens being unsatisfied because, well, they're being drafted and killed.
+How could the empire just stand and watch? In the same year, they sent troops to teach those snabbergatters a lesson. The young provisional government was under pressure from both the imperial army and its own citizens being unsatisfied because, well, they're being drafted and killed. (It was at this point the Atlasian independence movement began, too, though it escalated after the Guardian Moose Takeover.)
 
 That's when the Guardian Moose came in. A group of partisans, some former members of the provisional government's military, some ordinary people forced to take up arms against Bauhinia's soldiers, all of them brave fighters. In 1936, they took over the provisional government by force in an event later referred to as the Guardian Moose Takeover and seen as the peak of the Morelandian independence movement.
 
-Immediately after the Guardian Moose seized the government, they employed drastic reform measures, establishing a stratocracy. After two more years of gruelling war with Bauhinia, they finally drove them away and achieved complete independence of [The Republic of Moreland](/world/moreland/).
+Immediately after the Guardian Moose seized the government, they employed drastic reform measures, establishing a stratocracy. After two more years of grueling war with Bauhinia, they finally drove them away and achieved complete independence of [The Republic of Moreland](/world/moreland/).
 
 ## Atlasia's independence
 
-The creation of a truly independent Moreland pissed off more people than just the emperor. Some Moose themselves -- though they never identified themselves as "Moose" -- deemed the new military government illegal and undemocratic. Seeking a future of freedom and opportunity, they moved to the southeast of Moreland (around the middle-east part of the continent) where the Guardian Moose hasn't yet controlled. They declared independence of [The Republic of Atlasia](/world/atlasia/) in 1945.
+The creation of a truly independent Moreland pissed off more people than just the emperor. Some Moose themselves -- though they never identified themselves as "Moose" -- deemed the new military government (or junta, I guess?) illegal and undemocratic. Seeking a future of freedom and opportunity, they moved to the southeast of Moreland (around the middle-east part of the continent) where the Guardian Moose hasn't yet controlled. They declared independence of [The Republic of Atlasia](/world/atlasia/) in 1945.
 
 ## Bauhinia's Republican Revolution
 
@@ -52,7 +52,7 @@ Back home in Bauhinia, class conflict was getting high. Combined with resentment
 
 ### Fantoni's independence
 
-Amid the chaos, in 1943, an influential group of environmental preservationists announced independence of [The Republic of Fanton](/world/fanton/) over the territories of the Plateau and the Southern Basin, which got subsequently renamed to the Fantoni Plateau and the Fantoni Basin.
+Amid the chaos, in 1943, an influential group of environmental preservationists announced independence of [The Republic of Fanton](/world/fanton/) over the territories of the Plateau and the Southern Basin, which got subsequently renamed to the Fantoni Plateau and the Fantoni Basin. As such, environmental preservation is a founding ideal of Fanton's.
 
 ### The Republic of Bauhinia
 
@@ -64,7 +64,7 @@ In 1948, the struggles have finally come to an end. The republican government ha
 
 ## Sylvandia's independence
 
-Fuelled by the revolutionary fire sweeping through the entire continent, [Sylvandia](/world/sylvandia/) also had their own independence movements against the Bauhinian Empire. However, they were scattered, ununited, and weak. Easily crushed by imperial troops. Unable to make much of a difference.
+Fueled by the revolutionary fire sweeping through the entire continent, [Sylvandia](/world/sylvandia/) also had their own independence movements against the Bauhinian Empire. However, they were scattered, ununited, and weak. Easily crushed by imperial troops. Unable to make much of a difference.
 
 Enter the newly-created Moreland to the rescue. In 1939, after driving away their own Bauhinians, Moreland began giving all sorts of material and moral support to Sylvandian resistance groups. The catch? "Unity" was not a word in their glossary. Each resistance group held to some extent the belief that they, fighting in their specific area, would become an independent state; and Moreland played right into it.
 
@@ -84,7 +84,7 @@ The empire found enough scabs and slowly the strike died down. But the worker's 
 
 ## The Atlasian-Westavian War
 
-Being right next to each other, one in the west and one in the east, and backed by two opposing forces, [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/) the two new nations started fighting each other in 1947, just two years after they were formed. They fought over territorial disputes between themselves, but actually the war was more of a proxy war between Bauhinia and Moreland.
+Being right next to each other, one in the west and one in the east, and backed by two opposing forces ([Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/)), the two new nations started fighting each other in 1947, just two years after they were formed. They fought over territorial disputes between themselves, but actually the war was more of a proxy war between Bauhinia and Moreland.
 
 The war lasted for eight years, and ended when Bauhinia nuked Westavia. Surprise, mothersnabbergatter. We got nukes now. [Atlasia](/world/atlasia/) and [Westavia](/world/westavia/) drew permanent borders and signed a peace treaty. Moreland worked on their own nukes and pretty quickly made it, thanks to their spies. It was 1955[^5], and the cold war between the north and the south had started.
 

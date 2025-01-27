@@ -33,7 +33,7 @@ All of them are republics, but Sylvandia's a federation while others are all uni
 
 Yes I mapped the continent to eastern Asia because I'm terrible at geography. It's basically China, Mongolia, and Siberia.
 
-They're locked in an eternal cold war between [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/), splitting the continent into the north and the south, with [Atlasia](/world/atlasia/) being with [Bauhinia](/world/bauhinia/), and [Westavia](/world/westavia/) and [Sylvandia](/world/sylvandia/) with [Moreland](/world/moreland/). [Fanton](/world/fanton/) is unaligned though slightly finlandized by Bauhinia. During the course of the story, Bauhinia would launch an invasion of Fanton and while failing to annex them, would make Fanton officially on Bauhinia's side.
+They're locked in an perpetual cold war between [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/), splitting the continent into the north and the south, with [Atlasia](/world/atlasia/) being with [Bauhinia](/world/bauhinia/), and [Westavia](/world/westavia/) and [Sylvandia](/world/sylvandia/) with [Moreland](/world/moreland/). [Fanton](/world/fanton/) is unaligned though slightly finlandized by Bauhinia. During the course of the story, Bauhinia would launch an invasion of Fanton and while failing to annex them, would make Fanton officially on Bauhinia's side.
 
 Do the countries have any ideological difference? Maybe they look like they do. Maybe they once actually did. In the end they're just the same.
 
