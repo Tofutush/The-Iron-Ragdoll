@@ -6,7 +6,7 @@ eleventyNavigation:
   parent: Bauhinia
 ---
 
-# Flower City
+# Flower City / 花城
 
 Capital of [Bauhinia](/world/bauhinia/), near the geographical center of the country.
 

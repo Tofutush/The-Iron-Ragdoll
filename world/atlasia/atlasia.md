@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Atlasia
   parent: World
   order: 3
+desc: What if Ayn Rand made a country?
 ---
 
 # The Republic of Atlasia / 亚特莱西亚共和国

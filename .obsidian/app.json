@@ -12,5 +12,6 @@
     "_data/",
     "_includes/",
     "_site/"
-  ]
+  ],
+  "promptDelete": false
 }

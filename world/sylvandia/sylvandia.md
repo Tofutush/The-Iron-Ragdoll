@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Sylvandia
   parent: World
   order: 6
+desc: What if no one made a country and you're all just smooshed together?
 ---
 
 # The Sylvandian Federation / 希尔万迪亚合众国

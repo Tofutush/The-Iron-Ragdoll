@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Moreland
   parent: World
   order: 5
+desc: What if introverts made a country?
 ---
 
 # The Republic of Moreland / 莫尔兰共和国

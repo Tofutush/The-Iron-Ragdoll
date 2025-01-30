@@ -6,7 +6,7 @@ eleventyNavigation:
   parent: Flower City
 ---
 
-# University of Flower City
+# University of Flower City / 花大
 
 Where [Fantasy](/characters/fantasy/) is attending.
 

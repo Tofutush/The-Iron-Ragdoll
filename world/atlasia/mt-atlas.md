@@ -9,7 +9,7 @@ eleventyNavigation:
   parent: Atlasia
 ---
 
-# Mount Atlas
+# Mount Atlas / 亚特拉斯山
 
 The tallest mountain on the continent, in [Atlasia](/world/atlasia/), near the border with [Moreland](/world/moreland/).
 

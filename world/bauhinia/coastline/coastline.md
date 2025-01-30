@@ -6,7 +6,7 @@ eleventyNavigation:
   parent: Bauhinia
 ---
 
-# Coastline
+# Coastline / 沿海城
 
 Where most of the story takes place! A large city on the southern coast of [Bauhinia](/world/bauhinia/), where [Starcorp](../starcorp/)'s headquarters is located.
 

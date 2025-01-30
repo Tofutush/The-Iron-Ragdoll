@@ -6,7 +6,7 @@ eleventyNavigation:
   parent: Bauhinia
 ---
 
-# Ministry of State Security / 紫荆国安部
+# Ministry of State Security / 紫荆国家安全部
 
 The main security apparatus of Bauhinia, handling both intelligence and counterintelligence. Every bit as bureaucratical as you'd imagine a Bauhinian government agency to be.
 

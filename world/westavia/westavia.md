@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Westavia
   parent: World
   order: 4
+desc: What if alcoholics made a country?
 ---
 
 # The Republic of Westavia / 伟思德维亚共和国

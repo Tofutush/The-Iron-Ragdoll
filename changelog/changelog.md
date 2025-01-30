@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-30
+
+- World edits.
+
 ## 2025-01-27
 
 - Made some slight edits.
