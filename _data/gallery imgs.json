@@ -1741,7 +1741,8 @@
     ],
     "scope": "full-body",
     "style": "lineless",
-    "date": "2025-01-21"
+    "date": "2025-01-21",
+    "kind": "footer"
   },
   {
     "name": "tadlet cycle",
@@ -1759,7 +1760,8 @@
     ],
     "scope": "full-body",
     "style": "lineless",
-    "date": "2025-01-24"
+    "date": "2025-01-24",
+    "kind": "footer"
   },
   {
     "name": "qibli birthday",
@@ -1770,5 +1772,16 @@
     "scope": "full-body",
     "style": "normal",
     "date": "2025-01-25"
+  },
+  {
+    "name": "willow ref",
+    "type": "png",
+    "ch": [
+      "willow"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-01-30",
+    "kind": "ref"
   }
 ]
