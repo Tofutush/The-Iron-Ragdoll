@@ -45,7 +45,7 @@ Bauhinia is a ministerial republic with an avid love for bureaucracy. The govern
 ### Ministries
 
 - [Ministry of State Security](/world/bauhinia/mss/)
-- Ministry of Health, responsible for [superpowers testing](/world/bauhinia/superpowers/).
+- Ministry of Health, responsible for [superpowers testing](/world/bauhinia/superpowers/)
 
 ## Economy
 

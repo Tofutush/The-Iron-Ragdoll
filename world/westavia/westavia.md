@@ -32,6 +32,14 @@ Except for the capital, all cities and regions in Westavia are called "Area (num
 - [Area 29](/world/westavia/area-29/)
   - [Nameless Village](/world/westavia/nameless-village/)
 
+## Government
+
+Westavia is a socialist country.
+
+## Agencies
+
+- [Suicide Prevention Force](/world/westavia/spf/), the state security apparatus
+
 ## Society
 
 Westavians love making wine because they have way too many grapes. And raisins too[^1].
