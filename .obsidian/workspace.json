@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "734ee4eb6c8972b8",
+        "id": "d49b96cf627eb79d",
         "type": "tabs",
         "children": [
           {
-            "id": "e44e01dbbf28b2ce",
+            "id": "54d932ae8bcf9237",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -111,14 +111,15 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "e44e01dbbf28b2ce",
+  "active": "54d932ae8bcf9237",
   "lastOpenFiles": [
+    "world/bauhinia/bauhinia.md",
+    "world/westavia/westavia.md",
+    "world/westavia/spf.md",
     "changelog/changelog.md",
     "world/isa.md",
     "world/history.md",
     "world/creatures.md",
-    "world/westavia/westavia.md",
-    "world/westavia/suicide-prevention-force.md",
     "world/westavia/nameless-village.md",
     "world/westavia/area-29.md",
     "world/sylvandia/sylvandia.md",
@@ -138,7 +139,6 @@
     "world/bauhinia/superpowers.md",
     "world/bauhinia/starcorp.md",
     "world/bauhinia/project-boomerang.md",
-    "world/bauhinia/mss.md",
     "_site/img/bg/linklane.png",
     "_site/img/bg/linkme.png",
     "_site/img/bg/iwasoncohost.gif",
