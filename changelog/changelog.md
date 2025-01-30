@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2025-01-30
 
 - World edits.
+- Added `willow ref.png`.
 
 ## 2025-01-27
 
