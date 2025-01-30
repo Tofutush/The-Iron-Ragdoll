@@ -6,6 +6,7 @@ eleventyNavigation:
   key: Fanton
   parent: World
   order: 2
+desc: What if PETA made a country?
 ---
 
 # The Republic of Fanton / 范顿共和国

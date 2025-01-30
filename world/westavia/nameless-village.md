@@ -6,7 +6,7 @@ eleventyNavigation:
   parent: Westavia
 ---
 
-# Nameless Village
+# Nameless Village / 无名村
 
 A little village in the countryside of [Westavia](/world/westavia/).
 

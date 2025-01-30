@@ -6,7 +6,7 @@ eleventyNavigation:
   parent: Coastline
 ---
 
-# The Safe House
+# The Safe House / 藏身所
 
 Located in an old apartment complex the village-in-a-city of [Coastline](/world/bauhinia/coastline/), it used to be a drug-storage for [Starcorp](/world/bauhinia/starcorp/).
 
