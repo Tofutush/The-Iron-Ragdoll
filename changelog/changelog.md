@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-01-31
+
+- Added [Area 1](/world/westavia/area-1/).
+- Edited [SPF](/world/westavia/spf/).
+- Edited [Westavia](/world/westavia/).
+
 ## 2025-01-30
 
 - World edits.

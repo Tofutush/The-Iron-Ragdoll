@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d49b96cf627eb79d",
+        "id": "e3bdbae8234bb634",
         "type": "tabs",
         "children": [
           {
-            "id": "54d932ae8bcf9237",
+            "id": "6be67118b054c0d3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -91,7 +92,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "Outline"
             }
@@ -111,17 +116,22 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "54d932ae8bcf9237",
+  "active": "6be67118b054c0d3",
   "lastOpenFiles": [
-    "world/bauhinia/bauhinia.md",
+    "_site/world/westavia/spf/index.html",
+    "_site/world/westavia/area-1/index.html",
+    "_site/world/westavia/spf",
+    "_site/world/westavia/area-1",
     "world/westavia/westavia.md",
+    "world/westavia/nameless-village.md",
+    "world/westavia/area-1.md",
+    "world/westavia/area-29.md",
     "world/westavia/spf.md",
+    "world/bauhinia/bauhinia.md",
     "changelog/changelog.md",
     "world/isa.md",
     "world/history.md",
     "world/creatures.md",
-    "world/westavia/nameless-village.md",
-    "world/westavia/area-29.md",
     "world/sylvandia/sylvandia.md",
     "world/sylvandia/solarine.md",
     "world/sylvandia/snowdale.md",
@@ -137,8 +147,6 @@
     "world/fanton/fantoni-basin.md",
     "world/fanton/fanton.md",
     "world/bauhinia/superpowers.md",
-    "world/bauhinia/starcorp.md",
-    "world/bauhinia/project-boomerang.md",
     "_site/img/bg/linklane.png",
     "_site/img/bg/linkme.png",
     "_site/img/bg/iwasoncohost.gif",
@@ -155,9 +163,6 @@
     "_site/css/gallery.css",
     "_site/css/filter.css",
     "_site/css/contact.css",
-    "_site/css/comic.css",
-    "_site/css/characterspage.css",
-    "_site/fonts/Lexend.ttf",
-    "_site/fonts/LXGWMarkerGothic-Regular.ttf"
+    "_site/css/comic.css"
   ]
 }
