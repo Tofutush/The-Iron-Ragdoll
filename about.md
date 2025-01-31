@@ -8,8 +8,6 @@ eleventyNavigation:
   order: 2
 ---
 
-<link rel="stylesheet" href="https://webcomicring.org/js/comicring.css">
-
 # About
 
 ## About the comic

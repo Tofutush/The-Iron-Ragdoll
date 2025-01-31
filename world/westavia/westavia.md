@@ -29,6 +29,7 @@ The closest geographical mirror to Westavia is Xinjiang and Central Asia.
 
 Except for the capital, all cities and regions in Westavia are called "Area (number)."
 
+- [Area 1](/world/westavia/area-1/)
 - [Area 29](/world/westavia/area-29/)
   - [Nameless Village](/world/westavia/nameless-village/)
 
@@ -36,7 +37,7 @@ Except for the capital, all cities and regions in Westavia are called "Area (num
 
 Westavia is a socialist country.
 
-## Agencies
+### Agencies
 
 - [Suicide Prevention Force](/world/westavia/spf/), the state security apparatus
 
