@@ -1783,5 +1783,15 @@
     "style": "normal",
     "date": "2025-01-30",
     "kind": "ref"
+  },
+  {
+    "name": "goosebumps",
+    "type": "png",
+    "ch": [
+      "goose"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-01-31"
   }
 ]

@@ -14,6 +14,7 @@ eleventyNavigation:
 - Added [Area 1](/world/westavia/area-1/).
 - Edited [SPF](/world/westavia/spf/).
 - Edited [Westavia](/world/westavia/).
+- Added `goosebumps.png`.
 
 ## 2025-01-30
 
