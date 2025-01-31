@@ -5,9 +5,12 @@
 }
 
 .callout-title {
+  display: flex;
+  gap: .5em;
   background-color: var(--c);
   padding: 1em;
   color: var(--bg);
+  align-items: center;
   user-select: none;
 }
 
