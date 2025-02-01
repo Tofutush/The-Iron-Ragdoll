@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "candlelight-back-home"
             }
-          },
-          {
-            "id": "07d117e258f5e670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "changelog/changelog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "changelog"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "changelog/changelog.md",
+                "file": "stories/candlelight-back-home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of changelog"
+              "title": "Outline of candlelight-back-home"
             }
           }
         ]
@@ -136,8 +121,9 @@
       "hide-folders:Show hidden folders": false
     }
   },
-  "active": "07d117e258f5e670",
+  "active": "42c5c0f6601249ee",
   "lastOpenFiles": [
+    "changelog/changelog.md",
     "stories/candlelight-back-home.md",
     "world/westavia/area-29.md",
     "world/westavia/area-1.md",
@@ -157,7 +143,6 @@
     "world/westavia/westavia.md",
     "world/westavia/nameless-village.md",
     "world/bauhinia/bauhinia.md",
-    "changelog/changelog.md",
     "world/isa.md",
     "world/history.md",
     "world/creatures.md",
