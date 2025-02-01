@@ -17,4 +17,4 @@ Ever since its creation, the SPF has seen a gradual younger ageing of their targ
 
 ## Members
 
-- [Candlelight](/world/characters/candlelight/)
+- [Candlelight](/characters/candlelight/)

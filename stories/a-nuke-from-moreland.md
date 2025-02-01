@@ -186,5 +186,5 @@ sky told his friends about pumpkins car confession.
 
 ## Related stories
 
-- [Paperweight's Roadtrip](/stories/paperweights-roadtrip)
-- [Pumpkin Back Home](/stories/pumpkin-back-home)
+- [Paperweight's Roadtrip](/stories/paperweights-roadtrip/)
+- [Candlelight Back Home](/stories/candlelight-back-home/)

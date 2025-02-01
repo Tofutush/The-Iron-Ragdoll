@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-01
+
+- Happy birthday to me!
+- Renamed *Pumpkin Back Home* to [*Candlelight Back Home*](/stories/candlelight-back-home/), and rewrote the story to be in his perspective.
+
 ## 2025-01-31
 
 - Added [Area 1](/world/westavia/area-1/).

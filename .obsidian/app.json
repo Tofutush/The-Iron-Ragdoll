@@ -13,5 +13,6 @@
     "_includes/",
     "_site/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": false
 }
