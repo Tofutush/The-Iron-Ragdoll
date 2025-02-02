@@ -15,7 +15,8 @@
               "state": {
                 "file": "stories/candlelight-back-home.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "candlelight-back-home"
@@ -123,8 +124,11 @@
   },
   "active": "42c5c0f6601249ee",
   "lastOpenFiles": [
-    "changelog/changelog.md",
+    "_site/stories/candlelight-back-home/index.html",
+    "_site/stories/candlelight-back-home",
+    "world/westavia/area-1 1.md",
     "stories/candlelight-back-home.md",
+    "changelog/changelog.md",
     "world/westavia/area-29.md",
     "world/westavia/area-1.md",
     "world/westavia/spf.md",
@@ -157,8 +161,6 @@
     "world/fanton/lotus-lake-city/lotus-lake/lotus-lake-temple.md",
     "world/fanton/lotus-lake-city/lotus-lake/lotus-lake.md",
     "world/fanton/lotus-lake-city/lotus-lake-city.md",
-    "world/fanton/fantoni-plateau.md",
-    "world/fanton/fantoni-basin.md",
     "_site/img/bg/linklane.png",
     "_site/img/bg/linkme.png",
     "_site/img/bg/iwasoncohost.gif",
@@ -167,7 +169,6 @@
     "_site/css/story.css",
     "_site/css/style.css",
     "_site/css/palette.css",
-    "_site/css/gallery.css",
-    "_site/css/filter.css"
+    "_site/css/gallery.css"
   ]
 }
