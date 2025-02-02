@@ -575,6 +575,11 @@ hr {
 }
 
 ::selection {
+  background-color: var(--text);
+  color: var(--bg);
+}
+
+a::selection {
   background-color: var(--c);
   color: var(--bg);
 }
