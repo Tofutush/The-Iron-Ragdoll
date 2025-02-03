@@ -1793,5 +1793,15 @@
     "scope": "half-body",
     "style": "normal",
     "date": "2025-01-31"
+  },
+  {
+    "name": "nightsun profile",
+    "type": "png",
+    "ch": [
+      "nightsun"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-02-03"
   }
 ]
