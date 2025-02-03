@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-03
+
+- Added `nightsun profile.png`.
+
 ## 2025-02-01
 
 - Happy birthday to me!
