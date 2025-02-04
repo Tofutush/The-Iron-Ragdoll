@@ -21,7 +21,7 @@ Everyone is born with a perfectly spherical gas soul. The soul changes shape and
 
 A soul can be removed from a person. Soul removal is a skill that can be learned and adopted by anyone, but it originated in [Sylvandia](/world/sylvandia/).
 
-Through a variety of techniques not limited to classic Sylvandian soul removal (torture is a common example), your soul can come out of your mouth -- commonly known as "barfing out[^1]."
+Through a variety of techniques not limited to classic Sylvandian soul removal (torture is a common example), your soul can come out of your mouth -- commonly known as "barfing out[^1]." Most books on this topic are banned in [Bauhinia](/world/bauhinia/).
 
 [^1]: Because I have crude humor.
 
@@ -36,3 +36,9 @@ If there already *is* a soul (or souls) inside you, the new soul has to merge in
 Compatibility is determined by various factors, like values, life experiences, and what the owners of the respective souls think of each other, but the most important one is its form. Shape is not a factor.
 
 Typically, gas souls are the most compatible with other forms, while solid the least. It would be extremely hard to merge two solid souls together, but other factors, like the owners of the souls being really good friends with each other, may increase compatibility.
+
+## Related files
+
+- [Goose](/characters/goose/), an MSS officer who could extract souls through torture
+- [Moonbeam](/characters/moonbeam/), a Sylvandian psychic specializing in classic soul extraction
+- [Cobalt](/characters/cobalt/), a [Fantoni](/world/fanton/) outlaw who learned soul extraction from Moonbeam

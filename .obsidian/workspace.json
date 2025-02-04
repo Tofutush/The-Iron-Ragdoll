@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3bdbae8234bb634",
+        "id": "24c43dc5f985bc1d",
         "type": "tabs",
         "children": [
           {
-            "id": "42c5c0f6601249ee",
+            "id": "51adecc8c11635d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stories/candlelight-back-home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "candlelight-back-home"
+              "title": "New tab"
             }
           }
         ]
@@ -54,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roadtrip",
+                "query": "[\"order\":107",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,13 +93,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stories/candlelight-back-home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of candlelight-back-home"
+              "title": "Outline"
             }
           }
         ]
@@ -119,56 +113,56 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "callout-manager:Insert Callout": false,
-      "hide-folders:Show hidden folders": false
+      "hide-folders:Show hidden folders": false,
+      "templates:Insert template": false
     }
   },
-  "active": "42c5c0f6601249ee",
+  "active": "9246cbd193ae4c7c",
   "lastOpenFiles": [
+    "changelog/changelog.md",
+    "stories/a-nuke-from-moreland.md",
+    "stories/new-year-2032.md",
+    "_site/stories/new-year-2032/index.html",
+    "_site/stories/new-year-2032",
+    "stories/elegance-kidnapped.md",
+    "stories/the-yacht-trip.md",
+    "stories/pearls-journey-home.md",
+    "world/superpowers.md",
+    "world/atlasia/atlasia.md",
+    "_obsidian templates/image.md",
+    "_site/_obsidian templates/image/index.html",
+    "_site/_obsidian templates/image",
+    "_site/image/index.html",
+    "_site/image",
+    "_obsidian templates/figure.md",
+    "_site/_obsidian templates/figure/index.html",
+    "_site/_obsidian templates/figure",
+    "_site/_obsidian templates",
+    "_site/figure/index.html",
+    "world/souls.md",
+    "_site/img/gallery/zUQlp51_rO-399.webp",
+    "_site/img/gallery/zUQlp51_rO-120.webp",
+    "world/overview.md",
+    "world/isa.md",
+    "stories/hillslope-mysteries.md",
+    "stories/goose-backstory.md",
+    "stories/cms-mysteries.md",
+    "stories/candlelight-back-home.md",
+    "characters/minor.md",
     "img/gallery/elegance hugging muffin.png",
     "_site/img/gallery/p-5settivW-120.webp",
     "_site/img/gallery/p-5settivW-500.webp",
     "_site/img/gallery/p-5settivW-200.webp",
     "img/gallery/nightsun profile.png",
-    "_site/stories/candlelight-back-home/index.html",
-    "_site/stories/candlelight-back-home",
     "world/westavia/area-1 1.md",
-    "stories/candlelight-back-home.md",
-    "changelog/changelog.md",
     "world/westavia/area-29.md",
     "world/westavia/area-1.md",
     "world/westavia/spf.md",
-    "Untitled.md",
-    "stories/a-nuke-from-moreland.md",
     "_site/img/gallery/zDiaeOvsHj-1000.webp",
     "_site/img/gallery/zDiaeOvsHj-120.webp",
     "_site/img/gallery/2OUX0lNe9C-1000.webp",
-    "_site/img/gallery/2OUX0lNe9C-120.webp",
-    "img/gallery/willow ref_0",
-    "img/gallery/goosebumps.png",
-    "_site/world/westavia/spf/index.html",
-    "_site/world/westavia/area-1/index.html",
-    "_site/world/westavia/spf",
-    "_site/world/westavia/area-1",
     "world/westavia/westavia.md",
     "world/westavia/nameless-village.md",
-    "world/bauhinia/bauhinia.md",
-    "world/isa.md",
-    "world/history.md",
-    "world/creatures.md",
-    "world/sylvandia/sylvandia.md",
-    "world/sylvandia/solarine.md",
-    "world/sylvandia/snowdale.md",
-    "world/sylvandia/mistle.md",
-    "world/sylvandia/lunarale.md",
-    "world/sylvandia/holliloli.md",
-    "world/moreland/mia.md",
-    "world/moreland/moreland.md",
-    "world/fanton/lotus-lake-city/lotus-lake/lotus-lake-temple.md",
-    "world/fanton/lotus-lake-city/lotus-lake/lotus-lake.md",
-    "world/fanton/lotus-lake-city/lotus-lake-city.md",
-    "_site/img/bg/linklane.png",
-    "_site/css/story.css",
-    "_site/css/style.css",
-    "_site/css/palette.css"
+    "world/bauhinia/bauhinia.md"
   ]
 }

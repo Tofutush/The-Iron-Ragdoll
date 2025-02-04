@@ -2,7 +2,7 @@
 layout: story.liquid
 title: The Yacht Trip
 canon: yes
-order: 105
+order: 106
 chs:
   - sparky
   - peacock
@@ -14,8 +14,8 @@ chs:
   - elegance
   - animus
 time: "?"
-location: "<a href=\"/world/bauhinia/coastline/\">Coastline</a>"
-summary: "The two families go on a vacation."
+location: <a href="/world/bauhinia/coastline/">Coastline</a>
+summary: The two families go on a vacation.
 ---
 
 Peacock's family and Hyrax's family go on Hyrax's fancy private yacht to sail to Hyrax's fancy private and insanely big island. Stuff happen.
