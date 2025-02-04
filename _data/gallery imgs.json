@@ -1897,5 +1897,38 @@
     "scope": "comic",
     "style": "normal",
     "date": "2025-02-04"
+  },
+  {
+    "name": "willow profile",
+    "type": "png",
+    "ch": [
+      "willow"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "kind": "thumb new",
+    "date": "2025-02-04"
+  },
+  {
+    "name": "jerboa idlegame idle",
+    "type": "png",
+    "ch": [
+      "jerboa"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "kind": "idlegame",
+    "date": "2025-02-04"
+  },
+  {
+    "name": "jerboa idlegame dig",
+    "type": "png",
+    "ch": [
+      "jerboa"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "kind": "idlegame",
+    "date": "2025-02-04"
   }
 ]
