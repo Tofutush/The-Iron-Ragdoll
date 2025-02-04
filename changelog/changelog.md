@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ## 2025-02-04
 
-- Added `bramble happy family.png`, `bramble happy family zh.png`.
+- Added `bramble happy family.png`, `bramble happy family zh.png`, `jerboa idlegame idle.png`, `jerboa idlegame dig.png`, `willow profile.png`.
 - Added new story [New Year 2032](/stories/new-year-2032/).
 - Updated [Souls](/world/souls/) a little.
 
