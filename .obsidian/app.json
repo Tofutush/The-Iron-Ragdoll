@@ -1,17 +1,14 @@
 {
   "useMarkdownLinks": true,
   "userIgnoreFilters": [
-    "css/",
-    "fonts/",
-    "fun/",
-    "gallery/",
-    "img/",
-    "js/",
-    "node_modules/",
-    "_archive/",
-    "_data/",
-    "_includes/",
-    "_site/"
+    "/(^_)|(/_)/",
+    "/[cC][sS][sS]/",
+    "/[fF][uU][nN]/",
+    "/[gG][aA][lL][lL][eE][rR][yY]/",
+    "/[iI][mM][gG]/",
+    "/[jJ][sS]/",
+    "/[nN][oO][dD][eE]_[mM][oO][dD][uU][lL][eE][sS]/",
+    "/[fF][oO][nN][tT][sS]/"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": false

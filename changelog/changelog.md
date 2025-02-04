@@ -9,6 +9,11 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-04
+
+- Added new story [New Year 2032](/stories/new-year-2032/).
+- Updated [Souls](/world/souls/) a little.
+
 ## 2025-02-03
 
 - Added `nightsun profile.png`.
