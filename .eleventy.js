@@ -12,6 +12,7 @@ const { minify } = require('html-minifier-terser');
 const { existsSync } = require("fs");
 const pinyin = require('chinese-to-pinyin');
 const { iconSVGString, eleventyLucideIconsPlugin } = require('./lucideicons.js');
+const imageSize = require('image-size');
 
 module.exports = function (eleventyConfig) {
 	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-').replace(/\'+/g, '');
@@ -155,9 +156,11 @@ module.exports = function (eleventyConfig) {
 	});
 	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className, fallback) {
 		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : (existsSync('img/' + path + fallback) ? 'img/' + path + fallback : "img/bg/placeholder.png");
+		let dimensions = imageSize(src);
+		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
 		let metadata = await Image(src, {
 			widths: [size],
-			formats: ['webp'],
+			formats: [format],
 			urlPath: '/img/' + path,
 			outputDir: './_site/img/' + path
 		});
