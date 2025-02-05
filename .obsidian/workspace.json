@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24c43dc5f985bc1d",
+        "id": "4a5b4b05a92de985",
         "type": "tabs",
         "children": [
           {
-            "id": "51adecc8c11635d8",
+            "id": "79c9ba805ec57d50",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"order\":107",
+                "query": "village-in",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,19 +93,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "changelog/changelog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of changelog"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 238,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -119,6 +121,8 @@
   },
   "active": "9246cbd193ae4c7c",
   "lastOpenFiles": [
+    "nav.md",
+    "stories/new-year-2032.md",
     "_site/img/gallery/lE3UCX97mx-500.webp",
     "_site/img/gallery/lE3UCX97mx-120.webp",
     "_site/img/gallery/ANzBAQDC6p-302.webp",
@@ -134,7 +138,6 @@
     "img/gallery/willow profile.png",
     "changelog/changelog.md",
     "stories/a-nuke-from-moreland.md",
-    "stories/new-year-2032.md",
     "_site/stories/new-year-2032/index.html",
     "_site/stories/new-year-2032",
     "stories/elegance-kidnapped.md",
@@ -150,7 +153,6 @@
     "_obsidian templates/figure.md",
     "_site/_obsidian templates/figure/index.html",
     "world/souls.md",
-    "_site/img/gallery/zUQlp51_rO-399.webp",
     "world/overview.md",
     "world/isa.md",
     "stories/hillslope-mysteries.md",

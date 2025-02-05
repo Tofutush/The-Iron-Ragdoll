@@ -52,7 +52,8 @@ Also: This site uses Javascript for theme switching, section expanding, gallery 
 
 ## Outgoing
 
-- [Havoc 101](https://tofutush.github.io/havoc101), another cannot-complete-in-my-life project related to TIR
+- [{% lucide 'pickaxe' %} Idle Forced Labor Camp](https://tofutush.github.io/idlegame), a cursed game about running a forced labor camp.
+- [{% lucide 'school' %}Havoc 101](https://tofutush.github.io/havoc101), another cannot-complete-in-my-life project related to TIR
 - TIR comic mirrors (ranked by my personal bias)
   - [{% lucide 'box' %} MSPFA](https://mspfa.com/?s=50350&p=1)
   - [ComicFury](https://the-iron-ragdoll.thecomicseries.com)
