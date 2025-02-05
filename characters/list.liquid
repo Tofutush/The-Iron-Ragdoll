@@ -31,7 +31,7 @@ eleventyNavigation:
                     <td>{{ ch.attr.Nationality }}</td>
                     {% assign filteredGallery = gallery | filterGallery: ch.name %}
                     <td>{{ filteredGallery.size }}</td>
-                    <td style="background-color: {{ ch.color }};"></td>
+                    <td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upperCase }}</td>
                 </tr>
             {% endfor %}
         </tbody>

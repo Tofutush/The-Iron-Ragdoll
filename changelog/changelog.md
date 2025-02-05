@@ -13,6 +13,7 @@ eleventyNavigation:
 
 - Updated story [New Year 2032](/stories/new-year-2032/).
 - Updated [nav](/nav/).
+- [Text list](/characters/list/) now show hex codes on the colors box.
 
 ## 2025-02-04
 

@@ -37,3 +37,9 @@ th.sortable.sorted:before {
 th.sortable.sorted-reverse:before {
     content: '↑ ';
 }
+
+.color {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
