@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a07380bee06807fb",
+        "id": "c9973dcd3beced95",
         "type": "tabs",
         "children": [
           {
-            "id": "40e1133819c18364",
+            "id": "01f28dde56809478",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "village-in",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +61,29 @@
             }
           },
           {
+            "id": "d614469ac9f5ce44",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
             "id": "37403087c2b52375",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -118,12 +134,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "40e1133819c18364",
+  "active": "01f28dde56809478",
   "lastOpenFiles": [
-    "world/creatures.md",
     "changelog/changelog.md",
-    "nav.md",
+    "stories/one-man-short.md",
+    "stories/paperweights-roadtrip.md",
+    "_obsidian templates/story.md",
     "stories/new-year-2032.md",
+    "world/creatures.md",
+    "nav.md",
     "_site/img/gallery/lE3UCX97mx-500.webp",
     "_site/img/gallery/lE3UCX97mx-120.webp",
     "_site/img/gallery/ANzBAQDC6p-302.webp",
@@ -162,9 +181,6 @@
     "characters/minor.md",
     "world/westavia/area-1 1.md",
     "world/westavia/area-29.md",
-    "world/westavia/area-1.md",
-    "world/westavia/spf.md",
-    "world/westavia/westavia.md",
-    "world/westavia/nameless-village.md"
+    "world/westavia/area-1.md"
   ]
 }
