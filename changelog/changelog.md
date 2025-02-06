@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-06
+
+- Added `tomato idlegame idle.png`, `tomato idlegame dig.png`.
+
 ## 2025-02-05
 
 - Updated story [New Year 2032](/stories/new-year-2032/).
