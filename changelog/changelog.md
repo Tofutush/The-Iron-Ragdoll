@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2025-02-06
 
 - Added `tomato idlegame idle.png`, `tomato idlegame dig.png`.
+- Added a new story, [One Man Short](/stories/one-man-short/).
 
 ## 2025-02-05
 

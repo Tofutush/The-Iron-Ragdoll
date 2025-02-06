@@ -3,10 +3,11 @@
   "baseFontSize": 20,
   "enabledCssSnippets": [
     "folder tree",
-    "justify"
+    "justify",
+    "line height"
   ],
   "interfaceFontFamily": "din round pro,微软雅黑",
-  "textFontFamily": "霞鹜文楷",
+  "textFontFamily": "SundayComics BB,Bookerly,霞鹜文楷",
   "cssTheme": "Mado Miniflow",
   "theme": "system",
   "monospaceFontFamily": "JetBrains Mono"
