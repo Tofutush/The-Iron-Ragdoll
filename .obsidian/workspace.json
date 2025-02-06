@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5b4b05a92de985",
+        "id": "a07380bee06807fb",
         "type": "tabs",
         "children": [
           {
-            "id": "79c9ba805ec57d50",
+            "id": "40e1133819c18364",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,13 +93,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "changelog/changelog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of changelog"
+              "title": "Outline"
             }
           }
         ]
@@ -119,8 +118,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "9246cbd193ae4c7c",
+  "active": "40e1133819c18364",
   "lastOpenFiles": [
+    "world/creatures.md",
+    "changelog/changelog.md",
     "nav.md",
     "stories/new-year-2032.md",
     "_site/img/gallery/lE3UCX97mx-500.webp",
@@ -136,7 +137,6 @@
     "img/gallery/jerboa idlegame dig.png",
     "img/gallery/willow profile_0",
     "img/gallery/willow profile.png",
-    "changelog/changelog.md",
     "stories/a-nuke-from-moreland.md",
     "_site/stories/new-year-2032/index.html",
     "_site/stories/new-year-2032",
@@ -165,7 +165,6 @@
     "world/westavia/area-1.md",
     "world/westavia/spf.md",
     "world/westavia/westavia.md",
-    "world/westavia/nameless-village.md",
-    "world/bauhinia/bauhinia.md"
+    "world/westavia/nameless-village.md"
   ]
 }

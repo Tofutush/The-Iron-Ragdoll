@@ -1930,5 +1930,27 @@
     "style": "normal",
     "kind": "idlegame",
     "date": "2025-02-04"
+  },
+  {
+    "name": "tomato idlegame dig",
+    "type": "png",
+    "ch": [
+      "tomato"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "kind": "idlegame",
+    "date": "2025-02-06"
+  },
+  {
+    "name": "tomato idlegame idle",
+    "type": "png",
+    "ch": [
+      "tomato"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "kind": "idlegame",
+    "date": "2025-02-06"
   }
 ]
