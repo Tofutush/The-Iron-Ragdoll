@@ -1,6 +1,6 @@
 ---json
 {
-  "layout": "layout.liquid",
+  "layout": "chsLayout.liquid",
   "pagination": {
     "data": "tagsplot",
     "size": 1,
@@ -18,6 +18,6 @@
   }
 }
 ---
-
 <h1>{{ tag }} Characters</h1>
-
+{% assign filteredChs = characters | filterChByTag: tag %}
+{% include 'chs', chs: filteredChs %}

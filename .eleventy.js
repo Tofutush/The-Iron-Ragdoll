@@ -139,6 +139,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('slice', function (str, s, e) {
 		return str.slice(s, e ? e : str.length);
 	});
+	eleventyConfig.addFilter('filterChByTag', function (chs, tag) {
+		return chs.filter(c => c.tags?.some(t => t == tag));
+	});
 	// shortcodes
 	eleventyConfig.addShortcode('arrows', function (f, p, n, l, num) {
 		let dot;
