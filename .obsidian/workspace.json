@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/bauhinia/project-boomerang.md",
+                "file": "changelog/changelog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "project-boomerang"
+              "title": "changelog"
             }
           }
         ]
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "world/bauhinia/project-boomerang.md",
+                "file": "changelog/changelog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of project-boomerang"
+              "title": "Outline of changelog"
             }
           }
         ]
@@ -140,8 +140,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "01f28dde56809478",
+  "active": "9246cbd193ae4c7c",
   "lastOpenFiles": [
+    "world/bauhinia/project-boomerang.md",
     "world/westavia/nameless-village.md",
     "world/bauhinia/starcorp.md",
     "world/sylvandia/sylvandia.md",
@@ -186,7 +187,6 @@
     "stories/elegance-kidnapped.md",
     "stories/the-yacht-trip.md",
     "stories/pearls-journey-home.md",
-    "world/superpowers.md",
-    "_obsidian templates/image.md"
+    "world/superpowers.md"
   ]
 }
