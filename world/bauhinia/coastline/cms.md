@@ -4,6 +4,8 @@ title: Coastline Middle School
 eleventyNavigation:
   key: Coastline Middle School
   parent: Coastline
+tags:
+  - coastline-middle-school
 ---
 
 # Coastline Middle School / 沿海十一中

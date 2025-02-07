@@ -4,6 +4,8 @@ title: Coastline
 eleventyNavigation:
   key: Coastline
   parent: Bauhinia
+tags:
+  - Coastline
 ---
 
 # Coastline / 沿海城
