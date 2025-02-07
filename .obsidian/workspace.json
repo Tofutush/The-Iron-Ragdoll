@@ -140,8 +140,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "9246cbd193ae4c7c",
+  "active": "5d3f83713a2a7970",
   "lastOpenFiles": [
+    "img/gallery/ribbon profile_0",
     "about.md",
     "changelog/changelog.md",
     "stories/goose-backstory.md",
@@ -186,7 +187,6 @@
     "_site/img/gallery/SuQ8DLQVqr-200.webp",
     "_site/img/gallery/QWVAIFTRO2-200.webp",
     "stories/paperweights-roadtrip.md",
-    "_obsidian templates/story.md",
-    "stories/new-year-2032.md"
+    "_obsidian templates/story.md"
   ]
 }
