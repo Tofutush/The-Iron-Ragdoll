@@ -15,7 +15,7 @@ tags:
 
 {% image "gallery/" "fanton flag.svg" 1000 "Flag of Fanton" 'max' %}
 
-FAN-ten: the purple starry-eyed tree-lovers.
+FAN-ten (alternatively, FAN-[grunting sound]): the purple starry-eyed tree-lovers.
 
 The panda is the national symbol of Fanton.
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed4dbe73f2527274",
+        "id": "29eb64b5849685c4",
         "type": "tabs",
         "children": [
           {
-            "id": "5d3f83713a2a7970",
+            "id": "1f39c35694d17b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pumpkins",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238,
-    "collapsed": true
+    "width": 238
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,11 +139,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "5d3f83713a2a7970",
+  "active": "1f39c35694d17b4f",
   "lastOpenFiles": [
+    "world/history.md",
+    "world/bauhinia/froggy-island.md",
+    "world/fanton/fanton.md",
+    "changelog/changelog.md",
     "img/gallery/ribbon profile_0",
     "about.md",
-    "changelog/changelog.md",
     "stories/goose-backstory.md",
     "stories/elegance-kidnapped.md",
     "stories/cms-mysteries.md",
@@ -159,7 +161,6 @@
     "world/moreland/moreland.md",
     "world/westavia/westavia.md",
     "world/atlasia/atlasia.md",
-    "world/fanton/fanton.md",
     "world/bauhinia/bauhinia.md",
     "world/bauhinia/mss.md",
     "world/bauhinia/coastline/coastline.md",
@@ -175,7 +176,6 @@
     "_site/characters/jaculus/index.html",
     "_site/characters/jaculus",
     "_site/characters/lark/index.html",
-    "_site/characters/lark",
     "_site/img/gallery/SzKl8uSUZn-500.webp",
     "_site/img/gallery/kRUF1AfjLK-500.webp",
     "_site/img/gallery/iGqxviKGkS-500.webp",
@@ -186,7 +186,6 @@
     "_site/img/gallery/y6YDVfQUW7-200.webp",
     "_site/img/gallery/SuQ8DLQVqr-200.webp",
     "_site/img/gallery/QWVAIFTRO2-200.webp",
-    "stories/paperweights-roadtrip.md",
-    "_obsidian templates/story.md"
+    "stories/paperweights-roadtrip.md"
   ]
 }
