@@ -14,8 +14,8 @@ eleventyNavigation:
 </div>
 <details>
     <summary><h2>Tag filter</h2></summary>
-    {% for tag in collections %}
-        <a href="/characters/tag/{{ tag }}/">{{ tag | log }}</a>
+    {% for tag in tagsplot %}
+        <a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>
     {% endfor %}
 </details>
 <div class="chs">
