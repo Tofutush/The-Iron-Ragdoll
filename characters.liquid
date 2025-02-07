@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: chsLayout.liquid
 title: Characters
 desc: The characters!
 eleventyNavigation:
@@ -7,15 +7,4 @@ eleventyNavigation:
   parent: Root
   order: 999
 ---
-<link rel="stylesheet" href="/css/characterspage.css"/>
-<div class="box-nav">
-    <a href="minor/">Minor characters</a>
-    <a href="list/">Sortable text list</a>
-</div>
-<details>
-    <summary><h2>Tag filter</h2></summary>
-    {% for tag in tagsplot %}
-        <a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>
-    {% endfor %}
-</details>
 {% include 'chs', chs: characters %}
