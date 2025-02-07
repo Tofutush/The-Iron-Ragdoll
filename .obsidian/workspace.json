@@ -11,10 +11,15 @@
             "id": "01f28dde56809478",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "world/bauhinia/coastline/cms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cms"
             }
           }
         ]
@@ -109,12 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "world/bauhinia/coastline/cms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of cms"
             }
           }
         ]
@@ -136,6 +142,7 @@
   },
   "active": "01f28dde56809478",
   "lastOpenFiles": [
+    "world/bauhinia/coastline/coastline.md",
     "_site/characters/index.html",
     "_data/tagsfiles.json",
     "characters/tags.liquid",
@@ -146,7 +153,6 @@
     "_site/characters/jaculus",
     "_site/characters/lark/index.html",
     "_site/characters/lark",
-    "_site/characters/myriad/index.html",
     "_site/img/gallery/SzKl8uSUZn-500.webp",
     "_site/img/gallery/kRUF1AfjLK-500.webp",
     "_site/img/gallery/iGqxviKGkS-500.webp",
