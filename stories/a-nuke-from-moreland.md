@@ -19,6 +19,8 @@ time: 2031
 location: <a href="/world/bauhinia/coastline/">Coastline</a>
 summary: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
 titlezh: 莫尔兰核弹
+tags:
+  - a-nuke-from-moreland
 ---
 
 I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you wanna read it. I think the questioning scene was pretty cool though. The main problem is that no one has any personality.
@@ -33,7 +35,7 @@ Firecrackers pointed out a house nearby, abandoned during its construction stage
 
 They found no cat, but they did find a nuke.
 
-Sky found it first. It looked new since it was the only thing in the basement not caked in dust, and it had a [Moreland](/world/moreland/) flag on it. He came up from the basement screaming. They all burst into the basement, leaving dirty fingerprints all over the casing. Sparky wanted to keep the nuke for herself -- she meant themselves, obviously. Qibli magicked Sparky's phone from her hands (since she didn't have one) and called the police.
+Sky found it first. It looked new since it was the only thing in the basement not caked in dust, and it had a [Moreland](/world/moreland/) flag on it. He came up from the basement screaming. They all burst into the basement, leaving dirty fingerprints all over the casing. Sparky wanted to keep the nuke for herself -- she meant THEMselves, obviously. Qibli magicked Sparky's phone from her hands (since she didn't have one) and called the police.
 
 The police were like "what the" and called the [MSS](/world/bauhinia/mss/). Out from an inconspicuous car came Paperweight ("He's going to be hard to deal with," thought Firecrackers), Goose ("She's going to kill me," thought Qibli), Halcyon ("He looks delicious," thought Sparky), and Pumpkin ("I like him," thought Sky).
 

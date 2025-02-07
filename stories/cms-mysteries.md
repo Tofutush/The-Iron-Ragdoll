@@ -20,3 +20,5 @@ Sparky started attending [Coastline Middle School](/world/bauhinia/coastline/cms
 But recently there's been a huge number of cases of stolen stuff. Little stuff, like pens and rulers. Sparky and her friends just bought replacements and did not complain.
 
 However, the thief turned to more valuable stuff. After a pretty expensive deck of poker cards was stolen from Sky, the friends decided to investigate.
+
+That was when another friend joined them: Myriad, wanting to recover her lipstick tube which she stole from her mom.

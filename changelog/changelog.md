@@ -12,6 +12,8 @@ eleventyNavigation:
 ## 2025-02-07
 
 - Updated [characters page filtering](/characters/).
+	- Now it has individual tag pages with related files, and the JavaScript is removed.
+- Updated [Starcorp](/world/bauhinia/starcorp/).
 
 ## 2025-02-06
 
