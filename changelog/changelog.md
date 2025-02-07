@@ -11,6 +11,7 @@ eleventyNavigation:
 
 ## 2025-02-07
 
+- Added `paperweight bald 1.png`, `paperweight bald 2.png`, `ribbon profile.png`.
 - Updated [characters page filtering](/characters/).
 	- Now it has individual tag pages with related files, and the JavaScript is removed.
 - Updated [Starcorp](/world/bauhinia/starcorp/).
