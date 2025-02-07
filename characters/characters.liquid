@@ -51,6 +51,16 @@
         {% endfor %}
       </div>
     {% endif %}
+    {% if ch.tags %}
+      <details>
+        <summary><h6>Tags</h6></summary>
+        <ul>
+          {% for t in ch.tags %}
+            <li><a href="/characters/tag/{{ t | slug }}/">{{ t }}</a></li>
+          {% endfor %}
+        </ul>
+      </details>
+    {% endif %}
   </div>
   <div class="right-side">
     {% if ch.quote %}
