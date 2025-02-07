@@ -4,6 +4,7 @@ title: Minor Characters
 eleventyNavigation:
   key: Minor Characters
   parent: Characters
+  order: 2
 ---
 
 # Minor Characters

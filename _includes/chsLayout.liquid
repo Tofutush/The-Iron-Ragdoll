@@ -1,0 +1,18 @@
+---
+layout: layout.liquid
+---
+<link rel="stylesheet" href="/css/characterspage.css"/>
+<div class="box-nav">
+    <a href="/characters/minor/">Minor characters</a>
+    <a href="/characters/list/">Sortable text list</a>
+</div>
+<details>
+  <summary><h2>Tag filter</h2></summary>
+  <div class="tags">
+    <a href="/characters/" {% if page.url == "/characters/" %}aria-current="true"{% endif %}>All</a>
+    {% for t in tagsplot %}
+      <a href="/characters/tag/{{ t | slug }}/" {% if t == tag %}aria-current="true"{% endif %}>{{ t }}</a>
+    {% endfor %}
+  </div>
+</details>
+{{ content }}

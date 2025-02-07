@@ -1,0 +1,23 @@
+---json
+{
+  "layout": "chsLayout.liquid",
+  "pagination": {
+    "data": "tagsplot",
+    "size": 1,
+    "alias": "tag",
+    "addAllPagesToCollections": true
+  },
+  "permalink": "characters/tag/{{ tag | slug }}/",
+  "eleventyComputed": {
+    "title": "{{ tag }} Characters",
+    "eleventyNavigation": {
+      "key": "{{ tag }} Characters",
+      "title": "{{ tag }}",
+      "parent": "Tags"
+    }
+  }
+}
+---
+<h1>{{ tag }} Characters</h1>
+{% assign filteredChs = characters | filterChByTag: tag %}
+{% include 'chs', chs: filteredChs %}
