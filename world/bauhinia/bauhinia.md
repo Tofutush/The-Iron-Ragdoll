@@ -7,6 +7,8 @@ eleventyNavigation:
   parent: World
   order: 1
 desc: What if CEOs made a country?
+tags:
+  - bauhinia
 ---
 
 # The Republic of Bauhinia / 紫荆共和国
