@@ -16,3 +16,11 @@ layout: layout.liquid
   </div>
 </details>
 {{ content }}
+{% if collections[tag] %}
+  <h2>Related files</h2>
+  <ul>
+    {% for file in collections[tag] %}
+      {% include 'fileLi', file: file %}
+    {% endfor %}
+  </ul>
+{% endif %}
