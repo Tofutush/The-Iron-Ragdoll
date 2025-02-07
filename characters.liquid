@@ -2,7 +2,6 @@
 layout: layout.liquid
 title: Characters
 desc: The characters!
-widepage: true
 eleventyNavigation:
   key: Characters
   parent: Root
@@ -13,27 +12,25 @@ eleventyNavigation:
     <a href="minor/">Minor characters</a>
     <a href="list/">Sortable text list</a>
 </div>
-<p>Brand new filter style! Shift to multi-select. I know the tags list gets longer than the characters box brruuuhhh idk how to solve that. Also I haven't made mobile version yet.</p>
-<div id="flexbox">
-    <div class="tags">
-        {% for tag in tagsplot %}
-            <div name="{{ tag | slug }}">{{ tag }}</div>
-        {% endfor %}
-    </div>
-    <div class="chs">
-        {% for ch in characters %}
-            <div tags="{% for tag in ch.tags %}{{ tag | slug }} {% endfor %}">
-            <div class="ch" style="--c: {{ ch.color }}">
-                <a href="{{ ch.name | lowerCase }}/">
-                {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
-                {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
-                {% image "gallery/" profilePath 200 ch.name '' iconPath %}
-                </a>
-            </div>
-            {% include 'chButton', ch: ch.name %}
-            </div>
-        {% endfor %}
-    </div>
+<details>
+    <summary><h2>Tag filter</h2></summary>
+    {% for tag in collections %}
+        <a href="/characters/tag/{{ tag }}/">{{ tag | log }}</a>
+    {% endfor %}
+</details>
+<div class="chs">
+    {% for ch in characters %}
+        <div tags="{% for tag in ch.tags %}{{ tag | slug }} {% endfor %}">
+        <div class="ch" style="--c: {{ ch.color }}">
+            <a href="{{ ch.name | lowerCase }}/">
+            {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
+            {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
+            {% image "gallery/" profilePath 200 ch.name '' iconPath %}
+            </a>
+        </div>
+        {% include 'chButton', ch: ch.name %}
+        </div>
+    {% endfor %}
 </div>
 <script src="/js/filter.js"></script>
 <script>
