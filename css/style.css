@@ -345,7 +345,8 @@ body.dark #linx a:hover {
 
 #back-to-top svg,
 .footnote-backref svg,
-.callout svg {
+.callout svg,
+.breadcrumbs svg {
   vertical-align: baseline;
 }
 
