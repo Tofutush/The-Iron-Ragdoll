@@ -1,6 +1,8 @@
 ---
 layout: layout.liquid
 title: Starcorp
+tags:
+  - Starcorp
 eleventyNavigation:
   key: Starcorp
   parent: Bauhinia
