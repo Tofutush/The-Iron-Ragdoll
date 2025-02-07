@@ -1,0 +1,23 @@
+---json
+{
+  "layout": "layout.liquid",
+  "pagination": {
+    "data": "tagsplot",
+    "size": 1,
+    "alias": "tag",
+    "addAllPagesToCollections": true
+  },
+  "permalink": "characters/tag/{{ tag | slug }}/",
+  "eleventyComputed": {
+    "title": "{{ tag }} Characters",
+    "eleventyNavigation": {
+      "key": "{{ tag }} Characters",
+      "title": "{{ tag }}",
+      "parent": "Characters"
+    }
+  }
+}
+---
+
+<h1>{{ tag }} Characters</h1>
+
