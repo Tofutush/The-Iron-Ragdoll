@@ -18,21 +18,4 @@ eleventyNavigation:
         <a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>
     {% endfor %}
 </details>
-<div class="chs">
-    {% for ch in characters %}
-        <div tags="{% for tag in ch.tags %}{{ tag | slug }} {% endfor %}">
-        <div class="ch" style="--c: {{ ch.color }}">
-            <a href="{{ ch.name | lowerCase }}/">
-            {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
-            {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
-            {% image "gallery/" profilePath 200 ch.name '' iconPath %}
-            </a>
-        </div>
-        {% include 'chButton', ch: ch.name %}
-        </div>
-    {% endfor %}
-</div>
-<script src="/js/filter.js"></script>
-<script>
-  new Filter(document.querySelector('.chs')).filtering();
-</script>
+{% include 'chs', chs: characters %}
