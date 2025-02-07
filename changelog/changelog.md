@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-07
+
+- Updated [characters page filtering](/characters/).
+
 ## 2025-02-06
 
 - Added `tomato idlegame idle.png`, `tomato idlegame dig.png`.
