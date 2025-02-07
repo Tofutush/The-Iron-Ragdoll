@@ -3,6 +3,8 @@ layout: story.liquid
 title: Hillslope Mysteries
 canon: yes
 order: 101
+tags:
+  - Hillslope
 chs:
   - sparky
   - ribbon
