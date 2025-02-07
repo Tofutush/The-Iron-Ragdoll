@@ -4,6 +4,8 @@ title: Nameless Village
 eleventyNavigation:
   key: Nameless Village
   parent: Westavia
+tags:
+  - nameless-village
 ---
 
 # Nameless Village / 无名村

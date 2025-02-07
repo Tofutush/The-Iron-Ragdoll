@@ -4,6 +4,8 @@ title: Project Boomerang
 eleventyNavigation:
   key: Project Boomerang
   parent: Bauhinia
+tags:
+  - project-boomerang
 ---
 
 # Project Boomerang / 回旋镖计划

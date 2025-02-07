@@ -2,7 +2,9 @@
 layout: layout.liquid
 title: Starcorp
 tags:
-  - Starcorp
+  - starcorp
+  - cherry-hyrax-family
+  - sparkys-family
 eleventyNavigation:
   key: Starcorp
   parent: Bauhinia

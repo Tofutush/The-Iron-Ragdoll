@@ -4,6 +4,8 @@ title: Ministry of State Security
 eleventyNavigation:
   key: Ministry of State Security
   parent: Bauhinia
+tags:
+  - ministry-of-state-security
 ---
 
 # Ministry of State Security / 紫荆国家安全部

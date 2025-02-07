@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/bauhinia/coastline/cms.md",
+                "file": "world/bauhinia/project-boomerang.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cms"
+              "title": "project-boomerang"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pumpkins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "world/bauhinia/coastline/cms.md",
+                "file": "world/bauhinia/project-boomerang.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cms"
+              "title": "Outline of project-boomerang"
             }
           }
         ]
@@ -142,7 +142,19 @@
   },
   "active": "01f28dde56809478",
   "lastOpenFiles": [
+    "world/westavia/nameless-village.md",
+    "world/bauhinia/starcorp.md",
+    "world/sylvandia/sylvandia.md",
+    "world/moreland/moreland.md",
+    "world/westavia/westavia.md",
+    "world/atlasia/atlasia.md",
+    "world/fanton/fanton.md",
+    "world/bauhinia/bauhinia.md",
+    "world/bauhinia/mss.md",
     "world/bauhinia/coastline/coastline.md",
+    "stories/hillslope-mysteries.md",
+    "world/bauhinia/coastline/hillslope.md",
+    "world/bauhinia/coastline/cms.md",
     "_site/characters/index.html",
     "_data/tagsfiles.json",
     "characters/tags.liquid",
@@ -175,18 +187,6 @@
     "stories/the-yacht-trip.md",
     "stories/pearls-journey-home.md",
     "world/superpowers.md",
-    "world/atlasia/atlasia.md",
-    "_obsidian templates/image.md",
-    "_obsidian templates/figure.md",
-    "world/souls.md",
-    "world/overview.md",
-    "world/isa.md",
-    "stories/hillslope-mysteries.md",
-    "stories/goose-backstory.md",
-    "stories/cms-mysteries.md",
-    "stories/candlelight-back-home.md",
-    "characters/minor.md",
-    "world/westavia/area-1 1.md",
-    "world/westavia/area-29.md"
+    "_obsidian templates/image.md"
   ]
 }

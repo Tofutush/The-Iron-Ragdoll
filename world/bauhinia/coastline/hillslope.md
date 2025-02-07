@@ -2,7 +2,7 @@
 layout: layout.liquid
 title: Hillslope
 tags:
-  - Hillslope
+  - hillslope
 eleventyNavigation:
   key: Hillslope
   parent: Coastline
