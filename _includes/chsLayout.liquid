@@ -8,8 +8,11 @@ layout: layout.liquid
 </div>
 <details>
   <summary><h2>Tag filter</h2></summary>
-  {% for t in tagsplot %}
-    <a href="/characters/tag/{{ t | slug }}/" {% if t == tag %}aria-current="true"{% endif %}>{{ t }}</a>
-  {% endfor %}
+  <div class="tags">
+    <a href="/characters/" {% if page.url == "/characters/" %}aria-current="true"{% endif %}>All</a>
+    {% for t in tagsplot %}
+      <a href="/characters/tag/{{ t | slug }}/" {% if t == tag %}aria-current="true"{% endif %}>{{ t }}</a>
+    {% endfor %}
+  </div>
 </details>
 {{ content }}
