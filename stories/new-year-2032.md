@@ -11,6 +11,7 @@ chs:
   - amber
   - peacock
   - fantasy
+  - willow
   - pearl
 location: <a href="/world/bauhinia/coastline/">Coastline</a>, <a href="/world/bauhinia/coastline/safe-house/">Safe House</a>
 time: 2032
@@ -34,10 +35,24 @@ The address is an uninhabited but squeaky-clean apartment in a messy village-in-
 
 Until one day, they met visitors.
 
+### The run-in
+
 Sparky went out to buy (junk) food. The other three were at the apartment watching a movie. Three Starcorp goons unlocked the door and walked in on three kids in their pajamas giggling like maniacs.
+
+They looked at each other for a sec, and freaked out. The Starcorp goons started beating the kids up. Sky ran close enough to the window to throw one of his iron cards down. It flew past Sparky's shoulder and got stuck on the wall behind her as the exited the grocery store. She immediately rushed up the stairs, bag in hand, kicking the door down just in time to see her three friends lying on the floor, tied up with bedsheets. Qibli was unconscious because of course.
+
+Sparky dropped the grocery bag and pulled out her pistol. One of them held a knife to Qibli's throat, telling Sparky to drop the gun. She did, but she slammed it against the floor so hard it went off, firing a bullet into the shoulder of the hostage-taker. She then beat up all three of them and untied her friends.
+
+Peacock was *pissed*. He had told them to skip it this time, delay the pick-up, but they didn't get the message and went ahead as usual; *and* he didn't count on Sparky bringing her friends. He phoned Sparky, warning her to *not* tell the other kids' parents, and increased her credit card limit.
+
+### Qibli's birthday
+
+Qibli had her birthday in the apartment. She was still kinda freaked out about the run-in though.
 
 ## Yuanxiao
 
-To make up for the scare, Peacock invited the kids over for Yuanxiao.
+To make up for the scare, Peacock invited the kids over for Yuanxiao. His parents had left, so it were Peacock, Amber, Fantasy, Willow, and the friends.
+
+Qibli sensed something drastically wrong with Fantasy's pearl necklace. She was determined to get a sample, but Fantasy refused. She took out her wand and pulled her necklace apart, grabbed a pearl rolling on the floor, while the dinner ended in unhappy chaos.
 
 ## The rescue
