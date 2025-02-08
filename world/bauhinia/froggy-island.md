@@ -1,7 +1,7 @@
 ---
 layout: layout.liquid
 title: Froggy Island
-desc: Hyrax's personal island
+desc: Hyrax's personal island.
 eleventyNavigation:
   key: Froggy Island
   parent: Bauhinia

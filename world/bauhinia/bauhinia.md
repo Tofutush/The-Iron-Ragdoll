@@ -17,7 +17,7 @@ tags:
 
 Bau-HEE-nee-a: the pink bureaucratic fanatic[^1].
 
-[^1]: The flag is *not* Hong Kong. Hong Kong is *dumb*. Bauhinia is... well, still pretty dumb I admit but nothing is dumber than HK.
+[^1]: The flag is *not* Hong Kong. Hong Kong is *dumb*. Bauhinia is… well, still pretty dumb I admit but nothing is dumber than HK.
 
 The bauhinia flower is the national symbol of Bauhinia[^2].
 
@@ -35,10 +35,11 @@ The country experiences monsoons that blow from the southeast in summer and the 
 
 The closest geographical mirror to Bauhinia is southern China.
 
-### Cities
+### Places
 
 - [Flower City](/world/bauhinia/flower-city/) (capital)
 - [Coastline](/world/bauhinia/coastline/)
+- [Froggy Island](/world/bauhinia/froggy-island/)
 
 ## Government
 
