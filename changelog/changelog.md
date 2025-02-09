@@ -9,11 +9,16 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-09
+
+- Added `lark pride.png`, `sparky pride.png`.
+- Edited story [New Year 2032](/stories/new-year-2032/).
+
 ## 2025-02-07
 
 - Added `paperweight bald 1.png`, `paperweight bald 2.png`, `ribbon profile.png`.
 - Updated [characters page filtering](/characters/).
-	- Now it has individual tag pages with related files, and the JavaScript is removed.
+  - Now it has individual tag pages with related files, and the JavaScript is removed.
 - Updated [Starcorp](/world/bauhinia/starcorp/), [Froggy Island](/world/bauhinia/froggy-island/).
 
 ## 2025-02-06
