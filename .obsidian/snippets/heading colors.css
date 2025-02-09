@@ -1,37 +1,15 @@
 .markdown-preview-view h1,
-.cm-header-1
-{
-  color: var(--color-red);
-text-decoration: underline;
-}
-
+.cm-header-1,
 .markdown-preview-view h2,
-.cm-header-2
-{
-  color: var(--color-orange);
-text-decoration: underline;
-}
-
+.cm-header-2,
 .markdown-preview-view h3,
-.cm-header-3
-{
-  color: var(--color-yellow);
-}
-
+.cm-header-3,
 .markdown-preview-view h4,
-.cm-header-4
-{
-  color: var(--color-green);
-}
-
+.cm-header-4,
 .markdown-preview-view h5,
-.cm-header-5
-{
-  color: var(--color-blue);
-}
-
+.cm-header-5,
 .markdown-preview-view h6,
 .cm-header-6
 {
-  color: var(--color-purple);
+  color: var(--color-accent);
 }

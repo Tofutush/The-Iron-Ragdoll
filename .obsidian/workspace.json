@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4749906046fa8888",
+        "id": "cfdc8709fbfe142e",
         "type": "tabs",
         "children": [
           {
-            "id": "a915ccee22214489",
+            "id": "3c4b51297f3ce7f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[order:105]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.00260543823242
+    "width": 233.50260543823242
   },
   "right": {
     "id": "9c4d8bf76cf7e2d8",
@@ -114,20 +114,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stories/new-year-2032.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of new-year-2032"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 239.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,8 +139,24 @@
       "templates:Insert template": false
     }
   },
-  "active": "a915ccee22214489",
+  "active": "3c4b51297f3ce7f5",
   "lastOpenFiles": [
+    "img/gallery/paperweight bald 2_0",
+    "img/gallery/paperweight bald 1_0",
+    "img/gallery/goosebumps_0",
+    "img/gallery/sparky pride_0",
+    "img/gallery/sparky pride.png",
+    "img/gallery/lark pride.png",
+    "stories/new-year-2032.md",
+    "about.md",
+    "nav.md",
+    "stories/candlelight-back-home.md",
+    "stories/a-nuke-from-moreland.md",
+    "world/bauhinia/bauhinia.md",
+    "changelog/changelog.md",
+    "characters/minor.md",
+    "stories/the-yacht-trip.md",
+    "stories/pearls-journey-home.md",
     "_site/world/bauhinia/froggy-island/index.html",
     "_site/world/bauhinia/froggy-island",
     "_site/img/gallery/cGnz0mp_Z6-200.webp",
@@ -148,44 +164,28 @@
     "_site/img/gallery/gNpNEsdOr4-120.webp",
     "_site/img/gallery/cGnz0mp_Z6-500.webp",
     "thumb.png",
-    "nav.md",
-    "about.md",
     "misc/misc.md",
     "misc/credits.md",
     "characters/files/mssperms.md",
     "characters/files/globalperms.md",
     "characters/characterinfo.md",
-    "world/bauhinia/bauhinia.md",
     "world/bauhinia/froggy-island.md",
-    "changelog/changelog.md",
     "world/history.md",
     "world/fanton/fanton.md",
     "img/gallery/ribbon profile_0",
     "stories/goose-backstory.md",
     "stories/elegance-kidnapped.md",
     "stories/cms-mysteries.md",
-    "stories/candlelight-back-home.md",
-    "stories/a-nuke-from-moreland.md",
     "world/isa.md",
     "world/bauhinia/starcorp.md",
     "stories/one-man-short.md",
     "world/bauhinia/project-boomerang.md",
-    "world/westavia/nameless-village.md",
-    "world/sylvandia/sylvandia.md",
-    "world/moreland/moreland.md",
-    "world/westavia/westavia.md",
     "_site/characters/index.html",
     "_data/tagsfiles.json",
     "characters/tags.liquid",
     "characters/tag.liquid",
-    "_includes/chsLayout.liquid",
-    "_includes/chs.liquid",
-    "_site/characters/jaculus/index.html",
-    "_site/characters/jaculus",
     "_site/img/gallery/SzKl8uSUZn-500.webp",
     "_site/img/gallery/kRUF1AfjLK-500.webp",
-    "_site/img/gallery/iGqxviKGkS-500.webp",
-    "_site/img/gallery/oGjkOl4-VY-200.webp",
-    "_site/img/gallery/d_0hdKGu19-200.webp"
+    "_site/img/gallery/iGqxviKGkS-500.webp"
   ]
 }

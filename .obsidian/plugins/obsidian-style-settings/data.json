@@ -1,5 +1,5 @@
 {
-  "mado-miniflow@@theme-color": "theme-daisy-blue",
+  "mado-miniflow@@theme-color": "theme-violette",
   "mado-miniflow@@toggle-tab-design": true,
   "mado-miniflow@@toggle-note-radius": false,
   "mado-miniflow@@toggle-tab-height": false,
@@ -24,5 +24,8 @@
   "cupertino@@active-line-off": true,
   "cupertino@@hide-frontmatter-off": true,
   "cupertino@@compact-mode": true,
-  "cupertino@@windows-mode-off": true
+  "cupertino@@windows-mode-off": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout"
 }

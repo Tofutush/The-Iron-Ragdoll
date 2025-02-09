@@ -11,5 +11,6 @@
     "/[fF][oO][nN][tT][sS]/"
   ],
   "promptDelete": false,
-  "alwaysUpdateLinks": false
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "absolute"
 }

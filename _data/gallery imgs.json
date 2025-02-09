@@ -1952,5 +1952,25 @@
     "style": "normal",
     "kind": "idlegame",
     "date": "2025-02-06"
+  },
+  {
+    "name": "lark pride",
+    "type": "png",
+    "ch": [
+      "lark"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-09"
+  },
+  {
+    "name": "sparky pride",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-09"
   }
 ]
