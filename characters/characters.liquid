@@ -53,7 +53,7 @@
     {% endif %}
     {% if ch.tags %}
       <details>
-        <summary><h6>Tags</h6></summary>
+        <summary><h3>Tags</h3></summary>
         <ul>
           {% for t in ch.tags %}
             <li><a href="/characters/tag/{{ t | slug }}/">{{ t }}</a></li>
