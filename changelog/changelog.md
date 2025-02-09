@@ -13,6 +13,7 @@ eleventyNavigation:
 
 - Added `lark pride.png`, `sparky pride.png`.
 - Edited story [New Year 2032](/stories/new-year-2032/).
+- Added a table of contents off the side of each character page.
 
 ## 2025-02-07
 

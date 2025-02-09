@@ -61,13 +61,27 @@
         </ul>
       </details>
     {% endif %}
+    <div class="toc">
+      <h3>Contents</h3>
+      <ul>
+        {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
+        {% assign filteredStories = collections.stories | filterStory: ch.name %}
+        {% if filteredStories.size > 0 %}<li><a href="#stories">Stories</a></li>{% endif %}
+        {% assign filteredRelations = relationships | filterRelations: ch.name %}
+        {% if filteredRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
+        {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
+        <li><a href="#color-palette">Color palette</a></li>
+        {% assign filteredGallery = gallery | filterGallery: ch.name %}
+        {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
+      </ul>
+    </div>
   </div>
   <div class="right-side">
     {% if ch.quote %}
       <blockquote>{{ ch.quote | renderMD }}</blockquote>
     {% endif %}
     {% if ch.about %}
-      <h2>About</h2>
+      <h2 id="about">About</h2>
       {% if ch.about == 'file' %}
         {% assign filePath = './characters/files/' | append: ch.name | lowerCase | append: " about.md" %}
         {% renderFile filePath %}
@@ -75,14 +89,12 @@
         {{ ch.about | renderMD }}
       {% endif %}
     {% endif %}
-    {% assign filteredStories = collections.stories | filterStory: ch.name %}
     {% if filteredStories.size > 0 %}
-        <h2>Stories</h2>
+        <h2 id="stories">Stories</h2>
         {% include 'storylist', stories: filteredStories %}
     {% endif %}
-    {% assign filteredRelations = relationships | filterRelations: ch.name %}
     {% if filteredRelations.size > 0 %}
-      <h2>Relationships</h2>
+      <h2 id="relationships">Relationships</h2>
       {% for rel in filteredRelations %}
         {% assign otherCh = rel | getOtherCh: ch.name %}
         <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
@@ -100,23 +112,22 @@
       {% endfor %}
     {% endif %}
     {% if ch.trivia %}
-      <h2>Trivia</h2>
+      <h2 id="trivia">Trivia</h2>
       <ul>
         {% for tri in ch.trivia %}
           <li>{{ tri }}</li>
         {% endfor %}
       </ul>
     {% endif %}
-    <h2>Color palette</h2>
+    <h2 id="color-palette">Color palette</h2>
     {% assign palette = ch | getFullPalette %}
     {% include 'palette' colors: palette %}
-    {% assign filteredGallery = gallery | filterGallery: ch.name %}
     {% if filteredGallery.size > 0 %}
-      <h2>Gallery</h2>
+      <h2 id="gallery">Gallery</h2>
       {% include 'gallery' imgs: filteredGallery %}
     {% endif %}
     <details>
-      <summary><h2>Drawing Permissions</h2></summary>
+      <summary><h2 id="perms">Drawing Permissions</h2></summary>
       <div>
         <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
         {% if ch.note %}
