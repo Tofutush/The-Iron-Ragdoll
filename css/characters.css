@@ -82,6 +82,11 @@ h3,
   height: 28px;
 }
 
+.toc {
+  position: sticky;
+  top: 1em;
+}
+
 .quote {
   font-style: italic;
   margin: 1em;
@@ -110,7 +115,7 @@ h3,
   margin-left: 1em;
 }
 
-h3 {
+.right-side h3 {
   margin-left: 1em;
 }
 
