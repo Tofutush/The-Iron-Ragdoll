@@ -69,10 +69,12 @@ They arrived at an abandoned school and started exploring. It looked like a plac
 
 Qibli led them to a trapdoor, saying that it must be down there. That was when some people got to them. They yelled at the kids, telling them they were trespassing. Sparky opened the trapdoor and jumped down immediately, followed by Sky. Qibli and Firecrackers stood outside, fending off the goons.
 
+## ramble zone
+
 Underground, Sparky and Sky found a labyrinth of cold gray corridors and blinding lights. They tried to navigate it while avoiding people, though it was hard because *they* were familiar with the corridors and had video cameras, where Sparky and Sky had an absolute disadvantage.
 
 They fought a couple people and locked themselves in an empty room. In a drawer they found two passports, a Bauhinian one and a Sylvandian one, both featuring the same person: a 6-year-old girl named Pearl. On the Bauhinian passport she was Pearl Gemstone Eagle; on the Sylvandian one just Pearl Gemstone.
 
 Sky immediately came to the conclusion that Pearl was the person where the pearls came from as Qibli said. Sparky tucked the passports into her pocket.
 
-That was about when the basement people got the key and unlocked the door. But before they could open it, Sparky tore it right off its hinges
+That was about when the basement people got the key and unlocked the door. But before they could open it, Sparky tore it right off its hinges and slammed it into them, clearing out a path for her to get through. Sparky and Sky dashed away from the people and headed
