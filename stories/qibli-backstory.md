@@ -6,8 +6,9 @@ order: 303
 chs:
   - qibli
 time: "?"
-location: "<a href=\"/world/bauhinia/\">Bauhinia</a>"
-summary: "Qibli's backstory."
+location: <a href="/world/bauhinia/">Bauhinia</a>
+summary: Qibli's backstory.
+titlezh: 奇轹背景
 ---
 
 Qibli was born with magic. But her magic was so weak that it didn't even show until she was three years old. Her parents took her to the hospital, the doctors called the Arch-Magician, and the Arch-Magician told her parents to buy her a wand and taught her to store her magic in it. She hadn't left the wand's side since then.
