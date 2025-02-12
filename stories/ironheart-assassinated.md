@@ -32,4 +32,12 @@ They were *blue*.
 
 ## Cobalt
 
-Cobalt stared
+Cobalt stared at the blue woman and red man in front of her. "Who the fuck are you?"
+
+Sparky would like to ask the same.
+
+After a bit of chaos, they sorted things out: the soul inside Ironheart is a woman named Cobalt, who was supposed to be in Fanton with her friends; and these people in front of her are Ironheart's stepsister and friend, respectively.
+
+Cobalt immediately asked for a gender affirming surgery. Sparky and Animus refused. *They* needed to find Ironheart's soul and return him to his body. Cobalt, who was used to body-hopping, just wanted to get used to her new body, which involved turning back into a woman.
+
+The rest of the story unfolds with Sparky and Animus desperately trying to search for Ironheart's soul with an uncooperative Cobalt, while trying to stop her from getting the surgery or taking HRT.

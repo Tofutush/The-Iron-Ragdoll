@@ -5,9 +5,10 @@ canon: yes
 order: 305
 chs:
   - pumpkin
-time: "2003 - present"
-location: "<a href=\"/world/bauhinia/\">Bauhinia</a>, <a href=\"/world/westavia/\">Westavia</a>"
-summary: "Pumpkin's backstory."
+time: 2003 - present
+location: <a href="/world/bauhinia/">Bauhinia</a>, <a href="/world/westavia/">Westavia</a>
+summary: Pumpkin's backstory.
+titlezh: 南瓜背景
 ---
 
 Pumpkin's grandparents immigrated to northern [Bauhinia](/world/bauhinia/) from [Westavia](/world/westavia/). His family still kept many of their Westavian traditions.

@@ -15,7 +15,7 @@ chs:
   - peacock
   - gecko
   - lark
-time: 2031
+time: "2031"
 location: <a href="/world/bauhinia/coastline/">Coastline</a>
 summary: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
 titlezh: 莫尔兰核弹
