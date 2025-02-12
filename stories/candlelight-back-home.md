@@ -2,13 +2,13 @@
 layout: story.liquid
 title: Candlelight Back Home
 canon: yes
-order: 202
+order: 203
 chs:
   - candlelight
   - mooncake
   - pumpkin
   - helsinki
-time: "?"
+time: 2031
 location: <a href="/world/westavia/nameless-village/">Nameless Village</a>
 summary: Candlelight goes back home to his little village, meeting a more-than-friend along the way. Incidents happen.
 ---

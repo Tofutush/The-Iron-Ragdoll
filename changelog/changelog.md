@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-12
+
+- Added stories [Sunflower in the Dark](/stories/sunflowers-in-the-dark/) and [Ironheart Assassinated](/stories/ironheart-assassinated/).
+
 ## 2025-02-09
 
 - Added `lark pride.png`, `sparky pride.png`.
