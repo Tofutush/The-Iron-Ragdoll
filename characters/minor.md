@@ -27,6 +27,10 @@ Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/an
 
 [Animus](/characters/animus/)'s daughter.
 
+### Bunchberry
+
+[Ironheart](/characters/ironheart/)'s daughter.
+
 ## Pets
 
 ### Sandstorm
