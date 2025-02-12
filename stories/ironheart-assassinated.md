@@ -21,3 +21,11 @@ Animus and his driver came to pick them up. Sparky gave him a bill of four ice c
 Animus was grave. He dropped Peach off home and took Sparky to the hospital. That was when he told her that Ironheart suffered an assassination attempt and is unconscious.
 
 They paced worriedly outside the room. Doctors told them not to worry; Ironheart was okay; he just had to wake up.
+
+By day 5, Sparky was sitting beside him confessing. "I know we weren't always on the best terms, but I do love you and I know you love me too. I bought a new kaleidoscope for [Bunny](/characters/minor#bunchberry/). She loved it."
+
+As if the line was a waking call, Ironheart's eyes fluttered open.
+
+But they were not the rusty-red of Ironheart's.
+
+They were *blue*.

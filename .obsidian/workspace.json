@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50260543823242
+    "width": 222.50260543823242
   },
   "right": {
     "id": "9c4d8bf76cf7e2d8",
@@ -114,19 +114,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "stories/ironheart-assassinated.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ironheart-assassinated"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
+    "width": 221.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -142,8 +143,8 @@
   "active": "661fd6437b64aac8",
   "lastOpenFiles": [
     "characters/minor.md",
-    "stories/a-nuke-from-moreland.md",
     "stories/ironheart-assassinated.md",
+    "stories/a-nuke-from-moreland.md",
     "_site/stories/ironheart-assassinated/index.html",
     "_site/stories/ironheart-assassinated",
     "_site/stories/sunflowers-in-the-dark/index.html",
