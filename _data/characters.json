@@ -1362,7 +1362,9 @@
       "Occupation": "Soul-dealer"
     },
     "palette": {
-      "hair, horn": "#2e2e2e"
+      "robe": "#0F4481",
+      "shirt": "#5E5E5E",
+      "hair": "#2e2e2e"
     },
     "about": "Cobalt is a soul-dealer -- well-trained in the art of soul extraction."
   },
@@ -1396,6 +1398,7 @@
       "Nationality": "Fantoni"
     },
     "palette": {
+      "earring": "#E0DD16",
       "hair": "#2e2e2e"
     }
   },
@@ -1409,6 +1412,7 @@
       "Nationality": "Fantoni"
     },
     "palette": {
+      "shirt": "#5e5e5e",
       "hair": "#2e2e2e"
     }
   },
