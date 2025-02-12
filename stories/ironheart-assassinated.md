@@ -29,3 +29,7 @@ As if the line was a waking call, Ironheart's eyes fluttered open.
 But they were not the rusty-red of Ironheart's.
 
 They were *blue*.
+
+## Cobalt
+
+Cobalt stared
