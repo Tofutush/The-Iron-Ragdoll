@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-13
+
+- Edited [Moreland](/world/moreland/), added [The Appaloosa Tribe](/world/moreland/appaloosa-tribe/).
+
 ## 2025-02-12
 
 - Added stories [Sunflower in the Dark](/stories/sunflowers-in-the-dark/) and [Ironheart Assassinated](/stories/ironheart-assassinated/), along with a bunch of backstories I'm too lazy to type out.

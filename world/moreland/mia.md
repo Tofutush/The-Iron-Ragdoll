@@ -1,7 +1,6 @@
 ---
 layout: layout.liquid
 title: Morelandian Intelligence Agency
-templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Morelandian Intelligence Agency
   parent: Moreland

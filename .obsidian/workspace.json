@@ -8,7 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9adce15f8481eefc",
+            "id": "bde06b6ca17daf3d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "changelog/changelog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "changelog"
+            }
+          },
+          {
+            "id": "2658a9982012217c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +34,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"order\":30]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,53 +162,52 @@
       "templates:Insert template": false
     }
   },
-  "active": "9adce15f8481eefc",
+  "active": "2658a9982012217c",
   "lastOpenFiles": [
     "changelog/changelog.md",
+    "world/moreland/moreland.md",
+    "world/moreland/appaloosa-tribe.md",
+    "_site/stories/paperweight-backstory/index.html",
+    "_site/stories/buttercup-backstory/index.html",
+    "_site/stories/jackpot-backstory/index.html",
+    "_site/stories/halcyon-backstory/index.html",
+    "_site/stories/jackpot-backstory",
+    "_site/stories/paperweight-backstory",
+    "_site/stories/halcyon-backstory",
+    "_site/stories/buttercup-backstory",
+    "_site/world/moreland/appaloosa-tribe/index.html",
+    "_site/world/moreland/appaloosa-tribe",
+    "_site/img/gallery/-FknqL1j5Q-1000.webp",
+    "_site/img/gallery/-FknqL1j5Q-120.webp",
+    "world/moreland/mia.md",
+    "world/westavia/westavia.md",
+    "world/bauhinia/bauhinia.md",
+    "world/bauhinia/flower-city/flower-city.md",
+    "world/bauhinia/superpowers 1.md",
+    "world/history.md",
+    "world/fanton/fantoni-plateau.md",
+    "world/fanton/fantoni-basin.md",
+    "world/fanton/fanton.md",
+    "world/bauhinia/superpowers.md",
+    "world/bauhinia/starcorp.md",
+    "world/bauhinia/project-boomerang.md",
+    "world/bauhinia/mss.md",
+    "world/bauhinia/froggy-island.md",
+    "world/bauhinia/flower-city/ufc.md",
+    "world/bauhinia/coastline/coastline.md",
+    "world/bauhinia/coastline/safe-house.md",
+    "world/bauhinia/coastline/hillslope.md",
+    "world/bauhinia/coastline/cms.md",
     "stories/jackpot-backstory.md",
     "stories/paperweight-backstory.md",
     "stories/halcyon-backstory.md",
-    "stories/goose-backstory.md",
-    "stories/buttercup-backstory.md",
-    "stories/sunflowers-in-the-dark.md",
-    "stories/tundra-backstory.md",
-    "stories/qibli-backstory.md",
-    "stories/pumpkin-backstory.md",
-    "stories/peacock-backstory.md",
-    "Untitled.md",
-    "stories/a-nuke-from-moreland.md",
-    "stories/one-man-short.md",
-    "stories/ironheart-assassinated.md",
-    "img/gallery/majiang friends catch_0",
     "img/gallery/majiang friends catch.png",
-    "characters/minor.md",
-    "_site/stories/ironheart-assassinated/index.html",
-    "_site/stories/ironheart-assassinated",
-    "_site/stories/sunflowers-in-the-dark/index.html",
-    "_site/stories/sunflowers-in-the-dark",
-    "changelog/old.md",
-    "stories/candlelight-back-home.md",
-    "stories/new-year-2032.md",
     "_site/img/gallery/UCRuUV8hls-534.webp",
     "_site/img/gallery/UCRuUV8hls-120.webp",
     "_site/img/gallery/UtolUduZGA-534.webp",
     "_site/img/gallery/UtolUduZGA-120.webp",
     "_site/img/gallery/RmH4Vhlm7H-1000.webp",
     "_site/img/gallery/RmH4Vhlm7H-120.webp",
-    "_site/img/gallery/9D1FBQVxXn-1000.webp",
-    "_site/img/gallery/9D1FBQVxXn-120.webp",
-    "_site/img/gallery/EsfOCPFhXJ-500.webp",
-    "img/gallery/paperweight bald 2_0",
-    "img/gallery/paperweight bald 1_0",
-    "img/gallery/goosebumps_0",
-    "img/gallery/sparky pride_0",
-    "about.md",
-    "nav.md",
-    "world/bauhinia/bauhinia.md",
-    "stories/the-yacht-trip.md",
-    "stories/pearls-journey-home.md",
-    "_site/world/bauhinia/froggy-island/index.html",
-    "misc/misc.md",
-    "misc/credits.md"
+    "_site/img/gallery/9D1FBQVxXn-1000.webp"
   ]
 }
