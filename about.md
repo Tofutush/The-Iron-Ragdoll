@@ -10,6 +10,8 @@ eleventyNavigation:
 
 # About
 
+A comic and paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage.
+
 ## About the comic
 
 *Apparently, seeing the literal ghost of the victim doesn't make solving the murder any easier.*
