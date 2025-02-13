@@ -43,7 +43,9 @@ The closest geographical mirror to Bauhinia is southern China.
 
 ## Government
 
-Bauhinia is a ministerial republic with an avid love for bureaucracy. The government primarily serves the interests of the wealthy, which kind of only involves [Starcorp](/world/bauhinia/starcorp/), with which it is in a mutually beneficial and balanced relationship, with Starcorp making sure the government stays in power and the government making sure Starcorp dominates in the economy.
+Bauhinia is a ministerial republic with an avid love for bureaucracy. The government primarily serves the interests of the bourgeoisie[^3], which kind of only involves [Starcorp](/world/bauhinia/starcorp/), with which it is in a mutually beneficial and balanced relationship, with Starcorp making sure the government stays in power and the government making sure Starcorp dominates in the economy.
+
+[^3]: Someone give me a tutorial on how to sound less communist.
 
 ### Ministries
 

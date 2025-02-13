@@ -10,6 +10,10 @@ tags:
 
 # Coastline Middle School / 沿海十一中
 
+A shitty middle school in a shitty city.
+
+## Students
+
 - [Sparky](/characters/sparky/)
 - [Qibli](/characters/qibli/)
 - [Sky](/characters/sky/)
