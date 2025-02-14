@@ -30,16 +30,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/moreland/appaloosa-tribe.md",
+                "file": "world/moreland/moreland.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "appaloosa-tribe"
+              "title": "moreland"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "changelog/changelog.md",
+                "file": "world/moreland/moreland.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of changelog"
+              "title": "Outline of moreland"
             }
           }
         ]
@@ -168,12 +169,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "bde06b6ca17daf3d",
+  "active": "2658a9982012217c",
   "lastOpenFiles": [
     "world/moreland/appaloosa-tribe.md",
+    "changelog/changelog.md",
     "stories/appaloosa-backstory.md",
     "about.md",
-    "changelog/changelog.md",
     "world/moreland/moreland.md",
     "_site/stories/paperweight-backstory/index.html",
     "_site/stories/buttercup-backstory/index.html",
