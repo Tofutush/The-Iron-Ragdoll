@@ -2004,5 +2004,27 @@
     "scope": "full-body",
     "style": "normal",
     "date": "2025-02-12"
+  },
+  {
+    "name": "cosmo profile",
+    "type": "png",
+    "ch": [
+      "cosmo"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-02-14",
+    "kind": "thumb new"
+  },
+  {
+    "name": "tephra profile",
+    "type": "png",
+    "ch": [
+      "tephra"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-02-14",
+    "kind": "thumb new"
   }
 ]
