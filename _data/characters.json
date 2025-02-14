@@ -961,7 +961,7 @@
       "horns": "#905605",
       "hair": "#2E2E2E"
     },
-    "about": "Snowball is a part of the [Appaloosa Tribe](/world/moreland/appaloosa-tribe/) in [Moreland](/world/moreland/)."
+    "about": "Snowball is a part of a nomadic tribe in [Moreland](/world/moreland/)"
   },
   {
     "name": "Buttercup",
@@ -1352,7 +1352,8 @@
     "color": "#0e81c8",
     "desc": "Majiang-loving soul-dealer",
     "tags": [
-      "Fanton"
+      "Fanton",
+      "One Man Short"
     ],
     "attr": {
       "Nickname": "Co (by Kaleidoscope)",
@@ -1373,7 +1374,8 @@
     "namezh": "万花筒",
     "color": "#6f4a16",
     "tags": [
-      "Fanton"
+      "Fanton",
+      "One Man Short"
     ],
     "attr": {
       "Nickname": "Kally (by Cobalt)",
@@ -1390,7 +1392,8 @@
     "namezh": "夜莺",
     "color": "#d22dae",
     "tags": [
-      "Fanton"
+      "Fanton",
+      "One Man Short"
     ],
     "attr": {
       "Gender": "Female",
@@ -1406,6 +1409,9 @@
     "name": "Skyhawk",
     "namezh": "月月鸟",
     "color": "#077838",
+    "tags": [
+      "One Man Short"
+    ],
     "attr": {
       "Gender": "Male",
       "Age estimation": "Around the same as Cobalt",
