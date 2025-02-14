@@ -1,0 +1,14 @@
+<div class="chs">
+    {% for ch in chs %}
+        <div>
+            <div class="ch" style="--c: {{ ch.color }}">
+                <a href="/characters/{{ ch.name | lowerCase }}/">
+                {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
+                {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
+                {% image "gallery/" profilePath 200 ch.name '' iconPath %}
+                </a>
+            </div>
+            {% include 'chButton', ch: ch.name %}
+        </div>
+    {% endfor %}
+</div>

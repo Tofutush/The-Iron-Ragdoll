@@ -6,11 +6,16 @@ eleventyNavigation:
   key: Westavia
   parent: World
   order: 4
+desc: What if alcoholics made a country?
+tags:
+  - westavia
 ---
 
 # The Republic of Westavia / 伟思德维亚共和国
 
 {% image "gallery/" "westavia flag.svg" 1000 "Flag of Westavia" 'max' %}
+
+Wes-DAY-vee-a: the brown alcoholics.
 
 A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/moreland/), and west of [Atlasia](/world/atlasia/).
 
@@ -26,8 +31,17 @@ The closest geographical mirror to Westavia is Xinjiang and Central Asia.
 
 Except for the capital, all cities and regions in Westavia are called "Area (number)."
 
+- [Area 1](/world/westavia/area-1/)
 - [Area 29](/world/westavia/area-29/)
   - [Nameless Village](/world/westavia/nameless-village/)
+
+## Government
+
+Westavia is a socialist country.
+
+### Agencies
+
+- [Suicide Prevention Force](/world/westavia/spf/), the state security apparatus
 
 ## Society
 

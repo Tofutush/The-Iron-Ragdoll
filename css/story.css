@@ -15,14 +15,11 @@
 
 .story>h3 {
     margin-top: 0;
+    margin-left: 0;
 }
 
 .story>h3:before {
     content: '' !important;
-}
-
-.story>p:first-of-type {
-    opacity: .5;
 }
 
 .story>p:last-child {

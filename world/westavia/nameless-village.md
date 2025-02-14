@@ -4,9 +4,11 @@ title: Nameless Village
 eleventyNavigation:
   key: Nameless Village
   parent: Westavia
+tags:
+  - nameless-village
 ---
 
-# Nameless Village
+# Nameless Village / 无名村
 
 A little village in the countryside of [Westavia](/world/westavia/).
 

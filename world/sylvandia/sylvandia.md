@@ -6,13 +6,16 @@ eleventyNavigation:
   key: Sylvandia
   parent: World
   order: 6
+desc: What if no one made a country and you're all just smooshed together?
+tags:
+  - sylvandia
 ---
 
 # The Sylvandian Federation / 希尔万迪亚合众国
 
 {% image "gallery/" "sylvandia flag.svg" 1000 "Flag of Sylvandia" 'max' %}
 
-The Sylvandian Federation. It is nominally independent but still in colonial limbo.
+Sil-VAN-dee-a: the blue-and-yellow-colored huge mess. It is nominally independent but still in colonial limbo.
 
 [[toc]]
 

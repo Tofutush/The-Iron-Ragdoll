@@ -3,10 +3,14 @@ layout: layout.liquid
 title: Fun
 eleventyNavigation:
   key: Fun
-  order: 4
+  parent: Root
+  order: 5
 ---
 
 <h1>Fun</h1>
 
-<div id="uquiz_embed" data-quiz-id="v5EFoN" data-width="100%"></div>
-<script src="https://uquiz.com/embed.js"></script>
+<ul>
+  {% for file in collections.fun %}
+    {% include 'fileLi', file: file %}
+  {% endfor %}
+</ul>

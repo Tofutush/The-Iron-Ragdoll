@@ -15,7 +15,7 @@
     "theme": "{{ comic.theme }}",
     "eleventyNavigation": {
       "key": "{% if pagination.pageNumber != 0 %}Page {{ pagination.pageNumber }}{% else %}Root{% endif %}",
-      "parent": "{% if pagination.pageNumber != 0 %}Root{% endif %}"
+      "parent": "{% if pagination.pageNumber != 0 %}Chapters{% endif %}"
     }
   }
 }

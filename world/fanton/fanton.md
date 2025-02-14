@@ -6,13 +6,16 @@ eleventyNavigation:
   key: Fanton
   parent: World
   order: 2
+desc: What if PETA made a country?
+tags:
+  - fanton
 ---
 
 # The Republic of Fanton / 范顿共和国
 
 {% image "gallery/" "fanton flag.svg" 1000 "Flag of Fanton" 'max' %}
 
-The purple starry-eyed tree-lovers.
+FAN-ten (alternatively, FAN-[grunting sound]): the purple starry-eyed tree-lovers.
 
 The panda is the national symbol of Fanton.
 

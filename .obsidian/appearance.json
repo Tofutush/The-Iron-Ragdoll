@@ -1,0 +1,18 @@
+{
+  "accentColor": "#e56b6f",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "folder tree",
+    "justify",
+    "line height",
+    "properties",
+    "icon ratio",
+    "border",
+    "titlebar background"
+  ],
+  "interfaceFontFamily": "din round pro,微软雅黑",
+  "textFontFamily": "Lexend,霞鹜漫黑,SundayComics BB,Bookerly,霞鹜文楷",
+  "cssTheme": "",
+  "theme": "moonstone",
+  "monospaceFontFamily": "JetBrains Mono"
+}

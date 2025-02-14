@@ -4,6 +4,7 @@ title: Minor Characters
 eleventyNavigation:
   key: Minor Characters
   parent: Characters
+  order: 2
 ---
 
 # Minor Characters
@@ -20,11 +21,15 @@ Characters that I have a name of but doesn't have a large role in the story. Or 
 
 ### Hyrax
 
-Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/animus/). Husband of Cherry. Friend of [Peacock](/characters/peacock/). Pretty much perceived as a legend in the Starcorp family.
+Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/animus/). Husband of Cherry. Friend of [Peacock](/characters/peacock/). Pretty much perceived as a legend in the Starcorp family. Owns a huge-ass island.
 
 ### Peach
 
 [Animus](/characters/animus/)'s daughter.
+
+### Bunchberry
+
+[Ironheart](/characters/ironheart/)'s daughter.
 
 ## Pets
 
@@ -35,6 +40,10 @@ Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/an
 ### Limpdick
 
 Hyrax's family cat, a male tortiseshell. [Peacock](/characters/peacock/) came up with the name.
+
+### Muffin
+
+[Elegance](/characters/elegance/)'s [wingpony](/world/creatures/).
 
 ## Parents with only names because of that dumb naming system I came up with
 

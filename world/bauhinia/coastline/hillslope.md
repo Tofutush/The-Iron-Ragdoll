@@ -1,12 +1,14 @@
 ---
 layout: layout.liquid
 title: Hillslope
+tags:
+  - hillslope
 eleventyNavigation:
   key: Hillslope
   parent: Coastline
 ---
 
-# Hillslope
+# Hillslope / 小山坡
 
 A town ran by [Starcorp](/world/bauhinia/starcorp/) to help people by raising the kids they can't afford or have no time to raise. At least, that's what it is on paper.
 
@@ -17,22 +19,22 @@ A town ran by [Starcorp](/world/bauhinia/starcorp/) to help people by raising th
 (When Sparky was living there.)
 
 - Building A
-    - Story 1
-        - Room a: [Tundra](/characters/tundra/)
-        - Room b: [Melody](/characters/melody/)
-    - Story 2
-        - Room a: [Tephra](/characters/tephra/)
-        - Room b: [Jerboa](/characters/jerboa/)
-    - Story 3
-        - Room a: [Alaska](/characters/alaska/)
-        - Room b: [Dragonfly](/characters/dragonfly/)
+  - Story 1
+	- Room A: [Tundra](/characters/tundra/)
+	- Room B: [Melody](/characters/melody/)
+  - Story 2
+	- Room A: [Tephra](/characters/tephra/)
+	- Room B: [Jerboa](/characters/jerboa/)
+  - Story 3
+	- Room A: [Alaska](/characters/alaska/)
+	- Room B: [Dragonfly](/characters/dragonfly/)
 - Building B
-    - Story 1
-        - Room a: [Tomato](/characters/tomato/)
-        - Room b: [Cosmo](/characters/cosmo/)
-    - Story 2
-        - Room a: [Ribbon](/characters/ribbon/)
-        - Room b: [Starry](/characters/starry/)
-    - Story 3
-        - Room a: [Sparky](/characters/sparky/) (Previously [Guillotine](/characters/guillotine/))
-        - Room b: Empty (Previously Amulet)
+  - Story 1
+	- Room A: [Tomato](/characters/tomato/)
+	- Room B: [Cosmo](/characters/cosmo/)
+  - Story 2
+	- Room A: [Ribbon](/characters/ribbon/)
+	- Room B: [Starry](/characters/starry/)
+  - Story 3
+	- Room A: [Sparky](/characters/sparky/) (Previously [Guillotine](/characters/guillotine/))
+	- Room B: Empty (Previously Amulet)

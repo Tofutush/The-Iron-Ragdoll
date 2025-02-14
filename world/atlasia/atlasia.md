@@ -6,13 +6,16 @@ eleventyNavigation:
   key: Atlasia
   parent: World
   order: 3
+desc: What if Ayn Rand made a country?
+tags:
+  - atlasia
 ---
 
 # The Republic of Atlasia / 亚特莱西亚共和国
 
 {% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" 'max' %}
 
-The green money-lovers.
+At-LAY-zha: the green money-lovers.
 
 [[toc]]
 

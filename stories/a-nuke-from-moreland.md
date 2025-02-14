@@ -1,0 +1,192 @@
+---
+layout: story.liquid
+title: The Nuke From Moreland
+canon: yes
+order: 103
+chs:
+  - sparky
+  - qibli
+  - sky
+  - firecrackers
+  - goose
+  - pumpkin
+  - halcyon
+  - paperweight
+  - peacock
+  - gecko
+  - lark
+time: "2031"
+location: <a href="/world/bauhinia/coastline/">Coastline</a>
+summary: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
+titlezh: 莫尔兰核弹
+tags:
+  - a-nuke-from-moreland
+---
+
+I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you wanna read it. I think the questioning scene was pretty cool though. The main problem is that no one has any personality.
+
+[[toc]]
+
+## The discovery
+
+The kids gained a little fame around the place as pet detectives after they recovered Qibli's cat, Sandstorm. So one of Qibli's neighbors came to her for help when their cat went missing.
+
+Firecrackers pointed out a house nearby, abandoned during its construction stage and forever a pile of cement, and told his friends to look there.
+
+They found no cat, but they did find a nuke.
+
+Sky found it first. It looked new since it was the only thing in the basement not caked in dust, and it had a [Moreland](/world/moreland/) flag on it. He came up from the basement screaming. They all burst into the basement, leaving dirty fingerprints all over the casing. Sparky wanted to keep the nuke for herself -- she meant THEMselves, obviously. Qibli magicked Sparky's phone from her hands (since she didn't have one) and called the police.
+
+The police were like "what the" and called the [MSS](/world/bauhinia/mss/). Out from an inconspicuous car came Paperweight ("He's going to be hard to deal with," thought Firecrackers), Goose ("She's going to kill me," thought Qibli), Halcyon ("He looks delicious," thought Sparky), and Pumpkin ("I like him," thought Sky).
+
+They looked at the nuke for a bit, collected the kids' information, and took them to the nearest police station to do some routine questioning. It was getting late, so they called Peacock to come pick them up.
+
+> *I've never seen such a big car before!* Firecrackers bounced up and down in his seat.
+>
+> "It's because Peacock has a bunch of kids outside," Sparky said. "He needs a car big enough to put all of them in. Even this one is a bit too small so he had to deliver them in batches."
+>
+> Peacock rolled his eyes.
+
+The kids figured out that they left the nuke in the basement to get picked up tomorrow. So they started plotting: they would steal the nuke tonight.
+
+> [!question]+ Why didn't the MSS send people over to collect the nuke ASAP?
+>
+> Because they *knew* Sparky was Peacock's daughter, and they already suspect Starcorp. They *let* Sparky attempt to steal it, so she could get involved.
+
+## The theft
+
+They arrived near the abandoned house at midnight. Sparky brought a cart. She and Firecrackers went down to get the nuke out, while Sky and Qibli stood watch outside.
+
+Though it was August, the night was still chilly, and Sky was in his pajamas. Qibli tried casting a warmth spell on him, but it didn't work.
+
+Eventually Sparky and Firecrackers came back up with the nuke. It was then when they noticed they didn't know where to actually *put* the nuke now that they stole it.
+
+Their problem got solved pretty quickly as a blinding bright flashlight shone on them, and they heard Paperweight's infectious voice: "Hands up. Don't move. You're under arrest."
+
+They got shoved in the back of a car and hauled off to an interrogation room at the MSS office in Coastline. They were cuffed together to a heater, which is a funny picture I may or may not draw one day[^1].
+
+[^1]: Why is there a wall heater in Coastline of all places where it never snows? I don't care I like cuffing people to heaters.
+
+Also Paperweight got extremely pissed off at Qibli, because her warmth spells *had* been working, but they got cast on a stalking Paperweight instead of Sky. He almost got a heat stroke.
+
+## The challenge
+
+So Paperweight had the kids cuffed to the heater and on more than one occasion zapped them through knocking the radiator with a stun baton. Pumpkin burst in, pleading to Paperweight to treat the kids better. Classic good-cop-bad-cop, but they fell for it.
+
+Pumpkin begged for a compromise. Paperweight told the kids that if they could find out exactly how the nuke ended up there, they could have it.
+
+Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to the side and asked him to come to the MSS each night to report progress. Essentially, to spy on his friends. The manipulation was simple against a kid, and he agreed.
+
+> [!question]+ Why did they choose Sky?
+> He already showed signs of being annoyed by Sparky's "claim to fame." Plus signs of an ego. Motivation.
+
+> [!question]+ Why let him into the MSS then, if he has such an ego?
+> Well, maybe he worked on it. And showed incredible talent. And joined the military. He did grow up.
+
+The MSS were just using Sparky's Peacock connection since they suspected it was Starcorp. Sure enough, Gecko, the smuggler who stashed the nuke there, contacted Peacock as soon as she knew the nuke had been found.
+
+Sparky overheard their phone conversation and noted down the time and place for the meeting. Starlight cafe. Tomorrow afternoon.
+
+She informed her friends, of course. Who could make it? Ah, Qibli wasn't coming. Firecrackers could. Sky? Depends. He would let you know in the morning. Good.
+
+## Pumpkin's confession
+
+Sky went to the MSS to tattle. Starlight cafe, tomorrow afternoon. This is great, keep it up. Would you like a lollipop? Have an ice cream. Oh, can *you* go? We'd recommend against it.
+
+It was getting late, and it was raining, so Pumpkin drove Sky back home. But as a mole, Pumpkin's fragile string was snapping.
+
+> They stopped at a red light.
+>
+> "Sky, can I ask you a question?" Pumpkin said, staring straight ahead at the road.
+>
+> "What question?"
+>
+> "If you found out that someone is a spy. Betrayed Bauhinia. Spying on us. What would you do?"
+>
+> "Report to the MSS immediately!"
+>
+> "What if you *are* the MSS?"
+>
+> Sky sat there dumbfounded for a split second, but he got the implication.
+>
+> "I'd report to my boss, then." he said.
+>
+> "What if -- " Pumpkin stopped himself. "This stuff is complicated, but the short story is that you can't just 'report to your boss.'"
+>
+> "You have to tell *someone*. Anyone! Officer Goose! Paperweight! Halcyon!"
+>
+> Pumpkin gave a startled jolt when he said "Halcyon," but it was only because the light turned green. They drove straight on.
+>
+> "What if exposing the mole would ruin your own life?" Pumpkin asked. "For example, he could hire someone to assassinate you and your family."
+>
+> "You still gotta do it," Sky said. "No doubts I would do it," he added, though he knew that if he were really in the same situation he would also second-guess himself.
+>
+> "What if…" Pumpkin started. Sky was worried he might be more focused on coming up with the question than on the road. But he never finished.
+>
+> The journey was completed in silence.
+
+> [!note]+ A sentence I don't know where to put
+> Sky sat watching the raindrops race each other to the bottom of the window. He lost the bet. His drop was going so fast, but it got stuck just a couple centimeters away from the bottom. He took his eyes off the side window.
+
+He didn't know our dear Halcyon bugged the car and overheard their entire conversation.
+
+After Pumpkin dropped Sky off at his place, he drove the MSS car back to the lot, and hopped on his bike to ride home.
+
+He never got home.
+
+In the same alleyway he rode through every single day, where he fed stray cats and said hello to people through their windows, Halcyon was waiting for him with a noose for his neck.
+
+He strangled him, shoved him into the trunk of a car without a license plate, and drove the car into a landfill.
+
+> [!bug]+ Tofu that's a terrible murder; the police would find him in no time
+> I have no idea how to murder someone and leave no evidence in our modern world okay (even without the cameras everywhere I probably wouldn't have any idea either). If I *did* know then you should probably be worried.
+
+> [!note]+
+> Maybe there was no camera in or near the alley. Wouldn't that be convenient.
+
+## Gecko
+
+The next day, Sparky bought some melatonin in the morning and drugged Peacock at lunch. She tucked him into bed, took his phone and briefcase, hailed a taxi, picked up Firecrackers from his parents' grocery store, and got to Starlight Cafe.
+
+Gecko and Peacock had a signal agreed: a male, with a briefcase placed by his feet and his jacket slung on the back of the seat. Sparky stole both of them from her home, and Firecrackers sat in the place Peacock was supposed to sit. Sparky sat where Gecko would've had her back to her.
+
+The MSS was there even before they arrived, sitting in corners.
+
+Gecko arrived, looked around the place, and headed for Firecrackers, probably thinking he was a bit too young for his voice. Before Sparky could walk towards her, before Gecko even sat down, the MSS plainclothes pounced on her and took her away. Sparky tried to stop them, but she was heavily outnumbered. Gecko was taken into custody by the MSS.
+
+## The investigation of Pumpkin's disappearance
+
+The next morning, the police were knocking on Sky's door. He was the last person seen with Pumpkin, so they wanted some questions answered.
+
+Apparently, Pumpkin's boyfriend called the police after not having Pumpkin return home two nights ago, and not being able to find him for an entire day (the same day Sparky went to meet Gecko). The police saw Pumpkin sending Sky home, and saw the plate-less car, but couldn't trace its origins.
+
+At the police station, the MSS came to get Sky. They obtained an alibi from his parents that he did get home and stay there right after Pumpkin dropped him off. They asked him whether Pumpkin was acting weird during the ride. Sky was so nervous he couldn't think straight. He didn't tell them about the mole thing.
+
+### What should (probably) be going through a logical person's mind right now?
+
+For Sky, he should think that if something happened to Pumpkin right after him telling Sky about the mole, he must've been targeted *by* the mole to prevent him from tattling (which is exactly what Halcyon intended). And he must've bugged the car in order to overhear their conversation. So by this logic, the mole would be coming for *Sky* next. His task is to figure out *who* the mole is (the suspect pool only contains 3 people), and expose them with evidence. If he could not achieve that, he must run and hide. His friends chose the former route for him.
+
+For Goose and Paperweight, since they do not know about Pumpkin's confession, *and* they're not even sure Pumpkin is dead, they would start by collaborating with the police and approach the disappearance with your usual methods: interviewing his family, friends, and neighbors to figure out where he might have gone, or the worst case scenario in which he is dead.
+
+For Halcyon, his main task is to aid the investigation without drawing suspicion onto himself, which should be easy. Ideally, Pumpkin would never be found, and declared presumed dead, and the case would get shoved on the shelf with all the other unsolved mysteries.
+
+## Ramble zone
+
+So they go find Pumpkin's boyfriend, who doesn't even have a name or design or *anything*. Sorry, Pumpkin. Candlelight's a better boyfriend for ya.
+
+BF says Pumpkin hasn't come home that night, he wasn't that worried since he does work late sometimes, but the entire day he couldn't get in contact with him. the last message he received from pumpkin was "i wont be home for dinner tonight."
+
+why do pumpkin and his bf live together? idk gay behavior? they rented the apartment together. is that like too uncommon
+
+when asked about pumpkins work nature, he just said "he worked in the government"
+
+when do the kids meet lark?
+
+how do the kids figure out halcyon did it?
+
+sky told his friends about pumpkins car confession.
+
+## Related stories
+
+- [Paperweight's Roadtrip](/stories/paperweights-roadtrip/)
+- [Candlelight Back Home](/stories/candlelight-back-home/)

@@ -6,8 +6,15 @@ eleventyNavigation:
   parent: Bauhinia
 ---
 
-# Flower City
+# Flower City / 花城
 
 Capital of [Bauhinia](/world/bauhinia/), near the geographical center of the country.
 
-Places of interest: [The University of Flower City](/world/bauhinia/flower-city/ufc/), and [MSS headquarters](/world/bauhinia/mss/).
+## History
+
+Flower City used to be the capital of the Bauhinian Empire too. After the revolution, the republicans redecorated the emperor's palace and simply used that as the government building.
+
+## Places of Non-Interest
+
+- [University of Flower City](/world/bauhinia/flower-city/ufc/)
+- [MSS headquarters](/world/bauhinia/mss/).

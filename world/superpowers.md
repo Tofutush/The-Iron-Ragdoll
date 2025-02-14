@@ -1,7 +1,9 @@
 ---
 layout: layout.liquid
 title: Superpowers
+desc: Superpowers, and how they interact with each other!
 templateEngineOverride: liquid,md
+tags: lore
 eleventyNavigation:
   key: Superpowers
   parent: World
@@ -68,53 +70,6 @@ Look into other people's deepest privacy. Listen in. What are they thinking abou
 
 That is, if your power is strong enough. Weak mind reading powers are extremely limited. For example, Cosmo can only tell whether people are lying -- though she's quite good at that.
 
-## Power relations / 能力间的关系
-
-Powers do not exist solely on their own. They affect, and are affected by, each other.
-
-{% figure 'gallery/' 'power relations.svg' 1000 'Power relations chart' 'How did you know I copied the five elements map?' 'max' %}
-
-The picture above shows which power can affect which. The outer loop indicates boosting, and the inner star indicates blocking. Which means:
-
-- Boosting: Timekeeping ==> mind-reading ==> hyperawareness ==> superstrength ==> invisibility ==> timekeeping.
-- Blocking: Superstrength ==> timekeeping ==> hyperawareness ==> invisibility ==> mind-reading ==> superstrength.
-
-Boosting will make the person being boosted stronger, and blocking will make the person being blocked weaker. The person *doing* the boosting and blocking does not get affected.
-
-It happens automatically when two people with different superpowers come in contact with each other. The effects depend on how close they are -- peaking when they directly touch each other -- and the respective strength of their powers. People cannot consiously feel anything when it happens, but if you're experienced you can tell from signs anyways.
-
-<!-- Note that some boosting / blocking affects *everyone*, like sensors making strongpeople stronger, who can then use that boosted strength to beat more people up. But sometimes it only affects the target, like sensors finding invisible people. -->
-
-<!-- ### Power boosting / 能力相生
-
-Each power would boost another power when they are near each other.
-
-**Superstrength**: Being around sensors will make strongpeople even stronger, which is obviously pretty bad when a sensor is trying to fight a strongperson.
-
-**Hyperawareness**: Mind-readers can make sensors stronger.
-
-**Mind-reading**: Mind-readers can read more clearly the minds of timekeepers than anyone else. This includes their internal clocks!
-
-**Timekeeping**: Invisibles can make the time even more precise for timekeepers.
-
-**Invisibility**: Having strongpeople around can make an invisible hide themselves more. Depending on how strong each person's power is, they might even be able to hide from sensors.
-
-### Power blocking / 能力相克
-
-Each power would also weaken another power if they are near each other.
-
-**Superstrength**: When a mind-reader is present, a strongperson[^3]'s strength can be greatly reduced depending on both their power level and the mind-reader's -- although they won't feel a thing unless they start doing shit and breaking their backs.
-
-[^3]: Damn I really need a better name.
-
-**Timekeeping**: timekeepers' sense of time can be distorted by strongpeople. Especially if they're touching each other, the timekeeper -- if they aren't aware that the other guy is a strongperson -- would often mistake some other sign as their internal clock, such as their heartbeat or whatever.
-
-**Hyperawareness**: sensors' senses can be reduced by timekeepers.
-
-**Invisibility**: Invisibles may just reappear when a sensor walks into them or something.
-
-**Mind reading**: mind-readers cannot read the minds of invisibles, no matter whether they're currently invisible or not. -->
-
 ## Special powers / 特殊
 
 These powers are extremely rare, and don't have the boosting and blocking effects that the other five have.
@@ -126,7 +81,7 @@ These powers are extremely rare, and don't have the boosting and blocking effect
 - Possessors: [Tundra](/characters/tundra/)
 - People with immortality are called immortals
 
-Get mutilated beyond recognition and still recover with an able body! Literally never die! Except...
+Get mutilated beyond recognition and still recover with an able body! Literally never die! Except…
 
 For each immortal there is *one* thing that can kill them. And you won't know what it is.
 
@@ -149,7 +104,7 @@ Magicians can choose to take their magic out of their body and into a vessel. Th
 
 For each superpower, be it common or special, there will be at most *one* person alive at the time who will bear the title of Arch-whatever-they-are.
 
-Arch-people are obviously the most powerful at whatever their superpower is, but here's the catch: you can't be born into it. You have to have *conciously* did something about your superpower that no one else had ever done.
+Arch-people are obviously the most powerful at whatever their superpower is, but here's the catch: you can't be born into it. You have to have *consciously* did something about your superpower that no one else had ever done.
 
 For example, [Qibli](/characters/qibli/) crowned herself as the Arch-Magician (not officially, since at that time, the [Bauhinian government](/world/bauhinia/) had already completely illegalized anything related to magic) after discovering how to not only put fragments of her magic in vessels (previously it was only possible to put the entire thing in), but also let *other people*, non-magicians use it, something that has always been considered impossible.
 

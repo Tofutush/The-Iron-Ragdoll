@@ -6,12 +6,18 @@ const markdownIt = require('markdown-it');
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require('markdown-it-anchor');
 const markdownItTOC = require('markdown-it-table-of-contents');
+const markdownItExternalLinks = require('markdown-it-external-links');
+const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
 const { minify } = require('html-minifier-terser');
 const { existsSync } = require("fs");
 const pinyin = require('chinese-to-pinyin');
+const { iconSVGString, eleventyLucideIconsPlugin } = require('./lucideicons.js');
+const imageSize = require('image-size');
 
 module.exports = function (eleventyConfig) {
-	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-');
+	let footerIndex = 0;
+
+	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-').replace(/\'+/g, '');
 	const mdIt = markdownIt({
 		html: true,
 		breaks: true,
@@ -21,12 +27,14 @@ module.exports = function (eleventyConfig) {
 	}).use(markdownItTOC, {
 		includeLevel: [2, 3, 4],
 		transformContainerOpen: () => {
-			return '<div id="toc-wrap"><h2 class="collapsible" target="#toc"><a>Table of Contents</a></h2><div id="toc" class="collapsible-content">';
+			return '<details id="toc-wrap"><summary><h3>Table of Contents</h3></summary><div id="toc">';
 		},
 		transformContainerClose: () => {
-			return '</div></div>';
+			return '</div></details>';
 		},
-	});
+	}).use(markdownItExternalLinks, {
+		externalTarget: '_blank'
+	}).use(markdownItObsidianCallouts);
 	mdIt.renderer.rules.footnote_caption = (tokens, idx) => {
 		let n = Number(tokens[idx].meta.id + 1).toString();
 		if (tokens[idx].meta.subId > 0) n += `:${tokens[idx].meta.subId}`;
@@ -39,13 +47,13 @@ module.exports = function (eleventyConfig) {
 		if (typeof env.docId === 'string') id = `-${env.docId}-`;
 		else id = prefix + n;
 		if (tokens[idx].meta.subId > 0) id += `:${tokens[idx].meta.subId}`;
-		return ` <a href="#fnref${id}" class="footnote-backref"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-move-up"><path d="M8 6L12 2L16 6"/><path d="M12 2V22"/></svg></a>`;
+		return ` <a href="#fnref${id}" class="footnote-backref">${iconSVGString('move-up', { size: 18 })}</a>`;
 	}
 	eleventyConfig.setLibrary("md", mdIt);
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
-	// eleventyConfig.addPlugin(pluginRss);
+	eleventyConfig.addPlugin(eleventyLucideIconsPlugin);
 	const mdRender = new markdownIt();
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
@@ -60,6 +68,9 @@ module.exports = function (eleventyConfig) {
 	);
 	// filters
 	eleventyConfig.addFilter('slug', slug);
+	eleventyConfig.addFilter('randomItem', function (arr) {
+		return arr[Math.floor(Math.random() * arr.length)];
+	});
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
 		return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
 	});
@@ -87,6 +98,9 @@ module.exports = function (eleventyConfig) {
 	});
 	eleventyConfig.addFilter('filterGalleryByDate', function (arr, f) {
 		return arr.filter(a => a.date?.includes(f));
+	});
+	eleventyConfig.addFilter('filterGalleryByKind', function (arr, f) {
+		return arr.filter(a => a.kind?.includes(f));
 	});
 	eleventyConfig.addFilter('getChByCat', function (arr, cat) {
 		return arr.filter(c => c.cat == cat);
@@ -127,6 +141,12 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('slice', function (str, s, e) {
 		return str.slice(s, e ? e : str.length);
 	});
+	eleventyConfig.addFilter('filterChByTag', function (chs, tag) {
+		return chs.filter(c => c.tags?.some(t => t == tag));
+	});
+	eleventyConfig.addFilter('getFooterImg', function (arr) {
+		return arr[footerIndex++ % arr.length];
+	})
 	// shortcodes
 	eleventyConfig.addShortcode('arrows', function (f, p, n, l, num) {
 		let dot;
@@ -134,19 +154,21 @@ module.exports = function (eleventyConfig) {
 		else dot = '..';
 		return `
 			<div class="options">
-				<a ${p ? '' : 'class="noclick"'} href="${dot}${f}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m11 17-5-5 5-5"/><path d="m18 17-5-5 5-5"/></svg></a>
-				<a ${p ? '' : 'class="noclick"'} href="${dot}${p}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></a>
+				<a ${p ? '' : 'class="noclick"'} href="${dot}${f}#img">${iconSVGString('chevrons-left')}</a>
+				<a ${p ? '' : 'class="noclick"'} href="${dot}${p}#img">${iconSVGString('chevron-left')}</a>
 				<p><span class="pagenum">${num}</span></p>
-				<a ${n ? '' : 'class="noclick"'} href="${dot}${n}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></a>
-				<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 17 5-5-5-5"/><path d="m13 17 5-5-5-5"/></svg></a>
+				<a ${n ? '' : 'class="noclick"'} href="${dot}${n}#img">${iconSVGString('chevron-right')}</a>
+				<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#img">${iconSVGString('chevrons-right')}</a>
 			</div>
 		`;
 	});
-	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className) {
-		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : "img/bg/placeholder.png";
+	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className, fallback) {
+		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : (existsSync('img/' + path + fallback) ? 'img/' + path + fallback : "img/bg/placeholder.png");
+		let dimensions = imageSize(src);
+		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
 		let metadata = await Image(src, {
 			widths: [size],
-			formats: ['webp'],
+			formats: [format],
 			urlPath: '/img/' + path,
 			outputDir: './_site/img/' + path
 		});
