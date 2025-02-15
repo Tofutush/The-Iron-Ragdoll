@@ -9,6 +9,16 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-15
+
+- Added `tomato profile.png`, `jerboa profile.png`.
+- Edited [Fanton](/world/fanton/), [Souls](/world/souls/).
+
+## 2025-02-14
+
+- I forgot to log the changes this day…
+- Added `tephra profile.png`, `cosmo profile.png`.
+
 ## 2025-02-13
 
 - Edited [Moreland](/world/moreland/), added [The Appaloosa Tribe](/world/moreland/appaloosa-tribe/).
