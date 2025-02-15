@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ## 2025-02-15
 
-- Added `tomato profile.png`, `jerboa profile.png`.
+- Added `tomato profile.png`, `jerboa profile.png`, `nightsun bramble.png`.
 - Edited [Fanton](/world/fanton/), [Souls](/world/souls/).
 
 ## 2025-02-14
