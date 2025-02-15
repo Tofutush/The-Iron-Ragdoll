@@ -2048,5 +2048,17 @@
     "style": "normal",
     "date": "2025-02-15",
     "kind": "thumb new"
+  },
+  {
+    "name": "nightsun bramble",
+    "type": "png",
+    "ch": [
+      "nightsun",
+      "bramble"
+    ],
+    "scope": "comic",
+    "style": "messy",
+    "date": "2025-02-15",
+    "comment": "How Nightsun takes care of his kids."
   }
 ]
