@@ -2026,5 +2026,16 @@
     "style": "normal",
     "date": "2025-02-14",
     "kind": "thumb new"
+  },
+  {
+    "name": "tomato profile",
+    "type": "png",
+    "ch": [
+      "tomato"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-02-15",
+    "kind": "thumb new"
   }
 ]
