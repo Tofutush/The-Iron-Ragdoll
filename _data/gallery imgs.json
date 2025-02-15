@@ -2037,5 +2037,16 @@
     "style": "normal",
     "date": "2025-02-15",
     "kind": "thumb new"
+  },
+  {
+    "name": "jerboa profile",
+    "type": "png",
+    "ch": [
+      "jerboa"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-02-15",
+    "kind": "thumb new"
   }
 ]
