@@ -19,9 +19,9 @@ Everyone is born with a perfectly spherical gas soul. The soul changes shape and
 
 ## Removing souls
 
-A soul can be removed from a person. Soul removal is a skill that can be learned and adopted by anyone, but it originated in [Sylvandia](/world/sylvandia/).
+A soul can be removed from a person. Soul extraction is a skill that can be learned and adopted by anyone, but it originated in [Sylvandia](/world/sylvandia/).
 
-Through a variety of techniques not limited to classic Sylvandian soul removal (torture is a common example), your soul can come out of your mouth -- commonly known as "barfing out[^1]." Most books on this topic are banned in [Bauhinia](/world/bauhinia/).
+Through a variety of techniques not limited to classic Sylvandian soul extraction (torture is a common example), your soul can come out of your mouth -- commonly known as "barfing out[^1]." Most books on this topic are banned in [Bauhinia](/world/bauhinia/).
 
 [^1]: Because I have crude humor.
 

@@ -46,9 +46,11 @@ The closest geographical mirror to Bauhinia is Sichuan plus the Yungui Plateau p
 
 Fanton is a republic. The government of Fanton highly values environmental preservation, which is one of its founding ideals, baked into the constitution.
 
+Many things are banned in Fanton, including but not limited to drugs, alcohol, tobacco and nicotine, swearing in public, and addictive stuff like gambling, gacha games, and short video apps. The police train dogs to not only detect drugs, but also drinks and smokes.
+
 ## Economy
 
-Fanton remains relatively unindustrialized and heavily relies on the exportation of crops and materials and the importation of products.
+Fanton remains relatively unindustrialized and heavily relies on the exportation of crops and materials and the importation of products. However, due to the broad category of banned stuff, there is a flourishing underground black market rife with smuggling bootlegged stuff like drugs, alcohol, cigarettes, and [souls](/world/souls/).
 
 ## Society
 
