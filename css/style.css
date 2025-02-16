@@ -436,6 +436,11 @@ body.dark #linx a:hover {
   border-radius: 8px;
   user-select: none;
   text-decoration: none;
+  opacity: .5;
+}
+
+.box-nav>a[aria-current] {
+  opacity: 1;
 }
 
 code {
