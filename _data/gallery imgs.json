@@ -2069,6 +2069,346 @@
     ],
     "scope": "half-body",
     "style": "normal",
-    "date": "2024-09-14"
+    "date": "2024-09-14",
+    "comment": "I swear, I will never do frame-by-frame again."
+  },
+  {
+    "name": "sparky-zombie",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2024-06-23"
+  },
+  {
+    "name": "sparky-bounce",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2024-09-12"
+  },
+  {
+    "name": "nightsun march",
+    "type": "gif",
+    "ch": [
+      "nightsun"
+    ],
+    "scope": "full-body",
+    "style": "lineless",
+    "date": "2024-07-01",
+    "comment": "I actually cannot remember the precise date as the data's lost. It was vaguely in July."
+  },
+  {
+    "name": "nightsun flip",
+    "type": "gif",
+    "ch": [
+      "nightsun"
+    ],
+    "scope": "full-body",
+    "style": "lineless",
+    "date": "2024-07-01",
+    "comment": "I actually cannot remember the precise date as the data's lost. It was vaguely in July."
+  },
+  {
+    "name": "goosebump",
+    "type": "gif",
+    "ch": [
+      "goose"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "goose-float",
+    "type": "gif",
+    "ch": [
+      "goose"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "goose-goose-2",
+    "type": "gif",
+    "ch": [
+      "goose"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in. Also, I cannot find goose-goose anymore."
+  },
+  {
+    "name": "goose-hat",
+    "type": "gif",
+    "ch": [
+      "goose"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2024-09-16"
+  },
+  {
+    "name": "cosmo aaa",
+    "type": "gif",
+    "ch": [
+      "cosmo"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "firecrackers ok",
+    "type": "gif",
+    "ch": [
+      "firecrackers"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "It was supposed to be two middle fingers...\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "jerboa shoot",
+    "type": "gif",
+    "ch": [
+      "jerboa"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "melody hostage",
+    "type": "gif",
+    "ch": [
+      "melody",
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "The text says \"S... Sorry...\"\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "myriad then",
+    "type": "gif",
+    "ch": [
+      "myriad"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky aaa",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky dizzy",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky grenade",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky hammer",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky happy",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky heehee",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "headshot",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky hole",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "The text says \"I prepared a bed for you! It's really warm!\"\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky orz",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky period",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky pile",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "The gun is from Homestuck.\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky rain",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "You can't really tell what character that is, but it was meant to be Sparky.\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky sick",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky thanks",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "sparky uzi",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "tephra shoot",
+    "type": "gif",
+    "ch": [
+      "tephra"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "tundra smoke",
+    "type": "gif",
+    "ch": [
+      "tundra"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "That was supposed to be weed. I don't know what weed smoke looks like though.\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "willow gape",
+    "type": "gif",
+    "ch": [
+      "willow"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "willow please",
+    "type": "gif",
+    "ch": [
+      "willow"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2025-02-16",
+    "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   }
 ]
