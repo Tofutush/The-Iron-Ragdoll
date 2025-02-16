@@ -22,7 +22,7 @@ eleventyNavigation:
       {% assign yearMonth = eachyear | append: '-' | append: paddedMonth %}
       {% assign numInMonth = gallery | filterGalleryByDate: yearMonth %}
       {% if numInMonth.size > 0 %}
-        <li>{{ yearMonth }}: {{ numInMonth.size }} picture{% if numInMonth.size != 1 %}s{% endif %}</li>
+        <li>{{ month | getMonthName }}: {{ numInMonth.size }} picture{% if numInMonth.size != 1 %}s{% endif %}</li>
       {% endif %}
     {% endfor %}
   </ul>
