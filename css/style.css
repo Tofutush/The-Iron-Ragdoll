@@ -452,6 +452,7 @@ code {
   font-size: var(--font-size);
   gap: .5rem;
   margin: 2rem 0;
+  line-height: 2;
 }
 
 .breadcrumbs span {
