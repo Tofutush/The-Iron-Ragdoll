@@ -17,7 +17,7 @@ eleventyNavigation:
   {% assign numInYear = gallery | filterGalleryByDate: eachyear %}
   <h2><a href="/gallery/{{ eachyear }}/">{{ eachyear }}</a>: {{ numInYear.size }} pictures</h2>
   <ul>
-    {% for month in (1..12) reversed %}
+    {% for month in (1..12) %}
       {% assign paddedMonth = month | padStart: 2, '0' %}
       {% assign yearMonth = eachyear | append: '-' | append: paddedMonth %}
       {% assign numInMonth = gallery | filterGalleryByDate: yearMonth %}
