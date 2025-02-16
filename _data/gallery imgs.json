@@ -2060,5 +2060,15 @@
     "style": "messy",
     "date": "2025-02-15",
     "comment": "How Nightsun takes care of his kids."
+  },
+  {
+    "name": "tephra walk",
+    "type": "gif",
+    "ch": [
+      "tephra"
+    ],
+    "scope": "half-body",
+    "style": "normal",
+    "date": "2024-09-14"
   }
 ]
