@@ -12,6 +12,7 @@ eleventyNavigation:
 ## 2025-02-16
 
 - Added a [Gallery stats](/gallery/stats/) page.
+- Added [People's Vanguard](/world/westavia/peoples-vanguard/).
 - Slight tweaks to the CSS.
   - I don't really know why I wrote that down; I mean if you can find the changes with your eyes (without looking in Github) you could probably qualify for some superhuman award.
 
