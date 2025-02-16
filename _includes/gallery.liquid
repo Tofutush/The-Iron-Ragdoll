@@ -5,8 +5,12 @@
     {% image "gallery/" bruhhh 120 img.name %}
     <div class="modal">
       <div class="close">{% lucide 'x' 48 %}</div>
-      {% assign bruhhh = img.name | append: "." | append: img.type %}
-      {% image "gallery/" bruhhh 1000 img.name %}
+      {% if img.type == 'gif' %}
+        <img src="/img/gallery/{{ img.name }}.gif" alt="{{ img.name }}"/>
+      {% else %}
+        {% assign bruhhh = img.name | append: "." | append: img.type %}
+        {% image "gallery/" bruhhh 1000 img.name %}
+      {% endif %}
       {% if img.ch %}
       <div class="chbuttons">
         {% for ch in img.ch %}
