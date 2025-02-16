@@ -106,6 +106,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('filterGalleryByKind', function (arr, f) {
 		return arr.filter(a => a.kind?.includes(f));
 	});
+	eleventyConfig.addFilter('sortGalleryByChCount', function (arr) {
+		return arr.sort((a, b) => a.ch?.length - b.ch?.length);
+	});
 	eleventyConfig.addFilter('getChByCat', function (arr, cat) {
 		return arr.filter(c => c.cat == cat);
 	});
