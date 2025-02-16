@@ -99,6 +99,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('filterGalleryByDate', function (arr, f) {
 		return arr.filter(a => a.date?.includes(f));
 	});
+	eleventyConfig.addFilter('getMonthName', function (n) {
+		return ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][n];
+	})
 	eleventyConfig.addFilter('filterGalleryByKind', function (arr, f) {
 		return arr.filter(a => a.kind?.includes(f));
 	});
