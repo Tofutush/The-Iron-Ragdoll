@@ -9,6 +9,12 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-16
+
+- Added a [Gallery stats](/gallery/stats/) page.
+- Slight tweaks to the CSS.
+  - I don't really know why I wrote that down; I mean if you can find the changes with your eyes (without looking in Github) you could probably qualify for some superhuman award.
+
 ## 2025-02-15
 
 - Added `tomato profile.png`, `jerboa profile.png`, `nightsun bramble.png`.
