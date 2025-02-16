@@ -15,8 +15,8 @@ const { iconSVGString, eleventyLucideIconsPlugin } = require('./lucideicons.js')
 const imageSize = require('image-size');
 
 module.exports = function (eleventyConfig) {
+	eleventyConfig.setQuietMode(true);
 	let footerIndex = 0;
-
 	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-').replace(/\'+/g, '');
 	const mdIt = markdownIt({
 		html: true,
