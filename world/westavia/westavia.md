@@ -31,13 +31,14 @@ The closest geographical mirror to Westavia is Xinjiang and Central Asia.
 
 Except for the capital, all cities and regions in Westavia are called "Area (number)."
 
+- [People's Vanguard](/world/westavia/peoples-vanguard/)
 - [Area 1](/world/westavia/area-1/)
 - [Area 29](/world/westavia/area-29/)
   - [Nameless Village](/world/westavia/nameless-village/)
 
 ## Government
 
-Westavia is a socialist country.
+Westavia is a socialist country. There is a central government, and smaller local governments in each city.
 
 ### Agencies
 
@@ -47,4 +48,8 @@ Westavia is a socialist country.
 
 Westavians love making wine because they have way too many grapes. And raisins too[^1].
 
+Wine culture is all too big in Westavia. People *love* drinking. Though the legal drinking age is still 18, kids would still drink, and simply mandating an ID check in stores won't work, because most people would have homemade wine right in their homes.
+
 [^1]: Too bad. I hate both raisins and wine.
+
+Kids drinking is a small problem. Westavian adults could drink a ton during gatherings, parties, and even local government meetings, to the point where people could die at the table. The central government had attempted some anti-excessive-drinking campaigns that went nowhere.
