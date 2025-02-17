@@ -3,11 +3,24 @@
     grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
 }
 
-.gallery>div.hidden {
+.img {
+    position: relative;
+}
+
+.icons {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 1em;
+    color: var(--box);
+    user-select: none;
+}
+
+.img.hidden {
     display: none;
 }
 
-.gallery>div>img {
+.img>img {
     background-color: var(--box);
     border-radius: 16px;
     cursor: pointer;
@@ -20,7 +33,7 @@
     aspect-ratio: 1;
 }
 
-.gallery>div>img:hover {
+.img>img:hover {
     box-shadow: 0 0 0 4px #0ab89f;
 }
 
