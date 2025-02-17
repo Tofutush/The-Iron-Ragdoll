@@ -129,8 +129,8 @@ h3,
   object-fit: contain;
 }
 
-.gallery>div>img:hover {
-  box-shadow: 0 0 0 4px var(--accent);
+.gallery {
+  --c: var(--accent)
 }
 
 @media only screen and (max-width: 780px) {
