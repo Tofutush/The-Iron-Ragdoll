@@ -2410,5 +2410,20 @@
     "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+  },
+  {
+    "name": "mss ref",
+    "type": "png",
+    "ch": [
+      "goose",
+      "pumpkin",
+      "halcyon",
+      "paperweight",
+      "sky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-02-17",
+    "kind": "ref"
   }
 ]
