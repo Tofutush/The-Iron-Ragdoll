@@ -6,7 +6,6 @@
 
 h1,
 h2,
-h3,
 #main-content h2::before,
 #main-content h3::before {
   color: var(--accent);
