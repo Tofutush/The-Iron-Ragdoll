@@ -9,9 +9,8 @@
 
 .icons {
     position: absolute;
-    bottom: 0;
-    right: 0;
-    padding: 1em;
+    bottom: 1em;
+    right: 1em;
     color: var(--box);
     user-select: none;
 }
