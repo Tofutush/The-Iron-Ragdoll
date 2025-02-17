@@ -1,6 +1,7 @@
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
+    --c: #0ab89f;
 }
 
 .img {
@@ -11,8 +12,9 @@
     position: absolute;
     bottom: 1em;
     right: 1em;
-    color: var(--box);
+    color: var(--c);
     user-select: none;
+    cursor: pointer;
 }
 
 .img.hidden {
@@ -33,7 +35,7 @@
 }
 
 .img>img:hover {
-    box-shadow: 0 0 0 4px #0ab89f;
+    box-shadow: 0 0 0 4px var(--c);
 }
 
 .modal {
