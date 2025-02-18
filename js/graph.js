@@ -4,8 +4,8 @@ const links = [...data.rel];
 const nodes = [...data.ch];
 // Create a simulation with several forces.
 const simulation = d3.forceSimulation(nodes)
-    .force("link", d3.forceLink(links).id(d => d.id))
-    .force("charge", d3.forceManyBody())
+    .force("link", d3.forceLink(links).id(d => d.id).distance(100))
+    .force("charge", d3.forceManyBody().strength(-150))
     .force("x", d3.forceX())
     .force("y", d3.forceY());
 
@@ -23,6 +23,16 @@ const link = svg.append("g")
     .data(links)
     .join("line")
     .attr("stroke-width", 2);
+
+const nodeLabel = svg.append("g")
+    .selectAll("text")
+    .data(nodes)
+    .join("text")
+    .attr("text-anchor", "middle")
+    .attr("dy", 28)
+    .text(d => d.id)
+    .attr("fill", "var(--text)")
+    .style('user-select', 'none');
 
 const node = svg.append("g")
     .selectAll("circle")
@@ -51,16 +61,6 @@ const node = svg.append("g")
             .attr("r", 8);
         // d3.select("#hover-label").remove();
     });
-
-const nodeLabel = svg.append("g")
-    .selectAll("text")
-    .data(nodes)
-    .join("text")
-    .attr("text-anchor", "middle")
-    .attr("dy", 20)
-    .text(d => d.id)
-    .attr("fill", "var(--text)")
-    .style('user-select', 'none');
 
 // Add a drag behavior.
 node.call(d3.drag()
