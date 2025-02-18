@@ -31,14 +31,28 @@ const node = svg.append("g")
     .attr("r", 8)
     .attr('stroke', d => d.color)
     .attr('stroke-width', 2)
-    .attr("fill", 'var(--bg)');
+    .attr("fill", 'var(--bg)')
+// .on("mouseover", (e, d) => {
+//     d3.select(this)
+//         .transition().duration(100)
+//         .attr("r", 12)
+//         .attr("fill", d.color)
+// })
+// .on("mouseout", (e, d) => {
+//     d3.select(this)
+//         .transition().duration(100)
+//         .attr("r", 8)
+//         .attr("fill", 'var(--bg)')
+// });
 
-node.append("text")
-    .text(d => d.id)
-    .attr('text-anchor', 'middle')
-    .attr('dy', -10)
-    .attr('fill', 'var(--text)')
-    .attr('font-size', 'var(--font-size)');
+// const nodeLabel = svg.append("g")
+//     .selectAll("text")
+//     .data(nodes)
+//     .join("text")
+//     .attr("text-anchor", "middle")
+//     .attr("dy", 20)
+//     .text(d => d.id)
+//     .attr("fill", "var(--text)");
 
 // Add a drag behavior.
 node.call(d3.drag()
@@ -48,15 +62,16 @@ node.call(d3.drag()
 
 // Set the position attributes of links and nodes each time the simulation ticks.
 simulation.on("tick", () => {
-    link
-        .attr("x1", d => d.source.x)
+    link.attr("x1", d => d.source.x)
         .attr("y1", d => d.source.y)
         .attr("x2", d => d.target.x)
         .attr("y2", d => d.target.y);
 
-    node
-        .attr("cx", d => d.x)
+    node.attr("cx", d => d.x)
         .attr("cy", d => d.y);
+
+    // nodeLabel.attr("x", d => d.x)
+    //     .attr("y", d => d.y);
 });
 
 // Reheat the simulation when drag starts, and fix the subject position.
