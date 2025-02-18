@@ -36,21 +36,31 @@ const node = svg.append("g")
         d3.select(this)
             .transition().duration(150)
             .attr("r", 12);
+        // svg.append("text")
+        //     .attr("id", "hover-label")
+        //     .attr("x", d.x + 10)
+        //     .attr("y", d.y - 10)
+        //     .attr("text-anchor", "middle")
+        //     .attr("font-size", "14px")
+        //     .attr("fill", "white")
+        //     .text(d.id);
     })
     .on("mouseout", function (e, d) {
         d3.select(this)
             .transition().duration(150)
             .attr("r", 8);
+        // d3.select("#hover-label").remove();
     });
 
-// const nodeLabel = svg.append("g")
-//     .selectAll("text")
-//     .data(nodes)
-//     .join("text")
-//     .attr("text-anchor", "middle")
-//     .attr("dy", 20)
-//     .text(d => d.id)
-//     .attr("fill", "var(--text)");
+const nodeLabel = svg.append("g")
+    .selectAll("text")
+    .data(nodes)
+    .join("text")
+    .attr("text-anchor", "middle")
+    .attr("dy", 20)
+    .text(d => d.id)
+    .attr("fill", "var(--text)")
+    .style('user-select', 'none');
 
 // Add a drag behavior.
 node.call(d3.drag()
@@ -68,8 +78,8 @@ simulation.on("tick", () => {
     node.attr("cx", d => d.x)
         .attr("cy", d => d.y);
 
-    // nodeLabel.attr("x", d => d.x)
-    //     .attr("y", d => d.y);
+    nodeLabel.attr("x", d => d.x)
+        .attr("y", d => d.y);
 });
 
 // Reheat the simulation when drag starts, and fix the subject position.
