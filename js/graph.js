@@ -29,20 +29,18 @@ const node = svg.append("g")
     .data(nodes)
     .join("circle")
     .attr("r", 8)
-    .attr('stroke', d => d.color)
+    .attr('stroke', 'var(--bg)')
     .attr('stroke-width', 2)
-    .attr("fill", 'var(--bg)')
+    .attr("fill", d => d.color)
     .on("mouseover", function (e, d) {
         d3.select(this)
             .transition().duration(150)
-            .attr("r", 12)
-            .attr("fill", d.color);
+            .attr("r", 12);
     })
     .on("mouseout", function (e, d) {
         d3.select(this)
             .transition().duration(150)
-            .attr("r", 8)
-            .attr("fill", 'var(--bg)');
+            .attr("r", 8);
     });
 
 // const nodeLabel = svg.append("g")
