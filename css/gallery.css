@@ -10,11 +10,13 @@
 
 .icons {
     position: absolute;
-    bottom: 1em;
-    right: 1em;
+    top: 12px;
+    left: 18px;
     color: var(--c);
     user-select: none;
     cursor: pointer;
+    display: flex;
+    gap: 8px;
 }
 
 .img.hidden {
