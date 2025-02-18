@@ -13,10 +13,10 @@ const data = {
     rel: [
         {% for rel in relationships %}
             {
-                source: "{{ rel[0][0] }}",
-                target: "{{ rel[1][0] }}",
-                rel1: "{{ rel[0][1] }}",
-                rel2: "{{ rel[1][1] }}"
+                source: "{{ rel.ch[0][0] }}",
+                target: "{{ rel.ch[1][0] }}",
+                rel1: "{{ rel.ch[0][1] }}",
+                rel2: "{{ rel.ch[1][1] }}"
             },
         {% endfor %}
     ]

@@ -18,20 +18,19 @@ const svg = d3.select("#graph")
 
 // Add a line for each link, and a circle for each node.
 const link = svg.append("g")
-    .attr("stroke", "#999")
-    .attr("stroke-opacity", 0.6)
+    .attr("stroke", "var(--box)")
     .selectAll("line")
     .data(links)
     .join("line")
     .attr("stroke-width", () => 2);
 
 const node = svg.append("g")
-    .attr("stroke", "#fff")
-    .attr("stroke-width", 1.5)
+    .attr('stroke', '#fff')
+    .attr('stroke-width', 2)
     .selectAll("circle")
     .data(nodes)
     .join("circle")
-    .attr("r", 5)
+    .attr("r", 8)
     .attr("fill", d => d.color);
 
 node.append("title")
