@@ -33,8 +33,12 @@ const node = svg.append("g")
     .attr('stroke-width', 2)
     .attr("fill", 'var(--bg)');
 
-node.append("title")
-    .text(d => d.id);
+node.append("text")
+    .text(d => d.id)
+    .attr('text-anchor', 'middle')
+    .attr('dy', -10)
+    .attr('fill', 'var(--text)')
+    .attr('font-size', 'var(--font-size)');
 
 // Add a drag behavior.
 node.call(d3.drag()
