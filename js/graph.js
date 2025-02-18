@@ -32,18 +32,18 @@ const node = svg.append("g")
     .attr('stroke', d => d.color)
     .attr('stroke-width', 2)
     .attr("fill", 'var(--bg)')
-// .on("mouseover", (e, d) => {
-//     d3.select(this)
-//         .transition().duration(100)
-//         .attr("r", 12)
-//         .attr("fill", d.color)
-// })
-// .on("mouseout", (e, d) => {
-//     d3.select(this)
-//         .transition().duration(100)
-//         .attr("r", 8)
-//         .attr("fill", 'var(--bg)')
-// });
+    .on("mouseover", function (e, d) {
+        d3.select(this)
+            .transition().duration(150)
+            .attr("r", 12)
+            .attr("fill", d.color);
+    })
+    .on("mouseout", function (e, d) {
+        d3.select(this)
+            .transition().duration(150)
+            .attr("r", 8)
+            .attr("fill", 'var(--bg)');
+    });
 
 // const nodeLabel = svg.append("g")
 //     .selectAll("text")
