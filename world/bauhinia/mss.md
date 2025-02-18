@@ -12,6 +12,8 @@ tags:
 
 The main security apparatus of Bauhinia, handling both intelligence and counterintelligence. Every bit as bureaucratical as you'd imagine a Bauhinian government agency to be.
 
+{% figure 'gallery/' 'mss ref.png' 1000 'MSS Uniform' 'MSS Uniform ref' 'max' %}
+
 ## Members
 
 - [Goose](/characters/goose/)
