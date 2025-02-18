@@ -35,7 +35,12 @@ const nodeLabel = svg.append("g")
     .style('user-select', 'none');
 
 const node = svg.append("g")
-    .selectAll("circle")
+    .selectAll("a")
+    .data(nodes)
+    .join("a")
+    .attr("xlink:href", d => `../${d.id.toLowerCase()}`)
+    .attr("target", "_blank")
+    .append("circle")
     .data(nodes)
     .join("circle")
     .attr("r", 8)
