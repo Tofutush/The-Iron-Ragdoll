@@ -1,0 +1,23 @@
+---
+permalink: "characters/relationships/data.js"
+---
+const data = {
+    ch: [
+        {% for ch in characters %}
+            {
+                name: "{{ ch.name }}",
+                color: "{{ ch.color }}"
+            },
+        {% endfor %}
+    ],
+    rel: [
+        {% for rel in relationships %}
+            {
+                ch1: "{{ rel[0][0] }}",
+                ch2: "{{ rel[1][0] }}",
+                rel1: "{{ rel[0][1] }}",
+                rel2: "{{ rel[1][1] }}"
+            },
+        {% endfor %}
+    ]
+};
