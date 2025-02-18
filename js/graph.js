@@ -22,19 +22,19 @@ const link = svg.append("g")
     .selectAll("line")
     .data(links)
     .join("line")
-    .attr("stroke-width", () => 2);
+    .attr("stroke-width", 2);
 
 const node = svg.append("g")
-    .attr('stroke', '#fff')
-    .attr('stroke-width', 2)
     .selectAll("circle")
     .data(nodes)
     .join("circle")
     .attr("r", 8)
-    .attr("fill", d => d.color);
+    .attr('stroke', d => d.color)
+    .attr('stroke-width', 2)
+    .attr("fill", 'var(--bg)');
 
 node.append("title")
-    .text(d => d.name);
+    .text(d => d.id);
 
 // Add a drag behavior.
 node.call(d3.drag()
