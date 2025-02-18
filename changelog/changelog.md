@@ -12,7 +12,7 @@ eleventyNavigation:
 ## 2025-02-17
 
 - Added GIFs to the [gallery](/gallery/2025/)! Along with icons for when a picture is a gif or has comments. And little style tweaks.
-- Added `mss ref.png`.
+- Added `mss ref.png` (also added to the [MSS](/world/bauhinia/mss/) page).
 
 ## 2025-02-16
 
