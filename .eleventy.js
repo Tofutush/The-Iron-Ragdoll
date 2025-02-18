@@ -63,6 +63,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('fonts');
 	eleventyConfig.addPassthroughCopy('robots.txt');
 	eleventyConfig.addPassthroughCopy('img/gallery/*.gif');
+	eleventyConfig.addPassthroughCopy('_data/graphData.js');
 	// collections
 	eleventyConfig.addCollection("stories", collection =>
 		collection.getFilteredByGlob('stories/*.md').sort((a, b) => a.data.order - b.data.order)
