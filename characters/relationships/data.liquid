@@ -5,7 +5,7 @@ const data = {
     ch: [
         {% for ch in characters %}
             {
-                name: "{{ ch.name }}",
+                id: "{{ ch.name }}",
                 color: "{{ ch.color }}"
             },
         {% endfor %}
@@ -13,11 +13,27 @@ const data = {
     rel: [
         {% for rel in relationships %}
             {
-                ch1: "{{ rel[0][0] }}",
-                ch2: "{{ rel[1][0] }}",
+                source: "{{ rel[0][0] }}",
+                target: "{{ rel[1][0] }}",
                 rel1: "{{ rel[0][1] }}",
                 rel2: "{{ rel[1][1] }}"
             },
         {% endfor %}
     ]
 };
+{% comment %} const data = {
+    ch: [
+            {
+                name: "Sparky",
+                color: "#00ccff"
+            },
+            {
+            name: "Peacock",color: "#20f"
+            }
+    ],
+    rel: [
+        {
+            ch1: "Sparky",ch2: "Peacock",rel1:"Stepdaughter",rel2:"Stepfather"
+        }
+    ]
+}; {% endcomment %}

@@ -23,6 +23,7 @@ const link = svg.append("g")
     .selectAll("line")
     .data(links)
     .join("line")
+    .attr("stroke-width", () => 2);
 
 const node = svg.append("g")
     .attr("stroke", "#fff")
@@ -45,10 +46,10 @@ node.call(d3.drag()
 // Set the position attributes of links and nodes each time the simulation ticks.
 simulation.on("tick", () => {
     link
-        .attr("x1", d => d.from.x)
-        .attr("y1", d => d.from.y)
-        .attr("x2", d => d.to.x)
-        .attr("y2", d => d.to.y);
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
 
     node
         .attr("cx", d => d.x)
