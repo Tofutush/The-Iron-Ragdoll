@@ -22,7 +22,8 @@ const linkGroup = svg.append("g")
 
 // link lines
 const link = linkGroup.append("line")
-    .attr("stroke", "var(--box)")
+    .attr("stroke", "var(--text)")
+    .attr('opacity', 0.3)
     .attr("stroke-width", 2);
 
 // link labels
@@ -30,12 +31,14 @@ const linkLabel1 = linkGroup.append("text")
     .attr("text-anchor", "middle")
     .attr("fill", d => d.source.color)
     .attr("font-size", "12px")
+    .attr('opacity', 0.5)
     .style('user-select', 'none')
     .text(d => d.rel1);
 const linkLabel2 = linkGroup.append("text")
     .attr("text-anchor", "middle")
     .attr("fill", d => d.target.color)
     .attr("font-size", "12px")
+    .attr('opacity', 0.5)
     .style('user-select', 'none')
     .text(d => d.rel2);
 
@@ -48,6 +51,7 @@ const nodeLabel = svg.append("g")
     .attr("dy", 28)
     .text(d => d.id)
     .attr("fill", "var(--text)")
+    .attr('opacity', 0.7)
     .style('user-select', 'none');
 // circle come after label so its layered top
 const node = svg.append("g")
@@ -68,6 +72,8 @@ const node = svg.append("g")
             .transition().duration(150)
             .attr("r", 12)
             .attr('stroke-width', 3);
+        nodeLabel.filter(l => l === d)
+            .attr('opacity', 1);
     })
     .on("mouseout", function (e, d) {
         d3.select(this)
