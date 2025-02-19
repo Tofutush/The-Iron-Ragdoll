@@ -7,17 +7,20 @@ eleventyNavigation:
   parent: Characters
 ---
 <style>
-#graph {
+#wrapper {
   border: 12px solid var(--box);
   border-radius: 2em;
   max-width: 100%;
   box-sizing: border-box;
+  overflow: hidden;
 }
 </style>
 <p>No idea why I did this but it was fun.</p>
 <p>Try hovering over things, and clicking on them leads to their profiles!</p>
 <p>My end goal is to have every character connected -- leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
-<svg id="graph"></svg>
+<div id="wrapper">
+  <svg id="graph"></svg>
+</div>
 <script src="/js/d3@7.js"></script>
 <script src="./data.js"></script>
 <script src="/js/graph.js"></script>

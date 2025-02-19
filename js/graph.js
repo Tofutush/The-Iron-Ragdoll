@@ -18,11 +18,11 @@ const zoom = d3.zoom()
 const svg = d3.select("#graph")
     .attr("width", width)
     .attr("height", height)
-    .attr("viewBox", [-width / 2, -height / 2, width, height])
-    .call(zoom);
+    .attr("viewBox", [-width / 2, -height / 2, width, height]);
 
 // a g to wrap the entire thing for zooming
-const bigG = svg.append('g');
+const bigG = svg.append('g')
+    .call(zoom);
 
 const linkGroup = bigG.append("g")
     .selectAll("g")
