@@ -6,11 +6,15 @@ eleventyNavigation:
   parent: Characters
 ---
 <style>
-    #graph {
-        border: 12px solid var(--box);
-        border-radius: 2em;
-    }
+#graph {
+  border: 12px solid var(--box);
+  border-radius: 2em;
+  max-width: 100%;
+  box-sizing: border-box;
+}
 </style>
+<p>No idea why I did this but it was fun.</p>
+<p>Try hovering over things, and clicking on them leads to their profiles!</p>
 <svg id="graph"></svg>
 <script src="/js/d3@7.js"></script>
 <script src="./data.js"></script>

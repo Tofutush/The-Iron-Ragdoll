@@ -13,8 +13,7 @@ const simulation = d3.forceSimulation(nodes)
 const svg = d3.select("#graph")
     .attr("width", width)
     .attr("height", height)
-    .attr("viewBox", [-width / 2, -height / 2, width, height])
-    .attr("style", "max-width: 100%; height: auto;");
+    .attr("viewBox", [-width / 2, -height / 2, width, height]);
 
 const linkGroup = svg.append("g")
     .selectAll("g")
