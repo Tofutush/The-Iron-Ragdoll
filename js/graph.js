@@ -5,7 +5,7 @@ const nodes = [...data.ch];
 // Create a simulation with several forces.
 const simulation = d3.forceSimulation(nodes)
     .force("link", d3.forceLink(links).id(d => d.id).distance(100))
-    .force("charge", d3.forceManyBody().strength(-150))
+    .force("charge", d3.forceManyBody().strength(-300))
     .force("x", d3.forceX())
     .force("y", d3.forceY());
 
@@ -98,11 +98,11 @@ simulation.on("tick", () => {
 
     linkLabel1
         .attr("x", d => (d.source.x + d.target.x) / 2)
-        .attr("y", d => (d.source.y + d.target.y) / 2 - 8);
+        .attr("y", d => (d.source.y + d.target.y) / 2 - 5);
 
     linkLabel2
         .attr("x", d => (d.source.x + d.target.x) / 2)
-        .attr("y", d => (d.source.y + d.target.y) / 2 + 8);
+        .attr("y", d => (d.source.y + d.target.y) / 2 + 10);
 });
 
 // Reheat the simulation when drag starts, and fix the subject position.
