@@ -9,13 +9,22 @@ const simulation = d3.forceSimulation(nodes)
     .force("x", d3.forceX())
     .force("y", d3.forceY());
 
+// zoom
+const zoom = d3.zoom()
+    .scaleExtent([0.5, 3])
+    .on("zoom", (event) => svg.attr("transform", event.transform));
+
 // Create the SVG container.
 const svg = d3.select("#graph")
     .attr("width", width)
     .attr("height", height)
-    .attr("viewBox", [-width / 2, -height / 2, width, height]);
+    .attr("viewBox", [-width / 2, -height / 2, width, height])
+    .call(zoom);
 
-const linkGroup = svg.append("g")
+// a g to wrap the entire thing for zooming
+const bigG = svg.append('g');
+
+const linkGroup = bigG.append("g")
     .selectAll("g")
     .data(links)
     .join("g");
@@ -43,7 +52,7 @@ const linkLabel2 = linkGroup.append("text")
     .text(d => d.rel2);
 
 // node labels & circles
-const nodeLabel = svg.append("g")
+const nodeLabel = bigG.append("g")
     .selectAll("text")
     .data(nodes)
     .join("text")
@@ -55,7 +64,7 @@ const nodeLabel = svg.append("g")
     .attr('opacity', 0.7)
     .style('user-select', 'none');
 // circle come after label so its layered top
-const node = svg.append("g")
+const node = bigG.append("g")
     .selectAll("a")
     .data(nodes)
     .join("a")
