@@ -38,7 +38,7 @@ const linkGroup = bigG.append("g")
 // link lines
 const link = linkGroup.append("line")
     .attr("stroke", "var(--text)")
-    .attr('opacity', 0.3)
+    .attr('opacity', 0.1)
     .attr("stroke-width", 2);
 
 // link labels
@@ -106,6 +106,9 @@ const node = bigG.append("g")
             .attr('opacity', 1)
             .attr('font-size', font16)
             .style('z-index', 9);
+        link.filter(l => l.source === d || l.target === d)
+            .transition().duration(150)
+            .attr('opacity', .3);
     })
     .on("mouseout", function (e, d) {
         d3.select(this)
@@ -130,6 +133,9 @@ const node = bigG.append("g")
             .attr('opacity', 0.5)
             .attr('font-size', font12)
             .style('z-index', 0);
+        link.filter(l => l.source === d || l.target === d)
+            .transition().duration(150)
+            .attr('opacity', .1);
     });
 
 // Add a drag behavior.
