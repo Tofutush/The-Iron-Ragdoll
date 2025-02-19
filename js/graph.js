@@ -21,6 +21,7 @@ const linkGroup = svg.append("g")
     .data(links)
     .join("g");
 
+// link lines
 const link = linkGroup.append("line")
     .attr("stroke", "var(--box)")
     .attr("stroke-width", 2);
@@ -32,7 +33,6 @@ const linkLabel1 = linkGroup.append("text")
     .attr("font-size", "12px")
     .style('user-select', 'none')
     .text(d => d.rel1);
-
 const linkLabel2 = linkGroup.append("text")
     .attr("text-anchor", "middle")
     .attr("fill", d => d.target.color)
@@ -40,7 +40,7 @@ const linkLabel2 = linkGroup.append("text")
     .style('user-select', 'none')
     .text(d => d.rel2);
 
-// node circles
+// node labels & circles
 const nodeLabel = svg.append("g")
     .selectAll("text")
     .data(nodes)
@@ -50,7 +50,7 @@ const nodeLabel = svg.append("g")
     .text(d => d.id)
     .attr("fill", "var(--text)")
     .style('user-select', 'none');
-
+// circle come after label so its layered top
 const node = svg.append("g")
     .selectAll("a")
     .data(nodes)
@@ -67,12 +67,14 @@ const node = svg.append("g")
     .on("mouseover", function (e, d) {
         d3.select(this)
             .transition().duration(150)
-            .attr("r", 12);
+            .attr("r", 12)
+            .attr('stroke-width', 3);
     })
     .on("mouseout", function (e, d) {
         d3.select(this)
             .transition().duration(150)
-            .attr("r", 8);
+            .attr("r", 8)
+            .attr('stroke-width', 2);
     });
 
 // Add a drag behavior.
