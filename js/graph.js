@@ -1,5 +1,6 @@
 const width = 1200;
 const height = 600;
+const font12 = 12, font16 = 16, font20 = 20;
 const links = [...data.rel];
 const nodes = [...data.ch];
 // Create a simulation with several forces.
@@ -9,20 +10,18 @@ const simulation = d3.forceSimulation(nodes)
     .force("x", d3.forceX())
     .force("y", d3.forceY());
 
-// zoom
-const zoom = d3.zoom()
-    .scaleExtent([0.5, 3])
-    .on("zoom", (event) => svg.attr("transform", event.transform));
-
 // Create the SVG container.
 const svg = d3.select("#graph")
     .attr("width", width)
     .attr("height", height)
-    .attr("viewBox", [-width / 2, -height / 2, width, height]);
+    .attr("viewBox", [-width / 2, -height / 2, width, height])
+    .call(d3.zoom()
+        .on("zoom", (event) => {
+            bigG.attr("transform", event.transform);
+        }));
 
 // a g to wrap the entire thing for zooming
-const bigG = svg.append('g')
-    .call(zoom);
+const bigG = svg.append('g');
 
 const linkGroup = bigG.append("g")
     .selectAll("g")
