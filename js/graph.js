@@ -16,14 +16,31 @@ const svg = d3.select("#graph")
     .attr("viewBox", [-width / 2, -height / 2, width, height])
     .attr("style", "max-width: 100%; height: auto;");
 
-// Add a line for each link, and a circle for each node.
-const link = svg.append("g")
-    .attr("stroke", "var(--box)")
-    .selectAll("line")
+const linkGroup = svg.append("g")
+    .selectAll("g")
     .data(links)
-    .join("line")
+    .join("g");
+
+const link = linkGroup.append("line")
+    .attr("stroke", "var(--box)")
     .attr("stroke-width", 2);
 
+// link labels
+const linkLabel1 = linkGroup.append("text")
+    .attr("text-anchor", "middle")
+    .attr("fill", d => d.source.color)
+    .attr("font-size", "12px")
+    .style('user-select', 'none')
+    .text(d => d.rel1);
+
+const linkLabel2 = linkGroup.append("text")
+    .attr("text-anchor", "middle")
+    .attr("fill", d => d.target.color)
+    .attr("font-size", "12px")
+    .style('user-select', 'none')
+    .text(d => d.rel2);
+
+// node circles
 const nodeLabel = svg.append("g")
     .selectAll("text")
     .data(nodes)
@@ -76,6 +93,14 @@ simulation.on("tick", () => {
 
     nodeLabel.attr("x", d => d.x)
         .attr("y", d => d.y);
+
+    linkLabel1
+        .attr("x", d => (d.source.x + d.target.x) / 2)
+        .attr("y", d => (d.source.y + d.target.y) / 2 - 8);
+
+    linkLabel2
+        .attr("x", d => (d.source.x + d.target.x) / 2)
+        .attr("y", d => (d.source.y + d.target.y) / 2 + 8);
 });
 
 // Reheat the simulation when drag starts, and fix the subject position.
