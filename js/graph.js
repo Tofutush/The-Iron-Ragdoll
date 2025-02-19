@@ -76,12 +76,17 @@ const node = svg.append("g")
         nodeLabel.filter(l => l === d)
             .transition().duration(150)
             .attr('opacity', 1)
-            .attr('font-size', 20)
-            .attr('dy', 36);
-        linkLabel1.filter(l => l.source === d || l.target === d)
-            .attr('opacity', 1);
+            .attr('font-size', '20px')
+            .attr('font-weight', 'bold')
+            .attr('dy', 32);
+        linkLabel1.filter(l => l.source === d)
+            .transition().duration(150)
+            .attr('opacity', 1)
+            .attr('font-size', '16px');
         linkLabel2.filter(l => l.target === d)
-            .attr('opacity', 1);
+            .transition().duration(150)
+            .attr('opacity', 1)
+            .attr('font-size', '16px');
     })
     .on("mouseout", function (e, d) {
         d3.select(this)
@@ -91,12 +96,17 @@ const node = svg.append("g")
         nodeLabel.filter(l => l === d)
             .transition().duration(150)
             .attr('opacity', .7)
-            .attr('font-size', 16)
+            .attr('font-size', '16px')
+            .attr('font-weight', 'normal')
             .attr('dy', 24);
         linkLabel1.filter(l => l.source === d)
-            .attr('opacity', 0.5);
+            .transition().duration(150)
+            .attr('opacity', 0.5)
+            .attr('font-size', '12px');
         linkLabel2.filter(l => l.target === d)
-            .attr('opacity', 0.5);
+            .transition().duration(150)
+            .attr('opacity', 0.5)
+            .attr('font-size', '12px');
     });
 
 // Add a drag behavior.
