@@ -51,20 +51,11 @@ const node = svg.append("g")
         d3.select(this)
             .transition().duration(150)
             .attr("r", 12);
-        // svg.append("text")
-        //     .attr("id", "hover-label")
-        //     .attr("x", d.x + 10)
-        //     .attr("y", d.y - 10)
-        //     .attr("text-anchor", "middle")
-        //     .attr("font-size", "14px")
-        //     .attr("fill", "white")
-        //     .text(d.id);
     })
     .on("mouseout", function (e, d) {
         d3.select(this)
             .transition().duration(150)
             .attr("r", 8);
-        // d3.select("#hover-label").remove();
     });
 
 // Add a drag behavior.
