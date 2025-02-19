@@ -49,7 +49,7 @@ const nodeLabel = svg.append("g")
     .join("text")
     .attr("text-anchor", "middle")
     .attr('font-size', 16)
-    .attr("dy", 28)
+    .attr("dy", 24)
     .text(d => d.id)
     .attr("fill", "var(--text)")
     .attr('opacity', 0.7)
@@ -78,6 +78,10 @@ const node = svg.append("g")
             .attr('opacity', 1)
             .attr('font-size', 20)
             .attr('dy', 36);
+        linkLabel1.filter(l => l.source === d || l.target === d)
+            .attr('opacity', 1);
+        linkLabel2.filter(l => l.target === d)
+            .attr('opacity', 1);
     })
     .on("mouseout", function (e, d) {
         d3.select(this)
@@ -88,7 +92,11 @@ const node = svg.append("g")
             .transition().duration(150)
             .attr('opacity', .7)
             .attr('font-size', 16)
-            .attr('dy', 28);
+            .attr('dy', 24);
+        linkLabel1.filter(l => l.source === d)
+            .attr('opacity', 0.5);
+        linkLabel2.filter(l => l.target === d)
+            .attr('opacity', 0.5);
     });
 
 // Add a drag behavior.
