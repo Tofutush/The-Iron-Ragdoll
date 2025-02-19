@@ -1,11 +1,11 @@
-const width = 800;
+const width = 1200;
 const height = 600;
 const links = [...data.rel];
 const nodes = [...data.ch];
 // Create a simulation with several forces.
 const simulation = d3.forceSimulation(nodes)
-    .force("link", d3.forceLink(links).id(d => d.id).distance(100))
-    .force("charge", d3.forceManyBody().strength(-300))
+    .force("link", d3.forceLink(links).id(d => d.id).distance(200))
+    .force("charge", d3.forceManyBody().strength(-400))
     .force("x", d3.forceX())
     .force("y", d3.forceY());
 
