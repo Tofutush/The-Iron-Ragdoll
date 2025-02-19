@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-19
+
+- Added a [relationship graph](/characters/relationships/)!
+
 ## 2025-02-17
 
 - Added GIFs to the [gallery](/gallery/2025/)! Along with icons for when a picture is a gif or has comments. And little style tweaks.
