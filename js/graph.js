@@ -157,13 +157,11 @@ simulation.on("tick", () => {
     nodeLabel.attr("x", d => d.x)
         .attr("y", d => d.y);
 
-    linkLabel1
-        .attr("x", d => (d.source.x + d.target.x) / 2)
-        .attr("y", d => (d.source.y + d.target.y) / 2 - 5);
+    linkLabel1.attr("x", d => (d.source.x + d.target.x) / 2)
+        .attr("y", d => (d.source.y + d.target.y) / 2 - ((d.rel1 === d.rel2) ? 0 : 5));
 
-    linkLabel2
-        .attr("x", d => (d.source.x + d.target.x) / 2)
-        .attr("y", d => (d.source.y + d.target.y) / 2 + 10);
+    linkLabel2.attr("x", d => (d.source.x + d.target.x) / 2)
+        .attr("y", d => (d.source.y + d.target.y) / 2 + ((d.rel1 === d.rel2) ? 0 : 10));
 });
 
 // Reheat the simulation when drag starts, and fix the subject position.
