@@ -46,14 +46,14 @@ const linkLabel1 = linkGroup.append("text")
     .attr("text-anchor", "middle")
     .attr("fill", d => d.source.color)
     .attr("font-size", font12)
-    .attr('opacity', 0.5)
+    .attr('opacity', 0.3)
     .style('user-select', 'none')
     .text(d => d.rel1);
 const linkLabel2 = linkGroup.append("text")
     .attr("text-anchor", "middle")
     .attr("fill", d => d.target.color)
     .attr("font-size", font12)
-    .attr('opacity', 0.5)
+    .attr('opacity', 0.3)
     .style('user-select', 'none')
     .text(d => d.rel2);
 
@@ -67,7 +67,7 @@ const nodeLabel = bigG.append("g")
     .attr("dy", 24)
     .text(d => d.id)
     .attr("fill", "var(--text)")
-    .attr('opacity', 0.7)
+    .attr('opacity', 0.5)
     .style('user-select', 'none');
 // circle come after label so its layered top
 const node = bigG.append("g")
@@ -118,19 +118,19 @@ const node = bigG.append("g")
             .style('z-index', 0);
         nodeLabel.filter(l => l === d)
             .transition().duration(150)
-            .attr('opacity', .7)
+            .attr('opacity', .5)
             .attr('font-size', font16)
             .attr('font-weight', 'normal')
             .style('z-index', 0)
             .attr('dy', 24);
         linkLabel1.filter(l => l.source === d)
             .transition().duration(150)
-            .attr('opacity', 0.5)
+            .attr('opacity', .3)
             .attr('font-size', font12)
             .style('z-index', 0);
         linkLabel2.filter(l => l.target === d)
             .transition().duration(150)
-            .attr('opacity', 0.5)
+            .attr('opacity', .3)
             .attr('font-size', font12)
             .style('z-index', 0);
         link.filter(l => l.source === d || l.target === d)
