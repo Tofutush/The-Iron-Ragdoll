@@ -2,20 +2,21 @@
 {
   "layout": "layout.liquid",
   "desc": "A comic!",
-  "pagination": {
-    "data": "comicpages",
-    "size": 1,
-    "addAllPagesToCollections": "true",
-    "alias": "comic"
-  },
   "tags": ["comics"],
   "permalink": "{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber }}{% endif %}/",
   "eleventyComputed": {
-    "title": "Page {{ pagination.pageNumber }}",
+    "pagination": {
+      "data": "{{ title | slug }}pages",
+      "size": 1,
+      "addAllPagesToCollections": "true",
+      "alias": "comic"
+    },
+    "title": "{{ title }} comic - page {{ pagination.pageNumber }}",
     "theme": "{{ comic.theme }}",
     "eleventyNavigation": {
-      "key": "{% if pagination.pageNumber != 0 %}Page {{ pagination.pageNumber }}{% else %}Root{% endif %}",
-      "parent": "{% if pagination.pageNumber != 0 %}Chapters{% endif %}"
+      "key": "{{ title }} comic - page {{ pagination.pageNumber }}",
+      "title": "Page {{ pagination.pageNumber }}",
+      "parent": "{{ parent }}"
     }
   }
 }
@@ -56,11 +57,11 @@ body {
 // save
 let saveButton = document.getElementById('save').children;
 saveButton[0].addEventListener('click', e => {
-  localStorage.setItem('place', {{ pagination.pageNumber }});
+  localStorage.setItem('{{ title }} place', {{ pagination.pageNumber }});
   alert(`Page {{ pagination.pageNumber }} saved!`);
 });
 saveButton[1].addEventListener('click', e => {
-  let place = localStorage.getItem('place');
+  let place = localStorage.getItem('{{ title }} place');
   if(place) {
     if(place == 0) window.open('/');
     else window.open(`../page-${place}/#img`);
