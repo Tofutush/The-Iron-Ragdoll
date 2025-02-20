@@ -28,7 +28,7 @@ navOptions:
     </style>
   {% endif %}
 </head>
-<body class="{% if page.url contains '/page-' %}{{ theme }}{% else %}light{% endif %}">
+<body class="{% if theme %}{{ theme }}{% else %}light{% endif %}">
 <div id="header">
   <div id="title"><a href="/">The Iron Ragdoll</a></div>
   <div id="linx">
@@ -65,7 +65,7 @@ navOptions:
 <div id="footer">
     <div id="footer-controls">
       <a href="/nav/">Navigation</a>
-      {% unless page.url contains '/page-' or page.url == '/' %}
+      {% unless theme %}
         <div id="theme-toggle-wrap">
           <div id="theme-toggle">
             <div id="button">
