@@ -87,7 +87,7 @@ const node = bigG.append("g")
     // .attr('stroke', 'var(--bg)')
     // .attr('stroke-width', 2)
     // .attr("fill", d => d.color)
-    .on("mouseover", function (e, d) {
+    .on("pointerover", function (e, d) {
         d3.select(this)
             .transition()
             .ease(d3.easeCubicInOut)
@@ -123,7 +123,7 @@ const node = bigG.append("g")
             .duration(200)
             .attr('opacity', .3);
     })
-    .on("mouseout", function (e, d) {
+    .on("pointerout", function (e, d) {
         d3.select(this)
             .transition()
             .ease(d3.easeCubicInOut)
