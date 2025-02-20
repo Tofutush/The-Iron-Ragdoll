@@ -45,6 +45,12 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. Explore
   <a href="/world/history/">
     <div class="card"><p>{% lucide 'scroll-text' 32 %} History</p></div>
   </a>
+  <a href="/about/">
+    <div class="card"><p>{% lucide 'info' 32 %} About</p></div>
+  </a>
+  <a href="/fun/">
+    <div class="card"><p>{% lucide 'ferris-wheel' 32 %} Fun</p></div>
+  </a>
 </div>
 
 ## Meta stuff
