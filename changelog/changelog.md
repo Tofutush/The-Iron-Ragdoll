@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-20
+
+- Added `nightsun hug sparky.png`.
+
 ## 2025-02-19
 
 - Added a [relationship graph](/characters/relationships/)!
