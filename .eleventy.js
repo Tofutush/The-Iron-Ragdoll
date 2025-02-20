@@ -93,11 +93,11 @@ module.exports = function (eleventyConfig) {
 		else dot = '..';
 		return `
 			<div class="options">
-				<a ${p ? '' : 'class="noclick"'} href="${dot}${f}#img">${iconSVGString('chevrons-left')}</a>
-				<a ${p ? '' : 'class="noclick"'} href="${dot}${p}#img">${iconSVGString('chevron-left')}</a>
+				<a ${p ? '' : 'class="noclick"'} href="/${dot}${f}#img">${iconSVGString('chevrons-left')}</a>
+				<a ${p ? '' : 'class="noclick"'} href="/${dot}${p}#img">${iconSVGString('chevron-left')}</a>
 				<p><span class="pagenum">${num}</span></p>
-				<a ${n ? '' : 'class="noclick"'} href="${dot}${n}#img">${iconSVGString('chevron-right')}</a>
-				<a ${n ? '' : 'class="noclick"'} href="${dot}${l}#img">${iconSVGString('chevrons-right')}</a>
+				<a ${n ? '' : 'class="noclick"'} href="/${dot}${n}#img">${iconSVGString('chevron-right')}</a>
+				<a ${n ? '' : 'class="noclick"'} href="/${dot}${l}#img">${iconSVGString('chevrons-right')}</a>
 			</div>
 		`;
 	});

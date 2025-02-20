@@ -7,9 +7,9 @@
     "size": 1,
     "addAllPagesToCollections": "true",
     "alias": "comic"
-  },
+  },    
+  "permalink": "stories/{{ parent | slug }}/page-{{ pagination.pageNumber }}/",
   "eleventyComputed": {
-    "permalink": "stories/{{ parent | slug }}/page-{{ pagination.pageNumber }}/",
     "title": "{{ title }} comic - page {{ pagination.pageNumber }}",
     "theme": "{{ comic.theme }}",
     "eleventyNavigation": {
