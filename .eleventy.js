@@ -16,6 +16,7 @@ const imageSize = require('image-size');
 const galleryPlugin = require('./plugins/gallery');
 const utilPlugin = require('./plugins/utils');
 const chPlugin = require('./plugins/ch');
+const relPlugin = require('./plugins/rel');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -60,6 +61,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(galleryPlugin);
 	eleventyConfig.addPlugin(utilPlugin);
 	eleventyConfig.addPlugin(chPlugin);
+	eleventyConfig.addPlugin(relPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');
@@ -75,21 +77,12 @@ module.exports = function (eleventyConfig) {
 	);
 	// filters
 	eleventyConfig.addFilter('slug', slug);
-	eleventyConfig.addFilter('randomItem', function (arr) {
-		return arr[Math.floor(Math.random() * arr.length)];
-	});
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
 		return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
 	});
 	eleventyConfig.addFilter('getimgurl', function (num) {
 		num = parseInt(num);
 		return String(Math.floor(num / 100) + '/' + num)
-	});
-	eleventyConfig.addFilter('filterRelations', function (arr, f) {
-		return arr.filter(a => a.ch[0].includes(f) || a.ch[1].includes(f));
-	});
-	eleventyConfig.addFilter('getOtherCh', function (rel, ch) {
-		return rel.ch.filter(a => a[0] != ch)[0];
 	});
 	eleventyConfig.addFilter('getFooterImg', function (arr) {
 		return arr[footerIndex++ % arr.length];
