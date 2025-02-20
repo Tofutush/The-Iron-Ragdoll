@@ -14,6 +14,7 @@ const pinyin = require('chinese-to-pinyin');
 const { iconSVGString, eleventyLucideIconsPlugin } = require('./plugins/lucideicons');
 const imageSize = require('image-size');
 const galleryPlugin = require('./plugins/gallery');
+const utilPlugin = require('./plugins/utils');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -56,7 +57,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
 	eleventyConfig.addPlugin(eleventyLucideIconsPlugin);
 	eleventyConfig.addPlugin(galleryPlugin);
-	const mdRender = new markdownIt();
+	eleventyConfig.addPlugin(utilPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');
@@ -78,27 +79,12 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
 		return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
 	});
-	eleventyConfig.addFilter('lowerCase', function (s) {
-		return s.toLowerCase();
-	});
-	eleventyConfig.addFilter('upperCase', function (s) {
-		return s.toUpperCase();
-	});
-	eleventyConfig.addFilter('capitalize', function (s) {
-		return s[0].toUpperCase() + s.slice(1);
-	});
 	eleventyConfig.addFilter('getimgurl', function (num) {
 		num = parseInt(num);
 		return String(Math.floor(num / 100) + '/' + num)
 	});
 	eleventyConfig.addFilter('getChByName', function (arr, name) {
 		return arr.find(ch => ch.name == name);
-	});
-	eleventyConfig.addFilter('padStart', function (n, num, token) {
-		return n.toString().padStart(num, token);
-	});
-	eleventyConfig.addFilter('getMonthName', function (n) {
-		return ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][n];
 	});
 	eleventyConfig.addFilter('getChByCat', function (arr, cat) {
 		return arr.filter(c => c.cat == cat);
@@ -111,33 +97,11 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('getFullPalette', function (ch) {
 		return Object.assign({ "accent": ch.color }, ch.palette);
 	});
-	eleventyConfig.addFilter('to6DigitHex', function (hex) {
-		if (hex.length < 6) {
-			if (hex[0] == '#') hex = hex.substring(1);
-			hex = '#' + hex[0] + hex[0] + hex[1] + hex[1] + hex[2] + hex[2];
-		}
-		return hex;
-	})
-	eleventyConfig.addFilter('calculateBlackWhite', function (color) {
-		color = color.substring(1);
-		let rgbArr = [
-			parseInt(color.substring(0, 2), 16),
-			parseInt(color.substring(2, 4), 16),
-			parseInt(color.substring(4, 6), 16),
-		];
-		return Math.round(rgbArr[0] * 299 + rgbArr[1] * 587 + rgbArr[2] * 114) / 1000 > 125 ? '#121212' : '#fff9f2';
-	});
 	eleventyConfig.addFilter('filterRelations', function (arr, f) {
 		return arr.filter(a => a.ch[0].includes(f) || a.ch[1].includes(f));
 	});
 	eleventyConfig.addFilter('getOtherCh', function (rel, ch) {
 		return rel.ch.filter(a => a[0] != ch)[0];
-	});
-	eleventyConfig.addFilter('renderMD', function (rawString) {
-		return mdRender.render(rawString);
-	});
-	eleventyConfig.addFilter('slice', function (str, s, e) {
-		return str.slice(s, e ? e : str.length);
 	});
 	eleventyConfig.addFilter('filterChByTag', function (chs, tag) {
 		return chs.filter(c => c.tags?.some(t => t == tag));
