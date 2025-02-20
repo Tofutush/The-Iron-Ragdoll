@@ -1,0 +1,34 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2em;
+}
+
+.grid a {
+    user-select: none;
+    text-decoration: none;
+}
+
+.grid a:hover {
+    color: var(--text);
+}
+
+.big {
+    grid-column: 1 / -1;
+}
+
+.card {
+    border: 8px solid var(--c);
+    border-radius: 1em;
+    transition: all .3s var(--bezier-bounce);
+    height: 8em;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 1em;
+    font-size: var(--font-size-h2);
+}
+
+.card p {
+    margin: 0;
+}
