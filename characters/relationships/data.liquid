@@ -24,8 +24,7 @@ const data = {
 
 const imgs = {
     {% for ch in characters %}
-        {% assign name = ch.name | lowerCase | append: ' profile.png' %}
-        {% assign fallback = ch.name | lowerCase | append: ' thumb.png' %}
-        {{ ch.name }}: "{% imageUrl 'gallery/' name 200 fallback %}",
+        {% assign name = ch.name | lowerCase | append: ' thumb.png' %}
+        {{ ch.name }}: "{% imageUrl 'gallery/' name 200 %}",
     {% endfor %}
 }
