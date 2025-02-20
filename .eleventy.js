@@ -13,6 +13,7 @@ const { existsSync } = require("fs");
 const pinyin = require('chinese-to-pinyin');
 const { iconSVGString, eleventyLucideIconsPlugin } = require('./plugins/lucideicons');
 const imageSize = require('image-size');
+const galleryPlugin = require('./plugins/gallery');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -54,6 +55,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
 	eleventyConfig.addPlugin(eleventyLucideIconsPlugin);
+	eleventyConfig.addPlugin(galleryPlugin);
 	const mdRender = new markdownIt();
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
@@ -95,20 +97,8 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('padStart', function (n, num, token) {
 		return n.toString().padStart(num, token);
 	});
-	eleventyConfig.addFilter('filterGallery', function (arr, f) {
-		return arr.filter(a => a.ch?.includes(f.toLowerCase()));
-	});
-	eleventyConfig.addFilter('filterGalleryByDate', function (arr, f) {
-		return arr.filter(a => a.date?.includes(f));
-	});
 	eleventyConfig.addFilter('getMonthName', function (n) {
 		return ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][n];
-	})
-	eleventyConfig.addFilter('filterGalleryByKind', function (arr, f) {
-		return arr.filter(a => a.kind?.includes(f));
-	});
-	eleventyConfig.addFilter('sortGalleryByChCount', function (arr) {
-		return arr.sort((a, b) => a.ch?.length - b.ch?.length);
 	});
 	eleventyConfig.addFilter('getChByCat', function (arr, cat) {
 		return arr.filter(c => c.cat == cat);
