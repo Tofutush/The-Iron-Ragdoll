@@ -29,15 +29,13 @@ navOptions:
   {% endif %}
 </head>
 <body class="{% if theme %}{{ theme }}{% else %}light{% endif %}">
-<div id="header">
-  <div id="title"><a href="/">The Iron Ragdoll</a></div>
-  <div id="linx">
-    <a href="/nav/">Navigation (start here!)</a>
-    <a href="/about/">About</a>
-    <a href="/characters/">Characters</a>
-    <a href="/world/">World</a>
-    <a href="/gallery/2025/">Gallery</a>
-  </div>
+<div id="title"><a href="/">The Iron Ragdoll</a></div>
+<div id="linx">
+  <a href="/about/">About</a>
+  <a href="/characters/">Characters</a>
+  <a href="/stories/">Stories</a>
+  <a href="/world/">World</a>
+  <a href="/gallery/2025/">Gallery</a>
 </div>
 <div id="main-content">
   {% unless page.url contains '/page-' or page.url == '/' %}
