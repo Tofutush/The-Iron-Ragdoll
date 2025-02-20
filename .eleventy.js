@@ -11,7 +11,7 @@ const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
 const { minify } = require('html-minifier-terser');
 const { existsSync } = require("fs");
 const pinyin = require('chinese-to-pinyin');
-const { iconSVGString, eleventyLucideIconsPlugin } = require('./lucideicons.js');
+const { iconSVGString, eleventyLucideIconsPlugin } = require('./plugins/lucideicons');
 const imageSize = require('image-size');
 
 module.exports = function (eleventyConfig) {
