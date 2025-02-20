@@ -171,7 +171,7 @@ module.exports = function (eleventyConfig) {
 		`;
 	});
 	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className, fallback) {
-		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : (existsSync('img/' + path + fallback) ? 'img/' + path + fallback : "img/bg/placeholder.png");
+		let src = getImgSrc(path, name, fallback);
 		let dimensions = imageSize(src);
 		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
 		let metadata = await Image(src, {
@@ -206,6 +206,14 @@ module.exports = function (eleventyConfig) {
 		let img = Image.generateHTML(metadata, imageAttributes);
 		return `<figure class="${className}">${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
 	});
+	eleventyConfig.addShortcode('imageUrl', async function (path, name, size, fallback) {
+		let src = getImgSrc(path, name, fallback);
+	});
+	function getImgSrc(path, name, fallback) {
+		if (existsSync('img/' + path + name)) return 'img/' + path + name;
+		if (fallback && existsSync('img/' + path + fallback)) return 'img/' + path + fallback;
+		return 'img/bg/placeholder.png';
+	}
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
 			let minified = await minify(content, {
