@@ -714,3 +714,163 @@ const data = {
         
     ]
 };
+
+const imgs = {
+    
+        
+        Sparky: "/img/gallery/MXoErqmXYg-200.webp",
+    
+        
+        Ribbon: "/img/gallery/OrnrWCHnCX-200.webp",
+    
+        
+        Cosmo: "/img/gallery/aiSSMMZRWw-200.webp",
+    
+        
+        Tomato: "/img/gallery/rgwbfBKNYz-200.webp",
+    
+        
+        Guillotine: "/img/gallery/5306crJ3CA-200.webp",
+    
+        
+        Tephra: "/img/gallery/r-K3xqnvmM-200.webp",
+    
+        
+        Melody: "/img/gallery/gUwudi5y5R-200.webp",
+    
+        
+        Jerboa: "/img/gallery/IrFMe3eik9-200.webp",
+    
+        
+        Tundra: "/img/gallery/jQn5TjNevW-200.webp",
+    
+        
+        Alaska: "/img/gallery/tokW9qo_RA-200.webp",
+    
+        
+        Starry: "/img/gallery/BgsO5nBo6i-200.webp",
+    
+        
+        Dragonfly: "/img/gallery/O8Du-58hgo-200.webp",
+    
+        
+        Qibli: "/img/gallery/uG01bdCG7q-200.webp",
+    
+        
+        Sky: "/img/gallery/u1S1UM12Vu-200.webp",
+    
+        
+        Firecrackers: "/img/gallery/Dp-FnAvCe_-200.webp",
+    
+        
+        Myriad: "/img/gallery/wBk-1t4_0j-200.webp",
+    
+        
+        Amber: "/img/gallery/6hDpgFeaJ5-200.webp",
+    
+        
+        Peacock: "/img/gallery/1Jn99jqrlm-200.webp",
+    
+        
+        Fantasy: "/img/gallery/NnN5CcPiqO-200.webp",
+    
+        
+        Ironheart: "/img/gallery/G0Vw9a-T5K-200.webp",
+    
+        
+        Willow: "/img/gallery/zSfnxJkY50-200.webp",
+    
+        
+        Nightsun: "/img/gallery/zUis3hvPIP-200.webp",
+    
+        
+        Bramble: "/img/gallery/c3wewMqDSO-100.webp",
+    
+        
+        Goose: "/img/gallery/wBmz9IJjvc-200.webp",
+    
+        
+        Pumpkin: "/img/gallery/xUdVhkWgkB-200.webp",
+    
+        
+        Halcyon: "/img/gallery/QMMaK7Nk-8-200.webp",
+    
+        
+        Paperweight: "/img/gallery/egggbunWpz-200.webp",
+    
+        
+        Gecko: "/img/gallery/c3wewMqDSO-100.webp",
+    
+        
+        Lark: "/img/gallery/h6MuyF6mPz-200.webp",
+    
+        
+        Pearl: "/img/gallery/IyjhPSRX5i-200.webp",
+    
+        
+        Jackpot: "/img/gallery/c3wewMqDSO-100.webp",
+    
+        
+        Snake: "/img/gallery/reRbEhVkQa-200.webp",
+    
+        
+        Snowball: "/img/gallery/n1GbtHtMOb-200.webp",
+    
+        
+        Buttercup: "/img/gallery/UAQwIlCmzV-200.webp",
+    
+        
+        Beauty: "/img/gallery/349bCd0nPN-200.webp",
+    
+        
+        Chastity: "/img/gallery/K7m2aB0i3F-200.webp",
+    
+        
+        Devotion: "/img/gallery/N6FqYsy-Td-200.webp",
+    
+        
+        Elegance: "/img/gallery/Tzy6aXAj3z-200.webp",
+    
+        
+        Animus: "/img/gallery/1v7HLg1ORT-200.webp",
+    
+        
+        Jaculus: "/img/gallery/OPEASUoVaa-200.webp",
+    
+        
+        Koala: "/img/gallery/vZY-fR4R9i-200.webp",
+    
+        
+        Kangaroo: "/img/gallery/qc0Jt8CwFM-200.webp",
+    
+        
+        Robin: "/img/gallery/c3wewMqDSO-100.webp",
+    
+        
+        Frosting: "/img/gallery/c3wewMqDSO-100.webp",
+    
+        
+        Candlelight: "/img/gallery/c3wewMqDSO-100.webp",
+    
+        
+        Helsinki: "/img/gallery/c3wewMqDSO-100.webp",
+    
+        
+        Mooncake: "/img/gallery/c3wewMqDSO-100.webp",
+    
+        
+        Fern: "/img/gallery/zQJjPg5CSD-200.webp",
+    
+        
+        Sunny: "/img/gallery/LQE_YBXArW-200.webp",
+    
+        
+        Vampire: "/img/gallery/2YZNCesYpX-200.webp",
+    
+        
+        Moonbeam: "/img/gallery/WlAsiWa6j3-200.webp",
+    
+        
+        Thunder: "/img/gallery/4BvgpPEE3B-200.webp",
+    
+}
