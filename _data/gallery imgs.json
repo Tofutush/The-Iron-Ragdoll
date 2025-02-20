@@ -2425,5 +2425,16 @@
     "style": "normal",
     "date": "2025-02-17",
     "kind": "ref"
+  },
+  {
+    "name": "nightsun hug sparky",
+    "type": "png",
+    "ch": [
+      "nightsun",
+      "sparky"
+    ],
+    "scope": "full-body",
+    "style": "normal",
+    "date": "2025-02-20"
   }
 ]
