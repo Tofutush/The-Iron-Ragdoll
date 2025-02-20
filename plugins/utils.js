@@ -38,6 +38,9 @@ function utilPlugin(eleventyConfig) {
     eleventyConfig.addFilter('slice', function (str, s, e) {
         return str.slice(s, e ? e : str.length);
     });
+    eleventyConfig.addFilter('randomItem', function (arr) {
+        return arr[Math.floor(Math.random() * arr.length)];
+    });
 }
 
 module.exports = utilPlugin;
