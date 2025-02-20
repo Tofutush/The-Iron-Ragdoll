@@ -3,14 +3,13 @@
   "layout": "layout.liquid",
   "desc": "A comic!",
   "tags": ["comics"],
-  "permalink": "{% if pagination.pageNumber != 0 %}page-{{ pagination.pageNumber }}{% endif %}/",
+  "pagination": {
+    "size": 1,
+    "addAllPagesToCollections": "true",
+    "alias": "comic"
+  },
   "eleventyComputed": {
-    "pagination": {
-      "data": "{{ title | slug }}pages",
-      "size": 1,
-      "addAllPagesToCollections": "true",
-      "alias": "comic"
-    },
+    "permalink": "stories/{{ parent | slug }}/page-{{ pagination.pageNumber }}/",
     "title": "{{ title }} comic - page {{ pagination.pageNumber }}",
     "theme": "{{ comic.theme }}",
     "eleventyNavigation": {
@@ -35,6 +34,7 @@ body {
 }
 {% endif %}
 </style>
+{{ pagination.href | log }}
 {% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
 <div id="img">
   {% assign bruhhh = comic.url | append: '.png' %}
