@@ -5,8 +5,34 @@ eleventyNavigation:
   key: Root
   title: Home
 ---
-
+<link rel="stylesheet" href="/css/home.css"/>
 <h1 style="text-align: center;">Welcome to the world of The Iron Ragdoll!</h1>
 {% image 'gallery/' 'cms friends.png' 1000 'Coastline Middle School friends' 'max' %}
 <p>Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have fun!</p>
 <p>The Iron Ragdoll is my paracosm that I adore and want to share with you. Explore below!</p>
+<details>
+  <summary><h2>Content warnings</h2></summary>
+  <p>This site and its contents feature strong language, cartoon violence, and occasional mature themes. Viewer discretion is advised.</p>
+  <p>It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Don't treat it so seriously.</p>
+  <p>Also: This site uses Javascript for theme switching, section expanding, gallery popups, and filtering! It should be fine to view most other things with JS disabled.</p>
+</details>
+<div class="grid">
+  <a class="big" href="/characters/">
+    <div class="card"><p>{% lucide 'contact-round' 32 %} Characters</p></div>
+  </a>
+  <a href="/characters/list/">
+    <div class="card"><p>{% lucide 'table-2' 32 %} Characters list</p></div>
+  </a>
+  <a href="/characters/relationships/">
+    <div class="card"><p>{% lucide 'git-fork' 32 %} Relationships</p></div>
+  </a>
+  <a class="big" href="/world/">
+    <div class="card"><p>{% lucide 'earth' 32 %} World</p></div>
+  </a>
+  <a href="/world/overview/">
+    <div class="card"><p>{% lucide 'square-chart-gantt' 32 %} Overview</p></div>
+  </a>
+  <a href="/world/history/">
+    <div class="card"><p>{% lucide 'scroll-text' 32 %} History</p></div>
+  </a>
+</div>
