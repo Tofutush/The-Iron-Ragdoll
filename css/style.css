@@ -257,27 +257,18 @@ details[open] summary::after {
   padding-inline-start: 1em;
 }
 
-#header {
+#title {
   color: var(--text);
-  padding-top: 2em;
+  padding: 1em 0;
   text-align: center;
   width: 100%;
   user-select: none;
+  font-size: calc(var(--font-size-h1)* 1.5);
 }
 
-#header a {
+#title a {
   color: var(--text);
   text-decoration: none;
-}
-
-#header a:hover {
-  text-decoration: underline;
-}
-
-#title {
-  color: var(--text);
-  font-size: calc(var(--font-size-h1) * 1.5);
-  margin: .5em .5em 1em .5em;
 }
 
 body.dark #title {
@@ -292,15 +283,21 @@ body.dark #title {
   justify-content: center;
   margin: auto;
   width: 100%;
-  background-color: var(--box);
+  background-color: var(--c);
+  color: var(--bg);
+  position: sticky;
+  top: 0;
+  z-index: 999;
 }
 
 #linx>a {
   margin: .5em;
+  text-decoration: none;
 }
 
-#linx>.dpdn {
-  margin: .5em;
+#linx>a:hover {
+  text-decoration: underline;
+  color: var(--bg);
 }
 
 body.dark #linx a:hover {
