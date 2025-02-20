@@ -64,7 +64,7 @@ const nodeLabel = bigG.append("g")
     .join("text")
     .attr("text-anchor", "middle")
     .attr('font-size', font16)
-    .attr("dy", 24)
+    .attr("dy", 32)
     .text(d => d.id)
     .attr("fill", "var(--text)")
     .attr('opacity', 0.5)
@@ -76,13 +76,16 @@ const node = bigG.append("g")
     .join("a")
     .attr("xlink:href", d => `../${d.id.toLowerCase()}/`)
     .attr("target", "_blank")
-    .append("circle")
+    .append("svg:image")
     .data(nodes)
-    .join("circle")
-    .attr("r", 8)
-    .attr('stroke', 'var(--bg)')
-    .attr('stroke-width', 2)
-    .attr("fill", d => d.color)
+    .join("svg:image")
+    .attr('width', 40)
+    .attr('height', 40)
+    .attr("xlink:href", d => (window.location.href.includes('The-Iron-Ragdoll') ? '/The-Iron-Ragdoll' : '') + imgs[d.id])
+    // .attr("r", 8)
+    // .attr('stroke', 'var(--bg)')
+    // .attr('stroke-width', 2)
+    // .attr("fill", d => d.color)
     .on("mouseover", function (e, d) {
         d3.select(this)
             .transition().duration(150)
@@ -95,7 +98,7 @@ const node = bigG.append("g")
             .attr('font-size', font20)
             .attr('font-weight', 'bold')
             .style('z-index', 9)
-            .attr('dy', 32);
+            .attr('dy', 36);
         linkLabel1.filter(l => l.source === d)
             .transition().duration(150)
             .attr('opacity', 1)
@@ -122,7 +125,7 @@ const node = bigG.append("g")
             .attr('font-size', font16)
             .attr('font-weight', 'normal')
             .style('z-index', 0)
-            .attr('dy', 24);
+            .attr('dy', 32);
         linkLabel1.filter(l => l.source === d)
             .transition().duration(150)
             .attr('opacity', .3)
@@ -152,7 +155,9 @@ simulation.on("tick", () => {
         .attr("y2", d => d.target.y);
 
     node.attr("cx", d => d.x)
-        .attr("cy", d => d.y);
+        .attr("cy", d => d.y)
+        .attr('x', d => d.x - 20)
+        .attr('y', d => d.y - 20);
 
     nodeLabel.attr("x", d => d.x)
         .attr("y", d => d.y);
