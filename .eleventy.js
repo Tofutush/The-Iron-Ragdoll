@@ -85,21 +85,6 @@ module.exports = function (eleventyConfig) {
 	});
 	eleventyConfig.addFilter('getFooterImg', function (arr) {
 		return arr[footerIndex++ % arr.length];
-	})
-	// shortcodes
-	eleventyConfig.addShortcode('arrows', function (f, p, n, l, num) {
-		let dot;
-		if (this.page.url == '/') dot = '';
-		else dot = '..';
-		return `
-			<div class="options">
-				<a ${p ? '' : 'class="noclick"'} href="/${dot}${f}#img">${iconSVGString('chevrons-left')}</a>
-				<a ${p ? '' : 'class="noclick"'} href="/${dot}${p}#img">${iconSVGString('chevron-left')}</a>
-				<p><span class="pagenum">${num}</span></p>
-				<a ${n ? '' : 'class="noclick"'} href="/${dot}${n}#img">${iconSVGString('chevron-right')}</a>
-				<a ${n ? '' : 'class="noclick"'} href="/${dot}${l}#img">${iconSVGString('chevrons-right')}</a>
-			</div>
-		`;
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {

@@ -34,14 +34,13 @@ body {
 }
 {% endif %}
 </style>
-{{ pagination.href | log }}
-{% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
+{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: pagination.pageNumber %}
 <div id="img">
   {% assign bruhhh = comic.url | append: '.png' %}
   {% assign alt = "Page " | append: comic.pagenum %}
   {% image "comics/" bruhhh 1000 alt %}
 </div>
-{% arrows pagination.href.first pagination.href.previous pagination.href.next pagination.href.last pagination.pageNumber %}
+{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: pagination.pageNumber %}
 <div id="date-save">
   <p>{{ comic.date }}</p>
   <div id="save">

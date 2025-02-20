@@ -1,0 +1,7 @@
+<div class="options">
+    <a {% unless p %}class="noclick"{% endunless %} href="{{ f }}#img">{% lucide 'chevrons-left' %}</a>
+    <a {% unless p %}class="noclick"{% endunless %} href="{{ p }}#img">{% lucide 'chevron-left' %}</a>
+    <p><span class="pagenum">{{ num }}</span></p>
+    <a {% unless n %}class="noclick"{% endunless %} href="{{ n }}#img">{% lucide 'chevron-right' %}</a>
+    <a {% unless n %}class="noclick"{% endunless %} href="{{ l }}#img">{% lucide 'chevrons-right' %}</a>
+</div>
