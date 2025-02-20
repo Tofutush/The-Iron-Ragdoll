@@ -15,6 +15,7 @@ const { iconSVGString, eleventyLucideIconsPlugin } = require('./plugins/lucideic
 const imageSize = require('image-size');
 const galleryPlugin = require('./plugins/gallery');
 const utilPlugin = require('./plugins/utils');
+const chPlugin = require('./plugins/ch');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -58,6 +59,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(eleventyLucideIconsPlugin);
 	eleventyConfig.addPlugin(galleryPlugin);
 	eleventyConfig.addPlugin(utilPlugin);
+	eleventyConfig.addPlugin(chPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');
@@ -83,28 +85,11 @@ module.exports = function (eleventyConfig) {
 		num = parseInt(num);
 		return String(Math.floor(num / 100) + '/' + num)
 	});
-	eleventyConfig.addFilter('getChByName', function (arr, name) {
-		return arr.find(ch => ch.name == name);
-	});
-	eleventyConfig.addFilter('getChByCat', function (arr, cat) {
-		return arr.filter(c => c.cat == cat);
-	});
-	eleventyConfig.addFilter('getChColor', function (arr, name) {
-		let ch = arr.filter(c => c.name.toLowerCase() == name.toLowerCase());
-		if (ch.length) return ch[0].color;
-		return `Character ${name} not found!`;
-	});
-	eleventyConfig.addFilter('getFullPalette', function (ch) {
-		return Object.assign({ "accent": ch.color }, ch.palette);
-	});
 	eleventyConfig.addFilter('filterRelations', function (arr, f) {
 		return arr.filter(a => a.ch[0].includes(f) || a.ch[1].includes(f));
 	});
 	eleventyConfig.addFilter('getOtherCh', function (rel, ch) {
 		return rel.ch.filter(a => a[0] != ch)[0];
-	});
-	eleventyConfig.addFilter('filterChByTag', function (chs, tag) {
-		return chs.filter(c => c.tags?.some(t => t == tag));
 	});
 	eleventyConfig.addFilter('getFooterImg', function (arr) {
 		return arr[footerIndex++ % arr.length];
