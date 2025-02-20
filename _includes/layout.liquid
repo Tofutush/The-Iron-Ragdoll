@@ -81,7 +81,7 @@ navOptions:
       </div>
     </div>
     <div id="footer-img">
-      {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg %}
+      {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
       {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
       {% image 'gallery/' footername 500 '' %}
     </div>
