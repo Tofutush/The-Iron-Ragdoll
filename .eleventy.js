@@ -18,7 +18,6 @@ const imagePlugin = require('./plugins/image');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
-	let footerIndex = 0;
 	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-').replace(/\'+/g, '');
 	const mdIt = markdownIt({
 		html: true,
@@ -83,8 +82,8 @@ module.exports = function (eleventyConfig) {
 		num = parseInt(num);
 		return String(Math.floor(num / 100) + '/' + num)
 	});
-	eleventyConfig.addFilter('getFooterImg', function (arr) {
-		return arr[footerIndex++ % arr.length];
+	eleventyConfig.addFilter('getFooterImg', function (arr, name) {
+		return arr[Array.from(name).reduce((sum, i) => sum + i.charCodeAt(0), 0) % arr.length];
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
