@@ -1,5 +1,4 @@
 const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = require('@11ty/eleventy');
-const Image = require('@11ty/eleventy-img');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
 const markdownIt = require('markdown-it');
@@ -9,14 +8,13 @@ const markdownItTOC = require('markdown-it-table-of-contents');
 const markdownItExternalLinks = require('markdown-it-external-links');
 const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
 const { minify } = require('html-minifier-terser');
-const { existsSync } = require("fs");
 const pinyin = require('chinese-to-pinyin');
 const { iconSVGString, eleventyLucideIconsPlugin } = require('./plugins/lucideicons');
-const imageSize = require('image-size');
 const galleryPlugin = require('./plugins/gallery');
 const utilPlugin = require('./plugins/utils');
 const chPlugin = require('./plugins/ch');
 const relPlugin = require('./plugins/rel');
+const imagePlugin = require('./plugins/image');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -62,6 +60,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(utilPlugin);
 	eleventyConfig.addPlugin(chPlugin);
 	eleventyConfig.addPlugin(relPlugin);
+	eleventyConfig.addPlugin(imagePlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');
@@ -102,50 +101,6 @@ module.exports = function (eleventyConfig) {
 			</div>
 		`;
 	});
-	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className, fallback) {
-		let src = getImgSrc(path, name, fallback);
-		let dimensions = imageSize(src);
-		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
-		let metadata = await getImg(src, size, format, path);
-		let imageAttributes = {
-			alt,
-			title: alt,
-			class: className,
-			loading: "lazy",
-			decoding: "async",
-		};
-		return Image.generateHTML(metadata, imageAttributes);
-	});
-	eleventyConfig.addShortcode('figure', async function (path, name, size, alt, caption, className) {
-		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : "img/bg/placeholder.png";
-		let metadata = await getImg(src, size, 'webp', path);
-		let imageAttributes = {
-			alt,
-			title: alt,
-			loading: "lazy",
-			decoding: "async",
-		};
-		let img = Image.generateHTML(metadata, imageAttributes);
-		return `<figure class="${className}">${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
-	});
-	eleventyConfig.addShortcode('imageUrl', async function (path, name, size, fallback) {
-		let src = getImgSrc(path, name, fallback);
-		let metadata = await getImg(src, size, 'webp', path);
-		return metadata.webp[0].url;
-	});
-	function getImgSrc(path, name, fallback) {
-		if (existsSync('img/' + path + name)) return 'img/' + path + name;
-		if (fallback && existsSync('img/' + path + fallback)) return 'img/' + path + fallback;
-		return 'img/bg/placeholder.png';
-	}
-	async function getImg(src, size, format, path) {
-		return await Image(src, {
-			widths: [size],
-			formats: [format],
-			urlPath: '/img/' + path,
-			outputDir: './_site/img/' + path
-		});
-	}
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
 			let minified = await minify(content, {
