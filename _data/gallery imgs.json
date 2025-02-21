@@ -2481,5 +2481,15 @@
     "scope": "half-body",
     "style": "lineless",
     "date": "2025-02-21"
+  },
+  {
+    "name": "pumpkin pop.png",
+    "type": "png",
+    "ch": [
+      "pumpkin"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-21"
   }
 ]
