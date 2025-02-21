@@ -9,12 +9,12 @@ const markdownItExternalLinks = require('markdown-it-external-links');
 const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
 const { minify } = require('html-minifier-terser');
 const pinyin = require('chinese-to-pinyin');
-const { iconSVGString, eleventyLucideIconsPlugin } = require('./plugins/lucideicons');
-const galleryPlugin = require('./plugins/gallery');
-const utilPlugin = require('./plugins/utils');
-const chPlugin = require('./plugins/ch');
-const relPlugin = require('./plugins/rel');
-const imagePlugin = require('./plugins/image');
+const { iconSVGString, eleventyLucideIconsPlugin } = require('./_plugins/lucideicons');
+const galleryPlugin = require('./_plugins/gallery');
+const utilPlugin = require('./_plugins/utils');
+const chPlugin = require('./_plugins/ch');
+const relPlugin = require('./_plugins/rel');
+const imagePlugin = require('./_plugins/image');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
