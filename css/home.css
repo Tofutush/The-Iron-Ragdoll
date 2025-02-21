@@ -26,13 +26,15 @@
     padding: 1em;
     font-size: var(--font-size-h2);
     background-size: cover;
-    background-position: center 0;
+    background-position: center 68px;
+    background-position: center calc(var(--font-size) * 3);
+    background-repeat: no-repeat;
 }
 
 .card:hover {
-    transform: translateY(-12px);
     box-shadow: 0 12px var(--box);
-    background-position: bottom;
+    background-position: center -6px;
+    background-position: center calc(0 - var(--font-size) / 4);
 }
 
 .card p {
