@@ -3,11 +3,12 @@
   "layout": "layout.liquid",
   "desc": "A comic!",
   "tags": ["comics"],
+  "noNav": true,
   "pagination": {
     "size": 1,
     "addAllPagesToCollections": "true",
     "alias": "comic"
-  },    
+  },
   "permalink": "stories/{{ parent | slug }}/page-{{ pagination.pageNumber }}/",
   "eleventyComputed": {
     "title": "{{ title }} comic - page {{ pagination.pageNumber }}",
