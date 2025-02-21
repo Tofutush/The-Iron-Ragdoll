@@ -13,6 +13,7 @@ eleventyNavigation:
 
 - Added [buttons](/misc/links/).
 - Edited world pages.
+- Added `cms friends lineless.png`, `qibli lineless.png`, `sky lineless.png`, `sparky firecrackers lineless.png`.
 
 ## 2025-02-20
 
