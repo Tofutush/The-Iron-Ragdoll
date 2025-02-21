@@ -35,7 +35,7 @@ body {
 }
 {% endif %}
 </style>
-{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: pagination.pageNumber %}
+{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: pagination.pageNumber, top: true %}
 <div id="img">
   {% assign bruhhh = comic.url | append: '.png' %}
   {% assign alt = "Page " | append: comic.pagenum %}
