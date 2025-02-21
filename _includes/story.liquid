@@ -11,6 +11,9 @@
 }
 ---
 <link rel="stylesheet" href="/css/story.css"/>
+{% if comic %}
+    <p><a href="page-0/">Read the comic associated with this story!</a></p>
+{% endif %}
 <div class="attr">
     <div class="attr-key">Canon?</div>
     <div class="attr-val">{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi' %}Semi-canon (is not planned in the plot, but has no conflicts with the original story){% else %}No (you should not consider this in the context of TIR's universe){% endif %}</div>
