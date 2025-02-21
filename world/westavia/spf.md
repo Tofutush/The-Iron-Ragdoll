@@ -1,13 +1,12 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Suicide Prevention Force
 desc: Westavia's security apparatus
 eleventyNavigation:
   key: Suicide Prevention Force
   parent: Westavia
+titlezh: 轻生防范队
 ---
-
-# Suicide Prevention Force / 轻生防范队
 
 A branch of Westavia's police force, the SPF is Westavia's security apparatus aimed at surveilling its citizens and suppressing dissent.
 

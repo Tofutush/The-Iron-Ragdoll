@@ -1,15 +1,15 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Overview
 desc: Your briefing of the TIR world.
 templateEngineOverride: liquid,md
-tags: lore
+tags:
+  - lore
 eleventyNavigation:
   key: Overview
   parent: World
+titlezh: 概览
 ---
-
-# Overview / 概览
 
 A brief overview of the world!
 
@@ -39,7 +39,7 @@ Do the countries have any ideological difference? Maybe they look like they do. 
 
 The main focus here is [Bauhinia](/world/bauhinia/), a bureaucratical fanatical corporate dictatorship. How do these four words even go together?
 
-There's a company called [Starcorp](/world/bauhinia/starcorp/), the most powerful company in Bauhinia (and undoubtedly the whole world), having gotten rich during the war through arms dealing. Now Starcorp controls most of Bauhinia's industries and resources. Starcorp's chairman is [Hyrax](/characters/minor#hyrax/), who has a best friend and personal attorney [Peacock](/characters/peacock/), who has a stepdaughter [Sparky](/characters/sparky/) who is the main character of our story. The story follows Sparky as she solves mysteries everywhere she goes, while trying to understand the world around her. But what Sparky spends her whole life trying to understand is now dumped completely to you on this little webbed site. Say thank me now.
+There's a company called [Starcorp](/world/bauhinia/starcorp/), the most powerful company in Bauhinia (and undoubtedly the whole world), having gotten rich during the war through arms dealing. Now Starcorp controls most of Bauhinia's industries and resources. Starcorp's chairman is [Hyrax](/characters/minor/#hyrax), who has a best friend and personal attorney [Peacock](/characters/peacock/), who has a stepdaughter [Sparky](/characters/sparky/) who is the main character of our story. The story follows Sparky as she solves mysteries everywhere she goes, while trying to understand the world around her. But what Sparky spends her whole life trying to understand is now dumped completely to you on this little webbed site. Say thank me now.
 
 Later, after Sparky grew up, Hyrax had his son [Animus](/characters/animus/) replace him as the chairman. Hyrax also had Sparky become Animus's bodyguard and Peacock's son [Ironheart](/characters/ironheart/) become the CEO. Keep it in the family, right?
 

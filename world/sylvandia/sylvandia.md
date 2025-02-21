@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Sylvandia
 templateEngineOverride: liquid,md
 eleventyNavigation:
@@ -9,9 +9,9 @@ eleventyNavigation:
 desc: What if no one made a country and you're all just smooshed together?
 tags:
   - sylvandia
+displayTitle: The Sylvandian Federation
+titlezh: 希尔万迪亚合众国
 ---
-
-# The Sylvandian Federation / 希尔万迪亚合众国
 
 {% image "gallery/" "sylvandia flag.svg" 1000 "Flag of Sylvandia" 'max' %}
 

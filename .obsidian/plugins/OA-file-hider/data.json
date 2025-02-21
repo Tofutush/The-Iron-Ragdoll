@@ -1,0 +1,19 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "_archive",
+    "_data",
+    "_includes",
+    "_obsidian templates",
+    "_plugins",
+    "_site",
+    "characters/relationships",
+    "css",
+    "fonts",
+    "fun",
+    "gallery",
+    "img",
+    "js",
+    "node_modules"
+  ]
+}

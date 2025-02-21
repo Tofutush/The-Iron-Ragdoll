@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Mt. Atlas
 navTitle: mtatlas
 templateEngineOverride: liquid,md
@@ -7,9 +7,8 @@ eleventyNavigation:
   key: mtatlas
   title: Mt. Atlas
   parent: Atlasia
+titlezh: 亚特拉斯山
 ---
-
-# Mount Atlas / 亚特拉斯山
 
 The tallest mountain on the continent, in [Atlasia](/world/atlasia/), near the border with [Moreland](/world/moreland/).
 
