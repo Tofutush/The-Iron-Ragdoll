@@ -33,7 +33,7 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
     <div class="card"><p>{% lucide 'images' 32 %} Gallery</p></div>
   </a>
   <a class="big" href="/stories/">
-    <div class="card" style="background-image: url('{{ "/img/bg/pumpkin pop.png" | htmlBaseUrl }}');"><p>{% lucide 'book-marked' 32 %} Stories</p></div>
+    <div class="card" style="background-image: url('{{ "/img/gallery/pumpkin pop.png" | htmlBaseUrl }}');"><p>{% lucide 'book-marked' 32 %} Stories</p></div>
   </a>
   <a class="big" href="/world/">
     <div class="card"><p>{% lucide 'earth' 32 %} World</p></div>
