@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Flower City
+desc: Capital and cultural center of Bauhinia
 eleventyNavigation:
   key: Flower City
   parent: Bauhinia
@@ -8,7 +9,7 @@ eleventyNavigation:
 
 # Flower City / 花城
 
-Capital of [Bauhinia](/world/bauhinia/), near the geographical center of the country.
+Capital of [Bauhinia](/world/bauhinia/), near the geographical center of the country. The flower, of course, means the bauhinia flower.
 
 ## History
 
