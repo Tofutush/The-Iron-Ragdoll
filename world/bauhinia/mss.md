@@ -17,7 +17,7 @@ The main security apparatus of Bauhinia, handling both intelligence and counteri
 ## Members
 
 - [Goose](/characters/goose/)
-- [Pumpkin](/characters/pumpkin/)
-- [Halcyon](/characters/halcyon/)
-- [Paperweight](/characters/paperweight/)
+- [Pumpkin](/characters/pumpkin/) (fled)
+- [Halcyon](/characters/halcyon/) (traded)
+- [Paperweight](/characters/paperweight/) (retired)
 - [Sky](/characters/sky/) (later)

@@ -9,4 +9,4 @@ eleventyNavigation:
 
 # People's Vanguard
 
-Capital city of Westavia, the only city in the country that has a real name.
+Capital city of Westavia, the only city in the country that has a real name -- though that's not its historical name either.

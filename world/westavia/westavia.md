@@ -29,10 +29,11 @@ The closest geographical mirror to Westavia is Xinjiang and Central Asia.
 
 ### Cities
 
-Except for the capital, all cities and regions in Westavia are called "Area (number)."
+Except for the capital, all cities and regions in Westavia are called "Area (number)." Most of the time, these cities had historical names, though referring to them by their historical name is punishable by detainment.
 
 - [People's Vanguard](/world/westavia/peoples-vanguard/)
 - [Area 1](/world/westavia/area-1/)
+- [Area 3](/world/westavia/area-3/)
 - [Area 29](/world/westavia/area-29/)
   - [Nameless Village](/world/westavia/nameless-village/)
 
