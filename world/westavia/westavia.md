@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Westavia
 templateEngineOverride: liquid,md
 eleventyNavigation:
@@ -9,9 +9,9 @@ eleventyNavigation:
 desc: What if alcoholics made a country?
 tags:
   - westavia
+displayTitle: The Republic of Westavia
+titlezh: 伟思德维亚共和国
 ---
-
-# The Republic of Westavia / 伟思德维亚共和国
 
 {% image "gallery/" "westavia flag.svg" 1000 "Flag of Westavia" 'max' %}
 

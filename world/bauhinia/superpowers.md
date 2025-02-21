@@ -1,13 +1,12 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Superpowers in Bauhinia
 eleventyNavigation:
   key: Superpowers in Bauhinia
   title: Superpowers
   parent: Bauhinia
+titlezh: 紫荆国里的超能力
 ---
-
-# Superpowers in Bauhinia
 
 *You might wanna read [the main superpowers page](/world/superpowers/) first!*
 

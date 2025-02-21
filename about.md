@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: About
 desc: About The Iron Ragdoll.
 eleventyNavigation:
@@ -7,8 +7,6 @@ eleventyNavigation:
   parent: Root
   order: 2
 ---
-
-# About
 
 A comic and paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage.
 

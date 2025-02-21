@@ -1,13 +1,11 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Changelog
 eleventyNavigation:
   key: Changelog
   parent: Root
   order: 990
 ---
-
-# Changelog
 
 ## 2025-02-21
 

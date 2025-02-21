@@ -1,12 +1,11 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: People's Vanguard
 desc: Capital of Westavia
 eleventyNavigation:
   key: People's Vanguard
   parent: Westavia
+titlezh: 人民先锋
 ---
-
-# People's Vanguard
 
 Capital city of Westavia, the only city in the country that has a real name -- though that's not its historical name either.

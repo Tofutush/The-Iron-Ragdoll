@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
 ---
-<h1>{% if displayTitle %}{{ displayTitle }}{% else %}{{ title }}{% endif %}</h1>
+<h1>{% if displayTitle %}{{ displayTitle }}{% else %}{{ title }}{% endif %}{% if titlezh %} / {{ titlezh }}{% endif %}</h1>
 <p class="lighter-text">{{ desc }}</p>
 {{ content }}

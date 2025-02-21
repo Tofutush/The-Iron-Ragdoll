@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
 title: Bauhinia
-displayTitle: The Republic of Bauhinia / 紫荆共和国
+displayTitle: The Republic of Bauhinia
 templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Bauhinia
@@ -10,6 +10,7 @@ eleventyNavigation:
 desc: What if CEOs made a country?
 tags:
   - bauhinia
+titlezh: 紫荆共和国
 ---
 
 {% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" 'max' %}

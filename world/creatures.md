@@ -1,14 +1,13 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Creatures
-tags: lore
+tags:
+  - lore
 desc: Creatures of the world!
 eleventyNavigation:
   key: Creatures
   parent: World
 ---
-
-# Creatures
 
 brrruuuhhh i dont even have pictures
 

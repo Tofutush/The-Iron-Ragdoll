@@ -1,15 +1,15 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Superpowers
 desc: Superpowers, and how they interact with each other!
 templateEngineOverride: liquid,md
-tags: lore
+tags:
+  - lore
 eleventyNavigation:
   key: Superpowers
   parent: World
+titlezh: 超能力
 ---
-
-# Superpowers / 超能力
 
 [[toc]]
 
