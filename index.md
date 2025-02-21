@@ -1,10 +1,9 @@
 ---
 layout: layout.liquid
-title: Home
+title: Root
 templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Root
-  title: Home
 ---
 <link rel="stylesheet" href="/css/home.css"/>
 <h1 style="text-align: center;">Welcome to the world of The Iron Ragdoll!</h1>

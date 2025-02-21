@@ -38,7 +38,7 @@ navOptions:
   <a href="/gallery/2025/">Gallery</a>
 </div>
 <div id="main-content">
-  {% unless page.url contains '/page-' or page.url == '/' %}
+  {% unless noNav %}
     {% if navTitle %}
       {% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
     {% else %}
