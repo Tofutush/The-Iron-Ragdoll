@@ -7,11 +7,11 @@ eleventyNavigation:
 ---
 <link rel="stylesheet" href="/css/home.css"/>
 <h1 style="text-align: center;">Welcome to the world of The Iron Ragdoll!</h1>
-{% image 'gallery/' 'cms friends.png' 1000 'Coastline Middle School friends' 'max' %}
+{% image 'gallery/' 'cms friends lineless.png' 1000 'Coastline Middle School friends' 'max' %}
 
 Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have fun!
 
-The Iron Ragdoll is my paracosm that I adore and want to share with you. Explore below!
+The Iron Ragdoll is my paracosm that I adore and want to share with you. It's about mysteries, espionage, and everything that interests me. Explore below!
 
 <details>
   <summary><h2>Content warnings (Click to expand)</h2></summary>
