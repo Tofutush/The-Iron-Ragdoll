@@ -14,24 +14,25 @@
 }
 
 .big {
-    grid-column: 1 / -1;
+    grid-row: span 2;
 }
 
 .card {
     border: 8px solid var(--c);
     border-radius: 1em;
-    transition: all .3s var(--bezier);
-    height: 6em;
-    display: flex;
-    align-items: flex-end;
-    justify-content: flex-end;
+    transition: all .3s var(--bezier-bounce);
+    height: 100%;
+    box-sizing: border-box;
     padding: 1em;
     font-size: var(--font-size-h2);
+    background-size: cover;
+    background-position: center 0;
 }
 
 .card:hover {
     transform: translateY(-12px);
     box-shadow: 0 12px var(--box);
+    background-position: bottom;
 }
 
 .card p {
