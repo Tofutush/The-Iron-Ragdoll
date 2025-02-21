@@ -9,6 +9,10 @@ eleventyNavigation:
 
 # Changelog
 
+## 2025-02-21
+
+- Added [buttons](/misc/links/).
+
 ## 2025-02-20
 
 - Added `nightsun hug sparky.png`.
