@@ -47,6 +47,8 @@ Bauhinia is a ministerial republic with an avid love for bureaucracy. The govern
 
 [^3]: Someone give me a tutorial on how to sound less communist.
 
+Bauhinia is also a dictatorship, in case you haven't noticed.
+
 ### Ministries
 
 - [Ministry of State Security](/world/bauhinia/mss/)
