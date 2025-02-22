@@ -2503,5 +2503,16 @@
     "style": "pixel",
     "date": "2025-02-22",
     "copy": true
+  },
+  {
+    "name": "buttercup pop",
+    "type": "png",
+    "ch": [
+      "buttercup"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-22",
+    "copy": true
   }
 ]
