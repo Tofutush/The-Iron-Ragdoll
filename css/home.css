@@ -32,7 +32,7 @@
 }
 
 .card:hover {
-    box-shadow: 0 12px var(--box);
+    box-shadow: 0 0 0 8px var(--box);
     background-position: center -6px;
     background-position: center calc(0 - var(--font-size) / 4);
 }
