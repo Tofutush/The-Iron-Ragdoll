@@ -1,6 +1,7 @@
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-auto-rows: 1fr;
     gap: 2em;
 }
 
@@ -26,15 +27,22 @@
     padding: 1em;
     font-size: var(--font-size-h2);
     background-size: cover;
-    background-position: center 68px;
     background-position: center calc(var(--font-size) * 3);
     background-repeat: no-repeat;
+    image-rendering: pixelated;
 }
 
 .card:hover {
     box-shadow: 0 0 0 8px var(--box);
-    background-position: center -6px;
-    background-position: center calc(0 - var(--font-size) / 4);
+    background-position: center 0;
+}
+
+.big .card {
+    background-position: center calc(var(--font-size) * 3 + 10px);
+}
+
+.big .card:hover {
+    background-position: center calc(var(--font-size) / -4 + 20px);
 }
 
 .card p {
