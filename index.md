@@ -21,7 +21,7 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 </details>
 <div class="grid">
   <a class="big" href="/characters/">
-    <div class="card"><p>{% lucide 'contact-round' 32 %} Characters</p></div>
+    <div class="card" style="background-image: url('{{ "/img/gallery/sparky pop.png" | htmlBaseUrl }}');"><p>{% lucide 'contact-round' 32 %} Characters</p></div>
   </a>
   <a href="/characters/list/">
     <div class="card"><p>{% lucide 'table-2' 32 %} Characters list</p></div>
