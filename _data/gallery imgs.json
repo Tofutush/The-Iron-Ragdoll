@@ -2492,5 +2492,16 @@
     "style": "pixel",
     "date": "2025-02-21",
     "copy": true
+  },
+  {
+    "name": "sparky pop",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-22",
+    "copy": true
   }
 ]
