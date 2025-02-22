@@ -2514,5 +2514,82 @@
     "style": "pixel",
     "date": "2025-02-22",
     "copy": true
+  },
+  {
+    "name": "alaska pop",
+    "type": "png",
+    "ch": [
+      "alaska"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-22",
+    "copy": true
+  },
+  {
+    "name": "cosmo pop",
+    "type": "png",
+    "ch": [
+      "cosmo"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-22",
+    "copy": true
+  },
+  {
+    "name": "goose pop",
+    "type": "png",
+    "ch": [
+      "goose"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-22",
+    "copy": true
+  },
+  {
+    "name": "guillotine pop",
+    "type": "png",
+    "ch": [
+      "guillotine"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-22",
+    "copy": true
+  },
+  {
+    "name": "melody pop",
+    "type": "png",
+    "ch": [
+      "melody"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-22",
+    "copy": true
+  },
+  {
+    "name": "qibli pop",
+    "type": "png",
+    "ch": [
+      "qibli"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-22",
+    "copy": true
+  },
+  {
+    "name": "tephra pop",
+    "type": "png",
+    "ch": [
+      "tephra"
+    ],
+    "scope": "half-body",
+    "style": "pixel",
+    "date": "2025-02-22",
+    "copy": true
   }
 ]
