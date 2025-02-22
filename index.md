@@ -24,13 +24,13 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
     <div class="card" style="background-image: url('{{ "/img/gallery/sparky pop.png" | htmlBaseUrl }}');"><p>{% lucide 'contact-round' 32 %} Characters</p></div>
   </a>
   <a href="/characters/list/">
-    <div class="card"><p>{% lucide 'table-2' 32 %} Characters list</p></div>
+    <div class="card" style="background-image: url('{{ "/img/gallery/cosmo pop.png" | htmlBaseUrl }}');"><p>{% lucide 'table-2' 32 %} Characters list</p></div>
   </a>
   <a href="/characters/relationships/">
-    <div class="card"><p>{% lucide 'git-fork' 32 %} Relationships</p></div>
+    <div class="card" style="background-image: url('{{ "/img/gallery/tephra pop.png" | htmlBaseUrl }}');"><p>{% lucide 'git-fork' 32 %} Relationships</p></div>
   </a>
   <a href="/gallery/">
-    <div class="card"><p>{% lucide 'images' 32 %} Gallery</p></div>
+    <div class="card" style="background-image: url('{{ "/img/gallery/goose pop.png" | htmlBaseUrl }}');"><p>{% lucide 'images' 32 %} Gallery</p></div>
   </a>
   <a href="/stories/">
     <div class="card" style="background-image: url('{{ "/img/gallery/pumpkin pop.png" | htmlBaseUrl }}');"><p>{% lucide 'book-marked' 32 %} Stories</p></div>
@@ -39,16 +39,16 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
     <div class="card" style="background-image: url('{{ "/img/gallery/buttercup pop.png" | htmlBaseUrl }}');"><p>{% lucide 'earth' 32 %} World</p></div>
   </a>
   <a href="/world/overview/">
-    <div class="card"><p>{% lucide 'square-chart-gantt' 32 %} Overview</p></div>
+    <div class="card" style="background-image: url('{{ "/img/gallery/melody pop.png" | htmlBaseUrl }}');"><p>{% lucide 'square-chart-gantt' 32 %} Overview</p></div>
   </a>
   <a href="/world/history/">
-    <div class="card"><p>{% lucide 'scroll-text' 32 %} History</p></div>
+    <div class="card" style="background-image: url('{{ "/img/gallery/alaska pop.png" | htmlBaseUrl }}');"><p>{% lucide 'scroll-text' 32 %} History</p></div>
   </a>
   <a href="/about/">
-    <div class="card"><p>{% lucide 'info' 32 %} About</p></div>
+    <div class="card" style="background-image: url('{{ "/img/gallery/qibli pop.png" | htmlBaseUrl }}');"><p>{% lucide 'info' 32 %} About</p></div>
   </a>
   <a href="/fun/">
-    <div class="card"><p>{% lucide 'ferris-wheel' 32 %} Fun</p></div>
+    <div class="card" style="background-image: url('{{ "/img/gallery/guillotine pop.png" | htmlBaseUrl }}');"><p>{% lucide 'ferris-wheel' 32 %} Fun</p></div>
   </a>
 </div>
 
