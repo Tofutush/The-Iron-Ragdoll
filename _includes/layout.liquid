@@ -61,29 +61,31 @@ navOptions:
   {% endunless %}
   {{ content }}
 </div>
-<div id="footer">
-    <div id="footer-controls">
-      {% unless theme %}
-        <div id="theme-toggle-wrap">
-          <div id="theme-toggle">
-            <div id="button">
-              {% lucide 'sun' %}
-              {% lucide 'moon' %}
+{% unless noFooter %}
+  <div id="footer">
+      <div id="footer-controls">
+        {% unless theme %}
+          <div id="theme-toggle-wrap">
+            <div id="theme-toggle">
+              <div id="button">
+                {% lucide 'sun' %}
+                {% lucide 'moon' %}
+              </div>
             </div>
           </div>
-        </div>
-        <script src="/js/themeSwitch.js"></script>
-      {% endunless %}
-      {% comment %} <div id="back-to-top">
-        <a href="#top">{% lucide 'arrow-up-to-line' %}</a>
-      </div> {% endcomment %}
-    </div>
-    <div id="footer-img">
-      {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
-      {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
-      {% image 'gallery/' footername 500 '' %}
-    </div>
-</div>
+          <script src="/js/themeSwitch.js"></script>
+        {% endunless %}
+        {% comment %} <div id="back-to-top">
+          <a href="#top">{% lucide 'arrow-up-to-line' %}</a>
+        </div> {% endcomment %}
+      </div>
+      <div id="footer-img">
+        {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
+        {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
+        {% image 'gallery/' footername 500 '' %}
+      </div>
+  </div>
+{% endunless %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
 <script>
 if(!window.location.href.includes('localhost'))
