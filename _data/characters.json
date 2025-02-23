@@ -177,6 +177,7 @@
       "Deceased": true
     },
     "palette": {
+      "shirt": "#575757",
       "hair": "#2E2E2E"
     }
   },
@@ -644,8 +645,7 @@
       "suit": "#000"
     },
     "trivia": [
-      "He likes everything strawberry-flavored.",
-      "But he hates strawberries themselves."
+      "Strawberry is his favorite flavor of lolipop."
     ],
     "note": "- The highlight on his hair goes up, down, and then up."
   },
