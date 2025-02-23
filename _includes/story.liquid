@@ -1,6 +1,6 @@
 ---json
 {
-  "layout": "layout.liquid",
+  "layout": "article.liquid",
   "eleventyComputed": {
     "eleventyNavigation": {
         "key": "{{ title }}",
@@ -11,8 +11,6 @@
 }
 ---
 <link rel="stylesheet" href="/css/story.css"/>
-<h1>{{ title }}</h1>
-
 <div class="attr">
     <div class="attr-key">Canon?</div>
     <div class="attr-val">{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi' %}Semi-canon (is not planned in the plot, but has no conflicts with the original story){% else %}No (you should not consider this in the context of TIR's universe){% endif %}</div>
@@ -28,11 +26,10 @@
     {% endif %}
     <div class="attr-key">Time period</div>
     <div class="attr-val">{{ time }}</div>
-    {% if summary %}
-        <div class="attr-key">Synopsis</div>
-        <div class="attr-val">{{ summary }}</div>
-    {% endif %}
 </div>
+{% if comic %}
+    <p style="text-align: center;"><a href="page-0/">{% lucide 'chevrons-right' %}Read the comic associated with this story!{% lucide 'chevrons-left' %}</a></p>
+{% endif %}
 
 {{ content }}
 

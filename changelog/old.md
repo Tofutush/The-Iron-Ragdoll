@@ -1,12 +1,10 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Older Updates
 eleventyNavigation:
   key: Older Updates
   parent: Changelog
 ---
-
-# Older Updates
 
 ## 2024-12-31
 
@@ -357,10 +355,10 @@ eleventyNavigation:
 
 - Added world pages
   - [Coastline](/world/bauhinia/coastline/)
-    - [Coastline Middle School](/world/bauhinia/coastline/cms/)
-    - [The Safe house](/world/bauhinia/coastline/safe-house/)
+	- [Coastline Middle School](/world/bauhinia/coastline/cms/)
+	- [The Safe house](/world/bauhinia/coastline/safe-house/)
   - [Flower City](/world/bauhinia/flower-city/)
-    - [University of Flower City](/world/bauhinia/flower-city/ufc/)
+	- [University of Flower City](/world/bauhinia/flower-city/ufc/)
 
 ## 2024-09-16
 

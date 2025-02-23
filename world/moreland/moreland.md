@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Moreland
 templateEngineOverride: liquid,md
 eleventyNavigation:
@@ -9,9 +9,9 @@ eleventyNavigation:
 desc: What if introverts made a country?
 tags:
   - moreland
+displayTitle: The Republic of Moreland
+titlezh: 莫尔兰共和国
 ---
-
-# The Republic of Moreland / 莫尔兰共和国
 
 {% image "gallery/" "moreland flag.svg" 1000 "Flag of Moreland" 'max' %}
 

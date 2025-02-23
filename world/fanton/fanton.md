@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Fanton
 templateEngineOverride: liquid,md
 eleventyNavigation:
@@ -9,9 +9,9 @@ eleventyNavigation:
 desc: What if PETA made a country?
 tags:
   - fanton
+displayTitle: The Republic of Fanton
+titlezh: 范顿共和国
 ---
-
-# The Republic of Fanton / 范顿共和国
 
 {% image "gallery/" "fanton flag.svg" 1000 "Flag of Fanton" 'max' %}
 

@@ -1,21 +1,29 @@
-.box-nav>a {
-    opacity: .5;
-}
-
-.box-nav>a[aria-current] {
-    opacity: 1;
-}
-
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
+    --c: #0ab89f;
 }
 
-.gallery>div.hidden {
+.img {
+    position: relative;
+}
+
+.icons {
+    position: absolute;
+    top: 12px;
+    left: 18px;
+    color: var(--c);
+    user-select: none;
+    cursor: pointer;
+    display: flex;
+    gap: 8px;
+}
+
+.img.hidden {
     display: none;
 }
 
-.gallery>div>img {
+.img>img {
     background-color: var(--box);
     border-radius: 16px;
     cursor: pointer;
@@ -28,8 +36,8 @@
     aspect-ratio: 1;
 }
 
-.gallery>div>img:hover {
-    box-shadow: 0 0 0 4px #0ab89f;
+.img>img:hover {
+    box-shadow: 0 0 0 4px var(--c);
 }
 
 .modal {

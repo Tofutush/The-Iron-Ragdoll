@@ -1,6 +1,7 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Bauhinia
+displayTitle: The Republic of Bauhinia
 templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Bauhinia
@@ -9,9 +10,8 @@ eleventyNavigation:
 desc: What if CEOs made a country?
 tags:
   - bauhinia
+titlezh: 紫荆共和国
 ---
-
-# The Republic of Bauhinia / 紫荆共和国
 
 {% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" 'max' %}
 
@@ -46,6 +46,8 @@ The closest geographical mirror to Bauhinia is southern China.
 Bauhinia is a ministerial republic with an avid love for bureaucracy. The government primarily serves the interests of the bourgeoisie[^3], which kind of only involves [Starcorp](/world/bauhinia/starcorp/), with which it is in a mutually beneficial and balanced relationship, with Starcorp making sure the government stays in power and the government making sure Starcorp dominates in the economy.
 
 [^3]: Someone give me a tutorial on how to sound less communist.
+
+Bauhinia is also a dictatorship, in case you haven't noticed.
 
 ### Ministries
 

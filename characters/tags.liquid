@@ -19,6 +19,5 @@
   }
 }
 ---
-<h1>{{ tag }} Characters</h1>
 {% assign filteredChs = characters | filterChByTag: tag %}
 {% include 'chs', chs: filteredChs %}

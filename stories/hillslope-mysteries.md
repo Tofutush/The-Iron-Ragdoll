@@ -21,6 +21,7 @@ chs:
 time: 2025-2030
 location: <a href="/world/bauhinia/coastline/hillslope/">Hillslope</a>
 summary: Sparky investigates the murder of Amulet and the assault on Starry. She digs up more than she was supposed to.
+comic: true
 ---
 
 Sparky was sent to a town full of kids whose parents abandoned them, regardless of whether the abandonment was consensual.

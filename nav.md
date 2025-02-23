@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Navigation
 templateEngineOverride: liquid,md
 eleventyNavigation:
@@ -9,8 +9,6 @@ eleventyNavigation:
 ---
 
 [[toc]]
-
-# Navigation
 
 Most of the important links on the site. You can check out the [sitemap](/sitemap/) too!
 

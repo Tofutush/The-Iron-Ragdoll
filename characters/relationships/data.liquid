@@ -1,0 +1,27 @@
+---
+permalink: "characters/relationships/data.js"
+---
+const data = {
+ch: [
+{% for ch in characters %}
+{
+id: "{{ ch.name }}",
+color: "{{ ch.color }}"
+},
+{% endfor %}
+],
+rel: [
+{% for rel in relationships %}
+{
+source: "{{ rel.ch[0][0] }}",
+target: "{{ rel.ch[1][0] }}",
+rel1: "{{ rel.ch[0][1] }}",
+rel2: "{{ rel.ch[1][1] }}"
+},
+{% endfor %}
+]
+};
+
+const imgs = {
+    {% for ch in characters %}{% assign name = ch.name | lowerCase | append: ' thumb.png' %}{% capture url %}{% imageUrl 'gallery/' name 200 %}{% endcapture %}{{ ch.name }}: "{{ url | htmlBaseUrl }}",{% endfor %}
+}
