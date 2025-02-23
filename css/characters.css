@@ -6,7 +6,6 @@
 
 h1,
 h2,
-h3,
 #main-content h2::before,
 #main-content h3::before {
   color: var(--accent);
@@ -84,7 +83,7 @@ h3,
 
 .toc {
   position: sticky;
-  top: 1em;
+  top: 3em;
 }
 
 .quote {
@@ -129,8 +128,8 @@ h3,
   object-fit: contain;
 }
 
-.gallery>div>img:hover {
-  box-shadow: 0 0 0 4px var(--accent);
+.gallery {
+  --c: var(--accent)
 }
 
 @media only screen and (max-width: 780px) {

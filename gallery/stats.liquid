@@ -1,0 +1,29 @@
+---
+layout: layout.liquid
+title: Gallery Stats
+desc: Statistics for my gallery because I'm a stats nerd.
+years:
+ - 2023
+ - 2024
+ - 2025
+eleventyNavigation:
+  key: Gallery Stats
+  parent: Gallery
+---
+<link rel="stylesheet" href="/css/gallery.css"/>
+{% include 'galleryBoxNav', years: years %}
+<h1>Gallery stats</h1>
+{% for eachyear in years reversed %}
+  {% assign numInYear = gallery | filterGalleryByDate: eachyear %}
+  <h2><a href="/gallery/{{ eachyear }}/">{{ eachyear }}</a>: {{ numInYear.size }} pictures</h2>
+  <ul>
+    {% for month in (1..12) %}
+      {% assign paddedMonth = month | padStart: 2, '0' %}
+      {% assign yearMonth = eachyear | append: '-' | append: paddedMonth %}
+      {% assign numInMonth = gallery | filterGalleryByDate: yearMonth %}
+      {% if numInMonth.size > 0 %}
+        <li><a href="/gallery/{{ eachyear }}/#{{ month | getMonthName | slug }}">{{ month | getMonthName }}</a>: {{ numInMonth.size }} picture{% if numInMonth.size != 1 %}s{% endif %}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}

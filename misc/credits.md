@@ -1,12 +1,10 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Credits
 eleventyNavigation:
   key: Credits
   parent: Misc
 ---
-
-# Credits
 
 Most content on this site is made by myself. What isn't:
 
@@ -23,8 +21,8 @@ All stories, characters, and artwork on this site are created by myself. Art by 
 
 ## Let me tell you about Homestuck
 
-*The Iron Ragdoll* is heavily inspired by the webcomic [Homestuck](https://www.homestuck.com) by Andrew Hussie, because I love that comic. You should read it too! ... Or not. Nope nope definitely not. Don't do it.
+*The Iron Ragdoll* is heavily inspired by the webcomic [Homestuck](https://www.homestuck.com) by Andrew Hussie, because I love that comic. You should read it too! … Or not. Nope nope definitely not. Don't do it.
 
 This was originally the backstory of a character, also called Sparky, in my Homestuck fan adventure. Then I decided to simply make it into my original comic. So, here it is.
 
-And that's why this comic still smells Homestuck-y. Six-letter names, the aliased art, a lot of people wearing gray or black clothes with symbols on them... The ears and horns are a substitute for troll horns, because a lot of character designs look weird without them.
+And that's why this comic still smells Homestuck-y. Six-letter names, the aliased art, a lot of people wearing gray or black clothes with symbols on them… The ears and horns are a substitute for troll horns, because a lot of character designs look weird without them.

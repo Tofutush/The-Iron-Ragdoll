@@ -1,13 +1,11 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Minor Characters
 eleventyNavigation:
   key: Minor Characters
   parent: Characters
   order: 2
 ---
-
-# Minor Characters
 
 Characters that I have a name of but doesn't have a large role in the story. Or pets.
 

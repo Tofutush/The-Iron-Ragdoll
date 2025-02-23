@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Atlasia
 templateEngineOverride: liquid,md
 eleventyNavigation:
@@ -9,9 +9,9 @@ eleventyNavigation:
 desc: What if Ayn Rand made a country?
 tags:
   - atlasia
+displayTitle: The Republic of Atlasia
+titlezh: 亚特莱西亚共和国
 ---
-
-# The Republic of Atlasia / 亚特莱西亚共和国
 
 {% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" 'max' %}
 

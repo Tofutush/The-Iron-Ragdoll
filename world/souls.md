@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Souls
 desc: What are souls and how do they work?
 tags:
@@ -7,9 +7,8 @@ tags:
 eleventyNavigation:
   key: Souls
   parent: World
+titlezh: 灵魂
 ---
-
-# Souls
 
 Everyone has a soul. It contains a person's entire identity: their self, their memories, their emotions. They are born with them and ideally should stay inside the person's body till death. The soul's color defines the person's eye and ear colors, and, in the case of magicians, the color of their magic.
 

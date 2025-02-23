@@ -1,12 +1,10 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Misc
 eleventyNavigation:
   key: Misc
   parent: Root
 ---
-
-# Misc
 
 - [Buttons and webrings](links/)
 - [Credits](credits/)

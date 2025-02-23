@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Changelog
 eleventyNavigation:
   key: Changelog
@@ -7,7 +7,35 @@ eleventyNavigation:
   order: 990
 ---
 
-# Changelog
+## 2025-02-23
+
+- A huge update! I moved the dead-water pigeon comic off the front page and into the back instead. It can be found [behind Hillslope Mysteries](/stories/hillslope-mysteries/page-0/).
+
+## 2025-02-21
+
+- Added [buttons](/misc/links/).
+- Edited world pages.
+- Added `cms friends lineless.png`, `qibli lineless.png`, `sky lineless.png`, `sparky firecrackers lineless.png`.
+
+## 2025-02-20
+
+- Added `nightsun hug sparky.png`.
+
+## 2025-02-19
+
+- Added a [relationship graph](/characters/relationships/)!
+
+## 2025-02-17
+
+- Added GIFs to the [gallery](/gallery/2025/)! Along with icons for when a picture is a gif or has comments. And little style tweaks.
+- Added `mss ref.png` (also added to the [MSS](/world/bauhinia/mss/) page).
+
+## 2025-02-16
+
+- Added a [Gallery stats](/gallery/stats/) page.
+- Added [People's Vanguard](/world/westavia/peoples-vanguard/).
+- Slight tweaks to the CSS.
+  - I don't really know why I wrote that down; I mean if you can find the changes with your eyes (without looking in Github) you could probably qualify for some superhuman award.
 
 ## 2025-02-15
 

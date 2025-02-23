@@ -1,10 +1,8 @@
 [
-  "obsidian-style-settings",
-  "css-editor",
   "obsidian-linter",
-  "obsidian-text-format",
-  "various-complements",
   "callout-manager",
-  "hide-folders",
-  "typewriter-mode"
+  "various-complements",
+  "typewriter-mode",
+  "obsidian-text-format",
+  "OA-file-hider"
 ]

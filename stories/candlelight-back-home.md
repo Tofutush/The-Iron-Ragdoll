@@ -8,9 +8,10 @@ chs:
   - mooncake
   - pumpkin
   - helsinki
-time: 2031
+time: "2031"
 location: <a href="/world/westavia/nameless-village/">Nameless Village</a>
 summary: Candlelight goes back home to his little village, meeting a more-than-friend along the way. Incidents happen.
+titlezh: 烛光回老家
 ---
 
 Candlelight, sick of his [SPF](/world/westavia/spf/) job, decided to quit and go back to being a farmer. He moved from [Area 1](/world/westavia/area-1/) back to the nameless village near [Area 29](/world/westavia/area-29/) in which he was born.

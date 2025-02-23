@@ -1,14 +1,14 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: History
 desc: A brief history of the world.
-tags: lore
+tags:
+  - lore
 eleventyNavigation:
   key: History
   parent: World
+titlezh: 历史
 ---
-
-# History / 历史
 
 [[toc]]
 

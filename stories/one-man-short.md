@@ -21,7 +21,15 @@ Cobalt, Nightingale, Skyhawk, and Kaleidoscope were college students, a four-per
 
 As their friendship grew, Kaleidoscope and Cobalt grew into something more than friends. They started calling each other "Kally" and "Co," and would always snuggle around each other[^1].
 
-But on the day Kaleidoscope formally confessed to Cobalt, he went missing. They looked for him, called the police, all in vain. The shreds of evidence they had suggested he had gotten himself tangled up in the messy labyrinths of the Fantoni underground.
+But on the day Kaleidoscope formally confessed to Cobalt, he went missing. They looked for him, called the police, all in vain. The shreds of evidence they had suggested possibly an abduction: he had gotten himself tangled up in the messy labyrinths of the Fantoni underground.
+
+## Kaleidoscope's fate
+
+What the other three friends didn't know was that Kaleidoscope was gambling behind their backs. After loosing a ton of money, he tried borrowing some money from his friends, but felt scared to ask too much. He resorted to taking out loans from underground loan sharks, who came after his ass when he was overdue on his payment. He got kidnapped and forced to work for a mafia operation until he earned enough to pay back his debt -- which, accounting for interest, meant that he was stuck there for the rest of his life.
+
+He made great care to hide from his former friends because he was ashamed of what he had become. Slowly, though, as the operation traveled around the country, he no longer saw them, and almost got over them and accepted his new life. That was why he didn't know what they were up to.
+
+## What were they up to?
 
 To find Kaleidoscope, Cobalt and her friends needed to find a way into the criminal world. But what can a trio of stupid college kids do? Quite a lot, in fact. You see, at that time the soul market in Fanton was up and rising; an extremely profitable trade with your major clients being powerful organized crime bosses. If they got into that, it could lead them closer to Kaleidoscope.
 

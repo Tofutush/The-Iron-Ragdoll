@@ -1,26 +1,15 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: About
 desc: About The Iron Ragdoll.
 eleventyNavigation:
   key: About
   parent: Root
   order: 2
+titlezh: 关于
 ---
 
-# About
-
-A comic and paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage.
-
-## About the comic
-
-*Apparently, seeing the literal ghost of the victim doesn't make solving the murder any easier.*
-
-*Sparky just wants to go home.*
-
-The comic is about mysteries, espionage, and everything that interests me.
-
-Start by [reading it](/), or as I'm stuck in limbo right now, start reading about the world in [Overview](/world/overview/)!
+A paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage.
 
 ## About me
 

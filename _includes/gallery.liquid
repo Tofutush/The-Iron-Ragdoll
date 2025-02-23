@@ -1,12 +1,22 @@
 <div class="gallery">
   {% for img in imgs %}
-  <div tags="{% for c in img.ch %}{{ c | slug }} {% endfor %}">
+  <div class="img">
     {% assign bruhhh = img.name | append: "." | append: img.type %}
     {% image "gallery/" bruhhh 120 img.name %}
+    {% if img.comment or img.type == 'gif' %}
+      <div class="icons">
+        {% if img.comment %}<div title="has comment">{% lucide 'message-circle' 16 %}</div>{% endif %}
+        {% if img.type == 'gif' %}<div title="is gif">{% lucide 'image-play' 16 %}</div>{% endif %}
+      </div>
+    {% endif %}
     <div class="modal">
       <div class="close">{% lucide 'x' 48 %}</div>
-      {% assign bruhhh = img.name | append: "." | append: img.type %}
-      {% image "gallery/" bruhhh 1000 img.name %}
+      {% if img.type == 'gif' %}
+        <img src="/img/gallery/{{ img.name }}.gif" alt="{{ img.name }}"/>
+      {% else %}
+        {% assign bruhhh = img.name | append: "." | append: img.type %}
+        {% image "gallery/" bruhhh 1000 img.name %}
+      {% endif %}
       {% if img.ch %}
       <div class="chbuttons">
         {% for ch in img.ch %}
@@ -17,7 +27,7 @@
       <div class="comment">
         <p class="name-date"><span>{{ img.name }}</span><span>{{ img.date }}</span></p>
         {% if img.comment %}
-        {{ img.comment | renderMD }}
+          {{ img.comment | renderMD }}
         {% endif %}
       </div>
     </div>

@@ -1,15 +1,14 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Froggy Island
 desc: Hyrax's personal island.
 eleventyNavigation:
   key: Froggy Island
   parent: Bauhinia
+titlezh: 蛙蛙岛
 ---
 
-# Froggy Island
-
-[Hyrax](/characters/minor#hyrax/)'s personal island.
+[Hyrax](/characters/minor/#hyrax)'s personal island.
 
 Froggy Island is an island about a week's boat trip from Bauhinia's coast. Hyrax often goes there for vacations, sometimes taking his kids there too. See [The Yacht Trip](/stories/the-yacht-trip/).
 

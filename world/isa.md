@@ -1,14 +1,14 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: International Superpowers Association
 desc: The international organization for superpowers.
-tags: lore
+tags:
+  - lore
 eleventyNavigation:
   key: International Superpowers Association
   parent: World
+titlezh: 国际超能力协会
 ---
-
-# International Superpowers Association
 
 Association of superpowered people, or "the gifted" as they're known in [Bauhinia](/world/bauhinia/). Headquarters in [Westavia](/world/westavia/).
 
