@@ -1,6 +1,6 @@
 ---
 layout: story.liquid
-title: The Nuke From Moreland
+title: A Nuke From Moreland
 canon: yes
 order: 103
 chs:
