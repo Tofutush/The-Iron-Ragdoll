@@ -1,0 +1,50 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-auto-rows: 1fr;
+    gap: 2em;
+}
+
+.grid a {
+    user-select: none;
+    text-decoration: none;
+}
+
+.grid a:hover {
+    color: var(--text);
+}
+
+.big {
+    grid-row: span 2;
+}
+
+.card {
+    border: 8px solid var(--c);
+    border-radius: 1em;
+    transition: all .3s var(--bezier-bounce);
+    height: 100%;
+    box-sizing: border-box;
+    padding: 1em;
+    font-size: var(--font-size-h2);
+    background-size: cover;
+    background-position: center calc(var(--font-size) * 3);
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+}
+
+.card:hover {
+    box-shadow: 0 0 0 8px var(--box);
+    background-position: center 0;
+}
+
+.big .card {
+    background-position: center calc(var(--font-size) * 3 + 10px);
+}
+
+.big .card:hover {
+    background-position: center calc(var(--font-size) / -4 + 20px);
+}
+
+.card p {
+    margin: 0;
+}
