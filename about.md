@@ -6,6 +6,7 @@ eleventyNavigation:
   key: About
   parent: Root
   order: 2
+titlezh: 关于
 ---
 
 A paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage.
