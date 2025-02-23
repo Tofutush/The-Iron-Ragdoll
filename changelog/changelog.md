@@ -7,6 +7,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-02-23
+
+- A huge update! I moved the dead-water pigeon comic off the front page and into the back instead. It can be found [behind Hillslope Mysteries](/stories/hillslope-mysteries/page-0/).
+
 ## 2025-02-21
 
 - Added [buttons](/misc/links/).

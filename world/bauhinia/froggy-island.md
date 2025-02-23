@@ -5,6 +5,7 @@ desc: Hyrax's personal island.
 eleventyNavigation:
   key: Froggy Island
   parent: Bauhinia
+titlezh: 蛙蛙岛
 ---
 
 [Hyrax](/characters/minor/#hyrax)'s personal island.
