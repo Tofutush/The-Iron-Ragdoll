@@ -436,7 +436,8 @@ body.dark #linx a:hover {
   opacity: .5;
 }
 
-.box-nav>a[aria-current] {
+.box-nav>a[aria-current],
+.box-nav>a:hover {
   opacity: 1;
 }
 
