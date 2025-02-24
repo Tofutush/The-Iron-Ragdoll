@@ -26,6 +26,6 @@ The age range of a tadlet is typically 5 months, regardless of the kind of creat
 
 {% figure 'gallery/' 'tadlet cycle.png' 500 'Life cycle of a tadlet' 'Life cycle of a tadlet' 'max' %}
 
-[^1]: How do you know I just got these numbers off the top of my head?
-
 In [Bauhinia](/world/bauhinia/), all kids are required to keep a tadlet as a part of their third grade curriculum.
+
+[^1]: How do you know I just got these numbers off the top of my head?

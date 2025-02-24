@@ -13,9 +13,11 @@ titlezh: 超能力
 
 [[toc]]
 
-Some people are born with ~~convenient plot devices~~ superpowers. There are some different types of superpowers. One person can only have up to one power, and you might be either strong or weak in it. Read about them!
+Some people are born with ~~convenient plot devices~~ superpowers. There are some different types of superpowers. You might be either strong or weak in it. Read about them!
 
 ## Common powers / 普通
+
+Common powers are stored in a person's soul. One soul can only have at most one power, but a person isn't limited to one soul.
 
 ### Superstrength
 
@@ -23,8 +25,6 @@ Some people are born with ~~convenient plot devices~~ superpowers. There are som
 
 - Possessors: [Sparky](/characters/sparky/), [Peacock](/characters/peacock/)
 - People with superstrength are called strongpeople[^1]
-
-[^1]: LOL stop laughing
 
 Exactly what it says on the tin. Superstrength means you're born stronger than other people.
 
@@ -46,8 +46,6 @@ Never be late again! Be able to tell the time down to the second (if you're stro
 - Possessors: [Pumpkin](/characters/pumpkin/)
 - People with hyperawareness are called sensors[^2]
 
-[^2]: This sounds dumb [throw better words at me please](/contact/).
-
 Be able to see, hear, and smell things that other people can't. For weaker people, they might only get enhanced senses, but for stronger people, they might literally be able to see stuff going on on the other side of town, or hear a pin dropped in a noisy room. It's also possible for someone to be extremely strong in one or two senses but lacking in the others.
 
 ### Invisibility
@@ -57,7 +55,7 @@ Be able to see, hear, and smell things that other people can't. For weaker peopl
 - Possessors: [Goose](/characters/goose/), [Snowball](/characters/snowball/)
 - People with invisibility are called invisibles
 
-Get invisible. Like, that's it. Exactly how much you can get invisible depends on your power strength. Like, weaker people might only get their immediate bodies invisible while their clothes are left hanging in the air; stronger people might be able to get a lot more things near them invisible. But no matter what, they have to be invisible *themselves* -- you can't hide something else but not yourself. Strong invisibles may even make themselves and everything they've hidden pass-through.
+Get invisible. Like, that's it. Exactly how much you can get invisible depends on your power strength. Like, weaker people might only get their immediate bodies invisible while their clothes are left hanging in the air; stronger people might be able to get a lot more things near them invisible. But no matter what, they have to be invisible *themselves* — you can't hide something else but not yourself. Strong invisibles may even make themselves and everything they've hidden pass-through.
 
 ### Mind Reading
 
@@ -68,11 +66,13 @@ Get invisible. Like, that's it. Exactly how much you can get invisible depends o
 
 Look into other people's deepest privacy. Listen in. What are they thinking about? See what they see in their mind's eye. Unless they have aphantasia or something. Hear what they hear in their mind's ear. Including what song is stuck in their head right now.
 
-That is, if your power is strong enough. Weak mind reading powers are extremely limited. For example, Cosmo can only tell whether people are lying -- though she's quite good at that.
+That is, if your power is strong enough. Weak mind reading powers are extremely limited. For example, Cosmo can only tell whether people are lying — though she's quite good at that.
 
 ## Special powers / 特殊
 
 These powers are extremely rare, and don't have the boosting and blocking effects that the other five have.
+
+Technically, a person can have both a common power and a special power — or even both special powers — at the same time as they're not stored in the same place, but this is so rare that no such person might as well exist.
 
 ### Immortality
 
@@ -85,7 +85,7 @@ Get mutilated beyond recognition and still recover with an able body! Literally 
 
 For each immortal there is *one* thing that can kill them. And you won't know what it is.
 
-Immortality can be detected through DNA tests. This is the rarest superpower, followed by magic.
+Immortality is stored in the bones, and as such it's the only power that can be detected through medical tests. This is the rarest superpower, followed by magic.
 
 ### Magic
 
@@ -96,9 +96,11 @@ Immortality can be detected through DNA tests. This is the rarest superpower, fo
 
 Now, this is the best one of all. Powerful, mystical, and artificially rare (at least in [Bauhinia](/world/bauhinia/)).
 
-Magicians can do nearly anything they put their minds to. Most of it involve telekinesis, moving and levitating things without touching them; teleportation, moving things -- or people -- to other places instantly; and all sorts of little gimmicks like changing the words written on a book to prank your friends. The only things magicians can't do is bring dead things back to life, and magically manipulate other people's minds. (They can chop up their brains if they're strong enough though. And able to evade all the cops and live as a wanted fugitive the rest of their lives.)
+Magicians can do nearly anything they put their minds to. Most of it involve telekinesis, moving and levitating things without touching them; teleportation, moving things — or people — to other places instantly; and all sorts of little gimmicks like changing the words written on a book to prank your friends. The only things magicians can't do is bring dead things back to life, and magically manipulate other people's minds. (They can chop up their brains if they're strong enough though. And able to evade all the cops and live as a wanted fugitive the rest of their lives.)
 
-Magicians can choose to take their magic out of their body and into a vessel. Then they can only use their magic if they're physically in contact with the vessel. The magic is still theirs, and still only they can use it. But while all other spells function the same, they *cannot* take the magic back out again unless the vessel is completely broken -- for example, snapped in half. Slight chipping doesn't count.
+Magicians can choose to take their magic out of their body and into a vessel. Then they can only use their magic if they're physically in contact with the vessel. The magic is still theirs, and still only they can use it. But while all other spells function the same, they *cannot* take the magic back out again unless the vessel is completely broken — for example, snapped in half. Slight chipping doesn't count.
+
+Magic is stored in the blood, but despite that, normal blood taken out of the body loses its magical properties.
 
 ## Arch-people
 
@@ -112,3 +114,6 @@ For example, [Qibli](/characters/qibli/) crowned herself as the Arch-Magician (n
 
 - [Superpowers in Bauhinia](/world/bauhinia/superpowers/)
 - [International Superpowers Association](/world/isa/)
+
+[^1]: LOL stop laughing
+[^2]: This sounds dumb [throw better words at me please](/contact/).

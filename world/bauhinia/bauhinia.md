@@ -17,11 +17,7 @@ titlezh: 紫荆共和国
 
 Bau-HEE-nee-a: the pink bureaucratic fanatic[^1].
 
-[^1]: The flag is *not* Hong Kong. Hong Kong is *dumb*. Bauhinia is… well, still pretty dumb I admit but nothing is dumber than HK.
-
 The bauhinia flower is the national symbol of Bauhinia[^2].
-
-[^2]: In case it's not obvious enough.
 
 [[toc]]
 
@@ -45,9 +41,7 @@ The closest geographical mirror to Bauhinia is southern China.
 
 Bauhinia is a ministerial republic with an avid love for bureaucracy. The government primarily serves the interests of the bourgeoisie[^3], which kind of only involves [Starcorp](/world/bauhinia/starcorp/), with which it is in a mutually beneficial and balanced relationship, with Starcorp making sure the government stays in power and the government making sure Starcorp dominates in the economy.
 
-[^3]: Someone give me a tutorial on how to sound less communist.
-
-Bauhinia is also a dictatorship, in case you haven't noticed.
+Bauhinia is also a dictatorship, in case you haven't noticed. It's on a happy-go-lucky seesaw between liberalism and fascism — sometimes it's really liberal and not so fascist, while sometimes it's really fascist and not so liberal. Last time the seesaw hit the bottom of the fascist side, Bauhinia invaded Fanton.
 
 ### Ministries
 
@@ -82,6 +76,8 @@ When your legal guardians change, they can apply for a name change for you. Spar
 
 ## History
 
+See: [History](/world/history/)
+
 Bauhinia used to be a huge empire spanning across almost the entire continent. That was why everyone spoke the same language, totally not because I'm too lazy.
 
 The industrialization of Bauhinia eventually led to a republican revolution where the emperor was overthrown, and the empire collapsed as other countries declared their independences. After the end of the Atlasian / Westavian War, Bauhinia entered a cold war with Moreland, splitting the continent into the north and the south.
@@ -92,5 +88,8 @@ Most of the story takes place during the cold war.
 
 ## Related files
 
-- [History](/world/history/)
 - [Project Boomerang](/world/bauhinia/project-boomerang/)
+
+[^1]: The flag is *not* Hong Kong. Hong Kong is *dumb*. Bauhinia is… well, still pretty dumb I admit but nothing is dumber than HK.
+[^2]: In case it's not obvious enough.
+[^3]: Someone give me a tutorial on how to sound less communist.
