@@ -2,7 +2,7 @@
 layout: story.liquid
 title: Goose Opens the Door
 canon: semi
-order: 401
+order: 403
 chs:
   - goose
   - pumpkin
