@@ -6,14 +6,17 @@ eleventyNavigation:
   parent: Root
   order: 990
 ---
+## 2025-02-24
+
+- Moved [Bramble's Happy Family](/stories/brambles-happy-family/) to its own story page.
 
 ## 2025-02-23
 
 - A huge update! I moved the dead-water pigeon comic off the front page and into the back instead. It can be found [behind Hillslope Mysteries](/stories/hillslope-mysteries/page-0/).
-	- Changed the style a bit, most notably the sticky header.
-	- Applied the layout to the [404 page](/the-five-boxing-wizards-jump-quickly/).
-	- Did some things about the site templating that don't affect *you*, but makes *my* life better.
-	- Hopefully, I won't be spending this much time on the site itself later on, and focus on the content instead. "Tofutush likes coding more than paracosming" didn't come out of nowhere, but it shall go into nowhere.
+  - Changed the style a bit, most notably the sticky header.
+  - Applied the layout to the [404 page](/the-five-boxing-wizards-jump-quickly/).
+  - Did some things about the site templating that don't affect *you*, but makes *my* life better.
+  - Hopefully, I won't be spending this much time on the site itself later on, and focus on the content instead. "Tofutush likes coding more than paracosming" didn't come out of nowhere, but it shall go into nowhere.
 
 ## 2025-02-21
 
