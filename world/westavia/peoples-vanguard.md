@@ -8,4 +8,4 @@ eleventyNavigation:
 titlezh: 人民先锋
 ---
 
-Capital city of Westavia, the only city in the country that has a real name -- though that's not its historical name either.
+Capital city of Westavia, the only city in the country that has a real name — though that's not its historical name either.

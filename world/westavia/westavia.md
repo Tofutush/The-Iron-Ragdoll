@@ -39,7 +39,7 @@ Except for the capital, all cities and regions in Westavia are called "Area (num
 
 ## Government
 
-Westavia is a socialist country. There is a central government, and smaller local governments in each city.
+Westavia is a socialist country, a dictatorship of the proletariat. There is a central government, and smaller local governments in each city. The governing party is called the Communist Party of Westavia, or often just "the party."
 
 ### Agencies
 
@@ -51,6 +51,6 @@ Westavians love making wine because they have way too many grapes. And raisins t
 
 Wine culture is all too big in Westavia. People *love* drinking. Though the legal drinking age is still 18, kids would still drink, and simply mandating an ID check in stores won't work, because most people would have homemade wine right in their homes.
 
-[^1]: Too bad. I hate both raisins and wine.
-
 Kids drinking is a small problem. Westavian adults could drink a ton during gatherings, parties, and even local government meetings, to the point where people could die at the table. The central government had attempted some anti-excessive-drinking campaigns that went nowhere.
+
+[^1]: Too bad. I hate both raisins and wine.

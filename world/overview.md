@@ -35,8 +35,6 @@ Yes I mapped the continent to eastern Asia because I'm terrible at geography. It
 
 They're locked in an perpetual cold war between [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/), splitting the continent into the north and the south, with [Atlasia](/world/atlasia/) being with [Bauhinia](/world/bauhinia/), and [Westavia](/world/westavia/) and [Sylvandia](/world/sylvandia/) with [Moreland](/world/moreland/). [Fanton](/world/fanton/) is unaligned though slightly finlandized by Bauhinia. During the course of the story, Bauhinia would launch an invasion of Fanton and while failing to annex them, would make Fanton officially on Bauhinia's side.
 
-Do the countries have any ideological difference? Maybe they look like they do. Maybe they once actually did. In the end they're just the same.
-
 The main focus here is [Bauhinia](/world/bauhinia/), a bureaucratical fanatical corporate dictatorship. How do these four words even go together?
 
 There's a company called [Starcorp](/world/bauhinia/starcorp/), the most powerful company in Bauhinia (and undoubtedly the whole world), having gotten rich during the war through arms dealing. Now Starcorp controls most of Bauhinia's industries and resources. Starcorp's chairman is [Hyrax](/characters/minor/#hyrax), who has a best friend and personal attorney [Peacock](/characters/peacock/), who has a stepdaughter [Sparky](/characters/sparky/) who is the main character of our story. The story follows Sparky as she solves mysteries everywhere she goes, while trying to understand the world around her. But what Sparky spends her whole life trying to understand is now dumped completely to you on this little webbed site. Say thank me now.
