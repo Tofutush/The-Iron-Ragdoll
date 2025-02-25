@@ -606,7 +606,8 @@
       "Gender": "Male",
       "Soul": "Solid, heart-shaped",
       "Birthday": "2013-01-15",
-      "Nationality": "Bauhinian"
+      "Nationality": "Bauhinian",
+      "Orientation": "Heterosexual"
     },
     "palette": {
       "shirt": "#b9ac95",
@@ -1361,6 +1362,7 @@
       "Gender": "Female",
       "Soul": "Solid",
       "Nationality": "Fantoni",
+      "Orientation": "Heterosexual",
       "Occupation": "Soul-dealer"
     },
     "palette": {
@@ -1368,7 +1370,7 @@
       "shirt": "#5E5E5E",
       "hair": "#2e2e2e"
     },
-    "about": "Cobalt is a soul-dealer -- well-trained in the art of soul extraction."
+    "about": "Cobalt is as cishet as a cishet could ever cishet. She's so cishet that when she got into [Ironheart](/characters/ironheart/)'s body, she divorced his wife and attempted to get gender-affirming surgery, the latter of which [Sparky](/characters/sparky/) successfully stopped because Ironheart is also as cishet as a cishet could ever cishet and Sparky didn't want him coming back into a woman's body.\n\nShe is also a soul-dealer well-trained in the art of soul extraction."
   },
   {
     "name": "Kaleidoscope",
@@ -1382,11 +1384,14 @@
       "Nickname": "Kally (by Cobalt)",
       "Gender": "Male",
       "Age estimation": "Around the same as Cobalt",
-      "Nationality": "Fantoni"
+      "Nationality": "Fantoni",
+      "Orientation": "Pansexual",
+      "Occupation": "Mafia minion"
     },
     "palette": {
       "hair": "#2e2e2e"
-    }
+    },
+    "about": "Kaleidoscope greatly cares for his friends and family, to the point where he even went into the mafia to pay back his father's debt. Ironically, the kidnapping scene he faked in the hopes that his friends would give up on him thinking he's dead actually led them into the underground as well to look for him."
   },
   {
     "name": "Nightingale",
