@@ -57,7 +57,6 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 - [{% lucide 'circle-ellipsis' %} Misc](/misc/)
   - [{% lucide 'torus' %} Buttons and webrings](/misc/links/)
   - [{% lucide 'thumbs-up' %} Credits](/misc/credits/)
-- [{% lucide 'rss' %} RSS Feed](/feed.xml/)
 - [{% lucide 'clock-8' %} Changelog](/changelog/)
 - [{% lucide 'code-xml' %} Sitemap](/sitemap/)
 - [{% lucide 'notebook-tabs' %} Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here
