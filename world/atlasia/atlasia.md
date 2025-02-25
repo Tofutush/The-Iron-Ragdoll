@@ -9,8 +9,8 @@ eleventyNavigation:
 desc: What if Ayn Rand made a country?
 tags:
   - atlasia
-displayTitle: The Republic of Atlasia
-titlezh: 亚特莱西亚共和国
+displayTitle: The Free Republic of Atlasia
+titlezh: 亚特莱西亚自由共和国
 ---
 
 {% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" 'max' %}
@@ -37,13 +37,11 @@ The Atlasian government consists only of the judicial courts, law enforcement (p
 
 ## Society
 
-In Atlasia, parents don't get to name their kids. Kids decide their own names. You can change your name, gender, or even race anytime you want -- it's up to you.
+In Atlasia, parents don't get to name their kids. Kids decide their own names. You can change your name, gender, or even race anytime you want — it's up to you.
 
 Marriage as an institution is abolished. Nobody can dictate who you can or can't be with.
 
 Also, there is no age where you "legally turn into an adult." You're considered mature enough when you consider yourself mature enough. Although, the consensus is whenever you hit puberty.[^1]
-
-[^1]: Okay I'm being carried away a bit there; I'm not sure whether Rand herself would think that was what she wanted. But I mean like, this is *fiction*, so whatever.
 
 ### Naming conventions
 
@@ -70,3 +68,5 @@ I just thought this would be an interesting concept to explore. I mean, people a
 So here I am. I'm doing it.
 
 My thought process is basically, what are some things that involves the government? And then take the government out of it. Turns out once you start thinking about it, a *lot* of things involve the government. Name changes need to go through the government. Okay now they don't. Buying a car? The government gives you the license plate. Okay now license plates are no more. Just get a car and drive. Passports are issued by the government. Okay, passports are no more. Leave anytime. (What about people coming in? I genuinely need to think about this.)
+
+[^1]: Okay I'm being carried away a bit there; I'm not sure whether Rand herself would think that was what she wanted. But I mean like, this is *fiction*, so whatever.
