@@ -11,6 +11,6 @@ eleventyNavigation:
 <h1>Tags</h1>
 <ul>
     {% for tag in tagsplot %}
-        <li><a href="{{ tag | slug }}/">{{ tag }}</a></li>
+        <li><a href="{{ tag | slug }}/">{% lucide 'tags' %} {{ tag }}</a></li>
     {% endfor %}
 </ul>

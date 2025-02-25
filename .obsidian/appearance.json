@@ -12,7 +12,7 @@
     "font weight"
   ],
   "interfaceFontFamily": "din round pro,微软雅黑",
-  "textFontFamily": "Crimson Pro,Lexend,霞鹜漫黑,SundayComics BB,Bookerly,霞鹜文楷",
+  "textFontFamily": "Crimson Pro,JetBrains Mono,Lexend,霞鹜漫黑,SundayComics BB,Bookerly,霞鹜文楷",
   "cssTheme": "",
   "theme": "system",
   "monospaceFontFamily": "JetBrains Mono"

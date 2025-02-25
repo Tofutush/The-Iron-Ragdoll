@@ -328,7 +328,7 @@ eleventyNavigation:
 ## 2024-09-23
 
 - Added the [RSS feed](/feed.xml/).
-- Started to add custom 404 pages. [Look here](/asjdsafhsdjfhsd/).
+- Started to add custom 404 pages. [Look here](/jackdaws-love-my-big-sphinx-of-quartz/).
 
 ## 2024-09-22
 

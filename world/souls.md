@@ -20,9 +20,7 @@ Everyone is born with a perfectly spherical gas soul. The soul changes shape and
 
 A soul can be removed from a person. Soul extraction is a skill that can be learned and adopted by anyone, but it originated in [Sylvandia](/world/sylvandia/).
 
-Through a variety of techniques not limited to classic Sylvandian soul extraction (torture is a common example), your soul can come out of your mouth -- commonly known as "barfing out[^1]." Most books on this topic are banned in [Bauhinia](/world/bauhinia/).
-
-[^1]: Because I have crude humor.
+Through a variety of techniques not limited to classic Sylvandian soul extraction (torture is a common example), your soul can come out of your mouth — commonly known as "barfing out[^1]." Most books on this topic are banned in [Bauhinia](/world/bauhinia/).
 
 People with no souls aren't people. They're just a body. Their eyes are empty, though their ears, if they have it, would remain in color because pure-white ears look ugly. (It also serves as an indicator of the body's previous ownership.)
 
@@ -41,3 +39,5 @@ Typically, gas souls are the most compatible with other forms, while solid the l
 - [Goose](/characters/goose/), an MSS officer who could extract souls through torture
 - [Moonbeam](/characters/moonbeam/), a Sylvandian psychic specializing in classic soul extraction
 - [Cobalt](/characters/cobalt/), a [Fantoni](/world/fanton/) outlaw who learned soul extraction from Moonbeam
+
+[^1]: Because I have crude humor.
