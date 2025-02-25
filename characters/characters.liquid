@@ -56,7 +56,7 @@
         <summary><h3>Tags</h3></summary>
         <ul>
           {% for t in ch.tags %}
-            <li><a href="/characters/tag/{{ t | slug }}/">{{ t }}</a></li>
+            <li><a href="/characters/tag/{{ t | slug }}/">{% lucide 'tags' %} {{ t }}</a></li>
           {% endfor %}
         </ul>
       </details>
