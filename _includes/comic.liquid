@@ -1,25 +1,20 @@
----json
-{
-  "layout": "layout.liquid",
-  "desc": "A comic!",
-  "tags": ["comics"],
-  "noFooter": true,
-  "pagination": {
-    "size": 1,
-    "addAllPagesToCollections": "true",
-    "alias": "comic"
-  },
-  "permalink": "stories/{{ parent | slug }}/page-{{ pagination.pageNumber }}/",
-  "eleventyComputed": {
-    "title": "{{ comicTitle }} comic - page {{ pagination.pageNumber }}",
-    "theme": "{{ comic.theme }}",
-    "eleventyNavigation": {
-      "key": "{{ comicTitle }} comic - page {{ pagination.pageNumber }}",
-      "title": "Page {{ pagination.pageNumber }}",
-      "parent": "{{ parent }}"
-    }
-  }
-}
+---
+layout: layout.liquid
+desc: A comic!
+tags: comics
+noFooter: true
+pagination:
+  size: 1
+  addAllPagesToCollections: true
+  alias: comic
+permalink: "stories/{{ parent | slug }}/page-{{ pagination.pageNumber }}/"
+eleventyComputed:
+  title: "{{ comicTitle }} comic - page {{ pagination.pageNumber }}"
+  theme: "{{ comic.theme }}"
+  eleventyNavigation:
+    key: "{{ comicTitle }} comic - page {{ pagination.pageNumber }}"
+    title: "Page {{ pagination.pageNumber }}"
+    parent: "{{ parent }}"
 ---
 <link rel="stylesheet" href="/css/comic.css"/>
 <style>
