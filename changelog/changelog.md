@@ -14,7 +14,8 @@ titlezh: 更新日志
 - Gained determination to write a better changelog.
 - Turned some JSON metadata into YAML.
 - Added a little tag icon in front of tag lists, which only exist [here](/characters/tag/) and on character page sidebars.
-- Changed Westavia's full name to The People's Republic of Westavia, and Atlasia's to The Free Republic of Atlasia.
+- Changed [Westavia](/world/westavia/)'s full name to The People's Republic of Westavia, and [Atlasia](/world/atlasia/)'s to The Free Republic of Atlasia.
+	- Also a theme song title for Westavia.
 - Revamped the [Kaleidoscope's fate](/stories/one-man-short/#kaleidoscopes-fate/) section of One Man Short so that my dear Kally isn't a horrible person anymore.
 - Removed the RSS feed and all links to it.
 - Changed the dark mode accent color to blue.
