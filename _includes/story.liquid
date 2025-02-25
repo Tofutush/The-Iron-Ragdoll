@@ -1,14 +1,10 @@
----json
-{
-  "layout": "article.liquid",
-  "eleventyComputed": {
-    "eleventyNavigation": {
-        "key": "{{ title }}",
-        "parent": "Stories"
-    },
-    "desc": "{{ summary }}"
-  }
-}
+---
+layout: article.liquid
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    parent: Stories
+  desc: "{{ summary }}"
 ---
 <link rel="stylesheet" href="/css/story.css"/>
 <div class="attr">
