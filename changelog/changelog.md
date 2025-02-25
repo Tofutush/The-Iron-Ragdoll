@@ -8,6 +8,14 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-02-25
+
+- Deleted the now-useless navigation page. RIP, your life was short and useless.
+- Gained determination to write a better changelog.
+- Turned some JSON metadata into YAML.
+- Added a little tag icon in front of tag lists, which only exist [here](/characters/tag/) and on character page sidebars.
+- Changed Westavia's full name to The People's Republic of Westavia, and Atlasia's to The Free Republic of Atlasia.
+
 ## 2025-02-24
 
 - Moved [Bramble's Happy Family](/stories/brambles-happy-family/) to its own story page.
