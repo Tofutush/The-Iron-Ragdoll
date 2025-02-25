@@ -1,4 +1,4 @@
-Sitemap: https://www.yoursitename.dev/sitemap.xml
+Sitemap: https://tofutush.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
