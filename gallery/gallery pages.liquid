@@ -1,24 +1,22 @@
----json
-{
-    "layout": "layout.liquid",
-    "years": [2023, 2024, 2025],
-    "pagination": {
-        "data": "years",
-        "size": 1,
-        "alias": "year",
-        "addAllPagesToCollections": true
-    },
-    "permalink": "gallery/{{ year }}/",
-    "eleventyComputed": {
-        "title": "Gallery {{ year }}",
-        "desc": "A bunch of pictures I drew in {{ year }}.",
-        "eleventyNavigation": {
-            "key": "Gallery {{ year }}",
-            "title": "{{ year }}",
-            "parent": "Gallery"
-        }
-    }
-}
+---
+layout: layout.liquid
+years:
+  - 2023
+  - 2024
+  - 2025
+pagination:
+  data: years
+  size: 1
+  alias: year
+  addAllPagesToCollections: true
+permalink: "gallery/{{ year }}/"
+eleventyComputed:
+  title: "Gallery {{ year }}"
+  desc: "A bunch of pictures I drew in {{ year }}."
+  eleventyNavigation:
+    key: "Gallery {{ year }}"
+    title: "{{ year }}"
+    parent: Gallery
 ---
 <link rel="stylesheet" href="/css/gallery.css"/>
 {% include 'galleryBoxNav', years: years %}
