@@ -9,8 +9,8 @@ eleventyNavigation:
 desc: What if alcoholics made a country?
 tags:
   - westavia
-displayTitle: The Republic of Westavia
-titlezh: 伟思德维亚共和国
+displayTitle: The People's Republic of Westavia
+titlezh: 伟思德维亚人民共和国
 ---
 
 {% image "gallery/" "westavia flag.svg" 1000 "Flag of Westavia" 'max' %}
@@ -23,7 +23,7 @@ A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/mo
 
 ## Geography
 
-Westavia is quite sandy, with some really hot basins surrounded by mountain ranges. Eastern winds don't blow this far into the continent, so the place is dry and deserty. The sunshine made the country suitable for planting grapes.
+Westavia is quite sandy, with some really hot basins surrounded by mountain ranges. Eastern winds don't blow this far into the continent, so the place is dry and desertic. The sunshine made the country suitable for planting grapes.
 
 The closest geographical mirror to Westavia is Xinjiang and Central Asia.
 
@@ -35,7 +35,7 @@ Except for the capital, all cities and regions in Westavia are called "Area (num
 - [Area 1](/world/westavia/area-1/)
 - [Area 3](/world/westavia/area-3/)
 - [Area 29](/world/westavia/area-29/)
-  - [Nameless Village](/world/westavia/nameless-village/)
+	- [Nameless Village](/world/westavia/nameless-village/)
 
 ## Government
 
