@@ -16,25 +16,17 @@ The history of the world[^1]!
 
 (TL;DR: Speedrun industrialization killing the empire in record time.)
 
-[^1]: I am in no way a proper historian. I'm just here spending more time than I probably should have to attempt to build a coherent history to explain the current world order. Do yell at me (nicely) if there are things drastically wrong and illogical with these events. Also there are some phrases I may not know in English so there might be awkward phrasing (like "people who fight like wack-a-mole" instead of "guerrilla" for a recent example. I learned the word now).
-
 Note that this file isn't necessarily told in chronological order, since so many things are happening at the same time. It's *mostly* chronological.
 
 It all started from the [Bauhinian](/world/bauhinia/) Empire, a huge kingdom spanning across the entire continent. How did Bauhinia become an empire? Nah, I don't care.
 
 The Industrial Revolution broke out in 1911[^2] when people found out how to use electricity[^3].
 
-[^2]: Don't ask me why they use the same calendar as us. Convenience. Also the timeline has some weird explanation too. The comic started in 2023 and Sparky was 5 (almost 6), and everything else went from there. (Sparky's starting age got changed to 7 (almost 8) later.)
-
-[^3]: They skipped steam right. I guess they did. Also I wonder why there's "steampunk" and "cyberpunk" but not some sort of "electricpunk"? Why'd you leave my baby out?
-
 Productivity surged. Capitalism was established as *the* economic model. The working class emerged. People began eyeing the Bauhinian emperor and talking about new forms of government.
 
 ## Moreland's independence
 
 The region that would become [Moreland](/world/moreland/) were the first to act. Having historically been some sort of place that was big on military[^4], they started a bourgeoisie revolution in 1930 and established a provisional republican government in 1935, complete with a provisional constitution.
-
-[^4]: Yknow. Like Sparta?
 
 How could the empire just stand and watch? In the same year, they sent troops to teach those snabbergatters a lesson. The young provisional government was under pressure from both the imperial army and its own citizens being unsatisfied because, well, they're being drafted and killed. (It was at this point the Atlasian independence movement began, too, though it escalated after the Guardian Moose Takeover.)
 
@@ -44,7 +36,7 @@ Immediately after the Guardian Moose seized the government, they employed drasti
 
 ## Atlasia's independence
 
-The creation of a truly independent Moreland pissed off more people than just the emperor. Some Moose themselves -- though they never identified themselves as "Moose" -- deemed the new military government (or junta, I guess?) illegal and undemocratic. Seeking a future of freedom and opportunity, they moved to the southeast of Moreland (around the middle-east part of the continent) where the Guardian Moose hasn't yet controlled. They declared independence of [The Republic of Atlasia](/world/atlasia/) in 1945.
+The creation of a truly independent Moreland pissed off more people than just the emperor. Some Moose themselves — though they never identified themselves as "Moose" — deemed the new military government (or junta, I guess?) illegal and undemocratic. Seeking a future of freedom and opportunity, they moved to the southeast of Moreland (around the middle-east part of the continent) where the Guardian Moose hasn't yet controlled. They declared independence of [The Republic of Atlasia](/world/atlasia/) in 1945.
 
 ## Bauhinia's Republican Revolution
 
@@ -88,4 +80,8 @@ Being right next to each other, one in the west and one in the east, and backed 
 
 The war lasted for eight years, and ended when Bauhinia nuked Westavia. Surprise, mothersnabbergatter. We got nukes now. [Atlasia](/world/atlasia/) and [Westavia](/world/westavia/) drew permanent borders and signed a peace treaty. Moreland worked on their own nukes and pretty quickly made it, thanks to their spies. It was 1955[^5], and the cold war between the north and the south had started.
 
+[^1]: I am in no way a proper historian. I'm just here spending more time than I probably should have to attempt to build a coherent history to explain the current world order. Do yell at me (nicely) if there are things drastically wrong and illogical with these events. Also there are some phrases I may not know in English so there might be awkward phrasing (like "people who fight like whack-a-mole" instead of "guerrilla" for a recent example. I learned the word now).
+[^2]: Don't ask me why they use the same calendar as us. Convenience. Also the timeline has some weird explanation too. The comic started in 2023 and Sparky was 5 (almost 6), and everything else went from there. (Sparky's starting age got changed to 7 (almost 8) later.)
+[^3]: They skipped steam right. I guess they did. Also I wonder why there's "steampunk" and "cyberpunk" but not some sort of "electricpunk"? Why'd you leave my baby out?
+[^4]: Yknow. Like Sparta?
 [^5]: Wow, the timeline started later than ours but the cold war kind of started at around the same time. What sort of a dramatic catch-up.

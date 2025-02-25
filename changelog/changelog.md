@@ -5,11 +5,20 @@ eleventyNavigation:
   key: Changelog
   parent: Root
   order: 990
+titlezh: 更新日志
 ---
+
+## 2025-02-24
+
+- Moved [Bramble's Happy Family](/stories/brambles-happy-family/) to its own story page.
 
 ## 2025-02-23
 
 - A huge update! I moved the dead-water pigeon comic off the front page and into the back instead. It can be found [behind Hillslope Mysteries](/stories/hillslope-mysteries/page-0/).
+	- Changed the style a bit, most notably the sticky header.
+	- Applied the layout to the [404 page](/the-five-boxing-wizards-jump-quickly/).
+	- Did some things about the site templating that don't affect *you*, but makes *my* life better.
+	- Hopefully, I won't be spending this much time on the site itself later on, and focus on the content instead. "Tofutush likes coding more than paracosming" didn't come out of nowhere, but it shall go into nowhere.
 
 ## 2025-02-21
 
@@ -35,7 +44,7 @@ eleventyNavigation:
 - Added a [Gallery stats](/gallery/stats/) page.
 - Added [People's Vanguard](/world/westavia/peoples-vanguard/).
 - Slight tweaks to the CSS.
-  - I don't really know why I wrote that down; I mean if you can find the changes with your eyes (without looking in Github) you could probably qualify for some superhuman award.
+	- I don't really know why I wrote that down; I mean if you can find the changes with your eyes (without looking in Github) you could probably qualify for some superhuman award.
 
 ## 2025-02-15
 
@@ -66,7 +75,7 @@ eleventyNavigation:
 
 - Added `paperweight bald 1.png`, `paperweight bald 2.png`, `ribbon profile.png`.
 - Updated [characters page filtering](/characters/).
-  - Now it has individual tag pages with related files, and the JavaScript is removed.
+	- Now it has individual tag pages with related files, and the JavaScript is removed.
 - Updated [Starcorp](/world/bauhinia/starcorp/), [Froggy Island](/world/bauhinia/froggy-island/).
 
 ## 2025-02-06
@@ -122,19 +131,19 @@ eleventyNavigation:
 - Added `sparky willow hug.png`.
 - Changed the selection color.
 - Made it show a random picture on the footer.
-  - It's generated at build time so the picture of each page would stay the same unless there is a update! Also there are only 2 pictures at the moment, but I'm going to draw more. Add that on top of my ~50 new icons.
+	- It's generated at build time so the picture of each page would stay the same unless there is a update! Also there are only 2 pictures at the moment, but I'm going to draw more. Add that on top of my ~50 new icons.
 
 ## 2025-01-21
 
 - Added country name pronunciations to their pages. They should be pretty intuitive, but just in case.
 - Changed "The Nuke from Moreland" into "*A* Nuke from Moreland," because I was mixing them all up and needed a standard name.
 - Added a footer image. Now I gotta draw a bunch more and randomly switch between them.
-  - Why do I always add drawing tasks to myself…
+	- Why do I always add drawing tasks to myself…
 
 ## 2025-01-20
 
 - Started to use new profile icons for characters.
-  - Expect me to continue procrastinating.
+	- Expect me to continue procrastinating.
 - Deleted `collapsible.js`.
 - Added fancy icons to [nav](/nav/).
 - Edited some stories.
@@ -144,7 +153,7 @@ eleventyNavigation:
 - Updated some stories.
 - Styling changes.
 - Redid the tables of contents with `summary/details` instead of `collapsible.js`.
-  - Goal is to delete `collapsible.js` altogether.
+	- Goal is to delete `collapsible.js` altogether.
 
 ## 2025-01-18
 
@@ -164,8 +173,8 @@ eleventyNavigation:
 
 - Added `peacock exploding butt.png`, `buttercup profile.png`, `goose hidden face.png`, and `sparky gape emoji.png`.
 - Changed the layout a bit.
-  - Not just a bit actually.
-  - Added the [Navigation](/nav/) page.
+	- Not just a bit actually.
+	- Added the [Navigation](/nav/) page.
 
 ## 2025-01-12
 

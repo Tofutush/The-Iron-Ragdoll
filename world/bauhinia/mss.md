@@ -13,7 +13,7 @@ The main security apparatus of Bauhinia, handling both intelligence and counteri
 
 {% figure 'gallery/' 'mss ref.png' 1000 'MSS Uniform' 'MSS Uniform ref' 'max' %}
 
-Their boots are designed to kill -- a kick to crush the liver.
+Their boots are designed to kill — a kick to crush the liver.
 
 ## Members
 

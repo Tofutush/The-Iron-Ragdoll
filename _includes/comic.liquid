@@ -45,8 +45,8 @@ body {
 <div id="date-save">
   <p>{{ comic.date }}</p>
   <div id="save">
-    <a onclick="save()">{% lucide 'arrow-down-from-line' %}</a>
-    <a onclick="load()">{% lucide 'arrow-up-from-line' %}</a>
+    <a title="Save" onclick="save()">{% lucide 'arrow-down-from-line' %}</a>
+    <a title="Load" onclick="load()">{% lucide 'arrow-up-from-line' %}</a>
   </div>
 </div>
 {% if comic.note %}
