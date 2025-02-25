@@ -606,8 +606,7 @@
       "Gender": "Male",
       "Soul": "Solid, heart-shaped",
       "Birthday": "2013-01-15",
-      "Nationality": "Bauhinian",
-      "Orientation": "Heterosexual"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#b9ac95",
@@ -728,12 +727,12 @@
       "Power": "Hyperawareness lv. 200"
     },
     "palette": {
-      "horns": "#905605",
       "shoulder pads": "#f01ace",
       "shirt": "#F0C8EA",
       "boots": "#8c1078",
       "hat symbol petal": "#c5c5c5",
       "hat symbol border": "#A7A7A7",
+      "blue": "#1F6EA7",
       "hair": "#754413"
     },
     "about": "Pumpkin is a goofy guy who loves slurping boba tea and hates filling out forms.",
