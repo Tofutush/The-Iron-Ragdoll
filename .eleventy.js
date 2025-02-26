@@ -15,7 +15,8 @@ const utilPlugin = require('./_plugins/utils');
 const chPlugin = require('./_plugins/ch');
 const relPlugin = require('./_plugins/rel');
 const imagePlugin = require('./_plugins/image');
-const galleryImgs = require('./_data/gallery imgs.json');
+const galleryImgs = require('./tir/_data/gallery imgs.json');
+const { dateToRfc3339 } = require('@11ty/eleventy-plugin-rss');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -73,7 +74,7 @@ module.exports = function (eleventyConfig) {
 	galleryImgs.filter(i => i.copy).forEach(i => eleventyConfig.addPassthroughCopy(`img/gallery/${i.name}.${i.type}`));
 	// collections
 	eleventyConfig.addCollection("stories", collection =>
-		collection.getFilteredByGlob('stories/*.md').sort((a, b) => a.data.order - b.data.order)
+		collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => a.data.order - b.data.order)
 	);
 	// filters
 	eleventyConfig.addFilter('slug', slug);
@@ -100,6 +101,9 @@ module.exports = function (eleventyConfig) {
 		return content;
 	});
 	return {
+		dir: {
+			input: 'tir'
+		},
 		passthroughFileCopy: true,
 	};
 };

@@ -35,7 +35,7 @@ eleventyComputed:
     {% if ch.attr %}
       <details>
         <summary><h2>Info</h2></summary>
-        <div id="attr-info">{% renderFile './characters/characterinfo.md' %}</div>
+        <div id="attr-info">{% renderFile './tir/characters/characterinfo.md' %}</div>
       </details>
       <div class="ch-attr">
         {% for att in ch.attr %}
@@ -130,14 +130,14 @@ eleventyComputed:
           {% assign firstFiveLetters = ch.note | slice: 0, 5 %}
           {% if firstFiveLetters == 'file:' %}
             {% assign fileName = ch.note | slice: 5 %}
-            {% assign filePath = './characters/files/' | append: fileName %}
+            {% assign filePath = './tir/characters/files/' | append: fileName %}
             {% renderFile filePath %}
           {% else %}
             {{ ch.note | renderMD }}
           {% endif %}
           <h3>Global Permissions</h3>
         {% endif %}
-        {% renderFile './characters/files/globalperms.md' %}
+        {% renderFile './tir/characters/files/globalperms.md' %}
       </div>
     </details>
   </div>
