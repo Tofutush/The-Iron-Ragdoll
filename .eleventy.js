@@ -15,8 +15,6 @@ const utilPlugin = require('./_plugins/utils');
 const chPlugin = require('./_plugins/ch');
 const relPlugin = require('./_plugins/rel');
 const imagePlugin = require('./_plugins/image');
-const galleryImgs = require('./tir/_data/gallery imgs.json');
-const { dateToRfc3339 } = require('@11ty/eleventy-plugin-rss');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -70,7 +68,6 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('fonts');
 	eleventyConfig.addPassthroughCopy('robots.txt');
 	eleventyConfig.addPassthroughCopy('img/gallery/*.gif');
-	galleryImgs.filter(i => i.copy).forEach(i => eleventyConfig.addPassthroughCopy(`img/gallery/${i.name}.${i.type}`));
 	// collections
 	eleventyConfig.addCollection("stories", collection =>
 		collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => a.data.order - b.data.order)
