@@ -318,10 +318,15 @@ body.dark #linx a:hover {
   float: right;
 }
 
-#footer-img img {
+.footer-img {
   height: auto;
   max-width: 100%;
   width: 300px;
+  user-select: none;
+}
+
+body.dark .footer-img {
+  filter: drop-shadow(0 0 16px var(--c));
 }
 
 #back-to-top {
