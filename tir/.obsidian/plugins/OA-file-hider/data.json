@@ -1,0 +1,10 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "_data",
+    "_includes",
+    "characters/relationships",
+    "fun",
+    "gallery"
+  ]
+}
