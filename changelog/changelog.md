@@ -12,6 +12,7 @@ titlezh: 更新日志
 - Applied a layout to the gallery. You won't notice since literally nothing changed.
 	- More gallery stats because I'm a stats nerd.
 	- Also, made the years collapsible.
+- Removed all the extra unused metadata on images, like "scope" and "style." Got rid of like 500 lines.
 
 ## 2025-02-25
 
