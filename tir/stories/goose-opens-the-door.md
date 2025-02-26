@@ -2,6 +2,7 @@
 layout: story.liquid
 title: Goose Opens the Door
 canon: semi
+comic: true
 order: 403
 chs:
   - goose
