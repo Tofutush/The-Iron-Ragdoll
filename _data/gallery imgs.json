@@ -5,76 +5,56 @@
     "ch": [
       "alaska"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
   {
     "name": "atlasia flag",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09"
   },
   {
     "name": "atlasia token",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09"
   },
   {
     "name": "bauhinia flag",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09",
     "comment": "The flag of the Republic of Bauhinia.\n\nIn the middle of the flag is a bauhinia flower with leaves behind it, the symbol of the Republic of Bauhinia. The flower grows in the subtropics -- all throughout Bauhinia -- and blooms in the winter. It stands for the core Bauhinia values of family, harmony, and love."
   },
   {
     "name": "mssb stamp confidential",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-07-27",
     "comment": "This is the stamp the Ministry of State Security stamps on its *confidential* documents."
   },
   {
     "name": "mssb stamp",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-07-27",
     "comment": "This is the stamp the Ministry of State Security stamps on its documents."
   },
   {
     "name": "mssb symbol",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-07-27"
   },
   {
     "name": "bauhinia police symbol",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-30",
     "comment": "I had so much fun drawing all these bauhinia variations. This is the symbol of the Bauhinian police, or the Public Security Bureau of Bauhinia.\n\nThe flower petals are presented as sharp blades, symbolizing the will of the police force in safeguarding the Bauhinian people."
   },
   {
     "name": "bauhinia police symbol title",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-07-27"
   },
   {
     "name": "bauhinia token",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09"
   },
   {
@@ -83,8 +63,6 @@
     "ch": [
       "buttercup"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-05-12",
     "comment": "Buttercup! She's so cool and badass.\n\nI drew her on a piece of hotel scratch paper, and later turned that picture digital. I don't really know how her story would fit into the comic, but here: she was sold into prostitution at a young age (how young? IDK) and those boots were from a client who refused to pay real money. Then she escaped and joined a rebellion fighting for Fleaish independence from Sylvandia. I've yet to think of the nature of this rebellion."
   },
@@ -94,8 +72,6 @@
     "ch": [
       "buttercup"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-14",
     "kind": "thumb"
   },
@@ -108,8 +84,6 @@
       "qibli",
       "firecrackers"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-06-25",
     "comment": "Something I drew out of boredom and never bothered to shade."
   },
@@ -119,8 +93,6 @@
     "ch": [
       "cosmo"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -130,8 +102,6 @@
     "ch": [
       "dragonfly"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -141,31 +111,23 @@
     "ch": [
       "fantasy"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-14",
     "kind": "thumb"
   },
   {
     "name": "fanton flag",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09",
     "comment": "The flag of the Republic of Fanton.\n\n"
   },
   {
     "name": "fanton symbol",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09"
   },
   {
     "name": "fanton token",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09"
   },
   {
@@ -174,8 +136,6 @@
     "ch": [
       "fern"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-07-27",
     "kind": "thumb"
   },
@@ -185,8 +145,6 @@
     "ch": [
       "firecrackers"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-06-08",
     "kind": "thumb"
   },
@@ -196,8 +154,6 @@
     "ch": [
       "guillotine"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -207,8 +163,6 @@
     "ch": [
       "icicle"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2023-06-17",
     "comment": "Icicle was an old character I cut. He was meant to be a co-investigator with Sparky, but I cut him because 1) I have one too many characters, 2) it's better for Sparky to be on her own, and 3) I don't have a reasonable explanation about why they didn't just make Icicle investigate by himself when *he* first arrived. So, bye, Icicle."
   },
@@ -218,8 +172,6 @@
     "ch": [
       "icicle"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-02-05",
     "kind": "thumb"
   },
@@ -232,8 +184,6 @@
       "tephra",
       "sparky"
     ],
-    "scope": "comic",
-    "style": "sketch",
     "date": "2024-07-12",
     "comment": "This is pure shitpost. Peacock asks the three kids what \"int\" stands for. They each have their own answers."
   },
@@ -243,8 +193,6 @@
     "ch": [
       "ironheart"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-14",
     "kind": "thumb"
   },
@@ -254,8 +202,6 @@
     "ch": [
       "jerboa"
     ],
-    "scope": "full-body",
-    "style": "fuzzy",
     "date": "2024-01-31"
   },
   {
@@ -264,8 +210,6 @@
     "ch": [
       "jerboa"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2024-02-02"
   },
   {
@@ -274,8 +218,6 @@
     "ch": [
       "jerboa"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-06-02"
   },
   {
@@ -284,8 +226,6 @@
     "ch": [
       "jerboa"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -295,8 +235,6 @@
     "ch": [
       "jerboa"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-07-17"
   },
   {
@@ -305,8 +243,6 @@
     "ch": [
       "lark"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-06-08",
     "kind": "thumb"
   },
@@ -316,8 +252,6 @@
     "ch": [
       "melody"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2023-06-17",
     "comment": "This is an old picture, but honestly Melody hasn't changed."
   },
@@ -329,8 +263,6 @@
       "sparky",
       "tephra"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2024-06-25",
     "comment": "Tephra, Sparky, and Melody as adults. They all became what's opposite of themselves.\n\nTephra is a cop, maintainer of law and order, when he used to live a life of crime. Sparky is a bodyguard for Animus, living for other people, guarding the interests of the few. Melody is a private detective, meddling in other people's affairs, when he used to keep to himself and mind only his own business."
   },
@@ -340,8 +272,6 @@
     "ch": [
       "melody"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -351,30 +281,22 @@
     "ch": [
       "moonbeam"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-06-08",
     "kind": "thumb"
   },
   {
     "name": "moreland flag",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09"
   },
   {
     "name": "moreland symbol",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09"
   },
   {
     "name": "moreland token",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09"
   },
   {
@@ -383,8 +305,6 @@
     "ch": [
       "myriad"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -394,8 +314,6 @@
     "ch": [
       "myriad"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-05-26"
   },
   {
@@ -404,8 +322,6 @@
     "ch": [
       "nightsun"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-08-20",
     "kind": "thumb"
   },
@@ -420,8 +336,6 @@
       "fantasy",
       "ironheart"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2023-09-21",
     "comment": "Peacock's family, all mysteriously happy. This is an old drawing; now, Amber never met Ironheart. And Fantasy's necklace should be light blue."
   },
@@ -431,8 +345,6 @@
     "ch": [
       "peacock"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -442,8 +354,6 @@
     "ch": [
       "potato"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-03-19",
     "kind": "thumb",
     "comment": "Potato is another character I cut. He was originally Tomato's twin brother, and the mailman. Now Alaska is the mailman."
@@ -454,8 +364,6 @@
     "ch": [
       "qibli"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -465,8 +373,6 @@
     "ch": [
       "ribbon"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2024-01-26"
   },
   {
@@ -475,8 +381,6 @@
     "ch": [
       "ribbon"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -486,8 +390,6 @@
     "ch": [
       "ribbon"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-07-18"
   },
   {
@@ -496,8 +398,6 @@
     "ch": [
       "sky"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-06-25",
     "kind": "thumb"
   },
@@ -507,8 +407,6 @@
     "ch": [
       "snake"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-06-08",
     "kind": "thumb"
   },
@@ -518,8 +416,6 @@
     "ch": [
       "snowball"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-06-08",
     "kind": "thumb"
   },
@@ -530,8 +426,6 @@
       "sparky",
       "pearl"
     ],
-    "scope": "full-body",
-    "style": "messy",
     "date": "2024-06-21"
   },
   {
@@ -541,8 +435,6 @@
       "sparky",
       "nightsun"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-03-21",
     "comment": "Considered obsolete since Sparky's new adult design has a shorter scarf and a scar over her right eye."
   },
@@ -553,8 +445,6 @@
       "sparky",
       "pearl"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-03-13"
   },
   {
@@ -563,8 +453,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "fuzzy",
     "date": "2023-10-17"
   },
   {
@@ -573,8 +461,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-05-26"
   },
   {
@@ -584,8 +470,6 @@
       "sparky",
       "elegance"
     ],
-    "scope": "full-body",
-    "style": "lineless",
     "date": "2024-06-30",
     "comment": "This is some vague plot idea in my head, that Elegance and Sparky got kidnapped and that's what set Sparky on her path as a bodyguard.\n\nThe song is 虫儿飞, or Glowbugs Fly. I translated the lyrics because I like it and I don't think anyone else ever translated them. I am not a translator and two of my worst school subjects are Chinese and English, so don't yell."
   },
@@ -595,8 +479,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2024-04-30"
   },
   {
@@ -605,8 +487,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2024-01-26"
   },
   {
@@ -616,8 +496,6 @@
       "sparky",
       "jerboa"
     ],
-    "scope": "full-body",
-    "style": "messy",
     "date": "2024-06-20"
   },
   {
@@ -626,8 +504,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2023-06-13",
     "comment": "An old picture of Sparky."
   },
@@ -637,8 +513,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -648,8 +522,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-05-26"
   },
   {
@@ -658,8 +530,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-03-17"
   },
   {
@@ -668,8 +538,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-06-23",
     "comment": "To this day I still don't know why I drew this."
   },
@@ -679,8 +547,6 @@
     "ch": [
       "starcorp"
     ],
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-03-09"
   },
   {
@@ -689,8 +555,6 @@
     "ch": [
       "starcorp"
     ],
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-07-13"
   },
   {
@@ -699,8 +563,6 @@
     "ch": [
       "starcorp"
     ],
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-07-13"
   },
   {
@@ -709,8 +571,6 @@
     "ch": [
       "starry"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -720,23 +580,17 @@
     "ch": [
       "sunny"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-06-08",
     "kind": "thumb"
   },
   {
     "name": "sylvandia flag",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-03-05"
   },
   {
     "name": "sylvandia token",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-06-09"
   },
   {
@@ -745,8 +599,6 @@
     "ch": [
       "tephra"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2024-01-31"
   },
   {
@@ -755,8 +607,6 @@
     "ch": [
       "tephra"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-06-02"
   },
   {
@@ -765,8 +615,6 @@
     "ch": [
       "tephra"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -776,8 +624,6 @@
     "ch": [
       "tephra"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-07-10"
   },
   {
@@ -786,8 +632,6 @@
     "ch": [
       "tephra"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-03-17"
   },
   {
@@ -796,8 +640,6 @@
     "ch": [
       "thunder"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-06-08",
     "kind": "thumb"
   },
@@ -807,8 +649,6 @@
     "ch": [
       "tomato"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -818,8 +658,6 @@
     "ch": [
       "tundra"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-06-02"
   },
   {
@@ -828,8 +666,6 @@
     "ch": [
       "tundra"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -839,8 +675,6 @@
     "ch": [
       "willow"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -850,8 +684,6 @@
     "ch": [
       "tundra"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-03-17"
   },
   {
@@ -860,8 +692,6 @@
     "ch": [
       "vampire"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-06-08",
     "kind": "thumb"
   },
@@ -871,8 +701,6 @@
     "ch": [
       "cosmo"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-07-20"
   },
   {
@@ -881,8 +709,6 @@
     "ch": [
       "animus"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-07-21",
     "kind": "thumb"
   },
@@ -892,8 +718,6 @@
     "ch": [
       "amber"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-05-13",
     "kind": "thumb"
   },
@@ -903,8 +727,6 @@
     "ch": [
       "beauty"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-07-27",
     "kind": "thumb"
   },
@@ -914,8 +736,6 @@
     "ch": [
       "chastity"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-07-27",
     "kind": "thumb"
   },
@@ -925,8 +745,6 @@
     "ch": [
       "devotion"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-07-27",
     "kind": "thumb"
   },
@@ -936,8 +754,6 @@
     "ch": [
       "elegance"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-07-27",
     "kind": "thumb"
   },
@@ -951,8 +767,6 @@
       "elegance",
       "animus"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-08-03"
   },
   {
@@ -961,8 +775,6 @@
     "ch": [
       "nightsun"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2024-08-11",
     "comment": "That is *not* a motorbike despite the image name. I *meant* to draw one though. Also his highlight is wrong. It's supposed to be up, down, up, similar to Peacock and opposite Sparky."
   },
@@ -975,8 +787,6 @@
       "koala",
       "kangaroo"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-08-19",
     "comment": "Kangaroo looks like he has such a small face..."
   },
@@ -987,8 +797,6 @@
       "sparky",
       "willow"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-08-20"
   },
   {
@@ -997,8 +805,6 @@
     "ch": [
       "qibli"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-08-22"
   },
   {
@@ -1008,10 +814,8 @@
       "ironheart",
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
-    "comment": "Sibling rivalry done right.",
-    "date": "2024-08-23"
+    "date": "2024-08-23",
+    "comment": "Sibling rivalry done right."
   },
   {
     "name": "goose thumb",
@@ -1019,8 +823,6 @@
     "ch": [
       "goose"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-08-26",
     "kind": "thumb"
   },
@@ -1030,8 +832,6 @@
     "ch": [
       "halcyon"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-08-26",
     "kind": "thumb"
   },
@@ -1041,8 +841,6 @@
     "ch": [
       "paperweight"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-08-26",
     "kind": "thumb"
   },
@@ -1052,8 +850,6 @@
     "ch": [
       "pumpkin"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-08-26",
     "kind": "thumb"
   },
@@ -1063,8 +859,6 @@
     "ch": [
       "goose"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-08-27"
   },
   {
@@ -1073,8 +867,6 @@
     "ch": [
       "halcyon"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-08-27"
   },
   {
@@ -1086,8 +878,6 @@
       "goose",
       "paperweight"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-08-28"
   },
   {
@@ -1096,8 +886,6 @@
     "ch": [
       "pumpkin"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-08-27"
   },
   {
@@ -1106,8 +894,6 @@
     "ch": [
       "paperweight"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-08-27"
   },
   {
@@ -1117,8 +903,6 @@
       "sparky",
       "nightsun"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-09",
     "comment": "Considered obsolete since Sparky's new adult design has a shorter scarf and a scar over her right eye."
   },
@@ -1129,48 +913,36 @@
       "sparky",
       "dragonfly"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-14",
     "comment": "Drew this at like 1 a.m.. I was not well."
   },
   {
     "name": "buzz",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-19",
     "comment": "Art trade with [QuikSylver](https://toyhou.se/QuikSylver), featuring [Buzz](https://toyhou.se/24316710.polly-buzzcock/24934083.negaverse-au-mc-buzz)."
   },
   {
     "name": "mitzi ashford",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-11",
     "comment": "Art trade with [Ozzanpa_Wowzers](https://toyhou.se/Ozzanpa_Wowzers), featuring [Mitzi](https://toyhou.se/21751118.mitzi) and [Ashford](https://toyhou.se/15762038.ashford)."
   },
   {
     "name": "zuperbg",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-09",
     "comment": "Art trade with [HeebHullaballo](https://toyhou.se/HeebHullaballo), featuring [Zuper](https://toyhou.se/23960825.zuper)."
   },
   {
     "name": "odona",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-08",
     "comment": "Gift art for [wingsofmoonlight](https://toyhou.se/wingsofmoonlight), featuring [Odona](https://toyhou.se/29103402.odona)."
   },
   {
     "name": "lepolde",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-21",
     "comment": "Art trade with [Honk-Shoo](https://toyhou.se/Honk-Shoo), featuring [Lepolde](https://toyhou.se/27103327.lepolde-leppy)."
   },
@@ -1180,8 +952,6 @@
     "ch": [
       "pearl"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-09-21",
     "kind": "thumb"
   },
@@ -1192,24 +962,18 @@
       "cosmo",
       "alaska"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-22",
     "comment": "I don't draw these that often, so here it is: Cosmo and Alaska on a late-night subway.\n\nCan't be sure if this is canon though. I mean, right now in [Hillslope](/world/bauhinia/coastline/hillslope/) there aren't any *subways* of course, and I haven't really thought about what they're going to do after leaving Hillslope."
   },
   {
     "name": "alex oris",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-25",
     "comment": "Art trade with [mangocryptid](https://toyhou.se/mangocryptid), featuring [Alex](https://toyhou.se/13431827.alex-myers) and [Oris](https://toyhou.se/8024024.oris-mizrah-wip-profile)."
   },
   {
     "name": "tbn soapbox",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-25",
     "comment": "Art trade with [S04PB0X](https://toyhou.se/S04PB0X), featuring [Gimme A Minute, Needs Name](https://toyhou.se/29380911.gimme-a-minute-needs-name)."
   },
@@ -1220,8 +984,6 @@
       "melody",
       "jerboa"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-09-27"
   },
   {
@@ -1241,23 +1003,17 @@
       "melody",
       "dragonfly"
     ],
-    "scope": "full-body",
-    "style": "lineless",
     "date": "2024-09-30"
   },
   {
     "name": "westavia flag",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-10-02",
     "comment": "The flag of the Republic of [Westavia](/world/westavia/)."
   },
   {
     "name": "westavia token",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-10-02"
   },
   {
@@ -1266,8 +1022,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-10-02"
   },
   {
@@ -1279,8 +1033,6 @@
       "firecrackers",
       "sparky"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2024-10-03"
   },
   {
@@ -1289,8 +1041,6 @@
     "ch": [
       "qibli"
     ],
-    "scope": "full-body",
-    "style": "lineless",
     "date": "2024-10-04",
     "comment": "Hurricane bauhinias.\n\nI miss my old home."
   },
@@ -1300,8 +1050,6 @@
     "ch": [
       "jaculus"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-10-15",
     "kind": "thumb"
   },
@@ -1311,8 +1059,6 @@
     "ch": [
       "koala"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-10-15",
     "kind": "thumb"
   },
@@ -1322,8 +1068,6 @@
     "ch": [
       "kangaroo"
     ],
-    "scope": "headshot",
-    "style": "lineless",
     "date": "2024-10-15",
     "kind": "thumb"
   },
@@ -1333,8 +1077,6 @@
     "ch": [
       "qibli"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2024-10-15"
   },
   {
@@ -1343,15 +1085,11 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-10-25"
   },
   {
     "name": "sonetto",
     "type": "png",
-    "scope": "half-body",
-    "style": "messy",
     "date": "2024-10-25",
     "comment": "Fan art of Sonetto from Reverse: 1999."
   },
@@ -1362,8 +1100,6 @@
       "sparky",
       "animus"
     ],
-    "scope": "full-body",
-    "style": "messy",
     "date": "2024-10-25"
   },
   {
@@ -1372,8 +1108,6 @@
     "ch": [
       "paperweight"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-10-26"
   },
   {
@@ -1382,8 +1116,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-10-26",
     "comment": "Sparky as an adult. The only things that changed are the scar and the scarf."
   },
@@ -1393,8 +1125,6 @@
     "ch": [
       "nightsun"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-01"
   },
   {
@@ -1403,8 +1133,6 @@
     "ch": [
       "fern"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-08"
   },
   {
@@ -1413,8 +1141,6 @@
     "ch": [
       "snowball"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-08"
   },
   {
@@ -1428,8 +1154,6 @@
       "paperweight",
       "goose"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-09"
   },
   {
@@ -1438,64 +1162,46 @@
     "ch": [
       "goose"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2024-11-12"
   },
   {
     "name": "hyperawareness",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-11-12"
   },
   {
     "name": "immortality",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-11-12"
   },
   {
     "name": "invisibility",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-11-12"
   },
   {
     "name": "magic",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-11-12"
   },
   {
     "name": "mind reading",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-11-12"
   },
   {
     "name": "power relations",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-11-12"
   },
   {
     "name": "superstrength",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-11-12"
   },
   {
     "name": "timekeeping",
     "type": "svg",
-    "scope": "design",
-    "style": "lineless",
     "date": "2024-11-12"
   },
   {
@@ -1504,8 +1210,6 @@
     "ch": [
       "pumpkin"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2024-11-15"
   },
   {
@@ -1514,8 +1218,6 @@
     "ch": [
       "beauty"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-18"
   },
   {
@@ -1524,8 +1226,6 @@
     "ch": [
       "chastity"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-19"
   },
   {
@@ -1534,8 +1234,6 @@
     "ch": [
       "devotion"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-19"
   },
   {
@@ -1544,15 +1242,11 @@
     "ch": [
       "elegance"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-19"
   },
   {
     "name": "dijkolo",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-25",
     "comment": "Fan art of Kolo and Dijamant, by [Numbers Story](https://numbersstory.com) by Kolo."
   },
@@ -1563,8 +1257,6 @@
       "fern",
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-11-27"
   },
   {
@@ -1573,8 +1265,6 @@
     "ch": [
       "snake"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-12-01"
   },
   {
@@ -1584,8 +1274,6 @@
       "pearl",
       "snake"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-12-04",
     "comment": "Snake's butt is floating in midair, and I drew his inner ring of feathers black... I spent an hour on this I wanna eat myself"
   },
@@ -1596,23 +1284,17 @@
       "sparky",
       "nightsun"
     ],
-    "scope": "full-body",
-    "style": "lineless",
     "date": "2024-12-08"
   },
   {
     "name": "sprinkles",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-12-15",
     "comment": "Gift art for [CoddlingCod12](https://toyhou.se/CoddlingCod12), featuring [Sprinkles](https://toyhou.se/30611914.sprinkles)."
   },
   {
     "name": "huizhong",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-12-15",
     "comment": "Gift art for [steak_soda](https://toyhou.se/steak_soda), featuring [Huizhong](https://toyhou.se/20494110.huizhong)."
   },
@@ -1622,8 +1304,6 @@
     "ch": [
       "paperweight"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-12-16",
     "comment": "Is he not handsome? Does he not look cool as snabbergatt? Answer me!"
   },
@@ -1633,47 +1313,35 @@
     "ch": [
       "buttercup"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2024-12-16"
   },
   {
     "name": "milk",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-12-19",
     "comment": "Secret Santa gift for [ashtonic](https://toyhou.se/ashtonic), featuring [Milk](https://toyhou.se/3160139.milk/)."
   },
   {
     "name": "froese",
     "type": "png",
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-12-25",
     "comment": "Commission for [WackySass](https://toyhou.se/wackysass), featuring [Froese](https://toyhou.se/22114456.froese)."
   },
   {
     "name": "jay jacome",
     "type": "png",
-    "scope": "headshot",
-    "style": "normal",
     "date": "2024-12-26",
     "comment": "Gift art for [pepperpenguin](https://toyhou.se/pepperpenguin), featuring [Jay Jacome](https://toyhou.se/16537685.jay-jacome)."
   },
   {
     "name": "berlin eagle",
     "type": "png",
-    "scope": "full-body",
-    "style": "lineless",
     "date": "2024-12-31",
     "comment": "Fan art of Bkornblume and Eagle from Reverse: 1999."
   },
   {
     "name": "zuben el genubi",
     "type": "png",
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-01-02",
     "comment": "Art trade with [Kolo](https://numbersstory.com), featuring [Zuben El Genubi](https://characters.numbersstory.com/chara/sol/zubenelgenubi)."
   },
@@ -1683,8 +1351,6 @@
     "ch": [
       "cosmo"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-01-06"
   },
   {
@@ -1694,8 +1360,6 @@
       "peacock",
       "willow"
     ],
-    "scope": "comic",
-    "style": "sketch",
     "date": "2025-01-14"
   },
   {
@@ -1704,8 +1368,6 @@
     "ch": [
       "buttercup"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-01-14",
     "kind": "thumb new",
     "comment": "Is she not cool as snabbergatt? Answer me!"
@@ -1716,8 +1378,6 @@
     "ch": [
       "goose"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-01-14",
     "comment": "Is she not cool and badass??? Answer me!"
   },
@@ -1727,8 +1387,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "headshot",
-    "style": "pixel",
     "date": "2025-01-14"
   },
   {
@@ -1738,8 +1396,6 @@
       "sparky",
       "nightsun"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-01-15",
     "comment": "Have people ever brought up height questions while crossdressing? Now I have."
   },
@@ -1749,8 +1405,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-01-18",
     "kind": "thumb new"
   },
@@ -1760,24 +1414,18 @@
     "ch": [
       "trinket"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-01-18",
     "kind": "thumb new"
   },
   {
     "name": "tiramisu",
     "type": "png",
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-01-20",
     "comment": "Gift art for Ket, featuring Tiramisu."
   },
   {
     "name": "kraken",
     "type": "png",
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-01-21",
     "comment": "Art trade with [Grimm](https://web-surfer.neocities.org), featuring [Lottie Deckard](https://web-surfer.neocities.org/chara/DeckardLottie)."
   },
@@ -1788,16 +1436,12 @@
       "sparky",
       "nightsun"
     ],
-    "scope": "full-body",
-    "style": "lineless",
     "date": "2025-01-21",
     "kind": "footer"
   },
   {
     "name": "tadlet cycle",
     "type": "png",
-    "scope": "full-body",
-    "style": "sketch",
     "date": "2025-01-22"
   },
   {
@@ -1807,8 +1451,6 @@
       "sparky",
       "willow"
     ],
-    "scope": "full-body",
-    "style": "lineless",
     "date": "2025-01-24",
     "kind": "footer"
   },
@@ -1818,8 +1460,6 @@
     "ch": [
       "qibli"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-01-25"
   },
   {
@@ -1828,8 +1468,6 @@
     "ch": [
       "willow"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-01-30",
     "kind": "ref"
   },
@@ -1839,8 +1477,6 @@
     "ch": [
       "goose"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-01-31"
   },
   {
@@ -1849,8 +1485,6 @@
     "ch": [
       "nightsun"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-02-03",
     "kind": "thumb new"
   },
@@ -1860,8 +1494,6 @@
     "ch": [
       "elegance"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-03"
   },
   {
@@ -1870,8 +1502,6 @@
     "ch": [
       "willow"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "kind": "thumb new",
     "date": "2025-02-04"
   },
@@ -1881,8 +1511,6 @@
     "ch": [
       "jerboa"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "kind": "idlegame",
     "date": "2025-02-04"
   },
@@ -1892,8 +1520,6 @@
     "ch": [
       "jerboa"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "kind": "idlegame",
     "date": "2025-02-04"
   },
@@ -1903,8 +1529,6 @@
     "ch": [
       "tomato"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "kind": "idlegame",
     "date": "2025-02-06"
   },
@@ -1914,8 +1538,6 @@
     "ch": [
       "tomato"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "kind": "idlegame",
     "date": "2025-02-06"
   },
@@ -1925,8 +1547,6 @@
     "ch": [
       "paperweight"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-09"
   },
   {
@@ -1935,8 +1555,6 @@
     "ch": [
       "paperweight"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-09"
   },
   {
@@ -1945,8 +1563,6 @@
     "ch": [
       "lark"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-09"
   },
   {
@@ -1955,8 +1571,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-09"
   },
   {
@@ -1967,8 +1581,6 @@
       "nightingale",
       "skyhawk"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-12"
   },
   {
@@ -1977,8 +1589,6 @@
     "ch": [
       "cosmo"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-02-14",
     "kind": "thumb new"
   },
@@ -1988,8 +1598,6 @@
     "ch": [
       "tephra"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-02-14",
     "kind": "thumb new"
   },
@@ -1999,8 +1607,6 @@
     "ch": [
       "tomato"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-02-15",
     "kind": "thumb new"
   },
@@ -2010,8 +1616,6 @@
     "ch": [
       "jerboa"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-02-15",
     "kind": "thumb new"
   },
@@ -2022,8 +1626,6 @@
       "nightsun",
       "bramble"
     ],
-    "scope": "comic",
-    "style": "messy",
     "date": "2025-02-15",
     "comment": "How Nightsun takes care of his kids."
   },
@@ -2033,8 +1635,6 @@
     "ch": [
       "tephra"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2024-09-14",
     "comment": "I swear, I will never do frame-by-frame again."
   },
@@ -2044,8 +1644,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2024-06-23"
   },
   {
@@ -2054,8 +1652,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2024-09-12"
   },
   {
@@ -2064,8 +1660,6 @@
     "ch": [
       "nightsun"
     ],
-    "scope": "full-body",
-    "style": "lineless",
     "date": "2024-07-01",
     "comment": "I actually cannot remember the precise date as the data's lost. It was vaguely in July."
   },
@@ -2075,8 +1669,6 @@
     "ch": [
       "nightsun"
     ],
-    "scope": "full-body",
-    "style": "lineless",
     "date": "2024-07-01",
     "comment": "I actually cannot remember the precise date as the data's lost. It was vaguely in July."
   },
@@ -2086,8 +1678,6 @@
     "ch": [
       "goose"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2097,8 +1687,6 @@
     "ch": [
       "goose"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2108,8 +1696,6 @@
     "ch": [
       "goose"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in. Also, I cannot find goose-goose anymore."
   },
@@ -2119,8 +1705,6 @@
     "ch": [
       "goose"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2024-09-16"
   },
   {
@@ -2129,8 +1713,6 @@
     "ch": [
       "cosmo"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2140,8 +1722,6 @@
     "ch": [
       "firecrackers"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "It was supposed to be two middle fingers...\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2151,8 +1731,6 @@
     "ch": [
       "jerboa"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2163,8 +1741,6 @@
       "melody",
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "The text says \"S... Sorry...\"\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2174,8 +1750,6 @@
     "ch": [
       "myriad"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2185,8 +1759,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2196,8 +1768,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2207,8 +1777,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2218,8 +1786,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2229,8 +1795,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2240,8 +1804,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "headshot",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2251,8 +1813,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "The text says \"I prepared a bed for you! It's really warm!\"\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2262,8 +1822,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2273,8 +1831,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2284,8 +1840,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "The gun is from Homestuck.\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2295,8 +1849,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "You can't really tell what character that is, but it was meant to be Sparky.\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2306,8 +1858,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2317,8 +1867,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2328,8 +1876,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2339,8 +1885,6 @@
     "ch": [
       "tephra"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2350,8 +1894,6 @@
     "ch": [
       "tundra"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "That was supposed to be weed. I don't know what weed smoke looks like though.\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2361,8 +1903,6 @@
     "ch": [
       "willow"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2372,8 +1912,6 @@
     "ch": [
       "willow"
     ],
-    "scope": "half-body",
-    "style": "normal",
     "date": "2025-02-16",
     "comment": "I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
@@ -2387,8 +1925,6 @@
       "paperweight",
       "sky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-17",
     "kind": "ref"
   },
@@ -2399,8 +1935,6 @@
       "nightsun",
       "sparky"
     ],
-    "scope": "full-body",
-    "style": "normal",
     "date": "2025-02-20"
   },
   {
@@ -2412,8 +1946,6 @@
       "firecrackers",
       "qibli"
     ],
-    "scope": "half-body",
-    "style": "lineless",
     "date": "2025-02-21",
     "kind": "footer"
   },
@@ -2423,8 +1955,6 @@
     "ch": [
       "sky"
     ],
-    "scope": "half-body",
-    "style": "lineless",
     "date": "2025-02-21"
   },
   {
@@ -2433,8 +1963,6 @@
     "ch": [
       "qibli"
     ],
-    "scope": "half-body",
-    "style": "lineless",
     "date": "2025-02-21"
   },
   {
@@ -2444,8 +1972,6 @@
       "sparky",
       "firecrackers"
     ],
-    "scope": "half-body",
-    "style": "lineless",
     "date": "2025-02-21"
   },
   {
@@ -2454,8 +1980,6 @@
     "ch": [
       "pumpkin"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-21",
     "copy": true
   },
@@ -2465,8 +1989,6 @@
     "ch": [
       "sparky"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-22",
     "copy": true
   },
@@ -2476,8 +1998,6 @@
     "ch": [
       "buttercup"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-22",
     "copy": true
   },
@@ -2487,8 +2007,6 @@
     "ch": [
       "alaska"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-22",
     "copy": true
   },
@@ -2498,8 +2016,6 @@
     "ch": [
       "cosmo"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-22",
     "copy": true
   },
@@ -2509,8 +2025,6 @@
     "ch": [
       "goose"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-22",
     "copy": true
   },
@@ -2520,8 +2034,6 @@
     "ch": [
       "guillotine"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-22",
     "copy": true
   },
@@ -2531,8 +2043,6 @@
     "ch": [
       "melody"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-22",
     "copy": true
   },
@@ -2542,8 +2052,6 @@
     "ch": [
       "qibli"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-22",
     "copy": true
   },
@@ -2553,8 +2061,6 @@
     "ch": [
       "tephra"
     ],
-    "scope": "half-body",
-    "style": "pixel",
     "date": "2025-02-22",
     "copy": true
   }

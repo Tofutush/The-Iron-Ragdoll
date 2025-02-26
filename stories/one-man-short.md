@@ -25,9 +25,9 @@ But on the day Kaleidoscope formally confessed to Cobalt, he went missing. They 
 
 ## Kaleidoscope's fate
 
-What the other three friends didn't know was that Kaleidoscope was gambling behind their backs. After loosing a ton of money, he tried borrowing some money from his friends, but felt scared to ask too much. He resorted to taking out loans from underground loan sharks, who came after his ass when he was overdue on his payment. He got kidnapped and forced to work for a mafia operation until he earned enough to pay back his debt — which, accounting for interest, meant that he was stuck there for the rest of his life.
+What the other three friends didn't know was that Kaleidoscope had a gambler dad. He had gambled away all his family's money and resorted to taking out loans from loan sharks. When he suddenly died head-first onto the table, Kaleidoscope was glad to be rid of him, but the sharks didn't stop. They kidnapped him and forced him to work for a mafia operation until he earned enough to pay back his father's debt — which, accounting for interest, meant that he was stuck there for the rest of his life.
 
-He made great care to hide from his former friends because he was ashamed of what he had become. Slowly, though, as the operation traveled around the country, he no longer saw them, and almost got over them and accepted his new life. That was why he didn't know what they were up to.
+He made great care to hide from his former friends because he didn't want them to worry. He wanted them to think he was dead — because he might as well be — and just move on.
 
 ## The friends' first steps
 

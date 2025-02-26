@@ -53,4 +53,9 @@ Wine culture is all too big in Westavia. People *love* drinking. Though the lega
 
 Kids drinking is a small problem. Westavian adults could drink a ton during gatherings, parties, and even local government meetings, to the point where people could die at the table. The central government had attempted some anti-excessive-drinking campaigns that went nowhere.
 
+## Trivia
+
+- If Westavia were ever to have a theme song (not national anthem), it would be titled *Commie Propaganda*.
+	- Ironically, most of Westavia's propaganda efforts were directed at *countering* Bauhinian propaganda. The title was too good to pass up, though.
+
 [^1]: Too bad. I hate both raisins and wine.
