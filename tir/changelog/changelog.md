@@ -10,6 +10,7 @@ titlezh: 更新日志
 
 ## 2025-02-26
 
+- Released the Goose comic! Read it [here](/stories/goose-opens-the-door/page-1/)!
 - Applied a layout to the gallery. You won't notice since literally nothing changed.
 	- More gallery stats because I'm a stats nerd.
 	- Also, made the years collapsible.
