@@ -5,6 +5,7 @@ eleventyNavigation:
   key: Lotus Lake City
   parent: Fanton
 titlezh: 莲花湖城
+desc: Capital of Fanton.
 ---
 
 The capital of [Fanton](/world/fanton/). There's a [lake](/world/fanton/lotus-lake-city/lotus-lake/) in it.

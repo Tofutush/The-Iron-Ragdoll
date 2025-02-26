@@ -22,4 +22,4 @@ Appaloosa was a bard. When a fortune teller predicted that she would save Bauhin
 
 Later, the wars and revolutions broke out. She fled from place to place, trying to escape the bloodshed, but it always seemed that wherever she went, bloodshed *followed*. In the end she was killed in an area that would be Morelandian territory.
 
-Years later, some people uncovered her songbook and fell in love with this bard. They formed a tribe and traveled from place to place to honor her memories. Though, after facing hostility from foreign governments, they mainly moved around Moreland.
+Years later, some people uncovered her songbook buried in the ground, and fell in love with this bard. They formed a tribe and traveled from place to place to honor her memories. Though, after facing hostility from foreign governments, they mainly moved around Moreland.

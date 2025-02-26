@@ -7,3 +7,5 @@ eleventyNavigation:
   order: 2
 titlezh: 阴州
 ---
+
+The place [Buttercup](/characters/buttercup/) was from.

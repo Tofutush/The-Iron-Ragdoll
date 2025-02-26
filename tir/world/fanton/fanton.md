@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Fanton
   parent: World
   order: 2
-desc: What if PETA made a country?
+desc: What if tree-huggers made a country?
 tags:
   - fanton
 displayTitle: The Republic of Fanton

@@ -1,7 +1,7 @@
 ---
 layout: layout.liquid
 title: Area 29
-desc: A random city in the middle of nowhere
+desc: A random city in the middle of nowhere.
 eleventyNavigation:
   key: Area 29
   parent: Westavia
