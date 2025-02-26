@@ -15,7 +15,9 @@ summary: Sparky makes friends at school and struggles to catch up because she re
 titlezh: 沿海十一中扒手案
 ---
 
-Sparky started attending [Coastline Middle School](/world/bauhinia/coastline/cms/). She met some good friends: [Qibli](/characters/qibli/), [Sky](/characters/sky/), [Firecrackers](/characters/firecrackers/), and [Myriad](/characters/myriad/).
+Sparky is a girl who clinged on her mom too much, hated her stepdad and half-sister, and was about to start middle school.
+
+Despite her stepfather Peacock being one of the richest people in the country, he still sent her to [Coastline Middle School](/world/bauhinia/coastline/cms/), a shitty public school known for being shitty. She met some good friends: [Qibli](/characters/qibli/), [Sky](/characters/sky/), [Firecrackers](/characters/firecrackers/), and [Myriad](/characters/myriad/).
 
 But recently there's been a huge number of cases of stolen stuff. Little stuff, like pens and rulers. Sparky and her friends just bought replacements and did not complain.
 
