@@ -7,6 +7,7 @@ eleventyNavigation:
   order: 990
 titlezh: 更新日志
 ---
+
 ## 2025-02-26
 
 - Applied a layout to the gallery. You won't notice since literally nothing changed.
@@ -14,6 +15,7 @@ titlezh: 更新日志
 	- Also, made the years collapsible.
 - Removed all the extra unused metadata on images, like "scope" and "style." Got rid of like 500 lines.
 - Gave footer images a drop shadow in dark mode.
+- Moved the input directory to a subfolder since things are getting cloggy.
 
 ## 2025-02-25
 

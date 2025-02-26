@@ -55,8 +55,8 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 ## Meta stuff
 
 - [{% lucide 'circle-ellipsis' %} Misc](/misc/)
-  - [{% lucide 'torus' %} Buttons and webrings](/misc/links/)
-  - [{% lucide 'thumbs-up' %} Credits](/misc/credits/)
+	- [{% lucide 'torus' %} Buttons and webrings](/misc/links/)
+	- [{% lucide 'thumbs-up' %} Credits](/misc/credits/)
 - [{% lucide 'clock-8' %} Changelog](/changelog/)
 - [{% lucide 'code-xml' %} Sitemap](/sitemap/)
 - [{% lucide 'notebook-tabs' %} Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here
@@ -66,11 +66,11 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 - [{% lucide 'pickaxe' %} Idle Forced Labor Camp](https://tofutush.github.io/idlegame), a cursed game about running a forced labor camp.
 - [{% lucide 'school' %}Havoc 101](https://tofutush.github.io/havoc101), another cannot-complete-in-my-life project related to TIR
 - [Hillslope comic](/stories/hillslope-mysteries/) mirrors (ranked by my personal bias)
-  - [{% lucide 'box' %} MSPFA](https://mspfa.com/?s=50350&p=1)
-  - [ComicFury](https://the-iron-ragdoll.thecomicseries.com)
-  - [{% lucide 'droplet' %} Tapas](https://tapas.io/series/The-Iron-Ragdoll)
-  - [Globalcomix](https://globalcomix.com/c/the-iron-ragdoll)
-  - [NamiComi](https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en)
+	- [{% lucide 'box' %} MSPFA](https://mspfa.com/?s=50350&p=1)
+	- [ComicFury](https://the-iron-ragdoll.thecomicseries.com)
+	- [{% lucide 'droplet' %} Tapas](https://tapas.io/series/The-Iron-Ragdoll)
+	- [Globalcomix](https://globalcomix.com/c/the-iron-ragdoll)
+	- [NamiComi](https://namicomi.com/en/title/EGyt8a6z/the-iron-ragdoll/chapters?lang=en)
 - Site mirrors
-  - [{% lucide 'cat' %}{% lucide 'brush' %} Neocities](https://neocities.org/site/tofutush)
-  - [{% lucide 'github' %} Github Pages](https://tofutush.github.io/The-Iron-Ragdoll)
+	- [{% lucide 'cat' %}{% lucide 'brush' %} Neocities](https://neocities.org/site/tofutush)
+	- [{% lucide 'github' %} Github Pages](https://tofutush.github.io/The-Iron-Ragdoll)
