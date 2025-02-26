@@ -70,7 +70,6 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('fonts');
 	eleventyConfig.addPassthroughCopy('robots.txt');
 	eleventyConfig.addPassthroughCopy('img/gallery/*.gif');
-	eleventyConfig.addPassthroughCopy('_data/graphData.js');
 	galleryImgs.filter(i => i.copy).forEach(i => eleventyConfig.addPassthroughCopy(`img/gallery/${i.name}.${i.type}`));
 	// collections
 	eleventyConfig.addCollection("stories", collection =>
