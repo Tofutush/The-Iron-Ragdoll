@@ -1276,7 +1276,11 @@
     "palette": {
       "hair": "#2E2E2E"
     },
-    "bio": "After the disappearance of [Koala](/characters/koala/) and [Kangaroo](/characters/kangaroo/), Robin took over as lead scientists for [Project Boomerang](/world/bauhinia/project-boomerang/). He was very dedicated to the success of the project. Or was he?"
+    "about": "Took over as lead scientist of Project Boomerang after the disappearance of Koala and Kangaroo.",
+    "bio": "After the disappearance of [Koala](/characters/koala/) and [Kangaroo](/characters/kangaroo/), Robin took over as lead scientists for [Project Boomerang](/world/bauhinia/project-boomerang/). He was very dedicated to the success of the project. Or was he?",
+    "trivia": [
+      "If she had a lusus, it would be a robin."
+    ]
   },
   {
     "name": "Frosting",
@@ -1296,6 +1300,7 @@
     "palette": {
       "hair": "#2E2E2E"
     },
+    "about": "Frosting grew up in the Project Boomerang laboratory with her parents. She grew up to be a government archivist, tasked with erasing records of disappeared people in addition to whatever archivists usually do. She let Jerboa into the archives to read about Project Boomerang and his parents.",
     "bio": "Frosting grew up with her father [Robin](/characters/robin/) in the [Project Boomerang)(/world/bauhinia/project-boomerang/) laboratory.\n\nWhen she grew up, she began to work at the [Bauhinian](/world/bauhinia/) government archives."
   },
   {
