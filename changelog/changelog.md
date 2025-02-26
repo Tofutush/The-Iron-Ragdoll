@@ -7,6 +7,11 @@ eleventyNavigation:
   order: 990
 titlezh: 更新日志
 ---
+## 2025-02-26
+
+- Applied a layout to the gallery. You won't notice since literally nothing changed.
+	- More gallery stats because I'm a stats nerd.
+	- Also, made the years collapsible.
 
 ## 2025-02-25
 
