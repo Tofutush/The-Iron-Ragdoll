@@ -1,17 +1,11 @@
 ---
-layout: layout.liquid
+layout: galleryLayout.liquid
 title: Gallery Stats
 desc: Statistics for my gallery because I'm a stats nerd.
-years:
- - 2023
- - 2024
- - 2025
 eleventyNavigation:
   key: Gallery Stats
   parent: Gallery
 ---
-<link rel="stylesheet" href="/css/gallery.css"/>
-{% include 'galleryBoxNav', years: years %}
 <h1>Gallery stats</h1>
 {% for eachyear in years reversed %}
   {% assign numInYear = gallery | filterGalleryByDate: eachyear %}
