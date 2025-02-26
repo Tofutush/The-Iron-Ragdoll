@@ -75,7 +75,7 @@ module.exports = function (eleventyConfig) {
 	// filters
 	eleventyConfig.addFilter('slug', slug);
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
-		return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
+		return arr.filter(s => s.data.chs?.includes(ch.toLowerCase()));
 	});
 	eleventyConfig.addFilter('getimgurl', function (num) {
 		num = parseInt(num);
