@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
 title: Superpowers
-desc: Superpowers, and how they interact with each other!
+desc: Superpowers, common and rare!
 templateEngineOverride: liquid,md
 tags:
   - lore

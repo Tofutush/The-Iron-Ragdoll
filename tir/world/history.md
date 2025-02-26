@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
 title: History
-desc: A brief history of the world.
+desc: The history of the world.
 tags:
   - lore
 eleventyNavigation:

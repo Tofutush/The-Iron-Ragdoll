@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
 title: Area 1
-desc: Economic center of Westavia
+desc: Economic center of Westavia.
 eleventyNavigation:
   key: Area 1
   parent: Westavia
