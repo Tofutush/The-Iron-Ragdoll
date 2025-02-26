@@ -20,11 +20,11 @@
   --font-size-small: calc(var(--font-size) * 0.8);
   --bezier: cubic-bezier(0, 0, 0, 1);
   --bezier-bounce: cubic-bezier(0, 1, 0, 1.5);
-  --text-light: #121212;
+  --text-light: #191919;
   --bg-light: #fff9f2;
   --c-light: #e56b6f;
   --box-light: #0001;
-  --c-dark: #f4979a;
+  --c-dark: #FFD8A8;
   --box-dark: #fff5;
 }
 
@@ -288,6 +288,7 @@ body.dark #title {
   position: sticky;
   top: 0;
   z-index: 999;
+  user-select: none;
 }
 
 #linx>a {

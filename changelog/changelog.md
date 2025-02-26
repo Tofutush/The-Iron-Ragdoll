@@ -7,6 +7,24 @@ eleventyNavigation:
   order: 990
 titlezh: 更新日志
 ---
+## 2025-02-26
+
+- Applied a layout to the gallery. You won't notice since literally nothing changed.
+	- More gallery stats because I'm a stats nerd.
+	- Also, made the years collapsible.
+- Removed all the extra unused metadata on images, like "scope" and "style." Got rid of like 500 lines.
+
+## 2025-02-25
+
+- Deleted the now-useless navigation page. RIP, your life was short and useless.
+- Gained determination to write a better changelog.
+- Turned some JSON metadata into YAML.
+- Added a little tag icon in front of tag lists, which only exist [here](/characters/tag/) and on character page sidebars.
+- Changed [Westavia](/world/westavia/)'s full name to The People's Republic of Westavia, and [Atlasia](/world/atlasia/)'s to The Free Republic of Atlasia.
+	- Also a theme song title for Westavia.
+- Revamped the [Kaleidoscope's fate](/stories/one-man-short/#kaleidoscopes-fate/) section of One Man Short so that my dear Kally isn't a horrible person anymore.
+- Removed the RSS feed and all links to it.
+- Changed the dark mode accent color to blue.
 
 ## 2025-02-24
 

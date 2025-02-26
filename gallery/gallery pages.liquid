@@ -1,27 +1,19 @@
----json
-{
-    "layout": "layout.liquid",
-    "years": [2023, 2024, 2025],
-    "pagination": {
-        "data": "years",
-        "size": 1,
-        "alias": "year",
-        "addAllPagesToCollections": true
-    },
-    "permalink": "gallery/{{ year }}/",
-    "eleventyComputed": {
-        "title": "Gallery {{ year }}",
-        "desc": "A bunch of pictures I drew in {{ year }}.",
-        "eleventyNavigation": {
-            "key": "Gallery {{ year }}",
-            "title": "{{ year }}",
-            "parent": "Gallery"
-        }
-    }
-}
 ---
-<link rel="stylesheet" href="/css/gallery.css"/>
-{% include 'galleryBoxNav', years: years %}
+layout: galleryLayout.liquid
+pagination:
+  data: years
+  size: 1
+  alias: year
+  addAllPagesToCollections: true
+permalink: "gallery/{{ year }}/"
+eleventyComputed:
+  title: "Gallery {{ year }}"
+  desc: "A bunch of pictures I drew in {{ year }}."
+  eleventyNavigation:
+    key: "Gallery {{ year }}"
+    title: "{{ year }}"
+    parent: Gallery
+---
 {% for month in (1..12) reversed %}
     {% assign paddedMonth = month | padStart: 2, '0' %}
     {% assign yearMonth = year | append: '-' | append: paddedMonth %}
