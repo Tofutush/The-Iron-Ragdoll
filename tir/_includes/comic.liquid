@@ -7,13 +7,13 @@ pagination:
   size: 1
   addAllPagesToCollections: true
   alias: comic
-permalink: "stories/{{ parent | slug }}/page-{{ pagination.pageNumber }}/"
+permalink: "stories/{{ parent | slug }}/page-{{ comic.pagenum }}/"
 eleventyComputed:
-  title: "{{ comicTitle }} comic - page {{ pagination.pageNumber }}"
-  theme: "{{ comic.theme }}"
+  title: "{{ comicTitle }} comic - page {{ comic.pagenum }}"
+  theme: "{% if comic.theme %}{{ comic.theme }}{% elsif theme %}{{ theme }}{% endif %}"
   eleventyNavigation:
-    key: "{{ comicTitle }} comic - page {{ pagination.pageNumber }}"
-    title: "Page {{ pagination.pageNumber }}"
+    key: "{{ comicTitle }} comic - page {{ comic.pagenum }}"
+    title: "Page {{ comic.pagenum }}"
     parent: "{{ parent }}"
 ---
 <link rel="stylesheet" href="/css/comic.css"/>
@@ -30,13 +30,13 @@ body {
 }
 {% endif %}
 </style>
-{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: pagination.pageNumber, top: true %}
+{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum, top: true %}
 <div id="img">
   {% assign bruhhh = comic.url | append: '.png' %}
   {% assign alt = "Page " | append: comic.pagenum %}
   {% image "comics/" bruhhh 1000 alt %}
 </div>
-{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: pagination.pageNumber %}
+{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum %}
 <div id="date-save">
   <p>{{ comic.date }}</p>
   <div id="save">
@@ -50,8 +50,8 @@ body {
 <script>
 // save
 function save() {
-  localStorage.setItem('{{ comicTitle }} place', {{ pagination.pageNumber }});
-  alert(`Page {{ pagination.pageNumber }} saved!`);
+  localStorage.setItem('{{ comicTitle }} place', {{ comic.pagenum }});
+  alert(`Page {{ comic.pagenum }} saved!`);
 }
 function load() {
   let place = localStorage.getItem('{{ comicTitle }} place');
