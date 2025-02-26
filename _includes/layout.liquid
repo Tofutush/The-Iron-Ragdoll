@@ -80,11 +80,9 @@ navOptions:
           <a href="#top">{% lucide 'arrow-up-to-line' %}</a>
         </div> {% endcomment %}
       </div>
-      <div id="footer-img">
-        {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
-        {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
-        {% image 'gallery/' footername 500 '' %}
-      </div>
+      {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
+      {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
+      {% image 'gallery/' footername 500 footerimg.name 'footer-img' %}
   </div>
 {% endunless %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
