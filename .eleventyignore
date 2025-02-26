@@ -1,8 +1,2 @@
-_archive
-_site
-_neocities
-_obsidian templates
-characters/characterinfo.md
-.github
-.obsidian
-.vscode
+tir/_obsidian templates
+tir/characters/characterinfo.md
