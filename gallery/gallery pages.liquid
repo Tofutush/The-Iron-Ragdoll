@@ -1,9 +1,5 @@
 ---
-layout: layout.liquid
-years:
-  - 2023
-  - 2024
-  - 2025
+layout: galleryLayout.liquid
 pagination:
   data: years
   size: 1
@@ -18,8 +14,6 @@ eleventyComputed:
     title: "{{ year }}"
     parent: Gallery
 ---
-<link rel="stylesheet" href="/css/gallery.css"/>
-{% include 'galleryBoxNav', years: years %}
 {% for month in (1..12) reversed %}
     {% assign paddedMonth = month | padStart: 2, '0' %}
     {% assign yearMonth = year | append: '-' | append: paddedMonth %}
