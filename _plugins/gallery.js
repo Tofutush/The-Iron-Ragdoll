@@ -6,7 +6,7 @@ function galleryPlugin(eleventyConfig) {
         return arr.filter(a => a.date?.includes(f));
     });
     eleventyConfig.addFilter('filterGalleryByKind', function (arr, f) {
-        return arr.filter(a => a.kind?.includes(f));
+        return arr.filter(a => a.kind === f);
     });
     eleventyConfig.addFilter('sortGalleryByChCount', function (arr) {
         return arr.sort((a, b) => a.ch?.length - b.ch?.length);
