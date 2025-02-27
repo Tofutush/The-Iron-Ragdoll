@@ -75,296 +75,6 @@
     }
   },
   {
-    "name": "Ribbon",
-    "namezh": "曲旋丝",
-    "color": "#e368d3",
-    "desc": "Owner of the bakery!",
-    "tags": [
-      "Coastline",
-      "Bauhinia"
-    ],
-    "attr": {
-      "Nickname": "Rib (by Tundra)",
-      "Gender": "Female",
-      "Soul": "Solid, stripey like a ribbon",
-      "Birthday": "2015-08-14",
-      "Nationality": "Bauhinian",
-      "Orientation": "Heterosexual",
-      "Weapon": "Frying pan",
-      "Deceased": true
-    },
-    "palette": {
-      "apron folds": "#787878",
-      "hair": "#2e2e2e"
-    },
-    "about": "Ribbon is a bakery owner in Coastline.",
-    "insp": [
-      "Homestuck bronzebloods",
-      "红太狼"
-    ]
-  },
-  {
-    "name": "Cosmo",
-    "namezh": "星河",
-    "color": "#998cbd",
-    "desc": "Editor of the press!",
-    "quote": "If everyone believes it, then it is the truth.",
-    "tags": [
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Nickname": "Cos (by Tundra)",
-      "Gender": "Female",
-      "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
-      "Nationality": "Bauhinian",
-      "Weapon": "Throwing stars",
-      "Power": "Mind reading, unregistered"
-    },
-    "palette": {
-      "middle eye": "#fe0",
-      "left eye": "#DCBBF0",
-      "right eye": "#A5D6F7",
-      "shirt": "#B2B8E3",
-      "hair": "#2e2e2e"
-    },
-    "about": "Cosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
-    "insp": [
-      "Homestuck ceruleanbloods"
-    ],
-    "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
-  },
-  {
-    "name": "Tomato",
-    "namezh": "番茄",
-    "color": "#A10000",
-    "desc": "The guy who can solve all your problems but doesn't want to.",
-    "quote": "I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
-    "tags": [
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Nickname": "Tom (by Tundra)",
-      "Gender": "Male",
-      "Soul": "Gas, tomato-shaped",
-      "Nationality": "Bauhinian",
-      "Weapon": "Wrench"
-    },
-    "palette": {
-      "shirt": "#575757",
-      "hair": "#2e2e2e"
-    },
-    "insp": [
-      "Homestuck rustbloods"
-    ]
-  },
-  {
-    "name": "Guillotine",
-    "namezh": "断头台",
-    "color": "#d0ae3a",
-    "desc": "Who is this girl and why does she want us to call her Guillotine?",
-    "quote": "I'm dead now! You can't kill me!",
-    "tags": [
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Gender": "Female",
-      "Nationality": "Atlasian",
-      "Deceased": true
-    },
-    "palette": {
-      "shirt": "#575757",
-      "hair": "#2E2E2E"
-    }
-  },
-  {
-    "name": "Tephra",
-    "namezh": "火山灰",
-    "color": "#008282",
-    "desc": "The boss of everything at once, but nothing in particular.",
-    "quote": "Sit down everyone. The investigation is underway.",
-    "tags": [
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Nickname": "Teff (by Tundra)",
-      "Gender": "Male",
-      "Soul": "Gas, flower-shaped like his symbol",
-      "Nationality": "Bauhinian",
-      "Occupation": "Secret police officer",
-      "Weapon": "Walther P38 pistol"
-    },
-    "palette": {
-      "belt and holster": "#AE7500",
-      "buckle": "#7D4500",
-      "gun handle": "#757575",
-      "hair": "#2e2e2e"
-    },
-    "about": "Runs the drug lab in Hillslope. He's the boss of the press, and most people of Hillslope.\n\nBut here's the thing: he's a fucking stupid coward.\n\nHe saw [Starry](/characters/starry/)'s unmoving body lying on the ground (after [Alaska](/characters/alaska/) and immediately freaked out, thinking that [Ribbon](/characters/ribbon/) was going to accuse him. (She did.) So he ran a huge cover-up campaign which ironically implicated him.",
-    "trivia": [
-      "If he had a lusus, it would be a desert fox."
-    ],
-    "insp": [
-      "Homestuck tealbloods"
-    ]
-  },
-  {
-    "name": "Melody",
-    "namezh": "音韵",
-    "color": "#426600",
-    "desc": "Quiet badass.",
-    "quote": "...",
-    "tags": [
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Nickname": "Mel (by Tundra)",
-      "Gender": "Male",
-      "Soul": "Liquid, warm and bloody",
-      "Nationality": "Bauhinian",
-      "Occupation": "Private detective",
-      "Weapon": "Dagger"
-    },
-    "palette": {
-      "hat": "#575757",
-      "hair": "#2e2e2e"
-    },
-    "insp": [
-      "Homestuck olivebloods"
-    ]
-  },
-  {
-    "name": "Jerboa",
-    "namezh": "跳鼠",
-    "color": "#0867af",
-    "desc": "Owner, bartender, and everything else of the tavern!",
-    "quote": "Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!",
-    "tags": [
-      "Bauhinia",
-      "Project Boomerang",
-      "Misc"
-    ],
-    "attr": {
-      "Full name": "Jerboa Kangaroo Koala",
-      "Nickname": "Jerb (by Tundra)",
-      "Gender": "Male",
-      "Soul": "Solid, broken glass shards",
-      "Birthday": "2016-09-10",
-      "Nationality": "Bauhinian",
-      "Occupation": "Bartender, chemist, undertaker, and chemist again"
-    },
-    "palette": {
-      "shirt light": "#727272",
-      "shirt dark": "#4F4F4F",
-      "hair": "#2E2E2E"
-    },
-    "trivia": [
-      "If he had a lusus, it would be a jerboa."
-    ],
-    "insp": [
-      "Jerboas (obviously)",
-      "Tintin (for the little pike in his hair)"
-    ]
-  },
-  {
-    "name": "Tundra",
-    "namezh": "冰封雪",
-    "color": "#800080",
-    "desc": "Self-proclaimed mayor of Hillslope!",
-    "quote": "What's the big deal?",
-    "tags": [
-      "Hillslope",
-      "Misc"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Gas, wispy",
-      "Weapon": "None, unless joints count",
-      "Power": "Immortality"
-    },
-    "palette": {
-      "tie": "#2E6CF7",
-      "hair": "#2E2E2E"
-    },
-    "trivia": [
-      "If he had a lusus, it would be a sloth."
-    ],
-    "insp": [
-      "Homestuck purplebloods"
-    ]
-  },
-  {
-    "name": "Alaska",
-    "namezh": "阿拉斯加",
-    "color": "#6C0404",
-    "desc": "Photographer for the press!",
-    "quote": "Smile for the camera! Cheese!",
-    "tags": [
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Solid",
-      "Nationality": "Bauhinian"
-    },
-    "palette": {
-      "shirt": "#FFF",
-      "hair": "#2E2E2E"
-    }
-  },
-  {
-    "name": "Starry",
-    "namezh": "星星",
-    "color": "#CC770F",
-    "desc": "Basically a dead guy already.",
-    "quote": "zzz...",
-    "tags": [
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Liquid",
-      "Nationality": "Bauhinian"
-    },
-    "palette": {
-      "glasses": "#666",
-      "hair": "#2E2E2E"
-    },
-    "about": "Went into a coma after getting hit in the head. Since then, [Ribbon](/characters/ribbon/) had kept him alive.",
-    "insp": [
-      "Homestuck jadebloods"
-    ]
-  },
-  {
-    "name": "Dragonfly",
-    "namezh": "蜻蜓",
-    "color": "#00adad",
-    "desc": "Some martial arts master in the woods.",
-    "tags": [
-      "Starcorp",
-      "Bauhinia"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Solid",
-      "Nationality": "Bauhinian",
-      "Weapon": "His fists. A wooden branch if there is one nearby."
-    },
-    "palette": {
-      "hair": "#2E2E2E"
-    },
-    "about": "Dragonfly is a security guard for Starcorp. He trained Sparky in bodyguarding.",
-    "trivia": [
-      "If he had a lusus, it would be a dragonfly."
-    ]
-  },
-  {
     "name": "Peacock",
     "namezh": "孔雀",
     "color": "#20f",
@@ -421,6 +131,35 @@
       "shirt": "#84C776",
       "hair": "#2E2E2E"
     }
+  },
+  {
+    "name": "Ribbon",
+    "namezh": "曲旋丝",
+    "color": "#e368d3",
+    "desc": "Owner of the bakery!",
+    "tags": [
+      "Coastline",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Nickname": "Rib (by Tundra)",
+      "Gender": "Female",
+      "Soul": "Solid, stripey like a ribbon",
+      "Birthday": "2015-08-14",
+      "Nationality": "Bauhinian",
+      "Orientation": "Heterosexual",
+      "Weapon": "Frying pan",
+      "Deceased": true
+    },
+    "palette": {
+      "apron folds": "#787878",
+      "hair": "#2e2e2e"
+    },
+    "about": "Ribbon is a bakery owner in Coastline.",
+    "insp": [
+      "Homestuck bronzebloods",
+      "红太狼"
+    ]
   },
   {
     "name": "Qibli",
@@ -1139,25 +878,6 @@
     ]
   },
   {
-    "name": "Groovy",
-    "color": "#933384",
-    "tags": [
-      "Coastline",
-      "Bauhinia"
-    ],
-    "attr": {
-      "Nickname": "Cocoa (by Nightsun)",
-      "Gender": "Female",
-      "Age estimation": "Around the same as Nightsun",
-      "Nationality": "Bauhinian",
-      "Occupation": "Case officer"
-    },
-    "palette": {
-      "hair": "#2e2e2e"
-    },
-    "about": "Groovy is Nightsun's case officer."
-  },
-  {
     "name": "Sundae",
     "namezh": "圣代",
     "color": "#863094",
@@ -1182,25 +902,46 @@
     "about": "Sundae is nice."
   },
   {
-    "name": "Jaculus",
-    "namezh": "跃鼠",
-    "color": "#008bc7",
-    "desc": "Jerboa's big sister.",
+    "name": "Dragonfly",
+    "namezh": "蜻蜓",
+    "color": "#00adad",
+    "desc": "Some martial arts master in the woods.",
     "tags": [
-      "Bauhinia",
-      "Project Boomerang"
+      "Starcorp",
+      "Bauhinia"
     ],
     "attr": {
-      "Full name": "Jaculus Koala Kangaroo",
-      "Nickname": "Jac (by Frosting)",
-      "Gender": "Female (cis)",
-      "Birthday": "2011-11-11",
+      "Gender": "Male",
+      "Soul": "Solid",
       "Nationality": "Bauhinian",
-      "Deceased": true
+      "Weapon": "His fists. A wooden branch if there is one nearby."
     },
     "palette": {
       "hair": "#2E2E2E"
-    }
+    },
+    "about": "Dragonfly is a security guard for Starcorp. He trained Sparky in bodyguarding.",
+    "trivia": [
+      "If he had a lusus, it would be a dragonfly."
+    ]
+  },
+  {
+    "name": "Groovy",
+    "color": "#933384",
+    "tags": [
+      "Coastline",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Nickname": "Cocoa (by Nightsun)",
+      "Gender": "Female",
+      "Age estimation": "Around the same as Nightsun",
+      "Nationality": "Bauhinian",
+      "Occupation": "Case officer"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "Groovy is Nightsun's case officer."
   },
   {
     "name": "Koala",
@@ -1267,6 +1008,27 @@
     ]
   },
   {
+    "name": "Jaculus",
+    "namezh": "跃鼠",
+    "color": "#008bc7",
+    "desc": "Jerboa's big sister.",
+    "tags": [
+      "Bauhinia",
+      "Project Boomerang"
+    ],
+    "attr": {
+      "Full name": "Jaculus Koala Kangaroo",
+      "Nickname": "Jac (by Frosting)",
+      "Gender": "Female (cis)",
+      "Birthday": "2011-11-11",
+      "Nationality": "Bauhinian",
+      "Deceased": true
+    },
+    "palette": {
+      "hair": "#2E2E2E"
+    }
+  },
+  {
     "name": "Frosting",
     "namezh": "糖霜",
     "color": "#F676D2",
@@ -1285,6 +1047,39 @@
       "hair": "#2E2E2E"
     },
     "about": "Frosting grew up in the Project Boomerang laboratory with her parents. She grew up to be a government archivist, tasked with erasing records of disappeared people in addition to whatever archivists usually do. She let Jerboa into the archives to read about Project Boomerang and his parents."
+  },
+  {
+    "name": "Jerboa",
+    "namezh": "跳鼠",
+    "color": "#0867af",
+    "desc": "Owner, bartender, and everything else of the tavern!",
+    "quote": "Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!",
+    "tags": [
+      "Bauhinia",
+      "Project Boomerang",
+      "Misc"
+    ],
+    "attr": {
+      "Full name": "Jerboa Kangaroo Koala",
+      "Nickname": "Jerb (by Tundra)",
+      "Gender": "Male",
+      "Soul": "Solid, broken glass shards",
+      "Birthday": "2016-09-10",
+      "Nationality": "Bauhinian",
+      "Occupation": "Bartender, chemist, undertaker, and chemist again"
+    },
+    "palette": {
+      "shirt light": "#727272",
+      "shirt dark": "#4F4F4F",
+      "hair": "#2E2E2E"
+    },
+    "trivia": [
+      "If he had a lusus, it would be a jerboa."
+    ],
+    "insp": [
+      "Jerboas (obviously)",
+      "Tintin (for the little pike in his hair)"
+    ]
   },
   {
     "name": "Candlelight",
@@ -1459,6 +1254,211 @@
       "hair": "#2E2E2E"
     },
     "about": "Moonbeam is a Sylvandian psychic well-trained in soul-extraction."
+  },
+  {
+    "name": "Tomato",
+    "namezh": "番茄",
+    "color": "#A10000",
+    "desc": "The guy who can solve all your problems but doesn't want to.",
+    "quote": "I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
+    "tags": [
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Nickname": "Tom (by Tundra)",
+      "Gender": "Male",
+      "Soul": "Gas, tomato-shaped",
+      "Nationality": "Bauhinian",
+      "Weapon": "Wrench"
+    },
+    "palette": {
+      "shirt": "#575757",
+      "hair": "#2e2e2e"
+    },
+    "insp": [
+      "Homestuck rustbloods"
+    ]
+  },
+  {
+    "name": "Cosmo",
+    "namezh": "星河",
+    "color": "#998cbd",
+    "desc": "Editor of the press!",
+    "quote": "If everyone believes it, then it is the truth.",
+    "tags": [
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Nickname": "Cos (by Tundra)",
+      "Gender": "Female",
+      "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
+      "Nationality": "Bauhinian",
+      "Weapon": "Throwing stars",
+      "Power": "Mind reading, unregistered"
+    },
+    "palette": {
+      "middle eye": "#fe0",
+      "left eye": "#DCBBF0",
+      "right eye": "#A5D6F7",
+      "shirt": "#B2B8E3",
+      "hair": "#2e2e2e"
+    },
+    "about": "Cosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
+    "insp": [
+      "Homestuck ceruleanbloods"
+    ],
+    "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
+  },
+  {
+    "name": "Melody",
+    "namezh": "音韵",
+    "color": "#426600",
+    "desc": "Quiet badass.",
+    "quote": "...",
+    "tags": [
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Nickname": "Mel (by Tundra)",
+      "Gender": "Male",
+      "Soul": "Liquid, warm and bloody",
+      "Nationality": "Bauhinian",
+      "Occupation": "Private detective",
+      "Weapon": "Dagger"
+    },
+    "palette": {
+      "hat": "#575757",
+      "hair": "#2e2e2e"
+    },
+    "insp": [
+      "Homestuck olivebloods"
+    ]
+  },
+  {
+    "name": "Alaska",
+    "namezh": "阿拉斯加",
+    "color": "#6C0404",
+    "desc": "Photographer for the press!",
+    "quote": "Smile for the camera! Cheese!",
+    "tags": [
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Solid",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "shirt": "#FFF",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Tephra",
+    "namezh": "火山灰",
+    "color": "#008282",
+    "desc": "The boss of everything at once, but nothing in particular.",
+    "quote": "Sit down everyone. The investigation is underway.",
+    "tags": [
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Nickname": "Teff (by Tundra)",
+      "Gender": "Male",
+      "Soul": "Gas, flower-shaped like his symbol",
+      "Nationality": "Bauhinian",
+      "Occupation": "Secret police officer",
+      "Weapon": "Walther P38 pistol"
+    },
+    "palette": {
+      "belt and holster": "#AE7500",
+      "buckle": "#7D4500",
+      "gun handle": "#757575",
+      "hair": "#2e2e2e"
+    },
+    "about": "Runs the drug lab in Hillslope. He's the boss of the press, and most people of Hillslope.\n\nBut here's the thing: he's a fucking stupid coward.\n\nHe saw [Starry](/characters/starry/)'s unmoving body lying on the ground (after [Alaska](/characters/alaska/) and immediately freaked out, thinking that [Ribbon](/characters/ribbon/) was going to accuse him. (She did.) So he ran a huge cover-up campaign which ironically implicated him.",
+    "trivia": [
+      "If he had a lusus, it would be a desert fox."
+    ],
+    "insp": [
+      "Homestuck tealbloods"
+    ]
+  },
+  {
+    "name": "Guillotine",
+    "namezh": "断头台",
+    "color": "#d0ae3a",
+    "desc": "Who is this girl and why does she want us to call her Guillotine?",
+    "quote": "I'm dead now! You can't kill me!",
+    "tags": [
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Nationality": "Atlasian",
+      "Deceased": true
+    },
+    "palette": {
+      "shirt": "#575757",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Tundra",
+    "namezh": "冰封雪",
+    "color": "#800080",
+    "desc": "Self-proclaimed mayor of Hillslope!",
+    "quote": "What's the big deal?",
+    "tags": [
+      "Hillslope",
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Gas, wispy",
+      "Weapon": "None, unless joints count",
+      "Power": "Immortality"
+    },
+    "palette": {
+      "tie": "#2E6CF7",
+      "hair": "#2E2E2E"
+    },
+    "trivia": [
+      "If he had a lusus, it would be a sloth."
+    ],
+    "insp": [
+      "Homestuck purplebloods"
+    ]
+  },
+  {
+    "name": "Starry",
+    "namezh": "星星",
+    "color": "#CC770F",
+    "desc": "Basically a dead guy already.",
+    "quote": "zzz...",
+    "tags": [
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Liquid",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "glasses": "#666",
+      "hair": "#2E2E2E"
+    },
+    "about": "Went into a coma after getting hit in the head. Since then, [Ribbon](/characters/ribbon/) had kept him alive.",
+    "insp": [
+      "Homestuck jadebloods"
+    ]
   },
   {
     "name": "Sunny",
