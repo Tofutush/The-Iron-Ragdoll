@@ -1522,5 +1522,13 @@
       "horn grooves": "#754400",
       "hair": "#2E2E2E"
     }
+  },
+  {
+    "name": "Icicle",
+    "namezh": "冰棱锥",
+    "color": "#72bed2",
+    "tags": [
+      "Misc"
+    ]
   }
 ]
