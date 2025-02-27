@@ -1,0 +1,39 @@
+---
+layout: article.liquid
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    parent: Stories
+  desc: "{{ summary }}"
+---
+<link rel="stylesheet" href="/css/story.css" />
+<div class="attr">
+  <div class="attr-key">Canon?</div>
+  <div class="attr-val">{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi'
+    %}Semi-canon (is not planned in the plot, but has no conflicts with the original story){% else %}No (you should not
+    consider this in the context of TIR's universe){% endif %}</div>
+  <div class="attr-key">Main Cast</div>
+  <div class="attr-val chbuttons">
+    {% for ch in chs %}
+    <div>{% include 'chButton', ch: ch %}</div>
+    {% endfor %}
+  </div>
+  {% if location %}
+  <div class="attr-key">Location</div>
+  <div class="attr-val">{{ location }}</div>
+  {% endif %}
+  <div class="attr-key">Time period</div>
+  <div class="attr-val">{{ time }}</div>
+</div>
+{% if comic %}
+<p style="text-align: center;"><a href="page-1/">{% lucide 'chevrons-right' %}Read the comic associated with this story!{% lucide 'chevrons-left' %}</a></p>
+{% endif %}
+
+{{ content }}
+
+{% assign prev = collections.stories | getPreviousCollectionItem %}
+{% assign next = collections.stories | getNextCollectionItem %}
+{% if prev or next %}
+<hr />
+{% include 'prevnext' prev: prev.url, next: next.url %}
+{% endif %}
