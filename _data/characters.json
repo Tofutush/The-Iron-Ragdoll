@@ -278,15 +278,13 @@
     "quote": "What's the big deal?",
     "tags": [
       "Hillslope",
-      "Bauhinia"
+      "Misc"
     ],
     "attr": {
       "Gender": "Male",
       "Soul": "Gas, wispy",
-      "Age estimation": "Second oldest in Hillslope, after Dragonfly",
-      "Nationality": "Bauhinian",
       "Weapon": "None, unless joints count",
-      "Power": "Immortality, unregistered"
+      "Power": "Immortality"
     },
     "palette": {
       "tie": "#2E6CF7",
