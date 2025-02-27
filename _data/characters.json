@@ -1281,6 +1281,21 @@
     ]
   },
   {
+    "name": "Potato",
+    "namezh": "土豆",
+    "color": "#bdad1b",
+    "tags": [
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Age estimation": "The same as Tomato"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
     "name": "Cosmo",
     "namezh": "星河",
     "color": "#998cbd",
