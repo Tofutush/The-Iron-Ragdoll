@@ -15,7 +15,6 @@ const utilPlugin = require('./_plugins/utils');
 const chPlugin = require('./_plugins/ch');
 const relPlugin = require('./_plugins/rel');
 const imagePlugin = require('./_plugins/image');
-const galleryImgs = require('./_data/gallery imgs.json');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -69,16 +68,14 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('fonts');
 	eleventyConfig.addPassthroughCopy('robots.txt');
 	eleventyConfig.addPassthroughCopy('img/gallery/*.gif');
-	eleventyConfig.addPassthroughCopy('_data/graphData.js');
-	galleryImgs.filter(i => i.copy).forEach(i => eleventyConfig.addPassthroughCopy(`img/gallery/${i.name}.${i.type}`));
 	// collections
 	eleventyConfig.addCollection("stories", collection =>
-		collection.getFilteredByGlob('stories/*.md').sort((a, b) => a.data.order - b.data.order)
+		collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => a.data.order - b.data.order)
 	);
 	// filters
 	eleventyConfig.addFilter('slug', slug);
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
-		return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
+		return arr.filter(s => s.data.chs?.includes(ch.toLowerCase()));
 	});
 	eleventyConfig.addFilter('getimgurl', function (num) {
 		num = parseInt(num);
@@ -100,6 +97,9 @@ module.exports = function (eleventyConfig) {
 		return content;
 	});
 	return {
+		dir: {
+			input: 'tir'
+		},
 		passthroughFileCopy: true,
 	};
 };
