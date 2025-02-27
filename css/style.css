@@ -434,7 +434,7 @@ body.dark .footer-img {
 
 .box-nav>a {
   background-color: var(--c);
-  color: var(--text);
+  color: var(--bg);
   padding: .4em .6em;
   border-radius: .3em;
   user-select: none;
