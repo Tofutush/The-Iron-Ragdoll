@@ -7,6 +7,9 @@ eleventyNavigation:
   order: 990
 titlezh: 更新日志
 ---
+## 2025-02-27
+
+- Added `signe luna.png` and `xavier.png`.
 
 ## 2025-02-26
 
