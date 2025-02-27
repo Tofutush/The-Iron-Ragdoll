@@ -80,7 +80,7 @@
     "color": "#e368d3",
     "desc": "Owner of the bakery!",
     "tags": [
-      "Hillslope",
+      "Coastline",
       "Bauhinia"
     ],
     "attr": {
@@ -97,7 +97,7 @@
       "apron folds": "#787878",
       "hair": "#2e2e2e"
     },
-    "about": "Ribbon is a cute girl who loves baking and taught [Sparky](../sparky/) to cook. Though she isn't taking care of her for nothing!\n\nShe has a huge crush on [Starry](../starry/) and is determined to not only find out who attacked him, but also make the assiliant regret what they did for the rest of their life.\n\nAlso she's a murderer herself.",
+    "about": "Ribbon is a bakery owner in Coastline.",
     "insp": [
       "Homestuck bronzebloods",
       "红太狼"
@@ -110,8 +110,8 @@
     "desc": "Editor of the press!",
     "quote": "If everyone believes it, then it is the truth.",
     "tags": [
-      "Hillslope",
-      "Bauhinia"
+      "Bauhinia",
+      "Misc"
     ],
     "attr": {
       "Nickname": "Cos (by Tundra)",
@@ -141,8 +141,8 @@
     "desc": "The guy who can solve all your problems but doesn't want to.",
     "quote": "I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
     "tags": [
-      "Hillslope",
-      "Bauhinia"
+      "Bauhinia",
+      "Misc"
     ],
     "attr": {
       "Nickname": "Tom (by Tundra)",
@@ -166,8 +166,8 @@
     "desc": "Who is this girl and why does she want us to call her Guillotine?",
     "quote": "I'm dead now! You can't kill me!",
     "tags": [
-      "Hillslope",
-      "Bauhinia"
+      "Bauhinia",
+      "Misc"
     ],
     "attr": {
       "Gender": "Female",
@@ -186,8 +186,8 @@
     "desc": "The boss of everything at once, but nothing in particular.",
     "quote": "Sit down everyone. The investigation is underway.",
     "tags": [
-      "Hillslope",
-      "Bauhinia"
+      "Bauhinia",
+      "Misc"
     ],
     "attr": {
       "Nickname": "Teff (by Tundra)",
@@ -218,8 +218,8 @@
     "desc": "Quiet badass.",
     "quote": "...",
     "tags": [
-      "Hillslope",
-      "Bauhinia"
+      "Bauhinia",
+      "Misc"
     ],
     "attr": {
       "Nickname": "Mel (by Tundra)",
@@ -244,9 +244,9 @@
     "desc": "Owner, bartender, and everything else of the tavern!",
     "quote": "Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!",
     "tags": [
-      "Hillslope",
       "Bauhinia",
-      "Project Boomerang"
+      "Project Boomerang",
+      "Misc"
     ],
     "attr": {
       "Full name": "Jerboa Kangaroo Koala",
@@ -304,8 +304,8 @@
     "desc": "Photographer for the press!",
     "quote": "Smile for the camera! Cheese!",
     "tags": [
-      "Hillslope",
-      "Bauhinia"
+      "Bauhinia",
+      "Misc"
     ],
     "attr": {
       "Gender": "Male",
@@ -324,8 +324,8 @@
     "desc": "Basically a dead guy already.",
     "quote": "zzz...",
     "tags": [
-      "Hillslope",
-      "Bauhinia"
+      "Bauhinia",
+      "Misc"
     ],
     "attr": {
       "Gender": "Male",
@@ -347,19 +347,19 @@
     "color": "#00adad",
     "desc": "Some martial arts master in the woods.",
     "tags": [
-      "Hillslope",
+      "Starcorp",
       "Bauhinia"
     ],
     "attr": {
       "Gender": "Male",
       "Soul": "Solid",
-      "Age estimation": "Oldest in Hillslope",
       "Nationality": "Bauhinian",
       "Weapon": "His fists. A wooden branch if there is one nearby."
     },
     "palette": {
       "hair": "#2E2E2E"
     },
+    "about": "Dragonfly is a security guard for Starcorp. He trained Sparky in bodyguarding.",
     "trivia": [
       "If he had a lusus, it would be a dragonfly."
     ]
