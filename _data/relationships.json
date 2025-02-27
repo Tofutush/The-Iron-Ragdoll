@@ -15,17 +15,6 @@
   {
     "ch": [
       [
-        "Sparky"
-      ],
-      [
-        "Ribbon"
-      ]
-    ],
-    "desc": "Ribbon and Sparky have the same birthday, though Ribbon was two years older than Sparky. Ribbon showed Sparky the ropes around Hillslope, taught her to cook and bake, and asked her to investigate the attack on [Starry](../starry/). Sparky was about to take all the caring she gave her for granted. She couldn't have been more mistaken.\n\n> Gratitude gets you far, Sparky. Very far."
-  },
-  {
-    "ch": [
-      [
         "Sparky",
         "stepdaughter"
       ],
@@ -49,6 +38,17 @@
     ],
     "img": "sparky willow.png",
     "desc": "Sparky and Willow have the [same mother](/characters/amber/) but different fathers.\n\nWillow is the one who understands Sparky the most, because of her mind-reading."
+  },
+  {
+    "ch": [
+      [
+        "Sparky"
+      ],
+      [
+        "Ribbon"
+      ]
+    ],
+    "desc": "Ribbon and Sparky have the same birthday, though Ribbon was two years older than Sparky. Ribbon showed Sparky the ropes around Hillslope, taught her to cook and bake, and asked her to investigate the attack on [Starry](../starry/). Sparky was about to take all the caring she gave her for granted. She couldn't have been more mistaken.\n\n> Gratitude gets you far, Sparky. Very far."
   },
   {
     "ch": [
@@ -236,134 +236,6 @@
   {
     "ch": [
       [
-        "Ribbon"
-      ],
-      [
-        "Tundra"
-      ]
-    ],
-    "desc": "Tundra loves Ribbon's baking."
-  },
-  {
-    "ch": [
-      [
-        "Ribbon",
-        "enemy"
-      ],
-      [
-        "Alaska",
-        "enemy"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Ribbon",
-        "caretaker"
-      ],
-      [
-        "Starry",
-        "crush"
-      ]
-    ],
-    "desc": "Ribbon has a huge crush on Starry. (Before he got knocked out, or it's gonna be creepy.) After he went into the coma, Ribbon took his room key and took care of him, keeping him alive every day by jamming water and soup down his throat with a funnel. If Starry wasn't aware of her crush before, he certainly is now."
-  },
-  {
-    "ch": [
-      [
-        "Cosmo",
-        "enemy"
-      ],
-      [
-        "Tomato",
-        "enemy"
-      ]
-    ],
-    "desc": "Cosmo and Tomato hate each other for some reason. Mainly, Cosmo is always trying to get Tomato to run errands for her and Tomato's getting fed up."
-  },
-  {
-    "ch": [
-      [
-        "Tephra",
-        "boss"
-      ],
-      [
-        "Jerboa",
-        "little pet"
-      ]
-    ],
-    "desc": "Jerboa gets ordered around by Tephra, mainly because Tephra promised to help him find his parents.\n\nHe did help in the end, though, by introducing Jerboa to [Frosting](/characters/frosting/), who showed him the [Project Boomerang](/world/bauhinia/project-boomerang/) files. But that was ages later. Tephra's just a mean boss and Jerboa's his doormat."
-  },
-  {
-    "ch": [
-      [
-        "Melody",
-        "same person"
-      ],
-      [
-        "Dragonfly",
-        "same person"
-      ]
-    ],
-    "desc": "Dragonfly told [Sparky](/characters/sparky/) that Melody and him were the same person. That must be true, then!"
-  },
-  {
-    "ch": [
-      [
-        "Jerboa",
-        "younger brother"
-      ],
-      [
-        "Jaculus",
-        "older sister"
-      ]
-    ],
-    "desc": "Jerboa faintly remembers playing dolls with Jaculus. She is also in the family photo he doesn't remember taking."
-  },
-  {
-    "ch": [
-      [
-        "Jerboa",
-        "son"
-      ],
-      [
-        "Koala",
-        "mother"
-      ]
-    ],
-    "desc": "Jerboa doesn't have memories of his mom. His only proof of her existence is a family photo he doesn't remember taking."
-  },
-  {
-    "ch": [
-      [
-        "Jerboa",
-        "son"
-      ],
-      [
-        "Kangaroo",
-        "father"
-      ]
-    ],
-    "desc": "Jerboa doesn't have memories of his dad. His only proof of his existence is a family photo he doesn't remember taking."
-  },
-  {
-    "ch": [
-      [
-        "Jerboa",
-        "acquaintance"
-      ],
-      [
-        "Frosting",
-        "acquaintance"
-      ]
-    ],
-    "desc": "Frosting and Jerboa met through [Tephra](/characters/tephra/) because of his promise to help Jerboa find his family.\n\nFrosting risked her job letting Jerboa look through the archives, partly because she was bored as fuck and partly because she thought that by having Jerboa find out the truth, she was giving her dear friend Jaculus a proper closure too."
-  },
-  {
-    "ch": [
-      [
         "Peacock",
         "father"
       ],
@@ -438,6 +310,43 @@
       ]
     ],
     "desc": "Willow met Sundae when she was in middle school and Sundae in college. They often sneaked out to meet each other (mostly Willow, since Sundae doesn't really need to sneak).\n\nWillow's entire family (mainly, [Peacock](/characters/peacock/), [Sparky](/characters/sparky/), [Ironheart](/characters/ironheart/), and [Fantasy](/characters/fantasy/)) was against their relationship, either because Willow was too young, or homophobia, or both.\n\nEventually they split up because 15-year-olds just *should* be sleeping in and being a total idiot rather than dating."
+  },
+  {
+    "ch": [
+      [
+        "Ribbon",
+        "enemy"
+      ],
+      [
+        "Alaska",
+        "enemy"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Ribbon"
+      ],
+      [
+        "Tundra"
+      ]
+    ],
+    "desc": "Tundra loves Ribbon's baking."
+  },
+  {
+    "ch": [
+      [
+        "Ribbon",
+        "caretaker"
+      ],
+      [
+        "Starry",
+        "crush"
+      ]
+    ],
+    "desc": "Ribbon has a huge crush on Starry. (Before he got knocked out, or it's gonna be creepy.) After he went into the coma, Ribbon took his room key and took care of him, keeping him alive every day by jamming water and soup down his throat with a funnel. If Starry wasn't aware of her crush before, he certainly is now."
   },
   {
     "ch": [
@@ -792,12 +701,38 @@
   {
     "ch": [
       [
-        "Jaculus",
-        "daughter"
+        "Dragonfly",
+        "same person"
       ],
+      [
+        "Melody",
+        "same person"
+      ]
+    ],
+    "desc": "Dragonfly told [Sparky](/characters/sparky/) that Melody and him were the same person. That must be true, then!"
+  },
+  {
+    "ch": [
+      [
+        "Koala",
+        "wife"
+      ],
+      [
+        "Kangaroo",
+        "husband"
+      ]
+    ],
+    "desc": "Koala and Kangaroo met each other while studying physics in [Moreland](/world/moreland/)."
+  },
+  {
+    "ch": [
       [
         "Koala",
         "mother"
+      ],
+      [
+        "Jaculus",
+        "daughter"
       ]
     ],
     "desc": ""
@@ -805,12 +740,51 @@
   {
     "ch": [
       [
-        "Jaculus",
-        "daughter"
+        "Koala",
+        "mother"
       ],
+      [
+        "Jerboa",
+        "son"
+      ]
+    ],
+    "desc": "Jerboa doesn't have memories of his mom. His only proof of her existence is a family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
       [
         "Kangaroo",
         "father"
+      ],
+      [
+        "Jaculus",
+        "daughter"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Kangaroo",
+        "father"
+      ],
+      [
+        "Jerboa",
+        "son"
+      ]
+    ],
+    "desc": "Jerboa doesn't have memories of his dad. His only proof of his existence is a family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
+      [
+        "Robin",
+        "father"
+      ],
+      [
+        "Frosting",
+        "daughter"
       ]
     ],
     "desc": ""
@@ -831,28 +805,41 @@
   {
     "ch": [
       [
-        "Koala",
-        "wife"
+        "Jaculus",
+        "older sister"
       ],
       [
-        "Kangaroo",
-        "husband"
+        "Jerboa",
+        "younger brother"
       ]
     ],
-    "desc": "Koala and Kangaroo met each other while studying physics in [Moreland](/world/moreland/)."
+    "desc": "Jerboa faintly remembers playing dolls with Jaculus. She is also in the family photo he doesn't remember taking."
   },
   {
     "ch": [
       [
-        "Robin",
-        "father"
+        "Frosting",
+        "acquaintance"
       ],
       [
-        "Frosting",
-        "daughter"
+        "Jerboa",
+        "acquaintance"
       ]
     ],
-    "desc": ""
+    "desc": "Frosting and Jerboa met through [Tephra](/characters/tephra/) because of his promise to help Jerboa find his family.\n\nFrosting risked her job letting Jerboa look through the archives, partly because she was bored as fuck and partly because she thought that by having Jerboa find out the truth, she was giving her dear friend Jaculus a proper closure too."
+  },
+  {
+    "ch": [
+      [
+        "Jerboa",
+        "little pet"
+      ],
+      [
+        "Tephra",
+        "boss"
+      ]
+    ],
+    "desc": "Jerboa gets ordered around by Tephra, mainly because Tephra promised to help him find his parents.\n\nHe did help in the end, though, by introducing Jerboa to [Frosting](/characters/frosting/), who showed him the [Project Boomerang](/world/bauhinia/project-boomerang/) files. But that was ages later. Tephra's just a mean boss and Jerboa's his doormat."
   },
   {
     "ch": [
@@ -931,5 +918,31 @@
       ]
     ],
     "desc": "Cobalt turned to Moonbeam to study soul-extraction. She mastered it, but Moonbeam kept her original body, and gave her a new body to travel in. It was unclear how she could get her body back."
+  },
+  {
+    "ch": [
+      [
+        "Tomato",
+        "twin"
+      ],
+      [
+        "Potato",
+        "twin"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Tomato",
+        "enemy"
+      ],
+      [
+        "Cosmo",
+        "enemy"
+      ]
+    ],
+    "desc": "Cosmo and Tomato hate each other for some reason. Mainly, Cosmo is always trying to get Tomato to run errands for her and Tomato's getting fed up."
   }
 ]
