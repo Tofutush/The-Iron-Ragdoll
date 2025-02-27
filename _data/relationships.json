@@ -314,43 +314,6 @@
   {
     "ch": [
       [
-        "Ribbon",
-        "enemy"
-      ],
-      [
-        "Alaska",
-        "enemy"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Ribbon"
-      ],
-      [
-        "Tundra"
-      ]
-    ],
-    "desc": "Tundra loves Ribbon's baking."
-  },
-  {
-    "ch": [
-      [
-        "Ribbon",
-        "caretaker"
-      ],
-      [
-        "Starry",
-        "crush"
-      ]
-    ],
-    "desc": "Ribbon has a huge crush on Starry. (Before he got knocked out, or it's gonna be creepy.) After he went into the coma, Ribbon took his room key and took care of him, keeping him alive every day by jamming water and soup down his throat with a funnel. If Starry wasn't aware of her crush before, he certainly is now."
-  },
-  {
-    "ch": [
-      [
         "Qibli",
         "childhood friend"
       ],
@@ -701,19 +664,6 @@
   {
     "ch": [
       [
-        "Dragonfly",
-        "same person"
-      ],
-      [
-        "Melody",
-        "same person"
-      ]
-    ],
-    "desc": "Dragonfly told [Sparky](/characters/sparky/) that Melody and him were the same person. That must be true, then!"
-  },
-  {
-    "ch": [
-      [
         "Koala",
         "wife"
       ],
@@ -792,28 +742,15 @@
   {
     "ch": [
       [
-        "Jaculus",
+        "Frosting",
         "BFF"
       ],
       [
-        "Frosting",
+        "Jaculus",
         "BFF"
       ]
     ],
     "desc": "Jaculus and Frosting were one of the few kids in the [Project Boomerang)(/world/bauhinia/project-boomerang/) laboratory, so they were natually close to each other."
-  },
-  {
-    "ch": [
-      [
-        "Jaculus",
-        "older sister"
-      ],
-      [
-        "Jerboa",
-        "younger brother"
-      ]
-    ],
-    "desc": "Jerboa faintly remembers playing dolls with Jaculus. She is also in the family photo he doesn't remember taking."
   },
   {
     "ch": [
@@ -831,15 +768,27 @@
   {
     "ch": [
       [
+        "Jaculus",
+        "older sister"
+      ],
+      [
         "Jerboa",
-        "little pet"
+        "younger brother"
+      ]
+    ],
+    "desc": "Jerboa faintly remembers playing dolls with Jaculus. She is also in the family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
+      [
+        "Jerboa"
       ],
       [
         "Tephra",
         "boss"
       ]
     ],
-    "desc": "Jerboa gets ordered around by Tephra, mainly because Tephra promised to help him find his parents.\n\nHe did help in the end, though, by introducing Jerboa to [Frosting](/characters/frosting/), who showed him the [Project Boomerang](/world/bauhinia/project-boomerang/) files. But that was ages later. Tephra's just a mean boss and Jerboa's his doormat."
+    "desc": "It's possible that Tephra introduced Jerboa to Frosting but i still need to think about it"
   },
   {
     "ch": [
@@ -931,18 +880,5 @@
       ]
     ],
     "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Tomato",
-        "enemy"
-      ],
-      [
-        "Cosmo",
-        "enemy"
-      ]
-    ],
-    "desc": "Cosmo and Tomato hate each other for some reason. Mainly, Cosmo is always trying to get Tomato to run errands for her and Tomato's getting fed up."
   }
 ]

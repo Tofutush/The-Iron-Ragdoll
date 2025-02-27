@@ -1008,6 +1008,26 @@
     ]
   },
   {
+    "name": "Frosting",
+    "namezh": "糖霜",
+    "color": "#F676D2",
+    "tags": [
+      "Bauhinia",
+      "Project Boomerang"
+    ],
+    "attr": {
+      "Nickname": "Frost (by Jaculus)",
+      "Gender": "Female (cis)",
+      "Age estimation": "Around the same as Jaculus",
+      "Nationality": "Bauhinian",
+      "Occupation": "Government archivist"
+    },
+    "palette": {
+      "hair": "#2E2E2E"
+    },
+    "about": "Frosting grew up in the Project Boomerang laboratory with her parents. She grew up to be a government archivist, tasked with erasing records of disappeared people in addition to whatever archivists usually do. She let Jerboa into the archives to read about Project Boomerang and his parents."
+  },
+  {
     "name": "Jaculus",
     "namezh": "跃鼠",
     "color": "#008bc7",
@@ -1027,26 +1047,6 @@
     "palette": {
       "hair": "#2E2E2E"
     }
-  },
-  {
-    "name": "Frosting",
-    "namezh": "糖霜",
-    "color": "#F676D2",
-    "tags": [
-      "Bauhinia",
-      "Project Boomerang"
-    ],
-    "attr": {
-      "Nickname": "Frost (by Jaculus)",
-      "Gender": "Female (cis)",
-      "Age estimation": "Around the same as Jaculus",
-      "Nationality": "Bauhinian",
-      "Occupation": "Government archivist"
-    },
-    "palette": {
-      "hair": "#2E2E2E"
-    },
-    "about": "Frosting grew up in the Project Boomerang laboratory with her parents. She grew up to be a government archivist, tasked with erasing records of disappeared people in addition to whatever archivists usually do. She let Jerboa into the archives to read about Project Boomerang and his parents."
   },
   {
     "name": "Jerboa",
