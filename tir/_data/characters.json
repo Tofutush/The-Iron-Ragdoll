@@ -42,10 +42,6 @@
       "She loves food.",
       "If she had a lusus, it would be a jackalope."
     ],
-    "insp": [
-      "Homestuck indigobloods",
-      "Diesel from <i>Warriors: Graystripe's Adventure</i> (Pretty out-of-the-blue but yes, it is definitely an inspiration)"
-    ],
     "note": "- The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n- The highlights on her hair goes down, up, and then down.\n- Her pupils point towards the middle! Unless she's looking at somewhere in particular."
   },
   {
@@ -154,11 +150,7 @@
       "apron folds": "#787878",
       "hair": "#2e2e2e"
     },
-    "about": "Ribbon is a bakery owner in Coastline.",
-    "insp": [
-      "Homestuck bronzebloods",
-      "红太狼"
-    ]
+    "about": "Ribbon is a bakery owner in Coastline."
   },
   {
     "name": "Qibli",
@@ -196,10 +188,6 @@
       "Lightning is taken from one of my first OCs ever, a Warrior cat named Lightningtail. (That was before I read Dawn of the Clans.)",
       "If she were ever to have a theme song, it would be titled <i>Hotpot for One（单人火锅）</i>.",
       "If she had a lusus, it would be a husky."
-    ],
-    "insp": [
-      "Myself",
-      "Qibli from <i>Wings of Fire</i> for the name."
     ]
   },
   {
@@ -233,11 +221,6 @@
     "trivia": [
       "He is left-handed.",
       "He has six countryball dolls on his desk, one for each country, that sqeaks when you squish them."
-    ],
-    "insp": [
-      "My friends!",
-      "Yes I mashed up a lot of traits from my friends into him.",
-      "So what."
     ],
     "note": "- Left horn points down, right horn points up."
   },
@@ -871,10 +854,7 @@
     "palette": {
       "shirt": "#5e5e5e",
       "hair": "#2E2E2E"
-    },
-    "insp": [
-      "The animus powers in <i>Wings of Fire</i> that taught me the word (yes Sutherland you human dictionary)"
-    ]
+    }
   },
   {
     "name": "Hyrax",
@@ -1121,10 +1101,6 @@
     },
     "trivia": [
       "If he had a lusus, it would be a jerboa."
-    ],
-    "insp": [
-      "Jerboas (obviously)",
-      "Tintin (for the little pike in his hair)"
     ]
   },
   {
@@ -1321,10 +1297,7 @@
     "palette": {
       "shirt": "#575757",
       "hair": "#2e2e2e"
-    },
-    "insp": [
-      "Homestuck rustbloods"
-    ]
+    }
   },
   {
     "name": "Potato",
@@ -1366,9 +1339,6 @@
       "hair": "#2e2e2e"
     },
     "about": "Cosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
-    "insp": [
-      "Homestuck ceruleanbloods"
-    ],
     "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
   },
   {
@@ -1391,10 +1361,7 @@
     "palette": {
       "hat": "#575757",
       "hair": "#2e2e2e"
-    },
-    "insp": [
-      "Homestuck olivebloods"
-    ]
+    }
   },
   {
     "name": "Alaska",
@@ -1438,9 +1405,6 @@
     },
     "trivia": [
       "If he had a lusus, it would be a desert fox."
-    ],
-    "insp": [
-      "Homestuck tealbloods"
     ]
   },
   {
@@ -1483,9 +1447,6 @@
     },
     "trivia": [
       "If he had a lusus, it would be a sloth."
-    ],
-    "insp": [
-      "Homestuck purplebloods"
     ]
   },
   {
@@ -1504,10 +1465,7 @@
       "glasses": "#666",
       "hair": "#2E2E2E"
     },
-    "about": "Went into a coma after getting hit in the head. Since then, [Ribbon](/characters/ribbon/) had kept him alive.",
-    "insp": [
-      "Homestuck jadebloods"
-    ]
+    "about": "Went into a coma after getting hit in the head. Since then, [Ribbon](/characters/ribbon/) had kept him alive."
   },
   {
     "name": "Sunny",
