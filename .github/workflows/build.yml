@@ -31,7 +31,7 @@ jobs:
           publish_branch: gh-pages
 
       - name: Deploy to neocities
-        uses: bcomnes/deploy-to-neocities@v2.0.2
+        uses: bcomnes/deploy-to-neocities@v3
         with:
           api_token: ${{ secrets.NEOCITIES_API_KEY }}
           cleanup: true
