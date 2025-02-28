@@ -1348,7 +1348,6 @@
     "desc": "Editor of the press!",
     "quote": "If everyone believes it, then it is the truth.",
     "tags": [
-      "Bauhinia",
       "Misc"
     ],
     "attr": {
@@ -1379,7 +1378,6 @@
     "desc": "Quiet badass.",
     "quote": "...",
     "tags": [
-      "Bauhinia",
       "Misc"
     ],
     "attr": {
@@ -1402,10 +1400,8 @@
     "name": "Alaska",
     "namezh": "阿拉斯加",
     "color": "#6C0404",
-    "desc": "Photographer for the press!",
     "quote": "Smile for the camera! Cheese!",
     "tags": [
-      "Bauhinia",
       "Misc"
     ],
     "attr": {
@@ -1425,7 +1421,6 @@
     "desc": "The boss of everything at once, but nothing in particular.",
     "quote": "Sit down everyone. The investigation is underway.",
     "tags": [
-      "Bauhinia",
       "Misc"
     ],
     "attr": {
@@ -1433,7 +1428,6 @@
       "Gender": "Male",
       "Soul": "Gas, flower-shaped like his symbol",
       "Nationality": "Bauhinian",
-      "Occupation": "Secret police officer",
       "Weapon": "Walther P38 pistol"
     },
     "palette": {
@@ -1442,7 +1436,6 @@
       "gun handle": "#757575",
       "hair": "#2e2e2e"
     },
-    "about": "Runs the drug lab in Hillslope. He's the boss of the press, and most people of Hillslope.\n\nBut here's the thing: he's a fucking stupid coward.\n\nHe saw [Starry](/characters/starry/)'s unmoving body lying on the ground (after [Alaska](/characters/alaska/) and immediately freaked out, thinking that [Ribbon](/characters/ribbon/) was going to accuse him. (She did.) So he ran a huge cover-up campaign which ironically implicated him.",
     "trivia": [
       "If he had a lusus, it would be a desert fox."
     ],
@@ -1457,7 +1450,6 @@
     "desc": "Who is this girl and why does she want us to call her Guillotine?",
     "quote": "I'm dead now! You can't kill me!",
     "tags": [
-      "Bauhinia",
       "Misc"
     ],
     "attr": {
@@ -1500,10 +1492,7 @@
     "name": "Starry",
     "namezh": "星星",
     "color": "#CC770F",
-    "desc": "Basically a dead guy already.",
-    "quote": "zzz...",
     "tags": [
-      "Bauhinia",
       "Misc"
     ],
     "attr": {
