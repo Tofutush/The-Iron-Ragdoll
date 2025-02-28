@@ -7,6 +7,11 @@ eleventyNavigation:
   order: 990
 titlezh: 更新日志
 ---
+
+## 2025-02-28
+
+- Added stories [Project Boomerang](/stories/project-boomerang/) and [The Hunt for Tundra](/stories/the-hunt-for-tundra/).
+
 ## 2025-02-27
 
 - Added `signe luna.png` and `xavier.png`.
