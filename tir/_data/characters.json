@@ -6,7 +6,6 @@
     "desc": "Our protagonist! Need I say more?",
     "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
     "tags": [
-      "Hillslope",
       "Coastline",
       "Sparky's Family",
       "Starcorp",
@@ -1477,8 +1476,7 @@
     "desc": "Self-proclaimed mayor of Hillslope!",
     "quote": "What's the big deal?",
     "tags": [
-      "Hillslope",
-      "Misc"
+      "Fanton"
     ],
     "attr": {
       "Gender": "Male",
