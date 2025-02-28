@@ -41,6 +41,8 @@ Except for the capital, all cities and regions in Westavia are called "Area (num
 
 Westavia is a socialist country, a dictatorship of the proletariat. There is a central government, and smaller local governments in each city. The governing party is called the Communist Party of Westavia, or often just "the party."
 
+The second favorite thing the government does in terms of foreign relations, after fighting the cold war, is accuse [Moreland](/world/moreland/) of being revisionist while denying Moreland's accusation that *they* are the revisionists.
+
 ### Agencies
 
 - [Suicide Prevention Force](/world/westavia/spf/), the state security apparatus

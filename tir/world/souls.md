@@ -28,6 +28,8 @@ A body without a soul would usually die biologically within three days to a week
 
 A soul without a body will die under normal circumstances too, within the span of a couple of hours: gas souls would disperse, liquid would evaporate, and solid would just… wear down. However, if a soul is stored in a vacuum, it can live on indefinitely.
 
+Normal death entails the simultaneous death of the body and the soul, which is what normally happens most of the time.
+
 ## Consuming souls
 
 A person can also consume souls. No matter the state, just chug it in your mouth and swallow it. No matter the shape, it's *not* going to scratch your throat.

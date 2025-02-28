@@ -11,6 +11,8 @@ titlezh: 更新日志
 ## 2025-02-28
 
 - Added stories [Project Boomerang](/stories/project-boomerang/) and [The Hunt for Tundra](/stories/the-hunt-for-tundra/).
+- Fixed The Hunt for Tundra displaying Tundra colors. It's just a working title anyways.
+- Edited [Sunflowers in the Dark](/stories/sunflowers-in-the-dark/).
 
 ## 2025-02-27
 
