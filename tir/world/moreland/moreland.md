@@ -31,6 +31,8 @@ The closest geographical mirror to Moreland is Mongolia plus Inner Mongolia.
 
 Moreland is ruled by a military junta, officially named *Armed Forces of the Republic of Moreland*, but affectionately referred to by the people as *The Guardian Moose*, or the "guardians."
 
+The second favorite thing the government does in terms of foreign relations, after fighting the cold war, is accuse [Westavia](/world/westavia/) of being revisionist while denying Westavia's accusation that *they* are the revisionists.
+
 ### Agencies
 
 - [MIA](/world/moreland/mia/), the intelligence agency
