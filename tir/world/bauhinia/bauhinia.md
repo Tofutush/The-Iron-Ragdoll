@@ -80,7 +80,7 @@ See: [History](/world/history/)
 
 Bauhinia used to be a huge empire spanning across almost the entire continent. That was why everyone spoke the same language, totally not because I'm too lazy.
 
-The industrialization of Bauhinia eventually led to a republican revolution where the emperor was overthrown, and the empire collapsed as other countries declared their independences. After the end of the Atlasian / Westavian War, Bauhinia entered a cold war with Moreland, splitting the continent into the north and the south.
+The industrialization of Bauhinia eventually led to a republican revolution where the emperor was overthrown, and the empire collapsed as other countries declared their independencies. After the end of the Atlasian / Westavian War, Bauhinia entered a cold war with Moreland, splitting the continent into the north and the south.
 
 [Fanton](/world/fanton/) took a nominally neutral (though finlandized) stance at the beginning of the cold war, but later Bauhinia launched an invasion which failed to annex Fanton but made them take their side.
 
