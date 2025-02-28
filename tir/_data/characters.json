@@ -878,6 +878,30 @@
     ]
   },
   {
+    "name": "Hyrax",
+    "namezh": "蹄兔",
+    "color": "#66210a",
+    "desc": "Starcorp legend",
+    "tags": [
+      "Cherry-Hyrax Family",
+      "Starcorp",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Male (cis)",
+      "Soul": "Solid",
+      "Age estimation": "Around the same as Peacock",
+      "Nationality": "Bauhinian",
+      "Orientation": "Heterosexual",
+      "Marital status": "Married (to Cherry)",
+      "Occupation": "Chairman"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "Hyrax is the chairman of Starcorp and the father of 5 children — four, actually."
+  },
+  {
     "name": "Sundae",
     "namezh": "圣代",
     "color": "#863094",

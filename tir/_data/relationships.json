@@ -586,6 +586,19 @@
   {
     "ch": [
       [
+        "Beauty",
+        "daughter"
+      ],
+      [
+        "Hyrax",
+        "father"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Chastity",
         "older sister"
       ],
@@ -625,6 +638,19 @@
   {
     "ch": [
       [
+        "Chastity",
+        "daughter"
+      ],
+      [
+        "Hyrax",
+        "father"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Devotion",
         "older sister"
       ],
@@ -651,6 +677,19 @@
   {
     "ch": [
       [
+        "Devotion",
+        "daughter"
+      ],
+      [
+        "Hyrax",
+        "father"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Elegance",
         "older sister"
       ],
@@ -660,6 +699,32 @@
       ]
     ],
     "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Elegance",
+        "daughter"
+      ],
+      [
+        "Hyrax",
+        "father"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Animus",
+        "son"
+      ],
+      [
+        "Hyrax",
+        "father"
+      ]
+    ],
+    "desc": "Ah, the pride of the family. The precious little son. What Animus don't know is that Hyrax is actually his *uncle* — he asked his brother for a son, and he gave Animus to him."
   },
   {
     "ch": [
