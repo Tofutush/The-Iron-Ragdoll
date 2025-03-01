@@ -8,6 +8,7 @@ const markdownItTOC = require('markdown-it-table-of-contents');
 const markdownItExternalLinks = require('markdown-it-external-links');
 const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
 const { minify } = require('html-minifier-terser');
+const beautify = require('js-beautify').html;
 const pinyin = require('chinese-to-pinyin');
 const { iconSVGString, eleventyLucideIconsPlugin } = require('./_plugins/lucideicons');
 const galleryPlugin = require('./_plugins/gallery');
@@ -86,12 +87,11 @@ module.exports = function (eleventyConfig) {
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
-			let minified = await minify(content, {
-				collapseWhitespace: true,
-				minifyCSS: true,
-				minifyJS: true
+			let beautified = beautify(content, {
+				indent_size: 2,
+				preserve_newlines: false
 			});
-			return minified;
+			return beautified;
 		}
 		// If not an HTML output, return content as-is
 		return content;
