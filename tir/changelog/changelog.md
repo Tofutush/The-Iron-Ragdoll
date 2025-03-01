@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-01
+
+- Added a CC-BY-NC-SA license.
+
 ## 2025-02-28
 
 - Added stories [Project Boomerang](/stories/project-boomerang/) and [The Hunt for Tundra](/stories/the-hunt-for-tundra/).
