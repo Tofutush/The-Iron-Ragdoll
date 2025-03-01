@@ -2065,5 +2065,30 @@
     "type": "png",
     "date": "2025-02-27",
     "comment": "Art trade with [Charessel](https://toyhou.se/Charessel), featuring Xavier."
+  },
+  {
+    "name": "paperweight old young",
+    "type": "png",
+    "ch": [
+      "paperweight"
+    ],
+    "date": "2025-03-01",
+    "comment": "Opposites attract entry for the Paracosmist Collective art club!"
+  },
+  {
+    "name": "paperweight old half",
+    "type": "png",
+    "ch": [
+      "paperweight"
+    ],
+    "date": "2025-03-01"
+  },
+  {
+    "name": "paperweight young half",
+    "type": "png",
+    "ch": [
+      "paperweight"
+    ],
+    "date": "2025-03-01"
   }
 ]
