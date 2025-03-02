@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-03
+
+- Edited the two Candlelight stories.
+
 ## 2025-03-02
 
 - Moved January updates to [old](/changelog/old/) because I forgot to yesterday.
