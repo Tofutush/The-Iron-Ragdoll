@@ -74,13 +74,13 @@ h3 {
   line-height: 2;
 }
 
-#main-content h2::before {
+main h2::before {
   content: '# ';
   color: var(--c);
   filter: opacity(.3);
 }
 
-#main-content h3::before {
+main h3::before {
   content: '## ';
   color: var(--c);
   filter: opacity(.3);
@@ -365,7 +365,7 @@ body.dark .footer-img {
   vertical-align: baseline;
 }
 
-#main-content {
+main {
   margin: 2em auto;
   max-width: 800px;
   padding: 0 2em;

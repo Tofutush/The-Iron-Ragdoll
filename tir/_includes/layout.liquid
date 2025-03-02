@@ -23,7 +23,7 @@ navOptions:
   <link rel="icon" href="/icon.ico"/>
   {% if widepage %}
     <style>
-      #main-content {
+      main {
         max-width: 1200px;
       }
     </style>
@@ -39,7 +39,7 @@ navOptions:
   <a href="/world/">World</a>
   <a href="/gallery/2025/">Gallery</a>
 </div>
-<div id="main-content">
+<main>
   {% unless noNav %}
     {% if navTitle %}
       {% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
@@ -61,7 +61,7 @@ navOptions:
     {% endif %}
   {% endunless %}
   {{ content }}
-</div>
+</main>
 {% unless noFooter %}
   <div id="footer">
       <div id="footer-controls">
