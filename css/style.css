@@ -297,7 +297,7 @@ body.dark #title {
 }
 
 #linx>a:hover,
-#license>a:hover {
+.license>a:hover {
   text-decoration: underline;
   color: var(--bg);
 }
@@ -330,7 +330,7 @@ body.dark .footer-img {
   filter: drop-shadow(0 0 16px var(--c));
 }
 
-#license {
+.license {
   font-size: var(--font-size-small);
   padding: .7em;
   background-color: var(--c);
