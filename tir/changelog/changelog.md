@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-03-03
 
 - Edited the two Candlelight stories.
+- Put some character progress stats in the [text list](/characters/list/).
 
 ## 2025-03-02
 
