@@ -580,6 +580,14 @@ hr {
   text-align: right;
 }
 
+.chbuttons {
+  display: inline flex;
+  flex-wrap: wrap;
+  gap: .5em;
+  align-items: center;
+  line-height: 1.5;
+}
+
 .prev-next {
   display: flex;
   flex-wrap: wrap;
