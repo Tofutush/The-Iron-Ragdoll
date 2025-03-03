@@ -85,13 +85,13 @@ Get mutilated beyond recognition and still recover with an able body! Literally 
 
 For each immortal there is *one* thing that can kill them. And you won't know what it is.
 
-Immortality is stored in the bones, and as such it's the only power that can be detected through medical tests. This is the rarest superpower, followed by magic.
+Immortality is stored in the bones, and as such it's the only power that can be detected through medical tests. Since it's in the bones, it comes with the body, unlike the common powers that come with the soul. This is the rarest superpower, followed by magic.
 
 ### Magic
 
 {% figure 'gallery/' 'magic.svg' 200 'Magic symbol' '' 'float-right' %}
 
-- Possessors: [Qibli](/characters/qibli/), [Halcyon](/characters/halcyon/)
+- Possessors: [Qibli](/characters/qibli/), [Trinket](/characters/trinket/), [Halcyon](/characters/halcyon/)
 - People with magic are called magicians
 
 Now, this is the best one of all. Powerful, mystical, and artificially rare (at least in [Bauhinia](/world/bauhinia/)).
@@ -100,7 +100,7 @@ Magicians can do nearly anything they put their minds to. Most of it involve tel
 
 Magicians can choose to take their magic out of their body and into a vessel. Then they can only use their magic if they're physically in contact with the vessel. The magic is still theirs, and still only they can use it. But while all other spells function the same, they *cannot* take the magic back out again unless the vessel is completely broken — for example, snapped in half. Slight chipping doesn't count.
 
-Magic is stored in the blood, but despite that, normal blood taken out of the body loses its magical properties.
+Magic is stored in the blood, but despite that, normal blood taken out of the body loses its magical properties. Therefore, for a long while it is believed that magic is not transferrable. That is, until Qibli found a way to store tiny bits of it in vessels, allowing other people to use them. But even she is unable to give her magic completely to someone else and make them a magician.
 
 ## Arch-people
 
