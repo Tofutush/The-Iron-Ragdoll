@@ -2090,5 +2090,13 @@
       "paperweight"
     ],
     "date": "2025-03-01"
+  },
+  {
+    "name": "trinket thumb",
+    "type": "png",
+    "ch": [
+      "trinket"
+    ],
+    "date": "2025-03-03"
   }
 ]
