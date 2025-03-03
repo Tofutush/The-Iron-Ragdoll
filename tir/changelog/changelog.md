@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Edited the two Candlelight stories.
 - Put some character progress stats in the [text list](/characters/list/).
+- Removed an embarrassing mistake in the theme switch JS.
 
 ## 2025-03-02
 
