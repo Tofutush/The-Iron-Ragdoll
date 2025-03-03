@@ -36,11 +36,5 @@ eleventyNavigation:
   <li>Average pictures per year: {{ gallery.size | divided_by: years.size | round: 3 }}</li>
   <li>Average pictures per month: {{ gallery.size | divided_by: totalMonths | round: 3 }}</li>
   <li>Average characters per picture: {{ totalCh | divided_by: gallery.size | round: 3 }}</li>
-  {% assign thumbs = gallery | filterGalleryByKind: 'thumb' %}
-  <li>Lineless thumbs drawn: {{ thumbs.size }} / {{ characters.size }}</li>
-  {% assign profiles = gallery | filterGalleryByKind: 'thumb new' %}
-  <li>Profile icons drawn: {{ profiles.size }} / {{ characters.size }}</li>
-  {% assign refs = gallery | filterGalleryByKind: 'ref' %}
-  <li>Refs drawn: {{ refs.size | minus: 1 }} / {{ characters.size }}</li>
 </ul>
-<p>See <a href="/characters/list/">here</a> for stats on how many pictures each character has!</p>
+<p>See <a href="/characters/list/">here</a> for stats on what pictures each character has!</p>

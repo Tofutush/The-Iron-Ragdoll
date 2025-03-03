@@ -12,74 +12,111 @@ eleventyNavigation:
 <link rel="stylesheet" href="/css/ch-list.css"/>
 <h1>Characters List</h1>
 <div class="table-container">
-    <table>
-        <thead>
-            <tr>
-                <th>No.</th>
-                <th>Name</th>
-                <th>中文</th>
-                <th>Nationality</th>
-                <th>Image count</th>
-                <th>Color</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for ch in characters %}
-                <tr>
-                    <td>{{ forloop.index }}</td>
-                    <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
-                    <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
-                    <td>{{ ch.attr.Nationality }}</td>
-                    {% assign filteredGallery = gallery | filterGallery: ch.name %}
-                    <td>{{ filteredGallery.size }}</td>
-                    <td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upperCase }}</td>
-                </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+  <table>
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Name</th>
+        <th>中文</th>
+        <th>Image count</th>
+        <th>Color</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for ch in characters %}
+        <tr>
+          <td>{{ forloop.index }}</td>
+          <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
+          <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
+          {% assign filteredGallery = gallery | filterGallery: ch.name %}
+          <td>{{ filteredGallery.size }}</td>
+          <td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upperCase }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+<div class="attr">
+  <div class="attr-key">Needs design</div>
+  <div class="attr-val chbuttons">
+    {% for ch in characters %}
+      {% assign filteredGallery = gallery | filterGallery: ch.name %}
+      {% if filteredGallery.size == 0 %}
+        {% include 'chButton', ch: ch.name %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="attr-key">Needs thumb</div>
+  <div class="attr-val chbuttons">
+    {% for ch in characters %}
+      {% assign filteredGallery = gallery | filterGallery: ch.name %}
+      {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
+      {% if filteredGallery.size != 0 and thumb.size == 0 %}
+        {% include 'chButton', ch: ch.name %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="attr-key">Needs profile</div>
+  <div class="attr-val chbuttons">
+    {% for ch in characters %}
+      {% assign filteredGallery = gallery | filterGallery: ch.name %}
+      {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
+      {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+      {% if thumb.size == 1 and profile.size == 0 %}
+        {% include 'chButton', ch: ch.name %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="attr-key">Needs reference</div>
+  <div class="attr-val chbuttons">
+    {% for ch in characters %}
+      {% assign filteredGallery = gallery | filterGallery: ch.name %}
+      {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+      {% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
+      {% if profile.size == 1 and ref.size == 0 %}
+        {% include 'chButton', ch: ch.name %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="attr-key">All done</div>
+  <div class="attr-val chbuttons">
+    {% for ch in characters %}
+      {% assign filteredGallery = gallery | filterGallery: ch.name %}
+      {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
+      {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+      {% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
+      {% if thumb.size == 1 and profile.size == 1 and ref.size == 1 %}
+        {% include 'chButton', ch: ch.name %}
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
 <script src="/js/sort.js"></script>
 <script>
-    let sort = new SortTable(document.querySelector('table'));
-    sort.addSort({
-        colName: 'No.',
-        keyFunc: (td) => parseInt(td.innerText),
-        sortFunc: SortTable.sortFuncNumber
-    });
-    sort.addSort({
-        colName: 'Name',
-        keyFunc: (td) => td.querySelector('a').innerText,
-        sortFunc: SortTable.sortFuncString
-    });
-    sort.addSort({
-        colName: '中文',
-        keyFunc: (td) => td.querySelector('a').innerText,
-        sortFunc: SortTable.sortFuncZh
-    });
-    sort.addSort({
-        colName: 'Nationality',
-        keyFunc: (td) => td.innerText,
-        sortFunc: (a, b) => {
-            let countries = ['Bauhinian', 'Fantoni', 'Atlasian', 'Westavian', 'Moose', 'Sylvandian'];
-            function get(a) {
-                for(let z = 0; z < countries.length; z++) {
-                    if(a.includes(countries[z])) {
-                        return z;
-                    }
-                }
-                return 10;
-            }
-            return get(a) - get(b);
-        }
-    });
-    sort.addSort({
-        colName: 'Image count',
-        keyFunc: (td) => parseInt(td.innerText),
-        sortFunc: SortTable.sortFuncNumber
-    });
-    sort.addSort({
-        colName: 'Color',
-        keyFunc: (td) => SortTable.RGBToHSL(td.style.backgroundColor),
-        sortFunc: SortTable.sortFuncHSL
-    });
+  let sort = new SortTable(document.querySelector('table'));
+  sort.addSort({
+    colName: 'No.',
+    keyFunc: (td) => parseInt(td.innerText),
+    sortFunc: SortTable.sortFuncNumber
+  });
+  sort.addSort({
+    colName: 'Name',
+    keyFunc: (td) => td.querySelector('a').innerText,
+    sortFunc: SortTable.sortFuncString
+  });
+  sort.addSort({
+    colName: '中文',
+    keyFunc: (td) => td.querySelector('a').innerText,
+    sortFunc: SortTable.sortFuncZh
+  });
+  sort.addSort({
+    colName: 'Image count',
+    keyFunc: (td) => parseInt(td.innerText),
+    sortFunc: SortTable.sortFuncNumber
+  });
+  sort.addSort({
+    colName: 'Color',
+    keyFunc: (td) => SortTable.RGBToHSL(td.style.backgroundColor),
+    sortFunc: SortTable.sortFuncHSL
+  });
 </script>

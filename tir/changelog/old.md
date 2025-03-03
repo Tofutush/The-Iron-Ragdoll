@@ -6,6 +6,102 @@ eleventyNavigation:
   parent: Changelog
 ---
 
+## 2025-01-31
+
+- Added [Area 1](/world/westavia/area-1/).
+- Edited [SPF](/world/westavia/spf/).
+- Edited [Westavia](/world/westavia/).
+- Added `goosebumps.png`.
+
+## 2025-01-30
+
+- World edits.
+- Added `willow ref.png`.
+
+## 2025-01-27
+
+- Made some slight edits.
+- Created a stub [soul](/world/souls/) page.
+
+## 2025-01-24
+
+- Edited some stories.
+- Edited some world pages.
+
+## 2025-01-23
+
+- Added `sparky willow hug.png`.
+- Changed the selection color.
+- Made it show a random picture on the footer.
+	- It's generated at build time so the picture of each page would stay the same unless there is a update! Also there are only 2 pictures at the moment, but I'm going to draw more. Add that on top of my ~50 new icons.
+
+## 2025-01-21
+
+- Added country name pronunciations to their pages. They should be pretty intuitive, but just in case.
+- Changed "The Nuke from Moreland" into "*A* Nuke from Moreland," because I was mixing them all up and needed a standard name.
+- Added a footer image. Now I gotta draw a bunch more and randomly switch between them.
+	- Why do I always add drawing tasks to myself…
+
+## 2025-01-20
+
+- Started to use new profile icons for characters.
+	- Expect me to continue procrastinating.
+- Deleted `collapsible.js`.
+- Added fancy icons to [nav](/nav/).
+- Edited some stories.
+
+## 2025-01-19
+
+- Updated some stories.
+- Styling changes.
+- Redid the tables of contents with `summary/details` instead of `collapsible.js`.
+	- Goal is to delete `collapsible.js` altogether.
+
+## 2025-01-18
+
+- Updated some stories.
+- Added `sparky profile.png` and `trinket profile.png`.
+
+## 2025-01-17
+
+- Edited some world pages.
+- Updated some stories.
+
+## 2025-01-15
+
+- Added `sparky nightsun crossdress.png`.
+
+## 2025-01-14
+
+- Added `peacock exploding butt.png`, `buttercup profile.png`, `goose hidden face.png`, and `sparky gape emoji.png`.
+- Changed the layout a bit.
+	- Not just a bit actually.
+	- Added the [Navigation](/nav/) page.
+
+## 2025-01-12
+
+- Added new scenarios and words in the scenario generator.
+
+## 2025-01-11
+
+- Added new fun page, [scenario generator](/fun/scenarios/).
+
+## 2025-01-04
+
+- Added [Fun](/fun/). Heavy WIP.
+- Added the MSS personality quiz.
+
+## 2025-01-03
+
+- World edits.
+
+## 2025-01-02
+
+- Added a [sortable character list](/characters/list/).
+- Added `zuben el genubi.png`.
+
+---
+
 ## 2024-12-31
 
 - Paginated the gallery by year.
@@ -33,7 +129,7 @@ eleventyNavigation:
 ## 2024-12-24
 
 - Upgraded to 11ty v3.
-  - It was a painful ride, but I did it.
+	- It was a painful ride, but I did it.
 - Story edits.
 
 ## 2024-12-23
@@ -62,13 +158,13 @@ eleventyNavigation:
 ## 2024-12-11
 
 - World edits.
-  - Added page [Creatures](/world/creatures/).
+	- Added page [Creatures](/world/creatures/).
 
 ## 2024-12-10
 
 - Character edits.
 - World edits.
-  - Added page [ISA](/world/isa/).
+	- Added page [ISA](/world/isa/).
 - CSS tweaks.
 
 ## 2024-12-09
@@ -102,17 +198,17 @@ eleventyNavigation:
 ## 2024-11-30
 
 - Added `goose-goose-2.gif`, `goosebump.gif`.
-  - Why'd `goose-goose-2` have hyphens in its name? When'd I do that?
-  - Whatever.
-  - Wait hang on. `goose-float` and `goose-hat` both have hyphens too.
-  - Whatever.
+	- Why'd `goose-goose-2` have hyphens in its name? When'd I do that?
+	- Whatever.
+	- Wait hang on. `goose-float` and `goose-hat` both have hyphens too.
+	- Whatever.
 - Character edits.
 - Redid the RSS feed a little.
 
 ## 2024-11-29
 
 - Character edits.
-  - Added "Age estimation" for some.
+	- Added "Age estimation" for some.
 
 ## 2024-11-28
 
@@ -132,7 +228,7 @@ eleventyNavigation:
 ## 2024-11-24
 
 - Character edits.
-  - Added [Gecko](/characters/gecko/).
+	- Added [Gecko](/characters/gecko/).
 - World edits.
 
 ## 2024-11-21
@@ -233,7 +329,7 @@ eleventyNavigation:
 - Added the date to each comic page.
 - Edited the layout a bit.
 - Added some fancy but meaningless CSS effects.
-  - It was originally fancier, but it was too fancy. So I dialed down the fancy-o-meter.
+	- It was originally fancier, but it was too fancy. So I dialed down the fancy-o-meter.
 
 ## 2024-10-19
 
@@ -342,7 +438,7 @@ eleventyNavigation:
 ## 2024-09-19
 
 - Made the svg line caps round.
-  - Maybe I should start using the icons instead of copying and pasting svgs?
+	- Maybe I should start using the icons instead of copying and pasting svgs?
 - Added `buzz.png`, `mitzi ashford.png`, `odona.png`, `zuperbg.png`.
 - Updated [About](/about/).
 
@@ -375,17 +471,17 @@ eleventyNavigation:
 
 - Added breadcrumbs!
 - Added `tephra walk.gif` and `sparky dragonfly.png`.
-  - I haven't figured out a way to put gifs on here yet sorry.
+	- I haven't figured out a way to put gifs on here yet sorry.
 - Added dates to all the images
-  - I just went through the gallery folder and copied the last modified dates of the files over.
+	- I just went through the gallery folder and copied the last modified dates of the files over.
 - CSS tweaks.
 
 ## 2024-09-13
 
 - Started a changelog because it sounds like a good idea.
 - Cleaned up the CSS a *wee* bit.
-  - Also added some pointless variables.
+	- Also added some pointless variables.
 - Tried link color. It seems to work!
 - Added [Starcorp](/world/bauhinia/starcorp/).
 - Might consider switching to light mode since a lot of the link colors are too dark.
-  - I did it.
+	- I did it.
