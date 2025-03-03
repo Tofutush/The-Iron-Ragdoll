@@ -1,0 +1,9 @@
+{% for story in stories %}
+    <div class="story">
+        <h3><a href="{{ story.page.url }}">{{ story.data.title }}</a></h3>
+        <p class="lighter-text">{% if story.data.comic %}Has comic! - {% endif %}{% if story.data.canon == 'yes' %}Canon{% elsif story.data.canon == 'semi' %}Semi-canon{% else %}Non-canon{% endif %} - {{ story.data.order }}</p>
+        {% if story.data.summary %}
+            {{ story.data.summary | renderMD }}
+        {% endif %}
+    </div>
+{% endfor %}

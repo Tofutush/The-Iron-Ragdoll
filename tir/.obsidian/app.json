@@ -1,0 +1,17 @@
+{
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "/(^_)|(/_)/",
+    "/[cC][sS][sS]/",
+    "/[fF][uU][nN]/",
+    "/[gG][aA][lL][lL][eE][rR][yY]/",
+    "/[iI][mM][gG]/",
+    "/[jJ][sS]/",
+    "/[nN][oO][dD][eE]_[mM][oO][dD][uU][lL][eE][sS]/",
+    "/[fF][oO][nN][tT][sS]/"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "absolute",
+  "readableLineLength": true
+}
