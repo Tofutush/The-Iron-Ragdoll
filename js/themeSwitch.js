@@ -11,6 +11,5 @@
         if (lightDark) localStorage.setItem('light-dark', 0);
         else localStorage.setItem('light-dark', 1);
         lightDark = parseInt(localStorage.getItem('light-dark'));
-        console.log(parseInt(localStorage.getItem('light-dark')));
     });
 })();
