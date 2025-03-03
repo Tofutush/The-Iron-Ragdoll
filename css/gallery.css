@@ -85,11 +85,7 @@
 }
 
 .chbuttons {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .5em;
     justify-content: center;
-    margin: 1em 0;
     max-width: 90vw;
     width: 800px;
 }
