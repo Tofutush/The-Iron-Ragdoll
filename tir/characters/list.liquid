@@ -18,7 +18,6 @@ eleventyNavigation:
                 <th>No.</th>
                 <th>Name</th>
                 <th>中文</th>
-                <th>Nationality</th>
                 <th>Image count</th>
                 <th>Color</th>
             </tr>
@@ -29,7 +28,6 @@ eleventyNavigation:
                     <td>{{ forloop.index }}</td>
                     <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
                     <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
-                    <td>{{ ch.attr.Nationality }}</td>
                     {% assign filteredGallery = gallery | filterGallery: ch.name %}
                     <td>{{ filteredGallery.size }}</td>
                     <td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upperCase }}</td>
@@ -98,22 +96,6 @@ eleventyNavigation:
         colName: '中文',
         keyFunc: (td) => td.querySelector('a').innerText,
         sortFunc: SortTable.sortFuncZh
-    });
-    sort.addSort({
-        colName: 'Nationality',
-        keyFunc: (td) => td.innerText,
-        sortFunc: (a, b) => {
-            let countries = ['Bauhinian', 'Fantoni', 'Atlasian', 'Westavian', 'Moose', 'Sylvandian'];
-            function get(a) {
-                for(let z = 0; z < countries.length; z++) {
-                    if(a.includes(countries[z])) {
-                        return z;
-                    }
-                }
-                return 10;
-            }
-            return get(a) - get(b);
-        }
     });
     sort.addSort({
         colName: 'Image count',
