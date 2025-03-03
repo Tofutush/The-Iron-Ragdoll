@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "baseFontSize": 20,
+  "baseFontSize": 21,
   "enabledCssSnippets": [
     "folder tree",
     "justify",
@@ -11,8 +11,8 @@
     "titlebar background",
     "font weight"
   ],
-  "interfaceFontFamily": "din round pro,微软雅黑",
-  "textFontFamily": "Ubuntu,Crimson Pro,JetBrains Mono,Lexend,霞鹜漫黑,SundayComics BB,Bookerly,霞鹜文楷",
+  "interfaceFontFamily": "Ubuntu,din round pro,微软雅黑",
+  "textFontFamily": "Ubuntu,Crimson Pro,JetBrains Mono,Lexend,SundayComics BB,Bookerly,霞鹜文楷,霞鹜漫黑",
   "cssTheme": "",
   "theme": "moonstone",
   "monospaceFontFamily": "Ubuntu Mono,JetBrains Mono"

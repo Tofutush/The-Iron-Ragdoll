@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-04
+
+- Updated the [overview](/world/overview/).
+- Added a [projects page](/projects/).
+
 ## 2025-03-03
 
 - Edited the two Candlelight stories.
