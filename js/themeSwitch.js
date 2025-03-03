@@ -8,8 +8,8 @@
     toggle.addEventListener('click', e => {
         document.body.classList.toggle('light');
         document.body.classList.toggle('dark');
-        if (lightDark) localStorage.setItem('light-dark', 0);
-        else localStorage.setItem('light-dark', 1);
-        lightDark = parseInt(localStorage.getItem('light-dark'));
+        if (lightDark) lightDark = 0;
+        else lightDark = 1;
+        localStorage.setItem('light-dark', lightDark);
     });
 })();
