@@ -35,7 +35,7 @@ Firecrackers pointed out a house nearby, abandoned during its construction stage
 
 They found no cat, but they did find a nuke.
 
-Sky found it first. It looked new since it was the only thing in the basement not caked in dust, and it had a [Moreland](/world/moreland/) flag on it. He came up from the basement screaming. They all burst into the basement, leaving dirty fingerprints all over the casing. Sparky wanted to keep the nuke for herself -- she meant THEMselves, obviously. Qibli magicked Sparky's phone from her hands (since she didn't have one) and called the police.
+Sky found it first. It looked new since it was the only thing in the basement not caked in dust, and it had a [Moreland](/world/moreland/) flag on it. He came up from the basement screaming. They all burst into the basement, leaving dirty fingerprints all over the casing. Sparky wanted to keep the nuke for herself — she meant THEMselves, obviously. Qibli magicked Sparky's phone from her hands (since she didn't have one) and called the police.
 
 The police were like "what the" and called the [MSS](/world/bauhinia/mss/). Out from an inconspicuous car came Paperweight ("He's going to be hard to deal with," thought Firecrackers), Goose ("She's going to kill me," thought Qibli), Halcyon ("He looks delicious," thought Sparky), and Pumpkin ("I like him," thought Sky).
 
@@ -64,8 +64,6 @@ Eventually Sparky and Firecrackers came back up with the nuke. It was then when 
 Their problem got solved pretty quickly as a blinding bright flashlight shone on them, and they heard Paperweight's infectious voice: "Hands up. Don't move. You're under arrest."
 
 They got shoved in the back of a car and hauled off to an interrogation room at the MSS office in Coastline. They were cuffed together to a heater, which is a funny picture I may or may not draw one day[^1].
-
-[^1]: Why is there a wall heater in Coastline of all places where it never snows? I don't care I like cuffing people to heaters.
 
 Also Paperweight got extremely pissed off at Qibli, because her warmth spells *had* been working, but they got cast on a stalking Paperweight instead of Sky. He almost got a heat stroke.
 
@@ -111,7 +109,7 @@ It was getting late, and it was raining, so Pumpkin drove Sky back home. But as 
 >
 > "I'd report to my boss, then." he said.
 >
-> "What if -- " Pumpkin stopped himself. "This stuff is complicated, but the short story is that you can't just 'report to your boss.'"
+> "What if — " Pumpkin stopped himself. "This stuff is complicated, but the short story is that you can't just 'report to your boss.'"
 >
 > "You have to tell *someone*. Anyone! Officer Goose! Paperweight! Halcyon!"
 >
@@ -190,3 +188,5 @@ sky told his friends about pumpkins car confession.
 
 - [Paperweight's Roadtrip](/stories/paperweights-roadtrip/)
 - [Candlelight Back Home](/stories/candlelight-back-home/)
+
+[^1]: Why is there a wall heater in Coastline of all places where it never snows? I don't care I like cuffing people to heaters.
