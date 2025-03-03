@@ -1,0 +1,16 @@
+---
+layout: layout.liquid
+title: Tags
+desc: Character tags.
+eleventyNavigation:
+  key: Tags
+  parent: Characters
+  order: 1
+---
+
+<h1>Tags</h1>
+<ul>
+    {% for tag in tagsplot %}
+        <li><a href="{{ tag | slug }}/">{% lucide 'tags' %} {{ tag }}</a></li>
+    {% endfor %}
+</ul>

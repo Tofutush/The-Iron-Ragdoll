@@ -8,6 +8,7 @@ const markdownItTOC = require('markdown-it-table-of-contents');
 const markdownItExternalLinks = require('markdown-it-external-links');
 const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
 const { minify } = require('html-minifier-terser');
+const beautify = require('js-beautify').html;
 const pinyin = require('chinese-to-pinyin');
 const { iconSVGString, eleventyLucideIconsPlugin } = require('./_plugins/lucideicons');
 const galleryPlugin = require('./_plugins/gallery');
@@ -15,7 +16,6 @@ const utilPlugin = require('./_plugins/utils');
 const chPlugin = require('./_plugins/ch');
 const relPlugin = require('./_plugins/rel');
 const imagePlugin = require('./_plugins/image');
-const galleryImgs = require('./_data/gallery imgs.json');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -69,16 +69,14 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('fonts');
 	eleventyConfig.addPassthroughCopy('robots.txt');
 	eleventyConfig.addPassthroughCopy('img/gallery/*.gif');
-	eleventyConfig.addPassthroughCopy('_data/graphData.js');
-	galleryImgs.filter(i => i.copy).forEach(i => eleventyConfig.addPassthroughCopy(`img/gallery/${i.name}.${i.type}`));
 	// collections
 	eleventyConfig.addCollection("stories", collection =>
-		collection.getFilteredByGlob('stories/*.md').sort((a, b) => a.data.order - b.data.order)
+		collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => a.data.order - b.data.order)
 	);
 	// filters
 	eleventyConfig.addFilter('slug', slug);
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
-		return arr.filter(s => s.data.chs.includes(ch.toLowerCase()));
+		return arr.filter(s => s.data.chs?.includes(ch.toLowerCase()));
 	});
 	eleventyConfig.addFilter('getimgurl', function (num) {
 		num = parseInt(num);
@@ -89,17 +87,19 @@ module.exports = function (eleventyConfig) {
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
-			let minified = await minify(content, {
-				collapseWhitespace: true,
-				minifyCSS: true,
-				minifyJS: true
+			let beautified = beautify(content, {
+				indent_size: 2,
+				preserve_newlines: false
 			});
-			return minified;
+			return beautified;
 		}
 		// If not an HTML output, return content as-is
 		return content;
 	});
 	return {
+		dir: {
+			input: 'tir'
+		},
 		passthroughFileCopy: true,
 	};
 };

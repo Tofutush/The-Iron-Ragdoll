@@ -1,11 +1,3 @@
-.chbuttons {
-    display: inline flex;
-    flex-wrap: wrap;
-    gap: .5em;
-    align-items: center;
-    line-height: 1.5;
-}
-
 .story {
     border: 8px solid var(--box);
     border-radius: 16px;

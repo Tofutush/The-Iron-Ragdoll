@@ -11,7 +11,7 @@ function chPlugin(eleventyConfig) {
         return chs.filter(c => c.tags?.some(t => t == tag));
     });
     eleventyConfig.addFilter('getFullPalette', function (ch) {
-        return Object.assign({ "accent": ch.color }, ch.palette);
+        return Object.assign({ "soul": ch.color }, ch.palette);
     });
 }
 module.exports = chPlugin;

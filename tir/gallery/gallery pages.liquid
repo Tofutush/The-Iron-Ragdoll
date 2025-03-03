@@ -1,0 +1,32 @@
+---
+layout: galleryLayout.liquid
+pagination:
+  data: years
+  size: 1
+  alias: year
+  addAllPagesToCollections: true
+permalink: "gallery/{{ year }}/"
+eleventyComputed:
+  title: "Gallery {{ year }}"
+  desc: "A bunch of pictures I drew in {{ year }}."
+  eleventyNavigation:
+    key: "Gallery {{ year }}"
+    title: "{{ year }}"
+    parent: Gallery
+---
+{% for month in (1..12) reversed %}
+    {% assign paddedMonth = month | padStart: 2, '0' %}
+    {% assign yearMonth = year | append: '-' | append: paddedMonth %}
+    {% assign filteredGallery = gallery | filterGalleryByDate: yearMonth %}
+    {% if filteredGallery.size > 0 %}
+        <h2 id="{{ month | getMonthName | slug }}">{{ month | getMonthName }}</h2>
+        {% include 'gallery' imgs: filteredGallery %}
+    {% endif %}
+{% endfor %}
+{% assign prev = pagination.previous %}
+{% assign next = pagination.next %}
+{% if prev or next %}
+    <hr/>
+    {% include 'prevnext' prev: prev, next: next %}
+{% endif %}
+<script src="/js/gallery.js"></script>
