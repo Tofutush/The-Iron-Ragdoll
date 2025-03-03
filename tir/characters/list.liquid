@@ -40,7 +40,7 @@ eleventyNavigation:
 </div>
 <div class="attr">
     <div class="attr-key">Needs design</div>
-    <div class="attr-val">
+    <div class="attr-val chbuttons">
         {% for ch in characters %}
             {% assign filteredGallery = gallery | filterGallery: ch.name %}
             {% if filteredGallery.size == 0 %}
@@ -49,7 +49,7 @@ eleventyNavigation:
         {% endfor %}
     </div>
     <div class="attr-key">Needs lineless thumbnail</div>
-    <div class="attr-val">
+    <div class="attr-val chbuttons">
         {% for ch in characters %}
             {% assign filteredGallery = gallery | filterGallery: ch.name %}
             {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
@@ -59,7 +59,7 @@ eleventyNavigation:
         {% endfor %}
     </div>
     <div class="attr-key">Needs profile picture</div>
-    <div class="attr-val">
+    <div class="attr-val chbuttons">
         {% for ch in characters %}
             {% assign filteredGallery = gallery | filterGallery: ch.name %}
             {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
@@ -70,7 +70,7 @@ eleventyNavigation:
         {% endfor %}
     </div>
     <div class="attr-key">Needs profile picture</div>
-    <div class="attr-val">
+    <div class="attr-val chbuttons">
         {% for ch in characters %}
             {% assign filteredGallery = gallery | filterGallery: ch.name %}
             {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
