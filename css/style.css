@@ -339,26 +339,6 @@ body.dark .footer-img {
   user-select: none;
 }
 
-#back-to-top {
-  display: flex;
-  width: 44px;
-  height: 44px;
-  justify-content: center;
-  align-items: center;
-  background-color: var(--box);
-  border-radius: 999px;
-}
-
-#back-to-top a {
-  height: 24px;
-  width: 24px;
-}
-
-#back-to-top a:hover {
-  color: var(--text);
-}
-
-#back-to-top svg,
 .footnote-backref svg,
 .callout svg,
 .breadcrumbs svg {
