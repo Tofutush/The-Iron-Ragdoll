@@ -14,6 +14,8 @@ titlezh: 更新日志
 - Added a [projects page](/projects/).
 - Fixed a problem where a bunch of tags were added to every page without me knowing.
 - Joined the Bolognese webring.
+- Cleaned up the layout a wee bit.
+- Added total number of pictures to [gallery stats](/gallery/stats/). How did I forget about that?
 
 ## 2025-03-03
 
