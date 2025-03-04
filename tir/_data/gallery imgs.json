@@ -2098,5 +2098,48 @@
       "sundae"
     ],
     "date": "2024-12-29"
+  },
+  {
+    "name": "villagers",
+    "type": "png",
+    "ch": [
+      "helsinki",
+      "pumpkin",
+      "candlelight",
+      "mooncake"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "candlelight half",
+    "type": "png",
+    "ch": [
+      "candlelight"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "helsinki half",
+    "type": "png",
+    "ch": [
+      "helsinki"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "mooncake half",
+    "type": "png",
+    "ch": [
+      "mooncake"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "pumpkin curly half",
+    "type": "png",
+    "ch": [
+      "pumpkin"
+    ],
+    "date": "2025-03-04"
   }
 ]
