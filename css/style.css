@@ -257,7 +257,7 @@ details[open] summary::after {
   padding-inline-start: 1em;
 }
 
-#title {
+header {
   color: var(--text);
   padding: 1em 0;
   text-align: center;
@@ -266,12 +266,12 @@ details[open] summary::after {
   font-size: calc(var(--font-size-h1)* 1.5);
 }
 
-#title a {
+header a {
   color: var(--text);
   text-decoration: none;
 }
 
-body.dark #title {
+body.dark header {
   text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
 }
 
@@ -306,17 +306,9 @@ body.dark nav>a:hover {
   text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
 }
 
-#footer {
+footer {
   border-top: 12px solid var(--box);
   padding: 2rem 2rem 0 0;
-}
-
-#footer-controls {
-  display: flex;
-  gap: 1rem;
-  justify-content: flex-end;
-  align-items: center;
-  float: right;
 }
 
 .footer-img {
@@ -339,26 +331,6 @@ body.dark .footer-img {
   user-select: none;
 }
 
-#back-to-top {
-  display: flex;
-  width: 44px;
-  height: 44px;
-  justify-content: center;
-  align-items: center;
-  background-color: var(--box);
-  border-radius: 999px;
-}
-
-#back-to-top a {
-  height: 24px;
-  width: 24px;
-}
-
-#back-to-top a:hover {
-  color: var(--text);
-}
-
-#back-to-top svg,
 .footnote-backref svg,
 .callout svg,
 .breadcrumbs svg {
@@ -482,7 +454,8 @@ code {
   stroke: var(--text);
 }
 
-#theme-toggle {
+.theme-toggle {
+  float: right;
   background-color: var(--c);
   border-radius: 999px;
   cursor: pointer;
@@ -493,7 +466,7 @@ code {
   width: 72px;
 }
 
-#button {
+.theme-toggle>div {
   align-items: center;
   background-color: var(--bg);
   border-radius: 999px;
@@ -505,31 +478,31 @@ code {
   width: 36px;
 }
 
-body.light #button {
+body.light .theme-toggle>div {
   left: 0px;
 }
 
-body.dark #button {
+body.dark .theme-toggle>div {
   left: 36px;
 }
 
-#button svg {
+.theme-toggle>div svg {
   stroke: var(--text);
 }
 
-body.dark #button svg:first-child {
+body.dark .theme-toggle>div svg:first-child {
   display: none;
 }
 
-body.light #button svg:first-child {
+body.light .theme-toggle>div svg:first-child {
   display: block;
 }
 
-body.dark #button svg:last-child {
+body.dark .theme-toggle>div svg:last-child {
   display: block;
 }
 
-body.light #button svg:last-child {
+body.light .theme-toggle>div svg:last-child {
   display: none;
 }
 
