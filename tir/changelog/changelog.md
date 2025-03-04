@@ -16,6 +16,7 @@ titlezh: 更新日志
 - Joined the Bolognese webring.
 - Cleaned up the layout a wee bit.
 - Added total number of pictures to [gallery stats](/gallery/stats/). How did I forget about that?
+- Added an overdue `sundae symmetrical.png`.
 
 ## 2025-03-03
 
