@@ -1144,7 +1144,7 @@
   {
     "name": "Helsinki",
     "namezh": "赫尔辛基",
-    "color": "#46119f",
+    "color": "#5b3896",
     "tags": [
       "Westavia",
       "Nameless Village"
@@ -1153,10 +1153,11 @@
       "Gender": "Female",
       "Age estimation": "Around the same as Pumpkin",
       "Nationality": "Westavian",
-      "Occupation": "Farmer"
+      "Occupation": "Village secretary"
     },
     "palette": {
-      "hair": "#2e2e2e"
+      "shirt": "#C4B0CF",
+      "hair": "#6C4816"
     },
     "about": "Helsinki is a distant relative of [Pumpkin](/characters/pumpkin/)'s, descended from the part of his family that didn't immigrate to [Bauhinia](/world/bauhinia/). She lives in [the village](/world/westavia/pumpkins-village/)."
   },
