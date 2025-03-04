@@ -12,6 +12,8 @@ titlezh: 更新日志
 
 - Updated the [overview](/world/overview/).
 - Added a [projects page](/projects/).
+- Fixed a problem where a bunch of tags were added to every page without me knowing.
+- Joined the Bolognese webring.
 
 ## 2025-03-03
 
