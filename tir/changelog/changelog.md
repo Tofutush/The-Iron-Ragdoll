@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-05
+
+- Renamed "Projects" to [Goals](/goals/).
+- Edited the magic section on [Superpowers in Bauhinia](/world/bauhinia/superpowers/).
+
 ## 2025-03-04
 
 - Updated the [overview](/world/overview/).

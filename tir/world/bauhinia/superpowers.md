@@ -29,6 +29,10 @@ Immortality does not have levels and is registered when they pop up in DNA tests
 
 ## Magic
 
-The Bauhinian government's attitude on magic is peculiar. They are simultaneously eager to exploit them for their power and afraid of magicians gaining too much power. The solution was pretty awesome: make them think that instead of something born into them, magic is a *privilege* — granted by the Bauhinian government.
+Magic has a bit of a history in Bauhinia. During ancient times, the emperors would often call magicians to the capital to serve in the government. They called people with common powers in too, but because the common powers are stored in the soul, it never had an impact on where people with common powers were born. But for magic, flowing in the blood, its origins being a lot of mystery and perhaps a little bit of genetics, the transport of all of them to the south eventually led to most magicians being born in the south. Especially in modern day, more magicians are found in the Republic of Bauhinia than anywhere else.
+
+The result was that Bauhinia now has an absolute advantage in magic. However, the government, especially [Kismet](/characters/kismet/), doesn't *like* that, because he wants not to win the cold war, but to *maintain power*, which entails *prolonging* the war. Who knows what's going to happen to the world order if the war ends? He could never be overthrown inside the status quo!
+
+This led to the Bauhinian government's peculiar attitude on magic. They are simultaneously eager to exploit them for their power and afraid of magicians gaining too much power. The solution was pretty awesome: make them think that instead of something born into them, magic is a *privilege* — granted by the Bauhinian government.
 
 This is why as soon as a magician is discovered, they would be required to store their magic inside a vessel "for their own good." When they grew into adults, they would be required to transfer it to an ID-card look-alike, which is then stored in a government archive, which is exactly what happened to [Halcyon](/characters/halcyon/) after he returned from Moreland.

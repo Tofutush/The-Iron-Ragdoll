@@ -54,7 +54,7 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 
 ## Meta stuff
 
-- [{% lucide 'dices' %} Projects](/projects/)
+- [{% lucide 'goal' %} Goals](/goals/)
 - [{% lucide 'circle-ellipsis' %} Misc](/misc/)
 	- [{% lucide 'torus' %} Buttons and webrings](/misc/links/)
 	- [{% lucide 'thumbs-up' %} Credits](/misc/credits/)

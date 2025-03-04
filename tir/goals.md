@@ -1,9 +1,9 @@
 ---
 layout: article.liquid
-title: Projects
-desc: A list of projects I'm never going to finish.
+title: Goals
+desc: Goals for me. Dreams are worth having.
 eleventyNavigation:
-  key: Projects
+  key: Goals
   parent: Root
 ---
 
@@ -11,7 +11,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 
 ## The Iron Ragdoll
 
-Originally planned as a comic; is now a paracosm after I learnt the word. What this entire site is dedicated to.
+Originally planned as a comic; is now a paracosm after I learnt the word. What this entire site is dedicated to. Though it would probably never reach a "finished" state, I do wanna refine everything I have at the moment.
 
 ## Havoc101
 
