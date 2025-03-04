@@ -64,19 +64,15 @@ navOptions:
 </main>
 {% unless noFooter %}
   <footer>
-      <div id="footer-controls">
-        {% unless theme == 'light' or theme == 'dark' %}
-          <div id="theme-toggle-wrap">
-            <div id="theme-toggle">
-              <div id="button">
-                {% lucide 'sun' %}
-                {% lucide 'moon' %}
-              </div>
-            </div>
+      {% unless theme == 'light' or theme == 'dark' %}
+        <div class="theme-toggle">
+          <div>
+            {% lucide 'sun' %}
+            {% lucide 'moon' %}
           </div>
-          <script src="/js/themeSwitch.js"></script>
-        {% endunless %}
-      </div>
+        </div>
+        <script src="/js/themeSwitch.js"></script>
+      {% endunless %}
       {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
       {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
       {% image 'gallery/' footername 500 footerimg.name 'footer-img' %}

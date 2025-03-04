@@ -311,14 +311,6 @@ footer {
   padding: 2rem 2rem 0 0;
 }
 
-#footer-controls {
-  display: flex;
-  gap: 1rem;
-  justify-content: flex-end;
-  align-items: center;
-  float: right;
-}
-
 .footer-img {
   height: auto;
   max-width: 100%;
@@ -462,7 +454,8 @@ code {
   stroke: var(--text);
 }
 
-#theme-toggle {
+.theme-toggle {
+  float: right;
   background-color: var(--c);
   border-radius: 999px;
   cursor: pointer;
@@ -473,7 +466,7 @@ code {
   width: 72px;
 }
 
-#button {
+.theme-toggle>div {
   align-items: center;
   background-color: var(--bg);
   border-radius: 999px;
@@ -485,31 +478,31 @@ code {
   width: 36px;
 }
 
-body.light #button {
+body.light .theme-toggle>div {
   left: 0px;
 }
 
-body.dark #button {
+body.dark .theme-toggle>div {
   left: 36px;
 }
 
-#button svg {
+.theme-toggle>div svg {
   stroke: var(--text);
 }
 
-body.dark #button svg:first-child {
+body.dark .theme-toggle>div svg:first-child {
   display: none;
 }
 
-body.light #button svg:first-child {
+body.light .theme-toggle>div svg:first-child {
   display: block;
 }
 
-body.dark #button svg:last-child {
+body.dark .theme-toggle>div svg:last-child {
   display: block;
 }
 
-body.light #button svg:last-child {
+body.light .theme-toggle>div svg:last-child {
   display: none;
 }
 
