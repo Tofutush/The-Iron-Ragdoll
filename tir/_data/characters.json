@@ -1523,5 +1523,22 @@
     "tags": [
       "Misc"
     ]
+  },
+  {
+    "name": "Jackalope",
+    "namezh": "鹿角兔",
+    "color": "#b90912",
+    "tags": [
+      "Moreland"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Solid, a tangle of barbed wire",
+      "Nationality": "Moose",
+      "Occupation": "Intelligence officer"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
   }
 ]
