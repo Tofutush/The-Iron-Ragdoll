@@ -890,7 +890,7 @@
     ],
     "attr": {
       "Gender": "Male (cis)",
-      "Soul": "Has 6, an original one and 5 superpowered ones",
+      "Soul": "Has 6, an original one and 5 superpowered ones, rainbow, all gas",
       "Birthday": "1984-06-08",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
@@ -1529,7 +1529,8 @@
     "namezh": "鹿角兔",
     "color": "#b90912",
     "tags": [
-      "Moreland"
+      "Moreland",
+      "Misc"
     ],
     "attr": {
       "Gender": "Female",
