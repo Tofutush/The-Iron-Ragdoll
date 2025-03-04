@@ -63,7 +63,7 @@ navOptions:
   {{ content }}
 </main>
 {% unless noFooter %}
-  <div id="footer">
+  <footer>
       <div id="footer-controls">
         {% unless theme == 'light' or theme == 'dark' %}
           <div id="theme-toggle-wrap">
@@ -83,7 +83,7 @@ navOptions:
       {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
       {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
       {% image 'gallery/' footername 500 footerimg.name 'footer-img' %}
-  </div>
+  </footer>
 {% endunless %}
 <div class="license">The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
