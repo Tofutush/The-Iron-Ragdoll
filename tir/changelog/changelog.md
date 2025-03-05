@@ -14,7 +14,7 @@ titlezh: 更新日志
 - Edited the magic section on [Superpowers in Bauhinia](/world/bauhinia/superpowers/).
 - Added lore page [Biology](/world/biology/).
 - Added [Guardian Moose](/world/moreland/guardian-moose/), and changed MIA to [MIC](/world/moreland/guardian-moose/mic/).
-- Added `cobalt thumb.png`, `nightingale thumb.png`, `skyhawk thumb.png`.
+- Added `cobalt thumb.png`, `nightingale thumb.png`, `skyhawk thumb.png`, `lucky strike.png`, `alistair darius.png`.
 
 ## 2025-03-04
 
