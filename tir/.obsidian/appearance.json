@@ -14,6 +14,6 @@
   "interfaceFontFamily": "din round pro,微软雅黑",
   "textFontFamily": "Lexend,霞鹜漫黑,霞鹜文楷",
   "cssTheme": "",
-  "theme": "moonstone",
-  "monospaceFontFamily": "Ubuntu Mono,JetBrains Mono"
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrains Mono,微软雅黑"
 }
