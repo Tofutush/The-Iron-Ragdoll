@@ -1,0 +1,4473 @@
+{
+  "settings": {
+    "useAdvancedFormatting": true,
+    "countType": "word",
+    "countConfig": {
+      "customSuffix": "",
+      "$sessionCountType": "word"
+    },
+    "countType2": "none",
+    "countConfig2": {
+      "$sessionCountType": "word"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "none",
+    "folderCountConfig": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": true,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "goals.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 388,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2933333333333332,
+      "characterCount": 2286,
+      "nonWhitespaceCharacterCount": 1863,
+      "readingTimeInMinutes": 1.4606037735849056,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740998687148,
+      "modifiedDate": 1741107150983,
+      "sizeInBytes": 2434,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2933333333333332,
+        "wordCount": 388,
+        "characterCount": 2286,
+        "nonWhitespaceCharacterCount": 1863
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Goals",
+        "desc": "Goals for me. Dreams are worth having.",
+        "eleventyNavigation": {
+          "key": "Goals",
+          "parent": "Root"
+        }
+      }
+    },
+    "_obsidian templates/story.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028518,
+      "modifiedDate": 1740962028518,
+      "sizeInBytes": 136,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 2,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "t",
+        "canon": "yes",
+        "order": 104,
+        "chs": null,
+        "location": "<a href=\"/world/\"></a>",
+        "time": null,
+        "titlezh": null,
+        "summary": null
+      }
+    },
+    "_obsidian templates/image.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 59,
+      "nonWhitespaceCharacterCount": 49,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028518,
+      "modifiedDate": 1740962028518,
+      "sizeInBytes": 59,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 59,
+        "nonWhitespaceCharacterCount": 49
+      }
+    },
+    "_obsidian templates/figure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 83,
+      "nonWhitespaceCharacterCount": 72,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028517,
+      "modifiedDate": 1740962028517,
+      "sizeInBytes": 83,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 83,
+        "nonWhitespaceCharacterCount": 72
+      }
+    },
+    "_data/tagsplot.js": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028446,
+      "modifiedDate": 1740962028446,
+      "sizeInBytes": 298,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/relationships.json": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028445,
+      "modifiedDate": 1740962028445,
+      "sizeInBytes": 14248,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/gallery imgs.json": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028422,
+      "modifiedDate": 1741088506987,
+      "sizeInBytes": 45193,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/holidays.json": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028444,
+      "modifiedDate": 1740962028444,
+      "sizeInBytes": 2825,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/hillslopepages.json": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028441,
+      "modifiedDate": 1740962028441,
+      "sizeInBytes": 8092,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/gkpages.json": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028441,
+      "modifiedDate": 1740962028441,
+      "sizeInBytes": 231,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/characters.json": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028407,
+      "modifiedDate": 1740962028408,
+      "sizeInBytes": 42233,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/gallery.js": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028424,
+      "modifiedDate": 1740962028424,
+      "sizeInBytes": 189,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/chapters.js": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028405,
+      "modifiedDate": 1740962028405,
+      "sizeInBytes": 622,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/calendar.js": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028405,
+      "modifiedDate": 1740962028405,
+      "sizeInBytes": 1292,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_data/bhfpages.json": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028404,
+      "modifiedDate": 1740962028404,
+      "sizeInBytes": 159,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/layout.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028493,
+      "modifiedDate": 1741069845315,
+      "sizeInBytes": 3205,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/prevnext.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028495,
+      "modifiedDate": 1740962028496,
+      "sizeInBytes": 243,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/palette.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028495,
+      "modifiedDate": 1740962028495,
+      "sizeInBytes": 335,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/storylist.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028516,
+      "modifiedDate": 1740962028516,
+      "sizeInBytes": 491,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/story.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028506,
+      "modifiedDate": 1740962028506,
+      "sizeInBytes": 1391,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/galleryLayout.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028478,
+      "modifiedDate": 1740962028478,
+      "sizeInBytes": 434,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/gallery.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028468,
+      "modifiedDate": 1740962028469,
+      "sizeInBytes": 1306,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/fileLi.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028468,
+      "modifiedDate": 1740962028468,
+      "sizeInBytes": 136,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/comic.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028467,
+      "modifiedDate": 1741060100401,
+      "sizeInBytes": 2097,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/chs.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028449,
+      "modifiedDate": 1740962028449,
+      "sizeInBytes": 566,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/article.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028447,
+      "modifiedDate": 1740962028447,
+      "sizeInBytes": 211,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/chsLayout.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028449,
+      "modifiedDate": 1741054503737,
+      "sizeInBytes": 998,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/chButton.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028449,
+      "modifiedDate": 1740962028449,
+      "sizeInBytes": 154,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "_includes/arrows.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028446,
+      "modifiedDate": 1740962028447,
+      "sizeInBytes": 666,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "world/biology.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 393,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.31,
+      "characterCount": 2287,
+      "nonWhitespaceCharacterCount": 1865,
+      "readingTimeInMinutes": 1.4830188679245282,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1741107893873,
+      "modifiedDate": 1741137211859,
+      "sizeInBytes": 2476,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.31,
+        "wordCount": 393,
+        "characterCount": 2287,
+        "nonWhitespaceCharacterCount": 1865
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Biology",
+        "desc": "How the off-humans in this world work.",
+        "titlezh": "生物学（？",
+        "eleventyNavigation": {
+          "key": "Biology",
+          "parent": "World"
+        },
+        "tags": [
+          "lore"
+        ]
+      }
+    },
+    "world/westavia/westavia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 350,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1666666666666667,
+      "characterCount": 2613,
+      "nonWhitespaceCharacterCount": 2172,
+      "readingTimeInMinutes": 1.320754716981132,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962029051,
+      "modifiedDate": 1740962029052,
+      "sizeInBytes": 2917,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1666666666666667,
+        "wordCount": 350,
+        "characterCount": 2613,
+        "nonWhitespaceCharacterCount": 2172
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Westavia",
+        "templateEngineOverride": "liquid,md",
+        "eleventyNavigation": {
+          "key": "Westavia",
+          "parent": "World",
+          "order": 4
+        },
+        "desc": "What if alcoholics made a country?",
+        "tags": [
+          "westavia"
+        ],
+        "displayTitle": "The People's Republic of Westavia",
+        "titlezh": "伟思德维亚人民共和国"
+      }
+    },
+    "world/westavia/peoples-vanguard.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 195,
+      "nonWhitespaceCharacterCount": 154,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962029027,
+      "modifiedDate": 1740962029027,
+      "sizeInBytes": 373,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.09,
+        "wordCount": 27,
+        "characterCount": 195,
+        "nonWhitespaceCharacterCount": 154
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "People's Vanguard",
+        "desc": "Capital of Westavia.",
+        "eleventyNavigation": {
+          "key": "People's Vanguard",
+          "parent": "Westavia"
+        },
+        "titlezh": "人民先锋"
+      }
+    },
+    "world/westavia/nameless-village.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 56,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 502,
+      "nonWhitespaceCharacterCount": 412,
+      "readingTimeInMinutes": 0.21132075471698114,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962029015,
+      "modifiedDate": 1740962029015,
+      "sizeInBytes": 723,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18666666666666668,
+        "wordCount": 56,
+        "characterCount": 502,
+        "nonWhitespaceCharacterCount": 412
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Nameless Village",
+        "titlezh": "无名村",
+        "eleventyNavigation": {
+          "key": "Nameless Village",
+          "parent": "Westavia"
+        },
+        "tags": [
+          "nameless-village"
+        ],
+        "desc": "Candlelight's old home, a tiny village."
+      }
+    },
+    "world/westavia/spf.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 115,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38333333333333336,
+      "characterCount": 786,
+      "nonWhitespaceCharacterCount": 652,
+      "readingTimeInMinutes": 0.4339622641509434,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962029039,
+      "modifiedDate": 1740962029039,
+      "sizeInBytes": 998,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.38333333333333336,
+        "wordCount": 115,
+        "characterCount": 786,
+        "nonWhitespaceCharacterCount": 652
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Suicide Prevention Force",
+        "desc": "Westavia's internal security apparatus.",
+        "eleventyNavigation": {
+          "key": "Suicide Prevention Force",
+          "parent": "Westavia"
+        },
+        "titlezh": "轻生防范队"
+      }
+    },
+    "world/westavia/area-3.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 99,
+      "nonWhitespaceCharacterCount": 79,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962029000,
+      "modifiedDate": 1740962029000,
+      "sizeInBytes": 267,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04666666666666667,
+        "wordCount": 14,
+        "characterCount": 99,
+        "nonWhitespaceCharacterCount": 79
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Area 3",
+        "desc": "Former industrial center of Westavia.",
+        "eleventyNavigation": {
+          "key": "Area 3",
+          "parent": "Westavia"
+        },
+        "titlezh": "第三区"
+      }
+    },
+    "world/westavia/area-1.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 33,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11,
+      "characterCount": 198,
+      "nonWhitespaceCharacterCount": 160,
+      "readingTimeInMinutes": 0.12452830188679245,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028977,
+      "modifiedDate": 1740962028977,
+      "sizeInBytes": 357,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11,
+        "wordCount": 33,
+        "characterCount": 198,
+        "nonWhitespaceCharacterCount": 160
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Area 1",
+        "desc": "Economic center of Westavia.",
+        "eleventyNavigation": {
+          "key": "Area 1",
+          "parent": "Westavia"
+        },
+        "titlezh": "第一区"
+      }
+    },
+    "world/westavia/area-29.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 131,
+      "nonWhitespaceCharacterCount": 111,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028987,
+      "modifiedDate": 1740962028987,
+      "sizeInBytes": 308,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05,
+        "wordCount": 15,
+        "characterCount": 131,
+        "nonWhitespaceCharacterCount": 111
+      },
+      "frontmatter": {
+        "layout": "layout.liquid",
+        "title": "Area 29",
+        "desc": "A random city in the middle of nowhere.",
+        "eleventyNavigation": {
+          "key": "Area 29",
+          "parent": "Westavia"
+        },
+        "titlezh": "第二十九区"
+      }
+    },
+    "world/world.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962029052,
+      "modifiedDate": 1740962029052,
+      "sizeInBytes": 1212,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "world/sylvandia/solarine.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028966,
+      "modifiedDate": 1740962028966,
+      "sizeInBytes": 139,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 2,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Solarine",
+        "eleventyNavigation": {
+          "key": "Solarine",
+          "parent": "Sylvandia",
+          "order": 1
+        },
+        "titlezh": "阳州"
+      }
+    },
+    "world/sylvandia/sylvandia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 560,
+      "nonWhitespaceCharacterCount": 466,
+      "readingTimeInMinutes": 0.20754716981132076,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028966,
+      "modifiedDate": 1740962028967,
+      "sizeInBytes": 887,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18333333333333332,
+        "wordCount": 55,
+        "characterCount": 560,
+        "nonWhitespaceCharacterCount": 466
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Sylvandia",
+        "templateEngineOverride": "liquid,md",
+        "eleventyNavigation": {
+          "key": "Sylvandia",
+          "parent": "World",
+          "order": 6
+        },
+        "desc": "What if no one made a country and you're all just smooshed together?",
+        "tags": [
+          "sylvandia"
+        ],
+        "displayTitle": "The Sylvandian Federation",
+        "titlezh": "希尔万迪亚合众国"
+      }
+    },
+    "world/sylvandia/snowdale.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 55,
+      "nonWhitespaceCharacterCount": 45,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028965,
+      "modifiedDate": 1740962028965,
+      "sizeInBytes": 192,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 55,
+        "nonWhitespaceCharacterCount": 45
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Snowdale",
+        "eleventyNavigation": {
+          "key": "Snowdale",
+          "parent": "Sylvandia",
+          "order": 5
+        },
+        "titlezh": "雪镇"
+      }
+    },
+    "world/sylvandia/mistle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028965,
+      "modifiedDate": 1740962028965,
+      "sizeInBytes": 141,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 2,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Mistle",
+        "eleventyNavigation": {
+          "key": "Mistle",
+          "parent": "Sylvandia",
+          "order": 3
+        },
+        "titlezh": "毛毛雨州"
+      }
+    },
+    "world/sylvandia/holliloli.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 40,
+      "nonWhitespaceCharacterCount": 28,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028955,
+      "modifiedDate": 1740962028955,
+      "sizeInBytes": 185,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 40,
+        "nonWhitespaceCharacterCount": 28
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Holliloli",
+        "eleventyNavigation": {
+          "key": "Holliloli",
+          "parent": "Sylvandia",
+          "order": 4
+        },
+        "titlezh": "冬青莉莉"
+      }
+    },
+    "world/sylvandia/lunarale.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 5,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 61,
+      "nonWhitespaceCharacterCount": 51,
+      "readingTimeInMinutes": 0.018867924528301886,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028964,
+      "modifiedDate": 1740962028964,
+      "sizeInBytes": 198,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.016666666666666666,
+        "wordCount": 5,
+        "characterCount": 61,
+        "nonWhitespaceCharacterCount": 51
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Lunarale",
+        "eleventyNavigation": {
+          "key": "Lunarale",
+          "parent": "Sylvandia",
+          "order": 2
+        },
+        "titlezh": "阴州"
+      }
+    },
+    "world/superpowers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1050,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.5,
+      "characterCount": 7128,
+      "nonWhitespaceCharacterCount": 5973,
+      "readingTimeInMinutes": 3.9551698113207547,
+      "linkCount": 21,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028955,
+      "modifiedDate": 1741107863381,
+      "sizeInBytes": 7360,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.5,
+        "wordCount": 1050,
+        "characterCount": 7128,
+        "nonWhitespaceCharacterCount": 5973
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Superpowers",
+        "desc": "Superpowers, common and rare!",
+        "templateEngineOverride": "liquid,md",
+        "tags": [
+          "lore"
+        ],
+        "eleventyNavigation": {
+          "key": "Superpowers",
+          "parent": "World"
+        },
+        "titlezh": "超能力"
+      }
+    },
+    "world/souls.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 502,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6733333333333333,
+      "characterCount": 3152,
+      "nonWhitespaceCharacterCount": 2585,
+      "readingTimeInMinutes": 1.8943396226415095,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028943,
+      "modifiedDate": 1740962028943,
+      "sizeInBytes": 3332,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.6733333333333333,
+        "wordCount": 502,
+        "characterCount": 3152,
+        "nonWhitespaceCharacterCount": 2585
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Souls",
+        "desc": "What are souls and how do they work?",
+        "tags": [
+          "lore"
+        ],
+        "eleventyNavigation": {
+          "key": "Souls",
+          "parent": "World"
+        },
+        "titlezh": "灵魂"
+      }
+    },
+    "world/isa.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 79,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 648,
+      "nonWhitespaceCharacterCount": 548,
+      "readingTimeInMinutes": 0.2981132075471698,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028906,
+      "modifiedDate": 1740962028907,
+      "sizeInBytes": 914,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2633333333333333,
+        "wordCount": 79,
+        "characterCount": 648,
+        "nonWhitespaceCharacterCount": 548
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "International Superpowers Association",
+        "desc": "The international organization for superpowers.",
+        "tags": [
+          "lore"
+        ],
+        "eleventyNavigation": {
+          "key": "International Superpowers Association",
+          "parent": "World"
+        },
+        "titlezh": "国际超能力协会"
+      }
+    },
+    "world/overview.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 495,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.65,
+      "characterCount": 4013,
+      "nonWhitespaceCharacterCount": 3496,
+      "readingTimeInMinutes": 1.8679245283018868,
+      "linkCount": 30,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028932,
+      "modifiedDate": 1741001318976,
+      "sizeInBytes": 4214,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.65,
+        "wordCount": 495,
+        "characterCount": 4013,
+        "nonWhitespaceCharacterCount": 3496
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Overview",
+        "desc": "Your briefing of the TIR world.",
+        "templateEngineOverride": "liquid,md",
+        "tags": [
+          "lore"
+        ],
+        "eleventyNavigation": {
+          "key": "Overview",
+          "parent": "World"
+        },
+        "titlezh": "概览"
+      }
+    },
+    "world/history.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1273,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.243333333333333,
+      "characterCount": 8576,
+      "nonWhitespaceCharacterCount": 7179,
+      "readingTimeInMinutes": 4.80377358490566,
+      "linkCount": 17,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028897,
+      "modifiedDate": 1740962028897,
+      "sizeInBytes": 8749,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.243333333333333,
+        "wordCount": 1273,
+        "characterCount": 8576,
+        "nonWhitespaceCharacterCount": 7179
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "History",
+        "desc": "The history of the world.",
+        "tags": [
+          "lore"
+        ],
+        "eleventyNavigation": {
+          "key": "History",
+          "parent": "World"
+        },
+        "titlezh": "历史"
+      }
+    },
+    "world/moreland/moreland.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 313,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0433333333333332,
+      "characterCount": 2259,
+      "nonWhitespaceCharacterCount": 1863,
+      "readingTimeInMinutes": 1.181132075471698,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028926,
+      "modifiedDate": 1740962028926,
+      "sizeInBytes": 2542,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0433333333333332,
+        "wordCount": 313,
+        "characterCount": 2259,
+        "nonWhitespaceCharacterCount": 1863
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Moreland",
+        "templateEngineOverride": "liquid,md",
+        "eleventyNavigation": {
+          "key": "Moreland",
+          "parent": "World",
+          "order": 5
+        },
+        "desc": "What if introverts made a country?",
+        "tags": [
+          "moreland"
+        ],
+        "displayTitle": "The Republic of Moreland",
+        "titlezh": "莫尔兰共和国"
+      }
+    },
+    "world/moreland/mia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 85,
+      "nonWhitespaceCharacterCount": 73,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028915,
+      "modifiedDate": 1740962028915,
+      "sizeInBytes": 267,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 85,
+        "nonWhitespaceCharacterCount": 73
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Morelandian Intelligence Agency",
+        "eleventyNavigation": {
+          "key": "Morelandian Intelligence Agency",
+          "parent": "Moreland"
+        },
+        "titlezh": "莫尔兰情报局"
+      }
+    },
+    "world/moreland/appaloosa-tribe.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 164,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5466666666666666,
+      "characterCount": 1034,
+      "nonWhitespaceCharacterCount": 848,
+      "readingTimeInMinutes": 0.6029056603773585,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028915,
+      "modifiedDate": 1740962028915,
+      "sizeInBytes": 1243,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5466666666666666,
+        "wordCount": 164,
+        "characterCount": 1034,
+        "nonWhitespaceCharacterCount": 848
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "The Appaloosa Tribe",
+        "desc": "A nomadic tribe in Moreland.",
+        "eleventyNavigation": {
+          "key": "The Appaloosa Tribe",
+          "parent": "Moreland"
+        },
+        "titlezh": "阿波露萨族"
+      }
+    },
+    "world/atlasia/the-capital.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 29,
+      "nonWhitespaceCharacterCount": 20,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028796,
+      "modifiedDate": 1740962028797,
+      "sizeInBytes": 176,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.013333333333333334,
+        "wordCount": 4,
+        "characterCount": 29,
+        "nonWhitespaceCharacterCount": 20
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "The Capital",
+        "templateEngineOverride": "liquid,md",
+        "eleventyNavigation": {
+          "key": "The Capital",
+          "parent": "Atlasia"
+        }
+      }
+    },
+    "world/atlasia/mt-atlas.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 47,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 352,
+      "nonWhitespaceCharacterCount": 297,
+      "readingTimeInMinutes": 0.17735849056603772,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028796,
+      "modifiedDate": 1740962028796,
+      "sizeInBytes": 558,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.15666666666666668,
+        "wordCount": 47,
+        "characterCount": 352,
+        "nonWhitespaceCharacterCount": 297
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Mt. Atlas",
+        "navTitle": "mtatlas",
+        "templateEngineOverride": "liquid,md",
+        "eleventyNavigation": {
+          "key": "mtatlas",
+          "title": "Mt. Atlas",
+          "parent": "Atlasia"
+        },
+        "titlezh": "亚特拉斯山"
+      }
+    },
+    "world/atlasia/atlasia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 617,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.0566666666666666,
+      "characterCount": 4223,
+      "nonWhitespaceCharacterCount": 3505,
+      "readingTimeInMinutes": 2.328301886792453,
+      "linkCount": 18,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028795,
+      "modifiedDate": 1740962028795,
+      "sizeInBytes": 4519,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.0566666666666666,
+        "wordCount": 617,
+        "characterCount": 4223,
+        "nonWhitespaceCharacterCount": 3505
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Atlasia",
+        "templateEngineOverride": "liquid,md",
+        "eleventyNavigation": {
+          "key": "Atlasia",
+          "parent": "World",
+          "order": 3
+        },
+        "desc": "What if Ayn Rand made a country?",
+        "tags": [
+          "atlasia"
+        ],
+        "displayTitle": "The Free Republic of Atlasia",
+        "titlezh": "亚特莱西亚自由共和国"
+      }
+    },
+    "world/fanton/lotus-lake-city/lotus-lake/lotus-lake-temple.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 21,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07,
+      "characterCount": 194,
+      "nonWhitespaceCharacterCount": 168,
+      "readingTimeInMinutes": 0.07924528301886792,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028885,
+      "modifiedDate": 1740962028885,
+      "sizeInBytes": 344,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07,
+        "wordCount": 21,
+        "characterCount": 194,
+        "nonWhitespaceCharacterCount": 168
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Lotus Lake Temple",
+        "eleventyNavigation": {
+          "key": "Lotus Lake Temple",
+          "parent": "Lotus Lake"
+        },
+        "titlezh": "莲花湖寺"
+      }
+    },
+    "world/fanton/lotus-lake-city/lotus-lake/lotus-lake.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 158,
+      "nonWhitespaceCharacterCount": 141,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028886,
+      "modifiedDate": 1740962028886,
+      "sizeInBytes": 296,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04,
+        "wordCount": 12,
+        "characterCount": 158,
+        "nonWhitespaceCharacterCount": 141
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Lotus Lake",
+        "eleventyNavigation": {
+          "key": "Lotus Lake",
+          "parent": "Lotus Lake City"
+        },
+        "titlezh": "莲花湖"
+      }
+    },
+    "world/fanton/lotus-lake-city/lotus-lake-city.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 113,
+      "nonWhitespaceCharacterCount": 99,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028883,
+      "modifiedDate": 1740962028883,
+      "sizeInBytes": 281,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03,
+        "wordCount": 9,
+        "characterCount": 113,
+        "nonWhitespaceCharacterCount": 99
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Lotus Lake City",
+        "eleventyNavigation": {
+          "key": "Lotus Lake City",
+          "parent": "Fanton"
+        },
+        "titlezh": "莲花湖城",
+        "desc": "Capital of Fanton."
+      }
+    },
+    "world/fanton/fantoni-plateau.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 30,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028872,
+      "modifiedDate": 1740962028872,
+      "sizeInBytes": 213,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 41,
+        "nonWhitespaceCharacterCount": 30
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Fantoni Plateau",
+        "eleventyNavigation": {
+          "key": "Fantoni Plateau",
+          "parent": "Fanton"
+        },
+        "titlezh": "范顿高原",
+        "desc": "A really tall plateau."
+      }
+    },
+    "world/fanton/fantoni-basin.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 14,
+      "nonWhitespaceCharacterCount": 7,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028862,
+      "modifiedDate": 1740962028862,
+      "sizeInBytes": 179,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 14,
+        "nonWhitespaceCharacterCount": 7
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Fantoni Basin",
+        "eleventyNavigation": {
+          "key": "Fantoni Basin",
+          "parent": "Fanton"
+        },
+        "titlezh": "范顿盆地",
+        "desc": "A really hot basin."
+      }
+    },
+    "world/fanton/fanton.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 389,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2966666666666666,
+      "characterCount": 2962,
+      "nonWhitespaceCharacterCount": 2476,
+      "readingTimeInMinutes": 1.4679245283018867,
+      "linkCount": 14,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028853,
+      "modifiedDate": 1740962028853,
+      "sizeInBytes": 3236,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2966666666666666,
+        "wordCount": 389,
+        "characterCount": 2962,
+        "nonWhitespaceCharacterCount": 2476
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Fanton",
+        "templateEngineOverride": "liquid,md",
+        "eleventyNavigation": {
+          "key": "Fanton",
+          "parent": "World",
+          "order": 2
+        },
+        "desc": "What if tree-huggers made a country?",
+        "tags": [
+          "fanton"
+        ],
+        "displayTitle": "The Republic of Fanton",
+        "titlezh": "范顿共和国"
+      }
+    },
+    "world/calendar.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028832,
+      "modifiedDate": 1740962028832,
+      "sizeInBytes": 3329,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "world/creatures.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 223,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7433333333333333,
+      "characterCount": 1254,
+      "nonWhitespaceCharacterCount": 995,
+      "readingTimeInMinutes": 0.8415094339622642,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028842,
+      "modifiedDate": 1740962028842,
+      "sizeInBytes": 1428,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7433333333333333,
+        "wordCount": 223,
+        "characterCount": 1254,
+        "nonWhitespaceCharacterCount": 995
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Creatures",
+        "tags": [
+          "lore"
+        ],
+        "desc": "Creatures of the world!",
+        "eleventyNavigation": {
+          "key": "Creatures",
+          "parent": "World"
+        },
+        "titlezh": "小动物"
+      }
+    },
+    "world/bauhinia/froggy-island.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 388,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2933333333333332,
+      "characterCount": 2547,
+      "nonWhitespaceCharacterCount": 2132,
+      "readingTimeInMinutes": 1.4641509433962263,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028812,
+      "modifiedDate": 1740962028812,
+      "sizeInBytes": 2718,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2933333333333332,
+        "wordCount": 388,
+        "characterCount": 2547,
+        "nonWhitespaceCharacterCount": 2132
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Froggy Island",
+        "desc": "Hyrax's personal island.",
+        "eleventyNavigation": {
+          "key": "Froggy Island",
+          "parent": "Bauhinia"
+        },
+        "titlezh": "蛙蛙岛"
+      }
+    },
+    "world/bauhinia/starcorp.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 86,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 674,
+      "nonWhitespaceCharacterCount": 570,
+      "readingTimeInMinutes": 0.32452830188679244,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028820,
+      "modifiedDate": 1740962028820,
+      "sizeInBytes": 870,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2866666666666667,
+        "wordCount": 86,
+        "characterCount": 674,
+        "nonWhitespaceCharacterCount": 570
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Starcorp",
+        "tags": [
+          "starcorp",
+          "cherry-hyrax-family",
+          "sparkys-family"
+        ],
+        "eleventyNavigation": {
+          "key": "Starcorp",
+          "parent": "Bauhinia"
+        },
+        "titlezh": "繁星集团"
+      }
+    },
+    "world/bauhinia/flower-city/ufc.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 146,
+      "nonWhitespaceCharacterCount": 124,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028812,
+      "modifiedDate": 1740962028812,
+      "sizeInBytes": 290,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 146,
+        "nonWhitespaceCharacterCount": 124
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "University of Flower City",
+        "eleventyNavigation": {
+          "key": "University of Flower City",
+          "parent": "Flower City"
+        }
+      }
+    },
+    "world/bauhinia/flower-city/flower-city.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 57,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19,
+      "characterCount": 483,
+      "nonWhitespaceCharacterCount": 404,
+      "readingTimeInMinutes": 0.21509433962264152,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028811,
+      "modifiedDate": 1740962028811,
+      "sizeInBytes": 660,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19,
+        "wordCount": 57,
+        "characterCount": 483,
+        "nonWhitespaceCharacterCount": 404
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Flower City",
+        "desc": "Capital and cultural center of Bauhinia",
+        "eleventyNavigation": {
+          "key": "Flower City",
+          "parent": "Bauhinia"
+        },
+        "titlezh": "花城"
+      }
+    },
+    "world/bauhinia/superpowers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 571,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9033333333333333,
+      "characterCount": 3436,
+      "nonWhitespaceCharacterCount": 2847,
+      "readingTimeInMinutes": 2.1547169811320757,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028832,
+      "modifiedDate": 1741107707080,
+      "sizeInBytes": 3663,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.9033333333333333,
+        "wordCount": 571,
+        "characterCount": 3436,
+        "nonWhitespaceCharacterCount": 2847
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Superpowers in Bauhinia",
+        "eleventyNavigation": {
+          "key": "Superpowers in Bauhinia",
+          "title": "Superpowers",
+          "parent": "Bauhinia"
+        },
+        "titlezh": "紫荆国里的超能力",
+        "desc": "How Bauhinia treats superpowers."
+      }
+    },
+    "world/bauhinia/mss.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 57,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19,
+      "characterCount": 550,
+      "nonWhitespaceCharacterCount": 463,
+      "readingTimeInMinutes": 0.21509433962264152,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028820,
+      "modifiedDate": 1740962028820,
+      "sizeInBytes": 769,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19,
+        "wordCount": 57,
+        "characterCount": 550,
+        "nonWhitespaceCharacterCount": 463
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Ministry of State Security",
+        "eleventyNavigation": {
+          "key": "Ministry of State Security",
+          "parent": "Bauhinia"
+        },
+        "tags": [
+          "ministry-of-state-security"
+        ],
+        "titlezh": "紫荆国国家安全部"
+      }
+    },
+    "world/bauhinia/coastline/safe-house.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 100,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3333333333333333,
+      "characterCount": 801,
+      "nonWhitespaceCharacterCount": 693,
+      "readingTimeInMinutes": 0.37735849056603776,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028810,
+      "modifiedDate": 1740962028811,
+      "sizeInBytes": 913,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3333333333333333,
+        "wordCount": 100,
+        "characterCount": 801,
+        "nonWhitespaceCharacterCount": 693
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Safe house",
+        "eleventyNavigation": {
+          "key": "Safe house",
+          "parent": "Coastline"
+        }
+      }
+    },
+    "world/bauhinia/coastline/hillslope.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 96,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.32,
+      "characterCount": 921,
+      "nonWhitespaceCharacterCount": 744,
+      "readingTimeInMinutes": 0.3622641509433962,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028810,
+      "modifiedDate": 1740962028810,
+      "sizeInBytes": 1073,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.32,
+        "wordCount": 96,
+        "characterCount": 921,
+        "nonWhitespaceCharacterCount": 744
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Hillslope",
+        "tags": [
+          "hillslope"
+        ],
+        "eleventyNavigation": {
+          "key": "Hillslope",
+          "parent": "Coastline"
+        },
+        "titlezh": "小山坡"
+      }
+    },
+    "world/bauhinia/coastline/coastline.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 30,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 319,
+      "nonWhitespaceCharacterCount": 274,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028808,
+      "modifiedDate": 1740962028808,
+      "sizeInBytes": 470,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.1,
+        "wordCount": 30,
+        "characterCount": 319,
+        "nonWhitespaceCharacterCount": 274
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Coastline",
+        "eleventyNavigation": {
+          "key": "Coastline",
+          "parent": "Bauhinia"
+        },
+        "tags": [
+          "coastline"
+        ],
+        "titlezh": "沿海城"
+      }
+    },
+    "world/bauhinia/coastline/cms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 232,
+      "nonWhitespaceCharacterCount": 197,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028808,
+      "modifiedDate": 1740962028808,
+      "sizeInBytes": 432,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04666666666666667,
+        "wordCount": 14,
+        "characterCount": 232,
+        "nonWhitespaceCharacterCount": 197
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Coastline Middle School",
+        "eleventyNavigation": {
+          "key": "Coastline Middle School",
+          "parent": "Coastline"
+        },
+        "tags": [
+          "coastline-middle-school"
+        ],
+        "titlezh": "沿海十一中"
+      }
+    },
+    "world/bauhinia/bauhinia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 610,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.033333333333333,
+      "characterCount": 4532,
+      "nonWhitespaceCharacterCount": 3860,
+      "readingTimeInMinutes": 2.30188679245283,
+      "linkCount": 25,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028804,
+      "modifiedDate": 1741107465501,
+      "sizeInBytes": 4797,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.033333333333333,
+        "wordCount": 610,
+        "characterCount": 4532,
+        "nonWhitespaceCharacterCount": 3860
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Bauhinia",
+        "displayTitle": "The Republic of Bauhinia",
+        "templateEngineOverride": "liquid,md",
+        "eleventyNavigation": {
+          "key": "Bauhinia",
+          "parent": "World",
+          "order": 1
+        },
+        "desc": "What if CEOs made a country?",
+        "tags": [
+          "bauhinia"
+        ],
+        "titlezh": "紫荆共和国"
+      }
+    },
+    "stories/the-yacht-trip.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 268,
+      "nonWhitespaceCharacterCount": 224,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028784,
+      "modifiedDate": 1740962028784,
+      "sizeInBytes": 589,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.12,
+        "wordCount": 36,
+        "characterCount": 268,
+        "nonWhitespaceCharacterCount": 224
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "The Yacht Trip",
+        "canon": "yes",
+        "order": 106,
+        "chs": [
+          "sparky",
+          "peacock",
+          "fantasy",
+          "ironheart",
+          "beauty",
+          "chastity",
+          "devotion",
+          "elegance",
+          "animus"
+        ],
+        "time": 2032,
+        "location": "<a href=\"/world/bauhinia/coastline/\">Coastline</a>",
+        "summary": "The two families go on a vacation."
+      }
+    },
+    "stories/the-hunt-for-tundra.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 84,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.28,
+      "characterCount": 561,
+      "nonWhitespaceCharacterCount": 466,
+      "readingTimeInMinutes": 0.3169811320754717,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028784,
+      "modifiedDate": 1740962028784,
+      "sizeInBytes": 821,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.28,
+        "wordCount": 84,
+        "characterCount": 561,
+        "nonWhitespaceCharacterCount": 466
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "The Hunt for Tundra (working title)",
+        "canon": "yes",
+        "order": 206,
+        "chs": [
+          "tundra",
+          "kismet"
+        ],
+        "location": "<a href=\"/world/fanton/\">Fanton</a>",
+        "time": "2023 - ?",
+        "titlezh": null,
+        "summary": "Bauhinia's president seeks immortality, part 2."
+      }
+    },
+    "stories/tundra-backstory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 200,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6666666666666666,
+      "characterCount": 1259,
+      "nonWhitespaceCharacterCount": 1039,
+      "readingTimeInMinutes": 0.7547169811320755,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028785,
+      "modifiedDate": 1740962028785,
+      "sizeInBytes": 1476,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6666666666666666,
+        "wordCount": 200,
+        "characterCount": 1259,
+        "nonWhitespaceCharacterCount": 1039
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Tundra's Backstory",
+        "canon": "yes",
+        "order": 302,
+        "chs": [
+          "tundra"
+        ],
+        "time": "?",
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>",
+        "summary": "Tundra's backstory.",
+        "titlezh": "冰封雪背景"
+      }
+    },
+    "stories/stories.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028774,
+      "modifiedDate": 1740962028774,
+      "sizeInBytes": 446,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "stories/the-escape.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 104,
+      "nonWhitespaceCharacterCount": 83,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028775,
+      "modifiedDate": 1740962028775,
+      "sizeInBytes": 411,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05333333333333334,
+        "wordCount": 16,
+        "characterCount": 104,
+        "nonWhitespaceCharacterCount": 83
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "The Escape",
+        "canon": "no",
+        "order": 501,
+        "chs": [
+          "firecrackers",
+          "sparky",
+          "tephra",
+          "myriad"
+        ],
+        "time": "Non-canon",
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>",
+        "summary": "A group of outlaws escape the country. betrayals happen and they all get caught instead."
+      }
+    },
+    "stories/sunflowers-in-the-dark.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 328,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0933333333333333,
+      "characterCount": 1972,
+      "nonWhitespaceCharacterCount": 1632,
+      "readingTimeInMinutes": 1.2377358490566037,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028774,
+      "modifiedDate": 1740966012619,
+      "sizeInBytes": 2262,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0933333333333333,
+        "wordCount": 328,
+        "characterCount": 1972,
+        "nonWhitespaceCharacterCount": 1632
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Sunflowers in the Dark (working title)",
+        "canon": "yes",
+        "order": 202,
+        "chs": [
+          "candlelight",
+          "sunflower"
+        ],
+        "location": "<a href=\"/world/westavia/area-1/\">Area 1</a>",
+        "time": "2030",
+        "summary": "Candlelight gets an annoying suicide watch target and ends up quitting his job."
+      }
+    },
+    "stories/pumpkin-backstory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 363,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.21,
+      "characterCount": 2321,
+      "nonWhitespaceCharacterCount": 1926,
+      "readingTimeInMinutes": 1.369811320754717,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028772,
+      "modifiedDate": 1740962028772,
+      "sizeInBytes": 2590,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.21,
+        "wordCount": 363,
+        "characterCount": 2321,
+        "nonWhitespaceCharacterCount": 1926
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Pumpkin's Backstory",
+        "canon": "yes",
+        "order": 305,
+        "chs": [
+          "pumpkin"
+        ],
+        "time": "2003 - present",
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>, <a href=\"/world/westavia/\">Westavia</a>",
+        "summary": "Pumpkin's backstory.",
+        "titlezh": "南瓜背景"
+      }
+    },
+    "stories/project-boomerang.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 106,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 681,
+      "nonWhitespaceCharacterCount": 561,
+      "readingTimeInMinutes": 0.4,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028768,
+      "modifiedDate": 1740962028768,
+      "sizeInBytes": 1056,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.35333333333333333,
+        "wordCount": 106,
+        "characterCount": 681,
+        "nonWhitespaceCharacterCount": 561
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Project Boomerang",
+        "canon": "yes",
+        "order": 205,
+        "chs": [
+          "koala",
+          "kangaroo",
+          "robin",
+          "jaculus",
+          "frosting",
+          "jerboa",
+          "kismet"
+        ],
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>",
+        "time": "2018 - 2021",
+        "titlezh": "回旋镖计划",
+        "summary": "Bauhinia initiated a top-secret project to develop the time machine.",
+        "tags": "project-boomerang"
+      }
+    },
+    "stories/sparky-gets-searched.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 983,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.276666666666667,
+      "characterCount": 3302,
+      "nonWhitespaceCharacterCount": 2665,
+      "readingTimeInMinutes": 2.71622641509434,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028772,
+      "modifiedDate": 1740962028774,
+      "sizeInBytes": 4863,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.276666666666667,
+        "wordCount": 983,
+        "characterCount": 3302,
+        "nonWhitespaceCharacterCount": 2665
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Sparky Gets Searched",
+        "canon": "semi",
+        "order": 401,
+        "chs": [
+          "sparky",
+          "nightsun"
+        ],
+        "time": "After Sparky married Nightsun",
+        "location": "<a href=\"/world/bauhinia/coastline/\">Coastline</a>",
+        "summary": "An MSS officer searches Sparky's apartment."
+      }
+    },
+    "stories/qibli-backstory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 371,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2366666666666666,
+      "characterCount": 2246,
+      "nonWhitespaceCharacterCount": 1839,
+      "readingTimeInMinutes": 1.4,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028772,
+      "modifiedDate": 1740962028772,
+      "sizeInBytes": 2457,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2366666666666666,
+        "wordCount": 371,
+        "characterCount": 2246,
+        "nonWhitespaceCharacterCount": 1839
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Qibli's Backstory",
+        "canon": "yes",
+        "order": 303,
+        "chs": [
+          "qibli"
+        ],
+        "time": "?",
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>",
+        "summary": "Qibli's backstory.",
+        "titlezh": "奇轹背景"
+      }
+    },
+    "stories/pearls-journey-home.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 2,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028762,
+      "modifiedDate": 1740962028762,
+      "sizeInBytes": 607,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 2,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Pearl's Journey Home",
+        "canon": "yes",
+        "order": 105,
+        "chs": [
+          "sparky",
+          "qibli",
+          "sky",
+          "firecrackers",
+          "pearl",
+          "fern",
+          "jackpot",
+          "snake",
+          "halcyon",
+          "buttercup"
+        ],
+        "time": 2032,
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>, <a href=\"/world/fanton/\">Fanton</a>, <a href=\"/world/atlasia/\">Atlasia</a>, <a href=\"/world/moreland/\">Moreland</a>, <a href=\"/world/sylvandia/\">Sylvandia</a>",
+        "summary": "The friends send a kidnapped girl home, all the way across the continent. When the journey ends, everything stays the same, and yet no one is the same anymore."
+      }
+    },
+    "stories/peacock-backstory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 290,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9666666666666667,
+      "characterCount": 1775,
+      "nonWhitespaceCharacterCount": 1434,
+      "readingTimeInMinutes": 1.0943396226415094,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028762,
+      "modifiedDate": 1740962028762,
+      "sizeInBytes": 1992,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9666666666666667,
+        "wordCount": 290,
+        "characterCount": 1775,
+        "nonWhitespaceCharacterCount": 1434
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Peacock's Backstory",
+        "canon": "yes",
+        "order": 301,
+        "chs": [
+          "peacock"
+        ],
+        "time": "?",
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>",
+        "summary": "Peacock's backstory.",
+        "titlezh": "孔雀背景"
+      }
+    },
+    "stories/jackpot-backstory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 225,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.75,
+      "characterCount": 1353,
+      "nonWhitespaceCharacterCount": 1108,
+      "readingTimeInMinutes": 0.8490566037735849,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028748,
+      "modifiedDate": 1740962028748,
+      "sizeInBytes": 1553,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.75,
+        "wordCount": 225,
+        "characterCount": 1353,
+        "nonWhitespaceCharacterCount": 1108
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Jackpot's Backstory",
+        "canon": "yes",
+        "order": 308,
+        "chs": [
+          "jackpot"
+        ],
+        "location": "<a href=\"/world/atlasia/\">Atlasia</a>",
+        "time": null,
+        "titlezh": null,
+        "summary": "Jackpot's backstory."
+      }
+    },
+    "stories/paperweights-roadtrip.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 131,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 810,
+      "nonWhitespaceCharacterCount": 664,
+      "readingTimeInMinutes": 0.49433962264150944,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028760,
+      "modifiedDate": 1740962028762,
+      "sizeInBytes": 1186,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43666666666666665,
+        "wordCount": 131,
+        "characterCount": 810,
+        "nonWhitespaceCharacterCount": 664
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Paperweight's Roadtrip",
+        "canon": "yes",
+        "order": 201,
+        "chs": [
+          "paperweight",
+          "goose"
+        ],
+        "time": "?",
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>",
+        "summary": "Paperweight retires. His apprentice Goose drives him to the Fantoni border. Paperweight opens his tightly-sealed box of memories. This is an unfinished case that Goose has to complete."
+      }
+    },
+    "stories/hillslope-mysteries.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 81,
+      "nonWhitespaceCharacterCount": 64,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028748,
+      "modifiedDate": 1740962028748,
+      "sizeInBytes": 201,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04,
+        "wordCount": 12,
+        "characterCount": 81,
+        "nonWhitespaceCharacterCount": 64
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Hillslope Mysteries",
+        "canon": "no",
+        "order": 101,
+        "summary": "Scrapped story.",
+        "comic": true
+      }
+    },
+    "stories/paperweight-backstory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 248,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8266666666666667,
+      "characterCount": 1589,
+      "nonWhitespaceCharacterCount": 1324,
+      "readingTimeInMinutes": 0.9358490566037736,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028760,
+      "modifiedDate": 1740962028760,
+      "sizeInBytes": 1821,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8266666666666667,
+        "wordCount": 248,
+        "characterCount": 1589,
+        "nonWhitespaceCharacterCount": 1324
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Paperweight's Backstory",
+        "canon": "yes",
+        "order": 307,
+        "chs": [
+          "paperweight"
+        ],
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>",
+        "time": "1978",
+        "titlezh": "镇纸背景",
+        "summary": "Paperweight's backstory."
+      }
+    },
+    "stories/new-year-2032.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 941,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.1366666666666667,
+      "characterCount": 5370,
+      "nonWhitespaceCharacterCount": 4329,
+      "readingTimeInMinutes": 3.550943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028748,
+      "modifiedDate": 1740962028748,
+      "sizeInBytes": 5808,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.1366666666666667,
+        "wordCount": 941,
+        "characterCount": 5370,
+        "nonWhitespaceCharacterCount": 4329
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "New Year 2032",
+        "canon": "yes",
+        "order": 104,
+        "chs": [
+          "sparky",
+          "qibli",
+          "sky",
+          "firecrackers",
+          "amber",
+          "peacock",
+          "fantasy",
+          "willow",
+          "pearl"
+        ],
+        "location": "<a href=\"/world/bauhinia/coastline/\">Coastline</a>, <a href=\"/world/bauhinia/coastline/safe-house/\">Safe House</a>",
+        "time": 2032,
+        "titlezh": "壬子新年",
+        "summary": "Mishap in Sparky's home during the new year leads to shocking discoveries."
+      }
+    },
+    "stories/one-man-short.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 643,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1433333333333335,
+      "characterCount": 3852,
+      "nonWhitespaceCharacterCount": 3139,
+      "readingTimeInMinutes": 2.4264150943396228,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028756,
+      "modifiedDate": 1740962028760,
+      "sizeInBytes": 4233,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.1433333333333335,
+        "wordCount": 643,
+        "characterCount": 3852,
+        "nonWhitespaceCharacterCount": 3139
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "One Man Short",
+        "canon": "yes",
+        "order": 204,
+        "chs": [
+          "cobalt",
+          "nightingale",
+          "skyhawk",
+          "kaleidoscope",
+          "moonbeam"
+        ],
+        "location": "<a href=\"/world/fanton/\">Fanton</a>",
+        "time": "?",
+        "titlezh": "三缺一",
+        "summary": "The disappearance of a friend drags the group down the rabbit hole of Fantoni organized crime.",
+        "tags": [
+          "one-man-short"
+        ]
+      }
+    },
+    "stories/ironheart-assassinated.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 319,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0633333333333332,
+      "characterCount": 1872,
+      "nonWhitespaceCharacterCount": 1508,
+      "readingTimeInMinutes": 1.2037735849056603,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028748,
+      "modifiedDate": 1740962028748,
+      "sizeInBytes": 2214,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0633333333333332,
+        "wordCount": 319,
+        "characterCount": 1872,
+        "nonWhitespaceCharacterCount": 1508
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Ironheart Assassinated",
+        "canon": "yes",
+        "order": 108,
+        "chs": [
+          "ironheart",
+          "sparky",
+          "animus",
+          "cobalt"
+        ],
+        "location": "<a href=\"/world/bauhinia/coastline/\">Coastline</a>",
+        "time": null,
+        "titlezh": "铁心遇刺",
+        "summary": "Ironheart gets assassinated. Fortunately, he survives. Unfortunately, he is no longer Ironheart."
+      }
+    },
+    "stories/hillslope-comic.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028738,
+      "modifiedDate": 1740962028738,
+      "sizeInBytes": 119,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "stories/halcyon-backstory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 438,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.46,
+      "characterCount": 2653,
+      "nonWhitespaceCharacterCount": 2172,
+      "readingTimeInMinutes": 1.6528301886792454,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028738,
+      "modifiedDate": 1740962028738,
+      "sizeInBytes": 2930,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.46,
+        "wordCount": 438,
+        "characterCount": 2653,
+        "nonWhitespaceCharacterCount": 2172
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Halcyon's Backstory",
+        "canon": "yes",
+        "order": 306,
+        "chs": [
+          "halcyon"
+        ],
+        "location": "<a href=\"/world/bauhinia/\">Bauhinia</a>, <a href=\"/world/moreland/\">Moreland</a>",
+        "time": "1991 - 2025",
+        "titlezh": "太平背景",
+        "summary": "Halcyon's backstory"
+      }
+    },
+    "stories/goose-opens-the-door.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 34,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028728,
+      "modifiedDate": 1740962028728,
+      "sizeInBytes": 349,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 47,
+        "nonWhitespaceCharacterCount": 34
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Goose Opens the Door",
+        "canon": "semi",
+        "comic": true,
+        "order": 403,
+        "chs": [
+          "goose",
+          "pumpkin"
+        ],
+        "location": "<a href=\"/world/bauhinia/coastline/\">Coastline</a>",
+        "time": "Before the events of A Nuke from Moreland",
+        "titlezh": "白鹅敲敲门",
+        "summary": "Goose exerts her authority."
+      }
+    },
+    "stories/goose-opens-the-door-comic.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028716,
+      "modifiedDate": 1740962028716,
+      "sizeInBytes": 124,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "stories/cms-mysteries.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 136,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4533333333333333,
+      "characterCount": 946,
+      "nonWhitespaceCharacterCount": 793,
+      "readingTimeInMinutes": 0.5132075471698113,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028709,
+      "modifiedDate": 1740962028709,
+      "sizeInBytes": 1422,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4533333333333333,
+        "wordCount": 136,
+        "characterCount": 946,
+        "nonWhitespaceCharacterCount": 793
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Coastline Middle School Mysteries",
+        "canon": "yes",
+        "order": 102,
+        "chs": [
+          "sparky",
+          "qibli",
+          "sky",
+          "firecrackers",
+          "myriad"
+        ],
+        "time": 2031,
+        "location": "<a href=\"/world/bauhinia/coastline/cms/\">Coastline Middle School</a>",
+        "summary": "Sparky makes friends at school and struggles to catch up because she received like. Zero elementary school education. Also there's a kleptomaniac who keeps stealing her pens.",
+        "titlezh": "沿海十一中扒手案"
+      }
+    },
+    "stories/elegance-kidnapped.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 139,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4633333333333333,
+      "characterCount": 766,
+      "nonWhitespaceCharacterCount": 613,
+      "readingTimeInMinutes": 0.5245283018867924,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028709,
+      "modifiedDate": 1740962028709,
+      "sizeInBytes": 1094,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4633333333333333,
+        "wordCount": 139,
+        "characterCount": 766,
+        "nonWhitespaceCharacterCount": 613
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Elegance Kidnapped",
+        "canon": "yes",
+        "order": 107,
+        "chs": [
+          "sparky",
+          "elegance",
+          "animus",
+          "qibli"
+        ],
+        "time": "?",
+        "location": "<a href=\"/world/bauhinia/coastline/\">Coastline</a>",
+        "summary": "Elegance gets kidnapped. Sparky refuses to leave her side and also gets kidnapped.",
+        "titlezh": "招运绑架案"
+      }
+    },
+    "stories/goose-backstory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 365,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2166666666666666,
+      "characterCount": 2287,
+      "nonWhitespaceCharacterCount": 1893,
+      "readingTimeInMinutes": 1.3773584905660377,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028709,
+      "modifiedDate": 1740962028709,
+      "sizeInBytes": 2561,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2166666666666666,
+        "wordCount": 365,
+        "characterCount": 2287,
+        "nonWhitespaceCharacterCount": 1893
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Goose's Backstory",
+        "canon": "yes",
+        "order": 304,
+        "chs": [
+          "goose"
+        ],
+        "time": "2001 - present",
+        "location": "<a href=\"/world/bauhinia/coastline/\">Coastline</a>, <a href=\"/world/bauhinia/\">Bauhinia</a>",
+        "summary": "Goose's backstory.",
+        "titlezh": "白鹅背景"
+      }
+    },
+    "stories/buttercup-backstory.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 42,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 264,
+      "readingTimeInMinutes": 0.15849056603773584,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028699,
+      "modifiedDate": 1740962028699,
+      "sizeInBytes": 541,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.14,
+        "wordCount": 42,
+        "characterCount": 311,
+        "nonWhitespaceCharacterCount": 264
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Buttercup's Backstory",
+        "canon": "yes",
+        "order": 309,
+        "chs": [
+          "buttercup"
+        ],
+        "location": "<a href=\"/world/sylvandia/lunarale/\">Lunarale</a>",
+        "time": null,
+        "titlezh": "毛茛背景",
+        "summary": "Buttercup's backstory."
+      }
+    },
+    "stories/bramble-comic.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028674,
+      "modifiedDate": 1740962028674,
+      "sizeInBytes": 129,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "stories/brambles-happy-family.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 141,
+      "nonWhitespaceCharacterCount": 114,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028699,
+      "modifiedDate": 1740962028699,
+      "sizeInBytes": 522,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07333333333333333,
+        "wordCount": 22,
+        "characterCount": 141,
+        "nonWhitespaceCharacterCount": 114
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Bramble's Happy Family",
+        "canon": "semi",
+        "order": 402,
+        "comic": true,
+        "chs": [
+          "bramble",
+          "nightsun",
+          "groovy",
+          "sparky",
+          "peacock",
+          "ironheart",
+          "willow",
+          "animus"
+        ],
+        "location": "<a href=\"/world/bauhinia/coastline/\">Coastline</a>",
+        "time": "After Sparky married Nightsun",
+        "titlezh": "荆棘的幸福家庭",
+        "summary": "Bramble talks about his family."
+      }
+    },
+    "stories/candlelight-back-home.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 109,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36333333333333334,
+      "characterCount": 680,
+      "nonWhitespaceCharacterCount": 557,
+      "readingTimeInMinutes": 0.41132075471698115,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028699,
+      "modifiedDate": 1740962028699,
+      "sizeInBytes": 1064,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.36333333333333334,
+        "wordCount": 109,
+        "characterCount": 680,
+        "nonWhitespaceCharacterCount": 557
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "Candlelight Back Home",
+        "canon": "yes",
+        "order": 203,
+        "chs": [
+          "candlelight",
+          "mooncake",
+          "pumpkin",
+          "helsinki"
+        ],
+        "time": "2031",
+        "location": "<a href=\"/world/westavia/nameless-village/\">Nameless Village</a>",
+        "summary": "Candlelight goes back home to his little village, meeting a more-than-friend along the way. Incidents happen.",
+        "titlezh": "烛光回老家"
+      }
+    },
+    "stories/a-nuke-from-moreland.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2011,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.703333333333333,
+      "characterCount": 11699,
+      "nonWhitespaceCharacterCount": 9562,
+      "readingTimeInMinutes": 7.588679245283019,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028665,
+      "modifiedDate": 1740989291058,
+      "sizeInBytes": 12215,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.703333333333333,
+        "wordCount": 2011,
+        "characterCount": 11699,
+        "nonWhitespaceCharacterCount": 9562
+      },
+      "frontmatter": {
+        "layout": "story.liquid",
+        "title": "A Nuke From Moreland",
+        "canon": "yes",
+        "order": 103,
+        "chs": [
+          "sparky",
+          "qibli",
+          "sky",
+          "firecrackers",
+          "goose",
+          "pumpkin",
+          "halcyon",
+          "paperweight",
+          "peacock",
+          "gecko",
+          "lark"
+        ],
+        "time": "2031",
+        "location": "<a href=\"/world/bauhinia/coastline/\">Coastline</a>",
+        "summary": "The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.",
+        "titlezh": "莫尔兰核弹",
+        "tags": [
+          "a-nuke-from-moreland"
+        ]
+      }
+    },
+    "sitemap.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028665,
+      "modifiedDate": 1741051100895,
+      "sizeInBytes": 190,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "sitemap-xml.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028664,
+      "modifiedDate": 1740962028664,
+      "sizeInBytes": 342,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "not_found.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028664,
+      "modifiedDate": 1740962028664,
+      "sizeInBytes": 228,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "linkcolor.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028642,
+      "modifiedDate": 1740962028642,
+      "sizeInBytes": 571,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "index.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 501,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.67,
+      "characterCount": 5064,
+      "nonWhitespaceCharacterCount": 4393,
+      "readingTimeInMinutes": 1.890566037735849,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028632,
+      "modifiedDate": 1741107004067,
+      "sizeInBytes": 5171,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.67,
+        "wordCount": 501,
+        "characterCount": 5064,
+        "nonWhitespaceCharacterCount": 4393
+      },
+      "frontmatter": {
+        "layout": "layout.liquid",
+        "title": "Root",
+        "templateEngineOverride": "liquid,md",
+        "eleventyNavigation": {
+          "key": "Root"
+        }
+      }
+    },
+    "misc/misc.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 4,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 61,
+      "nonWhitespaceCharacterCount": 49,
+      "readingTimeInMinutes": 0.01509433962264151,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028654,
+      "modifiedDate": 1740962028654,
+      "sizeInBytes": 156,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.013333333333333334,
+        "wordCount": 4,
+        "characterCount": 61,
+        "nonWhitespaceCharacterCount": 49
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Misc",
+        "eleventyNavigation": {
+          "key": "Misc",
+          "parent": "Root"
+        }
+      }
+    },
+    "misc/links.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028653,
+      "modifiedDate": 1741060349472,
+      "sizeInBytes": 4697,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "misc/credits.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 217,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7233333333333334,
+      "characterCount": 1491,
+      "nonWhitespaceCharacterCount": 1246,
+      "readingTimeInMinutes": 0.7993584905660378,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028653,
+      "modifiedDate": 1740962028653,
+      "sizeInBytes": 1620,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7233333333333334,
+        "wordCount": 217,
+        "characterCount": 1491,
+        "nonWhitespaceCharacterCount": 1246
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Credits",
+        "eleventyNavigation": {
+          "key": "Credits",
+          "parent": "Misc"
+        }
+      }
+    },
+    "contact.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028579,
+      "modifiedDate": 1740962028579,
+      "sizeInBytes": 447,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "fun/fun.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028582,
+      "modifiedDate": 1740962028582,
+      "sizeInBytes": 230,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "fun/scenarios.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028603,
+      "modifiedDate": 1740962028603,
+      "sizeInBytes": 3028,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "fun/mss-quiz.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028591,
+      "modifiedDate": 1740962028591,
+      "sizeInBytes": 299,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "gallery/stats.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028617,
+      "modifiedDate": 1741070278096,
+      "sizeInBytes": 1732,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "gallery/gallery.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028617,
+      "modifiedDate": 1740962028617,
+      "sizeInBytes": 156,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "gallery/gallery pages.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028611,
+      "modifiedDate": 1740962028611,
+      "sizeInBytes": 1034,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "about.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 472,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5733333333333333,
+      "characterCount": 2978,
+      "nonWhitespaceCharacterCount": 2447,
+      "readingTimeInMinutes": 1.7687169811320755,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028527,
+      "modifiedDate": 1740962028527,
+      "sizeInBytes": 3157,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5733333333333333,
+        "wordCount": 472,
+        "characterCount": 2978,
+        "nonWhitespaceCharacterCount": 2447
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "About",
+        "desc": "About The Iron Ragdoll.",
+        "eleventyNavigation": {
+          "key": "About",
+          "parent": "Root",
+          "order": 2
+        },
+        "titlezh": "关于"
+      }
+    },
+    "changelog/old.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1252,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.173333333333333,
+      "characterCount": 10938,
+      "nonWhitespaceCharacterCount": 8699,
+      "readingTimeInMinutes": 4.71211320754717,
+      "linkCount": 41,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028532,
+      "modifiedDate": 1740962028533,
+      "sizeInBytes": 11074,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.173333333333333,
+        "wordCount": 1252,
+        "characterCount": 10938,
+        "nonWhitespaceCharacterCount": 8699
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Older Updates",
+        "eleventyNavigation": {
+          "key": "Older Updates",
+          "parent": "Changelog"
+        }
+      }
+    },
+    "changelog/changelog.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 783,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.61,
+      "characterCount": 6441,
+      "nonWhitespaceCharacterCount": 5485,
+      "readingTimeInMinutes": 2.9547169811320755,
+      "linkCount": 43,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028531,
+      "modifiedDate": 1741108878035,
+      "sizeInBytes": 6577,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.61,
+        "wordCount": 783,
+        "characterCount": 6441,
+        "nonWhitespaceCharacterCount": 5485
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Changelog",
+        "eleventyNavigation": {
+          "key": "Changelog",
+          "parent": "Root",
+          "order": 990
+        },
+        "titlezh": "更新日志"
+      }
+    },
+    "characters.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028533,
+      "modifiedDate": 1740962028533,
+      "sizeInBytes": 186,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "characters/tag.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028566,
+      "modifiedDate": 1740962028566,
+      "sizeInBytes": 294,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "characters/tags.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028579,
+      "modifiedDate": 1741054286866,
+      "sizeInBytes": 442,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "characters/relationships/relationships.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028560,
+      "modifiedDate": 1740962028560,
+      "sizeInBytes": 780,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "characters/relationships/data.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028558,
+      "modifiedDate": 1740962028558,
+      "sizeInBytes": 600,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "characters/files/mssperms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 58,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 348,
+      "nonWhitespaceCharacterCount": 271,
+      "readingTimeInMinutes": 0.2188679245283019,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028555,
+      "modifiedDate": 1740962028555,
+      "sizeInBytes": 348,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19333333333333333,
+        "wordCount": 58,
+        "characterCount": 348,
+        "nonWhitespaceCharacterCount": 271
+      }
+    },
+    "characters/files/globalperms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 242,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8066666666666666,
+      "characterCount": 1493,
+      "nonWhitespaceCharacterCount": 1188,
+      "readingTimeInMinutes": 0.9132075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028555,
+      "modifiedDate": 1740962028555,
+      "sizeInBytes": 1493,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8066666666666666,
+        "wordCount": 242,
+        "characterCount": 1493,
+        "nonWhitespaceCharacterCount": 1188
+      }
+    },
+    "characters/files/files.json": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028543,
+      "modifiedDate": 1740962028543,
+      "sizeInBytes": 28,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "characters/minor.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 155,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5166666666666667,
+      "characterCount": 1808,
+      "nonWhitespaceCharacterCount": 1493,
+      "readingTimeInMinutes": 0.5849056603773585,
+      "linkCount": 23,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028558,
+      "modifiedDate": 1740962028558,
+      "sizeInBytes": 1945,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5166666666666667,
+        "wordCount": 155,
+        "characterCount": 1808,
+        "nonWhitespaceCharacterCount": 1493
+      },
+      "frontmatter": {
+        "layout": "article.liquid",
+        "title": "Minor Characters",
+        "eleventyNavigation": {
+          "key": "Minor Characters",
+          "parent": "Characters",
+          "order": 2
+        }
+      }
+    },
+    "characters/list.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028555,
+      "modifiedDate": 1740962028555,
+      "sizeInBytes": 4262,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "characters/characterinfo.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 114,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38,
+      "characterCount": 673,
+      "nonWhitespaceCharacterCount": 553,
+      "readingTimeInMinutes": 0.43018867924528303,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740962028534,
+      "modifiedDate": 1740989192532,
+      "sizeInBytes": 673,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.38,
+        "wordCount": 114,
+        "characterCount": 673,
+        "nonWhitespaceCharacterCount": 553
+      }
+    },
+    "characters/characters.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028543,
+      "modifiedDate": 1740962028543,
+      "sizeInBytes": 5744,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "404.liquid": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740962028392,
+      "modifiedDate": 1740962028392,
+      "sizeInBytes": 222,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    }
+  }
+}
