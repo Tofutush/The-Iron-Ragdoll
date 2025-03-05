@@ -14,7 +14,7 @@ The people in TIR are just "humans." But not really since they have ears and hor
 
 Ear and horn shapes are affected by genetics; i.e. you'll look similar to your parents in terms of ear / horn shape.
 
-You can split them into roughly three races based on what they have.
+You can split them into roughly three races based on what they have: unicorns, bicorns, and aurians.
 
 Mixed races don't exist… for now. At least until I figure out how they would look without making their heads too heavy.
 
@@ -24,7 +24,7 @@ Horned-people have their horn colors the same as their soul colors. The horns ar
 
 A horned-person's horns usually gets set in place when they reach 18, when their bones have typically set in place.
 
-In the past, underground horn markets were really big as people believed the grinded horn powder can cure diseases, or that some people would just like them as decorations. In modern times, as education spread and ways of synthesizing the material are developed, the former kind of people had greatly reduced, though the latter still exist.
+In the past, underground horn markets were really big because people believed the grinded horn powder can cure diseases, or because some people — especially aurians — would just like them as decorations. In modern times, as education spread and ways of synthesizing the material are developed, the former kind of people had greatly reduced, though the latter still exist.
 
 ### Unicorns
 
@@ -34,7 +34,9 @@ People with one horn in the center of their foreheads. Most live near the north 
 
 People with two horns. Most live near the center of the continent.
 
-Bicorns shed their horns once in their lifetime, usually at the start of puberty.
+Bicorns shed their horns once in their lifetime, usually at the start of puberty. The new horns that grow in their place would be identical.
+
+Like teeth, people would sometimes put the shed horns on the rooftop or a mountain, hoping that it would make the new horns grow tall faster. Or perhaps they would sell it themselves, though parents are usually against this since it's seen as just really creepy and bad-luck-inducing. Most of the time they go straight into the trash though.
 
 ## Ears (Aurians)
 
