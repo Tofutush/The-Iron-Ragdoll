@@ -11,7 +11,7 @@ eleventyNavigation:
 titlezh: 概览
 ---
 
-A brief overview of the world!
+A brief overview of the world to get you a most basic idea of what this paracosm entails!
 
 So, there is a continent that as far as we're concerned is the entire world unless one day I just snap and create another continent out there.
 
@@ -39,6 +39,14 @@ The main focus here is [Bauhinia](/world/bauhinia/), a bureaucratical fanatical 
 
 There's a company called [Starcorp](/world/bauhinia/starcorp/), the most powerful company in Bauhinia (and undoubtedly the whole world), having gotten rich during the war through arms dealing. Now Starcorp controls most of Bauhinia's industries and resources. Starcorp's chairman is [Hyrax](/characters/minor/#hyrax), who has a best friend and personal attorney [Peacock](/characters/peacock/), who has a stepdaughter [Sparky](/characters/sparky/) who is the main character of our story. The story follows Sparky as she solves mysteries everywhere she goes, while trying to understand the world around her. But what Sparky spends her whole life trying to understand is now dumped completely to you on this little webbed site. Say thank me now.
 
-Later, after Sparky grew up, Hyrax had his son [Animus](/characters/animus/) replace him as the chairman. Hyrax also had Sparky become Animus's bodyguard and Peacock's son [Ironheart](/characters/ironheart/) become the CEO. Keep it in the family, right?
+Later, after Sparky grew up, Hyrax had his son [Animus](/characters/animus/) replace him as the chairman. Hyrax also had Sparky become Animus's bodyguard and Peacock's son [Ironheart](/characters/ironheart/) become the CEO. Keep it in the family, right? Sparky also married a [husband](/characters/nightsun/) and adopted the [son](/characters/bramble/) of her late [stepsister](/characters/fantasy/).
+
+Hyrax and [Kismet](/characters/kismet/), the ~~dictator~~ president of Bauhinia, also know each other. Kismet, after turning into the most overpowered Gary Stu of the world, is on a [crusade in pursuit of immortality](/stories/the-hunt-for-tundra/).
+
+In Fanton, a [group of friends tries to find their missing friend](/stories/one-man-short/).
+
+In Westavia, we follow [Candlelight](/characters/candlelight/) as he struggles to find belonging.
+
+(Despite these other storylines that I've been developing, Sparky's still remains the most important! Because Sparky is in the center of the universe!)
 
 Okay that's about it for the overview. Read about the ~~plot devices~~ [superpowers](/world/superpowers/) some people in this world have. Or read about the [history](/world/history/) of the countries!

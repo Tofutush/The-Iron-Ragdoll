@@ -30,7 +30,7 @@ navOptions:
   {% endif %}
 </head>
 <body class="{% if theme == 'light' or theme == 'dark' %}{{ theme }}{% else %}light{% endif %}">
-<div id="title"><a href="/">The Iron Ragdoll</a></div>
+<header><a href="/">The Iron Ragdoll</a></header>
 <nav>
   <a href="#top">(Top)</a>
   <a href="/about/">About</a>
@@ -63,27 +63,20 @@ navOptions:
   {{ content }}
 </main>
 {% unless noFooter %}
-  <div id="footer">
-      <div id="footer-controls">
-        {% unless theme == 'light' or theme == 'dark' %}
-          <div id="theme-toggle-wrap">
-            <div id="theme-toggle">
-              <div id="button">
-                {% lucide 'sun' %}
-                {% lucide 'moon' %}
-              </div>
-            </div>
+  <footer>
+      {% unless theme == 'light' or theme == 'dark' %}
+        <div class="theme-toggle">
+          <div>
+            {% lucide 'sun' %}
+            {% lucide 'moon' %}
           </div>
-          <script src="/js/themeSwitch.js"></script>
-        {% endunless %}
-        {% comment %} <div id="back-to-top">
-          <a href="#top">{% lucide 'arrow-up-to-line' %}</a>
-        </div> {% endcomment %}
-      </div>
+        </div>
+        <script src="/js/themeSwitch.js"></script>
+      {% endunless %}
       {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
       {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
       {% image 'gallery/' footername 500 footerimg.name 'footer-img' %}
-  </div>
+  </footer>
 {% endunless %}
 <div class="license">The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>

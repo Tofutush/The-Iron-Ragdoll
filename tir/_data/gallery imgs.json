@@ -544,25 +544,16 @@
   {
     "name": "starcorp flag",
     "type": "svg",
-    "ch": [
-      "starcorp"
-    ],
     "date": "2024-03-09"
   },
   {
     "name": "starcorp logo",
     "type": "svg",
-    "ch": [
-      "starcorp"
-    ],
     "date": "2024-07-13"
   },
   {
     "name": "starcorp private security logo",
     "type": "svg",
-    "ch": [
-      "starcorp"
-    ],
     "date": "2024-07-13"
   },
   {
@@ -2098,6 +2089,84 @@
       "trinket"
     ],
     "date": "2025-03-03",
+    "kind": "thumb"
+  },
+  {
+    "name": "sundae symmetrical",
+    "type": "png",
+    "ch": [
+      "sundae"
+    ],
+    "date": "2024-12-29"
+  },
+  {
+    "name": "villagers",
+    "type": "png",
+    "ch": [
+      "helsinki",
+      "pumpkin",
+      "candlelight",
+      "mooncake"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "candlelight half",
+    "type": "png",
+    "ch": [
+      "candlelight"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "helsinki half",
+    "type": "png",
+    "ch": [
+      "helsinki"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "mooncake half",
+    "type": "png",
+    "ch": [
+      "mooncake"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "pumpkin curly half",
+    "type": "png",
+    "ch": [
+      "pumpkin"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "cobalt thumb",
+    "type": "png",
+    "ch": [
+      "cobalt"
+    ],
+    "date": "2025-03-05",
+    "kind": "thumb"
+  },
+  {
+    "name": "nightingale thumb",
+    "type": "png",
+    "ch": [
+      "nightingale"
+    ],
+    "date": "2025-03-05",
+    "kind": "thumb"
+  },
+  {
+    "name": "skyhawk thumb",
+    "type": "png",
+    "ch": [
+      "skyhawk"
+    ],
+    "date": "2025-03-05",
     "kind": "thumb"
   }
 ]
