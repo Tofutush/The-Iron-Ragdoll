@@ -1,10 +1,10 @@
 ---
 layout: article.liquid
-title: Biology
-desc: How the off-humans in this world work.
-titlezh: 生物学（？
+title: Races
+desc: The types of off-humans in this world.
+titlezh: 种族
 eleventyNavigation:
-  key: Biology
+  key: Races
   parent: World
 tags:
   - lore
@@ -16,7 +16,11 @@ Ear and horn shapes are affected by genetics; i.e. you'll look similar to your p
 
 You can split them into roughly three races based on what they have: unicorns, bicorns, and aurians.
 
-Mixed races don't exist… for now. At least until I figure out how they would look without making their heads too heavy.
+Mixed races don't exist… for now. At least until I figure out how they would look without making their heads too heavy. For now, a kid with parents of different races would only present as one of them.
+
+Cultures are less determined by race than other factors, and despite there being a general idea of which races are more prominent in which areas, they're still kind of all over the place. Constant mingling had greatly reduced the barrier between races (a barrier that shouldn't have existed in the first place), though the fact that the Bauhinian Royal Family and their closest allies were all aurians led to some discrimination against horned-people, such as the widespread belief in the medical use of horns.
+
+Ultimately, races in TIR are more character design traits than anything.
 
 ## Horns
 
@@ -24,7 +28,7 @@ Horned-people have their horn colors the same as their soul colors. The horns ar
 
 A horned-person's horns usually gets set in place when they reach 18, when their bones have typically set in place.
 
-In the past, underground horn markets were really big because people believed the grinded horn powder can cure diseases, or because some people — especially aurians — would just like them as decorations. In modern times, as education spread and ways of synthesizing the material are developed, the former kind of people had greatly reduced, though the latter still exist.
+In the past, underground horn markets were really big because people believed the grinded horn powder can cure diseases, or because some people — especially aurians — would just like them as decorations. In modern times, as education spread and ways of synthesizing the material are developed, both kinds of people are greatly reduced — not zero, but few enough for this to be an abandoned crude tradition.
 
 ### Unicorns
 
