@@ -35,7 +35,8 @@ The second favorite thing the government does in terms of foreign relations, aft
 
 ### Agencies
 
-- [MIA](/world/moreland/mia/), the intelligence agency
+- [Armed Forces of the Republic of Moreland](/world/moreland/guardian-moose/)
+	- [Military Intelligence Corps](/world/moreland/guardian-moose/mic/)
 
 ### Military service
 

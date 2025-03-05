@@ -1,12 +1,8 @@
-/* no ellipsis*/
-.nav-file-title-content {
-white-space: wrap;
-}
-
 /* folder bold*/
 .nav-folder-title {
-font-weight: bold !important;
+    font-weight: bold !important;
 }
+
 .nav-folder-title:hover {
-font-weight:bold !important;
+    font-weight: bold !important;
 }
