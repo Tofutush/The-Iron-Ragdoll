@@ -2141,5 +2141,32 @@
       "pumpkin"
     ],
     "date": "2025-03-04"
+  },
+  {
+    "name": "cobalt thumb",
+    "type": "png",
+    "ch": [
+      "cobalt"
+    ],
+    "date": "2025-03-05",
+    "kind": "thumb"
+  },
+  {
+    "name": "nightingale thumb",
+    "type": "png",
+    "ch": [
+      "nightingale"
+    ],
+    "date": "2025-03-05",
+    "kind": "thumb"
+  },
+  {
+    "name": "skyhawk thumb",
+    "type": "png",
+    "ch": [
+      "skyhawk"
+    ],
+    "date": "2025-03-05",
+    "kind": "thumb"
   }
 ]
