@@ -8,6 +8,25 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-05
+
+- Renamed "Projects" to [Goals](/goals/).
+- Edited the magic section on [Superpowers in Bauhinia](/world/bauhinia/superpowers/).
+- Added lore page [Biology](/world/biology/).
+- Added [Guardian Moose](/world/moreland/guardian-moose/), and changed MIA to [MIC](/world/moreland/guardian-moose/mic/).
+- Added `cobalt thumb.png`, `nightingale thumb.png`, `skyhawk thumb.png`.
+
+## 2025-03-04
+
+- Updated the [overview](/world/overview/).
+- Added a [projects page](/projects/).
+- Fixed a problem where a bunch of tags were added to every page without me knowing.
+- Joined the Bolognese webring.
+- Cleaned up the layout a wee bit.
+- Added total number of pictures to [gallery stats](/gallery/stats/). How did I forget about that?
+- Added an overdue `sundae symmetrical.png`.
+- Added `villagers.png` and the respective pictures for each character.
+
 ## 2025-03-03
 
 - Edited the two Candlelight stories.
