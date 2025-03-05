@@ -5,11 +5,11 @@
     "folder tree",
     "justify",
     "line height",
-    "properties",
     "icon ratio",
-    "border",
     "titlebar background",
-    "font weight"
+    "font weight",
+    "properties",
+    "word count"
   ],
   "interfaceFontFamily": "din round pro,微软雅黑",
   "textFontFamily": "Lexend,霞鹜漫黑,霞鹜文楷",
