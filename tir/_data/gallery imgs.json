@@ -2180,5 +2180,32 @@
     "type": "png",
     "date": "2025-03-05",
     "comment": "Forum game art for [Gannsi](https://toyhou.se/Gannsi), featuring Alistair and Darius."
+  },
+  {
+    "name": "candlelight thumb",
+    "type": "png",
+    "ch": [
+      "candlelight"
+    ],
+    "date": "2025-03-06",
+    "kind": "thumb"
+  },
+  {
+    "name": "helsinki thumb",
+    "type": "png",
+    "ch": [
+      "helsinki"
+    ],
+    "date": "2025-03-06",
+    "kind": "thumb"
+  },
+  {
+    "name": "mooncake thumb",
+    "type": "png",
+    "ch": [
+      "mooncake"
+    ],
+    "date": "2025-03-06",
+    "kind": "thumb"
   }
 ]
