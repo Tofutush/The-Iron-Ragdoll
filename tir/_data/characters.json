@@ -905,6 +905,29 @@
     "about": "The ~~dictator~~ president of Bauhinia. Extremely powerful.\n\nKismet was born with nothing special, but he consumed 5 other souls with extremely strong superpowers and now he has all 5 [common powers](/world/superpowers/). He is after [Tundra](/characters/tundra/)'s immortal body. If magic weren't impossible to get ahold of, he would've went for that too.\n\nHis 6 souls made him into a rainbow and molded his text color into pure black."
   },
   {
+    "name": "Tundra",
+    "namezh": "冰封雪",
+    "color": "#800080",
+    "desc": "Self-proclaimed mayor of Hillslope!",
+    "quote": "What's the big deal?",
+    "tags": [
+      "Fanton"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Gas, wispy",
+      "Weapon": "None, unless joints count",
+      "Power": "Immortality"
+    },
+    "palette": {
+      "tie": "#2E6CF7",
+      "hair": "#2E2E2E"
+    },
+    "trivia": [
+      "If he had a lusus, it would be a sloth."
+    ]
+  },
+  {
     "name": "Sundae",
     "namezh": "圣代",
     "color": "#863094",
@@ -1432,29 +1455,6 @@
     }
   },
   {
-    "name": "Tundra",
-    "namezh": "冰封雪",
-    "color": "#800080",
-    "desc": "Self-proclaimed mayor of Hillslope!",
-    "quote": "What's the big deal?",
-    "tags": [
-      "Fanton"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Gas, wispy",
-      "Weapon": "None, unless joints count",
-      "Power": "Immortality"
-    },
-    "palette": {
-      "tie": "#2E6CF7",
-      "hair": "#2E2E2E"
-    },
-    "trivia": [
-      "If he had a lusus, it would be a sloth."
-    ]
-  },
-  {
     "name": "Starry",
     "namezh": "星星",
     "color": "#CC770F",
@@ -1544,6 +1544,7 @@
     },
     "palette": {
       "hair": "#2e2e2e"
-    }
+    },
+    "about": "Jackalope is a member of the [Military Intelligence Corps](/world/moreland/guardian-moose/mic/)."
   }
 ]
