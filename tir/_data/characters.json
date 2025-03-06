@@ -1121,6 +1121,8 @@
       "Occupation": "SPF officer"
     },
     "palette": {
+      "armband": "#E25887",
+      "heart": "#F09FCE",
       "hair": "#2e2e2e"
     }
   },
@@ -1138,7 +1140,8 @@
       "Occupation": "Student"
     },
     "palette": {
-      "hair": "#2e2e2e"
+      "badge": "#adadad",
+      "hair": "#6C4816"
     },
     "about": "Sunflower is a high school student put on \"suicide watch\" by the [SPF](/world/westavia/spf/)."
   },
