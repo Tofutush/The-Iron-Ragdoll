@@ -78,8 +78,8 @@ eleventyComputed:
     {% if ch.about %}
       <h2 id="about">About</h2>
       {% if ch.about == 'file' %}
-        {% assign filePath = './characters/files/' | append: ch.name | lowerCase | append: " about.md" %}
-        {% renderFile filePath %}
+        {% assign filePath = './tir/characters/files/' | append: ch.name | lowerCase | append: " about.md" %}
+        {% renderFile filePath, , 'liquid,md' %}
       {% else %}
         {{ ch.about | renderMD }}
       {% endif %}
