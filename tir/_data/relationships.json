@@ -10,7 +10,7 @@
         "mother"
       ]
     ],
-    "desc": "Sparky loves Amber almost obsessively. Amber seems to be more focused on [Willow](../willow/), however."
+    "desc": "Sparky loves Amber almost obsessively. Amber seems to be more focused on [Willow](/characters/willow/), however."
   },
   {
     "ch": [
@@ -38,6 +38,19 @@
     ],
     "img": "sparky willow.png",
     "desc": "Sparky and Willow have the [same mother](/characters/amber/) but different fathers.\n\nWillow is the one who understands Sparky the most, because of her mind-reading."
+  },
+  {
+    "ch": [
+      [
+        "Sparky",
+        "friend"
+      ],
+      [
+        "Ribbon",
+        "friend"
+      ]
+    ],
+    "desc": "Sparky loves hanging out in Ribbon's bakery. Ribbon taught her how to bake."
   },
   {
     "ch": [
