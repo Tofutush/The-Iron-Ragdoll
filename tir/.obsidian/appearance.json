@@ -11,9 +11,9 @@
     "properties",
     "word count"
   ],
-  "interfaceFontFamily": "din round pro,微软雅黑",
-  "textFontFamily": "Lexend,霞鹜漫黑,霞鹜文楷",
+  "interfaceFontFamily": "Cascadia Code,din round pro,微软雅黑",
+  "textFontFamily": "Courier Prime,Lexend,霞鹜漫黑,霞鹜文楷",
   "cssTheme": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑"
 }
