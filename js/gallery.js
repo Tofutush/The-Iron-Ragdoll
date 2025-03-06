@@ -1,19 +1,28 @@
 (function () {
-	let galleries = document.querySelectorAll('.gallery');
-	for (gallery of galleries) {
-		let divs = gallery.children;
-		for (let z = 0; z < divs.length; z++) {
-			let img = divs[z].querySelector('img');
-			img.addEventListener('click', e => {
-				let modal = divs[z].querySelector('.modal');
-				let close = modal.querySelector('.close');
-				modal.style.display = 'flex';
-				document.body.style.overflow = 'hidden';
-				close.addEventListener('click', e => {
-					modal.style.display = 'none';
-					document.body.style.overflow = 'auto';
-				});
-			});
-		}
+	let images = document.querySelectorAll('.img');
+	for (let z = 0; z < images.length; z++) {
+		let img = images[z].querySelector('img');
+		let modal = images[z].querySelector('.modal');
+		let close = modal.querySelector('.close');
+		let prev = modal.querySelector('.buttons').children[0];
+		let next = modal.querySelector('.buttons').children[1];
+		img.addEventListener('click', e => {
+			modal.style.display = 'flex';
+			document.body.style.overflow = 'hidden';
+		});
+		close.addEventListener('click', e => {
+			modal.style.display = 'none';
+			document.body.style.overflow = 'auto';
+		});
+		if (z === 0) prev.classList.add('noclick');
+		else prev.addEventListener('click', e => {
+			images[z - 1].querySelector('.modal').style.display = 'flex';
+			modal.style.display = 'none';
+		});
+		if (z === images.length - 1) next.classList.add('noclick');
+		else next.addEventListener('click', e => {
+			images[z + 1].querySelector('.modal').style.display = 'flex';
+			modal.style.display = 'none';
+		});
 	}
 })();
