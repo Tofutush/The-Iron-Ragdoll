@@ -73,7 +73,7 @@
 
 .modal img {
     background-color: transparent;
-    height: 90vh;
+    height: 80vh;
     margin: 5vh 0;
     object-fit: contain;
     width: 90vw;
@@ -82,6 +82,22 @@
 .comment {
     max-width: 90vw;
     width: 800px;
+}
+
+.buttons {
+    margin-bottom: 2em;
+}
+
+.buttons a.noclick {
+    opacity: .5;
+}
+
+.buttons a:hover {
+    cursor: pointer;
+}
+
+.buttons a.noclick:hover {
+    cursor: not-allowed;
 }
 
 .chbuttons {
