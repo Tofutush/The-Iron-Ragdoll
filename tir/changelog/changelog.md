@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Added navigation buttons in galleries.
 - Fixed a CSS problem in the comic pages.
+- Added `candlelight thumb.png`, `helsinki thumb.png`, `mooncake thumb.png`.
 
 ## 2025-03-05
 
