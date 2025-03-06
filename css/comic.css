@@ -1,8 +1,8 @@
-#main-content #img {
+main #img {
 	margin: 0 -2em;
 }
 
-#main-content #img img {
+main #img img {
 	width: 100%;
 	height: 100%;
 }
