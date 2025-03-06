@@ -8,13 +8,18 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-06
+
+- Added navigation buttons in galleries.
+- Fixed a CSS problem in the comic pages.
+
 ## 2025-03-05
 
 - Renamed "Projects" to [Goals](/goals/).
 - Edited the magic section on [Superpowers in Bauhinia](/world/bauhinia/superpowers/).
-- Added lore page [Biology](/world/biology/).
+- Added lore page [Races](/world/races/).
 - Added [Guardian Moose](/world/moreland/guardian-moose/), and changed MIA to [MIC](/world/moreland/guardian-moose/mic/).
-- Added `cobalt thumb.png`, `nightingale thumb.png`, `skyhawk thumb.png`.
+- Added `cobalt thumb.png`, `nightingale thumb.png`, `skyhawk thumb.png`, `lucky strike.png`, `alistair darius.png`.
 
 ## 2025-03-04
 
