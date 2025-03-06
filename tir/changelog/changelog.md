@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-06
+
+- Added navigation buttons in galleries.
+- Fixed a CSS problem in the comic pages.
+
 ## 2025-03-05
 
 - Renamed "Projects" to [Goals](/goals/).
