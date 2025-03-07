@@ -12,7 +12,7 @@ titlezh: 更新日志
 
 - Edited [A Nuke from Moreland](/stories/a-nuke-from-moreland/), [New Year 2032](/stories/new-year-2032/).
 - Edited blockquote style.
-- Added `sunflower thumb.png`, `goose profile.png`.
+- Added `sunflower thumb.png`, `goose profile.png`, `qibli profile.png`.
 
 ## 2025-03-06
 
