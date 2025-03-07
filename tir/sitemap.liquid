@@ -7,4 +7,5 @@ eleventyNavigation:
   order: 1000
 ---
 
+<p>Total pages in site: {{ collections.all.size }}</p>
 {{ collections.all | eleventyNavigation | eleventyNavigationToHtml }}
