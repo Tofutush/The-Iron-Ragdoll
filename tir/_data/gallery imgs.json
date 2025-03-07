@@ -2217,5 +2217,14 @@
     ],
     "date": "2025-03-06",
     "comment": "Bruh what happened to Candlelight's... entire body?"
+  },
+  {
+    "name": "sunflower thumb",
+    "type": "png",
+    "ch": [
+      "sunflower"
+    ],
+    "date": "2025-03-07",
+    "kind": "thumb"
   }
 ]
