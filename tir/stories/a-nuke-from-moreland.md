@@ -15,7 +15,7 @@ chs:
   - peacock
   - gecko
   - lark
-time: "2031"
+time: 2031 summer break
 location: <a href="/world/bauhinia/coastline/">Coastline</a>
 summary: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
 titlezh: 莫尔兰核弹
@@ -81,13 +81,33 @@ Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to
 > [!question]+ Why let him into the MSS then, if he has such an ego?
 > Well, maybe he worked on it. And showed incredible talent. And joined the military. He did grow up.
 
+## Challenge taken!
+
+The kids needed something to do during the summer. They've got it! Find out how the nuke got there, and win the nuke itself! Now where would they start?
+
+They wandered around the abandoned house — catching the tabby and returning it to Qibli's neighbor on the way — and they hadn't got a single clue. At this point they realized the MSS might've just been toying with them. They don't have any resources, any experience — no nothing.
+
+They talked about the nuke, the MSS, debated loudly, all in vain.
+
+That was when a mysterious figure in a hat appeared, jacket slung over his shoulders, a flute in his pocket. He was on the other side of the short, dusty wall, elbows on the top, leaning in at the kids, apparently having heard everything.
+
+> "Do you need help?"
+
+The stranger introduces himself as Lark. He wanted to help the kids beat the MSS. Why? Because ha hates the MSS with a passion and would like to see them get owned by a bunch of kids. So that's why you should not tell them about me, because then they would know we cheated. We want to pretend this is all *your* credit!
+
+Sparky was happy. Sky was debating whether to report Lark. Qibli and Firecrackers were suspicious.
+
+## ramble zone
+
+*Consider the content below non-canon*.
+
 The MSS were just using Sparky's Peacock connection since they suspected it was Starcorp. Sure enough, Gecko, the smuggler who stashed the nuke there, contacted Peacock as soon as she knew the nuke had been found.
 
 Sparky overheard their phone conversation and noted down the time and place for the meeting. Starlight cafe. Tomorrow afternoon.
 
 She informed her friends, of course. Who could make it? Ah, Qibli wasn't coming. Firecrackers could. Sky? Depends. He would let you know in the morning. Good.
 
-## Pumpkin's confession
+### Pumpkin's confession
 
 Sky went to the MSS to tattle. Starlight cafe, tomorrow afternoon. This is great, keep it up. Would you like a lollipop? Have an ice cream. Oh, can *you* go? We'd recommend against it.
 
@@ -142,7 +162,7 @@ He strangled him, shoved him into the trunk of a car without a license plate, an
 > [!note]+
 > Maybe there was no camera in or near the alley. Wouldn't that be convenient.
 
-## Gecko
+### Gecko
 
 The next day, Sparky bought some melatonin in the morning and drugged Peacock at lunch. She tucked him into bed, took his phone and briefcase, hailed a taxi, picked up Firecrackers from his parents' grocery store, and got to Starlight Cafe.
 
@@ -152,7 +172,7 @@ The MSS was there even before they arrived, sitting in corners.
 
 Gecko arrived, looked around the place, and headed for Firecrackers, probably thinking he was a bit too young for his voice. Before Sparky could walk towards her, before Gecko even sat down, the MSS plainclothes pounced on her and took her away. Sparky tried to stop them, but she was heavily outnumbered. Gecko was taken into custody by the MSS.
 
-## The investigation of Pumpkin's disappearance
+### The investigation of Pumpkin's disappearance
 
 The next morning, the police were knocking on Sky's door. He was the last person seen with Pumpkin, so they wanted some questions answered.
 
@@ -160,7 +180,7 @@ Apparently, Pumpkin's boyfriend called the police after not having Pumpkin retur
 
 At the police station, the MSS came to get Sky. They obtained an alibi from his parents that he did get home and stay there right after Pumpkin dropped him off. They asked him whether Pumpkin was acting weird during the ride. Sky was so nervous he couldn't think straight. He didn't tell them about the mole thing.
 
-### What should (probably) be going through a logical person's mind right now?
+#### What should (probably) be going through a logical person's mind right now?
 
 For Sky, he should think that if something happened to Pumpkin right after him telling Sky about the mole, he must've been targeted *by* the mole to prevent him from tattling (which is exactly what Halcyon intended). And he must've bugged the car in order to overhear their conversation. So by this logic, the mole would be coming for *Sky* next. His task is to figure out *who* the mole is (the suspect pool only contains 3 people), and expose them with evidence. If he could not achieve that, he must run and hide. His friends chose the former route for him.
 
@@ -168,7 +188,7 @@ For Goose and Paperweight, since they do not know about Pumpkin's confession, *a
 
 For Halcyon, his main task is to aid the investigation without drawing suspicion onto himself, which should be easy. Ideally, Pumpkin would never be found, and declared presumed dead, and the case would get shoved on the shelf with all the other unsolved mysteries.
 
-## Ramble zone
+### Ramble zone
 
 So they go find Pumpkin's boyfriend, who doesn't even have a name or design or *anything*. Sorry, Pumpkin. Candlelight's a better boyfriend for ya.
 
@@ -184,9 +204,10 @@ how do the kids figure out halcyon did it?
 
 sky told his friends about pumpkins car confession.
 
-## Related stories
+## Next
 
-- [Paperweight's Roadtrip](/stories/paperweights-roadtrip/)
-- [Candlelight Back Home](/stories/candlelight-back-home/)
+- The kids: [New Year 2032](/stories/new-year-2032/).
+- Paperweight and Goose: [Paperweight's Roadtrip](/stories/paperweights-roadtrip/).
+- Pumpkin: [Candlelight Back Home](/stories/candlelight-back-home/).
 
 [^1]: Why is there a wall heater in Coastline of all places where it never snows? I don't care I like cuffing people to heaters.

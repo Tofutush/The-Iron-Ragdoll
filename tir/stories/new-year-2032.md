@@ -87,4 +87,6 @@ The commotion woke Pearl up. Sparky and Sky talked to her. They found out that P
 
 ## Above
 
-Qibli's constant practicing of forbidden magic paid off. They drenched the goons with water, poured oil under their feet, and a bunch of other shit. They prevented the goons from going down into the trapdoor — another one, since who's building a basement with only one exit? — as reinforcement. They caught a walkie-talkie and found out that Sparky and Sky had been caught.
+Qibli's constant practicing of forbidden magic paid off. They drenched the goons with water, poured oil under their feet, and a bunch of other shit. They prevented the goons from going down into the trapdoor — another one, since who's building a basement with only one exit? — as reinforcement by knocking them out. They caught a walkie-talkie and found out that Sparky and Sky had been caught.
+
+Qibli had been exhausted from all the magic-casting. The goons were coming to their senses. They needed a plan to get Sparky, Sky, and the girl out of the basement and out of this place safely.
