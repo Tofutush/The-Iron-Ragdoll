@@ -81,13 +81,19 @@ Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to
 > [!question]+ Why let him into the MSS then, if he has such an ego?
 > Well, maybe he worked on it. And showed incredible talent. And joined the military. He did grow up.
 
-## Challenge taken!
+## Day 1
 
 The kids needed something to do during the summer. They've got it! Find out how the nuke got there, and win the nuke itself! Now where would they start?
 
 They wandered around the abandoned house — catching the tabby and returning it to Qibli's neighbor on the way — and they hadn't got a single clue. At this point they realized the MSS might've just been toying with them. They don't have any resources, any experience — no nothing.
 
-They talked about the nuke, the MSS, debated loudly, all in vain.
+They talked about the nuke, the MSS, debated loudly, all in vain. They went home unhappy, making a deal to come back tomorrow.
+
+Pumpkin was waiting for Sky at the bottom of his apartment building. Sky reported no progress. Pumpkin treated him to some kebabs.
+
+## Day 2
+
+They dug around the house again, though nothing new turned up.
 
 That was when a mysterious figure in a hat appeared, jacket slung over his shoulders, a flute in his pocket. He was on the other side of the short, dusty wall, elbows on the top, leaning in at the kids, apparently having heard everything.
 
@@ -95,7 +101,29 @@ That was when a mysterious figure in a hat appeared, jacket slung over his shoul
 
 The stranger introduces himself as Lark. He wanted to help the kids beat the MSS. Why? Because ha hates the MSS with a passion and would like to see them get owned by a bunch of kids. So that's why you should not tell them about me, because then they would know we cheated. We want to pretend this is all *your* credit!
 
-Sparky was happy. Sky was debating whether to report Lark. Qibli and Firecrackers were suspicious.
+Sparky was happy. Sky was debating with himself whether to report Lark. Firecrackers was suspicious. Qibli seemed unsure.
+
+Lark knew Sparky was the weak chain. He interpreted Sky's debating as whether to trust him. He decided to appeal to Qibli and Sky, while trying to get Sparky to vouch for him.
+
+> "You see, your task is to find out how a nuke from *Moreland* ended up in *Bauhinia*, right? Then think from the perspective of the nuke. What does it need to go through in order to end up here? It's from Moreland. It needs to exit the nuclear storage there, cross the border of at least one country — Atlasia, and travel all the way across Bauhinia to here in the south.
+>
+> "Now, for Atlasia, it is easy. You can do anything in Atlasia if you have enough money. That gives us the first clue: the smuggler has a lot of money.
+>
+> "As for Bauhinia? With our police every five steps and police station every ten steps? How did the smuggler get a nuke all the way across the country? They told the police to look the other way. They had special transport; it's none of the police's business! That gives us the second clue: the smuggler is powerful in Bauhinia."
+
+Qibli was bought. Sky was still debating whether to report Lark. Firecrackers would take none of it.
+
+*Elementary, Mr. Lark, that's just basic induction,* he said.
+
+"Didn't that also mean they were powerful in Moreland, too?" Qibli asked.
+
+Lark ignored Firecrackers, pretending that he could not read sign. "Yes, but what kind of a person is so powerful in *two* countries, yet no one knows their name?"
+
+Qibli took this as an actual question and paused to think.
+
+Lark continued. "This means that there is *more than one* smuggler, who passed the nuke to each other in different regions!"
+
+It dawned on Qibli.
 
 ## ramble zone
 
