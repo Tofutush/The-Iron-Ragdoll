@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-07
+
+- Edited [A Nuke from Moreland](/stories/a-nuke-from-moreland/), [New Year 2032](/stories/new-year-2032/).
+- Edited blockquote style.
+
 ## 2025-03-06
 
 - Added navigation buttons in galleries.
