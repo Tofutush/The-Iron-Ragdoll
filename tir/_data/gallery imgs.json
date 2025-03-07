@@ -1916,8 +1916,7 @@
       "paperweight",
       "sky"
     ],
-    "date": "2025-02-17",
-    "kind": "ref"
+    "date": "2025-02-17"
   },
   {
     "name": "nightsun hug sparky",
@@ -2232,6 +2231,15 @@
     "type": "png",
     "ch": [
       "goose"
+    ],
+    "date": "2025-03-07",
+    "kind": "thumb new"
+  },
+  {
+    "name": "qibli profile",
+    "type": "png",
+    "ch": [
+      "qibli"
     ],
     "date": "2025-03-07",
     "kind": "thumb new"
