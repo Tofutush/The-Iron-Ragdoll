@@ -8,6 +8,12 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-08
+
+- Happy Women's Day!
+- Added `pumpkin profile.png`, `paperweight profile.png`.
+- Fixed Sky's horns in `sky lineless.png` and `cms friends lineless.png`. That was awkward. It's always awkward when you draw your own characters wrong and go for ages without realizing.
+
 ## 2025-03-07
 
 - Edited [A Nuke from Moreland](/stories/a-nuke-from-moreland/), [New Year 2032](/stories/new-year-2032/).
