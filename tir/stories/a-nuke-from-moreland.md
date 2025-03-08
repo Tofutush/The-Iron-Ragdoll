@@ -107,9 +107,11 @@ Lark knew Sparky was the weak chain. He interpreted Sky's debating as whether to
 
 > "You see, your task is to find out how a nuke from *Moreland* ended up in *Bauhinia*, right? Then think from the perspective of the nuke. What does it need to go through in order to end up here? It's from Moreland. It needs to exit the nuclear storage there, cross the border of at least one country — Atlasia, and travel all the way across Bauhinia to here in the south.
 >
-> "Now, for Atlasia, it is easy. You can do anything in Atlasia if you have enough money. That gives us the first clue: the smuggler has a lot of money.
+> "Now, for Atlasia, it is easy. You can do *anything* in Atlasia if you have enough money. That gives us the first clue: the smuggler has a lot of money.
 >
-> "As for Bauhinia? With our police every five steps and police station every ten steps? How did the smuggler get a nuke all the way across the country? They told the police to look the other way. They had special transport; it's none of the police's business! That gives us the second clue: the smuggler is powerful in Bauhinia."
+> "As for Bauhinia? With our one police every five steps and one police station every ten steps? How did the smuggler get a nuke all the way across the country?"
+>
+> He did not wait for an answer. "They told the police to look the other way. They had special transport; it's none of the police's business! That gives us the second clue: the smuggler is powerful in Bauhinia."
 
 Qibli was bought. Sky was still debating whether to report Lark. Firecrackers would take none of it.
 
@@ -123,7 +125,12 @@ Qibli took this as an actual question and paused to think.
 
 Lark continued. "This means that there is *more than one* smuggler, who passed the nuke to each other in different regions!"
 
-It dawned on Qibli.
+It dawned on Qibli. Sky decided against reporting him, which Lark interpreted as trust. Three to one, Firecrackers could go to hell, thought Lark.
+
+And with that, Lark got himself a group of new contacts.
+
+> [!question] Who is Lark?+
+> Morelandian agent sent to recover the nuke. At least, find out where it is. He succeeded.
 
 ## ramble zone
 
