@@ -2243,5 +2243,23 @@
     ],
     "date": "2025-03-07",
     "kind": "thumb new"
+  },
+  {
+    "name": "pumpkin profile",
+    "type": "png",
+    "ch": [
+      "pumpkin"
+    ],
+    "date": "2025-03-08",
+    "kind": "thumb new"
+  },
+  {
+    "name": "paperweight profile",
+    "type": "png",
+    "ch": [
+      "paperweight"
+    ],
+    "date": "2025-03-08",
+    "kind": "thumb new"
   }
 ]

@@ -98,7 +98,9 @@ module.exports = function (eleventyConfig) {
 	});
 	return {
 		dir: {
-			input: 'tir'
+			input: 'tir',
+			includes: '../_includes',
+			data: '../_data'
 		},
 		passthroughFileCopy: true,
 	};

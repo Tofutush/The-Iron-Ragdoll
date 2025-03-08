@@ -15,8 +15,9 @@ Most content on this site is made by myself. What isn't:
 - Some of the colors are from [Cohost](https://cohost.org)'s color scheme.
 - Adjectives and adverbs in the [generator](/fun/scenarios/) are from [Corpora](https://github.com/dariusk/corpora).
 - 中文字体用的是[霞鹜漫黑 v0.312](https://github.com/lxgw/LxgwMarkerGothic)。
+- Markdown files are edited in [Obsidian](https://obsidian.md).
 
-All stories, characters, and artwork on this site are created by myself. Art by others can be found on [my Toyhouse](https://toyhou.se/Tofutush).
+All stories, characters, and artwork on this site are created by myself. Art by others can be found on [Toyhouse](https://toyhou.se/Tofutush).
 
 ## Let me tell you about Homestuck
 
