@@ -63,13 +63,13 @@ Qibli got that from pure magic hunch. She also had a hunch about where it came f
 
 ## The rescue
 
-On the second day of the national holiday, Qibli led Sparky, Sky, and Firecrackers to the place she felt in her head. They first hailed a taxi to somewhere near, and then walked. She used her wand a bit for guidance -- she was getting better at magic.
+On the second day of the national holiday, Qibli led Sparky, Sky, and Firecrackers to the place she felt in her head. They first hailed a taxi to somewhere near, and then walked. She used her wand a bit for guidance — she was getting better at magic.
 
 They arrived at an abandoned school and started exploring. It looked like a place no one visited for years, yet it was obvious in the kitchen that people cooked there.
 
 Qibli led them to a trapdoor, saying that it must be down there. That was when some people got to them. They yelled at the kids, telling them they were trespassing. Sparky opened the trapdoor and jumped down immediately, followed by Sky. Qibli and Firecrackers stood outside, fending off the goons.
 
-## ramble zone
+## Underground
 
 Underground, Sparky and Sky found a labyrinth of cold gray corridors and blinding lights. They tried to navigate it while avoiding people, though it was hard because *they* were familiar with the corridors and had video cameras, where Sparky and Sky had an absolute disadvantage.
 
@@ -77,4 +77,16 @@ They fought a couple people and locked themselves in an empty room. In a drawer 
 
 Sky immediately came to the conclusion that Pearl was the person where the pearls came from as Qibli said. Sparky tucked the passports into her pocket.
 
-That was about when the basement people got the key and unlocked the door. But before they could open it, Sparky tore it right off its hinges and slammed it into them, clearing out a path for her to get through. Sparky and Sky dashed away from the people and headed
+That was about when the basement people got the key and unlocked the door. But before they could open it, Sparky tore it right off its hinges and slammed it into them, clearing out a path for her to get through. Sparky and Sky dashed away from the people and headed towards a room over there. Sparky kicked down the door.
+
+Inside, a little girl was lying on a bloodstained bare mattress, perhaps asleep. She looked like her passport picture; they must've been taken not long ago, though in the pictures she looked normal, but here her eyes were swollen and cuts and bruises were all over her body.
+
+They were so distracted by Pearl that they forgot to shut the door. A goon that even Sparky couldn't beat came inside and tied them up, locking them inside with Pearl, and went out to discuss what to do with them with his colleagues.
+
+The commotion woke Pearl up. Sparky and Sky talked to her. They found out that Pearl could cry pearls, and that was why she was locked down here — to produce pearls every day.
+
+## Above
+
+Qibli's constant practicing of forbidden magic paid off. They drenched the goons with water, poured oil under their feet, and a bunch of other shit. They prevented the goons from going down into the trapdoor — another one, since who's building a basement with only one exit? — as reinforcement by knocking them out. They caught a walkie-talkie and found out that Sparky and Sky had been caught.
+
+Qibli had been exhausted from all the magic-casting. The goons were coming to their senses. They needed a plan to get Sparky, Sky, and the girl out of the basement and out of this place safely.

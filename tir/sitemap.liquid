@@ -7,7 +7,5 @@ eleventyNavigation:
   order: 1000
 ---
 
-<style>
-  a { color: var(--text); }
-</style>
+<p>Total pages in site: {{ collections.all.size }}</p>
 {{ collections.all | eleventyNavigation | eleventyNavigationToHtml }}

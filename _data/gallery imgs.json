@@ -544,25 +544,16 @@
   {
     "name": "starcorp flag",
     "type": "svg",
-    "ch": [
-      "starcorp"
-    ],
     "date": "2024-03-09"
   },
   {
     "name": "starcorp logo",
     "type": "svg",
-    "ch": [
-      "starcorp"
-    ],
     "date": "2024-07-13"
   },
   {
     "name": "starcorp private security logo",
     "type": "svg",
-    "ch": [
-      "starcorp"
-    ],
     "date": "2024-07-13"
   },
   {
@@ -1925,8 +1916,7 @@
       "paperweight",
       "sky"
     ],
-    "date": "2025-02-17",
-    "kind": "ref"
+    "date": "2025-02-17"
   },
   {
     "name": "nightsun hug sparky",
@@ -2090,5 +2080,186 @@
       "paperweight"
     ],
     "date": "2025-03-01"
+  },
+  {
+    "name": "trinket thumb",
+    "type": "png",
+    "ch": [
+      "trinket"
+    ],
+    "date": "2025-03-03",
+    "kind": "thumb"
+  },
+  {
+    "name": "sundae symmetrical",
+    "type": "png",
+    "ch": [
+      "sundae"
+    ],
+    "date": "2024-12-29"
+  },
+  {
+    "name": "villagers",
+    "type": "png",
+    "ch": [
+      "helsinki",
+      "pumpkin",
+      "candlelight",
+      "mooncake"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "candlelight half",
+    "type": "png",
+    "ch": [
+      "candlelight"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "helsinki half",
+    "type": "png",
+    "ch": [
+      "helsinki"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "mooncake half",
+    "type": "png",
+    "ch": [
+      "mooncake"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "pumpkin curly half",
+    "type": "png",
+    "ch": [
+      "pumpkin"
+    ],
+    "date": "2025-03-04"
+  },
+  {
+    "name": "cobalt thumb",
+    "type": "png",
+    "ch": [
+      "cobalt"
+    ],
+    "date": "2025-03-05",
+    "kind": "thumb"
+  },
+  {
+    "name": "nightingale thumb",
+    "type": "png",
+    "ch": [
+      "nightingale"
+    ],
+    "date": "2025-03-05",
+    "kind": "thumb"
+  },
+  {
+    "name": "skyhawk thumb",
+    "type": "png",
+    "ch": [
+      "skyhawk"
+    ],
+    "date": "2025-03-05",
+    "kind": "thumb"
+  },
+  {
+    "name": "lucky strike",
+    "type": "png",
+    "date": "2025-03-05",
+    "comment": "Forum game art for [BBungle](https://toyhou.se/BBungle), featuring [Lucky Strike](https://toyhou.se/7844065.lucky-strike)."
+  },
+  {
+    "name": "alistair darius",
+    "type": "png",
+    "date": "2025-03-05",
+    "comment": "Forum game art for [Gannsi](https://toyhou.se/Gannsi), featuring Alistair and Darius."
+  },
+  {
+    "name": "candlelight thumb",
+    "type": "png",
+    "ch": [
+      "candlelight"
+    ],
+    "date": "2025-03-06",
+    "kind": "thumb"
+  },
+  {
+    "name": "helsinki thumb",
+    "type": "png",
+    "ch": [
+      "helsinki"
+    ],
+    "date": "2025-03-06",
+    "kind": "thumb"
+  },
+  {
+    "name": "mooncake thumb",
+    "type": "png",
+    "ch": [
+      "mooncake"
+    ],
+    "date": "2025-03-06",
+    "kind": "thumb"
+  },
+  {
+    "name": "sunflower candlelight",
+    "type": "png",
+    "ch": [
+      "sunflower",
+      "candlelight"
+    ],
+    "date": "2025-03-06",
+    "comment": "Bruh what happened to Candlelight's... entire body?"
+  },
+  {
+    "name": "sunflower thumb",
+    "type": "png",
+    "ch": [
+      "sunflower"
+    ],
+    "date": "2025-03-07",
+    "kind": "thumb"
+  },
+  {
+    "name": "goose profile",
+    "type": "png",
+    "ch": [
+      "goose"
+    ],
+    "date": "2025-03-07",
+    "kind": "thumb new"
+  },
+  {
+    "name": "qibli profile",
+    "type": "png",
+    "ch": [
+      "qibli"
+    ],
+    "date": "2025-03-07",
+    "kind": "thumb new"
+  },
+  {
+    "name": "pumpkin profile",
+    "type": "png",
+    "ch": [
+      "pumpkin"
+    ],
+    "date": "2025-03-08",
+    "kind": "thumb new"
+  },
+  {
+    "name": "paperweight profile",
+    "type": "png",
+    "ch": [
+      "paperweight"
+    ],
+    "date": "2025-03-08",
+    "kind": "thumb new"
   }
 ]

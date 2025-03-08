@@ -8,9 +8,51 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-08
+
+- Happy Women's Day!
+- Added `pumpkin profile.png`, `paperweight profile.png`.
+- Fixed Sky's horns in `sky lineless.png` and `cms friends lineless.png`. That was awkward. It's always awkward when you draw your own characters wrong and go for ages without realizing.
+
+## 2025-03-07
+
+- Edited [A Nuke from Moreland](/stories/a-nuke-from-moreland/), [New Year 2032](/stories/new-year-2032/).
+- Edited blockquote style.
+- Added `sunflower thumb.png`, `goose profile.png`, `qibli profile.png`.
+- Added total page count to the [sitemap](/sitemap/).
+
+## 2025-03-06
+
+- Added navigation buttons in galleries.
+- Fixed a CSS problem in the comic pages.
+- Added `candlelight thumb.png`, `helsinki thumb.png`, `mooncake thumb.png`, `sunflower candlelight.png`.
+- Edited [New Year 2032](/stories/new-year-2032/).
+
+## 2025-03-05
+
+- Renamed "Projects" to [Goals](/goals/).
+- Edited the magic section on [Superpowers in Bauhinia](/world/bauhinia/superpowers/).
+- Added lore page [Races](/world/races/).
+- Added [Guardian Moose](/world/moreland/guardian-moose/), and changed MIA to [MIC](/world/moreland/guardian-moose/mic/).
+- Added `cobalt thumb.png`, `nightingale thumb.png`, `skyhawk thumb.png`, `lucky strike.png`, `alistair darius.png`.
+
+## 2025-03-04
+
+- Updated the [overview](/world/overview/).
+- Added a [projects page](/projects/).
+- Fixed a problem where a bunch of tags were added to every page without me knowing.
+- Joined the Bolognese webring.
+- Cleaned up the layout a wee bit.
+- Added total number of pictures to [gallery stats](/gallery/stats/). How did I forget about that?
+- Added an overdue `sundae symmetrical.png`.
+- Added `villagers.png` and the respective pictures for each character.
+
 ## 2025-03-03
 
 - Edited the two Candlelight stories.
+- Put some character progress stats in the [text list](/characters/list/).
+- Removed an embarrassing mistake in the theme switch JS.
+- Added `trinket thumb.png`, and updated the horned characters' thumbs to the new design where their horn colors are just their soul color.
 
 ## 2025-03-02
 

@@ -17,6 +17,10 @@
         {% assign bruhhh = img.name | append: "." | append: img.type %}
         {% image "gallery/" bruhhh 1000 img.name %}
       {% endif %}
+      <div class="buttons">
+        <a>{% lucide 'chevron-left' 48 'var(--bg-light)' %}</a>
+        <a>{% lucide 'chevron-right' 48 'var(--bg-light)' %}</a>
+      </div>
       {% if img.ch %}
       <div class="chbuttons">
         {% for ch in img.ch %}
