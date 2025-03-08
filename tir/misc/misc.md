@@ -6,5 +6,6 @@ eleventyNavigation:
   parent: Root
 ---
 
-- [Buttons and webrings](links/)
-- [Credits](credits/)
+- [Buttons and webrings](links/): cool sites, and webrings I'm in
+- [Credits](credits/): where it's due
+- []

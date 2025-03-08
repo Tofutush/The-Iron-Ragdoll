@@ -11,13 +11,13 @@ eleventyNavigation:
 
 Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have fun!
 
-The Iron Ragdoll is my paracosm that I adore and want to share with you. It's about mysteries, espionage, and everything that interests me. Explore below!
+The Iron Ragdoll is my paracosm that I adore and want to share with you. It's about mysteries, espionage, and everything that interests me. The characters goof around, spy on each other, and live in a borderline-dystopian world much like our own. Explore below!
 
 <details>
-  <summary><h2>Content warnings (Click to expand)</h2></summary>
-  <p>This site and its contents feature strong language, cartoon violence, and occasional mature themes. Viewer discretion is advised.</p>
-  <p>It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Don't treat it so seriously.</p>
-  <p>Also: This site uses Javascript for theme switching and gallery popups! The relationship graph is also JS. It should be fine to view most other things with JS disabled.</p>
+	<summary><h2>Content warnings (Click to expand)</h2></summary>
+	<p>This site and its contents feature strong language, cartoon violence, and occasional mature themes. Viewer discretion is advised.</p>
+	<p>It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Don't treat it so seriously.</p>
+	<p>Also: This site uses Javascript for theme switching and gallery popups! The relationship graph is also JS. It should be fine to view most other things with JS disabled.</p>
 </details>
 <div class="grid">
   <a class="big" href="/characters/">
@@ -54,12 +54,13 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 
 ## Meta stuff
 
+- [{% lucide 'goal' %} Goals](/goals/)
 - [{% lucide 'circle-ellipsis' %} Misc](/misc/)
 	- [{% lucide 'torus' %} Buttons and webrings](/misc/links/)
 	- [{% lucide 'thumbs-up' %} Credits](/misc/credits/)
 - [{% lucide 'clock-8' %} Changelog](/changelog/)
 - [{% lucide 'code-xml' %} Sitemap](/sitemap/)
-- [{% lucide 'notebook-tabs' %} Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here
+- [{% lucide 'notebook-tabs' %} Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here!
 
 ## Outgoing
 

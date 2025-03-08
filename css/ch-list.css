@@ -12,6 +12,7 @@ table {
 
 thead tr {
     background-color: var(--c);
+    color: var(--bg);
 }
 
 tbody tr:nth-child(odd) {
