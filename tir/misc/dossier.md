@@ -13,7 +13,9 @@ I'm a huge fan of spies, in case you haven't noticed. I like espionage, both fic
 
 Keep in mind that my worst school subject was English so my reviews would probably suck. You have been warned.
 
-This list would be split into two parts: non-fiction and fiction; and inside those two parts I will group the books by author.
+This list would be split into two parts: non-fiction and fiction; and inside those two parts I will group the books by author. Finally I have a wishlist of *subjects* I want to read about but have not yet found a book precisely about it.
+
+> Currently reading: *The Secret Agent* by Joseph Conrad
 
 [[toc]]
 
@@ -53,8 +55,36 @@ Not espionage-related, but I think it's going to be good too.
 
 ### John le Carré
 
-Ah, YYDS.
+Ah, YYDS. Real name David Cornwell, though better known as his pen name. He went writing full time after being blown by Kim Philby. Why is this little piece of information so funny to me? I feel like the entire cold war espionage history is just people blowing each other and forming a chain of "you blow me he blows you."
 
 #### {% lucide 'square-check' %} Call for the Dead
 
 People say it's not good but I liked it. A spy novel disguised as a mystery.
+
+#### {% lucide 'square-check' %} A Murder of Quality
+
+People didn't like it and neither did I. How the murder is carried out is pretty weird, and the motive is… still weird. And it's got nothing to do with spies.
+
+#### {% lucide 'square-check' %} The Spy Who Came in from the Cold
+
+Ah, the masterpiece. Where the second dream started.
+
+#### {% lucide 'square-check' %} The Looking Glass War
+
+People didn't like it. After this book was published they were going "Oh so le Carré was that kind of a person who could only write one good book and a bunch of shitty ones," I think they used to say. Well I liked it. It's like *The Cold* but each theme amplified by a million, and the dramatic irony caked on top of every single page just makes it better.
+
+### Joseph Conrad
+
+#### (reading) The Secret Agent (1907)
+
+Apparently it's the only spy novel Conrad wrote. So a one-off deal.
+
+The entire time reading it it was kinda foggy, perhaps it's the language. But when people starting riding literal horse carriages I realized maybe 1907 was a bit too far for me.
+
+I barely have any idea what's happening right now. Maybe I can figure it out by the end.
+
+## Wishlist
+
+- Something about the Cambridge Five, but all together, instead of one book on each person.
+	- One book on each of the Cambridge Five, especially John Cairncross.
+- Something about the Irish shit happening in the 1960s - 1990s. And specifically the espionage aspect.
