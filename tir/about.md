@@ -15,7 +15,7 @@ A paracosm about a little girl solving mysteries and getting tangled up in consp
 
 > It is easy to kill but hard to dispose of the body.
 
-Tofutush here. I like comics and OCs. I belong to the Cat Cult where we worship cats. You should join us.
+Tofutush here. I like comics, OCs, and spies. I belong to the Cat Cult where we worship cats. You should join us.
 
 A good spy[^1] has many aliases. I may also be Mafia Don, Sirocco, XXQ, 黑帮老大，吸螺壳, depending on the context.
 
