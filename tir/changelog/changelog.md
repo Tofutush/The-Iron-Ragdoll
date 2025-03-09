@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Updated the CSS to include `<h4>`s.
 - Updated [About](/about/).
+- Added `amber profile.png`, `peacock profile.png`.
 
 ## 2025-03-08
 
