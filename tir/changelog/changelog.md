@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Added new page [The Dossier](/misc/dossier/).
 - Updated the CSS to include `<h4>`s.
+- Updated [About](/about/).
 
 ## 2025-03-08
 
