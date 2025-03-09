@@ -2261,5 +2261,23 @@
     ],
     "date": "2025-03-08",
     "kind": "thumb new"
+  },
+  {
+    "name": "amber profile",
+    "type": "png",
+    "ch": [
+      "amber"
+    ],
+    "date": "2025-03-09",
+    "kind": "thumb new"
+  },
+  {
+    "name": "peacock profile",
+    "type": "png",
+    "ch": [
+      "peacock"
+    ],
+    "date": "2025-03-09",
+    "kind": "thumb new"
   }
 ]
