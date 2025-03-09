@@ -19,15 +19,15 @@ On the continent there are six countries: [Bauhinia](/world/bauhinia/), in the s
 
 So basically:
 
-<p style="text-align: center; text-indent: 0;"><a href="/world/sylvandia/">Sylvandia</a></p>
+<p style="text-align: center;"><a href="/world/sylvandia/">Sylvandia</a></p>
 
-<p style="text-align: center; text-indent: 0;"><a href="/world/moreland/">Moreland</a></p>
+<p style="text-align: center;"><a href="/world/moreland/">Moreland</a></p>
 
-<p style="text-align: center; text-indent: 0;"><a href="/world/westavia/">Westavia</a> / <a href="/world/atlasia/">Atlasia</a></p>
+<p style="text-align: center;"><a href="/world/westavia/">Westavia</a> / <a href="/world/atlasia/">Atlasia</a></p>
 
-<p style="text-align: center; text-indent: 0;"><a href="/world/fanton/">Fanton</a></p>
+<p style="text-align: center;"><a href="/world/fanton/">Fanton</a></p>
 
-<p style="text-align: center; text-indent: 0;"><a href="/world/bauhinia/">Bauhinia</a></p>
+<p style="text-align: center;"><a href="/world/bauhinia/">Bauhinia</a></p>
 
 All of them are republics, but Sylvandia's a federation while others are all unitary.
 
