@@ -7,7 +7,6 @@ const markdownItAnchor = require('markdown-it-anchor');
 const markdownItTOC = require('markdown-it-table-of-contents');
 const markdownItExternalLinks = require('markdown-it-external-links');
 const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
-const { minify } = require('html-minifier-terser');
 const beautify = require('js-beautify').html;
 const pinyin = require('chinese-to-pinyin');
 const { iconSVGString, eleventyLucideIconsPlugin } = require('./_plugins/lucideicons');
@@ -19,7 +18,7 @@ const imagePlugin = require('./_plugins/image');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
-	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-').replace(/\'+/g, '');
+	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/ /g, '-').replace(/[-]+/g, '-').replace(/[^\w-]+/g, '');
 	const mdIt = markdownIt({
 		html: true,
 		breaks: true,
