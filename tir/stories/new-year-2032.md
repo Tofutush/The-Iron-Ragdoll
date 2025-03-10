@@ -19,6 +19,8 @@ titlezh: 壬子新年
 summary: Mishap in Sparky's home during the new year leads to shocking discoveries.
 ---
 
+[[toc]]
+
 ## New Year
 
 Fantasy came home from college for the new year. She didn't come alone though. Peacock's parents were also tagging along.
@@ -69,7 +71,7 @@ They arrived at an abandoned school and started exploring. It looked like a plac
 
 Qibli led them to a trapdoor, saying that it must be down there. That was when some people got to them. They yelled at the kids, telling them they were trespassing. Sparky opened the trapdoor and jumped down immediately, followed by Sky. Qibli and Firecrackers stood outside, fending off the goons.
 
-## Underground
+### Underground
 
 Underground, Sparky and Sky found a labyrinth of cold gray corridors and blinding lights. They tried to navigate it while avoiding people, though it was hard because *they* were familiar with the corridors and had video cameras, where Sparky and Sky had an absolute disadvantage.
 
@@ -85,7 +87,7 @@ They were so distracted by Pearl that they forgot to shut the door. A goon that 
 
 The commotion woke Pearl up. Sparky and Sky talked to her. They found out that Pearl could cry pearls, and that was why she was locked down here — to produce pearls every day.
 
-## Above
+### Above
 
 Qibli's constant practicing of forbidden magic paid off. They drenched the goons with water, poured oil under their feet, and a bunch of other shit. They prevented the goons from going down into the trapdoor — another one, since who's building a basement with only one exit? — as reinforcement by knocking them out. They caught a walkie-talkie and found out that Sparky and Sky had been caught.
 
