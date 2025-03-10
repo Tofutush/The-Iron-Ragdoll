@@ -2279,5 +2279,19 @@
     ],
     "date": "2025-03-09",
     "kind": "thumb new"
+  },
+  {
+    "name": "xuer",
+    "type": "png",
+    "date": "2025-03-10",
+    "comment": "Gift art for [Kolo](https://numbersstory.com), featuring [Xuer](https://characters.numbersstory.com/chara/house/xuer).\n\nPssst, if you're Kolo and you saw this, this is *not* finished!"
+  },
+  {
+    "name": "sparky tween",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-10"
   }
 ]
