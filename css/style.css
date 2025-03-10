@@ -166,6 +166,10 @@ figcaption {
   opacity: .5;
 }
 
+.smaller-text {
+  font-size: var(--font-size-small);
+}
+
 .buttons img {
   width: 88px;
   height: 31px;
