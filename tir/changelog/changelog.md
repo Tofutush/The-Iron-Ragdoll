@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Added stories for each country in [Pearl's Journey Home](/tir/stories/pearls-journey-home/).
 - Changed the story list's style.
+- Added `xuer.png`, `sparky tween.png`, `sparky tween.gif`.
 
 ## 2025-03-09
 
