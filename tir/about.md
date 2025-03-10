@@ -17,6 +17,8 @@ A paracosm about a little girl solving mysteries and getting tangled up in consp
 
 Tofutush here. I like comics, OCs, and spies. I belong to the Cat Cult where we worship cats. You should join us.
 
+She/her, suffering from late-stage cisness, but I don't mind any pronouns.
+
 A good spy[^1] has many aliases. I may also be Mafia Don, Sirocco, XXQ, 黑帮老大，吸螺壳, depending on the context.
 
 I'm a professional lurker but I'd love to make friends. Please don't be scared of me; I'm probably more scared of you.

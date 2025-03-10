@@ -12,4 +12,4 @@ location: <a href="/world/moreland/">Moreland</a>
 summary: The friends get to Moreland with Pearl.
 ---
 
-They got to Moreland.
+They got to Moreland and met the Appaloosa Tribe.
