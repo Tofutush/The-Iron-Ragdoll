@@ -13,7 +13,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 
 Originally planned as a comic; is now a paracosm after I learnt the word. What this entire site is dedicated to. Though it would probably never reach a "finished" state, I do wanna refine everything I have at the moment.
 
-## Havoc101
+## Havoc 101
 
 Originally planned as a kinda-open-world point and click game where you wreak havoc around the school. See its planning site [here](https://tofutush.github.io/havoc101).
 

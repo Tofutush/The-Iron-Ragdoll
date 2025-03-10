@@ -2,7 +2,7 @@
 layout: story.liquid
 title: Elegance Kidnapped
 canon: yes
-order: 107
+order: 111
 chs:
   - sparky
   - elegance

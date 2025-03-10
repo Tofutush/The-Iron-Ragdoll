@@ -16,13 +16,13 @@ Souls come in three forms: solid, liquid, and gas.
 
 Everyone is born with a perfectly spherical gas soul. The soul changes shape and form as the person grows (but the color never changes), and generally settles in place in their thirties.
 
-## Removing souls
+## Extracting souls
 
 A soul can be removed from a person. Soul extraction is a skill that can be learned and adopted by anyone, but it originated in [Sylvandia](/world/sylvandia/).
 
 Through a variety of techniques not limited to classic Sylvandian soul extraction (torture is a common example), your soul can come out of your mouth — commonly known as "barfing out[^1]." Most books on this topic are banned in places like [Bauhinia](/world/bauhinia/), [Moreland](/world/moreland/), and [Westavia](/world/westavia/) as they're deemed too dangerous.
 
-People with no souls aren't people. They're just a body. Their eyes are empty, though their ears, if they have it, would remain in color because pure-white ears look ugly. (It also serves as an indicator of the body's previous ownership.)
+People with no souls aren't people. They're just a body. Their eyes are empty, though their horns and ears would remain in color, serving as an indicator of the body's previous ownership.
 
 A body without a soul would usually die biologically within three days to a week, depending on the physique of the body.
 
