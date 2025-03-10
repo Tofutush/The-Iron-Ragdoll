@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-10
+
+- Added stories for each country in [Pearl's Journey Home](/tir/stories/pearls-journey-home/).
+- Changed the story list's style.
+
 ## 2025-03-09
 
 - Updated the CSS to include `<h4>`s.
