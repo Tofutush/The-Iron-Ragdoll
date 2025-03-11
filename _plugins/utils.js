@@ -41,15 +41,6 @@ function utilPlugin(eleventyConfig) {
     eleventyConfig.addFilter('randomItem', function (arr) {
         return arr[Math.floor(Math.random() * arr.length)];
     });
-    eleventyConfig.addFilter('getTags', function (arr) {
-        let tags = [];
-        for (let z = 0; z < arr.length; z++) {
-            if (!arr[z].data.tags) continue;
-            for (let a of arr[z].data.tags) tags.push(a);
-        }
-        tags = [...new Set(tags)];
-        return tags;
-    });
 }
 
 module.exports = utilPlugin;

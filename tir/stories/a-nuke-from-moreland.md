@@ -21,6 +21,10 @@ summary: The kids find a nuke in the basement of an abandoned house. The Ministr
 titlezh: 莫尔兰核弹
 tags:
   - a-nuke-from-moreland
+myTags:
+  - Coastline
+  - Bauhinia
+  - ah ah a
 ---
 
 I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you wanna read it. I think the questioning scene was pretty cool though. The main problem is that no one has any personality.
