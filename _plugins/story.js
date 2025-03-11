@@ -11,5 +11,8 @@ function storyPlugin(eleventyConfig) {
         tags = [...new Set(tags)];
         return tags;
     });
+    eleventyConfig.addFilter('filterStoriesByTag', function (arr, tag) {
+        return arr.filter(a => a.data.myTags === tag);
+    });
 }
 module.exports = storyPlugin;
