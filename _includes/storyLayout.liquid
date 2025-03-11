@@ -6,7 +6,7 @@ layout: layout.liquid
   <summary><h2>Tag filter</h2></summary>
   <div class="tags">
     <a href="/stories/" {% if page.url == "/stories/" %}aria-current="true"{% endif %}>All</a>
-    {% assign storyTags = collections.stories | getTags %}
+    {% assign storyTags = collections.stories | getStoryTags %}
     {% for t in storyTags %}
       <a href="/stories/tag/{{ t | slug }}/" {% if t == tag %}aria-current="true"{% endif %}>{{ t }}</a>
     {% endfor %}
