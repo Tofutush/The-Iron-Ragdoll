@@ -44,10 +44,8 @@ function utilPlugin(eleventyConfig) {
     eleventyConfig.addFilter('getTags', function (arr) {
         let tags = [];
         for (let z = 0; z < arr.length; z++) {
-            if (!arr[z].tags) continue;
-            for (let a of arr[z].tags) {
-                tags.push(a);
-            }
+            if (!arr[z].data.tags) continue;
+            for (let a of arr[z].data.tags) tags.push(a);
         }
         tags = [...new Set(tags)];
         return tags;
