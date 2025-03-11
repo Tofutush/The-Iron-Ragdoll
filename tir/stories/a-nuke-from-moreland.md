@@ -21,6 +21,7 @@ summary: The kids find a nuke in the basement of an abandoned house. The Ministr
 titlezh: 莫尔兰核弹
 tags:
   - a-nuke-from-moreland
+  - A Nuke from Moreland
 myTags:
   - Coastline
   - Bauhinia
