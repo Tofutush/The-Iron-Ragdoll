@@ -19,14 +19,3 @@ layout: layout.liquid
   </div>
 </details>
 {{ content }}
-{% if tag %}
-  {% assign slugged = tag | slug %}
-  {% if collections[slugged] %}
-    <h2>Related files</h2>
-    <ul>
-      {% for file in collections[slugged] %}
-        {% include 'fileLi', file: file %}
-      {% endfor %}
-    </ul>
-  {% endif %}
-{% endif %}
