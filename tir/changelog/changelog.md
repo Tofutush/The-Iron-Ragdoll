@@ -10,7 +10,7 @@ titlezh: 更新日志
 
 ## 2025-03-13
 
-- Added `jackalope salute.png`.
+- Added `jackalope salute.png`, `xuer.gif`, `xuer-2.gif`.
 
 ## 2025-03-10
 
