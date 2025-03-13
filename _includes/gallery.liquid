@@ -21,7 +21,7 @@
         <a>{% lucide 'chevron-left' 48 'var(--bg-light)' %}</a>
         <a>{% lucide 'chevron-right' 48 'var(--bg-light)' %}</a>
       </div>
-      <p>Art by <a href="{{ img.authorUrl }}">{{ img.author }}</a></p>
+      {% if img.author %}<p>Art by <a href="{{ img.authorUrl }}">{{ img.author }}</a></p>{% endif %}
       {% if img.ch %}
       <div class="chbuttons">
         {% for ch in img.ch %}
