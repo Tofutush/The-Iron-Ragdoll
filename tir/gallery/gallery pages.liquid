@@ -17,7 +17,7 @@ eleventyComputed:
 {% for month in (1..12) reversed %}
     {% assign paddedMonth = month | padStart: 2, '0' %}
     {% assign yearMonth = year | append: '-' | append: paddedMonth %}
-    {% assign filteredGallery = gallery | filterGalleryByDate: yearMonth %}
+    {% assign filteredGallery = gallery | getOnlyMyArt | filterGalleryByDate: yearMonth %}
     {% if filteredGallery.size > 0 %}
         <h2 id="{{ month | getMonthName | slug }}">{{ month | getMonthName }}</h2>
         {% include 'gallery' imgs: filteredGallery %}
