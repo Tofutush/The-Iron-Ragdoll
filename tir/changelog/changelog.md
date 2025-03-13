@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-13
+
+- Added `jackalope salute.png`.
+
 ## 2025-03-10
 
 - Added stories for each country in [Pearl's Journey Home](/tir/stories/pearls-journey-home/).
