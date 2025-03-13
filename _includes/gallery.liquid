@@ -12,7 +12,7 @@
     <div class="modal">
       <div class="close">{% lucide 'x' 48 %}</div>
       {% if img.type == 'gif' %}
-        <img src="/img/gallery/{{ img.name }}.gif" alt="{{ img.name }}"/>
+        <img src="/img/{% if img.author %}others art{% else %}gallery{% endif %}/{{ img.name }}.gif" alt="{{ img.name }}"/>
       {% else %}
         {% assign bruhhh = img.name | append: "." | append: img.type %}
         {% if img.author %}{% image 'others art/' bruhhh 1000 img.name %}{% else %}{% image "gallery/" bruhhh 1000 img.name %}{% endif %}
