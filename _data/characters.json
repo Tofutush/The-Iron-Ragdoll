@@ -1538,13 +1538,18 @@
       "Misc"
     ],
     "attr": {
+      "Nickname": "Jack",
       "Gender": "Female",
       "Soul": "Solid, a tangle of barbed wire",
       "Nationality": "Moose",
       "Occupation": "Intelligence officer"
     },
     "palette": {
+      "hat circle": "#374F2D",
+      "uniform": "#374F2D",
+      "shoes": "#374F2D",
       "hair": "#2e2e2e"
-    }
+    },
+    "about": "Jackalope is an officer at the Intelligence Corps of the Guardian Moose.\n\nOutside of work, she loves gardening."
   }
 ]
