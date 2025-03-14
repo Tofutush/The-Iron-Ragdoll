@@ -6,9 +6,14 @@ order: 401
 chs:
   - sparky
   - nightsun
-time: "After Sparky married Nightsun"
-location: "<a href=\"/world/bauhinia/coastline/\">Coastline</a>"
-summary: "An MSS officer searches Sparky's apartment."
+time: After Sparky married Nightsun
+location: <a href="/world/bauhinia/coastline/">Coastline</a>
+summary: An MSS officer searches Sparky's apartment.
+myTags:
+  - Semi-canon
+  - Bauhinia
+  - Coastline
+  - Oneshot
 ---
 
 Sparky was chilling in her own home, alone because [Bramble](/characters/bramble/) and Nightsun were out.
@@ -67,7 +72,7 @@ The officer took the bottle and shoved it in his belt too. "Thanks, bro," he sai
 
 "Just some brotherly friendship," Nightsun waved her off, "friends chilling in each others' homes. Suspicious?"
 
-"Aaaaarrrrgggghhhh," Sparky trotted back into her room, muttering, "I get *one* day off this *whole month* and this is what you pull..."
+"Aaaaarrrrgggghhhh," Sparky trotted back into her room, muttering, "I get *one* day off this *whole month* and this is what you pull…"
 
 ---
 

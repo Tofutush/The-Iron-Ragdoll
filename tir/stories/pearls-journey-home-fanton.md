@@ -10,8 +10,12 @@ chs:
   - firecrackers
   - pearl
 time: "2032"
-location: <a href="/world/fanton/">Fanton</a>
 summary: The friends get to Fanton with Pearl.
+myTags:
+  - Canon
+  - Fanton
+  - Sparky and her friends
+  - Pearl's Journey Home
 ---
 
 They got to Fanton.
