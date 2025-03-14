@@ -1,7 +1,7 @@
 ---
-layout: chsLayout.liquid
+layout: storyLayout.liquid
 pagination:
-  data: "{{ collection.stories | getStoryTags }}"
+  data: collections.storyTags
   size: 1
   alias: tag
   addAllPagesToCollections: true
@@ -14,5 +14,5 @@ eleventyComputed:
     title: "{{ tag }}"
     parent: Story Tags
 ---
-{% assign filteredStories = collection.stories | filterStoriesByTag: tag %}
+{% assign filteredStories = collections.stories | filterStoriesByTag: tag %}
 {% include 'storylist', chs: filteredStories %}
