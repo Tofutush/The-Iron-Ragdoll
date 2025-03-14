@@ -118,6 +118,7 @@ eleventyComputed:
     {% include 'palette' colors: palette %}
     {% if filteredGallery.size > 0 %}
       <h2 id="gallery">Gallery</h2>
+      <p>Some art are from other people. If you see your art here and want me to remove it / change the attribution, please <a href="/contact/">tell me</a>!</p>
       {% include 'gallery' imgs: filteredGallery %}
     {% endif %}
     <details>

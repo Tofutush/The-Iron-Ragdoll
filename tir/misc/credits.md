@@ -17,7 +17,7 @@ Most content on this site is made by myself. What isn't:
 - 中文字体用的是[霞鹜漫黑 v0.312](https://github.com/lxgw/LxgwMarkerGothic)。
 - Markdown files are edited in [Obsidian](https://obsidian.md).
 
-All stories, characters, and artwork on this site are created by myself. Art by others can be found on [Toyhouse](https://toyhou.se/Tofutush).
+All stories and characters on this site are created by myself. Some artwork is by other people. If you would like me to remove your artwork, change the attribution link, or anything else, please [tell me](/contact/)!
 
 ## Let me tell you about Homestuck
 
