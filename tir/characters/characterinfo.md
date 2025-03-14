@@ -6,4 +6,4 @@ And if the "gender" field only says "Male" or "Female" without specifying furthe
 
 However, please do not stray away from information that *is* given!
 
-The "Age estimation" is for characters without a specific birthday. "Around the same as" means that they're less than a year apart -- if they went to school together they would be in the same grade. "A little younger/older" means they're probably 2 - 5 years apart.
+The "Age estimation" is for characters without a specific birthday. "Around the same as" means that they're less than a year apart — if they went to school together they would be in the same grade. "A little younger/older" means they're probably 2 - 5 years apart.

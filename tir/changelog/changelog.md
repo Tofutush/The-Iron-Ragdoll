@@ -8,6 +8,29 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-14
+
+- Happy PI day!
+- Added tags and filtering to [stories](/stories/).
+- Removed the link colors on gallery and stories.
+	- Which led to some funny coloring of some stories, which is nice I guess.
+
+## 2025-03-13
+
+- Added `jackalope salute.png`, `xuer.gif`, `xuer-2.gif`.
+
+## 2025-03-10
+
+- Added stories for each country in [Pearl's Journey Home](/tir/stories/pearls-journey-home/).
+- Changed the story list's style.
+- Added `xuer.png`, `sparky tween.png`, `sparky tween.gif`.
+
+## 2025-03-09
+
+- Updated the CSS to include `<h4>`s.
+- Updated [About](/about/).
+- Added `amber profile.png`, `peacock profile.png`.
+
 ## 2025-03-08
 
 - Happy Women's Day!

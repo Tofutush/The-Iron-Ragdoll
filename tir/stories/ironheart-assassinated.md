@@ -2,16 +2,19 @@
 layout: story.liquid
 title: Ironheart Assassinated
 canon: yes
-order: 108
+order: 112
 chs:
   - ironheart
   - sparky
   - animus
   - cobalt
-location: <a href="/world/bauhinia/coastline/">Coastline</a>
 time: 
 titlezh: 铁心遇刺
 summary: Ironheart gets assassinated. Fortunately, he survives. Unfortunately, he is no longer Ironheart.
+myTags:
+  - Canon
+  - Bauhinia
+  - Coastline
 ---
 
 Sparky was babysitting [Peach](/characters/minor#peach/) at a park. Peach asked for ice cream. Sparky said something along the lines of "your dad said you could only have one ice cream," but gave her another regardless.

@@ -13,14 +13,19 @@ A paracosm about a little girl solving mysteries and getting tangled up in consp
 
 ## About me
 
-Tofutush here. I like comics and OCs. I belong to the Cat Cult where we worship cats. You should join us.
+> It is easy to kill but hard to dispose of the body.
+
+Tofutush here. I like comics, OCs, and spies. I belong to the Cat Cult where we worship cats. You should join us.
+
+She/her, suffering from late-stage cisness, but I don't mind any pronouns.
 
 A good spy[^1] has many aliases. I may also be Mafia Don, Sirocco, XXQ, 黑帮老大，吸螺壳, depending on the context.
 
-Stalk me or whatever:
+I'm a professional lurker but I'd love to make friends. Please don't be scared of me; I'm probably more scared of you.
 
 - [Neospring](https://neospring.org/@tofutush)
 - [Toyhouse](https://toyhou.se/Tofutush)
+- [Artfight](https://artfight.net/~Tofutush)
 - Discord / WeChat (tofutush)
 
 I'm probably on other places too, just not as often. I'm usually Tofutush on all platforms. Not being able to get a username that says Tofutush would make me lose interest in that platform.

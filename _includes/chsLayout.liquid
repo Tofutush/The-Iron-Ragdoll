@@ -1,7 +1,8 @@
 ---
 layout: layout.liquid
 ---
-<link rel="stylesheet" href="/css/characterspage.css"/>
+<link rel="stylesheet" href="/css/characterspage.css" />
+<link rel="stylesheet" href="/css/tags.css" />
 <h1>{{ title }}</h1>
 <div class="box-nav">
     <a href="/characters/minor/" aria-current>Minor characters</a>
@@ -18,14 +19,3 @@ layout: layout.liquid
   </div>
 </details>
 {{ content }}
-{% if tag %}
-  {% assign slugged = tag | slug %}
-  {% if collections[slugged] %}
-    <h2>Related files</h2>
-    <ul>
-      {% for file in collections[slugged] %}
-        {% include 'fileLi', file: file %}
-      {% endfor %}
-    </ul>
-  {% endif %}
-{% endif %}

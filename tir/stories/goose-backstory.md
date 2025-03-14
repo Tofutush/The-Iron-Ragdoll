@@ -6,9 +6,14 @@ order: 304
 chs:
   - goose
 time: 2001 - present
-location: <a href="/world/bauhinia/coastline/">Coastline</a>, <a href="/world/bauhinia/">Bauhinia</a>
 summary: Goose's backstory.
 titlezh: 白鹅背景
+myTags:
+  - Canon
+  - Backstory
+  - Bauhinia
+  - Coastline
+  - MSS
 ---
 
 Goose was born in [Coastline](/world/bauhinia/coastline/). There was absolutely nothing special about her. Once her parents even missed her trying to pick her up from kindergarten because they forgot what she looked like. Goose grew up playing and gossiping with other girls, reading the most popular books (mostly trashy romance), writing silly love letters to her crushes (there were a lot of them and if you showed adult-Goose those letters she would die from internal bleeding), and trying on her mom's makeup.
@@ -25,6 +30,6 @@ After serving two years in the navy, she got recruited into the MSS. Her assigne
 
 One by one these people left her. Pumpkin was murdered, Halcyon traded away, and Paperweight got sick and retired to die[^1]. She crafted her own legend by completing Paperweight's legacy.
 
-[^1]: [Paperweight's Roadtrip](/stories/paperweights-roadtrip/)
-
 She got an apprentice, [Sky](/characters/sky/) from [the Moreland nuke thing](/stories/a-nuke-from-moreland/), who then went on to create his own legend during the Fantoni invasion.
+
+[^1]: [Paperweight's Roadtrip](/stories/paperweights-roadtrip/)

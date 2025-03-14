@@ -11,11 +11,14 @@ chs:
   - frosting
   - jerboa
   - kismet
-location: <a href="/world/bauhinia/">Bauhinia</a>
 time: 2018 - 2021
 titlezh: 回旋镖计划
 summary: Bauhinia initiated a top-secret project to develop the time machine.
-tags: "project-boomerang"
+tags:
+  - project-boomerang
+myTags:
+  - Canon
+  - Bauhinia
 ---
 
 Due to recent breakthroughs in quantum technology, it had been proven theoretically possible to make a time machine that can revert or fast forward a certain object or area. The Republic of Bauhinia is eager to try that.

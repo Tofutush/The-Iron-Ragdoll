@@ -16,11 +16,16 @@ chs:
   - gecko
   - lark
 time: 2031 summer break
-location: <a href="/world/bauhinia/coastline/">Coastline</a>
 summary: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
 titlezh: 莫尔兰核弹
 tags:
   - a-nuke-from-moreland
+myTags:
+  - Canon
+  - Coastline
+  - Bauhinia
+  - MSS
+  - Sparky and her friends
 ---
 
 I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you wanna read it. I think the questioning scene was pretty cool though. The main problem is that no one has any personality.

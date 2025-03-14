@@ -9,12 +9,16 @@ chs:
   - sky
   - firecrackers
   - pearl
-  - fern
-  - jackpot
-  - snake
-  - halcyon
-  - buttercup
-time: 2032
-location: <a href="/world/bauhinia/">Bauhinia</a>, <a href="/world/fanton/">Fanton</a>, <a href="/world/atlasia/">Atlasia</a>, <a href="/world/moreland/">Moreland</a>, <a href="/world/sylvandia/">Sylvandia</a>
+time: "2032"
 summary: The friends send a kidnapped girl home, all the way across the continent. When the journey ends, everything stays the same, and yet no one is the same anymore.
+myTags:
+  - Canon
+  - Bauhinia
+  - Coastline
+  - Sparky and her friends
+  - Pearl's Journey Home
 ---
+
+They got Pearl stashed in the safe house. They figured it out. She was from Sylvandia.
+
+We're bringing her home, said Sparky.

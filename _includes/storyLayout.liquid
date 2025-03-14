@@ -1,0 +1,16 @@
+---
+layout: layout.liquid
+---
+<link rel="stylesheet" href="/css/tags.css" />
+<h1>{{ title }}</h1>
+<details>
+  <summary><h2>Tag filter</h2></summary>
+  <div class="tags">
+    <a href="/stories/" {% if page.url == "/stories/" %}aria-current="true"{% endif %}>All</a>
+    {% assign storyTags = collections.storyTags %}
+    {% for t in storyTags %}
+      <a href="/stories/tag/{{ t | slug }}/" {% if t == tag %}aria-current="true"{% endif %}>{{ t }}</a>
+    {% endfor %}
+  </div>
+</details>
+{{ content }}
