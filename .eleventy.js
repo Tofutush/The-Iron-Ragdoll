@@ -70,6 +70,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('fonts');
 	eleventyConfig.addPassthroughCopy('robots.txt');
 	eleventyConfig.addPassthroughCopy('img/gallery/*.gif');
+	eleventyConfig.addPassthroughCopy('img/others art/*.gif');
 	// filters
 	eleventyConfig.addFilter('slug', slug);
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {

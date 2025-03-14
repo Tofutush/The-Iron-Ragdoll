@@ -84,10 +84,6 @@
     width: 800px;
 }
 
-.buttons {
-    margin-bottom: 2em;
-}
-
 .buttons a.noclick {
     opacity: .5;
 }
@@ -104,6 +100,7 @@
     justify-content: center;
     max-width: 90vw;
     width: 800px;
+    margin-top: 1em;
 }
 
 .close {
