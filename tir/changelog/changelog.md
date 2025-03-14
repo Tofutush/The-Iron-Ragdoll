@@ -14,6 +14,7 @@ titlezh: 更新日志
 - Added tags and filtering to [stories](/stories/).
 - Removed the link colors on gallery and stories.
 	- Which led to some funny coloring of some stories, which is nice I guess.
+- Added `lark half.png`, `lark wall.png`.
 
 ## 2025-03-13
 

@@ -2321,5 +2321,21 @@
     "type": "gif",
     "date": "2025-03-13",
     "comment": "Gift art for [Kolo](https://numbersstory.com), featuring [Xuer](https://characters.numbersstory.com/chara/house/xuer)."
+  },
+  {
+    "name": "lark half",
+    "type": "png",
+    "ch": [
+      "lark"
+    ],
+    "date": "2025-03-14"
+  },
+  {
+    "name": "lark wall",
+    "type": "png",
+    "ch": [
+      "lark"
+    ],
+    "date": "2025-03-14"
   }
 ]
