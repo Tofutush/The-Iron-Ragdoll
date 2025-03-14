@@ -15,4 +15,4 @@ eleventyComputed:
     parent: Story Tags
 ---
 {% assign filteredStories = collections.stories | filterStoriesByTag: tag %}
-{% include 'storylist', chs: filteredStories %}
+{% include 'storylist', stories: filteredStories %}
