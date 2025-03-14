@@ -9,9 +9,12 @@ chs:
   - pumpkin
   - helsinki
 time: "2031"
-location: <a href="/world/westavia/nameless-village/">Nameless Village</a>
 summary: Candlelight goes back home to his little village, meeting a more-than-friend along the way. Incidents happen.
 titlezh: 烛光回老家
+myTags:
+  - Canon
+  - Westavia
+  - Nameless village
 ---
 
 Candlelight, after the events of [Sunflowers in the Dark](/stories/sunflowers-in-the-dark/), decided to quit and go back to being a farmer. He moved from [Area 1](/world/westavia/area-1/) back to the nameless village near [Area 29](/world/westavia/area-29/) in which he was born.
