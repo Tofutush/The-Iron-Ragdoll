@@ -102,9 +102,11 @@ They dug around the house again, though nothing new turned up.
 
 That was when a mysterious figure in a hat appeared, jacket slung over his shoulders, a flute in his pocket. He was on the other side of the short, dusty wall, elbows on the top, leaning in at the kids, apparently having heard everything.
 
+{% image "gallery/" "lark wall.png" 1000 "Lark on the wall" 'max' %}
+
 > "Do you need help?"
 
-The stranger introduces himself as Lark. He wanted to help the kids beat the MSS. Why? Because ha hates the MSS with a passion and would like to see them get owned by a bunch of kids. So that's why you should not tell them about me, because then they would know we cheated. We want to pretend this is all *your* credit!
+The stranger introduces himself as Lark. He wanted to help the kids beat the MSS. Why? Because he hates the MSS with a passion and would like to see them get owned by a bunch of kids. So that's why you should not tell them about me, because then they would know we cheated. We want to pretend this is all *your* credit!
 
 Sparky was happy. Sky was debating with himself whether to report Lark. Firecrackers was suspicious. Qibli seemed unsure.
 
