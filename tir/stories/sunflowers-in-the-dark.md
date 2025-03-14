@@ -6,7 +6,6 @@ order: 202
 chs:
   - candlelight
   - sunflower
-location: <a href="/world/westavia/area-1/">Area 1</a>
 time: "2030"
 summary: Candlelight gets an annoying suicide watch target and ends up quitting his job.
 myTags:

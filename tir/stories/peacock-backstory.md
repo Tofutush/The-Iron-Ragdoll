@@ -6,7 +6,6 @@ order: 301
 chs:
   - peacock
 time: "?"
-location: <a href="/world/bauhinia/">Bauhinia</a>
 summary: Peacock's backstory.
 titlezh: 孔雀背景
 myTags:

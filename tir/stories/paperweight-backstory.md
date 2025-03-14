@@ -5,7 +5,6 @@ canon: yes
 order: 307
 chs:
   - paperweight
-location: <a href="/world/bauhinia/">Bauhinia</a>
 time: "1978"
 titlezh: 镇纸背景
 summary: Paperweight's backstory.

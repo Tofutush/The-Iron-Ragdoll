@@ -6,7 +6,6 @@ order: 206
 chs:
   - tundra
   - kismet
-location: <a href="/world/fanton/">Fanton</a>
 time: 2023 - ?
 titlezh: 
 summary: Bauhinia's president seeks immortality, part 2.
