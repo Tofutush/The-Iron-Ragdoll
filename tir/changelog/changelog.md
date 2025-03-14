@@ -8,6 +8,13 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-14
+
+- Happy PI day!
+- Added tags and filtering to [stories](/stories/).
+- Removed the link colors on gallery and stories.
+	- Which led to some funny coloring of some stories, which is nice I guess.
+
 ## 2025-03-13
 
 - Added `jackalope salute.png`, `xuer.gif`, `xuer-2.gif`.
