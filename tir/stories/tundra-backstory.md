@@ -6,7 +6,6 @@ order: 302
 chs:
   - tundra
 time: "?"
-location: <a href="/world/bauhinia/">Bauhinia</a>
 summary: Tundra's backstory.
 titlezh: 冰封雪背景
 myTags:

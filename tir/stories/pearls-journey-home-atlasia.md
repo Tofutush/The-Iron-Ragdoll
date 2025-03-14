@@ -11,7 +11,6 @@ chs:
   - jackpot
   - snake
 time: "2032"
-location: <a href="/world/atlasia/">Atlasia</a>
 summary: The friends get to Atlasia with Pearl.
 myTags:
   - Canon
