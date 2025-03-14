@@ -15,6 +15,6 @@
 
 .tags>a[aria-current],
 .tags>a:hover {
-    color: var(--text);
+    color: var(--bg);
     background-color: var(--c);
 }
