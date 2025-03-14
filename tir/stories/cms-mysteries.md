@@ -9,10 +9,15 @@ chs:
   - sky
   - firecrackers
   - myriad
-time: 2031
-location: <a href="/world/bauhinia/coastline/cms/">Coastline Middle School</a>
-summary: Sparky makes friends at school and struggles to catch up because she received like. Zero elementary school education. Also there's a kleptomaniac who keeps stealing her pens.
+time: "2031"
+summary: Sparky starts middle school dealing with her crazy friends, patchwork family, and a kleptomaniac.
 titlezh: 沿海十一中扒手案
+myTags:
+  - Canon
+  - Bauhinia
+  - Coastline
+  - CMS
+  - Sparky and her friends
 ---
 
 Sparky is a girl who clinged on her mom too much, hated her stepdad and half-sister, and was about to start middle school.

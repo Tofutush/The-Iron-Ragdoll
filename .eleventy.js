@@ -15,6 +15,7 @@ const utilPlugin = require('./_plugins/utils');
 const chPlugin = require('./_plugins/ch');
 const relPlugin = require('./_plugins/rel');
 const imagePlugin = require('./_plugins/image');
+const storyPlugin = require('./_plugins/story');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -60,6 +61,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(chPlugin);
 	eleventyConfig.addPlugin(relPlugin);
 	eleventyConfig.addPlugin(imagePlugin);
+	eleventyConfig.addPlugin(storyPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');
@@ -68,10 +70,6 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('fonts');
 	eleventyConfig.addPassthroughCopy('robots.txt');
 	eleventyConfig.addPassthroughCopy('img/gallery/*.gif');
-	// collections
-	eleventyConfig.addCollection("stories", collection =>
-		collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => a.data.order - b.data.order)
-	);
 	// filters
 	eleventyConfig.addFilter('slug', slug);
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {

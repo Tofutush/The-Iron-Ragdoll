@@ -9,6 +9,10 @@ time: "?"
 location: <a href="/world/bauhinia/">Bauhinia</a>
 summary: Peacock's backstory.
 titlezh: 孔雀背景
+myTags:
+  - Canon
+  - Backstory
+  - Bauhinia
 ---
 
 ## Past Life
@@ -35,7 +39,7 @@ Peacock confessed to grandma Meng, saying that he (she) didn't properly drink hi
 
 "Are you ready then?" She asked Peacock.
 
-"Ready to... what?" Peacock was still dizzy from his (I don't know how he died yet but it was messy and he was still dizzy from that).
+"Ready to… what?" Peacock was still dizzy from his (I don't know how he died yet but it was messy and he was still dizzy from that).
 
 "To move on."
 

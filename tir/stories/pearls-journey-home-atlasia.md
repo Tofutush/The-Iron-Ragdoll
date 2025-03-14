@@ -13,6 +13,11 @@ chs:
 time: "2032"
 location: <a href="/world/atlasia/">Atlasia</a>
 summary: The friends get to Atlasia with Pearl.
+myTags:
+  - Canon
+  - Atlasia
+  - Sparky and her friends
+  - Pearl's Journey Home
 ---
 
 They got to Atlasia and met Jackpot and his son, Snake.
