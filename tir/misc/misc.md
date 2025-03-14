@@ -8,4 +8,3 @@ eleventyNavigation:
 
 - [Buttons and webrings](links/): cool sites, and webrings I'm in
 - [Credits](credits/): where it's due
-- []
