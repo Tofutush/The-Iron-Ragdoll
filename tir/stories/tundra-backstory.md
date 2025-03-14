@@ -14,6 +14,10 @@ myTags:
   - Backstory
 ---
 
+Needs rewrite — outdated
+
+---
+
 Tundra lived in the countryside with his grandparents while his parents worked in [Coastline](/world/bauhinia/coastline/) at the [Starcorp](/world/bauhinia/starcorp/) headquarters.
 
 He was sent to [Hillslope](/world/bauhinia/hillslope/) after his parents were murdered by Starcorp for embezzling money.
