@@ -13,10 +13,14 @@ chs:
   - ironheart
   - willow
   - animus
-location: <a href="/world/bauhinia/coastline/">Coastline</a>
 time: After Sparky married Nightsun
 titlezh: 荆棘的幸福家庭
 summary: Bramble talks about his family.
+myTags:
+  - Semi-canon
+  - Bauhinia
+  - Coastline
+  - Oneshot
 ---
 
 Bramble is reading his essay, "My Happy Family," in front of his class. Meanwhile, his parents are doing through their respective days.

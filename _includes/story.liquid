@@ -6,7 +6,6 @@ eleventyComputed:
     parent: Stories
   desc: "{{ summary }}"
 ---
-<link rel="stylesheet" href="/css/story.css" />
 <div class="attr">
   <div class="attr-key">Canon?</div>
   <div class="attr-val">{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi'
@@ -18,12 +17,16 @@ eleventyComputed:
     <div>{% include 'chButton', ch: ch %}</div>
     {% endfor %}
   </div>
-  {% if location %}
-  <div class="attr-key">Location</div>
-  <div class="attr-val">{{ location }}</div>
-  {% endif %}
   <div class="attr-key">Time period</div>
   <div class="attr-val">{{ time }}</div>
+  {% if myTags %}
+    <div class="attr-key">Tags</div>
+    <div class="attr-val">
+      {% for tag in myTags %}
+        {% if forloop.index != 1 %}, {% endif %}<a href="/stories/tags/{{ tag | slug }}">{% lucide 'tags' %} {{ tag }}</a>
+      {% endfor %}
+    </div>
+  {% endif %}
 </div>
 {% if comic %}
 <p style="text-align: center;"><a href="page-1/">{% lucide 'chevrons-right' %}Read the comic associated with this story!{% lucide 'chevrons-left' %}</a></p>

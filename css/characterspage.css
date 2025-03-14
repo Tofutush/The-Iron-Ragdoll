@@ -6,26 +6,7 @@ body {
 	display: flex;
 }
 
-.tags {
-	display: flex;
-	flex-wrap: wrap;
-	gap: .5em;
-	user-select: none;
-}
 
-.tags>a {
-	border-radius: .5rem;
-	font-size: var(--font-size-small);
-	padding: 0.5rem 0.7rem;
-	border: 4px solid var(--c);
-	text-decoration: none;
-}
-
-.tags>a[aria-current],
-.tags>a:hover {
-	color: var(--text);
-	background-color: var(--c);
-}
 
 .chs {
 	flex-grow: 1;
