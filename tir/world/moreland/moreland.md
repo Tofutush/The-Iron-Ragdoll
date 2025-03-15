@@ -27,6 +27,10 @@ Moreland borders [Westavia](/world/westavia/) to the southwest, [Atlasia](/world
 
 The closest geographical mirror to Moreland is Mongolia plus Inner Mongolia.
 
+## Places
+
+- [Revolution's Cradle](/world/moreland/revolutions-cradle/) (capital)
+
 ## Government
 
 Moreland is ruled by a military junta, officially named *Armed Forces of the Republic of Moreland*, but affectionately referred to by the people as *The Guardian Moose*, or the "guardians."

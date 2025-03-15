@@ -12,7 +12,8 @@ titlezh: 更新日志
 
 - Added the status cafe widget to [About](/about/)!
 - Tofutush canNOT decide on a blockquote style.
-- I forgot to log `ribbon profile.png` in the `.json` file... It's there now.
+- I forgot to log `ribbon profile.png` in the `.json` file… It's there now.
+- Gave Sylvandia and Moreland capital cities: [Bonnie](/world/sylvandia/bonnie/) and [Revolution's Cradle](/world/moreland/revolutions-cradle/).
 
 ## 2025-03-14
 
