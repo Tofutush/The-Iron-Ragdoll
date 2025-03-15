@@ -56,12 +56,12 @@
 
 body.dark{
     .card p{
-        text-shadow: 2px 2px 5px var(--text-light);
+        text-shadow: 0px 0px 6px var(--text-light);
     }
 }
 
 body.light{
     .card p{
-        text-shadow: 2px 2px 5px var(--bg-light);
+        text-shadow: 0px 0px 6px var(--bg-light);
     }
 }
