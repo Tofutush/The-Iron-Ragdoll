@@ -8,6 +8,12 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-15
+
+- Added the status cafe widget to [About](/about/)!
+- Tofutush canNOT decide on a blockquote style.
+- I forgot to log `ribbon profile.png` in the `.json` file... It's there now.
+
 ## 2025-03-14
 
 - Happy PI day!
