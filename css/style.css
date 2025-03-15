@@ -197,10 +197,9 @@ button {
 
 blockquote {
   margin: 1em 2em;
-  padding: 1em 1.5em;
+  padding: .5em 1.5em;
   position: relative;
-  border-radius: 1em;
-  background-color: var(--box);
+  border-left: 8px solid var(--c);
 }
 
 blockquote p:first-child {
@@ -641,7 +640,7 @@ a::selection {
 
   blockquote {
     margin: 1em 0;
-    padding: 1em;
+    padding: 0 1em;
   }
 
   .attr {
