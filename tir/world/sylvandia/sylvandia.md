@@ -32,3 +32,7 @@ The closest geographical mirror to Sylvandia is Siberia.
 - [Mistle](mistle/)
 - [Holliloli](holliloli/)
 - [Snowdale](snowdale/)
+
+### Places
+
+- [Bonnie](/world/sylvandia/bonnie/) (capital)
