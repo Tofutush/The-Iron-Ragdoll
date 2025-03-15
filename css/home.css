@@ -1,3 +1,8 @@
+:root {
+    --text-light: #191919;
+    --bg-light: #fff9f2;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -47,5 +52,16 @@
 
 .card p {
     margin: 0;
-    text-shadow: 2px 2px 5px black
+}
+
+body.dark{
+    .card p{
+        text-shadow: 2px 2px 5px var(--text-light);
+    }
+}
+
+body.light{
+    .card p{
+        text-shadow: 2px 2px 5px var(--bg-light);
+    }
 }
