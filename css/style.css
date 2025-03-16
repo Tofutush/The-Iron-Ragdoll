@@ -25,7 +25,7 @@
   --bg-light: #fff9f2;
   --c-light: #e56b6f;
   --box-light: #0001;
-  --c-dark: #FFD8A8;
+  --c-dark: #3dd4f8;
   --box-dark: #fff5;
 }
 
@@ -321,10 +321,6 @@ nav>a:hover,
 .license>a:hover {
   text-decoration: underline;
   color: var(--bg);
-}
-
-body.dark nav>a:hover {
-  text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
 }
 
 footer {
