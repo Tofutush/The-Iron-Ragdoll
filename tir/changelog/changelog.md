@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-16
+
+- Merged [a PR from TheOliveOli](https://github.com/Tofutush/The-Iron-Ragdoll/pull/1) to add a text shadow behind the card text in front of the popup characters. Thank you!
+- Changed the dark mode accent to blue again. I cannot settle down, man.
+
 ## 2025-03-15
 
 - Added the status cafe widget to [About](/about/)!
