@@ -7,8 +7,7 @@
         if (lightDark === 0) {
             lightDark = 1;
             document.body.className = 'light';
-        }
-        else {
+        } else {
             lightDark = 0;
             document.body.className = 'dark';
         }
