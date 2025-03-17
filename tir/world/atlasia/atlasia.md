@@ -33,11 +33,30 @@ The closest geographical mirror to Atlasia is northern China.
 
 ## Government
 
-The Atlasian government consists only of the judicial courts, law enforcement (police), and the military.
+The Atlasian government consists only of the judicial courts, law enforcement (police), and the military. The courts mostly only settle contract and property disputes; the police mostly enforce property laws; and the military have such a hard time getting recruits they resort to manipulation and coercion — since mandatory drafting would blow the Atlasians' minds. See section [economy](#economy) for the corporations filling in the gap.
+
+### Foreign relations
+
+Atlasia is on [Bauhinia](/world/bauhinia/)'s side in the cold war against [Moreland](/world/moreland/). All other countries (except Bauhinia) have issued travel warnings to Atlasia because of how hot of a mess it is over there, and in retaliation Atlasia have travel warnings for those countries as well, which is pretty stupidly funny.
+
+Atlasia's rampant criminal (in other countries' definitions of "criminal") activities leaking out into other countries has always been a pain in the ass for everyone, including Bauhinia.
+
+## Economy
+
+Private corporations dominate in Atlasia's laissez-faire economy. Notable industries include:
+
+- Fire, and other disaster prevention. If you can't afford the protection fees, we would leave you to burn. If your fire leaks to other houses under our protection, we might put out yours and charge you the complete fees, forcing you into debt!
+- Healthcare. We all know where this is going.
+- Prison. Work or die.
+- And well, more.
+
+They're all controlled by either monopolies or oligopolies.
+
+Aside from that, criminal activities (as defined by other countries — they certainly aren't "criminal" here) is rampant in Atlasia as people used every tactic imaginable to achieve their goals.
 
 ## Society
 
-In Atlasia, parents don't get to name their kids. Kids decide their own names. You can change your name, gender, or even race anytime you want — it's up to you.
+Personal freedom is the pillar of Atlasian society. Anything that remotely infringes on that is immediately seen as authoritarian and vehemently opposed.
 
 Marriage as an institution is abolished. Nobody can dictate who you can or can't be with.
 
@@ -45,9 +64,11 @@ Also, there is no age where you "legally turn into an adult." You're considered 
 
 ### Naming conventions
 
-Atlasia's naming conventions mirrors our western world, with a given name, an optional middle name, and a family name. For example, "[Jackpot Cloudy](/characters/jackpot/)" and "[Snake Cloudy](/characters/snake/)."
+Parents don't get to name their kids. Kids decide their own names. You can change your name, gender, or even race anytime you want — it's up to you. Though, people don't change names, especially last names, that often, because it's a pain for other people as well as themselves. Most settle down in their teenage years.
 
-Women change their family names to their partner's (since marriage isn't a thing anymore, they'd change their names to signify that they're together). It's still always the women changing names.
+Aside from that, Atlasia's naming conventions mirrors our western world, with a given name, an optional middle name, and a family name. For example, "[Jackpot Cloudy](/characters/jackpot/)" and "[Snake Cloudy](/characters/snake/)."
+
+Since marriage isn't a thing anymore, women don't tend to change their last names to their boyfriend's, though some people are just assholes and would make their girlfriends change them anyways (such as Jackpot's father) to signify an official, long-lasting relationship. But there are still scarcely men changing their last names to their girlfriend's.
 
 ## Espionage
 
@@ -57,7 +78,7 @@ Atlasia is a country rife with espionage activity both political and corporate, 
 
 Atlasia was created by Moose immigrants after the Guardian Moose Takeover (Morelandian Revolution). They hated the new regime, so they made their own the way they liked it.
 
-They took the plains in the east and declared independence shortly before [Fanton](/world/fanton/) did. During the process of establishing the new republic, they drove away many native residents of the plains into either [Moreland](/world/moreland/), [Westavia](/world/westavia/), or [Bauhinia](/world/bauhinia/), mostly the area that would be Fanton soon.
+They took the plains in the east and declared independence shortly after [Fanton](/world/fanton/) did. During the process of establishing the new republic, they drove away many native residents of the plains into either [Moreland](/world/moreland/), [Westavia](/world/westavia/), or [Bauhinia](/world/bauhinia/).
 
 ## Trivia
 

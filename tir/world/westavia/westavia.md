@@ -41,19 +41,33 @@ Except for the capital, all cities and regions in Westavia are called "Area (num
 
 Westavia is a socialist country, a dictatorship of the proletariat. There is a central government, and smaller local governments in each city. The governing party is called the Communist Party of Westavia, or often just "the party."
 
-The second favorite thing the government does in terms of foreign relations, after fighting the cold war, is accuse [Moreland](/world/moreland/) of being revisionist while denying Moreland's accusation that *they* are the revisionists.
-
 ### Agencies
 
 - [Suicide Prevention Force](/world/westavia/spf/), the state security apparatus
 
+### Foreign relations
+
+Westavia is on [Moreland](/world/moreland/)'s side in the cold war against [Bauhinia](/world/bauhinia/). That is the first thing they like to do.
+
+The second favorite thing is accusing Moreland of being revisionist while denying Moreland's accusation that *they* are the revisionists. They are against Moreland's colonizing and exploitive actions in [Sylvandia](/world/sylvandia/).
+
 ## Society
+
+Westavians are known for being passionate, hospitable, and friendly to guests. To visitors, they treat them to their best food and wine; to their neighbors, they trust each other so much that in villages, people hardly lock their doors. It helps that most of their living rooms don't have roofs, and is essentially just a yard with tables in it.
+
+### Wine culture
 
 Westavians love making wine because they have way too many grapes. And raisins too[^1].
 
 Wine culture is all too big in Westavia. People *love* drinking. Though the legal drinking age is still 18, kids would still drink, and simply mandating an ID check in stores won't work, because most people would have homemade wine right in their homes.
 
 Kids drinking is a small problem. Westavian adults could drink a ton during gatherings, parties, and even local government meetings, to the point where people could die at the table. The central government had attempted some anti-excessive-drinking campaigns that went nowhere.
+
+### History studies
+
+History — and especially Westavian history — is a hushed-up subject in the country. It is forbidden to study history outside of government-approved narratives. One most prominent example is the changing of all city names to Area \[number] ([People's Vanguard](/world/westavia/peoples-vanguard/) is also a changed name), while referring to their original names is punishable by detainment.
+
+Despite this, there are still a number of secret historians who collect and archive information on Westavia's history under the threat of jail time. These people are persecuted by the authorities (obviously), frowned upon by ordinary citizens, and revered by dissidents of the Westavian government.
 
 ## Trivia
 

@@ -35,8 +35,6 @@ The closest geographical mirror to Moreland is Mongolia plus Inner Mongolia.
 
 Moreland is ruled by a military junta, officially named *Armed Forces of the Republic of Moreland*, but affectionately referred to by the people as *The Guardian Moose*, or the "guardians."
 
-The second favorite thing the government does in terms of foreign relations, after fighting the cold war, is accuse [Westavia](/world/westavia/) of being revisionist while denying Westavia's accusation that *they* are the revisionists.
-
 ### Agencies
 
 - [Armed Forces of the Republic of Moreland](/world/moreland/guardian-moose/)
@@ -49,6 +47,12 @@ All Moose are required to serve 4 years in the military after graduating high sc
 After those 4 years, if they're eligible (which not a lot of people are), they can stay in the military, which would let them either do what all soldiers to like border patrols or something, or have a chance at getting a government position.
 
 If they weren't eligible or didn't want to stay in the military, they could get out and get a job or pursue higher education.
+
+### Foreign relations
+
+Moreland is in a cold war against [Bauhinia](/world/bauhinia/). That is the first thing they like to do.
+
+The second favorite thing is accusing [Westavia](/world/westavia/) of being revisionist while denying Westavia's accusation that *they* are the revisionists. They think Westavia is too poor and stupid; a hopeless child who cannot be anything on their own.
 
 ## Society
 
