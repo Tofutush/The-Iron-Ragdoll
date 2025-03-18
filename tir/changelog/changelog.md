@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-18
+
+- Added new fun page, [wallpapers](/fun/wallpapers/) you can download!
+
 ## 2025-03-17
 
 - Edited a lot of country information, notably a "Foreign relations" section.
