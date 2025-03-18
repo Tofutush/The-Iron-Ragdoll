@@ -16,6 +16,7 @@ Most content on this site is made by myself. What isn't:
 - Adjectives and adverbs in the [generator](/fun/scenarios/) are from [Corpora](https://github.com/dariusk/corpora).
 - 中文字体用的是[霞鹜漫黑 v0.312](https://github.com/lxgw/LxgwMarkerGothic)。
 - Markdown files are edited in [Obsidian](https://obsidian.md).
+- Most [wallpapers] are made by [TheOliveOli](https://theoliveoli.blahaj.land/).
 
 All stories, characters, and artwork on this site are created by myself. Art by others can be found on [Toyhouse](https://toyhou.se/Tofutush).
 
