@@ -32,7 +32,7 @@ function imagePlugin(eleventyConfig) {
     eleventyConfig.addShortcode('imageUrl', async function (path, name, size, fallback, type) {
         let src = getImgSrc(path, name, fallback);
         let metadata = await getImg(src, size, type || 'webp', path);
-        return metadata.webp[0].url;
+        return metadata[type || 'webp'][0].url;
     });
     function getImgSrc(path, name, fallback) {
         if (existsSync('img/' + path + name)) return 'img/' + path + name;
