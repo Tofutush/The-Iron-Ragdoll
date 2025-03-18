@@ -29,9 +29,9 @@ function imagePlugin(eleventyConfig) {
         let img = Image.generateHTML(metadata, imageAttributes);
         return `<figure class="${className}">${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
     });
-    eleventyConfig.addShortcode('imageUrl', async function (path, name, size, fallback) {
+    eleventyConfig.addShortcode('imageUrl', async function (path, name, size, fallback, type) {
         let src = getImgSrc(path, name, fallback);
-        let metadata = await getImg(src, size, 'webp', path);
+        let metadata = await getImg(src, size, type || 'webp', path);
         return metadata.webp[0].url;
     });
     function getImgSrc(path, name, fallback) {
