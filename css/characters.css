@@ -6,8 +6,8 @@
 
 h1,
 h2,
-#main-content h2::before,
-#main-content h3::before {
+main h2::before,
+main h3::before {
   color: var(--accent);
 }
 
