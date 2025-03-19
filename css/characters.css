@@ -32,18 +32,6 @@ blockquote {
   border-color: var(--accent);
 }
 
-.desc .note {
-  margin: 2em 1em;
-}
-
-.desc .note>p:first-child {
-  margin-top: 0;
-}
-
-.desc .note>p:last-child {
-  margin-bottom: 0;
-}
-
 .title {
   align-items: center;
   display: flex;
