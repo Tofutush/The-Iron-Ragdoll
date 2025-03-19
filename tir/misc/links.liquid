@@ -46,13 +46,50 @@ eleventyNavigation:
 <img class="max" alt="The Iron Ragdoll banner" src="/img/bg/468x60.png"/>
 
 <p>Some webrings may not display on Neocities. Sorry! That's just how the ring is made. Go <a href="https://tofutush.github.io/The-Iron-Ragdoll/about">here</a> instead.</p>
+<style>
+.oc-webring-widget {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1em auto;
+  width: fit-content;
+  gap: 1em;
+  border: 4px solid var(--c);
+  padding: 1em;
+  border-radius: 12px;
+}
 
-<div id="oc-webring-widget">
-    <div id="oc-webring-title"><a href="https://tofutush.github.io/oc-webring">OC Webring</a></div>
-    <div id="oc-webring-controls">
-        <a href="https://tofutush.github.io/oc-webring/prev/?site=The Iron Ragdoll（铁打洋娃娃）">Previous</a>
-        <a href="https://tofutush.github.io/oc-webring/rand/?site=The Iron Ragdoll（铁打洋娃娃）">Random</a>
-        <a href="https://tofutush.github.io/oc-webring/next/?site=The Iron Ragdoll（铁打洋娃娃）">Next</a>
+.oc-webring-title {
+  font-weight: bold;
+}
+
+.oc-webring-controls {
+  display: flex;
+  gap: 1em;
+}
+</style>
+<div class="oc-webring-widget">
+    <div class="oc-webring-title"><a href="https://tofutush.github.io/oc-webring">OC Webring</a></div>
+    <div class="oc-webring-controls">
+        <a href="https://tofutush.github.io/oc-webring/prev/?site=The Iron Ragdoll（铁打洋娃娃）">previous</a>
+        <a href="https://tofutush.github.io/oc-webring/rand/?site=The Iron Ragdoll（铁打洋娃娃）">random</a>
+        <a href="https://tofutush.github.io/oc-webring/next/?site=The Iron Ragdoll（铁打洋娃娃）">next</a>
+    </div>
+</div>
+<div class="oc-webring-widget">
+    <div class="oc-webring-title"><a href="https://daisy.nekoweb.org/webring">bolognese webring</a></div>
+    <div class="oc-webring-controls">
+        <a href="https://spagwhetti.github.io/redirect.html?to=prev&name=Tofutush">previous</a>
+        <a href="https://spagwhetti.github.io/redirect.html?to=random&name=Tofutush">random</a>
+        <a href="https://spagwhetti.github.io/redirect.html?to=next&name=Tofutush">next</a>
+    </div>
+</div>
+<div class="oc-webring-widget">
+    <div class="oc-webring-title"><a href="https://webring.bucketfish.me/">Bucket Webring</a></div>
+    <div class="oc-webring-controls">
+        <a href="https://webring.bucketfish.me/redirect.html?to=prev&name=The Iron Ragdoll">previous</a>
+        <a href="https://webring.bucketfish.me/redirect.html?to=random&name=The Iron Ragdoll">random</a>
+        <a href="https://webring.bucketfish.me/redirect.html?to=next&name=The Iron Ragdoll">next</a>
     </div>
 </div>
 <link rel="stylesheet" href="https://webcomicring.org/js/comicring.css">
@@ -75,5 +112,3 @@ eleventyNavigation:
 <script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script>
 
 <a href="https://webmasterwebring.netlify.app?tir-previous">{% lucide 'chevron-left' %}</a> <a href="https://webmasterwebring.netlify.app">Webmaster Webring</a> <a href="https://webmasterwebring.netlify.app?tir-next">{% lucide 'chevron-right' %}</a>
-
-<iframe id="bolognese-webring" style="width: 100%; height: 3rem; border: none;" src="https://spag.site/webring/embed.html?name=Tofutush"></iframe>
