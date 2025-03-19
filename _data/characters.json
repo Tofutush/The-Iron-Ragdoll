@@ -63,8 +63,7 @@
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Married (to <a href=\"../peacock/\">Peacock</a>)",
-      "Occupation": "Secretary and then unemployed",
-      "Deceased": true
+      "Occupation": "Secretary and then unemployed"
     },
     "palette": {
       "hair": "#2E2E2E"
@@ -145,8 +144,7 @@
       "Birthday": "2015-08-14",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
-      "Weapon": "Frying pan",
-      "Deceased": true
+      "Weapon": "Frying pan"
     },
     "palette": {
       "apron folds": "#787878",
@@ -314,8 +312,7 @@
       "Soul": "Solid, sphere-shaped",
       "Birthday": "2011-10-13",
       "Nationality": "Bauhinian",
-      "Marital status": "Married",
-      "Deceased": true
+      "Marital status": "Married"
     },
     "palette": {
       "necklace": "#caf1f1",
@@ -527,8 +524,7 @@
       "Marital status": "Widowed",
       "Occupation": "MSS officer",
       "Weapon": "Baton",
-      "Power": "Time precision lv. 350",
-      "Deceased": true
+      "Power": "Time precision lv. 350"
     },
     "palette": {
       "shoulder pads": "#f01ace",
@@ -984,8 +980,7 @@
       "Gender": "Female (cis)",
       "Age estimation": "A little older than Peacock",
       "Nationality": "Bauhinian",
-      "Occupation": "Physician",
-      "Deceased": true
+      "Occupation": "Physician"
     },
     "palette": {
       "glasses": "#727272",
@@ -1006,8 +1001,7 @@
       "Gender": "Male (cis)",
       "Age estimation": "Around the same as Koala",
       "Nationality": "Bauhinian",
-      "Occupation": "Physician",
-      "Deceased": true
+      "Occupation": "Physician"
     },
     "palette": {
       "suit": "#5D6B6F",
@@ -1069,8 +1063,7 @@
       "Nickname": "Jac (by Frosting)",
       "Gender": "Female (cis)",
       "Birthday": "2011-11-11",
-      "Nationality": "Bauhinian",
-      "Deceased": true
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#2E2E2E"
@@ -1424,8 +1417,7 @@
     ],
     "attr": {
       "Gender": "Female",
-      "Nationality": "Atlasian",
-      "Deceased": true
+      "Nationality": "Atlasian"
     },
     "palette": {
       "shirt": "#575757",
