@@ -2776,5 +2776,35 @@
       "lark"
     ],
     "date": "2025-03-14"
+  },
+  {
+    "name": "sparky sketch theoliveoli",
+    "type": "jpg",
+    "author": "TheOliveOli",
+    "authorUrl": "https://theoliveoli.blahaj.land/",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-17"
+  },
+  {
+    "name": "sparky theoliveoli",
+    "type": "png",
+    "author": "TheOliveOli",
+    "authorUrl": "https://theoliveoli.blahaj.land/",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-18"
+  },
+  {
+    "name": "jerboa theoliveoli",
+    "type": "png",
+    "author": "TheOliveOli",
+    "authorUrl": "https://theoliveoli.blahaj.land/",
+    "ch": [
+      "jerboa"
+    ],
+    "date": "2025-03-19"
   }
 ]
