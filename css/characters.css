@@ -28,6 +28,10 @@ main h3::before {
   margin: 1.5rem 0;
 }
 
+blockquote {
+  border-color: var(--accent);
+}
+
 .desc .note {
   margin: 2em 1em;
 }
