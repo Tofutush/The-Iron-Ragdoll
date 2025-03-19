@@ -1551,5 +1551,25 @@
       "hair": "#2e2e2e"
     },
     "about": "Jackalope is an officer at the Intelligence Corps of the Guardian Moose."
+  },
+  {
+    "name": "Whiteout",
+    "namezh": "白茫天",
+    "color": "#178c79",
+    "desc": "Senior MSS agent",
+    "tags": [
+      "Ministry of State Security",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Solid, snowy",
+      "Nationality": "Bauhinian",
+      "Occupation": "State security officer"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "Whiteout is a stern MSS officer, but under her hard cover, she harbors great love for her colleagues and apprentice."
   }
 ]
