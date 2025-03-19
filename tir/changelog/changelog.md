@@ -8,6 +8,26 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-18
+
+- Added new fun page, [wallpapers](/fun/wallpapers/) you can download!
+
+## 2025-03-17
+
+- Edited a lot of country information, notably a "Foreign relations" section.
+
+## 2025-03-16
+
+- Merged [a PR from TheOliveOli](https://github.com/Tofutush/The-Iron-Ragdoll/pull/1) to add a text shadow behind the card text in front of the popup characters. Thank you!
+- Changed the dark mode accent to blue again. I cannot settle down, man.
+
+## 2025-03-15
+
+- Added the status cafe widget to [About](/about/)!
+- Tofutush canNOT decide on a blockquote style.
+- I forgot to log `ribbon profile.png` in the `.json` file… It's there now.
+- Gave Sylvandia and Moreland capital cities: [Bonnie](/world/sylvandia/bonnie/) and [Revolution's Cradle](/world/moreland/revolutions-cradle/).
+
 ## 2025-03-14
 
 - Happy PI day!

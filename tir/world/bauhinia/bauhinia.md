@@ -48,6 +48,10 @@ Bauhinia is also a dictatorship, in case you haven't noticed. It's on a happy-go
 - [Ministry of State Security](/world/bauhinia/mss/)
 - Ministry of Health, responsible for [superpowers testing](/world/bauhinia/superpowers/)
 
+### Foreign relations
+
+Bauhinia is in a cold war against [Moreland](/world/moreland/). They have also finlandized and attempted to annex [Fanton](/world/fanton/), an attempt which failed but made Fanton take their side in the cold war. They engage in exploitive activities in [Sylvandia](/world/sylvandia/) not unlike that of Moreland's.
+
 ## Economy
 
 Bauhinia is controlled by a huge company called [Starcorp](starcorp/) that nearly monopolizes every industry in the country.

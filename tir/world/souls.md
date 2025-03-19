@@ -36,7 +36,7 @@ A person can also consume souls. No matter the state, just chug it in your mouth
 
 If there already *is* a soul (or souls) inside you, the new soul has to merge in. If they aren't compatible enough, it might result in you barfing a soul out. No guarantees on *which one* would be the one getting out, though.
 
-Compatibility is determined by various factors, like values, life experiences, and what the owners of the respective souls think of each other, but the most important one is its form. Shape is not a factor.
+Compatibility is determined by various factors, like values, life experiences, and what the owners of the respective souls think of each other, but the most important one is its form. Shape and color are not factors.
 
 Typically, gas souls are the most compatible with other forms, while solid the least. It would be extremely hard to merge two solid souls together, but other factors, like the owners of the souls being really good friends with each other, may increase compatibility.
 

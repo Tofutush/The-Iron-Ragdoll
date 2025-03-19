@@ -7,7 +7,6 @@ chs:
   - sparky
   - nightsun
 time: After Sparky married Nightsun
-location: <a href="/world/bauhinia/coastline/">Coastline</a>
 summary: An MSS officer searches Sparky's apartment.
 myTags:
   - Semi-canon

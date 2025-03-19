@@ -13,7 +13,6 @@ chs:
   - fantasy
   - willow
   - pearl
-location: <a href="/world/bauhinia/coastline/">Coastline</a>, <a href="/world/bauhinia/coastline/safe-house/">Safe House</a>
 time: "2032"
 titlezh: 壬子新年
 summary: Mishap in Sparky's home during the new year leads to shocking discoveries.
