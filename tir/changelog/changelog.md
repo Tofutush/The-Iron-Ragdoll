@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-19
+
+- Changed the iframes of the bucket webrings (bucket and bolognese) to the OC webring widget. Come to think of it, the bucket webring is a lot similar to the OC webring I wrote...
+- Slight character page tweaks.
+
 ## 2025-03-18
 
 - Added new fun page, [wallpapers](/fun/wallpapers/) you can download!
