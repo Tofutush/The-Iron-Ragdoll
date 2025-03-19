@@ -393,6 +393,19 @@
   {
     "ch": [
       [
+        "Sky",
+        "husband"
+      ],
+      [
+        "Frosting",
+        "wife"
+      ]
+    ],
+    "desc": "I don't know how Frosting and Sky met, but they did. They have a daughter. They're both pretty busy at work."
+  },
+  {
+    "ch": [
+      [
         "Fantasy",
         "older half-sister"
       ],
@@ -907,7 +920,6 @@
         "suicide watch target"
       ]
     ],
-    "img": "sunflower candlelight.png",
     "desc": ""
   },
   {
