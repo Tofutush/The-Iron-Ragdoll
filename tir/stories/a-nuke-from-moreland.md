@@ -136,7 +136,7 @@ It dawned on Qibli. Sky decided against reporting him, which Lark interpreted as
 
 And with that, Lark got himself a group of new contacts.
 
-> [!question] Who is Lark?+
+> [!question]+ Who is Lark?
 > Morelandian agent sent to recover the nuke. At least, find out where it is. He succeeded.
 
 ## ramble zone

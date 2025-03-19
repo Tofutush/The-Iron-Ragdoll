@@ -7,7 +7,6 @@ chs:
   - sparky
   - pearl
 time: "2032"
-location: <a href="/world/sylvandia/">Sylvandia</a>
 summary: Sparky gets to Sylvandia with Pearl.
 myTags:
   - Canon

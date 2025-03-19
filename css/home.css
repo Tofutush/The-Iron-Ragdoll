@@ -48,3 +48,15 @@
 .card p {
     margin: 0;
 }
+
+body.dark {
+    .card p {
+        text-shadow: 0px 0px 6px var(--text-light);
+    }
+}
+
+body.light {
+    .card p {
+        text-shadow: 0px 0px 6px var(--bg-light);
+    }
+}
