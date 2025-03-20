@@ -1914,7 +1914,8 @@
       "pumpkin",
       "halcyon",
       "paperweight",
-      "sky"
+      "sky",
+      "whiteout"
     ],
     "date": "2025-02-17"
   },
@@ -2337,5 +2338,18 @@
       "lark"
     ],
     "date": "2025-03-14"
+  },
+  {
+    "name": "whiteout stand",
+    "type": "png",
+    "ch": [
+      "whiteout"
+    ],
+    "date": "2025-03-20"
+  },
+  {
+    "name": "sue",
+    "type": "gif",
+    "date": "2025-03-20"
   }
 ]
