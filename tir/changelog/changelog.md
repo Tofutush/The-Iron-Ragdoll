@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-20
+
+- Added `sue.gif`, `whiteout stand.png`.
+- Edited [Pearl's Journey Home](/stories/pearls-journey-home/).
+
 ## 2025-03-19
 
 - Changed the iframes of the bucket webrings (bucket and bolognese) to the OC webring widget. Come to think of it, the bucket webring is a lot similar to the OC webring I wrote...
