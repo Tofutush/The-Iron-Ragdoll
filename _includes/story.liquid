@@ -23,7 +23,7 @@ eleventyComputed:
     <div class="attr-key">Tags</div>
     <div class="attr-val">
       {% for tag in myTags %}
-        {% if forloop.index != 1 %}, {% endif %}<a href="/stories/tag/{{ tag | slug }}/">{% lucide 'tags' %} {{ tag }}</a>
+        <a href="/stories/tag/{{ tag | slug }}/">{% lucide 'tags' %} {{ tag }}</a>{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </div>
   {% endif %}

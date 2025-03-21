@@ -18,7 +18,7 @@ myTags:
   - Pearl's Journey Home
 ---
 
-They got to Fanton.
+They got to Fanton. They had a good time there, with all the beautiful scenery and tofu. They also saw pandas. They got to the border.
 
 At the Fantoni-Westavian border, they were told that their Bauhinian-plated car was not eligible to cross the strait without a pass, which they had not applied for, and the application process could take months. They decided to hire a driver to drive the car back to Bauhinia.
 

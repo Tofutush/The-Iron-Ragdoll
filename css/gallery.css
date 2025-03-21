@@ -1,7 +1,6 @@
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
-    --c: #0ab89f;
 }
 
 .img {
