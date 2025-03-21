@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-21
+
+- Added `goose jackalope.png`;
+- Decided to end changelog entries with semicolons for ✨ quirkiness ✨;
+
 ## 2025-03-20
 
 - Added `sue.gif`, `whiteout stand.png`.
