@@ -8,6 +8,7 @@ eleventyNavigation:
 ---
 {% assign filteredGallery = gallery | getOnlyMyArt %}
 <h1>Gallery stats</h1>
+<p>Total number of pictures: {{ filteredGallery.size }}</p>
 {% assign totalMonths = 0 %}
 {% for eachyear in years reversed %}
   {% assign numInYear = filteredGallery | filterGalleryByDate: eachyear %}
@@ -26,17 +27,3 @@ eleventyNavigation:
     </ul>
   </details>
 {% endfor %}
-<h2>Extra stats</h2>
-{% assign totalCh = 0 %}
-{% for img in filteredGallery %}
-  {% if img.ch %}
-    {% assign totalCh = totalCh | plus: img.ch.size %}
-  {% endif %}
-{% endfor %}
-<ul>
-  <li>Total number of pictures: {{ filteredGallery.size }}</li>
-  <li>Average pictures per year: {{ filteredGallery.size | divided_by: years.size | round: 3 }}</li>
-  <li>Average pictures per month: {{ filteredGallery.size | divided_by: totalMonths | round: 3 }}</li>
-  <li>Average characters per picture: {{ totalCh | divided_by: filteredGallery.size | round: 3 }}</li>
-</ul>
-<p>See <a href="/characters/list/#progress">here</a> for stats on what pictures each character has!</p>

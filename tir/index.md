@@ -16,8 +16,8 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 <details>
 	<summary><h2>Content warnings (Click to expand)</h2></summary>
 	<p>This site and its contents feature strong language, cartoon violence, and occasional mature themes. Viewer discretion is advised.</p>
-	<p>It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Don't treat it so seriously.</p>
-	<p>Also: This site uses Javascript for theme switching and gallery popups! The relationship graph is also JS. It should be fine to view most other things with JS disabled.</p>
+	<p>It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't treat it so seriously.</p>
+	<p>Also: This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the scenario generator, and the relationship graph. The personality quiz needs a script too for some reason. It should be fine to view most other things with JS disabled.</p>
 </details>
 <div class="grid">
   <a class="big" href="/characters/">
