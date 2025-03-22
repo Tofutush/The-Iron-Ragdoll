@@ -7,7 +7,7 @@ eleventyNavigation:
   parent: Gallery
 ---
 <h1>Gallery stats</h1>
-<li>Total number of pictures: {{ gallery.size }}</li>
+<p>Total number of pictures: {{ gallery.size }}</p>
 {% assign totalMonths = 0 %}
 {% for eachyear in years reversed %}
   {% assign numInYear = gallery | filterGalleryByDate: eachyear %}
@@ -25,11 +25,4 @@ eleventyNavigation:
       {% endfor %}
     </ul>
   </details>
-{% endfor %}
-<h2>Extra stats</h2>
-{% assign totalCh = 0 %}
-{% for img in gallery %}
-  {% if img.ch %}
-    {% assign totalCh = totalCh | plus: img.ch.size %}
-  {% endif %}
 {% endfor %}
