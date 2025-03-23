@@ -1,3 +1,10 @@
+---
+layout: fic.liquid
+parent: A Nuke From Moreland
+tags: anfm-fic
+chNum: 1
+---
+
 It was not big. About as long as Sparky was tall, Sky wagered. If it weren't the only thing in the basement not caked in dust, he wouldn't have noticed it. He stood there for a while, on the bare concrete floor, holding his phone, letting the flashlight shine on its sleek metal surface, staring into the bumblebee-colored circle printed on it.
 
 *That kind of looks like the nuclear symbol?* he thought.

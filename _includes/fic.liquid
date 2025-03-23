@@ -1,0 +1,19 @@
+---
+layout: layout.liquid
+permalink: "stories/{{ parent | slug }}/chapter-{{ chNum }}/"
+eleventyComputed:
+  title: "{{ parent }} - chapter {{ chNum }}"
+  eleventyNavigation:
+    key: "{{ parent }} - chapter {{ chNum }}"
+    title: "Chapter {{ chNum }}"
+    parent: "{{ parent }}"
+---
+<h1>Chapter {{ chNum }}</h1>
+
+{{ content }}
+{% assign prev = collections[tags[0]] | getPreviousCollectionItem %}
+{% assign next = collections[tags[0]] | getNextCollectionItem %}
+{% if prev or next %}
+<hr />
+{% include 'prevnext' prev: prev.url, next: next.url %}
+{% endif %}
