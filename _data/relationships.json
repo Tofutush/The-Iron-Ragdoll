@@ -900,6 +900,19 @@
   {
     "ch": [
       [
+        "Frosting",
+        "mother"
+      ],
+      [
+        "Harmony",
+        "daughter"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Jaculus",
         "older sister"
       ],
@@ -1009,6 +1022,19 @@
       [
         "Potato",
         "twin"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Entity",
+        "father"
+      ],
+      [
+        "Harmony",
+        "daughter"
       ]
     ],
     "desc": ""

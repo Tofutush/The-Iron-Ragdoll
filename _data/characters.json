@@ -1582,5 +1582,21 @@
     "palette": {
       "hair": "#2e2e2e"
     }
+  },
+  {
+    "name": "Harmony",
+    "color": "#6d4091",
+    "tags": [
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Harmony Frosting Entity",
+      "Gender": "Female",
+      "Soul": "Gas, heart-shaped",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
   }
 ]
