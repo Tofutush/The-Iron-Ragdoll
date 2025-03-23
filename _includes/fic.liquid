@@ -9,7 +9,7 @@ eleventyComputed:
     parent: "{{ parent }}"
 ---
 <h1>Chapter {{ chNum }}</h1>
-
+{% comment %} TODO: word count? toc. sorting by chnum. {% endcomment %}
 {{ content }}
 {% assign prev = collections[tags[0]] | getPreviousCollectionItem %}
 {% assign next = collections[tags[0]] | getNextCollectionItem %}
