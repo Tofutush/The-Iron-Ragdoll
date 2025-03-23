@@ -1,3 +1,10 @@
+---
+layout: fic.liquid
+parent: A Nuke From Moreland
+tags: anfm-fic
+chNum: 3
+---
+
 Firecrackers got on the car.
 
 It was already past twelve and public transport had shut down, so Sparky called a taxi and picked up Sky and Firecrackers. She rode shotgun. The driver was drinking coffee and rubbing his eyes.

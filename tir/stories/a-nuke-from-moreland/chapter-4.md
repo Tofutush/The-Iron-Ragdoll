@@ -1,3 +1,10 @@
+---
+parent: A Nuke From Moreland
+tags: anfm-fic
+chNum: 4
+eleventyExcludeFromCollections: true
+---
+
 It was four in the morning. Firecrackers got into the car with Sky. It was awkward because they were blindfolded and kept stumbling into things and each other.
 
 Pumpkin would drive them home, with a letter from the MSS explaining what had happened that night. Goose was driving the girls.
