@@ -393,19 +393,6 @@
   {
     "ch": [
       [
-        "Sky",
-        "husband"
-      ],
-      [
-        "Frosting",
-        "wife"
-      ]
-    ],
-    "desc": "I don't know how Frosting and Sky met, but they did. They have a daughter. They're both pretty busy at work."
-  },
-  {
-    "ch": [
-      [
         "Fantasy",
         "older half-sister"
       ],
@@ -896,6 +883,19 @@
       ]
     ],
     "desc": "Frosting and Jerboa met through [Tephra](/characters/tephra/) because of his promise to help Jerboa find his family.\n\nFrosting risked her job letting Jerboa look through the archives, partly because she was bored as fuck and partly because she thought that by having Jerboa find out the truth, she was giving her dear friend Jaculus a proper closure too."
+  },
+  {
+    "ch": [
+      [
+        "Frosting",
+        "wife"
+      ],
+      [
+        "Entity",
+        "husband"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [

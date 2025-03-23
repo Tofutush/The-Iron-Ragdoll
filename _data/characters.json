@@ -1042,6 +1042,7 @@
       "Gender": "Female (cis)",
       "Age estimation": "Around the same as Jaculus",
       "Nationality": "Bauhinian",
+      "Marital status": "Married (to <a href=\"../entity/\">Entity</a>)",
       "Occupation": "Government archivist"
     },
     "palette": {
@@ -1563,5 +1564,23 @@
       "hair": "#2e2e2e"
     },
     "about": "Whiteout is a stern MSS officer, but under her hard cover, she harbors great love for her colleagues and apprentice."
+  },
+  {
+    "name": "Entity",
+    "color": "#1692bb",
+    "desc": "State-sanctioned murderer",
+    "tags": [
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Age estimation": "Same as Frosting",
+      "Nationality": "Bauhinian",
+      "Marital status": "Married (to <a href=\"../frosting/\">Frosting</a>)",
+      "Occupation": "Executioner"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
   }
 ]
