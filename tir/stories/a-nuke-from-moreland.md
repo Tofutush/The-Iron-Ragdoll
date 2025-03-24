@@ -47,12 +47,6 @@ The police were like "what the" and called the [MSS](/world/bauhinia/mss/). Out 
 
 They looked at the nuke for a bit, collected the kids' information, and took them to the nearest police station to do some routine questioning. It was getting late, so they called Peacock to come pick them up.
 
-> *I've never seen such a big car before!* Firecrackers bounced up and down in his seat.
->
-> "It's because Peacock has a bunch of kids outside," Sparky said. "He needs a car big enough to put all of them in. Even this one is a bit too small so he had to deliver them in batches."
->
-> Peacock rolled his eyes.
-
 The kids figured out that they left the nuke in the basement to get picked up tomorrow. So they started plotting: they would steal the nuke tonight.
 
 > [!question]+ Why didn't the MSS send people over to collect the nuke ASAP?
