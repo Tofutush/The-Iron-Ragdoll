@@ -639,6 +639,7 @@
   },
   {
     "name": "Jackpot",
+    "namezh": "金元宝",
     "color": "#AC7C26",
     "desc": "Star entrepreneur.",
     "tags": [
@@ -1499,7 +1500,7 @@
   },
   {
     "name": "Thunder",
-    "namezh": "雷霆",
+    "namezh": "霹雳雷",
     "color": "#DCCB09",
     "tags": [
       "Misc"
@@ -1567,6 +1568,7 @@
   },
   {
     "name": "Entity",
+    "namezh": "概念体",
     "color": "#1692bb",
     "desc": "State-sanctioned murderer",
     "tags": [
@@ -1585,6 +1587,7 @@
   },
   {
     "name": "Harmony",
+    "namezh": "和谐声",
     "color": "#6d4091",
     "tags": [
       "Bauhinia"
