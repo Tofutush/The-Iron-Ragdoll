@@ -3,6 +3,7 @@ layout: fic.liquid
 parent: A Nuke From Moreland
 tags: anfm-fic
 chNum: 2
+date: 2024-11-24
 ---
 
 The car couldn't hold that many people, and the police station was close by anyways, so they walked. Paperweight and Halcyon led the way, and they spent the entire walk making one phone call after another. Goose and Pumpkin took up the rear, sandwiching the kids in the middle. Goose was spinning her baton again.
