@@ -31,6 +31,9 @@ eleventyComputed:
 {% if comic %}
 <p style="text-align: center;"><a href="page-1/">{% lucide 'chevrons-right' %}Read the comic associated with this story!{% lucide 'chevrons-left' %}</a></p>
 {% endif %}
+{% if fic %}
+<p style="text-align: center;"><a href="chapter-1/">{% lucide 'chevrons-right' %}Read the story as an actual novel thing! (This page will contain spoilers. But the novel might never get finished.){% lucide 'chevrons-left' %}</a></p>
+{% endif %}
 
 {{ content }}
 

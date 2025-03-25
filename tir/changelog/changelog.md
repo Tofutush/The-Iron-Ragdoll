@@ -8,6 +8,15 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-25
+
+- Added `nala.png`;
+
+## 2025-03-24
+
+- I put my stupid [ANFM](/stories/a-nuke-from-moreland/) fic on the site;
+	- Revel in cringe;
+
 ## 2025-03-21
 
 - Added `goose jackalope.png`;
