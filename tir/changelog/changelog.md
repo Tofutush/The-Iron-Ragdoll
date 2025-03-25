@@ -11,7 +11,8 @@ titlezh: 更新日志
 ## 2025-03-25
 
 - Added `nala.png`, `squid tentacles.png`, `buttercup slice.png`, `whiteout slice.png`;
-- Added links to the gallery on the [text list](/characters/list/).
+- Added links to the gallery on the [text list](/characters/list/);
+- Added new page [Magic Academy](/world/bauhinia/coastline/magic-academy/);
 
 ## 2025-03-24
 

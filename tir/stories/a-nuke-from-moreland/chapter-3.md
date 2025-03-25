@@ -48,7 +48,7 @@ The night was chilling and Sky was shivering in his thin jacket. Qibli offered t
 
 "They don't seem to teach you anything."
 
-Qibli sighed. She had been so excited to attend the school when Sparky's dad offered to pay for it. But all they ever did was practice levitation, levitation, levitation, and being told that you could never accomplish things more complex than levitation.
+Qibli sighed. She had been learning about magic. In that school. Just… not from the teacher.
 
 Suddenly Sky felt a surge of warmth through his body, leaking from his skin to the insides.
 

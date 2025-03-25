@@ -1,8 +1,9 @@
 ---
 parent: A Nuke From Moreland
-tags: anfm-fic
+tags:
+  - anfm-fic
 chNum: 4
-eleventyExcludeFromCollections: true
+permalink: false
 ---
 
 It was four in the morning. Firecrackers got into the car with Sky. It was awkward because they were blindfolded and kept stumbling into things and each other.
@@ -97,4 +98,34 @@ Sky did not know what he had gotten himself into, but he felt excited. He felt l
 
 "Are you getting off?" Pumpkin was holding the door open.
 
-"Oops," Sky said awkwardly. He got off the car. Pumpkin walked him to his home and delivered the letter to his parents.
+"Oops," Sky said awkwardly. He got off the car. Pumpkin walked him to his home and delivered the letter to his parents, telling them to cancel his classes that day and let him rest.
+
+---
+
+Qibli's parents woke her up at noon for lunch. She had magic school at 14.
+
+She had to walk past Trinket near the front rows. She was starting to think that Trinket sat there on purpose to annoy her. Thank fuck she didn't tell the Arch-Magician about the book though.
+
+They arrived at school, put their wands into their little boxes as usual, and sat down, waiting for the Arch-Magician to show up.
+
+Today was the 3rd of August. She scribbled "2031-08-03" on a piece of scratch paper torn from a notebook and shoved it into her pocket. At break time, she slipped the paper beneath that mystery door to the outside world again.
+
+It was starting to become a ritual. Even if the pieces were most likely obliterated upon exit.
+
+She found herself wandering into the janitor's closet again. There must've been a spell on her that commanded her legs around. She reached into the little nook and stroked the silky cover of the book, but dared not take it out.
+
+The preparation bell rung. She returned to the classroom. Trinket was holding her wrist high up in the air, making the ceiling light glow in different colors, while the others complained. The Arch-Magician came back and told her to stop. Qibli smiled a tiny bit.
+
+She spent most of her time sleeping as usual. The book had taught her everything she needed to know — and more.
+
+---
+
+Firecrackers got a berating for shutting down the grocery store after coaxing his parents to sleep. Pumpkin had been no help. He was stuck behind the counter with heavy bags under his eyes, unable to sleep. After dinner, he plucked face-down onto his bed and passed out before his head touched the pillow.
+
+The next morning, he was woken at 9 sharp by his mom.
+
+"Your friends are here!"
+
+He wanted to tell them to fuck off. He hadn't even changed his clothes since the day they found the nuke. His underwear was sticky.
+
+He took his sweet time taking a shower while Sparky stood in the grocery store, cursing everyone to the moon and back, buying stuff whenever their presence was starting to feel unwelcome.
