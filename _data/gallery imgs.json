@@ -2367,5 +2367,32 @@
     "type": "png",
     "date": "2025-03-25",
     "comment": "Gift art for [TheOliveOli](https://theoliveoli.blahaj.land/)."
+  },
+  {
+    "name": "squid tentacles",
+    "type": "png",
+    "ch": [
+      "sundae",
+      "buttercup",
+      "whiteout"
+    ],
+    "date": "2025-03-25",
+    "comment": "鱿鱼丝发型的战斗力都不一般啊。"
+  },
+  {
+    "name": "buttercup slice",
+    "type": "png",
+    "ch": [
+      "buttercup"
+    ],
+    "date": "2025-03-25"
+  },
+  {
+    "name": "whiteout slice",
+    "type": "png",
+    "ch": [
+      "whiteout"
+    ],
+    "date": "2025-03-25"
   }
 ]
