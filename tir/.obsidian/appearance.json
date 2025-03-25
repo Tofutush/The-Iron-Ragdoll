@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "baseFontSize": 20,
+  "baseFontSize": 24,
   "enabledCssSnippets": [
     "folder tree",
     "justify",
@@ -13,7 +13,7 @@
     "blockquote"
   ],
   "interfaceFontFamily": "DIN Round Pro",
-  "textFontFamily": "Courier Prime,Lexend,霞鹜文楷,霞鹜漫黑",
+  "textFontFamily": "Crimson Pro,Courier Prime,Lexend,霞鹜文楷,霞鹜漫黑",
   "cssTheme": "",
   "theme": "moonstone",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑"
