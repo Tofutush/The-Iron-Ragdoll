@@ -10,7 +10,7 @@ titlezh: 更新日志
 
 ## 2025-03-25
 
-- Added `nala.png`;
+- Added `nala.png`, `squid tentacles.png`, `buttercup slice.png`, `whiteout slice.png`;
 
 ## 2025-03-24
 
