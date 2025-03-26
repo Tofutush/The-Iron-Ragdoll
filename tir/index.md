@@ -64,6 +64,7 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 
 ## Outgoing
 
+- [{% lucide 'messages-square' %} Discord server](https://discord.gg/n7p3QWPf), join the discord!
 - [{% lucide 'pickaxe' %} Idle Forced Labor Camp](https://tofutush.github.io/idlegame), a cursed game about running a forced labor camp.
 - [{% lucide 'school' %}Havoc 101](https://tofutush.github.io/havoc101), another cannot-complete-in-my-life project related to TIR
 - [Hillslope comic](/stories/hillslope-mysteries/) mirrors (ranked by my personal bias)
