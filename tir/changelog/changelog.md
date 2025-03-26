@@ -10,7 +10,7 @@ titlezh: 更新日志
 
 ## 2025-03-26
 
-- Made a [discord server](https://discord.gg/n7p3QWPf);
+- Made a [discord server](https://discord.gg/XzdA5vKkb2);
 	- Come hang out!
 
 ## 2025-03-25
