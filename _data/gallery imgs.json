@@ -2400,5 +2400,16 @@
     "type": "png",
     "date": "2025-03-26",
     "comment": "给[缚寻](https://www.xiaohongshu.com/user/profile/62adb921000000001b0297c1?channelType=web_user_card_popup_page&xsec_token=ABv0ouGlLjMPG17TgGb6t0f9-qrQgz7vhfbcB18XIw8QQ%3D&xsec_source=pc_hovercard)的无偿。"
+  },
+  {
+    "name": "one man short footer",
+    "type": "png",
+    "date": "2025-03-26",
+    "ch": [
+      "skyhawk",
+      "nightingale",
+      "cobalt"
+    ],
+    "kind": "footer"
   }
 ]
