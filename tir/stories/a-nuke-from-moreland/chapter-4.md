@@ -102,9 +102,9 @@ Sky did not know what he had gotten himself into, but he felt excited. He felt l
 
 ---
 
-Qibli's parents woke her up at noon for lunch. She had magic school at 14.
+Magic school was there every day, and nothing could stop it from happening.
 
-She had to walk past Trinket near the front rows. She was starting to think that Trinket sat there on purpose to annoy her. Thank fuck she didn't tell the Arch-Magician about the book though.
+She had to walk past Trinket near the front rows of the bus. She was starting to think that Trinket sat there on purpose to annoy her. Thank fuck she didn't tell the Arch-Magician about the book though.
 
 They arrived at school, put their wands into their little boxes as usual, and sat down, waiting for the Arch-Magician to show up.
 
@@ -112,11 +112,11 @@ Today was the 3rd of August. She scribbled "2031-08-03" on a piece of scratch pa
 
 It was starting to become a ritual. Even if the pieces were most likely obliterated upon exit.
 
-She found herself wandering into the janitor's closet again. There must've been a spell on her that commanded her legs around. She reached into the little nook and stroked the silky cover of the book, but dared not take it out.
+When she walked past the janitor's closet in the hallway, she felt compelled to open it and touch the book again. Just a little stroke to the spine. Was this a part of the ritual?
 
-The preparation bell rung. She returned to the classroom. Trinket was holding her wrist high up in the air, making the ceiling light glow in different colors, while the others complained. The Arch-Magician came back and told her to stop. Qibli smiled a tiny bit.
+The preparation bell rung. She returned to the classroom. Trinket was holding her wrist high up in the air, making the ceiling light glow in different colors, while the others complained. The Arch-Magician came back and told her to put her bracelet back into the wand box. Qibli smiled a tiny bit.
 
-She spent most of her time sleeping as usual. The book had taught her everything she needed to know — and more.
+She spent most of her time sleeping as usual. The book had taught her everything she needed to know — and more. But she dared not show it.
 
 ---
 
@@ -128,4 +128,14 @@ The next morning, he was woken at 9 sharp by his mom.
 
 He wanted to tell them to fuck off. He hadn't even changed his clothes since the day they found the nuke. His underwear was sticky.
 
-He took his sweet time taking a shower while Sparky stood in the grocery store, cursing everyone to the moon and back, buying stuff whenever their presence was starting to feel unwelcome.
+He took his sweet time taking a shower while Sparky stood in the grocery store, cursing everyone to the moon and back, and buying stuff whenever their presence was starting to feel unwelcome. Finally, Firecrackers came out.
+
+"Alright, motherfucker," Sparky said, "we're going to that house again."
+
+*Why the fuck.*
+
+"To search for evidence that could lead us to the nuke's origins!"
+
+Firecrackers wanted to roll his eyes, but he didn't want to stay in the grocery store. Might as well go.
+
+
