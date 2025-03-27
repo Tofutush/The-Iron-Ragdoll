@@ -19,14 +19,15 @@ body {
 	height: min-content;
 	background-color: var(--bg);
 	z-index: 999;
+
+	&>div {
+		align-items: center;
+		display: flex;
+		flex-direction: column;
+		transition: transform .2s;
+	}
 }
 
-.chs>div {
-	align-items: center;
-	display: flex;
-	flex-direction: column;
-	transition: transform .2s;
-}
 
 .chs>div:hover {
 	transform: scale(1.1);
