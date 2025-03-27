@@ -25,12 +25,11 @@ body {
 		display: flex;
 		flex-direction: column;
 		transition: transform .2s;
+
+		&:hover {
+			transform: scale(1.1);
+		}
 	}
-}
-
-
-.chs>div:hover {
-	transform: scale(1.1);
 }
 
 .ch {
