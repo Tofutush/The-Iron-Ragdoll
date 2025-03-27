@@ -1,10 +1,10 @@
-main #img {
+#img {
 	margin: 0 -2em;
-}
 
-main #img img {
-	width: 100%;
-	height: 100%;
+	& img {
+		width: 100%;
+		height: 100%;
+	}
 }
 
 .options {
@@ -16,6 +16,22 @@ main #img img {
 	margin: 30px 0;
 	width: 100%;
 	user-select: none;
+
+	&>p {
+		font-size: var(--font-size-h2);
+		margin: 0;
+		text-indent: 0;
+
+		&::before {
+			content: "Page ";
+		}
+	}
+
+	& svg {
+		stroke: var(--text);
+		height: clamp(1.5rem, 5vw, 2.5rem);
+		width: clamp(1.5rem, 5vw, 2.5rem);
+	}
 }
 
 #date-save {
@@ -24,11 +40,11 @@ main #img img {
 	gap: 2em;
 	justify-content: space-between;
 	margin: 2em 0;
-}
 
-#date-save p {
-	margin: 0;
-	text-indent: 0;
+	& p {
+		margin: 0;
+		text-indent: 0;
+	}
 }
 
 #save {
@@ -39,21 +55,12 @@ main #img img {
 	justify-content: flex-end;
 	width: fit-content;
 	user-select: none;
-}
 
-.options>p {
-	font-size: var(--font-size-h2);
-	margin: 0;
-	text-indent: 0;
-}
+	& svg {
+		height: clamp(1.5rem, 5vw, 2.5rem);
+		width: clamp(1.5rem, 5vw, 2.5rem);
+	}
 
-.options>p::before {
-	content: "Page ";
-}
-
-#save svg {
-	height: clamp(1.5rem, 5vw, 2.5rem);
-	width: clamp(1.5rem, 5vw, 2.5rem);
 }
 
 .options a,
@@ -62,16 +69,12 @@ main #img img {
 	color: var(--text);
 }
 
-.options svg {
-	stroke: var(--text);
-	height: clamp(1.5rem, 5vw, 2.5rem);
-	width: clamp(1.5rem, 5vw, 2.5rem);
-}
+.noclick {
+	& svg {
+		opacity: 0.5;
+	}
 
-.noclick svg {
-	opacity: 0.5;
-}
-
-.noclick:hover {
-	cursor: not-allowed !important;
+	&:hover {
+		cursor: not-allowed !important;
+	}
 }
