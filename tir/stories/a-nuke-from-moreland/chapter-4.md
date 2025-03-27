@@ -137,5 +137,3 @@ He took his sweet time taking a shower while Sparky stood in the grocery store, 
 "To search for evidence that could lead us to the nuke's origins!"
 
 Firecrackers wanted to roll his eyes, but he didn't want to stay in the grocery store. Might as well go.
-
-
