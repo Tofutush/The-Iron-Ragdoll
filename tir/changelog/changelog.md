@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-03-27
 
 - Tweaked [character page](/characters/) CSS a little;
+- Updated [goals](/goals/) to include MCA count;
 
 ## 2025-03-26
 
