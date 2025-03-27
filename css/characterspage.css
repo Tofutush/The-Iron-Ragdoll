@@ -25,10 +25,11 @@ body {
 	align-items: center;
 	display: flex;
 	flex-direction: column;
+	transition: transform .2s;
 }
 
-.chs>div.hidden {
-	display: none;
+.chs>div:hover {
+	transform: scale(1.1);
 }
 
 .ch {
@@ -39,9 +40,10 @@ body {
 	justify-content: center;
 	margin: auto;
 	overflow: hidden;
+	transition: box-shadow .2s;
 }
 
-.ch:hover {
+.chs>div:hover .ch {
 	box-shadow: 0 0 0 8px var(--c);
 }
 
