@@ -534,7 +534,7 @@
       "hair": "#888",
       "young hair": "#CAA740"
     },
-    "about": "Paperweight is an officer at the [Ministry of State Security](/world/bauhinia/mss/) but is going to retire soon.\n\nHe is constantly angry at everything at once but nothing in particular. Also he's homophobic as fuck.\n\nHe usually maintains a very calm and authoritative composure to others, especially the people he deals with at work -- spies, moles, and pesky annoying kids. But to people he knows, like [his](/characters/goose/) [subordinates](/characters/pumpkin/), he constantly yells at them.\n\nHe misses the old times when he could actually run without his knees screaming murder and shoot a gun without his hands shaking. This is why he hates young people -- because he's kind of jealous.",
+    "about": "Paperweight is a senior officer at the [Ministry of State Security](/world/bauhinia/mss/).\n\nHe usually maintains a very calm and authoritative composure to others, especially the people he deals with at work — spies, moles, and pesky annoying kids. But under his composure, he is a frothing pit of pure rage. He is constantly angry at everything at once but nothing in particular, saddled by the weight of his own guilt and his colleague's suspicion of treason. To people he knows, like [his](/characters/goose/) [subordinates](/characters/pumpkin/), he yells at them all the time. Also he's homophobic as fuck.\n\nHe misses the old times when he could actually run without his knees screaming murder and shoot a gun without his hands shaking. This is why he hates young people — because he's kind of jealous.\n\nHe wishes someone could believe him. He wanted [Whiteout](/characters/whiteout/) back.",
     "trivia": [
       "He canonically speaks Cantonese. He's the only character who does, and other characters don't find anything off about it.",
       "他说且只会说粤语。反正大家也听得懂。",
@@ -1587,7 +1587,6 @@
   },
   {
     "name": "Harmony",
-    "namezh": "和谐声",
     "color": "#6d4091",
     "tags": [
       "Bauhinia"
