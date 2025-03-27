@@ -137,3 +137,38 @@ He took his sweet time taking a shower while Sparky stood in the grocery store, 
 "To search for evidence that could lead us to the nuke's origins!"
 
 Firecrackers wanted to roll his eyes, but he didn't want to stay in the grocery store. Might as well go.
+
+Sparky came in a *car*.
+
+*Is this legal?*
+
+She flashed her license at Firecrackers. "Totally," she grinned.
+
+*How did you even get that?*
+
+Sparky just smiled and shook her head. "Get on."
+
+He sat at the back with Qibli, but not before flipping her a bird. They parked on the road beside the abandoned house.
+
+"We had already sniffed the entire place out last time," Qibli said. "I'm not sure we were going to find anything else."
+
+"Ahem. *I* sniffed the place. Literally. *You* stood there and did nothing." Sparky hopped down the car.
+
+"Besides, we were looking for the cat," Sky added. "This time we have a different focus, so we might find something new."
+
+Qibli really wanted to lie down on the backseats while they went outside. Still, she got up.
+
+"Me and Sky will search the basement," Sparky started.
+
+Qibli felt compelled to interrupt. "Sky and I."
+
+"No, not you," Sparky snapped. "I have a flashlight." She waved her phone at Qibli. "You and Crackers are doing the first and second floors."
+
+Qibli sighed to herself.
+
+Firecrackers did not know what to look for in a room of bare cement. He tried putting his ears against the wall while knocking on it, but then remembered he had no ears[^1]. Qibli cast a detection spell, but wound up hitting her own forehead.
+
+[^1]: YES this is a corny fourth wall joke
+
+She went outside. There it is! The gray tabby! She rushed over and grabbed it with her magic.
+Her neighbor thanked her and treated the kids to ice cream. 
