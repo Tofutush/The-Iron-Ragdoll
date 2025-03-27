@@ -1,13 +1,3 @@
-body {
-	overflow: -moz-scrollbars-none;
-}
-
-#flexbox {
-	display: flex;
-}
-
-
-
 .chs {
 	flex-grow: 1;
 	display: grid;
@@ -25,6 +15,10 @@ body {
 		display: flex;
 		flex-direction: column;
 		transition: transform .2s;
+
+		&>a {
+			margin: 1rem 0;
+		}
 
 		&:hover {
 			transform: scale(1.1);
@@ -45,13 +39,9 @@ body {
 	margin: auto;
 	overflow: hidden;
 	transition: box-shadow .2s;
-}
 
-.ch img {
-	height: 120px;
-	width: 120px;
-}
-
-.chs>div>a {
-	margin: 1rem 0;
+	& img {
+		height: 120px;
+		width: 120px;
+	}
 }
