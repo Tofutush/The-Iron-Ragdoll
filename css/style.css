@@ -457,9 +457,14 @@ footer {
     user-select: none;
     text-decoration: none;
     opacity: .5;
+    transition: transform .2s;
 
     &[aria-current] {
       opacity: 1;
+    }
+
+    &:hover {
+      transform: scale(1.1);
     }
   }
 }
