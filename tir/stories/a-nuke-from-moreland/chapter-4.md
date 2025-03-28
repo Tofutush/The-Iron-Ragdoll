@@ -166,9 +166,24 @@ Qibli felt compelled to interrupt. "Sky and I."
 
 Qibli sighed to herself.
 
-Firecrackers did not know what to look for in a room of bare cement. He tried putting his ears against the wall while knocking on it, but then remembered he had no ears[^1]. Qibli cast a detection spell, but wound up hitting her own forehead.
+Firecrackers did not know what to look for in a room of bare cement. He tried putting his ears against the wall while knocking on it, but then remembered he had no ears[^1]. Qibli tried casting a detection spell, but wound up hitting her own forehead.
+
+She went outside. A cat was standing on the low, half-built wall. The gray tabby! She rushed over and grabbed it with her magic.
+
+Her neighbor thanked her and treated the kids to ice cream. Sparky couldn't wait to get back to the house. She glanced around, making sure that the neighbor wasn't within earshot.
+
+"We found out *how* they got the nuke into the basement." She said in a hushed voice.
+
+*Let me guess. Through the entrance?*
+
+"*Yes*, through the entrance! There are scratch marks on the stairs leading up to the first floor."
+
+Firecrackers rolled his eyes. Sparky didn't get why.
+
+"Of course they got it in through the entrance. It was the only way to get anything inside." Qibli explained.
+
+Sparky had long finished her share of ice cream and was staring hungrily at Qibli's. She shoved it to Sparky.
+
+"I'm going home," she said.
 
 [^1]: YES this is a corny fourth wall joke
-
-She went outside. There it is! The gray tabby! She rushed over and grabbed it with her magic.
-Her neighbor thanked her and treated the kids to ice cream. 
