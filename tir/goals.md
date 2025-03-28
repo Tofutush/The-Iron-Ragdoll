@@ -47,6 +47,12 @@ It's going to be a game on this site! You have to find clues scattered all over 
 ## Footers
 
 Draw some lineless art for the website footer! As many as possible! There couldn't possibly be too many!
+{% assign footers = gallery | filterGalleryByKind: 'footer' %}
+Current: {{ footers.size }}.
+
+## Favorite picker
+
+Write a fav picker myself.
 
 ## Character art
 
