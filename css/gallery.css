@@ -1,10 +1,32 @@
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
+    --box: var(--box-dark);
 }
 
 .img {
     position: relative;
+
+    &.hidden {
+        display: none;
+    }
+
+    &>img {
+        background-color: var(--box);
+        border-radius: 16px;
+        cursor: pointer;
+        object-fit: cover;
+        width: 120px;
+        padding: .5em;
+        margin: 12px;
+        height: 120px;
+        user-select: none;
+        aspect-ratio: 1;
+
+        &:hover {
+            box-shadow: 0 0 0 4px var(--c);
+        }
+    }
 }
 
 .icons {
@@ -16,27 +38,6 @@
     cursor: pointer;
     display: flex;
     gap: 8px;
-}
-
-.img.hidden {
-    display: none;
-}
-
-.img>img {
-    background-color: var(--box);
-    border-radius: 16px;
-    cursor: pointer;
-    object-fit: cover;
-    width: 120px;
-    padding: .5em;
-    margin: 12px;
-    height: 120px;
-    user-select: none;
-    aspect-ratio: 1;
-}
-
-.img>img:hover {
-    box-shadow: 0 0 0 4px var(--c);
 }
 
 .modal {
@@ -52,30 +53,30 @@
     width: 100%;
     overflow: auto;
     z-index: 999;
-}
 
-.modal p {
-    color: var(--bg-light);
-}
+    & p {
+        color: var(--bg-light);
+    }
 
-.modal .name-date {
-    display: flex;
-    gap: 1em;
-    justify-content: space-between;
-    text-indent: 0;
-    opacity: .5;
-}
+    & .name-date {
+        display: flex;
+        gap: 1em;
+        justify-content: space-between;
+        text-indent: 0;
+        opacity: .5;
+    }
 
-.modal:has(.comment) {
-    justify-content: flex-start;
-}
+    &:has(.comment) {
+        justify-content: flex-start;
+    }
 
-.modal img {
-    background-color: transparent;
-    height: 80vh;
-    margin: 5vh 0;
-    object-fit: contain;
-    width: 90vw;
+    & img {
+        background-color: transparent;
+        height: 80vh;
+        margin: 5vh 0;
+        object-fit: contain;
+        width: 90vw;
+    }
 }
 
 .comment {
@@ -83,16 +84,22 @@
     width: 800px;
 }
 
-.buttons a.noclick {
-    opacity: .5;
-}
+.buttons {
+    margin-bottom: 2em;
 
-.buttons a:hover {
-    cursor: pointer;
-}
+    & a {
+        &.noclick {
+            opacity: .5;
 
-.buttons a.noclick:hover {
-    cursor: not-allowed;
+            &:hover {
+                cursor: not-allowed;
+            }
+        }
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
 }
 
 .chbuttons {

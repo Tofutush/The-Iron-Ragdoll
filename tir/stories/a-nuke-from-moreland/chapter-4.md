@@ -102,9 +102,9 @@ Sky did not know what he had gotten himself into, but he felt excited. He felt l
 
 ---
 
-Qibli's parents woke her up at noon for lunch. She had magic school at 14.
+Magic school was there every day, and nothing could stop it from happening.
 
-She had to walk past Trinket near the front rows. She was starting to think that Trinket sat there on purpose to annoy her. Thank fuck she didn't tell the Arch-Magician about the book though.
+She had to walk past Trinket near the front rows of the bus. She was starting to think that Trinket sat there on purpose to annoy her. Thank fuck she didn't tell the Arch-Magician about the book though.
 
 They arrived at school, put their wands into their little boxes as usual, and sat down, waiting for the Arch-Magician to show up.
 
@@ -112,11 +112,11 @@ Today was the 3rd of August. She scribbled "2031-08-03" on a piece of scratch pa
 
 It was starting to become a ritual. Even if the pieces were most likely obliterated upon exit.
 
-She found herself wandering into the janitor's closet again. There must've been a spell on her that commanded her legs around. She reached into the little nook and stroked the silky cover of the book, but dared not take it out.
+When she walked past the janitor's closet in the hallway, she felt compelled to open it and touch the book again. Just a little stroke to the spine. Was this a part of the ritual?
 
-The preparation bell rung. She returned to the classroom. Trinket was holding her wrist high up in the air, making the ceiling light glow in different colors, while the others complained. The Arch-Magician came back and told her to stop. Qibli smiled a tiny bit.
+The preparation bell rung. She returned to the classroom. Trinket was holding her wrist high up in the air, making the ceiling light glow in different colors, while the others complained. The Arch-Magician came back and told her to put her bracelet back into the wand box. Qibli smiled a tiny bit.
 
-She spent most of her time sleeping as usual. The book had taught her everything she needed to know — and more.
+She spent most of her time sleeping as usual. The book had taught her everything she needed to know — and more. But she dared not show it.
 
 ---
 
@@ -128,4 +128,80 @@ The next morning, he was woken at 9 sharp by his mom.
 
 He wanted to tell them to fuck off. He hadn't even changed his clothes since the day they found the nuke. His underwear was sticky.
 
-He took his sweet time taking a shower while Sparky stood in the grocery store, cursing everyone to the moon and back, buying stuff whenever their presence was starting to feel unwelcome.
+He took his sweet time taking a shower while Sparky stood in the grocery store, cursing everyone to the moon and back, and buying stuff whenever their presence was starting to feel unwelcome. Finally, Firecrackers came out.
+
+"Alright, motherfucker," Sparky said, "we're going to that house again."
+
+*Why the fuck.*
+
+"To search for evidence that could lead us to the nuke's origins!"
+
+Firecrackers wanted to roll his eyes, but he didn't want to stay in the grocery store. Might as well go.
+
+Sparky came in a *car*.
+
+*Is this legal?*
+
+She flashed her license at Firecrackers. "Totally," she grinned.
+
+*How did you even get that?*
+
+Sparky just smiled and shook her head. "Get on."
+
+He sat at the back with Qibli, but not before flipping her a bird. They parked on the road beside the abandoned house.
+
+"We had already sniffed the entire place out last time," Qibli said. "I'm not sure we were going to find anything else."
+
+"Ahem. *I* sniffed the place. Literally. *You* stood there and did nothing." Sparky hopped down the car.
+
+"Besides, we were looking for the cat," Sky added. "This time we have a different focus, so we might find something new."
+
+Qibli really wanted to lie down on the backseats while they went outside. Still, she got up.
+
+"Me and Sky will search the basement," Sparky started.
+
+Qibli felt compelled to interrupt. "Sky and I."
+
+"No, not you," Sparky snapped. "I have a flashlight." She waved her phone at Qibli. "You and Crackers are doing the first and second floors."
+
+Qibli sighed to herself.
+
+Firecrackers did not know what to look for in a room of bare cement. He tried putting his ears against the wall while knocking on it, but then remembered he had no ears[^1]. Qibli tried casting a detection spell, but wound up hitting her own forehead.
+
+She went outside. A cat was standing on the low, half-built wall. The gray tabby! She rushed over and grabbed it with her magic.
+
+Her neighbor thanked her and treated the kids to ice cream. Sparky couldn't wait to get back to the house. She glanced around, making sure that the neighbor wasn't within earshot.
+
+"We found out *how* they got the nuke into the basement." She said in a hushed voice.
+
+*Let me guess. Through the entrance?*
+
+"*Yes*, through the entrance! There are scratch marks on the stairs leading up to the first floor."
+
+Firecrackers rolled his eyes. Sparky didn't get why.
+
+"Of course they got it in through the entrance. It was the only way to get anything inside." Qibli explained.
+
+Sparky had long finished her share of ice cream and was staring hungrily at Qibli's. She shoved it to Sparky.
+
+"I'm going home," she said.
+
+"What?" Sparky reached for her. "Why?"
+
+"There wasn't anything to find," Qibli said.
+
+Firecrackers nodded and stood up. Sparky turned towards Sky.
+
+"It's true. We have no idea where to start," he shrugged.
+
+"Alright, if you motherfuckers have to be such *downers*," Sparky yelled after Qibli and Firecrackers, "we're also coming tomorrow!"
+
+Sky sighed. He thanked Qibli's neighbor and left too. Sparky sat at their table alone, seething for a while before also leaving, but not before finishing Qibli's ice cream.
+
+---
+
+Pumpkin was waiting for him. "How was the day?"
+
+"Did you really think we could find anything at all?"
+
+[^1]: YES this is a corny fourth wall joke
