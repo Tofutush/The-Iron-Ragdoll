@@ -356,18 +356,10 @@ nav>a:hover,
     color: var(--bg);
 }
 
-footer {
-    display: flex;
-    flex-direction: row-reverse;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: flex-end;
-}
-
 .footer-img {
     height: auto;
     max-width: 100%;
-    width: 300px;
+    width: 13em;
     user-select: none;
     filter: drop-shadow(0 0 16px var(--c));
 }
@@ -517,7 +509,7 @@ code {
     cursor: pointer;
     height: 36px;
     padding: 4px;
-    margin: 2rem;
+    margin: 0 2rem 0 0;
     position: relative;
     transition: all .3s;
     width: 72px;
