@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-29
+
+- Tweaked the footer CSS a little;
+
 ## 2025-03-28
 
 - Tweaked the tags CSS a little;
