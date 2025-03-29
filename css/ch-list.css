@@ -30,14 +30,14 @@ td {
 th.sortable {
     cursor: pointer;
     user-select: none;
-}
 
-th.sortable.sorted:before {
-    content: '↓ ';
-}
+    &.sorted:before {
+        content: '↓ ';
+    }
 
-th.sortable.sorted-reverse:before {
-    content: '↑ ';
+    &.sorted-reverse:before {
+        content: '↑ ';
+    }
 }
 
 .color {

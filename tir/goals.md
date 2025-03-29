@@ -2,6 +2,7 @@
 layout: article.liquid
 title: Goals
 desc: Goals for me. Dreams are worth having.
+templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Goals
   parent: Root
@@ -46,7 +47,22 @@ It's going to be a game on this site! You have to find clues scattered all over 
 ## Footers
 
 Draw some lineless art for the website footer! As many as possible! There couldn't possibly be too many!
+{% assign footers = gallery | filterGalleryByKind: 'footer' %}
+Current: {{ footers.size }}.
+
+## Favorite picker
+
+Write a fav picker myself.
 
 ## Character art
 
-Each character needs a 500px lineless thumb, 500px profile image, and a reference image. Progress can be tracked [here](/characters/list/).
+Each character needs the following images:
+
+- 500px lineless thumb
+- 500px profile image
+- reference image
+- Favorite picker image
+
+That's like {{ characters.size | times: 4 }} pictures! What have I done to myself!
+
+Progress can be tracked [here](/characters/list/).

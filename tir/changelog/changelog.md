@@ -8,10 +8,21 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-28
+
+- Tweaked the tags CSS a little;
+
+## 2025-03-27
+
+- Tweaked [character page](/characters/) CSS a little;
+- Updated [goals](/goals/) to include MCA count;
+
 ## 2025-03-26
 
 - Made a [discord server](https://discord.gg/XzdA5vKkb2);
 	- Come hang out!
+- Added `deer thing.png`, `one man short footer.png`;
+	- `one man short footer.png` is also a new footer, in case the name wasn't obvious enough;
 
 ## 2025-03-25
 
