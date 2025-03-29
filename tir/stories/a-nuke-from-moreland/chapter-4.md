@@ -194,7 +194,7 @@ Firecrackers nodded and stood up. Sparky turned towards Sky.
 
 "It's true. We have no idea where to start," he shrugged.
 
-"Alright, if you motherfuckers have to be such *downers*," Sparky yelled after Qibli and Firecrackers, "we're also coming tomorrow!"
+"Alright, if you motherfuckers have to be such *downers*," Sparky yelled after Qibli and Firecrackers, "we're also coming tomorrow! Don't you stay home!"
 
 Sky sighed. He thanked Qibli's neighbor and left too. Sparky sat at their table alone, seething for a while before also leaving, but not before finishing Qibli's ice cream.
 
