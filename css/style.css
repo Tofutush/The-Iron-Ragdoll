@@ -441,6 +441,11 @@ footer {
     text-decoration: none;
     text-shadow: none !important;
     user-select: none;
+    transition: box-shadow .2s;
+
+    &:hover {
+        box-shadow: 0 0 0 8px var(--box);
+    }
 }
 
 .box-nav,
