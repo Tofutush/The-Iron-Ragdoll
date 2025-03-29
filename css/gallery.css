@@ -85,8 +85,6 @@
 }
 
 .buttons {
-    margin-bottom: 2em;
-
     & a {
         &.noclick {
             opacity: .5;
