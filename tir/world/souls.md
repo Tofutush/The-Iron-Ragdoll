@@ -42,7 +42,7 @@ Typically, gas souls are the most compatible with other forms, while solid the l
 
 ## Related files
 
-- [Goose](/characters/goose/), an MSS officer who could extract souls through torture
+- [Goose](/characters/goose/), an MSS officer who could extract souls through ~~torture~~ Ideology Normalization Therapy
 - [Moonbeam](/characters/moonbeam/), a Sylvandian psychic specializing in classic soul extraction
 - [Cobalt](/characters/cobalt/), a [Fantoni](/world/fanton/) outlaw who learned soul extraction from Moonbeam
 
