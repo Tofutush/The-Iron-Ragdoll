@@ -1,0 +1,38 @@
+---
+layout: layout.liquid
+title: You passed!
+noNav: true
+eleventyExcludeFromCollections: true
+permalink: "ubtt/kli/jac/gcbg/"
+---
+<style>
+    .yes, .no, .thanks { display: none; }
+</style>
+<h1 style="text-align: center;">Congratulations!</h1>
+<p>You have passed the entrance test to the <a href="/world/bauhinia/mss/">Ministry of State Security</a>!</p>
+<p>In the scavenger hunt, you showed great ability in deduction, code-cracking, and Google. You're eligible to join the most prestigious agency of all, and work alongside the elite of the elite!</p>
+<p>Make your choice. You can either join and become a state-sanctioned soulless killing machine, or you can refuse and get disappeared for knowing the answer. There are no right or wrong choices, just your preference!</p>
+<p>Do you wish to join us?</p>
+
+<div class="box-nav"><a onclick="choose('yes')">Yes</a><a onclick="choose('no')">No</a></div>
+
+<div class="yes">
+    <h1 style="text-align: center;">Alrighty! That's amazing! Welcome!</h1>
+</div>
+
+<div class="no">
+    <h1 style="text-align: center;">We respect your choice.</h1>
+    <p>Now, would you mind coming to the back of this shed with me for a while?</p>
+</div>
+
+<div class="thanks">
+    <p>Thank you for playing! I hope you enjoyed this!</p>
+</div>
+
+<script>
+function choose(choice) {
+    document.querySelector('.' + choice).style.display = 'block';
+    document.querySelector('.box-nav').style.display = 'none';
+    document.querySelector('.thanks').style.display = 'block';
+}
+</script>
