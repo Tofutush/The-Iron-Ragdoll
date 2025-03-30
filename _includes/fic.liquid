@@ -1,0 +1,29 @@
+---
+layout: layout.liquid
+permalink: "stories/{{ parent | slug }}/chapter-{{ chNum }}/"
+eleventyComputed:
+  title: "{{ parent }} - chapter {{ chNum }}"
+  eleventyNavigation:
+    key: "{{ parent }} - chapter {{ chNum }}"
+    title: "Chapter {{ chNum }}"
+    parent: "{{ parent }}"
+---
+<h1>Chapter {{ chNum }}</h1>
+{% assign colName = tags[0] %}
+<details id="toc-wrap">
+  <summary><h3>Table of Contents</h3></summary>
+  <div id="toc">
+    <ul>
+      {% for ch in collections[colName] %}
+        <li><a href="{{ ch.url }}">Chapter {{ ch.data.chNum }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</details>
+{{ content }}
+{% assign prev = collections[colName] | getPreviousCollectionItem %}
+{% assign next = collections[colName] | getNextCollectionItem %}
+{% if prev or next %}
+<hr />
+{% include 'prevnext' prev: prev.url, next: next.url %}
+{% endif %}

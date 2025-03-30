@@ -3,19 +3,27 @@
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     grid-auto-rows: 1fr;
     gap: 2em;
-}
 
-.grid a {
-    user-select: none;
-    text-decoration: none;
-}
+    & a {
+        user-select: none;
+        text-decoration: none;
 
-.grid a:hover {
-    color: var(--text);
+        &:hover {
+            color: var(--text);
+        }
+    }
 }
 
 .big {
     grid-row: span 2;
+
+    & .card {
+        background-position: center calc(var(--font-size) * 3 + 10px);
+
+        &:hover {
+            background-position: center calc(var(--font-size) / -4 + 20px);
+        }
+    }
 }
 
 .card {
@@ -30,21 +38,25 @@
     background-position: center calc(var(--font-size) * 3);
     background-repeat: no-repeat;
     image-rendering: pixelated;
+
+    & p {
+        margin: 0;
+    }
+
+    &:hover {
+        box-shadow: 0 0 0 8px var(--box);
+        background-position: center 0;
+    }
 }
 
-.card:hover {
-    box-shadow: 0 0 0 8px var(--box);
-    background-position: center 0;
+body.dark {
+    & .card p {
+        text-shadow: 0px 0px 6px var(--text-light);
+    }
 }
 
-.big .card {
-    background-position: center calc(var(--font-size) * 3 + 10px);
-}
-
-.big .card:hover {
-    background-position: center calc(var(--font-size) / -4 + 20px);
-}
-
-.card p {
-    margin: 0;
+body.light {
+    & .card p {
+        text-shadow: 0px 0px 6px var(--bg-light);
+    }
 }

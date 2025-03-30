@@ -8,6 +8,96 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-03-29
+
+- Tweaked the footer CSS a little;
+
+## 2025-03-28
+
+- Tweaked the tags CSS a little;
+
+## 2025-03-27
+
+- Tweaked [character page](/characters/) CSS a little;
+- Updated [goals](/goals/) to include MCA count;
+
+## 2025-03-26
+
+- Made a [discord server](https://discord.gg/XzdA5vKkb2);
+	- Come hang out!
+- Added `deer thing.png`, `one man short footer.png`;
+	- `one man short footer.png` is also a new footer, in case the name wasn't obvious enough;
+
+## 2025-03-25
+
+- Added `nala.png`, `squid tentacles.png`, `buttercup slice.png`, `whiteout slice.png`;
+- Added links to the gallery on the [text list](/characters/list/);
+- Added new page [Magic Academy](/world/bauhinia/coastline/magic-academy/);
+
+## 2025-03-24
+
+- I put my stupid [ANFM](/stories/a-nuke-from-moreland/) fic on the site;
+	- Revel in cringe;
+
+## 2025-03-21
+
+- Added `goose jackalope.png`;
+- Decided to end changelog entries with semicolons for ✨ quirkiness ✨;
+
+## 2025-03-20
+
+- Added `sue.gif`, `whiteout stand.png`.
+- Edited [Pearl's Journey Home](/stories/pearls-journey-home/).
+
+## 2025-03-19
+
+- Changed the iframes of the bucket webrings (bucket and bolognese) to the OC webring widget. Come to think of it, the bucket webring is a lot similar to the OC webring I wrote…
+- Slight character page tweaks.
+
+## 2025-03-18
+
+- Added new fun page, [wallpapers](/fun/wallpapers/) you can download!
+
+## 2025-03-17
+
+- Edited a lot of country information, notably a "Foreign relations" section.
+
+## 2025-03-16
+
+- Merged [a PR from TheOliveOli](https://github.com/Tofutush/The-Iron-Ragdoll/pull/1) to add a text shadow behind the card text in front of the popup characters. Thank you!
+- Changed the dark mode accent to blue again. I cannot settle down, man.
+
+## 2025-03-15
+
+- Added the status cafe widget to [About](/about/)!
+- Tofutush canNOT decide on a blockquote style.
+- I forgot to log `ribbon profile.png` in the `.json` file… It's there now.
+- Gave Sylvandia and Moreland capital cities: [Bonnie](/world/sylvandia/bonnie/) and [Revolution's Cradle](/world/moreland/revolutions-cradle/).
+
+## 2025-03-14
+
+- Happy PI day!
+- Added tags and filtering to [stories](/stories/).
+- Removed the link colors on gallery and stories.
+	- Which led to some funny coloring of some stories, which is nice I guess.
+- Added `lark half.png`, `lark wall.png`.
+
+## 2025-03-13
+
+- Added `jackalope salute.png`, `xuer.gif`, `xuer-2.gif`.
+
+## 2025-03-10
+
+- Added stories for each country in [Pearl's Journey Home](/tir/stories/pearls-journey-home/).
+- Changed the story list's style.
+- Added `xuer.png`, `sparky tween.png`, `sparky tween.gif`.
+
+## 2025-03-09
+
+- Updated the CSS to include `<h4>`s.
+- Updated [About](/about/).
+- Added `amber profile.png`, `peacock profile.png`.
+
 ## 2025-03-08
 
 - Happy Women's Day!

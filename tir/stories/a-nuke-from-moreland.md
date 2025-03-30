@@ -16,11 +16,17 @@ chs:
   - gecko
   - lark
 time: 2031 summer break
-location: <a href="/world/bauhinia/coastline/">Coastline</a>
 summary: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
+fic: true
 titlezh: 莫尔兰核弹
 tags:
   - a-nuke-from-moreland
+myTags:
+  - Canon
+  - Coastline
+  - Bauhinia
+  - MSS
+  - Sparky and her friends
 ---
 
 I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you wanna read it. I think the questioning scene was pretty cool though. The main problem is that no one has any personality.
@@ -41,12 +47,6 @@ The police were like "what the" and called the [MSS](/world/bauhinia/mss/). Out 
 
 They looked at the nuke for a bit, collected the kids' information, and took them to the nearest police station to do some routine questioning. It was getting late, so they called Peacock to come pick them up.
 
-> *I've never seen such a big car before!* Firecrackers bounced up and down in his seat.
->
-> "It's because Peacock has a bunch of kids outside," Sparky said. "He needs a car big enough to put all of them in. Even this one is a bit too small so he had to deliver them in batches."
->
-> Peacock rolled his eyes.
-
 The kids figured out that they left the nuke in the basement to get picked up tomorrow. So they started plotting: they would steal the nuke tonight.
 
 > [!question]+ Why didn't the MSS send people over to collect the nuke ASAP?
@@ -62,6 +62,8 @@ Though it was August, the night was still chilly, and Sky was in his pajamas. Qi
 Eventually Sparky and Firecrackers came back up with the nuke. It was then when they noticed they didn't know where to actually *put* the nuke now that they stole it.
 
 Their problem got solved pretty quickly as a blinding bright flashlight shone on them, and they heard Paperweight's infectious voice: "Hands up. Don't move. You're under arrest."
+
+{% image "gallery/" "kids nuke.png" 1000 "The kids got caught" 'max' %}
 
 They got shoved in the back of a car and hauled off to an interrogation room at the MSS office in Coastline. They were cuffed together to a heater, which is a funny picture I may or may not draw one day[^1].
 
@@ -97,9 +99,11 @@ They dug around the house again, though nothing new turned up.
 
 That was when a mysterious figure in a hat appeared, jacket slung over his shoulders, a flute in his pocket. He was on the other side of the short, dusty wall, elbows on the top, leaning in at the kids, apparently having heard everything.
 
+{% image "gallery/" "lark wall.png" 1000 "Lark on the wall" 'max' %}
+
 > "Do you need help?"
 
-The stranger introduces himself as Lark. He wanted to help the kids beat the MSS. Why? Because ha hates the MSS with a passion and would like to see them get owned by a bunch of kids. So that's why you should not tell them about me, because then they would know we cheated. We want to pretend this is all *your* credit!
+The stranger introduces himself as Lark. He wanted to help the kids beat the MSS. Why? Because he hates the MSS with a passion and would like to see them get owned by a bunch of kids. So that's why you should not tell them about me, because then they would know we cheated. We want to pretend this is all *your* credit!
 
 Sparky was happy. Sky was debating with himself whether to report Lark. Firecrackers was suspicious. Qibli seemed unsure.
 
@@ -129,7 +133,7 @@ It dawned on Qibli. Sky decided against reporting him, which Lark interpreted as
 
 And with that, Lark got himself a group of new contacts.
 
-> [!question] Who is Lark?+
+> [!question]+ Who is Lark?
 > Morelandian agent sent to recover the nuke. At least, find out where it is. He succeeded.
 
 ## ramble zone

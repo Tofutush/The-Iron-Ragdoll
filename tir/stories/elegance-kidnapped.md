@@ -2,16 +2,19 @@
 layout: story.liquid
 title: Elegance Kidnapped
 canon: yes
-order: 107
+order: 111
 chs:
   - sparky
   - elegance
   - animus
   - qibli
 time: "?"
-location: <a href="/world/bauhinia/coastline/">Coastline</a>
 summary: Elegance gets kidnapped. Sparky refuses to leave her side and also gets kidnapped.
 titlezh: 招运绑架案
+myTags:
+  - Canon
+  - Bauhinia
+  - Coastline
 ---
 
 Hyrax got a hunch that there might be a plot to kidnap Animus, so he hired a bodyguard to follow him around everywhere.

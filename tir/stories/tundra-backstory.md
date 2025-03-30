@@ -6,9 +6,15 @@ order: 302
 chs:
   - tundra
 time: "?"
-location: <a href="/world/bauhinia/">Bauhinia</a>
 summary: Tundra's backstory.
 titlezh: 冰封雪背景
+myTags:
+  - Non-canon
+  - Backstory
+---
+
+Needs rewrite — outdated
+
 ---
 
 Tundra lived in the countryside with his grandparents while his parents worked in [Coastline](/world/bauhinia/coastline/) at the [Starcorp](/world/bauhinia/starcorp/) headquarters.

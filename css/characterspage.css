@@ -1,32 +1,3 @@
-body {
-	overflow: -moz-scrollbars-none;
-}
-
-#flexbox {
-	display: flex;
-}
-
-.tags {
-	display: flex;
-	flex-wrap: wrap;
-	gap: .5em;
-	user-select: none;
-}
-
-.tags>a {
-	border-radius: .5rem;
-	font-size: var(--font-size-small);
-	padding: 0.5rem 0.7rem;
-	border: 4px solid var(--c);
-	text-decoration: none;
-}
-
-.tags>a[aria-current],
-.tags>a:hover {
-	color: var(--text);
-	background-color: var(--c);
-}
-
 .chs {
 	flex-grow: 1;
 	display: grid;
@@ -38,16 +9,25 @@ body {
 	height: min-content;
 	background-color: var(--bg);
 	z-index: 999;
-}
 
-.chs>div {
-	align-items: center;
-	display: flex;
-	flex-direction: column;
-}
+	&>div {
+		align-items: center;
+		display: flex;
+		flex-direction: column;
+		transition: transform .2s;
 
-.chs>div.hidden {
-	display: none;
+		&>a {
+			margin: 1rem 0;
+		}
+
+		&:hover {
+			transform: scale(1.1);
+
+			& .ch {
+				box-shadow: 0 0 0 8px var(--c);
+			}
+		}
+	}
 }
 
 .ch {
@@ -58,17 +38,10 @@ body {
 	justify-content: center;
 	margin: auto;
 	overflow: hidden;
-}
+	transition: box-shadow .2s;
 
-.ch:hover {
-	box-shadow: 0 0 0 8px var(--c);
-}
-
-.ch img {
-	height: 120px;
-	width: 120px;
-}
-
-.chs>div>a {
-	margin: 1rem 0;
+	& img {
+		height: 120px;
+		width: 120px;
+	}
 }
