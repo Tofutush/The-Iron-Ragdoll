@@ -3,7 +3,7 @@ layout: layout.liquid
 title: You passed!
 noNav: true
 eleventyExcludeFromCollections: true
-permalink: "ehoo/pxk/ljg/ighi/"
+permalink: "ubtt/kli/jac/gcbg/"
 ---
 
 <h1 style="text-align: center;">Congratulations!</h1>
@@ -16,4 +16,4 @@ Make your choice. You can either join and become a state-sanctioned soulless kil
 
 Do you wish to join us?
 
-<div class="box-nav"><a href="yes/">Yes</a><a href="no/">No</a></div>
+<div class="box-nav"><a onclick="yes()">Yes</a><a onclick="no()">No</a></div>
