@@ -40,43 +40,49 @@ The first two clues refer to a substitution code where you swap out each letter 
 <details>
 <summary><h2>Hint 3</h2></summary>
 
-The third clue tells you where to find the substitution key. (The next hint spoils the first clue.)
+The third clue tells you where to find the substitution key. (The next hint spoils this.)
 
 <details>
 <summary><h2>Hint 4</h2></summary>
 
-Find another word for "friends to hang out with." It's one word. (The next hint spoils the second clue.)
+There are exactly 2 links to 404 pages in the changelog. You might need to look in the old changes too. (The next hint spoils the second clue.)
 
 <details>
 <summary><h2>Hint 5</h2></summary>
 
-Lotus is the symbol of Fanton. (The next hint spoils the third clue.)
+Find another word for "friends to hang out with." It's one word. (The next hint spoils the second clue.)
 
 <details>
 <summary><h2>Hint 6</h2></summary>
 
-"Archer" refers to "Arch-something." "Seven-point star" is the symbol of Westavia. (The next hint spoils the fourth clue.)
+Lotus is the symbol of Fanton. (The next hint spoils the third clue.)
 
 <details>
 <summary><h2>Hint 7</h2></summary>
 
-Where does this phrase appear? Alternatively, what would you call a pretty-much attainable dream? (The next hint spoils the fifth clue.)
+"Archer" refers to "Arch-something." "Seven-point star" is the symbol of Westavia. (The next hint spoils the fourth clue.)
 
 <details>
 <summary><h2>Hint 8</h2></summary>
 
-Who is a 3rd generation immigrant? He also went back to the country his grandparents came from. (The next hint spoils the sixth clue.)
+Where does this phrase appear? Alternatively, what would you call a pretty-much attainable dream? (The next hint spoils the fifth clue.)
 
 <details>
 <summary><h2>Hint 9</h2></summary>
 
-What would you call character connections? (The next hint spoils the seventh clue.)
+Who is a 3rd generation immigrant? He also went back to the country his grandparents came from. (The next hint spoils the sixth clue.)
 
 <details>
 <summary><h2>Hint 10</h2></summary>
 
+What would you call character connections? (The next hint spoils the seventh clue.)
+
+<details>
+<summary><h2>Hint 11</h2></summary>
+
 I was lying about one of the places in hint 1. One of those pages do contain a clue, which is the final clue you need.
 
+</details>
 </details>
 </details>
 </details>
