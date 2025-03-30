@@ -22,6 +22,7 @@ Here are some starting clues to get you started:
 5. Clues are often hidden in plain sight.
 6. You don't need to look through the website source code to crack it.
 7. The first clue is "the greatest friends to hang out with." You will need to find the page this refers to. On that page, there will be a puzzle piece, and another clue that leads to the next page. There are 7 pieces in total.
+8. The final answer is in lowercase, and different words should be separated by *slashes*. For example, if your answer is "Hello World," you should go to `https://tofutush.github.io/The-Iron-Ragdoll/hello/world/` (or `https://tofutush.neocities.org/hello/world/`, if you're on Neocities.).
 
 ...
 
