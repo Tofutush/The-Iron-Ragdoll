@@ -3,7 +3,7 @@ layout: layout.liquid
 title: You passed!
 noNav: true
 eleventyExcludeFromCollections: true
-permalink: "call/for/the/dead/"
+permalink: "ubtt/kli/jac/gcbg/"
 ---
 
 <h1 style="text-align: center;">Congratulations!</h1>
