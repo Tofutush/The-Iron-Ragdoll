@@ -21,4 +21,7 @@ Their boots are designed to kill — a kick to crush the liver.
 - [Pumpkin](/characters/pumpkin/) (fled)
 - [Halcyon](/characters/halcyon/) (traded)
 - [Paperweight](/characters/paperweight/) (retired)
-- [Sky](/characters/sky/) (later)
+- [Sky](/characters/sky/) (joined later)
+- [Whiteout](/characters/whiteout/) (executed)
+
+Heed the apprentice chain: Whiteout mentored Paperweight mentored Goose mentored Sky.

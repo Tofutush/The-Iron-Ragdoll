@@ -31,8 +31,6 @@ Its capital, [Lotus Lake City](/world/fanton/lotus-lake-city/), rests on a plain
 
 The closest geographical mirror to Bauhinia is Sichuan plus the Yungui Plateau plus the Tibetan Plateau[^1].
 
-[^1]: It used to be *just* Sichuan. Why do I keep making Fanton bigger and bigger?
-
 ### Regions
 
 - [Fantoni Basin](/world/fanton/fantoni-basin/)
@@ -47,6 +45,14 @@ The closest geographical mirror to Bauhinia is Sichuan plus the Yungui Plateau p
 Fanton is a republic. The government of Fanton highly values environmental preservation, which is one of its founding ideals, baked into the constitution.
 
 Many things are banned in Fanton, including but not limited to drugs, alcohol, tobacco and nicotine, swearing in public, and addictive stuff like gambling, gacha games, and short video apps. The police train dogs to not only detect drugs, but also drinks and smokes.
+
+Despite all that government control and their success in preserving the environment, they could not keep their underground in check, mainly because they're *willing* to turn a blind eye — their GDP would look like a windless ocean without them.
+
+### Foreign relations
+
+Fanton does *not* like meddling in international affairs. They prefer isolationism. But reality just won't let them.
+
+First they got finlandized to hell by [Bauhinia](/world/bauhinia/), and then they get invaded. Okay, we declare ourselves on your side in this petty cold war. Happy?
 
 ## Economy
 
@@ -67,3 +73,5 @@ Fanton was originally a part of the Bauhinian Empire. During the empire's indust
 Fanton was created at such a convenient time when everyone else was too busy sorting out their own mess to give a snabbergatt about Fanton. The republic survived.
 
 The creation of Fanton led a lot of the original inhabitants to move out in frustration, and a lot of like-minded individuals in other places to move in.
+
+[^1]: It used to be *just* Sichuan, and just the basin part too. Why do I keep making Fanton bigger and bigger? Most of their population is still in the basin though.

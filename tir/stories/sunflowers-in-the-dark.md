@@ -6,9 +6,12 @@ order: 202
 chs:
   - candlelight
   - sunflower
-location: <a href="/world/westavia/area-1/">Area 1</a>
 time: "2030"
 summary: Candlelight gets an annoying suicide watch target and ends up quitting his job.
+myTags:
+  - Canon
+  - Westavia
+  - Area 1
 ---
 
 Candlelight, a young and eager [SPF](/world/westavia/spf/) officer, is assigned his first very-own actual suicide watch target: Sunflower, a high school girl who paracosms[^1].

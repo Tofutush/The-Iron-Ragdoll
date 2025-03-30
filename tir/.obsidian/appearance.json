@@ -12,9 +12,9 @@
     "word count",
     "blockquote"
   ],
-  "interfaceFontFamily": "Courier Prime,din round pro,微软雅黑",
-  "textFontFamily": "Courier Prime,Lexend,霞鹜漫黑,霞鹜文楷",
+  "interfaceFontFamily": "DIN Round Pro",
+  "textFontFamily": "Lexend,Crimson Pro,Courier Prime,霞鹜文楷,霞鹜漫黑",
   "cssTheme": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑"
 }

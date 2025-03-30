@@ -5,41 +5,43 @@
 	height: 120px;
 	margin: 2em 0;
 	overflow: hidden;
-}
 
-.palette>div {
-	align-items: center;
-	display: flex;
-	flex: 1;
-	flex-basis: 0px;
-	justify-content: center;
-	transition: all .3s var(--bezier);
-}
+	&>div {
+		align-items: center;
+		display: flex;
+		flex: 1;
+		flex-basis: 0px;
+		justify-content: center;
+		transition: all .3s var(--bezier);
 
-.palette>div:hover {
-	flex-basis: 80px;
-}
+		&:hover {
+			flex-basis: 80px;
+		}
 
-.palette>div>div {
-	align-items: center;
-	border-radius: 6px;
-	display: none;
-	flex-direction: column;
-	font-weight: bold;
-	justify-content: center;
-	padding: 6px;
-	text-align: center;
-}
+		&>div {
+			align-items: center;
+			border-radius: 6px;
+			display: none;
+			flex-direction: column;
+			font-weight: bold;
+			justify-content: center;
+			padding: 6px;
+			text-align: center;
 
-.palette>div>div>span:first-child {
-	font-size: var(--font-size);
-	text-transform: uppercase;
-}
+			&>span {
+				&:first-child {
+					font-size: var(--font-size);
+					text-transform: uppercase;
+				}
 
-.palette>div>div>span:last-child {
-	font-size: var(--font-size-small);
-}
+				&:last-child {
+					font-size: var(--font-size-small);
+				}
+			}
+		}
 
-.palette>div:hover>div {
-	display: flex;
+		&:hover>div {
+			display: flex;
+		}
+	}
 }

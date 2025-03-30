@@ -385,6 +385,15 @@
     "kind": "thumb"
   },
   {
+    "name": "ribbon profile",
+    "type": "png",
+    "ch": [
+      "ribbon"
+    ],
+    "date": "2025-02-07",
+    "kind": "thumb new"
+  },
+  {
     "name": "ribbon turn",
     "type": "png",
     "ch": [
@@ -1269,15 +1278,6 @@
     "comment": "Snake's butt is floating in midair, and I drew his inner ring of feathers black... I spent an hour on this I wanna eat myself"
   },
   {
-    "name": "sparky nightsun wallpaper",
-    "type": "png",
-    "ch": [
-      "sparky",
-      "nightsun"
-    ],
-    "date": "2024-12-08"
-  },
-  {
     "name": "sprinkles",
     "type": "png",
     "date": "2024-12-15",
@@ -1914,7 +1914,8 @@
       "pumpkin",
       "halcyon",
       "paperweight",
-      "sky"
+      "sky",
+      "whiteout"
     ],
     "date": "2025-02-17"
   },
@@ -2261,5 +2262,154 @@
     ],
     "date": "2025-03-08",
     "kind": "thumb new"
+  },
+  {
+    "name": "amber profile",
+    "type": "png",
+    "ch": [
+      "amber"
+    ],
+    "date": "2025-03-09",
+    "kind": "thumb new"
+  },
+  {
+    "name": "peacock profile",
+    "type": "png",
+    "ch": [
+      "peacock"
+    ],
+    "date": "2025-03-09",
+    "kind": "thumb new"
+  },
+  {
+    "name": "xuer",
+    "type": "png",
+    "date": "2025-03-10",
+    "comment": "Gift art for [Kolo](https://numbersstory.com), featuring [Xuer](https://characters.numbersstory.com/chara/house/xuer).\n\nPssst, if you're Kolo and you saw this, this is *not* finished!"
+  },
+  {
+    "name": "sparky tween",
+    "type": "png",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-10"
+  },
+  {
+    "name": "sparky-tween",
+    "type": "gif",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-10"
+  },
+  {
+    "name": "jackalope salute",
+    "type": "png",
+    "ch": [
+      "jackalope"
+    ],
+    "date": "2025-03-13"
+  },
+  {
+    "name": "xuer",
+    "type": "gif",
+    "date": "2025-03-13",
+    "comment": "Gift art for [Kolo](https://numbersstory.com), featuring [Xuer](https://characters.numbersstory.com/chara/house/xuer)."
+  },
+  {
+    "name": "xuer-2",
+    "type": "gif",
+    "date": "2025-03-13",
+    "comment": "Gift art for [Kolo](https://numbersstory.com), featuring [Xuer](https://characters.numbersstory.com/chara/house/xuer)."
+  },
+  {
+    "name": "lark half",
+    "type": "png",
+    "ch": [
+      "lark"
+    ],
+    "date": "2025-03-14"
+  },
+  {
+    "name": "lark wall",
+    "type": "png",
+    "ch": [
+      "lark"
+    ],
+    "date": "2025-03-14"
+  },
+  {
+    "name": "whiteout stand",
+    "type": "png",
+    "ch": [
+      "whiteout"
+    ],
+    "date": "2025-03-20"
+  },
+  {
+    "name": "sue",
+    "type": "gif",
+    "date": "2025-03-20",
+    "comment": "Birthday gift for the lovely Sue!"
+  },
+  {
+    "name": "goose jackalope",
+    "type": "png",
+    "ch": [
+      "goose",
+      "jackalope"
+    ],
+    "date": "2025-03-21"
+  },
+  {
+    "name": "nala",
+    "type": "png",
+    "date": "2025-03-25",
+    "comment": "Gift art for [TheOliveOli](https://theoliveoli.blahaj.land/)."
+  },
+  {
+    "name": "squid tentacles",
+    "type": "png",
+    "ch": [
+      "sundae",
+      "buttercup",
+      "whiteout"
+    ],
+    "date": "2025-03-25",
+    "comment": "鱿鱼丝发型的战斗力都不一般啊。"
+  },
+  {
+    "name": "buttercup slice",
+    "type": "png",
+    "ch": [
+      "buttercup"
+    ],
+    "date": "2025-03-25"
+  },
+  {
+    "name": "whiteout slice",
+    "type": "png",
+    "ch": [
+      "whiteout"
+    ],
+    "date": "2025-03-25"
+  },
+  {
+    "name": "deer thing",
+    "type": "png",
+    "date": "2025-03-26",
+    "comment": "给[缚寻](https://www.xiaohongshu.com/user/profile/62adb921000000001b0297c1?channelType=web_user_card_popup_page&xsec_token=ABv0ouGlLjMPG17TgGb6t0f9-qrQgz7vhfbcB18XIw8QQ%3D&xsec_source=pc_hovercard)的无偿。"
+  },
+  {
+    "name": "one man short footer",
+    "type": "png",
+    "date": "2025-03-26",
+    "ch": [
+      "skyhawk",
+      "nightingale",
+      "cobalt"
+    ],
+    "kind": "footer"
   }
 ]

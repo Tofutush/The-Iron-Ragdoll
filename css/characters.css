@@ -2,12 +2,16 @@
   display: flex;
   gap: 2em;
   position: relative;
+
+  &>* {
+    margin: 1.5rem 0;
+  }
 }
 
 h1,
 h2,
-#main-content h2::before,
-#main-content h3::before {
+main h2::before,
+main h3::before {
   color: var(--accent);
 }
 
@@ -22,63 +26,58 @@ h2,
 
 .right-side {
   flex-grow: 1;
+
+  & h3 {
+    margin-left: 1em;
+  }
 }
 
-.desc>* {
-  margin: 1.5rem 0;
-}
-
-.desc .note {
-  margin: 2em 1em;
-}
-
-.desc .note>p:first-child {
-  margin-top: 0;
-}
-
-.desc .note>p:last-child {
-  margin-bottom: 0;
+blockquote {
+  border-color: var(--accent);
 }
 
 .title {
   align-items: center;
   display: flex;
   flex-direction: column;
+
+  & img {
+    background-color: var(--box);
+    border-radius: 16px;
+    height: 200px;
+    user-select: none;
+    width: 200px;
+  }
 }
 
-.title img {
-  background-color: var(--box);
-  border-radius: 16px;
-  height: 200px;
-  user-select: none;
-  width: 200px;
-}
-
-.title-info,
-.title-info p {
+.title-info {
   text-align: center;
-}
 
-.title-info h1 {
-  font-size: var(--font-size-h1);
-  letter-spacing: 4px;
-  text-transform: uppercase;
-}
+  & p {
+    text-align: center;
+  }
 
-.title-info>* {
-  margin: 1rem 0;
-  text-indent: 0;
+  & h1 {
+    font-size: var(--font-size-h1);
+    letter-spacing: 4px;
+    text-transform: uppercase;
+  }
+
+  &>* {
+    margin: 1rem 0;
+    text-indent: 0;
+  }
 }
 
 #info {
   align-items: center;
   display: flex;
   gap: .5rem;
-}
 
-#info .tooltip {
-  display: inline-flex;
-  height: 28px;
+  & .tooltip {
+    display: inline-flex;
+    height: 28px;
+  }
 }
 
 .toc {
@@ -99,23 +98,19 @@ h2,
   line-height: 2;
   margin: 1rem 0;
   padding: 1em 0;
-}
 
-.ch-attr>div>div {
-  padding: 0.5em;
-}
+  &>div>div {
+    padding: 0.5em;
 
-.ch-attr>div>div:first-child {
-  color: var(--accent);
-  font-weight: bold;
-}
+    &:first-child {
+      color: var(--accent);
+      font-weight: bold;
+    }
 
-.ch-attr>div>div:last-child {
-  margin-left: 1em;
-}
-
-.right-side h3 {
-  margin-left: 1em;
+    &:last-child {
+      margin-left: 1em;
+    }
+  }
 }
 
 .rel-h3 {

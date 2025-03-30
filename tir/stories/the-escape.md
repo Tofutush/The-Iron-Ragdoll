@@ -8,9 +8,12 @@ chs:
   - sparky
   - tephra
   - myriad
-time: "Non-canon"
-location: "<a href=\"/world/bauhinia/\">Bauhinia</a>"
-summary: "A group of outlaws escape the country. betrayals happen and they all get caught instead."
+time: Non-canon
+summary: A group of outlaws escape the country. betrayals happen and they all get caught instead.
+myTags:
+  - Non-canon
+  - Bauhinia
+  - Fanton
 ---
 
 It started when Firecrackers was blown and wanted posters with his big purple head was everywhere.
