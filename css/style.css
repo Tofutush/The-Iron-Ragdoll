@@ -450,6 +450,7 @@ nav>a:hover,
     &>a {
         background-color: var(--c);
         color: var(--bg);
+        cursor: pointer;
         padding: .4em .6em;
         border-radius: .3em;
         text-decoration: none;
