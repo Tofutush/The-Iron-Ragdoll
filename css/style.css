@@ -481,6 +481,7 @@ code {
     border-radius: 6px;
     font-family: Consolas;
     padding: 3px 8px;
+    overflow-wrap: anywhere;
 }
 
 .breadcrumbs {
