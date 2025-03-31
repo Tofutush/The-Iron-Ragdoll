@@ -6,7 +6,7 @@ eleventyExcludeFromCollections: true
 permalink: "ubtt/kli/jac/gcbg/"
 ---
 <style>
-    .yes, .no, .thanks { display: none; }
+    .yes, .no, .thanks, .notif { display: none; }
 </style>
 <h1 style="text-align: center;">Congratulations!</h1>
 <p>You have passed the entrance test to the <a href="/world/bauhinia/mss/">Ministry of State Security</a>!</p>
@@ -28,11 +28,23 @@ permalink: "ubtt/kli/jac/gcbg/"
 <div class="thanks">
     <p>Thank you for playing! I hope you enjoyed this!</p>
 </div>
+<div class="notif">
+    <p>What, do you think you can just refresh the page and remake the decision? Don't be silly!</p>
+    <p>(Distant desperate scream: "clearing localStorage data will reset your choice!" "Shut up!" Gunshot.)</p>
+</div>
 
 <script>
+window.onload = function() {
+    let choice = localStorage.getItem('choice');
+    if(choice === 'yes' || choice === 'no') {
+        choose(choice);
+        document.querySelector('.notif').style.display = 'block';
+    }
+}
 function choose(choice) {
     document.querySelector('.' + choice).style.display = 'block';
     document.querySelector('.box-nav').style.display = 'none';
     document.querySelector('.thanks').style.display = 'block';
+    localStorage.setItem('choice', choice);
 }
 </script>
