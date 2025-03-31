@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Edited [MSS](/world/bauhinia/mss/) a little;
 - Edited [PJH - Atlasia](/stories/pearls-journey-home-atlasia/) a little;
+- Added `hunt finish.png`, along with the individual characters;
 
 ## 2025-03-29
 
