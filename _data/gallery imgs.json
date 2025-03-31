@@ -2411,5 +2411,48 @@
       "cobalt"
     ],
     "kind": "footer"
+  },
+  {
+    "name": "hunt finish",
+    "type": "png",
+    "date": "2025-03-31",
+    "ch": [
+      "goose",
+      "pumpkin",
+      "halcyon",
+      "paperweight"
+    ]
+  },
+  {
+    "name": "hunt finish goose",
+    "type": "png",
+    "date": "2025-03-31",
+    "ch": [
+      "goose"
+    ]
+  },
+  {
+    "name": "hunt finish pumpkin",
+    "type": "png",
+    "date": "2025-03-31",
+    "ch": [
+      "pumpkin"
+    ]
+  },
+  {
+    "name": "hunt finish halcyon",
+    "type": "png",
+    "date": "2025-03-31",
+    "ch": [
+      "halcyon"
+    ]
+  },
+  {
+    "name": "hunt finish paperweight",
+    "type": "png",
+    "date": "2025-03-31",
+    "ch": [
+      "paperweight"
+    ]
   }
 ]
