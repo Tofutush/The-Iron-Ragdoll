@@ -2454,5 +2454,21 @@
     "ch": [
       "paperweight"
     ]
+  },
+  {
+    "name": "hunt no",
+    "type": "png",
+    "date": "2025-04-01",
+    "ch": [
+      "goose"
+    ]
+  },
+  {
+    "name": "hunt yes",
+    "type": "png",
+    "date": "2025-04-01",
+    "ch": [
+      "goose"
+    ]
   }
 ]
