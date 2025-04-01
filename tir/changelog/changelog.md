@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-01
+
+- Added `hunt no.png` and `hunt yes.png`;
+
 ## 2025-03-31
 
 - Edited [MSS](/world/bauhinia/mss/) a little;
