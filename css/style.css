@@ -158,6 +158,10 @@ img {
     display: block;
 }
 
+.m-auto {
+    margin: auto;
+}
+
 svg {
     vertical-align: text-bottom;
 }
