@@ -48,6 +48,8 @@ Never be late again! Be able to tell the time down to the second (if you're stro
 
 Be able to see, hear, and smell things that other people can't. For weaker people, they might only get enhanced senses, but for stronger people, they might literally be able to see stuff going on on the other side of town, or hear a pin dropped in a noisy room. It's also possible for someone to be extremely strong in one or two senses but lacking in the others.
 
+There is a special fabric that can conceal a person from sensors. They hate 'em, we love 'em! Of course, you need extra layers of said fabric to hide yourself from stronger sensors.
+
 ### Invisibility
 
 {% figure 'gallery/' 'invisibility.svg' 200 'Invisibility symbol' '' 'float-right' %}
