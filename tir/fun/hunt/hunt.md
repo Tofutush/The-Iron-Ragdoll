@@ -16,7 +16,7 @@ We have left clues scattered all over the place. It will be your task to find th
 Here are some starting clues to get you started:
 
 1. Redundancy is bad. Only the first one gets to stay.
-2. Jackdaws turn into wizards, but the tides turn at the very end.
+2. Jackdaws are the code and wizards are the original text.
 3. The keys you need to find are not found.
 4. Puzzles spell out a puzzle.
 5. Clues are often hidden in plain sight.
