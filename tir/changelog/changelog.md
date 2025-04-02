@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-02
+
+- Released the [scavenger hunt game](/fun/hunt/);
+
 ## 2025-04-01
 
 - Added `hunt no.png` and `hunt yes.png`;
