@@ -2470,5 +2470,23 @@
     "ch": [
       "goose"
     ]
+  },
+  {
+    "name": "whiteout thumb",
+    "type": "png",
+    "date": "2025-04-02",
+    "kind": "thumb",
+    "ch": [
+      "whiteout"
+    ]
+  },
+  {
+    "name": "whiteout profile",
+    "type": "png",
+    "date": "2025-04-02",
+    "kind": "thumb new",
+    "ch": [
+      "whiteout"
+    ]
   }
 ]
