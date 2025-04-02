@@ -158,6 +158,10 @@ img {
     display: block;
 }
 
+.m-auto {
+    margin: auto;
+}
+
 svg {
     vertical-align: text-bottom;
 }
@@ -450,6 +454,7 @@ nav>a:hover,
     &>a {
         background-color: var(--c);
         color: var(--bg);
+        cursor: pointer;
         padding: .4em .6em;
         border-radius: .3em;
         text-decoration: none;
@@ -481,6 +486,7 @@ code {
     border-radius: 6px;
     font-family: Consolas;
     padding: 3px 8px;
+    overflow-wrap: anywhere;
 }
 
 .breadcrumbs {
