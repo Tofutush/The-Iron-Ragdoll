@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-04-02
 
 - Released the [scavenger hunt game](/fun/hunt/);
+- updated [character list](/characters/list/) to include fav picker image (even though I drew precisely 0 of those);
 
 ## 2025-04-01
 
