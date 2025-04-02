@@ -194,14 +194,26 @@ Firecrackers nodded and stood up. Sparky turned towards Sky.
 
 "It's true. We have no idea where to start," he shrugged.
 
-"Alright, if you motherfuckers have to be such *downers*," Sparky yelled after Qibli and Firecrackers, "we're also coming tomorrow!"
+"Alright, if you motherfuckers have to be such *downers*," Sparky yelled after Qibli and Firecrackers, "we're also coming tomorrow! Don't you stay home!"
 
 Sky sighed. He thanked Qibli's neighbor and left too. Sparky sat at their table alone, seething for a while before also leaving, but not before finishing Qibli's ice cream.
 
 ---
 
-Pumpkin was waiting for him. "How was the day?"
+Pumpkin was waiting for him at the entrance of the apartment building. "How was the day?"
 
 "Did you really think we could find anything at all?"
+
+"That's not my judgement to give."
+
+"Well, then, I have nothing to report," Sky shrugged and pushed open the gate.
+
+"Wait! If I go back too early they'd think I slacked off!"
+
+Sky stared at him dumbfoundedly. "Seriously?"
+
+"Let's go get some kebabs," Pumpkin pointed a thumb behind himself. "I'm hungry."
+
+Sky still had his hand on the metal door for a while. Then he released it, letting it screech shut. "Sure."
 
 [^1]: YES this is a corny fourth wall joke

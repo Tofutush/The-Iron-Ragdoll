@@ -79,6 +79,17 @@ eleventyNavigation:
       {% endif %}
     {% endfor %}
   </div>
+  <div class="attr-key">Needs fav picker image</div>
+  <div class="attr-val chbuttons">
+    {% for ch in characters %}
+      {% assign filteredGallery = gallery | filterGallery: ch.name %}
+      {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+      {% assign fav = filteredGallery | filterGalleryByKind: 'fav' %}
+      {% if profile.size == 1 and fav.size == 0 %}
+        {% include 'chButton', ch: ch.name %}
+      {% endif %}
+    {% endfor %}
+  </div>
   <div class="attr-key">All done</div>
   <div class="attr-val chbuttons">
     {% for ch in characters %}
@@ -86,7 +97,8 @@ eleventyNavigation:
       {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
       {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
       {% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
-      {% if thumb.size == 1 and profile.size == 1 and ref.size == 1 %}
+      {% assign fav = filteredGallery | filterGalleryByKind: 'fav' %}
+      {% if thumb.size == 1 and profile.size == 1 and ref.size == 1 and fav.size == 1 %}
         {% include 'chButton', ch: ch.name %}
       {% endif %}
     {% endfor %}

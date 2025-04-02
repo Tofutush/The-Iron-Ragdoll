@@ -13,7 +13,11 @@ The main security apparatus of Bauhinia, handling both intelligence and counteri
 
 {% figure 'gallery/' 'mss ref.png' 1000 'MSS Uniform' 'MSS Uniform ref' 'max' %}
 
-Their boots are designed to kill — a kick to crush the liver.
+Their boots — lemme ramble about the boots! They could be as quiet as you want, to sneak up on people; but they could also be as loud as you want — dreadful, intimidating crunching sounds. The prints they leave behind aren't easily identifiable, and could easily be disguised into footprints of other animals. They are also designed to kill — a kick to crush the liver.
+
+… Am I a bootlicker now?
+
+That being said, most MSS agents operate in plain clothes, similar to how normal police wear uniforms and plainclothes don't.
 
 ## Members
 

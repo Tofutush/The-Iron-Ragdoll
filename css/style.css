@@ -158,6 +158,10 @@ img {
     display: block;
 }
 
+.m-auto {
+    margin: auto;
+}
+
 svg {
     vertical-align: text-bottom;
 }
@@ -356,18 +360,10 @@ nav>a:hover,
     color: var(--bg);
 }
 
-footer {
-    display: flex;
-    flex-direction: row-reverse;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: flex-end;
-}
-
 .footer-img {
     height: auto;
     max-width: 100%;
-    width: 300px;
+    width: 13em;
     user-select: none;
     filter: drop-shadow(0 0 16px var(--c));
 }
@@ -458,6 +454,7 @@ footer {
     &>a {
         background-color: var(--c);
         color: var(--bg);
+        cursor: pointer;
         padding: .4em .6em;
         border-radius: .3em;
         text-decoration: none;
@@ -489,6 +486,7 @@ code {
     border-radius: 6px;
     font-family: Consolas;
     padding: 3px 8px;
+    overflow-wrap: anywhere;
 }
 
 .breadcrumbs {
@@ -517,7 +515,7 @@ code {
     cursor: pointer;
     height: 36px;
     padding: 4px;
-    margin: 2rem;
+    margin: 0 2rem 0 0;
     position: relative;
     transition: all .3s;
     width: 72px;
