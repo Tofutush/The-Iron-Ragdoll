@@ -20,3 +20,5 @@ In its main meeting room in People's Vanguard, there is a Westavian 7-point star
 
 - [Superpowers](/world/superpowers/)
 - [Superpowers in Bauhinia](/world/bauhinia/superpowers/)
+
+*You found a puzzle piece: **Hlav**! Next clue: dreams are worth having. ([What is this?](/fun/hunt/))*

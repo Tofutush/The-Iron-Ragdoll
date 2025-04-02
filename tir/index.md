@@ -17,7 +17,7 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 	<summary><h2>Content warnings (Click to expand)</h2></summary>
 	<p>This site and its contents feature strong language, cartoon violence, and occasional mature themes. Viewer discretion is advised.</p>
 	<p>It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't treat it so seriously.</p>
-	<p>Also: This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the scenario generator, and the relationship graph. The personality quiz needs a script too for some reason. It should be fine to view most other things with JS disabled.</p>
+	<p>Also: This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the scenario generator, the relationship graph, and the scavenger hunt result page. The personality quiz needs a script too for some reason. It should be fine to view most other things with JS disabled.</p>
 </details>
 <div class="grid">
   <a class="big" href="/characters/">
@@ -65,7 +65,6 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 ## Outgoing
 
 - [{% lucide 'messages-square' %} Discord server](https://discord.gg/XzdA5vKkb2), join the discord!
-- [{% lucide 'pickaxe' %} Idle Forced Labor Camp](https://tofutush.github.io/idlegame), a cursed game about running a forced labor camp.
 - [{% lucide 'school' %}Havoc 101](https://tofutush.github.io/havoc101), another cannot-complete-in-my-life project related to TIR
 - [Hillslope comic](/stories/hillslope-mysteries/) mirrors (ranked by my personal bias)
 	- [{% lucide 'box' %} MSPFA](https://mspfa.com/?s=50350&p=1)

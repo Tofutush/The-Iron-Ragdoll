@@ -66,3 +66,5 @@ Each character needs the following images:
 That's like {{ characters.size | times: 4 }} pictures! What have I done to myself!
 
 Progress can be tracked [here](/characters/list/).
+
+*You found a puzzle piece: **tc**! Next clue: the tale of a 3rd gen immigrant. ([What is this?](/fun/hunt/))*
