@@ -37,6 +37,7 @@ eleventyNavigation:
   </table>
 </div>
 <h2 id="progress">Character art progress</h2>
+{% assign total = 0 %}
 <div class="attr">
   <div class="attr-key">Needs design</div>
   <div class="attr-val chbuttons">
@@ -55,6 +56,9 @@ eleventyNavigation:
       {% if filteredGallery.size != 0 and thumb.size == 0 %}
         {% include 'chButton', ch: ch.name %}
       {% endif %}
+      {% if thumb.size == 1 %}
+        {% assign total = total | plus: 1 %}
+      {% endif %}
     {% endfor %}
   </div>
   <div class="attr-key">Needs profile</div>
@@ -65,6 +69,9 @@ eleventyNavigation:
       {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
       {% if thumb.size == 1 and profile.size == 0 %}
         {% include 'chButton', ch: ch.name %}
+      {% endif %}
+      {% if profile.size == 1 %}
+        {% assign total = total | plus: 1 %}
       {% endif %}
     {% endfor %}
   </div>
@@ -77,6 +84,9 @@ eleventyNavigation:
       {% if profile.size == 1 and ref.size == 0 %}
         {% include 'chButton', ch: ch.name %}
       {% endif %}
+      {% if ref.size == 1 %}
+        {% assign total = total | plus: 1 %}
+      {% endif %}
     {% endfor %}
   </div>
   <div class="attr-key">Needs fav picker image</div>
@@ -87,6 +97,9 @@ eleventyNavigation:
       {% assign fav = filteredGallery | filterGalleryByKind: 'fav' %}
       {% if profile.size == 1 and fav.size == 0 %}
         {% include 'chButton', ch: ch.name %}
+      {% endif %}
+      {% if fav.size == 1 %}
+        {% assign total = total | plus: 1 %}
       {% endif %}
     {% endfor %}
   </div>
@@ -104,6 +117,7 @@ eleventyNavigation:
     {% endfor %}
   </div>
 </div>
+<p>Completed: {{ total }} out of {{ characters.size | times: 4 }}!</p>
 <script src="/js/sort.js"></script>
 <script>
   let sort = new SortTable(document.querySelector('table'));
