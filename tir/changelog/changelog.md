@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Released the [scavenger hunt game](/fun/hunt/);
 - updated [character list](/characters/list/) to include fav picker image (even though I drew precisely 0 of those);
+- Added `whiteout thumb.png`, `whiteout profile.png`;
 
 ## 2025-04-01
 
