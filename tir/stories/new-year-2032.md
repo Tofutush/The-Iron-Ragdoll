@@ -70,7 +70,7 @@ Qibli got that from pure magic hunch. She also had a hunch about where it came f
 
 ## The rescue
 
-On the first day of the national holiday week, Qibli led Sparky, Sky, and Firecrackers to the place she felt in her head. They first hailed a taxi to somewhere near, and then walked. She used her wand a bit for guidance — she was getting better at magic with the help of the book.
+On the first day of the national holiday week, February 24<sup>th</sup>, Qibli led Sparky, Sky, and Firecrackers to the place she felt in her head. They first hailed a taxi to somewhere near, and then walked. She used her wand a bit for guidance — she was getting better at magic with the help of the book.
 
 They arrived at an abandoned school and started exploring. It looked like a place no one visited for years, yet it was obvious in the kitchen that people cooked there.
 
