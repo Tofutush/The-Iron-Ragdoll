@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-03
+
+- Edited [New Year 2032] a bit;
+
 ## 2025-04-02
 
 - Released the [scavenger hunt game](/fun/hunt/);
