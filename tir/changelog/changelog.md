@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-04-03
 
 - Edited [New Year 2032] a bit;
+- Added `blaze.png`;
 
 ## 2025-04-02
 
