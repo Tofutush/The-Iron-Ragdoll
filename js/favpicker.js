@@ -17,7 +17,7 @@ const two = {
 let idx = [];
 
 window.onload = function () {
-    randTwo(data.length);
+    randTwo();
     one.btn.addEventListener('click', choose(idx[1]));
     two.btn.addEventListener('click', choose(idx[1]));
     setBoth(idx);
@@ -25,11 +25,8 @@ window.onload = function () {
 
 function choose(idx) {
     return e => {
-        console.log(data);
-
+        oldData = [...data];
         data.splice(idx, 1);
-        console.log(data);
-
         randTwo();
         setBoth();
     }
@@ -40,18 +37,18 @@ function setBoth() {
     setDisplay(two, idx[1]);
 }
 
-function setDisplay(obj, idx) {
-    obj.img.src = data[idx].img;
-    obj.h3.innerText = data[idx].name;
-    obj.h3.style.color = data[idx].color;
-    obj.p.innerText = data[idx].desc;
+function setDisplay(obj, id) {
+    obj.img.src = data[id].img;
+    obj.h3.innerText = data[id].name;
+    obj.h3.style.color = data[id].color;
+    obj.p.innerText = data[id].desc;
 }
 
-function randTwo(length) {
-    let idx1 = Math.floor(Math.random() * length);
-    let idx2 = Math.floor(Math.random() * length);
+function randTwo() {
+    let idx1 = Math.floor(Math.random() * data.length);
+    let idx2 = Math.floor(Math.random() * data.length);
     do {
-        idx2 = Math.floor(Math.random() * length);
+        idx2 = Math.floor(Math.random() * data.length);
     } while (idx1 === idx2);
     idx = [idx1, idx2];
 }
