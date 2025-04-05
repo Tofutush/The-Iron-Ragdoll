@@ -8,7 +8,7 @@ eleventyNavigation:
   key: Fav picker
   parent: Fun
 ---
-
+<style>.result{display:none;}</style>
 <div class="picker">
     <div class="one">
         <img />
@@ -22,6 +22,11 @@ eleventyNavigation:
         <p></p>
         <button>This!</button>
     </div>
+</div>
+<div class="result">
+    <img />
+    <p>Your favorite character is <a class="fav"></a>!</p>
+    <p><a href="">Play again?</a></p>
 </div>
 <script src="data.js"></script>
 <script src="/js/favpicker.js"></script>
