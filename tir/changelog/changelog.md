@@ -8,9 +8,14 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-05
+
+- Added statement about fan content in [about](/about/#fan-content);
+- Added `buttercup ref.png`, `nightsun favpicker.png`;
+
 ## 2025-04-03
 
-- Edited [New Year 2032] a bit;
+- Edited [New Year 2032](/stories/new-year-2032/) a bit;
 - Added `blaze.png`;
 
 ## 2025-04-02

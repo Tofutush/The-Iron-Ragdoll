@@ -12,7 +12,7 @@ titlezh: 小动物
 
 brrruuuhhh i dont even have pictures
 
-They are all open species — see more [here](/about/#species).
+They are all open species — see more [here](/about/#fan-content).
 
 ## Winghorses
 

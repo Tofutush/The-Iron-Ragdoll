@@ -2494,5 +2494,23 @@
     "type": "png",
     "date": "2025-04-03",
     "comment": "Gift art for Forestwalk, featuring Blaze."
+  },
+  {
+    "name": "buttercup ref",
+    "type": "png",
+    "date": "2025-04-06",
+    "kind": "ref",
+    "ch": [
+      "buttercup"
+    ]
+  },
+  {
+    "name": "nightsun favpicker",
+    "type": "png",
+    "date": "2025-04-06",
+    "kind": "fav",
+    "ch": [
+      "nightsun"
+    ]
   }
 ]
