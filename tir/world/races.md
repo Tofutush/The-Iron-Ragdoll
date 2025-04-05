@@ -14,7 +14,7 @@ The people in TIR are just "humans." But not really since they have ears and hor
 
 Ear and horn shapes are affected by genetics; i.e. you'll look similar to your parents in terms of ear / horn shape.
 
-You can split them into roughly three races based on what they have: unicorns, bicorns, and aurians. They are also all open species — see more [here](/about/#species).
+You can split them into roughly three races based on what they have: unicorns, bicorns, and aurians. They are also all open species — see more [here](/about/#fan-content).
 
 Mixed races don't exist… for now. At least until I figure out how they would look without making their heads too heavy. For now, a kid with parents of different races would only present as one of them.
 
