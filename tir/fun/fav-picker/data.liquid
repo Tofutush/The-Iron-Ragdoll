@@ -1,0 +1,13 @@
+---
+permalink: "fun/fav-picker/data.js"
+---
+const data = [
+{% for ch in characters %}
+{
+name: "{{ ch.name }}",
+color: "{{ ch.color }}",
+desc: "{{ ch.desc }}",
+img: "{% assign name = ch.name | lowerCase | append: ' favpicker.png' %}{% capture url %}{% imageUrl 'gallery/' name 500 %}{% endcapture %}{{ url | htmlBaseUrl }}"
+},
+{% endfor %}
+];
