@@ -12,6 +12,8 @@ titlezh: 小动物
 
 brrruuuhhh i dont even have pictures
 
+They are all open species — see more [here](/about/#species).
+
 ## Winghorses
 
 It's like a horse, but it's got wings!
