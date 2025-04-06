@@ -2,14 +2,16 @@ const oneElt = document.querySelector('.one');
 const one = {
     img: oneElt.querySelector('img'),
     h3: oneElt.querySelector('h3'),
-    p: oneElt.querySelector('p')
+    p: oneElt.querySelector('p'),
+    vs: document.querySelector('.V')
 }
 
 const twoElt = document.querySelector('.two');
 const two = {
     img: twoElt.querySelector('img'),
     h3: twoElt.querySelector('h3'),
-    p: twoElt.querySelector('p')
+    p: twoElt.querySelector('p'),
+    vs: document.querySelector('.S')
 }
 
 let idx = [];
@@ -40,6 +42,7 @@ function setDisplay(obj, id) {
     obj.img.src = data[id].img;
     obj.h3.innerText = data[id].name;
     obj.h3.style.color = data[id].color;
+    obj.vs.setAttribute('stroke', data[id].color);
     obj.p.innerText = data[id].desc;
 }
 
