@@ -55,7 +55,7 @@ function displayResult() {
     result.style.display = 'block';
     const link = result.querySelector('.fav');
     link.innerText = data[0].name;
-    link.href = `/characters/${data[0].name.toLowerCase()}/`;
+    link.href = `../../characters/${data[0].name.toLowerCase()}/`;
     throw new Error('game ended');
 }
 
