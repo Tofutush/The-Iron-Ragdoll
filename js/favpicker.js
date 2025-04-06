@@ -2,24 +2,22 @@ const oneElt = document.querySelector('.one');
 const one = {
     img: oneElt.querySelector('img'),
     h3: oneElt.querySelector('h3'),
-    p: oneElt.querySelector('p'),
-    btn: oneElt.querySelector('button')
+    p: oneElt.querySelector('p')
 }
 
 const twoElt = document.querySelector('.two');
 const two = {
     img: twoElt.querySelector('img'),
     h3: twoElt.querySelector('h3'),
-    p: twoElt.querySelector('p'),
-    btn: twoElt.querySelector('button')
+    p: twoElt.querySelector('p')
 }
 
 let idx = [];
 
 window.onload = function () {
     randTwo();
-    one.btn.addEventListener('click', eliminate(true));
-    two.btn.addEventListener('click', eliminate(false));
+    one.img.addEventListener('click', eliminate(true));
+    two.img.addEventListener('click', eliminate(false));
     setBoth(idx);
 }
 
