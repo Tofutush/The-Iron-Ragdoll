@@ -279,6 +279,43 @@
     "about": "Myriad has a mutation that gives her a pair of fairy wings."
   },
   {
+    "name": "Tomato",
+    "namezh": "番茄",
+    "color": "#A10000",
+    "desc": "The guy who can solve all your problems but doesn't want to.",
+    "quote": "I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
+    "tags": [
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Nickname": "Tom (by Tundra)",
+      "Gender": "Male",
+      "Soul": "Gas, tomato-shaped",
+      "Nationality": "Bauhinian",
+      "Weapon": "Wrench"
+    },
+    "palette": {
+      "shirt": "#575757",
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Potato",
+    "namezh": "土豆",
+    "color": "#bdad1b",
+    "tags": [
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Age estimation": "The same as Tomato"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
     "name": "Trinket",
     "color": "#28aed1",
     "tags": [
@@ -1278,43 +1315,6 @@
       "hair": "#2E2E2E"
     },
     "about": "Moonbeam is a Sylvandian psychic well-trained in soul-extraction."
-  },
-  {
-    "name": "Tomato",
-    "namezh": "番茄",
-    "color": "#A10000",
-    "desc": "The guy who can solve all your problems but doesn't want to.",
-    "quote": "I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
-    "tags": [
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Nickname": "Tom (by Tundra)",
-      "Gender": "Male",
-      "Soul": "Gas, tomato-shaped",
-      "Nationality": "Bauhinian",
-      "Weapon": "Wrench"
-    },
-    "palette": {
-      "shirt": "#575757",
-      "hair": "#2e2e2e"
-    }
-  },
-  {
-    "name": "Potato",
-    "namezh": "土豆",
-    "color": "#bdad1b",
-    "tags": [
-      "Misc"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Age estimation": "The same as Tomato"
-    },
-    "palette": {
-      "hair": "#2e2e2e"
-    }
   },
   {
     "name": "Cosmo",
