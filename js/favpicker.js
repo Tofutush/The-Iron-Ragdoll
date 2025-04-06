@@ -60,8 +60,6 @@ function randTwo() {
     let idx2 = Math.floor(Math.random() * data.length);
     do {
         idx2 = Math.floor(Math.random() * data.length);
-        console.log(idx1, idx2);
-
     } while (idx1 === idx2);
     idx = [idx1, idx2];
 }
