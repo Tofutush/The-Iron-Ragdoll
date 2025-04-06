@@ -14,7 +14,7 @@ const two = {
     vs: document.querySelector('.S')
 }
 
-let idx = [];
+let idx = [], totalCount = data.length;
 
 window.onload = function () {
     randTwo();
@@ -28,6 +28,8 @@ function eliminate(which) {
         if (which === true) data.splice(idx[1], 1); // eliminate two
         else data.splice(idx[0], 1); //eliminate one
         if (data.length <= 1) displayResult();
+        let progress = (totalCount - data.length) / totalCount * 100;
+        document.querySelector('.progress').style.background = `linear-gradient(to right, var(--c) ${progress}%, var(--box) ${progress}%)`;
         randTwo();
         setBoth();
     }
