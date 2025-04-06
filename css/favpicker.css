@@ -48,4 +48,12 @@
     .wrapper {
         flex-direction: column;
     }
+
+    .side {
+
+        & h3,
+        & p {
+            text-align: center;
+        }
+    }
 }
