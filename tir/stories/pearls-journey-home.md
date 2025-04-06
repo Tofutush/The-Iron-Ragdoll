@@ -33,6 +33,8 @@ Sparky stole Peacock's credit card again — it was like he put it there *for* h
 
 She also waited until Peacock refueled the car. It was perfect. She grabbed the keys and drove the nearly-full gas tank to the [safe house](/world/bauhinia/coastline/safe-house/). With that, they were on their way.
 
+February 29<sup>th</sup>, 2032. A special day in more ways than one.
+
 Sparky drove. Sky rode shotgun. Qibli and Firecrackers sat at the back with Pearl in the middle. They camped, slept in the car, ate junk food for meals. Finally, they arrived at the Fantoni border.
 
 They crossed without much trouble. Pearl's Bauhinian passport was used.
