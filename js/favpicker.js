@@ -60,7 +60,10 @@ function displayResult() {
 }
 
 function randTwo() {
-    if (data.length === 2) return [0, 1];
+    if (data.length === 2) {
+        idx = [0, 1];
+        return;
+    }
     let idx1 = Math.floor(Math.random() * data.length);
     let idx2 = Math.floor(Math.random() * data.length);
     do {
