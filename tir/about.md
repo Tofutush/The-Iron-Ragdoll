@@ -35,7 +35,7 @@ I'm probably on other places too, just not as often. I'm usually Tofutush on all
 <style>
 #statuscafe {
   padding: 1em;
-  border: 8px solid var(--c);
+  border: 8px solid var(—c);
   border-radius: 1em;
   max-width: 400px;
   margin: auto;
@@ -63,6 +63,12 @@ I'm probably on other places too, just not as often. I'm usually Tofutush on all
 ## Boundaries
 
 Please don't draw parallels between my paracosm and real-life, even if I initiated it! I understand the difference between real-world and imaginary, and so should you. This includes (but is not limited to) first and foremost comparing [Bauhinia](/world/bauhinia/) to Hong Kong based on the flower alone. Imagine growing up around a beautiful flower you've grown to adore and everyone else just goes "ooooh HK" whatever they see it. Cut it out. HK doesn't own the flower.
+
+## Fan content
+
+I welcome any sort of derivative content, like fanart, OCs, and everything, as long as you understand that they are not canon. For what is worth, the [races](/world/races/) and [creatures](/world/creatures/) are also all classified as open species. Make sure to show me anything you make; I'd love to see them!
+
+CC-BY-NC-SA license applies; see the section below!
 
 ## License
 
