@@ -1,3 +1,55 @@
+.wrapper {
+    display: flex;
+}
+
+.side {
+    position: relative;
+
+    & h3::before {
+        content: '';
+    }
+
+    & img {
+        margin: auto;
+        height: 18em;
+        width: 14em;
+        object-fit: contain;
+    }
+}
+
+.one {
+    flex: 1;
+
+    & img {
+        transform: scaleX(-1);
+    }
+
+    & h3,
+    & p {
+        text-align: right;
+    }
+
+    & button {
+        position: absolute;
+        right: 0;
+    }
+}
+
+.two {
+    flex: 1;
+}
+
+.vs {
+    font-weight: bold;
+    align-self: center;
+}
+
 .result {
     display: none;
+}
+
+@media only screen and (max-width: 480px) {
+    .wrapper {
+        flex-direction: column;
+    }
 }
