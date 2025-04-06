@@ -279,28 +279,6 @@
     "about": "Myriad has a mutation that gives her a pair of fairy wings."
   },
   {
-    "name": "Alaska",
-    "namezh": "阿拉斯加",
-    "color": "#6C0404",
-    "quote": "Smile for the camera! Cheese!",
-    "tags": [
-      "Coastline",
-      "Coastline Middle School",
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Solid",
-      "Age estimation": "Around the same as Sparky",
-      "Nationality": "Bauhinian"
-    },
-    "palette": {
-      "shirt": "#FFF",
-      "hair": "#2E2E2E"
-    }
-  },
-  {
     "name": "Trinket",
     "color": "#28aed1",
     "tags": [
@@ -556,7 +534,7 @@
       "hair": "#888",
       "young hair": "#CAA740"
     },
-    "about": "Paperweight is a senior officer at the [Ministry of State Security](/world/bauhinia/mss/).\n\nHe usually maintains a very calm and authoritative composure to others, especially the people he deals with at work — spies, moles, and pesky annoying kids. But under his composure, he is a frothing pit of pure rage. He is constantly angry at everything at once but nothing in particular, saddled by the weight of his own guilt and his colleague's suspicion of treason. To people he knows, like [his](/characters/goose/) [subordinates](/characters/pumpkin/), he yells at them all the time. Also he's homophobic as fuck.\n\nHe misses the old times when he could actually run without his knees screaming murder and shoot a gun without his hands shaking. This is why he hates young people — because he's kind of jealous.\n\nHe wishes someone could believe him. He wanted [Whiteout](/characters/whiteout/) back.",
+    "about": "Paperweight is a senior officer at the [Ministry of State Security](/world/bauhinia/mss/).\n\nHe usually maintains a very calm and authoritative composure to others, especially the people he deals with at work — spies, moles, and pesky annoying kids. But under his composure, he is a frothing pit of pure rage. He is constantly angry at everything at once but nothing in particular, saddled by the weight of his own guilt and his colleague's suspicion of treason. To people he knows, like [his](/characters/goose/) [subordinates](/characters/pumpkin/), he yells at them all the time. Also he's homophobic as fuck.\n\nHe misses the old times when he could actually run without his knees screaming murder and shoot a gun without his hands shaking. This is why he hates young people — because he's kind of jealous.\n\nHe wishes someone could believe him. He wanted [Whiteout](/characters/whiteout/) back.\n\n---\n\nEveryone in this stupid world is an idiot. Including me.\n\nPumpkin should go fuck his own perverted gay ass! I'd drown him inside a milk tea pool! (Pumpkin: that's a nice way to die actually) Goose can *never* understand human speech. Oh, have the report on my desk by 3, I'd say. She'd flip through the window at 3 in the *fucking morning* and make security piss their pants. Halcyon, would you mind your *own* fucking business? I'm just old; I'm not fucking stupid! You don't have to remind me about that meeting over and over and over — I can keep time better than you could, so shut up!\n\nSigh. Finally some peace and quiet. Med time. Let me take a blood pressure too… Still a little high. Alright.\n\nSometimes I wonder if I could just give up and let myself die. What's the point of living like this, isolated by my colleagues, and shunned by my family? Maybe there exists an afterlife, where I could see *them* again… I could tell her that I'm sorry, and that I tried. I never got to ask him whether he was proud of me.\n\nUgh, Halcyon again. What does that guy want?? He's acting like a mole there with his nose in everyone's businesses. Idiots. All the best people die early. The idiots survive on, alive but not living.\n",
     "trivia": [
       "He canonically speaks Cantonese. He's the only character who does, and other characters don't find anything off about it.",
       "他说且只会说粤语。反正大家也听得懂。",
@@ -1384,6 +1362,28 @@
     "palette": {
       "hat": "#575757",
       "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Alaska",
+    "namezh": "阿拉斯加",
+    "color": "#6C0404",
+    "quote": "Smile for the camera! Cheese!",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Solid",
+      "Age estimation": "Around the same as Sparky",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "shirt": "#FFF",
+      "hair": "#2E2E2E"
     }
   },
   {
