@@ -29,7 +29,7 @@ function eliminate(which) {
         else data.splice(idx[0], 1); //eliminate one
         if (data.length <= 1) displayResult();
         let progress = (totalCount - data.length) / totalCount * 100;
-        document.querySelector('.progress').style.background = `linear-gradient(to right, var(--c) ${progress}%, var(--box) ${progress}%)`;
+        document.querySelector('.progress-bar').style.background = `linear-gradient(to right, var(--c) ${progress}%, var(--box) ${progress}%)`;
         randTwo();
         setBoth();
     }
