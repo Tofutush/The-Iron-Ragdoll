@@ -2512,5 +2512,23 @@
     "ch": [
       "nightsun"
     ]
+  },
+  {
+    "name": "entity thumb",
+    "type": "png",
+    "date": "2025-04-07",
+    "kind": "thumb",
+    "ch": [
+      "entity"
+    ]
+  },
+  {
+    "name": "halcyon profile",
+    "type": "png",
+    "date": "2025-04-07",
+    "kind": "thumb new",
+    "ch": [
+      "halcyon"
+    ]
   }
 ]

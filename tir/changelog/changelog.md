@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-07
+
+- Added `entity thumb.png`, `halcyon profile.png`;
+
 ## 2025-04-05
 
 - Added statement about fan content in [about](/about/#fan-content);
