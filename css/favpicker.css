@@ -2,14 +2,6 @@
     display: flex;
 }
 
-.progress {
-    height: 2em;
-    width: 100%;
-    background: var(--box);
-    border-radius: 999px;
-    margin: 2em 0;
-}
-
 .side {
     position: relative;
 
