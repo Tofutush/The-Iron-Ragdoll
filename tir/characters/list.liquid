@@ -118,6 +118,7 @@ eleventyNavigation:
   </div>
 </div>
 <p>Completed: {{ total }} out of {{ characters.size | times: 4 }}!</p>
+<div class="progress-bar" style="background:linear-gradient(to right, var(--c) {{ total | divided_by: characters.size | divided_by: 4 | times: 100}}%, var(--box) {{ total | divided_by: characters.size | divided_by: 4| times: 100 }}%"></div>
 <script src="/js/sort.js"></script>
 <script>
   let sort = new SortTable(document.querySelector('table'));
