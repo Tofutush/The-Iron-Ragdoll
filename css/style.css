@@ -472,6 +472,12 @@ nav>a:hover,
     }
 }
 
+.progress-bar {
+    width: 100%;
+    height: 2em;
+    border-radius: 999px;
+}
+
 .tags {
     justify-content: flex-start;
     gap: .5em;
