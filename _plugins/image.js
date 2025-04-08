@@ -23,11 +23,12 @@ function imagePlugin(eleventyConfig) {
         let imageAttributes = {
             alt,
             title: alt,
+            class: className,
             loading: "lazy",
             decoding: "async",
         };
         let img = Image.generateHTML(metadata, imageAttributes);
-        return `<figure class="${className}">${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
+        return `<figure>${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
     });
     eleventyConfig.addShortcode('imageUrl', async function (path, name, size, fallback, type) {
         let src = getImgSrc(path, name, fallback);

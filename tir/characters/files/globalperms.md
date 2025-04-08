@@ -1,21 +1,20 @@
-- The marks on the girls' faces are eyelashes, not face paint! In my art style girls have eyelashes and boys don't (cartoon logic) but feel free to do whatever you like to do in your style! (Including drawing it as face paint; just tell me so I know you didn't mistake the eyelashes for face paint.)
-- None of my characters have real-world skin colors! Their races are just whether they have ears or horns on their heads, so everyone's skin color is the same.
-- You can draw whatever color you want as long as:
-	- It's human-colors or literal black / white / gray.
-	- Make sure all of them are the same if you draw more than one of my character together.
-	- (My default is Asian though for your reference.)
-- The same applies to hair color. Default black, make sure all of them have the same color.
-- Please color pick their accents (hex values above).
-- The highlights on their hair are parts of the design, and are optional.
-- Go wild:
-	- Basically anything not mentioned in Don't. This involves:
-		- Gore (any type).
-		- Draw them interacting with each other (mine, yours, or anyone else's).
-		- Change anything about them (outfit, gender, species, whatever) (just make sure I can still tell who it is).
+- **Design clarifications**
+	- The marks on the girls' faces are eyelashes, not face paint! You can draw whatever you want; I'm just making sure you don't think it's face paint.
+	- None of my characters have real-world skin colors! Their races are just whether they have ears or horns on their heads, so everyone's skin color is the same.
+	- You can draw whatever color you want as long as it's either normal human color, or grayscale. My default is Asian though for your reference.
+	- The highlights on their hair are parts of the design, and are optional
+- **Go wild**
+	- Basically anything not mentioned in **Don't**.
+	- Gore (any type)
+	- Interacting with each other (mine, yours, or anyone else's)
+	- Change anything about them (outfit, gender, species, in-universe race (the ear / horn thing), whatever) (just make sure their eye color stays the same)
+	- Mass attacks
+	- Memes and shitposts
 	- Go wild!
-- Don't:
-	- NSFW, 18+, whatever.
-		- This involves artistic nudity.
-		- Or anything that sexualizes them.
-		- And shipping (except Sparky and Nightsun (*not even other canon pairs*)) (friendly interaction is, of course, allowed).
-	- Hateful stuff, duh.
+- **Don't**
+	- NSFW, 18+, whatever
+		- This involves artistic nudity
+		- Or anything that sexualizes them
+	- Change their eye color *too* much
+	- Non-canon ships
+	- Hateful stuff, duh
