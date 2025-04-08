@@ -126,14 +126,7 @@ eleventyComputed:
         <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
         {% if ch.note %}
           <h3>Character Permissions</h3>
-          {% assign firstFiveLetters = ch.note | slice: 0, 5 %}
-          {% if firstFiveLetters == 'file:' %}
-            {% assign fileName = ch.note | slice: 5 %}
-            {% assign filePath = './tir/characters/files/' | append: fileName %}
-            {% renderFile filePath %}
-          {% else %}
-            {{ ch.note | renderMD }}
-          {% endif %}
+          {{ ch.note | renderMD }}
           <h3>Global Permissions</h3>
         {% endif %}
         {% renderFile './tir/characters/files/globalperms.md' %}
