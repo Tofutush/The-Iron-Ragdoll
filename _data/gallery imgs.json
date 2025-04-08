@@ -2539,5 +2539,23 @@
     "ch": [
       "bramble"
     ]
+  },
+  {
+    "name": "frosting thumb",
+    "type": "png",
+    "date": "2025-04-08",
+    "kind": "thumb",
+    "ch": [
+      "frosting"
+    ]
+  },
+  {
+    "name": "harmony thumb",
+    "type": "png",
+    "date": "2025-04-08",
+    "kind": "thumb",
+    "ch": [
+      "harmony"
+    ]
   }
 ]
