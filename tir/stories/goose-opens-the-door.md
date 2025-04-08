@@ -15,6 +15,8 @@ myTags:
   - Bauhinia
   - Coastline
   - MSS
+  - Oneshot
+  - Comic
 ---
 
 Nothing to say here; just read the comic.
