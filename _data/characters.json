@@ -1606,11 +1606,12 @@
     "attr": {
       "Full name": "Harmony Frosting Entity",
       "Gender": "Female",
-      "Soul": "Gas, heart-shaped",
+      "Soul": "Gas, shaped like a music note",
       "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#2e2e2e"
-    }
+    },
+    "about": "Harmony attends the [MSS](/world/bauhinia/mss/)'s spy school in Flower City."
   }
 ]
