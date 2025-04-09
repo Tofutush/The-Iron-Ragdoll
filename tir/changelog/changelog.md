@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-09
+
+- Added `jackalope thumb.png`;
+
 ## 2025-04-08
 
 - Added `frosting thumb.png`, `harmony thumb.png`;
