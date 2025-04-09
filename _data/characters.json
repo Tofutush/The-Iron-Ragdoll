@@ -1086,9 +1086,11 @@
       "Occupation": "Government archivist"
     },
     "palette": {
+      "glasses": "#b9b9b9",
       "hair": "#2E2E2E"
     },
-    "about": "Frosting grew up in the Project Boomerang laboratory with her parents.\n\nShe grew up to be a government archivist, tasked with erasing records of disappeared people in addition to whatever archivists usually do. She also manages the soul vault.\n\nShe let Jerboa into the archives to read about Project Boomerang and his parents."
+    "about": "Frosting grew up in the Project Boomerang laboratory with her parents.\n\nShe grew up to be a government archivist, tasked with erasing records of disappeared people in addition to whatever archivists usually do. She also manages the soul vault.\n\nShe let Jerboa into the archives to read about Project Boomerang and his parents.",
+    "note": "\n"
   },
   {
     "name": "Jaculus",
