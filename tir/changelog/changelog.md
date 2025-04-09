@@ -10,7 +10,7 @@ titlezh: 更新日志
 
 ## 2025-04-09
 
-- Added `jackalope thumb.png`;
+- Added `jackalope thumb.png`, `creepy govt family.png`;
 
 ## 2025-04-08
 
