@@ -26,6 +26,15 @@ let basicGenerator = new Generator(
         'They are %nat% %race% living in %count%.'
     ]
 );
+let soulGenerator = new Generator(
+    [
+        new GeneratorPlaceholder('form', ['gas', 'liquid', 'solid']),
+        new GeneratorPlaceholder('desc', souls)
+    ],
+    [
+        'They have a %form% soul that is %desc%.'
+    ]
+);
 function randomColor() {
     let rgb = [
         Math.floor(Math.random() * 256),
@@ -41,6 +50,6 @@ function generate() {
 
     let color = randomColor();
     let colorSpan = document.querySelector('.color');
-    colorSpan.innerHTML = color;
+    colorSpan.innerHTML = color.toUpperCase();
     colorSpan.style.color = color;
 }
