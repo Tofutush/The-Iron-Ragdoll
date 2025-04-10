@@ -1,0 +1,47 @@
+---
+layout: article.liquid
+title: OC Generator
+desc: Generate an OC!
+tags: fun
+eleventyNavigation:
+  key: OC Generator
+  parent: Fun
+---
+
+<button onclick="generate()">Generate!</button>
+
+<p class="basics"></p>
+
+<script src="/js/generator-placeholder.js"></script>
+<script src="/js/generator.js"></script>
+<script src="/js/wordsfromcorpora.js"></script>
+<script>
+    let basicGenerator = new Generator(
+        [
+            new GeneratorPlaceholder('count', [
+                'Bauhinia',
+                'Fanton',
+                'Atlasia',
+                'Westavia',
+                'Moreland',
+                'Sylvandia'
+            ]),
+            new GeneratorPlaceholder('nat', [
+                'Bauhinian',
+                'Fantoni',
+                'Atlasian',
+                'Westavian',
+                'Moose',
+                'Sylvandian'
+            ]),
+            new GeneratorPlaceholder('race',[
+                'aurian',
+                'unicorn',
+                'bicorn'
+            ])
+        ],
+        [
+            'They are a %nat% %race% living in %count%.'
+        ]
+    )
+</script>
