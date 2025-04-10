@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-10
+
+- Added section [eternal death](/world/bauhinia/#eternal-death) to Bauhinia's page;
+
 ## 2025-04-09
 
 - Added `jackalope thumb.png`, `creepy govt family.png`;

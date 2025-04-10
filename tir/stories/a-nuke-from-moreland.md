@@ -191,7 +191,7 @@ After Pumpkin dropped Sky off at his place, he drove the MSS car back to the lot
 
 He never got home.
 
-In the same alleyway he rode through every single day, where he fed stray cats and said hello to people through their windows, Halcyon was waiting for him with a noose for his neck.
+In the same alleyway he rode through every single day, where he fed stray cats and said hello to people through their windows, Halcyon was waiting for him, hidden behind a sensor-blocking cloak, with a noose for his neck.
 
 He strangled him, shoved him into the trunk of a car without a license plate, and drove the car into a landfill.
 
