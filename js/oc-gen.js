@@ -83,9 +83,51 @@ function randomColor() {
 }
 function generate() {
     let basics = basicGenerator.generate();
+    // get rolled race
+    let race = basicGenerator.lastRolled.results[1].results[0];
+    let headGenerator;
+    if (race === 'aurian') {
+        headGenerator = new Generator(
+            [
+                new GeneratorPlaceholder('size', ['big', 'average-sized', 'small']),
+                new GeneratorPlaceholder('shape', ['bunny', 'fox', 'mouse', 'cow', 'pair of wings'])
+            ],
+            [
+                'Their ears are %size%.',
+                'Their ears are %size% and shaped like a %shape%.'
+            ]
+        )
+    } else if (race === 'unicorn') {
+        headGenerator = new Generator(
+            [
+                new GeneratorPlaceholder('size', ['big', 'average-sized', 'small']),
+                new GeneratorPlaceholder('shape', ['curvy', 'straight', 'twirly', 'jagged', 'riddled with holes'])
+            ],
+            [
+                'Their horn is %size%.',
+                'Their horn is %size% and %shape%.',
+            ]
+        )
+    } else { // bicorn
+        headGenerator = new Generator(
+            [
+                new GeneratorPlaceholder('size', ['big', 'average-sized', 'small']),
+                new GeneratorPlaceholder('shape', ['curvy', 'straight', 'twirly', 'jagged', 'riddled with holes'])
+            ],
+            [
+                'Their horns are %size%.',
+                'Their horns are %size% and %shape%.',
+                'Their left horn is %size%, and their right horn is %size%.',
+                'Their left horn is %size% and %shape%, and their right horn is %size% and %shape%.',
+                'Their left horn is %size%, and their right horn is %size% and %shape%.',
+                'Their left horn is %size% and %shape%, and their right horn is %size%.',
+            ]
+        )
+    }
+    let head = headGenerator.generate();
     let color = randomColor();
     let soul = soulGenerator.generate();
     let li = document.createElement('li');
-    li.innerHTML = `${basics} ${soul} Their soul color is <span style="color:${color}">${color.toUpperCase()}</span>.`;
-    document.querySelector('#generated').appendChild(li);
+    li.innerHTML = `${basics} ${head} ${soul} Their soul color is <span style="color:${color}">${color.toUpperCase()}</span>.`;
+    document.querySelector('#generated').prepend(li);
 }
