@@ -20,16 +20,28 @@ let basicGenerator = new Generator(
             'aurian',
             'unicorn',
             'bicorn'
-        ])
+        ]),
+        new GeneratorPlaceholder('adj', corporaAdjectives),
     ],
     [
-        'They are %nat% %race% living in %count%.'
+        'They are %nat% %race% living in %count%. They are %adj|1-3%.'
     ]
 );
 let soulGenerator = new Generator(
     [
         new GeneratorPlaceholder('form', ['gas', 'liquid', 'solid']),
-        new GeneratorPlaceholder('desc', souls)
+        new GeneratorPlaceholder('desc', [
+            'a sphere',
+            'a cube',
+            'a star',
+            'a hexagon',
+            'a pentagon',
+            'a lightning bolt',
+            'an incomprehensible mess',
+            'very bouncy',
+            'a bird',
+            'a tangle of barbed wire'
+        ])
     ],
     [
         'They have a %form% soul that is %desc%.'
