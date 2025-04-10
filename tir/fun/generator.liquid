@@ -10,43 +10,10 @@ eleventyNavigation:
 
 <button onclick="generate()">Generate!</button>
 
+<p>Soul color: <span class="color"></span></p>
 <p class="basics"></p>
 
 <script src="/js/generator-placeholder.js"></script>
 <script src="/js/generator.js"></script>
 <script src="/js/wordsfromcorpora.js"></script>
-<script>
-    let basicGenerator = new Generator(
-        [
-            new GeneratorPlaceholder('count', [
-                'Bauhinia',
-                'Fanton',
-                'Atlasia',
-                'Westavia',
-                'Moreland',
-                'Sylvandia'
-            ]),
-            new GeneratorPlaceholder('nat', [
-                'a Bauhinian',
-                'a Fantoni',
-                'an Atlasian',
-                'a Westavian',
-                'a Moose',
-                'a Sylvandian'
-            ]),
-            new GeneratorPlaceholder('race',[
-                'aurian',
-                'unicorn',
-                'bicorn'
-            ])
-        ],
-        [
-            'They are %nat% %race% living in %count%.'
-        ]
-    );
-    function generate() {
-        let generated = basicGenerator.generate();
-        let basics = document.querySelector('.basics');
-        basics.innerHTML = generated;
-    }
-</script>
+<script src="/js/oc-gen.js"></script>
