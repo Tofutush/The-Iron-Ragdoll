@@ -918,6 +918,28 @@
     "about": "Hyrax is the chairman of Starcorp and the father of 5 children — four, actually."
   },
   {
+    "name": "Bunchberry",
+    "namezh": "红串果",
+    "color": "#ca4d3f",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Cherry-Hyrax Family",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Bunchberry Ironheart Beauty",
+      "Nickname": "Bunny (by everyone)",
+      "Gender": "Female (trans)",
+      "Age estimation": "Around the same as Bramble",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
     "name": "Kismet",
     "namezh": "天意",
     "color": "#000",
