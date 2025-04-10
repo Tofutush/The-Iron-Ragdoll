@@ -27,12 +27,12 @@ eleventyNavigation:
                 'Sylvandia'
             ]),
             new GeneratorPlaceholder('nat', [
-                'Bauhinian',
-                'Fantoni',
-                'Atlasian',
-                'Westavian',
-                'Moose',
-                'Sylvandian'
+                'a Bauhinian',
+                'a Fantoni',
+                'an Atlasian',
+                'a Westavian',
+                'a Moose',
+                'a Sylvandian'
             ]),
             new GeneratorPlaceholder('race',[
                 'aurian',
@@ -41,7 +41,12 @@ eleventyNavigation:
             ])
         ],
         [
-            'They are a %nat% %race% living in %count%.'
+            'They are %nat% %race% living in %count%.'
         ]
-    )
+    );
+    function generate() {
+        let generated = basicGenerator.generate();
+        let basics = document.querySelector('.basics');
+        basics.innerHTML = generated;
+    }
 </script>
