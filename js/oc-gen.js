@@ -82,16 +82,10 @@ function randomColor() {
     return `#${rgb[0].toString(16).padStart(2, '0')}${rgb[1].toString(16).padStart(2, '0')}${rgb[2].toString(16).padStart(2, '0')}`;
 }
 function generate() {
-    let generated = basicGenerator.generate();
-    let basics = document.querySelector('.basics');
-    basics.innerHTML = generated;
-
+    let basics = basicGenerator.generate();
     let color = randomColor();
-    let colorSpan = document.querySelector('.color');
-    colorSpan.innerHTML = color.toUpperCase();
-    colorSpan.style.color = color;
-
     let soul = soulGenerator.generate();
-    let soulP = document.querySelector('.soul');
-    soulP.innerHTML = soul;
+    let li = document.createElement('li');
+    li.innerHTML = `${basics} ${soul} Their soul color is <span style="color:${color}">${color.toUpperCase()}</span>.`;
+    document.querySelector('#generated').appendChild(li);
 }
