@@ -56,21 +56,9 @@ let basicGenerator = new Generator(
 let soulGenerator = new Generator(
     [
         new GeneratorPlaceholder('form', ['gas', 'liquid', 'solid']),
-        new GeneratorPlaceholder('desc', [
-            'a sphere',
-            'a cube',
-            'a star',
-            'a hexagon',
-            'a pentagon',
-            'a lightning bolt',
-            'an incomprehensible mess',
-            'very bouncy',
-            'a bird',
-            'a tangle of barbed wire'
-        ])
     ],
     [
-        'They have a %form% soul that is %desc%.'
+        'They have a %form% soul'
     ]
 );
 function randomColor() {
@@ -127,7 +115,44 @@ function generate() {
     let head = headGenerator.generate();
     let color = randomColor();
     let soul = soulGenerator.generate();
+    let soulShapeGenerator;
+    if (soulGenerator.lastRolled.results[0].results[0] === 'liquid') {
+        soulShapeGenerator = new Generator(
+            [
+                new GeneratorPlaceholder('desc', [
+                    'gooey',
+                    'sticky',
+                    'watery',
+                    'slimy',
+                    'muddy',
+                    'mercury-like',
+                    'bubbly',
+                    'non-Newtonian'
+                ])
+            ],
+            ['%desc%']
+        )
+    } else {
+        soulShapeGenerator = new Generator(
+            [
+                new GeneratorPlaceholder('desc', [
+                    'a sphere',
+                    'a cube',
+                    'a star',
+                    'a hexagon',
+                    'a pentagon',
+                    'a lightning bolt',
+                    'an incomprehensible mess',
+                    'very bouncy',
+                    'a bird',
+                    'a tangle of barbed wire'
+                ])
+            ],
+            ['%desc%']
+        )
+    }
+    let soulShape = soulShapeGenerator.generate();
     let li = document.createElement('li');
-    li.innerHTML = `${basics} ${head} ${soul} Their soul color is <span style="color:${color}">${color.toUpperCase()}</span>.`;
+    li.innerHTML = `${basics} ${head} ${soul} that is ${soulShape} and colored <span style="color:${color}">${color.toUpperCase()}</span>.`;
     document.querySelector('#generated').prepend(li);
 }
