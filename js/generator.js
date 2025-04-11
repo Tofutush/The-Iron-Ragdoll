@@ -120,4 +120,11 @@ class Gacha {
         }
         console.log(this.list);
     }
+    roll() {
+        let sum = 0, rand = Math.random();
+        for (let z = 0; z < this.list.length; z++) {
+            sum += this.list[z][1];
+            if (rand <= sum) return this.list[z][0];
+        }
+    }
 }
