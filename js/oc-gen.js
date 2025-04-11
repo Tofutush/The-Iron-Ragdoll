@@ -46,11 +46,9 @@ let basicGenerator = new Generator(
         'They are %nat% %race%.',
         'They are %nat% %race%. They are %adj|1-3%.',
         'They are %nat% %race%. They are %adj|1-3%. They %rel% %ch%.',
-        'They are %nat% %race%. They are %adj|1-3%. They %rel% %ch%.',
-        'They are %nat% %race%.',
-        'They are %nat% %race% living in %count%.',
-        'They are %nat% %race% living in %count%. They are %adj|1-3%.',
-        'They are %nat% %race% living in %count%. They are %adj|1-3%. They %rel% %ch%.'
+        ['They are %nat% %race% living in %count%.', 0.1],
+        ['They are %nat% %race% living in %count%. They are %adj|1-3%.', 0.1],
+        ['They are %nat% %race% living in %count%. They are %adj|1-3%. They %rel% %ch%.', 0.1]
     ]
 );
 let soulGenerator = new Generator(
@@ -105,10 +103,10 @@ function generate() {
             [
                 'Their horns are %size%.',
                 'Their horns are %size% and %shape%.',
-                'Their left horn is %size%, and their right horn is %size%.',
-                'Their left horn is %size% and %shape%, and their right horn is %size% and %shape%.',
-                'Their left horn is %size%, and their right horn is %size% and %shape%.',
-                'Their left horn is %size% and %shape%, and their right horn is %size%.',
+                ['Their left horn is %size%, and their right horn is %size%.', 0.05],
+                ['Their left horn is %size% and %shape%, and their right horn is %size% and %shape%.', 0.05],
+                ['Their left horn is %size%, and their right horn is %size% and %shape%.', 0.05],
+                ['Their left horn is %size% and %shape%, and their right horn is %size%.', 0.05],
             ]
         )
     }
@@ -127,7 +125,7 @@ function generate() {
                     'muddy',
                     'mercury-like',
                     'bubbly',
-                    'non-Newtonian'
+                    ['non-Newtonian', 0.01]
                 ])
             ],
             ['%desc%']
