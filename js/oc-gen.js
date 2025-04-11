@@ -59,6 +59,72 @@ let soulGenerator = new Generator(
         'They have a %form% soul'
     ]
 );
+let aurianGenerator = new Generator(
+    [
+        new GeneratorPlaceholder('size', ['big', 'average-sized', 'small']),
+        new GeneratorPlaceholder('shape', ['bunny', 'fox', 'mouse', 'cow', 'pair of wings'])
+    ],
+    [
+        'Their ears are %size%.',
+        'Their ears are %size% and shaped like a %shape%.'
+    ]
+);
+let unicornGenerator = new Generator(
+    [
+        new GeneratorPlaceholder('size', ['big', 'average-sized', 'small']),
+        new GeneratorPlaceholder('shape', ['curvy', 'straight', 'twirly', 'jagged', 'riddled with holes'])
+    ],
+    [
+        'Their horn is %size%.',
+        'Their horn is %size% and %shape%.',
+    ]
+);
+let bicornGenerator = new Generator(
+    [
+        new GeneratorPlaceholder('size', ['big', 'average-sized', 'small']),
+        new GeneratorPlaceholder('shape', ['curvy', 'straight', 'twirly', 'jagged', 'riddled with holes'])
+    ],
+    [
+        'Their horns are %size%.',
+        'Their horns are %size% and %shape%.',
+        ['Their left horn is %size%, and their right horn is %size%.', 0.05],
+        ['Their left horn is %size% and %shape%, and their right horn is %size% and %shape%.', 0.05],
+        ['Their left horn is %size%, and their right horn is %size% and %shape%.', 0.05],
+        ['Their left horn is %size% and %shape%, and their right horn is %size%.', 0.05],
+    ]
+);
+let liquidSoulGenerator = new Generator(
+    [
+        new GeneratorPlaceholder('desc', [
+            'gooey',
+            'sticky',
+            'watery',
+            'slimy',
+            'muddy',
+            'mercury-like',
+            'bubbly',
+            ['non-Newtonian', 0.01]
+        ])
+    ],
+    ['%desc%']
+);
+let solidGasSoulGenerator = new Generator(
+    [
+        new GeneratorPlaceholder('desc', [
+            'a sphere',
+            'a cube',
+            'a star',
+            'a hexagon',
+            'a pentagon',
+            'a lightning bolt',
+            'an incomprehensible mess',
+            'very bouncy',
+            'a bird',
+            'a tangle of barbed wire'
+        ])
+    ],
+    ['%desc%']
+);
 function randomColor() {
     let rgb = [
         Math.floor(Math.random() * 256),
@@ -72,83 +138,15 @@ function generate() {
     // get rolled race
     let race = basicGenerator.lastRolled.results[1].results[0];
     let headGenerator;
-    if (race === 'aurian') {
-        headGenerator = new Generator(
-            [
-                new GeneratorPlaceholder('size', ['big', 'average-sized', 'small']),
-                new GeneratorPlaceholder('shape', ['bunny', 'fox', 'mouse', 'cow', 'pair of wings'])
-            ],
-            [
-                'Their ears are %size%.',
-                'Their ears are %size% and shaped like a %shape%.'
-            ]
-        )
-    } else if (race === 'unicorn') {
-        headGenerator = new Generator(
-            [
-                new GeneratorPlaceholder('size', ['big', 'average-sized', 'small']),
-                new GeneratorPlaceholder('shape', ['curvy', 'straight', 'twirly', 'jagged', 'riddled with holes'])
-            ],
-            [
-                'Their horn is %size%.',
-                'Their horn is %size% and %shape%.',
-            ]
-        )
-    } else { // bicorn
-        headGenerator = new Generator(
-            [
-                new GeneratorPlaceholder('size', ['big', 'average-sized', 'small']),
-                new GeneratorPlaceholder('shape', ['curvy', 'straight', 'twirly', 'jagged', 'riddled with holes'])
-            ],
-            [
-                'Their horns are %size%.',
-                'Their horns are %size% and %shape%.',
-                ['Their left horn is %size%, and their right horn is %size%.', 0.05],
-                ['Their left horn is %size% and %shape%, and their right horn is %size% and %shape%.', 0.05],
-                ['Their left horn is %size%, and their right horn is %size% and %shape%.', 0.05],
-                ['Their left horn is %size% and %shape%, and their right horn is %size%.', 0.05],
-            ]
-        )
-    }
+    if (race === 'aurian') headGenerator = aurianGenerator;
+    else if (race === 'unicorn') headGenerator = unicornGenerator;
+    else headGenerator = bicornGenerator;
     let head = headGenerator.generate();
     let color = randomColor();
     let soul = soulGenerator.generate();
     let soulShapeGenerator;
-    if (soulGenerator.lastRolled.results[0].results[0] === 'liquid') {
-        soulShapeGenerator = new Generator(
-            [
-                new GeneratorPlaceholder('desc', [
-                    'gooey',
-                    'sticky',
-                    'watery',
-                    'slimy',
-                    'muddy',
-                    'mercury-like',
-                    'bubbly',
-                    ['non-Newtonian', 0.01]
-                ])
-            ],
-            ['%desc%']
-        )
-    } else {
-        soulShapeGenerator = new Generator(
-            [
-                new GeneratorPlaceholder('desc', [
-                    'a sphere',
-                    'a cube',
-                    'a star',
-                    'a hexagon',
-                    'a pentagon',
-                    'a lightning bolt',
-                    'an incomprehensible mess',
-                    'very bouncy',
-                    'a bird',
-                    'a tangle of barbed wire'
-                ])
-            ],
-            ['%desc%']
-        )
-    }
+    if (soulGenerator.lastRolled.results[0].results[0] === 'liquid') soulShapeGenerator = liquidSoulGenerator;
+    else soulShapeGenerator = solidGasSoulGenerator;
     let soulShape = soulShapeGenerator.generate();
     let li = document.createElement('li');
     li.innerHTML = `${basics} ${head} ${soul} that is ${soulShape} and colored <span style="color:${color}">${color.toUpperCase()}</span>.`;
