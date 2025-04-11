@@ -118,7 +118,6 @@ class Gacha {
         for (let z = 0; z < this.list.length; z++) {
             if (this.list[z].length === 1) this.list[z].push(leftoverProbability);
         }
-        console.log(this.list);
     }
     roll() {
         let sum = 0, rand = Math.random();
