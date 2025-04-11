@@ -128,16 +128,34 @@ let solidGasSoulGenerator = new Generator(
 let powerGenerator = new Generator(
     [
         new GeneratorPlaceholder('power', [
-            'superstrength',
-            'mind reading',
-            'timekeeping',
-            'hyperawareness',
-            'invisibility'
+            '<a href="/world/superpowers/#superstrength">superstrength</a>',
+            '<a href="/world/superpowers/#mind-reading">mind reading</a>',
+            '<a href="/world/superpowers/#timekeeping">timekeeping</a>',
+            '<a href="/world/superpowers/#hyperawareness">hyperawareness</a>',
+            '<a href="/world/superpowers/#hyperawareness">invisibility</a>'
         ])
     ],
     [
         // note the space before
         [' They have %power%.', 0.1]
+    ]
+);
+let magicGenerator = new Generator(
+    [],
+    [
+        [' They have <a href="/world/superpowers/#magic">magic</a>.', 0.01]
+    ]
+);
+let bauhinianMagicGenerator = new Generator(
+    [],
+    [
+        [' They have <a href="/world/superpowers/#magic">magic</a>.', 0.02]
+    ]
+);
+let immortalityGenerator = new Generator(
+    [],
+    [
+        ['They are <a href="/world/superpowers/#immortality">immortal</a>.', 0.01]
     ]
 );
 function randomColor() {
@@ -167,8 +185,13 @@ function generate() {
     let soulShape = soulShapeGenerator.generate();
     // powers
     let power = powerGenerator.generate();
+    let nationality = basicGenerator.lastRolled.results[0].results[0];
+    let magic;
+    if (nationality.includes('Bauhinia')) magic = bauhinianMagicGenerator.generate();
+    else magic = magicGenerator.generate();
+    let immortal = immortalityGenerator.generate();
 
     let li = document.createElement('li');
-    li.innerHTML = `${basics} ${head} ${soul} that is ${soulShape} and colored <span style="color:${color}">${color.toUpperCase()}</span>.${power}`;
+    li.innerHTML = `${basics} ${head} ${soul} that is ${soulShape} and colored <span style="color:${color}">${color.toUpperCase()}</span>.${power}${magic}${immortal}`;
     document.querySelector('#generated').prepend(li);
 }

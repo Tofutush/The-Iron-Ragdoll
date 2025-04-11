@@ -33,7 +33,7 @@ class Generator {
         // list all %things% inside the rolled prompt
         let phs = rolled.match(/\%(?:[a-zA-Z]+)(?:\/[a-zA-Z]+)*(?:\|[0-9]+-[0-9]+)?\%/g);
         // iterate
-        if (!phs) return '';
+        if (!phs) return rolled;
         for (let z = 0; z < phs.length; z++) {
             let placeholder = phs[z];
             // split apart the name and the how-many
