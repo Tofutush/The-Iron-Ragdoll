@@ -125,6 +125,21 @@ let solidGasSoulGenerator = new Generator(
     ],
     ['%desc%']
 );
+let powerGenerator = new Generator(
+    [
+        new GeneratorPlaceholder('power', [
+            'superstrength',
+            'mind reading',
+            'timekeeping',
+            'hyperawareness',
+            'invisibility'
+        ])
+    ],
+    [
+        // note the space before
+        [' They have %power%.', 0.1]
+    ]
+);
 function randomColor() {
     let rgb = [
         Math.floor(Math.random() * 256),
@@ -138,17 +153,22 @@ function generate() {
     // get rolled race
     let race = basicGenerator.lastRolled.results[1].results[0];
     let headGenerator;
+    // generate head depending on race
     if (race === 'aurian') headGenerator = aurianGenerator;
     else if (race === 'unicorn') headGenerator = unicornGenerator;
     else headGenerator = bicornGenerator;
     let head = headGenerator.generate();
+    // color & soul
     let color = randomColor();
     let soul = soulGenerator.generate();
     let soulShapeGenerator;
     if (soulGenerator.lastRolled.results[0].results[0] === 'liquid') soulShapeGenerator = liquidSoulGenerator;
     else soulShapeGenerator = solidGasSoulGenerator;
     let soulShape = soulShapeGenerator.generate();
+    // powers
+    let power = powerGenerator.generate();
+
     let li = document.createElement('li');
-    li.innerHTML = `${basics} ${head} ${soul} that is ${soulShape} and colored <span style="color:${color}">${color.toUpperCase()}</span>.`;
+    li.innerHTML = `${basics} ${head} ${soul} that is ${soulShape} and colored <span style="color:${color}">${color.toUpperCase()}</span>.${power}`;
     document.querySelector('#generated').prepend(li);
 }

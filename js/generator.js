@@ -125,5 +125,6 @@ class Gacha {
             sum += this.list[z][1];
             if (rand <= sum) return this.list[z][0];
         }
+        return '';
     }
 }
