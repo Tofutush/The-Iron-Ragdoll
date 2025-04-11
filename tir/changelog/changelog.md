@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-04-11
 
 - Released the [OC generator](/fun/generator/)! Come play!
+- Updated [Goals](/goals/);
 
 ## 2025-04-10
 
