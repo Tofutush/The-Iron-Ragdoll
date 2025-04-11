@@ -77,18 +77,18 @@ class GeneratorPlaceholder {
         if (!/[a-zA-Z]/.test(id)) {
             throw new Error(`${id} isnt a valid id. it should only contain a-z upper or lowercase i actually could let more characters in but i dont want to`);
         }
-        this.replacements = replacements;
+        this.replacements = new Gacha(replacements);
         this.allowRepeats = allowRepeats;
         this.alreadyRolled = [];
     }
     roll() {
-        let rolled = this.replacements[Math.floor(Math.random() * this.replacements.length)];
+        let rolled = this.replacements.roll();
         if (!this.allowRepeats) {
             while (this.alreadyRolled.includes(rolled)) {
-                rolled = this.replacements[Math.floor(Math.random() * this.replacements.length)];
+                rolled = this.replacements.roll();
             }
             this.alreadyRolled.push(rolled);
-            if (this.alreadyRolled.length == this.replacements.length) {
+            if (this.alreadyRolled.length == this.replacements.list.length) {
                 this.clearAlreadyRolled();
             }
         }
