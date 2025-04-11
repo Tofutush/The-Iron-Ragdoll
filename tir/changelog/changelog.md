@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-11
+
+- Released the [OC generator](/fun/generator/)! Come play!
+
 ## 2025-04-10
 
 - Added section [eternal death](/world/bauhinia/#eternal-death) to Bauhinia's page;
