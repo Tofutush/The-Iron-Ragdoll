@@ -9,7 +9,7 @@ class Generator {
      */
     constructor(placeholders, prompts) {
         this.placeholders = placeholders;
-        this.prompts = prompts;
+        this.prompts = new Gacha(prompts);
     }
     /**
      * Description - a random number in a range. can be strings too
@@ -24,7 +24,7 @@ class Generator {
     }
     generate() {
         // roll a prompt
-        let rolled = this.prompts[this.randomInRange(0, this.prompts.length - 1)];
+        let rolled = this.prompts.roll();
         // what we got last time, for reference outside
         this.lastRolled = {
             prompt: rolled,
@@ -96,5 +96,28 @@ class GeneratorPlaceholder {
     }
     clearAlreadyRolled() {
         this.alreadyRolled = [];
+    }
+}
+
+class Gacha {
+    constructor(list) {
+        let defaultCount = 0; // know how many prompts that have default possibility
+        let definedWeight = 0; // count the weight already defined, so we can divide the rest by the defaultCount
+        this.list = [];
+        for (let z = 0; z < list.length; z++) {
+            if (Array.isArray(list[z])) {
+                definedWeight += list[z][1];
+                this.list.push(list[z]);
+            } else {
+                defaultCount++;
+                this.list.push([list[z]]);
+            }
+        }
+        if (definedWeight > 1) throw new Error('probability cant be larger than 1');
+        let leftoverProbability = (1 - definedWeight) / defaultCount;
+        for (let z = 0; z < this.list.length; z++) {
+            if (this.list[z].length === 1) this.list[z].push(leftoverProbability);
+        }
+        console.log(this.list);
     }
 }
