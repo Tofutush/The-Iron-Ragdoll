@@ -45,10 +45,10 @@ let basicGenerator = new Generator(
     [
         'They are %nat% %race%.',
         'They are %nat% %race%. They are %adj|1-3%.',
-        'They are %nat% %race%. They are %adj|1-3%. They %rel% %ch%.',
+        ['They are %nat% %race%. They are %adj|1-3%. They %rel% %ch%.', 0.15],
         ['They are %nat% %race% living in %count%.', 0.1],
         ['They are %nat% %race% living in %count%. They are %adj|1-3%.', 0.1],
-        ['They are %nat% %race% living in %count%. They are %adj|1-3%. They %rel% %ch%.', 0.1]
+        ['They are %nat% %race% living in %count%. They are %adj|1-3%. They %rel% %ch%.', 0.06]
     ]
 );
 let soulGenerator = new Generator(
