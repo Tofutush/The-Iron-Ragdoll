@@ -16,6 +16,8 @@ Souls come in three forms: solid, liquid, and gas.
 
 Everyone is born with a perfectly spherical gas soul. The soul changes shape and form as the person grows (but the color never changes), and generally settles in place in their thirties.
 
+Everyone is genetically programmed to like the color of their soul, so there will be no such pain as hating your own color.
+
 ## Extracting souls
 
 A soul can be removed from a person. Soul extraction is a skill that can be learned and adopted by anyone, but it originated in [Sylvandia](/world/sylvandia/).
