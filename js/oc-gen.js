@@ -1,20 +1,20 @@
 let basicGenerator = new Generator(
     [
         new GeneratorPlaceholder('count', [
-            '<a href="/world/bauhinia/">Bauhinia</a>',
-            '<a href="/world/fanton/">Fanton</a>',
-            '<a href="/world/atlasia/">Atlasia</a>',
-            '<a href="/world/westavia/">Westavia</a>',
-            '<a href="/world/moreland/">Moreland</a>',
-            '<a href="/world/sylvandia/">Sylvandia</a>'
+            '<a href="../../world/bauhinia/">Bauhinia</a>',
+            '<a href="../../world/fanton/">Fanton</a>',
+            '<a href="../../world/atlasia/">Atlasia</a>',
+            '<a href="../../world/westavia/">Westavia</a>',
+            '<a href="../../world/moreland/">Moreland</a>',
+            '<a href="../../world/sylvandia/">Sylvandia</a>'
         ]),
         new GeneratorPlaceholder('nat', [
-            'a <a href="/world/bauhinia/">Bauhinian</a>',
-            'a <a href="/world/fanton/">Fantoni</a>',
-            'an <a href="/world/atlasia/">Atlasian</a>',
-            'a <a href="/world/westavia/">Westavian</a>',
-            'a <a href="/world/moreland/">Moose</a>',
-            'a <a href="/world/sylvandia/">Sylvandian</a>'
+            'a <a href="../../world/bauhinia/">Bauhinian</a>',
+            'a <a href="../../world/fanton/">Fantoni</a>',
+            'an <a href="../../world/atlasia/">Atlasian</a>',
+            'a <a href="../../world/westavia/">Westavian</a>',
+            'a <a href="../../world/moreland/">Moose</a>',
+            'a <a href="../../world/sylvandia/">Sylvandian</a>'
         ]),
         new GeneratorPlaceholder('race', [
             'aurian',
@@ -24,10 +24,10 @@ let basicGenerator = new Generator(
         new GeneratorPlaceholder('adj', corporaAdjectives),
         new GeneratorPlaceholder('ch', [
             ...characters,
-            'someone in the <a href="/world/bauhinia/mss/">MSS</a>',
-            'someone in <a href="/world/bauhinia/starcorp/">Starcorp</a>',
-            'someone in the <a href="/world/moreland/guardian-moose/mic/">MIC</a>',
-            'someone in the <a href="/world/westavia/spf/">SPF</a>'
+            'someone in the <a href="../../world/bauhinia/mss/">MSS</a>',
+            'someone in <a href="../../world/bauhinia/starcorp/">Starcorp</a>',
+            'someone in the <a href="../../world/moreland/guardian-moose/mic/">MIC</a>',
+            'someone in the <a href="../../world/westavia/spf/">SPF</a>'
         ]),
         new GeneratorPlaceholder('rel', [
             'are in love with',
@@ -128,11 +128,11 @@ let solidGasSoulGenerator = new Generator(
 let powerGenerator = new Generator(
     [
         new GeneratorPlaceholder('power', [
-            '<a href="/world/superpowers/#superstrength">superstrength</a>',
-            '<a href="/world/superpowers/#mind-reading">mind reading</a>',
-            '<a href="/world/superpowers/#timekeeping">timekeeping</a>',
-            '<a href="/world/superpowers/#hyperawareness">hyperawareness</a>',
-            '<a href="/world/superpowers/#hyperawareness">invisibility</a>'
+            '<a href="../../world/superpowers/#superstrength">superstrength</a>',
+            '<a href="../../world/superpowers/#mind-reading">mind reading</a>',
+            '<a href="../../world/superpowers/#timekeeping">timekeeping</a>',
+            '<a href="../../world/superpowers/#hyperawareness">hyperawareness</a>',
+            '<a href="../../world/superpowers/#hyperawareness">invisibility</a>'
         ])
     ],
     [
@@ -143,19 +143,19 @@ let powerGenerator = new Generator(
 let magicGenerator = new Generator(
     [],
     [
-        [' They have <a href="/world/superpowers/#magic">magic</a>.', 0.01]
+        [' They have <a href="../../world/superpowers/#magic">magic</a>.', 0.01]
     ]
 );
 let bauhinianMagicGenerator = new Generator(
     [],
     [
-        [' They have <a href="/world/superpowers/#magic">magic</a>.', 0.02]
+        [' They have <a href="../../world/superpowers/#magic">magic</a>.', 0.02]
     ]
 );
 let immortalityGenerator = new Generator(
     [],
     [
-        ['They are <a href="/world/superpowers/#immortality">immortal</a>.', 0.01]
+        ['They are <a href="../../world/superpowers/#immortality">immortal</a>.', 0.01]
     ]
 );
 function randomColor() {

@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-16
+
+- Fixed a problem in the OC generator where the links aren't base-ified;
+
 ## 2025-04-11
 
 - Released the [OC generator](/fun/generator/)! Come play!
