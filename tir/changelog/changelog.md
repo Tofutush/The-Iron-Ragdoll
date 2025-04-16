@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-04-16
 
 - Fixed a problem in the OC generator where the links aren't base-ified;
+- Added story [Family of Secrets](/stories/family-of-secrets/);
 
 ## 2025-04-11
 
