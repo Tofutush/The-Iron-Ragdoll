@@ -1697,5 +1697,22 @@
       "Nationality": "Bauhinian"
     },
     "about": "A poet from Bauhinia, traveled to Moreland and wandered with the [Appaloosa Tribe](/world/moreland/appaloosa-tribe/) for a long while before being kidnapped back into Bauhinia and sentenced to eternal death."
+  },
+  {
+    "name": "Snowstorm",
+    "namezh": "雪暴",
+    "color": "#2d649f",
+    "desc": "Archivist.",
+    "tags": [
+      "Flower City",
+      "Bauhinia",
+      "Family of Secrets"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Age estimation": "The same as Frosting",
+      "Nationality": "Bauhinian",
+      "Occupation": "Archivist"
+    }
   }
 ]
