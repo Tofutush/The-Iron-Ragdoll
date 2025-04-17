@@ -32,27 +32,45 @@ it currently requires:
 
 I think I might have set the scope too big. 50 characters (150 pieces of art) and 50 levels (50 diary entries) sound like hell, both to me and the player. I should cut things down a bit.
 
-## 嗵嗵 animatic
+## Animations
+
+My arch-nemisis.
+
+### 嗵嗵 animatic
 
 This is in the works, and will just be an extremely rough and stupid thing, since I have zero idea how to animate — even if the "animation" is just moving things across the page in After Effects.
 
-## "Redemption" animation meme
+### "Redemption" animation meme
 
 It looks relatively simple, and I have my character choices ready. I'll probably start this after finishing the previous one.
 
+### Trypophobia
+
+It also looks simple and I have chosen my characters.
+
 ## Scavenger hunt game
 
-It's going to be a game on this site! You have to find clues scattered all over and piece together a puzzle that leads you to a secret page. I already have half of the puzzle figured out. I even had a branch ready. The branch is also public. But don't cheat, guys! Or do. I don't actually care. Hey, maybe I could install some sort of anti-cheating measures too…
+[Finished](/fun/hunt/)!
 
 ## Footers
 
 Draw some lineless art for the website footer! As many as possible! There couldn't possibly be too many!
+
 {% assign footers = gallery | filterGalleryByKind: 'footer' %}
+
 Current: {{ footers.size }}.
 
 ## Favorite picker
 
-Write a fav picker myself.
+Coding done, but requires artwork and a logic for including alternative art for characters that haven't a fav picker image drawn
+
+## Creepy Government Family IF
+
+An interactive story made in Twine featuring Frosting, Entity, and Harmony. Canon and planning.
+
+## The Bauhinian Archives
+
+A set of files that you read through and figure out what happened to [Koala](/characters/koala/) and [Kangaroo](/characters/kangaroo/). Canon, though unlikely to be finished.
 
 ## Character art
 
