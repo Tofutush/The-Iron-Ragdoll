@@ -1105,8 +1105,10 @@
     "attr": {
       "Nickname": "Frost (by Jaculus)",
       "Gender": "Female (cis)",
+      "Soul": "Non-Newtonian",
       "Age estimation": "Around the same as Jaculus",
       "Nationality": "Bauhinian",
+      "Orientation": "Bisexual",
       "Marital status": "Married (to <a href=\"../entity/\">Entity</a>)",
       "Occupation": "Government archivist"
     },
@@ -1616,6 +1618,7 @@
       "Soul": "Solid, soft and squishy like a marshmallow",
       "Age estimation": "Same as Frosting",
       "Nationality": "Bauhinian",
+      "Orientation": "Bisexual",
       "Marital status": "Married (to <a href=\"../frosting/\">Frosting</a>)",
       "Occupation": "Executioner"
     },
@@ -1729,6 +1732,24 @@
       "Age estimation": "The same as Frosting",
       "Nationality": "Bauhinian",
       "Occupation": "Archivist"
+    }
+  },
+  {
+    "name": "Gorgeous",
+    "namezh": "靓仔",
+    "color": "#1babd0",
+    "desc": "Executed ghost.",
+    "tags": [
+      "Flower City",
+      "Bauhinia",
+      "Family of Secrets"
+    ],
+    "attr": {
+      "Full name": "Unknown",
+      "Nickname": "Gorgeous (by Entity)",
+      "Gender": "Male",
+      "Soul": "Solid, diamond",
+      "Nationality": "Bauhinian"
     }
   }
 ]
