@@ -1675,7 +1675,9 @@
       "Nationality": "Bauhinian",
       "Occupation": "Executioner"
     },
-    "palette": "{\"hair\":\"#2e2e2e\"}"
+    "palette": {
+      "hair": "#2e2e2e"
+    }
   },
   {
     "name": "Jasmine",
