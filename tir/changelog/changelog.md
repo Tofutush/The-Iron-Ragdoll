@@ -10,7 +10,7 @@ titlezh: 更新日志
 
 ## 2025-04-17
 
-- Added `gigi.png`, `barnaby.png`;
+- Added `gigi.png`, `barnaby.png`, `firecrackers favpicker.png`;
 
 ## 2025-04-16
 
