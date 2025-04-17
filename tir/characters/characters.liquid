@@ -124,7 +124,7 @@ eleventyComputed:
     {% endif %}
     {% if filteredGallery.size > 0 %}
       <h2 id="gallery">Gallery</h2>
-      <p>Some art are from other people. If you see your art here and want me to remove it / change the attribution, please <a href="/contact/">tell me</a>!</p>
+      <p class="smaller-text">Some art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please <a href="/contact/">tell me</a>!</p>
       {% include 'gallery' imgs: filteredGallery %}
     {% endif %}
     <details>
