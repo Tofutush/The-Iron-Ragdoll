@@ -1654,6 +1654,43 @@
     "about": "Harmony attends the [MSS](/world/bauhinia/mss/)'s spy school in Flower City."
   },
   {
+    "name": "Jasmine",
+    "namezh": "茉莉",
+    "color": "#1ca091",
+    "desc": "Poet, writer, and a free soul.",
+    "tags": [
+      "Bauhinia",
+      "Westavia",
+      "Moreland",
+      "Family of Secrets"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Gas, flower-shaped",
+      "Age estimation": "At least 10 years older than Frosting that's not that big of a gap is it I mean her physical body is fucking gone already but her poems live forever you know what I mean?",
+      "Nationality": "Bauhinian"
+    },
+    "about": "A poet from Bauhinia, traveled to Moreland and wandered with the [Appaloosa Tribe](/world/moreland/appaloosa-tribe/) for a long while before being kidnapped back into Bauhinia and sentenced to eternal death."
+  },
+  {
+    "name": "Gorgeous",
+    "namezh": "靓仔",
+    "color": "#1babd0",
+    "desc": "Executed ghost.",
+    "tags": [
+      "Flower City",
+      "Bauhinia",
+      "Family of Secrets"
+    ],
+    "attr": {
+      "Full name": "Unknown",
+      "Nickname": "Gorgeous (by Entity)",
+      "Gender": "Male",
+      "Soul": "Solid, diamond",
+      "Nationality": "Bauhinian"
+    }
+  },
+  {
     "name": "Sugarcane",
     "namezh": "甘蔗",
     "color": "#0fa982",
@@ -1699,25 +1736,6 @@
     }
   },
   {
-    "name": "Jasmine",
-    "namezh": "茉莉",
-    "color": "#1ca091",
-    "desc": "Poet, writer, and a free soul.",
-    "tags": [
-      "Bauhinia",
-      "Westavia",
-      "Moreland",
-      "Family of Secrets"
-    ],
-    "attr": {
-      "Gender": "Female",
-      "Soul": "Gas, flower-shaped",
-      "Age estimation": "At least 10 years older than Frosting that's not that big of a gap is it I mean her physical body is fucking gone already but her poems live forever you know what I mean?",
-      "Nationality": "Bauhinian"
-    },
-    "about": "A poet from Bauhinia, traveled to Moreland and wandered with the [Appaloosa Tribe](/world/moreland/appaloosa-tribe/) for a long while before being kidnapped back into Bauhinia and sentenced to eternal death."
-  },
-  {
     "name": "Snowstorm",
     "namezh": "雪暴",
     "color": "#2d649f",
@@ -1732,24 +1750,6 @@
       "Age estimation": "The same as Frosting",
       "Nationality": "Bauhinian",
       "Occupation": "Archivist"
-    }
-  },
-  {
-    "name": "Gorgeous",
-    "namezh": "靓仔",
-    "color": "#1babd0",
-    "desc": "Executed ghost.",
-    "tags": [
-      "Flower City",
-      "Bauhinia",
-      "Family of Secrets"
-    ],
-    "attr": {
-      "Full name": "Unknown",
-      "Nickname": "Gorgeous (by Entity)",
-      "Gender": "Male",
-      "Soul": "Solid, diamond",
-      "Nationality": "Bauhinian"
     }
   }
 ]

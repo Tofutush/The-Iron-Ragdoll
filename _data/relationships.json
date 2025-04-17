@@ -1134,19 +1134,6 @@
     "ch": [
       [
         "Entity",
-        "friend"
-      ],
-      [
-        "Tangerine",
-        "friend"
-      ]
-    ],
-    "desc": "Entity and Tangerine met during their soul-extraction training, and became good friends."
-  },
-  {
-    "ch": [
-      [
-        "Entity",
         "executioner"
       ],
       [
@@ -1155,6 +1142,19 @@
       ]
     ],
     "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Entity",
+        "friend"
+      ],
+      [
+        "Tangerine",
+        "friend"
+      ]
+    ],
+    "desc": "Entity and Tangerine met during their soul-extraction training, and became good friends."
   },
   {
     "ch": [
