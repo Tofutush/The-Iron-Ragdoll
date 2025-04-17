@@ -21,7 +21,7 @@
 		}
 
 		&:hover {
-			transform: scale(1.1);
+			transform: scale(1.1) translateY(.2em);
 
 			& .ch {
 				box-shadow: 0 0 0 8px var(--c);
