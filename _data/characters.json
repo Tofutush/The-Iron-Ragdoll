@@ -1659,7 +1659,43 @@
       "Occupation": "MSS officer"
     },
     "palette": {
-      "hair": "#2e2e2e"
-    }
+    "palette": "{\"hair\":\"#2e2e2e\"}"
+  },
+  {
+    "name": "Tangerine",
+    "namezh": "柑橘",
+    "color": "#c67c15",
+    "desc": "Fellow soul-extractor.",
+    "tags": [
+      "Flower City",
+      "Family of Secrets"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Gas, cloudy",
+      "Age estimation": "The same as Entity",
+      "Nationality": "Bauhinian",
+      "Occupation": "Executioner"
+    },
+    "palette": "{\"hair\":\"#2e2e2e\"}"
+  },
+  {
+    "name": "Jasmine",
+    "namezh": "茉莉",
+    "color": "#1ca091",
+    "desc": "Poet, writer, and a free soul.",
+    "tags": [
+      "Bauhinia",
+      "Westavia",
+      "Moreland",
+      "Family of Secrets"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Gas, flower-shaped",
+      "Age estimation": "At least 10 years older than Frosting that's not that big of a gap is it I mean her physical body is fucking gone already but her poems live forever you know what I mean?",
+      "Nationality": "Bauhinian"
+    },
+    "about": "A poet from Bauhinia, traveled to Moreland and wandered with the [Appaloosa Tribe](/world/moreland/appaloosa-tribe/) for a long while before being kidnapped back into Bauhinia and sentenced to eternal death."
   }
 ]
