@@ -992,6 +992,31 @@
   {
     "ch": [
       [
+        "Frosting"
+      ],
+      [
+        "Jasmine",
+        "crush"
+      ]
+    ],
+    "desc": "Frosting fell in love with Jasmine after copying her file down and reading her poetry."
+  },
+  {
+    "ch": [
+      [
+        "Frosting",
+        "colleague"
+      ],
+      [
+        "Snowstorm",
+        "colleague"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Jaculus",
         "older sister"
       ],
@@ -1130,5 +1155,18 @@
       ]
     ],
     "desc": "Harmony and Sugarcane are good friends. They grew up together, because their moms were colleagues so they spent a lot of time around each other. (Just like [Qibli](/characters/qibli/) and [Sky](/characters/sky/), yes)."
+  },
+  {
+    "ch": [
+      [
+        "Sugarcane",
+        "daughter"
+      ],
+      [
+        "Snowstorm",
+        "mother"
+      ]
+    ],
+    "desc": ""
   }
 ]
