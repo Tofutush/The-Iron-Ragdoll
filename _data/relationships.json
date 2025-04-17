@@ -1108,6 +1108,19 @@
   {
     "ch": [
       [
+        "Entity",
+        "friend"
+      ],
+      [
+        "Tangerine",
+        "friend"
+      ]
+    ],
+    "desc": "Entity and Tangerine met during their soul-extraction training, and became good friends."
+  },
+  {
+    "ch": [
+      [
         "Harmony",
         "friend"
       ],
