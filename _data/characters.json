@@ -199,6 +199,7 @@
       "Coastline",
       "Coastline Middle School",
       "Ministry of State Security",
+      "Spy School",
       "A Nuke From Moreland",
       "Pearl's Journey Home",
       "Bauhinia"
@@ -209,6 +210,7 @@
       "Soul": "Solid, spades-shaped",
       "Birthday": "2017-04-13",
       "Nationality": "Bauhinian",
+      "Occupation": "MSS officer",
       "Weapon": "Playing cards with blade edges"
     },
     "palette": {
@@ -1637,5 +1639,27 @@
       "hair": "#2e2e2e"
     },
     "about": "Harmony attends the [MSS](/world/bauhinia/mss/)'s spy school in Flower City."
+  },
+  {
+    "name": "Sugarcane",
+    "namezh": "甘蔗",
+    "color": "#0fa982",
+    "desc": "Faithful student at Spy School.",
+    "tags": [
+      "Ministry of State Security",
+      "Spy School",
+      "Flower City",
+      "Family of Secrets"
+    ],
+    "attr": {
+      "Nickname": "Sugar (by Harmony)",
+      "Gender": "Female",
+      "Age estimation": "The same as Harmony",
+      "Nationality": "Bauhinian",
+      "Occupation": "MSS officer"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
   }
 ]
