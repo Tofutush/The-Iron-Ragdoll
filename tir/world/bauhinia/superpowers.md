@@ -23,6 +23,10 @@ The testing and the determination of levels can be quite subjective sometimes, e
 
 On the info section of each character page, you can see their power listed if they have one; and if they're Bauhinian and have taken a test, the level would also be written there. Otherwise it would be "unregistered."
 
+## Mind reading
+
+Magicians can enchant helmets to block mind-readers, as stated in the main superpowers file. However, such a thing is banned in Bauhinia, especially [Flower City](/world/bauhinia/flower-city/), as the president and the [MSS](/world/bauhinia/mss/) eavesdroppers want to listen to everyone. This does not prevent people from learning how to mentally shield themselves, however.
+
 ## Immortality
 
 Immortality does not have levels and is registered when they pop up in DNA tests. Unless the parents are from some rural area and didn't do one properly, or their hospital didn't report it. Even then, people would know you're immortal when you reach something like 120 years old anyways.
