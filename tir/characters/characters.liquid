@@ -64,7 +64,7 @@ eleventyComputed:
         {% assign filteredRelations = relationships | filterRelations: ch.name %}
         {% if filteredRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
         {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
-        <li><a href="#color-palette">Color palette</a></li>
+        <li><a href="#reference">Reference</a></li>
         {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
         {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
       </ul>
@@ -113,9 +113,15 @@ eleventyComputed:
         {% endfor %}
       </ul>
     {% endif %}
-    <h2 id="color-palette">Color palette</h2>
+    <h2 id="reference">Reference</h2>
     {% assign palette = ch | getFullPalette %}
     {% include 'palette' colors: palette %}
+    {% assign ref = filteredGallery | filterGalleryByKind: "ref" %}
+    {% if ref.size == 1 %}
+      {% assign refName = ch.name | append: ' ref.png' %}
+      {% assign refAlt = ch.name | lowerCase | append: " reference sheet" %}
+      <a href="{% imageUrl 'gallery/' refName 9999 '' 'png' %}">{% figure 'gallery/' refName 500 refAlt 'Click for full size!' 'max' %}</a>
+    {% endif %}
     {% if filteredGallery.size > 0 %}
       <h2 id="gallery">Gallery</h2>
       {% include 'gallery' imgs: filteredGallery %}
@@ -126,14 +132,7 @@ eleventyComputed:
         <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
         {% if ch.note %}
           <h3>Character Permissions</h3>
-          {% assign firstFiveLetters = ch.note | slice: 0, 5 %}
-          {% if firstFiveLetters == 'file:' %}
-            {% assign fileName = ch.note | slice: 5 %}
-            {% assign filePath = './tir/characters/files/' | append: fileName %}
-            {% renderFile filePath %}
-          {% else %}
-            {{ ch.note | renderMD }}
-          {% endif %}
+          {{ ch.note | renderMD }}
           <h3>Global Permissions</h3>
         {% endif %}
         {% renderFile './tir/characters/files/globalperms.md' %}

@@ -44,3 +44,17 @@ After a bit of chaos, they sorted things out: the soul inside Ironheart is a wom
 Cobalt immediately asked for a gender affirming surgery. Sparky and Animus refused. *They* needed to find Ironheart's soul and return him to his body. Cobalt, who was used to body-hopping, just wanted to get used to her new body, which involved turning back into a woman.
 
 The rest of the story unfolds with Sparky and Animus desperately trying to search for Ironheart's soul with an uncooperative Cobalt, while trying to stop her from getting the surgery or taking HRT.
+
+## Bunchberry
+
+Cobalt was instructed to not let Ironheart's family members know he had been swapped out. The blue is just some contact lens to conceal himself after the assassination attempt.
+
+Bunchberry "Bunny" Ironheart Beauty has always been thought to be Ironheart and Beauty's son. She is in fact trans, and secretly doing HRT behind her parents' backs.
+
+Well, Cobalt found out. She insisted on taking half of what Bunny had for herself because "you don't *need* all that. *I* need it!"
+
+(insert things that happened in between)
+
+Ironheart found his way back into his body that had been on estrogen for like 2 weeks. He berated Bunny. And Bunny said, "I just want to be who I am, the same way you wanted to stay who you were."
+
+Ironheart was briefly touched for about half a second and immediately started berating her again.

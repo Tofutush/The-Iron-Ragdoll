@@ -13,7 +13,7 @@ Most content on this site is made by myself. What isn't:
 - Icons are from [Lucide](https://lucide.dev).
 - The hosting is provided by either Github Pages or [Neocities](https://neocities.org), depending on where you are.
 - Some of the colors are from [Cohost](https://cohost.org)'s color scheme.
-- Adjectives and adverbs in the [generator](/fun/scenarios/) are from [Corpora](https://github.com/dariusk/corpora).
+- Adjectives and adverbs in the [scenario generator](/fun/scenarios/) and [OC generator](/fun/generator/) are from [Corpora](https://github.com/dariusk/corpora).
 - 中文字体用的是[霞鹜漫黑 v0.312](https://github.com/lxgw/LxgwMarkerGothic)。
 - Markdown files are edited in [Obsidian](https://obsidian.md).
 - Most [wallpapers] are made by [TheOliveOli](https://theoliveoli.blahaj.land/).
