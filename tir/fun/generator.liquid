@@ -1,0 +1,25 @@
+---
+layout: article.liquid
+title: OC Generator
+desc: Generate an OC!
+tags: fun
+eleventyNavigation:
+  key: OC Generator
+  parent: Fun
+---
+
+<button onclick="generate()">Generate!</button>
+
+<ol reversed id="generated"></ol>
+
+<script src="/js/generator.js"></script>
+<script src="/js/wordsfromcorpora.js"></script>
+<script>
+let characters = [
+{% for ch in characters %}
+{% assign chUrl = '/characters/' | append: ch.name | lowerCase | append: '/' | htmlBaseUrl %}
+'<a href="{{ chUrl }}">{{ ch.name }}</a>',
+{% endfor %}
+];
+</script>
+<script src="/js/oc-gen.js"></script>

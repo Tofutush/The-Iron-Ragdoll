@@ -8,6 +8,32 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-17
+
+- Added `gigi.png`, `barnaby.png`, `firecrackers favpicker.png`;
+
+## 2025-04-16
+
+- Fixed a problem in the OC generator where the links aren't base-ified;
+- Added story [Family of Secrets](/stories/family-of-secrets/);
+
+## 2025-04-11
+
+- Released the [OC generator](/fun/generator/)! Come play!
+- Updated [Goals](/goals/);
+
+## 2025-04-10
+
+- Added section [eternal death](/world/bauhinia/#eternal-death) to Bauhinia's page;
+
+## 2025-04-09
+
+- Added `jackalope thumb.png`, `creepy govt family.png`;
+
+## 2025-04-08
+
+- Added `frosting thumb.png`, `harmony thumb.png`;
+
 ## 2025-04-07
 
 - Added `entity thumb.png`, `halcyon profile.png`, `bramble thumb.png`;

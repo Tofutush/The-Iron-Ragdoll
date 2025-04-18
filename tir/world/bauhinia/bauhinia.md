@@ -52,6 +52,12 @@ Bauhinia is also a dictatorship, in case you haven't noticed. It's on a happy-go
 
 Bauhinia is in a cold war against [Moreland](/world/moreland/). They have also finlandized and attempted to annex [Fanton](/world/fanton/), an attempt which failed but made Fanton take their side in the cold war. They engage in exploitive activities in [Sylvandia](/world/sylvandia/) not unlike that of Moreland's.
 
+### Eternal death
+
+Bauhinia has a weird and unusual punishment for people that *really* pissed the government off — eternal death. That is when their souls are taken out and stored in a vacuum jar. A normal death sentence, either shooting or injection, allows the dead to reincarnate on the Bridge. But if your soul did not die, you cannot reincarnate!
+
+[Entity](/characters/entity/) is an executioner of this.
+
 ## Economy
 
 Bauhinia is controlled by a huge company called [Starcorp](starcorp/) that nearly monopolizes every industry in the country.

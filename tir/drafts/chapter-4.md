@@ -1,9 +1,9 @@
 ---
+layout: fic.liquid
 parent: A Nuke From Moreland
 tags:
   - anfm-fic
 chNum: 4
-permalink: false
 ---
 
 It was four in the morning. Firecrackers got into the car with Sky. It was awkward because they were blindfolded and kept stumbling into things and each other.

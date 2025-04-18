@@ -70,6 +70,8 @@ Look into other people's deepest privacy. Listen in. What are they thinking abou
 
 That is, if your power is strong enough. Weak mind reading powers are extremely limited. For example, Cosmo can only tell whether people are lying — though she's quite good at that.
 
+Everyone can be trained to shield their own thoughts from mind-readers. There is also a special enchanted helmet that can block off mind-readers completely regardless of level, but only powerful magicians can make it.
+
 ## Special powers / 特殊
 
 These powers are extremely rare, and don't have the boosting and blocking effects that the other five have.
