@@ -12,7 +12,8 @@ titlezh: 更新日志
 
 - Edited [superpowers](/world/superpowers/) to make some powers active;
 - Added `cheshire.png`, `vin.png`;
--
+- Added file [spy school](/world/bauhinia/flower-city/spy-school/);
+- Country files now display all sub-files in their "related files" sections;
 
 ## 2025-04-17
 
