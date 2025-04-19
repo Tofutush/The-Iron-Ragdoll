@@ -2595,5 +2595,17 @@
     "ch": [
       "firecrackers"
     ]
+  },
+  {
+    "name": "cheshire",
+    "type": "png",
+    "date": "2025-04-19",
+    "comment": "Forum game art for [pangur](https://toyhou.se/pangur), featuring [Cheshire](https://toyhou.se/20592374.cheshire)."
+  },
+  {
+    "name": "vin",
+    "type": "png",
+    "date": "2025-04-19",
+    "comment": "Forum game art for [event-horizon](https://toyhou.se/event-horizon), featuring [Vin](https://toyhou.se/27290576.vin)."
   }
 ]
