@@ -1,12 +1,12 @@
 ---
 layout: article.liquid
-title: Ministry of State Security
+title: Ministry of State Security of the Republic of Bauhinia
 eleventyNavigation:
-  key: Ministry of State Security
+  key: Ministry of State Security of the Republic of Bauhinia
   parent: Bauhinia
 tags:
   - ministry-of-state-security
-titlezh: 紫荆国国家安全部
+titlezh: 紫荆共和国国家安全部
 ---
 
 The main security apparatus of Bauhinia, handling both intelligence and counterintelligence. Every bit as bureaucratical as you'd imagine a Bauhinian government agency to be.
