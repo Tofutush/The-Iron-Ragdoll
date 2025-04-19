@@ -80,6 +80,10 @@ Atlasia was created by Moose immigrants after the Guardian Moose Takeover (Morel
 
 They took the plains in the east and declared independence shortly after [Fanton](/world/fanton/) did. During the process of establishing the new republic, they drove away many native residents of the plains into either [Moreland](/world/moreland/), [Westavia](/world/westavia/), or [Bauhinia](/world/bauhinia/).
 
+## Related files
+
+{{ collections.all | eleventyNavigation: "Atlasia" | eleventyNavigationToHtml }}
+
 ## Trivia
 
 It's kinda cringe, Atlasia is based off of Ayn Rand's works. I never actually read them. But I plan to. I just gotta read through all the Captain Underpants books for the 100th time first.
