@@ -11,6 +11,8 @@ titlezh: 更新日志
 ## 2025-04-19
 
 - Edited [superpowers](/world/superpowers/) to make some powers active;
+- Added `cheshire.png`, `vin.png`;
+-
 
 ## 2025-04-17
 
