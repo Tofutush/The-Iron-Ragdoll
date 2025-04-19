@@ -284,8 +284,8 @@
   "customRegexes": [
     {
       "label": "dash",
-      "find": "(?<!-)-{2}(?!-)",
-      "replace": "—",
+      "find": " (?<!-)-{2}(?!-) ",
+      "replace": " — ",
       "flags": "g",
       "enabled": true
     }
