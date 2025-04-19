@@ -36,3 +36,7 @@ The closest geographical mirror to Sylvandia is Siberia.
 ### Places
 
 - [Bonnie](/world/sylvandia/bonnie/) (capital)
+
+## Related files
+
+{{ collections.all | eleventyNavigation: "Sylvandia" | eleventyNavigationToHtml }}
