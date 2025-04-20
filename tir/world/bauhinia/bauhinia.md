@@ -98,7 +98,7 @@ Most of the story takes place during the cold war.
 
 ## Related files
 
-- [Project Boomerang](/world/bauhinia/project-boomerang/)
+{{ collections.all | eleventyNavigation: "Bauhinia" | eleventyNavigationToHtml }}
 
 [^1]: The flag is *not* Hong Kong. Hong Kong is *dumb*. Bauhinia is… well, still pretty dumb I admit but nothing is dumber than HK.
 [^2]: In case it's not obvious enough.

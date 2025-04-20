@@ -66,4 +66,4 @@ Since family isn't a thing in Moreland, people don't have family names. In legal
 
 ## Related files
 
-- [The Appaloosa Tribe](/world/moreland/appaloosa-tribe/)
+{{ collections.all | eleventyNavigation: "Moreland" | eleventyNavigationToHtml }}

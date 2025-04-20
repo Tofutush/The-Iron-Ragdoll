@@ -35,7 +35,7 @@ I'm probably on other places too, just not as often. I'm usually Tofutush on all
 <style>
 #statuscafe {
   padding: 1em;
-  border: 8px solid var(—c);
+  border: 8px solid var(--c);
   border-radius: 1em;
   max-width: 400px;
   margin: auto;
