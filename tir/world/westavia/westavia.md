@@ -69,6 +69,10 @@ History — and especially Westavian history — is a hushed-up subject in the c
 
 Despite this, there are still a number of secret historians who collect and archive information on Westavia's history under the threat of jail time. These people are persecuted by the authorities (obviously), frowned upon by ordinary citizens, and revered by dissidents of the Westavian government.
 
+## Related files
+
+{{ collections.all | eleventyNavigation: "Westavia" | eleventyNavigationToHtml }}
+
 ## Trivia
 
 - If Westavia were ever to have a theme song (not national anthem), it would be titled *Commie Propaganda*.

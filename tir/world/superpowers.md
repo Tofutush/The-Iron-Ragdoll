@@ -13,7 +13,9 @@ titlezh: 超能力
 
 [[toc]]
 
-Some people are born with ~~convenient plot devices~~ superpowers. There are some different types of superpowers. You might be either strong or weak in it. Read about them!
+Some people are born with ~~convenient plot devices~~ superpowers. There are some different types of superpowers. You might be either strong or weak in it.
+
+All common powers are active except for timekeeping, which is passive. More explained in their respective sections.
 
 ## Common powers / 普通
 
@@ -28,7 +30,9 @@ Common powers are stored in a person's soul. One soul can only have at most one 
 
 Exactly what it says on the tin. Superstrength means you're born stronger than other people.
 
-Of course strength is something that can be trained up, and a lack of exercise can make you weak and lame like me, but strongpeople would have more things to them than a normal person who's just strong, as explained [later](#power-relations).
+Of course strength is something that can be trained up, and a lack of exercise can make you weak and lame like me, but strongpeople would have more things to them than a normal person who's just strong.
+
+This power is active, which means that a strongperson has to call upon their power if they want to lift heavy stuff, and that they wouldn't accidentally break things because of their strength. This also means you can catch their unawares.
 
 ### Timekeeping
 
@@ -39,6 +43,10 @@ Of course strength is something that can be trained up, and a lack of exercise c
 
 Never be late again! Be able to tell the time down to the second (if you're strong enough). Also be able to tell how much time passed between to certain events.
 
+This power is passive, so they will always know what time it is or how much time passed as long as they think about it — they don't have to be intentionally summoning their power at the start and end of said event.
+
+Under duress, a timekeeper's internal clock could be messed up. For example, it's common to mistake their own heartbeat for seconds when timekeepers are panicking.
+
 ### Hyperawareness
 
 {% figure 'gallery/' 'hyperawareness.svg' 200 'Hyperawareness symbol' '' 'float-right' %}
@@ -47,6 +55,8 @@ Never be late again! Be able to tell the time down to the second (if you're stro
 - People with hyperawareness are called sensors[^2]
 
 Be able to see, hear, and smell things that other people can't. For weaker people, they might only get enhanced senses, but for stronger people, they might literally be able to see stuff going on on the other side of town, or hear a pin dropped in a noisy room. It's also possible for someone to be extremely strong in one or two senses but lacking in the others.
+
+This power is active, which means that a sensor has to be concentrating (and perhaps putting their fingers to their temples or something) to sense stuff.
 
 There is a special fabric that can conceal a person from sensors. They hate 'em, we love 'em! Of course, you need extra layers of said fabric to hide yourself from stronger sensors.
 
@@ -59,6 +69,8 @@ There is a special fabric that can conceal a person from sensors. They hate 'em,
 
 Get invisible. Like, that's it. Exactly how much you can get invisible depends on your power strength. Like, weaker people might only get their immediate bodies invisible while their clothes are left hanging in the air; stronger people might be able to get a lot more things near them invisible. But no matter what, they have to be invisible *themselves* — you can't hide something else but not yourself. Strong invisibles may even make themselves and everything they've hidden pass-through.
 
+This power is active, obviously. You hide yourself if you want to.
+
 ### Mind Reading
 
 {% figure 'gallery/' 'mind reading.svg' 200 'Mind reading symbol' '' 'float-right' %}
@@ -69,6 +81,8 @@ Get invisible. Like, that's it. Exactly how much you can get invisible depends o
 Look into other people's deepest privacy. Listen in. What are they thinking about? See what they see in their mind's eye. Unless they have aphantasia or something. Hear what they hear in their mind's ear. Including what song is stuck in their head right now.
 
 That is, if your power is strong enough. Weak mind reading powers are extremely limited. For example, Cosmo can only tell whether people are lying — though she's quite good at that.
+
+This power is active, which means that a mind-reader has to be concentrating (and perhaps putting their fingers to their temples or something) to read minds.
 
 Everyone can be trained to shield their own thoughts from mind-readers. There is also a special enchanted helmet that can block off mind-readers completely regardless of level, but only powerful magicians can make it.
 

@@ -74,4 +74,8 @@ Fanton was created at such a convenient time when everyone else was too busy sor
 
 The creation of Fanton led a lot of the original inhabitants to move out in frustration, and a lot of like-minded individuals in other places to move in.
 
+## Related files
+
+{{ collections.all | eleventyNavigation: "Fanton" | eleventyNavigationToHtml }}
+
 [^1]: It used to be *just* Sichuan, and just the basin part too. Why do I keep making Fanton bigger and bigger? Most of their population is still in the basin though.

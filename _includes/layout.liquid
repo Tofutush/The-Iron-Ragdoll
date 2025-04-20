@@ -52,7 +52,7 @@ navOptions:
         {% for item in bc %}
           {% if forloop.index != 1 %}
             {% if forloop.index != 2 %}
-              <span>{% lucide 'chevron-right' %}</span>
+              {% lucide 'chevron-right' %}
             {% endif %}
             <a href="{{ item.url }}">{{ item.title }}</a>
           {% endif %}
