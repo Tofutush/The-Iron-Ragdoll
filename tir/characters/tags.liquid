@@ -16,6 +16,7 @@ eleventyComputed:
 ---
 {% assign filteredChs = characters | filterChByTag: tag %}
 {% include 'chs', chs: filteredChs %}
+{% assign slugged = tag | slug %}
 {% if collections[slugged] %}
   <h2>Related files</h2>
   <ul>
