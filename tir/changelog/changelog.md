@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-20
+
+- Renamed Spy School to [Ministry Affiliate](/world/bauhinia/flower-city/ministry-affiliate/);
+
 ## 2025-04-19
 
 - Edited [superpowers](/world/superpowers/) to make some powers active;
