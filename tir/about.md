@@ -13,7 +13,7 @@ A paracosm about a little girl solving mysteries and getting tangled up in consp
 
 ## About me
 
-> 杀人容易抛尸难。
+> 经常杀人的朋友们都知道：杀人容易抛尸难。
 >
 > It is easy to kill but hard to dispose of the body.
 
@@ -62,7 +62,7 @@ I'm probably on other places too, just not as often. I'm usually Tofutush on all
 
 ## Boundaries
 
-Please don't draw parallels between my paracosm and real-life, even if I initiated it! I understand the difference between real-world and imaginary, and so should you. This includes (but is not limited to) first and foremost comparing [Bauhinia](/world/bauhinia/) to Hong Kong based on the flower alone. Imagine growing up around a beautiful flower you've grown to adore and everyone else just goes "ooooh HK" whatever they see it. Cut it out. HK doesn't own the flower.
+Please don't draw parallels between my paracosm and real-life, even if I initiated it! I understand the difference between real-world and imaginary, and so should you. This includes (but is not limited to) first and foremost comparing [Bauhinia](/world/bauhinia/) to Hong Kong based on the flower alone.
 
 ## Fan content
 
