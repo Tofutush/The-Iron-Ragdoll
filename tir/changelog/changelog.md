@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-22
+
+- Added `sugarcane cafe.png`;
+
 ## 2025-04-20
 
 - Renamed Spy School to [Ministry Affiliate](/world/bauhinia/flower-city/ministry-affiliate/);
