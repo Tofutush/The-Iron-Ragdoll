@@ -2615,5 +2615,23 @@
     "ch": [
       "sugarcane"
     ]
+  },
+  {
+    "name": "sky profile",
+    "type": "png",
+    "date": "2025-04-22",
+    "ch": [
+      "sky"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "firecrackers profile",
+    "type": "png",
+    "date": "2025-04-22",
+    "ch": [
+      "firecrackers"
+    ],
+    "kind": "thumb new"
   }
 ]

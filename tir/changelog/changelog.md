@@ -10,7 +10,7 @@ titlezh: 更新日志
 
 ## 2025-04-22
 
-- Added `sugarcane cafe.png`;
+- Added `sugarcane cafe.png`, `firecrackers profile.png`, `sky profile.png`;
 
 ## 2025-04-20
 
