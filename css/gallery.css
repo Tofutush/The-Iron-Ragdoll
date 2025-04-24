@@ -1,5 +1,6 @@
 .gallery {
     display: grid;
+    gap: .5em;
     grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
 
     & .character-button {
@@ -25,9 +26,11 @@
         height: 120px;
         user-select: none;
         aspect-ratio: 1;
+        transition: all .2s;
 
         &:hover {
-            box-shadow: 0 0 0 4px var(--c);
+            transform: scale(1.1);
+            box-shadow: 0 0 0 8px var(--c);
         }
     }
 }
@@ -109,6 +112,10 @@
     justify-content: center;
     max-width: 90vw;
     width: 800px;
+}
+
+.character-button {
+    color: var(--bg-light);
 }
 
 .close {
