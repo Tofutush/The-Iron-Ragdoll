@@ -429,18 +429,20 @@ nav>a:hover,
 }
 
 .character-button {
-    background-color: var(--c);
-    border-radius: .5rem;
+    border: 4px solid var(--c);
+    border-radius: .6rem;
+    color: var(--text);
     display: block;
     font-size: var(--font-size-small);
-    padding: 0.5rem 0.7rem;
+    padding: 0.3rem 0.5rem;
     text-decoration: none;
     text-shadow: none !important;
     user-select: none;
-    transition: box-shadow .2s;
+    transition: all .2s;
 
     &:hover {
-        box-shadow: 0 0 0 8px var(--box);
+        background-color: var(--c);
+        color: var(--bg-light);
     }
 }
 
