@@ -2633,5 +2633,21 @@
       "firecrackers"
     ],
     "kind": "thumb new"
+  },
+  {
+    "name": "frosting stand",
+    "type": "png",
+    "date": "2025-04-24",
+    "ch": [
+      "frosting"
+    ]
+  },
+  {
+    "name": "sugarcane tween",
+    "type": "png",
+    "date": "2025-04-24",
+    "ch": [
+      "sugarcane"
+    ]
   }
 ]
