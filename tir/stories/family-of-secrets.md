@@ -2,7 +2,7 @@
 layout: story.liquid
 title: Family of Secrets
 canon: yes
-order: 208
+order: 209
 chs:
   - harmony
   - frosting
@@ -19,6 +19,7 @@ myTags:
   - Bauhinia
   - Flower City
   - Canon
+  - Spy School
 tags:
   - family-of-secrets
 ---
