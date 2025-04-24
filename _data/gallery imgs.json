@@ -3106,5 +3106,47 @@
     "type": "png",
     "date": "2025-04-19",
     "comment": "Forum game art for [event-horizon](https://toyhou.se/event-horizon), featuring [Vin](https://toyhou.se/27290576.vin)."
+  },
+  {
+    "name": "sugarcane cafe",
+    "type": "png",
+    "date": "2025-04-22",
+    "ch": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": "sky profile",
+    "type": "png",
+    "date": "2025-04-22",
+    "ch": [
+      "sky"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "firecrackers profile",
+    "type": "png",
+    "date": "2025-04-22",
+    "ch": [
+      "firecrackers"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "frosting stand",
+    "type": "png",
+    "date": "2025-04-24",
+    "ch": [
+      "frosting"
+    ]
+  },
+  {
+    "name": "sugarcane tween",
+    "type": "png",
+    "date": "2025-04-24",
+    "ch": [
+      "sugarcane"
+    ]
   }
 ]

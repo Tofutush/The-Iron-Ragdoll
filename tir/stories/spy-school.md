@@ -17,6 +17,7 @@ myTags:
   - Flower City
   - Canon
   - MSS
+  - Spy School
 ---
 
 One day when Harmony was about to graduate 6th grade, Sky came to their apartment a-knocking. Entity answered the door, saw Sky's MSS uniform, and freaked out.
