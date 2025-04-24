@@ -114,6 +114,10 @@
     width: 800px;
 }
 
+.character-button {
+    color: var(--bg-light);
+}
+
 .close {
     color: #fff;
     cursor: pointer;
