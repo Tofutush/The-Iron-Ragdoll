@@ -431,6 +431,7 @@ nav>a:hover,
 .character-button {
     background-color: var(--c);
     border-radius: .5rem;
+    color: var(--bg-light);
     display: block;
     font-size: var(--font-size-small);
     padding: 0.5rem 0.7rem;
@@ -440,6 +441,7 @@ nav>a:hover,
     transition: box-shadow .2s;
 
     &:hover {
+        color: var(--bg-light);
         box-shadow: 0 0 0 8px var(--box);
     }
 }
