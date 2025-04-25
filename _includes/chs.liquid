@@ -8,7 +8,7 @@
                 {% image "gallery/" profilePath 200 ch.name '' iconPath %}
                 </a>
             </div>
-            {% include 'chButton', ch: ch.name %}
+            <a class="character-button" href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name | capitalize }}</a>
         </div>
     {% endfor %}
 </div>
