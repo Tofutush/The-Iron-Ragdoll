@@ -2,10 +2,6 @@
     display: grid;
     gap: .5em;
     grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
-
-    & .character-button {
-        --box: var(--box-dark);
-    }
 }
 
 .img {

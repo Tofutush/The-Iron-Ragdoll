@@ -22,9 +22,9 @@
         <a>{% lucide 'chevron-right' 48 'var(--bg-light)' %}</a>
       </div>
       {% if img.ch %}
-      <div class="chbuttons">
+      <div class="tags chbuttons">
         {% for ch in img.ch %}
-        <div>{% include 'chButton', ch: ch %}</div>
+          {% include 'chButton', ch: ch %}
         {% endfor %}
       </div>
       {% endif %}
