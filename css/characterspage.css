@@ -15,9 +15,16 @@
 		display: flex;
 		flex-direction: column;
 		transition: transform .2s;
+		position: relative;
 
 		&>a {
-			margin: 1rem 0;
+			position: absolute;
+			background-color: var(--c);
+			top: -.5em;
+			left: -.5em;
+			text-decoration: none;
+			padding: .3em .5em;
+			border-radius: .3em;
 		}
 
 		&:hover {
