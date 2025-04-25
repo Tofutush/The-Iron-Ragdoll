@@ -428,24 +428,6 @@ nav>a:hover,
     }
 }
 
-.character-button {
-    background-color: var(--c);
-    border-radius: .5rem;
-    color: var(--bg-light);
-    display: block;
-    font-size: var(--font-size-small);
-    padding: 0.5rem 0.7rem;
-    text-decoration: none;
-    text-shadow: none !important;
-    user-select: none;
-    transition: transform .2s;
-
-    &:hover {
-        color: var(--bg-light);
-        transform: translateY(-.5em);
-    }
-}
-
 .box-nav,
 .tags {
     display: flex;
@@ -605,14 +587,6 @@ hr {
     color: var(--c);
     font-weight: bold;
     text-align: right;
-}
-
-.chbuttons {
-    display: inline flex;
-    flex-wrap: wrap;
-    gap: .5em;
-    align-items: center;
-    line-height: 1.5;
 }
 
 .prev-next {
