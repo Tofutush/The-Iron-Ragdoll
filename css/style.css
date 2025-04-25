@@ -438,11 +438,11 @@ nav>a:hover,
     text-decoration: none;
     text-shadow: none !important;
     user-select: none;
-    transition: box-shadow .2s;
+    transition: transform .2s;
 
     &:hover {
         color: var(--bg-light);
-        box-shadow: 0 0 0 8px var(--box);
+        transform: translateY(-.5em);
     }
 }
 
