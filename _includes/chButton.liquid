@@ -1,1 +1,1 @@
-<a class="character-button" href="/characters/{{ ch | lowerCase }}/">{{ ch | capitalize }}</a>
+<a style="color: {{ characters | getChColor: ch | to6DigitHex | calculateBlackWhite }}" href="/characters/{{ ch | lowerCase }}/">{{ ch | capitalize }}</a>
