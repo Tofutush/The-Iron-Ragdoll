@@ -16,7 +16,7 @@ A school for ~~indoctrinating~~ training [MSS](/world/bauhinia/mss/) officers fr
 
 It starts in middle school (grade 7), and goes on to high school (grade 12). Though they share the same Flower City campus, middle schoolers go home every day while high schoolers stay in dormitories and only go home once a week.
 
-The school functions like any other public middle / high school in Bauhinia, except that middle schoolers don't have to take the high school entrance exam if they don't want to. Say if you don't want to attend high school here anymore, or if you flunked out of the final exam (which ends before high school entrance starts, thankfully) here, then you could take that exam and go somewhere else.
+The school functions like any other public middle / high school in Bauhinia, except that middle schoolers have a special graduation test to determine whether they can go to high school here. But if you don't want to attend high school here anymore, or if you flunked out of the final exam (which ends before high school entrance starts, thankfully) here, then you could take the high school entrance exam and go somewhere else.
 
 The subjects taught are wildly different too.
 
