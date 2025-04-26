@@ -188,7 +188,7 @@
       "Lightning is taken from one of my first OCs ever, a Warrior cat named Lightningtail. (That was before I read Dawn of the Clans.)",
       "If she were ever to have a theme song, it would be titled <i>Hotpot for One（单人火锅）</i>.",
       "If she had a lusus, it would be a husky.",
-      "The symbol on her hat is <a href=\"http://hs.hiveswap.com/ezodiac/truesign.php?TS=Aquittarius\">Aquittarius</a> from the Hiveswap Extended Zodiac."
+      "The symbol on the hat is <a href=\"http://hs.hiveswap.com/ezodiac/truesign.php?TS=Aquittarius\">Aquittarius</a> from the Hiveswap Extended Zodiac."
     ]
   },
   {
@@ -1658,6 +1658,67 @@
     "about": "Harmony attends the [MSS](/world/bauhinia/mss/)'s spy school in Flower City."
   },
   {
+    "name": "Sugarcane",
+    "namezh": "甘蔗",
+    "color": "#0fa982",
+    "desc": "Faithful student at Spy School.",
+    "tags": [
+      "Ministry of State Security",
+      "Spy School",
+      "Flower City",
+      "Bauhinia",
+      "Family of Secrets"
+    ],
+    "attr": {
+      "Full name": "Sugarcane Snowstorm Parrot",
+      "Nickname": "Sugar (by Harmony)",
+      "Gender": "Female",
+      "Age estimation": "The same as Harmony",
+      "Nationality": "Bauhinian",
+      "Occupation": "MSS officer"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Jelly",
+    "namezh": "果冻",
+    "color": "#1091b1",
+    "desc": "Lonely little kid.",
+    "quote": "Do you promise to write?",
+    "tags": [
+      "Flower City",
+      "Bauhinia",
+      "Westavia"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Solid, jelly-like",
+      "Age estimation": "The same as Harmony",
+      "Nationality": "Westavian"
+    },
+    "about": "Jelly is in Bauhinia because of her father's work, while her mother remained back in Westavia. She didn't have friends at school, and was very lonely.\n\nUntil one day, two lovely girls came up to her and asked to play with her.\n\nThey became BFFs."
+  },
+  {
+    "name": "Checkers",
+    "namezh": "跳棋",
+    "color": "#a01c0d",
+    "tags": [
+      "Flower City",
+      "Bauhinia",
+      "Westavia"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Solid, checker-shaped",
+      "Nationality": "Westavian",
+      "Marital status": "Married",
+      "Occupation": "Intelligence officer as a cultural attaché"
+    },
+    "about": "Checkers is the (former) cultural attaché of the Westavian Embassy in Flower City. He was then blown and deported."
+  },
+  {
     "name": "Jasmine",
     "namezh": "茉莉",
     "color": "#1ca091",
@@ -1692,30 +1753,6 @@
       "Gender": "Male",
       "Soul": "Solid, diamond",
       "Nationality": "Bauhinian"
-    }
-  },
-  {
-    "name": "Sugarcane",
-    "namezh": "甘蔗",
-    "color": "#0fa982",
-    "desc": "Faithful student at Spy School.",
-    "tags": [
-      "Ministry of State Security",
-      "Spy School",
-      "Flower City",
-      "Bauhinia",
-      "Family of Secrets"
-    ],
-    "attr": {
-      "Full name": "Sugarcane Snowstorm Parrot",
-      "Nickname": "Sugar (by Harmony)",
-      "Gender": "Female",
-      "Age estimation": "The same as Harmony",
-      "Nationality": "Bauhinian",
-      "Occupation": "MSS officer"
-    },
-    "palette": {
-      "hair": "#2e2e2e"
     }
   },
   {
