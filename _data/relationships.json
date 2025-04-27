@@ -1172,6 +1172,32 @@
   {
     "ch": [
       [
+        "Harmony",
+        "friend"
+      ],
+      [
+        "Jelly",
+        "friend"
+      ]
+    ],
+    "desc": "Harmony made friends with Jelly, but it was actually to run her as an agent."
+  },
+  {
+    "ch": [
+      [
+        "Sugarcane",
+        "friend"
+      ],
+      [
+        "Jelly",
+        "friend"
+      ]
+    ],
+    "desc": "Sugarcane made friends with Jelly, but it was actually to run her as an agent."
+  },
+  {
+    "ch": [
+      [
         "Sugarcane",
         "daughter"
       ],
