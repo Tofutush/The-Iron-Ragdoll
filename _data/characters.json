@@ -13,7 +13,8 @@
       "A Nuke From Moreland",
       "Pearl's Journey Home",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Sparky Amber Peacock",
@@ -54,7 +55,8 @@
       "Coastline",
       "Sparky's Family",
       "Starcorp",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Female (cis)",
@@ -78,7 +80,8 @@
       "Coastline",
       "Sparky's Family",
       "Starcorp",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 0"
     ],
     "attr": {
       "Nickname": "Peepoo (by his parents)",
@@ -111,7 +114,8 @@
       "Coastline",
       "Sparky's Family",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Willow Amber Peacock",
@@ -135,7 +139,8 @@
     "desc": "Owner of the bakery!",
     "tags": [
       "Coastline",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 0"
     ],
     "attr": {
       "Nickname": "Rib (by Tundra)",
@@ -164,7 +169,8 @@
       "Magic Academy",
       "A Nuke From Moreland",
       "Pearl's Journey Home",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Qibli Donut Lightning",
@@ -205,7 +211,8 @@
       "Pearl's Journey Home",
       "Flower City",
       "Bauhinia",
-      "Family of Secrets"
+      "Family of Secrets",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Sky Elmwood Dazzle",
@@ -240,7 +247,8 @@
       "Coastline Middle School",
       "A Nuke From Moreland",
       "Pearl's Journey Home",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Firecrackers Pinecone Duck",
@@ -268,9 +276,10 @@
     "color": "#d01b84",
     "desc": "Quiet, grumpy girl.",
     "tags": [
-      "Coastline Middle School",
       "Coastline",
-      "Bauhinia"
+      "Coastline Middle School",
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Female",
@@ -284,19 +293,44 @@
     "about": "Myriad has a mutation that gives her a pair of fairy wings."
   },
   {
+    "name": "Alaska",
+    "namezh": "阿拉斯加",
+    "color": "#6C0404",
+    "quote": "Smile for the camera! Cheese!",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia",
+      "Generation 1",
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Solid",
+      "Age estimation": "Around the same as Sparky",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "shirt": "#FFF",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
     "name": "Tomato",
     "namezh": "番茄",
     "color": "#A10000",
     "desc": "The guy who can solve all your problems but doesn't want to.",
     "quote": "I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
     "tags": [
+      "Coastline",
+      "Coastline Middle School",
       "Bauhinia",
-      "Misc"
+      "Generation 1"
     ],
     "attr": {
-      "Nickname": "Tom (by Tundra)",
       "Gender": "Male",
       "Soul": "Gas, tomato-shaped",
+      "Age estimation": "The same as Potato",
       "Nationality": "Bauhinian",
       "Weapon": "Wrench"
     },
@@ -310,7 +344,10 @@
     "namezh": "土豆",
     "color": "#bdad1b",
     "tags": [
-      "Misc"
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Male",
@@ -324,6 +361,9 @@
     "name": "Trinket",
     "color": "#28aed1",
     "tags": [
+      "Magic Academy",
+      "Bauhinia",
+      "Generation 1",
       "Misc"
     ],
     "attr": {
@@ -346,7 +386,8 @@
       "Coastline",
       "Sparky's Family",
       "Starcorp",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Fantasy Amber Peacock",
@@ -371,7 +412,8 @@
       "Sparky's Family",
       "Starcorp",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Ironheart Peacock Reindeer",
@@ -399,7 +441,8 @@
       "Coastline",
       "Sparky's Family",
       "Starcorp",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Nightsun Cassowary Tourmaline",
@@ -433,7 +476,8 @@
       "Coastline",
       "Sparky's Family",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 2"
     ],
     "attr": {
       "Full name": "Bramble Nightsun Sparky",
@@ -450,9 +494,11 @@
     "desc": "Bandwagon girl.",
     "quote": "If you feel unloved, we can send you to the Ministry of Love, where you'll be loved *so much* you don't *ever* need to be loved again!",
     "tags": [
+      "Coastline",
       "Ministry of State Security",
       "A Nuke From Moreland",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Nickname": "Cheesecake (codename by the MIC)",
@@ -486,11 +532,13 @@
     "namezh": "南瓜",
     "color": "#E3744D",
     "tags": [
+      "Coastline",
       "Ministry of State Security",
       "A Nuke From Moreland",
       "Bauhinia",
       "Westavia",
-      "Nameless Village"
+      "Nameless Village",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Male",
@@ -523,11 +571,13 @@
     "color": "#008E9B",
     "desc": "The only one in the team who actually works.",
     "tags": [
+      "Coastline",
       "Ministry of State Security",
       "A Nuke From Moreland",
       "Pearl's Journey Home",
       "Bauhinia",
-      "Moreland"
+      "Moreland",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Male",
@@ -555,9 +605,11 @@
     "color": "#2e2e2e",
     "desc": "Grouchy old guy who hates fun.",
     "tags": [
+      "Coastline",
       "Ministry of State Security",
       "A Nuke From Moreland",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Male",
@@ -593,7 +645,8 @@
     "tags": [
       "Coastline",
       "A Nuke From Moreland",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Female",
@@ -616,7 +669,8 @@
       "Coastline",
       "A Nuke From Moreland",
       "Bauhinia",
-      "Moreland"
+      "Moreland",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Male (trans)",
@@ -643,7 +697,8 @@
       "Coastline",
       "Pearl's Journey Home",
       "Bauhinia",
-      "Sylvandia"
+      "Sylvandia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Pearl Gemstone",
@@ -667,7 +722,8 @@
     "color": "#089b19",
     "tags": [
       "Pearl's Journey Home",
-      "Fanton"
+      "Fanton",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Female",
@@ -687,7 +743,8 @@
     "desc": "Star entrepreneur.",
     "tags": [
       "Pearl's Journey Home",
-      "Atlasia"
+      "Atlasia",
+      "Generation 0"
     ],
     "attr": {
       "Full name": "Jackpot Cloudy",
@@ -704,7 +761,8 @@
     "color": "#c30963",
     "tags": [
       "Pearl's Journey Home",
-      "Atlasia"
+      "Atlasia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Snake Cloudy",
@@ -726,7 +784,8 @@
     "color": "#D920D2",
     "tags": [
       "Pearl's Journey Home",
-      "Moreland"
+      "Moreland",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Snowball 201710033746",
@@ -748,7 +807,8 @@
     "desc": "Fleash rebel fighting for independence from Sylvandia.",
     "tags": [
       "Pearl's Journey Home",
-      "Sylvandia"
+      "Sylvandia",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Female (cis)",
@@ -784,7 +844,8 @@
       "Cherry-Hyrax Family",
       "Starcorp",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Beauty Cherry Hyrax",
@@ -809,7 +870,8 @@
       "Cherry-Hyrax Family",
       "Starcorp",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Chastity Cherry Hyrax",
@@ -833,7 +895,8 @@
       "Cherry-Hyrax Family",
       "Starcorp",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Devotion Cherry Hyrax",
@@ -857,7 +920,8 @@
       "Cherry-Hyrax Family",
       "Starcorp",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Elegance Cherry Hyrax",
@@ -882,7 +946,8 @@
       "Cherry-Hyrax Family",
       "Starcorp",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Animus Hyrax Cherry",
@@ -906,7 +971,8 @@
     "tags": [
       "Cherry-Hyrax Family",
       "Starcorp",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Male (cis)",
@@ -931,7 +997,8 @@
       "Sparky's Family",
       "Cherry-Hyrax Family",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 2"
     ],
     "attr": {
       "Full name": "Bunchberry Ironheart Beauty",
@@ -950,7 +1017,8 @@
     "color": "#000",
     "desc": "President of Bauhinia",
     "tags": [
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Male (cis)",
@@ -973,7 +1041,8 @@
     "color": "#863094",
     "tags": [
       "Coastline",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Nickname": "Sunny (by Willow)",
@@ -1019,7 +1088,8 @@
     "color": "#933384",
     "tags": [
       "Coastline",
-      "Bauhinia"
+      "Bauhinia",
+      "Generation 1"
     ],
     "attr": {
       "Nickname": "Cocoa (by Nightsun)",
@@ -1040,7 +1110,8 @@
     "desc": "Jerboa's mother, lead scientist of Project Boomerang.",
     "tags": [
       "Bauhinia",
-      "Project Boomerang"
+      "Project Boomerang",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Female (cis)",
@@ -1061,7 +1132,8 @@
     "desc": "Jerboa's father, co-lead scientist of Project Boomerang.",
     "tags": [
       "Bauhinia",
-      "Project Boomerang"
+      "Project Boomerang",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Male (cis)",
@@ -1080,7 +1152,8 @@
     "color": "#a72b0c",
     "tags": [
       "Bauhinia",
-      "Project Boomerang"
+      "Project Boomerang",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Male",
@@ -1103,7 +1176,8 @@
       "Flower City",
       "Bauhinia",
       "Project Boomerang",
-      "Family of Secrets"
+      "Family of Secrets",
+      "Generation 1"
     ],
     "attr": {
       "Nickname": "Frost (by Jaculus)",
@@ -1129,7 +1203,8 @@
     "desc": "Jerboa's big sister.",
     "tags": [
       "Bauhinia",
-      "Project Boomerang"
+      "Project Boomerang",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Jaculus Koala Kangaroo",
@@ -1151,6 +1226,7 @@
     "tags": [
       "Bauhinia",
       "Project Boomerang",
+      "Generation 1",
       "Misc"
     ],
     "attr": {
@@ -1178,7 +1254,8 @@
     "desc": "A miserable wreck.",
     "tags": [
       "Westavia",
-      "Nameless Village"
+      "Nameless Village",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Male",
@@ -1198,7 +1275,8 @@
     "namezh": "向日葵",
     "color": "#cb9c1a",
     "tags": [
-      "Westavia"
+      "Westavia",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Female",
@@ -1218,7 +1296,8 @@
     "color": "#5b3896",
     "tags": [
       "Westavia",
-      "Nameless Village"
+      "Nameless Village",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Female",
@@ -1238,7 +1317,8 @@
     "color": "#0b8445",
     "tags": [
       "Westavia",
-      "Nameless Village"
+      "Nameless Village",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Female",
@@ -1258,7 +1338,8 @@
     "desc": "Majiang-loving soul-dealer",
     "tags": [
       "Fanton",
-      "One Man Short"
+      "One Man Short",
+      "Generation 1"
     ],
     "attr": {
       "Nickname": "Co (by Kaleidoscope)",
@@ -1282,7 +1363,8 @@
     "color": "#6f4a16",
     "tags": [
       "Fanton",
-      "One Man Short"
+      "One Man Short",
+      "Generation 1"
     ],
     "attr": {
       "Nickname": "Kally (by Cobalt)",
@@ -1303,7 +1385,8 @@
     "color": "#d22dae",
     "tags": [
       "Fanton",
-      "One Man Short"
+      "One Man Short",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Female",
@@ -1321,7 +1404,8 @@
     "namezh": "月月鸟",
     "color": "#077838",
     "tags": [
-      "One Man Short"
+      "One Man Short",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Male",
@@ -1338,7 +1422,8 @@
     "namezh": "月光",
     "color": "#08d8e7",
     "tags": [
-      "Sylvandia"
+      "Sylvandia",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Female",
@@ -1401,28 +1486,6 @@
     }
   },
   {
-    "name": "Alaska",
-    "namezh": "阿拉斯加",
-    "color": "#6C0404",
-    "quote": "Smile for the camera! Cheese!",
-    "tags": [
-      "Coastline",
-      "Coastline Middle School",
-      "Bauhinia",
-      "Misc"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Solid",
-      "Age estimation": "Around the same as Sparky",
-      "Nationality": "Bauhinian"
-    },
-    "palette": {
-      "shirt": "#FFF",
-      "hair": "#2E2E2E"
-    }
-  },
-  {
     "name": "Tephra",
     "namezh": "火山灰",
     "color": "#008282",
@@ -1473,11 +1536,13 @@
     "desc": "Self-proclaimed mayor of Hillslope!",
     "quote": "What's the big deal?",
     "tags": [
-      "Fanton"
+      "Fanton",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Male",
       "Soul": "Gas, wispy",
+      "Nationality": "Fantoni",
       "Weapon": "None, unless joints count",
       "Power": "Immortality"
     },
@@ -1569,6 +1634,7 @@
     "color": "#b90912",
     "tags": [
       "Moreland",
+      "Generation 1",
       "Misc"
     ],
     "attr": {
@@ -1614,7 +1680,8 @@
     "tags": [
       "Flower City",
       "Bauhinia",
-      "Family of Secrets"
+      "Family of Secrets",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Male",
@@ -1642,7 +1709,8 @@
       "Spy School",
       "Flower City",
       "Bauhinia",
-      "Family of Secrets"
+      "Family of Secrets",
+      "Generation 2"
     ],
     "attr": {
       "Full name": "Harmony Frosting Entity",
@@ -1667,7 +1735,8 @@
       "Spy School",
       "Flower City",
       "Bauhinia",
-      "Family of Secrets"
+      "Family of Secrets",
+      "Generation 2"
     ],
     "attr": {
       "Full name": "Sugarcane Snowstorm Parrot",
@@ -1690,7 +1759,8 @@
     "tags": [
       "Flower City",
       "Bauhinia",
-      "Westavia"
+      "Westavia",
+      "Generation 2"
     ],
     "attr": {
       "Gender": "Female",
@@ -1707,7 +1777,8 @@
     "tags": [
       "Flower City",
       "Bauhinia",
-      "Westavia"
+      "Westavia",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Male",
@@ -1727,7 +1798,8 @@
       "Bauhinia",
       "Westavia",
       "Moreland",
-      "Family of Secrets"
+      "Family of Secrets",
+      "Generation 0"
     ],
     "attr": {
       "Gender": "Female",
@@ -1745,7 +1817,8 @@
     "tags": [
       "Flower City",
       "Bauhinia",
-      "Family of Secrets"
+      "Family of Secrets",
+      "Generation 1"
     ],
     "attr": {
       "Full name": "Unknown",
@@ -1763,7 +1836,8 @@
     "tags": [
       "Flower City",
       "Bauhinia",
-      "Family of Secrets"
+      "Family of Secrets",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Male",
@@ -1784,7 +1858,8 @@
     "tags": [
       "Flower City",
       "Bauhinia",
-      "Family of Secrets"
+      "Family of Secrets",
+      "Generation 1"
     ],
     "attr": {
       "Gender": "Female",
