@@ -2649,5 +2649,42 @@
     "ch": [
       "sugarcane"
     ]
+  },
+  {
+    "name": "goose int",
+    "type": "png",
+    "date": "2025-04-28",
+    "ch": [
+      "goose"
+    ]
+  },
+  {
+    "name": "int2",
+    "type": "png",
+    "date": "2025-04-28",
+    "ch": [
+      "peacock",
+      "qibli",
+      "tephra",
+      "sparky",
+      "goose"
+    ],
+    "comment": "An addition to the \"int\" shitpost."
+  },
+  {
+    "name": "jasmine thumb",
+    "type": "png",
+    "date": "2025-04-28",
+    "ch": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": "jasmine profile",
+    "type": "png",
+    "date": "2025-04-28",
+    "ch": [
+      "jasmine"
+    ]
   }
 ]
