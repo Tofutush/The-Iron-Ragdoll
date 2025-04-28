@@ -36,10 +36,6 @@ I think I might have set the scope too big. 50 characters (150 pieces of art) an
 
 My arch-nemisis.
 
-### 嗵嗵 animatic
-
-This is in the works, and will just be an extremely rough and stupid thing, since I have zero idea how to animate — even if the "animation" is just moving things across the page in After Effects.
-
 ### "Redemption" animation meme
 
 It looks relatively simple, and I have my character choices ready. I'll probably start this after finishing the previous one.
@@ -64,7 +60,7 @@ Current: {{ footers.size }}.
 
 Coding done, but requires artwork and a logic for including alternative art for characters that haven't a fav picker image drawn
 
-## Creepy Government Family IF
+## Family of Secrets
 
 An interactive story made in Twine featuring Frosting, Entity, and Harmony. Canon and planning.
 

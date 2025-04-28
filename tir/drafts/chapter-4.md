@@ -10,9 +10,11 @@ It was four in the morning. Firecrackers got into the car with Sky. It was awkwa
 
 Pumpkin would drive them home, with a letter from the MSS explaining what had happened that night. Goose was driving the girls.
 
-He fell right asleep in the back of the car, lying across the row and resting his head right on top of Sky's legs.
+Firecrackers fell right asleep in the back of the car, lying across the row and resting his head right on top of Sky's legs.
 
 Firecrackers's horn poked into Sky's chest, but he hardly noticed. He was restless, thinking about their clumsy theft attempt, freaking out over the image of Paperweight's face plastered into his head, and worrying about what his parents would do to him tomorrow.
+
+They had signed a confidentiality agreement that they would not talk about the "deal" with anyone else. It was official-looking, with red fingerprints and all, warning them of the consequences should they break the agreement. Sky couldn't remember whether the agreement allowed them to talk to *each other* about it.
 
 After a while he felt the car park. Pumpkin opened the back door and took their blindfolds off, shaking Firecrackers awake. They were at his grocery store. It was open again, and a person could be seen inside. His mom or dad, Sky wasn't sure. Pumpkin escorted Firecrackers inside.
 
@@ -166,7 +168,7 @@ Qibli felt compelled to interrupt. "Sky and I."
 
 Qibli sighed to herself.
 
-Firecrackers did not know what to look for in a room of bare cement. He tried putting his ears against the wall while knocking on it, but then remembered he had no ears[^1]. Qibli tried casting a detection spell, but wound up hitting her own forehead.
+Firecrackers did not know what to look for in a room of bare cement. He tried putting his ears against the wall while knocking on it, but then remembered he had no ears[^1]. Qibli tried casting a detection spell, but wound up hitting her own forehead with the wand.
 
 She went outside. A cat was standing on the low, half-built wall. The gray tabby! She rushed over and grabbed it with her magic.
 
@@ -208,12 +210,19 @@ Pumpkin was waiting for him at the entrance of the apartment building. "How was 
 
 "Well, then, I have nothing to report," Sky shrugged and pushed open the gate.
 
-"Wait! If I go back too early they'd think I slacked off!"
+"Wait, stay with me! If I go back too early they'd think I slacked off!"
 
 Sky stared at him dumbfoundedly. "Seriously?"
 
 "Let's go get some kebabs," Pumpkin pointed a thumb behind himself. "I'm hungry."
 
+"Can't you just go yourself?"
+
+"Don't you want kebabs?"
+
 Sky still had his hand on the metal door for a while. Then he released it, letting it screech shut. "Sure."
+
+The kebabs were a little too oily. Sky kept drinking tea after each one.
+"What exactly did you do today?" Pumpkin asked.
 
 [^1]: YES this is a corny fourth wall joke

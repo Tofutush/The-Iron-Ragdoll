@@ -23,3 +23,5 @@ Harmony and Sugarcane always thought their teacher, Sky, was just a douche who w
 They found out through a book on the Poker Spies, a spy ring of 4 people gathering intel on the Fantoni and the Moose, and running deception campaigns against them. The bad thing was, they didn't know who each other are, nor did they know the real Sky. The good thing was, they're all still alive, scattered all over Bauhinia.
 
 So, Harmony had an idea. What if we called them all here and have them meet? The war is long over, right?
+
+Since the book didn't give the spies' actual names (obviously), they did a bit of spying on their own to find them. Turned out, Sky kept extensive records of who they were and where they are now. They invited them over to Flower City.
