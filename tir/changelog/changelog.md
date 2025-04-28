@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-25
+
+- I cannot settle on a character button CSS;
+
 ## 2025-04-24
 
 - Added story [Poker Party](/stories/poker-party/);

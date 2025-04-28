@@ -16,6 +16,8 @@ A paracosm about a little girl solving mysteries and getting tangled up in consp
 > 经常杀人的朋友们都知道：杀人容易抛尸难。
 >
 > It is easy to kill but hard to dispose of the body.
+>
+> This is not a statement about actions and consequences. This is merely an observation after decades of killing people. It's really hard, OK? Have some pity for your local serial murderer.
 
 Tofutush here. I like comics, OCs, and spies. I belong to the Cat Cult where we worship cats. You should join us.
 
@@ -31,28 +33,6 @@ I'm a professional lurker but I'd love to make friends. Please don't be scared o
 - Discord / WeChat (tofutush)
 
 I'm probably on other places too, just not as often. I'm usually Tofutush on all platforms. Not being able to get a username that says Tofutush would make me lose interest in that platform.
-
-<style>
-#statuscafe {
-  padding: 1em;
-  border: 8px solid var(--c);
-  border-radius: 1em;
-  max-width: 400px;
-  margin: auto;
-}
-#statuscafe-username {
-  margin-bottom: 1em;
-  line-height: 2;
-}
-#statuscafe-username a {
-  text-transform: capitalize;
-}
-#statuscafe-content {
-  margin: 0 1em 0.5em 1em;
-  line-height: 2;
-}
-</style>
-<div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=tofutush" defer></script>
 
 > [!question] Where did you get that stupid name you're so obsessed with
 > Captain Underpants, in Professor Poopypants's silly name chart, when you plug in Xie as the last name.

@@ -23,9 +23,9 @@
       </div>
       {% if img.author %}<p>Art by <a href="{{ img.authorUrl }}">{{ img.author }}</a></p>{% endif %}
       {% if img.ch %}
-      <div class="chbuttons">
+      <div class="tags chbuttons">
         {% for ch in img.ch %}
-        <div>{% include 'chButton', ch: ch %}</div>
+          {% include 'chButton', ch: ch %}
         {% endfor %}
       </div>
       {% endif %}
