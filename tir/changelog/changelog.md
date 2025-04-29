@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-29
+
+- Released [A Nuke From Moreland: Chapter 4](/stories/a-nuke-from-moreland/chapter-4/)!
+
 ## 2025-04-28
 
 - Added `jasmine thumb.png`, `jasmine profile.png`, `goose int.png`, `int2.png`;
