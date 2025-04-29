@@ -29,8 +29,6 @@ myTags:
   - Sparky and her friends
 ---
 
-I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you wanna read it. I think the questioning scene was pretty cool though. The main problem is that no one has any personality.
-
 [[toc]]
 
 ## The discovery
