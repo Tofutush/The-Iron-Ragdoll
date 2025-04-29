@@ -223,6 +223,47 @@ Sky stared at him dumbfoundedly. "Seriously?"
 Sky still had his hand on the metal door for a while. Then he released it, letting it screech shut. "Sure."
 
 The kebabs were a little too oily. Sky kept drinking tea after each one.
-"What exactly did you do today?" Pumpkin asked.
+
+"Do you really have no idea how to approach this case?" Pumpkin asked. The restaurant was loud, full of late-night patrons, and Sky had to pay close attention to hear what he said.
+
+"No," Sky admitted. "It was just Sparky constantly bugging us. She's pretty much all nonsense."
+
+Pumpkin chuckled. "But she has something none of you three have," he said with a mouthful of mutton.
+
+"What is it?" Sky asked.
+
+Instead of answering, Pumpkin said, "do you want to know how *we* would approach this?"
+
+Sky raised his eyebrows. "How?"
+
+"We would check our database of international smugglers and see if any one of those folks had been up to no good recently."
+
+Sky's eyebrows drooped into a frown. "We don't have anything like that."
+
+"We'd also consider the people who want a nuke."
+
+"Sparky," Sky said.
+
+"And rich enough to buy one."
+
+"Sparky," Sky said again. "Her dad is stupidly rich."
+
+Pumpkin looked at him expectantly.
+
+Sky sat there, dumbfounded for a while, and suddenly his eyes widened. "It's *Sparky* who bought the nuke?"
+
+Pumpkin slapped his own forehead, snatched Sky's half-eaten kebab from his hand, and stood up to leave. "I thought you were the smart one!"
+
+"Wait!" Sky called after him. "You haven't paid the bill!"
+
+He raced Pumpkin out into the street, but he had long disappeared into the night. Sky had to call his parents for money, pretending that he had the meal with his friends. They paid, but not without scolding him for a good while. He was sent to bed early.
+
+---
+
+The next day, Sparky called everyone again. To the house again! We're bound to find something this time.
+
+The three friends groaned, in separate homes but sharing the same tired heart. Qibli went right back to sleep. Firecrackers said he needed to man the grocery store. Sky had to come, not only because Sparky would throw a tantrum, but also because he needed something to report to Pumpkin.
+
+He sighed and dragged himself out of bed.
 
 [^1]: YES this is a corny fourth wall joke
