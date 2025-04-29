@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-04-28
+
+- Added `jasmine thumb.png`, `jasmine profile.png`, `goose int.png`, `int2.png`;
+
 ## 2025-04-25
 
 - I cannot settle on a character button CSS;
