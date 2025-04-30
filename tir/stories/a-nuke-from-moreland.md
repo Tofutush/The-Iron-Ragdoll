@@ -29,8 +29,6 @@ myTags:
   - Sparky and her friends
 ---
 
-I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you wanna read it. I think the questioning scene was pretty cool though. The main problem is that no one has any personality.
-
 [[toc]]
 
 ## The discovery
@@ -91,7 +89,17 @@ They wandered around the abandoned house — catching the tabby and returning it
 
 They talked about the nuke, the MSS, debated loudly, all in vain. They went home unhappy, making a deal to come back tomorrow.
 
-Pumpkin was waiting for Sky at the bottom of his apartment building. Sky reported no progress. Pumpkin treated him to some kebabs.
+Pumpkin was waiting for Sky at the bottom of his apartment building. Sky reported no progress. Pumpkin pretended to treat him to some kebabs. During the meal, he gave Sky a little hint.
+
+> "We'd consider the people who want a nuke."
+>
+> "Sparky," Sky said.
+>
+> "And rich enough to buy one."
+>
+> "Sparky," Sky said again. "Her dad is stupidly rich."
+
+But Pumpkin ran away afterwards, leaving Sky to pay the bill.
 
 ## Day 2
 
