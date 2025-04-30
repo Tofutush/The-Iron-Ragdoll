@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-04-29
 
 - Released [A Nuke From Moreland: Chapter 4](/stories/a-nuke-from-moreland/chapter-4/)!
+- Added `penelope.png`;
 
 ## 2025-04-28
 
