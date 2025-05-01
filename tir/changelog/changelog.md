@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-01
+
+- Added `beauty profile.png`, `chastity profile.png`, `devotion profile.png`, `elegance profile.png`;
+
 ## 2025-04-29
 
 - Released [A Nuke From Moreland: Chapter 4](/stories/a-nuke-from-moreland/chapter-4/)!

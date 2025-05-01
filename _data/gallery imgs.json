@@ -2692,5 +2692,41 @@
     "type": "png",
     "date": "2025-04-29",
     "comment": "Art trade with Tel, featuring Penelope."
+  },
+  {
+    "name": "beauty profile",
+    "type": "png",
+    "date": "2025-05-01",
+    "kind": "thumb new",
+    "ch": [
+      "beauty"
+    ]
+  },
+  {
+    "name": "chastity profile",
+    "type": "png",
+    "date": "2025-05-01",
+    "kind": "thumb new",
+    "ch": [
+      "chastity"
+    ]
+  },
+  {
+    "name": "devotion profile",
+    "type": "png",
+    "date": "2025-05-01",
+    "kind": "thumb new",
+    "ch": [
+      "devotion"
+    ]
+  },
+  {
+    "name": "elegance profile",
+    "type": "png",
+    "date": "2025-05-01",
+    "kind": "thumb new",
+    "ch": [
+      "elegance"
+    ]
   }
 ]
