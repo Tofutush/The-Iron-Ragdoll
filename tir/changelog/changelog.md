@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-03
+
+- Added some overdue [buttons](/misc/links/). Let me know if you want to trade buttons!
+
 ## 2025-05-01
 
 - Added `beauty profile.png`, `chastity profile.png`, `devotion profile.png`, `elegance profile.png`;
