@@ -379,6 +379,36 @@
     ]
   },
   {
+    "name": "Nebula",
+    "namezh": "星云",
+    "color": "#d87099",
+    "desc": "Arch-Magician.",
+    "tags": [
+      "Coastline",
+      "Magic Academy",
+      "Bauhinia",
+      "Generation 0"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Gas, nebula-like",
+      "Nationality": "Bauhinian",
+      "Occupation": "Magic academy teacher",
+      "Weapon": "the Physical Sword"
+    },
+    "palette": {
+      "shirt": "#737373",
+      "sleeves, dress": "#414141",
+      "red": "#FFB1B1",
+      "orange": "#FFD0A8",
+      "yellow": "#FFF3AA",
+      "green": "#B7FFDE",
+      "blue": "#B7EFFF",
+      "purple": "#D9D1FF"
+    },
+    "about": "Nebula is the Arch-Magician crowned by the [ISA](/world/westavia/isa/), and the teacher of the [Magic Academy](/world/bauhinia/coastline/magic-academy/) appointed by the Bauhinian government.\n\nHer wand of choice is a teaching stick named the Physical Sword."
+  },
+  {
     "name": "Fantasy",
     "namezh": "奇幻",
     "color": "#ce00af",
