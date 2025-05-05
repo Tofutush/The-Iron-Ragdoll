@@ -2,7 +2,6 @@
 layout: story.liquid
 title: The Hunt for Tundra (working title)
 canon: yes
-order: 206
 chs:
   - tundra
   - kismet

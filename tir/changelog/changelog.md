@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-05
+
+- Changed the sort order of the stories a bit;
+	- And started to use a json file for sorting too. Let's hope I don't forget to edit this file every time I add a new story;
+
 ## 2025-05-04
 
 - Added `nebula stand.png`;

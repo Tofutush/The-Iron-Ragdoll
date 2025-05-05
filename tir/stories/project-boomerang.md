@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Project Boomerang
 canon: yes
-order: 205
 chs:
   - koala
   - kangaroo
