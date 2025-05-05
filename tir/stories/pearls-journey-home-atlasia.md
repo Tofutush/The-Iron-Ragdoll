@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Pearl's Journey Home - Atlasia
 canon: yes
-order: 107
 chs:
   - sparky
   - sky

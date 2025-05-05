@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Poker Party
 canon: yes
-order: 208
 chs:
   - harmony
   - sugarcane

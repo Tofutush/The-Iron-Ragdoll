@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Pearl's Journey Home - Sylvandia
 canon: yes
-order: 109
 chs:
   - sparky
   - pearl

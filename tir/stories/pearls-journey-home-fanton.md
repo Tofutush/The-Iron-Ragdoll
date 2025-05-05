@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Pearl's Journey Home - Fanton
 canon: yes
-order: 106
 chs:
   - sparky
   - qibli

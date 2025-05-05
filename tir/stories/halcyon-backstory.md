@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Halcyon's Backstory
 canon: yes
-order: 306
 chs:
   - halcyon
 time: 1991 - 2025
