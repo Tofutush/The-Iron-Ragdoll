@@ -8,6 +8,14 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-07
+
+- Edited global permissions to match Artfight's;
+
+## 2025-05-06
+
+- Added [Animal Kingdom](/world/animal-kingdom/);
+
 ## 2025-05-05
 
 - Changed the sort order of the stories a bit;
