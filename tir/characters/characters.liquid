@@ -22,11 +22,15 @@ eleventyComputed:
   {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
   {% image "gallery/" profilePath 'auto' ch.name '' iconPath %}
   <div class="names">
-    <h1>{{ ch.name }}</h1>
-    {% if ch.namezh %}<h1>{{ ch.namezh }}</h1>{% endif %}
+    <h1>{{ ch.name }}{% if ch.namezh %} / {{ ch.namezh }}{% endif %}</h1>
     {% if ch.desc %}
       {{ ch.desc | renderMD }}
     {% endif %}
+    <div class="tags">
+      {% for t in ch.tags %}
+        <a href="/characters/tag/{{ t | slug }}/">{{ t }}</a>
+      {% endfor %}
+    </div>
   </div>
 </div>
 <div class="desc" style="--accent: {{ ch.color }};">

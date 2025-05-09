@@ -42,16 +42,18 @@ blockquote {
   align-items: center;
 
   &>img {
-    height: 200px;
-    width: 200px;
+    height: 240px;
+    width: 240px;
     background-color: var(--box);
     border-radius: 1em;
     user-select: none;
   }
 
   &>.names {
-    &>h1:first-child {
+    &>h1 {
+      font-size: calc(var(--font-size-h1) * 1.5);
       margin-top: 0;
+      margin-bottom: 1rem;
     }
 
     &>p:last-child {
