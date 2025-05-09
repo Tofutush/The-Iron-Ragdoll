@@ -50,7 +50,7 @@ blockquote {
 .pagedoll {
   position: fixed;
   bottom: 1rem;
-  right: 1rem;
+  left: 1rem;
   width: 20vw;
   height: auto;
   z-index: 999;

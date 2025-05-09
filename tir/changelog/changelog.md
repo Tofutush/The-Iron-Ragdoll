@@ -11,6 +11,8 @@ titlezh: 更新日志
 ## 2025-05-09
 
 - Added a quick info section to each country;
+- Character layout change! Not an overhaul but I made some edits;
+  - Now every character also features a pagedoll (if I want them to have one);
 
 ## 2025-05-07
 

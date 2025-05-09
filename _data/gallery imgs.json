@@ -202,6 +202,7 @@
     "ch": [
       "jerboa"
     ],
+    "kind": "pagedoll",
     "date": "2024-01-31"
   },
   {
@@ -253,6 +254,7 @@
       "melody"
     ],
     "date": "2023-06-17",
+    "kind": "pagedoll",
     "comment": "This is an old picture, but honestly Melody hasn't changed."
   },
   {
@@ -314,7 +316,8 @@
     "ch": [
       "myriad"
     ],
-    "date": "2024-05-26"
+    "date": "2024-05-26",
+    "kind": "pagedoll"
   },
   {
     "name": "nightsun thumb",
@@ -685,7 +688,8 @@
     "ch": [
       "tundra"
     ],
-    "date": "2024-03-17"
+    "date": "2024-03-17",
+    "kind": "pagedoll"
   },
   {
     "name": "vampire thumb",
@@ -887,7 +891,8 @@
     "ch": [
       "pumpkin"
     ],
-    "date": "2024-08-27"
+    "date": "2024-08-27",
+    "kind": "pagedoll"
   },
   {
     "name": "paperweight stand",
@@ -1078,7 +1083,8 @@
     "ch": [
       "qibli"
     ],
-    "date": "2024-10-15"
+    "date": "2024-10-15",
+    "kind": "pagedoll"
   },
   {
     "name": "404",
@@ -1109,7 +1115,8 @@
     "ch": [
       "paperweight"
     ],
-    "date": "2024-10-26"
+    "date": "2024-10-26",
+    "kind": "pagedoll"
   },
   {
     "name": "sparky adult",
@@ -1163,7 +1170,8 @@
     "ch": [
       "goose"
     ],
-    "date": "2024-11-12"
+    "date": "2024-11-12",
+    "kind": "pagedoll"
   },
   {
     "name": "hyperawareness",
@@ -1503,7 +1511,6 @@
     "ch": [
       "jerboa"
     ],
-    "kind": "idlegame",
     "date": "2025-02-04"
   },
   {
@@ -1512,7 +1519,6 @@
     "ch": [
       "jerboa"
     ],
-    "kind": "idlegame",
     "date": "2025-02-04"
   },
   {
@@ -1521,7 +1527,7 @@
     "ch": [
       "tomato"
     ],
-    "kind": "idlegame",
+    "kind": "pagedoll",
     "date": "2025-02-06"
   },
   {
@@ -1530,7 +1536,6 @@
     "ch": [
       "tomato"
     ],
-    "kind": "idlegame",
     "date": "2025-02-06"
   },
   {
@@ -2641,7 +2646,8 @@
     "date": "2025-04-24",
     "ch": [
       "frosting"
-    ]
+    ],
+    "kind": "pagedoll"
   },
   {
     "name": "sugarcane tween",
