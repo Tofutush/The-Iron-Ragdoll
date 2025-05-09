@@ -1,7 +1,8 @@
 h1,
 h2,
 main h2::before,
-main h3::before {
+main h3::before,
+.attr-key {
   color: var(--accent);
 }
 
@@ -34,10 +35,6 @@ blockquote {
       margin-bottom: 0;
     }
   }
-}
-
-.attr-key {
-  color: var(--accent);
 }
 
 .rel-img {
