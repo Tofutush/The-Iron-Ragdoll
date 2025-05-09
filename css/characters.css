@@ -1,22 +1,8 @@
-.desc {
-  display: flex;
-  gap: 2em;
-  position: relative;
-
-  &>* {
-    margin: 1.5rem 0;
-  }
-}
-
 h1,
 h2,
 main h2::before,
 main h3::before {
   color: var(--accent);
-}
-
-#attr-info p {
-  text-align: left;
 }
 
 blockquote {
@@ -50,17 +36,8 @@ blockquote {
   }
 }
 
-.quote {
-  font-style: italic;
-  margin: 1em;
-}
-
 .attr-key {
   color: var(--accent);
-}
-
-.rel-h3 {
-  text-transform: capitalize;
 }
 
 .rel-img {
