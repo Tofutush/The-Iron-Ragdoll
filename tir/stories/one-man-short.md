@@ -2,7 +2,6 @@
 layout: story.liquid
 title: One Man Short
 canon: yes
-order: 204
 chs:
   - cobalt
   - nightingale

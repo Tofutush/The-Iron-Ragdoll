@@ -1,6 +1,8 @@
+const storyOrder = require('./../_data/stories.json');
+
 function storyPlugin(eleventyConfig) {
     eleventyConfig.addCollection("stories", collection =>
-        collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => a.data.order - b.data.order)
+        collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => storyOrder.indexOf(a.fileSlug) - storyOrder.indexOf(b.fileSlug))
     );
     eleventyConfig.addCollection("storyTags", collection => {
         let stories = collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => a.data.order - b.data.order);

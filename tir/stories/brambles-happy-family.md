@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Bramble's Happy Family
 canon: semi
-order: 402
 comic: true
 chs:
   - bramble

@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Buttercup's Backstory
 canon: yes
-order: 309
 chs:
   - buttercup
 time: 

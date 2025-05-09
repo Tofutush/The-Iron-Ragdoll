@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Tundra's Backstory
 canon: yes
-order: 302
 chs:
   - tundra
 time: "?"

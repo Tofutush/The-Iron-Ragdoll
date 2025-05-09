@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Pumpkin's Backstory
 canon: yes
-order: 305
 chs:
   - pumpkin
 time: 2003 - present

@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Goose's Backstory
 canon: yes
-order: 304
 chs:
   - goose
 time: 2001 - present

@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Coastline Middle School Mysteries
 canon: yes
-order: 102
 chs:
   - sparky
   - qibli

@@ -2,7 +2,6 @@
 layout: story.liquid
 title: A Nuke From Moreland
 canon: yes
-order: 103
 chs:
   - sparky
   - qibli

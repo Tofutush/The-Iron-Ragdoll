@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Sunflowers in the Dark (working title)
 canon: yes
-order: 202
 chs:
   - candlelight
   - sunflower

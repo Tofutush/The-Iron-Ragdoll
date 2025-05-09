@@ -2,7 +2,6 @@
 layout: story.liquid
 title: The Escape
 canon: no
-order: 501
 chs:
   - firecrackers
   - sparky

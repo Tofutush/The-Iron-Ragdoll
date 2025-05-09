@@ -2,7 +2,6 @@
 layout: story.liquid
 title: New Year 2032
 canon: yes
-order: 104
 chs:
   - sparky
   - qibli

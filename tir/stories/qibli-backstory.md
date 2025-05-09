@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Qibli's Backstory
 canon: yes
-order: 303
 chs:
   - qibli
 time: "?"
