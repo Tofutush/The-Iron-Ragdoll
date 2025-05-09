@@ -15,84 +15,38 @@ main h3::before {
   color: var(--accent);
 }
 
-.left-side {
-  flex-shrink: 0;
-  width: 360px;
-}
-
 #attr-info p {
   text-align: left;
-}
-
-.right-side {
-  flex-grow: 1;
-
-  & h3 {
-    margin-left: 1em;
-  }
 }
 
 blockquote {
   border-color: var(--accent);
 }
 
-.banner {
-  &>.title {
-    display: flex;
-    gap: 2em;
-    align-items: center;
-
-    &>img {
-      height: 240px;
-      width: 240px;
-      background-color: var(--box);
-      border-radius: 1em;
-      user-select: none;
-    }
-
-    &>.names {
-      &>h1 {
-        font-size: calc(var(--font-size-h1) * 1.5);
-        margin-top: 0;
-        margin-bottom: 1rem;
-      }
-
-      &>p:last-child {
-        margin-bottom: 0;
-      }
-    }
-  }
-
-
-}
-
-.title-info {
-  text-align: center;
-
-  & p {
-    text-align: center;
-  }
-
-  & h1 {
-    font-size: var(--font-size-h1);
-    letter-spacing: 4px;
-    text-transform: uppercase;
-  }
-
-  &>* {
-    margin: 1rem 0;
-    text-indent: 0;
-  }
-}
-
-#info {
-  align-items: center;
+.title {
   display: flex;
-  gap: .5rem;
+  gap: 2em;
+  align-items: center;
+  margin: 2em 0;
 
-  & .tooltip {
-    display: inline-flex;
-    height: 28px;
+  &>img {
+    height: 240px;
+    width: 240px;
+    background-color: var(--box);
+    border-radius: 1em;
+    user-select: none;
+  }
+
+  &>.names {
+    &>h1 {
+      font-size: calc(var(--font-size-h1) * 1.5);
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+
+    &>p:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 
@@ -120,12 +74,11 @@ blockquote {
 }
 
 @media only screen and (max-width: 780px) {
-  .desc {
+  .title {
     flex-direction: column;
-    gap: 0;
-  }
 
-  .left-side {
-    width: unset;
+    &>.names>* {
+      text-align: center;
+    }
   }
 }
