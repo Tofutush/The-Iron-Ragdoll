@@ -17,20 +17,20 @@ eleventyComputed:
 <link rel="stylesheet" href="/css/palette.css"/>
 <link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
+<div class="banner" style="--accent: {{ ch.color }}">
+  {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
+  {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
+  {% image "gallery/" profilePath 'auto' ch.name '' iconPath %}
+  <div class="names">
+    <h1>{{ ch.name }}</h1>
+    {% if ch.namezh %}<h1>{{ ch.namezh }}</h1>{% endif %}
+    {% if ch.desc %}
+      {{ ch.desc | renderMD }}
+    {% endif %}
+  </div>
+</div>
 <div class="desc" style="--accent: {{ ch.color }};">
   <div class="left-side">
-    <div class="title">
-      {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
-      {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
-      {% image "gallery/" profilePath 'auto' ch.name '' iconPath %}
-      <div class="title-info">
-        <h1>{{ ch.name }}</h1>
-        {% if ch.namezh %}<h1>{{ ch.namezh }}</h1>{% endif %}
-        {% if ch.desc %}
-          {{ ch.desc | renderMD }}
-        {% endif %}
-      </div>
-    </div>
     {% if ch.attr %}
       <details>
         <summary><h2>Info</h2></summary>

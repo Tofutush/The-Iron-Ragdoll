@@ -36,17 +36,27 @@ blockquote {
   border-color: var(--accent);
 }
 
-.title {
-  align-items: center;
+.banner {
   display: flex;
-  flex-direction: column;
+  gap: 2em;
+  align-items: center;
 
-  & img {
-    background-color: var(--box);
-    border-radius: 16px;
+  &>img {
     height: 200px;
-    user-select: none;
     width: 200px;
+    background-color: var(--box);
+    border-radius: 1em;
+    user-select: none;
+  }
+
+  &>.names {
+    &>h1:first-child {
+      margin-top: 0;
+    }
+
+    &>p:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 
