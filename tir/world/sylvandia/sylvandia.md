@@ -15,7 +15,18 @@ titlezh: 希尔万迪亚合众国
 
 {% image "gallery/" "sylvandia flag.svg" 1000 "Flag of Sylvandia" 'max' %}
 
-Sil-VAN-dee-a: the blue-and-yellow-colored huge mess. It is nominally independent but still in colonial limbo.
+<div class="attr">
+  <p class="attr-key">Pronunciation</p>
+  <p class="attr-val">Sil-VAN-dee-a</p>
+  <p class="attr-key">Demonym</p>
+  <p class="attr-val">Sylvandian</p>
+  <p class="attr-key">Capital</p>
+  <p class="attr-val"><a href="/world/sylvandia/bonnie/">Bonnie</a></p>
+  <p class="attr-key">Symbol</p>
+  <p class="attr-val">tba</p>
+</div>
+
+The blue-and-yellow-colored huge mess. It is nominally independent but still in colonial limbo.
 
 [[toc]]
 
