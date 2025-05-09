@@ -15,9 +15,18 @@ titlezh: 莫尔兰共和国
 
 {% image "gallery/" "moreland flag.svg" 1000 "Flag of Moreland" 'max' %}
 
-MORE-lend: the green moose people.
+<div class="attr">
+  <p class="attr-key">Pronunciation</p>
+  <p class="attr-val">MORE-lend</p>
+  <p class="attr-key">Demonym</p>
+  <p class="attr-val">Moose (people) / Morelandian (things)</p>
+  <p class="attr-key">Capital</p>
+  <p class="attr-val"><a href="/world/moreland/revolutions-cradle/">Revolution's Cradle</a></p>
+  <p class="attr-key">Symbol</p>
+  <p class="attr-val">The moose</p>
+</div>
 
-Citizens of Moreland are called "Moose" (plural still "Moose"). Things in Moreland are described as "Morelandian."
+The green moose people.
 
 [[toc]]
 

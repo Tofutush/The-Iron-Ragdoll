@@ -15,7 +15,18 @@ titlezh: 亚特莱西亚自由共和国
 
 {% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" 'max' %}
 
-At-LAY-zha: the green money-lovers.
+<div class="attr">
+  <p class="attr-key">Pronunciation</p>
+  <p class="attr-val">At-LAY-zha</p>
+  <p class="attr-key">Demonym</p>
+  <p class="attr-val">Atlasian</p>
+  <p class="attr-key">Capital</p>
+  <p class="attr-val"><a href="/world/atlasia/the-capital/">The Capital</a></p>
+  <p class="attr-key">Symbol</p>
+  <p class="attr-val">Money!!!</p>
+</div>
+
+The green money-lovers.
 
 [[toc]]
 

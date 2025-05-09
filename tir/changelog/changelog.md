@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-09
+
+- Added a quick info section to each country;
+
 ## 2025-05-07
 
 - Edited global permissions to match Artfight's;
