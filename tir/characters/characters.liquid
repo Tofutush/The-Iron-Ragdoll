@@ -18,64 +18,51 @@ eleventyComputed:
 <link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
 <div class="banner" style="--accent: {{ ch.color }}">
-  {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
-  {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
-  {% image "gallery/" profilePath 'auto' ch.name '' iconPath %}
-  <div class="names">
-    <h1>{{ ch.name }}{% if ch.namezh %} / {{ ch.namezh }}{% endif %}</h1>
-    {% if ch.desc %}
-      {{ ch.desc | renderMD }}
-    {% endif %}
-    <div class="tags">
-      {% for t in ch.tags %}
-        <a href="/characters/tag/{{ t | slug }}/">{{ t }}</a>
-      {% endfor %}
+  <div class="title">
+    {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
+    {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
+    {% image "gallery/" profilePath 'auto' ch.name '' iconPath %}
+    <div class="names">
+      <h1>{{ ch.name }}{% if ch.namezh %} / {{ ch.namezh }}{% endif %}</h1>
+      {% if ch.desc %}
+        {{ ch.desc | renderMD }}
+      {% endif %}
     </div>
   </div>
+  <details id="toc-wrap">
+    <summary><h3>Contents</h3></summary>
+    <div id="toc">
+      <ul>
+        {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
+        {% assign filteredStories = collections.stories | filterStory: ch.name %}
+        {% if filteredStories.size > 0 %}<li><a href="#stories">Stories</a></li>{% endif %}
+        {% assign filteredRelations = relationships | filterRelations: ch.name %}
+        {% if filteredRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
+        {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
+        <li><a href="#reference">Reference</a></li>
+        {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
+        {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
+      </ul>
+    </div>
+  </details>
+  {% if ch.attr %}
+    <div class="attr">
+      {% for att in ch.attr %}
+        <p class="attr-key">{{ att[0] }}</p>
+        <p class="attr-val">{{ att[1] }}</p>
+      {% endfor %}
+      {% if ch.tags %}
+        <p class="attr-key">Tags</p>
+        <div class="attr-val tags">
+          {% for tag in ch.tags %}
+            <a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
 </div>
 <div class="desc" style="--accent: {{ ch.color }};">
-  <div class="left-side">
-    {% if ch.attr %}
-      <details>
-        <summary><h2>Info</h2></summary>
-        <div id="attr-info">{% renderFile './tir/characters/characterinfo.md' %}</div>
-      </details>
-      <div class="ch-attr">
-        {% for att in ch.attr %}
-          <div>
-            <div>{{ att[0] }}</div>
-            <div>{% unless att[0] == 'Deceased' %}{{ att[1] }}{% endunless %}</div>
-          </div>
-        {% endfor %}
-      </div>
-    {% endif %}
-    {% if ch.tags %}
-      <details>
-        <summary><h3>Tags</h3></summary>
-        <ul>
-          {% for t in ch.tags %}
-            <li><a href="/characters/tag/{{ t | slug }}/">{% lucide 'tags' %} {{ t }}</a></li>
-          {% endfor %}
-        </ul>
-      </details>
-    {% endif %}
-    <details id="toc-wrap">
-      <summary><h3>Contents</h3></summary>
-      <div id="toc">
-        <ul>
-          {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
-          {% assign filteredStories = collections.stories | filterStory: ch.name %}
-          {% if filteredStories.size > 0 %}<li><a href="#stories">Stories</a></li>{% endif %}
-          {% assign filteredRelations = relationships | filterRelations: ch.name %}
-          {% if filteredRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
-          {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
-          <li><a href="#reference">Reference</a></li>
-          {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
-          {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
-        </ul>
-      </div>
-    </details>
-  </div>
   <div class="right-side">
     {% if ch.quote %}
       <blockquote>{{ ch.quote | renderMD }}</blockquote>
