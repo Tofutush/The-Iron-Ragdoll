@@ -17,6 +17,13 @@ eleventyComputed:
 <link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
 <div style="--accent: {{ ch.color }}">
+  {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
+  {% assign pagedoll = filteredGallery | filterGalleryByKind: "pagedoll" %}
+  {% if pagedoll.size == 1 %}
+    {% assign pagedoll = pagedoll[0] %}
+    {% assign pagedollname = pagedoll.name | append: '.' | append: pagedoll.type %}
+    {% image 'gallery/' pagedollname 500 pagedoll.name 'pagedoll' %}
+  {% endif %}
   <div class="title">
     {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
     {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
@@ -39,7 +46,6 @@ eleventyComputed:
         {% if filteredRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
         {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
         <li><a href="#reference">Reference</a></li>
-        {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
         {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
       </ul>
     </div>
