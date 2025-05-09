@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Family of Secrets
 canon: yes
-order: 209
 chs:
   - harmony
   - frosting

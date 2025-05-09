@@ -15,9 +15,18 @@ titlezh: 紫荆共和国
 
 {% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" 'max' %}
 
-Bau-HEE-nee-a: the pink bureaucratic fanatic[^1].
+<div class="attr">
+  <p class="attr-key">Pronunciation</p>
+  <p class="attr-val">Bau-HEE-nee-a</p>
+  <p class="attr-key">Demonym</p>
+  <p class="attr-val">Bauhunian</p>
+  <p class="attr-key">Capital</p>
+  <p class="attr-val"><a href="/world/bauhinia/flower-city/">Flower City</a></p>
+  <p class="attr-key">Symbol</p>
+  <p class="attr-val">The bauhinia flower</p>
+</div>
 
-The bauhinia flower is the national symbol of Bauhinia[^2].
+The pink bureaucratic fanatic.
 
 [[toc]]
 
@@ -99,6 +108,3 @@ Most of the story takes place during the cold war.
 ## Related files
 
 {{ collections.all | eleventyNavigation: "Bauhinia" | eleventyNavigationToHtml }}
-
-[^1]: The flag is *not* Hong Kong. Hong Kong is *dumb*. Bauhinia is… well, still pretty dumb I admit but nothing is dumber than HK.
-[^2]: In case it's not obvious enough.

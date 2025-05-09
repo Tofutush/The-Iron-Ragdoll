@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Ironheart Assassinated
 canon: yes
-order: 112
 chs:
   - ironheart
   - sparky

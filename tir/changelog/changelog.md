@@ -8,6 +8,23 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-09
+
+- Added a quick info section to each country;
+
+## 2025-05-07
+
+- Edited global permissions to match Artfight's;
+
+## 2025-05-06
+
+- Added [Animal Kingdom](/world/animal-kingdom/);
+
+## 2025-05-05
+
+- Changed the sort order of the stories a bit;
+	- And started to use a json file for sorting too. Let's hope I don't forget to edit this file every time I add a new story;
+
 ## 2025-05-04
 
 - Added `nebula stand.png`;

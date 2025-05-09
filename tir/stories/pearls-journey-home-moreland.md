@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Pearl's Journey Home - Moreland
 canon: yes
-order: 108
 chs:
   - sparky
   - firecrackers

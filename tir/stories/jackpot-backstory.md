@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Jackpot's Backstory
 canon: yes
-order: 308
 chs:
   - jackpot
 time: 

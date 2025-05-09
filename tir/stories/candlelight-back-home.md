@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Candlelight Back Home
 canon: yes
-order: 203
 chs:
   - candlelight
   - mooncake

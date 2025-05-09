@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Spy School
 canon: yes
-order: 207
 chs:
   - harmony
   - frosting

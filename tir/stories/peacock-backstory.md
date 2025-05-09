@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Peacock's Backstory
 canon: yes
-order: 301
 chs:
   - peacock
 time: "?"

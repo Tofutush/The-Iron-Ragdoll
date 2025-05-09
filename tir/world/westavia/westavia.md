@@ -15,7 +15,18 @@ titlezh: 伟思德维亚人民共和国
 
 {% image "gallery/" "westavia flag.svg" 1000 "Flag of Westavia" 'max' %}
 
-Wes-DAY-vee-a: the brown alcoholics.
+<div class="attr">
+  <p class="attr-key">Pronunciation</p>
+  <p class="attr-val">Wes-DAY-vee-a</p>
+  <p class="attr-key">Demonym</p>
+  <p class="attr-val">Westavian</p>
+  <p class="attr-key">Capital</p>
+  <p class="attr-val"><a href="/world/westavia/peoples-vanguard/">People's Vanguard</a></p>
+  <p class="attr-key">Symbol</p>
+  <p class="attr-val">The seven-point star</p>
+</div>
+
+The brown alcoholics.
 
 A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/moreland/), and west of [Atlasia](/world/atlasia/).
 

@@ -2,7 +2,6 @@
 layout: story.liquid
 title: Paperweight's Backstory
 canon: yes
-order: 307
 chs:
   - paperweight
 time: 1978 - 2032
