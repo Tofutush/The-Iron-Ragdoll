@@ -55,20 +55,22 @@ eleventyComputed:
         </ul>
       </details>
     {% endif %}
-    <div class="toc">
-      <h3>Contents</h3>
-      <ul>
-        {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
-        {% assign filteredStories = collections.stories | filterStory: ch.name %}
-        {% if filteredStories.size > 0 %}<li><a href="#stories">Stories</a></li>{% endif %}
-        {% assign filteredRelations = relationships | filterRelations: ch.name %}
-        {% if filteredRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
-        {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
-        <li><a href="#reference">Reference</a></li>
-        {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
-        {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
-      </ul>
-    </div>
+    <details id="toc-wrap">
+      <summary><h3>Contents</h3></summary>
+      <div id="toc">
+        <ul>
+          {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
+          {% assign filteredStories = collections.stories | filterStory: ch.name %}
+          {% if filteredStories.size > 0 %}<li><a href="#stories">Stories</a></li>{% endif %}
+          {% assign filteredRelations = relationships | filterRelations: ch.name %}
+          {% if filteredRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
+          {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
+          <li><a href="#reference">Reference</a></li>
+          {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
+          {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
+        </ul>
+      </div>
+    </details>
   </div>
   <div class="right-side">
     {% if ch.quote %}
