@@ -80,7 +80,7 @@ blockquote {
   }
 }
 
-.toc {
+#toc-wrap {
   position: sticky;
   top: 3em;
 }
