@@ -17,11 +17,6 @@
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/callout.css">
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
   <link rel="icon" href="/The-Iron-Ragdoll/icon.ico">
-  <style>
-    main {
-      max-width: 1200px;
-    }
-  </style>
 </head>
 
 <body class="light">
@@ -45,69 +40,19 @@
     <link rel="stylesheet" href="/The-Iron-Ragdoll/css/palette.css">
     <link rel="stylesheet" href="/The-Iron-Ragdoll/css/gallery.css">
     <link rel="stylesheet" href="/The-Iron-Ragdoll/css/characters.css">
-    <div class="desc" style="--accent: #998cbd;">
-      <div class="left-side">
-        <div class="title">
-          <img alt="Cosmo" title="Cosmo" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/scFrnq_kVy-500.webp" width="500" height="500">
-          <div class="title-info">
-            <h1>Cosmo</h1>
-            <h1>星河</h1>
-            <p>Editor of the press!</p>
-          </div>
+    <div style="--accent: #998cbd">
+      <div class="title">
+        <img alt="Cosmo" title="Cosmo" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/scFrnq_kVy-500.webp" width="500" height="500">
+        <div class="names">
+          <h1>Cosmo / 星河</h1>
+          <p>Editor of the press!</p>
         </div>
-        <details>
-          <summary>
-            <h2>Info</h2>
-          </summary>
-          <div id="attr-info">
-            <p>If a certain field is missing or not specific enough, then it is <em>open to interpretation</em>.</p>
-            <p>For example, if a character's sexuality is not given, then you can let it be anything you want.</p>
-            <p>And if the &quot;gender&quot; field only says &quot;Male&quot; or &quot;Female&quot; without specifying further, it means that the character <em>presents</em> as either male or female.</p>
-            <p>However, please do not stray away from information that <em>is</em> given!</p>
-            <p>The &quot;Age estimation&quot; is for characters without a specific birthday. &quot;Around the same as&quot; means that they're less than a year apart — if they went to school together they would be in the same grade. &quot;A little younger/older&quot; means they're probably 2 - 5 years apart.</p>
-          </div>
-        </details>
-        <div class="ch-attr">
-          <div>
-            <div>Nickname</div>
-            <div>Cos (by Tundra)</div>
-          </div>
-          <div>
-            <div>Gender</div>
-            <div>Female</div>
-          </div>
-          <div>
-            <div>Nationality</div>
-            <div>Bauhinian</div>
-          </div>
-          <div>
-            <div>Weapon</div>
-            <div>Throwing stars</div>
-          </div>
-          <div>
-            <div>Power</div>
-            <div>Mind reading, unregistered</div>
-          </div>
-        </div>
-        <details>
-          <summary>
-            <h3>Tags</h3>
-          </summary>
-          <ul>
-            <li><a href="/The-Iron-Ragdoll/characters/tag/hillslope/"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-tags">
-                  <path d="m15 5 6.3 6.3a2.4 2.4 0 0 1 0 3.4L17 19"></path>
-                  <path d="M9.586 5.586A2 2 0 0 0 8.172 5H3a1 1 0 0 0-1 1v5.172a2 2 0 0 0 .586 1.414L8.29 18.29a2.426 2.426 0 0 0 3.42 0l3.58-3.58a2.426 2.426 0 0 0 0-3.42z"></path>
-                  <circle cx="6.5" cy="9.5" r=".5" fill="currentColor"></circle>
-                </svg> Hillslope</a></li>
-            <li><a href="/The-Iron-Ragdoll/characters/tag/bauhinia/"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-tags">
-                  <path d="m15 5 6.3 6.3a2.4 2.4 0 0 1 0 3.4L17 19"></path>
-                  <path d="M9.586 5.586A2 2 0 0 0 8.172 5H3a1 1 0 0 0-1 1v5.172a2 2 0 0 0 .586 1.414L8.29 18.29a2.426 2.426 0 0 0 3.42 0l3.58-3.58a2.426 2.426 0 0 0 0-3.42z"></path>
-                  <circle cx="6.5" cy="9.5" r=".5" fill="currentColor"></circle>
-                </svg> Bauhinia</a></li>
-          </ul>
-        </details>
-        <div class="toc">
+      </div>
+      <details id="toc-wrap">
+        <summary>
           <h3>Contents</h3>
+        </summary>
+        <div id="toc">
           <ul>
             <li><a href="#about">About</a></li>
             <li><a href="#relationships">Relationships</a></li>
@@ -115,331 +60,346 @@
             <li><a href="#gallery">Gallery</a></li>
           </ul>
         </div>
+      </details>
+      <div class="attr">
+        <p class="attr-key">Nickname</p>
+        <p class="attr-val">Cos (by Tundra)</p>
+        <p class="attr-key">Gender</p>
+        <p class="attr-val">Female</p>
+        <p class="attr-key">Nationality</p>
+        <p class="attr-val">Bauhinian</p>
+        <p class="attr-key">Weapon</p>
+        <p class="attr-val">Throwing stars</p>
+        <p class="attr-key">Power</p>
+        <p class="attr-val">Mind reading, unregistered</p>
+        <p class="attr-key">Tags</p>
+        <div class="attr-val tags">
+          <a href="/The-Iron-Ragdoll/characters/tag/hillslope/">Hillslope</a>
+          <a href="/The-Iron-Ragdoll/characters/tag/bauhinia/">Bauhinia</a>
+        </div>
       </div>
-      <div class="right-side">
-        <blockquote>
-          <p>If everyone believes it, then it is the truth.</p>
-        </blockquote>
-        <h2 id="about">About</h2>
-        <p>Cosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.</p>
-        <p>When she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)</p>
-        <h2 id="relationships">Relationships</h2>
-        <h3><a class="rel-h3" href="../tomato/">Tomato</a> (enemy)</h3>
-        <p>Cosmo and Tomato hate each other for some reason. Mainly, Cosmo is always trying to get Tomato to run errands for her and Tomato's getting fed up.</p>
-        <h2 id="reference">Reference</h2>
-        <div class="palette">
-          <div style="background-color:#998cbd; color: #121212">
-            <div>
-              <span>#998CBD</span>
-              <span>soul</span>
-            </div>
-          </div>
-          <div style="background-color:#fe0; color: #121212">
-            <div>
-              <span>#FFEE00</span>
-              <span>middle eye</span>
-            </div>
-          </div>
-          <div style="background-color:#DCBBF0; color: #121212">
-            <div>
-              <span>#DCBBF0</span>
-              <span>left eye</span>
-            </div>
-          </div>
-          <div style="background-color:#A5D6F7; color: #121212">
-            <div>
-              <span>#A5D6F7</span>
-              <span>right eye</span>
-            </div>
-          </div>
-          <div style="background-color:#B2B8E3; color: #121212">
-            <div>
-              <span>#B2B8E3</span>
-              <span>shirt</span>
-            </div>
-          </div>
-          <div style="background-color:#2e2e2e; color: #fff9f2">
-            <div>
-              <span>#2E2E2E</span>
-              <span>hair</span>
-            </div>
-          </div>
-        </div>
-        <h2 id="gallery">Gallery</h2>
-        <div class="gallery">
-          <div class="img">
-            <img alt="cosmo pop" title="cosmo pop" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/-644k_Ismu-120.webp" width="120" height="50">
-            <div class="modal">
-              <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-                  <path d="M18 6 6 18"></path>
-                  <path d="m6 6 12 12"></path>
-                </svg></div>
-              <img alt="cosmo pop" title="cosmo pop" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/-644k_Ismu-376.webp" width="376" height="158">
-              <div class="buttons">
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
-                    <path d="m15 18-6-6 6-6"></path>
-                  </svg></a>
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
-                    <path d="m9 18 6-6-6-6"></path>
-                  </svg></a>
-              </div>
-              <div class="tags chbuttons">
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
-              </div>
-              <div class="comment">
-                <p class="name-date"><span>cosmo pop</span><span>2025-02-22</span></p>
-              </div>
-            </div>
-          </div>
-          <div class="img">
-            <img alt="cosmo aaa" title="cosmo aaa" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/KCRKSwNBb_-120.webp" width="120" height="120">
-            <div class="icons">
-              <div title="has comment"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle">
-                  <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"></path>
-                </svg></div>
-              <div title="is gif"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-image-play">
-                  <path d="m11 16-5 5"></path>
-                  <path d="M11 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6.5"></path>
-                  <path d="M15.765 22a.5.5 0 0 1-.765-.424V13.38a.5.5 0 0 1 .765-.424l5.878 3.674a1 1 0 0 1 0 1.696z"></path>
-                  <circle cx="9" cy="9" r="2"></circle>
-                </svg></div>
-            </div>
-            <div class="modal">
-              <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-                  <path d="M18 6 6 18"></path>
-                  <path d="m6 6 12 12"></path>
-                </svg></div>
-              <img src="/The-Iron-Ragdoll/img/gallery/cosmo aaa.gif" alt="cosmo aaa">
-              <div class="buttons">
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
-                    <path d="m15 18-6-6 6-6"></path>
-                  </svg></a>
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
-                    <path d="m9 18 6-6-6-6"></path>
-                  </svg></a>
-              </div>
-              <div class="tags chbuttons">
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
-              </div>
-              <div class="comment">
-                <p class="name-date"><span>cosmo aaa</span><span>2025-02-16</span></p>
-                <p>I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in.</p>
-              </div>
-            </div>
-          </div>
-          <div class="img">
-            <img alt="cosmo profile" title="cosmo profile" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/scFrnq_kVy-120.webp" width="120" height="120">
-            <div class="modal">
-              <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-                  <path d="M18 6 6 18"></path>
-                  <path d="m6 6 12 12"></path>
-                </svg></div>
-              <img alt="cosmo profile" title="cosmo profile" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/scFrnq_kVy-500.webp" width="500" height="500">
-              <div class="buttons">
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
-                    <path d="m15 18-6-6 6-6"></path>
-                  </svg></a>
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
-                    <path d="m9 18 6-6-6-6"></path>
-                  </svg></a>
-              </div>
-              <div class="tags chbuttons">
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
-              </div>
-              <div class="comment">
-                <p class="name-date"><span>cosmo profile</span><span>2025-02-14</span></p>
-              </div>
-            </div>
-          </div>
-          <div class="img">
-            <img alt="cosmo snake year" title="cosmo snake year" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/MCr3Ba4ffs-120.webp" width="120" height="120">
-            <div class="modal">
-              <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-                  <path d="M18 6 6 18"></path>
-                  <path d="m6 6 12 12"></path>
-                </svg></div>
-              <img alt="cosmo snake year" title="cosmo snake year" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/MCr3Ba4ffs-1000.webp" width="1000" height="1000">
-              <div class="buttons">
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
-                    <path d="m15 18-6-6 6-6"></path>
-                  </svg></a>
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
-                    <path d="m9 18 6-6-6-6"></path>
-                  </svg></a>
-              </div>
-              <div class="tags chbuttons">
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
-              </div>
-              <div class="comment">
-                <p class="name-date"><span>cosmo snake year</span><span>2025-01-06</span></p>
-              </div>
-            </div>
-          </div>
-          <div class="img">
-            <img alt="cosmo turn" title="cosmo turn" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/A0C-xw5PmH-120.webp" width="120" height="46">
-            <div class="modal">
-              <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-                  <path d="M18 6 6 18"></path>
-                  <path d="m6 6 12 12"></path>
-                </svg></div>
-              <img alt="cosmo turn" title="cosmo turn" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/A0C-xw5PmH-1000.webp" width="1000" height="384">
-              <div class="buttons">
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
-                    <path d="m15 18-6-6 6-6"></path>
-                  </svg></a>
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
-                    <path d="m9 18 6-6-6-6"></path>
-                  </svg></a>
-              </div>
-              <div class="tags chbuttons">
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
-              </div>
-              <div class="comment">
-                <p class="name-date"><span>cosmo turn</span><span>2024-07-20</span></p>
-              </div>
-            </div>
-          </div>
-          <div class="img">
-            <img alt="cosmo thumb" title="cosmo thumb" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/aiSSMMZRWw-120.webp" width="120" height="120">
-            <div class="modal">
-              <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-                  <path d="M18 6 6 18"></path>
-                  <path d="m6 6 12 12"></path>
-                </svg></div>
-              <img alt="cosmo thumb" title="cosmo thumb" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/aiSSMMZRWw-500.webp" width="500" height="500">
-              <div class="buttons">
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
-                    <path d="m15 18-6-6 6-6"></path>
-                  </svg></a>
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
-                    <path d="m9 18 6-6-6-6"></path>
-                  </svg></a>
-              </div>
-              <div class="tags chbuttons">
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
-              </div>
-              <div class="comment">
-                <p class="name-date"><span>cosmo thumb</span><span>2024-05-13</span></p>
-              </div>
-            </div>
-          </div>
-          <div class="img">
-            <img alt="cosmo alaska subway" title="cosmo alaska subway" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/RzFIC3vvwD-120.webp" width="120" height="84">
-            <div class="icons">
-              <div title="has comment"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle">
-                  <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"></path>
-                </svg></div>
-            </div>
-            <div class="modal">
-              <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-                  <path d="M18 6 6 18"></path>
-                  <path d="m6 6 12 12"></path>
-                </svg></div>
-              <img alt="cosmo alaska subway" title="cosmo alaska subway" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/RzFIC3vvwD-1000.webp" width="1000" height="706">
-              <div class="buttons">
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
-                    <path d="m15 18-6-6 6-6"></path>
-                  </svg></a>
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
-                    <path d="m9 18 6-6-6-6"></path>
-                  </svg></a>
-              </div>
-              <div class="tags chbuttons">
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
-                <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/alaska/">Alaska</a>
-              </div>
-              <div class="comment">
-                <p class="name-date"><span>cosmo alaska subway</span><span>2024-09-22</span></p>
-                <p>I don't draw these that often, so here it is: Cosmo and Alaska on a late-night subway.</p>
-                <p>Can't be sure if this is canon though. I mean, right now in <a href="/The-Iron-Ragdoll/world/bauhinia/coastline/hillslope/">Hillslope</a> there aren't any <em>subways</em> of course, and I haven't really thought about what they're going to do after leaving Hillslope.</p>
-              </div>
-            </div>
-          </div>
-          <div class="img">
-            <img alt="silhouettes" title="silhouettes" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/gh9Sf-NFIZ-120.webp" width="120" height="35">
-            <div class="modal">
-              <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
-                  <path d="M18 6 6 18"></path>
-                  <path d="m6 6 12 12"></path>
-                </svg></div>
-              <img alt="silhouettes" title="silhouettes" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/gh9Sf-NFIZ-1000.webp" width="1000" height="294">
-              <div class="buttons">
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
-                    <path d="m15 18-6-6 6-6"></path>
-                  </svg></a>
-                <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
-                    <path d="m9 18 6-6-6-6"></path>
-                  </svg></a>
-              </div>
-              <div class="tags chbuttons">
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/sparky/">Sparky</a>
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/ribbon/">Ribbon</a>
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/starry/">Starry</a>
-                <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/tomato/">Tomato</a>
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/guillotine/">Guillotine</a>
-                <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/alaska/">Alaska</a>
-                <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
-                <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/tephra/">Tephra</a>
-                <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/jerboa/">Jerboa</a>
-                <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/tundra/">Tundra</a>
-                <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/melody/">Melody</a>
-                <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/dragonfly/">Dragonfly</a>
-              </div>
-              <div class="comment">
-                <p class="name-date"><span>silhouettes</span><span>2024-09-30</span></p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <details>
-          <summary>
-            <h2 id="perms">Drawing Permissions</h2>
-          </summary>
+      <blockquote>
+        <p>If everyone believes it, then it is the truth.</p>
+      </blockquote>
+      <h2 id="about">About</h2>
+      <p>Cosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.</p>
+      <p>When she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)</p>
+      <h2 id="relationships">Relationships</h2>
+      <h3><a class="rel-h3" href="../tomato/">Tomato</a> (enemy)</h3>
+      <p>Cosmo and Tomato hate each other for some reason. Mainly, Cosmo is always trying to get Tomato to run errands for her and Tomato's getting fed up.</p>
+      <h2 id="reference">Reference</h2>
+      <div class="palette">
+        <div style="background-color:#998cbd; color: #121212">
           <div>
-            <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
-            <h3>Character Permissions</h3>
-            <ul>
-              <li>Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.</li>
-              <li>Sleeves are wider than a normal sleeve.</li>
-              <li>Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).</li>
-              <li>Shoes and hairband match color.</li>
-              <li>The yellow eye (yellow with black pupil) is always open, unless she's lying.</li>
-            </ul>
-            <h3>Global Permissions</h3>
-            <ul>
-              <li><strong>Design clarifications</strong>
-                <ul>
-                  <li>The marks on the girls' faces are eyelashes, not face paint! You can draw whatever you want; I'm just making sure you don't think it's face paint.</li>
-                  <li>None of my characters have real-world skin colors! Their races are just whether they have ears or horns on their heads, so everyone's skin color is the same. <ul>
-                      <li>You can draw whatever color you want as long as it's either normal human color, or grayscale. My default is Asian though for your reference.</li>
-                    </ul>
-                  </li>
-                  <li>The highlights on their hair are parts of the design, and are <em>optional</em>.</li>
-                  <li>Their ears are <em>furry</em> but not <em>fluffy</em>. Shorthair, if you may.</li>
-                </ul>
-              </li>
-              <li><strong>Don't</strong>
-                <ul>
-                  <li>NSFW, 18+, whatever <ul>
-                      <li>This involves artistic nudity</li>
-                      <li>Or anything that sexualizes them</li>
-                    </ul>
-                  </li>
-                  <li>Change their eye color <em>too</em> much</li>
-                  <li>Non-canon ships</li>
-                  <li>Hateful stuff, duh</li>
-                </ul>
-              </li>
-              <li><strong>Go wild</strong>
-                <ul>
-                  <li>Everything else should be fine, such as gore, interaction with anyone, outfit / in-universe race / gender / species swap, mass attacks, etc</li>
-                  <li>If you're not sure, feel free to ask!</li>
-                </ul>
-              </li>
-            </ul>
+            <span>#998CBD</span>
+            <span>soul</span>
           </div>
-        </details>
+        </div>
+        <div style="background-color:#fe0; color: #121212">
+          <div>
+            <span>#FFEE00</span>
+            <span>middle eye</span>
+          </div>
+        </div>
+        <div style="background-color:#DCBBF0; color: #121212">
+          <div>
+            <span>#DCBBF0</span>
+            <span>left eye</span>
+          </div>
+        </div>
+        <div style="background-color:#A5D6F7; color: #121212">
+          <div>
+            <span>#A5D6F7</span>
+            <span>right eye</span>
+          </div>
+        </div>
+        <div style="background-color:#B2B8E3; color: #121212">
+          <div>
+            <span>#B2B8E3</span>
+            <span>shirt</span>
+          </div>
+        </div>
+        <div style="background-color:#2e2e2e; color: #fff9f2">
+          <div>
+            <span>#2E2E2E</span>
+            <span>hair</span>
+          </div>
+        </div>
       </div>
+      <h2 id="gallery">Gallery</h2>
+      <div class="gallery">
+        <div class="img">
+          <img alt="cosmo pop" title="cosmo pop" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/-644k_Ismu-120.webp" width="120" height="50">
+          <div class="modal">
+            <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
+                <path d="M18 6 6 18"></path>
+                <path d="m6 6 12 12"></path>
+              </svg></div>
+            <img alt="cosmo pop" title="cosmo pop" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/-644k_Ismu-376.webp" width="376" height="158">
+            <div class="buttons">
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg></a>
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg></a>
+            </div>
+            <div class="tags chbuttons">
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
+            </div>
+            <div class="comment">
+              <p class="name-date"><span>cosmo pop</span><span>2025-02-22</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="img">
+          <img alt="cosmo aaa" title="cosmo aaa" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/KCRKSwNBb_-120.webp" width="120" height="120">
+          <div class="icons">
+            <div title="has comment"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle">
+                <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"></path>
+              </svg></div>
+            <div title="is gif"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-image-play">
+                <path d="m11 16-5 5"></path>
+                <path d="M11 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6.5"></path>
+                <path d="M15.765 22a.5.5 0 0 1-.765-.424V13.38a.5.5 0 0 1 .765-.424l5.878 3.674a1 1 0 0 1 0 1.696z"></path>
+                <circle cx="9" cy="9" r="2"></circle>
+              </svg></div>
+          </div>
+          <div class="modal">
+            <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
+                <path d="M18 6 6 18"></path>
+                <path d="m6 6 12 12"></path>
+              </svg></div>
+            <img src="/The-Iron-Ragdoll/img/gallery/cosmo aaa.gif" alt="cosmo aaa">
+            <div class="buttons">
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg></a>
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg></a>
+            </div>
+            <div class="tags chbuttons">
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
+            </div>
+            <div class="comment">
+              <p class="name-date"><span>cosmo aaa</span><span>2025-02-16</span></p>
+              <p>I actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in.</p>
+            </div>
+          </div>
+        </div>
+        <div class="img">
+          <img alt="cosmo profile" title="cosmo profile" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/scFrnq_kVy-120.webp" width="120" height="120">
+          <div class="modal">
+            <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
+                <path d="M18 6 6 18"></path>
+                <path d="m6 6 12 12"></path>
+              </svg></div>
+            <img alt="cosmo profile" title="cosmo profile" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/scFrnq_kVy-500.webp" width="500" height="500">
+            <div class="buttons">
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg></a>
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg></a>
+            </div>
+            <div class="tags chbuttons">
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
+            </div>
+            <div class="comment">
+              <p class="name-date"><span>cosmo profile</span><span>2025-02-14</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="img">
+          <img alt="cosmo snake year" title="cosmo snake year" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/MCr3Ba4ffs-120.webp" width="120" height="120">
+          <div class="modal">
+            <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
+                <path d="M18 6 6 18"></path>
+                <path d="m6 6 12 12"></path>
+              </svg></div>
+            <img alt="cosmo snake year" title="cosmo snake year" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/MCr3Ba4ffs-1000.webp" width="1000" height="1000">
+            <div class="buttons">
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg></a>
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg></a>
+            </div>
+            <div class="tags chbuttons">
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
+            </div>
+            <div class="comment">
+              <p class="name-date"><span>cosmo snake year</span><span>2025-01-06</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="img">
+          <img alt="cosmo turn" title="cosmo turn" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/A0C-xw5PmH-120.webp" width="120" height="46">
+          <div class="modal">
+            <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
+                <path d="M18 6 6 18"></path>
+                <path d="m6 6 12 12"></path>
+              </svg></div>
+            <img alt="cosmo turn" title="cosmo turn" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/A0C-xw5PmH-1000.webp" width="1000" height="384">
+            <div class="buttons">
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg></a>
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg></a>
+            </div>
+            <div class="tags chbuttons">
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
+            </div>
+            <div class="comment">
+              <p class="name-date"><span>cosmo turn</span><span>2024-07-20</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="img">
+          <img alt="cosmo thumb" title="cosmo thumb" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/aiSSMMZRWw-120.webp" width="120" height="120">
+          <div class="modal">
+            <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
+                <path d="M18 6 6 18"></path>
+                <path d="m6 6 12 12"></path>
+              </svg></div>
+            <img alt="cosmo thumb" title="cosmo thumb" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/aiSSMMZRWw-500.webp" width="500" height="500">
+            <div class="buttons">
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg></a>
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg></a>
+            </div>
+            <div class="tags chbuttons">
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
+            </div>
+            <div class="comment">
+              <p class="name-date"><span>cosmo thumb</span><span>2024-05-13</span></p>
+            </div>
+          </div>
+        </div>
+        <div class="img">
+          <img alt="cosmo alaska subway" title="cosmo alaska subway" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/RzFIC3vvwD-120.webp" width="120" height="84">
+          <div class="icons">
+            <div title="has comment"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle">
+                <path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"></path>
+              </svg></div>
+          </div>
+          <div class="modal">
+            <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
+                <path d="M18 6 6 18"></path>
+                <path d="m6 6 12 12"></path>
+              </svg></div>
+            <img alt="cosmo alaska subway" title="cosmo alaska subway" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/RzFIC3vvwD-1000.webp" width="1000" height="706">
+            <div class="buttons">
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg></a>
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg></a>
+            </div>
+            <div class="tags chbuttons">
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
+              <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/alaska/">Alaska</a>
+            </div>
+            <div class="comment">
+              <p class="name-date"><span>cosmo alaska subway</span><span>2024-09-22</span></p>
+              <p>I don't draw these that often, so here it is: Cosmo and Alaska on a late-night subway.</p>
+              <p>Can't be sure if this is canon though. I mean, right now in <a href="/The-Iron-Ragdoll/world/bauhinia/coastline/hillslope/">Hillslope</a> there aren't any <em>subways</em> of course, and I haven't really thought about what they're going to do after leaving Hillslope.</p>
+            </div>
+          </div>
+        </div>
+        <div class="img">
+          <img alt="silhouettes" title="silhouettes" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/gh9Sf-NFIZ-120.webp" width="120" height="35">
+          <div class="modal">
+            <div class="close"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x">
+                <path d="M18 6 6 18"></path>
+                <path d="m6 6 12 12"></path>
+              </svg></div>
+            <img alt="silhouettes" title="silhouettes" loading="lazy" decoding="async" src="/The-Iron-Ragdoll/img/gallery/gh9Sf-NFIZ-1000.webp" width="1000" height="294">
+            <div class="buttons">
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg></a>
+              <a><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--bg-light)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg></a>
+            </div>
+            <div class="tags chbuttons">
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/sparky/">Sparky</a>
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/ribbon/">Ribbon</a>
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/starry/">Starry</a>
+              <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/tomato/">Tomato</a>
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/guillotine/">Guillotine</a>
+              <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/alaska/">Alaska</a>
+              <a class="character-button" style="color: #121212" href="/The-Iron-Ragdoll/characters/cosmo/">Cosmo</a>
+              <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/tephra/">Tephra</a>
+              <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/jerboa/">Jerboa</a>
+              <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/tundra/">Tundra</a>
+              <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/melody/">Melody</a>
+              <a class="character-button" style="color: #fff9f2" href="/The-Iron-Ragdoll/characters/dragonfly/">Dragonfly</a>
+            </div>
+            <div class="comment">
+              <p class="name-date"><span>silhouettes</span><span>2024-09-30</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <details>
+        <summary>
+          <h2 id="perms">Drawing Permissions</h2>
+        </summary>
+        <div>
+          <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
+          <h3>Character Permissions</h3>
+          <ul>
+            <li>Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.</li>
+            <li>Sleeves are wider than a normal sleeve.</li>
+            <li>Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).</li>
+            <li>Shoes and hairband match color.</li>
+            <li>The yellow eye (yellow with black pupil) is always open, unless she's lying.</li>
+          </ul>
+          <h3>Global Permissions</h3>
+          <ul>
+            <li><strong>Design clarifications</strong>
+              <ul>
+                <li>The marks on the girls' faces are eyelashes, not face paint! You can draw whatever you want; I'm just making sure you don't think it's face paint.</li>
+                <li>None of my characters have real-world skin colors! Their races are just whether they have ears or horns on their heads, so everyone's skin color is the same. <ul>
+                    <li>You can draw whatever color you want as long as it's either normal human color, or grayscale. My default is Asian though for your reference.</li>
+                  </ul>
+                </li>
+                <li>The highlights on their hair are parts of the design, and are <em>optional</em>.</li>
+                <li>Their ears are <em>furry</em> but not <em>fluffy</em>. Shorthair, if you may.</li>
+              </ul>
+            </li>
+            <li><strong>Don't</strong>
+              <ul>
+                <li>NSFW, 18+, whatever <ul>
+                    <li>This involves artistic nudity</li>
+                    <li>Or anything that sexualizes them</li>
+                  </ul>
+                </li>
+                <li>Change their eye color <em>too</em> much</li>
+                <li>Non-canon ships</li>
+                <li>Hateful stuff, duh</li>
+              </ul>
+            </li>
+            <li><strong>Go wild</strong>
+              <ul>
+                <li>Everything else should be fine, such as gore, interaction with anyone, outfit / in-universe race / gender / species swap, mass attacks, etc</li>
+                <li>If you're not sure, feel free to ask!</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </details>
     </div>
     <hr>
     <div class="prev-next">
