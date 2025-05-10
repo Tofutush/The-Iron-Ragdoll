@@ -1227,7 +1227,8 @@
     "ch": [
       "beauty"
     ],
-    "date": "2024-11-18"
+    "date": "2024-11-18",
+    "kind": "pagedoll"
   },
   {
     "name": "chastity stand",
@@ -1235,7 +1236,8 @@
     "ch": [
       "chastity"
     ],
-    "date": "2024-11-19"
+    "date": "2024-11-19",
+    "kind": "pagedoll"
   },
   {
     "name": "devotion stand",
@@ -1243,7 +1245,8 @@
     "ch": [
       "devotion"
     ],
-    "date": "2024-11-19"
+    "date": "2024-11-19",
+    "kind": "pagedoll"
   },
   {
     "name": "elegance stand",
@@ -1251,7 +1254,8 @@
     "ch": [
       "elegance"
     ],
-    "date": "2024-11-19"
+    "date": "2024-11-19",
+    "kind": "pagedoll"
   },
   {
     "name": "dijkolo",
@@ -2790,7 +2794,8 @@
     "ch": [
       "whiteout"
     ],
-    "date": "2025-03-20"
+    "date": "2025-03-20",
+    "kind": "pagedoll"
   },
   {
     "name": "sue",
