@@ -1,6 +1,5 @@
 ---
 layout: layout.liquid
-widepage: true
 pagination:
   data: characters
   size: 1
@@ -17,46 +16,28 @@ eleventyComputed:
 <link rel="stylesheet" href="/css/palette.css"/>
 <link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
-<div class="desc" style="--accent: {{ ch.color }};">
-  <div class="left-side">
-    <div class="title">
-      {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
-      {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
-      {% image "gallery/" profilePath 'auto' ch.name '' iconPath %}
-      <div class="title-info">
-        <h1>{{ ch.name }}</h1>
-        {% if ch.namezh %}<h1>{{ ch.namezh }}</h1>{% endif %}
-        {% if ch.desc %}
-          {{ ch.desc | renderMD }}
-        {% endif %}
-      </div>
+<div style="--accent: {{ ch.color }}">
+  {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
+  {% assign pagedoll = filteredGallery | filterGalleryByKind: "pagedoll" %}
+  {% if pagedoll.size == 1 %}
+    {% assign pagedoll = pagedoll[0] %}
+    {% assign pagedollname = pagedoll.name | append: '.' | append: pagedoll.type %}
+    {% image 'gallery/' pagedollname 500 pagedoll.name 'pagedoll' %}
+  {% endif %}
+  <div class="title">
+    {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
+    {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
+    {% image "gallery/" profilePath 'auto' ch.name '' iconPath %}
+    <div class="names">
+      <h1>{{ ch.name }}{% if ch.namezh %} / {{ ch.namezh }}{% endif %}</h1>
+      {% if ch.desc %}
+        {{ ch.desc | renderMD }}
+      {% endif %}
     </div>
-    {% if ch.attr %}
-      <details>
-        <summary><h2>Info</h2></summary>
-        <div id="attr-info">{% renderFile './tir/characters/characterinfo.md' %}</div>
-      </details>
-      <div class="ch-attr">
-        {% for att in ch.attr %}
-          <div>
-            <div>{{ att[0] }}</div>
-            <div>{% unless att[0] == 'Deceased' %}{{ att[1] }}{% endunless %}</div>
-          </div>
-        {% endfor %}
-      </div>
-    {% endif %}
-    {% if ch.tags %}
-      <details>
-        <summary><h3>Tags</h3></summary>
-        <ul>
-          {% for t in ch.tags %}
-            <li><a href="/characters/tag/{{ t | slug }}/">{% lucide 'tags' %} {{ t }}</a></li>
-          {% endfor %}
-        </ul>
-      </details>
-    {% endif %}
-    <div class="toc">
-      <h3>Contents</h3>
+  </div>
+  <details id="toc-wrap">
+    <summary><h3>Contents</h3></summary>
+    <div id="toc">
       <ul>
         {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
         {% assign filteredStories = collections.stories | filterStory: ch.name %}
@@ -65,81 +46,94 @@ eleventyComputed:
         {% if filteredRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
         {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
         <li><a href="#reference">Reference</a></li>
-        {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
         {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
       </ul>
     </div>
-  </div>
-  <div class="right-side">
-    {% if ch.quote %}
-      <blockquote>{{ ch.quote | renderMD }}</blockquote>
-    {% endif %}
-    {% if ch.about %}
-      <h2 id="about">About</h2>
-      {% if ch.about == 'file' %}
-        {% assign filePath = './tir/characters/files/' | append: ch.name | lowerCase | append: " about.md" %}
-        {% renderFile filePath, , 'liquid,md' %}
-      {% else %}
-        {{ ch.about | renderMD }}
-      {% endif %}
-    {% endif %}
-    {% if filteredStories.size > 0 %}
-        <h2 id="stories">Stories</h2>
-        {% include 'storylist', stories: filteredStories %}
-    {% endif %}
-    {% if filteredRelations.size > 0 %}
-      <h2 id="relationships">Relationships</h2>
-      {% for rel in filteredRelations %}
-        {% assign otherCh = rel | getOtherCh: ch.name %}
-        <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
-        {% if rel.img %}
-          {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
-          {% assign mod = forloop.index |  modulo: 2 %}
-          {% if mod == 0 %}
-            {% assign class = 'float-left' | append: ' rel-img' %}
-          {% else %}
-            {% assign class='float-right' | append: ' rel-img' %}
-          {% endif %}
-          {% image "gallery/" rel.img 500 alt class %}
-        {% endif %}
-        {{ rel.desc | renderMD }}
+  </details>
+  {% if ch.attr %}
+    <div class="attr">
+      {% for att in ch.attr %}
+        <p class="attr-key">{{ att[0] }}</p>
+        <p class="attr-val">{{ att[1] }}</p>
       {% endfor %}
+      {% if ch.tags %}
+        <p class="attr-key">Tags</p>
+        <div class="attr-val tags">
+          {% for tag in ch.tags %}
+            <a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+  {% if ch.quote %}
+    <blockquote>{{ ch.quote | renderMD }}</blockquote>
+  {% endif %}
+  {% if ch.about %}
+    <h2 id="about">About</h2>
+    {% if ch.about == 'file' %}
+      {% assign filePath = './tir/characters/files/' | append: ch.name | lowerCase | append: " about.md" %}
+      {% renderFile filePath, , 'liquid,md' %}
+    {% else %}
+      {{ ch.about | renderMD }}
     {% endif %}
-    {% if ch.trivia %}
-      <h2 id="trivia">Trivia</h2>
-      <ul>
-        {% for tri in ch.trivia %}
-          <li>{{ tri }}</li>
-        {% endfor %}
-      </ul>
-    {% endif %}
-    <h2 id="reference">Reference</h2>
-    {% assign palette = ch | getFullPalette %}
-    {% include 'palette' colors: palette %}
-    {% assign ref = filteredGallery | filterGalleryByKind: "ref" %}
-    {% if ref.size == 1 %}
-      {% assign refName = ch.name | append: ' ref.png' %}
-      {% assign refAlt = ch.name | lowerCase | append: " reference sheet" %}
-      <a href="{% imageUrl 'gallery/' refName 9999 '' 'png' %}">{% figure 'gallery/' refName 500 refAlt 'Click for full size!' 'max' %}</a>
-    {% endif %}
-    {% if filteredGallery.size > 0 %}
-      <h2 id="gallery">Gallery</h2>
-      <p class="smaller-text">Some art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please <a href="/contact/">tell me</a>!</p>
-      {% include 'gallery' imgs: filteredGallery %}
-    {% endif %}
-    <details>
-      <summary><h2 id="perms">Drawing Permissions</h2></summary>
-      <div>
-        <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
-        {% if ch.note %}
-          <h3>Character Permissions</h3>
-          {{ ch.note | renderMD }}
-          <h3>Global Permissions</h3>
+  {% endif %}
+  {% if filteredStories.size > 0 %}
+      <h2 id="stories">Stories</h2>
+      {% include 'storylist', stories: filteredStories %}
+  {% endif %}
+  {% if filteredRelations.size > 0 %}
+    <h2 id="relationships">Relationships</h2>
+    {% for rel in filteredRelations %}
+      {% assign otherCh = rel | getOtherCh: ch.name %}
+      <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
+      {% if rel.img %}
+        {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
+        {% assign mod = forloop.index |  modulo: 2 %}
+        {% if mod == 0 %}
+          {% assign class = 'float-left' | append: ' rel-img' %}
+        {% else %}
+          {% assign class='float-right' | append: ' rel-img' %}
         {% endif %}
-        {% renderFile './tir/characters/files/globalperms.md' %}
-      </div>
-    </details>
-  </div>
+        {% image "gallery/" rel.img 500 alt class %}
+      {% endif %}
+      {{ rel.desc | renderMD }}
+    {% endfor %}
+  {% endif %}
+  {% if ch.trivia %}
+    <h2 id="trivia">Trivia</h2>
+    <ul>
+      {% for tri in ch.trivia %}
+        <li>{{ tri }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  <h2 id="reference">Reference</h2>
+  {% assign palette = ch | getFullPalette %}
+  {% include 'palette' colors: palette %}
+  {% assign ref = filteredGallery | filterGalleryByKind: "ref" %}
+  {% if ref.size == 1 %}
+    {% assign refName = ch.name | append: ' ref.png' | lowerCase %}
+    {% assign refAlt = ch.name | lowerCase | append: " reference sheet" %}
+    <a href="{% imageUrl 'gallery/' refName 9999 '' 'png' %}">{% figure 'gallery/' refName 500 refAlt 'Click for full size!' 'max' %}</a>
+  {% endif %}
+  {% if filteredGallery.size > 0 %}
+    <h2 id="gallery">Gallery</h2>
+    <p class="smaller-text">Some art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please <a href="/contact/">tell me</a>!</p>
+    {% include 'gallery' imgs: filteredGallery %}
+  {% endif %}
+  <details>
+    <summary><h2 id="perms">Drawing Permissions</h2></summary>
+    <div>
+      <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
+      {% if ch.note %}
+        <h3>Character Permissions</h3>
+        {{ ch.note | renderMD }}
+        <h3>Global Permissions</h3>
+      {% endif %}
+      {% renderFile './tir/characters/files/globalperms.md' %}
+    </div>
+  </details>
 </div>
 {% assign prev = pagination.previous %}
 {% assign next = pagination.next %}
