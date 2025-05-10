@@ -407,7 +407,10 @@
       "blue": "#B7EFFF",
       "purple": "#D9D1FF"
     },
-    "about": "Nebula is the Arch-Magician crowned by the [ISA](/world/isa/), and the teacher of the [Magic Academy](/world/bauhinia/coastline/magic-academy/) appointed by the Bauhinian government.\n\nHer wand of choice is a teaching stick named the Physical Sword."
+    "about": "Nebula is the Arch-Magician crowned by the [ISA](/world/westavia/isa/), and the teacher of the [Magic Academy](/world/bauhinia/coastline/magic-academy/) appointed by the Bauhinian government.\n\nHer wand of choice is a teaching stick named the Physical Sword.",
+    "trivia": [
+      "She has myopia, but uses magic to see clearly."
+    ]
   },
   {
     "name": "Fantasy",
