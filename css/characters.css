@@ -1,35 +1,9 @@
-.desc {
-  display: flex;
-  gap: 2em;
-  position: relative;
-
-  &>* {
-    margin: 1.5rem 0;
-  }
-}
-
 h1,
 h2,
 main h2::before,
-main h3::before {
+main h3::before,
+.attr-key {
   color: var(--accent);
-}
-
-.left-side {
-  flex-shrink: 0;
-  width: 360px;
-}
-
-#attr-info p {
-  text-align: left;
-}
-
-.right-side {
-  flex-grow: 1;
-
-  & h3 {
-    margin-left: 1em;
-  }
 }
 
 blockquote {
@@ -37,84 +11,30 @@ blockquote {
 }
 
 .title {
-  align-items: center;
   display: flex;
-  flex-direction: column;
+  gap: 2em;
+  align-items: center;
+  margin: 2em 0;
 
-  & img {
+  &>img {
+    height: 240px;
+    width: 240px;
     background-color: var(--box);
-    border-radius: 16px;
-    height: 200px;
+    border-radius: 1em;
     user-select: none;
-    width: 200px;
-  }
-}
-
-.title-info {
-  text-align: center;
-
-  & p {
-    text-align: center;
   }
 
-  & h1 {
-    font-size: var(--font-size-h1);
-    letter-spacing: 4px;
-    text-transform: uppercase;
-  }
-
-  &>* {
-    margin: 1rem 0;
-    text-indent: 0;
-  }
-}
-
-#info {
-  align-items: center;
-  display: flex;
-  gap: .5rem;
-
-  & .tooltip {
-    display: inline-flex;
-    height: 28px;
-  }
-}
-
-.toc {
-  position: sticky;
-  top: 3em;
-}
-
-.quote {
-  font-style: italic;
-  margin: 1em;
-}
-
-.ch-attr {
-  border: 4px solid var(--box);
-  border-width: 8px 0;
-  color: var(--text);
-  font-size: var(--font-size);
-  line-height: 2;
-  margin: 1rem 0;
-  padding: 1em 0;
-
-  &>div>div {
-    padding: 0.5em;
-
-    &:first-child {
-      color: var(--accent);
-      font-weight: bold;
+  &>.names {
+    &>h1 {
+      font-size: calc(var(--font-size-h1) * 1.5);
+      margin-top: 0;
+      margin-bottom: 1rem;
     }
 
-    &:last-child {
-      margin-left: 1em;
+    &>p:last-child {
+      margin-bottom: 0;
     }
   }
-}
-
-.rel-h3 {
-  text-transform: capitalize;
 }
 
 .rel-img {
@@ -127,13 +47,45 @@ blockquote {
   --c: var(--accent)
 }
 
-@media only screen and (max-width: 780px) {
-  .desc {
-    flex-direction: column;
-    gap: 0;
+.pagedoll {
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
+  width: 20vw;
+  height: auto;
+  z-index: 999;
+  filter: drop-shadow(0 0 16px var(--c));
+}
+
+.pagedoll:hover {
+  animation: fa-bounce 1s infinite;
+}
+
+/* you guessed it -- from fontAwesome */
+@keyframes fa-bounce {
+  10% {
+    transform: scale(1.1, .9) translateY(0);
   }
 
-  .left-side {
-    width: unset;
+  30% {
+    transform: scale(.9, 1.1) translateY(-2em);
+  }
+
+  50% {
+    transform: scale(1.05, .95) translateY(0);
+  }
+
+  57% {
+    transform: scale(1) translateY(-.125em);
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  .title {
+    flex-direction: column;
+
+    &>.names>* {
+      text-align: center;
+    }
   }
 }
