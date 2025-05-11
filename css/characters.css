@@ -52,7 +52,8 @@ blockquote {
   bottom: 1rem;
   left: 1rem;
   width: 20vw;
-  height: auto;
+  height: 30vh;
+  object-fit: contain;
   z-index: 999;
   filter: drop-shadow(0 0 16px var(--c));
 }
