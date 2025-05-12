@@ -2743,5 +2743,25 @@
     "ch": [
       "nebula"
     ]
+  },
+  {
+    "name": "qibli into trinket",
+    "type": "png",
+    "date": "2025-05-12",
+    "ch": [
+      "trinket",
+      "qibli",
+      "nebula"
+    ],
+    "comment": "They're in the magic school bus, but I didn't feel like drawing windows so…"
+  },
+  {
+    "name": "qibli into trinket 2",
+    "type": "png",
+    "date": "2025-05-12",
+    "ch": [
+      "trinket",
+      "qibli"
+    ]
   }
 ]

@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-12
+
+- Added `qibli into trinket.png`, `qibli into trinket 2.png`;
+
 ## 2025-05-09
 
 - Added a quick info section to each country;
