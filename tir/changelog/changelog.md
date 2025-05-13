@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-13
+
+- Released game [Sparky hungry](https://tofutush.itch.io/sparky-hungry);
+
 ## 2025-05-12
 
 - Added `qibli into trinket.png`, `qibli into trinket 2.png`;
