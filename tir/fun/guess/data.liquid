@@ -6,9 +6,9 @@ const imgs = {
     {% for ch in characters %}{% assign profile = ch.name | lowerCase | append: ' profile.png' %}{% assign thumb = ch.name | lowerCase | append: ' thumb.png' %}{% capture url %}{% imageUrl 'gallery/' profile 200 thumb %}{% endcapture %}{{ ch.name }}: "{{ url | htmlBaseUrl }}",{% endfor %}
 };
 
-const ch = [{% for ch in characters %}"{{ ch.name }}",{% endfor %}];
+const chs = [{% for ch in characters %}"{{ ch.name }}",{% endfor %}];
 
-const rel = [
+const rels = [
     {% for rel in relationships %}
         {% if rel.ch[0][1] and rel.ch[1][1] %}
             {{ rel.ch | json }},
