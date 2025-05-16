@@ -13,7 +13,11 @@ eleventyNavigation:
     </summary>
     <p>Click the right character to answer the question! The options will increase as you progress. You have three lives, guessing wrong will deduct one, and you lose if you have no lives left. Good luck!</p>
 </details>
+<div id="game" style="display: none">
+    <img id="ch"/>
+    <p id="question">Who is this fucker's <span id="rel"></span>?</p>
+    <div id="options"></div>
+</div>
+<button id="new-game" onclick="startGame()">Start</button>
 <script src="./data.js"></script>
-<script>
-    console.log(imgs, ch, rel);
-</script>
+<script src="/js/guess.js"></script>
