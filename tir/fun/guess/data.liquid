@@ -8,4 +8,10 @@ const imgs = {
 
 const ch = [{% for ch in characters %}"{{ ch.name }}",{% endfor %}];
 
-const rel = {{ relationships | json }}
+const rel = [
+    {% for rel in relationships %}
+        {% if rel.ch[0][1] and rel.ch[1][1] %}
+            {{ rel.ch | json }},
+        {% endif %}
+    {% endfor %}
+];
