@@ -44,7 +44,7 @@ class Game {
     }
     getOptions() {
         this.options = [this.question.answer];
-        for (let z = 0; z < Math.floor(this.rounds / 10) + 1; z++) {
+        for (let z = 0; z < Math.floor(this.rounds / 5) + 1; z++) {
             let falseOption;
             do falseOption = this.chs[randomInRange(0, this.chs.length)]
             while (this.options.includes(falseOption));
