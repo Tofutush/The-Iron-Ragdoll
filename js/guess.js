@@ -10,6 +10,8 @@ class Game {
 
         this.newGameButton = document.getElementById('new-game');
         this.gameDiv = document.getElementById('game');
+        this.roundDiv = document.getElementById('round');
+        this.livesDiv = document.getElementById('lives');
         this.chImg = document.getElementById('ch');
         this.relText = document.getElementById('rel');
         this.optionElt = document.getElementById('options');
@@ -21,13 +23,22 @@ class Game {
         this.displayQuestion();
     }
     displayQuestion() {
+        this.roundDiv.innerText = this.rounds;
+        this.livesDiv.innerText = this.lives;
         this.getQuestion();
         this.getOptions();
         this.chImg.src = this.imgs[this.question.ch];
         this.relText.innerHTML = this.question.rel;
         this.optionElt.innerHTML = '';
         for (let z = 0; z < this.options.length; z++) {
-            let img = elt('img', { src: this.imgs[this.options[z]] });
+            let img = elt('button', {}, elt('img', { src: this.imgs[this.options[z]] }));
+            img.addEventListener('click', e => {
+                this.rounds++;
+                if (this.options[z] !== this.question.answer) {
+                    this.lives--;
+                }
+                this.displayQuestion();
+            });
             this.optionElt.appendChild(img);
         }
     }
