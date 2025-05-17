@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-17
+
+- Added `goldie.png`, `frosting sing.png`, `entity float.png`;
+
 ## 2025-05-13
 
 - Released game [Sparky hungry](https://tofutush.itch.io/sparky-hungry);
