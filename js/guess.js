@@ -5,7 +5,7 @@ class Game {
         this.rels = rels;
 
         this.lastQuestion = {};
-        this.rounds = 0;
+        this.rounds = 1;
         this.lives = 3;
 
         this.newGameButton = document.getElementById('new-game');
@@ -44,7 +44,7 @@ class Game {
     }
     getOptions() {
         this.options = [this.question.answer];
-        for (let z = 0; z < this.rounds % 10 + 1; z++) {
+        for (let z = 0; z < Math.floor(this.rounds / 10) + 1; z++) {
             let falseOption;
             do falseOption = this.chs[randomInRange(0, this.chs.length)]
             while (this.options.includes(falseOption));
