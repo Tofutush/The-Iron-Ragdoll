@@ -2763,5 +2763,27 @@
       "trinket",
       "qibli"
     ]
+  },
+  {
+    "name": "goldie",
+    "type": "png",
+    "date": "2025-05-17",
+    "comment": "Gift art for [TenMomentsTill](https://toyhou.se/TenMomentsTill), featuring [Goldie](https://toyhou.se/19347815.workneh-goldie-theas)."
+  },
+  {
+    "name": "frosting sing",
+    "type": "png",
+    "date": "2025-05-17",
+    "ch": [
+      "frosting"
+    ]
+  },
+  {
+    "name": "entity float",
+    "type": "png",
+    "date": "2025-05-17",
+    "ch": [
+      "entity"
+    ]
   }
 ]
