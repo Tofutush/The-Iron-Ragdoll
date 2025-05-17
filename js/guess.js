@@ -46,7 +46,7 @@ class Game {
         this.options = [this.question.answer];
         for (let z = 0; z < Math.floor(this.rounds / 5) + 1; z++) {
             let falseOption;
-            do falseOption = this.chs[randomInRange(0, this.chs.length)]
+            do falseOption = this.chs[randomInRange(0, this.chs.length - 1)]
             while (this.options.includes(falseOption));
             this.options.push(falseOption);
         }
@@ -54,7 +54,7 @@ class Game {
     }
     getQuestion() {
         do {
-            let rel = this.rels[randomInRange(0, this.rels.length)];
+            let rel = this.rels[randomInRange(0, this.rels.length - 1)];
             let coin = randomInRange(0, 1);
             this.question = (coin === 0) ? {
                 ch: rel[0][0],
