@@ -50,6 +50,7 @@ class Game {
             while (this.options.includes(falseOption));
             this.options.push(falseOption);
         }
+        shuffle(this.options);
     }
     getQuestion() {
         do {
@@ -76,6 +77,18 @@ function startGame() {
     game.startGame();
 }
 
+function shuffle(array) {
+    let currentIndex = array.length;
+    // While there remain elements to shuffle...
+    while (currentIndex != 0) {
+        // Pick a remaining element...
+        let randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+        // And swap it with the current element.
+        [array[currentIndex], array[randomIndex]] = [
+            array[randomIndex], array[currentIndex]];
+    }
+}
 function randomInRange(a, b) {
     a = parseInt(a);
     b = parseInt(b);
