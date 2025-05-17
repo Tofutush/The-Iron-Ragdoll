@@ -1,54 +1,68 @@
-let lastQuestion;
-let rounds = 0;
-let lives = 3;
+class Game {
+    constructor(chs, imgs, rels) {
+        this.chs = chs;
+        this.imgs = imgs;
+        this.rels = rels;
 
-function startGame() {
-    document.getElementById('new-game').style.display = 'none';
-    document.getElementById('game').style.display = 'block';
-    displayQuestion();
-}
-function displayQuestion() {
-    let q = getQuestion();
-    let options = getOptions(q, rounds);
-    document.getElementById('ch').src = imgs[q.ch];
-    document.getElementById('rel').innerHTML = q.rel;
-    let optionElt = document.getElementById('options');
-    optionElt.innerHTML = '';
-    for (let z = 0; z < options.length; z++) {
-        let img = elt('img', { src: imgs[options[z]] });
-        optionElt.appendChild(img);
+        this.lastQuestion = {};
+        this.rounds = 0;
+        this.lives = 3;
+
+        this.newGameButton = document.getElementById('new-game');
+        this.gameDiv = document.getElementById('game');
+        this.chImg = document.getElementById('ch');
+        this.relText = document.getElementById('rel');
+        this.optionElt = document.getElementById('options');
     }
-}
-function getOptions(q, rounds) {
-    let options = [q.answer];
-    for (let z = 0; z < rounds % 10 + 1; z++) {
-        let falseOption;
+
+    startGame() {
+        this.newGameButton.style.display = 'none';
+        this.gameDiv.style.display = 'block';
+        this.displayQuestion();
+    }
+    displayQuestion() {
+        this.getQuestion();
+        this.getOptions();
+        this.chImg.src = this.imgs[this.question.ch];
+        this.relText.innerHTML = this.question.rel;
+        this.optionElt.innerHTML = '';
+        for (let z = 0; z < this.options.length; z++) {
+            let img = elt('img', { src: this.imgs[this.options[z]] });
+            this.optionElt.appendChild(img);
+        }
+    }
+    getOptions() {
+        this.options = [this.question.answer];
+        for (let z = 0; z < this.rounds % 10 + 1; z++) {
+            let falseOption;
+            do falseOption = this.chs[randomInRange(0, this.chs.length)]
+            while (this.options.includes(falseOption));
+            this.options.push(falseOption);
+        }
+    }
+    getQuestion() {
         do {
-            falseOption = chs[randomInRange(0, chs.length)]
-        } while (options.includes(falseOption))
-        options.push(falseOption);
+            let rel = this.rels[randomInRange(0, this.rels.length)];
+            let coin = randomInRange(0, 1);
+            this.question = (coin === 0) ? {
+                ch: rel[0][0],
+                rel: rel[1][1],
+                answer: rel[1][0]
+            } : {
+                ch: rel[1][0],
+                rel: rel[0][1],
+                answer: rel[0][0]
+            };
+        } while (this.lastQuestion &&
+            (this.lastQuestion.ch == this.question.ch &&
+                this.lastQuestion.rel == this.question.rel)
+        );
     }
-    return options;
 }
-function getQuestion() {
-    let question;
-    do {
-        let rel = rels[randomInRange(0, rels.length)];
-        let coin = randomInRange(0, 1);
-        question = (coin === 0) ? {
-            ch: rel[0][0],
-            rel: rel[1][1],
-            answer: rel[1][0]
-        } : {
-            ch: rel[1][0],
-            rel: rel[0][1],
-            answer: rel[0][0]
-        };
-    } while (lastQuestion !== undefined &&
-        (lastQuestion.ch !== question.ch ||
-            lastQuestion.rel !== question.rel)
-    );
-    return question;
+
+let game = new Game(chs, imgs, rels);
+function startGame() {
+    game.startGame();
 }
 
 function randomInRange(a, b) {
