@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Edited [Paperweight's Backstory](/stories/paperweights-backstory/);
 - 改了中文字体；
+- Added `animus profile.png`, `banner.png`;
 
 ## 2025-05-17
 

@@ -2786,5 +2786,24 @@
     "ch": [
       "entity"
     ]
+  },
+  {
+    "name": "animus profile",
+    "type": "png",
+    "date": "2025-05-18",
+    "kind": "thumb new",
+    "ch": [
+      "animus"
+    ]
+  },
+  {
+    "name": "banner",
+    "type": "png",
+    "date": "2025-05-18",
+    "kind": "banner",
+    "ch": [
+      "sparky",
+      "nightsun"
+    ]
   }
 ]
