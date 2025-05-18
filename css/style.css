@@ -1,11 +1,22 @@
 @font-face {
     font-family: lexend;
-    src: url(/The-Iron-Ragdoll/fonts/Lexend.ttf), url(/fonts/Lexend.ttf);
+    src: local(Lexend),
+        url(/The-Iron-Ragdoll/fonts/Lexend.ttf),
+        url(/fonts/Lexend.ttf);
 }
 
 @font-face {
     font-family: lxgw;
-    src: url(/The-Iron-Ragdoll/fonts/LXGWMarkerGothic-Regular.ttf), url(/fonts/LXGWMarkerGothic-Regular.ttf);
+    src: local(霞鹭文楷),
+        url(/The-Iron-Ragdoll/fonts/LXGWWenKai-Regular.ttf),
+        url(/fonts/LXGWWenKai-Regular.ttf);
+}
+
+@font-face {
+    font-family: lxgw-marker;
+    src: local(霞鹭漫黑),
+        url(/The-Iron-Ragdoll/fonts/LXGWMarkerGothic-Regular.ttf),
+        url(/fonts/LXGWMarkerGothic-Regular.ttf);
 }
 
 & {
@@ -89,6 +100,7 @@ h3,
 h4 {
     color: var(--text);
     line-height: 2;
+    font-family: lexend, lxgw-marker;
 }
 
 h1 {
@@ -320,17 +332,11 @@ details[open] summary::after {
 }
 
 header {
-    color: var(--text);
-    padding: 1em 0;
-    text-align: center;
     width: 100%;
+    height: 6em;
     user-select: none;
-    font-size: calc(var(--font-size-h1)* 1.5);
-
-    & a {
-        color: var(--text);
-        text-decoration: none;
-    }
+    background-size: cover;
+    background-position: center;
 }
 
 nav {
