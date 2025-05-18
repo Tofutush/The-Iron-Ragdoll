@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-18
+
+- Edited [Paperweight's Backstory](/stories/paperweights-backstory/);
+- 改了中文字体；
+
 ## 2025-05-17
 
 - Added `goldie.png`, `frosting sing.png`, `entity float.png`;
