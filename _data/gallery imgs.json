@@ -2782,6 +2782,7 @@
     "name": "entity float",
     "type": "png",
     "date": "2025-05-17",
+    "kind": "pagedoll",
     "ch": [
       "entity"
     ]
