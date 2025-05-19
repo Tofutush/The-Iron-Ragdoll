@@ -41,7 +41,7 @@ class Game {
             let img = elt('button', {}, elt('img', { src: this.imgs[this.options[z]] }));
             img.addEventListener('click', e => {
                 hide(this.gameDiv);
-                if (this.options[z] !== this.question.answer) {
+                if (!this.answerCorrect(this.options[z])) {
                     this.lives--;
                     show(this.incorrectDiv);
                     if (this.lives <= 0) {
@@ -58,12 +58,17 @@ class Game {
         }
         show(this.gameDiv);
     }
+    answerCorrect(option) {
+        let findRel = this.rels.filter(r => r[0][0] === this.question.ch && r[1][0] === option
+            || r[1][0] === this.question.ch && r[0][0] === option);
+        return findRel.length === 1 && findRel[0].filter(r => r[0] === option)[0][1] === this.question.rel;
+    }
     getOptions() {
         this.options = [this.question.answer];
         for (let z = 0; z < Math.floor(this.rounds / 5) + 1; z++) {
             let falseOption;
             do falseOption = this.chs[randomInRange(0, this.chs.length - 1)]
-            while (this.options.includes(falseOption));
+            while (this.options.includes(falseOption) || this.question.ch === falseOption);
             this.options.push(falseOption);
         }
         shuffle(this.options);
