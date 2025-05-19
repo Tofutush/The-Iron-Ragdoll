@@ -13,9 +13,11 @@ eleventyNavigation:
     </summary>
     <p>Click the right character to answer the question! The options will increase as you progress. You have three lives, guessing wrong will deduct one, and you lose if you have no lives left. Good luck!</p>
 </details>
-<div id="game" style="display: none">
+<div id="stats" style="display: none;">
     <p>Round: <span id="round"></span></p>
     <p>Lives: <span id="lives"></span></p>
+</div>
+<div id="game" style="display: none;">
     <img id="ch"/>
     <p id="question">Who is this fucker's <span id="rel"></span>?</p>
     <div id="options"></div>
@@ -25,6 +27,11 @@ eleventyNavigation:
 </div>
 <div id="incorrect" style="display: none;">
     <p>Nope!</p>
+    <div id="restart" style="display: none;">
+        <p>You lose!</p>
+        <p>Your score is <span id="score"></span>.</p>
+        <p><a href="/contact/">Tell me</a> your score, or <a href="">play again!</a></p>
+    </div>
 </div>
 <button id="new-game" onclick="startGame()">Start</button>
 <script src="./data.js"></script>

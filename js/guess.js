@@ -10,8 +10,10 @@ class Game {
 
         this.newGameButton = document.getElementById('new-game');
         this.gameDiv = document.getElementById('game');
+        this.statsDiv = document.getElementById('stats');
         this.correctDiv = document.getElementById('correct');
         this.incorrectDiv = document.getElementById('incorrect');
+        this.restartDiv = document.getElementById('restart');
         this.roundDiv = document.getElementById('round');
         this.livesDiv = document.getElementById('lives');
         this.chImg = document.getElementById('ch');
@@ -22,6 +24,7 @@ class Game {
     startGame() {
         this.newGameButton.style.display = 'none';
         this.gameDiv.style.display = 'block';
+        this.statsDiv.style.display = 'block';
         this.displayQuestion();
     }
     displayQuestion() {
@@ -37,12 +40,18 @@ class Game {
         for (let z = 0; z < this.options.length; z++) {
             let img = elt('button', {}, elt('img', { src: this.imgs[this.options[z]] }));
             img.addEventListener('click', e => {
-                this.rounds++;
                 this.gameDiv.style.display = 'none';
                 if (this.options[z] !== this.question.answer) {
                     this.lives--;
                     this.incorrectDiv.style.display = 'block';
+                    if (this.lives <= 0) {
+                        this.statsDiv.style.display = 'none';
+                        this.restartDiv.style.display = 'block';
+                        document.getElementById('score').innerHTML = this.rounds;
+                        return;
+                    }
                 } else this.correctDiv.style.display = 'block';
+                this.rounds++;
                 setTimeout(() => this.displayQuestion(), 500);
             });
             this.optionElt.appendChild(img);
