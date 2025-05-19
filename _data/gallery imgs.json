@@ -2805,5 +2805,23 @@
       "sparky",
       "nightsun"
     ]
+  },
+  {
+    "name": "nightsun ref",
+    "type": "png",
+    "date": "2025-05-19",
+    "kind": "ref",
+    "ch": [
+      "nightsun"
+    ]
+  },
+  {
+    "name": "sparky ref",
+    "type": "png",
+    "date": "2025-05-19",
+    "kind": "ref",
+    "ch": [
+      "sparky"
+    ]
   }
 ]

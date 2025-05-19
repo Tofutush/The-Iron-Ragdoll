@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-19
+
+- Added `nightsun ref.png`, `sparky ref.png`;
+
 ## 2025-05-18
 
 - Edited [Paperweight's Backstory](/stories/paperweights-backstory/);
