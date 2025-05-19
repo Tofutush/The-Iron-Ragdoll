@@ -7,6 +7,42 @@ eleventyNavigation:
   key: Guessing Game
   parent: Fun
 ---
+<style>
+    #stats>div{
+        display: flex;
+        justify-content: space-between;
+    }
+    #ch {
+        background-color: var(--box);
+        border-radius: 16px;
+        margin: auto;
+    }
+    #options {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1em;
+        justify-content: center;
+
+        &>button {
+            background-color: var(--box);
+            border-radius: 16px;
+            padding: 0;
+            overflow: hidden;
+            width: 8em;
+            aspect-ratio: 1;
+
+            &>img {
+                width: 100%;
+                height: 100%;
+            }
+        }
+    }
+    #correct>p, #incorrect p, #question {
+        text-align: center;
+        font-weight: bold;
+        font-size: var(--font-size-h2);
+    }
+</style>
 <details>
     <summary>
         <h2>How to play</h2>
@@ -14,8 +50,10 @@ eleventyNavigation:
     <p>Click the right character to answer the question! The options will increase as you progress. You have three lives, guessing wrong will deduct one, and you lose if you have no lives left. Good luck!</p>
 </details>
 <div id="stats" style="display: none;">
-    <p>Round: <span id="round"></span></p>
-    <p>Lives: <span id="lives"></span></p>
+    <div>
+        <p>Round: <span id="round"></span></p>
+        <p id="lives">{% lucide 'heart' %} {% lucide 'heart' %} {% lucide 'heart' %}</p>
+    </div>
 </div>
 <div id="game" style="display: none;">
     <img id="ch"/>
@@ -30,7 +68,7 @@ eleventyNavigation:
     <div id="restart" style="display: none;">
         <p>You lose!</p>
         <p>Your score is <span id="score"></span>.</p>
-        <p><a href="/contact/">Tell me</a> your score, or <a href="">play again!</a></p>
+        <p><a href="/contact/">Tell me</a> your score or if you found a bug! <a href="">Play again!</a></p>
     </div>
 </div>
 <button id="new-game" onclick="startGame()">Start</button>

@@ -25,13 +25,12 @@ class Game {
         hide(this.newGameButton);
         show(this.gameDiv);
         show(this.statsDiv);
+        this.roundDiv.innerText = this.rounds;
         this.displayQuestion();
     }
     displayQuestion() {
         hide(this.incorrectDiv);
         hide(this.correctDiv);
-        this.roundDiv.innerText = this.rounds;
-        this.livesDiv.innerText = this.lives;
         this.getQuestion();
         this.getOptions();
         this.chImg.src = this.imgs[this.question.ch];
@@ -43,6 +42,7 @@ class Game {
                 hide(this.gameDiv);
                 if (!this.answerCorrect(this.options[z])) {
                     this.lives--;
+                    this.livesDiv.children[0] && this.livesDiv.removeChild(this.livesDiv.children[0]);
                     show(this.incorrectDiv);
                     if (this.lives <= 0) {
                         hide(this.statsDiv);
@@ -52,6 +52,7 @@ class Game {
                     }
                 } else show(this.correctDiv);
                 this.rounds++;
+                this.roundDiv.innerText = this.rounds;
                 setTimeout(() => this.displayQuestion(), 500);
             });
             this.optionElt.appendChild(img);
