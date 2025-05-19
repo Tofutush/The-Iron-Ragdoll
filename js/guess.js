@@ -22,14 +22,14 @@ class Game {
     }
 
     startGame() {
-        this.newGameButton.style.display = 'none';
-        this.gameDiv.style.display = 'block';
-        this.statsDiv.style.display = 'block';
+        hide(this.newGameButton);
+        show(this.gameDiv);
+        show(this.statsDiv);
         this.displayQuestion();
     }
     displayQuestion() {
-        this.correctDiv.style.display = 'none';
-        this.incorrectDiv.style.display = 'none';
+        hide(this.incorrectDiv);
+        hide(this.correctDiv);
         this.roundDiv.innerText = this.rounds;
         this.livesDiv.innerText = this.lives;
         this.getQuestion();
@@ -40,23 +40,23 @@ class Game {
         for (let z = 0; z < this.options.length; z++) {
             let img = elt('button', {}, elt('img', { src: this.imgs[this.options[z]] }));
             img.addEventListener('click', e => {
-                this.gameDiv.style.display = 'none';
+                hide(this.gameDiv);
                 if (this.options[z] !== this.question.answer) {
                     this.lives--;
-                    this.incorrectDiv.style.display = 'block';
+                    show(this.incorrectDiv);
                     if (this.lives <= 0) {
-                        this.statsDiv.style.display = 'none';
-                        this.restartDiv.style.display = 'block';
+                        hide(this.statsDiv);
+                        show(this.restartDiv);
                         document.getElementById('score').innerHTML = this.rounds;
                         return;
                     }
-                } else this.correctDiv.style.display = 'block';
+                } else show(this.correctDiv);
                 this.rounds++;
                 setTimeout(() => this.displayQuestion(), 500);
             });
             this.optionElt.appendChild(img);
         }
-        this.gameDiv.style.display = 'block';
+        show(this.gameDiv);
     }
     getOptions() {
         this.options = [this.question.answer];
@@ -93,6 +93,12 @@ function startGame() {
     game.startGame();
 }
 
+function hide(elt) {
+    elt.style.display = 'none';
+}
+function show(elt) {
+    elt.style.display = 'block';
+}
 function shuffle(array) {
     let currentIndex = array.length;
     // While there remain elements to shuffle...
