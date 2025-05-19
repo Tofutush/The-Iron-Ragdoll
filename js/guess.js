@@ -10,6 +10,8 @@ class Game {
 
         this.newGameButton = document.getElementById('new-game');
         this.gameDiv = document.getElementById('game');
+        this.correctDiv = document.getElementById('correct');
+        this.incorrectDiv = document.getElementById('incorrect');
         this.roundDiv = document.getElementById('round');
         this.livesDiv = document.getElementById('lives');
         this.chImg = document.getElementById('ch');
@@ -23,6 +25,8 @@ class Game {
         this.displayQuestion();
     }
     displayQuestion() {
+        this.correctDiv.style.display = 'none';
+        this.incorrectDiv.style.display = 'none';
         this.roundDiv.innerText = this.rounds;
         this.livesDiv.innerText = this.lives;
         this.getQuestion();
@@ -34,13 +38,16 @@ class Game {
             let img = elt('button', {}, elt('img', { src: this.imgs[this.options[z]] }));
             img.addEventListener('click', e => {
                 this.rounds++;
+                this.gameDiv.style.display = 'none';
                 if (this.options[z] !== this.question.answer) {
                     this.lives--;
-                }
-                this.displayQuestion();
+                    this.incorrectDiv.style.display = 'block';
+                } else this.correctDiv.style.display = 'block';
+                setTimeout(() => this.displayQuestion(), 500);
             });
             this.optionElt.appendChild(img);
         }
+        this.gameDiv.style.display = 'block';
     }
     getOptions() {
         this.options = [this.question.answer];
