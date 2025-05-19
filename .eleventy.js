@@ -16,6 +16,7 @@ const chPlugin = require('./_plugins/ch');
 const relPlugin = require('./_plugins/rel');
 const imagePlugin = require('./_plugins/image');
 const storyPlugin = require('./_plugins/story');
+const guessPlugin = require('./_plugins/guess');
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -62,6 +63,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(relPlugin);
 	eleventyConfig.addPlugin(imagePlugin);
 	eleventyConfig.addPlugin(storyPlugin);
+	eleventyConfig.addPlugin(guessPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');
