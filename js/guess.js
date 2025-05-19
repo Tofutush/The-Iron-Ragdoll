@@ -72,7 +72,7 @@ class Game {
     }
 }
 
-let game = new Game(chs, imgs, rels);
+let game = new Game(data.ch, imgs, data.rel);
 function startGame() {
     game.startGame();
 }
