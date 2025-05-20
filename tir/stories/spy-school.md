@@ -31,7 +31,9 @@ Entity called Harmony out. Sky told her that she could get enrolled in [the Midd
 
 Harmony was initially reluctant, but Sky told her that Sugarcane, her best friend, was also attending, so she said yes. Frosting warned Harmony to think it through, though she knew that there's no stopping Harmony.
 
-Later, Harmony and Frosting were assigned their very first practice mission — to recruit the daughter, Jelly, of the cultural attaché of the Westavian Embassy in Flower City, Checkers.
+Later, Harmony and Sugarcane were assigned their very first practice mission — to recruit the daughter, Jelly, of the cultural attaché of the Westavian Embassy in Flower City, Checkers.
+
+They had been here for more than a year now, and the MSS thinks that if he was a spy (because all cultural attachés are), he would've started working by now.
 
 Jelly didn't have any friends. Her dad was busy with work, and her mom was forced to stay in Westavia, so Jelly was always quite lonely.
 
@@ -71,7 +73,7 @@ Little did they know, *Sky* told Jelly their real names. Just to teach them that
 >
 > lol idk
 
-Anyway that's the story of how our future agents learned the first lesson at Ministry Affiliate: Never grow attached to your agents.
+Anyway that's the story of how our future officers learned the first lesson at Ministry Affiliate: Never grow attached to your agents.
 
 > [!question]+ Isn't "never trust anyone" a better lesson?
 >
