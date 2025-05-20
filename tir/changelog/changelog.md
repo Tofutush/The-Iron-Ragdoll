@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-05-20
 
 - Edited [Spy School](/stories/spy-school/);
+- Added `fantasy profile.png`, `ironheart profile.png`;
 
 ## 2025-05-19
 
