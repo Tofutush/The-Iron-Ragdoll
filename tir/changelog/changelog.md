@@ -8,13 +8,17 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-20
+
+- Edited [Spy School](/stories/spy-school/);
+
 ## 2025-05-19
 
 - Added `nightsun ref.png`, `sparky ref.png`;
 
 ## 2025-05-18
 
-- Edited [Paperweight's Backstory](/stories/paperweights-backstory/);
+- Edited [Paperweight's Backstory](/stories/paperweight-backstory/);
 - 改了中文字体；
 - Added `animus profile.png`, `banner.png`;
 - Added a banner to the site;
