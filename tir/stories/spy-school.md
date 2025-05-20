@@ -39,4 +39,4 @@ So, Harmony and Sugarcane made friends with her.
 
 They played, had fun, became BFFs. But soon, the spy school students started asking Jelly to get into her father's room and stealing stuff out.
 
-Eventually, they gathered enough evidence for Checkers' espionage activities and got him deported, along with Jelly.
+But as Harmony and Sugarcane's feelings for Jelly grew, they realized something: if they *did* get evidence for Checkers' espionage, he would be deported, and would for sure take Jelly home with him. They didn't want Jelly to leave.
