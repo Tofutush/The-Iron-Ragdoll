@@ -47,7 +47,7 @@
       "She has nothing to do with the character <a href=\"/characters/jackalope/\">Jackalope</a>.",
       "If she were ever to have a theme song, it would be titled <i>Sugar High</i>."
     ],
-    "note": "- The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n- The highlights on her hair goes down, up, and then down.\n- Her pupils point towards the middle! Unless she's looking at somewhere in particular."
+    "note": "- The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n- The highlights on her hair goes down, up, and then down.\n- Her pupils point towards the middle! Unless she's looking at somewhere in particular.\n- Any interaction with Nightsun (romantic or otherwise) *must* be drawn in her adult design; so are bodyguarding activities (with or without Animus)!"
   },
   {
     "name": "Amber",
@@ -576,7 +576,7 @@
       "If she were ever to have a theme song, it would be titled <i>Goosebumps（鹅皮疙瘩）</i>.",
       "If she had a lusus, it would be a goose."
     ],
-    "note": "file:mssperms.md"
+    "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves"
   },
   {
     "name": "Pumpkin",
@@ -615,7 +615,7 @@
     "trivia": [
       "He gives off a goofy dumbass vibe."
     ],
-    "note": "file:mssperms.md"
+    "note": "- Any interactions with Goose or other MSS people should be drawn in his uniform.\n    - You can change the uniform design, but\n        - Keep it a dark color\n        - Have the Bauhinian pink somewhere on it\n        - Make sure they're wearing gloves\n- Any interactions with Candlelight or other villagers should be drawn in his blue clothes."
   },
   {
     "name": "Halcyon",
@@ -650,7 +650,7 @@
       "hair": "#2e2e2e"
     },
     "about": "Halcyon is a [Morelandian](/world/moreland/) spy working for the [MSS](/world/bauhinia/mss/).",
-    "note": "file:mssperms.md"
+    "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves"
   },
   {
     "name": "Paperweight",
@@ -689,7 +689,7 @@
       "他说且只会说粤语。反正大家也听得懂。",
       "He has a little \"my goddamn leash of curses\" which is a medicine box, the kind that has cells arranged in three rows (for breakfast, lunch, and dinner) and seven columns (from Monday to Sunday). You put the required amount of pills in each box at the start of every week and take the pills as scheduled. He hates it to the guts."
     ],
-    "note": "file:mssperms.md"
+    "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves\n- Any interactions with Whiteout should be drawn in his young, yellow-haired design.\n- Any interactions with Goose, Pumpkin, and Halcyon should be drawn in his old, bald design."
   },
   {
     "name": "Gecko",
@@ -1736,7 +1736,8 @@
     "palette": {
       "hair": "#2e2e2e"
     },
-    "about": "Whiteout is a stern MSS officer, but under her hard cover, she harbors great love for her colleagues and apprentice."
+    "about": "Whiteout is a stern MSS officer, but under her hard cover, she harbors great love for her colleagues and apprentice.",
+    "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves"
   },
   {
     "name": "Entity",
