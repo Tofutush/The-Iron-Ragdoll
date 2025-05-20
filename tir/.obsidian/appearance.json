@@ -7,13 +7,12 @@
     "line height",
     "icon ratio",
     "titlebar background",
-    "font weight",
     "properties",
     "word count",
     "blockquote"
   ],
   "interfaceFontFamily": "DIN Round Pro",
-  "textFontFamily": "Lexend,Crimson Pro,Courier Prime,霞鹜文楷,霞鹜漫黑",
+  "textFontFamily": "霞鹜文楷,Lexend,Crimson Pro,Courier Prime,霞鹜漫黑",
   "cssTheme": "",
   "theme": "moonstone",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑"
