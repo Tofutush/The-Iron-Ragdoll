@@ -51,27 +51,31 @@ They soon found an opportunity, but also a ticking clock: a purge was going on b
 
 Harmony and Sugarcane planned to blackmail Checkers themselves using the dirt collected by Jelly. (What dirt? He has a Bauhinian mistress? Tofu stop being obsessed with mistresses it's becoming your deux ex machina ok maybe they're going to fake Checkers being a Bauhinian mole and threaten to let Westavian Intelligence Service know unless he actually becomes a mole. But they ain't gonna hit them up with a phone call. Think it through.) They did this without notifying anyone else at spy school. But Sky knew everything anyways. They've fallen into his trap. He had expected this, though if they were better students and followed orders exactly, they wouldn't have fallen into it.
 
-Okay, here's where I have two version of events and I've yet to decide which one to use.
+One morning, Harmony found a rope hanging down from her window bars. She lived on the third floor, and there were narrow bars fitted over the windows for baby safety. There was a door in the middle that could be opened[^2]. The rope clang to a bar on a hook. Harmony had no idea how that got here. She went to school and promptly forgot about it.
 
-## Ver 1
+The next day, when they were playing, Jelly suddenly said she was dizzy and felt sick. Harmony and Sugarcane suspected that she was about to get a heat stroke. The closest place they could think of to get to was Harmony's home. So they went there.
 
-Because you see, Checkers wasn't the spy. It was Jelly. She was a student at the Westavian equivalent of Ministry Affiliate, on which Jelly was sent to gather info. And she got them. From Harmony and Sugarcane. While "Joy" and "Pony" shared with her aspects of their lives, casual things slipping through everyday conversation. All the "evidence" they collected on Checkers was made up by Jelly and her handlers in Westavia.
+They laid Jelly on Harmony's bed and turned on the air conditioner, sliding the window shut. Harmony got a cup of water for her.
 
-> [!question]+ Why not make Checkers Jelly's handler?
->
-> Because Bauhinia isn't stupid; they have to be real father and kid to get allowed to station at the embassy
+All the while, her top-secret textbook from spy school was lying haphazardly on her desk, right beside the bed.
 
-But anyways then Jelly did something that proved to Harmony and Sugarcane that she was a spy (called them by their real names?) and they were devastated. The lesson had been taught. Never grow attached to your agents.
+Jelly downed the water and asked for more. As Harmony took the empty cup, she also asked Sugarcane to bring her a wet towel to put over her forehead.
 
-## Ver 2
+Sugarcane didn't know where the towels were. Harmony said that she would get the towel and gave the cup to Sugarcane. They both left the room.
 
-Jelly called Harmony and Sugarcane by their real names. They were shocked, and came to the conclusion that Jelly was a spy. They were heartbroken. The lesson had been taught. Never grow attached to your agents.
+Jelly sprang up from the bed, swiped the textbook off the desk, slid the window open, bonked the bar window open, and leapt out of there, lowering herself down with the rope she hooked on.
 
-Little did they know, *Sky* told Jelly their real names. Just to teach them that lesson.
+The noise alerted Harmony and Sugarcane. They ran back to her room, only to find the air conditioner, looming over an empty desk, blowing into the open window.
 
-> [!question]+ How did the blackmailing go in either of these versions? Did Checkers defect, get deported, or get summoned back?
->
-> lol idk
+They clumsily climbed down the rope too, Harmony and then Sugarcane, in hopes of chasing Jelly. When they hit the ground, they were greeted by Sky, who handed the book back to Harmony.
+
+> "Let's get to school."
+
+It was around four in the afternoon on a Saturday. They got into Sky's car and went to his office at Ministry Affiliate.
+
+It was there where Sky explained to them that everything Jelly gave them, the "evidence" stolen from her father, was fake. Completely made-up.
+
+Jelly, he told them, was a student at the Westavian equivalent of Ministry Affiliate. She wasn't even in the same grade as Harmony and Sugarcane; she was in ninth grade already, having been trained for two previous years. She was pretty short, which made her suitable for faking a seventh grader. And in liking her too much, they had ignored all their professionalism and fallen into her trap. If Jelly successfully got the textbook, Westavia could've gotten an advantage over Bauhinia for years to come.
 
 Anyway that's the story of how our future officers learned the first lesson at Ministry Affiliate: Never grow attached to your agents.
 
@@ -82,3 +86,4 @@ Anyway that's the story of how our future officers learned the first lesson at M
 > Besides, "never grow attached to your agents" a nice little subversion of how in a lot of current spy stories the line between handler and agent is a little too blurred; and the agent could even get into agency headquarters and know their handler by name!
 
 [^1]: No way Sky wasn't pleased with himself freaking out Entity just by standing there in a uniform.
+[^2]: This is a little hard to describe.
