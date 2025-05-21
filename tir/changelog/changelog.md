@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-05-21
 
 - Edited [Spy School](/stories/spy-school/);
+- Added `candlelight profile.png`;
 
 ## 2025-05-20
 
