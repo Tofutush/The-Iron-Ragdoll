@@ -2,20 +2,20 @@
 layout: layout.liquid
 permalink: "stories/{{ parent | slug }}/chapter-{{ chNum }}/"
 eleventyComputed:
-  title: "{{ parent }} - chapter {{ chNum }}"
+  title: "{{ parent }} - chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
   eleventyNavigation:
-    key: "{{ parent }} - chapter {{ chNum }}"
-    title: "Chapter {{ chNum }}"
+    key: "{{ parent }} - chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
+    title: "Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
     parent: "{{ parent }}"
 ---
-<h1>Chapter {{ chNum }}</h1>
+<h1>Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}</h1>
 {% assign colName = tags[0] %}
 <details id="toc-wrap">
   <summary><h3>Table of Contents</h3></summary>
   <div id="toc">
     <ul>
       {% for ch in collections[colName] %}
-        <li><a href="{{ ch.url }}">Chapter {{ ch.data.chNum }}</a></li>
+        <li><a href="{{ ch.url }}">Chapter {{ ch.data.chNum }}{% if ch.data.chTitle %}: {{ ch.data.chTitle }}{% endif %}</a></li>
       {% endfor %}
     </ul>
   </div>
