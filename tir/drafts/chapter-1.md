@@ -64,9 +64,7 @@ Harmony coughed.
 
 "Do we have time to consider?" Entity asked.
 
-"Of course," Sky produced a booklet from his pocket. It was an introduction of the school. "When you're ready to attend, come to our office" — he pointed to an address written on the back cover — "with your ID and a document photo receipt. Make sure to take a new photo. The deadline is August 1st."
-
-It was June 7th.
+"Of course," Sky produced a booklet from his pocket. It was an introduction of the school. "When you're ready to attend, come to our office" — he pointed to an address written on the back cover — "with your ID, elementary school diploma, and a document photo receipt. Make sure to take a new photo. The deadline is August 1st. Please don't tell anyone else about it until then."
 
 "Thank you, officer," Frosting said.
 
@@ -78,6 +76,38 @@ It was June 7th.
 
 "What is there to consider?" Harmony picked the book back up from the sofa and headed for her room. "Sugarcane is going."
 
-"Why don't you make sure first? Call Sugarcane and confirm it."
+"Why don't you make sure first? Confirm it with Sugarcane."
 
 Harmony stopped in her track. That was a good point.
+
+---
+
+In the playground near their homes, Sugarcane was sitting on a swing, letting it dangle slightly to and fro. Whens she saw Harmony she hopped down.
+
+"Hey!" she called out, swiping her bangs out of her eyes.
+
+"Hey," Harmony replied. "I want to ask you something. There's this guy who came to my home earlier today. He wanted me to attend this Ministry school and he said you agreed to go. Is that true?"
+
+Sugarcane's eyes widened. "So he *did* go to you!"
+
+"So it's true!"
+
+"Yeah. I told him that I would go, but only with you. So he did go find you after all."
+
+"So you're going?" Harmony asked.
+
+"Totally," Sugarcane said. "It's a nice school. And now that you can go too, why not?"
+
+"Then great!" Harmony was hopping up and down. "We can go get a photo taken right now!"
+
+"No need to hurry," Sugarcane sat back onto the swing. "We have to graduate first."
+
+---
+
+Harmony spent the rest of her elementary school looking forward to the new middle school. Soon, she would be able to leave her horrible teachers and rowdy classmates behind! When she got back home, she busied herself with flipping through the introduction booklet from Sky — its staples were almost coming off from wear. The students would receive all sort of cool-ass looking combat and weapons training, theory classes on espionage and counterespionage, and some might even get a chance to participate in real missions!
+
+Finally, she had her diploma in her hands. It would've been at most just a souvenir, because since when are elementary school diplomas worth squat? But now, all Harmony could think of was that this little piece of paper was needed for her to be admitted into Ministry Affiliate as a proof of her graduation.
+
+Right after the ceremony, Harmony and Sugarcane went into a nearby photo studio and took their ID photos. Clutching their receipts, ID cards, and diplomas, they asked Entity to drive them to the address.
+
+"Aren't you eager," Entity sighed.
