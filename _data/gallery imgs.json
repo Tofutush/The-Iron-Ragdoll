@@ -3302,6 +3302,83 @@
     ]
   },
   {
+    "name": "animus profile",
+    "type": "png",
+    "date": "2025-05-18",
+    "kind": "thumb new",
+    "ch": [
+      "animus"
+    ]
+  },
+  {
+    "name": "banner",
+    "type": "png",
+    "date": "2025-05-18",
+    "kind": "banner",
+    "ch": [
+      "sparky",
+      "nightsun"
+    ]
+  },
+  {
+    "name": "nightsun ref",
+    "type": "png",
+    "date": "2025-05-19",
+    "kind": "ref",
+    "ch": [
+      "nightsun"
+    ]
+  },
+  {
+    "name": "sparky ref",
+    "type": "png",
+    "date": "2025-05-19",
+    "kind": "ref",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "fantasy profile",
+    "type": "png",
+    "date": "2025-05-20",
+    "kind": "thumb new",
+    "ch": [
+      "fantasy"
+    ]
+  },
+  {
+    "name": "ironheart profile",
+    "type": "png",
+    "date": "2025-05-20",
+    "kind": "thumb new",
+    "ch": [
+      "ironheart"
+    ]
+  },
+  {
+    "name": "candlelight profile",
+    "type": "png",
+    "date": "2025-05-21",
+    "kind": "thumb new",
+    "ch": [
+      "candlelight"
+    ]
+  },
+  {
+    "name": "sparrow",
+    "type": "png",
+    "date": "2025-05-22"
+  },
+  {
+    "name": "moonbeam ball",
+    "type": "png",
+    "date": "2025-05-22",
+    "ch": [
+      "moonbeam"
+    ]
+  },
+  {
     "name": "sparky AggressiveFruitt",
     "type": "png",
     "date": "2025-04-30",
