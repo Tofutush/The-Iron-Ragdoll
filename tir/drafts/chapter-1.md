@@ -94,17 +94,26 @@ Sugarcane's eyes widened. "So he *did* go to you!"
 
 "Yeah. I told him that I would go, but only with you. So he did go find you after all."
 
-"So you're going?" Harmony asked.
+"Yeah. So you're going?" Harmony asked.
 
 "Totally," Sugarcane said. "It's a nice school. And now that you can go too, why not?"
 
-"Then great!" Harmony was hopping up and down. "We can go get a photo taken right now!"
+"Totally great!" Harmony was hopping up and down. "We can go get a photo taken right now!"
 
 "No need to hurry," Sugarcane sat back onto the swing. "We have to graduate first."
 
 ---
 
 Harmony spent the rest of her elementary school looking forward to the new middle school. Soon, she would be able to leave her horrible teachers and rowdy classmates behind! When she got back home, she busied herself with flipping through the introduction booklet from Sky — its staples were almost coming off from wear. The students would receive all sort of cool-ass looking combat and weapons training, theory classes on espionage and counterespionage, and some might even get a chance to participate in real missions!
+
+Although, a certain fragment of Sugarcane's voice kept echoing in her head. "I told him that I would go, but only with you."
+
+*Does that mean they only found me because Sugarcane asked them to?*
+The thought intruded her head.
+
+*But they still gave me the offer. I could legally attend. So what's the matter?* She tried to shake it off, but it would still pop inside from time to time.
+
+---
 
 Finally, she had her diploma in her hands. It would've been at most just a souvenir, because since when are elementary school diplomas worth squat? But now, all Harmony could think of was that this little piece of paper was needed for her to be admitted into Ministry Affiliate as a proof of her graduation.
 

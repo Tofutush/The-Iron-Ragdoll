@@ -10,7 +10,7 @@ titlezh: 更新日志
 
 ## 2025-05-22
 
-- Added `sparrow.png`;
+- Added `sparrow.png`, `moonbeam ball.png`;
 
 ## 2025-05-21
 
