@@ -2855,5 +2855,13 @@
     "name": "sparrow",
     "type": "png",
     "date": "2025-05-22"
+  },
+  {
+    "name": "moonbeam ball",
+    "type": "png",
+    "date": "2025-05-22",
+    "ch": [
+      "moonbeam"
+    ]
   }
 ]
