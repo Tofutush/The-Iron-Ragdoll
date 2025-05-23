@@ -9,7 +9,7 @@ noFooterImage: true
 permalink: "stories/{{ parent | slug }}/page-{{ comic.pagenum }}/"
 eleventyComputed:
   title: "{{ comicTitle }} comic - page {{ comic.pagenum }}"
-  theme: "{% if comic.theme %}{{ comic.theme }}{% elsif theme %}{{ theme }}{% endif %}"
+  siteTheme: "{% if comic.theme %}{{ comic.theme }}{% elsif siteTheme %}{{ siteTheme }}{% endif %}"
   eleventyNavigation:
     key: "{{ comicTitle }} comic - page {{ comic.pagenum }}"
     title: "Page {{ comic.pagenum }}"
