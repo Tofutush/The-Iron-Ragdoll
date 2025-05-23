@@ -29,7 +29,7 @@ navOptions:
     </style>
   {% endif %}
 </head>
-<body class="{% if theme == 'light' or theme == 'dark' %}{{ theme }}{% else %}light{% endif %}">
+<body class="{% if siteTheme %}{{ siteTheme }}{% else %}light{% endif %}">
 <header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner.png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
 <nav>
   <a href="#top">(Top)</a>
@@ -62,10 +62,10 @@ navOptions:
   {% endunless %}
   {{ content }}
 </main>
-{{ theme }}
-{% if theme %}theme true{% else %}theme false{% endif %}
+{{ siteTheme }}
+{% if siteTheme %}theme true: {{ theme }}{% else %}theme false: {{ theme }}{% endif %}
 <footer>
-    {% unless theme %}
+    {% unless siteTheme %}
       <div class="theme-toggle">
         <div>
           {% lucide 'sun' %}
