@@ -362,6 +362,10 @@ nav>a:hover,
     color: var(--bg);
 }
 
+footer {
+    min-height: 56px;
+}
+
 .footer-img {
     height: auto;
     max-width: 100%;
