@@ -1,11 +1,11 @@
 ---
 layout: layout.liquid
 desc: A comic!
-noFooter: true
 pagination:
   size: 1
   addAllPagesToCollections: true
   alias: comic
+noFooterImage: true
 permalink: "stories/{{ parent | slug }}/page-{{ comic.pagenum }}/"
 eleventyComputed:
   title: "{{ comicTitle }} comic - page {{ comic.pagenum }}"

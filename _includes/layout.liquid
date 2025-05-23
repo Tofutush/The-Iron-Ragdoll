@@ -62,22 +62,24 @@ navOptions:
   {% endunless %}
   {{ content }}
 </main>
-{% unless noFooter %}
-  <footer>
-      {% unless theme == 'light' or theme == 'dark' %}
-        <div class="theme-toggle">
-          <div>
-            {% lucide 'sun' %}
-            {% lucide 'moon' %}
-          </div>
+{{ theme }}
+{% if theme %}theme true{% else %}theme false{% endif %}
+<footer>
+    {% unless theme %}
+      <div class="theme-toggle">
+        <div>
+          {% lucide 'sun' %}
+          {% lucide 'moon' %}
         </div>
-        <script src="/js/themeSwitch.js"></script>
-      {% endunless %}
+      </div>
+      <script src="/js/themeSwitch.js"></script>
+    {% endunless %}
+    {% unless noFooterImage %}
       {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
       {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
       {% image 'gallery/' footername 500 footerimg.name 'footer-img' %}
-  </footer>
-{% endunless %}
+    {% endunless %}
+</footer>
 <div class="license">The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
 <script>
