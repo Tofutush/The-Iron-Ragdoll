@@ -57,10 +57,6 @@ body {
         --c: var(--c-dark);
         --box: var(--box-dark);
 
-        & header {
-            text-shadow: 0px 0px 10px #fff, 1px 1px 50px #fff, -1px -1px 50px #fff;
-        }
-
         & .theme-toggle>div {
             left: 36px;
 
@@ -364,6 +360,10 @@ nav>a:hover,
 .license>a:hover {
     text-decoration: underline;
     color: var(--bg);
+}
+
+footer {
+    min-height: 56px;
 }
 
 .footer-img {
