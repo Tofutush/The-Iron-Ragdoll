@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-23
+
+- You can now switch themes on comic pages that don't have a background image set;
+	- You have no idea how much trouble I went through to make this… Why…
+
 ## 2025-05-22
 
 - Added `sparrow.png`, `moonbeam ball.png`;
@@ -49,7 +54,7 @@ titlezh: 更新日志
 
 - Added a quick info section to each country;
 - Character layout change! Not an overhaul but I made some edits;
-  - Now every character also features a pagedoll (if I want them to have one);
+	- Now every character also features a pagedoll (if I want them to have one);
 
 ## 2025-05-07
 
