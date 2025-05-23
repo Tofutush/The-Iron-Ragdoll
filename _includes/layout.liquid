@@ -2,7 +2,6 @@
 navOptions:
   includeSelf: true
 ---
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -29,6 +28,7 @@ navOptions:
     </style>
   {% endif %}
 </head>
+{% assign siteTheme = siteTheme | default: false %}
 <body class="{% if siteTheme %}{{ siteTheme }}{% else %}light{% endif %}">
 <header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner.png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
 <nav>
@@ -62,24 +62,24 @@ navOptions:
   {% endunless %}
   {{ content }}
 </main>
-{{ siteTheme }}
-{% if siteTheme %}theme true: {{ theme }}{% else %}theme false: {{ theme }}{% endif %}
-<footer>
-    {% unless siteTheme %}
-      <div class="theme-toggle">
-        <div>
-          {% lucide 'sun' %}
-          {% lucide 'moon' %}
+{% unless siteTheme and noFooterImage %}
+  <footer>
+      {% unless siteTheme %}
+        <div class="theme-toggle">
+          <div>
+            {% lucide 'sun' %}
+            {% lucide 'moon' %}
+          </div>
         </div>
-      </div>
-      <script src="/js/themeSwitch.js"></script>
-    {% endunless %}
-    {% unless noFooterImage %}
-      {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
-      {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
-      {% image 'gallery/' footername 500 footerimg.name 'footer-img' %}
-    {% endunless %}
-</footer>
+        <script src="/js/themeSwitch.js"></script>
+      {% endunless %}
+      {% unless noFooterImage %}
+        {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
+        {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
+        {% image 'gallery/' footername 500 footerimg.name 'footer-img' %}
+      {% endunless %}
+  </footer>
+{% endunless %}
 <div class="license">The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
 <script>
