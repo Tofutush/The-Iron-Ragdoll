@@ -5,89 +5,89 @@ navOptions:
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ desc }}" >
-  <meta name="author" content="Tofutush">
-  <meta name="theme-color" content="#e56b6f" />
-  <meta property="og:title" content="{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll">
-  <meta property="og:type" content="website">
-  <meta property="og:image" content="/icon.ico">
-  <meta property="og:site_name" content="The Iron Ragdoll">
-  <meta property="og:description" content="{{ desc }}">
-  <title>{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll</title>
-  <link rel="stylesheet" href="/css/style.css"/>
-  <link rel="stylesheet" href="/css/callout.css"/>
-  <link rel="stylesheet" href="/css/linkcolor.css"/>
-  <link rel="icon" href="/icon.ico"/>
-  {% if widepage %}
-    <style>
-      main {
-        max-width: 1200px;
-      }
-    </style>
-  {% endif %}
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="{{ desc }}" >
+	<meta name="author" content="Tofutush">
+	<meta name="theme-color" content="#e56b6f" />
+	<meta property="og:title" content="{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="/icon.ico">
+	<meta property="og:site_name" content="The Iron Ragdoll">
+	<meta property="og:description" content="{{ desc }}">
+	<title>{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll</title>
+	<link rel="stylesheet" href="/css/style.css"/>
+	<link rel="stylesheet" href="/css/callout.css"/>
+	<link rel="stylesheet" href="/css/linkcolor.css"/>
+	<link rel="icon" href="/icon.ico"/>
+	{% if widepage %}
+		<style>
+			main {
+			max-width: 1200px;
+			}
+		</style>
+	{% endif %}
 </head>
 {% assign siteTheme = siteTheme | default: false %}
 <body class="{% if siteTheme %}{{ siteTheme }}{% else %}light{% endif %}">
-<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner.png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
-<nav>
-  <a href="#top">(Top)</a>
-  <a href="/about/">About</a>
-  <a href="/characters/">Characters</a>
-  <a href="/stories/">Stories</a>
-  <a href="/world/">World</a>
-  <a href="/gallery/2025/">Gallery</a>
-</nav>
-<main>
-  {% unless noNav %}
-    {% if navTitle %}
-      {% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
-    {% else %}
-      {% assign bc = collections.all | eleventyNavigationBreadcrumb: title, navOptions %}
-    {% endif %}
-    {% assign length = bc | size %}
-    {% if length > 2 %}
-      <div class="breadcrumbs">
-        {% for item in bc %}
-          {% if forloop.index != 1 %}
-            {% if forloop.index != 2 %}
-              {% lucide 'chevron-right' %}
-            {% endif %}
-            <a href="{{ item.url }}">{{ item.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    {% endif %}
-  {% endunless %}
-  {{ content }}
-</main>
-{% unless siteTheme and noFooterImage %}
-  <footer>
-      {% unless siteTheme %}
-        <div class="theme-toggle">
-          <div>
-            {% lucide 'sun' %}
-            {% lucide 'moon' %}
-          </div>
-        </div>
-        <script src="/js/themeSwitch.js"></script>
-      {% endunless %}
-      {% unless noFooterImage %}
-        {% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
-        {% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
-        {% image 'gallery/' footername 500 footerimg.name 'footer-img' %}
-      {% endunless %}
-  </footer>
-{% endunless %}
-<div class="license">The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
-<script>
-if(!window.location.href.includes('localhost')) {
-  window.addEventListener('load', () => {
-    quicklink.listen();
-  });
-}
-</script>
+	<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner.png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
+	<nav>
+		<a href="#top">(Top)</a>
+		<a href="/about/">About</a>
+		<a href="/characters/">Characters</a>
+		<a href="/stories/">Stories</a>
+		<a href="/world/">World</a>
+		<a href="/gallery/2025/">Gallery</a>
+	</nav>
+	<main>
+		{% unless noNav %}
+			{% if navTitle %}
+				{% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
+			{% else %}
+				{% assign bc = collections.all | eleventyNavigationBreadcrumb: title, navOptions %}
+			{% endif %}
+			{% assign length = bc | size %}
+			{% if length > 2 %}
+				<div class="breadcrumbs">
+					{% for item in bc %}
+					{% if forloop.index != 1 %}
+						{% if forloop.index != 2 %}
+						{% lucide 'chevron-right' %}
+						{% endif %}
+						<a href="{{ item.url }}">{{ item.title }}</a>
+					{% endif %}
+					{% endfor %}
+				</div>
+			{% endif %}
+		{% endunless %}
+		{{ content }}
+	</main>
+	{% unless siteTheme and noFooterImage %}
+		<footer>
+			{% unless siteTheme %}
+				<div class="theme-toggle">
+					<div>
+						{% lucide 'sun' %}
+						{% lucide 'moon' %}
+					</div>
+				</div>
+				<script src="/js/themeSwitch.js"></script>
+			{% endunless %}
+			{% unless noFooterImage %}
+				{% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
+				{% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
+				{% image 'gallery/' footername 500 footerimg.name 'footer-img' %}
+			{% endunless %}
+		</footer>
+	{% endunless %}
+	<div class="license">The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
+	<script>
+		if(!window.location.href.includes('localhost')) {
+			window.addEventListener('load', () => {
+				quicklink.listen();
+			});
+		}
+	</script>
 </body>
 </html>
