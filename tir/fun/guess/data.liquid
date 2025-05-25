@@ -1,0 +1,9 @@
+---
+permalink: "fun/guess/data.js"
+---
+{% assign data = characters | getGuessData: relationships %}
+const data = {{ data | json }};
+
+const imgs = {
+    {% for ch in data.ch %}{% assign profile = ch | lowerCase | append: ' profile.png' %}{% assign thumb = ch | lowerCase | append: ' thumb.png' %}{% capture url %}{% imageUrl 'gallery/' profile 200 thumb %}{% endcapture %}{{ ch }}: "{{ url | htmlBaseUrl }}",{% endfor %}
+};
