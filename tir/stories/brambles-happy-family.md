@@ -20,6 +20,7 @@ myTags:
   - Bauhinia
   - Coastline
   - Oneshot
+  - Comic
 ---
 
 Bramble is reading his essay, "My Happy Family," in front of his class. Meanwhile, his parents are doing through their respective days.
