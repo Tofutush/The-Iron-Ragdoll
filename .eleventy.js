@@ -100,6 +100,7 @@ module.exports = function (eleventyConfig) {
 		dir: {
 			input: 'tir',
 			includes: '../_includes',
+			layouts: '../_layouts',
 			data: '../_data'
 		},
 		passthroughFileCopy: true,
