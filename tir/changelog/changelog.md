@@ -8,6 +8,14 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-25
+
+- THE LONG-ANTICIPATED CHARACTER UPDATE IS HERE
+	- Character data had been freed from prison;
+		- They will get promptly updated as I edit them in the future;
+	- Long-due new characters have been added;
+		- This will git rid of broken character links on not only this site, but also Toyhouse and Artfight;
+
 ## 2025-05-23
 
 - You can now switch themes on comic pages that don't have a background image set;
