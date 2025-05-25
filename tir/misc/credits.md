@@ -18,7 +18,7 @@ Most content on this site is made by myself. What isn't:
 - Markdown files are edited in [Obsidian](https://obsidian.md).
 - Most [wallpapers] are made by [TheOliveOli](https://theoliveoli.blahaj.land/).
 
-All stories, characters, and artwork on this site are created by myself. Art by others can be found on [Toyhouse](https://toyhou.se/Tofutush).
+All stories and characters on this site are created by myself. Some artwork is by other people. If you would like me to remove your artwork, change the attribution link, or anything else, please [tell me](/contact/)!
 
 ## Let me tell you about Homestuck
 
