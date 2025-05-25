@@ -15,7 +15,10 @@ titlezh: 更新日志
 		- They will get promptly updated as I edit them in the future;
 	- Long-due new characters have been added;
 		- This will git rid of broken character links on not only this site, but also Toyhouse and Artfight;
+	- Added Artfight links to every character;
+		- If they aren't uploaded to Artfight, the link leads to "Other Character" instead;
 - Released the [guessing game](/fun/guess/);
+- Fixed the header not linking to the homepage;
 
 ## 2025-05-23
 
