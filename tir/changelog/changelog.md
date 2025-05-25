@@ -21,6 +21,7 @@ titlezh: 更新日志
 		- If they aren't uploaded to Artfight, the link leads to "Other Character" instead;
 - Released the [guessing game](/fun/guess/);
 - Fixed the header not linking to the homepage;
+- Edited [Goals](/goals/);
 
 ## 2025-05-23
 
