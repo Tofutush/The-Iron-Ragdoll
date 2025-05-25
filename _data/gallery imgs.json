@@ -1227,7 +1227,8 @@
     "ch": [
       "beauty"
     ],
-    "date": "2024-11-18"
+    "date": "2024-11-18",
+    "kind": "pagedoll"
   },
   {
     "name": "chastity stand",
@@ -1235,7 +1236,8 @@
     "ch": [
       "chastity"
     ],
-    "date": "2024-11-19"
+    "date": "2024-11-19",
+    "kind": "pagedoll"
   },
   {
     "name": "devotion stand",
@@ -1243,7 +1245,8 @@
     "ch": [
       "devotion"
     ],
-    "date": "2024-11-19"
+    "date": "2024-11-19",
+    "kind": "pagedoll"
   },
   {
     "name": "elegance stand",
@@ -1251,7 +1254,8 @@
     "ch": [
       "elegance"
     ],
-    "date": "2024-11-19"
+    "date": "2024-11-19",
+    "kind": "pagedoll"
   },
   {
     "name": "dijkolo",
@@ -2310,6 +2314,445 @@
     "date": "2025-03-10"
   },
   {
+    "name": "buttercup lilyofthe428valley",
+    "type": "png",
+    "author": "Lilyofthe328Valley",
+    "authorUrl": "https://toyhou.se/Lilyofthe328Valley",
+    "ch": [
+      "buttercup"
+    ],
+    "date": "2024-09-24"
+  },
+  {
+    "name": "buttercup plowyawya",
+    "type": "png",
+    "author": "plowyawya",
+    "authorUrl": "https://toyhou.se/plowyawya",
+    "ch": [
+      "buttercup"
+    ],
+    "date": "2025-03-05"
+  },
+  {
+    "name": "buttercup martiansnake",
+    "type": "png",
+    "author": "MartianSnake",
+    "authorUrl": "https://toyhou.se/MartianSnake",
+    "ch": [
+      "buttercup"
+    ],
+    "date": "2024-12-30"
+  },
+  {
+    "name": "cosmo kynni",
+    "type": "jpg",
+    "author": "Kynni",
+    "authorUrl": "https://artfight.net/~kynni",
+    "ch": [
+      "cosmo"
+    ],
+    "date": "2024-07-17"
+  },
+  {
+    "name": "cosmo toasti",
+    "type": "png",
+    "author": "t0asti3_",
+    "authorUrl": "https://toyhou.se/t0asti3_",
+    "ch": [
+      "cosmo"
+    ],
+    "date": "2024-08-26"
+  },
+  {
+    "name": "headshots ehwesson",
+    "type": "jpg",
+    "author": "ehwesson",
+    "authorUrl": "https://artfight.net/~ehwesson",
+    "ch": [
+      "sparky",
+      "nightsun",
+      "tephra",
+      "melody",
+      "amber",
+      "cosmo",
+      "tomato",
+      "ribbon",
+      "starry",
+      "guillotine",
+      "peacock",
+      "alaska",
+      "dragonfly"
+    ],
+    "date": "2024-07-04"
+  },
+  {
+    "name": "goose wickie",
+    "type": "png",
+    "author": "wickie",
+    "authorUrl": "https://toyhou.se/wickie",
+    "ch": [
+      "goose"
+    ],
+    "date": "2025-03-06"
+  },
+  {
+    "name": "goose Charessel",
+    "type": "png",
+    "author": "Charessel",
+    "authorUrl": "https://toyhou.se/Charessel",
+    "ch": [
+      "goose"
+    ],
+    "date": "2025-02-27"
+  },
+  {
+    "name": "kolo goose pumpkin",
+    "type": "png",
+    "author": "Kolo",
+    "authorUrl": "https://numbersstory.com/",
+    "ch": [
+      "goose",
+      "pumpkin"
+    ],
+    "date": "2025-01-02"
+  },
+  {
+    "name": "goose antrelyz",
+    "type": "jpg",
+    "author": "Antreylz",
+    "authorUrl": "https://toyhou.se/Antreylz",
+    "ch": [
+      "goose"
+    ],
+    "date": "2024-09-15"
+  },
+  {
+    "name": "goose soapbox",
+    "type": "png",
+    "author": "S04PB0X",
+    "authorUrl": "https://toyhou.se/S04PB0X",
+    "ch": [
+      "goose"
+    ],
+    "date": "2024-09-24"
+  },
+  {
+    "name": "goose deny005",
+    "type": "png",
+    "author": "Deny005",
+    "authorUrl": "https://toyhou.se/Deny005",
+    "ch": [
+      "goose"
+    ],
+    "date": "2025-03-03"
+  },
+  {
+    "name": "jerboa heebhullaballo",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/HeebHullaballo",
+    "author": "HeebHullaballo",
+    "ch": [
+      "jerboa"
+    ],
+    "date": "2024-09-09"
+  },
+  {
+    "name": "jerboa jaculus Indigaygo",
+    "type": "png",
+    "author": "Indigaygo",
+    "authorUrl": "https://toyhou.se/Indigaygo",
+    "ch": [
+      "jaculus",
+      "jerboa"
+    ],
+    "date": "2025-02-26"
+  },
+  {
+    "name": "jerboa kroco",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/Kr0co",
+    "author": "Kr0co",
+    "ch": [
+      "jerboa"
+    ],
+    "date": "2024-08-21"
+  },
+  {
+    "name": "melody honk-shoo",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/Honk-Shoo",
+    "author": "Honk-Shoo",
+    "ch": [
+      "melody"
+    ],
+    "date": "2024-10-20"
+  },
+  {
+    "name": "pumpkin candlelight lovelovesignal",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/lovelovesignal",
+    "author": "lovelovesignal",
+    "ch": [
+      "pumpkin",
+      "candlelight"
+    ],
+    "date": "2025-03-05"
+  },
+  {
+    "name": "ribbon toasti",
+    "type": "png",
+    "author": "t0asti3_",
+    "authorUrl": "https://toyhou.se/t0asti3_",
+    "ch": [
+      "ribbon"
+    ],
+    "date": "2024-08-26"
+  },
+  {
+    "name": "ribbon kroco",
+    "type": "png",
+    "author": "Kr0co",
+    "authorUrl": "https://toyhou.se/Kr0co",
+    "ch": [
+      "ribbon"
+    ],
+    "date": "2024-08-21"
+  },
+  {
+    "name": "ribbon tombstonefrost",
+    "type": "jpg",
+    "authorUrl": "https://artfight.net/~tombston3fr0st",
+    "author": "tombston3fr0st",
+    "ch": [
+      "ribbon"
+    ],
+    "date": "2024-07-30"
+  },
+  {
+    "name": "ribbon gingeralestudios",
+    "type": "jpg",
+    "authorUrl": "https://artfight.net/~gingeralestudios",
+    "author": "gingeralestudios",
+    "ch": [
+      "ribbon"
+    ],
+    "date": "2024-07-13"
+  },
+  {
+    "name": "starry crrus",
+    "type": "png",
+    "author": "crrus",
+    "authorUrl": "https://artfight.net/~crrus",
+    "ch": [
+      "starry"
+    ],
+    "date": "2024-07-15"
+  },
+  {
+    "name": "starry lilyvalley",
+    "type": "png",
+    "author": "Lilyofthe328Valley",
+    "authorUrl": "https://toyhou.se/Lilyofthe328Valley",
+    "ch": [
+      "starry"
+    ],
+    "date": "2024-09-24"
+  },
+  {
+    "name": "starry valley",
+    "type": "gif",
+    "author": "Lilyofthe328Valley",
+    "authorUrl": "https://toyhou.se/Lilyofthe328Valley",
+    "ch": [
+      "starry"
+    ],
+    "date": "2024-09-24"
+  },
+  {
+    "name": "tundra quiksylver",
+    "type": "png",
+    "author": "QuikSylver",
+    "authorUrl": "https://toyhou.se/QuikSylver",
+    "ch": [
+      "tundra"
+    ],
+    "date": "2024-09-19"
+  },
+  {
+    "name": "tephra captian fartbeard",
+    "type": "gif",
+    "authorUrl": "https://toyhou.se/Captain_Fartbeard",
+    "author": "Captain_Fartbeard",
+    "ch": [
+      "tephra"
+    ],
+    "date": "2024-07-09"
+  },
+  {
+    "name": "tephra z3ta",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/Z3ta",
+    "author": "Z3ta",
+    "ch": [
+      "tephra"
+    ],
+    "date": "2025-03-10"
+  },
+  {
+    "name": "sparky nicegirlslumber",
+    "type": "jpg",
+    "author": "nicegirlslumber",
+    "authorUrl": "https://neocities.org/site/nicegirlslumber",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-06"
+  },
+  {
+    "name": "sparky nightsun castrr-oil001",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/castrr-oil001",
+    "author": "castrr-oil001",
+    "ch": [
+      "sparky",
+      "nightsun"
+    ],
+    "date": "2025-02-15"
+  },
+  {
+    "name": "sparky nightsun mangocryptid",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/mangocryptid",
+    "author": "mangocryptid",
+    "ch": [
+      "nightsun",
+      "sparky"
+    ],
+    "date": "2024-09-28"
+  },
+  {
+    "name": "sparky lilyvalley",
+    "type": "png",
+    "author": "Lilyofthe328Valley",
+    "authorUrl": "https://toyhou.se/Lilyofthe328Valley",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-09-24"
+  },
+  {
+    "name": "sparky lilyvalley",
+    "type": "gif",
+    "author": "Lilyofthe328Valley",
+    "authorUrl": "https://toyhou.se/Lilyofthe328Valley",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-09-24"
+  },
+  {
+    "name": "sparky nightsun ozzanpa",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/Ozzanpa_Wowzers",
+    "author": "Ozzanpa_Wowzers",
+    "ch": [
+      "sparky",
+      "nightsun"
+    ],
+    "date": "2024-09-11"
+  },
+  {
+    "name": "sparky captnday",
+    "type": "png",
+    "author": "captnday",
+    "authorUrl": "https://toyhou.se/captnday",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-09-04"
+  },
+  {
+    "name": "sparky qswanq",
+    "type": "jpg",
+    "authorUrl": "https://toyhou.se/QswanQ",
+    "author": "QswanQ",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-07-30"
+  },
+  {
+    "name": "sparky aincentfrogz",
+    "type": "jpg",
+    "authorUrl": "https://toyhou.se/ancientfrogz",
+    "author": "ancientfrogz",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-07-30"
+  },
+  {
+    "name": "sparky sleepyarty",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/SleepyArty",
+    "author": "SleepyArty",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-07-17"
+  },
+  {
+    "name": "sparky 3cztasy",
+    "type": "jpg",
+    "authorUrl": "https://artfight.net/~3cztasy",
+    "author": "3cztasy",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-07-13"
+  },
+  {
+    "name": "sparky violetblooded",
+    "type": "png",
+    "authorUrl": "https://artfight.net/~violetblooded",
+    "author": "violetblooded",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-07-10"
+  },
+  {
+    "name": "sparky eva",
+    "type": "jpg",
+    "authorUrl": "https://toyhou.se/atc",
+    "author": "Eva",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-07-03",
+    "comment": "呜呜呜呜呜呜太好看了"
+  },
+  {
+    "name": "sparky suzu",
+    "type": "jpg",
+    "authorUrl": "https://toyhou.se/SuzuuMounnd",
+    "author": "SuzuuMounnd",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-07-02"
+  },
+  {
+    "name": "sparky smallsmartkitty",
+    "type": "png",
+    "authorUrl": "https://toyhou.se/SmallSmartkitty",
+    "author": "SmallSmartkitty",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2024-07-02"
+  },
+  {
     "name": "jackalope salute",
     "type": "png",
     "ch": [
@@ -2351,7 +2794,8 @@
     "ch": [
       "whiteout"
     ],
-    "date": "2025-03-20"
+    "date": "2025-03-20",
+    "kind": "pagedoll"
   },
   {
     "name": "sue",
@@ -2367,6 +2811,56 @@
       "jackalope"
     ],
     "date": "2025-03-21"
+  },
+  {
+    "name": "sparky sketch theoliveoli",
+    "type": "jpg",
+    "author": "TheOliveOli",
+    "authorUrl": "https://theoliveoli.blahaj.land/",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-17"
+  },
+  {
+    "name": "sparky theoliveoli",
+    "type": "png",
+    "author": "TheOliveOli",
+    "authorUrl": "https://theoliveoli.blahaj.land/",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-18"
+  },
+  {
+    "name": "jerboa theoliveoli",
+    "type": "png",
+    "author": "TheOliveOli",
+    "authorUrl": "https://theoliveoli.blahaj.land/",
+    "ch": [
+      "jerboa"
+    ],
+    "date": "2025-03-19"
+  },
+  {
+    "name": "sparky stand theoliveoli",
+    "type": "png",
+    "author": "TheOliveOli",
+    "authorUrl": "https://theoliveoli.blahaj.land/",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-21"
+  },
+  {
+    "name": "sparky drive theoliveoli",
+    "type": "png",
+    "author": "TheOliveOli",
+    "authorUrl": "https://theoliveoli.blahaj.land/",
+    "ch": [
+      "sparky"
+    ],
+    "date": "2025-03-24"
   },
   {
     "name": "nala",
@@ -2603,6 +3097,16 @@
     ]
   },
   {
+    "name": "jerboa Sheepy_Wish",
+    "type": "png",
+    "date": "2025-04-15",
+    "author": "Sheepy_Wish",
+    "authorUrl": "https://toyhou.se/Sheepy_Wish",
+    "ch": [
+      "jerboa"
+    ]
+  },
+  {
     "name": "cheshire",
     "type": "png",
     "date": "2025-04-19",
@@ -2655,6 +3159,16 @@
     "date": "2025-04-24",
     "ch": [
       "sugarcane"
+    ]
+  },
+  {
+    "name": "buttercup Bakerinator",
+    "type": "png",
+    "date": "2025-04-22",
+    "author": "Bakerinator",
+    "authorUrl": "https://toyhou.se/Bakerinator",
+    "ch": [
+      "buttercup"
     ]
   },
   {
@@ -2862,6 +3376,55 @@
     "date": "2025-05-22",
     "ch": [
       "moonbeam"
+    ]
+  },
+  {
+    "name": "sparky AggressiveFruitt",
+    "type": "png",
+    "date": "2025-04-30",
+    "authorUrl": "https://toyhou.se/AggressiveFruitt",
+    "author": "AggressiveFruitt",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "sparky 1 AggressiveFruitt",
+    "type": "png",
+    "date": "2025-04-30",
+    "authorUrl": "https://toyhou.se/AggressiveFruitt",
+    "author": "AggressiveFruitt",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "buttercup tel",
+    "type": "jpg",
+    "date": "2025-05-09",
+    "author": "andrethylene (Tel) @ Discord",
+    "ch": [
+      "buttercup"
+    ]
+  },
+  {
+    "name": "paperweight doubly_magic",
+    "type": "png",
+    "date": "2025-05-11",
+    "authorUrl": "https://toyhou.se/doubly_magic",
+    "author": "doubly_magic",
+    "ch": [
+      "paperweight"
+    ]
+  },
+  {
+    "name": "sparky JC1234TheToonist",
+    "type": "jpg",
+    "date": "2025-05-17",
+    "authorUrl": "https://toyhou.se/JC1234TheToonist",
+    "author": "JC1234TheToonist",
+    "ch": [
+      "sparky"
     ]
   }
 ]
