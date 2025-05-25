@@ -15,6 +15,8 @@ titlezh: 更新日志
 		- They will get promptly updated as I edit them in the future;
 	- Long-due new characters have been added;
 		- This will git rid of broken character links on not only this site, but also Toyhouse and Artfight;
+	- Art from other people had been added to each character's gallery;
+		- If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please [contact me](/contact/)!
 	- Added Artfight links to every character;
 		- If they aren't uploaded to Artfight, the link leads to "Other Character" instead;
 - Released the [guessing game](/fun/guess/);
