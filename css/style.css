@@ -335,6 +335,12 @@ header {
     background-position: center;
 }
 
+header a {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
 nav {
     align-items: center;
     display: flex;
