@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-26
+
+- Getting tools ready for Spy School the comic;
+
 ## 2025-05-25
 
 - THE LONG-ANTICIPATED CHARACTER UPDATE IS HERE
