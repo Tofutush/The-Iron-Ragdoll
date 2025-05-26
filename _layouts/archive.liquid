@@ -11,7 +11,7 @@ eleventyComputed:
 ---
 <h1>{{ comicTitle }} Archive</h1>
 {% for page in comicData[dataName] %}
-	<a href="../page-{{ page.pagenum }}">
+	<a href="../page-{{ page.pagenum }}/">
 		{% assign bruhhh = page.url | append: '.png' %}
 		{% assign alt = "Page " | append: page.pagenum %}
 		{% image "comics/" bruhhh 200 alt %}
