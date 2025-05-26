@@ -3442,7 +3442,8 @@
     "date": "2025-05-26",
     "ch": [
       "sugarcane"
-    ]
+    ],
+    "kind": "thumb"
   },
   {
     "name": "jelly thumb",
@@ -3450,6 +3451,7 @@
     "date": "2025-05-26",
     "ch": [
       "jelly"
-    ]
+    ],
+    "kind": "thumb"
   }
 ]
