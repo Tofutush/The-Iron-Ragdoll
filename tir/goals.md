@@ -18,7 +18,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 	- Originally planned as a kinda-open-world point and click game where you wreak havoc around the school. See its planning site [here](https://tofutush.github.io/havoc101).
 	- Would probably never actually get even started. But in the rare case that it does, it would be made in Adventure Game Studio.
 - [Spy School](/stories/spy-school/) the comic
-	- Templating for Homestuck-style dialog and narration
+	- Templating for Homestuck-style dialog and narration (Done!)
 	- Archive pages with little image thumbnails
 		- Man I used to wanted to do this back when I didn't use 11ty and I couldn't bother to export little thumbs all the time. Now I can just *do* it
 - New About page that's written like a dossier because yes.
