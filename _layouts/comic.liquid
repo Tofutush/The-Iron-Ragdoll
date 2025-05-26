@@ -52,6 +52,7 @@ eleventyComputed:
 	<div id="save">
 		<a title="Save" onclick="save()">{% lucide 'arrow-down-from-line' %}</a>
 		<a title="Load" onclick="load()">{% lucide 'arrow-up-from-line' %}</a>
+		{% if archive %}<a title="Archive" href="../archive/">{% lucide 'list' %}</a>{% endif %}
 	</div>
 </div>
 {% if comic.note %}
