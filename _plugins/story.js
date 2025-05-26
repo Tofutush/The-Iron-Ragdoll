@@ -17,5 +17,13 @@ function storyPlugin(eleventyConfig) {
     eleventyConfig.addFilter('filterStoriesByTag', function (arr, tag) {
         return arr.filter(a => a.data.myTags?.includes(tag));
     });
+    eleventyConfig.addFilter('dialogGetCharacter', function (str) {
+        let idx = str.indexOf(': ');
+        return str.slice(0, idx);
+    });
+    eleventyConfig.addFilter('dialogGetLine', function (str) {
+        let idx = str.indexOf(': ');
+        return str.slice(idx + 2);
+    });
 }
 module.exports = storyPlugin;

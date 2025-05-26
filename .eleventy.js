@@ -85,6 +85,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addFilter('getFooterImg', function (arr, name) {
 		return arr[Array.from(name).reduce((sum, i) => sum + i.charCodeAt(0), 0) % arr.length];
 	});
+	eleventyConfig.addFilter('isArray', function (arg) {
+		return Array.isArray(arg);
+	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
 			let beautified = beautify(content, {
