@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-05-26
 
 - Getting tools ready for Spy School the comic;
+- Added `jelly adult stand.png`;
 
 ## 2025-05-25
 

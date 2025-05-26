@@ -3198,7 +3198,8 @@
     "date": "2025-04-28",
     "ch": [
       "jasmine"
-    ]
+    ],
+    "kind": "thumb"
   },
   {
     "name": "jasmine profile",
@@ -3425,6 +3426,14 @@
     "author": "JC1234TheToonist",
     "ch": [
       "sparky"
+    ]
+  },
+  {
+    "name": "jelly adult stand",
+    "type": "png",
+    "date": "2025-05-26",
+    "ch": [
+      "jelly"
     ]
   }
 ]
