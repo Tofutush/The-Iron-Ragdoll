@@ -29,6 +29,23 @@ eleventyComputed:
 	{% assign alt = "Page " | append: comic.pagenum %}
 	{% image "comics/" bruhhh 1000 alt %}
 </div>
+{% if comic.content %}
+	{% for line in comic.content %}
+		{% assign isArray = line | isArray %}
+		{% if isArray %}
+			<div class="attr">
+				{% for dialog in line %}
+					{% assign ch = dialog | dialogGetCharacter %}
+					{% assign ln = dialog | dialogGetLine %}
+					<p class="attr-key"><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</a></p>
+					{{ ln | renderMD }}
+				{% endfor %}
+			</div>
+		{% else %}
+			{{ line | renderMD }}
+		{% endif %}
+	{% endfor %}
+{% endif %}
 {% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum %}
 <div id="date-save">
 	<p>{{ comic.date }}</p>

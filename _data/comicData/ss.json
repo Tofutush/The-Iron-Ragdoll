@@ -6,7 +6,8 @@
         "content": [
             "There was a knock on the door.",
             [
-                "Entity::I'll go get it."
+                "Entity: I'll go get it.",
+                "Harmony: Okay."
             ]
         ]
     }
