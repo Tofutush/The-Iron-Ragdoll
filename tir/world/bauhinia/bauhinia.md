@@ -16,14 +16,14 @@ titlezh: 紫荆共和国
 {% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" 'max' %}
 
 <div class="attr">
-  <p class="attr-key">Pronunciation</p>
-  <p class="attr-val">Bau-HEE-nee-a</p>
-  <p class="attr-key">Demonym</p>
-  <p class="attr-val">Bauhunian</p>
-  <p class="attr-key">Capital</p>
-  <p class="attr-val"><a href="/world/bauhinia/flower-city/">Flower City</a></p>
-  <p class="attr-key">Symbol</p>
-  <p class="attr-val">The bauhinia flower</p>
+  <p>Pronunciation</p>
+  <p>Bau-HEE-nee-a</p>
+  <p>Demonym</p>
+  <p>Bauhunian</p>
+  <p>Capital</p>
+  <p><a href="/world/bauhinia/flower-city/">Flower City</a></p>
+  <p>Symbol</p>
+  <p>The bauhinia flower</p>
 </div>
 
 The pink bureaucratic fanatic.

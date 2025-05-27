@@ -16,14 +16,14 @@ titlezh: 伟思德维亚人民共和国
 {% image "gallery/" "westavia flag.svg" 1000 "Flag of Westavia" 'max' %}
 
 <div class="attr">
-  <p class="attr-key">Pronunciation</p>
-  <p class="attr-val">Wes-DAY-vee-a</p>
-  <p class="attr-key">Demonym</p>
-  <p class="attr-val">Westavian</p>
-  <p class="attr-key">Capital</p>
-  <p class="attr-val"><a href="/world/westavia/peoples-vanguard/">People's Vanguard</a></p>
-  <p class="attr-key">Symbol</p>
-  <p class="attr-val">The seven-point star</p>
+  <p>Pronunciation</p>
+  <p>Wes-DAY-vee-a</p>
+  <p>Demonym</p>
+  <p>Westavian</p>
+  <p>Capital</p>
+  <p><a href="/world/westavia/peoples-vanguard/">People's Vanguard</a></p>
+  <p>Symbol</p>
+  <p>The seven-point star</p>
 </div>
 
 The brown alcoholics.

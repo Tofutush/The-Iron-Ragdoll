@@ -7,21 +7,21 @@ eleventyComputed:
   desc: "{{ summary }}"
 ---
 <div class="attr">
-  <p class="attr-key">Canon?</p>
-  <p class="attr-val">{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi'
+  <p>Canon?</p>
+  <p>{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi'
     %}Semi-canon (is not planned in the plot, but has no conflicts with the original story){% else %}No (you should not
     consider this in the context of TIR's universe){% endif %}</p>
-  <p class="attr-key">Main Cast</p>
-  <div class="attr-val tags">
+  <p>Main Cast</p>
+  <div class="tags">
     {% for ch in chs %}
       {% include 'chButton', ch: ch %}
     {% endfor %}
   </div>
-  <p class="attr-key">Time period</p>
-  <p class="attr-val">{{ time }}</p>
+  <p>Time period</p>
+  <p>{{ time }}</p>
   {% if myTags %}
-    <p class="attr-key">Tags</p>
-    <div class="attr-val tags">
+    <p>Tags</p>
+    <div class="tags">
       {% for tag in myTags %}
         <a href="/stories/tag/{{ tag | slug }}/">{{ tag }}</a>
       {% endfor %}
