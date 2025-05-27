@@ -595,12 +595,12 @@ hr {
         margin-top: 0;
         margin-bottom: 0;
     }
-}
 
-.attr-key {
-    color: var(--c);
-    font-weight: bold;
-    text-align: right;
+    &>:nth-child(2n-1) {
+        color: var(--c);
+        font-weight: bold;
+        text-align: right;
+    }
 }
 
 .prev-next {
@@ -645,13 +645,13 @@ a::selection {
 
     .attr {
         grid-template-columns: 1fr;
-    }
 
-    .attr-key {
-        text-align: left;
-    }
+        &>:nth-child(2n-1) {
+            text-align: left;
+        }
 
-    .attr-val {
-        margin-left: 1em;
+        &>:nth-child(2n) {
+            margin-left: 1em;
+        }
     }
 }
