@@ -37,7 +37,7 @@ eleventyComputed:
 				{% for dialog in line %}
 					{% assign ch = dialog | dialogGetCharacter %}
 					{% assign ln = dialog | dialogGetLine %}
-					<p class="attr-key"><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</a></p>
+					<p><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</a></p>
 					{{ ln | renderMD }}
 				{% endfor %}
 			</div>

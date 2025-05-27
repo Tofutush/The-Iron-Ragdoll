@@ -16,14 +16,14 @@ titlezh: 莫尔兰共和国
 {% image "gallery/" "moreland flag.svg" 1000 "Flag of Moreland" 'max' %}
 
 <div class="attr">
-  <p class="attr-key">Pronunciation</p>
-  <p class="attr-val">MORE-lend</p>
-  <p class="attr-key">Demonym</p>
-  <p class="attr-val">Moose (people) / Morelandian (things)</p>
-  <p class="attr-key">Capital</p>
-  <p class="attr-val"><a href="/world/moreland/revolutions-cradle/">Revolution's Cradle</a></p>
-  <p class="attr-key">Symbol</p>
-  <p class="attr-val">The moose</p>
+  <p>Pronunciation</p>
+  <p>MORE-lend</p>
+  <p>Demonym</p>
+  <p>Moose (people) / Morelandian (things)</p>
+  <p>Capital</p>
+  <p><a href="/world/moreland/revolutions-cradle/">Revolution's Cradle</a></p>
+  <p>Symbol</p>
+  <p>The moose</p>
 </div>
 
 The green moose people.

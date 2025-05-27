@@ -16,14 +16,14 @@ titlezh: 范顿共和国
 {% image "gallery/" "fanton flag.svg" 1000 "Flag of Fanton" 'max' %}
 
 <div class="attr">
-  <p class="attr-key">Pronunciation</p>
-  <p class="attr-val">FAN-ten (alternatively, FAN-[grunting sound])</p>
-  <p class="attr-key">Demonym</p>
-  <p class="attr-val">Fantoni</p>
-  <p class="attr-key">Capital</p>
-  <p class="attr-val"><a href="/world/fanton/lotus-lake-city/">Lotus Lake City</a></p>
-  <p class="attr-key">Symbol</p>
-  <p class="attr-val">The panda</p>
+  <p>Pronunciation</p>
+  <p>FAN-ten (alternatively, FAN-[grunting sound])</p>
+  <p>Demonym</p>
+  <p>Fantoni</p>
+  <p>Capital</p>
+  <p><a href="/world/fanton/lotus-lake-city/">Lotus Lake City</a></p>
+  <p>Symbol</p>
+  <p>The panda</p>
 </div>
 
 The purple starry-eyed tree-lovers.

@@ -53,14 +53,14 @@ eleventyComputed:
   {% if ch.attr %}
     <div class="attr">
       {% for att in ch.attr %}
-        <p class="attr-key">{{ att[0] }}</p>
-        <p class="attr-val">{{ att[1] }}</p>
+        <p>{{ att[0] }}</p>
+        <p>{{ att[1] }}</p>
       {% endfor %}
-      <p class="attr-key">Artfight</p>
-      <p class="attr-val"><a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}">Attack {{ ch.name }}!</a></p>
+      <p>Artfight</p>
+      <p><a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}">Attack {{ ch.name }}!</a></p>
       {% if ch.tags %}
-        <p class="attr-key">Tags</p>
-        <div class="attr-val tags">
+        <p>Tags</p>
+        <div class="tags">
           {% for tag in ch.tags %}
             <a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>
           {% endfor %}

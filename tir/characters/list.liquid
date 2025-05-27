@@ -39,8 +39,8 @@ eleventyNavigation:
 <h2 id="progress">Character art progress</h2>
 {% assign total = 0 %}
 <div class="attr">
-  <p class="attr-key">Needs design</p>
-  <div class="attr-val tags">
+  <p>Needs design</p>
+  <div class="tags">
     {% for ch in characters %}
       {% assign filteredGallery = gallery | filterGallery: ch.name %}
       {% if filteredGallery.size == 0 %}
@@ -48,8 +48,8 @@ eleventyNavigation:
       {% endif %}
     {% endfor %}
   </div>
-  <p class="attr-key">Needs thumb</p>
-  <div class="attr-val tags">
+  <p>Needs thumb</p>
+  <div class="tags">
     {% for ch in characters %}
       {% assign filteredGallery = gallery | filterGallery: ch.name %}
       {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
@@ -61,8 +61,8 @@ eleventyNavigation:
       {% endif %}
     {% endfor %}
   </div>
-  <p class="attr-key">Needs profile</p>
-  <div class="attr-val tags">
+  <p>Needs profile</p>
+  <div class="tags">
     {% for ch in characters %}
       {% assign filteredGallery = gallery | filterGallery: ch.name %}
       {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
@@ -75,8 +75,8 @@ eleventyNavigation:
       {% endif %}
     {% endfor %}
   </div>
-  <p class="attr-key">Needs reference</p>
-  <div class="attr-val tags">
+  <p>Needs reference</p>
+  <div class="tags">
     {% for ch in characters %}
       {% assign filteredGallery = gallery | filterGallery: ch.name %}
       {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
@@ -89,8 +89,8 @@ eleventyNavigation:
       {% endif %}
     {% endfor %}
   </div>
-  <p class="attr-key">Needs fav picker image</p>
-  <div class="attr-val tags">
+  <p>Needs fav picker image</p>
+  <div class="tags">
     {% for ch in characters %}
       {% assign filteredGallery = gallery | filterGallery: ch.name %}
       {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
@@ -103,8 +103,8 @@ eleventyNavigation:
       {% endif %}
     {% endfor %}
   </div>
-  <p class="attr-key">All done</p>
-  <div class="attr-val tags">
+  <p>All done</p>
+  <div class="tags">
     {% for ch in characters %}
       {% assign filteredGallery = gallery | filterGallery: ch.name %}
       {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
