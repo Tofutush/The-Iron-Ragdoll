@@ -79,6 +79,6 @@
 	}
 }
 
-.attr-key {
+.attr>:nth-child(2n-1) {
 	color: inherit;
 }
