@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-27
+
+- Released the first page of [Spy School the comic](/stories/spy-school/page-1/);
+
 ## 2025-05-26
 
 - Getting tools ready for Spy School the comic;
