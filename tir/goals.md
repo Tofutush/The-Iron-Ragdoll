@@ -19,7 +19,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 	- Would probably never actually get even started. But in the rare case that it does, it would be made in Adventure Game Studio.
 - [Spy School](/stories/spy-school/) the comic
 - Firecrackers middle finger comic
-- New About page that's written like a dossier because yes.
+- 100 followers art request
 - Idle Forced Labor Camp
 	- An idle game! In limbo due to the amount of artwork it requires. Has a basic playable version [here](https://tofutush.github.io/idlegame).
 	- it currently requires:
@@ -35,8 +35,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 		- It also looks simple and I have chosen my characters.
 - Footers
 	- Draw some lineless art for the website footer! As many as possible! There couldn't possibly be too many!
-	- {% assign footers = gallery | filterGalleryByKind: 'footer' %}
-	- Current: {{ footers.size }}.
+	- {% assign footers = gallery | filterGalleryByKind: 'footer' %}Current: {{ footers.size }}.
 - Favorite picker
 	- Coding done, but requires artwork and a logic for including alternative art for characters that haven't a fav picker image drawn
 - Family of Secrets
@@ -57,5 +56,6 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 - [Scavenger hunt game](/fun/hunt/).
 - Templating for Homestuck-style dialog and narration
 - Archive pages with little image thumbnails
+- New [About](/about/) page that's written like a dossier because yes
 
 *You found a puzzle piece: **tc**! Next clue: the tale of a 3rd gen immigrant. ([What is this?](/fun/hunt/))*
