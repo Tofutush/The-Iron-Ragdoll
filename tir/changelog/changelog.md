@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-29
+
+- Made the tag filter alphabetical (except for "all" which is always the first);
+
 ## 2025-05-28
 
 - Updated [About](/about/);
