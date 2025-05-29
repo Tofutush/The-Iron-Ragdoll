@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Made the tag filter alphabetical (except for "all" which is always the first);
 - Added `zuri emil.png`;
+- Added [Spy School page 2](/stories/spy-school/page-2/);
 
 ## 2025-05-28
 
