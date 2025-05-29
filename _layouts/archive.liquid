@@ -17,12 +17,28 @@ eleventyComputed:
 	}
 </style>
 <h1>{{ comicTitle }} Archive</h1>
-<div class="archive">
-	{% for page in comicData[dataName] %}
+{% if multiChapter %}
+	{% assign grouped = comicData[dataName] | groupByChapter %}
+	{% for group in grouped %}
+	<h2>Chapter {{ group.chapter }}</h2>
+	<div class="archive">
+		{% for page in group.pages %}
 		<a href="../page-{{ page.pagenum }}/">
 			{% assign bruhhh = page.url | append: '.png' %}
 			{% assign alt = "Page " | append: page.pagenum %}
 			{% image "comics/" bruhhh 100 alt %}
 		</a>
+		{% endfor %}
+	</div>
 	{% endfor %}
-</div>
+{% else %}
+	<div class="archive">
+		{% for page in comicData[dataName] %}
+			<a href="../page-{{ page.pagenum }}/">
+				{% assign bruhhh = page.url | append: '.png' %}
+				{% assign alt = "Page " | append: page.pagenum %}
+				{% image "comics/" bruhhh 100 alt %}
+			</a>
+		{% endfor %}
+	</div>
+{% endif %}
