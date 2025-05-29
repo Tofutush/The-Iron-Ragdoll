@@ -9,7 +9,7 @@
 	},
 	{
 		"pagenum": 1,
-		"chapter": 1,
+		"chapter": 0,
 		"url": "0/1",
 		"bg": "forest-night",
 		"theme": "dark",
@@ -18,7 +18,7 @@
 	},
 	{
 		"pagenum": 2,
-		"chapter": 1,
+		"chapter": 0,
 		"url": "0/2",
 		"bg": "forest-night",
 		"theme": "dark",
@@ -27,7 +27,7 @@
 	},
 	{
 		"pagenum": 3,
-		"chapter": 1,
+		"chapter": 0,
 		"url": "0/3",
 		"bg": "forest-night",
 		"theme": "dark",

@@ -3,6 +3,7 @@
         "pagenum": "1",
         "url": "ss/1",
         "date": "2025-05-27",
+        "chapter": 1,
         "content": [
             "It was a plain old Sunday morning."
         ]
@@ -11,6 +12,7 @@
         "pagenum": "2",
         "url": "ss/2",
         "date": "2025-05-29",
+        "chapter": 1,
         "content": [
             "There came a knock on the door.",
             [

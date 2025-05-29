@@ -25,5 +25,20 @@ function storyPlugin(eleventyConfig) {
         let idx = str.indexOf(': ');
         return str.slice(idx + 2);
     });
+    eleventyConfig.addFilter("groupByChapter", function (pages) {
+        let chapters = {};
+        pages.forEach(page => {
+            let chap = page.chapter || 0;
+            if (!chapters[chap]) chapters[chap] = [];
+            chapters[chap].push(page);
+        });
+        // Convert to array of {chapter, pages}
+        return Object.keys(chapters)
+            .sort((a, b) => Number(a) - Number(b))
+            .map(chap => ({
+                chapter: chap,
+                pages: chapters[chap]
+            }));
+    });
 }
 module.exports = storyPlugin;
