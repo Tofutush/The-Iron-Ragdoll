@@ -11,7 +11,7 @@ function storyPlugin(eleventyConfig) {
             if (!stories[z].data.myTags) continue;
             for (let a of stories[z].data.myTags) tags.push(a);
         }
-        tags = [...new Set(tags)];
+        tags = [...new Set(tags)].sort((a, b) => a.localeCompare(b));
         return tags;
     });
     eleventyConfig.addFilter('filterStoriesByTag', function (arr, tag) {

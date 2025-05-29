@@ -8,6 +8,6 @@ module.exports = function () {
 			tags.push(a);
 		}
 	}
-	tags = [...new Set(tags)];
+	tags = [...new Set(tags)].sort((a, b) => a.localeCompare(b));
 	return tags;
 }
