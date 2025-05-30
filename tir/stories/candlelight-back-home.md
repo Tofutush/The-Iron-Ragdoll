@@ -27,5 +27,3 @@ When they got home, he met his childhood friend Mooncake, who was also a cop and
 So for the time being, they stayed in Helsinki's.
 
 Candlelight noticed that a couple families he used to know had similar things happen to their houses — run-down and sold empty. He wondered why. The curt answers the village leader gave him was that the old members had died and the young ones were away in eastern Westavia.
-
-There were also a lot of 
