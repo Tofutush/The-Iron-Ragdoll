@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-30
+
+- Added [Spy School page 3](/stories/spy-school/page-3/);
+- Removed comic pages from the [sitemap](/sitemap/) because they were cloggy;
+
 ## 2025-05-29
 
 - Made the tag filter alphabetical (except for "all" which is always the first);
