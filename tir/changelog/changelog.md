@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Added [Spy School page 3 - 4](/stories/spy-school/page-3/);
 - Removed comic pages from the [sitemap](/sitemap/) because they were cloggy;
+- Added `sparky animus limpdick.png`;
 
 ## 2025-05-29
 
