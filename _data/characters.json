@@ -1392,6 +1392,24 @@
     "about": "A policeman in a [little village](/world/westavia/pumpkins-village/)."
   },
   {
+    "name": "Thyme",
+    "namezh": "百里香",
+    "color": "#3d7510",
+    "desc": "Leader of a tiny nameless village on the outskirts of Area 29",
+    "tags": [
+      "Westavia",
+      "Nameless Village"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Gas, thyme-shaped",
+      "Nationality": "Westavian",
+      "Marital status": "Married",
+      "Occupation": "Farmer"
+    },
+    "about": "The well-revered leader of the nameless village, who once attempted to save it from terrorists. His right leg is crippled from that incident. He is the only one who knows the real name of the village, having been informed of it by the previous leader, though he dares not utter it in front of others."
+  },
+  {
     "name": "Cobalt",
     "namezh": "钴蚀天",
     "color": "#0e81c8",
