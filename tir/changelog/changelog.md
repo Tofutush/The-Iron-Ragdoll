@@ -8,6 +8,12 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-05-31
+
+- Added story [Nameless Village Backstory](/stories/nameless-village-backstory/);
+- Added [Thyme](/characters/thyme/);
+- Added some [minor characters](/characters/minor/);
+
 ## 2025-05-30
 
 - Added [Spy School page 3 - 4](/stories/spy-school/page-3/);

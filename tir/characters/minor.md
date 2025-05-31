@@ -43,7 +43,7 @@ Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/an
 
 ### Snowstorm
 
-[Frosting](/characters/frosting/)'s colleague (#2D649F).
+[Frosting](/characters/frosting/)'s colleague, [Suagrcane](/characters/sugarcane/)'s mother (#2D649F).
 
 ### Tangerine
 
