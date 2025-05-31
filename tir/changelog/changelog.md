@@ -13,6 +13,7 @@ titlezh: 更新日志
 - Added story [Nameless Village Backstory](/stories/nameless-village-backstory/);
 - Added [Thyme](/characters/thyme/);
 - Added some [minor characters](/characters/minor/);
+- Added `firecrackers hide n seek.png`;
 
 ## 2025-05-30
 
