@@ -2,7 +2,7 @@ h1,
 h2,
 main h2::before,
 main h3::before,
-.attr-key {
+.attr>:nth-child(2n-1) {
   color: var(--accent);
 }
 
