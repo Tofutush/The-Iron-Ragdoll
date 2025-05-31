@@ -29,6 +29,26 @@ Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/an
 
 [Ironheart](/characters/ironheart/)'s daughter.
 
+### Sundew
+
+[Candlelight](/characters/candlelight/)'s older sister.
+
+### Muscat
+
+[Candlelight](/characters/candlelight/)'s mother.
+
+### Ember
+
+[Candlelight](/characters/candlelight/)'s father.
+
+### Snowstorm
+
+[Frosting](/characters/frosting/)'s colleague (#2D649F).
+
+### Tangerine
+
+[Entity](/characters/entity/)'s colleague (#C67C15).
+
 ## Pets
 
 ### Sandstorm

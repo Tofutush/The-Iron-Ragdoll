@@ -1921,45 +1921,5 @@
       "Soul": "Solid, diamond",
       "Nationality": "Bauhinian"
     }
-  },
-  {
-    "name": "Tangerine",
-    "namezh": "柑橘",
-    "color": "#c67c15",
-    "desc": "Fellow soul-extractor.",
-    "tags": [
-      "Flower City",
-      "Bauhinia",
-      "Family of Secrets",
-      "Generation 1"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Gas, cloudy",
-      "Age estimation": "The same as Entity",
-      "Nationality": "Bauhinian",
-      "Occupation": "Executioner"
-    },
-    "palette": {
-      "hair": "#2e2e2e"
-    }
-  },
-  {
-    "name": "Snowstorm",
-    "namezh": "雪暴",
-    "color": "#2d649f",
-    "desc": "Archivist.",
-    "tags": [
-      "Flower City",
-      "Bauhinia",
-      "Family of Secrets",
-      "Generation 1"
-    ],
-    "attr": {
-      "Gender": "Female",
-      "Age estimation": "The same as Frosting",
-      "Nationality": "Bauhinian",
-      "Occupation": "Archivist"
-    }
   }
 ]
