@@ -1030,19 +1030,6 @@
   {
     "ch": [
       [
-        "Frosting",
-        "colleague"
-      ],
-      [
-        "Snowstorm",
-        "colleague"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
         "Jaculus",
         "older sister"
       ],
@@ -1185,19 +1172,6 @@
   {
     "ch": [
       [
-        "Entity",
-        "friend"
-      ],
-      [
-        "Tangerine",
-        "friend"
-      ]
-    ],
-    "desc": "Entity and Tangerine met during their soul-extraction training, and became good friends."
-  },
-  {
-    "ch": [
-      [
         "Harmony",
         "friend"
       ],
@@ -1233,19 +1207,6 @@
       ]
     ],
     "desc": "Sugarcane made friends with Jelly, but it was actually to run her as an agent."
-  },
-  {
-    "ch": [
-      [
-        "Sugarcane",
-        "daughter"
-      ],
-      [
-        "Snowstorm",
-        "mother"
-      ]
-    ],
-    "desc": ""
   },
   {
     "ch": [
