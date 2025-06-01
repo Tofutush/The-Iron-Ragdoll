@@ -3477,5 +3477,22 @@
       "firecrackers",
       "sparky"
     ]
+  },
+  {
+    "name": "nebula lilypad",
+    "type": "png",
+    "date": "2025-06-01",
+    "ch": [
+      "nebula"
+    ]
+  },
+  {
+    "name": "nebula cross legs",
+    "type": "png",
+    "date": "2025-06-01",
+    "ch": [
+      "nebula"
+    ],
+    "kind": "pagedoll"
   }
 ]
