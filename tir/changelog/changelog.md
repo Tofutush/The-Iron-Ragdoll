@@ -10,7 +10,8 @@ titlezh: 更新日志
 
 ## 2025-06-01
 
-- Added `nebula lilypad.png`, `nebula cross legs.png`;
+- Added `nebula lilypad.png`, `nebula cross legs.png`, the latter of which is her pagedoll now;
+- Made the character trivia section more flexible for myself;
 - Moved April to older updates;
 
 ## 2025-05-31

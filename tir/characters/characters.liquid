@@ -104,11 +104,7 @@ eleventyComputed:
   {% endif %}
   {% if ch.trivia %}
     <h2 id="trivia">Trivia</h2>
-    <ul>
-      {% for tri in ch.trivia %}
-        <li>{{ tri }}</li>
-      {% endfor %}
-    </ul>
+    {{ ch.trivia | renderMD }}
   {% endif %}
   <h2 id="reference">Reference</h2>
   {% assign palette = ch | getFullPalette %}
