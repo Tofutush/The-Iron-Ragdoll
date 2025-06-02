@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-02
+
+- Added `pearl footer.png`, `sugarcane harmony footer.png`;
+	- They have also been added to the site footers;
+
 ## 2025-06-01
 
 - Added `nebula lilypad.png`, `nebula cross legs.png`, the latter of which is her pagedoll now;
