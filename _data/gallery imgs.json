@@ -3494,5 +3494,24 @@
       "nebula"
     ],
     "kind": "pagedoll"
+  },
+  {
+    "name": "pearl footer",
+    "type": "png",
+    "date": "2025-06-02",
+    "ch": [
+      "pearl"
+    ],
+    "kind": "footer"
+  },
+  {
+    "name": "sugarcane harmony footer",
+    "type": "png",
+    "date": "2025-06-02",
+    "ch": [
+      "harmony",
+      "sugarcane"
+    ],
+    "kind": "footer"
   }
 ]
