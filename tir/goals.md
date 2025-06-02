@@ -35,7 +35,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 		- It also looks simple and I have chosen my characters.
 - Footers
 	- Draw some lineless art for the website footer! As many as possible! There couldn't possibly be too many!
-	- {% assign footers = gallery | filterGalleryByKind: 'footer' %}Current: {{ footers.size }}.
+	- {% assign footers = gallery | filterGalleryByKind: 'footer' %}Current: {{ footers.size }}. Can you find them all?
 - Favorite picker
 	- Coding done, but requires artwork and a logic for including alternative art for characters that haven't a fav picker image drawn
 - Family of Secrets
