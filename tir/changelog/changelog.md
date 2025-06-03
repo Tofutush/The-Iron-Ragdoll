@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-03
+
+- Added `nebula thumb.png`, `candlelight meets curly.png`, `snake wings.png`;
+
 ## 2025-06-02
 
 - Added `pearl footer.png`, `sugarcane harmony footer.png`;
