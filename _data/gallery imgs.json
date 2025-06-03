@@ -2417,7 +2417,7 @@
     "date": "2025-01-02"
   },
   {
-    "name": "goose antrelyz",
+    "name": "goose antreylz",
     "type": "jpg",
     "author": "Antreylz",
     "authorUrl": "https://toyhou.se/Antreylz",
@@ -3513,5 +3513,31 @@
       "sugarcane"
     ],
     "kind": "footer"
+  },
+  {
+    "name": "nebula thumb",
+    "type": "png",
+    "date": "2025-06-03",
+    "ch": [
+      "nebula"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "candlelight meets curly",
+    "type": "png",
+    "date": "2025-06-03",
+    "ch": [
+      "pumpkin",
+      "candlelight"
+    ]
+  },
+  {
+    "name": "snake wings",
+    "type": "png",
+    "date": "2025-06-03",
+    "ch": [
+      "snake"
+    ]
   }
 ]
