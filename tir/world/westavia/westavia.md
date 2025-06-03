@@ -34,7 +34,7 @@ A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/mo
 
 ## Geography
 
-Westavia is quite sandy, with some really hot basins surrounded by mountain ranges. Eastern winds don't blow this far into the continent, so the place is dry and desertic. The sunshine made the country suitable for planting grapes.
+Westavia is quite sandy, with some really hot basins surrounded by mountain ranges. Eastern winds don't blow this far into the continent, so the place is dry and desertic. The wide fluctuation between day / night temperatures made the fruit produced on the land sweet; and grapes are probably most loved by the Westavians.
 
 The closest geographical mirror to Westavia is Xinjiang and Central Asia.
 
@@ -54,6 +54,7 @@ Westavia is a socialist country, a dictatorship of the proletariat. There is a c
 
 ### Agencies
 
+- [Westavian Intelligence Service](/world/westavia/wis/), the intelligence service
 - [Suicide Prevention Force](/world/westavia/spf/), the state security apparatus
 
 ### Foreign relations
