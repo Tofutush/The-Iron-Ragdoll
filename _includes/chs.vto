@@ -1,0 +1,12 @@
+<div class="chs">
+	{{ for ch of chs }}
+		<div>
+			<div class="ch" style="--c: {{ ch.color }}">
+			<a href="/characters/{{ ch.name |> toLowerCase }}/">
+				{{ image "gallery/", `${ch.name.toLowerCase()} profile.png`, 200, ch.name, '', `${ch.name.toLowerCase()} thumb.png` }}
+			</a>
+			</div>
+			{{ include 'chButton.vto' {ch: ch.name} }}
+		</div>
+	{{ /for }}
+</div>

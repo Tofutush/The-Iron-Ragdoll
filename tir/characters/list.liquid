@@ -44,7 +44,7 @@ eleventyNavigation:
     {% for ch in characters %}
       {% assign filteredGallery = gallery | filterGallery: ch.name %}
       {% if filteredGallery.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
+        {% include 'chButton.vto', ch: ch.name %}
       {% endif %}
     {% endfor %}
   </div>
@@ -54,7 +54,7 @@ eleventyNavigation:
       {% assign filteredGallery = gallery | filterGallery: ch.name %}
       {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
       {% if filteredGallery.size != 0 and thumb.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
+        {% include 'chButton.vto', ch: ch.name %}
       {% endif %}
       {% if thumb.size == 1 %}
         {% assign total = total | plus: 1 %}
@@ -68,7 +68,7 @@ eleventyNavigation:
       {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
       {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
       {% if thumb.size == 1 and profile.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
+        {% include 'chButton.vto', ch: ch.name %}
       {% endif %}
       {% if profile.size == 1 %}
         {% assign total = total | plus: 1 %}
@@ -82,7 +82,7 @@ eleventyNavigation:
       {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
       {% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
       {% if profile.size == 1 and ref.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
+        {% include 'chButton.vto', ch: ch.name %}
       {% endif %}
       {% if ref.size == 1 %}
         {% assign total = total | plus: 1 %}
@@ -96,7 +96,7 @@ eleventyNavigation:
       {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
       {% assign fav = filteredGallery | filterGalleryByKind: 'fav' %}
       {% if profile.size == 1 and fav.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
+        {% include 'chButton.vto', ch: ch.name %}
       {% endif %}
       {% if fav.size == 1 %}
         {% assign total = total | plus: 1 %}
@@ -112,7 +112,7 @@ eleventyNavigation:
       {% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
       {% assign fav = filteredGallery | filterGalleryByKind: 'fav' %}
       {% if thumb.size == 1 and profile.size == 1 and ref.size == 1 and fav.size == 1 %}
-        {% include 'chButton', ch: ch.name %}
+        {% include 'chButton.vto', ch: ch.name %}
       {% endif %}
     {% endfor %}
   </div>
