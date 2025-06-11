@@ -1,5 +1,6 @@
-const characters = require('./characters.json');
-const days = require('./holidays.json');
+import characters from './characters.json' with {type: 'json'};
+import days from './holidays.json' with {type: 'json'};
+
 for (let z = 0; z < characters.length; z++) {
 	if (characters[z].attr?.Birthday) {
 		let monthDay = characters[z].attr.Birthday.substring(5);
@@ -14,7 +15,7 @@ for (let z = 0; z < characters.length; z++) {
 		else if (days[monthDay] instanceof Object) {
 			days[monthDay].days = [obj];
 		} else {
-			days[monthDay] = { days: [obj] };			
+			days[monthDay] = { days: [obj] };
 		}
 	}
 }
@@ -49,4 +50,5 @@ for (let z = 0; z < 12; z++) {
 	}
 	dates.push(month);
 }
-module.exports = dates;
+
+export default dates;

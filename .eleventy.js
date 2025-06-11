@@ -1,24 +1,23 @@
-const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = require('@11ty/eleventy');
-const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
-// const pluginRss = require("@11ty/eleventy-plugin-rss");
-const markdownIt = require('markdown-it');
-const markdownItFootnote = require("markdown-it-footnote");
-const markdownItAnchor = require('markdown-it-anchor');
-const markdownItTOC = require('markdown-it-table-of-contents');
-const markdownItExternalLinks = require('markdown-it-external-links');
-const markdownItObsidianCallouts = require('markdown-it-obsidian-callouts');
-const beautify = require('js-beautify').html;
-const pinyin = require('chinese-to-pinyin');
-const { iconSVGString, eleventyLucideIconsPlugin } = require('./_plugins/lucideicons');
-const galleryPlugin = require('./_plugins/gallery');
-const utilPlugin = require('./_plugins/utils');
-const chPlugin = require('./_plugins/ch');
-const relPlugin = require('./_plugins/rel');
-const imagePlugin = require('./_plugins/image');
-const storyPlugin = require('./_plugins/story');
-const guessPlugin = require('./_plugins/guess');
+import { EleventyHtmlBasePlugin, EleventyRenderPlugin } from '@11ty/eleventy';
+import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
+import markdownIt from 'markdown-it';
+import markdownItFootnote from "markdown-it-footnote";
+import markdownItAnchor from "markdown-it-anchor";
+import markdownItTOC from 'markdown-it-table-of-contents';
+import markdownItExternalLinks from 'markdown-it-external-links';
+import markdownItObsidianCallouts from "markdown-it-obsidian-callouts";
+import beautify from 'js-beautify';
+import pinyin from "chinese-to-pinyin";
+import { iconSVGString, eleventyLucideIconsPlugin } from './_plugins/lucideicons.js';
+import galleryPlugin from './_plugins/gallery.js';
+import utilPlugin from './_plugins/utils.js';
+import chPlugin from './_plugins/ch.js';
+import relPlugin from './_plugins/rel.js';
+import imagePlugin from './_plugins/image.js';
+import storyPlugin from './_plugins/story.js';
+import guessPlugin from './_plugins/guess.js';
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
 	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/ /g, '-').replace(/[-]+/g, '-').replace(/[^\w-]+/g, '');
 	const mdIt = markdownIt({
@@ -90,7 +89,7 @@ module.exports = function (eleventyConfig) {
 	});
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
-			let beautified = beautify(content, {
+			let beautified = beautify.html(content, {
 				indent_size: 2,
 				preserve_newlines: false
 			});
