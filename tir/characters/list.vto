@@ -1,0 +1,150 @@
+---
+layout: layout.vto
+title: Characters list
+widepage: true
+desc: A sortable text list of characters.
+eleventyNavigation:
+  key: Characters list
+  title: List
+  parent: Characters
+  order: 0
+---
+<link rel="stylesheet" href="/css/ch-list.css"/>
+<h1>Characters List</h1>
+<div class="table-container">
+	<table>
+		<thead>
+			<tr>
+			<th>No.</th>
+			<th>Name</th>
+			<th>中文</th>
+			<th>Image count</th>
+			<th>Color</th>
+			</tr>
+		</thead>
+		<tbody>
+			{{ for index, ch of characters }}
+				<tr>
+					<td>{{ index }}</td>
+					<td><a href="/characters/{{ ch.name |> toLowerCase }}/">{{ ch.name }}</a></td>
+					<td><a href="/characters/{{ ch.name |> toLowerCase }}/">{{ ch.namezh }}</a></td>
+					{{ set filteredGallery = gallery |> filterGallery: ch.name }}
+					<td><a href="/characters/{{ ch.name |> toLowerCase }}/#gallery">{{ filteredGallery.size }}</a></td>
+					<td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color |> calculateBlackWhite }}">{{ ch.color |> to6DigitHex |> toUpperCase }}</td>
+				</tr>
+			{{ /for }}
+		</tbody>
+	</table>
+</div>
+<h2 id="progress">Character art progress</h2>
+{{ set total = 0 }}
+<div class="attr">
+	<p>Needs design</p>
+	<div class="tags">
+		{{ for ch of characters }}
+			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
+			{{ if filteredGallery.size == 0 }}
+				{{ include 'chButton.vto', {ch: ch.name} }}
+			{{ /if }}
+		{{ /for }}
+	</div>
+	<p>Needs thumb</p>
+	<div class="tags">
+		{{ for ch of characters }}
+			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
+			{{ set thumb = filteredGallery |> filterGalleryByKind: 'thumb' }}
+			{{ if filteredGallery.size != 0 && thumb.size == 0 }}
+				{{ include 'chButton.vto', ch: ch.name }}
+			{{ /if }}
+			{{ if thumb.size == 1 }}
+				{{ set total = total + 1 }}
+			{{ /if }}
+		{{ /for }}
+	</div>
+	<p>Needs profile</p>
+	<div class="tags">
+	{{ for ch of characters }}
+		{{ set filteredGallery = gallery |> filterGallery: ch.name }}
+		{{ set thumb = filteredGallery |> filterGalleryByKind: 'thumb' }}
+		{{ set profile = filteredGallery |> filterGalleryByKind: 'thumb new' }}
+		{{ if thumb.size == 1 && profile.size == 0 }}
+			{{ include 'chButton.vto', ch: ch.name }}
+		{{ /if }}
+		{{ if profile.size == 1 }}
+			{{ set total = total + 1 }}
+		{{ /if }}
+	{{ /for }}
+	</div>
+	<p>Needs reference</p>
+	<div class="tags">
+		{{ for ch of characters }}
+			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
+			{{ set profile = filteredGallery |> filterGalleryByKind: 'thumb new' }}
+			{{ set ref = filteredGallery |> filterGalleryByKind: 'ref' }}
+			{{ if profile.size == 1 && ref.size == 0 }}
+				{{ include 'chButton.vto', ch: ch.name }}
+			{{ /if }}
+			{{ if ref.size == 1 }}
+				{{ set total = total + 1 }}
+			{{ /if }}
+		{{ /for }}
+	</div>
+	<p>Needs fav picker image</p>
+	<div class="tags">
+		{{ for ch of characters }}
+			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
+			{{ set profile = filteredGallery |> filterGalleryByKind: 'thumb new' }}
+			{{ set fav = filteredGallery |> filterGalleryByKind: 'fav' }}
+			{{ if profile.size == 1 && fav.size == 0 }}
+				{{ include 'chButton.vto', ch: ch.name }}
+			{{ /if }}
+			{{ if fav.size == 1 }}
+				{{ set total = total + 1 }}
+			{{ /if }}
+		{{ /for }}
+	</div>
+	<p>All done</p>
+	<div class="tags">
+		{{ for ch of characters }}
+			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
+			{{ set thumb = filteredGallery |> filterGalleryByKind: 'thumb' }}
+			{{ set profile = filteredGallery |> filterGalleryByKind: 'thumb new' }}
+			{{ set ref = filteredGallery |> filterGalleryByKind: 'ref' }}
+			{{ set fav = filteredGallery |> filterGalleryByKind: 'fav' }}
+			{{ if thumb.size == 1 && profile.size == 1 && ref.size == 1 && fav.size == 1 }}
+				{{ include 'chButton.vto', ch: ch.name }}
+			{{ /if }}
+		{{ /for }}
+	</div>
+</div>
+<p>Completed: {{ total }} out of {{ characters.size * 4 }}!</p>
+<div class="progress-bar" style="background:linear-gradient(to right, var(--c) {{ total / characters.size / 4 * 100}}%, var(--box) {{ total / characters.size / 4 * 100 }}%"></div>
+<script src="/js/sort.js"></script>
+<script>
+	let sort = new SortTable(document.querySelector('table'));
+	sort.addSort({
+		colName: 'No.',
+		keyFunc: (td) => parseInt(td.innerText),
+		sortFunc: SortTable.sortFuncNumber
+	});
+	sort.addSort({
+		colName: 'Name',
+		keyFunc: (td) => td.querySelector('a').innerText,
+		sortFunc: SortTable.sortFuncString
+	});
+	sort.addSort({
+		colName: '中文',
+		keyFunc: (td) => td.querySelector('a').innerText,
+		sortFunc: SortTable.sortFuncZh
+	});
+	sort.addSort({
+		colName: 'Image count',
+		keyFunc: (td) => parseInt(td.innerText),
+		sortFunc: SortTable.sortFuncNumber
+	});
+	sort.addSort({
+		colName: 'Color',
+		keyFunc: (td) => SortTable.RGBToHSL(td.style.backgroundColor),
+		sortFunc: SortTable.sortFuncHSL
+	});
+</script>
