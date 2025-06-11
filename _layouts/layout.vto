@@ -41,8 +41,8 @@ navOptions:
 	</nav>
 	<main>
 		{{ if !noNav }}
-		{{> if(!title) console.log(page)}}
-			{{ set bc = collections.all |> eleventyNavigationBreadcrumb(navTitle || title, navOptions) }}
+		{{> if(title.includes('Nuke')) console.log(eleventyNavigation)}}
+			{{# {{ set bc = collections.all |> eleventyNavigationBreadcrumb(navTitle || title, navOptions) }}
 			{{ if bc.length > 2 }}
 				<div class="breadcrumbs">
 					{{ for index, item of bc }}
@@ -54,7 +54,7 @@ navOptions:
 						{{ /if }}
 					{{ /for }}
 				</div>
-			{{ /if }}
+			{{ /if }} #}}
 		{{ /if }}
 		{{ content }}
 	</main>
