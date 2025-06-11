@@ -1,8 +1,8 @@
----
-layout: story.liquid
+
 title: Paperweight's Backstory
 canon: yes
 chs:
+
   - paperweight
 time: 1978 - 2032
 titlezh: 镇纸背景
@@ -13,6 +13,7 @@ myTags:
   - Bauhinia
   - Coastline
   - MSS
+
 ---
 
 Paperweight was born in the countryside in northern Bauhinia. His parents died when he was really little, and he was often bullied in the orphanage, so one night he stole a bag of buns and a bag of water, and ran all the way to the Mountain Temple, half begging and half stealing along the way after the buns ran out.

@@ -1,8 +1,8 @@
----
-layout: story.liquid
+
 title: Peacock's Backstory
 canon: yes
 chs:
+
   - peacock
 time: "?"
 summary: Peacock's backstory.
@@ -11,6 +11,7 @@ myTags:
   - Canon
   - Backstory
   - Bauhinia
+
 ---
 
 ## Past Life

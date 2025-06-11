@@ -1,8 +1,8 @@
----
-layout: story.liquid
+
 title: Pearl's Journey Home - Moreland
 canon: yes
 chs:
+
   - sparky
   - firecrackers
   - pearl
@@ -15,6 +15,7 @@ myTags:
   - Moreland
   - Sparky and her friends
   - Pearl's Journey Home
+
 ---
 
 They got to Moreland and met the Appaloosa Tribe.

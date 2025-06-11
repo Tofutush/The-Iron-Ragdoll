@@ -1,8 +1,8 @@
----
-layout: story.liquid
+
 title: Pearl's Journey Home - Sylvandia
 canon: yes
 chs:
+
   - sparky
   - pearl
 time: "2032"
@@ -12,6 +12,7 @@ myTags:
   - Sylvandia
   - Sparky and her friends
   - Pearl's Journey Home
+
 ---
 
 They finally got to Sylvandia.

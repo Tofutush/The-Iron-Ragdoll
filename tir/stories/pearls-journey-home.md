@@ -1,8 +1,8 @@
----
-layout: story.liquid
+
 title: Pearl's Journey Home
 canon: yes
 chs:
+
   - sparky
   - qibli
   - sky
@@ -16,6 +16,7 @@ myTags:
   - Coastline
   - Sparky and her friends
   - Pearl's Journey Home
+
 ---
 
 They got Pearl stashed in the safe house. They figured it out. She was from Sylvandia.

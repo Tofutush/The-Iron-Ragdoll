@@ -1,8 +1,8 @@
----
-layout: story.liquid
+
 title: Elegance Kidnapped
 canon: yes
 chs:
+
   - sparky
   - elegance
   - animus
@@ -14,6 +14,7 @@ myTags:
   - Canon
   - Bauhinia
   - Coastline
+
 ---
 
 Hyrax got a hunch that there might be a plot to kidnap Animus, so he hired a bodyguard to follow him around everywhere.

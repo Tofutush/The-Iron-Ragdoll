@@ -1,9 +1,9 @@
----
-layout: story.liquid
+
 title: Bramble's Happy Family
 canon: semi
 comic: true
 chs:
+
   - bramble
   - nightsun
   - groovy
@@ -21,6 +21,7 @@ myTags:
   - Coastline
   - Oneshot
   - Comic
+
 ---
 
 Bramble is reading his essay, "My Happy Family," in front of his class. Meanwhile, his parents are doing through their respective days.

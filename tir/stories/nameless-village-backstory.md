@@ -1,8 +1,8 @@
----
-layout: story.liquid
+
 title: Nameless Village Backstory
 canon: yes
 chs:
+
   - pumpkin
   - helsinki
   - candlelight
@@ -17,6 +17,7 @@ myTags:
   - Canon
   - Westavia
   - Nameless village
+
 ---
 
 ## Pumpkin's grandparents

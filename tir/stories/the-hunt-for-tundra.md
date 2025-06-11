@@ -1,17 +1,18 @@
----
-layout: story.liquid
+
 title: The Hunt for Tundra (working title)
 canon: yes
 chs:
+
   - tundra
   - kismet
 time: 2023 - ?
-titlezh: 
+titlezh:
 summary: Bauhinia's president seeks immortality, part 2.
 myTags:
   - Canon
   - Bauhinia
   - Fanton
+
 ---
 
 After the failure of [Project Boomerang](/stories/project-boomerang/), Kismet continued his search for immortality. And then he heard that a 13-year-old in Fanton was discovered to be [immortal](/world/superpowers/#immortality/). So he decided that he would have his body.
