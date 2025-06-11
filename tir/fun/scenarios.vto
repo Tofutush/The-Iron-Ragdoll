@@ -18,10 +18,9 @@ eleventyNavigation:
 <script src="/js/wordsfromcorpora.js"></script>
 <script>
   let characters = [
-    {% for ch in characters %}
-      {% assign chUrl = '/characters/' | append: ch.name | lowerCase | append: '/' | htmlBaseUrl %}
-      '<a href="{{ chUrl }}">{{ ch.name }}</a>',
-    {% endfor %}
+    {{ for ch in characters }}
+      '<a href="{{ `/characters/${ch.name.toLowerCase()}/` |> htmlBaseUrl }}">{{ ch.name }}</a>',
+    {{ /for }}
   ];
   
   let generator = new Generator(

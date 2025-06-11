@@ -96,7 +96,7 @@ eleventyComputed:
 	{{ include 'palette' {colors: palette} }}
 	{{ set ref = filteredGallery | getFirstOfKind: "ref" }}
 	{{ if ref }}
-		<a href="{{ imageUrl 'gallery/', `${ch.name.toLowerCase()} ref.png`, 9999 }}">{{ figure 'gallery/', `${ch.name.toLowerCase()} ref.png` 500 `${ch.name} reference sheet` 'Click for full size!' 'max' }}</a>
+		<a href="{{ imageUrl 'gallery/', `${ch.name.toLowerCase()} ref.png`, 9999, '', 'png' }}">{{ figure 'gallery/', `${ch.name.toLowerCase()} ref.png` 500 `${ch.name} reference sheet` 'Click for full size!' 'max' }}</a>
 	{{ /if }}
 	{{ if filteredGallery.size > 0 }}
 		<h2 id="gallery">Gallery</h2>
