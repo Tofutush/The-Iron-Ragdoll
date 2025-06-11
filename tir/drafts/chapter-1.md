@@ -1,5 +1,5 @@
 ---
-layout: fic.liquid
+layout: fic.vto
 chTitle: The Visit
 parent: Spy School
 tags:

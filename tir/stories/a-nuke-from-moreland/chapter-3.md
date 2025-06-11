@@ -1,5 +1,5 @@
 ---
-layout: fic.liquid
+layout: fic.vto
 parent: A Nuke From Moreland
 tags: anfm-fic
 chNum: 3
