@@ -10,7 +10,7 @@ noNav: true
 permalink: "stories/{{ parent |> slug }}/page-{{ comic.pagenum }}/"
 eleventyComputed:
   title: "{{ comicTitle }} comic - page {{ comic.pagenum }}"
-  siteTheme: "{{ comicTheme || siteTheme || '' }}"
+  siteTheme: "{{ comic.theme || siteTheme || undefined }}"
 ---
 <link rel="stylesheet" href="/css/comic.css"/>
 {{ if comic.bg }}

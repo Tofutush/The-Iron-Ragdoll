@@ -70,7 +70,7 @@ navOptions:
 			{{ /if }}
 			{{ if !noFooterImage }}
 				{{ set footerimg = gallery |> filterGalleryByKind('footer') |> getFooterImg(title) }}
-				{{ image 'gallery/' `${footerimg.name}.${footerimg.type}` 500 footerimg.name 'footer-img' }}
+				{{ image 'gallery/', `${footerimg.name}.${footerimg.type}`, 500, footerimg.name, 'footer-img' }}
 			{{ /if }}
 		</footer>
 	{{ /if }}
