@@ -1,7 +1,7 @@
 ---
 layout: article.vto
 title: Moreland
-templateEngineOverride: liquid,md
+templateEngineOverride: vto,md
 eleventyNavigation:
   key: Moreland
   parent: World
@@ -75,4 +75,4 @@ Since family isn't a thing in Moreland, people don't have family names. In legal
 
 ## Related files
 
-{{ collections.all | eleventyNavigation: "Moreland" | eleventyNavigationToHtml }}
+{{ collections.all |> eleventyNavigation: "Moreland" |> eleventyNavigationToHtml }}

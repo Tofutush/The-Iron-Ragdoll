@@ -1,18 +1,18 @@
 ---
 layout: gallery.vto
 pagination:
-	data: years
-	size: 1
-	alias: year
-	addAllPagesToCollections: true
+  data: years
+  size: 1
+  alias: year
+  addAllPagesToCollections: true
 permalink: "gallery/{{ year }}/"
 eleventyComputed:
-	title: "Gallery {{ year }}"
-	desc: "A bunch of pictures I drew in {{ year }}."
-	eleventyNavigation:
-		key: "Gallery {{ year }}"
-		title: "{{ year }}"
-		parent: Gallery
+  title: "Gallery {{ year }}"
+  desc: "A bunch of pictures I drew in {{ year }}."
+  eleventyNavigation:
+    key: "Gallery {{ year }}"
+    title: "{{ year }}"
+    parent: Gallery
 ---
 {{ for month of 12 |> reverse }}
 	{{ set filteredGallery = gallery | getOnlyMyArt | filterGalleryByDate: `${year}-${month.padStart(2, '0')}` }}

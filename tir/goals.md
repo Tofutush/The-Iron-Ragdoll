@@ -2,7 +2,7 @@
 layout: article.vto
 title: Goals
 desc: Goals for me. Dreams are worth having.
-templateEngineOverride: liquid,md
+templateEngineOverride: vto,md
 eleventyNavigation:
   key: Goals
   parent: Root
@@ -35,7 +35,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 		- It also looks simple and I have chosen my characters.
 - Footers
 	- Draw some lineless art for the website footer! As many as possible! There couldn't possibly be too many!
-	- {% assign footers = gallery | filterGalleryByKind: 'footer' %}Current: {{ footers.size }}. Can you find them all?
+	- {{ set footers = gallery |> filterGalleryByKind: 'footer' }}Current: {{ footers.length }}. Can you find them all?
 - Favorite picker
 	- Coding done, but requires artwork and a logic for including alternative art for characters that haven't a fav picker image drawn
 - Family of Secrets
@@ -48,7 +48,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 		- 500px profile image
 		- reference image
 		- Favorite picker image
-	- That's like {{ characters.size | times: 4 }} pictures! What have I done to myself!
+	- That's like {{ characters.size * 4 }} pictures! What have I done to myself!
 - Progress can be tracked [here](/characters/list/).
 
 ## Done

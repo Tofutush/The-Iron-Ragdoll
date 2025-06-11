@@ -1,7 +1,7 @@
 ---
 layout: article.vto
 title: Fanton
-templateEngineOverride: liquid,md
+templateEngineOverride: vto,md
 eleventyNavigation:
   key: Fanton
   parent: World
@@ -85,6 +85,6 @@ The creation of Fanton led a lot of the original inhabitants to move out in frus
 
 ## Related files
 
-{{ collections.all | eleventyNavigation: "Fanton" | eleventyNavigationToHtml }}
+{{ collections.all |> eleventyNavigation: "Fanton" |> eleventyNavigationToHtml }}
 
 [^1]: It used to be *just* Sichuan, and just the basin part too. Why do I keep making Fanton bigger and bigger? Most of their population is still in the basin though.

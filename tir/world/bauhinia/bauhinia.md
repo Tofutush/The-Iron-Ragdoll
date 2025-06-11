@@ -2,7 +2,7 @@
 layout: article.vto
 title: Bauhinia
 displayTitle: The Republic of Bauhinia
-templateEngineOverride: liquid,md
+templateEngineOverride: vto,md
 eleventyNavigation:
   key: Bauhinia
   parent: World
@@ -107,4 +107,4 @@ Most of the story takes place during the cold war.
 
 ## Related files
 
-{{ collections.all | eleventyNavigation: "Bauhinia" | eleventyNavigationToHtml }}
+{{ collections.all |> eleventyNavigation: "Bauhinia" |> eleventyNavigationToHtml }}

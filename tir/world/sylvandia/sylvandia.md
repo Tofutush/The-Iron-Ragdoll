@@ -1,7 +1,6 @@
 ---
 layout: article.vto
 title: Sylvandia
-templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Sylvandia
   parent: World
@@ -50,4 +49,4 @@ The closest geographical mirror to Sylvandia is Siberia.
 
 ## Related files
 
-{{ collections.all | eleventyNavigation: "Sylvandia" | eleventyNavigationToHtml }}
+{{ collections.all |> eleventyNavigation: "Sylvandia" |> eleventyNavigationToHtml }}

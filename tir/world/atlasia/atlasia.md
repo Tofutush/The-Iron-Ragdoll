@@ -1,7 +1,7 @@
 ---
 layout: article.vto
 title: Atlasia
-templateEngineOverride: liquid,md
+templateEngineOverride: vto,md
 eleventyNavigation:
   key: Atlasia
   parent: World
@@ -93,7 +93,7 @@ They took the plains in the east and declared independence shortly after [Fanton
 
 ## Related files
 
-{{ collections.all | eleventyNavigation: "Atlasia" | eleventyNavigationToHtml }}
+{{ collections.all |> eleventyNavigation: "Atlasia" |> eleventyNavigationToHtml }}
 
 ## Trivia
 

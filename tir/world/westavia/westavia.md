@@ -1,7 +1,7 @@
 ---
 layout: article.vto
 title: Westavia
-templateEngineOverride: liquid,md
+templateEngineOverride: vto,md
 eleventyNavigation:
   key: Westavia
   parent: World
@@ -83,7 +83,7 @@ Despite this, there are still a number of secret historians who collect and arch
 
 ## Related files
 
-{{ collections.all | eleventyNavigation: "Westavia" | eleventyNavigationToHtml }}
+{{ collections.all |> eleventyNavigation: "Westavia" |> eleventyNavigationToHtml }}
 
 ## Trivia
 
