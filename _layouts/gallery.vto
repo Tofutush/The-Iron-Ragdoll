@@ -1,0 +1,16 @@
+---
+layout: layout.vto
+years:
+ - 2023
+ - 2024
+ - 2025
+---
+
+<link rel="stylesheet" href="/css/gallery.css"/>
+<div class="box-nav">
+	{{ for eachyear of years }}
+		<a href="/gallery/{{ eachyear }}/" {{ if year == eachyear }}aria-current="page"{{ /if }}>{{ eachyear }}</a>
+	{{ endfor }}
+	<a href="/gallery/stats/" {{ if page.url == '/gallery/stats/' }}aria-current="page"{{ /if }}>Stats</a>
+</div>
+{{ content }}
