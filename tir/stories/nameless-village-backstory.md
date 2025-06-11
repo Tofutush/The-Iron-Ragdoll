@@ -69,6 +69,6 @@ Thyme got some connections in the government and changed Candlelight's legal bir
 
 Candlelight went to the recruitment center in Area 29, and successfully made it in. After serving 6 years, he was recruited by the [SPF](/world/westavia/spf/). At some point, Mooncake became a police officer. Eventually he heard news that the original group of terrorists, including his dad, had been apprehended and sent to reeducation.
 
-- Next: [Candlelight Back Home](/stories/candlelight-back-home/)
+- Next: [Sunflowers in the Dark](/stories/sunflowers-in-the-dark/)
 
 [^1]: Children, this is not your role model. Please do not do this.
