@@ -8,6 +8,7 @@ import markdownItExternalLinks from 'markdown-it-external-links';
 import markdownItObsidianCallouts from "markdown-it-obsidian-callouts";
 import beautify from 'js-beautify';
 import pinyin from "chinese-to-pinyin";
+import { VentoPlugin } from 'eleventy-plugin-vento';
 import { iconSVGString, eleventyLucideIconsPlugin } from './_plugins/lucideicons.js';
 import galleryPlugin from './_plugins/gallery.js';
 import utilPlugin from './_plugins/utils.js';
@@ -87,6 +88,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addFilter('isArray', function (arg) {
 		return Array.isArray(arg);
 	});
+	eleventyConfig.addPlugin(VentoPlugin);
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
 			let beautified = beautify.html(content, {
