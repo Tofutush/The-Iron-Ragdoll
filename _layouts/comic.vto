@@ -1,0 +1,67 @@
+---
+layout: layout.liquid
+desc: A comic!
+pagination:
+  size: 1
+  addAllPagesToCollections: true
+  alias: comic
+noFooterImage: true
+noNav: true
+permalink: "stories/{{ parent |> slug }}/page-{{ comic.pagenum }}/"
+eleventyComputed:
+  title: "{{ comicTitle }} comic - page {{ comic.pagenum }}"
+  siteTheme: "{{ comicTheme || siteTheme || '' }}"
+---
+<link rel="stylesheet" href="/css/comic.css"/>
+{{ if comic.bg }}
+	<style>
+		body {
+			background-image: url({{ `/img/bg/${comic.bg}.png` |> htmlBaseUrl }});
+		}
+	</style>
+{{ /if }}
+<div class="breadcrumbs"><a href="../">Back to {{ parent }}</a></div>
+{{ include 'arrows.vto' {f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum, top: true} }}
+<div id="img">
+	{{ image "comics/", `${comic.url}.png`, 1000, `Page ${comic.pagenum}` }}
+</div>
+{{ if comic.content }}
+	{{ for line of comic.content }}
+		{{ if Array.isArray(line) }}
+			<div class="attr">
+				{{ for dialog of line }}
+					{{ set ch = dialog |> dialogGetCharacter }}
+					{{ set ln = dialog |> dialogGetLine }}
+					<p><a href="/characters/{{ ch |> toLowerCase }}/">{{ ch }}</a></p>
+					{{ ln |> renderMD }}
+				{{ /for }}
+			</div>
+		{{ else }}
+			{{ line |> renderMD }}
+		{{ /if }}
+	{{ /for }}
+{{ /if }}
+{{ include 'arrows.vto' {f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum} }}
+<div id="date-save">
+	<p>{{ comic.date }}</p>
+	<div id="save">
+		<a title="Save" onclick="save()">{{ lucide 'arrow-down-from-line' }}</a>
+		<a title="Load" onclick="load()">{{ lucide 'arrow-up-from-line' }}</a>
+		{{ if archive }}<a title="Archive" href="../archive/">{{ lucide 'list' }}</a>{{ /if }}
+	</div>
+</div>
+{{ if comic.note }}
+	<div id="note" class="graybox">{{ comic.note |> renderMD }}</div>
+{{ /if }}
+<script>
+	// save
+	function save() {
+		localStorage.setItem('{{ comicTitle }} place', {{ comic.pagenum }});
+		alert(`Page {{ comic.pagenum }} saved!`);
+	}
+	function load() {
+		let place = localStorage.getItem('{{ comicTitle }} place');
+		if(place !== undefined) window.open(`../page-${place}/#img`, '_self');
+		else alert('no place was saved!');
+	}
+</script>

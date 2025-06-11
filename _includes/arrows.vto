@@ -1,0 +1,14 @@
+<div class="options"{{ if top }} id="arrow"{{ /if }}>
+	<a 
+		{{ if !p }}
+			class="noclick"
+		{{ /if }}
+		 href="{{ f }}
+		{{ if !top }}
+			#arrow
+		{{ /if }}">{{ lucide 'chevrons-left' }}</a>
+	<a {{ if !p }}class="noclick"{{ /if }} href="{{ p }}{{ if !top }}#arrow{{ /if }}">{{ lucide 'chevron-left' }}</a>
+	<p><span class="pagenum">{{ num }}</span></p>
+	<a {{ if !n }}class="noclick"{{ /if }} href="{{ n }}{{ if !top }}#arrow{{ /if }}">{{ lucide 'chevron-right' }}</a>
+	<a {{ if !n }}class="noclick"{{ /if }} href="{{ l }}{{ if !top }}#arrow{{ /if }}">{{ lucide 'chevrons-right' }}</a>
+</div>
