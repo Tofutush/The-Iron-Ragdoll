@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Scavenger Hunt
 desc: A scavenger hunt game in the website.
 templateEngineOverride: liquid,md

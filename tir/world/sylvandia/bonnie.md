@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Bonnie
 titlezh: 波尼
 desc: Capital of Sylvandia.

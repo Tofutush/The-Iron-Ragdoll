@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Goals
 desc: Goals for me. Dreams are worth having.
 templateEngineOverride: liquid,md

@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: The Guardian Moose
 titlezh: 麋鹿护卫军
 desc: The Armed Forces of the Republic of Moreland

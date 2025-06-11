@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Westavian Intelligence Service
 desc: Foreign intelligence service of Westavia
 eleventyNavigation:

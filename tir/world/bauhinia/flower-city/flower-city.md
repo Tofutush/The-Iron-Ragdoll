@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Flower City
 desc: Capital and cultural center of Bauhinia
 eleventyNavigation:

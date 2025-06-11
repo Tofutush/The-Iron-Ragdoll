@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: History
 desc: The history of the world.
 tags:

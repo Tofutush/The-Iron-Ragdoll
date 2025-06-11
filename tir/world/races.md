@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Races
 desc: The types of off-humans in this world.
 titlezh: 种族

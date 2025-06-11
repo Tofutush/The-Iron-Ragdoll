@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: International Superpowers Association
 desc: The international organization for superpowers.
 tags:

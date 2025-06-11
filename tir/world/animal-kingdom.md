@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Animal Kingdom
 titlezh: 动物王国
 desc: Sunflower's paracosm.

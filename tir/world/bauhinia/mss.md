@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Ministry of State Security of the Republic of Bauhinia
 eleventyNavigation:
   key: Ministry of State Security of the Republic of Bauhinia

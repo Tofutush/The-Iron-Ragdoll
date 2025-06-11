@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Superpowers in Bauhinia
 eleventyNavigation:
   key: Superpowers in Bauhinia

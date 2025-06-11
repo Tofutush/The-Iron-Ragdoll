@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Military Intelligence Corps
 eleventyNavigation:
   key: Military Intelligence Corps

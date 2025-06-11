@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Magic Academy
 titlezh: 魔法学院
 eleventyNavigation:

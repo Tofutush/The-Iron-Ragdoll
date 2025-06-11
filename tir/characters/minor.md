@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Minor Characters
 eleventyNavigation:
   key: Minor Characters

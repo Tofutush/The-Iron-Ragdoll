@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: People's Vanguard
 desc: Capital of Westavia.
 eleventyNavigation:

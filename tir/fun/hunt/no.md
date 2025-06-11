@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Oops
 noNav: true
 eleventyExcludeFromCollections: true

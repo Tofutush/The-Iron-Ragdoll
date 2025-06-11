@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Fantoni Plateau
 eleventyNavigation:
   key: Fantoni Plateau

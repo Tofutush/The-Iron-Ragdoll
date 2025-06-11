@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Area 3
 desc: Former industrial center of Westavia.
 eleventyNavigation:

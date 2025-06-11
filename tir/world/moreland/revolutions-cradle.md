@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Revolution's Cradle
 desc: Capital of Moreland.
 eleventyNavigation:

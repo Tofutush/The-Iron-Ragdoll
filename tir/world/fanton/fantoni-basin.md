@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Fantoni Basin
 eleventyNavigation:
   key: Fantoni Basin

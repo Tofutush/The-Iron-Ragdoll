@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Bauhinia
 displayTitle: The Republic of Bauhinia
 templateEngineOverride: liquid,md

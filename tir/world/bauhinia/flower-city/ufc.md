@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: University of Flower City
 eleventyNavigation:
   key: University of Flower City

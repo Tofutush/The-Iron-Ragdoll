@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Lotus Lake City
 eleventyNavigation:
   key: Lotus Lake City

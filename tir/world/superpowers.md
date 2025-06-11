@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Superpowers
 desc: Superpowers, common and rare!
 templateEngineOverride: liquid,md

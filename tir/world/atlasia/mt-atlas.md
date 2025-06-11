@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Mt. Atlas
 navTitle: mtatlas
 templateEngineOverride: liquid,md

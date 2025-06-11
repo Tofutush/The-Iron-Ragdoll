@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Lotus Lake Temple
 eleventyNavigation:
   key: Lotus Lake Temple

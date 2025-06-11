@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Nameless Village
 titlezh: 无名村
 eleventyNavigation:

@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Suicide Prevention Force
 desc: Westavia's internal security apparatus.
 eleventyNavigation:

@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article.vto
 title: Froggy Island
 desc: Hyrax's personal island.
 eleventyNavigation:
