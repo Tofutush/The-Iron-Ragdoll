@@ -14,14 +14,14 @@ eleventyComputed:
     title: "{{ tag }}"
     parent: Tags
 ---
-{% assign filteredChs = characters | filterChByTag: tag %}
-{% include 'chs', chs: filteredChs %}
-{% assign slugged = tag | slug %}
-{% if collections[slugged] %}
+{{ set filteredChs = characters |> filterChByTag: tag }}
+{{ include 'chs', {chs: filteredChs} }}
+{{ set slugged = tag |> slug }}
+{{ if collections[slugged] }}
 	<h2>Related files</h2>
 	<ul>
-	{% for file in collections[slugged] %}
-		{% include 'fileLi.vto', file: file %}
-	{% endfor %}
+		{{ for file of collections[slugged] }}
+			{{ include 'fileLi.vto', {file: file} }}
+		{{ /for }}
 	</ul>
-{% endif %}
+{{ /if }}
