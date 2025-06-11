@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: A Nuke From Moreland
 canon: yes
 chs:

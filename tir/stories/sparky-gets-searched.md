@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Sparky Gets Searched
 canon: semi
 chs:

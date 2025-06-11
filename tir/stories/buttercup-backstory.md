@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Buttercup's Backstory
 canon: yes
 chs:

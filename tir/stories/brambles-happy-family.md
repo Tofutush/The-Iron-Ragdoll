@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Bramble's Happy Family
 canon: semi
 comic: true

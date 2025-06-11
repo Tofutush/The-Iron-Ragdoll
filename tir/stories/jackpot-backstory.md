@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Jackpot's Backstory
 canon: yes
 chs:

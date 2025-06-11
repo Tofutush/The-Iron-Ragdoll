@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: The Escape
 canon: no
 chs:

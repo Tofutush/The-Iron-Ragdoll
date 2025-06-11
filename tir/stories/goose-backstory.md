@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Goose's Backstory
 canon: yes
 chs:

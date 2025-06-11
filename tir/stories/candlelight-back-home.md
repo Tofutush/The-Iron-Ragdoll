@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Candlelight Back Home
 canon: yes
 chs:

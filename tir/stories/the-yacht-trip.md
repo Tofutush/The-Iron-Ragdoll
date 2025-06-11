@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: The Yacht Trip
 canon: yes
 chs:
