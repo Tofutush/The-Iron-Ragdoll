@@ -1,0 +1,41 @@
+---
+layout: article.liquid
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    parent: Stories
+  desc: "{{ summary }}"
+---
+<div class="attr">
+	<p>Canon?</p>
+	<p>{{ if canon == 'yes' }}Yes (has a planned occurence in the plot){{ else if canon == 'semi' }}Semi-canon (is not planned in the plot, but has no conflicts with the original story){{ else }}No (you should not consider this in the context of TIR's universe){{ /if }}</p>
+	<p>Main Cast</p>
+	<div class="tags">
+		{{ for ch of chs }}
+			{{ include 'chButton.vto', ch: ch }}
+		{{ /for }}
+	</div>
+	<p>Time period</p>
+	<p>{{ time }}</p>
+	{{ if myTags }}
+		<p>Tags</p>
+		<div class="tags">
+			{{ for tag of myTags }}
+				<a href="/stories/tag/{{ tag |> slug }}/">{{ tag }}</a>
+			{{ /for }}
+		</div>
+	{{ /if }}
+</div>
+{{ if comic }}
+	<p style="text-align: center;"><a href="page-1/">{{ lucide 'chevrons-right' }}Read the comic associated with this story!{{ lucide 'chevrons-left' }}</a></p>
+{{ /if }}
+{{ if fic }}
+	<p style="text-align: center;"><a href="chapter-1/">{{ lucide 'chevrons-right' }}Read the story as an actual novel thing! (This page will contain spoilers. But the novel might never get finished.){{ lucide 'chevrons-left' }}</a></p>
+{{ /if }}
+{{ content }}
+{{ set prev = collections.stories |> getPreviousCollectionItem }}
+{{ set next = collections.stories |> getNextCollectionItem }}
+{{ if prev || next }}
+	<hr />
+	{{ include 'prevnext.vto' {prev: prev.url, next: next.url} }}
+{{ /if }}
