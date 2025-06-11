@@ -1,0 +1,40 @@
+---
+layout: layout.vto
+desc: Archive
+permalink: "stories/{{ parent |> slug }}/archive/"
+eleventyComputed:
+  title: "{{ comicTitle }} comic - archive"
+  eleventyNavigation:
+    key: "{{ comicTitle }} comic - archive"
+    title: "Archive"
+    parent: "{{ parent }}"
+---
+<style>
+	.archive {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+		gap: .5em;
+	}
+</style>
+<h1>{{ comicTitle }} Archive</h1>
+{{ if multiChapter }}
+	{{ set grouped = comicData[dataName] |> groupByChapter }}
+	{{ for group of grouped }}
+		<h2>Chapter {{ group.chapter }}</h2>
+		<div class="archive">
+			{{ for page of group.pages }}
+				<a href="../page-{{ page.pagenum }}/">
+					{{ image "comics/" `${page.url}.png` 100 `Page ${page.pagenum}` }}
+				</a>
+			{{ /for }}
+		</div>
+	{{ /for }}
+{{ else }}
+	<div class="archive">
+		{{ for page of comicData[dataName] }}
+			<a href="../page-{{ page.pagenum }}/">
+				{{ image "comics/" `${page.url}.png` 100 `Page ${page.pagenum}` }}
+			</a>
+		{{ /for }}
+	</div>
+{{ endif }}
