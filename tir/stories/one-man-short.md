@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: One Man Short
 canon: yes
 chs:
-
   - cobalt
   - nightingale
   - skyhawk
@@ -16,7 +16,6 @@ tags:
 myTags:
   - Canon
   - Fanton
-
 ---
 
 Cobalt, Nightingale, Skyhawk, and Kaleidoscope were college students, a four-person majiang club, and also an inseparable group of friends.

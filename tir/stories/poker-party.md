@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Poker Party
 canon: yes
 chs:
-
   - harmony
   - sugarcane
   - sky
@@ -15,7 +15,6 @@ myTags:
   - Flower City
   - MSS
   - Spy School
-
 ---
 
 Harmony and Sugarcane always thought their teacher, Sky, was just a douche who worked as a teacher because he sucked in the field. They were so wrong. Turned out, Sky Elmwood Dazzle codename The Joker was one of the most legendary spymasters during the Fantoni War.

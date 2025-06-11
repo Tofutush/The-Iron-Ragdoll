@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Sparky Gets Searched
 canon: semi
 chs:
-
   - sparky
   - nightsun
 time: After Sparky married Nightsun
@@ -12,7 +12,6 @@ myTags:
   - Bauhinia
   - Coastline
   - Oneshot
-
 ---
 
 Sparky was chilling in her own home, alone because [Bramble](/characters/bramble/) and Nightsun were out.

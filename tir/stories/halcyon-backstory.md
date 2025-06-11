@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Halcyon's Backstory
 canon: yes
 chs:
-
   - halcyon
 time: 1991 - 2025
 titlezh: 太平背景
@@ -13,7 +13,6 @@ myTags:
   - Bauhinia
   - Moreland
   - MSS
-
 ---
 
 Halcyon was born with strong magic. He dreamed of getting a government job where he could use his magic to help people. He studied and worked (writing a Bachelor's thesis on magical teleportation on the way), joined the army, and got recruited to the MSS.

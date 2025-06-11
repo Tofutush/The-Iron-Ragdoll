@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Coastline Middle School Mysteries
 canon: yes
 chs:
-
   - sparky
   - qibli
   - sky
@@ -17,7 +17,6 @@ myTags:
   - Coastline
   - CMS
   - Sparky and her friends
-
 ---
 
 Sparky is a girl who clinged on her mom too much, hated her stepdad and half-sister, and was about to start middle school.

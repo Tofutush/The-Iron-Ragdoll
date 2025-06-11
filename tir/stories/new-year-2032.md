@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: New Year 2032
 canon: yes
 chs:
-
   - sparky
   - qibli
   - sky
@@ -21,7 +21,6 @@ myTags:
   - Coastline
   - Sparky and her friends
   - Pearl's Journey Home
-
 ---
 
 [[toc]]

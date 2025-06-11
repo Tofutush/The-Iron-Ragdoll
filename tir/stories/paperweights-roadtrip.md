@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Paperweight's Roadtrip
 canon: yes
 chs:
-
   - paperweight
   - goose
 time: "2032"
@@ -12,7 +12,6 @@ myTags:
   - Bauhinia
   - Coastline
   - MSS
-
 ---
 
 After the events in [The Nuke From Moreland](/stories/a-nuke-from-moreland/), Paperweight could not stay in the MSS anymore. Moreover, he was diagnosed with chronic leukemia.

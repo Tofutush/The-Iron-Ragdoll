@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Qibli's Backstory
 canon: yes
 chs:
-
   - qibli
 time: "?"
 summary: Qibli's backstory.
@@ -12,7 +12,6 @@ myTags:
   - Backstory
   - Bauhinia
   - Coastline
-
 ---
 
 Qibli was born with magic. But her magic was so weak that it didn't even show until she was three years old. Her parents took her to the hospital, the doctors called the Arch-Magician, and the Arch-Magician told her parents to buy her a wand and taught her to store her magic in it. She hadn't left the wand's side since then.

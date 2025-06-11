@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: A Nuke From Moreland
 canon: yes
 chs:
-
   - sparky
   - qibli
   - sky
@@ -26,7 +26,6 @@ myTags:
   - Bauhinia
   - MSS
   - Sparky and her friends
-
 ---
 
 [[toc]]

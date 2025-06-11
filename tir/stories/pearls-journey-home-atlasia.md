@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Pearl's Journey Home - Atlasia
 canon: yes
 chs:
-
   - sparky
   - sky
   - firecrackers
@@ -16,7 +16,6 @@ myTags:
   - Atlasia
   - Sparky and her friends
   - Pearl's Journey Home
-
 ---
 
 They got to Atlasia and met Jackpot and his son Snake in their mansion.

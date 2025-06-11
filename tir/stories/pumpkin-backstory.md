@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Pumpkin's Backstory
 canon: yes
 chs:
-
   - pumpkin
 time: 2003 - present
 summary: Pumpkin's backstory.
@@ -14,7 +14,6 @@ myTags:
   - Westavia
   - MSS
   - Nameless village
-
 ---
 
 Pumpkin's grandparents immigrated to northern [Bauhinia](/world/bauhinia/) from [Westavia](/world/westavia/). His family still kept many of their Westavian traditions.

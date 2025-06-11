@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Pearl's Journey Home - Fanton
 canon: yes
 chs:
-
   - sparky
   - qibli
   - sky
@@ -15,7 +15,6 @@ myTags:
   - Fanton
   - Sparky and her friends
   - Pearl's Journey Home
-
 ---
 
 They got to Fanton. They had a good time there, with all the beautiful scenery and tofu. They also saw pandas. They got to the border.

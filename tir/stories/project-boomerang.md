@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Project Boomerang
 canon: yes
 chs:
-
   - koala
   - kangaroo
   - robin
@@ -18,7 +18,6 @@ tags:
 myTags:
   - Canon
   - Bauhinia
-
 ---
 
 Due to recent breakthroughs in quantum technology, it had been proven theoretically possible to make a time machine that can revert or fast forward a certain object or area. The Republic of Bauhinia is eager to try that.

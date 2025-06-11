@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Sunflowers in the Dark (working title)
 canon: yes
 chs:
-
   - candlelight
   - sunflower
 time: "2030"
@@ -11,7 +11,6 @@ myTags:
   - Canon
   - Westavia
   - Area 1
-
 ---
 
 Candlelight, a young and eager [SPF](/world/westavia/spf/) officer, is assigned his first very-own actual suicide watch target: Sunflower, a high school girl who paracosms[^1].

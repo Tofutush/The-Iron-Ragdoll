@@ -1,8 +1,8 @@
-
+---
+layout: story.liquid
 title: Goose's Backstory
 canon: yes
 chs:
-
   - goose
 time: 2001 - present
 summary: Goose's backstory.
@@ -13,7 +13,6 @@ myTags:
   - Bauhinia
   - Coastline
   - MSS
-
 ---
 
 Goose was born in [Coastline](/world/bauhinia/coastline/). There was absolutely nothing special about her. Once her parents even missed her trying to pick her up from kindergarten because they forgot what she looked like. Goose grew up playing and gossiping with other girls, reading the most popular books (mostly trashy romance), writing silly love letters to her crushes (there were a lot of them and if you showed adult-Goose those letters she would die from internal bleeding), and trying on her mom's makeup.
