@@ -18,10 +18,10 @@ eleventyComputed:
 {% include 'chs', chs: filteredChs %}
 {% assign slugged = tag | slug %}
 {% if collections[slugged] %}
-  <h2>Related files</h2>
-  <ul>
-    {% for file in collections[slugged] %}
-      {% include 'fileLi', file: file %}
-    {% endfor %}
-  </ul>
+	<h2>Related files</h2>
+	<ul>
+	{% for file in collections[slugged] %}
+		{% include 'fileLi.vto', file: file %}
+	{% endfor %}
+	</ul>
 {% endif %}

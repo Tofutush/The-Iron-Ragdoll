@@ -1,0 +1,10 @@
+<div class="palette">
+	{{ for name, color of colors }}
+		<div style="background-color:{{ color }}; color: {{ color |> to6DigitHex |> calculateBlackWhite }}">
+			<div>
+				<span>{{ color |> to6DigitHex |> toUpperCase }}</span>
+				<span>{{ name |> toLowerCase }}</span>
+			</div>
+		</div>
+	{{ /for }}
+</div>

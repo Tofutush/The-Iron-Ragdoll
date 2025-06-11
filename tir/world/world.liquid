@@ -37,6 +37,6 @@ eleventyNavigation:
 <ul>
   {% assign sortedLore = collections.lore | sort: "url" %}
   {% for file in sortedLore %}
-    {% include 'fileLi', file: file %}
+    {% include 'fileLi.vto', file: file %}
   {% endfor %}
 </ul>
