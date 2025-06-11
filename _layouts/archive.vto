@@ -24,7 +24,7 @@ eleventyComputed:
 		<div class="archive">
 			{{ for page of group.pages }}
 				<a href="../page-{{ page.pagenum }}/">
-					{{ image "comics/" `${page.url}.png` 100 `Page ${page.pagenum}` }}
+					{{ image "comics/", `${page.url}.png`, 100, `Page ${page.pagenum}` }}
 				</a>
 			{{ /for }}
 		</div>
@@ -33,7 +33,7 @@ eleventyComputed:
 	<div class="archive">
 		{{ for page of comicData[dataName] }}
 			<a href="../page-{{ page.pagenum }}/">
-				{{ image "comics/" `${page.url}.png` 100 `Page ${page.pagenum}` }}
+				{{ image "comics/", `${page.url}.png`, 100, `Page ${page.pagenum}` }}
 			</a>
 		{{ /for }}
 	</div>

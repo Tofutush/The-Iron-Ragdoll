@@ -94,7 +94,7 @@ Technically, a person can have both a common power and a special power — or ev
 
 ### Immortality
 
-{{ figure 'gallery/', 'immortality.svg', 200, 'Immortality symbol YES I was lazy' '' 'float-right' }}
+{{ figure 'gallery/', 'immortality.svg', 200, 'Immortality symbol YES I was lazy', '', 'float-right' }}
 
 - Possessors: [Tundra](/characters/tundra/)
 - People with immortality are called immortals

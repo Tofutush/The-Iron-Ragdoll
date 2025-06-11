@@ -5,8 +5,8 @@ desc: The calendar of holidays and birthdays!
 tags: lore
 widepage: true
 eleventyNavigation:
-	key: Calendar
-	parent: World
+  key: Calendar
+  parent: World
 ---
 <link rel="stylesheet" href="/css/calendar.css"/>
 <h1>Calendar / 日历</h1>
@@ -14,7 +14,7 @@ eleventyNavigation:
 	<summary><h3>Contents</h3></summary>
 	<div id="toc">
 		<ul>
-			{{ for month in calendar }}
+			{{ for month of calendar }}
 				<li><a href="#{{ month.name |> toLowerCase }}">{{ month.name }}</a></li>
 			{{ /for }}
 			<li><a href="#notes">Notes</a></li>
@@ -24,21 +24,21 @@ eleventyNavigation:
 {{ for month of calendar }}
 <div class="calendar">
 	<div><h1 id="{{ month.name |> toLowerCase }}">{{ month.name }}</h1></div>
-	{{ for day in month.days }}
-		<div{{ if day.bdays.days }} class="has-birthday"{{ /if }}>
-			<div class="number{{ if day.bdays.holidays }} has-holiday tooltip{{ /if }}">
-				{{ if day.bdays.holidays }}
+	{{ for day of month.days }}
+		<div{{ if day.bdays?.days }} class="has-birthday"{{ /if }}>
+			<div class="number{{ if day.bdays?.holidays }} has-holiday tooltip{{ /if }}">
+				{{ if day.bdays?.holidays }}
 					<span class="tooltip-text">
-						{{ for holiday in day.bdays.holidays }}
+						{{ for holiday of day.bdays?.holidays }}
 							{{ holiday }}<br/>
 						{{ /for }}
 					</span>
 				{{ /if }}
 				<span>{{ day.date }}</span>
 			</div>
-			{{ if day.bdays.days }}
+			{{ if day.bdays?.days }}
 				<div class="bdays">
-					{{ for bday in day.bdays.days }}
+					{{ for bday of day.bdays?.days }}
 						<a href="{{ bday.url }}" class="tooltip">
 							<span class="tooltip-text">{{ bday.alt }}</span>
 							{{ image "gallery/", bday.image, 200, bday.alt }}

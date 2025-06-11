@@ -7,7 +7,7 @@ eleventyNavigation:
 ---
 <link rel="stylesheet" href="/css/home.css"/>
 <h1 style="text-align: center;">Welcome to the world of The Iron Ragdoll!</h1>
-{{ image 'gallery/', 'cms friends lineless.png' 1000 'Coastline Middle School friends' 'max' }}
+{{ image 'gallery/', 'cms friends lineless.png', 1000, 'Coastline Middle School friends', 'max' }}
 
 Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have fun!
 

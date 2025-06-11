@@ -14,8 +14,8 @@ eleventyComputed:
     title: "{{ year }}"
     parent: Gallery
 ---
-{{ for month of 12 |> reverse }}
-	{{ set filteredGallery = gallery | getOnlyMyArt | filterGalleryByDate: `${year}-${month.padStart(2, '0')}` }}
+{{ for month of [12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1] }}
+	{{ set filteredGallery = gallery |> getOnlyMyArt |> filterGalleryByDate(`${year}-${month.toString().padStart(2, '0')}`) }}
 	{{ if filteredGallery.size > 0 }}
 		<h2 id="{{ month |> getMonthName |> slug }}">{{ month |> getMonthName }}</h2>
 		{{ include 'gallery.vto' {imgs: filteredGallery} }}
@@ -23,8 +23,8 @@ eleventyComputed:
 {{ /for }}
 {{ set prev = pagination.previous }}
 {{ set next = pagination.next }}
-{{ if prev or next }}
+{{ if prev || next }}
 	<hr/>
-	{{ include 'prevnext' {prev: prev, next: next} }}
+	{{ include 'prevnext.vto' {prev: prev, next: next} }}
 {{ /if }}
 <script src="/js/gallery.js"></script>

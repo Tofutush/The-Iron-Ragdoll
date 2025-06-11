@@ -9,13 +9,13 @@ eleventyNavigation:
 {{ set filteredGallery = gallery |> filter(a => !a.author) }}
 <h1>Gallery stats</h1>
 <p>Total number of pictures: {{ filteredGallery.size }}</p>
-{{ for eachyear in years |> reverse }}
-	{{ set numInYear = filteredGallery |> filterGalleryByDate: eachyear }}
+{{ for eachyear of years |> reverse }}
+	{{ set numInYear = filteredGallery |> filterGalleryByDate(eachyear) }}
 	<details>
 		<summary><h2><a href="/gallery/{{ eachyear }}/">{{ eachyear }}</a>: {{ numInYear.length }} pictures</h2></summary>
 		<ul>
 			{{ for month of 12 }}
-				{{ set numInMonth = filteredGallery | filterGalleryByDate: `${year}-${month.padStart(2, '0')}` }}
+				{{ set numInMonth = filteredGallery |> filterGalleryByDate(`${year}-${month.toString().padStart(2, '0')}`) }}
 				{{ if numInMonth.size > 0 }}
 					<li><a href="/gallery/{{ eachyear }}/#{{ month |> getMonthName |> slug }}">{{ month |> getMonthName }}</a>: {{ numInMonth.length }} picture{{ if numInMonth.length != 1 }}s{{ /if }}</li>
 				{{ /if }}

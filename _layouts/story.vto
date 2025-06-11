@@ -12,7 +12,7 @@ eleventyComputed:
 	<p>Main Cast</p>
 	<div class="tags">
 		{{ for ch of chs }}
-			{{ include 'chButton.vto', ch: ch }}
+			{{ include 'chButton.vto' {ch: ch} }}
 		{{ /for }}
 	</div>
 	<p>Time period</p>
@@ -37,5 +37,5 @@ eleventyComputed:
 {{ set next = collections.stories |> getNextCollectionItem }}
 {{ if prev || next }}
 	<hr />
-	{{ include 'prevnext.vto' {prev: prev.url, next: next.url} }}
+	{{ include 'prevnext.vto' {prev: prev?.url, next: next?.url} }}
 {{ /if }}

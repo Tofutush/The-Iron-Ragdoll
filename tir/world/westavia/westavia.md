@@ -83,7 +83,7 @@ Despite this, there are still a number of secret historians who collect and arch
 
 ## Related files
 
-{{ collections.all |> eleventyNavigation: "Westavia" |> eleventyNavigationToHtml }}
+{{ collections.all |> eleventyNavigation("Westavia") |> eleventyNavigationToHtml }}
 
 ## Trivia
 

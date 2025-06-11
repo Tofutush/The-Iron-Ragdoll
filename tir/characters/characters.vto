@@ -17,8 +17,8 @@ eleventyComputed:
 <link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
 <div style="--accent: {{ ch.color }}">
-	{{ set filteredGallery = gallery |> filterGallery: ch.name |> sortGalleryByChCount }}
-	{{ set pagedoll = filteredGallery |> getFirstOfKind: "pagedoll" }}
+	{{ set filteredGallery = gallery |> filterGallery(ch.name) |> sortGalleryByChCount }}
+	{{ set pagedoll = filteredGallery |> getFirstOfKind("pagedoll") }}
 	{{ if pagedoll }}
 		{{ image 'gallery/', `${pagedoll.name}.${pagedoll.type}`, 500, pagedoll.name, 'pagedoll' }}
 	{{ /if }}
@@ -36,9 +36,9 @@ eleventyComputed:
 		<div id="toc">
 			<ul>
 				{{ if ch.about }}<li><a href="#about">About</a></li>{{ /if }}
-				{{ set filteredStories = collections.stories | filterStory: ch.name }}
+				{{ set filteredStories = collections.stories |> filterStory(ch.name) }}
 				{{ if filteredStories.size > 0 }}<li><a href="#stories">Stories</a></li>{{ /if }}
-				{{ set filteredRelations = relationships | filterRelations: ch.name }}
+				{{ set filteredRelations = relationships |> filterRelations(ch.name) }}
 				{{ if filteredRelations.size > 0 }}<li><a href="#relationships">Relationships</a></li>{{ /if }}
 				{{ if ch.trivia }}<li><a href="#trivia">Trivia</a></li>{{ /if }}
 				<li><a href="#reference">Reference</a></li>
@@ -48,12 +48,12 @@ eleventyComputed:
 	</details>
 	{{ if ch.attr }}
 		<div class="attr">
-			{{ for att, val in ch.attr }}
+			{{ for att, val of ch.attr }}
 				<p>{{ att }}</p>
 				<p>{{ val }}</p>
 			{{ /for }}
 			<p>Artfight</p>
-			<p><a href="{{ ch.af || `https://artfight.net/character/4927468.other-character }}`">Attack {{ ch.name }}!</a></p>
+			<p><a href="{{ ch.af || `https://artfight.net/character/4927468.other-character` }}">Attack {{ ch.name }}!</a></p>
 			{{ if ch.tags }}
 				<p>Tags</p>
 				<div class="tags">
@@ -73,16 +73,16 @@ eleventyComputed:
 	{{ /if }}
 	{{ if filteredStories.size > 0 }}
 		<h2 id="stories">Stories</h2>
-		{{ include 'storylist.vto', {stories: filteredStories} }}
+		{{ include 'storylist.vto' {stories: filteredStories} }}
 	{{ /if }}
 	{{ if filteredRelations.size > 0 }}
 		<h2 id="relationships">Relationships</h2>
 		{{ for index, rel of filteredRelations }}
-			{{ set otherCh = rel | getOtherCh: ch.name }}
+			{{ set otherCh = rel | getOtherCh(ch.name) }}
 			<h3><a class="rel-h3" href="../{{ otherCh[0] | toLowerCase }}/">{{ otherCh[0] }}</a>{{ if otherCh[1] }} ({{ otherCh[1] }}){{ /if }}</h3>
 			{{ if rel.img }}
 				{{ set className = (index % 2 == 0 ? 'float-left rel-img' : 'float-right rel-img') }}
-				{{ image "gallery/" rel.img 500 `${ch.name} and ${otherCh[0]}` className }}
+				{{ image "gallery/", rel.img, 500, `${ch.name} and ${otherCh[0]}`, className }}
 			{{ /if }}
 			{{ rel.desc |> renderMD }}
 		{{ /for }}
@@ -93,10 +93,10 @@ eleventyComputed:
 	{{ /if }}
 	<h2 id="reference">Reference</h2>
 	{{ set palette = ch |> getFullPalette }}
-	{{ include 'palette' {colors: palette} }}
-	{{ set ref = filteredGallery | getFirstOfKind: "ref" }}
+	{{ include 'palette.vto' {colors: palette} }}
+	{{ set ref = filteredGallery |> getFirstOfKind("ref") }}
 	{{ if ref }}
-		<a href="{{ imageUrl 'gallery/', `${ch.name.toLowerCase()} ref.png`, 9999, '', 'png' }}">{{ figure 'gallery/', `${ch.name.toLowerCase()} ref.png` 500 `${ch.name} reference sheet` 'Click for full size!' 'max' }}</a>
+		<a href="{{ imageUrl 'gallery/', `${ch.name.toLowerCase()} ref.png`, 9999, '', 'png' }}">{{ figure 'gallery/', `${ch.name.toLowerCase()} ref.png`, 500, `${ch.name} reference sheet`, 'Click for full size!', 'max' }}</a>
 	{{ /if }}
 	{{ if filteredGallery.size > 0 }}
 		<h2 id="gallery">Gallery</h2>
@@ -118,8 +118,8 @@ eleventyComputed:
 </div>
 {{ set prev = pagination.previous }}
 {{ set next = pagination.next }}
-{{ if prev or next }}
+{{ if prev || next }}
 	<hr/>
-	{{ include 'prevnext' {prev: prev, next: next} }}
+	{{ include 'prevnext.vto' {prev: prev, next: next} }}
 {{ /if }}
 <script src="/js/gallery.js"></script>

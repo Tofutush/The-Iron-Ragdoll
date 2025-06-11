@@ -13,7 +13,7 @@ layout: layout.vto
 	<div class="tags">
 		<a href="/characters/" {{ if page.url == "/characters/" }}aria-current="true"{{ /if }}>All</a>
 		{{ for t of tagsplot }}
-			<a href="/characters/tag/{{ t | slug }}/" {{ if t == tag }}aria-current="true"{{ /if }}>{{ t }}</a>
+			<a href="/characters/tag/{{ t |> slug }}/" {{ if t == tag }}aria-current="true"{{ /if }}>{{ t }}</a>
 		{{ /for }}
 	</div>
 </details>

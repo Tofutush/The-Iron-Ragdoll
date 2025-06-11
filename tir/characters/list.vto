@@ -28,7 +28,7 @@ eleventyNavigation:
 					<td>{{ index }}</td>
 					<td><a href="/characters/{{ ch.name |> toLowerCase }}/">{{ ch.name }}</a></td>
 					<td><a href="/characters/{{ ch.name |> toLowerCase }}/">{{ ch.namezh }}</a></td>
-					{{ set filteredGallery = gallery |> filterGallery: ch.name }}
+					{{ set filteredGallery = gallery |> filterGallery(ch.name) }}
 					<td><a href="/characters/{{ ch.name |> toLowerCase }}/#gallery">{{ filteredGallery.size }}</a></td>
 					<td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color |> calculateBlackWhite }}">{{ ch.color |> to6DigitHex |> toUpperCase }}</td>
 				</tr>
@@ -42,19 +42,19 @@ eleventyNavigation:
 	<p>Needs design</p>
 	<div class="tags">
 		{{ for ch of characters }}
-			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
+			{{ set filteredGallery = gallery |> filterGallery(ch.name) }}
 			{{ if filteredGallery.size == 0 }}
-				{{ include 'chButton.vto', {ch: ch.name} }}
+				{{ include 'chButton.vto' {ch: ch.name} }}
 			{{ /if }}
 		{{ /for }}
 	</div>
 	<p>Needs thumb</p>
 	<div class="tags">
 		{{ for ch of characters }}
-			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
-			{{ set thumb = filteredGallery |> filterGalleryByKind: 'thumb' }}
+			{{ set filteredGallery = gallery |> filterGallery(ch.name) }}
+			{{ set thumb = filteredGallery |> filterGalleryByKind('thumb') }}
 			{{ if filteredGallery.size != 0 && thumb.size == 0 }}
-				{{ include 'chButton.vto', ch: ch.name }}
+				{{ include 'chButton.vto' {ch: ch.name} }}
 			{{ /if }}
 			{{ if thumb.size == 1 }}
 				{{ set total = total + 1 }}
@@ -64,11 +64,11 @@ eleventyNavigation:
 	<p>Needs profile</p>
 	<div class="tags">
 	{{ for ch of characters }}
-		{{ set filteredGallery = gallery |> filterGallery: ch.name }}
-		{{ set thumb = filteredGallery |> filterGalleryByKind: 'thumb' }}
-		{{ set profile = filteredGallery |> filterGalleryByKind: 'thumb new' }}
+		{{ set filteredGallery = gallery |> filterGallery(ch.name) }}
+		{{ set thumb = filteredGallery |> filterGalleryByKind('thumb') }}
+		{{ set profile = filteredGallery |> filterGalleryByKind('thumb new') }}
 		{{ if thumb.size == 1 && profile.size == 0 }}
-			{{ include 'chButton.vto', ch: ch.name }}
+			{{ include 'chButton.vto' {ch: ch.name} }}
 		{{ /if }}
 		{{ if profile.size == 1 }}
 			{{ set total = total + 1 }}
@@ -78,11 +78,11 @@ eleventyNavigation:
 	<p>Needs reference</p>
 	<div class="tags">
 		{{ for ch of characters }}
-			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
-			{{ set profile = filteredGallery |> filterGalleryByKind: 'thumb new' }}
-			{{ set ref = filteredGallery |> filterGalleryByKind: 'ref' }}
+			{{ set filteredGallery = gallery |> filterGallery(ch.name) }}
+			{{ set profile = filteredGallery |> filterGalleryByKind('thumb new') }}
+			{{ set ref = filteredGallery |> filterGalleryByKind('ref') }}
 			{{ if profile.size == 1 && ref.size == 0 }}
-				{{ include 'chButton.vto', ch: ch.name }}
+				{{ include 'chButton.vto' {ch: ch.name} }}
 			{{ /if }}
 			{{ if ref.size == 1 }}
 				{{ set total = total + 1 }}
@@ -92,11 +92,11 @@ eleventyNavigation:
 	<p>Needs fav picker image</p>
 	<div class="tags">
 		{{ for ch of characters }}
-			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
-			{{ set profile = filteredGallery |> filterGalleryByKind: 'thumb new' }}
-			{{ set fav = filteredGallery |> filterGalleryByKind: 'fav' }}
+			{{ set filteredGallery = gallery |> filterGallery(ch.name) }}
+			{{ set profile = filteredGallery |> filterGalleryByKind('thumb new') }}
+			{{ set fav = filteredGallery |> filterGalleryByKind('fav') }}
 			{{ if profile.size == 1 && fav.size == 0 }}
-				{{ include 'chButton.vto', ch: ch.name }}
+				{{ include 'chButton.vto' {ch: ch.name} }}
 			{{ /if }}
 			{{ if fav.size == 1 }}
 				{{ set total = total + 1 }}
@@ -106,13 +106,13 @@ eleventyNavigation:
 	<p>All done</p>
 	<div class="tags">
 		{{ for ch of characters }}
-			{{ set filteredGallery = gallery |> filterGallery: ch.name }}
-			{{ set thumb = filteredGallery |> filterGalleryByKind: 'thumb' }}
-			{{ set profile = filteredGallery |> filterGalleryByKind: 'thumb new' }}
-			{{ set ref = filteredGallery |> filterGalleryByKind: 'ref' }}
-			{{ set fav = filteredGallery |> filterGalleryByKind: 'fav' }}
+			{{ set filteredGallery = gallery |> filterGallery(ch.name) }}
+			{{ set thumb = filteredGallery |> filterGalleryByKind('thumb') }}
+			{{ set profile = filteredGallery |> filterGalleryByKind('thumb new') }}
+			{{ set ref = filteredGallery |> filterGalleryByKind('ref') }}
+			{{ set fav = filteredGallery |> filterGalleryByKind('fav') }}
 			{{ if thumb.size == 1 && profile.size == 1 && ref.size == 1 && fav.size == 1 }}
-				{{ include 'chButton.vto', ch: ch.name }}
+				{{ include 'chButton.vto' {ch: ch.name} }}
 			{{ /if }}
 		{{ /for }}
 	</div>

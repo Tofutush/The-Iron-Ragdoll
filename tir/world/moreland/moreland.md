@@ -75,4 +75,4 @@ Since family isn't a thing in Moreland, people don't have family names. In legal
 
 ## Related files
 
-{{ collections.all |> eleventyNavigation: "Moreland" |> eleventyNavigationToHtml }}
+{{ collections.all |> eleventyNavigation("Moreland") |> eleventyNavigationToHtml }}

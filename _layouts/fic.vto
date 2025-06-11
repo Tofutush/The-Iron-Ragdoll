@@ -1,6 +1,6 @@
 ---
 layout: layout.vto
-permalink: "stories/{{ parent | slug }}/chapter-{{ chNum }}/"
+permalink: "stories/{{ parent |> slug }}/chapter-{{ chNum }}/"
 eleventyComputed:
   title: "{{ parent }} - chapter {{ chNum }}{{ if chTitle }}: {{ chTitle }}{{ /if }}"
   eleventyNavigation:
@@ -23,7 +23,7 @@ eleventyComputed:
 {{ content }}
 {{ set prev = collections[colName] |> getPreviousCollectionItem }}
 {{ set next = collections[colName] |> getNextCollectionItem }}
-{{ if prev or next }}
+{{ if prev || next }}
 	<hr />
-	{{ include 'prevnext.vto' {prev: prev.url, next: next.url} }}
+	{{ include 'prevnext.vto' {prev: prev?.url, next: next?.url} }}
 {{ /if }}

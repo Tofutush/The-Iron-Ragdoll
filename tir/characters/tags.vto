@@ -5,7 +5,7 @@ pagination:
   size: 1
   alias: tag
   addAllPagesToCollections: true
-permalink: "characters/tag/{{ tag | slug }}/"
+permalink: "characters/tag/{{ tag |> slug }}/"
 eleventyComputed:
   title: "{{ tag }} Characters"
   tag: "{{ tag }}"
@@ -14,14 +14,14 @@ eleventyComputed:
     title: "{{ tag }}"
     parent: Tags
 ---
-{{ set filteredChs = characters |> filterChByTag: tag }}
-{{ include 'chs', {chs: filteredChs} }}
+{{ set filteredChs = characters |> filterChByTag(tag) }}
+{{ include 'chs.vto' {chs: filteredChs} }}
 {{ set slugged = tag |> slug }}
 {{ if collections[slugged] }}
 	<h2>Related files</h2>
 	<ul>
 		{{ for file of collections[slugged] }}
-			{{ include 'fileLi.vto', {file: file} }}
+			{{ include 'fileLi.vto' {file: file} }}
 		{{ /for }}
 	</ul>
 {{ /if }}

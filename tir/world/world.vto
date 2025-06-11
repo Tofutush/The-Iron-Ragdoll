@@ -3,9 +3,9 @@ layout: layout.vto
 title: World
 desc: The world of The Iron Ragdoll.
 eleventyNavigation:
-	key: World
-	parent: Root
-	order: 998
+  key: World
+  parent: Root
+  order: 998
 ---
 <style>
 	.imgs {
@@ -36,6 +36,6 @@ eleventyNavigation:
 <h2>Lore files list</h2>
 <ul>
 	{{ for file of collections.lore |> sort((a, b) => a.url.localeCompare(b.url)) }}
-		{{ include 'fileLi.vto', {file: file} }}
+		{{ include 'fileLi.vto' {file: file} }}
 	{{ /for }}
 </ul>

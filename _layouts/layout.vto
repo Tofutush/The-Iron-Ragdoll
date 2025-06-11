@@ -41,6 +41,7 @@ navOptions:
 	</nav>
 	<main>
 		{{ if !noNav }}
+		{{> if(!title) console.log(page)}}
 			{{ set bc = collections.all |> eleventyNavigationBreadcrumb(navTitle || title, navOptions) }}
 			{{ if bc.length > 2 }}
 				<div class="breadcrumbs">

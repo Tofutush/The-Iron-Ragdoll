@@ -107,4 +107,4 @@ Most of the story takes place during the cold war.
 
 ## Related files
 
-{{ collections.all |> eleventyNavigation: "Bauhinia" |> eleventyNavigationToHtml }}
+{{ collections.all |> eleventyNavigation("Bauhinia") |> eleventyNavigationToHtml }}

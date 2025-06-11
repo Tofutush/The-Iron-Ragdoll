@@ -108,5 +108,6 @@ export default function (eleventyConfig) {
 			data: '../_data'
 		},
 		passthroughFileCopy: true,
+		markdownTemplateEngine: 'vto',
 	};
 };
