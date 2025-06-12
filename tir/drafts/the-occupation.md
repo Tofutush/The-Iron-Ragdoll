@@ -17,21 +17,9 @@ myTags:
 
 Candlelight went to Mooncake's after school as usual. She was becoming more and more like his sister.
 
-Ever since Sundew ran, their dad Ember had become more volatile. Candlelight avoided him as much as possible, only going back home late at night to sleep. To his delight, Ember seemed to have found a job in Area 29, as he was often away from home for days at a time. Not today though, so Candlelight still opted for the old routine with Mooncake.
+Ever since Sundew ran away, their dad Ember had become more volatile. Candlelight avoided him as much as possible, only going back home late at night to sleep. To his delight, Ember seemed to have found a job in Area 29, as he was often away from home for days at a time. Not today though, so Candlelight still opted for the old routine with Mooncake.
 
-To their surprise, Mooncake's dad Thyme wasn't home.
-
-"Where did your dad go?" Candlelight asked.
-
-"No idea," Mooncake said. As soon as she finished, the village-wide emergency broadcast started ringing. Speakers perched atop poles started screaming with their raspy, long unused throat. Behind the static distortion, Thyme's deep, confident voice was unmistakable.
-
-"Attention! This is your leader Thyme. There has been terrorist attack in Area 29. They have fled west. Please do not exit your homes unless necessary. I repeat, do not exit your homes until further notice."
-
-"Another attack?" Candlelight said in disbelief. "They just never stop, do they?"
-
-"What is there to attack about Area 29?" Mooncake said. "Birds don't even want to shit there."
-
-They set down their backpacks and started playing their drawing games in their notebook. Mooncake had decided that Candlelight's garden had a pest invasion yesterday, and he was still trying to buy enough repellent for the three-by-three field of nine tiles. He could exchange for in-game currency with fancy rocks, and he had spent all the recesses today at school crouched on the ground, stuffing his pocket full of pebbles. He eagerly showed his collection to Mooncake.
+Mooncake's dad Thyme wasn't home, and Mooncake assumed he must be in the communication center, doing village leader work. They set down their backpacks and started playing drawing games in their notebook. Mooncake had decided that Candlelight's garden had a pest invasion yesterday, and he was still trying to buy enough repellent for the three-by-three field of nine tiles. He could exchange for in-game currency with fancy rocks, and he had spent all the recesses today at school crouched on the ground, stuffing his pocket full of pebbles. He eagerly showed his collection to Mooncake.
 
 "This one looks nice," she said. "That's about it. You got twenty bucks."
 
@@ -41,32 +29,44 @@ They set down their backpacks and started playing their drawing games in their n
 
 "You're just picky," Candlelight said, but still got up to go outside. Just as he opened the door, Thyme was about to get back in.
 
-Their house was near the edge of the village, and the communication center where Thyme gave the announcement was in the middle. The walk between them was about five minutes.
+"Bad news, kids," he said. "There's been an attack in Area 29."
 
-"What are you kids doing?" he said. "Didn't you hear what I said? Get back inside."
+"Another attack?" Candlelight said in disbelief. "They just never stop, do they?"
 
-"But why?" Mooncake whined.
+"What is there to attack about 29?" Mooncake said. "Birds don't even want to shit there."
 
-Thyme ushered them inside and closed the door. "The terrorists fled west after the attack. They had a way longer head start than the police. There's a chance they might come here."
+"They have a huge head start against the police. The media hasn't been informed either; it only just happened. My cousin was the one who told me."
 
-"Really?" Mooncake asked.
+Thyme's cousin was working in Area 29. Mooncake held a hand to her mouth.
 
-Thyme walked to the window and looked outside, as if trying to spot out people running towards them. "It seems like they're going for the desert. If so, they might stop at a village on the way for food and water." He turned around to face the kids. "We're the only place between them and the desert."
+"Don't worry, she wasn't anywhere near the bazaar that got attacked. But she saw it. There was a bomb, apparently."
 
-Candlelight felt his heart pumping against his chest. He wiped a handful of sweat off his forehead and snuggled closer to Mooncake.
+Candlelight and Mooncake just stared at each other. The attacks had become more frequent. They used to happen only in the more developed eastern side of the country, about where they could be blissfully oblivious, but Area 29 was in the very west, the city closest to their little village. It was almost as if the terrorists would be coming for *them* next.
 
-"You can stay here tonight if you want, Candle," Thyme said. "If you want to go home, I will walk you."
+"What do we do?" Mooncake asked.
 
-"Are we gonna fight them?" Mooncake held up her fists. "I can help!"
+"There is nothing we *can* do," Thyme said. "Let's just pray not a lot of people are hurt."
 
-"No, we can't risk anything. We'll stay inside. They'll leave if they can't get anything out of us."
+"How many terrorists were in the attack?" Candlelight asked.
+
+"We don't know yet," Thyme answered. "We'll have to wait until the media does a report. It wouldn't be until at least tomorrow."
 
 ---
 
-Thyme was right. Around eight in the evening, a group of people on horses galloped into the village. Seeing all these closed doors, the leader probably suspected that the villagers were expecting them.
+They didn't have to wait that long.
 
-They galloped through the small dirt roads, looking for a food storage or a well; but when they saw none, they decided to knock on someone's door.
+At around eight, four men on horses galloped into their little village. Candlelight and Mooncake ran out into the yard as they neared and marveled at these guests. They wore bandannas covering everything but their eyes, carried boxes and rucksacks that appeared to be empty, and looked extremely cool.
 
-Thyme answered. "You are not from here. Who are you and what do you want?"
+They stopped in front of them, asking, "Are your parents home?"
 
-His tone was one bit too hostile. The leader was now sure that they were expecting the terrorists, and the locked doors were their welcome.
+"Sure!" Mooncake nodded furiously. "I'll call my dad!"
+
+She ran inside while Candlelight stayed out. "Who are you?" he asked.
+
+"We're some tired travelers needing a night's rest." The man pulled his bandanna down so that his mouth showed, but didn't get off the horse. "We would be so grateful if you could provide us with food and water."
+
+"We totally can!" Candlelight smiled. But then he remembered Thyme's words. "Do you know? There's an attack in 29. It hasn't been reported yet."
+
+The man opened his mouth to speak, but was interrupted by Thyme's bellowing voice. "You are not welcome here!"
+
+"Dad?" Mooncake tried to object but Thyme shoved her away with one hand, pulling Candlelight back with the other.
