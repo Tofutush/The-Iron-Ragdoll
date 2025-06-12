@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-12
+
+- After a painful failed attempt to move this site from Liquid to Vento, I opted to merely change the "Table of Contents" text to just "Contents" since it used to be inconsistent;
+
 ## 2025-06-03
 
 - Added `nebula thumb.png`, `candlelight meets curly.png`, `snake wings.png`;
