@@ -65,8 +65,32 @@ She ran inside while Candlelight stayed out. "Who are you?" he asked.
 
 "We're some tired travelers needing a night's rest." The man pulled his bandanna down so that his mouth showed, but didn't get off the horse. "We would be so grateful if you could provide us with food and water."
 
-"We totally can!" Candlelight smiled. But then he remembered Thyme's words. "Do you know? There's an attack in 29. It hasn't been reported yet."
+"We totally can!" Candlelight smiled. But then he remembered Thyme's words. "Do you know? There's an attack in Area 29. It hasn't been reported yet."
 
-The man opened his mouth to speak, but was interrupted by Thyme's bellowing voice. "You are not welcome here!"
+The man opened his mouth to speak, but was interrupted by Mooncake trotting towards them, yelling "Dad is busy. He just went to the communication office."
 
-"Dad?" Mooncake tried to object but Thyme shoved her away with one hand, pulling Candlelight back with the other.
+"I'm sorry to intrude, then," said the man, pulling his bandanna back up. "We'll try at the next house."
+
+"Bye!" Candlelight and Mooncake said in unison as the horses galloped to the next house.
+
+Mooncake's house was at the entrance of the village, about five minutes away from the communication office, which was why it was five minutes later that the village-wide emergency announcement sounded. Speakers perched atop poles started screaming with their raspy, long unused throat. Behind the static distortion, Thyme's deep, confident voice was unmistakable.
+
+"*Terrorists from the attack in Area 29 has entered our village. Do not give in to their demands. Do not assist them in any way. I repeat, do not assist them. They are not our guests.*"
+
+Candlelight gasped. "*They* are the terrorists?" He looked at Mooncake. "How did your dad know?"
+
+"Adult magic, I suppose?"
+
+The kids peeked at the neighboring house where the men went, and ever so curious, started towards it.
+
+"If you have to be this difficult, then we have no choice either," they heard the voice of the man — the leader? — who talked to them earlier.
+
+A horse shrieked as a villager, sneaking up on them, sank an axe into its leg. A man toppled off the horse but quickly stood back up. Another terrorist jumped off his horse, a wicked-looking stick in hand, to face the villager, but someone pushed her behind him, holding a knife. More villagers were emerging, carrying butcher knives, axes, pans, or any household weapon they could get their hands on. Candlelight and Mooncake watched in anticipation as the terrorists were surrounded.
+
+Though they could not see him, Thyme's voice appeared on the other side of the crowd. He was talking into a handheld speaker. "*We outnumber them,*" he said. "*And we know the village layout better than they do! We can beat—*"
+
+He was abruptly cut off. Villagers and terrorists both turned to look, wondering why. Candlelight and Mooncake edged closer.
+
+Ember had clubbed Thyme in the head. The speaker slipped from his hand, and he was kneeling on the floor, struggling to regain sense.
+
+Ember picked up the speaker and screamed into it. "*Ditch the wounded horse! Break the encirclement at 5 o'clock my perspective! I'll take you to the comms office!*"

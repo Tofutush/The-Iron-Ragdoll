@@ -84,8 +84,6 @@ Anyway that's the story of how our future officers learned the first lesson at M
 > [!question]+ Isn't "never trust anyone" a better lesson?
 >
 > I suppose, but first, it's a little too vague, so it might be a little hard to find specific moments that teach you this thing exactly; and for the time being teaching them that might make them distrust spy school administration, which is the opposite of what they want right now — obedience. It functions better as a word of caution rather than a real lesson taught.
->
-> Besides, "never grow attached to your agents" a nice little subversion of how in a lot of current spy stories the line between handler and agent is a little too blurred; and the agent could even get into agency headquarters and know their handler by name!
 
 [^1]: No way Sky wasn't pleased with himself freaking out Entity just by standing there in a uniform.
 [^2]: This is a little hard to describe.
