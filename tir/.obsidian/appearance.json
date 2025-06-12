@@ -2,18 +2,19 @@
   "accentColor": "",
   "baseFontSize": 20,
   "enabledCssSnippets": [
-    "folder tree",
     "justify",
     "line height",
     "icon ratio",
     "titlebar background",
     "properties",
     "word count",
-    "blockquote"
+    "blockquote",
+    "folder tree",
+    "complement"
   ],
   "interfaceFontFamily": "DIN Round Pro",
   "textFontFamily": "Bookerly,霞鹜文楷,Lexend,Crimson Pro,Courier Prime,霞鹜漫黑",
   "cssTheme": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑"
 }
