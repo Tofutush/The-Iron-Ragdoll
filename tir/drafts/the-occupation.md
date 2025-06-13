@@ -16,6 +16,10 @@ myTags:
   - Oneshot
 ---
 
+[[toc]]
+
+## 1
+
 Candlelight went to Mooncake's after school as usual. She was becoming more and more like his sister.
 
 Ever since Sundew ran away, their dad Ember had become more volatile. Candlelight avoided him as much as possible, only going back home late at night to sleep. To his delight, Ember seemed to have found a job in Area 29, as he was often away from home for days at a time. Not today though, so Candlelight still opted for the old routine with Mooncake.
@@ -52,7 +56,7 @@ Candlelight and Mooncake just stared at each other. The attacks had become more 
 
 "We don't know yet," Thyme answered. "We'll have to wait until the media does a report. It wouldn't be until at least tomorrow."
 
----
+## 2
 
 They didn't have to wait that long.
 
@@ -86,7 +90,7 @@ The kids peeked at the neighboring house where the men went, and ever so curious
 
 "If you have to be this difficult, then we have no choice either," they heard the voice of the man — the leader? — who talked to them earlier.
 
-A horse shrieked as a villager, sneaking up on them, sank an axe into its leg. The man on the horse toppled onto the ground, but quickly stood back up. Another terrorist jumped off his horse, a wicked-looking stick in hand, to face the villager, but someone pushed her behind him, holding a knife. More villagers were emerging, carrying butcher knives, axes, pans, or any household weapon they could get their hands on. The wounded horse was crazily jumping around, but pretty soon all its legs were cut in half, and it lay on the ground, whimpering. Candlelight and Mooncake watched in anticipation as the terrorists were surrounded.
+A horse shrieked as a villager, sneaking up on them, sank an axe into its leg. The man on the horse toppled onto the ground, but quickly stood back up. Another terrorist jumped off his horse, a wicked-looking club in hand, to face the villager, but someone pushed her behind him, waving a knife. More villagers were emerging, carrying butcher knives, axes, pans, or any household weapon they could get their hands on. The wounded horse was crazily jumping around, but pretty soon all its legs were cut in half, and it lay on the ground, whimpering. Candlelight and Mooncake watched in anticipation as the terrorists were surrounded.
 
 Though they could not see him, Thyme's voice appeared on the other side of the crowd. He was talking into a handheld speaker. "*We outnumber them,*" he said. "*And we know the village layout better than they do! We can beat—*"
 
@@ -96,7 +100,7 @@ Ember had clubbed Thyme in the head. The speaker slipped from his hand, and he w
 
 Ember picked up the speaker and screamed into it. "*Break the encirclement at 5 o'clock my perspective! I'll take you to the comms office!*"
 
-The leader dashed towards the direction Ember pointed them to, and sure enough, the encirclement was weakest there. The other two horses followed suit, with the lone man whose horse was injured chasing after them. The horses rammed into a husband and wife, knocking them away. The villagers tried to chase them but ran into each other as the neat encirclement broke into chaos.
+The leader dashed towards the direction Ember pointed them to, and sure enough, the encirclement was weakest there. The other two men jumped onto their horses and followed suit, with the lone man whose horse was injured chasing after them. The horses rammed into a husband and wife, knocking them away. The villagers tried to chase them but ran into each other as the neat encirclement broke into chaos.
 
 Mooncake tugged Candlelight. "Let's go around this way and follow them!"
 
@@ -154,7 +158,7 @@ The leader smiled, and slowly turned his head, until he was looking straight int
 
 Candlelight immediately felt like barfing. His heart turned into a rabid beast struggling to break out of the cage made by his ribs. He squeezed Mooncake's hand.
 
-"Yes, you two. The red one and the green one."
+"Yes, you two. The red one and the green one. You think you're so sneaky. Come on over."
 
 Tentatively, Candlelight stepped out, his hand still holding Mooncake's. Slowly, he walked towards them. He kept darting his gaze between the terrorist leader and his dad, but both of them just looked patiently back at him. Finally they were in front of them.
 
@@ -168,23 +172,21 @@ Tentatively, Candlelight stepped out, his hand still holding Mooncake's. Slowly,
 
 "What?"
 
-"You heard me. Kill them. Prove your loyalty. You have a knife, no?"
+"You heard me. Kill them. Prove your loyalty. You have a club, no?"
 
-Candlelight instinctively shoved Mooncake behind him. He wanted to run, but his legs shook too much. Mooncake propped him up from behind.
+Candlelight instinctively shoved Mooncake behind him and braced himself. He had learnt long ago that running only makes it worse.
 
-"D-d-dad…" he said.
+Ember was weighing the club in his hands.
 
-Ember was taking his dagger out of its holster.
-
-Candlelight wondered where the other villagers were. Did they really listen to the announcement and decided to stay put?
+It would only hurt for the first bit. Then you get numb. A club was one of these things that didn't hurt as much as they looked. Candlelight knew.
 
 Ember was coming over. The terrorists stepped back.
 
-Candlelight shut his eyes and braced himself.
+Candlelight shut his eyes.
 
-There came a sound. His eyes opened to find Thyme wrenching the dagger out of Ember's hands and throwing it away.
+There came a sound. His eyes opened to find Thyme wrenching the club out of Ember's hands and throwing it away.
 
-"Run!" He yelled. Candlelight was still unable to. He watched in horror as the terrorists closed in on Thyme, clubs and knives at the ready.
+"Run!" He yelled. Mooncake tugged at him, but Candlelight found his legs frozen. He watched in horror as the terrorists closed in on Thyme, clubs and knives at the ready.
 
 Ember sprang up and said, "let me deal with him!"
 
@@ -198,6 +200,134 @@ Ember took the club, but pointed it at Candlelight first. "Get home."
 
 Candlelight finally managed to unfreeze and ran away with Mooncake.
 
----
+## 3
 
-They were both at Candlelight's. He sat on the ground because sitting on any chair would vividly remind him of the feeling when the chair was hitting him. Mooncake was curled up on a chair, blanket over her head, shaking as Candlelight tried to comfort her, but even he couldn't believe himself when he told her it would be okay.
+They were both at Candlelight's. He sat on the carpet because sitting on any chair would vividly remind him of the feeling when the chair was hitting him. Mooncake was curled up beside him, blanket over her head, shaking as Candlelight tried to comfort her, but even he couldn't believe himself when he told her it would be okay.
+
+They tried eating some stone-cold naan in the kitchen. They couldn't stomach it. They toiled until eleven. The sun had set and the stars came out, like they always did.
+
+That was when they heard a dog scratching their door. Even the mutts were scared.
+
+Candlelight silently went to open it.
+
+It was no dog. It was Thyme.
+
+He was bleeding out of his nose and mouth, and his right leg was in a wicked angle. Not that his left leg was left untouched. He had dragged himself all the way here with his arms.
+
+"I'm gonna have to spend the night at your place," he chuckled, a bit of blood spurting onto his chin, a fresh coat on top of the dried. Candlelight could tell he hurt with every word he said.
+
+Candlelight grabbed one of his arms and tried to pull him over the threshold. He didn't want to call Mooncake, fearing she would faint at the sight of her father like this, but Thyme's other arm was lifted into the air and he turned to see Mooncake holding it. Together, they pulled him inside, their silence finally broken by grunting and panting.
+
+"I'll go get a towel," Mooncake said and ran away. Candlelight pulled Thyme onto the carpet and put a pillow under his head.
+
+Mooncake was back with a wet towel and a cup of water. She gently wiped the blood off her father's face. Candlelight held his head up as she tipped the water into his mouth.
+
+They lay on the carpet for a good while, entering back into silence. It was around half past eleven when Thyme said, "hey Candlelight, mind if you do me another favor?" He was using the tone he used to ask little favors of the village children. Like it was a normal day and he was just asking Candlelight to grab him pen and paper.
+
+"What?"
+
+"Find a bucket and go get some water."
+
+"But we have enough water, for the night at least."
+
+"That's why you're only *pretending* to get water."
+
+Candlelight sat up.
+
+"Go to the comms office," Thyme's voice was starting to sound strained. "Contact the police. Tell them we're twenty degrees north from west and fifty kilometers to 29 and the terrorists are here. If anyone sees you, you're getting water."
+
+"Should I call the hospital too?" Candlelight asked, looking worriedly at Thyme's legs.
+
+"If you got time," Thyme rasped. "The police is more important."
+
+"We can go together," Mooncake started.
+
+"No, I need you here, honey," Thyme rolled over all by himself until he was lying on his side, facing Mooncake. "I used to pat your head when you were scared, remember? You've grown out of it."
+
+Mooncake understood, and reached out her hand to pat her dad in the head. "Be safe," she said to Candlelight.
+
+## 4
+
+Candlelight was holding the bucket in one hand and a flashlight in another.
+
+His house was closer to the office than Mooncake's, so thankfully he didn't have to pass it by, but the dirt paths still seemed extra threatening. Curtains were drawn and no one was out.
+
+He got to the office without much trouble, but when he opened the door, there was a terrorist inside, sitting in Thyme's chair.
+
+"What are you — hey, you're Ember's son!"
+
+Candlelight froze. Looked like the terrorists knew perfectly well that whoever controlled the comms office controlled the village.
+
+"How come you got a girlfriend but don't spend the night with her?"
+
+"She's not my girlfriend…"
+
+"Of course not," the man chuckled. "Of course not. What are you doing here?"
+
+"I'm… I'm getting water," he held up his bucket.
+
+"Well last time I checked, there ain't no well here. You're tryna snitch on us to the cops." He stood up and walked towards Candlelight.
+
+"I… I'm not…"
+
+"Of course you're not, you lying bastard. Just like your dad." he pulled a dagger out from his hip.
+
+*Think! Think of an excuse!* Candlelight's mind was racing. *I'm not calling the police! I'm calling —*
+
+"I'm calling my mom!" He blurted out. Like magic, the thought of Muscat alone made tears pour out his eyes. "I call her every day! I want to tell her I'm okay!"
+
+"Your mom's a cop," the man said curtly.
+
+"No!" Candlelight's voice was broken, and he didn't need to try too hard to sound like that. "She's — she's gone. I… She…"
+
+He was staring down at the bucket. He had put the flashlight inside somehow.
+
+"Awww kid, you got a girlfriend! That's way better. Now scram!" he tucked the dagger back in. As Candlelight left, he heard the man say, "kids these days… don't know treasure even if it's handed to them…"
+
+Candlelight ran back home, crying the whole way. It was nearly midnight. He opened the door to find Thyme and Mooncake unmoving, and his heart raced for a split second, thinking they were dead, but then he heard Thyme's heavy heaving and realized they were merely asleep.
+
+He lay down beside them. He always found it easier to sleep after crying.
+
+## 5
+
+The terrorists were gone the next morning. So was Ember.
+
+One of the adults called the police. They were already there when Candlelight woke up, with clean and tidy uniforms, holding clipboards and walkie-talkies, talking to the villagers with disinterest.
+
+"Look," an officer was saying, "four people died in Area 29. Twenty more were hurt. Some of them would be lucky if they could walk again. We're still dealing with that. They made all of you kneel and call them dad with nothing but some stone-age weapons, and now you don't even know where they went. Talk about wasting police time."
+
+The police did call an ambulance and lifted Thyme inside.
+
+"Will he be okay?" Mooncake asked a doctor.
+
+"Pretty much. He's only suffered minor injuries. Though he may be crippled in his right leg."
+
+Some villagers were cleaning up the horse carcass. The terrorists had decided to leave it alone because they had enough food. It was dead by the morning and a pile of blood stained the dirt path brown.
+
+Candlelight asked the police about reparations. "A lot of us had to give up our food," he said. "And our leader was badly hurt."
+
+"Talk to the government about it."
+
+The attack on Area 29 filled the headlines of the second page. (The first page was about the 74th annual party meeting.) Nobody bothered to write an article about a little village they couldn't even name.
+
+Candlelight and Mooncake spent a good while cleaning up the mess in Mooncake's house. By miracle, Thyme did not get a single drop of blood onto Candlelight's carpet, so they were spared from washing that. School resumed.
+
+Thyme came back a couple months later sporting a cane. Before then, Candlelight and Mooncake had dinner at their teacher's and slept at Mooncake's. Thyme was regarded as the village hero, though he thought he didn't deserve the title.
+
+"When you were in the comms office telling us to not assist the terrorists, why didn't you call the police then?" Candlelight thought to ask.
+
+"Their line was broken," Thyme replied. "Maybe the bomb was to blow it up."
+
+"If *I* were a police officer, I would've followed them here," Mooncake said.
+
+"Sure you will," Thyme said. "But now that you're on your own, Candlelight, what do you plan to do?"
+
+"I really don't want to stay here anymore," Candlelight admitted. "But I don't even know where to go."
+
+"How would you like to join the army right now?"
+
+Candlelight stared. "Right now? But I'm only 16."
+
+"You can be 18 if your ID says so," Thyme said.
+
+A few weeks later, Candlelight got a brand new ID card that said he was born in 2001. With that, he went inside a recruitment office in Area 29, and the rest was history.
