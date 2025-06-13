@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Apologies for not enough art; I'm working on an animation project!
 	- It's not really animation LOL, just low-quality pictures moving around in After Effects. It's about [Goose](/characters/goose/) (and the [MSS](/world/bauhinia/mss/) in general);
+- Added oneshot [The Occupation](/stories/the-occupation/);
 
 ## 2025-06-12
 
