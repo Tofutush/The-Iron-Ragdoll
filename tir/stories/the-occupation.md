@@ -140,7 +140,9 @@ And Ember. He was talking to the leader. Or rather, the leader was talking to hi
 
 "You already did?"
 
-"No, I mean I want to leave with you."
+Was that what he was doing in Area 29 the whole time? Conspiring with terrorists?
+
+"No, I mean I want to leave with you." Ember said.
 
 The leader stared at him for a good old minute. "Why?"
 
@@ -270,7 +272,7 @@ Candlelight froze. Looked like the terrorists knew perfectly well that whoever c
 
 "I… I'm not…"
 
-"Of course you're not, you lying bastard. Just like your dad." he pulled a dagger out from his hip.
+"Of course you're not, you lying bastard. Just like your old man." he pulled a dagger out from his hip.
 
 *Think! Think of an excuse!* Candlelight's mind was racing. *I'm not calling the police! I'm calling —*
 
@@ -316,7 +318,7 @@ Thyme came back a couple months later sporting a cane. Before then, Candlelight 
 
 "When you were in the comms office telling us to not assist the terrorists, why didn't you call the police then?" Candlelight thought to ask.
 
-"Their line was broken," Thyme replied. "Maybe the bomb was to blow it up."
+"Their line was broken," Thyme replied. "Maybe the bomb was to blow it up. I figured it would've taken a few hours to fix."
 
 "If *I* were a police officer, I would've followed them here," Mooncake said.
 
