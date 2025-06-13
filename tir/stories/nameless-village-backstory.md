@@ -17,6 +17,8 @@ myTags:
   - Canon
   - Westavia
   - Nameless village
+tags:
+  - nameless-village
 ---
 
 ## Pumpkin's grandparents
@@ -47,6 +49,8 @@ The turning point for Sundew was when Ember didn't allow her to go to college. H
 
 ## The aftermath of an attack
 
+- See also: [The Occupation](/stories/the-occupation/)
+
 The years around 2019 were a time of turmoil for Westavia. Terrorists were swarming the nation, launching attacks on civilians who weren't prepared and could not fight back. In March, a market in Area 29 suffered an attack where a bunch of thugs with knives and sticks rained themselves down on merchants and buyers. They had a multitude of personal reasons, but they all shared a common despise for the Westavian government. After the attack, they fled west according to plan.
 
 Towards a nameless little village on the outskirts of Area 29.
@@ -58,6 +62,8 @@ It was Ember.
 Together, they controlled the village and made sure to gather enough food and water to go further west into the wastelands.
 
 Thyme resisted, but got beaten up and his right leg crippled. To this day he still walked with a limp.
+
+The terrorists took Thyme's house for the night, and for once Thyme had to stay at Candlelight's, instead of the other way around.
 
 Everyone was too scared not to cooperate. They handed over their food, their wine, and their water, praying that the terrorists would soon end their brief rest and move on.
 
