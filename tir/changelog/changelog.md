@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-13
+
+- Apologies for not enough art; I'm working on an animation project!
+	- It's not really animation LOL, just low-quality pictures moving around in After Effects. It's about [Goose](/characters/goose/) (and the [MSS](/world/bauhinia/mss/) in general);
+
 ## 2025-06-12
 
 - After a painful failed attempt to move this site from Liquid to Vento, I opted to merely change the "Table of Contents" text to just "Contents" since it used to be inconsistent;
