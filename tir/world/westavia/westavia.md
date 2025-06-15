@@ -81,6 +81,14 @@ History — and especially Westavian history — is a hushed-up subject in the c
 
 Despite this, there are still a number of secret historians who collect and archive information on Westavia's history under the threat of jail time. These people are persecuted by the authorities (obviously), frowned upon by ordinary citizens, and revered by dissidents of the Westavian government.
 
+## History
+
+In 1935, amid the Bauhinian Empire's crackdown on the Morelandian Revolution, the people residing in modern-day Westavia initiated a large-scale strike in protest. This marked the start of the Westavian independence movement and the worker's movement. The two movements are usually considered hand-in-hand; neither can be studied without the other.
+
+After the stabilization of Moreland, Westavia began receiving assistance, without which they would not have gained independence in 1945. Nearly immediately afterwards, border disputes with Atlasia led to the Atlasian / Westavian War, which lasted until 1954.
+
+Well, is this the real version of events or the government-approved narrative? Well the answer is i dont fucking know! i need to figure it out but what i gotta keep in mind is that government-approved narratives would never be straight-up false. they would contain willful omissions, different weighting, but no false information.
+
 ## Related files
 
 {{ collections.all | eleventyNavigation: "Westavia" | eleventyNavigationToHtml }}

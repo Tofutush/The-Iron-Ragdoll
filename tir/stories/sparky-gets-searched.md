@@ -8,11 +8,17 @@ chs:
 time: After Sparky married Nightsun
 summary: An MSS officer searches Sparky's apartment.
 myTags:
-  - Semi-canon
   - Bauhinia
   - Coastline
   - Oneshot
+  - Non-canon
 ---
+
+*Note: Considered non-canon due to retconning of the superpower boosting and blocking.*
+
+[[toc]]
+
+## Sparky gets Searched
 
 Sparky was chilling in her own home, alone because [Bramble](/characters/bramble/) and Nightsun were out.
 
@@ -50,7 +56,7 @@ He slid the sofa away from the wall to look under it, finally making some noise 
 
 "That's enough. Playtime's over," Sparky grabbed his collar while he was still bent over the sofa and short enough for her to reach. But she couldn't heave him up.
 
-"Holy snabbergatt you're also a mind-reader!" So that was what the uneasy feeling was. her thoughts were being read. Too bad she didn't have any interesting thoughts going on in her tiny brain.
+"Holy fuck you're also a mind-reader!" So that was what the uneasy feeling was. her thoughts were being read. Too bad she didn't have any interesting thoughts going on in her tiny brain.
 
 "That doesn't mean I can't beat you up anyways."
 
@@ -72,9 +78,7 @@ The officer took the bottle and shoved it in his belt too. "Thanks, bro," he sai
 
 "Aaaaarrrrgggghhhh," Sparky trotted back into her room, muttering, "I get *one* day off this *whole month* and this is what you pull…"
 
----
-
-# 闪闪被抄家（？
+## 闪闪被抄家（？
 
 闪闪在家里宅着。午夜阳和荆棘都在外头。
 

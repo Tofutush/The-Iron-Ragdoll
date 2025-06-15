@@ -24,7 +24,7 @@ When she grew up, she figured out a way for other people to use her magic — so
 
 > Don't call me "Qibli," call me the Arch-Magician!
 
-Which was badass as snabbergatt.
+Which was badass as fuck.
 
 Needless to say, neither the MSS nor the [ISA](/world/isa/) were too happy about it — the MSS for her breaking the law and taunting law enforcement, and the ISA for her claiming Arch-Magician when the last one was very much alive.
 
