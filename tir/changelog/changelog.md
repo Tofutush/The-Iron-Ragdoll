@@ -14,6 +14,7 @@ titlezh: 更新日志
 - Added [Poker Spies](/world/bauhinia/poker-spies/);
 - Edited the history sections of the countries a little;
 - Retconned a bit of [world history](/world/history/) surrounding the Guardian Moose Takeover;
+- Made the story tags sort alphabetically;
 
 ## 2025-06-13
 

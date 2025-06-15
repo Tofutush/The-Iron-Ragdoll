@@ -7,26 +7,27 @@ eleventyComputed:
   desc: "{{ summary }}"
 ---
 <div class="attr">
-  <p>Canon?</p>
-  <p>{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi'
-    %}Semi-canon (is not planned in the plot, but has no conflicts with the original story){% else %}No (you should not
-    consider this in the context of TIR's universe){% endif %}</p>
-  <p>Main Cast</p>
-  <div class="tags">
-    {% for ch in chs %}
-      {% include 'chButton', ch: ch %}
-    {% endfor %}
-  </div>
-  <p>Time period</p>
-  <p>{{ time }}</p>
-  {% if myTags %}
-    <p>Tags</p>
-    <div class="tags">
-      {% for tag in myTags %}
-        <a href="/stories/tag/{{ tag | slug }}/">{{ tag }}</a>
-      {% endfor %}
-    </div>
-  {% endif %}
+	<p>Canon?</p>
+	<p>{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi'
+		%}Semi-canon (is not planned in the plot, but has no conflicts with the original story){% else %}No (you should not
+		consider this in the context of TIR's universe){% endif %}</p>
+	<p>Main Cast</p>
+	<div class="tags">
+		{% for ch in chs %}
+			{% include 'chButton', ch: ch %}
+		{% endfor %}
+	</div>
+	<p>Time period</p>
+	<p>{{ time }}</p>
+	{% if myTags %}
+		<p>Tags</p>
+		<div class="tags">
+			{% assign sortedTags = myTags | sortAlphabetical %}
+			{% for tag in myTags %}
+				<a href="/stories/tag/{{ tag | slug }}/">{{ tag }}</a>
+			{% endfor %}
+		</div>
+	{% endif %}
 </div>
 {% if comic %}
 <p style="text-align: center;"><a href="page-1/">{% lucide 'chevrons-right' %}Read the comic associated with this story!{% lucide 'chevrons-left' %}</a></p>
