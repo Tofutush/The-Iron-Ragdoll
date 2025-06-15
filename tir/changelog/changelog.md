@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-15
+
+- Added `sky cards.png`, `sky sans cards.png`;
+
 ## 2025-06-13
 
 - Apologies for not enough art; I'm working on an animation project!
