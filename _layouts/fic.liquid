@@ -8,22 +8,23 @@ eleventyComputed:
     title: "Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
     parent: "{{ parent }}"
 ---
-<h1>Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}</h1>
 {% assign colName = tags[0] %}
 <details id="toc-wrap">
-  <summary><h3>Table of Contents</h3></summary>
-  <div id="toc">
-    <ul>
-      {% for ch in collections[colName] %}
-        <li><a href="{{ ch.url }}">Chapter {{ ch.data.chNum }}{% if ch.data.chTitle %}: {{ ch.data.chTitle }}{% endif %}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
+	<summary><h3>Chapter List</h3></summary>
+	<div id="toc">
+	<ul>
+		{% for ch in collections[colName] %}
+			<li><a href="{{ ch.url }}">Chapter {{ ch.data.chNum }}{% if ch.data.chTitle %}: {{ ch.data.chTitle }}{% endif %}</a></li>
+		{% endfor %}
+	</ul>
+	</div>
 </details>
+<h1>Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}</h1>
+<p class="lighter-text">{{ content | wordCount }} words.</p>
 {{ content }}
 {% assign prev = collections[colName] | getPreviousCollectionItem %}
 {% assign next = collections[colName] | getNextCollectionItem %}
 {% if prev or next %}
-<hr />
-{% include 'prevnext' prev: prev.url, next: next.url %}
+	<hr />
+	{% include 'prevnext' prev: prev.url, next: next.url %}
 {% endif %}

@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-16
+
+- Added word counts to stories in the lists;
+
 ## 2025-06-15
 
 - Added `sky cards.png`, `sky sans cards.png`;

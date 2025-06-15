@@ -16,6 +16,7 @@ import relPlugin from './_plugins/rel.js';
 import imagePlugin from './_plugins/image.js';
 import storyPlugin from './_plugins/story.js';
 import guessPlugin from './_plugins/guess.js';
+import wordCountPlugin from './_plugins/wordcount.js';
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -63,6 +64,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(imagePlugin);
 	eleventyConfig.addPlugin(storyPlugin);
 	eleventyConfig.addPlugin(guessPlugin);
+	eleventyConfig.addPlugin(wordCountPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');

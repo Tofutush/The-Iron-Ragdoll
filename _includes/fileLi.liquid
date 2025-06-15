@@ -1,4 +1,4 @@
 <li>
-    <div><a href="{{ file.url }}">{{ file.data.title }}</a></div>
-    <div class="smaller-text">{{ file.data.desc }}</div>
+	<div><a href="{{ file.url }}">{{ file.data.title }}</a></div>
+	<div class="smaller-text">{% if desc %}{{ desc }}{% else %}{{ file.data.desc }}{% endif %}</div>
 </li>
