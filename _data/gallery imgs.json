@@ -3539,5 +3539,21 @@
     "ch": [
       "snake"
     ]
+  },
+  {
+    "name": "sky cards",
+    "type": "png",
+    "date": "2025-06-15",
+    "ch": [
+      "sky"
+    ]
+  },
+  {
+    "name": "sky sans cards",
+    "type": "png",
+    "date": "2025-06-15",
+    "ch": [
+      "sky"
+    ]
   }
 ]
