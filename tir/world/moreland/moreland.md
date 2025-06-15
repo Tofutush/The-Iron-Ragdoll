@@ -22,6 +22,8 @@ titlezh: 莫尔兰共和国
   <p>Moose (people) / Morelandian (things)</p>
   <p>Capital</p>
   <p><a href="/world/moreland/revolutions-cradle/">Revolution's Cradle</a></p>
+  <p>National day</p>
+  <p>December 21<sup>st</sup> — 23<sup>rd</sup></p>
   <p>Symbol</p>
   <p>The moose</p>
 </div>
@@ -72,6 +74,16 @@ Family is abolished in Moreland. As soon as the mother had recovered enough and 
 ### Naming conventions
 
 Since family isn't a thing in Moreland, people don't have family names. In legal settings where precise identification is required, their unique ID number would be written where the family name would be. For example, "[Snowball 201710033746](/characters/snowball/)."
+
+## History
+
+The Morelandian struggle for independence started after the industrial revolution when the surge in productivity had outgrown the relationship between labor and capital and societal conflicts called for new forms of government. In 1930, Morelandians started a bourgeoisie revolution and established a provisional republican government in 1935.
+
+However, the provisional government engaged in a series of negotiations with the Empire, later referred to as "the Negotiations of Shame," which aimed at reconciliation with the Empire at the price of Moreland's full autonomy. Maddened by the very un-Moosely cowardice displayed, a group of partisans rose and took over the government in an event later referred to as the Guardian Moose Takeover, which helped establish a truly independent Moose government ruled by a military junta. The three days of the battle to occupy the capital, which was later renamed [Revolution's Cradle](/world/moreland/revolutions-cradle/), was set as a 3-day long national "day."
+
+Bauhinian troops finally withdrew in 1939, after which Moreland began a series of foreign interference, providing aid to the various independence movements in Westavia and Sylvandia. After the independence of Westavia in 1945, Moreland invaded Sylvandia against the imperial troops. The fight wasn't as hard as it could've been since a lot of them were called back south to suppress the revolution back home. With the independence of five Sylvandian states that basically covered the entire region, Moreland urged them into a federal government (largely controlled by Moreland) together. Plus, the Moose never withdrew their troops, and remains militarily present in Sylvandia to this day.
+
+Meanwhile, Moreland also proxied Westavia in the Atlasian-Westavian war. At the end of the war, they had officially entered a state of cold war against Bauhinia.
 
 ## Related files
 

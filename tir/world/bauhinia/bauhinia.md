@@ -22,6 +22,8 @@ titlezh: 紫荆共和国
   <p>Bauhunian</p>
   <p>Capital</p>
   <p><a href="/world/bauhinia/flower-city/">Flower City</a></p>
+  <p>National day</p>
+  <p>February 24<sup>th</sup></p>
   <p>Symbol</p>
   <p>The bauhinia flower</p>
 </div>
@@ -95,11 +97,9 @@ When your legal guardians change, they can apply for a name change for you. Spar
 
 ## History
 
-See: [History](/world/history/)
-
 Bauhinia used to be a huge empire spanning across almost the entire continent. That was why everyone spoke the same language, totally not because I'm too lazy.
 
-The industrialization of Bauhinia eventually led to a republican revolution where the emperor was overthrown, and the empire collapsed as other countries declared their independencies. After the end of the Atlasian / Westavian War, Bauhinia entered a cold war with Moreland, splitting the continent into the north and the south.
+The industrialization of Bauhinia eventually led to a republican revolution in 1939. In 1944, the revolution established a republican government, and in 1948, the remaining imperial forces were defeated, and the empire had officially come to an end. After the end of the Atlasian / Westavian War, in which Bauhinia proxied Atlasia and Moreland proxied Westavia, Bauhinia entered a cold war with Moreland, splitting the continent into the north and the south.
 
 [Fanton](/world/fanton/) took a nominally neutral (though finlandized) stance at the beginning of the cold war, but later Bauhinia launched an invasion which failed to annex Fanton but made them take their side.
 

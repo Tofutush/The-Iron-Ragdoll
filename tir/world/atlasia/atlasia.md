@@ -89,7 +89,7 @@ Atlasia is a country rife with espionage activity both political and corporate, 
 
 Atlasia was created by Moose immigrants after the Guardian Moose Takeover (Morelandian Revolution). They hated the new regime, so they made their own the way they liked it.
 
-They took the plains in the east and declared independence shortly after [Fanton](/world/fanton/) did. During the process of establishing the new republic, they drove away many native residents of the plains into either [Moreland](/world/moreland/), [Westavia](/world/westavia/), or [Bauhinia](/world/bauhinia/).
+They took the plains in the east and declared independence in 1945. During the process of establishing the new republic, they drove away many native residents of the plains into either [Moreland](/world/moreland/), [Westavia](/world/westavia/), or [Bauhinia](/world/bauhinia/).
 
 ## Related files
 

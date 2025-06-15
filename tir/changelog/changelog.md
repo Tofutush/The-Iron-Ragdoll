@@ -11,6 +11,9 @@ titlezh: 更新日志
 ## 2025-06-15
 
 - Added `sky cards.png`, `sky sans cards.png`;
+- Added [Poker Spies](/world/bauhinia/poker-spies/);
+- Edited the history sections of the countries a little;
+- Retconned a bit of [world history](/world/history/) surrounding the Guardian Moose Takeover;
 
 ## 2025-06-13
 
