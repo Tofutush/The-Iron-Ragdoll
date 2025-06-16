@@ -364,7 +364,7 @@ nav {
 }
 
 nav>a:hover,
-.license>a:hover {
+.license a:hover {
 	text-decoration: underline;
 	color: var(--bg);
 }
@@ -382,12 +382,16 @@ footer {
 }
 
 .license {
-	font-size: var(--font-size-small);
-	padding: .7em;
+	padding: .5em;
 	background-color: var(--c);
-	color: var(--bg);
-	text-align: center;
 	user-select: none;
+
+	&>p {
+		font-size: var(--font-size-small);
+		color: var(--bg);
+		text-align: center;
+		margin: 0;
+	}
 }
 
 .footnote-backref svg,
