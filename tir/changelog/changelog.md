@@ -12,6 +12,7 @@ titlezh: 更新日志
 
 - Added word counts to stories in the lists;
 - Edited the countries' history sections to be biased;
+- Added new random pages! Check them out in the [Fun](/fun/) page;
 
 ## 2025-06-15
 
