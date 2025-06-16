@@ -16,7 +16,9 @@ The history of the world[^1]!
 
 (TL;DR: Speedrun industrialization killing the empire in record time.)
 
-Note that this file isn't necessarily told in chronological order, since so many things are happening at the same time. It's *mostly* chronological.
+Note 1: this file isn't necessarily told in chronological order, since so many things are happening at the same time. It's *mostly* chronological.
+
+Note 2: this file documents the objective history of events. There are history sections in each country's file, but all of them are told through the government's perspective and of course biased towards said country.
 
 It all started from the [Bauhinian](/world/bauhinia/) Empire, a huge kingdom spanning across the entire continent. How did Bauhinia become an empire? Nah, I don't care.
 
@@ -36,7 +38,7 @@ Immediately after the Guardian Moose seized the government, they employed drasti
 
 ## Atlasia's independence
 
-The creation of a truly independent Moreland pissed off more people than just the emperor. Some Moose themselves — though they never identified themselves as "Moose" — deemed the new military government (or junta, I guess?) illegal and undemocratic. Seeking a future of freedom and opportunity, they moved to the southeast of Moreland (around the middle-east part of the continent) where the Guardian Moose hasn't yet controlled. They declared independence of [The Free Republic of Atlasia](/world/atlasia/) in 1945.
+The creation of a truly independent Moreland pissed off more people than just the emperor. Some Moose themselves — though they never identified themselves as "Moose" — deemed the new military government (or junta, I guess?) illegal and undemocratic. Seeking a future of freedom and opportunity, they moved to the southeast of Moreland (around the middle-east part of the continent) where the Guardian Moose hasn't yet controlled. They declared independence of [The Free Republic of Atlasia](/world/atlasia/) in 1945. During the process of establishing the new republic, they drove away many native residents of the plains into either [Moreland](/world/moreland/), [Westavia](/world/westavia/), or [Bauhinia](/world/bauhinia/). Atlasia became a hub for innovation — half of the new inventions of the industrial revolution were made in Atlasia after its creation, including the earliest prototypes of nuclear fission — and espionage.
 
 ## Bauhinia's Republican Revolution
 
