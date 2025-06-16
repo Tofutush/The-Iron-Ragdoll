@@ -6,9 +6,10 @@ noNav: true
 <p>Takes you to a random world file! You need to enable JavaScript for this.</p>
 <script>
 	const files = [
-		{% assign files = collections.all | eleventyNavigation: "World" %}
-		{% for file in files %}
+		{% for file in collections.all %}
+			{% if file.url contains "/world/" %}
 				"{{ file.url | htmlBaseUrl }}",
+			{% endif %}
 		{% endfor %}
 	];
 	window.location.href = `${window.location.protocol}//${window.location.host}${files[Math.floor(Math.random() * files.length)]}`;
