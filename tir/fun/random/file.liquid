@@ -7,7 +7,9 @@ noNav: true
 <script>
 	const files = [
 		{% for file in collections.all %}
-			{% if file.url %}"{{ file.url | htmlBaseUrl }}",{% endif %}
+			{% if file.url %}
+				"{{ file.url | htmlBaseUrl }}",
+			{% endif %}
 		{% endfor %}
 	];
 	window.location.href = `${window.location.protocol}//${window.location.host}${files[Math.floor(Math.random() * files.length)]}`;
