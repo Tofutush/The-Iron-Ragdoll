@@ -1,0 +1,17 @@
+---
+layout: layout.liquid
+title: Random Character
+noNav: true
+---
+<p>Takes you to a random character! You need to enable JavaScript for this.</p>
+<script>
+	const files = [
+		{% assign files = collections.all | eleventyNavigation: "Characters" %}
+		{% for file in files %}
+			{% unless file.url == '/characters/list/' or file.url == '/characters/minor/' or file.url == '/characters/relationships/' or file.url == '/characters/tag/' %}
+				"{{ file.url | htmlBaseUrl }}",
+			{% endunless %}
+		{% endfor %}
+	];
+	window.location.href = `${window.location.protocol}//${window.location.host}${files[Math.floor(Math.random() * files.length)]}`;
+</script>

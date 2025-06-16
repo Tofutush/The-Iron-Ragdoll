@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 title: Area 29
 desc: A random city in the middle of nowhere.
 eleventyNavigation:

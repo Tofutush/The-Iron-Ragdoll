@@ -10,11 +10,19 @@ eleventyNavigation:
 <h1>Fun</h1>
 
 <ul>
-  {% for file in collections.fun %}
-    {% include 'fileLi', file: file %}
-  {% endfor %}
+	{% for file in collections.fun %}
+		{% include 'fileLi', file: file %}
+	{% endfor %}
 </ul>
 <ul>
-  <li><a href="https://tofutush.github.io/idlegame">{% lucide 'pickaxe' %} Idle Forced Labor Camp</a>, a cursed game about running a forced labor camp.</li>
-  <li><a href="https://tofutush.itch.io/sparky-hungry">Feed Sparky something!</li>
+	<li>Random pages</li>
+	<ul>
+		<li><a href="random/file/">Random file</a></li>
+		<li><a href="random/character/">Random character</a></li>
+		<li><a href="random/story/">Random story</a></li>
+		<li><a href="random/world/">Random world file</a></li>
+	</ul>
+	</li>
+	<li><a href="https://tofutush.github.io/idlegame">{% lucide 'pickaxe' %} Idle Forced Labor Camp</a>, a cursed game about running a forced labor camp.</li>
+	<li><a href="https://tofutush.itch.io/sparky-hungry">Feed Sparky something!</li>
 </ul>
