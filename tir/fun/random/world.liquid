@@ -1,0 +1,15 @@
+---
+layout: layout.liquid
+title: Random World File
+noNav: true
+---
+<p>Takes you to a random world file! You need to enable JavaScript for this.</p>
+<script>
+	const files = [
+		{% assign files = collections.all | eleventyNavigation: "World" %}
+		{% for file in files %}
+				"{{ file.url | htmlBaseUrl }}",
+		{% endfor %}
+	];
+	window.location.href = `${window.location.protocol}//${window.location.host}${files[Math.floor(Math.random() * files.length)]}`;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: layout.liquid
+title: Random Story
+noNav: true
+---
+<p>Takes you to a random story! You need to enable JavaScript for this.</p>
+<script>
+	const files = [
+		{% assign files = collections.all | eleventyNavigation: "Stories" %}
+		{% for file in files %}
+			{% unless file.url == '/stories/tag/' %}
+				"{{ file.url | htmlBaseUrl }}",
+			{% endunless %}
+		{% endfor %}
+	];
+	window.location.href = `${window.location.protocol}//${window.location.host}${files[Math.floor(Math.random() * files.length)]}`;
+</script>
