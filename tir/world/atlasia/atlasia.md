@@ -87,9 +87,9 @@ Atlasia is a country rife with espionage activity both political and corporate, 
 
 ## History
 
-Atlasia was created by Moose immigrants after the Guardian Moose Takeover (Morelandian Revolution). They hated the new regime, so they made their own the way they liked it.
+Atlasia was created by Moose immigrants after the Guardian Moose's coup. They hated the new regime, so they made their own the way they liked it.
 
-They took the plains in the east and declared independence in 1945. During the process of establishing the new republic, they drove away many native residents of the plains into either [Moreland](/world/moreland/), [Westavia](/world/westavia/), or [Bauhinia](/world/bauhinia/).
+They took the plains in the east and declared independence in 1945. Since then, Atlasia has been a place for the ambitious to seek opportunity. Thousands of grassroot entrepreneurs made a fortune here and slowly expanded their markets to the world. Innovations were unstoppable — in fact, half of the new inventions of the industrial revolution were made in Atlasia after 1945.
 
 ## Related files
 

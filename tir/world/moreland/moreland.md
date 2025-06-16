@@ -81,9 +81,11 @@ The Morelandian struggle for independence started after the industrial revolutio
 
 However, the provisional government engaged in a series of negotiations with the Empire, later referred to as "the Negotiations of Shame," which aimed at reconciliation with the Empire at the price of Moreland's full autonomy. Maddened by the very un-Moosely cowardice displayed, a group of partisans rose and took over the government in an event later referred to as the Guardian Moose Takeover, which helped establish a truly independent Moose government ruled by a military junta. The three days of the battle to occupy the capital, which was later renamed [Revolution's Cradle](/world/moreland/revolutions-cradle/), was set as a 3-day long national "day."
 
-Bauhinian troops finally withdrew in 1939, after which Moreland began a series of foreign interference, providing aid to the various independence movements in Westavia and Sylvandia. After the independence of Westavia in 1945, Moreland invaded Sylvandia against the imperial troops. The fight wasn't as hard as it could've been since a lot of them were called back south to suppress the revolution back home. With the independence of five Sylvandian states that basically covered the entire region, Moreland urged them into a federal government (largely controlled by Moreland) together. Plus, the Moose never withdrew their troops, and remains militarily present in Sylvandia to this day.
+Bauhinian troops finally withdrew in 1939, after which Moreland began a series of foreign aid, supporting various independence movements in Westavia and Sylvandia. After the independence of Westavia in 1945, Moreland sent troops to Sylvandia to fight against the imperial troops. The fight wasn't as hard as it could've been since a lot of them were called back south to suppress the revolution back home. With the independence of five Sylvandian states that basically covered the entire region, they formed a federal government with the interests of Sylvandians at heart, with the Guardian Moose stationed throughout the new federation to protect them.
 
 Meanwhile, Moreland also proxied Westavia in the Atlasian-Westavian war. At the end of the war, they had officially entered a state of cold war against Bauhinia.
+
+Moreland continued to provide aid to Westavia and Fanton. The aid to Fanton stopped after Bauhinia's invasion war, when they made Fanton finlandized.
 
 ## Related files
 

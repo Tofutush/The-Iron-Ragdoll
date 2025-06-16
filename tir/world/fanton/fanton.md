@@ -71,6 +71,8 @@ Fanton remains relatively unindustrialized and heavily relies on the exportation
 
 Most Fantoni are brought up as nature-loving and vegetarian. In fact, most restaurants and cafeterias only serve vegetarian food. Because of this, the Fantoni have developed millions of different ways to make tofu, much to the delight of [Sparky](/characters/sparky/).
 
+In Fanton, in not strictly political contexts, the word "Fantoni" refers to all the plants and animals in addition to the people.
+
 ### Naming conventions
 
 Fanton has the same naming conventions as [Bauhinia](/world/bauhinia/). [See here](/world/bauhinia/#naming-conventions).
@@ -82,6 +84,8 @@ Fanton, like literally everyone else, was originally a part of the Bauhinian Emp
 Fanton was created at such a convenient time when everyone else was too busy sorting out their own mess to give a fuck about Fanton. The republic survived.
 
 The creation of Fanton led a lot of the original inhabitants to move out in frustration, and a lot of like-minded individuals in other places to move in.
+
+Fanton remained a place of sanctuary for people and creatures alike, where endangered plants and animals thrive, where war refugees could escape the gunfire. That is, until 2041, when Bauhinia launched an invasion against Fanton, aiming to annex it. The brave people of Fanton fought them off all by themselves, and though now Fanton has to make some concessions to Bauhinia a bit on the global stage, the sacrifice is to ensure the long-term wellbeing of the Fantoni.
 
 ## Related files
 

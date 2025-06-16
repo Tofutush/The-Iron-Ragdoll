@@ -91,7 +91,7 @@ The name of a Bauhinian (or [Fantoni](/world/fanton/)) consists of three parts: 
 
 For girls, their names would be given name + mother's given name + father's given name. For example, "[Sparky](/characters/sparky/) [Amber](/characters/amber/) [Peacock](/characters/peacock/)."
 
-For boys, their names would be given name + father's given name + mother's given name. For example, "[Tundra](/characters/tundra/) Eagle Starlight."
+For boys, their names would be given name + father's given name + mother's given name. For example, "[Bramble](/characters/bramble/) [Nightsun](/characters/nightsun/) [Sparky](/characters/sparky/)."
 
 When your legal guardians change, they can apply for a name change for you. Sparky's name was Sparky Amber Jackal before Peacock became her stepdad. [Fantasy](/characters/fantasy/) also had her name changed from Fantasy Rainbow Peacock to Fantasy Amber Peacock. But [Ironheart](/characters/ironheart/) remained as Ironheart Peacock Reindeer because Amber had already died by the time he moved in with Peacock.
 
@@ -99,12 +99,22 @@ When your legal guardians change, they can apply for a name change for you. Spar
 
 Bauhinia used to be a huge empire spanning across almost the entire continent. That was why everyone spoke the same language, totally not because I'm too lazy.
 
-The industrialization of Bauhinia eventually led to a republican revolution in 1939. In 1944, the revolution established a republican government, and in 1948, the remaining imperial forces were defeated, and the empire had officially come to an end. After the end of the Atlasian / Westavian War, in which Bauhinia proxied Atlasia and Moreland proxied Westavia, Bauhinia entered a cold war with Moreland, splitting the continent into the north and the south.
+The industrial revolution started in 1911, and the new technology gave the empire's peripheral too much power and they started dreaming of independence. The region that is modern-day Moreland launched a rebellion against the emperor. They were quickly crushed into submission by the imperial forces, who instead of killing the leaders to make an example, negotiated with them and came to an agreement that the Republic of Moreland is allowed to exist if they continue to honor the Bauhinian Emperor.
 
-[Fanton](/world/fanton/) took a nominally neutral (though finlandized) stance at the beginning of the cold war, but later Bauhinia launched an invasion which failed to annex Fanton but made them take their side.
+However, some partisans within Moreland refused to accept this, and launched an illegal coup that took over the government in an event known as the Guardian Moose Takeover. The Guardian Moose ruled the newly-controlled country in a dictatorship and took an anti-Bauhinian stance in every way.
 
-Most of the story takes place during the cold war.
+(Meanwhile, Fanton declared independence, but like who are they anyways?)
+
+The empire resumed their war with Moreland, but trouble was brewing back home. The Bauhinian people, tired of their outdated monarchy, also longed for a new form of government. The glorious republic revolution started in 1939 and in 1944, a republican government was established in Bauhinia. The new government recognized the necessity of a more multi-polar world and recognized the independence of Moreland, but not Fanton. The remaining imperial forces were wiped out in 1948 and the Empire had officially come to an end.
+
+In Moreland, a group of dissidents of the regime went off and started their own country, Atlasia, and maintained independence from Moreland with Bauhinia's aid. At the same time, Westavia also declared independence as a satellite of Moreland's, and Bauhinia staged a border dispute which started a war between the two that ended when Bauhinia developed nuclear bombs and nuked Area 3, the industrial center of Westavia. To this day, Area 3 hasn't regained its industrial capabilities.
+
+At the end of the war, the world formed a bipolar[^1] structure with Bauhinia and Moreland being in a state of cold war. Bauhinia recognized Fanton, Westavia, and Sylvandia.
+
+In 2041, Bauhinia launched a reunification campaign to take back Fanton. The campaign failed due to Moreland's backdoor support for Fanton, but successfully made Fanton finlandized to Bauhinia.
 
 ## Related files
 
 {{ collections.all | eleventyNavigation: "Bauhinia" | eleventyNavigationToHtml }}
+
+[^1]: Not *that* bipolar, you get what I mean right?

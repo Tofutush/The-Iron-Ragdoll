@@ -22,6 +22,8 @@ titlezh: 希尔万迪亚合众国
   <p>Sylvandian</p>
   <p>Capital</p>
   <p><a href="/world/sylvandia/bonnie/">Bonnie</a></p>
+  <p>National day</p>
+  <p>July 29<sup>th</sup></p>
   <p>Symbol</p>
   <p>tba</p>
 </div>
@@ -47,6 +49,14 @@ The closest geographical mirror to Sylvandia is Siberia.
 ### Places
 
 - [Bonnie](/world/sylvandia/bonnie/) (capital)
+
+## History
+
+Rebellions in the north of the Bauhinian Empire is like trees in a forest, though in the past, they have always been easy to crush and dealt no real damage to the rulers in the south. But since the industrial revolution and Bauhinia's own republican revolution, the new technology and political unrest made independence movements pop up like bamboo sprouts after rain. Though the central problem present all throughout history persisted — the movements are scattered and ununited.
+
+With aid from Moreland, five different states declared their independence and set up republican governance: [Solarine](/world/sylvandia/solarine/) and [Lunarale](/world/sylvandia/lunarale/) in 1948, [Holliloli](/world/sylvandia/holliloli/) in 1949, [Snowdale](/world/sylvandia/snowdale/) in 1950, and [Mistle](/world/mistle/) in 1951. That basically got most of the continent covered. Shortly after the creation of Mistle, on July 29<sup>th</sup>, the states formed a federal government with the capital set in Bonnie, a city on the border of Holliloli and Snowdale.
+
+But despite this, numerous rebellions have continued to spring up, demonstrating the need for Guardian Moose stationing in Sylvandia.
 
 ## Related files
 

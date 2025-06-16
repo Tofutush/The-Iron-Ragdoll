@@ -11,6 +11,7 @@ titlezh: 更新日志
 ## 2025-06-16
 
 - Added word counts to stories in the lists;
+- Edited the countries' history sections to be biased;
 
 ## 2025-06-15
 
