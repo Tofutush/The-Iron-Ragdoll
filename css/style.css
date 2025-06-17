@@ -391,6 +391,10 @@ footer {
 		color: var(--bg);
 		text-align: center;
 		margin: 0;
+
+		&>a {
+			text-decoration: none;
+		}
 	}
 }
 
