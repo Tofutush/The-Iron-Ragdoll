@@ -8,6 +8,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-19
+
+- Added a bunch of character birthdays! You can find them on their respective profiles, or the [Calendar](/world/calendar/);
+- Added a [characters sorted by age](/characters/age/) page;
+
 ## 2025-06-16
 
 - Added word counts to stories in the lists;
