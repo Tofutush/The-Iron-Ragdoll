@@ -1,0 +1,54 @@
+---
+layout: article.liquid
+title: Characters by Age
+desc: Characters with birthdays, sorted by their ages!
+eleventyNavigation:
+  key: Characters by Age
+  parent: Characters
+---
+<style>
+.ch-card {
+	border: 8px solid;
+	border-radius: 1em;
+	padding: 1em;
+	display: flex;
+	justify-content: space-between;gap: 2em;
+	margin: 1em;
+	& h2,
+	& p{
+		margin: 0;
+	}
+	&>:last-child {
+		flex: 1;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+	}
+	& img {
+		height: 8em;
+		width: 8em;
+		border-radius: .5em;
+		overflow: hidden;
+		user-select: none;
+	}
+}
+</style>
+<p>A list of the oldest and the youngest! Only characters with precise birthdays are counted.</p>
+{% assign sorted = characters | sortByAge %}
+{% for ch in sorted %}
+	<div class="ch-card" style="border-color: {{ ch.color }}">
+		<div>
+			{% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
+			{% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
+			{% image "gallery/" profilePath 200 ch.name '' iconPath %}
+		</div>
+		<div>
+			<h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
+			<p>{{ ch.attr.Birthday }}
+				{% if ch.tags contains "Generation 0" %} · Gen 0{% endif %}
+				{% if ch.tags contains "Generation 1" %} · Gen 1{% endif %}
+				{% if ch.tags contains "Generation 2" %} · Gen 2{% endif %}
+			</p>
+		</div>
+	</div>
+{% endfor %}
