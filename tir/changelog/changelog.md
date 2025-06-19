@@ -13,6 +13,8 @@ titlezh: 更新日志
 - Added a bunch of character birthdays! You can find them on their respective profiles, or the [Calendar](/world/calendar/);
 	- Also retconned [Nightsun](/characters/nightsun/)'s birthday for no reason;
 - Added a [characters sorted by age](/characters/age/) page;
+- Changed the heading font because yes;
+	- I considered asking other people for feedback, but no;
 
 ## 2025-06-16
 
