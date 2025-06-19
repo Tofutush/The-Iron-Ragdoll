@@ -56,7 +56,7 @@
     "attr": {
       "Gender": "Female (cis)",
       "Soul": "Solid, gemstone-shaped",
-      "Age estimation": "Around the same as Peacock",
+      "Birthday": "1994-09-20",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Married (to <a href=\"../peacock/\">Peacock</a>)",
@@ -466,7 +466,7 @@
     "attr": {
       "Full name": "Nightsun Cassowary Tourmaline",
       "Gender": "Male",
-      "Birthday": "2017-12-01",
+      "Birthday": "2017-04-18",
       "Nationality": "Bauhinian?",
       "Orientation": "Bisexual, deep in the closet",
       "Marital status": "Married (to <a href=\"../sparky/\">Sparky</a>)",
@@ -660,6 +660,7 @@
     ],
     "attr": {
       "Gender": "Female",
+      "Birthday": "1990-05-13",
       "Nationality": "Bauhinian",
       "Occupation": "Smuggler"
     },
@@ -1117,7 +1118,7 @@
     ],
     "attr": {
       "Gender": "Female (cis)",
-      "Age estimation": "A little older than Peacock",
+      "Birthday": "1985-01-31",
       "Nationality": "Bauhinian",
       "Occupation": "Physician"
     },
@@ -1139,7 +1140,7 @@
     ],
     "attr": {
       "Gender": "Male (cis)",
-      "Age estimation": "Around the same as Koala",
+      "Birthday": "1985-04-19",
       "Nationality": "Bauhinian",
       "Occupation": "Physician"
     },
@@ -1159,6 +1160,7 @@
     ],
     "attr": {
       "Gender": "Male",
+      "Birthday": "1989-06-05",
       "Nationality": "Bauhinian",
       "Occupation": "Physician"
     },
@@ -1184,7 +1186,7 @@
       "Nickname": "Frost (by Jaculus)",
       "Gender": "Female (cis)",
       "Soul": "Non-Newtonian",
-      "Age estimation": "Around the same as Jaculus",
+      "Birthday": "2011-02-19",
       "Nationality": "Bauhinian",
       "Orientation": "Bisexual",
       "Marital status": "Married (to <a href=\"../entity/\">Entity</a>)",
@@ -1262,7 +1264,7 @@
       "Full name": "Candlelight Ember Muscat",
       "Nickname": "Candle",
       "Gender": "Male",
-      "Age estimation": "Around the same as Pumpkin",
+      "Birthday": "2003-12-02",
       "Nationality": "Westavian",
       "Orientation": "Homosexual",
       "Occupation": "SPF officer"
@@ -1325,7 +1327,7 @@
     ],
     "attr": {
       "Gender": "Female",
-      "Age estimation": "Around the same as Candlelight",
+      "Birthday": "2003-08-18",
       "Nationality": "Westavian",
       "Occupation": "Police"
     },
@@ -1346,6 +1348,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Gas, thyme-shaped",
+      "Birthday": "1977-11-23",
       "Nationality": "Westavian",
       "Marital status": "Married",
       "Occupation": "Farmer"
@@ -1566,6 +1569,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Gas, wispy",
+      "Birthday": "2010-07-15",
       "Nationality": "Fantoni",
       "Weapon": "None, unless joints count",
       "Power": "Immortality"
@@ -1689,6 +1693,7 @@
     "attr": {
       "Gender": "Female",
       "Soul": "Solid, snowy",
+      "Birthday": "1960-01-15",
       "Nationality": "Bauhinian",
       "Occupation": "State security officer"
     },
@@ -1713,7 +1718,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Solid, soft and squishy like a marshmallow",
-      "Age estimation": "Same as Frosting",
+      "Birthday": "2011-07-06",
       "Nationality": "Bauhinian",
       "Orientation": "Bisexual",
       "Marital status": "Married (to <a href=\"../frosting/\">Frosting</a>)",
@@ -1744,6 +1749,7 @@
       "Full name": "Harmony Frosting Entity",
       "Gender": "Female",
       "Soul": "Gas, shaped like a music note",
+      "Birthday": "2041-01-05",
       "Nationality": "Bauhinian",
       "Occupation": "MSS officer"
     },
@@ -1771,7 +1777,7 @@
       "Full name": "Sugarcane Snowstorm Parrot",
       "Nickname": "Sugar (by Harmony)",
       "Gender": "Female",
-      "Age estimation": "The same as Harmony",
+      "Birthday": "2041-07-16",
       "Nationality": "Bauhinian",
       "Occupation": "MSS officer"
     },
