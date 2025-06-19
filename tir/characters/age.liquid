@@ -3,7 +3,7 @@ layout: article.liquid
 title: Characters by age
 desc: Characters with birthdays, sorted by their ages!
 eleventyNavigation:
-  key: Characters by Age
+  key: Characters by age
   parent: Characters
 ---
 <style>
@@ -12,7 +12,9 @@ eleventyNavigation:
 	border-radius: 1em;
 	padding: 1em;
 	display: flex;
-	justify-content: space-between;gap: 2em;
+	justify-content: space-between;
+	align-items: center;
+	gap: 2em;
 	margin: 1em;
 	& h2,
 	& p {
@@ -25,6 +27,7 @@ eleventyNavigation:
 		flex: 1;
 		display: flex;
 		flex-direction: column;
+		gap: 1em;
 		justify-content: space-around;
 	}
 	& img {
@@ -33,6 +36,14 @@ eleventyNavigation:
 		border-radius: .5em;
 		overflow: hidden;
 		user-select: none;
+	}
+}
+@media only screen and (max-width: 480px) {
+	.ch-card {
+		flex-direction: column;
+		&>:last-child {
+			align-items: center;
+		}
 	}
 }
 </style>
