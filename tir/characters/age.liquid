@@ -1,6 +1,6 @@
 ---
 layout: article.liquid
-title: Characters by Age
+title: Characters by age
 desc: Characters with birthdays, sorted by their ages!
 eleventyNavigation:
   key: Characters by Age
@@ -15,8 +15,11 @@ eleventyNavigation:
 	justify-content: space-between;gap: 2em;
 	margin: 1em;
 	& h2,
-	& p{
+	& p {
 		margin: 0;
+	}
+	& h2::before {
+		content: '';
 	}
 	&>:last-child {
 		flex: 1;
@@ -44,11 +47,7 @@ eleventyNavigation:
 		</div>
 		<div>
 			<h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
-			<p>{{ ch.attr.Birthday }}
-				{% if ch.tags contains "Generation 0" %} · Gen 0{% endif %}
-				{% if ch.tags contains "Generation 1" %} · Gen 1{% endif %}
-				{% if ch.tags contains "Generation 2" %} · Gen 2{% endif %}
-			</p>
+			<p>{{ ch.attr.Birthday }}</p>
 		</div>
 	</div>
 {% endfor %}
