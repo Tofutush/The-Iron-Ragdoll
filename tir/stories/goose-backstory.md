@@ -25,9 +25,11 @@ She graduated, knowing absolutely nothing about what she was going to do with he
 
 One day, she saw a military recruitment ad. She was like, "wow that's *really* cool" and went to the nearest office. She almost didn't make the cut, but she did.
 
-After serving two years in the navy, she got recruited into the MSS. Her assigned shifu was [Paperweight](/characters/paperweight/). During the same year, [Pumpkin](/characters/pumpkin/) was also recruited from the army as [Halcyon](/characters/halcyon/)'s apprentice. They got assigned together as a team.
+After serving two years in the navy, she got recruited into the [MSS](/world/bauhinia/mss/). Her assigned shifu was [Paperweight](/characters/paperweight/). During the same year, [Pumpkin](/characters/pumpkin/) was also recruited from the army as [Halcyon](/characters/halcyon/)'s apprentice. They got assigned together as a team.
 
-One by one these people left her. Pumpkin was murdered, Halcyon traded away, and Paperweight got sick and retired to die[^1]. She crafted her own legend by completing Paperweight's legacy.
+One by one these people left her. Pumpkin was murdered, Halcyon traded away, and Paperweight got sick and retired to die[^1].
+
+She later got assigned to more important positions in the MSS. As her growing paranoia reached a climax, she launched a purge of the ministry.
 
 She got an apprentice, [Sky](/characters/sky/) from [the Moreland nuke thing](/stories/a-nuke-from-moreland/), who then went on to create his own legend during the Fantoni invasion.
 
