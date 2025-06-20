@@ -11,7 +11,7 @@ eleventyNavigation:
 
 Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have fun!
 
-The Iron Ragdoll is my paracosm that I adore and want to share with you. It's about a bunch of colorful people with animal ears and horns. They play around, solve mysteries, spy on each other, live in a borderline-dystopian world much like our own, and perhaps never grow up. Explore below!
+The Iron Ragdoll is my paracosm that I adore and want to share with you. It's about a bunch of colorful people with animal ears and horns. They play around, solve mysteries, and spy on each other, living in a borderline-dystopian world with spies, agents, betrayal, and friendship both genuine and fake.
 
 <div class="grid">
   <a class="big" href="/characters/">

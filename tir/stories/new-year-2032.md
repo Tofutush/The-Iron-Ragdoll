@@ -37,7 +37,7 @@ He took Sparky to his room and gave her a credit card, a key, and an address scr
 
 Of course Sparky didn't go alone. She got Qibli, Firecrackers, and Sky to come with her on this 2-week long urban camping trip.
 
-The address is an uninhabited but squeaky-clean apartment in a messy village-in-a-city part of Coastline. The kids ate junk food and play video games all day, staying up late into the night and waking up in the afternoon.
+The address is an uninhabited but squeaky-clean apartment in a messy village-in-a-city part of Coastline. The kids ate junk food and played video games all day, staying up late into the night and waking up in the afternoon.
 
 Until one day, they met visitors.
 
@@ -79,7 +79,7 @@ Qibli led them to a trapdoor, saying that it must be down there. That was when s
 
 Underground, Sparky and Sky found a labyrinth of cold gray corridors and blinding lights. They tried to navigate it while avoiding people, though it was hard because *they* were familiar with the corridors and had video cameras, where Sparky and Sky had an absolute disadvantage.
 
-They fought a couple people and locked themselves in an empty room. In a drawer they found two passports, a Bauhinian one and a Sylvandian one, both featuring the same person: a 6-year-old girl named Pearl. On the Bauhinian passport she was Pearl Gemstone Eagle; on the Sylvandian one just Pearl Gemstone.
+They fought a couple people and locked themselves in an empty room. In a drawer they found two passports, a Bauhinian one and a Sylvandian one, both featuring the same person: a 6-year-old girl named Pearl. On the Bauhinian passport she was Pearl Gemstone Eagle[^1]; on the Sylvandian one just Pearl Gemstone.
 
 Sky immediately came to the conclusion that Pearl was the person where the pearls came from as Qibli said. Sparky tucked the passports into her pocket.
 
@@ -99,8 +99,9 @@ Qibli had been exhausted from all the magic-casting. The goons were coming to th
 
 (Insert genius plan)
 
-They got out, all of them piled onto the motorbike with Sparky driving. Pearl was sandwiched between her and Sky, Firecrackers balanced himself at the back, and Qibli curled herself up under Sparky's feet[^1].
+They got out, all of them piled onto the motorbike with Sparky driving. Pearl was sandwiched between her and Sky, Firecrackers balanced himself at the back, and Qibli curled herself up under Sparky's feet[^2].
 
 They rode back to the city, ditched the bike in a river, and hailed a taxi to the [safe house](/world/bauhinia/safe-house/) — abandoned by Starcorp after the run-in — where they kept Pearl.
 
-[^1]: If you're used to piling illegal amounts of people on a motorbike, you probably know what I'm talking about.
+[^1]: Eagle is such a common name in Bauhinia and Fanton that if you yell "Eagle!" on a street, at least a couple dozen people would go "Hi."
+[^2]: If you're used to piling illegal amounts of people on a motorbike, you probably know what I'm talking about.

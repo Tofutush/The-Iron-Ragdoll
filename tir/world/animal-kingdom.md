@@ -12,6 +12,6 @@ It's a world full of talking animals living inside kingdoms. The two main kingdo
 
 ## Meta
 
-Sunflower can enter her paracosm, normally by flushing herself down a toilet, but any method works actually. She just likes the absurdity.
+Sunflower can enter her paracosm, normally by flushing herself down a toilet, but any method works actually, as long as you know about it and intend to enter. She just likes the absurdity.
 
 Real time passes when you are inside, though not always linearly, so it's best to keep a watch on you. It tells you what time it is outside.

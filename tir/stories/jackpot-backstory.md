@@ -24,4 +24,4 @@ He never talked about her. Only one night after he got really drunk did he tell 
 
 He had always wanted to expand his market, especially to [Moreland](/world/moreland/) where "they breed like rabbits," but as you can guess the Moose weren't that fond of someone who compared them to rabbits.
 
-Until one day he met a certain [three](/characters/sparky/) [dumb](/characters/sky/) [kids](/characters/firecrackers/) with [a Sylvandian girl](/characters/pearl/), wanting to pass through Atlasia to Moreland.
+Until one day he met a certain [three](/characters/sparky/) [stupid](/characters/sky/) [kids](/characters/firecrackers/) with [a Sylvandian girl](/characters/pearl/), wanting to [pass through Atlasia to Moreland](/stories/pearls-journey-home-atlasia/).

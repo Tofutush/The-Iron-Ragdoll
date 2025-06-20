@@ -17,8 +17,10 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 - Havoc 101
 	- Originally planned as a kinda-open-world point and click game where you wreak havoc around the school. See its planning site [here](https://tofutush.github.io/havoc101).
 	- Would probably never actually get even started. But in the rare case that it does, it would be made in Adventure Game Studio.
-- [Spy School](/stories/spy-school/) the comic
-- Firecrackers middle finger comic
+- Comics
+	- [Spy School](/stories/spy-school/)
+	- Firecrackers middle finger
+	- Harmony graduation
 - 100 followers art request
 - Idle Forced Labor Camp
 	- An idle game! In limbo due to the amount of artwork it requires. Has a basic playable version [here](https://tofutush.github.io/idlegame).

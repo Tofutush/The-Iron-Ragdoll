@@ -31,9 +31,9 @@ That was when Moose spies reach out and said, "hey, your mistress and daughter m
 
 From then on, Halcyon had been a mole in the MSS, spying for Moreland.
 
-He got an apprentice, Pumpkin, who was a total pushover — and he chose him for this exact reason. He cultivated Pumpkin into his agent, demanding absolute loyalty, and having him do dangerous tasks for Halcyon. The arrangement worked perfectly — that is, until Pumpkin snapped.
+He got an apprentice, Pumpkin, who was a total pushover — and he chose him for this exact reason. He cultivated Pumpkin into his agent, demanding absolute loyalty, and having him do dangerous tasks for Halcyon. The arrangement worked perfectly — that is, until Pumpkin snapped and tried to report him to Paperweight.
 
-It had to be done. It was the final stage of agent running, termination. Halcyon strangled Pumpkin in an alleyway and dumped the corpse in a landfill. Nobody would find out; he could go on spying. But the annoying kids got to him. (from [A Nuke from Moreland](/stories/a-nuke-from-moreland/))
+It had to be done. It was the final stage of agent running, termination. Halcyon strangled Pumpkin in an alleyway and dumped the corpse in a landfill. Nobody would find out; he could go on spying. But the annoying kids got to him. ([A Nuke from Moreland](/stories/a-nuke-from-moreland/))
 
 He was captured and repeatedly tortured by his [scary former subordinate](/characters/goose/) to reveal the extent of his treachery. It was hard because he didn't even remember all of it.
 
