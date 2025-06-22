@@ -136,7 +136,7 @@ eleventyComputed:
 {% assign prev = pagination.previous %}
 {% assign next = pagination.next %}
 {% if prev or next %}
-  <hr/>
+  <hr class="solid-hr"/>
   {% include 'prevnext' prev: prev, next: next %}
 {% endif %}
 <script src="/js/gallery.js"></script>

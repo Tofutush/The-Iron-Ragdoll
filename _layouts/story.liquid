@@ -43,6 +43,6 @@ eleventyComputed:
 {% assign prev = collections.stories | getPreviousCollectionItem %}
 {% assign next = collections.stories | getNextCollectionItem %}
 {% if prev or next %}
-<hr />
-{% include 'prevnext' prev: prev.url, next: next.url %}
+	<hr class="solid-hr"/>
+	{% include 'prevnext' prev: prev.url, next: next.url %}
 {% endif %}

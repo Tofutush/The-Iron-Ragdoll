@@ -8,6 +8,12 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-22
+
+- Changed the separator style;
+	- This is so minor I don't usually log it but the site's having a big lack of updates because of the PMV project LOL;
+- Also, I'm gathering fanart to feature at the end of the PMV! Draw anybody (though the protagonist of the PMV is [Goose](/characters/goose/)) and [send it to me](/contact/) (any other messaging platform works too, if you know where I am), along with how you wish to be credited. If you drew art for me before and would like that featured, just tell me as well!
+
 ## 2025-06-19
 
 - Added a bunch of character birthdays! You can find them on their respective profiles, or the [Calendar](/world/calendar/);
