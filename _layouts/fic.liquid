@@ -25,6 +25,6 @@ eleventyComputed:
 {% assign prev = collections[colName] | getPreviousCollectionItem %}
 {% assign next = collections[colName] | getNextCollectionItem %}
 {% if prev or next %}
-	<hr />
+	<hr class="solid-hr"/>
 	{% include 'prevnext' prev: prev.url, next: next.url %}
 {% endif %}
