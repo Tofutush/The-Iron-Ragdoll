@@ -12,139 +12,146 @@ eleventyNavigation:
 <link rel="stylesheet" href="/css/ch-list.css"/>
 <h1>Characters List</h1>
 <div class="table-container">
-  <table>
-    <thead>
-      <tr>
-        <th>No.</th>
-        <th>Name</th>
-        <th>中文</th>
-        <th>Image count</th>
-        <th>Color</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for ch in characters %}
-        <tr>
-          <td>{{ forloop.index }}</td>
-          <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
-          <td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
-          {% assign filteredGallery = gallery | filterGallery: ch.name %}
-          <td><a href="/characters/{{ ch.name | lowerCase }}/#gallery">{{ filteredGallery.size }}</a></td>
-          <td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upperCase }}</td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+	<table>
+		<thead>
+			<tr>
+				<th>No.</th>
+				<th>Name</th>
+				<th>中文</th>
+				<th>Image count</th>
+				<th>Birthday</th>
+				<th>Color</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for ch in characters %}
+				<tr>
+					<td>{{ forloop.index }}</td>
+					<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
+					<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
+					{% assign filteredGallery = gallery | filterGallery: ch.name %}
+					<td><a href="/characters/{{ ch.name | lowerCase }}/#gallery">{{ filteredGallery.size }}</a></td>
+					<td>{{ ch.attr.Birthday }}</td>
+					<td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upperCase }}</td>
+				</tr>
+			{% endfor %}
+		</tbody>
+	</table>
 </div>
 <h2 id="progress">Character art progress</h2>
 {% assign total = 0 %}
 <div class="attr">
-  <p>Needs design</p>
-  <div class="tags">
-    {% for ch in characters %}
-      {% assign filteredGallery = gallery | filterGallery: ch.name %}
-      {% if filteredGallery.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
-      {% endif %}
-    {% endfor %}
-  </div>
-  <p>Needs thumb</p>
-  <div class="tags">
-    {% for ch in characters %}
-      {% assign filteredGallery = gallery | filterGallery: ch.name %}
-      {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
-      {% if filteredGallery.size != 0 and thumb.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
-      {% endif %}
-      {% if thumb.size == 1 %}
-        {% assign total = total | plus: 1 %}
-      {% endif %}
-    {% endfor %}
-  </div>
-  <p>Needs profile</p>
-  <div class="tags">
-    {% for ch in characters %}
-      {% assign filteredGallery = gallery | filterGallery: ch.name %}
-      {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
-      {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
-      {% if thumb.size == 1 and profile.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
-      {% endif %}
-      {% if profile.size == 1 %}
-        {% assign total = total | plus: 1 %}
-      {% endif %}
-    {% endfor %}
-  </div>
-  <p>Needs reference</p>
-  <div class="tags">
-    {% for ch in characters %}
-      {% assign filteredGallery = gallery | filterGallery: ch.name %}
-      {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
-      {% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
-      {% if profile.size == 1 and ref.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
-      {% endif %}
-      {% if ref.size == 1 %}
-        {% assign total = total | plus: 1 %}
-      {% endif %}
-    {% endfor %}
-  </div>
-  <p>Needs fav picker image</p>
-  <div class="tags">
-    {% for ch in characters %}
-      {% assign filteredGallery = gallery | filterGallery: ch.name %}
-      {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
-      {% assign fav = filteredGallery | filterGalleryByKind: 'fav' %}
-      {% if profile.size == 1 and fav.size == 0 %}
-        {% include 'chButton', ch: ch.name %}
-      {% endif %}
-      {% if fav.size == 1 %}
-        {% assign total = total | plus: 1 %}
-      {% endif %}
-    {% endfor %}
-  </div>
-  <p>All done</p>
-  <div class="tags">
-    {% for ch in characters %}
-      {% assign filteredGallery = gallery | filterGallery: ch.name %}
-      {% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
-      {% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
-      {% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
-      {% assign fav = filteredGallery | filterGalleryByKind: 'fav' %}
-      {% if thumb.size == 1 and profile.size == 1 and ref.size == 1 and fav.size == 1 %}
-        {% include 'chButton', ch: ch.name %}
-      {% endif %}
-    {% endfor %}
-  </div>
+	<p>Needs design</p>
+	<div class="tags">
+		{% for ch in characters %}
+			{% assign filteredGallery = gallery | filterGallery: ch.name %}
+			{% if filteredGallery.size == 0 %}
+				{% include 'chButton', ch: ch.name %}
+			{% endif %}
+		{% endfor %}
+	</div>
+	<p>Needs thumb</p>
+	<div class="tags">
+		{% for ch in characters %}
+			{% assign filteredGallery = gallery | filterGallery: ch.name %}
+			{% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
+			{% if filteredGallery.size != 0 and thumb.size == 0 %}
+				{% include 'chButton', ch: ch.name %}
+			{% endif %}
+			{% if thumb.size == 1 %}
+				{% assign total = total | plus: 1 %}
+			{% endif %}
+		{% endfor %}
+	</div>
+	<p>Needs profile</p>
+	<div class="tags">
+		{% for ch in characters %}
+			{% assign filteredGallery = gallery | filterGallery: ch.name %}
+			{% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
+			{% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+			{% if thumb.size == 1 and profile.size == 0 %}
+				{% include 'chButton', ch: ch.name %}
+			{% endif %}
+			{% if profile.size == 1 %}
+				{% assign total = total | plus: 1 %}
+			{% endif %}
+		{% endfor %}
+	</div>
+	<p>Needs reference</p>
+	<div class="tags">
+		{% for ch in characters %}
+			{% assign filteredGallery = gallery | filterGallery: ch.name %}
+			{% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+			{% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
+			{% if profile.size == 1 and ref.size == 0 %}
+				{% include 'chButton', ch: ch.name %}
+			{% endif %}
+			{% if ref.size == 1 %}
+				{% assign total = total | plus: 1 %}
+			{% endif %}
+		{% endfor %}
+	</div>
+	<p>Needs fav picker image</p>
+	<div class="tags">
+		{% for ch in characters %}
+			{% assign filteredGallery = gallery | filterGallery: ch.name %}
+			{% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+			{% assign fav = filteredGallery | filterGalleryByKind: 'fav' %}
+			{% if profile.size == 1 and fav.size == 0 %}
+				{% include 'chButton', ch: ch.name %}
+			{% endif %}
+			{% if fav.size == 1 %}
+				{% assign total = total | plus: 1 %}
+			{% endif %}
+		{% endfor %}
+	</div>
+	<p>All done</p>
+	<div class="tags">
+		{% for ch in characters %}
+			{% assign filteredGallery = gallery | filterGallery: ch.name %}
+			{% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
+			{% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+			{% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
+			{% assign fav = filteredGallery | filterGalleryByKind: 'fav' %}
+			{% if thumb.size == 1 and profile.size == 1 and ref.size == 1 and fav.size == 1 %}
+				{% include 'chButton', ch: ch.name %}
+			{% endif %}
+		{% endfor %}
+	</div>
 </div>
 <p>Completed: {{ total }} out of {{ characters.size | times: 4 }}!</p>
 <div class="progress-bar" style="background:linear-gradient(to right, var(--c) {{ total | divided_by: characters.size | divided_by: 4 | times: 100}}%, var(--box) {{ total | divided_by: characters.size | divided_by: 4| times: 100 }}%"></div>
 <script src="/js/sort.js"></script>
 <script>
-  let sort = new SortTable(document.querySelector('table'));
-  sort.addSort({
-    colName: 'No.',
-    keyFunc: (td) => parseInt(td.innerText),
-    sortFunc: SortTable.sortFuncNumber
-  });
-  sort.addSort({
-    colName: 'Name',
-    keyFunc: (td) => td.querySelector('a').innerText,
-    sortFunc: SortTable.sortFuncString
-  });
-  sort.addSort({
-    colName: '中文',
-    keyFunc: (td) => td.querySelector('a').innerText,
-    sortFunc: SortTable.sortFuncZh
-  });
-  sort.addSort({
-    colName: 'Image count',
-    keyFunc: (td) => parseInt(td.innerText),
-    sortFunc: SortTable.sortFuncNumber
-  });
-  sort.addSort({
-    colName: 'Color',
-    keyFunc: (td) => SortTable.RGBToHSL(td.style.backgroundColor),
-    sortFunc: SortTable.sortFuncHSL
-  });
+	let sort = new SortTable(document.querySelector('table'));
+	sort.addSort({
+		colName: 'No.',
+		keyFunc: td => parseInt(td.innerText),
+		sortFunc: SortTable.sortFuncNumber
+	});
+	sort.addSort({
+		colName: 'Name',
+		keyFunc: td => td.querySelector('a').innerText,
+		sortFunc: SortTable.sortFuncString
+	});
+	sort.addSort({
+		colName: '中文',
+		keyFunc: td => td.querySelector('a').innerText,
+		sortFunc: SortTable.sortFuncZh
+	});
+	sort.addSort({
+		colName: 'Image count',
+		keyFunc: td => parseInt(td.innerText),
+		sortFunc: SortTable.sortFuncNumber
+	});
+	sort.addSort({
+		colName: 'Birthday',
+		keyFunc: td => td.innerText,
+		sortFunc: SortTable.sortFuncString
+	});
+	sort.addSort({
+		colName: 'Color',
+		keyFunc: td => SortTable.RGBToHSL(td.style.backgroundColor),
+		sortFunc: SortTable.sortFuncHSL
+	});
 </script>
