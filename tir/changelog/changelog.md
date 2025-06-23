@@ -8,6 +8,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-23
+
+- Added `goose purge.png`;
+
 ## 2025-06-22
 
 - Changed the separator style;

@@ -3566,5 +3566,13 @@
       "pumpkin",
       "candlelight"
     ]
+  },
+  {
+    "name": "goose purge",
+    "type": "png",
+    "date": "2025-06-23",
+    "ch": [
+      "goose"
+    ]
   }
 ]
