@@ -11,6 +11,8 @@ titlezh: 更新日志
 ## 2025-06-23
 
 - Added `goose purge.png`;
+- Deleted the character age page in favor of a birthday column in the [sortable list](/characters/list/);
+	- I still liked the card view though, dunno where else I can use that for;
 
 ## 2025-06-22
 
