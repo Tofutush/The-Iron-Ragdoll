@@ -13,6 +13,12 @@ Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have f
 
 The Iron Ragdoll is my paracosm that I adore and want to share with you. It's about a bunch of colorful people with animal ears and horns. They play around, solve mysteries, and spy on each other, living in a borderline-dystopian world with spies, agents, betrayal, and friendship both genuine and fake.
 
+{% assign bdayStars = characters | getBDayStars %}
+{% if bdayStars.size > 0 %}
+  {% assign dateMonth = 0 | getMMDD %}
+  <blockquote><p>Today, {{ dateMonth}}, is {% for ch in bdayStars %}<a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a>{% if forloop.index != bdayStars.size %}, {% endif %}{% endfor %}'s birthday!</p></blockquote>
+{% endif %}
+
 <div class="grid">
   <a class="big" href="/characters/">
 	<div class="card" style="background-image: url('{% capture url %}{% imageUrl 'gallery/' 'sparky pop.png' 1000 %}{% endcapture %}{{ url | htmlBaseUrl }}');"><p>{% lucide 'contact-round' 32 %} Characters</p></div>

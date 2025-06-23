@@ -13,6 +13,8 @@ titlezh: 更新日志
 - Added `goose purge.png`;
 - Deleted the character age page in favor of a birthday column in the [sortable list](/characters/list/);
 	- I still liked the card view though, dunno where else I can use that for;
+- Added a thing where the main page shows what characters have their birthday today! Let's see if it actually works though;
+	- Main thing is that it only checks dates on each build, which means the date won't update unless a build is triggered. Fortunately I might be able to just run the job on Github even with no updates;
 
 ## 2025-06-22
 
