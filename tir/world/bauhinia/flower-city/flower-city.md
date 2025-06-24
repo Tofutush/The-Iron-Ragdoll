@@ -3,7 +3,6 @@ layout: article.liquid
 title: Flower City
 desc: Capital and cultural center of Bauhinia
 eleventyNavigation:
-  key: Flower City
   parent: Bauhinia
 titlezh: 花城
 ---

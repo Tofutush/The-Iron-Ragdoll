@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Coastline
 eleventyNavigation:
-  key: Coastline
   parent: Bauhinia
 tags:
   - coastline

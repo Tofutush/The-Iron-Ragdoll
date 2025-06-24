@@ -1,10 +1,9 @@
 ---
 layout: article.liquid
 title: The Guardian Moose
-titlezh: 麋鹿护卫军
+titlezh: 驼鹿护卫军
 desc: The Armed Forces of the Republic of Moreland
 eleventyNavigation:
-  key: The Guardian Moose
   parent: Moreland
 ---
 

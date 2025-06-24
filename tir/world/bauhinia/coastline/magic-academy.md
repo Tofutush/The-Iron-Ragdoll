@@ -3,7 +3,6 @@ layout: article.liquid
 title: Magic Academy
 titlezh: 魔法学院
 eleventyNavigation:
-  key: Magic Academy
   parent: Bauhinia
 desc: Magical indoctrination school.
 ---

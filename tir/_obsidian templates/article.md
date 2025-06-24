@@ -4,6 +4,5 @@ title:
 titlezh: 
 desc: 
 eleventyNavigation:
-  key:
   parent:
 ---

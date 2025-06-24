@@ -1,10 +1,9 @@
 ---
 layout: article.liquid
-title: Mt. Atlas
-navTitle: mtatlas
+title: mtatlas
+displayTitle: Mt. Atlas
 templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: mtatlas
   title: Mt. Atlas
   parent: Atlasia
 titlezh: 亚特拉斯山

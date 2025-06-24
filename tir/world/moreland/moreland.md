@@ -3,7 +3,6 @@ layout: article.liquid
 title: Moreland
 templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: Moreland
   parent: World
   order: 5
 desc: What if introverts made a country?

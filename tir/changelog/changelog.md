@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Changelog
 eleventyNavigation:
-  key: Changelog
   parent: Root
   order: 990
 titlezh: 更新日志

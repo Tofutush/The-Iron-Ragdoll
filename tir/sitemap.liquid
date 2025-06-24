@@ -2,11 +2,10 @@
 layout: layout.liquid
 title: sitemap
 eleventyNavigation:
-  key: sitemap
   parent: Root
   order: 1000
 ---
 
 <p>Total pages in site: {{ collections.all.size }}</p>
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml }}
+{{ collections.all | eleventyNavigation: "Root" | eleventyNavigationToHtml }}
 <p><i>You found a puzzle piece: <b>sllr</b>! This is the last piece. (<a href="/fun/hunt/">What is this?</a>)</i></p>

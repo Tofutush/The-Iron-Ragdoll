@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Military Intelligence Corps
 eleventyNavigation:
-  key: Military Intelligence Corps
   parent: The Guardian Moose
 titlezh: 军事情报旅
 desc: The intelligence branch of the Armed Forces of Moreland.

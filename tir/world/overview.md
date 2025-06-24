@@ -6,7 +6,6 @@ templateEngineOverride: liquid,md
 tags:
   - lore
 eleventyNavigation:
-  key: Overview
   parent: World
 titlezh: 概览
 ---

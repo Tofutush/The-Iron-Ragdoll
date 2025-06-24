@@ -6,7 +6,6 @@ tags:
   - cherry-hyrax-family
   - sparkys-family
 eleventyNavigation:
-  key: Starcorp
   parent: Bauhinia
 titlezh: 繁星集团
 ---

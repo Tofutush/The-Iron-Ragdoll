@@ -3,7 +3,6 @@ layout: article.liquid
 title: Fanton
 templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: Fanton
   parent: World
   order: 2
 desc: What if tree-huggers made a country?

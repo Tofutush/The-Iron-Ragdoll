@@ -4,7 +4,6 @@ title: Animal Kingdom
 titlezh: 动物王国
 desc: Sunflower's paracosm.
 eleventyNavigation:
-  key: Animal Kingdom
   parent: World
 ---
 

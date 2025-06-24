@@ -5,7 +5,6 @@ tags:
   - lore
 desc: Creatures of the world!
 eleventyNavigation:
-  key: Creatures
   parent: World
 titlezh: 小动物
 ---

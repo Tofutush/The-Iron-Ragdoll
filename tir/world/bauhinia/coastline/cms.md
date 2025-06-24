@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Coastline Middle School
 eleventyNavigation:
-  key: Coastline Middle School
   parent: Coastline
 tags:
   - coastline-middle-school

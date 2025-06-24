@@ -4,7 +4,6 @@ title: Goals
 desc: Goals for me. Dreams are worth having.
 templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: Goals
   parent: Root
 ---
 

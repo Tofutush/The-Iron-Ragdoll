@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Safe house
 eleventyNavigation:
-  key: Safe house
   parent: Coastline
 ---
 
