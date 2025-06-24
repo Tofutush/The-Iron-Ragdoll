@@ -3,7 +3,6 @@ layout: article.liquid
 title: Froggy Island
 desc: Hyrax's personal island.
 eleventyNavigation:
-  key: Froggy Island
   parent: Bauhinia
 titlezh: 蛙蛙岛
 ---

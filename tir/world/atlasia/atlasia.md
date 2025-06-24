@@ -3,7 +3,6 @@ layout: article.liquid
 title: Atlasia
 templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: Atlasia
   parent: World
   order: 3
 desc: What if Ayn Rand made a country?

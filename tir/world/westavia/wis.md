@@ -3,7 +3,6 @@ layout: article.liquid
 title: Westavian Intelligence Service
 desc: Foreign intelligence service of Westavia
 eleventyNavigation:
-  key: Westavian Intelligence Service
   parent: Westavia
 ---
 

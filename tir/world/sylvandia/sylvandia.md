@@ -3,7 +3,6 @@ layout: article.liquid
 title: Sylvandia
 templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: Sylvandia
   parent: World
   order: 6
 desc: What if no one made a country and you're all just smooshed together?

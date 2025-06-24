@@ -4,7 +4,6 @@ title: Bauhinia
 displayTitle: The Republic of Bauhinia
 templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: Bauhinia
   parent: World
   order: 1
 desc: What if CEOs made a country?

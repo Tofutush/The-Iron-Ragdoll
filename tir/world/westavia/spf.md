@@ -3,7 +3,6 @@ layout: article.liquid
 title: Suicide Prevention Force
 desc: Westavia's internal security apparatus.
 eleventyNavigation:
-  key: Suicide Prevention Force
   parent: Westavia
 titlezh: 轻生防范队
 ---

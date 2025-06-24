@@ -1,8 +1,8 @@
 ---
 layout: article.liquid
-title: Ministry of State Security of the Republic of Bauhinia
+title: Ministry of State Security
+displayTitle: Ministry of State Security of the Republic of Bauhinia
 eleventyNavigation:
-  key: Ministry of State Security of the Republic of Bauhinia
   parent: Bauhinia
 tags:
   - ministry-of-state-security

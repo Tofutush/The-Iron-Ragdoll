@@ -4,7 +4,6 @@ permalink: "stories/{{ parent | slug }}/chapter-{{ chNum }}/"
 eleventyComputed:
   title: "{{ parent }} - chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
   eleventyNavigation:
-    key: "{{ parent }} - chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
     title: "Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
     parent: "{{ parent }}"
 ---

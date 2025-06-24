@@ -3,7 +3,6 @@ layout: article.liquid
 title: The Appaloosa Tribe
 desc: A nomadic tribe in Moreland.
 eleventyNavigation:
-  key: The Appaloosa Tribe
   parent: Moreland
 titlezh: 阿波露萨族
 ---

@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Lotus Lake
 eleventyNavigation:
-  key: Lotus Lake
   parent: Lotus Lake City
 titlezh: 莲花湖
 ---

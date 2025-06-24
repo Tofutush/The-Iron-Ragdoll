@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Older Updates
 eleventyNavigation:
-  key: Older Updates
   parent: Changelog
 ---
 

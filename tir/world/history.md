@@ -5,7 +5,6 @@ desc: The history of the world.
 tags:
   - lore
 eleventyNavigation:
-  key: History
   parent: World
 titlezh: 历史
 ---

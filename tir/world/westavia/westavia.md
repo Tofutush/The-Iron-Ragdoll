@@ -3,7 +3,6 @@ layout: article.liquid
 title: Westavia
 templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: Westavia
   parent: World
   order: 4
 desc: What if alcoholics made a country?

@@ -3,7 +3,6 @@ layout: article.liquid
 title: Area 29
 desc: A random city in the middle of nowhere.
 eleventyNavigation:
-  key: Area 29
   parent: Westavia
 titlezh: 第二十九区
 ---

@@ -6,7 +6,6 @@ templateEngineOverride: liquid,md
 tags:
   - lore
 eleventyNavigation:
-  key: Superpowers
   parent: World
 titlezh: 超能力
 ---

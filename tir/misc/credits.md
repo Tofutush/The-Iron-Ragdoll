@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Credits
 eleventyNavigation:
-  key: Credits
   parent: Misc
 ---
 

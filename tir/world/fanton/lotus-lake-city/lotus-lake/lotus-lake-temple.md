@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Lotus Lake Temple
 eleventyNavigation:
-  key: Lotus Lake Temple
   parent: Lotus Lake
 titlezh: 莲花湖寺
 ---

@@ -5,7 +5,6 @@ desc: The international organization for superpowers.
 tags:
   - lore
 eleventyNavigation:
-  key: International Superpowers Association
   parent: World
 titlezh: 国际超能力协会
 ---

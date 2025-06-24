@@ -4,7 +4,6 @@ title: Bonnie
 titlezh: 波尼
 desc: Capital of Sylvandia.
 eleventyNavigation:
-  key: Bonnie
   parent: Sylvandia
 ---
 

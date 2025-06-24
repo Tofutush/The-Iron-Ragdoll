@@ -3,7 +3,6 @@ layout: article.liquid
 title: Nameless Village
 titlezh: 无名村
 eleventyNavigation:
-  key: Nameless Village
   parent: Westavia
 tags:
   - nameless-village

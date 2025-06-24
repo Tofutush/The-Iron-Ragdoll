@@ -5,7 +5,6 @@ desc: A scavenger hunt game in the website.
 templateEngineOverride: liquid,md
 tags: fun
 eleventyNavigation:
-  key: Scavenger Hunt
   parent: Fun
 ---
 

@@ -3,7 +3,6 @@ layout: article.liquid
 title: About
 desc: About The Iron Ragdoll.
 eleventyNavigation:
-  key: About
   parent: Root
   order: 2
 titlezh: 关于

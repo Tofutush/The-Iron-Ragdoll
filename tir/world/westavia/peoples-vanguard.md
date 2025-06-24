@@ -3,7 +3,6 @@ layout: article.liquid
 title: People's Vanguard
 desc: Capital of Westavia.
 eleventyNavigation:
-  key: People's Vanguard
   parent: Westavia
 titlezh: 人民先锋
 ---
