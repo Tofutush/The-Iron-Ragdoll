@@ -46,7 +46,7 @@ function imagePlugin(eleventyConfig) {
 	});
 	function getImgSrc(path, name, type, fallback, fallbackType) {
 		if (existsSync(`img/${path}${name}.${type}`)) return `img/${path}${name}.${type}`;
-		if (fallback && existsSync('img/' + path + fallback + fallbackType)) return `img/${path}${fallback}.${fallbackType}`;
+		if (fallback && existsSync(`img/${path}${fallback}.${fallbackType}`)) return `img/${path}${fallback}.${fallbackType}`;
 		return 'img/bg/placeholder.png';
 	}
 	async function getImg(src, size, format, path) {
