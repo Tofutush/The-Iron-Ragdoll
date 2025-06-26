@@ -9,7 +9,7 @@ function relPlugin(eleventyConfig) {
 	});
 	eleventyConfig.addFilter('getRelImg', function (rel) {
 		let duos = gallery.filter(img => img.ch?.length === 2 && img.ch.includes(rel.ch[0][0].toLowerCase()) && img.ch.includes(rel.ch[1][0].toLowerCase()));
-		let typeIsRel = duos.filter(img => img.type === 'rel');
+		let typeIsRel = duos.filter(img => img.kind === 'rel');
 		return typeIsRel[0] || duos[0];
 	});
 }
