@@ -86,7 +86,6 @@ eleventyComputed:
     <h2 id="relationships">Relationships</h2>
     {% for rel in filteredRelations %}
       {% assign otherCh = rel | getOtherCh: ch.name %}
-      <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
       {% assign relImg = rel | getRelImg %}
       {% if relImg %}
         {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
@@ -98,6 +97,7 @@ eleventyComputed:
         {% endif %}
         {% image "gallery/" relImg.name relImg.type 500 alt class %}
       {% endif %}
+      <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
       {{ rel.desc | renderMD }}
     {% endfor %}
   {% endif %}
