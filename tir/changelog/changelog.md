@@ -10,6 +10,7 @@ titlezh: 更新日志
 ## 2025-06-26
 
 - Started to use SmartGB [guestbook](/contact/);
+- Added `woshilunhui.png`;
 
 ## 2025-06-23
 
