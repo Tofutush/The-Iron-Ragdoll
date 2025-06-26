@@ -12,6 +12,7 @@ titlezh: 更新日志
 - Started to use SmartGB [guestbook](/contact/);
 - Added `woshilunhui.png`;
 - Added logic for auto-picking relationship images;
+	- Other people's art credits are shoved inside the title text; you need to hover over the image to see that. Sorry but I can't really find a prettier way to show that; tried figures but I can't get the sizing right. You can still see their linked credits in the gallery section;
 
 ## 2025-06-23
 
