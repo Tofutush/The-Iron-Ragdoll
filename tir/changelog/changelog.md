@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-26
+
+- Started to use SmartGB [guestbook](/contact/);
+
 ## 2025-06-23
 
 - Added `goose purge.png`;
