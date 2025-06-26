@@ -5,5 +5,5 @@ permalink: "fun/guess/data.js"
 const data = {{ data | json }};
 
 const imgs = {
-    {% for ch in data.ch %}{% assign profile = ch | lowerCase | append: ' profile.png' %}{% assign thumb = ch | lowerCase | append: ' thumb.png' %}{% capture url %}{% imageUrl 'gallery/' profile 200 thumb %}{% endcapture %}{{ ch }}: "{{ url | htmlBaseUrl }}",{% endfor %}
+    {% for ch in data.ch %}{% assign profile = ch | lowerCase | append: ' profile' %}{% assign thumb = ch | lowerCase | append: ' thumb' %}{% capture url %}{% imageUrl 'gallery/' profile 'png' 200 thumb 'png' %}{% endcapture %}{{ ch }}: "{{ url | htmlBaseUrl }}",{% endfor %}
 };

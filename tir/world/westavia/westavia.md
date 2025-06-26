@@ -12,7 +12,7 @@ displayTitle: The People's Republic of Westavia
 titlezh: 伟思德维亚人民共和国
 ---
 
-{% image "gallery/" "westavia flag.svg" 1000 "Flag of Westavia" 'max' %}
+{% image "gallery/" "westavia flag" "svg" 1000 "Flag of Westavia" 'max' %}
 
 <div class="attr">
   <p>Pronunciation</p>

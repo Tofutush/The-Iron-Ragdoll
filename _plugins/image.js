@@ -3,8 +3,11 @@ import Image from "@11ty/eleventy-img";
 import imageSize from "image-size";
 
 function imagePlugin(eleventyConfig) {
-	eleventyConfig.addShortcode('image', async function (path, name, size, alt, className, fallback) {
-		let src = getImgSrc(path, name, fallback);
+	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt, className, fallback, fallbackType) {
+		if (type === 'gif') {
+			return `<img src="/img/${path}${name}.gif" alt="${alt}" class="${className}" />`;
+		}
+		let src = getImgSrc(path, name, type, fallback, fallbackType);
 		let dimensions = imageSize(src);
 		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
 		let metadata = await getImg(src, size, format, path);
@@ -20,8 +23,8 @@ function imagePlugin(eleventyConfig) {
 		};
 		return Image.generateHTML(metadata, imageAttributes);
 	});
-	eleventyConfig.addShortcode('figure', async function (path, name, size, alt, caption, className) {
-		let src = (existsSync('img/' + path + name)) ? 'img/' + path + name : "img/bg/placeholder.png";
+	eleventyConfig.addShortcode('figure', async function (path, name, type, size, alt, caption, className) {
+		let src = getImgSrc(path, name, type);
 		let metadata = await getImg(src, size, 'webp', path);
 		let imageAttributes = {
 			alt,
@@ -36,14 +39,14 @@ function imagePlugin(eleventyConfig) {
 		let img = Image.generateHTML(metadata, imageAttributes);
 		return `<figure ${(className && className !== 'max') ? `class=${className}` : ''}>${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
 	});
-	eleventyConfig.addShortcode('imageUrl', async function (path, name, size, fallback, type) {
-		let src = getImgSrc(path, name, fallback);
-		let metadata = await getImg(src, size, type || 'webp', path);
-		return metadata[type || 'webp'][0].url;
+	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
+		let src = getImgSrc(path, name, type, fallback, fallbackType);
+		let metadata = await getImg(src, size, outputType || 'webp', path);
+		return metadata[outputType || 'webp'][0].url;
 	});
-	function getImgSrc(path, name, fallback) {
-		if (existsSync('img/' + path + name)) return 'img/' + path + name;
-		if (fallback && existsSync('img/' + path + fallback)) return 'img/' + path + fallback;
+	function getImgSrc(path, name, type, fallback, fallbackType) {
+		if (existsSync(`img/${path}${name}.${type}`)) return `img/${path}${name}.${type}`;
+		if (fallback && existsSync('img/' + path + fallback + fallbackType)) return `img/${path}${fallback}.${fallbackType}`;
 		return 'img/bg/placeholder.png';
 	}
 	async function getImg(src, size, format, path) {

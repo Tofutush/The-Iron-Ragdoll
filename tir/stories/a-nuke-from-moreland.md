@@ -60,7 +60,7 @@ Eventually Sparky and Firecrackers came back up with the nuke. It was then when 
 
 Their problem got solved pretty quickly as a blinding bright flashlight shone on them, and they heard Paperweight's infectious voice: "Hands up. Don't move. You're under arrest."
 
-{% image "gallery/" "kids nuke.png" 1000 "The kids got caught" 'max' %}
+{% image "gallery/" "kids nuke" "png" 1000 "The kids got caught" 'max' %}
 
 They got shoved in the back of a car and hauled off to an interrogation room at the MSS office in Coastline. They were cuffed together to a heater, which is a funny picture I may or may not draw one day[^1].
 
@@ -106,7 +106,7 @@ They dug around the house again, though nothing new turned up.
 
 That was when a mysterious figure in a hat appeared, jacket slung over his shoulders, a flute in his pocket. He was on the other side of the short, dusty wall, elbows on the top, leaning in at the kids, apparently having heard everything.
 
-{% image "gallery/" "lark wall.png" 1000 "Lark on the wall" 'max' %}
+{% image "gallery/" "lark wall" "png" 1000 "Lark on the wall" 'max' %}
 
 > "Do you need help?"
 

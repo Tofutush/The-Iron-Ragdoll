@@ -20,13 +20,12 @@ eleventyComputed:
   {% assign pagedoll = filteredGallery | filterGalleryByKind: "pagedoll" %}
   {% if pagedoll.size == 1 %}
     {% assign pagedoll = pagedoll[0] %}
-    {% assign pagedollname = pagedoll.name | append: '.' | append: pagedoll.type %}
-    {% image 'gallery/' pagedollname 500 pagedoll.name 'pagedoll' %}
+    {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
   {% endif %}
   <div class="title">
-    {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
-    {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
-    {% image "gallery/" profilePath 'auto' ch.name '' iconPath %}
+    {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
+    {% assign profilePath = ch.name | lowerCase | append: " profile" %}
+    {% image "gallery/" profilePath 'png' 'auto' ch.name '' iconPath 'png' %}
     <div class="names">
       <h1>{{ ch.name }}{% if ch.namezh %} · {{ ch.namezh }}{% endif %}</h1>
       {% if ch.desc %}
@@ -88,7 +87,8 @@ eleventyComputed:
     {% for rel in filteredRelations %}
       {% assign otherCh = rel | getOtherCh: ch.name %}
       <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
-      {% if rel.img %}
+      {% assign relImg = rel | getRelImg %}
+      {% if relImg %}
         {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
         {% assign mod = forloop.index |  modulo: 2 %}
         {% if mod == 0 %}
@@ -96,7 +96,7 @@ eleventyComputed:
         {% else %}
           {% assign class='float-right' | append: ' rel-img' %}
         {% endif %}
-        {% image "gallery/" rel.img 500 alt class %}
+        {% image "gallery/" relImg.name relImg.type 500 alt class %}
       {% endif %}
       {{ rel.desc | renderMD }}
     {% endfor %}
@@ -110,9 +110,9 @@ eleventyComputed:
   {% include 'palette' colors: palette %}
   {% assign ref = filteredGallery | filterGalleryByKind: "ref" %}
   {% if ref.size == 1 %}
-    {% assign refName = ch.name | append: ' ref.png' | lowerCase %}
+    {% assign refName = ch.name | append: ' ref' | lowerCase %}
     {% assign refAlt = ch.name | lowerCase | append: " reference sheet" %}
-    <a href="{% imageUrl 'gallery/' refName 9999 '' 'png' %}">{% figure 'gallery/' refName 500 refAlt 'Click for full size!' 'max' %}</a>
+    <a href="{% imageUrl 'gallery/' refName 'png' 9999 '' 'png' %}">{% figure 'gallery/' refName 'png' 500 refAlt 'Click for full size!' 'max' %}</a>
   {% endif %}
   {% if filteredGallery.size > 0 %}
     <h2 id="gallery">Gallery</h2>

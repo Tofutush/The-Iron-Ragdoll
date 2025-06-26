@@ -23,9 +23,8 @@ eleventyComputed:
 <div class="breadcrumbs"><a href="../">Back to {{ parent }}</a></div>
 {% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum, top: true %}
 <div id="img">
-	{% assign bruhhh = comic.url | append: '.png' %}
 	{% assign alt = "Page " | append: comic.pagenum %}
-	{% image "comics/" bruhhh 1000 alt %}
+	{% image "comics/" comic.url 'png' 1000 alt %}
 </div>
 {% if comic.content %}
 	{% for line in comic.content %}

@@ -438,7 +438,8 @@
       "sparky",
       "pearl"
     ],
-    "date": "2024-06-21"
+    "date": "2024-06-21",
+    "kind": "rel"
   },
   {
     "name": "sparky and nightsun spinning",
@@ -448,6 +449,7 @@
       "nightsun"
     ],
     "date": "2024-03-21",
+    "kind": "rel",
     "comment": "Considered obsolete since Sparky's new adult design has a shorter scarf and a scar over her right eye."
   },
   {
@@ -802,7 +804,8 @@
       "sparky",
       "willow"
     ],
-    "date": "2024-08-20"
+    "date": "2024-08-20",
+    "kind": "rel"
   },
   {
     "name": "qibli stand wand",
@@ -820,7 +823,8 @@
       "sparky"
     ],
     "date": "2024-08-23",
-    "comment": "Sibling rivalry done right."
+    "comment": "Sibling rivalry done right.",
+    "kind": "rel"
   },
   {
     "name": "goose thumb",
@@ -1288,6 +1292,7 @@
       "snake"
     ],
     "date": "2024-12-04",
+    "kind": "rel",
     "comment": "Snake's butt is floating in midair, and I drew his inner ring of feathers black... I spent an hour on this I wanna eat myself"
   },
   {
@@ -2810,7 +2815,8 @@
       "goose",
       "jackalope"
     ],
-    "date": "2025-03-21"
+    "date": "2025-03-21",
+    "kind": "rel"
   },
   {
     "name": "sparky sketch theoliveoli",

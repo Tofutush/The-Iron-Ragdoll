@@ -12,7 +12,7 @@ displayTitle: The Republic of Moreland
 titlezh: 莫尔兰共和国
 ---
 
-{% image "gallery/" "moreland flag.svg" 1000 "Flag of Moreland" 'max' %}
+{% image "gallery/" "moreland flag" "svg" 1000 "Flag of Moreland" 'max' %}
 
 <div class="attr">
   <p>Pronunciation</p>
