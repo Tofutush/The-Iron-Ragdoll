@@ -1,35 +1,40 @@
 <div class="gallery">
-  {% for img in imgs %}
-  <div class="img">
-    {% if img.author %}{% image 'others art/' img.name img.type 120 img.name %}{% else %}{% image "gallery/" img.name img.type 120 img.name %}{% endif %}
-    {% if img.comment or img.type == 'gif' %}
-      <div class="icons">
-        {% if img.comment %}<div title="has comment">{% lucide 'message-circle' 16 %}</div>{% endif %}
-        {% if img.type == 'gif' %}<div title="is gif">{% lucide 'image-play' 16 %}</div>{% endif %}
-      </div>
-    {% endif %}
-    <div class="modal">
-      <div class="close">{% lucide 'x' 48 %}</div>
-      {% if img.author %}{% image 'others art/' img.name img.type 1000 img.name %}{% else %}{% image "gallery/" img.name img.type 1000 img.name %}{% endif %}
-      <div class="buttons">
-        <a>{% lucide 'chevron-left' 48 'var(--bg-light)' %}</a>
-        <a>{% lucide 'chevron-right' 48 'var(--bg-light)' %}</a>
-      </div>
-      {% if img.author %}<p>Art by <a href="{{ img.authorUrl }}">{{ img.author }}</a></p>{% endif %}
-      {% if img.ch %}
-      <div class="tags chbuttons">
-        {% for ch in img.ch %}
-          {% include 'chButton', ch: ch %}
-        {% endfor %}
-      </div>
-      {% endif %}
-      <div class="comment">
-        <p class="name-date"><span>{{ img.name }}</span><span>{{ img.date }}</span></p>
-        {% if img.comment %}
-          {{ img.comment | renderMD }}
-        {% endif %}
-      </div>
-    </div>
-  </div>
-  {% endfor %}
+{% for img in imgs %}
+	<div class="img">
+		{% if img.author %}
+			{% assign path = 'others art/'%}
+		{% else %}
+			{% assign path = 'gallery/'%}
+		{% endif %}
+		{% image path img.name img.type 120 img.name %}
+		{% if img.comment or img.type == 'gif' %}
+			<div class="icons">
+				{% if img.comment %}<div title="has comment">{% lucide 'message-circle' 16 %}</div>{% endif %}
+				{% if img.type == 'gif' %}<div title="is gif">{% lucide 'image-play' 16 %}</div>{% endif %}
+			</div>
+		{% endif %}
+		<div class="modal">
+			<div class="close">{% lucide 'x' 48 %}</div>
+			{% image path img.name img.type 1000 img.name %}
+			<div class="buttons">
+				<a>{% lucide 'chevron-left' 48 'var(--bg-light)' %}</a>
+				<a>{% lucide 'chevron-right' 48 'var(--bg-light)' %}</a>
+			</div>
+			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}">{{ img.author }}</a></p>{% endif %}
+			{% if img.ch %}
+			<div class="tags chbuttons">
+				{% for ch in img.ch %}
+					{% include 'chButton', ch: ch %}
+				{% endfor %}
+			</div>
+			{% endif %}
+			<div class="comment">
+				<p class="name-date"><span>{{ img.name }}</span><span>{{ img.date }}</span></p>
+				{% if img.comment %}
+					{{ img.comment | renderMD }}
+				{% endif %}
+			</div>
+		</div>
+	</div>
+{% endfor %}
 </div>

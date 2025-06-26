@@ -37,7 +37,7 @@ function imagePlugin(eleventyConfig) {
 			class: 'max'
 		};
 		let img = Image.generateHTML(metadata, imageAttributes);
-		return `<figure ${(className && className !== 'max') ? `class=${className}` : ''}>${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
+		return `<figure ${(className && className !== 'max') ? `class="${className}"` : ''}>${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
 	});
 	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
 		let src = getImgSrc(path, name, type, fallback, fallbackType);
