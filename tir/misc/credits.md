@@ -11,6 +11,7 @@ Most content on this site is made by myself. What isn't:
 - Some code is inspired by (read: copied from) StackOverflow, W3C, and Grepper answers.
 - Icons are from [Lucide](https://lucide.dev).
 - The hosting is provided by either Github Pages or [Neocities](https://neocities.org), depending on where you are.
+- The [guestbook](/contact/) is from [SmartGB](https://www.smartgb.com/);
 - Some of the colors are from [Cohost](https://cohost.org)'s color scheme.
 - Adjectives and adverbs in the [scenario generator](/fun/scenarios/) and [OC generator](/fun/generator/) are from [Corpora](https://github.com/dariusk/corpora).
 - 中文字体用的是[霞鹜漫黑 v0.312](https://github.com/lxgw/LxgwMarkerGothic)。
