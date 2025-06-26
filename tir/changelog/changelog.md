@@ -11,6 +11,7 @@ titlezh: 更新日志
 
 - Started to use SmartGB [guestbook](/contact/);
 - Added `woshilunhui.png`;
+- Added logic for auto-picking relationship images;
 
 ## 2025-06-23
 
