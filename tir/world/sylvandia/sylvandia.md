@@ -12,7 +12,7 @@ displayTitle: The Sylvandian Federation
 titlezh: 希尔万迪亚合众国
 ---
 
-{% image "gallery/" "sylvandia flag.svg" 1000 "Flag of Sylvandia" 'max' %}
+{% image "gallery/" "sylvandia flag" "svg" 1000 "Flag of Sylvandia" 'max' %}
 
 <div class="attr">
   <p>Pronunciation</p>

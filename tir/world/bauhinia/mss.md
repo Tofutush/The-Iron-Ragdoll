@@ -11,7 +11,7 @@ titlezh: 紫荆共和国国家安全部
 
 The main security apparatus of Bauhinia, handling both intelligence and counterintelligence. Every bit as bureaucratical as you'd imagine a Bauhinian government agency to be.
 
-{% figure 'gallery/' 'mss ref.png' 1000 'MSS Uniform' 'MSS Uniform ref' 'max' %}
+{% figure 'gallery/' 'mss ref' 'png' 1000 'MSS Uniform' 'MSS Uniform ref' 'max' %}
 
 Their boots — lemme ramble about the boots! They could be as quiet as you want, to sneak up on people; but they could also be as loud as you want — dreadful, intimidating crunching sounds. The prints they leave behind aren't easily identifiable, and could easily be disguised into footprints of other animals. They are also designed to kill — a kick to crush the liver.
 

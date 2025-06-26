@@ -3,9 +3,9 @@
         <div>
             <div class="ch" style="--c: {{ ch.color }}">
                 <a href="/characters/{{ ch.name | lowerCase }}/">
-                    {% assign iconPath = ch.name | lowerCase | append: " thumb.png" %}
-                    {% assign profilePath = ch.name | lowerCase | append: " profile.png" %}
-                    {% image "gallery/" profilePath 200 ch.name '' iconPath %}
+                    {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
+                    {% assign profilePath = ch.name | lowerCase | append: " profile" %}
+                    {% image "gallery/" profilePath 'png' 200 ch.name '' iconPath 'png' %}
                 </a>
             </div>
             {% include 'chButton', ch: ch.name %}

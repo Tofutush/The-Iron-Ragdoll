@@ -12,7 +12,7 @@ displayTitle: The Free Republic of Atlasia
 titlezh: 亚特莱西亚自由共和国
 ---
 
-{% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" 'max' %}
+{% image "gallery/" "atlasia flag" "svg" 1000 "Flag of Atlasia" 'max' %}
 
 <div class="attr">
   <p>Pronunciation</p>

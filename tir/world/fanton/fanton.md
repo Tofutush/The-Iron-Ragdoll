@@ -12,7 +12,7 @@ displayTitle: The Republic of Fanton
 titlezh: 范顿共和国
 ---
 
-{% image "gallery/" "fanton flag.svg" 1000 "Flag of Fanton" 'max' %}
+{% image "gallery/" "fanton flag" "svg" 1000 "Flag of Fanton" 'max' %}
 
 <div class="attr">
   <p>Pronunciation</p>

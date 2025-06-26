@@ -33,7 +33,7 @@ eleventyComputed:
 </head>
 {% assign siteTheme = siteTheme | default: false %}
 <body class="{% if siteTheme %}{{ siteTheme }}{% else %}light{% endif %}">
-	<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner.png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
+	<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner' 'png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
 	<nav>
 		<a href="#top">(Top)</a>
 		<a href="/about/">About</a>
@@ -78,8 +78,7 @@ eleventyComputed:
 			{% endunless %}
 			{% unless noFooterImage %}
 				{% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
-				{% assign footername = footerimg.name | append: '.' | append: footerimg.type %}
-				{% image 'gallery/' footername 500 footerimg.name 'footer-img' %}
+				{% image 'gallery/' footerimg.name footerimg.type 500 footerimg.name 'footer-img' %}
 			{% endunless %}
 		</footer>
 	{% endunless %}

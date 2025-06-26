@@ -12,7 +12,7 @@ tags:
 titlezh: 紫荆共和国
 ---
 
-{% image "gallery/" "bauhinia flag.svg" 1000 "Flag of Bauhinia" 'max' %}
+{% image "gallery/" "bauhinia flag" "svg" 1000 "Flag of Bauhinia" 'max' %}
 
 <div class="attr">
   <p>Pronunciation</p>
