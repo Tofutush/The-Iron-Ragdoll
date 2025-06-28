@@ -9,11 +9,19 @@ eleventyNavigation:
 titlezh: 国际超能力协会
 ---
 
-Association of superpowered people, or "the gifted" as they're known in [Bauhinia](/world/bauhinia/). Headquarters in [People's Vanguard](/world/westavia/peoples-vanguard/), [Westavia](/world/westavia/).
+Association of superpowered people, or "the gifted" as they're known in [Bauhinia](/world/bauhinia/). Its main task is to promote equality between normal and superpowered people and ensure proper regulations around superpower usage.
 
-The ISA is in charge of regulating the use of powers (though it's still up to the governments to implement that regulation), and awarding people with the Arch title.
+## Headquarters
 
-In its main meeting room in People's Vanguard, there is a Westavian 7-point star on the floor, with a seat at each point for the seven Arch-people.
+ISAHQ is located in [People's Vanguard](/world/westavia/peoples-vanguard/), [Westavia](/world/westavia/).
+
+In its main meeting room, there is a Westavian 7-point star on the floor, with a seat at each point for the seven Arch-people.
+
+## Responsibilities
+
+The ISA is in charge of regulating the use of powers, and awarding people with the Arch title.
+
+Countries adhere to the *Agreement on the Regulation Surrounding Superpower Usage* by signing that and becoming a member of the ISA. [Atlasia](/world/atlasia/) is the only country who didn't, and therefore no Atlasian had the chance to be crowned an Arch, and it's difficult to study the current superpower scene in the country.
 
 ## Related files
 

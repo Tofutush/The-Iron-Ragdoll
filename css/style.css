@@ -39,8 +39,8 @@
 	--font-size-small: calc(var(--font-size) * 0.8);
 	--bezier: cubic-bezier(0, 0, 0, 1);
 	--bezier-bounce: cubic-bezier(0, 1, 0, 1.5);
-	--text-light: #191919;
-	--bg-light: #fff9f2;
+	--off-black: #191919;
+	--off-white: #fff9f2;
 	--c-light: #e56b6f;
 	--box-light: #0001;
 	--c-dark: #3dd4f8;
@@ -59,8 +59,8 @@ body {
 	margin: 0;
 
 	&.dark {
-		--text: var(--bg-light);
-		--bg: var(--text-light);
+		--text: var(--off-white);
+		--bg: var(--off-black);
 		--c: var(--c-dark);
 		--box: var(--box-dark);
 
@@ -78,8 +78,8 @@ body {
 	}
 
 	&.light {
-		--text: var(--text-light);
-		--bg: var(--bg-light);
+		--text: var(--off-black);
+		--bg: var(--off-white);
 		--c: var(--c-light);
 		--box: var(--box-light);
 

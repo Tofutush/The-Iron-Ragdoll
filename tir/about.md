@@ -18,9 +18,9 @@ titlezh: 关于
         <img src="/img/bg/Robot Master.png" alt="Robot Master" />
     </div>
     <div style="width: 24ch; text-align: center;">
-      <p style="color: var(--bg-light)">HALT! THIS WEBSITE IS IN CONTROL OF DR WILY</p>
-      <p style="color: var(--bg-light)">This is Ice's Domain</p>
-      <p style="color: var(--bg-light)" style="font-size: xx-small;" >Want to join? <a style="color: var(--orange-500)" target="_blank" href="https://kunfucutsman.neocities.org/fun/robot-master-maker/">Click here!</a></p>
+      <p style="color: var(--off-white)">HALT! THIS WEBSITE IS IN CONTROL OF DR WILY</p>
+      <p style="color: var(--off-white)">This is Ice's Domain</p>
+      <p style="color: var(--off-white)" style="font-size: xx-small;" >Want to join? <a style="color: var(--orange-500)" target="_blank" href="https://kunfucutsman.neocities.org/fun/robot-master-maker/">Click here!</a></p>
     </div>
   </div>
 </section>
