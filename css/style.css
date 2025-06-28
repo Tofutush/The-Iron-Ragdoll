@@ -39,8 +39,8 @@
 	--font-size-small: calc(var(--font-size) * 0.8);
 	--bezier: cubic-bezier(0, 0, 0, 1);
 	--bezier-bounce: cubic-bezier(0, 1, 0, 1.5);
-	--text-light: #191919;
-	--bg-light: #fff9f2;
+	--off-black: #191919;
+	--off-white: #fff9f2;
 	--c-light: #e56b6f;
 	--box-light: #0001;
 	--c-dark: #3dd4f8;
@@ -48,19 +48,32 @@
 }
 
 body {
-	background-attachment: fixed;
-	background-color: var(--bg);
-	background-size: cover;
-	background-position: center;
 	color: var(--text);
 	font-family: lexend, lxgw;
 	font-size: var(--font-size);
 	hyphens: auto;
 	margin: 0;
 
+	--s: 150px;
+	/* control the size*/
+	--c1: var(--bg);
+	--c2: var(--bg-2);
+	--_g:
+		var(--c1) 0% 5%, var(--c2) 6% 15%, var(--c1) 16% 25%, var(--c2) 26% 35%, var(--c1) 36% 45%,
+		var(--c2) 46% 55%, var(--c1) 56% 65%, var(--c2) 66% 75%, var(--c1) 76% 85%, var(--c2) 86% 95%,
+		#0000 96%;
+	background:
+		radial-gradient(50% 50% at 100% 0, var(--_g)),
+		radial-gradient(50% 50% at 0 100%, var(--_g)),
+		radial-gradient(50% 50%, var(--_g)),
+		radial-gradient(50% 50%, var(--_g)) calc(var(--s)/2) calc(var(--s)/2) var(--c1);
+	background-attachment: fixed;
+	background-size: var(--s) var(--s);
+
 	&.dark {
-		--text: var(--bg-light);
-		--bg: var(--text-light);
+		--text: var(--off-white);
+		--bg: var(--off-black);
+		--bg-2: #000;
 		--c: var(--c-dark);
 		--box: var(--box-dark);
 
@@ -78,8 +91,9 @@ body {
 	}
 
 	&.light {
-		--text: var(--text-light);
-		--bg: var(--bg-light);
+		--text: var(--off-black);
+		--bg: var(--off-white);
+		--bg-2: #fdf1e3;
 		--c: var(--c-light);
 		--box: var(--box-light);
 
@@ -130,7 +144,10 @@ h4 {
 main {
 	margin: 2em auto;
 	max-width: 800px;
-	padding: 0 2em;
+	box-shadow: 0 0 8px 4px var(--box);
+	border-radius: 2em;
+	padding: 1em 2em;
+	background-color: var(--bg);
 }
 
 p {
