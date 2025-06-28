@@ -3602,5 +3602,23 @@
     ],
     "authorUrl": "https://toyhou.se/strawberiishortcake",
     "author": "strawberiishortcake"
+  },
+  {
+    "name": "pmv cover",
+    "type": "png",
+    "date": "2025-06-28",
+    "ch": [
+      "goose"
+    ],
+    "comment": "The cover of Goose's PMV!"
+  },
+  {
+    "name": "pmv cover en",
+    "type": "png",
+    "date": "2025-06-28",
+    "ch": [
+      "goose"
+    ],
+    "comment": "The cover of Goose's PMV!"
   }
 ]
