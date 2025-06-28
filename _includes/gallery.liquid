@@ -6,7 +6,7 @@
 		{% else %}
 			{% assign path = 'gallery/'%}
 		{% endif %}
-		{% image path img.name img.type 120 img.name %}
+		{% image path img.name img.type 120 img.name '' '' '' true %}
 		{% if img.comment or img.type == 'gif' %}
 			<div class="icons">
 				{% if img.comment %}<div title="has comment">{% lucide 'message-circle' 16 %}</div>{% endif %}

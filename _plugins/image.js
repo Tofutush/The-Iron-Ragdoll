@@ -3,8 +3,8 @@ import Image from "@11ty/eleventy-img";
 import imageSize from "image-size";
 
 function imagePlugin(eleventyConfig) {
-	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt, className, fallback, fallbackType) {
-		if (type === 'gif') {
+	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt, className, fallback, fallbackType, freeze) {
+		if (type === 'gif' && !freeze) {
 			return `<img src="/img/${path}${name}.gif" alt="${alt}" class="${className}" />`;
 		}
 		let src = getImgSrc(path, name, type, fallback, fallbackType);

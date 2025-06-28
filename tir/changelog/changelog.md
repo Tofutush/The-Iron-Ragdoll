@@ -10,6 +10,8 @@ titlezh: 更新日志
 ## 2025-06-28
 
 - Added a [Robot Master](https://kunfucutsman.neocities.org/fun/robot-master-maker/) on the [about](/about/) file;
+- Changed the page background. We'll see how it goes;
+- Froze the gifs in the gallery thumbnails;
 
 ## 2025-06-26
 
