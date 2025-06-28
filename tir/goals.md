@@ -30,8 +30,6 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 	- I think I might have set the scope too big. 50 characters (150 pieces of art) and 50 levels (50 diary entries) sound like hell, both to me and the player. I should cut things down a bit.
 - Animations
 	- My arch-nemisis.
-	- 苍蝇手书
-		- In the works! It's going pretty well for now!
 	- "Redemption" animation meme
 		- It looks relatively simple, and I have my character choices ready. I'll probably start this after finishing the previous one.
 	- Trypophobia
@@ -56,6 +54,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 
 ## Done
 
+- [Goose PMV](https://youtu.be/v4ats5O0mio)!
 - [Scavenger hunt game](/fun/hunt/).
 - Templating for Homestuck-style dialog and narration
 - Archive pages with little image thumbnails
