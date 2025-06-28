@@ -57,7 +57,7 @@
     z-index: 999;
 
     & p {
-        color: var(--bg-light);
+        color: var(--off-white);
     }
 
     & .name-date {
