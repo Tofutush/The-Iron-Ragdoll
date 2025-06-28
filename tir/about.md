@@ -12,6 +12,19 @@ titlezh: 关于
 
 ## About the site
 
+<section style="border-sizing: border-box; --orange-500: #f66d1e; --blue-800: #162c33; --gray-900: #ffffff;">
+  <div style="display: flex; flex-direction: column; align-items: center; background-color: var(--blue-800); padding: 1rem; border-radius: 0.5rem; color: var(--gray-900);">
+    <div style="width: 10rem; height: 10rem; display: flex; justify-content: center; align-items: center; image-rendering: pixelated;border-image-source: url(https://file.garden/Z85j0wcYZ0vCXjU9/robot%20master%20frame.png); border-image-width: 2rem; border-image-repeat: round; border-image-slice: 33.33% fill;">
+        <img src="/img/bg/Robot Master.png" alt="Robot Master" />
+    </div>
+    <div style="width: 24ch; text-align: center;">
+      <p style="color: var(--bg-light)">HALT! THIS WEBSITE IS IN CONTROL OF DR WILY</p>
+      <p style="color: var(--bg-light)">This is Ice's Domain</p>
+      <p style="color: var(--bg-light)" style="font-size: xx-small;" >Want to join? <a style="color: var(--orange-500)" target="_blank" href="https://kunfucutsman.neocities.org/fun/robot-master-maker/">Click here!</a></p>
+    </div>
+  </div>
+</section>
+
 A paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage! This website is where I display everything I have created for this paracosm.
 
 You can browse through it with the navigation bar at the top. The first link will take you back to the top of the page. There's also a bunch of links on the [homepage](/) that takes you to important pages on the site.

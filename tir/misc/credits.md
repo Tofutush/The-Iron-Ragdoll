@@ -10,6 +10,7 @@ Most content on this site is made by myself. What isn't:
 - I use [11ty](https://11ty.dev) as a static site generator.
 - Some code is inspired by (read: copied from) StackOverflow, W3C, and Grepper answers.
 - Icons are from [Lucide](https://lucide.dev).
+- The Robot Master on [About](/about/) is from [KFCMan](https://kunfucutsman.neocities.org/fun/robot-master-maker/).
 - The hosting is provided by either Github Pages or [Neocities](https://neocities.org), depending on where you are.
 - The [guestbook](/contact/) is from [SmartGB](https://www.smartgb.com/);
 - Some of the colors are from [Cohost](https://cohost.org)'s color scheme.

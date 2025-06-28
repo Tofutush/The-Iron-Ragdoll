@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-28
+
+- Added a [Robot Master](https://kunfucutsman.neocities.org/fun/robot-master-maker/) on the [about](/about/) file;
+
 ## 2025-06-26
 
 - Started to use SmartGB [guestbook](/contact/);
