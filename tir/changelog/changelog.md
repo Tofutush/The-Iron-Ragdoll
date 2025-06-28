@@ -12,6 +12,8 @@ titlezh: 更新日志
 - Added a [Robot Master](https://kunfucutsman.neocities.org/fun/robot-master-maker/) on the [about](/about/) file;
 - Changed the page background. We'll see how it goes;
 - Froze the gifs in the gallery thumbnails;
+- Added a link to the drawing perms on character pages;
+	- Mainly so you can skip the gallery to the bottom for whatever reason;
 
 ## 2025-06-26
 
