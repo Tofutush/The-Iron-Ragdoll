@@ -14,7 +14,7 @@ titlezh: 更新日志
 - Froze the gifs in the gallery thumbnails;
 - Added a link to the drawing perms on character pages;
 	- Mainly so you can skip the gallery to the bottom for whatever reason;
-- Added `goose pumpkin strawberiishortcake.png`;
+- Added `goose pumpkin strawberiishortcake.png`, `pmv cover.png`, `pmv cover en.png`;
 
 ## 2025-06-26
 
