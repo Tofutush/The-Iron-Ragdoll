@@ -43,9 +43,15 @@
     </div>
     <style>
       .archive {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        display: flex;
+        flex-wrap: wrap;
         gap: .5em;
+
+        & img {
+          height: 6em;
+          width: 6em;
+          object-fit: cover;
+        }
       }
     </style>
     <h1>Hillslope Archive</h1>
