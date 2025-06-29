@@ -477,6 +477,8 @@ footer {
 	&>a {
 		opacity: .5;
 
+
+
 		&[aria-current] {
 			opacity: 1;
 		}
@@ -485,6 +487,10 @@ footer {
 			transform: scale(1.1);
 			opacity: 1;
 		}
+	}
+
+	&.solid>a {
+		opacity: 1;
 	}
 }
 
