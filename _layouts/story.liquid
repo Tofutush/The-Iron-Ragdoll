@@ -30,11 +30,15 @@ eleventyComputed:
 		</div>
 	{% endif %}
 </div>
-{% if comic %}
-<p style="text-align: center;"><a href="page-1/">{% lucide 'chevrons-right' %}Read the comic associated with this story!{% lucide 'chevrons-left' %}</a></p>
-{% endif %}
-{% if fic %}
-<p style="text-align: center;"><a href="chapter-1/">{% lucide 'chevrons-right' %}Read the story as an actual novel thing! (This page will contain spoilers. But the novel might never get finished.){% lucide 'chevrons-left' %}</a></p>
+{% if comic or fic %}
+	<div class="box-nav solid">
+		{% if comic %}
+			<a href="page-1/">Read the comic!</a>
+		{% endif %}
+		{% if fic %}
+			<a href="chapter-1/">Read the fic!</a>
+		{% endif %}
+	</div>
 {% endif %}
 
 {{ content }}
