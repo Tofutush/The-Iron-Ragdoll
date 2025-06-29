@@ -55,7 +55,7 @@ eleventyComputed:
 					{% for item in bc %}
 					{% if forloop.index != 1 %}
 						{% if forloop.index != 2 %}
-						{% lucide 'chevron-right' %}
+							{% lucide 'chevron-right' %}
 						{% endif %}
 						<a href="{{ item.url }}">{{ item.title }}</a>
 					{% endif %}
