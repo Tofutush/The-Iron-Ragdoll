@@ -13,7 +13,7 @@ eleventyComputed:
 	<div id="toc">
 	<ul>
 		{% for ch in collections[colName] %}
-			<li><a href="{{ ch.url }}">Chapter {{ ch.data.chNum }}{% if ch.data.chTitle %}: {{ ch.data.chTitle }}{% endif %}</a></li>
+			<li><a href="{{ ch.url }}">{% if ch.data.chTitle %}{{ ch.data.chTitle }}{% else %}Chapter {{ ch.data.chNum }}{% endif %}</a></li>
 		{% endfor %}
 	</ul>
 	</div>
