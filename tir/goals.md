@@ -18,7 +18,6 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 	- Would probably never actually get even started. But in the rare case that it does, it would be made in Adventure Game Studio.
 - Comics
 	- [Spy School](/stories/spy-school/)
-	- Firecrackers middle finger
 	- Harmony graduation
 - 100 followers art request
 - Idle Forced Labor Camp
@@ -54,6 +53,7 @@ A list of "stuff I wanna do" so I won't forget about them. I will never finish a
 
 ## Done
 
+- Firecrackers middle finger comic.
 - [Goose PMV](https://youtu.be/v4ats5O0mio)!
 - [Scavenger hunt game](/fun/hunt/).
 - Templating for Homestuck-style dialog and narration

@@ -114,8 +114,7 @@ body {
 h1,
 h2,
 h3,
-h4,
-details summary::after {
+h4 {
 	color: var(--text);
 	line-height: 2;
 	font-family: troika, lxgw-marker;
@@ -318,6 +317,10 @@ details summary {
 	display: flex;
 	align-items: center;
 	gap: .5em;
+
+	&::h2 {
+		margin: 0;
+	}
 
 	&::after {
 		content: '+';
