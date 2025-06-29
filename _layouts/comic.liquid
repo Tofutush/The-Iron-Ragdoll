@@ -17,10 +17,18 @@ eleventyComputed:
 	<style>
 		body {
 			background-image: url({{ '/img/bg/' | append: comic.bg | append: '.png' | htmlBaseUrl }});
+			background-attachment: fixed;
+			background-position: center;
+			background-size: cover;
+		}
+		main {
+			box-shadow: none;
+			background-color: #0000;
+			margin: 0 auto;
 		}
 	</style>
 {% endif %}
-<div class="breadcrumbs"><a href="../">Back to {{ parent }}</a></div>
+<div class="breadcrumbs"><a href="../">{{ parent }}</a>{% lucide 'chevron-right' %}<a href="{{ page.url }}">Page {{ comic.pagenum }}</a></div>
 {% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum, top: true %}
 <div id="img">
 	{% assign alt = "Page " | append: comic.pagenum %}
