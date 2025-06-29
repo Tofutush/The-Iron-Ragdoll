@@ -1,0 +1,32 @@
+[
+  {
+    "pagenum": 1,
+    "chapter": 1,
+    "url": "bhf/en",
+    "date": "2025-02-04"
+  },
+  {
+    "pagenum": 2,
+    "chapter": 1,
+    "url": "bhf/zh",
+    "date": "2025-02-04"
+  },
+  {
+    "pagenum": 3,
+    "chapter": 2,
+    "url": "gk/1",
+    "date": "2025-02-25"
+  },
+  {
+    "pagenum": 4,
+    "chapter": 2,
+    "url": "gk/2",
+    "date": "2025-02-25"
+  },
+  {
+    "pagenum": 5,
+    "chapter": 2,
+    "url": "gk/3",
+    "date": "2025-02-26"
+  }
+]
