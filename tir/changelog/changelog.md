@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-06-29
+
+- Added `mynx.png`, `firecrackers sign comic.png`;
+
 ## 2025-06-28
 
 - Published the [Goose PMV](https://youtu.be/v4ats5O0mio)!

@@ -3620,5 +3620,20 @@
       "goose"
     ],
     "comment": "The cover of Goose's [PMV](https://youtu.be/v4ats5O0mio)!"
+  },
+  {
+    "name": "mynx",
+    "type": "png",
+    "date": "2025-06-29",
+    "comment": "Draw for the person above for [CritCraft](https://toyhou.se/CritCraft), featuring [Mynx](https://toyhou.se/33677447.mynx)."
+  },
+  {
+    "name": "firecrackers sign comic",
+    "type": "png",
+    "date": "2025-06-29",
+    "ch": [
+      "firecrackers",
+      "sparky"
+    ]
   }
 ]
