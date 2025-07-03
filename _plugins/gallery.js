@@ -12,11 +12,7 @@ function galleryPlugin(eleventyConfig) {
 		return arr.filter(a => !a.author);
 	});
 	eleventyConfig.addFilter('sortGalleryByChCount', function (arr) {
-		return arr.sort((a, b) => a.ch?.length - b.ch?.length).sort((a, b) => {
-			if (!a.author && b.author) return -1;
-			if (a.author && !b.author) return 1;
-			return 0;
-		});
+		return arr.sort((a, b) => a.ch?.length - b.ch?.length);
 	});
 }
 
