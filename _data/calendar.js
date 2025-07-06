@@ -1,11 +1,13 @@
 import characters from './characters.json' with {type: 'json'};
 import days from './holidays.json' with {type: 'json'};
 
+// tf is this godawful code kid can future you fix it
 for (let z = 0; z < characters.length; z++) {
 	if (characters[z].attr?.Birthday) {
 		let monthDay = characters[z].attr.Birthday.substring(5);
 		let obj = {
-			image: `${characters[z].name.toLowerCase()} thumb.png`,
+			image: `${characters[z].name.toLowerCase()} thumb`,
+			type: 'png',
 			alt: `${characters[z].name}'s birthday`,
 			url: `/characters/${characters[z].name.toLowerCase()}/`
 		}
