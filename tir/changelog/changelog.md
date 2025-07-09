@@ -7,6 +7,12 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-10
+
+- Set up a scheduled build every midnight UTC;
+    - Now birthday messages can appear automatically;
+    - Expect more stuff like holiday messages and perhaps even seasonal themes to come!
+
 ## 2025-07-03
 
 - Stopped putting other's art at the back of character galleries;
