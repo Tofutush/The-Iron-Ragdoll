@@ -10,6 +10,7 @@ titlezh: 更新日志
 ## 2025-07-11
 
 - Added all art received from Artfight thus far;
+- Added `jon.gif`;
 
 ## 2025-07-10
 
