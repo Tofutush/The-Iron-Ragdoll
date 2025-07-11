@@ -11,6 +11,7 @@ titlezh: 更新日志
 
 - Added all art received from Artfight thus far;
 - Added `jon.gif`;
+- Published [Harmony Spies](/stories/oneshots/chapter-3/);
 
 ## 2025-07-10
 
