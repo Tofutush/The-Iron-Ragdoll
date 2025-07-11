@@ -9,16 +9,19 @@ titlezh: 阿波露萨族
 
 A nomadic tribe in Moreland that honors a legendary figure, Appaloosa.
 
+They mainly ride horses around make a living through herding sheep and cows.
+
 ## Members
 
 - [Snowball](/characters/snowball/)
+- [Jasmine](/characters/jasmine/) (former)
 
 ## Appaloosa's story
 
 Inspired by: [预言的勇者 - 卦者灵风](https://www.bilibili.com/video/BV1Zf4y1Z75m/).
 
-Appaloosa was a bard. When a fortune teller predicted that she would save Bauhinia or whatever, the emperor called her to his palace, only to find that all she did was sing. They offered her power and wealth, but she insisted on continuing her life as a bard, and traveled on.
+Appaloosa was a bard living in the Bauhinian Empire about three hundred years ago. When a fortune teller predicted that she would save Bauhinia or whatever, the emperor called her to his palace, only to find that all she did was sing. They offered her power and wealth, but she insisted on continuing her life as a bard, and traveled on.
 
-Later, the wars and revolutions broke out. She fled from place to place, trying to escape the bloodshed, but it always seemed that wherever she went, bloodshed *followed*. In the end she was killed in an area that would be Morelandian territory.
+Later, wars and rebellions broke out within the empire. She fled from place to place, trying to escape the bloodshed, but it always seemed that wherever she went, bloodshed *followed*. In the end she was killed in an area that would be Morelandian territory.
 
-Years later, some people uncovered her songbook buried in the ground, and fell in love with this bard. They formed a tribe and traveled from place to place to honor her memories. Though, after facing hostility from foreign governments, they mainly moved around Moreland.
+Years later, some people uncovered her songbook buried in the ground, and fell in love with this bard. They formed a tribe and traveled from place to place to honor her memories. Though, after facing hostility from foreign governments, they mainly moved around within Moreland.

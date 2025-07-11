@@ -74,7 +74,6 @@ I'd love code to have a similar license too, but apparently noncommercial goes a
 - [Discord](https://discord.com/invite/XzdA5vKkb2)
 - [Toyhouse](https://toyhou.se/Tofutush)
 - [Artfight](https://artfight.net/~Tofutush)
-- [Neospring](https://neospring.org/@tofutush)
 
 **Risk assessment:** Low risk. Subject can and will trip over her own shoelaces. Has next to zero countersurveillance skills. The only obstacle to containment is her spontaneous consumption of other people.
 
@@ -86,7 +85,7 @@ Please don't draw parallels between my paracosm and real-life, even if I initiat
 
 I welcome any sort of derivative content, like fanart, OCs, and everything, as long as you understand that they are not canon. For what is worth, the [races](/world/races/) and [creatures](/world/creatures/) are also all classified as open species. Make sure to show me anything you make; I'd love to see them!
 
-CC-BY-NC-SA license applies; see the section below!
+CC-BY-NC-SA license applies; see the [License](#license) section!
 
 [^1]: Likely, though we can't be completely certain
 [^2]: RIP our brave hero. You will always be remembered
