@@ -9,7 +9,7 @@ titlezh: 更新日志
 
 ## 2025-07-12
 
-- Added `ri.png`, `esther.png`;
+- Added `ri.png`, `esther.png`, `emno.gif`;
 
 ## 2025-07-11
 
