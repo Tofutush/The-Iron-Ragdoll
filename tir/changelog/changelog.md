@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-12
+
+- Added `ri.png`, `esther.png`;
+
 ## 2025-07-11
 
 - Added all art received from Artfight thus far;
