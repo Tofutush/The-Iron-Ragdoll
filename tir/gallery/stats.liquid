@@ -6,7 +6,6 @@ eleventyNavigation:
   parent: Gallery
 ---
 {% assign filteredGallery = gallery | getOnlyMyArt %}
-<h1>Gallery stats</h1>
 <p>Total number of pictures: {{ filteredGallery.size }}</p>
 {% assign totalMonths = 0 %}
 {% for eachyear in years reversed %}
