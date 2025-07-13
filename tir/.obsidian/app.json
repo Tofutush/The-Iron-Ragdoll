@@ -1,5 +1,5 @@
 {
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "userIgnoreFilters": [
     "/(^_)|(/_)/",
     "/[fF][uU][nN]/",
@@ -7,6 +7,6 @@
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": false,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "readableLineLength": true
 }
