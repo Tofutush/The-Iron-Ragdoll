@@ -9,7 +9,7 @@ titlezh: 更新日志
 
 ## 2025-07-14
 
-- Added some text to the default [[Gallery]] page;
+- Added some text to the default [Gallery](/gallery/) page;
 
 ## 2025-07-12
 
