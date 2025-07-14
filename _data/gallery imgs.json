@@ -64,7 +64,8 @@
       "buttercup"
     ],
     "date": "2024-05-12",
-    "comment": "Buttercup! She's so cool and badass.\n\nI drew her on a piece of hotel scratch paper, and later turned that picture digital. I don't really know how her story would fit into the comic, but here: she was sold into prostitution at a young age (how young? IDK) and those boots were from a client who refused to pay real money. Then she escaped and joined a rebellion fighting for Fleaish independence from Sylvandia. I've yet to think of the nature of this rebellion."
+    "comment": "Buttercup! She's so cool and badass.\n\nI drew her on a piece of hotel scratch paper, and later turned that picture digital.",
+    "kind": "fullbody"
   },
   {
     "name": "buttercup thumb",
@@ -219,7 +220,8 @@
     "ch": [
       "jerboa"
     ],
-    "date": "2024-06-02"
+    "date": "2024-06-02",
+    "kind": "fullbody"
   },
   {
     "name": "jerboa thumb",
@@ -317,7 +319,7 @@
       "myriad"
     ],
     "date": "2024-05-26",
-    "kind": "pagedoll"
+    "kind": "fullbody"
   },
   {
     "name": "nightsun thumb",
@@ -476,7 +478,8 @@
     "ch": [
       "sparky"
     ],
-    "date": "2024-05-26"
+    "date": "2024-05-26",
+    "kind": "fullbody"
   },
   {
     "name": "sparky elegance glowbugs",
@@ -613,7 +616,8 @@
     "ch": [
       "tephra"
     ],
-    "date": "2024-06-02"
+    "date": "2024-06-02",
+    "kind": "fullbody"
   },
   {
     "name": "tephra thumb",
@@ -664,7 +668,8 @@
     "ch": [
       "tundra"
     ],
-    "date": "2024-06-02"
+    "date": "2024-06-02",
+    "kind": "fullbody"
   },
   {
     "name": "tundra thumb",
@@ -813,7 +818,8 @@
     "ch": [
       "qibli"
     ],
-    "date": "2024-08-22"
+    "date": "2024-08-22",
+    "kind": "fullbody"
   },
   {
     "name": "sparky ironheart interrogation",
@@ -876,7 +882,8 @@
     "ch": [
       "halcyon"
     ],
-    "date": "2024-08-27"
+    "date": "2024-08-27",
+    "kind": "fullbody"
   },
   {
     "name": "mss groupshot",
@@ -896,7 +903,7 @@
       "pumpkin"
     ],
     "date": "2024-08-27",
-    "kind": "pagedoll"
+    "kind": "fullbody"
   },
   {
     "name": "paperweight stand",
@@ -904,7 +911,8 @@
     "ch": [
       "paperweight"
     ],
-    "date": "2024-08-27"
+    "date": "2024-08-27",
+    "kind": "fullbody"
   },
   {
     "name": "sparky nightsun back",
@@ -1145,7 +1153,8 @@
     "ch": [
       "fern"
     ],
-    "date": "2024-11-08"
+    "date": "2024-11-08",
+    "kind": "fullbody"
   },
   {
     "name": "snowball lights",
@@ -1232,7 +1241,7 @@
       "beauty"
     ],
     "date": "2024-11-18",
-    "kind": "pagedoll"
+    "kind": "fullbody"
   },
   {
     "name": "chastity stand",
@@ -1241,7 +1250,7 @@
       "chastity"
     ],
     "date": "2024-11-19",
-    "kind": "pagedoll"
+    "kind": "fullbody"
   },
   {
     "name": "devotion stand",
@@ -1250,7 +1259,7 @@
       "devotion"
     ],
     "date": "2024-11-19",
-    "kind": "pagedoll"
+    "kind": "fullbody"
   },
   {
     "name": "elegance stand",
@@ -1259,7 +1268,7 @@
       "elegance"
     ],
     "date": "2024-11-19",
-    "kind": "pagedoll"
+    "kind": "fullbody"
   },
   {
     "name": "dijkolo",
@@ -1282,7 +1291,8 @@
     "ch": [
       "snake"
     ],
-    "date": "2024-12-01"
+    "date": "2024-12-01",
+    "kind": "fullbody"
   },
   {
     "name": "pearl snake",
@@ -1388,7 +1398,8 @@
       "goose"
     ],
     "date": "2025-01-14",
-    "comment": "Is she not cool and badass??? Answer me!"
+    "comment": "Is she not cool and badass??? Answer me!",
+    "kind": "fullbody"
   },
   {
     "name": "sparky gape emoji",
@@ -2112,7 +2123,8 @@
     "ch": [
       "sundae"
     ],
-    "date": "2024-12-29"
+    "date": "2024-12-29",
+    "kind": "fullbody"
   },
   {
     "name": "villagers",
@@ -2763,7 +2775,8 @@
     "ch": [
       "jackalope"
     ],
-    "date": "2025-03-13"
+    "date": "2025-03-13",
+    "kind": "fullbody"
   },
   {
     "name": "xuer",
@@ -2800,7 +2813,7 @@
       "whiteout"
     ],
     "date": "2025-03-20",
-    "kind": "pagedoll"
+    "kind": "fullbody"
   },
   {
     "name": "sue",
@@ -3157,7 +3170,7 @@
     "ch": [
       "frosting"
     ],
-    "kind": "pagedoll"
+    "kind": "fullbody"
   },
   {
     "name": "sugarcane tween",
@@ -3263,7 +3276,8 @@
     "date": "2025-05-04",
     "ch": [
       "nebula"
-    ]
+    ],
+    "kind": "fullbody"
   },
   {
     "name": "qibli into trinket",
@@ -3297,7 +3311,8 @@
     "date": "2025-05-17",
     "ch": [
       "frosting"
-    ]
+    ],
+    "kind": "pagedoll"
   },
   {
     "name": "entity float",
@@ -3440,7 +3455,8 @@
     "date": "2025-05-26",
     "ch": [
       "jelly"
-    ]
+    ],
+    "kind": "fullbody"
   },
   {
     "name": "sugarcane thumb",
@@ -3544,7 +3560,8 @@
     "date": "2025-06-03",
     "ch": [
       "snake"
-    ]
+    ],
+    "kind": "pagedoll"
   },
   {
     "name": "sky cards",
@@ -3856,6 +3873,7 @@
     "date": "2025-07-14",
     "ch": [
       "jinx"
-    ]
+    ],
+    "kind": "fullbody"
   }
 ]
