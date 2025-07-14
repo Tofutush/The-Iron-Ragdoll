@@ -35,6 +35,12 @@ blockquote {
   }
 }
 
+.fullbody {
+  height: 12em;
+  width: auto;
+  object-fit: contain;
+}
+
 .rel-img {
   height: 8em;
   width: 8em;
