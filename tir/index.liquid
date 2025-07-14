@@ -1,24 +1,32 @@
 ---
 layout: layout.liquid
 title: Root
-templateEngineOverride: liquid,md
 eleventyNavigation:
   key: Root
 ---
 <link rel="stylesheet" href="/css/home.css"/>
 <h1 style="text-align: center;">Welcome to the world of The Iron Ragdoll!</h1>
 {% image 'gallery/' 'cms friends lineless' 'png' 1000 'Coastline Middle School friends' 'max' %}
-
-Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have fun!
-
-The Iron Ragdoll is my paracosm that I adore and want to share with you. It's about a bunch of colorful people with animal ears and horns. They play around, solve mysteries, and spy on each other, living in a borderline-dystopian world with spies, agents, betrayal, and friendship both genuine and fake.
-
+<p>Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have fun!</p>
+<p>The Iron Ragdoll is my paracosm that I adore and want to share with you. It's about a bunch of colorful people with animal ears and horns. They play around, solve mysteries, and spy on each other, living in a borderline-dystopian world with spies, agents, betrayal, and friendship both genuine and fake.</p>
 {% assign bdayStars = characters | getBDayStars %}
 {% if bdayStars.size > 0 %}
+  <h2>Today's birthday!</h2>
   {% assign dateMonth = 0 | getMMDD %}
-  <blockquote><p>Today, {{ dateMonth}}, is {% for ch in bdayStars %}<a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a>{% if forloop.index != bdayStars.size %}, {% endif %}{% endfor %}'s birthday!</p></blockquote>
+  {% for ch in bdayStars %}
+    <div class="ch-card" style="border-color: {{ ch.color }}">
+      <div>
+        {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
+        {% assign profilePath = ch.name | lowerCase | append: " profile" %}
+        {% image "gallery/" profilePath 'png' 200 ch.name '' iconPath %}
+      </div>
+      <div>
+        <h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
+        <p>{{ ch.desc }}</p>
+      </div>
+    </div>
+  {% endfor %}
 {% endif %}
-
 <div class="grid">
   <a class="big" href="/characters/">
 	<div class="card" style="background-image: url('{% capture url %}{% imageUrl 'gallery/' 'sparky pop' 'png' 1000 %}{% endcapture %}{{ url | htmlBaseUrl }}');"><p>{% lucide 'contact-round' 32 %} Characters</p></div>
@@ -51,19 +59,23 @@ The Iron Ragdoll is my paracosm that I adore and want to share with you. It's ab
 	<div class="card" style="background-image: url('{% capture url %}{% imageUrl 'gallery/' 'guillotine pop' 'png' 1000 %}{% endcapture %}{{ url | htmlBaseUrl }}');"><p>{% lucide 'ferris-wheel' 32 %} Fun</p></div>
   </a>
 </div>
-
-## Meta
-
-- [{% lucide 'goal' %} Goals](/goals/)
-- [{% lucide 'circle-ellipsis' %} Misc](/misc/)
-	- [{% lucide 'torus' %} Buttons and webrings](/misc/links/)
-	- [{% lucide 'thumbs-up' %} Credits](/misc/credits/)
-- [{% lucide 'clock-8' %} Changelog](/changelog/)
-- [{% lucide 'code-xml' %} Sitemap](/sitemap/)
-- [{% lucide 'notebook-tabs' %} Contact](/contact/): Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here!
-
-## Outgoing
-
-- [{% lucide 'messages-square' %} Discord server](https://discord.gg/XzdA5vKkb2), join the discord!
-- [{% lucide 'school' %}Havoc 101](https://tofutush.github.io/havoc101), another cannot-complete-in-my-life project related to TIR
-- [{% lucide 'cat' %}{% lucide 'brush' %} Neocities profile](https://neocities.org/site/tofutush)
+<h2>Meta</h2>
+<ul>
+  <li><a href="/goals/">{% lucide 'goal' %} Goals</a></li>
+  <li>
+    <a href="/misc/">{% lucide 'circle-ellipsis' %} Misc</a>
+    <ul>
+      <li><a href="/misc/links/">{% lucide 'torus' %} Buttons and webrings</a></li>
+      <li><a href="/misc/credits/">{% lucide 'thumbs-up' %} Credits</a></li>
+    </ul>
+  </li>
+  <li><a href="/changelog/">{% lucide 'clock-8' %} Changelog</a></li>
+  <li><a href="/sitemap/">{% lucide 'code-xml' %} Sitemap</a></li>
+  <li><a href="/contact/">{% lucide 'notebook-tabs' %} Contact</a>: Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here!</li>
+</ul>
+<h2>Outgoing</h2>
+<ul>
+  <li><a href="https://discord.gg/XzdA5vKkb2">{% lucide 'messages-square' %} Discord server</a>, join the discord!</li>
+  <li><a href="https://tofutush.github.io/havoc101">{% lucide 'school' %}Havoc 101</a>, another cannot-complete-in-my-life project related to TIR</li>
+  <li><a href="https://neocities.org/site/tofutush">{% lucide 'cat' %}{% lucide 'brush' %} Neocities profile</a></li>
+</ul>
