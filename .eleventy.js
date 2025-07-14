@@ -17,7 +17,6 @@ import imagePlugin from './_plugins/image.js';
 import storyPlugin from './_plugins/story.js';
 import guessPlugin from './_plugins/guess.js';
 import wordCountPlugin from './_plugins/wordcount.js';
-import interlinkPlugin from '@photogabble/eleventy-plugin-interlinker';
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -57,9 +56,6 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
-	eleventyConfig.addPlugin(interlinkPlugin, {
-		slugifyFn: slug
-	});
 	eleventyConfig.addPlugin(eleventyLucideIconsPlugin);
 	eleventyConfig.addPlugin(galleryPlugin);
 	eleventyConfig.addPlugin(utilPlugin);
