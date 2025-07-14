@@ -3843,5 +3843,19 @@
     "author": "Aincretop",
     "authorUrl": "https://artfight.net/~Aincretop",
     "comment": "Artfight 2025 defense!"
+  },
+  {
+    "name": "kyrea",
+    "type": "png",
+    "date": "2025-07-14",
+    "comment": "Artfight attack for [KiwiMeowo](https://artfight.net/~KiwiMeowo), featuring [Kyrea](https://artfight.net/character/3130430.kyrea)."
+  },
+  {
+    "name": "jinx",
+    "type": "png",
+    "date": "2025-07-14",
+    "ch": [
+      "jinx"
+    ]
   }
 ]
