@@ -8,6 +8,9 @@ function galleryPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('filterGalleryByKind', function (arr, f) {
 		return arr.filter(a => a.kind === f);
 	});
+	eleventyConfig.addFilter('getFirstOfKind', function (arr, f) {
+		return arr.filter(a => a.kind === f)[0];
+	});
 	eleventyConfig.addFilter('getOnlyMyArt', function (arr, f) {
 		return arr.filter(a => !a.author);
 	});

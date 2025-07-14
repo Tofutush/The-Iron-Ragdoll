@@ -17,9 +17,8 @@ eleventyComputed:
 <link rel="stylesheet" href="/css/characters.css"/>
 <div style="--accent: {{ ch.color }}">
   {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
-  {% assign pagedoll = filteredGallery | filterGalleryByKind: "pagedoll" %}
-  {% if pagedoll.size == 1 %}
-    {% assign pagedoll = pagedoll[0] %}
+  {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
+  {% if pagedoll %}
     {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
   {% endif %}
   <div class="title">
@@ -72,12 +71,11 @@ eleventyComputed:
   {% endif %}
   {% if ch.about %}
     <h2 id="about">About</h2>
-    {% if ch.about == 'file' %}
-      {% assign filePath = './tir/characters/files/' | append: ch.name | lowerCase | append: " about.md" %}
-      {% renderFile filePath, , 'liquid,md' %}
-    {% else %}
-      {{ ch.about | renderMD }}
+    {% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
+    {% if fullbody %}
+      {% image 'gallery/' fullbody.name fullbody.type 500 fullbody.name 'float-right fullbody' %}
     {% endif %}
+    {{ ch.about | renderMD }}
   {% endif %}
   {% if filteredStories.size > 0 %}
       <h2 id="stories">Stories</h2>
@@ -117,11 +115,10 @@ eleventyComputed:
   <h2 id="reference">Reference</h2>
   {% assign palette = ch | getFullPalette %}
   {% include 'palette' colors: palette %}
-  {% assign ref = filteredGallery | filterGalleryByKind: "ref" %}
-  {% if ref.size == 1 %}
-    {% assign refName = ch.name | append: ' ref' | lowerCase %}
-    {% assign refAlt = ch.name | lowerCase | append: " reference sheet" %}
-    <a href="{% imageUrl 'gallery/' refName 'png' 9999 '' 'png' %}">{% figure 'gallery/' refName 'png' 500 refAlt 'Click for full size!' 'max' %}</a>
+  {% assign ref = filteredGallery | getFirstOfKind: "ref" %}
+  {% if ref %}
+    {% assign refAlt = ch.name | append: " reference sheet" %}
+    <a href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' 'png' %}">{% figure 'gallery/' ref.name 'png' 500 refAlt 'Click for full size!' 'max' %}</a>
   {% endif %}
   {% if filteredGallery.size > 0 %}
     <h2 id="gallery">Gallery</h2>
