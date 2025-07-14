@@ -1802,5 +1802,30 @@
       "Soul": "Solid, diamond",
       "Nationality": "Bauhinian"
     }
+  },
+  {
+    "name": "Jinx",
+    "namezh": "咒",
+    "color": "#629970",
+    "tags": [
+      "Pearl's Journey Home",
+      "Moreland"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Nationality": "Moose",
+      "Occupation": "Horse trainer",
+      "Weapon": "Whip"
+    },
+    "palette": {
+      "red": "#EA98B9",
+      "yellow": "#F8E77E",
+      "blue": "#7EC6F8",
+      "buckle": "#BEBEBE",
+      "clothes": "#7C7C7C",
+      "pattern": "#575757",
+      "hair": "#2e2e2e"
+    },
+    "about": "Jinx's mother died giving birth. Her father named her \"Jinx\" because of this.\n\nJinx made the most athiest of Moose question their beliefs — wherever she went, trouble followed.\n\nShe got assigned to the cavlary"
   }
 ]
