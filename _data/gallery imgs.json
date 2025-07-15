@@ -3875,5 +3875,17 @@
       "jinx"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "matilda",
+    "type": "png",
+    "date": "2025-07-15",
+    "comment": "Artfight attack for [AggdyFehg](https://artfight.net/~AggdyFehg), featuring [Matilda](https://artfight.net/character/4824994.matilda)."
+  },
+  {
+    "name": "xeltha",
+    "type": "png",
+    "date": "2025-07-15",
+    "comment": "Artfight attack for [Cadeless](https://artfight.net/~Cadeless), featuring [Xeltha](https://artfight.net/character/5768678.xeltha)."
   }
 ]
