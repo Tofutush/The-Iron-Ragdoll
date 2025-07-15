@@ -23,22 +23,6 @@ function imagePlugin(eleventyConfig) {
 		};
 		return Image.generateHTML(metadata, imageAttributes);
 	});
-	eleventyConfig.addShortcode('figure', async function (path, name, type, size, alt, caption, className) {
-		let src = getImgSrc(path, name, type);
-		let metadata = await getImg(src, size, 'webp', path);
-		let imageAttributes = {
-			alt,
-			title: alt,
-			loading: "lazy",
-			decoding: "async",
-		};
-		if (className === 'max') imageAttributes = {
-			...imageAttributes,
-			class: 'max'
-		};
-		let img = Image.generateHTML(metadata, imageAttributes);
-		return `<figure ${(className && className !== 'max') ? `class="${className}"` : ''}>${img}<figcaption>${caption ? caption : alt}</figcaption></figure>`;
-	});
 	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
 		let src = getImgSrc(path, name, type, fallback, fallbackType);
 		let metadata = await getImg(src, size, outputType || 'webp', path);
