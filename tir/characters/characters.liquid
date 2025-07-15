@@ -118,7 +118,12 @@ eleventyComputed:
   {% assign ref = filteredGallery | getFirstOfKind: "ref" %}
   {% if ref %}
     {% assign refAlt = ch.name | append: " reference sheet" %}
-    <a href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' 'png' %}">{% figure 'gallery/' ref.name 'png' 500 refAlt 'Click for full size!' 'max' %}</a>
+    <a target="_blank" href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' 'png' %}">
+      <figure>
+        {% image 'gallery/' ref.name 'png' 500 refAlt 'max' %}
+        <figcaption>Click for full size!</figcaption>
+      </figure>
+    </a>
   {% endif %}
   {% if filteredGallery.size > 0 %}
     <h2 id="gallery">Gallery</h2>
