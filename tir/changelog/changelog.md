@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-15
+
+- Added `matilda.png`, `xeltha.png`;
+
 ## 2025-07-14
 
 - Added some text to the default [Gallery](/gallery/) page;
