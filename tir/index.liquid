@@ -18,7 +18,7 @@ eleventyNavigation:
       <div>
         {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
         {% assign profilePath = ch.name | lowerCase | append: " profile" %}
-        {% image "gallery/" profilePath 'png' 200 ch.name '' iconPath %}
+        {% image "gallery/" profilePath 'png' 300 ch.name '' iconPath 'png' %}
       </div>
       <div>
         <h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
