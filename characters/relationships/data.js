@@ -1006,6 +1006,13 @@ rel2: "mentor"
 },
 
 {
+source: "Jackalope",
+target: "Jinx",
+rel1: "friend / comrade",
+rel2: "friend / comrade"
+},
+
+{
 source: "Entity",
 target: "Harmony",
 rel1: "father",
