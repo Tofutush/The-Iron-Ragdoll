@@ -3938,5 +3938,29 @@
       "peacock"
     ],
     "comment": "Artfight 2025 defense!"
+  },
+  {
+    "name": "oc 3 groupshot",
+    "type": "png",
+    "date": "2025-07-17",
+    "ch": [
+      "sparky"
+    ],
+    "comment": "My part of a groupshot."
+  },
+  {
+    "name": "barbabara",
+    "type": "png",
+    "date": "2025-07-17",
+    "comment": "Artfight attack for [impeack](https://artfight.net/~impeack), featuring [Barbabara](https://artfight.net/character/7491801.bbppbarbabara)."
+  },
+  {
+    "name": "jackalope jinx",
+    "type": "png",
+    "date": "2025-07-17",
+    "ch": [
+      "jackalope",
+      "jinx"
+    ]
   }
 ]
