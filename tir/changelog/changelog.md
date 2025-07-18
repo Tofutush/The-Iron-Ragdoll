@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-18
+
+- Added `jinx thumb.png`, `potato profile.png`;
+
 ## 2025-07-17
 
 - Added `oc 3 groupshot.png`, `barbabara.png`, `jackalope jinx.png`;
