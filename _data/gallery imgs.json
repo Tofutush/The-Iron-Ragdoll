@@ -3962,5 +3962,23 @@
       "jackalope",
       "jinx"
     ]
+  },
+  {
+    "name": "jinx thumb",
+    "type": "png",
+    "date": "2025-07-18",
+    "ch": [
+      "jinx"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "potato profile",
+    "type": "png",
+    "date": "2025-07-18",
+    "ch": [
+      "potato"
+    ],
+    "kind": "thumb new"
   }
 ]
