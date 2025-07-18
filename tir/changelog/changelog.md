@@ -10,6 +10,7 @@ titlezh: 更新日志
 ## 2025-07-18
 
 - Added `jinx thumb.png`, `potato profile.png`;
+- Published oneshot [Reincarnation](/stories/oneshot/chapter-4/);
 
 ## 2025-07-17
 
