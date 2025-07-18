@@ -1,0 +1,15 @@
+{% for line in dialogContent %}
+	{% assign isArray = line | isArray %}
+	{% if isArray %}
+		<div class="attr dialog">
+			{% for dialog in line %}
+				{% assign ch = dialog | dialogGetCharacter %}
+				{% assign ln = dialog | dialogGetLine %}
+				<p><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</a></p>
+				{{ ln | renderMD }}
+			{% endfor %}
+		</div>
+	{% else %}
+		{{ line | renderMD }}
+	{% endif %}
+{% endfor %}
