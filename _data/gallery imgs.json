@@ -3980,5 +3980,40 @@
       "potato"
     ],
     "kind": "thumb new"
+  },
+  {
+    "name": "pb kids",
+    "type": "png",
+    "date": "2025-07-19",
+    "ch": [
+      "frosting",
+      "jaculus",
+      "jerboa"
+    ],
+    "comment": "Just the [Project Boomerang](/world/bauhinia/project-boomerang/) kids having a little stroll around the lab."
+  },
+  {
+    "name": "pb kids - fs",
+    "type": "png",
+    "date": "2025-07-19",
+    "ch": [
+      "frosting"
+    ]
+  },
+  {
+    "name": "pb kids - jb",
+    "type": "png",
+    "date": "2025-07-19",
+    "ch": [
+      "jerboa"
+    ]
+  },
+  {
+    "name": "pb kids - jc",
+    "type": "png",
+    "date": "2025-07-19",
+    "ch": [
+      "jaculus"
+    ]
   }
 ]
