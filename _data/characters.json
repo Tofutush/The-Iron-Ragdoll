@@ -335,6 +335,25 @@
     }
   },
   {
+    "name": "Jam",
+    "namezh": "果酱",
+    "color": "#75430b",
+    "desc": "Teacher of all the subjects because I'm too lazy to make more.",
+    "tags": [
+      "Coastline",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Liquid, jam-like",
+      "Nationality": "Bauhinian",
+      "Marital status": "Married (to his wife)",
+      "Occupation": "Teacher",
+      "Weapon": "The Physical Sword"
+    },
+    "about": "Jam is [Sparky](/characters/sparky/)'s teacher at [Coastline Middle School](/world/bauhinia/coastline/cms/) and [Jerboa](/characters/jerboa/)'s adoptive father."
+  },
+  {
     "name": "Trinket",
     "color": "#28aed1",
     "tags": [
