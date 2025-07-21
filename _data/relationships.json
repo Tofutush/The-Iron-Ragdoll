@@ -428,6 +428,83 @@
   {
     "ch": [
       [
+        "Tephra",
+        "boss"
+      ],
+      [
+        "Jerboa"
+      ]
+    ],
+    "desc": "Tephra promised to help Jerboa find his parents if Jerboa was willing to stick around his butt and do his bidding all day. Years later, Tephra became a cop, and fulfilled his promise by introducing Jerboa to Frosting."
+  },
+  {
+    "ch": [
+      [
+        "Jerboa",
+        "adoptive son"
+      ],
+      [
+        "Jam",
+        "adoptive father"
+      ]
+    ],
+    "desc": "Jam adopted Jerboa after his parents and older sister were murdered."
+  },
+  {
+    "ch": [
+      [
+        "Jerboa",
+        "son"
+      ],
+      [
+        "Koala",
+        "mother"
+      ]
+    ],
+    "desc": "Jerboa doesn't have memories of his mom. His only proof of her existence is a family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
+      [
+        "Jerboa",
+        "son"
+      ],
+      [
+        "Kangaroo",
+        "father"
+      ]
+    ],
+    "desc": "Jerboa doesn't have memories of his dad. His only proof of his existence is a family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
+      [
+        "Jerboa",
+        "acquaintance"
+      ],
+      [
+        "Frosting",
+        "acquaintance"
+      ]
+    ],
+    "desc": "They grew up in the Project Boomerang labs together, though Jerboa barely remembered Frosting and Frosting only distantly remembered that Jaculus had a little brother too.\n\nJerboa met Frosting through [Tephra](/characters/tephra/) because of his promise to help Jerboa find his family.\n\nFrosting risked her job letting Jerboa look through the archives, partly because she was bored as fuck and partly because she thought that by having Jerboa find out the truth, she was giving her dear friend Jaculus a proper closure too."
+  },
+  {
+    "ch": [
+      [
+        "Jerboa",
+        "younger brother"
+      ],
+      [
+        "Jaculus",
+        "older sister"
+      ]
+    ],
+    "desc": "Jerboa faintly remembers playing dolls with Jaculus. She is also in the family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
+      [
         "Trinket",
         "student"
       ],
@@ -908,19 +985,6 @@
   {
     "ch": [
       [
-        "Koala",
-        "mother"
-      ],
-      [
-        "Jerboa",
-        "son"
-      ]
-    ],
-    "desc": "Jerboa doesn't have memories of his mom. His only proof of her existence is a family photo he doesn't remember taking."
-  },
-  {
-    "ch": [
-      [
         "Kangaroo",
         "father"
       ],
@@ -930,19 +994,6 @@
       ]
     ],
     "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Kangaroo",
-        "father"
-      ],
-      [
-        "Jerboa",
-        "son"
-      ]
-    ],
-    "desc": "Jerboa doesn't have memories of his dad. His only proof of his existence is a family photo he doesn't remember taking."
   },
   {
     "ch": [
@@ -969,19 +1020,6 @@
       ]
     ],
     "desc": "Jaculus and Frosting were one of the few kids in the [Project Boomerang](/stories/project-boomerang/) laboratory, so they were natually close to each other."
-  },
-  {
-    "ch": [
-      [
-        "Frosting",
-        "acquaintance"
-      ],
-      [
-        "Jerboa",
-        "acquaintance"
-      ]
-    ],
-    "desc": "Frosting and Jerboa met through [Tephra](/characters/tephra/) because of his promise to help Jerboa find his family.\n\nFrosting risked her job letting Jerboa look through the archives, partly because she was bored as fuck and partly because she thought that by having Jerboa find out the truth, she was giving her dear friend Jaculus a proper closure too."
   },
   {
     "ch": [
@@ -1020,31 +1058,6 @@
       ]
     ],
     "desc": "Frosting fell in love with Jasmine after copying her file down and reading her poetry."
-  },
-  {
-    "ch": [
-      [
-        "Jaculus",
-        "older sister"
-      ],
-      [
-        "Jerboa",
-        "younger brother"
-      ]
-    ],
-    "desc": "Jerboa faintly remembers playing dolls with Jaculus. She is also in the family photo he doesn't remember taking."
-  },
-  {
-    "ch": [
-      [
-        "Jerboa"
-      ],
-      [
-        "Tephra",
-        "boss"
-      ]
-    ],
-    "desc": "It's possible that Tephra introduced Jerboa to Frosting but i still need to think about it"
   },
   {
     "ch": [
