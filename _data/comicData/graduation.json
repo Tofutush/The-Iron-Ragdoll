@@ -1,0 +1,50 @@
+[
+    {
+        "pagenum": 1,
+        "url": "graduation/1",
+        "date": ""
+    },
+    {
+        "pagenum": 2,
+        "url": "graduation/2",
+        "date": ""
+    },
+    {
+        "pagenum": 3,
+        "url": "graduation/3",
+        "date": ""
+    },
+    {
+        "pagenum": 4,
+        "url": "graduation/4",
+        "date": ""
+    },
+    {
+        "pagenum": 5,
+        "url": "graduation/5",
+        "date": ""
+    },
+    {
+        "pagenum": 6,
+        "url": "graduation/6",
+        "date": ""
+    },
+    {
+        "pagenum": 7,
+        "url": "graduation/7",
+        "date": "",
+        "content": [
+            "Years later, Harmony and Sugarcane would meet again.",
+            [
+                "Harmony: Why did you fire?",
+                "Sugarcane: What are you talking about?",
+                "Harmony: The day we graduated. When Sky told you to shoot me. Why did you do it?",
+                "Sugarcane: It was an order.",
+                "Harmony: But… You could've killed me!",
+                "Sugarcane: No. I knew it would be a blank. I trust the Ministry. They wouldn't actually make me kill you."
+            ],
+            "\"I trust the Ministry.\"",
+            "Was *that* what they've been looking for? Not just obedience, but also… trust?"
+        ]
+    }
+]
