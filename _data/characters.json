@@ -18,7 +18,7 @@
     "af": "https://artfight.net/character/3822164.sparky",
     "attr": {
       "Full name": "Sparky Amber Peacock",
-      "Nickname": "Spark (by Tundra)",
+      "Nickname": "Spark (by Sky)",
       "Gender": "Female (cis)",
       "Soul": "Gas, lightning-shaped",
       "Birthday": "2017-08-14",
@@ -282,6 +282,7 @@
     ],
     "af": "https://artfight.net/character/3986092.alaska",
     "attr": {
+      "Nickname": "Al (by Sky)",
       "Gender": "Male",
       "Soul": "Solid",
       "Age estimation": "Around the same as Sparky",
@@ -341,17 +342,21 @@
     "desc": "Who is this girl and why does she want us to call her Guillotine?",
     "quote": "I'm dead now! You can't kill me!",
     "tags": [
-      "Misc"
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/4038434.guillotine",
     "attr": {
+      "Nickname": "Guillo (by Sky)",
       "Gender": "Female",
       "Nationality": "Atlasian"
     },
     "palette": {
       "shirt": "#575757",
       "hair": "#2E2E2E"
-    }
+    },
+    "about": "Guillotine is from Atlasia, but her parents came over to Bauhinia for work."
   },
   {
     "name": "Tephra",
@@ -360,11 +365,13 @@
     "desc": "The boss of everything at once, but nothing in particular.",
     "quote": "Sit down everyone. The investigation is underway.",
     "tags": [
-      "Misc"
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/3957937.tephra",
     "attr": {
-      "Nickname": "Teff (by Tundra)",
+      "Nickname": "Teff (by Sky)",
       "Gender": "Male",
       "Soul": "Gas, flower-shaped like his symbol",
       "Nationality": "Bauhinian",
@@ -383,16 +390,17 @@
     "namezh": "跳鼠",
     "color": "#0867af",
     "desc": "Owner, bartender, and everything else of the tavern!",
-    "quote": "Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!",
+    "quote": "Who ordered me to do it? It's — OW — I did it on my own! Nobody ordered me!!",
     "tags": [
+      "Coastline",
+      "Coastline Middle School",
       "Bauhinia",
-      "Project Boomerang",
-      "Misc"
+      "Project Boomerang"
     ],
     "af": "https://artfight.net/character/3957938.jerboa",
     "attr": {
       "Full name": "Jerboa Kangaroo Koala",
-      "Nickname": "Jerb (by Tundra)",
+      "Nickname": "Boa (by Sky)",
       "Gender": "Male",
       "Soul": "Solid, broken glass shards",
       "Birthday": "2016-09-10",
@@ -404,6 +412,7 @@
       "shirt dark": "#4F4F4F",
       "hair": "#2E2E2E"
     },
+    "about": "Jerboa grew up in the Project Boomerang labs with his family. Later, his parents disappeared from the facility, and he was sent to Coastline and adopted by [Jam](/characters/jam/).",
     "trivia": "- If he had a lusus, it would be a jerboa."
   },
   {
@@ -413,11 +422,14 @@
     "desc": "Editor of the press!",
     "quote": "If everyone believes it, then it is the truth.",
     "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia",
       "Misc"
     ],
     "af": "https://artfight.net/character/3959019.cosmo",
     "attr": {
-      "Nickname": "Cos (by Tundra)",
+      "Nickname": "Cos (by Sky)",
       "Gender": "Female",
       "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
       "Nationality": "Bauhinian",
