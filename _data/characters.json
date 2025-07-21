@@ -335,6 +335,106 @@
     }
   },
   {
+    "name": "Guillotine",
+    "namezh": "断头台",
+    "color": "#d0ae3a",
+    "desc": "Who is this girl and why does she want us to call her Guillotine?",
+    "quote": "I'm dead now! You can't kill me!",
+    "tags": [
+      "Misc"
+    ],
+    "af": "https://artfight.net/character/4038434.guillotine",
+    "attr": {
+      "Gender": "Female",
+      "Nationality": "Atlasian"
+    },
+    "palette": {
+      "shirt": "#575757",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Tephra",
+    "namezh": "火山灰",
+    "color": "#008282",
+    "desc": "The boss of everything at once, but nothing in particular.",
+    "quote": "Sit down everyone. The investigation is underway.",
+    "tags": [
+      "Misc"
+    ],
+    "af": "https://artfight.net/character/3957937.tephra",
+    "attr": {
+      "Nickname": "Teff (by Tundra)",
+      "Gender": "Male",
+      "Soul": "Gas, flower-shaped like his symbol",
+      "Nationality": "Bauhinian",
+      "Weapon": "Walther P38 pistol"
+    },
+    "palette": {
+      "belt and holster": "#AE7500",
+      "buckle": "#7D4500",
+      "gun handle": "#757575",
+      "hair": "#2e2e2e"
+    },
+    "trivia": "- If he had a lusus, it would be a desert fox."
+  },
+  {
+    "name": "Jerboa",
+    "namezh": "跳鼠",
+    "color": "#0867af",
+    "desc": "Owner, bartender, and everything else of the tavern!",
+    "quote": "Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!",
+    "tags": [
+      "Bauhinia",
+      "Project Boomerang",
+      "Misc"
+    ],
+    "af": "https://artfight.net/character/3957938.jerboa",
+    "attr": {
+      "Full name": "Jerboa Kangaroo Koala",
+      "Nickname": "Jerb (by Tundra)",
+      "Gender": "Male",
+      "Soul": "Solid, broken glass shards",
+      "Birthday": "2016-09-10",
+      "Nationality": "Bauhinian",
+      "Occupation": "Bartender, chemist, undertaker, and chemist again"
+    },
+    "palette": {
+      "shirt light": "#727272",
+      "shirt dark": "#4F4F4F",
+      "hair": "#2E2E2E"
+    },
+    "trivia": "- If he had a lusus, it would be a jerboa."
+  },
+  {
+    "name": "Cosmo",
+    "namezh": "星河",
+    "color": "#998cbd",
+    "desc": "Editor of the press!",
+    "quote": "If everyone believes it, then it is the truth.",
+    "tags": [
+      "Misc"
+    ],
+    "af": "https://artfight.net/character/3959019.cosmo",
+    "attr": {
+      "Nickname": "Cos (by Tundra)",
+      "Gender": "Female",
+      "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
+      "Nationality": "Bauhinian",
+      "Weapon": "Throwing stars",
+      "Power": "Mind reading, unregistered"
+    },
+    "palette": {
+      "middle eye": "#fe0",
+      "left eye": "#DCBBF0",
+      "right eye": "#A5D6F7",
+      "shirt": "#B2B8E3",
+      "hair": "#2e2e2e"
+    },
+    "about": "Cosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
+    "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
+  },
+  {
     "name": "Jam",
     "namezh": "果酱",
     "color": "#75430b",
@@ -1195,34 +1295,6 @@
     }
   },
   {
-    "name": "Jerboa",
-    "namezh": "跳鼠",
-    "color": "#0867af",
-    "desc": "Owner, bartender, and everything else of the tavern!",
-    "quote": "Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!",
-    "tags": [
-      "Bauhinia",
-      "Project Boomerang",
-      "Misc"
-    ],
-    "af": "https://artfight.net/character/3957938.jerboa",
-    "attr": {
-      "Full name": "Jerboa Kangaroo Koala",
-      "Nickname": "Jerb (by Tundra)",
-      "Gender": "Male",
-      "Soul": "Solid, broken glass shards",
-      "Birthday": "2016-09-10",
-      "Nationality": "Bauhinian",
-      "Occupation": "Bartender, chemist, undertaker, and chemist again"
-    },
-    "palette": {
-      "shirt light": "#727272",
-      "shirt dark": "#4F4F4F",
-      "hair": "#2E2E2E"
-    },
-    "trivia": "- If he had a lusus, it would be a jerboa."
-  },
-  {
     "name": "Candlelight",
     "namezh": "烛光",
     "color": "#cb1616",
@@ -1426,32 +1498,23 @@
     "about": "Moonbeam is a Sylvandian psychic well-trained in soul-extraction."
   },
   {
-    "name": "Cosmo",
-    "namezh": "星河",
-    "color": "#998cbd",
-    "desc": "Editor of the press!",
-    "quote": "If everyone believes it, then it is the truth.",
+    "name": "Starry",
+    "namezh": "星星",
+    "color": "#CC770F",
     "tags": [
       "Misc"
     ],
-    "af": "https://artfight.net/character/3959019.cosmo",
+    "af": "https://artfight.net/character/4038429.starry",
     "attr": {
-      "Nickname": "Cos (by Tundra)",
-      "Gender": "Female",
-      "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
-      "Nationality": "Bauhinian",
-      "Weapon": "Throwing stars",
-      "Power": "Mind reading, unregistered"
+      "Gender": "Male",
+      "Soul": "Liquid",
+      "Nationality": "Bauhinian"
     },
     "palette": {
-      "middle eye": "#fe0",
-      "left eye": "#DCBBF0",
-      "right eye": "#A5D6F7",
-      "shirt": "#B2B8E3",
-      "hair": "#2e2e2e"
+      "glasses": "#666",
+      "hair": "#2E2E2E"
     },
-    "about": "Cosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
-    "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
+    "about": "Went into a coma after getting hit in the head. Since then, [Ribbon](/characters/ribbon/) had kept him alive."
   },
   {
     "name": "Melody",
@@ -1477,50 +1540,6 @@
     }
   },
   {
-    "name": "Tephra",
-    "namezh": "火山灰",
-    "color": "#008282",
-    "desc": "The boss of everything at once, but nothing in particular.",
-    "quote": "Sit down everyone. The investigation is underway.",
-    "tags": [
-      "Misc"
-    ],
-    "af": "https://artfight.net/character/3957937.tephra",
-    "attr": {
-      "Nickname": "Teff (by Tundra)",
-      "Gender": "Male",
-      "Soul": "Gas, flower-shaped like his symbol",
-      "Nationality": "Bauhinian",
-      "Weapon": "Walther P38 pistol"
-    },
-    "palette": {
-      "belt and holster": "#AE7500",
-      "buckle": "#7D4500",
-      "gun handle": "#757575",
-      "hair": "#2e2e2e"
-    },
-    "trivia": "- If he had a lusus, it would be a desert fox."
-  },
-  {
-    "name": "Guillotine",
-    "namezh": "断头台",
-    "color": "#d0ae3a",
-    "desc": "Who is this girl and why does she want us to call her Guillotine?",
-    "quote": "I'm dead now! You can't kill me!",
-    "tags": [
-      "Misc"
-    ],
-    "af": "https://artfight.net/character/4038434.guillotine",
-    "attr": {
-      "Gender": "Female",
-      "Nationality": "Atlasian"
-    },
-    "palette": {
-      "shirt": "#575757",
-      "hair": "#2E2E2E"
-    }
-  },
-  {
     "name": "Tundra",
     "namezh": "冰封雪",
     "color": "#800080",
@@ -1542,25 +1561,6 @@
       "hair": "#2E2E2E"
     },
     "trivia": "- If he had a lusus, it would be a sloth."
-  },
-  {
-    "name": "Starry",
-    "namezh": "星星",
-    "color": "#CC770F",
-    "tags": [
-      "Misc"
-    ],
-    "af": "https://artfight.net/character/4038429.starry",
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Liquid",
-      "Nationality": "Bauhinian"
-    },
-    "palette": {
-      "glasses": "#666",
-      "hair": "#2E2E2E"
-    },
-    "about": "Went into a coma after getting hit in the head. Since then, [Ribbon](/characters/ribbon/) had kept him alive."
   },
   {
     "name": "Sunny",
