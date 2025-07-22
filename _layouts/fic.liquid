@@ -1,12 +1,11 @@
 ---
 layout: layout.liquid
 permalink: "stories/{{ parent | slug }}/chapter-{{ chNum }}/"
+noNav: true
 eleventyComputed:
   title: "{{ parent }} - chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
-  eleventyNavigation:
-    title: "Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
-    parent: "{{ parent }}"
 ---
+<div class="breadcrumbs"><a href="/stories/">Stories</a> {% lucide 'chevron-right' %} <a href="../">{{ parent }}</a>{% lucide 'chevron-right' %}<a href="{{ page.url }}">Chapter {{ chNum }}</a></div>
 {% assign colName = tags[0] %}
 <details id="toc-wrap">
 	<summary><h3>Chapters</h3></summary>
