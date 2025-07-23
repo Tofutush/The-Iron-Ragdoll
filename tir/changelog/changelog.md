@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-23
+
+- Published old non-canon oneshot [The Carpet](/stories/oneshots/chapter-5/);
+
 ## 2025-07-19
 
 - Added `pb kids.png`, `pb kids - fs.png`, `pb kids - jc.png`, `pb kids - jb.png`;
