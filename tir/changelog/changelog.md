@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-24
+
+- Changed the style of the pop-up people on the home page;
+
 ## 2025-07-23
 
 - Published old non-canon oneshot [The Carpet](/stories/oneshots/chapter-5/);
