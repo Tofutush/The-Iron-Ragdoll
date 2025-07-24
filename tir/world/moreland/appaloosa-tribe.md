@@ -18,10 +18,14 @@ They mainly ride horses around make a living through herding sheep and cows.
 
 ## Appaloosa's story
 
-Inspired by: [预言的勇者 - 卦者灵风](https://www.bilibili.com/video/BV1Zf4y1Z75m/).
+Appaloosa was a magician living in the Bauhinian Empire about three hundred years ago. Upon being found, the emperor called her to his palace to serve him alongside the other magicians.
 
-Appaloosa was a bard living in the Bauhinian Empire about three hundred years ago. When a fortune teller predicted that she would save Bauhinia or whatever, the emperor called her to his palace, only to find that all she did was sing. They offered her power and wealth, but she insisted on continuing her life as a bard, and traveled on.
+Later, wars and rebellions broke out within the empire. The emperor needed the magicians to defeat the rebels, but Appaloosa refused to, and fled. She managed to hide from the emperor for a long time, despite him sending out magicians to hunt her down, and even after the rebellion ended she was still being wanted. Many people helped her along the way, and she also helped many people herself. She also wrote a book on magic titled *A Guide to Magic*, and had high hopes of finding a fellow magician, but she never encountered one before the emperor got to them and the book had been lost to time.
 
-Later, wars and rebellions broke out within the empire. She fled from place to place, trying to escape the bloodshed, but it always seemed that wherever she went, bloodshed *followed*. In the end she was killed in an area that would be Morelandian territory.
+In the end, due to a betrayal from one person she trusted the most, she was caught and executed in a region that's inside modern-day Moreland. The people who helped her or whom she had helped came together and formed a group traveling around the area to honor her memories.
 
-Years later, some people uncovered her songbook buried in the ground, and fell in love with this bard. They formed a tribe and traveled from place to place to honor her memories. Though, after facing hostility from foreign governments, they mainly moved around within Moreland.
+---
+
+But here's the thing: Appaloosa isn't a real person. The story above is fictional, merely mythology passed down through generations of tribe members. As to the true origins of the Appaloosa Tribe, well, Moreland's *full* of nomadic tribes; they're nothing new.
+
+But as for [*A Guide to Magic*](/stories/qibli-backstory/), who wrote it[?](/characters/nebula/)

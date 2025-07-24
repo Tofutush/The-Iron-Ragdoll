@@ -10,6 +10,7 @@ titlezh: 更新日志
 ## 2025-07-24
 
 - Changed the style of the pop-up people on the home page;
+- Edited [Qibli's Backstory](/stories/qibli-backstory/), [Appaloosa Tribe](/world/moreland/appaloosa-tribe/);
 
 ## 2025-07-23
 
