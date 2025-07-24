@@ -1,19 +1,20 @@
 {
   "accentColor": "",
-  "baseFontSize": 22,
+  "baseFontSize": 20,
   "enabledCssSnippets": [
     "justify",
     "line height",
     "icon ratio",
     "titlebar background",
-    "properties",
     "word count",
     "blockquote",
     "folder tree",
-    "complement"
+    "complement",
+    "properties",
+    "font weight"
   ],
   "interfaceFontFamily": "DIN Round Pro",
-  "textFontFamily": "Josefin Sans,Crimson Pro",
+  "textFontFamily": "Lexend",
   "cssTheme": "",
   "theme": "obsidian",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑"
