@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-25
+
+- Published oneshot comic [Graduation](/stories/graduation/);
+
 ## 2025-07-24
 
 - Changed the style of the pop-up people on the home page;
