@@ -13,7 +13,7 @@ title: Ministry Affiliate
 
 A school for ~~indoctrinating~~ training [MSS](/world/bauhinia/mss/) officers from a young age. The official shortening is "Ministry Affiliate" （国安附中）, but students usually call it spy school for short.
 
-It starts in middle school (grade 7), and goes on to high school (grade 12). Though they share the same Flower City campus, middle schoolers go home every day while high schoolers stay in dormitories and only go home once a week.
+It has a middle school part (grades 7 - 9) and a high school part (grades 10 - 12) named "The Middle School for Older But Still Young Officers in Training Affiliated to the Ministry of State Security." Though they share the same Flower City campus, middle schoolers go home every day while high schoolers stay in dormitories and only go home once a week.
 
 The school functions like any other public middle / high school in Bauhinia, except that middle schoolers have a special graduation test to determine whether they can go to high school here. But if you don't want to attend high school here anymore, or if you flunked out of the final exam (which ends before high school entrance starts, thankfully) here, then you could take the high school entrance exam and go somewhere else.
 
