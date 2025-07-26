@@ -26,6 +26,8 @@ She attended [Coastline Middle School](/world/bauhinia/coastline/cms/) because h
 
 Now that she was in middle school, she also had to start attending [Magic Academy](/world/bauhinia/coastline/magic-academy/), where she met [Trinket](/characters/trinket/) and found the book that changed her life: *A Guide to Magic* by [Appaloosa](/world/moreland/appaloosa-tribe/), tucked into the janitor's closet.
 
+{% image 'gallery/' 'book discovery' 'png' 1000 'Qibli and Trinket discover the book' 'max' %}
+
 The book was enchanted. The more she read it, the stronger her magic became. She actually learned new spells, something insanely hard to do because of how magicians' skillset and level are set in stone at birth.
 
 By the time she was 18 years old and about to graduate high school, she had read the book cover-to-cover no fewer than three times.

@@ -3961,5 +3961,31 @@
       "pumpkin"
     ],
     "comment": "Artfight 2025 defense!"
+  },
+  {
+    "name": "book discovery",
+    "type": "png",
+    "date": "2025-07-26",
+    "ch": [
+      "qibli",
+      "trinket"
+    ],
+    "comment": "After that, she never turned back."
+  },
+  {
+    "name": "qibli book discovery",
+    "type": "png",
+    "date": "2025-07-26",
+    "ch": [
+      "qibli"
+    ]
+  },
+  {
+    "name": "trinket book discovery",
+    "type": "png",
+    "date": "2025-07-26",
+    "ch": [
+      "trinket"
+    ]
   }
 ]
