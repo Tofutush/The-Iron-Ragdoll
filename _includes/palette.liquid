@@ -1,4 +1,4 @@
-<div class="palette">
+<div class="palette" style="{{ colors | getPaletteBackground }}">
   {% for color in colors %}
     <div style="background-color:{{ color[1] }}; color: {{ color[1] | to6DigitHex | calculateBlackWhite }}">
       <div>

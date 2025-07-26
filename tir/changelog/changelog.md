@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-26
+
+- Made the color palette look cooler! It's now diagonal;
+	- I also solved the jarring expansion problem. Turns out I just needed an `overflow: hidden`. Long palettes expand smoothly now! See [Buttercup](/charactes/buttercup/);
+
 ## 2025-07-25
 
 - Published oneshot comic [Graduation](/stories/graduation/);
