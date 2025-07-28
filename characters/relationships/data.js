@@ -593,8 +593,8 @@ rel2: "friend"
 {
 source: "Qibli",
 target: "Trinket",
-rel1: "friend / classmate",
-rel2: "friend / classmate"
+rel1: "ex-friend / classmate",
+rel2: "ex-friend / classmate"
 },
 
 {
@@ -630,6 +630,13 @@ source: "Tephra",
 target: "Jerboa",
 rel1: "boss",
 rel2: ""
+},
+
+{
+source: "Tephra",
+target: "Melody",
+rel1: "friend",
+rel2: "friend"
 },
 
 {
@@ -672,6 +679,13 @@ source: "Trinket",
 target: "Nebula",
 rel1: "student",
 rel2: "teacher"
+},
+
+{
+source: "Trinket",
+target: "Melody",
+rel1: "client",
+rel2: "teammate"
 },
 
 {
