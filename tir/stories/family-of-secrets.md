@@ -19,8 +19,6 @@ myTags:
   - Flower City
   - Canon
   - Spy School
-tags:
-  - family-of-secrets
 ---
 
 Planned as an interactive choose-your-own-adventure with multiple endings, though there is a canon version of events.

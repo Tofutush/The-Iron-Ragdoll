@@ -11,8 +11,6 @@ chs:
 time: "?"
 titlezh: 三缺一
 summary: The disappearance of a friend drags the group down the rabbit hole of Fantoni organized crime.
-tags:
-  - one-man-short
 myTags:
   - Canon
   - Fanton

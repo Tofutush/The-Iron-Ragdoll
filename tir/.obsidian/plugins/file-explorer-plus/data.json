@@ -35,21 +35,7 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "gallery",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
         "pattern": "_obsidian templates",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "characters/relationships",
         "patternType": "STRICT"
       },
       {
