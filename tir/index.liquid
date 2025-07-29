@@ -5,6 +5,14 @@ eleventyNavigation:
   key: Root
 ---
 <link rel="stylesheet" href="/css/home.css"/>
+{% assign dateMonth = 0 | getMMDD %}
+{% if dateMonth == '12-13' %}
+  <p style="text-align: center; font-style: italic; font-weight: bold;">12-13 国家公祭日</p>
+  <p style="text-align: center; font-style: italic; font-weight: bold;">勿忘国耻，警钟长鸣</p>
+{% elsif dateMonth == '09-18' %}
+  <p style="text-align: center; font-style: italic; font-weight: bold;">9·18 事变纪念日</p>
+  <p style="text-align: center; font-style: italic; font-weight: bold;">缅怀先辈，铭记历史</p>
+{% endif %}
 <h1 style="text-align: center;">Welcome to the world of The Iron Ragdoll!</h1>
 {% image 'gallery/' 'cms friends lineless' 'png' 1000 'Coastline Middle School friends' 'max' %}
 <p>Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have fun!</p>
@@ -12,7 +20,6 @@ eleventyNavigation:
 {% assign bdayStars = characters | getBDayStars %}
 {% if bdayStars.size > 0 %}
   <h2>Today's birthday!</h2>
-  {% assign dateMonth = 0 | getMMDD %}
   {% for ch in bdayStars %}
     <div class="ch-card" style="border-color: {{ ch.color }}">
       <div>
@@ -26,6 +33,17 @@ eleventyNavigation:
       </div>
     </div>
   {% endfor %}
+{% endif %}
+{% assign todayHolidays = 0 | getHolidays %}
+{% if todayHolidays.days.size > 0 %}
+  <div class="card">
+    <p>Today's holidays!</p>
+    <ul>
+    {% for day in todayHolidays.days %}
+      <li><a href="{{ day.url }}">{{ day.alt }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
 {% endif %}
 <div class="grid">
   <a class="big" href="/characters/">

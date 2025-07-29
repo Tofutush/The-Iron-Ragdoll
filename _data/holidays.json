@@ -167,5 +167,25 @@
         "url": "/world/moreland/"
       }
     ]
+  },
+  "12-22": {
+    "days": [
+      {
+        "image": "moreland token",
+        "type": "svg",
+        "alt": "Guardian Moose Takeover anniversary",
+        "url": "/world/moreland/"
+      }
+    ]
+  },
+  "12-23": {
+    "days": [
+      {
+        "image": "moreland token",
+        "type": "svg",
+        "alt": "Guardian Moose Takeover anniversary",
+        "url": "/world/moreland/"
+      }
+    ]
   }
 }
