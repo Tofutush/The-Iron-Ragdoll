@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-29
+
+- Important days will now show up on the front page!
+
 ## 2025-07-26
 
 - Made the color palette look cooler! It's now diagonal;
