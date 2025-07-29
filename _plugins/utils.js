@@ -1,4 +1,5 @@
 import markdownIt from "markdown-it";
+import holidays from '../_data/holidays.json' with {type: 'json'};
 
 function utilPlugin(eleventyConfig) {
 	const mdRender = new markdownIt();
@@ -46,6 +47,10 @@ function utilPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getBDayStars', function (arr) {
 		let dateMonth = new Date().toISOString().slice(5, 10);
 		return arr.filter(ch => ch.attr?.Birthday?.substring(5) === dateMonth);
+	});
+	eleventyConfig.addFilter('getHolidays', function (blah) {
+		let dateMonth = new Date().toISOString().slice(5, 10);
+		return holidays[dateMonth];
 	});
 	eleventyConfig.addFilter('getMMDD', function (bleh) {
 		return new Date().toISOString().slice(5, 10);
