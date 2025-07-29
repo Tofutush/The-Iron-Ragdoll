@@ -10,8 +10,6 @@
       "Sparky's Family",
       "Starcorp",
       "Coastline Middle School",
-      "A Nuke From Moreland",
-      "Pearl's Journey Home",
       "Fancy Private School",
       "Bauhinia"
     ],
@@ -161,8 +159,6 @@
       "Coastline",
       "Coastline Middle School",
       "Magic Academy",
-      "A Nuke From Moreland",
-      "Pearl's Journey Home",
       "Bauhinia"
     ],
     "af": "https://artfight.net/character/5806216.qibli",
@@ -194,11 +190,8 @@
       "Coastline Middle School",
       "Ministry of State Security",
       "Spy School",
-      "A Nuke From Moreland",
-      "Pearl's Journey Home",
       "Flower City",
-      "Bauhinia",
-      "Family of Secrets"
+      "Bauhinia"
     ],
     "attr": {
       "Full name": "Sky Elmwood Dazzle",
@@ -226,8 +219,6 @@
     "tags": [
       "Coastline",
       "Coastline Middle School",
-      "A Nuke From Moreland",
-      "Pearl's Journey Home",
       "Bauhinia"
     ],
     "af": "https://artfight.net/character/5806478.firecrackers",
@@ -278,8 +269,7 @@
     "tags": [
       "Coastline",
       "Coastline Middle School",
-      "Bauhinia",
-      "Misc"
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/3986092.alaska",
     "attr": {
@@ -396,8 +386,7 @@
     "tags": [
       "Coastline",
       "Coastline Middle School",
-      "Bauhinia",
-      "Project Boomerang"
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/3957938.jerboa",
     "attr": {
@@ -426,8 +415,7 @@
     "tags": [
       "Coastline",
       "Coastline Middle School",
-      "Bauhinia",
-      "Misc"
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/3959019.cosmo",
     "attr": {
@@ -472,8 +460,7 @@
     "color": "#28aed1",
     "tags": [
       "Magic Academy",
-      "Bauhinia",
-      "Misc"
+      "Bauhinia"
     ],
     "attr": {
       "Gender": "Female",
@@ -632,7 +619,6 @@
     "tags": [
       "Coastline",
       "Ministry of State Security",
-      "A Nuke From Moreland",
       "Bauhinia"
     ],
     "af": "https://artfight.net/character/5612115.goose",
@@ -665,7 +651,6 @@
     "tags": [
       "Coastline",
       "Ministry of State Security",
-      "A Nuke From Moreland",
       "Bauhinia",
       "Westavia",
       "Nameless Village"
@@ -702,8 +687,6 @@
     "tags": [
       "Coastline",
       "Ministry of State Security",
-      "A Nuke From Moreland",
-      "Pearl's Journey Home",
       "Bauhinia",
       "Moreland"
     ],
@@ -736,7 +719,6 @@
     "tags": [
       "Coastline",
       "Ministry of State Security",
-      "A Nuke From Moreland",
       "Bauhinia"
     ],
     "af": "https://artfight.net/character/5612121.paperweight",
@@ -770,7 +752,6 @@
     "quote": "Uh... You don't look like Peacock.",
     "tags": [
       "Coastline",
-      "A Nuke From Moreland",
       "Bauhinia"
     ],
     "attr": {
@@ -791,7 +772,6 @@
     "color": "#06B87B",
     "tags": [
       "Coastline",
-      "A Nuke From Moreland",
       "Bauhinia",
       "Moreland"
     ],
@@ -815,7 +795,6 @@
     "desc": "A little girl who cries pearls",
     "tags": [
       "Coastline",
-      "Pearl's Journey Home",
       "Bauhinia",
       "Sylvandia"
     ],
@@ -837,7 +816,6 @@
     "namezh": "厥儿",
     "color": "#089b19",
     "tags": [
-      "Pearl's Journey Home",
       "Fanton"
     ],
     "attr": {
@@ -856,7 +834,6 @@
     "color": "#AC7C26",
     "desc": "Star entrepreneur.",
     "tags": [
-      "Pearl's Journey Home",
       "Atlasia"
     ],
     "attr": {
@@ -873,7 +850,6 @@
     "namezh": "毒蛇",
     "color": "#c30963",
     "tags": [
-      "Pearl's Journey Home",
       "Atlasia"
     ],
     "attr": {
@@ -894,7 +870,6 @@
     "namezh": "雪球",
     "color": "#D920D2",
     "tags": [
-      "Pearl's Journey Home",
       "Moreland"
     ],
     "attr": {
@@ -916,7 +891,6 @@
     "color": "#8c7503",
     "desc": "Fleash rebel fighting for independence from Sylvandia.",
     "tags": [
-      "Pearl's Journey Home",
       "Sylvandia"
     ],
     "af": "https://artfight.net/character/5793882.buttercup",
@@ -1205,8 +1179,7 @@
     "color": "#7F8587",
     "desc": "Jerboa's mother, lead scientist of Project Boomerang.",
     "tags": [
-      "Bauhinia",
-      "Project Boomerang"
+      "Bauhinia"
     ],
     "attr": {
       "Gender": "Female (cis)",
@@ -1226,8 +1199,7 @@
     "color": "#A36D1F",
     "desc": "Jerboa's father, co-lead scientist of Project Boomerang.",
     "tags": [
-      "Bauhinia",
-      "Project Boomerang"
+      "Bauhinia"
     ],
     "attr": {
       "Gender": "Male (cis)",
@@ -1245,8 +1217,7 @@
     "namezh": "旅鸫",
     "color": "#a72b0c",
     "tags": [
-      "Bauhinia",
-      "Project Boomerang"
+      "Bauhinia"
     ],
     "attr": {
       "Gender": "Male",
@@ -1266,9 +1237,7 @@
     "color": "#F676D2",
     "tags": [
       "Flower City",
-      "Bauhinia",
-      "Project Boomerang",
-      "Family of Secrets"
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/5889458.frosting",
     "attr": {
@@ -1294,8 +1263,7 @@
     "color": "#008bc7",
     "desc": "Jerboa's big sister.",
     "tags": [
-      "Bauhinia",
-      "Project Boomerang"
+      "Bauhinia"
     ],
     "attr": {
       "Full name": "Jaculus Koala Kangaroo",
@@ -1417,8 +1385,7 @@
     "color": "#0e81c8",
     "desc": "Majiang-loving soul-dealer",
     "tags": [
-      "Fanton",
-      "One Man Short"
+      "Fanton"
     ],
     "attr": {
       "Nickname": "Co (by Kaleidoscope)",
@@ -1441,8 +1408,7 @@
     "namezh": "万花筒",
     "color": "#6f4a16",
     "tags": [
-      "Fanton",
-      "One Man Short"
+      "Fanton"
     ],
     "attr": {
       "Nickname": "Kally (by Cobalt)",
@@ -1462,8 +1428,7 @@
     "namezh": "夜莺",
     "color": "#d22dae",
     "tags": [
-      "Fanton",
-      "One Man Short"
+      "Fanton"
     ],
     "attr": {
       "Gender": "Female",
@@ -1481,7 +1446,7 @@
     "namezh": "月月鸟",
     "color": "#077838",
     "tags": [
-      "One Man Short"
+      "Fanton"
     ],
     "attr": {
       "Gender": "Male",
@@ -1540,7 +1505,7 @@
     "desc": "Quiet badass.",
     "quote": "...",
     "tags": [
-      "Misc"
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/3965901.melody",
     "attr": {
@@ -1639,7 +1604,7 @@
     "color": "#b90912",
     "tags": [
       "Moreland",
-      "Misc"
+      "Guardian Moose"
     ],
     "af": "https://artfight.net/character/5806516.jackalope",
     "attr": {
@@ -1692,8 +1657,7 @@
     "desc": "State-sanctioned murderer",
     "tags": [
       "Flower City",
-      "Bauhinia",
-      "Family of Secrets"
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/5889481.entity",
     "attr": {
@@ -1721,8 +1685,7 @@
       "Ministry of State Security",
       "Spy School",
       "Flower City",
-      "Bauhinia",
-      "Family of Secrets"
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/5889496.harmony",
     "attr": {
@@ -1748,8 +1711,7 @@
       "Ministry of State Security",
       "Spy School",
       "Flower City",
-      "Bauhinia",
-      "Family of Secrets"
+      "Bauhinia"
     ],
     "af": "https://artfight.net/character/5889430.sugarcane",
     "attr": {
@@ -1814,8 +1776,7 @@
     "tags": [
       "Bauhinia",
       "Westavia",
-      "Moreland",
-      "Family of Secrets"
+      "Moreland"
     ],
     "attr": {
       "Gender": "Female",
@@ -1832,8 +1793,7 @@
     "desc": "Executed ghost.",
     "tags": [
       "Flower City",
-      "Bauhinia",
-      "Family of Secrets"
+      "Bauhinia"
     ],
     "attr": {
       "Full name": "Unknown",
@@ -1848,8 +1808,8 @@
     "namezh": "咒",
     "color": "#629970",
     "tags": [
-      "Pearl's Journey Home",
-      "Moreland"
+      "Moreland",
+      "Guardian Moose"
     ],
     "af": "https://artfight.net/character/7727717.jinx",
     "attr": {
