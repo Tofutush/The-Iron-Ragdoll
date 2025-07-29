@@ -1,7 +1,7 @@
 {
   "hideStrictPathFilters": true,
   "pinFilters": {
-    "active": false,
+    "active": true,
     "tags": [],
     "paths": [],
     "frontMatter": []
@@ -20,13 +20,6 @@
       {
         "name": "",
         "active": true,
-        "type": "FILES_AND_DIRECTORIES",
-        "pattern": "",
-        "patternType": "WILDCARD"
-      },
-      {
-        "name": "",
-        "active": true,
         "type": "DIRECTORIES",
         "pattern": "fun",
         "patternType": "STRICT"
@@ -42,7 +35,7 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "changelog",
+        "pattern": "gallery",
         "patternType": "STRICT"
       }
     ],
