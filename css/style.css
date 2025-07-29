@@ -311,19 +311,24 @@ pre {
 	}
 }
 
-details summary {
-	list-style: none;
-	cursor: pointer;
-	display: flex;
-	align-items: center;
-	gap: .5em;
+details {
+	margin: 1em 0;
 
-	&::h2 {
-		margin: 0;
-	}
+	&>summary {
+		list-style: none;
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+		gap: .5em;
+		margin-bottom: 1em;
 
-	&::after {
-		content: '+';
+		&>h2 {
+			margin: 0;
+		}
+
+		&::after {
+			content: '+';
+		}
 	}
 }
 
