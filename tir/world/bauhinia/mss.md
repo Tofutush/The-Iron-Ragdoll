@@ -30,5 +30,6 @@ That being said, most MSS agents operate in plain clothes, similar to how normal
 - [Paperweight](/characters/paperweight/) (retired)
 - [Sky](/characters/sky/) (joined later)
 - [Whiteout](/characters/whiteout/) (executed)
+- [Sugarcane](/characters/sugarcane/) (joined even later)
 
 Heed the apprentice chain: Whiteout mentored Paperweight mentored Goose mentored Sky.
