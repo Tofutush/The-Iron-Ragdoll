@@ -1510,15 +1510,15 @@
     "namezh": "音韵",
     "color": "#426600",
     "desc": "Quiet badass.",
-    "quote": "...",
+    "quote": "…",
     "tags": [
       "Bauhinia"
     ],
     "af": "https://artfight.net/character/3965901.melody",
     "attr": {
-      "Nickname": "Mel (by Tundra)",
       "Gender": "Male",
       "Soul": "Liquid, warm and bloody",
+      "Birthday": "2013-07-13",
       "Nationality": "Bauhinian",
       "Occupation": "Private detective",
       "Weapon": "Dagger"
@@ -1526,7 +1526,9 @@
     "palette": {
       "hat": "#575757",
       "hair": "#2e2e2e"
-    }
+    },
+    "about": "…… … …… ……\n\n…… …… ……\n\n… … ……\n\n---\n\n… ……\n\n…… … …… …\n\n……\n\n… … ……\n\n… ……\n\n… …… … …\n\n… …… … …\n\n…… … …… ……\n\n---\n\n…… … … …\n\n… …… …\n\n…… …… ……\n\n…… … ……\n\n…\n\n---\n\n……\n\n… … … …\n\n… …\n\n… … …\n\n… … …… …… … …\n\n---\n\n…… … …… …\n\n…… …… ……\n\n…… …… ……\n\n… …… … …\n\n…… … …… … …… ……\n",
+    "trivia": "- His bio is a code."
   },
   {
     "name": "Tundra",
