@@ -1034,8 +1034,8 @@ rel2: "mentor"
 {
 source: "Jackalope",
 target: "Jinx",
-rel1: "friend / comrade",
-rel2: "friend / comrade"
+rel1: "girlfriend / comrade",
+rel2: "girlfriend / comrade"
 },
 
 {
