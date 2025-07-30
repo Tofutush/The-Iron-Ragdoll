@@ -9,13 +9,8 @@ tags:
   - fancy-private-school
 ---
 
-## Students
+## Characters
 
-- [Willow](/characters/willow/)
-- [Ironheart](/characters/ironheart/)
-- [Beauty](/characters/beauty/)
-- [Chastity](/characters/chastity/)
-- [Devotion](/characters/devotion/)
-- [Elegance](/characters/elegance/)
-- [Animus](/characters/animus/)
-- [Sparky](/characters/sparky/) (joined later)
+<link rel="stylesheet" href="/css/characterspage.css">
+{% assign filteredChs = characters | filterChByTag: 'Fancy Private School' %}
+{% include 'chs', chs: filteredChs %}

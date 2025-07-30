@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-30
+
+- Used the character page display on some of the pages. See [Fancy Private School](/world/bauhinia/coastline/fancy-private-school/);
+
 ## 2025-07-29
 
 - Important days will now show up on the front page!

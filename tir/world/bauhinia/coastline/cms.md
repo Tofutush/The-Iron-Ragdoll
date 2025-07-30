@@ -10,10 +10,8 @@ titlezh: 沿海十一中
 
 A shitty middle school in a shitty city.
 
-## Students
+## Characters
 
-- [Sparky](/characters/sparky/)
-- [Qibli](/characters/qibli/)
-- [Sky](/characters/sky/)
-- [Firecrackers](/characters/firecrackers/)
-- [Myraid](/characters/myriad/)
+<link rel="stylesheet" href="/css/characterspage.css">
+{% assign filteredChs = characters | filterChByTag: 'Coastline Middle School' %}
+{% include 'chs', chs: filteredChs %}

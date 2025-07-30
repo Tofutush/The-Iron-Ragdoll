@@ -1,14 +1,1 @@
-<div class="chs">
-    {% for ch in chs %}
-        <div>
-            <div class="ch" style="--c: {{ ch.color }}">
-                <a href="/characters/{{ ch.name | lowerCase }}/">
-                    {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
-                    {% assign profilePath = ch.name | lowerCase | append: " profile" %}
-                    {% image "gallery/" profilePath 'png' 200 ch.name '' iconPath 'png' %}
-                </a>
-            </div>
-            {% include 'chButton', ch: ch.name %}
-        </div>
-    {% endfor %}
-</div>
+<div class="chs">{% for ch in chs %}<div><div class="ch" style="--c: {{ ch.color }}"><a href="/characters/{{ ch.name | lowerCase }}/">{% assign iconPath = ch.name | lowerCase | append: " thumb" %}{% assign profilePath = ch.name | lowerCase | append: " profile" %}{% image "gallery/" profilePath 'png' 200 ch.name '' iconPath 'png' %}</a></div>{% include 'chButton', ch: ch.name %}</div>{% endfor %}</div>

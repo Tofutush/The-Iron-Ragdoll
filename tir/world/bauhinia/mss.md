@@ -24,12 +24,8 @@ That being said, most MSS agents operate in plain clothes, similar to how normal
 
 ## Members
 
-- [Goose](/characters/goose/)
-- [Pumpkin](/characters/pumpkin/) (fled)
-- [Halcyon](/characters/halcyon/) (traded)
-- [Paperweight](/characters/paperweight/) (retired)
-- [Sky](/characters/sky/) (joined later)
-- [Whiteout](/characters/whiteout/) (executed)
-- [Sugarcane](/characters/sugarcane/) (joined even later)
+<link rel="stylesheet" href="/css/characterspage.css">
+{% assign filteredChs = characters | filterChByTag: 'Ministry of State Security' %}
+{% include 'chs', chs: filteredChs %}
 
 Heed the apprentice chain: Whiteout mentored Paperweight mentored Goose mentored Sky.
