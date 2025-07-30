@@ -19,11 +19,11 @@ The school functions like any other public middle / high school in Bauhinia, exc
 
 The subjects taught are wildly different too.
 
-## People
+## Characters
 
-- [Harmony](/characters/harmony/), student
-- [Sugarcane](/characters/sugarcane/), student
-- [Sky](/characters/sky/), former student, current teacher
+<link rel="stylesheet" href="/css/characterspage.css">
+{% assign filteredChs = characters | filterChByTag: 'Spy School' %}
+{% include 'chs', chs: filteredChs %}
 
 ## History
 

@@ -19,10 +19,8 @@ A little village in the countryside of [Westavia](/world/westavia/).
 
 Most of the people there are farmers planting grapes, wheat, and cotton. Very stereotypically Westavian.
 
-## People
+## Characters
 
-- [Candlelight](/characters/candlelight/)
-- [Mooncake](/characters/mooncake/)
-- [Pumpkin](/characters/pumpkin/)
-- [Helsinki](/characters/helsinki/)
-- [Thyme](/characters/thyme/)
+<link rel="stylesheet" href="/css/characterspage.css">
+{% assign filteredChs = characters | filterChByTag: 'Nameless Village' %}
+{% include 'chs', chs: filteredChs %}

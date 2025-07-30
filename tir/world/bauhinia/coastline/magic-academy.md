@@ -38,4 +38,10 @@ The ultimate purpose of the magic academy is to limit magicians' power and to tr
 - Inside the janitor's closet there is an ancient book. It's just a normal magic guide during its time, but presently, most of the spells contained inside are illegal, and the book is essentially a guide on dark magic. [Qibli](/characters/qibli/) found this with [Trinket](/characters/trinket/), and their split attitudes towards the book broke their friendship.
 - The school is actually located in [Coastline](/world/bauhinia/coastline/). No one thought that anyone could actually find it, though.
 
+## Characters
+
+<link rel="stylesheet" href="/css/characterspage.css">
+{% assign filteredChs = characters | filterChByTag: 'Magic Academy' %}
+{% include 'chs', chs: filteredChs %}
+
 [^1]: This reads like Inform 7 code.
