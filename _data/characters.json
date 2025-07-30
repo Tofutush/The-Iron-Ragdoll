@@ -253,6 +253,7 @@
     "attr": {
       "Gender": "Female",
       "Soul": "Liquid, calm as a lake",
+      "Birthday": "2017-06-15",
       "Nationality": "Bauhinian"
     },
     "palette": {
@@ -276,6 +277,7 @@
       "Nickname": "Al (by Sky)",
       "Gender": "Male",
       "Soul": "Solid",
+      "Birthday": "2016-11-27",
       "Age estimation": "Around the same as Sparky",
       "Nationality": "Bauhinian"
     },
@@ -299,6 +301,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Gas, tomato-shaped",
+      "Birthday": "2017-05-19",
       "Age estimation": "The same as Potato",
       "Nationality": "Bauhinian",
       "Weapon": "Wrench"
@@ -320,7 +323,7 @@
     "af": "https://artfight.net/character/3986088.potato",
     "attr": {
       "Gender": "Male",
-      "Age estimation": "The same as Tomato"
+      "Birthday": "2017-05-19"
     },
     "palette": {
       "shirt": "#575757",
@@ -342,6 +345,7 @@
     "attr": {
       "Nickname": "Guillo (by Sky)",
       "Gender": "Female",
+      "Birthday": "2016-03-30",
       "Nationality": "Atlasian"
     },
     "palette": {
@@ -366,6 +370,7 @@
       "Nickname": "Teff (by Sky)",
       "Gender": "Male",
       "Soul": "Gas, flower-shaped like his symbol",
+      "Birthday": "2017-04-21",
       "Nationality": "Bauhinian",
       "Weapon": "Walther P38 pistol"
     },
@@ -422,6 +427,7 @@
       "Nickname": "Cos (by Sky)",
       "Gender": "Female",
       "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
+      "Birthday": "2016-12-24",
       "Nationality": "Bauhinian",
       "Weapon": "Throwing stars",
       "Power": "Mind reading, unregistered"
@@ -433,7 +439,7 @@
       "shirt": "#B2B8E3",
       "hair": "#2e2e2e"
     },
-    "about": "Cosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
+    "about": "Cosmo was born with two souls, a rare occurance because of shenanigans with two eggs but no twins.\n\nCosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
     "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
   },
   {
@@ -464,7 +470,8 @@
     ],
     "attr": {
       "Gender": "Female",
-      "Soul": "Liquid, constantly-boiling"
+      "Soul": "Liquid, constantly-boiling",
+      "Birthday": "2020-09-08"
     },
     "palette": {
       "hair": "#F3F2E7",
@@ -487,7 +494,6 @@
     "attr": {
       "Gender": "Female",
       "Soul": "Gas, nebula-like",
-      "Birthday": "1990-04-28",
       "Nationality": "Bauhinian",
       "Occupation": "Magic academy teacher",
       "Weapon": "the Physical Sword"
