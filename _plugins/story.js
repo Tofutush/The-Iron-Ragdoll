@@ -5,7 +5,7 @@ function storyPlugin(eleventyConfig) {
 		collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => storyOrder.indexOf(a.fileSlug) - storyOrder.indexOf(b.fileSlug))
 	);
 	eleventyConfig.addCollection("storyTags", collection => {
-		let stories = collection.getFilteredByGlob('tir/stories/*.md').sort((a, b) => a.data.order - b.data.order);
+		let stories = collection.getFilteredByGlob('tir/stories/*.md');
 		let tags = [];
 		for (let z = 0; z < stories.length; z++) {
 			if (!stories[z].data.myTags) continue;

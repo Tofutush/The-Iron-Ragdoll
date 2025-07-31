@@ -1,22 +1,23 @@
 import { EleventyHtmlBasePlugin, EleventyRenderPlugin } from '@11ty/eleventy';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
-import markdownIt from 'markdown-it';
-import markdownItFootnote from "markdown-it-footnote";
-import markdownItAnchor from "markdown-it-anchor";
-import markdownItTOC from 'markdown-it-table-of-contents';
-import markdownItExternalLinks from 'markdown-it-external-links';
-import markdownItObsidianCallouts from "markdown-it-obsidian-callouts";
-import beautify from 'js-beautify';
 import pinyin from "chinese-to-pinyin";
-import { iconSVGString, eleventyLucideIconsPlugin } from './_plugins/lucideicons.js';
-import galleryPlugin from './_plugins/gallery.js';
-import utilPlugin from './_plugins/utils.js';
+import beautify from 'js-beautify';
+import markdownIt from 'markdown-it';
+import markdownItAnchor from "markdown-it-anchor";
+import markdownItExternalLinks from 'markdown-it-external-links';
+import markdownItFootnote from "markdown-it-footnote";
+import markdownItObsidianCallouts from "markdown-it-obsidian-callouts";
+import markdownItTOC from 'markdown-it-table-of-contents';
 import chPlugin from './_plugins/ch.js';
-import relPlugin from './_plugins/rel.js';
-import imagePlugin from './_plugins/image.js';
-import storyPlugin from './_plugins/story.js';
+import galleryPlugin from './_plugins/gallery.js';
 import guessPlugin from './_plugins/guess.js';
+import imagePlugin from './_plugins/image.js';
+import { eleventyLucideIconsPlugin, iconSVGString } from './_plugins/lucideicons.js';
+import relPlugin from './_plugins/rel.js';
+import storyPlugin from './_plugins/story.js';
+import utilPlugin from './_plugins/utils.js';
 import wordCountPlugin from './_plugins/wordcount.js';
+import worldPlugin from './_plugins/world.js';
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -63,6 +64,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(relPlugin);
 	eleventyConfig.addPlugin(imagePlugin);
 	eleventyConfig.addPlugin(storyPlugin);
+	eleventyConfig.addPlugin(worldPlugin);
 	eleventyConfig.addPlugin(guessPlugin);
 	eleventyConfig.addPlugin(wordCountPlugin);
 	// copies
