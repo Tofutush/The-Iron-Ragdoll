@@ -331,7 +331,7 @@ eleventyNavigation:
 - Renamed "Projects" to [Goals](/goals/).
 - Edited the magic section on [Superpowers in Bauhinia](/world/bauhinia/superpowers/).
 - Added lore page [Races](/world/races/).
-- Added [Guardian Moose](/world/moreland/guardian-moose/), and changed MIA to [MIC](/world/moreland/guardian-moose/mic/).
+- Added [Guardian Moose](/world/moreland/guardian-moose/), and changed MIA to [MIC](/world/moreland/mic/).
 - Added `cobalt thumb.png`, `nightingale thumb.png`, `skyhawk thumb.png`, `lucky strike.png`, `alistair darius.png`.
 
 ## 2025-03-04
