@@ -313,6 +313,9 @@ pre {
 
 details {
 	margin: 1em 0;
+	display: flex;
+	flex-direction: column;
+	gap: 1em;
 
 	&>summary {
 		list-style: none;
@@ -320,7 +323,6 @@ details {
 		display: flex;
 		align-items: center;
 		gap: .5em;
-		margin-bottom: 1em;
 
 		&>h2 {
 			margin: 0;
