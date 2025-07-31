@@ -7,9 +7,16 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-07-31
+
+- Changed the layout of the [World](/world/) section a bit;
+	- Now there would be no more nested city folders — every file in a country lies flat in that folder;
+	- This might lead to some broken links. I'll try to catch them, but if you notice one then feel free to [tell me](/contact/)!
+- Also made [world file categories](/world/category/);
+
 ## 2025-07-30
 
-- Used the character page display on some of the pages. See [Fancy Private School](/world/bauhinia/fancy-private-school/);
+- Used the character page display on some of the pages. See [Fancy Private School](/world/bauhinia/fps/);
 - Added `jinx hugging jackalope.png`;
 
 ## 2025-07-29
