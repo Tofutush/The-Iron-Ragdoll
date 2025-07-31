@@ -13,7 +13,7 @@ During the Fantoni War, [MSS](/world/bauhinia/mss/) officer [Sky](/characters/sk
 
 So yeah Sky recruited them and they did stuff lol idk yet
 
-After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/flower-city/ministry-affiliate/)[^1].
+After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/)[^1].
 
 Later, two [stupid](/characters/harmony/) [kids](/characters/sugarcane/) heard about the spy ring and decided to [invite them all over for a party](/stories/poker-party/).
 

@@ -12,6 +12,6 @@ Where most of the story takes place! A large city on the southern coast of [Bauh
 
 ## Places of Non-Interest
 
-- [Coastline Middle School](/world/bauhinia/coastline/cms/)
-- [The Safe house](/world/bauhinia/coastline/safe-house/)
-- [Magic Academy](/world/bauhinia/coastline/magic-academy/)
+- [Coastline Middle School](/world/bauhinia/cms/)
+- [The Safe house](/world/bauhinia/safe-house/)
+- [Magic Academy](/world/bauhinia/magic-academy/)

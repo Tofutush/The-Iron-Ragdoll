@@ -21,7 +21,7 @@ myTags:
 
 Sparky is a girl who clinged on her mom too much, hated her stepdad and half-sister, and was about to start middle school.
 
-Because of her beef with her half-sister Willow, she refused to attend Fancy Private School with her, and instead went for [Coastline Middle School](/world/bauhinia/coastline/cms/), a shitty public school known for being shitty. She met some good friends: [Qibli](/characters/qibli/), [Sky](/characters/sky/), and [Firecrackers](/characters/firecrackers/).
+Because of her beef with her half-sister Willow, she refused to attend Fancy Private School with her, and instead went for [Coastline Middle School](/world/bauhinia/cms/), a shitty public school known for being shitty. She met some good friends: [Qibli](/characters/qibli/), [Sky](/characters/sky/), and [Firecrackers](/characters/firecrackers/).
 
 But recently there's been a huge number of cases of stolen stuff. Little stuff, like pens and rulers. Sparky and her friends just bought replacements and did not complain.
 

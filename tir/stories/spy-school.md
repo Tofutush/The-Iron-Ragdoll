@@ -29,7 +29,7 @@ One day when Harmony was about to graduate 6th grade, Sky came to their apartmen
 >
 > "Why, if there's anything you did, that was giving birth to a wonderful daughter! Is little Harmony home?"
 
-Entity called Harmony out. Sky told her that she could get enrolled in [the Middle School for Young Officers in Training Affiliated to the Ministry of State Security of the Republic of Bauhinia](/world/bauhinia/flower-city/ministry-affiliate/). Ministry Affiliate for short.
+Entity called Harmony out. Sky told her that she could get enrolled in [the Middle School for Young Officers in Training Affiliated to the Ministry of State Security of the Republic of Bauhinia](/world/bauhinia/ministry-affiliate/). Ministry Affiliate for short.
 
 Harmony was initially reluctant, but Sky told her that Sugarcane, her best friend, was also attending, so she said yes. Frosting warned Harmony to think it through, though she knew that there's no stopping Harmony.
 

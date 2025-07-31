@@ -8,7 +8,7 @@ eleventyNavigation:
 
 WIS is the main intelligence agency of Westavia, doing what most intelligence services do, like putting agents in embassies.
 
-They also run a school similar to [Ministry Affiliate](/world/bauhinia/flower-city/ministry-affiliate/), where Jelly used to attend.
+They also run a school similar to [Ministry Affiliate](/world/bauhinia/ministry-affiliate/), where Jelly used to attend.
 
 ## Members
 
