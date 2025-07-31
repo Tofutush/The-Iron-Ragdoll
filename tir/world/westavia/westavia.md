@@ -10,6 +10,9 @@ tags:
   - westavia
 displayTitle: The People's Republic of Westavia
 titlezh: 伟思德维亚人民共和国
+categories:
+  - Countries
+  - Locations
 ---
 
 {% image "gallery/" "westavia flag" "svg" 1000 "Flag of Westavia" 'max' %}

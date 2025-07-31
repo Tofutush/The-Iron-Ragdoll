@@ -6,6 +6,8 @@ eleventyNavigation:
   parent: Bauhinia
 titlezh: 紫荆国里的超能力
 desc: How Bauhinia treats superpowers.
+categories:
+  - Lore
 ---
 
 *You might wanna read [the main superpowers page](/world/superpowers/) first!*

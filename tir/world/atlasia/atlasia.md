@@ -10,6 +10,9 @@ tags:
   - atlasia
 displayTitle: The Free Republic of Atlasia
 titlezh: 亚特莱西亚自由共和国
+categories:
+  - Countries
+  - Locations
 ---
 
 {% image "gallery/" "atlasia flag" "svg" 1000 "Flag of Atlasia" 'max' %}

@@ -10,6 +10,9 @@ desc: What if CEOs made a country?
 tags:
   - bauhinia
 titlezh: 紫荆共和国
+categories:
+  - Countries
+  - Locations
 ---
 
 {% image "gallery/" "bauhinia flag" "svg" 1000 "Flag of Bauhinia" 'max' %}

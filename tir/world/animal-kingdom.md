@@ -5,6 +5,8 @@ titlezh: 动物王国
 desc: Sunflower's paracosm.
 eleventyNavigation:
   parent: World
+categories:
+  - Misc
 ---
 
 It's a world full of talking animals living inside kingdoms. The two main kingdoms are Cat Kingdom and Dog Kingdom.

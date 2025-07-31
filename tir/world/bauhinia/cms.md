@@ -6,6 +6,8 @@ eleventyNavigation:
 tags:
   - coastline-middle-school
 titlezh: 沿海十一中
+categories:
+  - Schools
 ---
 
 A shitty middle school in a shitty city.

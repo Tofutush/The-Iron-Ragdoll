@@ -5,6 +5,8 @@ desc: A spy ring assembled during the Fantoni War.
 titlezh: 扑克间谍环
 eleventyNavigation:
   parent: Bauhinia
+categories:
+  - Misc
 ---
 
 During the Fantoni War, [MSS](/world/bauhinia/mss/) officer [Sky](/characters/sky/) ran a ring of four spies gathering intel on [Fanton](/world/fanton/) and [Moreland](/world/moreland/). Sky liked representing them with the ace cards of the four suits, which is why they are later referred to as the "Poker Spies."

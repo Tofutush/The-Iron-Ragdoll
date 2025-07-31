@@ -4,6 +4,10 @@ title: Westavian Intelligence Service
 desc: Foreign intelligence service of Westavia
 eleventyNavigation:
   parent: Westavia
+categories:
+  - Organizations
+  - Government Organizations
+  - Intelligence Agencies
 ---
 
 WIS is the main intelligence agency of Westavia, doing what most intelligence services do, like putting agents in embassies.

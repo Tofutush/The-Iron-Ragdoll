@@ -5,6 +5,9 @@ desc: A nomadic tribe in Moreland.
 eleventyNavigation:
   parent: Moreland
 titlezh: 阿波露萨族
+categories:
+  - Organizations
+  - Tribes
 ---
 
 A nomadic tribe in Moreland that honors a legendary figure, Appaloosa.

@@ -3,6 +3,8 @@ layout: article.liquid
 title: Safe house
 eleventyNavigation:
   parent: Coastline
+categories:
+  - Locations
 ---
 
 Located in an old apartment complex the village-in-a-city of [Coastline](/world/bauhinia/coastline/), it used to be a drug-storage for [Starcorp](/world/bauhinia/starcorp/).

@@ -7,6 +7,9 @@ tags:
 eleventyNavigation:
   parent: World
 titlezh: 国际超能力协会
+categories:
+  - Organizations
+  - NGOs
 ---
 
 Association of superpowered people, or "the gifted" as they're known in [Bauhinia](/world/bauhinia/). Its main task is to promote equality between normal and superpowered people and ensure proper regulations around superpower usage.
