@@ -313,9 +313,6 @@ pre {
 
 details {
 	margin: 1em 0;
-	display: flex;
-	flex-direction: column;
-	gap: 1em;
 
 	&>summary {
 		list-style: none;
@@ -334,8 +331,14 @@ details {
 	}
 }
 
-details[open] summary::after {
-	content: '-';
+details[open] {
+	display: flex;
+	flex-direction: column;
+	gap: 1em;
+
+	&>summary::after {
+		content: '-';
+	}
 }
 
 header {
