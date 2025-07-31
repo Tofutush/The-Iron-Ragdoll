@@ -20,7 +20,7 @@ titlezh: 紫荆共和国
   <p>Demonym</p>
   <p>Bauhunian</p>
   <p>Capital</p>
-  <p><a href="/world/bauhinia/flower-city/">Flower City</a></p>
+  <p><a href="/world/bauhinia/">Flower City</a></p>
   <p>National day</p>
   <p>February 24<sup>th</sup></p>
   <p>Symbol</p>

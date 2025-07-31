@@ -9,7 +9,7 @@ titlezh: 更新日志
 
 ## 2025-07-30
 
-- Used the character page display on some of the pages. See [Fancy Private School](/world/bauhinia/coastline/fancy-private-school/);
+- Used the character page display on some of the pages. See [Fancy Private School](/world/bauhinia/fancy-private-school/);
 - Added `jinx hugging jackalope.png`;
 
 ## 2025-07-29

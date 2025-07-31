@@ -76,7 +76,7 @@ Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to
 > He already showed signs of being annoyed by Sparky's "claim to fame." Plus signs of an ego. Motivation.
 
 > [!question]+ Why let him into the MSS then, if he has such an ego?
-> He attended [Spy School](/world/bauhinia/flower-city/ministry-affiliate/) and had special recommendation from Goose.
+> He attended [Spy School](/world/bauhinia/ministry-affiliate/) and had special recommendation from Goose.
 
 ## Day 1
 

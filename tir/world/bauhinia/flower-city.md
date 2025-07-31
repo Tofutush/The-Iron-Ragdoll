@@ -15,5 +15,5 @@ Flower City used to be the capital of the Bauhinian Empire too. After the revolu
 
 ## Places of Non-Interest
 
-- [University of Flower City](/world/bauhinia/flower-city/ufc/)
+- [University of Flower City](/world/bauhinia/ufc/)
 - [MSS headquarters](/world/bauhinia/mss/).

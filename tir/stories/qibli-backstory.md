@@ -20,11 +20,11 @@ Qibli was born with magic. But her magic was so weak that it didn't even show un
 
 She spent most of her childhood around [Sky](/characters/sky/).
 
-She attended [Coastline Middle School](/world/bauhinia/coastline/cms/) because her mom worked there. Which is where she met [Sparky](/characters/sparky/).
+She attended [Coastline Middle School](/world/bauhinia/cms/) because her mom worked there. Which is where she met [Sparky](/characters/sparky/).
 
 ## Magic Academy
 
-Now that she was in middle school, she also had to start attending [Magic Academy](/world/bauhinia/coastline/magic-academy/), where she met [Trinket](/characters/trinket/) and found the book that changed her life: *A Guide to Magic* by [Appaloosa](/world/moreland/appaloosa-tribe/), tucked into the janitor's closet.
+Now that she was in middle school, she also had to start attending [Magic Academy](/world/bauhinia/magic-academy/), where she met [Trinket](/characters/trinket/) and found the book that changed her life: *A Guide to Magic* by [Appaloosa](/world/moreland/appaloosa-tribe/), tucked into the janitor's closet.
 
 {% image 'gallery/' 'book discovery' 'png' 1000 'Qibli and Trinket discover the book' 'max' %}
 

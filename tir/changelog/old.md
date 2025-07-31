@@ -150,13 +150,13 @@ eleventyNavigation:
 
 ## 2025-04-20
 
-- Renamed Spy School to [Ministry Affiliate](/world/bauhinia/flower-city/ministry-affiliate/);
+- Renamed Spy School to [Ministry Affiliate](/world/bauhinia/ministry-affiliate/);
 
 ## 2025-04-19
 
 - Edited [superpowers](/world/superpowers/) to make some powers active;
 - Added `cheshire.png`, `vin.png`;
-- Added file [spy school](/world/bauhinia/flower-city/spy-school/);
+- Added file [spy school](/world/bauhinia/spy-school/);
 - Country files now display all sub-files in their "related files" sections;
 
 ## 2025-04-17
@@ -240,7 +240,7 @@ eleventyNavigation:
 
 - Added `nala.png`, `squid tentacles.png`, `buttercup slice.png`, `whiteout slice.png`;
 - Added links to the gallery on the [text list](/characters/list/);
-- Added new page [Magic Academy](/world/bauhinia/coastline/magic-academy/);
+- Added new page [Magic Academy](/world/bauhinia/magic-academy/);
 
 ## 2025-03-24
 
@@ -911,7 +911,7 @@ eleventyNavigation:
 ## 2024-09-22
 
 - Added `cosmo alaska subway.png`.
-- Added page [Hillslope](/world/bauhinia/coastline/hillslope/).
+- Added page [Hillslope](/world/bauhinia/hillslope/).
 
 ## 2024-09-21
 
@@ -933,10 +933,10 @@ eleventyNavigation:
 
 - Added world pages
   - [Coastline](/world/bauhinia/coastline/)
-	- [Coastline Middle School](/world/bauhinia/coastline/cms/)
-	- [The Safe house](/world/bauhinia/coastline/safe-house/)
+	- [Coastline Middle School](/world/bauhinia/cms/)
+	- [The Safe house](/world/bauhinia/safe-house/)
   - [Flower City](/world/bauhinia/flower-city/)
-	- [University of Flower City](/world/bauhinia/flower-city/ufc/)
+	- [University of Flower City](/world/bauhinia/ufc/)
 
 ## 2024-09-16
 
