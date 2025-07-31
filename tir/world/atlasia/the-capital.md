@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: world.liquid
 title: The Capital
 templateEngineOverride: liquid,md
 eleventyNavigation:

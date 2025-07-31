@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: world.liquid
 title: Fancy Private School
 desc: A really fancy private school.
 titlezh: 有钱人上的私立学校

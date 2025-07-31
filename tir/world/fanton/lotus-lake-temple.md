@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: world.liquid
 title: Lotus Lake Temple
 eleventyNavigation:
   parent: Lotus Lake

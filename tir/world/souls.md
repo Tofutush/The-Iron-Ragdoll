@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: world.liquid
 title: Souls
 desc: What are souls and how do they work?
 tags:

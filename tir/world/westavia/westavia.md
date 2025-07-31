@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: world.liquid
 title: Westavia
 templateEngineOverride: liquid,md
 eleventyNavigation:
