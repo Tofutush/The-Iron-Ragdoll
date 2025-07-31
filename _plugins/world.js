@@ -1,4 +1,7 @@
 function worldPlugin(eleventyConfig) {
+	eleventyConfig.addCollection("world", collection =>
+		collection.getFilteredByGlob('tir/world/**/*')
+	);
 	eleventyConfig.addCollection("worldCats", collection => {
 		let pages = collection.getFilteredByGlob('tir/world/**/*');
 		let tags = [];
@@ -8,6 +11,9 @@ function worldPlugin(eleventyConfig) {
 		}
 		tags = [...new Set(tags)].sort((a, b) => a.localeCompare(b));
 		return tags;
+	});
+	eleventyConfig.addFilter('filterWorldByTag', function (arr, tag) {
+		return arr.filter(a => a.data.categories?.includes(tag));
 	});
 }
 
