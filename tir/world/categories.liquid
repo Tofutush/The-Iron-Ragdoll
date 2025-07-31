@@ -1,0 +1,22 @@
+---
+layout: layout.liquid
+pagination:
+  data: collections.worldCats
+  size: 1
+  alias: tag
+  addAllPagesToCollections: true
+permalink: "world/category/{{ tag | slug }}/"
+eleventyComputed:
+  title: "{{ tag }}"
+  tag: "{{ tag }}"
+  eleventyNavigation:
+    title: "{{ tag }}"
+    parent: Categories
+---
+{% assign filteredFiles = collections.world | filterWorldByTag: tag %}
+<h1>Category: {{ tag }}</h1>
+<ul>
+    {% for file in filteredFiles %}
+        {% include 'fileli', file: file %}
+    {% endfor %}
+</ul>
