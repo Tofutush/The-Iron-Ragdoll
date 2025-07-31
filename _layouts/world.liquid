@@ -2,6 +2,6 @@
 layout: article.liquid
 ---
 {% if categories %}
-<p class="smaller-text">Categories: {% for cat in categories %}{% if forloop.index != 1 %}, {% endif %}<a href="/world/category/{{ cat | slug }}/">{{ cat }}</a>{% endfor %}</p>
+<p class="smaller-text lighter-text">Categories: {% for cat in categories %}{% if forloop.index != 1 %}, {% endif %}<a href="/world/category/{{ cat | slug }}/">{{ cat }}</a>{% endfor %}</p>
 {% endif %}
 {{ content }}
