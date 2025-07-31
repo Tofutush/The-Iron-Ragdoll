@@ -48,7 +48,7 @@ Moreland is ruled by a military junta, officially named *Armed Forces of the Rep
 ### Agencies
 
 - [Armed Forces of the Republic of Moreland](/world/moreland/guardian-moose/)
-	- [Military Intelligence Corps](/world/moreland/guardian-moose/mic/)
+	- [Military Intelligence Corps](/world/moreland/mic/)
 
 ### Military service
 
