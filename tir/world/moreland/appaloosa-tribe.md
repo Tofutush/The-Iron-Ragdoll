@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: world.liquid
 title: The Appaloosa Tribe
 desc: A nomadic tribe in Moreland.
 eleventyNavigation:

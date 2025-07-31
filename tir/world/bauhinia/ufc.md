@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: world.liquid
 title: University of Flower City
 eleventyNavigation:
   parent: Flower City

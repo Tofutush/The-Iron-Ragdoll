@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: world.liquid
 title: Revolution's Cradle
 desc: Capital of Moreland.
 eleventyNavigation:

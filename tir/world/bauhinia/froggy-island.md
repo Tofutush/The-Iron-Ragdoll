@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: world.liquid
 title: Froggy Island
 desc: Hyrax's personal island.
 eleventyNavigation:
