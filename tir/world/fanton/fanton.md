@@ -10,6 +10,9 @@ tags:
   - fanton
 displayTitle: The Republic of Fanton
 titlezh: 范顿共和国
+categories:
+  - Countries
+  - Locations
 ---
 
 {% image "gallery/" "fanton flag" "svg" 1000 "Flag of Fanton" 'max' %}

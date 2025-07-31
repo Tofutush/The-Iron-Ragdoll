@@ -5,6 +5,9 @@ titlezh: 波尼
 desc: Capital of Sylvandia.
 eleventyNavigation:
   parent: Sylvandia
+categories:
+  - Cities
+  - Locations
 ---
 
 The capital of the Sylvandian Federation. A special district that does not belong to any state, it borders [Holliloli](/world/sylvandia/holliloli/) on the west and [Snowdale](/world/sylvandia/snowdale/) on the east, and is pretty close to the [Moreland](/world/moreland/) border.

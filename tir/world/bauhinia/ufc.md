@@ -3,6 +3,8 @@ layout: article.liquid
 title: University of Flower City
 eleventyNavigation:
   parent: Flower City
+categories:
+  - Schools
 ---
 
 Where [Fantasy](/characters/fantasy/) is attending.

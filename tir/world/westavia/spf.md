@@ -5,6 +5,10 @@ desc: Westavia's internal security apparatus.
 eleventyNavigation:
   parent: Westavia
 titlezh: 轻生防范队
+categories:
+  - Organizations
+  - Government Organizations
+  - State Security Agencies
 ---
 
 A branch of Westavia's police force, the SPF is Westavia's internal security apparatus aimed at surveilling its citizens and suppressing dissent.

@@ -10,6 +10,9 @@ tags:
   - moreland
 displayTitle: The Republic of Moreland
 titlezh: 莫尔兰共和国
+categories:
+  - Countries
+  - Locations
 ---
 
 {% image "gallery/" "moreland flag" "svg" 1000 "Flag of Moreland" 'max' %}

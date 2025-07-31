@@ -7,6 +7,8 @@ eleventyNavigation:
   parent: World
 tags:
   - lore
+categories:
+  - Lore
 ---
 
 The people in TIR are just "humans." But not really since they have ears and horns.

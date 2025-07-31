@@ -5,6 +5,8 @@ titlezh: 魔法学院
 eleventyNavigation:
   parent: Bauhinia
 desc: Magical indoctrination school.
+categories:
+  - Schools
 ---
 
 A school for [magicians](/world/superpowers/#magic), ran by the Bauhinian government, established in 2017. Every magician in Bauhinia with a level above or equal to 10 and is older than 8 years is required to attend.

@@ -5,6 +5,9 @@ desc: Capital and cultural center of Bauhinia
 eleventyNavigation:
   parent: Bauhinia
 titlezh: 花城
+categories:
+  - Cities
+  - Locations
 ---
 
 Capital of [Bauhinia](/world/bauhinia/), near the geographical center of the country. The flower, of course, means the bauhinia flower.

@@ -7,6 +7,8 @@ eleventyNavigation:
   parent: Coastline
 tags:
   - fancy-private-school
+categories:
+  - Schools
 ---
 
 ## Characters

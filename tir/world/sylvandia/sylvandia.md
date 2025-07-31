@@ -10,6 +10,9 @@ tags:
   - sylvandia
 displayTitle: The Sylvandian Federation
 titlezh: 希尔万迪亚合众国
+categories:
+  - Countries
+  - Locations
 ---
 
 {% image "gallery/" "sylvandia flag" "svg" 1000 "Flag of Sylvandia" 'max' %}

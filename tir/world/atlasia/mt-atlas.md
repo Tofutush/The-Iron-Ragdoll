@@ -7,6 +7,8 @@ eleventyNavigation:
   title: Mt. Atlas
   parent: Atlasia
 titlezh: 亚特拉斯山
+categories:
+  - Locations
 ---
 
 The tallest mountain on the continent, in [Atlasia](/world/atlasia/), near the border with [Moreland](/world/moreland/).

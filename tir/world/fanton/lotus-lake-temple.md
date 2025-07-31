@@ -4,6 +4,8 @@ title: Lotus Lake Temple
 eleventyNavigation:
   parent: Lotus Lake
 titlezh: 莲花湖寺
+categories:
+  - Locations
 ---
 
 The most famous temple in [Fanton](/world/fanton/), in the middle of [Lotus Lake](/world/fanton/lotus-lake/). Is the birthplace and institution of water-style martial arts.

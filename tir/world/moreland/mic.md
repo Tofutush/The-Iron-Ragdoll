@@ -5,6 +5,10 @@ eleventyNavigation:
   parent: The Guardian Moose
 titlezh: 军事情报旅
 desc: The intelligence branch of the Armed Forces of Moreland.
+categories:
+  - Organizations
+  - Government Organizations
+  - Intelligence Agencies
 ---
 
 The part of the Guardian Moose that deals with intelligence and state security for Moreland.

@@ -8,6 +8,8 @@ tags:
 eleventyNavigation:
   parent: World
 titlezh: 概览
+categories:
+  - Lore
 ---
 
 A brief overview of the world to get you a most basic idea of what this paracosm entails!

@@ -7,6 +7,9 @@ eleventyNavigation:
 tags:
   - nameless-village
 desc: Candlelight's old home, a tiny village.
+categories:
+  - Locations
+  - Villages
 ---
 
 A little village in the countryside of [Westavia](/world/westavia/).

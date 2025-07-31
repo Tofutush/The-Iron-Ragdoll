@@ -7,6 +7,8 @@ tags:
 eleventyNavigation:
   parent: World
 titlezh: 灵魂
+categories:
+  - Lore
 ---
 
 Everyone has a soul. It contains a person's entire identity: their self, their memories, their emotions. They are born with them and ideally should stay inside the person's body till death. The soul's color leaks into the person's eye and ears or horns, coloring them in as well. In the case of magicians, the soul color is also the color of their magic.
