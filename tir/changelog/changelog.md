@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-02
+
+- New story: [Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/);
+
 ## 2025-08-01
 
 - Added `myriad profile.png`, `alaska profile.png`, `guillotine profile.png`;
