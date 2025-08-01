@@ -1,7 +1,7 @@
 ---
 layout: world.liquid
-title: Animal Kingdom
-titlezh: 动物王国
+title: Tadlet Kingdom
+titlezh: 蝌蚪精王国
 desc: Sunflower's paracosm.
 eleventyNavigation:
   parent: World
@@ -9,7 +9,7 @@ categories:
   - Misc
 ---
 
-It's a world full of talking animals living inside kingdoms. The two main kingdoms are Cat Kingdom and Dog Kingdom.
+It's a world full of huge, talking tadlets living inside kingdoms. The two main kingdoms are Cat Kingdom and Dog Kingdom.
 
 ## Meta
 

@@ -31,4 +31,4 @@ In the end, due to a betrayal from one person she trusted the most, she was caug
 
 But here's the thing: Appaloosa isn't a real person. The story above is fictional, merely mythology passed down through generations of tribe members. As to the true origins of the Appaloosa Tribe, well, Moreland's *full* of nomadic tribes; they're nothing new.
 
-But as for [*A Guide to Magic*](/stories/qibli-backstory/), who wrote it[?](/characters/nebula/)
+But as for [*A Guide to Magic*](/stories/qibli-backstory/), who wrote it?
