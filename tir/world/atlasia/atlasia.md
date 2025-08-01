@@ -40,10 +40,6 @@ It is mostly fertile plains suitable for growing rice, wheat, and corn, with som
 
 The closest geographical mirror to Atlasia is northern China.
 
-### Regions
-
-- [Mt. Atlas](/world/atlasia/mt-atlas/)
-
 ## Government
 
 The Atlasian government consists only of the judicial courts, law enforcement (police), and the military. The courts mostly only settle contract and property disputes; the police mostly enforce property laws; and the military have such a hard time getting recruits they resort to manipulation and coercion — since mandatory drafting would blow the Atlasians' minds. See section [economy](#economy) for the corporations filling in the gap.

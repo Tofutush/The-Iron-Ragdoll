@@ -4019,5 +4019,32 @@
       "jinx",
       "jackalope"
     ]
+  },
+  {
+    "name": "myriad profile",
+    "type": "png",
+    "date": "2025-08-01",
+    "ch": [
+      "myriad"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "alaska profile",
+    "type": "png",
+    "date": "2025-08-01",
+    "ch": [
+      "alaska"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "guillotine profile",
+    "type": "png",
+    "date": "2025-08-01",
+    "ch": [
+      "guillotine"
+    ],
+    "kind": "thumb new"
   }
 ]
