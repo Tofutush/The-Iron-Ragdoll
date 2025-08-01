@@ -4018,7 +4018,8 @@
     "ch": [
       "jinx",
       "jackalope"
-    ]
+    ],
+    "kind": "rel"
   },
   {
     "name": "myriad profile",
@@ -4046,5 +4047,16 @@
       "guillotine"
     ],
     "kind": "thumb new"
+  },
+  {
+    "name": "sparky stupied",
+    "type": "png",
+    "date": "2025-08-01",
+    "author": "Stupied",
+    "authorUrl": "https://artfight.net/~Stupied",
+    "ch": [
+      "sparky"
+    ],
+    "comment": "Artfight 2025 defense!"
   }
 ]
