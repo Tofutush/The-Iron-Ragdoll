@@ -10,7 +10,6 @@ chs:
   - jasmine
   - gorgeous
   - sky
-  - tangerine
 time: "2056"
 titlezh: 谍影三人行
 summary: A family surviving under the oppressive government of Bauhinia.
