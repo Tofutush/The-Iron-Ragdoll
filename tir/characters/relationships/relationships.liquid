@@ -13,12 +13,25 @@ eleventyNavigation:
   max-width: 100%;
   box-sizing: border-box;
   overflow: hidden;
+  position: relative;
+}
+#graph {
+  background-color: var(--bg);
+}
+#fullscreen {
+  position: absolute;
+  top: .5em;
+  right: .5em;
+  background-color: var(--box);
+  padding: .5em;
+  display: flex;
 }
 </style>
 <p>No idea why I did this but it was fun.</p>
 <p>Try hovering over things, zooming and panning, and clicking on them leads to their profiles!</p>
 <p>My end goal is to have every character connected — leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
 <div id="wrapper">
+  <button id="fullscreen" title="Fullscreen mode" onclick="document.getElementById('graph').requestFullscreen()">{% lucide 'maximize-2' %}</button>
   <svg id="graph"></svg>
 </div>
 <p><i>You found a puzzle piece: <b>kdipj</b>! Next clue: a map in all but name. (<a href="/fun/hunt/">What is this?</a>)</i></p>
