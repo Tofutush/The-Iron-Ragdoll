@@ -11,6 +11,7 @@ titlezh: 更新日志
 
 - New story: [Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/);
 - Added a full-screen button to the [relationship graph](/characters/relationships/);
+- Added `apri.png`;
 
 ## 2025-08-01
 
