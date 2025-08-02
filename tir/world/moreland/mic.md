@@ -9,6 +9,7 @@ categories:
   - Organizations
   - Government Organizations
   - Intelligence Agencies
+  - Military
 ---
 
 The part of the Guardian Moose that deals with intelligence and state security for Moreland.
