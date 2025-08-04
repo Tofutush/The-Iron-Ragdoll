@@ -1,6 +1,6 @@
 import { existsSync } from 'fs';
 
-function guessPlugin(eleventyConfig) {
+function funPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getGuessData', (chs, rels) => {
 		let characters = [], relationships = [];
 		characters = chs.filter(c => existsSync(`img/gallery/${c.name.toLowerCase()} thumb.png`)
@@ -15,4 +15,4 @@ function guessPlugin(eleventyConfig) {
 	});
 }
 
-export default guessPlugin;
+export default funPlugin;

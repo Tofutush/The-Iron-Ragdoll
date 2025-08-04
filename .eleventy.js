@@ -9,8 +9,8 @@ import markdownItFootnote from "markdown-it-footnote";
 import markdownItObsidianCallouts from "markdown-it-obsidian-callouts";
 import markdownItTOC from 'markdown-it-table-of-contents';
 import chPlugin from './_plugins/ch.js';
+import funPlugin from './_plugins/fun.js';
 import galleryPlugin from './_plugins/gallery.js';
-import guessPlugin from './_plugins/guess.js';
 import imagePlugin from './_plugins/image.js';
 import { eleventyLucideIconsPlugin, iconSVGString } from './_plugins/lucideicons.js';
 import relPlugin from './_plugins/rel.js';
@@ -65,7 +65,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(imagePlugin);
 	eleventyConfig.addPlugin(storyPlugin);
 	eleventyConfig.addPlugin(worldPlugin);
-	eleventyConfig.addPlugin(guessPlugin);
+	eleventyConfig.addPlugin(funPlugin);
 	eleventyConfig.addPlugin(wordCountPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
