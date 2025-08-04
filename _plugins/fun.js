@@ -23,8 +23,8 @@ function funPlugin(eleventyConfig) {
 			let bRel = b[1] || '';
 			if (!graph[aName]) graph[aName] = [];
 			if (!graph[bName]) graph[bName] = [];
-			graph[aName].push({ name: bName, rel: aRel });
-			graph[bName].push({ name: aName, role: bRel });
+			graph[aName].push({ name: bName, rel: bRel });
+			graph[bName].push({ name: aName, rel: aRel });
 		}
 		return graph;
 	});
