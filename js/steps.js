@@ -1,8 +1,9 @@
 let selects = document.querySelectorAll('.select');
 let resultsDiv = document.getElementById('results');
+const chs = Object.keys(rel).sort((a, b) => a.localeCompare(b));
 for (let z = 0; z < selects.length; z++) {
-	for (let ch of Object.keys(rel).sort((a, b) => a.localeCompare(b))) {
-		selects[z].appendChild(elt('option', { value: ch }, ch));
+	for (let x = 0; x < chs.length; x++) {
+		selects[z].appendChild(elt('option', { value: chs[x] }, chs[x]));
 	}
 }
 
@@ -51,8 +52,41 @@ function findRelationshipPath(graph, start, end) {
 			queue.push({ name: neighbor.name, path: newPath });
 		}
 	}
-
 	return 'none';
+}
+
+function facts() {
+	let longestPath = 0, none = 0;
+	let middleCount = {};
+	for (let z = 0; z < chs.length; z++) {
+		for (let x = z + 1; x < chs.length; x++) {
+			let result = findRelationshipPath(rel, chs[z], chs[x]);
+			if (result === 'none') {
+				none++;
+				continue;
+			}
+			if (result.length > longestPath) longestPath = result.length;
+			for (let c = 1; c < result.length - 1; c++) {
+				middleCount[result[c].name] = (middleCount[result[c].name] || 0) + 1;
+			}
+		}
+	}
+	let maxMiddle = 0, maxName = '', minMiddle = 999999, minName = '';
+	for (let [name, num] of Object.entries(middleCount)) {
+		if (num > maxMiddle) {
+			maxMiddle = num;
+			maxName = name
+		}
+		if (num < minMiddle) {
+			minMiddle = num;
+			minName = name;
+		}
+	}
+	let factsDiv = document.getElementById('facts');
+	factsDiv.appendChild(elt('p', {}, `Out of the ${chs.length * chs.length} total possible combinations, there are ${chs.length} useless self-connections, ${chs.length * chs.length - none} valid connections, and the rest are ${none} possible combinations where no connection can be found. I want to get the last number down to zero.`));
+	factsDiv.appendChild(elt('p', {}, `The longest path has ${longestPath - 2} characters in-between. Can you find it? (There might be more than one. I haven't checked. Nor have I found any for that matter. I could let the program tell me, but what's the fun in that?)`));
+	factsDiv.appendChild(elt('p', {}, `The character that appears most frequently as an intermediary is ${maxName} at ${maxMiddle} times. Conversely, the least is ${minName} at ${minMiddle} times.`));
+	factsDiv.appendChild(elt('p', {}, `The BFS algorithm that I `, elt('s', {}, `copied off the internet`), ` totally wrote myself only looks for the first shortest path found, so the characters that appear most and least frequently as an intermediary is based off of that only.`));
 }
 
 function elt(type, props, ...children) {
