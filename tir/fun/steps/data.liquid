@@ -1,0 +1,8 @@
+---
+permalink: "fun/steps/data.js"
+---
+{% assign rel = relationships | getStepsData %}
+const rel = {{ rel | json }}
+const imgs = {
+{% for ch in characters %}{% assign profile = ch.name | lowerCase | append: ' profile' %}{% assign thumb = ch.name | lowerCase | append: ' thumb' %}{% capture url %}{% imageUrl 'gallery/' profile 'png' 200 thumb 'png' %}{% endcapture %}{{ ch.name }}: "{{ url | htmlBaseUrl }}",{% endfor %}
+};

@@ -1,0 +1,16 @@
+---
+layout: article.liquid
+title: Steps Calculator
+desc: See how many steps there are between two characters!
+tags: fun
+eleventyNavigation:
+  parent: Fun
+---
+<div>
+    <p>Character 1: <select name="ch1" class="select"></select></p>
+    <p>Character 2: <select name="ch2" class="select"></select></p>
+</div>
+<button onclick="calculate()">Calculate!</button>
+<div id="results"></div>
+<script src="./data.js"></script>
+<script src="/js/steps.js"></script>
