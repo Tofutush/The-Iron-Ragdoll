@@ -56,11 +56,12 @@ function findRelationshipPath(graph, start, end) {
 }
 
 function facts() {
-	let longestPath = 0, none = 0;
+	let longestPath = 0, none = 0, total = 0;
 	let middleCount = {};
 	for (let z = 0; z < chs.length; z++) {
 		for (let x = z + 1; x < chs.length; x++) {
 			let result = findRelationshipPath(rel, chs[z], chs[x]);
+			total++;
 			if (result === 'none') {
 				none++;
 				continue;
@@ -83,7 +84,7 @@ function facts() {
 		}
 	}
 	let factsDiv = document.getElementById('facts');
-	factsDiv.appendChild(elt('p', {}, `Out of the ${chs.length * chs.length} total possible combinations, there are ${chs.length} useless self-connections, ${chs.length * chs.length - none} valid connections, and the rest are ${none} possible combinations where no connection can be found. I want to get the last number down to zero.`));
+	factsDiv.appendChild(elt('p', {}, `Out of the ${total} possible unique combinations (excluding useless self-connections), there are ${none} possible combinations where no connection can be found. I want to get that number down to zero.`));
 	factsDiv.appendChild(elt('p', {}, `The longest path has ${longestPath - 2} characters in-between. Can you find it? (There might be more than one. I haven't checked. Nor have I found any for that matter. I could let the program tell me, but what's the fun in that?)`));
 	factsDiv.appendChild(elt('p', {}, `The character that appears most frequently as an intermediary is ${maxName} at ${maxMiddle} times. Conversely, the least is ${minName} at ${minMiddle} times.`));
 	factsDiv.appendChild(elt('p', {}, `The BFS algorithm that I `, elt('s', {}, `copied off the internet`), ` totally wrote myself only looks for the first shortest path found, so the characters that appear most and least frequently as an intermediary is based off of that only.`));
