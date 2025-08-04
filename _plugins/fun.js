@@ -13,6 +13,21 @@ function funPlugin(eleventyConfig) {
 		relationships = relationships.map(r => r.ch);
 		return { ch: characters, rel: relationships }
 	});
+	eleventyConfig.addFilter('getStepsData', rels => {
+		let graph = {};
+		for (let z = 0; z < rels.length; z++) {
+			let [a, b] = rels[z].ch;
+			let aName = a[0];
+			let aRel = a[1] || '';
+			let bName = b[0];
+			let bRel = b[1] || '';
+			if (!graph[aName]) graph[aName] = [];
+			if (!graph[bName]) graph[bName] = [];
+			graph[aName].push({ name: bName, rel: aRel });
+			graph[bName].push({ name: aName, role: bRel });
+		}
+		return graph;
+	});
 }
 
 export default funPlugin;
