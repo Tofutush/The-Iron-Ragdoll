@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-04
+
+- Added a fun little [Steps Calculator](/fun/steps/);
+
 ## 2025-08-02
 
 - New story: [Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/);
