@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-05
+
+- Added file count in the tag pages of [characters](/characters/tag/), [stories](/stories/tag/), and [world](/world/category/);
+
 ## 2025-08-04
 
 - Added a fun little [Steps Calculator](/fun/steps/);
