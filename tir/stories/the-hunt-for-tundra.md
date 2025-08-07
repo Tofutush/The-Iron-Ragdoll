@@ -7,11 +7,12 @@ chs:
   - kismet
 time: 2023 - ?
 titlezh: 
-summary: Bauhinia's president seeks immortality, part 2.
+summary: The president of Bauhinia seeks immortality, part 2.
 myTags:
   - Canon
   - Bauhinia
   - Fanton
+  - Kismet's presidency
 ---
 
 After the failure of [Project Boomerang](/stories/project-boomerang/), Kismet continued his search for immortality. And then he heard that a 13-year-old in Fanton was discovered to be [immortal](/world/superpowers/#immortality/). So he decided that he would have his body.
