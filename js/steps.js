@@ -88,6 +88,7 @@ function facts() {
 	factsDiv.appendChild(elt('p', {}, `The longest path has ${longestPath - 2} characters in-between. Can you find it? (There might be more than one. I haven't checked. Nor have I found any for that matter. I could let the program tell me, but what's the fun in that?)`));
 	factsDiv.appendChild(elt('p', {}, `The character that appears most frequently as an intermediary is ${maxName} at ${maxMiddle} times. Conversely, the least is ${minName} at ${minMiddle} times.`));
 	factsDiv.appendChild(elt('p', {}, `The BFS algorithm that I `, elt('s', {}, `copied off the internet`), ` totally wrote myself only looks for the first shortest path found, so the characters that appear most and least frequently as an intermediary is based off of that only.`));
+	document.getElementById('facts-button').outerHTML = '<h2>Interesting facts</h2>';
 }
 
 function elt(type, props, ...children) {
