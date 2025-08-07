@@ -1136,6 +1136,23 @@
     "about": "Pinecone used to just be a short little housewife at only 145cm, raising three kids, suffering domestic abuse yet trying and failing to seek help. That is, until one day, she was approached by government agents giving her an offer she can't refuse.\n\nHer kids would be guaranteed spots at Bauhinia's top institutions and offered comfortable and well-paid jobs, but Pinecone herself would also be working a secret job that forbids her from seeing her children in person again. She will be trained adequately in her new job. They have been watching her for quite a while and they know she can do it.\n\nPinecone had to agree. She was"
   },
   {
+    "name": "Rosemary",
+    "namezh": "迷迭香",
+    "color": "#14adab",
+    "desc": "Your gentle, caring friend?",
+    "tags": [
+      "Flower City",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Nickname": "Rose (by Pinecone)",
+      "Gender": "Female",
+      "Nationality": "Bauhinian",
+      "Occupation": "Project Kismet's handler"
+    },
+    "about": "Rosemary is assigned Pinecone's handler in Project Kismet. She is gentle and caring, and helped Pinecone get through her worst times. She also has a couple college-aged kids."
+  },
+  {
     "name": "Sundae",
     "namezh": "圣代",
     "color": "#863094",
