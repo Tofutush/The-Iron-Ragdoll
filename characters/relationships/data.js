@@ -1087,6 +1087,13 @@ rel2: "girlfriend / comrade"
 },
 
 {
+source: "Jackalope",
+target: "Typhoon",
+rel1: "trainee",
+rel2: "instructor"
+},
+
+{
 source: "Entity",
 target: "Harmony",
 rel1: "father",
