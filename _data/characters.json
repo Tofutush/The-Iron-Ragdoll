@@ -1406,6 +1406,25 @@
     "about": "The well-revered leader of the nameless village, who once attempted to save it from terrorists. His right leg is crippled from that incident. He is the only one who knows the real name of the village, having been informed of it by the previous leader, though he dares not utter it in front of others."
   },
   {
+    "name": "Natasha",
+    "namezh": "娜塔莎",
+    "color": "#ba5512",
+    "desc": "Annoying devil-girl.",
+    "quote": "TAKE THAT, YOU MOTHERFUCKING MOTHERFUCKER!",
+    "tags": [
+      "Westavia",
+      "Nameless Village"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Gas, like a supernova",
+      "Nationality": "Westavian",
+      "Power": "Superstrength lv. 200"
+    },
+    "about": "Natasha is loud. You'll hear her before you see her. And after you see her, you'll probably feel her. Or feel whatever thing she managed to throw at you.\n\nShe seems addicted to attention. She couldn't handle not being in the spotlight. She probably doesn't realize she's not the only person in the world. But she does; she knows that all too clearly. She's like this for a reason. She barely sees her parents, as they're both working in the city. Her grandparents weren't the most fun people in the world by young people standards, and she didn't have any siblings. She was lonely, and she craved attention.",
+    "trivia": "- 俄罗斯族。"
+  },
+  {
     "name": "Cobalt",
     "namezh": "钴蚀天",
     "color": "#0e81c8",
@@ -1856,24 +1875,5 @@
       "hair": "#2e2e2e"
     },
     "about": "Jinx's mother died giving birth. Her father named her \"Jinx\" because of this.\n\nJinx made the most athiest of Moose question their beliefs — wherever she went, trouble followed.\n\nAfter graduating high school, she git drafted into the cavalry for her love of horses, both normal ones and [winghorses](/world/creatures/). After completing her service, she continued to work as a horse trainer and riding instructor."
-  },
-  {
-    "name": "Natasha",
-    "namezh": "娜塔莎",
-    "color": "#ba5512",
-    "desc": "Annoying devil-girl.",
-    "quote": "TAKE THAT, YOU MOTHERFUCKING MOTHERFUCKER!",
-    "tags": [
-      "Westavia",
-      "Nameless Village"
-    ],
-    "attr": {
-      "Gender": "Female",
-      "Soul": "Gas, like a supernova",
-      "Nationality": "Westavian",
-      "Power": "Superstrength lv. 200"
-    },
-    "about": "Natasha is loud. You'll hear her before you see her. And after you see her, you'll probably feel her. Or feel whatever thing she managed to throw at you.\n\nShe seems addicted to attention. She couldn't handle not being in the spotlight. She probably doesn't realize she's not the only person in the world. But she does; she knows that all too clearly. She's like this for a reason. She barely sees her parents, as they're both working in the city. Her grandparents weren't the most fun people in the world by young people standards, and she didn't have any siblings. She was lonely, and she craved attention.",
-    "trivia": "- 俄罗斯族。"
   }
 ]
