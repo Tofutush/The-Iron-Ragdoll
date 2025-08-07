@@ -1425,7 +1425,7 @@
   {
     "name": "Natasha",
     "namezh": "娜塔莎",
-    "color": "#ba5512",
+    "color": "#e665d5",
     "desc": "Annoying devil-girl.",
     "quote": "TAKE THAT, YOU MOTHERFUCKING MOTHERFUCKER!",
     "tags": [
@@ -1436,7 +1436,7 @@
       "Gender": "Female",
       "Soul": "Gas, like a supernova",
       "Nationality": "Westavian",
-      "Power": "Superstrength lv. 200"
+      "Power": "Superstrength"
     },
     "about": "Natasha is loud. You'll hear her before you see her. And after you see her, you'll probably feel her. Or feel whatever thing she managed to throw at you.\n\nShe seems addicted to attention. She couldn't handle not being in the spotlight. She probably doesn't realize she's not the only person in the world. But she does; she knows that all too clearly. She's like this for a reason. She barely sees her parents, as they're both working in the city. Her grandparents weren't the most fun people in the world by young people standards, and she didn't have any siblings. She was lonely, and she craved attention.",
     "trivia": "- 俄罗斯族。"
@@ -1892,5 +1892,24 @@
       "hair": "#2e2e2e"
     },
     "about": "Jinx's mother died giving birth. Her father named her \"Jinx\" because of this.\n\nJinx made the most athiest of Moose question their beliefs — wherever she went, trouble followed.\n\nAfter graduating high school, she git drafted into the cavalry for her love of horses, both normal ones and [winghorses](/world/creatures/). After completing her service, she continued to work as a horse trainer and riding instructor."
+  },
+  {
+    "name": "Typhoon",
+    "namezh": "台风",
+    "color": "#5d3209",
+    "tags": [
+      "Fanton",
+      "Moreland",
+      "Guardian Moose"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Solid, ice cube that looks like chocolate because it's brown",
+      "Nationality": "Moose and Fantoni",
+      "Occupation": "Wilderness survival instructor",
+      "Power": "Mind-reading"
+    },
+    "about": "Typhoon used to live on the Fantoni Plateau. But when her parents wanted to force her into an arranged marriage with a boy she hated, she packed a bit of food and water and ran away from home. She went all the way from Fanton to Moreland, all by herself, only hitching maybe a couple rides or three along the way.\n\nA little inside Moreland's borders, she got attacked by a bear and one leg was gravely injured, and started to infect without treatment. That was when the Guardian Moose found her. They sent her to a hospital and had her bad leg amputated, and thus her life was spared. The Guardians then offered to recruit her as their wilderness survival instructor, to which she agreed. She was given Moose nationality.\n\nShe was soon hailed as a devil by the new recruits for her strictness and the intensity of her training. Years later, they also got her a prosthetic leg, which made the newbies even more scared because now she can kick them properly. Jinx remembers her torment and thanked the stars that Typhoon didn't have the robot leg while she was in the army.",
+    "trivia": "- 藏族。"
   }
 ]
