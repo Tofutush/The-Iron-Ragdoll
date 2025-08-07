@@ -260,7 +260,8 @@
       "dress": "#696969",
       "hair": "#2E2E2E"
     },
-    "about": "Myriad has a mutation that gives her a pair of fairy wings."
+    "about": "Myriad has a mutation that gives her a pair of fairy wings.",
+    "trivia": "- 满族。"
   },
   {
     "name": "Alaska",
@@ -683,7 +684,7 @@
       "hair": "#754413"
     },
     "about": "Pumpkin is a goofy guy who loves slurping boba tea and hates filling out forms.",
-    "trivia": "- He gives off a goofy dumbass vibe.",
+    "trivia": "- He gives off a goofy dumbass vibe.\n- 维吾尔族。",
     "note": "- Any interactions with Goose or other MSS people should be drawn in his uniform.\n    - You can change the uniform design, but\n        - Keep it a dark color\n        - Have the Bauhinian pink somewhere on it\n        - Make sure they're wearing gloves\n- Any interactions with Candlelight or other villagers should be drawn in his blue clothes.\n    - His stubby horn will make a bulge in his hat. Would be charmed if it's drawn, but you don't have to!"
   },
   {
@@ -1344,7 +1345,8 @@
       "armband": "#E25887",
       "heart": "#F09FCE",
       "hair": "#2e2e2e"
-    }
+    },
+    "trivia": "- 回族。"
   },
   {
     "name": "Sunflower",
@@ -1383,7 +1385,8 @@
       "shirt": "#C4B0CF",
       "hair": "#6C4816"
     },
-    "about": "Helsinki is a distant relative of [Pumpkin](/characters/pumpkin/)'s, descended from the part of his family that didn't immigrate to [Bauhinia](/world/bauhinia/). She lives in [the village](/world/westavia/pumpkins-village/)."
+    "about": "Helsinki is a distant relative of [Pumpkin](/characters/pumpkin/)'s, descended from the part of his family that didn't immigrate to [Bauhinia](/world/bauhinia/). She lives in [the village](/world/westavia/pumpkins-village/).",
+    "trivia": "- 维吾尔族。"
   },
   {
     "name": "Mooncake",
@@ -1402,7 +1405,8 @@
     "palette": {
       "hair": "#2e2e2e"
     },
-    "about": "A policeman in a [little village](/world/westavia/pumpkins-village/)."
+    "about": "A policeman in a [little village](/world/westavia/pumpkins-village/).",
+    "trivia": "- 东乡族。"
   },
   {
     "name": "Thyme",
@@ -1421,7 +1425,8 @@
       "Marital status": "Married",
       "Occupation": "Farmer"
     },
-    "about": "The well-revered leader of the nameless village, who once attempted to save it from terrorists. His right leg is crippled from that incident. He is the only one who knows the real name of the village, having been informed of it by the previous leader, though he dares not utter it in front of others."
+    "about": "The well-revered leader of the nameless village, who once attempted to save it from terrorists. His right leg is crippled from that incident. He is the only one who knows the real name of the village, having been informed of it by the previous leader, though he dares not utter it in front of others.",
+    "trivia": "- 东乡族。"
   },
   {
     "name": "Natasha",
@@ -1892,7 +1897,8 @@
       "pattern": "#575757",
       "hair": "#2e2e2e"
     },
-    "about": "Jinx's mother died giving birth. Her father named her \"Jinx\" because of this.\n\nJinx made the most athiest of Moose question their beliefs — wherever she went, trouble followed.\n\nAfter graduating high school, she git drafted into the cavalry for her love of horses, both normal ones and [winghorses](/world/creatures/). After completing her service, she continued to work as a horse trainer and riding instructor."
+    "about": "Jinx's mother died giving birth. Her father named her \"Jinx\" because of this.\n\nJinx made the most athiest of Moose question their beliefs — wherever she went, trouble followed.\n\nAfter graduating high school, she git drafted into the cavalry for her love of horses, both normal ones and [winghorses](/world/creatures/). After completing her service, she continued to work as a horse trainer and riding instructor.",
+    "trivia": "- 蒙古族。"
   },
   {
     "name": "Typhoon",

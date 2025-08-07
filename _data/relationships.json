@@ -1244,6 +1244,19 @@
   {
     "ch": [
       [
+        "Jackalope",
+        "trainee"
+      ],
+      [
+        "Typhoon",
+        "instructor"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Entity",
         "father"
       ],
