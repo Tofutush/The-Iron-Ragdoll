@@ -11,6 +11,8 @@ titlezh: 更新日志
 
 - Added characters: [Pinecone](/characters/pinecone/), [Rosemary](/characters/rosemary/), [Natasha](/characters/natasha/), [Typhoon](/characters/typhoon/);
 	- They all have designs, I promise; I just haven't drawn them digitally yet;
+- Added story [Project Kismet](/stories/project-kismet/);
+- Changed background style again;
 
 ## 2025-08-05
 

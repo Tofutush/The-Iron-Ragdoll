@@ -5,7 +5,7 @@ canon: yes
 chs:
   - jackpot
 time: 
-titlezh: 
+titlezh: 金元宝背景
 summary: Jackpot's backstory.
 myTags:
   - Canon
