@@ -985,6 +985,19 @@
   {
     "ch": [
       [
+        "Pinecone",
+        "asset"
+      ],
+      [
+        "Rosemary",
+        "handler"
+      ]
+    ],
+    "desc": "Pinecone and Rosemary got along well. Pinecone genuinely trusts Rosemary."
+  },
+  {
+    "ch": [
+      [
         "Koala",
         "wife"
       ],
