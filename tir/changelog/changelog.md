@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-07
+
+- Added characters: [Pinecone](/characters/pinecone/), [Rosemary](/characters/rosemary/), [Natasha](/characters/natasha/), [Typhoon](/characters/typhoon/);
+	- They all have designs, I promise; I just haven't drawn them digitally yet;
+
 ## 2025-08-05
 
 - Added file count in the tag pages of [characters](/characters/tag/), [stories](/stories/tag/), and [world](/world/category/);
