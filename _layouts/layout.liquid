@@ -6,7 +6,7 @@ eleventyComputed:
     key: "{{ title }}"
 ---
 <!doctype html>
-<html lang="en">
+<html lang="en" class="{% if siteTheme %}{{ siteTheme }}{% else %}light{% endif %}">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,6 +19,15 @@ eleventyComputed:
 	<meta property="og:site_name" content="The Iron Ragdoll">
 	<meta property="og:description" content="{{ desc }}">
 	<title>{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll</title>
+	{% unless siteTheme %}
+		<script>
+			(function () {
+				let lightDark = parseInt(localStorage.getItem('light-dark'));
+				if (lightDark === 0) document.documentElement.className = 'dark';
+				if (lightDark === 1) document.documentElement.className = 'light';
+			})();
+		</script>
+	{% endunless %}
 	<link rel="stylesheet" href="/css/style.css"/>
 	<link rel="stylesheet" href="/css/callout.css"/>
 	<link rel="stylesheet" href="/css/linkcolor.css"/>
@@ -32,7 +41,7 @@ eleventyComputed:
 	{% endif %}
 </head>
 {% assign siteTheme = siteTheme | default: false %}
-<body class="{% if siteTheme %}{{ siteTheme }}{% else %}light{% endif %}">
+<body>
 	<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner' 'png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
 	<nav>
 		<a href="#top">(Top)</a>
@@ -75,7 +84,22 @@ eleventyComputed:
 						{% lucide 'moon' %}
 					</div>
 				</div>
-				<script src="/js/themeSwitch.js"></script>
+				<script>
+					(function () {
+						let toggle = document.querySelector('.theme-toggle');
+						let lightDark = parseInt(localStorage.getItem('light-dark'));
+						toggle.addEventListener('click', e => {
+							if (lightDark === 0) {
+								lightDark = 1;
+								document.documentElement.className = 'light';
+							} else {
+								lightDark = 0;
+								document.documentElement.className = 'dark';
+							}
+							localStorage.setItem('light-dark', lightDark);
+						});
+					})();
+				</script>
 			{% endunless %}
 			{% unless noFooterImage %}
 				{% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
