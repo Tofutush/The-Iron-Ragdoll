@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="light">
 
 <head>
   <meta charset="utf-8">
@@ -13,13 +13,20 @@
   <meta property="og:site_name" content="The Iron Ragdoll">
   <meta property="og:description" content="Would be normal too if he weren't a boy which makes him oh-so-special.">
   <title>Animus | The Iron Ragdoll</title>
+  <script>
+    (function() {
+      let lightDark = parseInt(localStorage.getItem('light-dark'));
+      if (lightDark === 0) document.documentElement.className = 'dark';
+      if (lightDark === 1) document.documentElement.className = 'light';
+    })();
+  </script>
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/callout.css">
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
   <link rel="icon" href="/The-Iron-Ragdoll/icon.ico">
 </head>
 
-<body class="light">
+<body>
   <header style="background-image: url(/The-Iron-Ragdoll/img/gallery/F_2hbE9LGV-2000.webp)"><a href="/The-Iron-Ragdoll/"></a></header>
   <nav>
     <a href="#top">(Top)</a>
@@ -331,7 +338,22 @@
         </svg>
       </div>
     </div>
-    <script src="/The-Iron-Ragdoll/js/themeSwitch.js"></script>
+    <script>
+      (function() {
+        let toggle = document.querySelector('.theme-toggle');
+        let lightDark = parseInt(localStorage.getItem('light-dark'));
+        toggle.addEventListener('click', e => {
+          if (lightDark === 0) {
+            lightDark = 1;
+            document.documentElement.className = 'light';
+          } else {
+            lightDark = 0;
+            document.documentElement.className = 'dark';
+          }
+          localStorage.setItem('light-dark', lightDark);
+        });
+      })();
+    </script>
     <img alt="cms friends lineless" title="cms friends lineless" loading="lazy" decoding="async" class="footer-img" src="/The-Iron-Ragdoll/img/gallery/luLR86FkC8-500.webp" width="500" height="392">
   </footer>
   <div class="license">
