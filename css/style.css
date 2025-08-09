@@ -315,14 +315,8 @@ details {
 	}
 }
 
-details[open] {
-	display: flex;
-	flex-direction: column;
-	gap: 1em;
-
-	&>summary::after {
-		content: '-';
-	}
+details[open]>summary::after {
+	content: '-';
 }
 
 header {
