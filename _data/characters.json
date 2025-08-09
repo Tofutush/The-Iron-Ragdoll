@@ -1136,6 +1136,10 @@
       "Marital status": "Married",
       "Occupation": "Kismet's double; formerly housewife"
     },
+    "palette": {
+      "eyes, ears": "#000",
+      "hair": "#2e2e2e"
+    },
     "about": "Pinecone used to just be a short little housewife at only 145cm, raising three kids, suffering domestic abuse yet trying and failing to seek help. That is, until one day, she was approached by government agents giving her an offer she can't refuse.\n\nHer kids would be guaranteed spots at Bauhinia's top institutions and offered comfortable and well-paid jobs, but Pinecone herself would also be working a secret job that forbids her from seeing her children in person again. She will be trained adequately in her new job. They have been watching her for quite a while and they know she can do it.\n\nPinecone had to agree. She was then taken to a plastic surgeon, hairdresser, and all that; and by the time she got out she looked no longer like herself, but rather like… the president of Bauhinia, Kismet. She even had a throat implant that changed her voice to his.\n\nThat was the job. She would stand in for him during public appearances. Otherwise, she had all the time to herself, though she could not leave the government building nor contact anyone outside, except for calling her kids each once a week, and she had to strictly not mention her job to them.\n\nPinecone is grateful. She is living in a fancy palace and has delicious and nutritious meals every day. Though, sometimes the fear of fucking up and causing an international scandal got too great and she was scared of facing the numerous cameras and journalists. But then, Rosemary will always be there to comfort her.\n\n*This is the best job in the world; you're lucky. Other people wouldn't dream of getting it.*"
   },
   {
@@ -1152,6 +1156,9 @@
       "Gender": "Female",
       "Nationality": "Bauhinian",
       "Occupation": "Project Kismet's handler"
+    },
+    "palette": {
+      "hair": "#5D3209"
     },
     "about": "Rosemary is assigned Pinecone's handler in Project Kismet. She is gentle and caring, and helped Pinecone get through her worst times. She also has a couple college-aged kids."
   },
@@ -1444,6 +1451,12 @@
       "Soul": "Gas, like a supernova",
       "Nationality": "Westavian",
       "Power": "Superstrength"
+    },
+    "palette": {
+      "scarf stripe": "#5D3209",
+      "coat": "#5D3209",
+      "hair": "#5D3209",
+      "shirt, pants": "#2e2e2e"
     },
     "about": "Natasha is loud. You'll hear her before you see her. And after you see her, you'll probably feel her. Or feel whatever thing she managed to throw at you.\n\nShe seems addicted to attention. She couldn't handle not being in the spotlight. She probably doesn't realize she's not the only person in the world. But she does; she knows that all too clearly. She's like this for a reason. She barely sees her parents, as they're both working in the city. Her grandparents weren't the most fun people in the world by young people standards, and she didn't have any siblings. She was lonely, and she craved attention.",
     "trivia": "- 俄罗斯族。"
@@ -1916,6 +1929,9 @@
       "Nationality": "Moose and Fantoni",
       "Occupation": "Wilderness survival instructor",
       "Power": "Mind-reading"
+    },
+    "palette": {
+      "hair": "#382108"
     },
     "about": "Typhoon used to live on the Fantoni Plateau. But when her parents wanted to force her into an arranged marriage with a boy she hated, she packed a bit of food and water and ran away from home. She went all the way from Fanton to Moreland, all by herself, only hitching maybe a couple rides or three along the way.\n\nA little inside Moreland's borders, she got attacked by a bear and one leg was gravely injured, and started to infect without treatment. That was when the Guardian Moose found her. They sent her to a hospital and had her bad leg amputated, and thus her life was spared. The Guardians then offered to recruit her as their wilderness survival instructor, to which she agreed. She was given Moose nationality.\n\nShe was soon hailed as a devil by the new recruits for her strictness and the intensity of her training. Years later, they also got her a prosthetic leg, which made the newbies even more scared because now she can kick them properly. Jinx remembers her torment and thanked the stars that Typhoon didn't have the robot leg while she was in the army.",
     "trivia": "- 藏族。"
