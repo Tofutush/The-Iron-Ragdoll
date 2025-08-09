@@ -4075,5 +4075,50 @@
     "type": "png",
     "date": "2025-08-02",
     "comment": "Art trade with [Sneavile](https://toyhou.se/Sneavile), featuring [Apri](https://toyhou.se/33623650.apri)."
+  },
+  {
+    "name": "kismet thumb",
+    "type": "png",
+    "date": "2025-08-09",
+    "ch": [
+      "kismet"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "pinecone thumb",
+    "type": "png",
+    "date": "2025-08-09",
+    "ch": [
+      "pinecone"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "natasha stand",
+    "type": "png",
+    "date": "2025-08-09",
+    "ch": [
+      "natasha"
+    ],
+    "kind": "fullbody"
+  },
+  {
+    "name": "rosemary thumb",
+    "type": "png",
+    "date": "2025-08-09",
+    "ch": [
+      "rosemary"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "typhoon thumb",
+    "type": "png",
+    "date": "2025-08-09",
+    "ch": [
+      "typhoon"
+    ],
+    "kind": "thumb"
   }
 ]

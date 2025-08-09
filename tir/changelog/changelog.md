@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-09
+
+- Added `kismet thumb.png`, `pinecone thumb.png`, `natasha stand.png`, `rosemary thumb.png`, `typhoon thumb.png`;
+
 ## 2025-08-07
 
 - Added characters: [Pinecone](/characters/pinecone/), [Rosemary](/characters/rosemary/), [Natasha](/characters/natasha/), [Typhoon](/characters/typhoon/);
