@@ -12,8 +12,8 @@ eleventyComputed:
   tag: "{{ tag }}"
 ---
 {% assign filteredFiles = collections.world | filterWorldByTag: tag %}
-<h1>Category: {{ tag }}</h1>
 <div class="breadcrumbs"><a href="/world/">World</a> {% lucide 'chevron-right' %} <a href="/world/category/">Category</a>{% lucide 'chevron-right' %}<a href="{{ page.url }}">{{ tag }}</a></div>
+<h1>Category: {{ tag }}</h1>
 <ul>
     {% for file in filteredFiles %}
         {% include 'fileLi', file: file %}
