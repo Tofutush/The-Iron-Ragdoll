@@ -12,5 +12,4 @@ eleventyComputed:
   tag: "{{ tag }}"
 ---
 {% assign filteredStories = collections.stories | filterStoriesByTag: tag %}
-<div class="breadcrumbs"><a href="/stories/">Stories</a> {% lucide 'chevron-right' %} <a href="/stories/tag/">Tag</a>{% lucide 'chevron-right' %}<a href="{{ page.url }}">{{ tag }}</a></div>
 {% include 'storylist', stories: filteredStories %}

@@ -12,7 +12,6 @@ eleventyComputed:
   tag: "{{ tag }}"
 ---
 {% assign filteredChs = characters | filterChByTag: tag %}
-<div class="breadcrumbs"><a href="/characters/">Characters</a> {% lucide 'chevron-right' %} <a href="/characters/tag/">Tag</a>{% lucide 'chevron-right' %}<a href="{{ page.url }}">{{ tag }}</a></div>
 {% include 'chs', chs: filteredChs %}
 {% assign slugged = tag | slug %}
 {% if collections[slugged] %}
