@@ -6,15 +6,14 @@ pagination:
   alias: tag
   addAllPagesToCollections: true
 permalink: "world/category/{{ tag | slug }}/"
+noNav: true
 eleventyComputed:
   title: "{{ tag }}"
   tag: "{{ tag }}"
-  eleventyNavigation:
-    title: "{{ tag }}"
-    parent: Categories
 ---
 {% assign filteredFiles = collections.world | filterWorldByTag: tag %}
 <h1>Category: {{ tag }}</h1>
+<div class="breadcrumbs"><a href="/world/">World</a> {% lucide 'chevron-right' %} <a href="/world/category/">Category</a>{% lucide 'chevron-right' %}<a href="{{ page.url }}">{{ tag }}</a></div>
 <ul>
     {% for file in filteredFiles %}
         {% include 'fileLi', file: file %}

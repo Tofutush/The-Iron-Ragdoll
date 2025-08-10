@@ -6,14 +6,13 @@ pagination:
   alias: tag
   addAllPagesToCollections: true
 permalink: "characters/tag/{{ tag | slug }}/"
+noNav: true
 eleventyComputed:
   title: "{{ tag }} Characters"
   tag: "{{ tag }}"
-  eleventyNavigation:
-    title: "{{ tag }}"
-    parent: Tags
 ---
 {% assign filteredChs = characters | filterChByTag: tag %}
+<div class="breadcrumbs"><a href="/characters/">Characters</a> {% lucide 'chevron-right' %} <a href="/characters/tag/">Tag</a>{% lucide 'chevron-right' %}<a href="{{ page.url }}">{{ tag }}</a></div>
 {% include 'chs', chs: filteredChs %}
 {% assign slugged = tag | slug %}
 {% if collections[slugged] %}
