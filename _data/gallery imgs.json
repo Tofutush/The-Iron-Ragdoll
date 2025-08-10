@@ -4120,5 +4120,15 @@
       "typhoon"
     ],
     "kind": "thumb"
+  },
+  {
+    "name": "light camera action",
+    "type": "png",
+    "date": "2025-08-10",
+    "ch": [
+      "pinecone",
+      "kismet"
+    ],
+    "comment": "Entry for Drawin Club's August 2025 prompt, \"Lights, Camera, Action.\""
   }
 ]
