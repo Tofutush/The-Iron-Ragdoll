@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-10
+
+- Added `light camera action.png`;
+
 ## 2025-08-09
 
 - Added `kismet thumb.png`, `pinecone thumb.png`, `natasha stand.png`, `rosemary thumb.png`, `typhoon thumb.png`;
