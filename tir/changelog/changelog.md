@@ -10,6 +10,7 @@ titlezh: 更新日志
 ## 2025-08-10
 
 - Added `light camera action.png`;
+- Removed tag pages from the [sitemap](/sitemap/);
 
 ## 2025-08-09
 
