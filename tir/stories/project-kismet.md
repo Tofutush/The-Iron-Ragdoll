@@ -26,3 +26,10 @@ How to make the Kismet candidates collaborate? Target the lower-class and make t
 And there you have it: a president who mastered immortality.
 
 > In I don't know, a century? People won't think of Kismet as a person at all. People would just know that the sun is in the sky, and Kismet rules Bauhinia.
+
+Kismet idea dump:
+
+- #1: Pinecone (2024 - 2044): shy, nervous, retired properly. Her kids were allowed to see her on her deathbed. Pretty good start.
+- #2 (2044 - 2057): Liked staying up late, constantly had bags under their eyes. Had to be force-fed sleeping pills. Dropped dead one morning during transit.
+- #3 (2057 - 2065): Started to believe they *were* the real president. Had to be shot.
+- #4 (2065 - 2067): Received a defection note from Moreland, saying "you can escape." Managed to hide it from everybody else. Shot after it was found out. It was unclear whether they had further contacted Morelandian intelligence.
