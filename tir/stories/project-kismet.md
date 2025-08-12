@@ -24,3 +24,5 @@ It was the perfect plan. Firstly, make sure the double's face and overall shape 
 How to make the Kismet candidates collaborate? Target the lower-class and make them offers they can't refuse.
 
 And there you have it: a president who mastered immortality.
+
+> In I don't know, a century? People won't think of Kismet as a person at all. People would just know that the sun is in the sky, and Kismet rules Bauhinia.
