@@ -1,5 +1,7 @@
 import characters from './characters.json' with {type: 'json'};
-import days from './holidays.json' with {type: 'json'};
+import daysJson from './holidays.json' with {type: 'json'};
+
+let days = JSON.parse(JSON.stringify(daysJson));
 
 // tf is this godawful code kid can future you fix it
 for (let z = 0; z < characters.length; z++) {
