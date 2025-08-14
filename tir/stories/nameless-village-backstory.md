@@ -61,6 +61,8 @@ It was Ember.
 
 Together, they controlled the village and made sure to gather enough food and water to go further west into the wastelands.
 
+{% image "gallery/" "mooncake candlelight occupation night" "png" 1000 "Mooncake and Candlelight worrying about Thyme" 'max' %}
+
 Thyme resisted, but got beaten up and his right leg crippled. To this day he still walked with a limp.
 
 The terrorists took Thyme's house for the night, and for once Thyme had to stay at Candlelight's, instead of the other way around.
