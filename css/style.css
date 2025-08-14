@@ -397,7 +397,7 @@ footer {
 
 .graybox {
 	background-color: var(--box);
-	border-radius: 16px;
+	border-radius: 1em;
 	padding: 1em;
 
 	& p {
@@ -409,6 +409,13 @@ footer {
 			margin-bottom: 0;
 		}
 	}
+}
+
+.card {
+	border: 8px solid var(--box);
+	border-radius: 1em;
+	padding: 1em 2em;
+	margin: 2em 0;
 }
 
 .tooltip {
@@ -667,5 +674,9 @@ a::selection {
 		&>:nth-child(2n) {
 			margin-left: 1em;
 		}
+	}
+
+	.card {
+		padding: 0 1em;
 	}
 }

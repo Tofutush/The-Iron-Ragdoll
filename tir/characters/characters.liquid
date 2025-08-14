@@ -85,27 +85,29 @@ eleventyComputed:
     <h2 id="relationships">Relationships</h2>
     {% assign count = 0 %}
     {% for rel in filteredRelations %}
-      {% assign otherCh = rel | getOtherCh: ch.name %}
-      {% assign relImg = rel | getRelImg %}
-      {% if relImg %}
-        {% assign mod = forloop.index |  modulo: 2 %}
-        {% if mod == 0 %}
-          {% assign class = 'float-left' | append: ' rel-img' %}
-        {% else %}
-          {% assign class='float-right' | append: ' rel-img' %}
+      <div class="card">
+        {% assign otherCh = rel | getOtherCh: ch.name %}
+        {% assign relImg = rel | getRelImg %}
+        {% if relImg %}
+          {% assign mod = forloop.index |  modulo: 2 %}
+          {% if mod == 0 %}
+            {% assign class = 'float-left' | append: ' rel-img' %}
+          {% else %}
+            {% assign class='float-right' | append: ' rel-img' %}
+          {% endif %}
+          {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
+          {% if relImg.author %}
+            {% assign path = 'others art/'%}
+            {% assign alt = alt | append: ' by ' | append: relImg.author %}
+          {% else %}
+            {% assign path = 'gallery/'%}
+          {% endif %}
+          {% image path relImg.name relImg.type 500 alt class %}
+          {% assign count = count | plus: 1 %}
         {% endif %}
-        {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
-        {% if relImg.author %}
-          {% assign path = 'others art/'%}
-          {% assign alt = alt | append: ' by ' | append: relImg.author %}
-        {% else %}
-          {% assign path = 'gallery/'%}
-        {% endif %}
-        {% image path relImg.name relImg.type 500 alt class %}
-        {% assign count = count | plus: 1 %}
-      {% endif %}
-      <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
-      {{ rel.desc | renderMD }}
+        <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
+        {{ rel.desc | renderMD }}
+      </div>
     {% endfor %}
   {% endif %}
   {% if ch.trivia %}
