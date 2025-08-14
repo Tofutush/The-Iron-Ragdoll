@@ -28,12 +28,12 @@
 }
 
 .card {
-    border: 8px solid var(--c);
-    border-radius: 1em;
+    border-color: var(--c);
     transition: all .3s var(--bezier-bounce);
     height: 100%;
     box-sizing: border-box;
     padding: 1em;
+    margin: 0;
     font-size: calc(var(--font-size) * 1.35);
     background-size: cover;
     background-position: center calc(var(--font-size) * 3);
