@@ -7,6 +7,12 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-14
+
+- Added a border around relationship text;
+	- Might cause a little funkiness when there's a picture but not enough text, but whatever that's my punishment for not writing relationship text;
+		- My CSS is a mess goddamn;
+
 ## 2025-08-10
 
 - Added `light camera action.png`;
