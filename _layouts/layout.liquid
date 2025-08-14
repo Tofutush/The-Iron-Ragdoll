@@ -6,6 +6,7 @@ eleventyComputed:
     key: "{{ title }}"
 ---
 <!doctype html>
+{% assign siteTheme = siteTheme | default: false %}
 <html lang="en" class="{% if siteTheme %}{{ siteTheme }}{% else %}light{% endif %}">
 <head>
 	<meta charset="utf-8">
@@ -40,7 +41,6 @@ eleventyComputed:
 		</style>
 	{% endif %}
 </head>
-{% assign siteTheme = siteTheme | default: false %}
 <body>
 	<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner' 'png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
 	<nav>
