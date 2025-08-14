@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="">
+<html lang="en" class="light">
 
 <head>
   <meta charset="utf-8">
@@ -13,6 +13,13 @@
   <meta property="og:site_name" content="The Iron Ragdoll">
   <meta property="og:description" content="A comic!">
   <title>Oneshots comic - page 4 | The Iron Ragdoll</title>
+  <script>
+    (function() {
+      let lightDark = parseInt(localStorage.getItem('light-dark'));
+      if (lightDark === 0) document.documentElement.className = 'dark';
+      if (lightDark === 1) document.documentElement.className = 'light';
+    })();
+  </script>
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/callout.css">
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
