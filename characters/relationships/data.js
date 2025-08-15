@@ -661,6 +661,13 @@ rel2: ""
 
 {
 source: "Tephra",
+target: "Frosting",
+rel1: "acquaintance",
+rel2: "acquaintance"
+},
+
+{
+source: "Tephra",
 target: "Melody",
 rel1: "friend",
 rel2: "friend"
@@ -713,6 +720,13 @@ source: "Trinket",
 target: "Melody",
 rel1: "client",
 rel2: "teammate"
+},
+
+{
+source: "Nebula",
+target: "Kismet",
+rel1: "advisor",
+rel2: "boss"
 },
 
 {
