@@ -88,7 +88,7 @@
         "friend"
       ]
     ],
-    "desc": "What's the difference between their cursing? Sparky does it unconsiously; she treats curses like like normal words. But Firecrackers curses intentionally, just to piss people off."
+    "desc": "What's the difference between their cursing? Sparky does it unconsciously; she treats curses like like normal words. But Firecrackers curses intentionally, just to piss people off.\n\nSparky had always whether intentionally or unintentionally tried to offer Firecrackers money, be it spare change or buying a lot of stuff at his parents' store, for which they need to pay Starcorp rent. Sparky had tried and failed to convince Peacock to lower rent for Firecrackers specifically."
   },
   {
     "ch": [
@@ -454,6 +454,19 @@
     "ch": [
       [
         "Tephra",
+        "acquaintance"
+      ],
+      [
+        "Frosting",
+        "acquaintance"
+      ]
+    ],
+    "desc": "Tephra and Frosting met during some case, and Tephra learned that Frosting grew up in the Project Boomerang lab just like Jerboa. He arranged a meeting for them to meet."
+  },
+  {
+    "ch": [
+      [
+        "Tephra",
         "friend"
       ],
       [
@@ -553,6 +566,19 @@
       ]
     ],
     "desc": "Trinket went to Melody for help catching Qibli. Melody of course pulled Tephra along too."
+  },
+  {
+    "ch": [
+      [
+        "Nebula",
+        "advisor"
+      ],
+      [
+        "Kismet",
+        "boss"
+      ]
+    ],
+    "desc": "Nebula is one of Kismet's most important advisors, specializing in magic (duh). She was the one who came up with most of the policy surrounding magic control in Bauhinia. She is informed about Project Kismet (meaning she knows the public Kismets are fake) and in direct contact with the real Kismet (meaning she saw Kismet in Tundra's body). To sum up, she's one of the people in Kismet's closest circles.\n\nThough she doesn't trust him at all. She uses her magic to shield her thoughts."
   },
   {
     "ch": [
@@ -1097,7 +1123,7 @@
         "BFF"
       ]
     ],
-    "desc": "Jaculus and Frosting were one of the few kids in the [Project Boomerang](/stories/project-boomerang/) laboratory, so they were natually close to each other."
+    "desc": "Jaculus and Frosting were one of the few kids in the [Project Boomerang](/stories/project-boomerang/) laboratory, so they were naturally close to each other."
   },
   {
     "ch": [
