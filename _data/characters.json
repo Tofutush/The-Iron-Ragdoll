@@ -62,7 +62,8 @@
       "shirt": "#D9A990",
       "shirt deco": "#F4D4C3",
       "hair": "#2E2E2E"
-    }
+    },
+    "about": "Amber has no idea how she came across Peacock; it was like magic. (Peacock was looking for her.) Now she finally has a stable life for herself and her daughter(s). However, after being turned by the shady organization fighting against Starcorp and Bauhinia (that I haven't named yet), she used her proximity to Peacock to find a lot of evidence for Starcorp's numerous crimes. Despite Peacock's pleas, she was assassinated by Starcorp."
   },
   {
     "name": "Peacock",
@@ -566,7 +567,7 @@
     "name": "Nightsun",
     "namezh": "午夜阳",
     "color": "#130b51",
-    "desc": "Our favorite spy husband.",
+    "desc": "Freelance spy.",
     "quote": "Here comes my arch-nemisis... Daymoon!",
     "tags": [
       "Coastline",
@@ -579,7 +580,7 @@
       "Full name": "Nightsun Cassowary Tourmaline",
       "Gender": "Male",
       "Birthday": "2017-04-18",
-      "Nationality": "Bauhinian?",
+      "Nationality": "Atlasian",
       "Orientation": "Bisexual, deep in the closet",
       "Marital status": "Married (to <a href=\"../sparky/\">Sparky</a>)",
       "Occupation": "Employee at Starcorp",
