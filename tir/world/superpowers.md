@@ -110,7 +110,7 @@ Immortality is stored in the bones, and as such it's the only power that can be 
 
 <figure class="float-right">{% image 'gallery/' 'magic' 'svg' 200 '' %} <figcaption>Magic symbol</figcaption></figure>
 
-- Possessors: [Qibli](/characters/qibli/), [Trinket](/characters/trinket/), [Halcyon](/characters/halcyon/)
+- Possessors: [Qibli](/characters/qibli/), [Trinket](/characters/trinket/), [Halcyon](/characters/halcyon/), [Nebula](/characters/nebula/)
 - People with magic are called magicians
 
 Now, this is the best one of all. Powerful, mystical, and artificially rare (at least in [Bauhinia](/world/bauhinia/)).
@@ -125,9 +125,7 @@ Magic is stored in the blood, but despite that, normal blood taken out of the bo
 
 For each superpower, be it common or special, there will be at most *one* person alive at the time who will bear the title of Arch-whatever-they-are.
 
-Arch-people are obviously the most powerful at whatever their superpower is, but here's the catch: you can't be born into it. You have to have *consciously* did something about your superpower that no one else had ever done.
-
-For example, [Qibli](/characters/qibli/) crowned herself as the Arch-Magician (not officially, since at that time, the [Bauhinian government](/world/bauhinia/) had already completely illegalized anything related to magic) after discovering how to not only put fragments of her magic in vessels (previously it was only possible to put the entire thing in), but also let *other people*, non-magicians use it, something that has always been considered impossible.
+Arch-people are obviously the most powerful at whatever their superpower is. How this is determined, though, is another matter. If the previous Arch-person had some protege they named, usually their wishes are abided by. But if not, there would be a lot of backs-and-forth between the ISA and other governments.
 
 ## Related files
 
