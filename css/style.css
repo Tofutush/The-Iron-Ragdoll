@@ -145,9 +145,12 @@ a {
 	text-decoration-color: var(--c);
 	text-decoration-thickness: .2em;
 	text-underline-offset: .3em;
+	text-decoration-skip-ink: none;
+	transition: all .2s var(--bezier);
 
 	&:hover {
 		color: var(--c);
+		text-underline-offset: .2em;
 	}
 }
 
