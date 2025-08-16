@@ -4165,5 +4165,31 @@
       "mooncake",
       "candlelight"
     ]
+  },
+  {
+    "name": "kismet and kismet",
+    "type": "png",
+    "date": "2025-08-16",
+    "ch": [
+      "kismet"
+    ]
+  },
+  {
+    "name": "kismet original",
+    "type": "png",
+    "date": "2025-08-16",
+    "ch": [
+      "kismet"
+    ],
+    "kind": "pagedoll"
+  },
+  {
+    "name": "kismet tundra",
+    "type": "png",
+    "date": "2025-08-16",
+    "ch": [
+      "kismet"
+    ],
+    "kind": "fullbody"
   }
 ]

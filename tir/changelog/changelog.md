@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-16
+
+- Added `kismet and kismet.png`, `kismet original.png`, `kismet tundra.png`;
+
 ## 2025-08-14
 
 - Added a border around relationship text;
