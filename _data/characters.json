@@ -651,7 +651,7 @@
       "hat symbol border": "#A7A7A7",
       "hair": "#2E2E2E"
     },
-    "about": "Check out her [PMV](https://youtu.be/v4ats5O0mio)!\n\nGoose is *just* like other girls. She likes everything other girls like. She does everything other girls do. She listens to whatever music is most popular at the moment. She watches whatever show is most popular at the moment.\n\nGoose is just happy to spend her life on the bandwagon.\n\n---\n\nGoose is an officer at the [Ministry of State Security](/world/bauhinia/mss/). She likes juggling her baton and giving vague threats about sending people to a possible Ministry of Love. She has a knack of trying her best at everything she puts her mind to do.\n\nShe 's 29 but still lives with her parents. If they died she would bury herself with them.",
+    "about": "Check out her [PMV](https://youtu.be/v4ats5O0mio)!\n\nGoose is *just* like other girls. She likes everything other girls like. She does everything other girls do. She listens to whatever music is most popular at the moment. She watches whatever show is most popular at the moment.\n\nGoose is just happy to spend her life on the bandwagon.\n\n---\n\nGoose is an officer at the [Ministry of State Security](/world/bauhinia/mss/). She likes juggling her baton and giving vague threats about sending people to a possible Ministry of Love. She has a knack of trying her best at everything she puts her mind to do. She never fails to take business personally.\n\nShe 's 29 but still lives with her parents. If they died she would bury herself with them.",
     "trivia": "- She gives off a goofy villain vibe.\n- She loves juggling her baton, kicking it from one foot to the other, catching it on her chin, spinning it on her fingertips, and throwing it at random colleagues (usually Pumpkin).\n- If she were ever to have a theme song, it would be titled *Goosebumps（鹅皮疙瘩）*.\n- If she had a lusus, it would be a goose.\n- Song: [苍蝇（The Fly） - ilem](https://www.bilibili.com/video/BV1p5411879s)",
     "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves"
   },
@@ -704,9 +704,10 @@
     "af": "https://artfight.net/character/5612120.halcyon",
     "attr": {
       "Gender": "Male",
-      "Soul": "Liquid",
+      "Soul": "Solid, a little bird",
       "Birthday": "1991-03-18",
       "Nationality": "Bauhinian",
+      "Marital status": "Married",
       "Occupation": "MSS officer",
       "Weapon": "Baton",
       "Power": "Magic lv. undisclosed"
@@ -719,7 +720,7 @@
       "hat symbol border": "#A7A7A7",
       "hair": "#2e2e2e"
     },
-    "about": "Halcyon is a [Morelandian](/world/moreland/) spy working for the [MSS](/world/bauhinia/mss/).",
+    "about": "Halcyon is a [Morelandian](/world/moreland/) spy working for the [MSS](/world/bauhinia/mss/).\n\nAn avid opportunist, a hopeless romantic, and a dirty traitor. But did he betray Bauhinia, or did Bauhinia betray *him*?",
     "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves"
   },
   {
@@ -1119,7 +1120,8 @@
     "palette": {
       "hair": "#2e2e2e"
     },
-    "about": "The ~~dictator~~ president of Bauhinia. Extremely powerful.\n\nKismet was born with nothing special, but he consumed 5 other souls with extremely strong superpowers and now he has all 5 [common powers](/world/superpowers/). He is after [Tundra](/characters/tundra/)'s immortal body. If magic weren't impossible to get ahold of, he would've went for that too.\n\nHis 6 souls made him into a rainbow and molded his text color into pure black.\n\nHe has his extremely powerful mind-reading tuned to the entire Flower City. Usually people would just be background noise, but he would be alerted if there are insubservient thoughts.\n\nHe is actually the reincarnation of [Hyrax](/characters/hyrax/) with memories intact. Because of this, he came up with the idea (or rather, Hyrax learned that Kismet would do this and Kismet did) of [eternal death](/world/bauhinia/#eternal-death), to prevent people from reincarnating, let alone with memory.\n\nAfter acquiring Tundra's body, he needed stand-ins for himself in public appearances, and thus [Project Kismet](/stories/project-kismet/) was initiated."
+    "about": "The ~~dictator~~ president of Bauhinia. Extremely powerful.\n\nKismet was born with nothing special, but he consumed 5 other souls with extremely strong superpowers and now he has all 5 [common powers](/world/superpowers/). He is after [Tundra](/characters/tundra/)'s immortal body. If magic weren't impossible to get ahold of, he would've went for that too.\n\nHis 6 souls made him into a rainbow and molded his text color into pure black.\n\nHe has his extremely powerful mind-reading tuned to the entire Flower City. Usually people would just be background noise, but he would be alerted if there are in-subservient thoughts.\n\nHe is actually the reincarnation of [Hyrax](/characters/hyrax/) with memories intact. Because of this, he came up with the idea (or rather, Hyrax learned that Kismet would do this and Kismet did) of [eternal death](/world/bauhinia/#eternal-death), to prevent people from reincarnating, let alone with memory.\n\nAfter acquiring Tundra's body, he needed stand-ins for himself in public appearances, and thus [Project Kismet](/stories/project-kismet/) was initiated.",
+    "trivia": "- His rainbow border comes from too many souls leaking aura. This is purely a design aspect and in-universe characters can't see it."
   },
   {
     "name": "Pinecone",
@@ -1344,7 +1346,7 @@
     ],
     "af": "https://artfight.net/character/5794178.candlelight",
     "attr": {
-      "Full name": "Candlelight Ember Muscat",
+      "Full name": "Candlelight Ember (later Candlelight Muscat)",
       "Nickname": "Candle",
       "Gender": "Male",
       "Birthday": "2003-12-02",
@@ -1408,6 +1410,7 @@
       "Nameless Village"
     ],
     "attr": {
+      "Full name": "Mooncake Thyme",
       "Gender": "Female",
       "Birthday": "2003-08-18",
       "Nationality": "Westavian",
@@ -1826,6 +1829,7 @@
       "Westavia"
     ],
     "attr": {
+      "Full name": "Jelly Checkers",
       "Gender": "Female",
       "Soul": "Solid, jelly-like",
       "Age estimation": "The same as Harmony",

@@ -669,7 +669,7 @@
         "colleague / friend"
       ]
     ],
-    "desc": "Pumpkin and Goose are on the same team in the MSS, both on the younger side. They have a very pure and goofy friendship, always willing to help each other out, and always ready to laugh at each other when they do something stupid (which is often)."
+    "desc": "Pumpkin and Goose are on the same team in the MSS, both on the younger side. They have a very pure and goofy friendship, always willing to help each other out, and always ready to laugh at each other when they do something stupid (which is often).\n\nWhen Goose found out about Pumpkin's treason after the Moreland nuke fiasco, she took it too personally — why didn't Pumpkin *tell me* about it when Halcyon first demanded him to steal stuff from Paperweight? Why did he keep it to himself? The betrayal pained Goose."
   },
   {
     "ch": [
@@ -695,7 +695,7 @@
         "shifu"
       ]
     ],
-    "desc": "Paperweight is constantly annoyed that Goose didn't live up to his expectations."
+    "desc": "Paperweight is constantly annoyed that Goose didn't live up to his expectations, yet he uses her as free labor all the time."
   },
   {
     "ch": [
@@ -721,7 +721,7 @@
         "shifu"
       ]
     ],
-    "desc": ""
+    "desc": "Pumpkin never thought he could've been given a job at the MSS, yet here he is. He is extremely grateful to Halcyon, respects him, and wishes to never let him down. This is why, when Halcyon started asking him to steal stuff from Paperweight and eventually more important people, he didn't decline. Pumpkin kept thinking that if he had enough spine back then, things would've turned out different. He now sees Halcyon as he is: a cowardly traitor. But who's to say Pumpkin isn't the same?"
   },
   {
     "ch": [
@@ -733,7 +733,7 @@
         "superior"
       ]
     ],
-    "desc": "Paperweight hates Pumpkin because he's so annoying. Also because he's jealous at how Pumpkin was smarter and stronger than him. And that he's mad at himself for growing old.\n\nIf Pumpkin pulled out a boba tea in front of him, he would take it and dump the entire thing down the drain while forcing Pumpkin to watch.\n\nAlso he thinks Pumpkin is a weirdo because Paperweight is homophobic as fuck.\n\nPumpkin quite reveres Paperweight, and is especially curious about the \"legend\" he created. At the same time he was also scared of him, because fuck knows how he's going to be tortured if Paperweight finds out about his treason."
+    "desc": "Paperweight hates Pumpkin because he's so annoying. Also because he's jealous at how Pumpkin was smarter and stronger than him. And that he's mad at himself for growing old.\n\nIf Pumpkin pulled out a boba tea in front of him, he would take it and dump the entire thing down the drain while forcing Pumpkin to watch.\n\nAlso he thinks Pumpkin is a weirdo because Paperweight is homophobic as fuck.\n\nPumpkin quite reveres Paperweight, but at the same time he was also scared of him, because fuck knows how he's going to be tortured if Paperweight finds out about his treason."
   },
   {
     "ch": [
@@ -760,6 +760,19 @@
       ]
     ],
     "desc": "Helsinki's and Pumpkin's grandparents were related somewhat."
+  },
+  {
+    "ch": [
+      [
+        "Halcyon",
+        "colleague"
+      ],
+      [
+        "Paperweight",
+        "colleague"
+      ]
+    ],
+    "desc": "Paperweight, neck-deep in his self-pity, failed to notice Halcyon spying under his nose. He often assigned Halcyon to do his work so he doesn't have to. Halcyon knew, and used the chances. Paperweight could never forgive himself for that."
   },
   {
     "ch": [
