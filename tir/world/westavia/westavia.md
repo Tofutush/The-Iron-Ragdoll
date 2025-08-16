@@ -69,6 +69,10 @@ The second favorite thing is accusing Moreland of being revisionist while denyin
 
 Westavians are known for being passionate, hospitable, and friendly to guests. To visitors, they treat them to their best food and wine; to their neighbors, they trust each other so much that in villages, people hardly lock their doors. It helps that most of their living rooms don't have roofs, and is essentially just a yard with tables in it.
 
+### Naming conventions
+
+The surname of a Westavian is their father's given name. For example, [Jelly](/characters/jelly/) [Checkers](/characters/checkers/). In recent times, more and more people have started to take on their mother's names too.
+
 ### Wine culture
 
 Westavians love making wine because they have way too many grapes. And raisins too[^1].
