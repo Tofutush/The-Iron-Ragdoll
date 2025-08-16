@@ -828,6 +828,13 @@ rel2: "distant relative"
 },
 
 {
+source: "Halcyon",
+target: "Paperweight",
+rel1: "colleague",
+rel2: "colleague"
+},
+
+{
 source: "Paperweight",
 target: "Whiteout",
 rel1: "apprentice",
