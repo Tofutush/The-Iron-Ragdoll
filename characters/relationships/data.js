@@ -809,7 +809,7 @@ rel2: "shifu"
 {
 source: "Pumpkin",
 target: "Paperweight",
-rel1: "",
+rel1: "subordinate",
 rel2: "superior"
 },
 
