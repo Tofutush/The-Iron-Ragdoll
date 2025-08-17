@@ -14,14 +14,14 @@ titlezh: 关于
 
 <section style="border-sizing: border-box; --orange-500: #f66d1e; --blue-800: #162c33; --gray-900: #ffffff;">
   <div style="display: flex; flex-direction: column; align-items: center; background-color: var(--blue-800); padding: 1rem; border-radius: 0.5rem; color: var(--gray-900);">
-    <div style="width: 10rem; height: 10rem; display: flex; justify-content: center; align-items: center; image-rendering: pixelated;border-image-source: url(https://file.garden/Z85j0wcYZ0vCXjU9/robot%20master%20frame.png); border-image-width: 2rem; border-image-repeat: round; border-image-slice: 33.33% fill;">
-        <img src="/img/bg/Robot Master.png" alt="Robot Master" />
-    </div>
-    <div style="width: 24ch; text-align: center;">
-      <p style="color: var(--off-white)">HALT! THIS WEBSITE IS IN CONTROL OF DR WILY</p>
-      <p style="color: var(--off-white)">This is Ice's Domain</p>
-      <p style="color: var(--off-white)" style="font-size: xx-small;" >Want to join? <a style="color: var(--orange-500)" target="_blank" href="https://kunfucutsman.neocities.org/fun/robot-master-maker/">Click here!</a></p>
-    </div>
+	<div style="width: 10rem; height: 10rem; display: flex; justify-content: center; align-items: center; image-rendering: pixelated;border-image-source: url(https://file.garden/Z85j0wcYZ0vCXjU9/robot%20master%20frame.png); border-image-width: 2rem; border-image-repeat: round; border-image-slice: 33.33% fill;">
+		<img src="/img/bg/Robot Master.png" alt="Robot Master" />
+	</div>
+	<div style="width: 24ch; text-align: center;">
+	  <p style="color: var(--off-white)">HALT! THIS WEBSITE IS IN CONTROL OF DR WILY</p>
+	  <p style="color: var(--off-white)">This is Ice's Domain</p>
+	  <p style="color: var(--off-white)" style="font-size: xx-small;" >Want to join? <a style="color: var(--orange-500)" target="_blank" href="https://kunfucutsman.neocities.org/fun/robot-master-maker/">Click here!</a></p>
+	</div>
   </div>
 </section>
 
@@ -63,7 +63,7 @@ I'd love code to have a similar license too, but apparently noncommercial goes a
 
 **Status:** At large
 
-**DoB:** Feb 1
+**DoB:** Feb 1<sup>st</sup>
 
 **Occupation:** Lurker (professional)
 
@@ -74,6 +74,7 @@ I'd love code to have a similar license too, but apparently noncommercial goes a
 - [Discord](https://discord.com/invite/XzdA5vKkb2)
 - [Toyhouse](https://toyhou.se/Tofutush)
 - [Artfight](https://artfight.net/~Tofutush)
+- [米球岛](https://mecoland.cn/user?id=cmeej84rs0028680hg6hdsiep&sourceType=detailPreview)
 
 **Risk assessment:** Low risk. Subject can and will trip over her own shoelaces. Has next to zero countersurveillance skills. The only obstacle to containment is her spontaneous consumption of other people.
 
