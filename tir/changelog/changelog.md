@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-18
+
+- Added `jaculus profile.png`, `pumpkin ref.png`;
+
 ## 2025-08-16
 
 - Added `kismet and kismet.png`, `kismet original.png`, `kismet tundra.png`;
