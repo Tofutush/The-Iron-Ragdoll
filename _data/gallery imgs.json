@@ -4202,5 +4202,23 @@
       "sparky",
       "animus"
     ]
+  },
+  {
+    "name": "jaculus profile",
+    "type": "png",
+    "date": "2025-08-18",
+    "ch": [
+      "jaculus"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "pumpkin ref",
+    "type": "png",
+    "date": "2025-08-18",
+    "ch": [
+      "pumpkin"
+    ],
+    "kind": "ref"
   }
 ]
