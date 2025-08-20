@@ -30,9 +30,13 @@ Now that she was in middle school, she also had to start attending [Magic Academ
 
 The book was enchanted. The more she read it, the stronger her magic became. She actually learned new spells, something insanely hard to do because of how magicians' skillset and level are set in stone at birth.
 
-By the time she was 18 years old and about to graduate high school, she had read the book cover-to-cover no fewer than three times. She wanted to keep it, but quickly found out that Nebula cast an irreversible charm on it 
+By the time she was 18 years old and about to graduate high school, she had read the book cover-to-cover no fewer than three times. She wanted to keep it, but quickly found out that Nebula cast an irreversible charm on it so she knows its location at all times.
 
-She murdered Nebula (reason TBD) and fled to live a life at large. Trinket was made the next Arch-Magician.
+If you can't get rid of the charm, what can you do?
+
+Let's murder the person on whom the charm works.
+
+Qibli murdered Nebula by chopping her brains into tofu, and fled to live a life at large. Trinket was made the next Arch-Magician.
 
 ## Adulthood
 
