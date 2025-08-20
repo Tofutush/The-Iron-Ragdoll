@@ -1,7 +1,7 @@
 ---
 layout: world.liquid
 title: Meng Po
-chTitle: 孟婆
+titlezh: 孟婆
 desc: The afterlife and reincarnation.
 categories:
   - Lore
