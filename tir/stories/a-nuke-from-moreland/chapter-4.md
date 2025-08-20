@@ -122,9 +122,9 @@ She spent most of her time sleeping as usual. The book had taught her everything
 
 ---
 
-Firecrackers got a berating for shutting down the grocery store after coaxing his parents to sleep. Pumpkin had been no help. He was stuck behind the counter with heavy bags under his eyes, unable to sleep. After dinner, he plopped face-down onto his bed and passed out before his head touched the pillow.
+Firecrackers got a berating for shutting down the grocery store after coaxing his dad to sleep. Pumpkin had been no help. He was stuck behind the counter with heavy bags under his eyes, unable to sleep. After dinner, he plopped face-down onto his bed and passed out before his head touched the pillow.
 
-The next morning, he was woken at 9 sharp by his mom.
+The next morning, he was woken at 9 sharp by his dad.
 
 "Your friends are here!"
 
@@ -250,7 +250,7 @@ Sky's eyebrows drooped into a frown. "We don't have anything like that."
 
 Pumpkin looked at him expectantly.
 
-Sky sat there, dumbfounded for a while, and suddenly his eyes widened. "It's *Sparky* who bought the nuke?"
+Sky sat there, dumbfounded for a while, and suddenly his eyes widened. "*Sparky* bought the nuke?"
 
 Pumpkin slapped his own forehead, snatched Sky's half-eaten kebab from his hand, and stood up to leave. "I thought you were the smart one!"
 
