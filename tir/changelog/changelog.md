@@ -11,6 +11,7 @@ titlezh: 更新日志
 
 - [Pinecone](/characters/pinecone/) is now [Firecrackers](/characters/firecrackers/)'s mom;
 	- Retconned a little for this; inconsistencies may still appear where I haven't caught them;
+- Published lore file [Meng Po](/world/meng-po/);
 
 ## 2025-08-18
 
