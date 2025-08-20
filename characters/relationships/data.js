@@ -646,6 +646,13 @@ rel2: "apprentice"
 },
 
 {
+source: "Firecrackers",
+target: "Pinecone",
+rel1: "son",
+rel2: "mother"
+},
+
+{
 source: "Tomato",
 target: "Potato",
 rel1: "twin",
