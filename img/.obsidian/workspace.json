@@ -15,14 +15,15 @@
               "type": "bases",
               "state": {
                 "file": "Base.base",
-                "viewName": "My art"
+                "viewName": "Reference sheets"
               },
               "pinned": true,
               "icon": "lucide-layout-grid",
               "title": "Base"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -56,8 +57,14 @@
   },
   "active": "d5f642ebbe6c8ea6",
   "lastOpenFiles": [
-    "gallery/pumpkin ref.png",
+    "gallery/sparky ref.png",
     "Base.base",
+    "gallery/nightsun ref.png",
+    "gallery/mss ref.png",
+    "gallery/buttercup ref.png",
+    "gallery/willow ref.png",
+    "gallery/pumpkin ref.png",
+    "gallery/elegance thumb.png",
     "others art/buttercup martiansnake.png",
     "watermark new.png"
   ]
