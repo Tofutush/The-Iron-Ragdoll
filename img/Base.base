@@ -1,0 +1,34 @@
+views:
+  - type: cards
+    name: My art
+    filters:
+      and:
+        - file.inFolder("gallery")
+        - file.ext != "svg"
+    order: []
+    sort:
+      - property: file.ctime
+        direction: DESC
+    image: file.file
+    imageFit: contain
+  - type: cards
+    name: Other's art
+    filters:
+      and:
+        - file.inFolder("others art")
+    order: []
+    image: file.file
+    imageFit: contain
+  - type: cards
+    name: Comics
+    filters:
+      and:
+        - file.inFolder("comics")
+    order: []
+    sort:
+      - property: file.folder
+        direction: ASC
+    image: file.file
+    imageFit: contain
+    imageAspectRatio: 1.4
+    cardSize: 230
