@@ -12,6 +12,30 @@ views:
     image: file.file
     imageFit: contain
   - type: cards
+    name: Thumbnails
+    filters:
+      and:
+        - file.name.endsWith(" thumb.png")
+    order: []
+    image: file.file
+  - type: cards
+    name: Profiles
+    filters:
+      and:
+        - file.name.endsWith(" profile.png")
+    order: []
+    image: file.file
+  - type: cards
+    name: Reference sheets
+    filters:
+      and:
+        - file.name.endsWith(" ref.png")
+    order: []
+    image: file.file
+    imageAspectRatio: 0.65
+    cardSize: 320
+    imageFit: ""
+  - type: cards
     name: Other's art
     filters:
       and:
