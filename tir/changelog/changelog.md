@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-21
+
+- Added [The Absolute End to TIR as We Know It](/stories/the-absolute-end-to-tir-as-we-know-it/);
+- Edited [Peacock's Backstory](/stories/peacock-backstory/);
+
 ## 2025-08-20
 
 - [Pinecone](/characters/pinecone/) is now [Firecrackers](/characters/firecrackers/)'s mom;
