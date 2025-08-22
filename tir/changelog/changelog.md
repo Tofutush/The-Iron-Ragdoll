@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-08-22
+
+- CHECK OUT [MY BROTHER'S ART](). THIS IS MANDATORY!
+
 ## 2025-08-21
 
 - Added [The Absolute End to TIR as We Know It](/stories/the-absolute-end-to-tir-as-we-know-it/);
