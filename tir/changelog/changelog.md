@@ -9,7 +9,7 @@ titlezh: 更新日志
 
 ## 2025-08-22
 
-- CHECK OUT [MY BROTHER'S ART](). THIS IS MANDATORY!
+- CHECK OUT [MY BROTHER'S ART OF GOOSE](https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/others%20art/goose%20brother.jpg). THIS IS MANDATORY!
 
 ## 2025-08-21
 
