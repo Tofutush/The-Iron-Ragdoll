@@ -416,7 +416,6 @@
     "name": "Cosmo",
     "namezh": "星河",
     "color": "#998cbd",
-    "desc": "Editor of the press!",
     "quote": "If everyone believes it, then it is the truth.",
     "tags": [
       "Coastline",
@@ -431,7 +430,7 @@
       "Birthday": "2016-12-24",
       "Nationality": "Bauhinian",
       "Weapon": "Throwing stars",
-      "Power": "Mind reading, unregistered"
+      "Power": "Mind reading, lv. 13"
     },
     "palette": {
       "middle eye": "#fe0",
@@ -464,6 +463,7 @@
   },
   {
     "name": "Trinket",
+    "namezh": "地摊货",
     "color": "#28aed1",
     "tags": [
       "Magic Academy",
