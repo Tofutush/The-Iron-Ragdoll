@@ -12,7 +12,7 @@
     "properties"
   ],
   "interfaceFontFamily": "DIN Round Pro",
-  "textFontFamily": "Lexend,霞鹜文楷",
+  "textFontFamily": "Lexend,Readex Pro,霞鹜文楷",
   "cssTheme": "",
   "theme": "obsidian",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑"
