@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en" class="light">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="Tofutush">
+  <meta name="theme-color" content="#e56b6f">
+  <meta property="og:title" content="You passed! | The Iron Ragdoll">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="/icon.ico">
+  <meta property="og:site_name" content="The Iron Ragdoll">
+  <meta property="og:description" content="">
+  <title>You passed! | The Iron Ragdoll</title>
+  <script>
+    (function() {
+      let lightDark = parseInt(localStorage.getItem('light-dark'));
+      if (lightDark === 0) document.documentElement.className = 'dark';
+      if (lightDark === 1) document.documentElement.className = 'light';
+    })();
+  </script>
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/callout.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
+  <link rel="icon" href="/The-Iron-Ragdoll/icon.ico">
+</head>
+
+<body>
+  <header style="background-image: url(/The-Iron-Ragdoll/img/gallery/F_2hbE9LGV-2000.webp)"><a href="/The-Iron-Ragdoll/"></a></header>
+  <nav>
+    <a href="#top">(Top)</a>
+    <a href="/The-Iron-Ragdoll/about/">About</a>
+    <a href="/The-Iron-Ragdoll/characters/">Characters</a>
+    <a href="/The-Iron-Ragdoll/stories/">Stories</a>
+    <a href="/The-Iron-Ragdoll/world/">World</a>
+    <a href="/The-Iron-Ragdoll/gallery/2025/">Gallery</a>
+    <a href="/The-Iron-Ragdoll/changelog/">Updates</a>
+  </nav>
+  <main>
+    <style>
+      .yes,
+      .no,
+      .thanks,
+      .notif {
+        display: none;
+      }
+    </style>
+    <h1 style="text-align: center;">Congratulations!</h1>
+    <img alt="MSS agents greeting you" title="MSS agents greeting you" loading="lazy" decoding="async" class="max" src="/The-Iron-Ragdoll/img/gallery/lTX9cy9i8R-1000.webp" width="1000" height="595">
+    <p>You have passed the entrance test to the <a href="/The-Iron-Ragdoll/world/bauhinia/mss/">Ministry of State Security</a>!</p>
+    <p>In the scavenger hunt, you showed great ability in deduction, code-cracking, and Google. You're eligible to join the most prestigious agency of all, and work alongside the elite of the elite!</p>
+    <p>Make your choice. You can either join and become a state-sanctioned soulless killing machine, or you can refuse and get disappeared for knowing the answer. There are no right or wrong choices, just your preference!</p>
+    <p>Do you wish to join us?</p>
+    <div class="box-nav"><a onclick="choose('yes')">Yes</a><a onclick="choose('no')">No</a></div>
+    <div class="yes">
+      <h1 style="text-align: center;">Alrighty! That's amazing! Welcome!</h1>
+      <img alt="Goose hugs you" title="Goose hugs you" loading="lazy" decoding="async" class="m-auto" src="/The-Iron-Ragdoll/img/gallery/eDes4g74Z6-500.webp" width="500" height="505">
+    </div>
+    <div class="no">
+      <h1 style="text-align: center;">We respect your choice.</h1>
+      <p>Now, would you mind coming to the back of this comically thin shed with me real quick?</p>
+      <img alt="Goose, gun in hand, invites you to the shed." title="Goose, gun in hand, invites you to the shed." loading="lazy" decoding="async" class="m-auto" src="/The-Iron-Ragdoll/img/gallery/krOvN28zjN-500.webp" width="500" height="403">
+    </div>
+    <div class="thanks">
+      <p>Thank you for playing! I hope you enjoyed this!</p>
+      <p>P.S. Make sure to <a href="/The-Iron-Ragdoll/contact/">tell me</a> if you reached here!</p>
+    </div>
+    <div class="notif">
+      <p>What, do you think you can just refresh the page and remake the decision? Don't be silly!</p>
+      <p>(Distant desperate scream: "clearing localStorage data will reset your choice!" "Shut up!" Gunshot.)</p>
+    </div>
+    <script>
+      window.onload = function() {
+        let choice = localStorage.getItem('choice');
+        if (choice === 'yes' || choice === 'no') {
+          choose(choice);
+          document.querySelector('.notif').style.display = 'block';
+        }
+      }
+
+      function choose(choice) {
+        document.querySelector('.' + choice).style.display = 'block';
+        document.querySelector('.box-nav').style.display = 'none';
+        document.querySelector('.thanks').style.display = 'block';
+        localStorage.setItem('choice', choice);
+      }
+    </script>
+  </main>
+  <footer>
+    <div class="theme-toggle">
+      <div>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun">
+          <circle cx="12" cy="12" r="4"></circle>
+          <path d="M12 2v2"></path>
+          <path d="M12 20v2"></path>
+          <path d="m4.93 4.93 1.41 1.41"></path>
+          <path d="m17.66 17.66 1.41 1.41"></path>
+          <path d="M2 12h2"></path>
+          <path d="M20 12h2"></path>
+          <path d="m6.34 17.66-1.41 1.41"></path>
+          <path d="m19.07 4.93-1.41 1.41"></path>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon">
+          <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+        </svg>
+      </div>
+    </div>
+    <script>
+      (function() {
+        let toggle = document.querySelector('.theme-toggle');
+        let lightDark = parseInt(localStorage.getItem('light-dark'));
+        toggle.addEventListener('click', e => {
+          if (lightDark === 0) {
+            lightDark = 1;
+            document.documentElement.className = 'light';
+          } else {
+            lightDark = 0;
+            document.documentElement.className = 'dark';
+          }
+          localStorage.setItem('light-dark', lightDark);
+        });
+      })();
+    </script>
+    <img alt="one man short footer" title="one man short footer" loading="lazy" decoding="async" class="footer-img" src="/The-Iron-Ragdoll/img/gallery/LTgImSOajo-500.webp" width="500" height="370">
+  </footer>
+  <div class="license">
+    <p>The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></p>
+    <p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/./tir/fun/hunt/answer.liquid">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll/ubtt/kli/jac/gcbg/">Archive this page</a></p>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
+  <script>
+    if (!window.location.href.includes('localhost')) {
+      window.addEventListener('load', () => {
+        quicklink.listen();
+      });
+    }
+  </script>
+</body>
+
+</html>
