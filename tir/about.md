@@ -76,7 +76,7 @@ I'd love code to have a similar license too, but apparently noncommercial goes a
 - [Artfight](https://artfight.net/~Tofutush)
 - [米球岛](https://mecoland.cn/user?id=cmeej84rs0028680hg6hdsiep&sourceType=detailPreview)
 
-**Risk assessment:** Low risk. Subject can and will trip over her own shoelaces. Has next to zero countersurveillance skills. The only obstacle to containment is her spontaneous consumption of other people.
+**Risk assessment:** Low risk. Subject can and will trip over her own shoelaces. Has next to zero counter-surveillance skills. The only obstacle to containment is her spontaneous consumption of other people.
 
 ### Boundaries
 
