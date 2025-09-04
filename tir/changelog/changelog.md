@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-04
+
+- Added `jinx jackalope snow.png`;
+
 ## 2025-09-01
 
 - Moved July to [older updates](old/);
