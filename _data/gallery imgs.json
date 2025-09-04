@@ -4018,8 +4018,7 @@
     "ch": [
       "jinx",
       "jackalope"
-    ],
-    "kind": "rel"
+    ]
   },
   {
     "name": "myriad profile",
@@ -4257,6 +4256,7 @@
     "ch": [
       "jinx",
       "jackalope"
-    ]
+    ],
+    "kind": "rel"
   }
 ]
