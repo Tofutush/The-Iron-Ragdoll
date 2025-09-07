@@ -10,6 +10,7 @@ titlezh: 更新日志
 ## 2025-09-07
 
 - Added `jelly astonished.png`, `sparky cool.png`;
+- Changed theme color to grayscale to make the character soul colors stand out more.
 
 ## 2025-09-04
 
