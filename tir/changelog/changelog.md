@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-07
+
+- Added `jelly astonished.png`, `sparky cool.png`;
+
 ## 2025-09-04
 
 - Added `jinx jackalope snow.png`;
