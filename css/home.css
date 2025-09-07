@@ -82,14 +82,12 @@
     }
 }
 
-body.dark {
-    & .card p {
+html {
+    &.dark .card p {
         text-shadow: 0px 0px 6px var(--off-black);
     }
-}
 
-body.light {
-    & .card p {
+    &.light .card p {
         text-shadow: 0px 0px 6px var(--off-white);
     }
 }
