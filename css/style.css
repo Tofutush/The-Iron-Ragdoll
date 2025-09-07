@@ -40,10 +40,10 @@
 	--bezier: cubic-bezier(0, 0, 0, 1);
 	--bezier-bounce: cubic-bezier(0, 1, 0, 1.5);
 	--off-black: #191919;
-	--off-white: #fff9f2;
-	--c-light: #e56b6f;
+	--off-white: #e6e6e6;
+	--c-light: #555;
 	--box-light: #0001;
-	--c-dark: #f58e91;
+	--c-dark: #aaa;
 	--box-dark: #fff5;
 }
 
