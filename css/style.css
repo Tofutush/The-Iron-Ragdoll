@@ -60,7 +60,6 @@ html {
 	&.dark body {
 		--text: var(--off-white);
 		--bg: var(--off-black);
-		--bg-2: #000;
 		--c: var(--c-dark);
 		--box: var(--box-dark);
 
@@ -80,7 +79,6 @@ html {
 	&.light body {
 		--text: var(--off-black);
 		--bg: var(--off-white);
-		--bg-2: #fdf1e3;
 		--c: var(--c-light);
 		--box: var(--box-light);
 
