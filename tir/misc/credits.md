@@ -9,7 +9,7 @@ Most content on this site is made by myself. What isn't:
 
 - I use [11ty](https://11ty.dev) as a static site generator.
 - Some code is inspired by (read: copied from) StackOverflow, W3C, and Grepper answers.
-- The [relationship graph](/characters/relationships/) is made with [D3.js with the force-directed graph example](https://d3js.org/d3-force).
+- The [relationship graph](/characters/relationships/) is made with [D3.js with the force-directed graph example](https://observablehq.com/@d3/disjoint-force-directed-graph/2).
 - Icons are from [Lucide](https://lucide.dev).
 - The Robot Master on [About](/about/) is from [KFCMan](https://kunfucutsman.neocities.org/fun/robot-master-maker/).
 - The hosting is provided by either Github Pages or [Neocities](https://neocities.org), depending on where you are.
