@@ -20,6 +20,7 @@ const options = {
     horizontalScroll: true,
     horizontalScrollKey: 'shiftKey',
     verticalScroll: true,
+    order: (a, b) => a.start - b.start,
     zoomKey: 'ctrlKey'
 };
 const timeline = new vis.Timeline(container, items, options);
