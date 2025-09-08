@@ -1,0 +1,14 @@
+---
+permalink: "world/timeline/data.js"
+---
+const items = new vis.DataSet([
+    {% for item in timeline.data.items %}
+        {% if item.start and item.type != "defaultPerson" %}
+            {
+                content: "{{ item.label }}",
+                start: new Date("{{ item.start }}"),
+                {% if item.start != item.end %}end: new Date("{{ item.end }}"){% else %}type: "point"{% endif %}
+            },
+        {% endif %}
+    {% endfor %}
+]);
