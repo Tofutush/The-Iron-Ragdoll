@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-08
+
+- Added a shitty [timeline](/world/timeline/)!
+
 ## 2025-09-07
 
 - Added `jelly astonished.png`, `sparky cool.png`;
