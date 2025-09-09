@@ -2,26 +2,17 @@
 layout: world.liquid
 title: Timeline
 titlezh: 时间线
-desc: A timeline of events!
+desc: "A timeline of events! Warning: long, messy file."
 tags: lore
 categories:
   - Lore
-widepage: true
 eleventyNavigation:
   parent: World
 ---
-<div id="visualization"></div>
-<script src="/js/vis-timeline-graph2d.min.js"></script>
-<script src="data.js"></script>
-<script>
-const container = document.getElementById("visualization");
-const options = {
-    height: '600px',
-    horizontalScroll: true,
-    horizontalScrollKey: 'shiftKey',
-    verticalScroll: true,
-    order: (a, b) => a.start - b.start,
-    zoomKey: 'ctrlKey'
-};
-const timeline = new vis.Timeline(container, items, options);
-</script>
+<p>This is a cheesy port of my Aeon Timeline project! Because of this, I can't add any links, and events with both a start and end are displayed rather awkwardly. But at last, everything I have on TIR is on the website. I am hiding nothing from you! (I'd be such a terrible spy LMAO)</p>
+<div class="attr">
+  {% for item in timeline %}
+    <p>{{ item.time }}</p>
+    <p>{{ item.label }}</p>
+  {% endfor %}
+</div>
