@@ -1,8 +1,4 @@
 ---
-layout: fic.liquid
-parent: A Nuke From Moreland
-tags:
-  - anfm-fic
 chNum: 4
 ---
 
