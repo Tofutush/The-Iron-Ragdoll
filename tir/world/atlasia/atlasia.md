@@ -1,6 +1,5 @@
 ---
 title: Atlasia
-templateEngineOverride: liquid,md
 eleventyNavigation:
   parent: World
   order: 3

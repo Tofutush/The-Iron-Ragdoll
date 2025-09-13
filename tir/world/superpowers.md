@@ -1,7 +1,6 @@
 ---
 title: Superpowers
 desc: Superpowers, common and rare!
-templateEngineOverride: liquid,md
 tags:
   - lore
 eleventyNavigation:

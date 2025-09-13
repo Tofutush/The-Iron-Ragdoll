@@ -1,7 +1,6 @@
 ---
 title: Bauhinia
 displayTitle: The Republic of Bauhinia
-templateEngineOverride: liquid,md
 eleventyNavigation:
   parent: World
   order: 1

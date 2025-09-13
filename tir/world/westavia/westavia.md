@@ -1,6 +1,5 @@
 ---
 title: Westavia
-templateEngineOverride: liquid,md
 eleventyNavigation:
   parent: World
   order: 4

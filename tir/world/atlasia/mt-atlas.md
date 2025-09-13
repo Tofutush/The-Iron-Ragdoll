@@ -1,7 +1,6 @@
 ---
 title: mtatlas
 displayTitle: Mt. Atlas
-templateEngineOverride: liquid,md
 eleventyNavigation:
   title: Mt. Atlas
   parent: Atlasia

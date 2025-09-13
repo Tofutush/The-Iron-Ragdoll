@@ -1,6 +1,5 @@
 ---
 title: Moreland
-templateEngineOverride: liquid,md
 eleventyNavigation:
   parent: World
   order: 5
