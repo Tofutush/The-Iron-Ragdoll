@@ -1,11 +1,8 @@
 ---
-layout: world.liquid
 title: mtatlas
 displayTitle: Mt. Atlas
-templateEngineOverride: liquid,md
 eleventyNavigation:
   title: Mt. Atlas
-  parent: Atlasia
 titlezh: 亚特拉斯山
 categories:
   - Locations

@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Spy School
 canon: yes
 chs:

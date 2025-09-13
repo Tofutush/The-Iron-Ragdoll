@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Races
 desc: The types of off-humans in this world.
 titlezh: 种族

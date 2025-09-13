@@ -1,10 +1,7 @@
 ---
-layout: world.liquid
 title: Bonnie
 titlezh: 波尼
 desc: Capital of Sylvandia.
-eleventyNavigation:
-  parent: Sylvandia
 categories:
   - Cities
   - Locations

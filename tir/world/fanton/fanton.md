@@ -1,7 +1,5 @@
 ---
-layout: world.liquid
 title: Fanton
-templateEngineOverride: liquid,md
 eleventyNavigation:
   parent: World
   order: 2

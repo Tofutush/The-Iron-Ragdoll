@@ -1,9 +1,6 @@
 ---
-layout: world.liquid
 title: Froggy Island
 desc: Hyrax's personal island.
-eleventyNavigation:
-  parent: Bauhinia
 titlezh: 蛙蛙岛
 categories:
   - Locations

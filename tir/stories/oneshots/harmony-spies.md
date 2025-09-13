@@ -1,11 +1,7 @@
 ---
-layout: fic.liquid
 chTitle: Harmony Spies
-parent: Oneshots
 chNum: 3
 date: 2025-07-12
-tags:
-  - oneshots-fic
 ---
 
 Harmony snuck in the teachers' office to eavesdrop on them after her tadlet got confiscated. There were only two teachers inside, Sky and someone else Harmony didn't know.

@@ -1,9 +1,6 @@
 ---
-layout: world.liquid
 title: Area 3
 desc: Former industrial center of Westavia.
-eleventyNavigation:
-  parent: Westavia
 titlezh: 第三区
 categories:
   - Cities

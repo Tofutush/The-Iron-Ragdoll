@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Meng Po
 titlezh: 孟婆
 desc: The afterlife and reincarnation.

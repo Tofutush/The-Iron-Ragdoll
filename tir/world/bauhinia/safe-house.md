@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Safe house
 eleventyNavigation:
   parent: Coastline

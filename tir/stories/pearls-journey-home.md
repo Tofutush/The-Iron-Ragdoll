@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Pearl's Journey Home
 canon: yes
 chs:

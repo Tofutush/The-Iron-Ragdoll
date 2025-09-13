@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Elegance Kidnapped
 canon: yes
 chs:

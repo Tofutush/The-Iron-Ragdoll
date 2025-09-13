@@ -1,7 +1,5 @@
 ---
-layout: world.liquid
 title: Atlasia
-templateEngineOverride: liquid,md
 eleventyNavigation:
   parent: World
   order: 3

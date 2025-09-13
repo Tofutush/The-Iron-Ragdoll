@@ -1,9 +1,6 @@
 ---
-layout: world.liquid
 title: Area 1
 desc: Economic center of Westavia.
-eleventyNavigation:
-  parent: Westavia
 titlezh: 第一区
 categories:
   - Cities

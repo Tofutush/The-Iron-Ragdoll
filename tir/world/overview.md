@@ -1,8 +1,6 @@
 ---
-layout: world.liquid
 title: Overview
 desc: Your briefing of the TIR world.
-templateEngineOverride: liquid,md
 tags:
   - lore
 eleventyNavigation:

@@ -1,8 +1,6 @@
 ---
-layout: world.liquid
 title: Holliloli
 eleventyNavigation:
-  parent: Sylvandia
   order: 4
 titlezh: 冬青莉莉
 categories:

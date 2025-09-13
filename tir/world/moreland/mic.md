@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Military Intelligence Corps
 eleventyNavigation:
   parent: The Guardian Moose

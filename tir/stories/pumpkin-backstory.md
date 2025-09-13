@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Pumpkin's Backstory
 canon: yes
 chs:

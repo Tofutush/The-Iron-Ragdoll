@@ -1,9 +1,6 @@
 ---
-layout: world.liquid
 title: Revolution's Cradle
 desc: Capital of Moreland.
-eleventyNavigation:
-  parent: Moreland
 titlezh: 首义之城
 categories:
   - Cities

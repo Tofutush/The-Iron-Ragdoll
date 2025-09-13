@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Poker Party
 canon: yes
 chs:
