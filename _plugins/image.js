@@ -1,6 +1,6 @@
-import { existsSync } from "fs";
 import Image from "@11ty/eleventy-img";
-import imageSize from "image-size";
+import { existsSync } from "fs";
+import { imageSizeFromFile } from 'image-size/fromFile';
 
 function imagePlugin(eleventyConfig) {
 	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt, className, fallback, fallbackType, freeze) {
@@ -8,7 +8,7 @@ function imagePlugin(eleventyConfig) {
 			return `<img src="/img/${path}${name}.gif" alt="${alt}" class="${className}" />`;
 		}
 		let src = getImgSrc(path, name, type, fallback, fallbackType);
-		let dimensions = imageSize(src);
+		let dimensions = await imageSizeFromFile(src);
 		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
 		let metadata = await getImg(src, size, format, path);
 		let imageAttributes = {
