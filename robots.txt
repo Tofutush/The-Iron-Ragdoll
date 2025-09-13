@@ -1,4 +1,4 @@
-Sitemap: https://tofutush.github.io/sitemap.xml
+Sitemap: https://tofutush.github.io/The Iron Ragdoll/sitemap.xml
 
 User-agent: *
 Disallow:
