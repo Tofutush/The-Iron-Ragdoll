@@ -1,8 +1,6 @@
 ---
 title: Magic Academy
 titlezh: 魔法学院
-eleventyNavigation:
-  parent: Bauhinia
 desc: Magical indoctrination school.
 categories:
   - Schools

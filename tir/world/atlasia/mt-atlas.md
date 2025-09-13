@@ -3,7 +3,6 @@ title: mtatlas
 displayTitle: Mt. Atlas
 eleventyNavigation:
   title: Mt. Atlas
-  parent: Atlasia
 titlezh: 亚特拉斯山
 categories:
   - Locations

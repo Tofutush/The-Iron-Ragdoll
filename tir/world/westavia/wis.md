@@ -1,8 +1,6 @@
 ---
 title: Westavian Intelligence Service
 desc: Foreign intelligence service of Westavia
-eleventyNavigation:
-  parent: Westavia
 categories:
   - Organizations
   - Government Organizations
