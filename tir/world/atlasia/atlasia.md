@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Atlasia
 templateEngineOverride: liquid,md
 eleventyNavigation:

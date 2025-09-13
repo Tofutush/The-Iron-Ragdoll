@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Area 3
 desc: Former industrial center of Westavia.
 eleventyNavigation:

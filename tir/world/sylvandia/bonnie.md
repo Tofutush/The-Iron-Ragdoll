@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Bonnie
 titlezh: 波尼
 desc: Capital of Sylvandia.

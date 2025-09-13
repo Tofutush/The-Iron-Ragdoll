@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Magic Academy
 titlezh: 魔法学院
 eleventyNavigation:

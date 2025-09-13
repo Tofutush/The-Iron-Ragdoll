@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Fantoni Basin
 eleventyNavigation:
   parent: Fanton

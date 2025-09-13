@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Lunarale
 eleventyNavigation:
   parent: Sylvandia

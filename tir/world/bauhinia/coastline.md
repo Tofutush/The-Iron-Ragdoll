@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Coastline
 eleventyNavigation:
   parent: Bauhinia

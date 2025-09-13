@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Moreland
 templateEngineOverride: liquid,md
 eleventyNavigation:

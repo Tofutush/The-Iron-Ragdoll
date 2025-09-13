@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Solarine
 eleventyNavigation:
   parent: Sylvandia

@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Coastline Middle School
 eleventyNavigation:
   parent: Coastline

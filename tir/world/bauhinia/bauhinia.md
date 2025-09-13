@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Bauhinia
 displayTitle: The Republic of Bauhinia
 templateEngineOverride: liquid,md
