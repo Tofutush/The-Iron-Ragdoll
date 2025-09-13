@@ -39,8 +39,8 @@
 	--font-size-small: calc(var(--font-size) * 0.8);
 	--bezier: cubic-bezier(0, 0, 0, 1);
 	--bezier-bounce: cubic-bezier(0, 1, 0, 1.5);
-	--off-black: #191919;
-	--off-white: #e6e6e6;
+	--off-black: #222;
+	--off-white: #eee;
 	--c-light: #555;
 	--box-light: #0001;
 	--c-dark: #aaa;
@@ -366,7 +366,7 @@ nav>a:hover,
 }
 
 footer {
-	min-height: 56px;
+	position: relative;
 }
 
 .footer-img {
@@ -542,16 +542,18 @@ code {
 }
 
 .theme-toggle {
-	float: right;
+	position: absolute;
+	z-index: 99;
 	background-color: var(--c);
 	border-radius: 999px;
 	cursor: pointer;
 	height: 36px;
 	padding: 4px;
-	margin: 0 2rem 0 0;
-	position: relative;
 	transition: all .3s;
 	width: 72px;
+	bottom: 1em;
+	right: 1em;
+	box-shadow: 0 0 16px var(--c);
 
 	&>div {
 		align-items: center;
