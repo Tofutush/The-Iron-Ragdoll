@@ -1,8 +1,6 @@
 ---
 title: Ministry of State Security
 displayTitle: Ministry of State Security of the Republic of Bauhinia
-eleventyNavigation:
-  parent: Bauhinia
 tags:
   - ministry-of-state-security
 titlezh: 紫荆共和国国家安全部

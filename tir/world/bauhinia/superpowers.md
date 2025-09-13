@@ -2,7 +2,6 @@
 title: Superpowers in Bauhinia
 eleventyNavigation:
   title: Superpowers
-  parent: Bauhinia
 titlezh: 紫荆国里的超能力
 desc: How Bauhinia treats superpowers.
 categories:

@@ -1,8 +1,6 @@
 ---
 title: Area 29
 desc: A random city in the middle of nowhere.
-eleventyNavigation:
-  parent: Westavia
 titlezh: 第二十九区
 categories:
   - Cities

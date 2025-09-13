@@ -1,8 +1,6 @@
 ---
 title: Nameless Village
 titlezh: 无名村
-eleventyNavigation:
-  parent: Westavia
 tags:
   - nameless-village
 desc: Candlelight's old home, a tiny village.
