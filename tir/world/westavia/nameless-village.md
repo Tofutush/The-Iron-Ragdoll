@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Nameless Village
 titlezh: 无名村
 eleventyNavigation:

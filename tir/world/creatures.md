@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Creatures
 tags:
   - lore

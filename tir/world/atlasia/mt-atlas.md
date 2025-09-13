@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: mtatlas
 displayTitle: Mt. Atlas
 templateEngineOverride: liquid,md

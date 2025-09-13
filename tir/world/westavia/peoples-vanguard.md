@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: People's Vanguard
 desc: Capital of Westavia.
 eleventyNavigation:

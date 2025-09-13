@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Fanton
 templateEngineOverride: liquid,md
 eleventyNavigation:

@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Lotus Lake City
 eleventyNavigation:
   parent: Fanton

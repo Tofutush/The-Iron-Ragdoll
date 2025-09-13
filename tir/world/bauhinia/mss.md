@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Ministry of State Security
 displayTitle: Ministry of State Security of the Republic of Bauhinia
 eleventyNavigation:

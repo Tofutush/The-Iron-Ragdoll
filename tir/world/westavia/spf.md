@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Suicide Prevention Force
 desc: Westavia's internal security apparatus.
 eleventyNavigation:

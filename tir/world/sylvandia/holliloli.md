@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Holliloli
 eleventyNavigation:
   parent: Sylvandia

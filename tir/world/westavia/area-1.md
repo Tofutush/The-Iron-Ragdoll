@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Area 1
 desc: Economic center of Westavia.
 eleventyNavigation:
