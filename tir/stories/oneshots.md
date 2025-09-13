@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Oneshots
 canon: semi
 titlezh: 

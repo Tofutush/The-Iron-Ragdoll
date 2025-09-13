@@ -1,10 +1,7 @@
 ---
-layout: fic.liquid
 chTitle: Sparky Gets Searched
-parent: Oneshots
 chNum: 1
 date: 2025-06-29
-tags: oneshots-fic
 ---
 
 *Note: Considered non-canon due to retconning of the superpower boosting and blocking.*

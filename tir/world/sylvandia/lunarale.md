@@ -1,8 +1,6 @@
 ---
-layout: world.liquid
 title: Lunarale
 eleventyNavigation:
-  parent: Sylvandia
   order: 2
 titlezh: 阴州
 categories:

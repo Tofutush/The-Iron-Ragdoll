@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Peacock's Backstory
 canon: yes
 chs:

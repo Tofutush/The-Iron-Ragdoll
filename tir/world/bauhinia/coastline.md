@@ -1,8 +1,5 @@
 ---
-layout: world.liquid
 title: Coastline
-eleventyNavigation:
-  parent: Bauhinia
 tags:
   - coastline
 titlezh: 沿海城

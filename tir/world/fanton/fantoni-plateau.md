@@ -1,8 +1,5 @@
 ---
-layout: world.liquid
 title: Fantoni Plateau
-eleventyNavigation:
-  parent: Fanton
 titlezh: 范顿高原
 desc: A really tall plateau.
 categories:

@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Paperweight's Backstory
 canon: yes
 chs:

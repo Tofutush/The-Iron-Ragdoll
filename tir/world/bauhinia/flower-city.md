@@ -1,9 +1,6 @@
 ---
-layout: world.liquid
 title: Flower City
 desc: Capital and cultural center of Bauhinia
-eleventyNavigation:
-  parent: Bauhinia
 titlezh: 花城
 categories:
   - Cities

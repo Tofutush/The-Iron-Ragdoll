@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Family of Secrets
 canon: yes
 chs:

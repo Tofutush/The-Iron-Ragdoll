@@ -1,8 +1,5 @@
 ---
-layout: world.liquid
 title: Lotus Lake City
-eleventyNavigation:
-  parent: Fanton
 titlezh: 莲花湖城
 desc: Capital of Fanton.
 categories:

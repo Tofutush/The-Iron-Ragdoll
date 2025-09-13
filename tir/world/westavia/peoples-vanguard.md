@@ -1,9 +1,6 @@
 ---
-layout: world.liquid
 title: People's Vanguard
 desc: Capital of Westavia.
-eleventyNavigation:
-  parent: Westavia
 titlezh: 人民先锋
 categories:
   - Cities

@@ -1,7 +1,5 @@
 ---
-layout: world.liquid
 title: Sylvandia
-templateEngineOverride: liquid,md
 eleventyNavigation:
   parent: World
   order: 6

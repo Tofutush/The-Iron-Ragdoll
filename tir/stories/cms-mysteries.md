@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Coastline Middle School Mysteries
 canon: yes
 chs:

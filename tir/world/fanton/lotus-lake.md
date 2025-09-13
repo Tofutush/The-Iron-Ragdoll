@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: Lotus Lake
 eleventyNavigation:
   parent: Lotus Lake City

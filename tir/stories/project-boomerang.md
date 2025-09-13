@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Project Boomerang
 canon: yes
 chs:

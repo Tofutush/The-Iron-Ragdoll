@@ -1,5 +1,4 @@
 ---
-layout: world.liquid
 title: History
 desc: The history of the world.
 tags:
