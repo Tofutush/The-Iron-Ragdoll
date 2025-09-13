@@ -1,11 +1,7 @@
 ---
-layout: fic.liquid
 chTitle: The Carpet
-parent: Oneshots
 chNum: 5
 date: 2025-07-23
-tags:
-  - oneshots-fic
 ---
 
 *A cringy fic I wrote for creative writing class. The prompt was something like "someone forgets their birthday, and someone else reminds them in a touching way." Non-canon; features mafia people killing each other.*
