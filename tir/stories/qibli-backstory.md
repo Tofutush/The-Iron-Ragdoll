@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Qibli's Backstory
 canon: yes
 chs:

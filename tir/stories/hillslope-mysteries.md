@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Hillslope Mysteries
 canon: no
 summary: Scrapped story.

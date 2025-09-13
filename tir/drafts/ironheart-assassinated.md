@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Ironheart Assassinated
 canon: yes
 chs:
