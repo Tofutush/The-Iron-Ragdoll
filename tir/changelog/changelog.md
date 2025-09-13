@@ -11,6 +11,7 @@ titlezh: 更新日志
 
 - Changed the off-white color and footer style a little;
 	- Usually I don't log these, but well, I'm not updating a whole lot recently. College's been kicking my ass and it's only like 2 weeks. Goddamn;
+- Published [Spy School pages 5 - 6](/stories/spy-school/page-5/);
 
 ## 2025-09-08
 

@@ -1,47 +1,109 @@
 [
-    {
-        "pagenum": 1,
-        "url": "ss/1",
-        "date": "2025-05-27",
-        "chapter": 1,
-        "content": [
-            "It was a plain old Sunday morning."
-        ],
-        "note": "Ah, I started another comic. Been a long while since I drew anything particularly longform."
-    },
-    {
-        "pagenum": 2,
-        "url": "ss/2",
-        "date": "2025-05-29",
-        "chapter": 1,
-        "content": [
-            "There came a knock on the door.",
-            [
-                "Entity: I'll go get it."
-            ]
-        ]
-    },
-    {
-        "pagenum": 3,
-        "url": "ss/3",
-        "date": "2025-05-30",
-        "chapter": 1,
-        "content": [
-            [
-                "Entity: Coming!"
-            ]
-        ]
-    },
-    {
-        "pagenum": 4,
-        "url": "ss/4",
-        "date": "2025-05-30",
-        "chapter": 1,
-        "content": [
-            "Entity pushed the door open. A man in a uniform stood in front of him, unmistakably from the Ministry of State Security.",
-            [
-                "Sky: Hello, Mr. Entity!"
-            ]
-        ]
-    }
+  {
+    "pagenum": 1,
+    "url": "ss/1",
+    "date": "2025-05-27",
+    "chapter": 1,
+    "content": [
+      "It was a plain old Sunday morning."
+    ],
+    "note": "Ah, I started another comic. Been a long while since I drew anything particularly longform."
+  },
+  {
+    "pagenum": 2,
+    "url": "ss/2",
+    "date": "2025-05-29",
+    "chapter": 1,
+    "content": [
+      "There came a knock on the door.",
+      [
+        "Entity: I'll go get it."
+      ]
+    ]
+  },
+  {
+    "pagenum": 3,
+    "url": "ss/3",
+    "date": "2025-05-30",
+    "chapter": 1,
+    "content": [
+      [
+        "Entity: Coming!"
+      ]
+    ]
+  },
+  {
+    "pagenum": 4,
+    "url": "ss/4",
+    "date": "2025-05-30",
+    "chapter": 1,
+    "content": [
+      "Entity pushed the door open. A man in a uniform stood in front of him, unmistakably from the Ministry of State Security.",
+      [
+        "Sky: Hello, Mr. Entity!"
+      ]
+    ]
+  },
+  {
+    "pagenum": 5,
+    "url": "ss/5",
+    "date": "2025-09-13",
+    "chapter": 1,
+    "content": [
+      "Entity slammed the door shut, but the man reached out a hand to prop it open.",
+      [
+        "Sky: Allow me to introduce myself, sir. Sky, from the Ministry of State Security.",
+        "Entity: Wh-What did I do??",
+        "Sky: Well, if there's anything you did, that was giving birth to a wonderful daughter! Is little Harmony home?"
+      ],
+      "Entity glanced at Harmony, who is still sitting on the sofa, though ears tuned to their conversation.",
+      [
+        "Entity: Yes, sir. She's right there.",
+        "Sky: May I please come in? I have something to discuss with your family.",
+        "Entity: Yes, yes, sir.",
+        "Sky: Actually, is your wife home? It would be great if she could join us.",
+        "Entity: Yes, she is, sir. I'll go call her."
+      ]
+    ]
+  },
+  {
+    "pagenum": 6,
+    "url": "ss/6",
+    "date": "2025-09-13",
+    "chapter": 1,
+    "content": [
+      "They sat down around the dinner table. Frosting made tea.",
+      [
+        "Sky: I am here on behalf of the the Middle School for Young Officers in Training Affiliated to the Ministry of State Security.",
+        "Sky: I know it's a mouthful. We usually call it Ministry Affiliate.",
+        "Sky: Your daughter is about to graduate elementary school. We are giving her an offer to attend middle school here.",
+        "Frosting: Really?",
+        "Sky: You're not mistaken. Our administration sees potential in a student like Harmony."
+      ],
+      "Harmony stared at him dumbfoundedly.",
+      [
+        "Harmony: What's Ministry Affiliate?",
+        "Sky: It's a special school ran by the Ministry of State Security, where you can start early in your training to become an officer there.",
+        "Harmony: Um. Why do I want to go there?",
+        "Sky: Because we'll teach you things you'd never learn anywhere else. You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me!",
+        "Harmony: But I was supposed to go to the same school as my friend.",
+        "Sky: Sugarcane? I just visited her yesterday. She agreed to attend."
+      ],
+      "Harmony caught her parents eyeing each other.",
+      [
+        "Frosting: …I can see why. Sugarcane is a bright kid."
+      ],
+      "Harmony coughed.",
+      [
+        "Frosting: Of course, you're amazing too! That's why uncle Sky came to you too!",
+        "Sky: Indeed.",
+        "Harmony: If Sugarcane is going, then I am too.",
+        "Entity: Do we have time to consider?"
+      ],
+      "Sky produced a brochure from his pocket. It was an introduction of the school.",
+      [
+        "Sky: Of course. You have until the first of August."
+      ]
+    ]
+  }
 ]
