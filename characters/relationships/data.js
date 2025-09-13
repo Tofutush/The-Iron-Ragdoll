@@ -627,7 +627,7 @@ rel2: "teacher"
 {
 source: "Sky",
 target: "Firecrackers",
-rel1: "",
+rel1: "friend",
 rel2: "friend"
 },
 
