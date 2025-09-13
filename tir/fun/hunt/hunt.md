@@ -44,7 +44,7 @@ The third clue tells you where to find the substitution key. (The next hint spoi
 <details>
 <summary><h2>Hint 4</h2></summary>
 
-There are exactly 2 links to 404 pages in the changelog. You might need to look in the old changes too. (The next hint spoils the second clue.)
+There are exactly 2 links to 404 pages in the changelog. You might need to look in the old changes too. (The next hint spoils the first clue.)
 
 <details>
 <summary><h2>Hint 5</h2></summary>
