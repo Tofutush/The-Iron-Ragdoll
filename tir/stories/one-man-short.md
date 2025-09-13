@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: One Man Short
 canon: yes
 chs:

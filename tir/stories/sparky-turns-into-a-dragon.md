@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Sparky Turns into a Dragon
 canon: yes
 chs:

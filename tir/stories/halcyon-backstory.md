@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Halcyon's Backstory
 canon: yes
 chs:

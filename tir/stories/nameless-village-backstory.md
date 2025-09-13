@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Nameless Village Backstory
 canon: yes
 chs:

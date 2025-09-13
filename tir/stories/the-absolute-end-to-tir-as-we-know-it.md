@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: The Absolute End to TIR as We Know It
 canon: yes
 chs:

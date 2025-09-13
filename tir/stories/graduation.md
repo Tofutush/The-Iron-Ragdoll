@@ -1,5 +1,4 @@
 ---
-layout: story.liquid
 title: Graduation
 canon: yes
 chs:
