@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-13
+
+- Changed the off-white color and footer style a little;
+	- Usually I don't log these, but well, I'm not updating a whole lot recently. College's been kicking my ass and it's only like 2 weeks. Goddamn;
+
 ## 2025-09-08
 
 - Added a shitty [timeline](/world/timeline/)!
