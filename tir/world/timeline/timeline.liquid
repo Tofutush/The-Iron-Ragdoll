@@ -8,10 +8,27 @@ categories:
 eleventyNavigation:
   parent: World
 ---
-<p>This is a cheesy port of my Aeon Timeline project! Because of this, I can't add any links, and events with both a start and end are displayed rather awkwardly. But at last, everything I have on TIR is on the website. I am hiding nothing from you! (I'd be such a terrible spy LMAO)</p>
+<style>
+	.attr>div>p:first-child {
+		margin-top: 0;
+	}
+	.attr>div>p:last-child {
+		margin-bottom: 0;
+	}
+</style>
+<p>This is a cheesy port of my Aeon Timeline project! Because of this, I can't add any links, some characters don't exist (like Jackal and "Peacock's parents"), and events with both a start and end are displayed rather awkwardly. But at last, everything I have on TIR is on the website. I am hiding nothing from you! (I'd be such a terrible spy LMAO)</p>
 <div class="attr">
-  {% for item in timeline %}
-    <p>{{ item.time }}</p>
-    <p>{{ item.label }}</p>
-  {% endfor %}
+	{% for item in timeline %}
+		<div><p style="text-align: right;">{{ item.time }}</p></div>
+		<div>
+			<p>{{ item.label }}</p>
+			{% if item.participants %}
+				<p class="tags">
+					{% for ch in item.participants %}
+						{% include 'chButton', ch: ch %}
+					{% endfor %}
+				</p>
+			{% endif %}
+		</div>
+	{% endfor %}
 </div>
