@@ -4,7 +4,7 @@ canon: yes
 chs:
   - kismet
 titlezh: 铁打洋娃娃的终结
-summary: This is the end of the paracosm.
+desc: This is the end of the paracosm.
 myTags:
   - Bauhinia
 ---

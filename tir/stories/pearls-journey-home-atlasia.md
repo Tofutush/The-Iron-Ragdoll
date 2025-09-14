@@ -9,7 +9,7 @@ chs:
   - jackpot
   - snake
 time: "2032"
-summary: The friends get to Atlasia with Pearl.
+desc: The friends get to Atlasia with Pearl.
 myTags:
   - Canon
   - Atlasia

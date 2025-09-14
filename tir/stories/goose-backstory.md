@@ -4,7 +4,7 @@ canon: yes
 chs:
   - goose
 time: 2001 - present
-summary: Goose's backstory.
+desc: Goose's backstory.
 titlezh: 白鹅背景
 myTags:
   - Canon

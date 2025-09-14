@@ -11,7 +11,7 @@ chs:
   - sky
 time: "2056"
 titlezh: 谍影三人行
-summary: A family surviving under the oppressive government of Bauhinia.
+desc: A family surviving under the oppressive government of Bauhinia.
 myTags:
   - Bauhinia
   - Flower City

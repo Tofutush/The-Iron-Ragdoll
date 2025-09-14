@@ -5,7 +5,7 @@ chs:
   - sparky
   - pearl
 time: "2032"
-summary: Sparky gets to Sylvandia with Pearl.
+desc: Sparky gets to Sylvandia with Pearl.
 myTags:
   - Canon
   - Sylvandia

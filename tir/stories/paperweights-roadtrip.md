@@ -5,7 +5,7 @@ chs:
   - paperweight
   - goose
 time: "2032"
-summary: Paperweight retires. His apprentice Goose drives him to the Fantoni border. Paperweight opens his tightly-sealed box of memories. This is an unfinished case that Goose has to complete.
+desc: Paperweight retires. His apprentice Goose drives him to the Fantoni border. Paperweight opens his tightly-sealed box of memories. This is an unfinished case that Goose has to complete.
 myTags:
   - Canon
   - Bauhinia

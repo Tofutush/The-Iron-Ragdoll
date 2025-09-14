@@ -8,7 +8,7 @@ chs:
   - firecrackers
   - pearl
 time: "2032"
-summary: The friends send a kidnapped girl home, all the way across the continent. When the journey ends, everything stays the same, and yet no one is the same anymore.
+desc: The friends send a kidnapped girl home, all the way across the continent. When the journey ends, everything stays the same, and yet no one is the same anymore.
 myTags:
   - Canon
   - Bauhinia

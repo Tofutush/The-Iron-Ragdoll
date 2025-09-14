@@ -5,7 +5,7 @@ chs:
   - paperweight
 time: 1978 - 2032
 titlezh: 镇纸背景
-summary: Paperweight's backstory.
+desc: Paperweight's backstory.
 myTags:
   - Canon
   - Backstory

@@ -13,7 +13,7 @@ chs:
   - pearl
 time: "2032"
 titlezh: 壬子新年
-summary: Mishap in Sparky's home during the new year leads to shocking discoveries.
+desc: Mishap in Sparky's home during the new year leads to shocking discoveries.
 myTags:
   - Canon
   - Bauhinia

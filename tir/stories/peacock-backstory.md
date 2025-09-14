@@ -4,7 +4,7 @@ canon: yes
 chs:
   - peacock
 time: "?"
-summary: Peacock's backstory.
+desc: Peacock's backstory.
 titlezh: 孔雀背景
 myTags:
   - Canon

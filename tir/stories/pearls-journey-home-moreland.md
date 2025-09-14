@@ -8,7 +8,7 @@ chs:
   - snowball
   - halcyon
 time: "2032"
-summary: The friends get to Moreland with Pearl.
+desc: The friends get to Moreland with Pearl.
 myTags:
   - Canon
   - Moreland

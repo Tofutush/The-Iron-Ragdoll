@@ -9,7 +9,7 @@ chs:
   - jam
   - nebula
 titlezh: 闪闪跃龙门
-summary: Sparky jumps over a gate and gets turned into a dragon. How would they turn her back?
+desc: Sparky jumps over a gate and gets turned into a dragon. How would they turn her back?
 myTags:
   - Bauhinia
   - Canon

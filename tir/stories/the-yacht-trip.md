@@ -12,7 +12,7 @@ chs:
   - elegance
   - animus
 time: "2032"
-summary: The two families go on a vacation.
+desc: The two families go on a vacation.
 myTags:
   - Canon
   - Bauhinia

@@ -14,7 +14,7 @@ chs:
   - gecko
   - lark
 time: 2031 summer break
-summary: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
+desc: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
 fic: true
 titlezh: 莫尔兰核弹
 myTags:

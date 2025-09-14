@@ -5,7 +5,7 @@ chs:
   - jackpot
 time: 
 titlezh: 金元宝背景
-summary: Jackpot's backstory.
+desc: Jackpot's backstory.
 myTags:
   - Canon
   - Backstory

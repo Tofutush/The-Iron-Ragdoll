@@ -8,7 +8,7 @@ chs:
   - firecrackers
   - myriad
 time: "2031"
-summary: Sparky starts middle school dealing with her crazy friends, patchwork family, and a kleptomaniac.
+desc: Sparky starts middle school dealing with her crazy friends, patchwork family, and a kleptomaniac.
 titlezh: 沿海十一中扒手案
 myTags:
   - Canon
