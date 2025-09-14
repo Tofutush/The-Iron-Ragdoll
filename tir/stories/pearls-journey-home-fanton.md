@@ -8,7 +8,7 @@ chs:
   - firecrackers
   - pearl
 time: "2032"
-summary: The friends get to Fanton with Pearl.
+desc: The friends get to Fanton with Pearl.
 myTags:
   - Canon
   - Fanton

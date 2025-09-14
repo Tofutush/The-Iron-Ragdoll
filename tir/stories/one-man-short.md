@@ -9,7 +9,7 @@ chs:
   - moonbeam
 time: "?"
 titlezh: 三缺一
-summary: The disappearance of a friend drags the group down the rabbit hole of Fantoni organized crime.
+desc: The disappearance of a friend drags the group down the rabbit hole of Fantoni organized crime.
 myTags:
   - Canon
   - Fanton

@@ -6,7 +6,7 @@ chs:
   - pinecone
   - rosemary
 titlezh: 天意计划
-summary: The president of Bauhinia got immortality. Now he can't show his face. Help!
+desc: The president of Bauhinia got immortality. Now he can't show his face. Help!
 myTags:
   - Bauhinia
   - Canon

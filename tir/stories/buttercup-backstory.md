@@ -5,7 +5,7 @@ chs:
   - buttercup
 time: 
 titlezh: 毛茛背景
-summary: Buttercup's backstory.
+desc: Buttercup's backstory.
 myTags:
   - Canon
   - Backstory

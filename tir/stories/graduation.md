@@ -6,7 +6,7 @@ chs:
   - sugarcane
   - sky
 titlezh: 毕业典礼
-summary: Harmony and Sugarcane graduate high school.
+desc: Harmony and Sugarcane graduate high school.
 myTags:
   - Bauhinia
   - Canon

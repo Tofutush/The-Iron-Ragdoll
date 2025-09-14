@@ -4,7 +4,7 @@ canon: yes
 chs:
   - qibli
 time: "?"
-summary: Qibli's backstory.
+desc: Qibli's backstory.
 titlezh: 奇轹背景
 myTags:
   - Canon

@@ -8,7 +8,7 @@ chs:
   - cobalt
 time: 
 titlezh: 铁心遇刺
-summary: Ironheart gets assassinated. Fortunately, he survives. Unfortunately, he is no longer Ironheart.
+desc: Ironheart gets assassinated. Fortunately, he survives. Unfortunately, he is no longer Ironheart.
 myTags:
   - Canon
   - Bauhinia

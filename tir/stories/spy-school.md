@@ -11,7 +11,7 @@ chs:
   - checkers
 time: "2053"
 titlezh: 国安附中
-summary: Harmony goes to a special school.
+desc: Harmony goes to a special school.
 myTags:
   - Bauhinia
   - Flower City

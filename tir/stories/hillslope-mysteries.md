@@ -1,7 +1,7 @@
 ---
 title: Hillslope Mysteries
 canon: no
-summary: Scrapped story.
+desc: Scrapped story.
 comic: true
 ---
 

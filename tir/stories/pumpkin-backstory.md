@@ -4,7 +4,7 @@ canon: yes
 chs:
   - pumpkin
 time: 2003 - present
-summary: Pumpkin's backstory.
+desc: Pumpkin's backstory.
 titlezh: 南瓜背景
 myTags:
   - Canon

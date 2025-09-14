@@ -11,7 +11,7 @@ chs:
   - kismet
 time: 2018 - 2021
 titlezh: 回旋镖计划
-summary: Bauhinia initiated a top-secret project to develop the time machine.
+desc: Bauhinia initiated a top-secret project to develop the time machine.
 myTags:
   - Canon
   - Bauhinia

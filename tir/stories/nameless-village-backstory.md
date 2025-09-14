@@ -9,7 +9,7 @@ chs:
   - mooncake
 time: "?"
 titlezh: 无名村背景
-summary: Backstory of the characters in the Nameless Village. Condensed into one as some points overlap.
+desc: Backstory of the characters in the Nameless Village. Condensed into one as some points overlap.
 myTags:
   - Area 1
   - Backstory

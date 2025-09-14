@@ -6,7 +6,7 @@ chs:
   - kismet
 time: 2023 - ?
 titlezh: 
-summary: The president of Bauhinia seeks immortality, part 2.
+desc: The president of Bauhinia seeks immortality, part 2.
 myTags:
   - Canon
   - Bauhinia
