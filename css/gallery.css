@@ -1,118 +1,118 @@
 .gallery {
-    display: grid;
-    gap: .5em;
-    grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
+	display: grid;
+	gap: .5em;
+	grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
 }
 
 .img {
-    position: relative;
+	position: relative;
 
-    &.hidden {
-        display: none;
-    }
+	&.hidden {
+		display: none;
+	}
 
-    &>img {
-        background-color: var(--box);
-        border-radius: 16px;
-        cursor: pointer;
-        object-fit: cover;
-        width: 120px;
-        padding: .5em;
-        margin: 12px;
-        height: 120px;
-        user-select: none;
-        aspect-ratio: 1;
-        transition: all .2s;
+	&>img {
+		background-color: var(--box);
+		border-radius: 16px;
+		cursor: pointer;
+		object-fit: cover;
+		width: 120px;
+		padding: .5em;
+		margin: 12px;
+		height: 120px;
+		user-select: none;
+		aspect-ratio: 1;
+		transition: all .2s;
 
-        &:hover {
-            transform: scale(1.1);
-            box-shadow: 0 0 0 8px var(--c);
-        }
-    }
+		&:hover {
+			transform: scale(1.1);
+			box-shadow: 0 0 0 8px var(--c);
+		}
+	}
 }
 
 .icons {
-    position: absolute;
-    top: 12px;
-    left: 18px;
-    color: var(--c);
-    user-select: none;
-    cursor: pointer;
-    display: flex;
-    gap: 8px;
+	position: absolute;
+	top: 12px;
+	left: 18px;
+	color: var(--c);
+	user-select: none;
+	cursor: pointer;
+	display: flex;
+	gap: 8px;
 }
 
 .modal {
-    align-items: center;
-    background-color: #000c;
-    display: none;
-    flex-direction: column;
-    justify-content: center;
-    height: 100%;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    overflow: auto;
-    z-index: 999;
+	align-items: center;
+	background-color: #000c;
+	display: none;
+	flex-direction: column;
+	justify-content: center;
+	height: 100%;
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	overflow: auto;
+	z-index: 999;
 
-    & p {
-        color: var(--off-white);
-    }
+	& p {
+		color: var(--off-white);
+	}
 
-    & .name-date {
-        display: flex;
-        gap: 1em;
-        justify-content: space-between;
-        text-indent: 0;
-        opacity: .5;
-    }
+	& .name-date {
+		display: flex;
+		gap: 1em;
+		justify-content: space-between;
+		text-indent: 0;
+		opacity: .5;
+	}
 
-    &:has(.comment) {
-        justify-content: flex-start;
-    }
+	&:has(.comment) {
+		justify-content: flex-start;
+	}
 
-    & img {
-        background-color: transparent;
-        height: 80vh;
-        margin: 5vh 0;
-        object-fit: contain;
-        width: 90vw;
-    }
+	& img {
+		background-color: transparent;
+		height: 80vh;
+		margin: 5vh 0;
+		object-fit: contain;
+		width: 90vw;
+	}
 }
 
 .comment {
-    max-width: 90vw;
-    width: 800px;
+	max-width: 90vw;
+	width: 800px;
 }
 
 .buttons {
-    & a {
-        &.noclick {
-            opacity: .5;
+	& a {
+		&.noclick {
+			opacity: .5;
 
-            &:hover {
-                cursor: not-allowed;
-            }
-        }
+			&:hover {
+				cursor: not-allowed;
+			}
+		}
 
-        &:hover {
-            cursor: pointer;
-        }
-    }
+		&:hover {
+			cursor: pointer;
+		}
+	}
 }
 
 .chbuttons {
-    justify-content: center;
-    max-width: 90vw;
-    width: 800px;
-    margin-top: 1em;
+	justify-content: center;
+	max-width: 90vw;
+	width: 800px;
+	margin-top: 1em;
 }
 
 .close {
-    color: #fff;
-    cursor: pointer;
-    position: fixed;
-    right: 2em;
-    top: 2em;
+	color: #fff;
+	cursor: pointer;
+	position: fixed;
+	right: 2em;
+	top: 2em;
 }
