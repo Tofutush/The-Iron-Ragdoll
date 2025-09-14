@@ -5,6 +5,7 @@ eleventyNavigation:
 titlezh: 莲花湖寺
 categories:
   - Locations
+desc: A temple famous for its water-style martial arts.
 ---
 
 The most famous temple in [Fanton](/world/fanton/), in the middle of [Lotus Lake](/world/fanton/lotus-lake/). Is the birthplace and institution of water-style martial arts.

@@ -7,6 +7,7 @@ tags:
 titlezh: 沿海十一中
 categories:
   - Schools
+desc: A shitty public middle school.
 ---
 
 A shitty middle school in a shitty city.
