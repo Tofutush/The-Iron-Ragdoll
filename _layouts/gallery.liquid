@@ -5,13 +5,12 @@ years:
  - 2024
  - 2025
 ---
-
 <link rel="stylesheet" href="/css/gallery.css"/>
 <h1>{{ title }}</h1>
 <div class="box-nav">
-  {% for eachyear in years %}
-    <a href="/gallery/{{ eachyear }}/" {% if year == eachyear %}aria-current="page"{% endif %}>{{ eachyear }}</a>
-  {% endfor %}
-  <a href="/gallery/stats/" {% if page.url == '/gallery/stats/' %}aria-current="page"{% endif %}>Stats</a>
+	{% for eachyear in years %}
+		<a href="/gallery/{{ eachyear }}/" {% if year == eachyear %}aria-current="page"{% endif %}>{{ eachyear }}</a>
+	{% endfor %}
+	<a href="/gallery/stats/" {% if page.url == '/gallery/stats/' %}aria-current="page"{% endif %}>Stats</a>
 </div>
 {{ content }}
