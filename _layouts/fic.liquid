@@ -18,7 +18,6 @@ eleventyComputed:
 	</div>
 </details>
 <h1>Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}</h1>
-<p class="lighter-text">{{ content | wordCount }} words.</p>
 {{ content }}
 {% assign prev = collections[colName] | getPreviousCollectionItem %}
 {% assign next = collections[colName] | getNextCollectionItem %}

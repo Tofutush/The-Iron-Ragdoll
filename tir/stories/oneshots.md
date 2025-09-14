@@ -6,6 +6,7 @@ desc: Assortment of oneshots, both comic and fic.
 myTags:
   - Comic
   - Oneshot
+  - Fic
 comic: true
 fic: true
 ---
