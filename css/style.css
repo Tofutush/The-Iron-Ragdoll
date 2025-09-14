@@ -471,6 +471,10 @@ footer {
 	}
 }
 
+.character-button {
+	line-height: initial;
+}
+
 .box-nav {
 	justify-content: center;
 
@@ -623,7 +627,7 @@ hr.solid-hr {
 	&>:nth-child(2n-1) {
 		color: var(--c);
 		font-weight: bold;
-		text-align: right;
+		text-align: right !important;
 	}
 
 	&.dialog>:nth-child(2n-1) {
