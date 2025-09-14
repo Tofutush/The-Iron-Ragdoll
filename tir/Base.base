@@ -1,0 +1,177 @@
+views:
+  - type: table
+    name: World
+    filters:
+      and:
+        - file.path.startsWith("world")
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - titlezh
+      - displayTitle
+      - categories
+      - desc
+    sort: []
+    columnSize:
+      file.name: 132
+      note.title: 108
+      note.titlezh: 75
+      note.displayTitle: 69
+      note.categories: 107
+      note.desc: 395
+    rowHeight: medium
+  - type: table
+    name: World lore
+    filters:
+      and:
+        - file.folder == "world"
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - titlezh
+      - displayTitle
+      - categories
+      - desc
+    columnSize:
+      file.name: 132
+      note.title: 145
+      note.displayTitle: 75
+      note.categories: 111
+    rowHeight: medium
+  - type: table
+    name: Bauhinia
+    filters:
+      and:
+        - file.folder == "world/bauhinia"
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - titlezh
+      - displayTitle
+      - categories
+      - desc
+    columnSize:
+      file.name: 132
+      note.title: 145
+      note.displayTitle: 75
+      note.categories: 111
+    rowHeight: medium
+  - type: table
+    name: Fanton
+    filters:
+      and:
+        - file.folder == "world/fanton"
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - titlezh
+      - displayTitle
+      - categories
+      - desc
+    columnSize:
+      file.name: 132
+      note.title: 145
+      note.displayTitle: 75
+      note.categories: 111
+    rowHeight: medium
+  - type: table
+    name: Atlasia
+    filters:
+      and:
+        - file.folder == "world/atlasia"
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - titlezh
+      - displayTitle
+      - categories
+      - desc
+    columnSize:
+      file.name: 132
+      note.title: 145
+      note.displayTitle: 75
+      note.categories: 111
+    rowHeight: medium
+  - type: table
+    name: Westavia
+    filters:
+      and:
+        - file.folder == "world/westavia"
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - titlezh
+      - displayTitle
+      - categories
+      - desc
+    columnSize:
+      file.name: 132
+      note.title: 145
+      note.displayTitle: 75
+      note.categories: 111
+    rowHeight: medium
+  - type: table
+    name: Moreland
+    filters:
+      and:
+        - file.folder == "world/moreland"
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - titlezh
+      - displayTitle
+      - categories
+      - desc
+    columnSize:
+      file.name: 132
+      note.title: 145
+      note.displayTitle: 75
+      note.categories: 111
+    rowHeight: medium
+  - type: table
+    name: Sylvandia
+    filters:
+      and:
+        - file.folder == "world/sylvandia"
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - titlezh
+      - displayTitle
+      - categories
+      - desc
+    columnSize:
+      file.name: 132
+      note.title: 145
+      note.displayTitle: 75
+      note.categories: 111
+    rowHeight: medium
+  - type: table
+    name: Stories
+    filters:
+      and:
+        - file.folder == "stories"
+        - file.ext == "md"
+    order:
+      - file.name
+      - title
+      - titlezh
+      - canon
+      - chs
+      - desc
+      - myTags
+      - time
+    columnSize:
+      file.name: 132
+      note.title: 145
+      note.chs: 81
+      note.desc: 252
+    rowHeight: medium

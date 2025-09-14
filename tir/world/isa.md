@@ -1,6 +1,6 @@
 ---
 title: International Superpowers Association
-desc: The international organization for superpowers.
+desc: The international organization for everything surrounding superpowers.
 tags:
   - lore
 eleventyNavigation:

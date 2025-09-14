@@ -6,6 +6,7 @@ titlezh: 沿海城
 categories:
   - Cities
   - Locations
+desc: A prosperous coastal city, home to Starcorp's headquarters.
 ---
 
 Where most of the story takes place! A large city on the southern coast of [Bauhinia](/world/bauhinia/), where [Starcorp](../starcorp/)'s headquarters is located.
