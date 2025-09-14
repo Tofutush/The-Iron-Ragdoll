@@ -4,12 +4,12 @@ layout: layout.liquid
 <link rel="stylesheet" href="/css/characterspage.css" />
 <h1>{{ title }}</h1>
 <details>
-  <summary><h2>Tag filter</h2></summary>
-  <div class="tags">
-    <a href="/characters/" {% if page.url == "/characters/" %}aria-current="true"{% endif %}>All</a>
-    {% for t in tagsplot %}
-      <a href="/characters/tag/{{ t | slug }}/" {% if t == tag %}aria-current="true"{% endif %}>{{ t }}</a>
-    {% endfor %}
-  </div>
+	<summary><h2>Tag filter</h2></summary>
+	<div class="tags">
+		<a href="/characters/" {% if page.url == "/characters/" %}aria-current="true"{% endif %}>All</a>
+		{% for t in tagsplot %}
+			<a href="/characters/tag/{{ t | slug }}/" {% if t == tag %}aria-current="true"{% endif %}>{{ t }}</a>
+		{% endfor %}
+	</div>
 </details>
 {{ content }}
