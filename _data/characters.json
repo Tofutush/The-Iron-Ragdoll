@@ -855,6 +855,7 @@
     "attr": {
       "Full name": "Jackpot Cloudy",
       "Gender": "Male",
+      "Birthday": "1994-10-20",
       "Nationality": "Atlasian"
     },
     "palette": {
@@ -871,6 +872,7 @@
     "attr": {
       "Full name": "Snake Cloudy",
       "Gender": "Male",
+      "Birthday": "2026-06-18",
       "Age estimation": "Around the same as Pearl",
       "Nationality": "Atlasian"
     },
@@ -912,6 +914,7 @@
     "af": "https://artfight.net/character/5793882.buttercup",
     "attr": {
       "Gender": "Female (cis)",
+      "Birthday": "2010-02-03",
       "Age estimation": "Around the same as Goose",
       "Nationality": "Sylvandian",
       "Orientation": "Asexual",

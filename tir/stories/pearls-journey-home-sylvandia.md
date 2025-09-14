@@ -11,6 +11,7 @@ myTags:
   - Sylvandia
   - Sparky and her friends
   - Pearl's Journey Home
+titlezh: 珍珠回家：希尔万迪亚篇
 ---
 
 They finally got to Sylvandia.

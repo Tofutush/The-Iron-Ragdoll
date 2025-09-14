@@ -7,7 +7,7 @@ chs:
   - candlelight
   - thyme
   - mooncake
-time: "?"
+time: 1950 - present
 titlezh: 无名村背景
 desc: Backstory of the characters in the Nameless Village. Condensed into one as some points overlap.
 myTags:
