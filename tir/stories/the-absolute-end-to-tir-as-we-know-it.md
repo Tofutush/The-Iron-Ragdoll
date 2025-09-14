@@ -7,6 +7,7 @@ titlezh: 铁打洋娃娃的终结
 desc: This is the end of the paracosm.
 myTags:
   - Bauhinia
+time: end
 ---
 
 If the timeline of events in TIR will end one definite day, it would happen like this.

@@ -14,6 +14,7 @@ myTags:
   - Moreland
   - Sparky and her friends
   - Pearl's Journey Home
+titlezh: 珍珠回家：莫尔兰篇
 ---
 
 They got to Moreland and met the Appaloosa Tribe.

@@ -15,6 +15,7 @@ myTags:
   - Coastline
   - Sparky and her friends
   - Pearl's Journey Home
+titlezh: 珍珠回家
 ---
 
 They got Pearl stashed in the safe house. They figured it out. She was from Sylvandia.

@@ -1,7 +1,7 @@
 ---
 title: Oneshots
 canon: semi
-titlezh: 
+titlezh:
 desc: Assortment of oneshots, both comic and fic.
 myTags:
   - Comic

@@ -11,13 +11,14 @@ chs:
   - devotion
   - elegance
   - animus
-time: "2032"
+time: 2032-07
 desc: The two families go on a vacation.
 myTags:
   - Canon
   - Bauhinia
   - Coastline
   - Froggy Island
+titlezh: 游艇旅行
 ---
 
 Peacock's family and Hyrax's family go on Hyrax's fancy private yacht to sail to Hyrax's fancy private and insanely big island, [Froggy Island](/world/bauhinia/froggy-island/). Stuff happen.

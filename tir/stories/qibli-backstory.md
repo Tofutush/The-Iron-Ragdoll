@@ -3,7 +3,7 @@ title: Qibli's Backstory
 canon: yes
 chs:
   - qibli
-time: "?"
+time: 2017 - present
 desc: Qibli's backstory.
 titlezh: 奇轹背景
 myTags:

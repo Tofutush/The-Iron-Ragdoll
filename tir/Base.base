@@ -166,12 +166,13 @@ views:
       - titlezh
       - canon
       - chs
-      - desc
       - myTags
       - time
+      - desc
     columnSize:
       file.name: 132
       note.title: 145
+      note.titlezh: 75
       note.chs: 81
-      note.desc: 252
+      note.desc: 264
     rowHeight: medium

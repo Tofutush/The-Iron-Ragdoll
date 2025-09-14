@@ -3,7 +3,7 @@ title: Buttercup's Backstory
 canon: yes
 chs:
   - buttercup
-time: 
+time: 2010 - present
 titlezh: 毛茛背景
 desc: Buttercup's backstory.
 myTags:
