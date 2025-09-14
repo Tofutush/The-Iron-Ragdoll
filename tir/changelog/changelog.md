@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-14
+
+- Added characters under the events they participated in in the [timeline](/world/timeline/);
+
 ## 2025-09-13
 
 - Changed the off-white color and footer style a little;
