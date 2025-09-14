@@ -16,7 +16,6 @@ import { eleventyLucideIconsPlugin, iconSVGString } from './_plugins/lucideicons
 import relPlugin from './_plugins/rel.js';
 import storyPlugin from './_plugins/story.js';
 import utilPlugin from './_plugins/utils.js';
-import wordCountPlugin from './_plugins/wordcount.js';
 import worldPlugin from './_plugins/world.js';
 
 export default function (eleventyConfig) {
@@ -66,7 +65,6 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(storyPlugin);
 	eleventyConfig.addPlugin(worldPlugin);
 	eleventyConfig.addPlugin(funPlugin);
-	eleventyConfig.addPlugin(wordCountPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');
