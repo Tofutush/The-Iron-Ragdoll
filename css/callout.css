@@ -1,33 +1,33 @@
 .callout {
-  border: 8px solid var(--c);
-  border-radius: 16px;
-  margin: 1em 0;
+	border: 8px solid var(--c);
+	border-radius: 16px;
+	margin: 1em 0;
 }
 
 .callout-title {
-  display: flex;
-  gap: .5em;
-  background-color: var(--c);
-  padding: 1em;
-  color: var(--bg);
-  align-items: center;
-  user-select: none;
+	display: flex;
+	gap: .5em;
+	background-color: var(--c);
+	padding: 1em;
+	color: var(--bg);
+	align-items: center;
+	user-select: none;
 }
 
 .callout-title-icon {
-  height: 24px;
+	height: 24px;
 }
 
 .callout-title-inner {
-  line-height: 2;
+	line-height: 2;
 }
 
 .callout-content {
-  padding: 1em 2em;
+	padding: 1em 2em;
 }
 
 @media only screen and (max-width: 480px) {
-  .callout-content {
-    padding: 0 1em;
-  }
+	.callout-content {
+		padding: 0 1em;
+	}
 }

@@ -51,7 +51,18 @@
     </div>
     <h1>Wallpapers</h1>
     <p class="lighter-text">Some wallpapers you can use!</p>
-    <link rel="stylesheet" href="/The-Iron-Ragdoll/css/wallpaper.css">
+    <style>
+      .wall-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1em;
+
+        & img {
+          width: 100%;
+          height: 100%;
+        }
+      }
+    </style>
     <h2>Courtesy of TheOliveOli</h2>
     <p>Special thanks to <a href="https://theoliveoli.blahaj.land/">TheOliveOli</a> for making these wallpapers!</p>
     <p>These are <i>not</i> full size! Click the image to download the full size version.</p>
