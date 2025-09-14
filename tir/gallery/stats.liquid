@@ -7,7 +7,6 @@ eleventyNavigation:
 ---
 {% assign filteredGallery = gallery | getOnlyMyArt %}
 <p>Total number of pictures: {{ filteredGallery.size }}</p>
-{% assign totalMonths = 0 %}
 {% for eachyear in years reversed %}
   {% assign numInYear = filteredGallery | filterGalleryByDate: eachyear %}
   <details>
@@ -18,7 +17,6 @@ eleventyNavigation:
         {% assign yearMonth = eachyear | append: '-' | append: paddedMonth %}
         {% assign numInMonth = filteredGallery | filterGalleryByDate: yearMonth %}
         {% if numInMonth.size > 0 %}
-          {% assign totalMonths = totalMonths | plus: 1 %}
           <li><a href="/gallery/{{ eachyear }}/#{{ month | getMonthName | slug }}">{{ month | getMonthName }}</a>: {{ numInMonth.size }} picture{% if numInMonth.size != 1 %}s{% endif %}</li>
         {% endif %}
       {% endfor %}
