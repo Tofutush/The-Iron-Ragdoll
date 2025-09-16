@@ -1,0 +1,27 @@
+.dialog-bubble {
+    display: grid;
+    grid-template: 50px 1fr / 50px 1fr;
+    grid-template-areas:
+        "icon name"
+        "empty bubble";
+
+    &>:first-child {
+        grid-area: icon;
+    }
+
+    &>:nth-child(2) {
+        grid-area: name;
+    }
+
+    &>:last-child {
+        grid-area: bubble;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .dialog-bubble {
+        grid-template-areas:
+            "icon name"
+            "bubble bubble";
+    }
+}

@@ -1,15 +1,28 @@
-{% for line in dialogContent %}
-	{% assign isArray = line | isArray %}
-	{% if isArray %}
-		<div class="attr dialog">
+<div class="dialog">
+	{% for line in dialogContent %}
+		{% assign isArray = line | isArray %}
+		{% if isArray %}
 			{% for dialog in line %}
-				{% assign ch = dialog | dialogGetCharacter %}
-				{% assign ln = dialog | dialogGetLine %}
-				<p><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</a></p>
-				{{ ln | renderMD }}
+				<div class="dialog-bubble">
+					{% assign ch = dialog | dialogGetCharacter %}
+					{% assign ln = dialog | dialogGetLine %}
+					{% assign exists = characters | getChByName: ch %}
+					{% if exists %}
+						<a href="/characters/{{ ch | lowerCase }}/">
+							{% assign iconPath = ch | lowerCase | append: " thumb" %}
+							{% assign profilePath = ch | lowerCase | append: " profile" %}
+							{% image "gallery/" profilePath 'png' 50 ch '' iconPath 'png' %}
+						</a>
+						<p><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</a></p>
+					{% else %}
+						<div></div>
+						<p>{{ ch }}</p>
+					{% endif %}
+					{{ ln | renderMD }}
+				</div>
 			{% endfor %}
-		</div>
-	{% else %}
-		{{ line | renderMD }}
-	{% endif %}
-{% endfor %}
+		{% else %}
+			<div class="dialog-narration">{{ line | renderMD }}</div>
+		{% endif %}
+	{% endfor %}
+</div>
