@@ -15,7 +15,7 @@
 							{% assign profilePath = ch | lowerCase | append: " profile" %}
 							{% image "gallery/" profilePath 'png' 100 ch '' iconPath 'png' %}
 						</a>
-						<p><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</p>
+						<p><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</a></p>
 					{% else %}
 						<div></div>
 						<p>{{ ch }}</p>
