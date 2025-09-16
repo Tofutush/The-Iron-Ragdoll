@@ -7,6 +7,12 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-16
+
+- Made a cool new dialog display. Check out an example [here](https://tofutush.neocities.org/stories/spy-school/page-6/);
+- Added the [Poker Spies](/world/bauhinia/poker-spies/): [Tsunami](/characters/tsunami/), [Jumbo](/characters/jumbo/), [Mulberry](/characters/mulberry/), [Blackjack](/characters/blackjack/);
+- Added `mulberry card.png`;
+
 ## 2025-09-14
 
 - Added characters under the events they participated in in the [timeline](/world/timeline/);
