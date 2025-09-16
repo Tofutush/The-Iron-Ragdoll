@@ -629,10 +629,6 @@ hr.solid-hr {
 		font-weight: bold;
 		text-align: right !important;
 	}
-
-	&.dialog>:nth-child(2n-1) {
-		color: inherit;
-	}
 }
 
 .prev-next {
