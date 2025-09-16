@@ -666,6 +666,34 @@ rel2: "apprentice"
 },
 
 {
+source: "Sky",
+target: "Tsunami",
+rel1: "handler",
+rel2: "agent"
+},
+
+{
+source: "Sky",
+target: "Jumbo",
+rel1: "handler",
+rel2: "agent"
+},
+
+{
+source: "Sky",
+target: "Mulberry",
+rel1: "handler",
+rel2: "agent"
+},
+
+{
+source: "Sky",
+target: "Blackjack",
+rel1: "handler",
+rel2: "agent"
+},
+
+{
 source: "Firecrackers",
 target: "Pinecone",
 rel1: "son",
