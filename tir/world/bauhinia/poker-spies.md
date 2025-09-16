@@ -8,6 +8,13 @@ categories:
 
 During the Fantoni War, [MSS](/world/bauhinia/mss/) officer [Sky](/characters/sky/) ran a ring of four spies gathering intel on [Fanton](/world/fanton/) and [Moreland](/world/moreland/). Sky liked representing them with the ace cards of the four suits, which is why they are later referred to as the "Poker Spies."
 
+## The spies
+
+- [Tsunami](/characters/tsunami/): Ace of Diamonds; blue chip.
+- [Jumbo](/characters/jumbo/): Ace of Hearts; red chip. Bauhinian girl with an outstanding memory for her own creations. She was recruited by Sky to make up fake agents and fake intel.
+- [Mulberry](/characters/mulberry/): Ace of Spades; green chip. Fantoni girl who hates her mother country's strict laws and wanted to move to Bauhinia.
+- [Blackjack](/characters/blackjack/): Ace of Clubs; black chip.
+
 ## History
 
 So yeah Sky recruited them and they did stuff lol idk yet
