@@ -2,6 +2,8 @@
 	{% for line in dialogContent %}
 		{% assign isArray = line | isArray %}
 		{% if isArray %}
+			{% if prev == "narration" %}<hr/>{% endif %}
+			{% assign prev = "dialog" %}
 			{% for dialog in line %}
 				{% assign ch = dialog | dialogGetCharacter %}
 				{% assign ln = dialog | dialogGetLine %}
@@ -22,7 +24,9 @@
 				</div>
 			{% endfor %}
 		{% else %}
-			<div class="dialog-narration">{{ line | renderMD }}</div>
+			{% if prev == "dialog" %}<hr/>{% endif %}
+			{% assign prev = "narration" %}
+			{{ line | renderMD }}
 		{% endif %}
 	{% endfor %}
 </div>

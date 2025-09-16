@@ -6,6 +6,7 @@
 		"empty bubble";
 	align-items: center;
 	column-gap: 1em;
+	margin: 1em 0;
 
 	&>:first-child {
 		grid-area: icon;
