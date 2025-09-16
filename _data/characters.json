@@ -1989,6 +1989,11 @@
       "Nickname": "Spades (codename by Sky)",
       "Gender": "Female",
       "Nationality": "Fantoni"
+    },
+    "palette": {
+      "shirt light": "#959595",
+      "shirt dark": "#626262",
+      "hair": "#2e2e2e"
     }
   },
   {
