@@ -429,6 +429,58 @@
   {
     "ch": [
       [
+        "Sky",
+        "handler"
+      ],
+      [
+        "Tsunami",
+        "agent"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "handler"
+      ],
+      [
+        "Jumbo",
+        "agent"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "handler"
+      ],
+      [
+        "Mulberry",
+        "agent"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "handler"
+      ],
+      [
+        "Blackjack",
+        "agent"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Firecrackers",
         "son"
       ],
