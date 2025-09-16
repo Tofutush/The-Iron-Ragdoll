@@ -675,7 +675,7 @@ a::selection {
 		grid-template-columns: 1fr;
 
 		&>:nth-child(2n-1) {
-			text-align: left;
+			text-align: left !important;
 		}
 
 		&>:nth-child(2n) {
