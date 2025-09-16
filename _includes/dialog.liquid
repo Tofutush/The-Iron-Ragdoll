@@ -3,17 +3,17 @@
 		{% assign isArray = line | isArray %}
 		{% if isArray %}
 			{% for dialog in line %}
-				<div class="dialog-bubble">
-					{% assign ch = dialog | dialogGetCharacter %}
-					{% assign ln = dialog | dialogGetLine %}
-					{% assign exists = characters | getChByName: ch %}
+				{% assign ch = dialog | dialogGetCharacter %}
+				{% assign ln = dialog | dialogGetLine %}
+				{% assign exists = characters | getChByName: ch %}
+				<div class="dialog-bubble" {% if exists %}style="--c: {{ characters | getChColor: ch }}"{% endif %}>
 					{% if exists %}
 						<a href="/characters/{{ ch | lowerCase }}/">
 							{% assign iconPath = ch | lowerCase | append: " thumb" %}
 							{% assign profilePath = ch | lowerCase | append: " profile" %}
-							{% image "gallery/" profilePath 'png' 50 ch '' iconPath 'png' %}
+							{% image "gallery/" profilePath 'png' 100 ch '' iconPath 'png' %}
 						</a>
-						<p><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</a></p>
+						<p class="tags">{% include 'chButton', ch: ch %}</p>
 					{% else %}
 						<div></div>
 						<p>{{ ch }}</p>
