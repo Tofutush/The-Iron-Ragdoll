@@ -1951,5 +1951,56 @@
     },
     "about": "Typhoon used to live on the Fantoni Plateau. But when her parents wanted to force her into an arranged marriage with a boy she hated, she packed a bit of food and water and ran away from home. She went all the way from Fanton to Moreland, all by herself, only hitching maybe a couple rides or three along the way.\n\nA little inside Moreland's borders, she got attacked by a bear and one leg was gravely injured, and started to infect without treatment. That was when the Guardian Moose found her. They sent her to a hospital and had her bad leg amputated, and thus her life was spared. The Guardians then offered to recruit her as their wilderness survival instructor, to which she agreed. She was given Moose nationality.\n\nShe was soon hailed as a devil by the new recruits for her strictness and the intensity of her training. Years later, they also got her a prosthetic leg, which made the newbies even more scared because now she can kick them properly. Jinx remembers her torment and thanked the stars that Typhoon didn't have the robot leg while she was in the army.",
     "trivia": "- 藏族。"
+  },
+  {
+    "name": "Tsunami",
+    "namezh": "海啸",
+    "color": "#0a58bd",
+    "tags": [
+      "Poker Spies"
+    ],
+    "attr": {
+      "Nickname": "Diamonds (codename by Sky)",
+      "Gender": "Female"
+    }
+  },
+  {
+    "name": "Jumbo",
+    "color": "#cc0f0f",
+    "tags": [
+      "Bauhinia",
+      "Poker Spies"
+    ],
+    "attr": {
+      "Nickname": "Hearts (codename by Sky)",
+      "Gender": "Female",
+      "Nationality": "Bauhinian"
+    }
+  },
+  {
+    "name": "Mulberry",
+    "namezh": "桑葚",
+    "color": "#06740d",
+    "tags": [
+      "Fanton",
+      "Poker Spies"
+    ],
+    "attr": {
+      "Nickname": "Spades (codename by Sky)",
+      "Gender": "Female",
+      "Nationality": "Fantoni"
+    }
+  },
+  {
+    "name": "Blackjack",
+    "namezh": "二十一",
+    "color": "#2e2e2e",
+    "tags": [
+      "Poker Spies"
+    ],
+    "attr": {
+      "Nickname": "Clubs (codename by Sky)",
+      "Gender": "Female"
+    }
   }
 ]
