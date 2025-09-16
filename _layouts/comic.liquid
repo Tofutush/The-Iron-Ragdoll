@@ -34,6 +34,7 @@ eleventyComputed:
 	{% image "comics/" comic.url 'png' 1000 alt %}
 </div>
 {% if comic.content %}
+	<link rel="stylesheet" href="/css/dialog.css"/>
 	{% include 'dialog', dialogContent: comic.content %}
 {% endif %}
 {% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum %}
