@@ -13,7 +13,7 @@
 							{% assign profilePath = ch | lowerCase | append: " profile" %}
 							{% image "gallery/" profilePath 'png' 100 ch '' iconPath 'png' %}
 						</a>
-						<p class="tags">{% include 'chButton', ch: ch %}</p>
+						<p><a href="/characters/{{ ch | lowerCase }}/">{{ ch }}</p>
 					{% else %}
 						<div></div>
 						<p>{{ ch }}</p>
