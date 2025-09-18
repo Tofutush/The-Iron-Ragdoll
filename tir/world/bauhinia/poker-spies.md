@@ -4,28 +4,21 @@ desc: A spy ring assembled during the Fantoni War.
 titlezh: 扑克间谍环
 categories:
   - Misc
+tags:
+  - poker-spies
 ---
 
-During the Fantoni War, [MSS](/world/bauhinia/mss/) officer [Sky](/characters/sky/) ran a ring of four spies gathering intel on [Fanton](/world/fanton/) and [Moreland](/world/moreland/). Sky liked representing them with the ace cards of the four suits, which is why they are later referred to as the "Poker Spies."
+During the Fantoni War, [MSS](/world/bauhinia/mss/) officer [Sky](/characters/sky/) ran a ring of four spies gathering intel and doing deception. Sky liked representing them with the ace cards of the four suits, which is why they are later referred to as the "Poker Spies." Read more about their stories [here](/stories/the-poker-spies/).
 
 ## The spies
 
-- [Tsunami](/characters/tsunami/): Ace of Diamonds; blue chip.
-- [Jumbo](/characters/jumbo/): Ace of Hearts; red chip. Bauhinian girl with an outstanding memory for her own creations. She was recruited by Sky to make up fake agents and fake intel.
-- [Mulberry](/characters/mulberry/): Ace of Spades; green chip. Fantoni girl who hates her mother country's strict laws and wanted to move to Bauhinia.
-- [Blackjack](/characters/blackjack/): Ace of Clubs; black chip.
-
-## History
-
-So yeah Sky recruited them and they did stuff lol idk yet
-
-After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/)[^1].
-
-Later, two [stupid](/characters/harmony/) [kids](/characters/sugarcane/) heard about the spy ring and decided to [invite them all over for a party](/stories/poker-party/).
+- [Tsunami](/characters/tsunami/): Ace of Diamonds; blue chip
+- [Jumbo](/characters/jumbo/): Ace of Hearts; red chip
+- [Mulberry](/characters/mulberry/): Ace of Spades; green chip
+- [Blackjack](/characters/blackjack/): Ace of Clubs; black chip
 
 ## Trivia
 
-The inspiration behind it would be either the [Normandy deception campaign](https://en.wikipedia.org/wiki/Double-Cross_System)[^2] or the [Cambridge Five](https://en.wikipedia.org/wiki/Cambridge_Five), depending on what role I decide to give the pokers.
+The inspiration behind this is [Operation Fortitude](https://en.wikipedia.org/wiki/Operation_Fortitude)[^1] and the wider [Double-Cross System](https://en.wikipedia.org/wiki/Double-Cross_System). Ben Macintyre wrote a good book about it called *Double Cross*.
 
-[^1]: 俗话说：彻底躺平！
-[^2]: Please forgive me for linking Wikipedia but it *is* the quickest source of information.
+[^1]: Please forgive me for linking Wikipedia but it *is* the quickest source of information.
