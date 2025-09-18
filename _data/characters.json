@@ -1984,30 +1984,36 @@
     "namezh": "桑葚",
     "color": "#06740d",
     "tags": [
+      "Bauhinia",
       "Fanton",
       "Poker Spies"
     ],
     "attr": {
       "Nickname": "Spades (codename by Sky)",
       "Gender": "Female",
-      "Nationality": "Fantoni"
+      "Nationality": "Fantoni, Bauhinian permanent resident"
     },
     "palette": {
       "shirt light": "#959595",
       "shirt dark": "#626262",
       "hair": "#2e2e2e"
-    }
+    },
+    "about": "Mulberry was a rebellious young college drop-out who longed for the illicit substances banned by her home country. When she was not working at the grocery store, she spent her time on the streets, finding places to buy smokes and drinks.\n\nWhen the war broke out, she was drafted by the army, but offered to spy on Bauhinia for the NSA to avoid actually getting on the battlefield. Nearly as soon as she landed inside the country she turned herself in to the MSS. Sky got her to send fake intel to the NSA. She stayed in Bauhinia after the war, still working minimum-wage jobs, but getting a pension from the MSS and getting high a lot more safely. (Safe as in the law won't get her; it's still very unhealthy. Don't do drugs.)"
   },
   {
     "name": "Blackjack",
     "namezh": "二十一",
     "color": "#2e2e2e",
     "tags": [
+      "Bauhinia",
+      "Fanton",
       "Poker Spies"
     ],
     "attr": {
       "Nickname": "Clubs (codename by Sky)",
-      "Gender": "Female"
-    }
+      "Gender": "Female",
+      "Nationality": "Fantoni, Bauhinian permanent resident"
+    },
+    "about": "Blackjack was a Fantoni underground mobster before the war, running her own team of gangsters. She also had some \"friends\" in the government who would cover for her in exchange for bribes.\n\nHer business should've been booming because of the war, but one of her government pals asked her for a bigger protection fee — run a little spying job in Bauhinia.\n\nThinking her underground dealing skills amounted to tradecraft, Blackjack landed in Bauhinia, only to be soon caught by the MSS. Sky came in and gave her an offer: execution, or working for the MSS.\n\nBlackjack chose the latter. She was sent back to Fanton with some fake intel intended to fool the government official who asked for it. She would then go do some sabotage stuff ig\n\nAfter the war had ended, Blackjack was in danger of being found out. Sky staged a rescue mission to smuggle her into Bauhinia, where she lived on as a martial arts instructor."
   }
 ]
