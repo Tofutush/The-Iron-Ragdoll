@@ -9,7 +9,7 @@ titlezh: 更新日志
 
 ## 2025-09-19
 
-- Added `jumbo card.png`;
+- Added `jumbo card.png`, `blackjack card.png`, `mulberry stand.png`, `jumbo stand.png`, `blackjack stand.png`;
 - Edited a lot of stories;
 
 ## 2025-09-16
