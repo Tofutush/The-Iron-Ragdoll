@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-19
+
+- Added `jumbo card.png`;
+- Edited a lot of stories;
+
 ## 2025-09-16
 
 - Made a cool new dialog display. Check out an example [here](/stories/spy-school/page-6/);
