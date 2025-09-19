@@ -4,6 +4,8 @@ titlezh: 魔法学院
 desc: Magical indoctrination school.
 categories:
   - Schools
+tags:
+  - magic-academy
 ---
 
 A school for [magicians](/world/superpowers/#magic), ran by the Bauhinian government, established in 2017. Every magician in Bauhinia with a level above or equal to 10 and is older than 10 years is required to attend.
