@@ -4285,11 +4285,46 @@
     ]
   },
   {
+    "name": "mulberry stand",
+    "type": "png",
+    "date": "2025-09-16",
+    "ch": [
+      "mulberry"
+    ],
+    "kind": "fullbody"
+  },
+  {
     "name": "jumbo card",
     "type": "png",
     "date": "2025-09-19",
     "ch": [
       "jumbo"
     ]
+  },
+  {
+    "name": "jumbo stand",
+    "type": "png",
+    "date": "2025-09-19",
+    "ch": [
+      "jumbo"
+    ],
+    "kind": "fullbody"
+  },
+  {
+    "name": "blackjack card",
+    "type": "png",
+    "date": "2025-09-19",
+    "ch": [
+      "blackjack"
+    ]
+  },
+  {
+    "name": "blackjack stand",
+    "type": "png",
+    "date": "2025-09-19",
+    "ch": [
+      "blackjack"
+    ],
+    "kind": "fullbody"
   }
 ]
