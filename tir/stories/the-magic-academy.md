@@ -12,6 +12,8 @@ myTags:
   - Coastline
 time: 2030 - 2035
 desc: Qibli and Trinket attend Magic Academy.
+tags:
+  - magic-academy
 ---
 
 Qibli begged the doctor to put her magic level down as 10 so it looked better. What she didn't know was that she had to start attending [Magic Academy](/world/bauhinia/magic-academy/) now.
