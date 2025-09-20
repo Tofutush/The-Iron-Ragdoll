@@ -7,6 +7,12 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-20
+
+- Finished the [favorites leaderboard](https://tofutush.great-site.net)!
+	- The URL is subject to change though;
+- Added "Attack on Artfight" and "Give favorite" buttons on the character pages;
+
 ## 2025-09-19
 
 - Added `jumbo card.png`, `blackjack card.png`, `mulberry stand.png`, `jumbo stand.png`, `blackjack stand.png`;
