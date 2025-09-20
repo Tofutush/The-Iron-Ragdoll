@@ -4326,5 +4326,22 @@
       "blackjack"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "tsunami card",
+    "type": "png",
+    "date": "2025-09-20",
+    "ch": [
+      "tsunami"
+    ]
+  },
+  {
+    "name": "tsunami stand",
+    "type": "png",
+    "date": "2025-09-20",
+    "ch": [
+      "tsunami"
+    ],
+    "kind": "fullbody"
   }
 ]

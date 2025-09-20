@@ -12,6 +12,7 @@ titlezh: 更新日志
 - Finished the [favorites leaderboard](https://tofutush.great-site.net)!
 	- The URL is subject to change though;
 - Added "Attack on Artfight" and "Give favorite" buttons on the character pages;
+- Added `tsunami card.png`, `tsunami stand.png`;
 
 ## 2025-09-19
 
