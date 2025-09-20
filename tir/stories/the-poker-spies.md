@@ -14,10 +14,18 @@ myTags:
   - Fanton
   - MSS
 time: 2041 - 2044
-desc: The story of four spies in the Fantoni invasion war
+desc: The story of four spies in the Fantoni invasion war.
 tags:
   - poker-spies
 ---
+
+This is still very brainstorm-y for now so bear with me! Any info subject to change.
+
+## Jumbo
+
+The MSS intercepted some correspondence between someone in Bauhinia and someone in Fanton. They looked at it and just stared... Seems like this person is *trying* to sell the Fantoni info
+
+## Postscript
 
 After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/)[^1].
 
