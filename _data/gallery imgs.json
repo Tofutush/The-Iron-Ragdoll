@@ -4343,5 +4343,49 @@
       "tsunami"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "poker spies footer",
+    "type": "png",
+    "date": "2025-09-21",
+    "ch": [
+      "tsunami",
+      "jumbo",
+      "blackjack",
+      "mulberry"
+    ],
+    "kind": "footer"
+  },
+  {
+    "name": "poker spies footer - tsunami",
+    "type": "png",
+    "date": "2025-09-21",
+    "ch": [
+      "tsunami"
+    ]
+  },
+  {
+    "name": "poker spies footer - jumbo",
+    "type": "png",
+    "date": "2025-09-21",
+    "ch": [
+      "jumbo"
+    ]
+  },
+  {
+    "name": "poker spies footer - blackjack",
+    "type": "png",
+    "date": "2025-09-21",
+    "ch": [
+      "blackjack"
+    ]
+  },
+  {
+    "name": "poker spies footer - mulberry",
+    "type": "png",
+    "date": "2025-09-21",
+    "ch": [
+      "mulberry"
+    ]
   }
 ]
