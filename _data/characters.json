@@ -1962,6 +1962,10 @@
     "attr": {
       "Nickname": "Diamonds (codename by Sky)",
       "Gender": "Female"
+    },
+    "palette": {
+      "hair": "#7DB2DD",
+      "suit": "#2e2e2e"
     }
   },
   {
@@ -1976,6 +1980,10 @@
       "Nickname": "Hearts (codename by Sky)",
       "Gender": "Female",
       "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#D95284",
+      "dress": "#2e2e2e"
     },
     "about": "Jumbo was just a small trader living near the Fantoni border, trading stuff between Bauhinia and Fanton, mostly staying within the bounds of the law. She loved making OCs based around real-life places in the world too.\n\nWhen the war broke out, trade between the two nations were nearly all cut off, and Jumbo found herself without any source of income. But the connections she established with Fantoni traders weren't going anywhere. She tried to offer to work for the MSS, but got rejected. And then she suddenly got a tiny bit of actual Bauhinian intel (details TBD), so she tried her luck again with the Fantoni, using that intel as a buy-in. They recruited her.\n\nJumbo then realized that she had no way of actually gathering useful intel, so she simply made shit up. When inconsistencies were found out by the National Security Agency of Fanton, she made up fake contacts based on her OCs to shift the blame to.\n\nSlowly, due to shit tradecraft, her messages to the Fanton military got intercepted by the MSS. They had a good laugh about how stupid this was, and realized that the NSA trusted Jumbo a lot. Here comes the chance. Sky went to Jumbo and gave her a choice. She can either go to jail for treason, or she can start working for the MSS, giving the NSA some specific fake intel provided to her. The choice was obvious. Jumbo finally got to work for the MSS now.\n\nAfter the war was over, Jumbo was in a comfortable position. Her salary from the NSA got her through the high wartime utility prices, and she saved up most of her MSS salary, plus they still gave her a monthly pension. She stopped hopping borders constantly, only doing some occasional freelancing, and focused on making her OCs. She planned to publish a novel about them, and had been writing Chapter 1 over and over again for years."
   },
@@ -2013,6 +2021,10 @@
       "Nickname": "Clubs (codename by Sky)",
       "Gender": "Female",
       "Nationality": "Fantoni, Bauhinian permanent resident"
+    },
+    "palette": {
+      "hat": "#A0A0A0",
+      "hair": "#000"
     },
     "about": "Blackjack was a Fantoni underground mobster before the war, running her own team of gangsters. She also had some \"friends\" in the government who would cover for her in exchange for bribes.\n\nHer business should've been booming because of the war, but one of her government pals asked her for a bigger protection fee — run a little spying job in Bauhinia.\n\nThinking her underground dealing skills amounted to tradecraft, Blackjack landed in Bauhinia, only to be soon caught by the MSS. Sky came in and gave her an offer: execution, or working for the MSS.\n\nBlackjack chose the latter. She was sent back to Fanton with some fake intel intended to fool the government official who asked for it. She would then go do some sabotage stuff ig\n\nAfter the war had ended, Blackjack was in danger of being found out. Sky staged a rescue mission to smuggle her into Bauhinia, where she lived on as a martial arts instructor."
   }
