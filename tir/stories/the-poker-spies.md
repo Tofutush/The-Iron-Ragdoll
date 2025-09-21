@@ -23,7 +23,9 @@ This is still very brainstorm-y for now so bear with me! Any info subject to cha
 
 ## Jumbo
 
-The MSS intercepted some correspondence between someone in Bauhinia and someone in Fanton. They looked at it and just stared... Seems like this person is *trying* to sell the Fantoni info
+The MSS intercepted some correspondence between someone in Bauhinia and someone in Fanton. They looked at it and just stared… Seems like this person is *trying* to sell the Fantoni info but failing terribly at that. The person in question was completely making shit up.
+
+They realized that the Fantoni trusted this person a lot, and that they could use them to provide intentionally misleading information.
 
 ## Postscript
 
