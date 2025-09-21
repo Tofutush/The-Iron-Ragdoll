@@ -1961,7 +1961,8 @@
     ],
     "attr": {
       "Nickname": "Diamonds (codename by Sky)",
-      "Gender": "Female"
+      "Gender": "Female",
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#7DB2DD",
@@ -1979,7 +1980,8 @@
     "attr": {
       "Nickname": "Hearts (codename by Sky)",
       "Gender": "Female",
-      "Nationality": "Bauhinian"
+      "Nationality": "Bauhinian",
+      "Occupation": "Trader"
     },
     "palette": {
       "hair": "#D95284",
@@ -1999,7 +2001,8 @@
     "attr": {
       "Nickname": "Spades (codename by Sky)",
       "Gender": "Female",
-      "Nationality": "Fantoni, Bauhinian permanent resident"
+      "Nationality": "Fantoni, Bauhinian permanent resident",
+      "Occupation": "Unemployed"
     },
     "palette": {
       "shirt light": "#959595",
@@ -2020,7 +2023,8 @@
     "attr": {
       "Nickname": "Clubs (codename by Sky)",
       "Gender": "Female",
-      "Nationality": "Fantoni, Bauhinian permanent resident"
+      "Nationality": "Fantoni, Bauhinian permanent resident",
+      "Occupation": "Gangster"
     },
     "palette": {
       "hat": "#A0A0A0",
