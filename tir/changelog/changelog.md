@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-21
+
+- Added `poker spies footer.png` along with the four individual characters;
+	- Also obvious from the name, it is a new footer;
+
 ## 2025-09-20
 
 - Finished the [favorites leaderboard](https://tofutush.great-site.net)!
