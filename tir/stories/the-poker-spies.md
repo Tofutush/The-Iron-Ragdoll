@@ -27,6 +27,10 @@ The MSS intercepted some correspondence between someone in Bauhinia and someone 
 
 They realized that the Fantoni trusted this person a lot, and that they could use them to provide intentionally misleading information.
 
+Sky found out everything about them. Jumbo, trader, sometimes smuggles stuff but mostly law-abiding. He posed as someone wanting to contact some Fantoni traders and introduced himself to her.
+
+They met in a restaurant, but quickly Sky asked to go somewhere more private.
+
 ## Postscript
 
 After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/)[^1].

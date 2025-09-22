@@ -75,6 +75,7 @@ I'd love code to have a similar license too, but apparently noncommercial goes a
 - [Toyhouse](https://toyhou.se/Tofutush)
 - [Artfight](https://artfight.net/~Tofutush)
 - [Blog](https://tofutush.github.io)
+- Make sure to check out the [Paracosmist Collective](https://discord.gg/2xwYhpJp7K) as well!
 
 **Risk assessment:** Low risk. Subject can and will trip over her own shoelaces. Has next to zero counter-surveillance skills. The only obstacle to containment is her spontaneous consumption of other people.
 
