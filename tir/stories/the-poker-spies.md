@@ -29,6 +29,8 @@ They realized that the Fantoni trusted this person a lot, and that they could us
 
 Sky found out everything about them. Jumbo, trader, sometimes smuggles stuff but mostly law-abiding. He posed as someone wanting to contact some Fantoni traders and introduced himself to her.
 
+Sky pulled a dirty trick for this one. He asked his beloved mentor Goose to hide herself and his MSS uniform touching him. That way, he appeared as a civilian while wearing the uniform.
+
 They met in a restaurant, but quickly Sky asked to go somewhere more private.
 
 ## Postscript

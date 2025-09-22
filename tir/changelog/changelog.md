@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-22
+
+- Changed all "shifu" and "shimu" to "mentor";
+
 ## 2025-09-21
 
 - Added `poker spies footer.png` along with the four individual characters;

@@ -24,7 +24,7 @@ She graduated, knowing absolutely nothing about what she was going to do with he
 
 One day, she saw a military recruitment ad. She was like, "wow that's *really* cool" and went to the nearest office. She almost didn't make the cut, but she did.
 
-After serving two years in the navy, she got recruited into the [MSS](/world/bauhinia/mss/). Her assigned shifu was [Paperweight](/characters/paperweight/). During the same year, [Pumpkin](/characters/pumpkin/) was also recruited from the army as [Halcyon](/characters/halcyon/)'s apprentice. They got assigned together as a team.
+After serving two years in the navy, she got recruited into the [MSS](/world/bauhinia/mss/). Her assigned mentor was [Paperweight](/characters/paperweight/). During the same year, [Pumpkin](/characters/pumpkin/) was also recruited from the army as [Halcyon](/characters/halcyon/)'s apprentice. They got assigned together as a team.
 
 One by one these people left her. Pumpkin was murdered, Halcyon traded away, and Paperweight got sick and retired to die[^1].
 
