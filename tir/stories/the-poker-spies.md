@@ -58,7 +58,17 @@ jumboDialog:
 
 This is still very brainstorm-y for now so bear with me! Any info subject to change.
 
+## Start of the war
+
+Sky, having no experience in wartime state security — or state security in general for that matter, being freshly out of college and all. He was eager to work with his mentor Goose, mostly in interrogating the prisoners of war Bauhinia captured. When Goose was alone, the interrogations were messy, involved too much bleeding and screaming, and arguably counterproductive. With Sky, she was a lot more reserved, and Sky learned a lot.
+
+And one day, they captured a Fantoni agent lurking near Bauhinian military forts, way behind the frontline. She was sent to Goose and Sky.
+
 ## Mulberry
+
+She said her name was Mulberry and that she wanted to defect. Fanton coerced her into spying in Bauhinia, and she had always dreamed of escaping that totalitarian hellhole. Her first words as a baby were "fuck Fanton." Okay sorry officers I lied on that one, but I *wish* it were true, but the "f" sound is really hard for babies to pronounce you know? Ehh… sorry I'll shut up.
+
+Goose was laughing so hard. You think you know more about totalitarian states than me? I spent my whole life living in one! Anyways, she was about to write Mulberry off as a really poorly-trained dangle.
 
 ## Blackjack
 
