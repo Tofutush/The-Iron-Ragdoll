@@ -79,10 +79,6 @@ export default function (eleventyConfig) {
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
 		return arr.filter(s => s.data.chs?.includes(ch.toLowerCase()));
 	});
-	eleventyConfig.addFilter('getimgurl', function (num) {
-		num = parseInt(num);
-		return String(Math.floor(num / 100) + '/' + num)
-	});
 	eleventyConfig.addFilter('getFooterImg', function (arr, name) {
 		return arr[Array.from(name).reduce((sum, i) => sum + i.charCodeAt(0), 0) % arr.length];
 	});
