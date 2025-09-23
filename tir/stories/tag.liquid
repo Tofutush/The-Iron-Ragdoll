@@ -3,7 +3,6 @@ layout: layout.liquid
 title: Story Tags
 desc: Story tags.
 eleventyNavigation:
-  key: Story Tags
   title: Tags
   parent: Stories
   order: 1
@@ -11,7 +10,8 @@ eleventyNavigation:
 
 <h1>Tags</h1>
 <ul>
-    {% for tag in collections.storyTags %}
-        <li><a href="{{ tag | slug }}/">{% lucide 'tags' %} {{ tag }}</a></li>
-    {% endfor %}
+  {% for tag in collections.storyTags %}
+    {% assign num = collections.stories | filterStoriesByTag: tag | size %}
+    <li><a href="{{ tag | slug }}/">{% lucide 'tags' %} {{ tag }}</a><span class="lighter-text smaller-text"> ({{ num }} {% if num == 1 %}story{% else %}stories{% endif %})</span></li>
+  {% endfor %}
 </ul>

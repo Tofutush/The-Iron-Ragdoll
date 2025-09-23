@@ -1,7 +1,4 @@
 ---
-layout: fic.liquid
-parent: A Nuke From Moreland
-tags: anfm-fic
 chNum: 1
 date: 2024-11-21
 ---

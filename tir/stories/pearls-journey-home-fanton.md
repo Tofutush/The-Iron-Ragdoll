@@ -1,8 +1,6 @@
 ---
-layout: story.liquid
 title: Pearl's Journey Home - Fanton
 canon: yes
-order: 106
 chs:
   - sparky
   - qibli
@@ -10,12 +8,13 @@ chs:
   - firecrackers
   - pearl
 time: "2032"
-summary: The friends get to Fanton with Pearl.
+desc: The friends get to Fanton with Pearl.
 myTags:
   - Canon
   - Fanton
   - Sparky and her friends
   - Pearl's Journey Home
+titlezh: 珍珠回家：范顿篇
 ---
 
 They got to Fanton. They had a good time there, with all the beautiful scenery and tofu. They also saw pandas. They got to the border.

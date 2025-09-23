@@ -118,7 +118,7 @@
       "extra-auto-correct-files": []
     },
     "blockquote-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "space"
     },
     "convert-bullet-list-markers": {
@@ -145,7 +145,7 @@
       "enabled": true
     },
     "quote-style": {
-      "enabled": false,
+      "enabled": true,
       "single-quote-enabled": true,
       "single-quote-style": "''",
       "double-quote-enabled": true,
@@ -284,8 +284,8 @@
   "customRegexes": [
     {
       "label": "dash",
-      "find": "(?<!-)-{2}(?!-)",
-      "replace": "—",
+      "find": " (?<!-)-{2}(?!-) ",
+      "replace": " — ",
       "flags": "g",
       "enabled": true
     }

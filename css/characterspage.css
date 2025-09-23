@@ -17,7 +17,12 @@
 		transition: transform .2s;
 
 		&>a {
-			margin: 1rem 0;
+			margin: 1em 0;
+			background-color: var(--c);
+			padding: .3em .5em;
+			border-radius: .3em;
+			text-decoration: none;
+			font-size: var(--font-size-small);
 		}
 
 		&:hover {
@@ -36,7 +41,6 @@
 	border-radius: 16px;
 	display: flex;
 	justify-content: center;
-	margin: auto;
 	overflow: hidden;
 	transition: box-shadow .2s;
 

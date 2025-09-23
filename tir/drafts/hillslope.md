@@ -4,7 +4,6 @@ title: Hillslope
 tags:
   - hillslope
 eleventyNavigation:
-  key: Hillslope
   parent: Coastline
 titlezh: 小山坡
 ---

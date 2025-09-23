@@ -1,10 +1,15 @@
-const characters = require('./characters.json');
-const days = require('./holidays.json');
+import characters from './characters.json' with {type: 'json'};
+import daysJson from './holidays.json' with {type: 'json'};
+
+let days = JSON.parse(JSON.stringify(daysJson));
+
+// tf is this godawful code kid can future you fix it
 for (let z = 0; z < characters.length; z++) {
 	if (characters[z].attr?.Birthday) {
 		let monthDay = characters[z].attr.Birthday.substring(5);
 		let obj = {
-			image: `${characters[z].name.toLowerCase()} thumb.png`,
+			image: `${characters[z].name.toLowerCase()} thumb`,
+			type: 'png',
 			alt: `${characters[z].name}'s birthday`,
 			url: `/characters/${characters[z].name.toLowerCase()}/`
 		}
@@ -14,7 +19,7 @@ for (let z = 0; z < characters.length; z++) {
 		else if (days[monthDay] instanceof Object) {
 			days[monthDay].days = [obj];
 		} else {
-			days[monthDay] = { days: [obj] };			
+			days[monthDay] = { days: [obj] };
 		}
 	}
 }
@@ -49,4 +54,5 @@ for (let z = 0; z < 12; z++) {
 	}
 	dates.push(month);
 }
-module.exports = dates;
+
+export default dates;

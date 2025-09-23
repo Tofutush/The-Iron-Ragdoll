@@ -2,212 +2,139 @@
 layout: article.liquid
 title: Changelog
 eleventyNavigation:
-  key: Changelog
   parent: Root
   order: 990
 titlezh: 更新日志
 ---
 
-## 2025-04-17
+## 2025-09-22
 
-- Added `gigi.png`, `barnaby.png`, `firecrackers favpicker.png`;
+- Changed all "shifu" and "shimu" to "mentor";
+- Edited [The Poker Spies](/stories/the-poker-spies/) a bit, though it's still not quite readable;
+- Removed the gallery stats page;
+- Removed the character art progress section from the [sortable list](/characters/list/);
+- Put the [character art progress](/gallery/progress/) as its own page under gallery;
+- Removed the "goals" page because I kept forgetting to update it;
+	- Put the [scavenger hunt](/fun/hunt/) clue that was originally there under another page;
 
-## 2025-04-16
+## 2025-09-21
 
-- Fixed a problem in the OC generator where the links aren't base-ified;
-- Added story [Family of Secrets](/stories/family-of-secrets/);
+- Added `poker spies footer.png` along with the four individual characters;
+	- Also obvious from the name, it is a new footer;
 
-## 2025-04-11
+## 2025-09-20
 
-- Released the [OC generator](/fun/generator/)! Come play!
-- Updated [Goals](/goals/);
+- Finished the [favorites leaderboard](https://tofutush.great-site.net)!
+	- The URL is subject to change though;
+- Added "Attack on Artfight" and "Give favorite" buttons on the character pages;
+- Added `tsunami card.png`, `tsunami stand.png`;
 
-## 2025-04-10
+## 2025-09-19
 
-- Added section [eternal death](/world/bauhinia/#eternal-death) to Bauhinia's page;
+- Added `jumbo card.png`, `blackjack card.png`, `mulberry stand.png`, `jumbo stand.png`, `blackjack stand.png`;
+- Edited a lot of stories;
 
-## 2025-04-09
+## 2025-09-16
 
-- Added `jackalope thumb.png`, `creepy govt family.png`;
+- Made a cool new dialog display. Check out an example [here](/stories/spy-school/page-6/);
+- Added the [Poker Spies](/world/bauhinia/poker-spies/): [Tsunami](/characters/tsunami/), [Jumbo](/characters/jumbo/), [Mulberry](/characters/mulberry/), [Blackjack](/characters/blackjack/);
+- Added `mulberry card.png`;
 
-## 2025-04-08
+## 2025-09-14
 
-- Added `frosting thumb.png`, `harmony thumb.png`;
+- Added characters under the events they participated in in the [timeline](/world/timeline/);
 
-## 2025-04-07
+## 2025-09-13
 
-- Added `entity thumb.png`, `halcyon profile.png`, `bramble thumb.png`;
+- Changed the off-white color and footer style a little;
+	- Usually I don't log these, but well, I'm not updating a whole lot recently. College's been kicking my ass and it's only like 2 weeks. Goddamn;
+- Published [Spy School pages 5 - 6](/stories/spy-school/page-5/);
 
-## 2025-04-05
+## 2025-09-08
 
-- Added statement about fan content in [about](/about/#fan-content);
-- Added `buttercup ref.png`, `nightsun favpicker.png`;
+- Added a shitty [timeline](/world/timeline/)!
 
-## 2025-04-03
+## 2025-09-07
 
-- Edited [New Year 2032](/stories/new-year-2032/) a bit;
-- Added `blaze.png`;
+- Added `jelly astonished.png`, `sparky cool.png`;
+- Changed theme color to grayscale to make the character soul colors stand out more.
 
-## 2025-04-02
+## 2025-09-04
 
-- Released the [scavenger hunt game](/fun/hunt/);
-- updated [character list](/characters/list/) to include fav picker image (even though I drew precisely 0 of those);
-- Added `whiteout thumb.png`, `whiteout profile.png`;
+- Added `jinx jackalope snow.png`;
 
-## 2025-04-01
+## 2025-09-01
 
-- Added `hunt no.png` and `hunt yes.png`;
-- Moved February to older updates;
+- Moved July to [older updates](old/);
 
-## 2025-03-31
+## 2025-08-31
 
-- Edited [MSS](/world/bauhinia/mss/) a little;
-- Edited [PJH - Atlasia](/stories/pearls-journey-home-atlasia/) a little;
-- Added `hunt finish.png`, along with the individual characters;
+- Added `nebula profile.png`, `jinx horse.png`;
 
-## 2025-03-29
+## 2025-08-22
 
-- Tweaked the footer CSS a little;
+- CHECK OUT [MY BROTHER'S ART OF GOOSE](https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/others%20art/goose%20brother.jpg). THIS IS MANDATORY!
 
-## 2025-03-28
+## 2025-08-21
 
-- Tweaked the tags CSS a little;
+- Added [The Absolute End to TIR as We Know It](/stories/the-absolute-end-to-tir-as-we-know-it/);
+- Edited [Peacock's Backstory](/stories/peacock-backstory/);
 
-## 2025-03-27
+## 2025-08-20
 
-- Tweaked [character page](/characters/) CSS a little;
-- Updated [goals](/goals/) to include MCA count;
+- [Pinecone](/characters/pinecone/) is now [Firecrackers](/characters/firecrackers/)'s mom;
+	- Retconned a little for this; inconsistencies may still appear where I haven't caught them;
+- Published lore file [Meng Po](/world/meng-po/);
 
-## 2025-03-26
+## 2025-08-18
 
-- Made a [discord server](https://discord.gg/XzdA5vKkb2);
-	- Come hang out!
-- Added `deer thing.png`, `one man short footer.png`;
-	- `one man short footer.png` is also a new footer, in case the name wasn't obvious enough;
+- Added `jaculus profile.png`, `pumpkin ref.png`;
 
-## 2025-03-25
+## 2025-08-16
 
-- Added `nala.png`, `squid tentacles.png`, `buttercup slice.png`, `whiteout slice.png`;
-- Added links to the gallery on the [text list](/characters/list/);
-- Added new page [Magic Academy](/world/bauhinia/coastline/magic-academy/);
+- Added `kismet and kismet.png`, `kismet original.png`, `kismet tundra.png`;
 
-## 2025-03-24
+## 2025-08-14
 
-- I put my stupid [ANFM](/stories/a-nuke-from-moreland/) fic on the site;
-	- Revel in cringe;
+- Added a border around relationship text;
+	- Might cause a little funkiness when there's a picture but not enough text, but whatever that's my punishment for not writing relationship text;
+		- My CSS is a mess goddamn;
+- Added `jackalope sticker.png`, `jinx sticker.png`, `mooncake candlelight occupation night.png`;
 
-## 2025-03-21
+## 2025-08-10
 
-- Added `goose jackalope.png`;
-- Decided to end changelog entries with semicolons for ✨ quirkiness ✨;
+- Added `light camera action.png`;
+- Removed tag pages from the [sitemap](/sitemap/);
 
-## 2025-03-20
+## 2025-08-09
 
-- Added `sue.gif`, `whiteout stand.png`.
-- Edited [Pearl's Journey Home](/stories/pearls-journey-home/).
+- Added `kismet thumb.png`, `pinecone thumb.png`, `natasha stand.png`, `rosemary thumb.png`, `typhoon thumb.png`;
 
-## 2025-03-19
+## 2025-08-07
 
-- Changed the iframes of the bucket webrings (bucket and bolognese) to the OC webring widget. Come to think of it, the bucket webring is a lot similar to the OC webring I wrote…
-- Slight character page tweaks.
+- Added characters: [Pinecone](/characters/pinecone/), [Rosemary](/characters/rosemary/), [Natasha](/characters/natasha/), [Typhoon](/characters/typhoon/);
+	- They all have designs, I promise; I just haven't drawn them digitally yet;
+- Added story [Project Kismet](/stories/project-kismet/);
+- Changed background style again;
 
-## 2025-03-18
+## 2025-08-05
 
-- Added new fun page, [wallpapers](/fun/wallpapers/) you can download!
+- Added file count in the tag pages of [characters](/characters/tag/), [stories](/stories/tag/), and [world](/world/category/);
 
-## 2025-03-17
+## 2025-08-04
 
-- Edited a lot of country information, notably a "Foreign relations" section.
+- Added a fun little [Steps Calculator](/fun/steps/);
 
-## 2025-03-16
+## 2025-08-02
 
-- Merged [a PR from TheOliveOli](https://github.com/Tofutush/The-Iron-Ragdoll/pull/1) to add a text shadow behind the card text in front of the popup characters. Thank you!
-- Changed the dark mode accent to blue again. I cannot settle down, man.
+- New story: [Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/);
+- Added a full-screen button to the [relationship graph](/characters/relationships/);
+- Added `apri.png`;
 
-## 2025-03-15
+## 2025-08-01
 
-- Added the status cafe widget to [About](/about/)!
-- Tofutush canNOT decide on a blockquote style.
-- I forgot to log `ribbon profile.png` in the `.json` file… It's there now.
-- Gave Sylvandia and Moreland capital cities: [Bonnie](/world/sylvandia/bonnie/) and [Revolution's Cradle](/world/moreland/revolutions-cradle/).
-
-## 2025-03-14
-
-- Happy PI day!
-- Added tags and filtering to [stories](/stories/).
-- Removed the link colors on gallery and stories.
-	- Which led to some funny coloring of some stories, which is nice I guess.
-- Added `lark half.png`, `lark wall.png`.
-
-## 2025-03-13
-
-- Added `jackalope salute.png`, `xuer.gif`, `xuer-2.gif`.
-
-## 2025-03-10
-
-- Added stories for each country in [Pearl's Journey Home](/tir/stories/pearls-journey-home/).
-- Changed the story list's style.
-- Added `xuer.png`, `sparky tween.png`, `sparky tween.gif`.
-
-## 2025-03-09
-
-- Updated the CSS to include `<h4>`s.
-- Updated [About](/about/).
-- Added `amber profile.png`, `peacock profile.png`.
-
-## 2025-03-08
-
-- Happy Women's Day!
-- Added `pumpkin profile.png`, `paperweight profile.png`.
-- Fixed Sky's horns in `sky lineless.png` and `cms friends lineless.png`. That was awkward. It's always awkward when you draw your own characters wrong and go for ages without realizing.
-
-## 2025-03-07
-
-- Edited [A Nuke from Moreland](/stories/a-nuke-from-moreland/), [New Year 2032](/stories/new-year-2032/).
-- Edited blockquote style.
-- Added `sunflower thumb.png`, `goose profile.png`, `qibli profile.png`.
-- Added total page count to the [sitemap](/sitemap/).
-
-## 2025-03-06
-
-- Added navigation buttons in galleries.
-- Fixed a CSS problem in the comic pages.
-- Added `candlelight thumb.png`, `helsinki thumb.png`, `mooncake thumb.png`, `sunflower candlelight.png`.
-- Edited [New Year 2032](/stories/new-year-2032/).
-
-## 2025-03-05
-
-- Renamed "Projects" to [Goals](/goals/).
-- Edited the magic section on [Superpowers in Bauhinia](/world/bauhinia/superpowers/).
-- Added lore page [Races](/world/races/).
-- Added [Guardian Moose](/world/moreland/guardian-moose/), and changed MIA to [MIC](/world/moreland/guardian-moose/mic/).
-- Added `cobalt thumb.png`, `nightingale thumb.png`, `skyhawk thumb.png`, `lucky strike.png`, `alistair darius.png`.
-
-## 2025-03-04
-
-- Updated the [overview](/world/overview/).
-- Added a [projects page](/projects/).
-- Fixed a problem where a bunch of tags were added to every page without me knowing.
-- Joined the Bolognese webring.
-- Cleaned up the layout a wee bit.
-- Added total number of pictures to [gallery stats](/gallery/stats/). How did I forget about that?
-- Added an overdue `sundae symmetrical.png`.
-- Added `villagers.png` and the respective pictures for each character.
-
-## 2025-03-03
-
-- Edited the two Candlelight stories.
-- Put some character progress stats in the [text list](/characters/list/).
-- Removed an embarrassing mistake in the theme switch JS.
-- Added `trinket thumb.png`, and updated the horned characters' thumbs to the new design where their horn colors are just their soul color.
-
-## 2025-03-02
-
-- Moved January updates to [old](/changelog/old/) because I forgot to yesterday.
-
-## 2025-03-01
-
-- Added a CC BY-NC-SA license.
+- Added `myriad profile.png`, `alaska profile.png`, `guillotine profile.png`;
+- Moved June to [older updates](old/);
 
 ---
 

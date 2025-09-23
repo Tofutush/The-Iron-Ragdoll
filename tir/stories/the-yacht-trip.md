@@ -1,8 +1,6 @@
 ---
-layout: story.liquid
 title: The Yacht Trip
 canon: yes
-order: 110
 chs:
   - sparky
   - peacock
@@ -13,15 +11,18 @@ chs:
   - devotion
   - elegance
   - animus
-time: "2032"
-summary: The two families go on a vacation.
+time: 2032-07
+desc: The two families go on a vacation.
 myTags:
   - Canon
   - Bauhinia
   - Coastline
   - Froggy Island
+titlezh: 游艇旅行
 ---
 
 Peacock's family and Hyrax's family go on Hyrax's fancy private yacht to sail to Hyrax's fancy private and insanely big island, [Froggy Island](/world/bauhinia/froggy-island/). Stuff happen.
 
 Also Reindeer got murdered somehow so Ironheart is with Peacock now.
+
+They sailed across the sea for a week to the island.

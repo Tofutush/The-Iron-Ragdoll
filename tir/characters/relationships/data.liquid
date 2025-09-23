@@ -23,5 +23,5 @@ rel2: "{{ rel.ch[1][1] }}"
 };
 
 const imgs = {
-    {% for ch in characters %}{% assign name = ch.name | lowerCase | append: ' thumb.png' %}{% capture url %}{% imageUrl 'gallery/' name 200 %}{% endcapture %}{{ ch.name }}: "{{ url | htmlBaseUrl }}",{% endfor %}
+    {% for ch in characters %}{% assign name = ch.name | lowerCase | append: ' thumb' %}{% capture url %}{% imageUrl 'gallery/' name 'png' 200 %}{% endcapture %}{{ ch.name }}: "{{ url | htmlBaseUrl }}",{% endfor %}
 }

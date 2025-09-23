@@ -26,7 +26,7 @@ let basicGenerator = new Generator(
             ...characters,
             'someone in the <a href="../../world/bauhinia/mss/">MSS</a>',
             'someone in <a href="../../world/bauhinia/starcorp/">Starcorp</a>',
-            'someone in the <a href="../../world/moreland/guardian-moose/mic/">MIC</a>',
+            'someone in the <a href="../../world/moreland/mic/">MIC</a>',
             'someone in the <a href="../../world/westavia/spf/">SPF</a>'
         ]),
         new GeneratorPlaceholder('rel', [

@@ -1,13 +1,13 @@
 ---
-layout: article.liquid
 title: Races
 desc: The types of off-humans in this world.
 titlezh: 种族
 eleventyNavigation:
-  key: Races
   parent: World
 tags:
   - lore
+categories:
+  - Lore
 ---
 
 The people in TIR are just "humans." But not really since they have ears and horns.

@@ -1,6 +1,6 @@
-const characters = require('./characters.json');
+import characters from './characters.json' with {type: 'json'};
 
-module.exports = function () {
+export default function () {
 	let tags = [];
 	for (let z = 0; z < characters.length; z++) {
 		if (!characters[z].tags) continue;
@@ -8,6 +8,6 @@ module.exports = function () {
 			tags.push(a);
 		}
 	}
-	tags = [...new Set(tags)];
+	tags = [...new Set(tags)].sort((a, b) => a.localeCompare(b));
 	return tags;
 }

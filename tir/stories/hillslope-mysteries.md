@@ -1,9 +1,7 @@
 ---
-layout: story.liquid
 title: Hillslope Mysteries
 canon: no
-order: 101
-summary: Scrapped story.
+desc: Scrapped story.
 comic: true
 ---
 

@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Minor Characters
 eleventyNavigation:
-  key: Minor Characters
   parent: Characters
   order: 2
 ---
@@ -17,9 +16,9 @@ Characters that I have a name of but doesn't have a large role in the story. Or 
 
 [Sparky](/characters/sparky/)'s biological father. A construction worker. Didn't allow Sparky to go to school, and instead made her work on the construction site with him.
 
-### Hyrax
+### Cherry
 
-Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/animus/). Husband of Cherry. Friend of [Peacock](/characters/peacock/). Pretty much perceived as a legend in the Starcorp family. Owns a huge-ass island.
+[Hyrax](/characters/hyrax/)'s wife.
 
 ### Peach
 
@@ -28,6 +27,26 @@ Chairman of [Starcorp](/world/bauhinia/starcorp/) before [Animus](/characters/an
 ### Bunchberry
 
 [Ironheart](/characters/ironheart/)'s daughter.
+
+### Sundew
+
+[Candlelight](/characters/candlelight/)'s older sister.
+
+### Muscat
+
+[Candlelight](/characters/candlelight/)'s mother.
+
+### Ember
+
+[Candlelight](/characters/candlelight/)'s father.
+
+### Snowstorm
+
+[Frosting](/characters/frosting/)'s colleague, [Suagrcane](/characters/sugarcane/)'s mother (#2D649F).
+
+### Tangerine
+
+[Entity](/characters/entity/)'s colleague (#C67C15).
 
 ## Pets
 
@@ -53,14 +72,6 @@ Hyrax's family cat, a male tortiseshell. [Peacock](/characters/peacock/) came up
 
 [Tundra](/characters/tundra/)'s mother.
 
-### Accordion
-
-[Tomato](/characters/tomato/)'s father.
-
-### Sprinkle
-
-[Tomato](/characters/tomato/)'s mother.
-
 ### Donut
 
 [Qibli](/characters/qibli/)'s mother.
@@ -77,17 +88,9 @@ Hyrax's family cat, a male tortiseshell. [Peacock](/characters/peacock/) came up
 
 [Sky](/characters/sky/)'s mother.
 
-### Pinecone
-
-[Firecrackers](/characters/firecrackers/)'s father.
-
 ### Duck
 
-[Firecrackers](/characters/firecrackers/)'s mother.
-
-### Cherry
-
-Hyrax's wife.
+[Firecrackers](/characters/firecrackers/)'s father.
 
 ### Cassowary
 

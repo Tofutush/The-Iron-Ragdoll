@@ -1,13 +1,11 @@
 ---
-layout: story.liquid
 title: Sunflowers in the Dark (working title)
 canon: yes
-order: 202
 chs:
   - candlelight
   - sunflower
 time: "2030"
-summary: Candlelight gets an annoying suicide watch target and ends up quitting his job.
+desc: Candlelight gets an annoying suicide watch target and ends up quitting his job.
 myTags:
   - Canon
   - Westavia

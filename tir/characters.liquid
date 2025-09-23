@@ -1,10 +1,15 @@
 ---
-layout: chsLayout.liquid
+layout: chs.liquid
 title: Characters
 desc: The characters!
 eleventyNavigation:
-  key: Characters
   parent: Root
   order: 999
 ---
+<div class="box-nav solid">
+  <a href="/characters/minor/">Minor characters</a>
+  <a href="/characters/list/">Sortable text list</a>
+  <a href="/characters/relationships/">Relationships graph</a>
+  <a href="/fun/random/character/">Random character</a>
+</div>
 {% include 'chs', chs: characters %}

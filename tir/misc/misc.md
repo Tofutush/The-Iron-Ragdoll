@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Misc
 eleventyNavigation:
-  key: Misc
   parent: Root
 ---
 

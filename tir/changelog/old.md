@@ -2,9 +2,531 @@
 layout: article.liquid
 title: Older Updates
 eleventyNavigation:
-  key: Older Updates
   parent: Changelog
 ---
+
+## 2025-07-31
+
+- Changed the layout of the [World](/world/) section a bit;
+	- Now there would be no more nested city folders — every file in a country lies flat in that folder;
+	- This might lead to some broken links. I'll try to catch them, but if you notice one then feel free to [tell me](/contact/)!
+- Also made [world file categories](/world/category/);
+
+## 2025-07-30
+
+- Used the character page display on some of the pages. See [Fancy Private School](/world/bauhinia/fps/);
+- Added `jinx hugging jackalope.png`;
+
+## 2025-07-29
+
+- Important days will now show up on the front page!
+
+## 2025-07-26
+
+- Made the color palette look cooler! It's now diagonal;
+	- I also solved the jarring expansion problem. Turns out I just needed an `overflow: hidden`. Long palettes expand smoothly now! See [Buttercup](/characters/buttercup/);
+- Added `book discovery.png`, `qibli book discovery.png`, `trinket book discovery.png`;
+
+## 2025-07-25
+
+- Published oneshot comic [Graduation](/stories/graduation/);
+
+## 2025-07-24
+
+- Changed the style of the pop-up people on the home page;
+- Edited [Qibli's Backstory](/stories/qibli-backstory/), [Appaloosa Tribe](/world/moreland/appaloosa-tribe/);
+
+## 2025-07-23
+
+- Published old non-canon oneshot [The Carpet](/stories/oneshots/chapter-5/);
+
+## 2025-07-19
+
+- Added `pb kids.png`, `pb kids - fs.png`, `pb kids - jc.png`, `pb kids - jb.png`;
+
+## 2025-07-18
+
+- Added `jinx thumb.png`, `potato profile.png`;
+- Published oneshot [Reincarnation](/stories/oneshot/chapter-4/);
+
+## 2025-07-17
+
+- Added `oc 3 groupshot.png`, `barbabara.png`, `jackalope jinx.png`;
+
+## 2025-07-16
+
+- Added `mitao.png`;
+
+## 2025-07-15
+
+- Added `matilda.png`, `xeltha.png`;
+
+## 2025-07-14
+
+- Added some text to the default [Gallery](/gallery/) page;
+- Added `kyrea.png`, `jinx.png`;
+- Added new character [Jinx](/characters/jinx/);
+
+## 2025-07-12
+
+- Added `ri.png`, `esther.png`, `emno.gif`;
+
+## 2025-07-11
+
+- Added all art received from Artfight thus far;
+- Added `jon.gif`;
+- Published [Harmony Spies](/stories/oneshots/chapter-3/);
+
+## 2025-07-10
+
+- Set up a scheduled build every midnight UTC;
+	- Now birthday messages can appear automatically;
+	- Expect more stuff like holiday messages and perhaps even seasonal themes to come!
+
+## 2025-07-03
+
+- Stopped putting other's art at the back of character galleries;
+	- Now they're sorted by character count only;
+- Moved May to older updates;
+- I did all of this on mobile LOL; let's hope nothing goes wrong;
+
+## 2025-06-29
+
+- Added `mynx.png`, `firecrackers sign comic.png`;
+
+## 2025-06-28
+
+- Published the [Goose PMV](https://youtu.be/v4ats5O0mio)!
+- Added a [Robot Master](https://kunfucutsman.neocities.org/fun/robot-master-maker/) on the [about](/about/) file;
+- Changed the page background. We'll see how it goes;
+- Froze the gifs in the gallery thumbnails;
+- Added a link to the drawing perms on character pages;
+	- Mainly so you can skip the gallery to the bottom for whatever reason;
+- Added `goose pumpkin strawberiishortcake.png`, `pmv cover.png`, `pmv cover en.png`;
+
+## 2025-06-26
+
+- Started to use SmartGB [guestbook](/contact/);
+- Added `woshilunhui.png`;
+- Added logic for auto-picking relationship images;
+	- Other people's art credits are shoved inside the title text; you need to hover over the image to see that. Sorry but I can't really find a prettier way to show that; tried figures but I can't get the sizing right. You can still see their linked credits in the gallery section;
+
+## 2025-06-23
+
+- Added `goose purge.png`;
+- Deleted the character age page in favor of a birthday column in the [sortable list](/characters/list/);
+	- I still liked the card view though, dunno where else I can use that for;
+- Added a thing where the main page shows what characters have their birthday today! Let's see if it actually works though;
+	- Main thing is that it only checks dates on each build, which means the date won't update unless a build is triggered. Fortunately I might be able to just run the job on Github even with no updates;
+
+## 2025-06-22
+
+- Changed the separator style;
+	- This is so minor I don't usually log it but the site's having a big lack of updates because of the PMV project LOL;
+- Also, I'm gathering fanart to feature at the end of the PMV! Draw anybody (though the protagonist of the PMV is [Goose](/characters/goose/)) and [send it to me](/contact/) (any other messaging platform works too, if you know where I am), along with how you wish to be credited. If you drew art for me before and would like that featured, just tell me that!
+
+## 2025-06-19
+
+- Added a bunch of character birthdays! You can find them on their respective profiles, or the [Calendar](/world/calendar/);
+	- Also retconned [Nightsun](/characters/nightsun/)'s birthday for no reason;
+- Added a [characters sorted by age](/characters/age/) page;
+- Changed the heading font because yes;
+	- I considered asking other people for feedback, but no;
+
+## 2025-06-16
+
+- Added word counts to stories in the lists;
+- Edited the countries' history sections to be biased;
+- Added new random pages! Check them out in the [Fun](/fun/) page;
+- Added "page source" and "archive this page" links to the footer;
+
+## 2025-06-15
+
+- Added `sky cards.png`, `sky sans cards.png`;
+- Added [Poker Spies](/world/bauhinia/poker-spies/);
+- Edited the history sections of the countries a little;
+- Retconned a bit of [world history](/world/history/) surrounding the Guardian Moose Takeover;
+- Made the story tags sort alphabetically;
+
+## 2025-06-13
+
+- Apologies for not enough art; I'm working on an animation project!
+	- It's not really animation LOL, just low-quality pictures moving around in After Effects. It's about [Goose](/characters/goose/) (and the [MSS](/world/bauhinia/mss/) in general);
+- Added oneshot [The Occupation](/stories/the-occupation/);
+
+## 2025-06-12
+
+- After a painful failed attempt to move this site from Liquid to Vento, I opted to merely change the "Table of Contents" text to just "Contents" since it used to be inconsistent;
+
+## 2025-06-03
+
+- Added `nebula thumb.png`, `candlelight meets curly.png`, `snake wings.png`;
+
+## 2025-06-02
+
+- Added `pearl footer.png`, `sugarcane harmony footer.png`;
+	- They have also been added to the site footers;
+
+## 2025-06-01
+
+- Added `nebula lilypad.png`, `nebula cross legs.png`, the latter of which is her pagedoll now;
+- Made the character trivia section more flexible for myself;
+- Moved April to older updates;
+
+## 2025-05-31
+
+- Added story [Nameless Village Backstory](/stories/nameless-village-backstory/);
+- Added [Thyme](/characters/thyme/);
+- Added some [minor characters](/characters/minor/);
+- Added `firecrackers hide n seek.png`;
+
+## 2025-05-30
+
+- Added [Spy School page 3 - 4](/stories/spy-school/page-3/);
+- Removed comic pages from the [sitemap](/sitemap/) because they were cloggy;
+- Added `sparky animus limpdick.png`;
+
+## 2025-05-29
+
+- Made the tag filter alphabetical (except for "all" which is always the first);
+- Added `zuri emil.png`;
+- Added [Spy School page 2](/stories/spy-school/page-2/);
+
+## 2025-05-28
+
+- Updated [About](/about/);
+
+## 2025-05-27
+
+- Released the first page of [Spy School the comic](/stories/spy-school/page-1/);
+
+## 2025-05-26
+
+- Getting tools ready for Spy School the comic;
+- Added `jelly adult stand.png`, `sugarcane thumb.png`, `jelly thumb.png`;
+
+## 2025-05-25
+
+- THE LONG-ANTICIPATED CHARACTER UPDATE IS HERE
+	- Character data had been freed from prison;
+		- They will get promptly updated as I edit them in the future;
+	- Long-due new characters have been added;
+		- This will git rid of broken character links on not only this site, but also Toyhouse and Artfight;
+	- Art from other people had been added to each character's gallery;
+		- If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please [contact me](/contact/)!
+	- Added Artfight links to every character;
+		- If they aren't uploaded to Artfight, the link leads to "Other Character" instead;
+- Released the [guessing game](/fun/guess/);
+- Fixed the header not linking to the homepage;
+- Edited [Goals](/goals/);
+
+## 2025-05-23
+
+- You can now switch themes on comic pages that don't have a background image set;
+	- You have no idea how much trouble I went through to make this… Why…
+
+## 2025-05-22
+
+- Added `sparrow.png`, `moonbeam ball.png`;
+
+## 2025-05-21
+
+- Edited [Spy School](/stories/spy-school/);
+- Added `candlelight profile.png`;
+
+## 2025-05-20
+
+- Edited [Spy School](/stories/spy-school/);
+- Added `fantasy profile.png`, `ironheart profile.png`;
+
+## 2025-05-19
+
+- Added `nightsun ref.png`, `sparky ref.png`;
+
+## 2025-05-18
+
+- Edited [Paperweight's Backstory](/stories/paperweight-backstory/);
+- 改了中文字体；
+- Added `animus profile.png`, `banner.png`;
+- Added a banner to the site;
+
+## 2025-05-17
+
+- Added `goldie.png`, `frosting sing.png`, `entity float.png`;
+
+## 2025-05-13
+
+- Released game [Sparky hungry](https://tofutush.itch.io/sparky-hungry);
+
+## 2025-05-12
+
+- Added `qibli into trinket.png`, `qibli into trinket 2.png`;
+
+## 2025-05-09
+
+- Added a quick info section to each country;
+- Character layout change! Not an overhaul but I made some edits;
+	- Now every character also features a pagedoll (if I want them to have one);
+
+## 2025-05-07
+
+- Edited global permissions to match Artfight's;
+
+## 2025-05-06
+
+- Added [Animal Kingdom](/world/animal-kingdom/);
+
+## 2025-05-05
+
+- Changed the sort order of the stories a bit;
+	- And started to use a json file for sorting too. Let's hope I don't forget to edit this file every time I add a new story;
+
+## 2025-05-04
+
+- Added `nebula stand.png`;
+- Moved March to older updates because I totally didn't forget to;
+
+## 2025-05-03
+
+- Added some overdue [buttons](/misc/links/). Let me know if you want to trade buttons!
+
+## 2025-05-01
+
+- Added `beauty profile.png`, `chastity profile.png`, `devotion profile.png`, `elegance profile.png`;
+
+## 2025-04-29
+
+- Released [A Nuke From Moreland: Chapter 4](/stories/a-nuke-from-moreland/chapter-4/)!
+- Added `penelope.png`;
+
+## 2025-04-28
+
+- Added `jasmine thumb.png`, `jasmine profile.png`, `goose int.png`, `int2.png`;
+
+## 2025-04-25
+
+- I cannot settle on a character button CSS;
+
+## 2025-04-24
+
+- Added story [Poker Party](/stories/poker-party/);
+- Added `frosting stand.png`, `sugarcane tween.png`;
+
+## 2025-04-22
+
+- Added `sugarcane cafe.png`, `firecrackers profile.png`, `sky profile.png`;
+
+## 2025-04-20
+
+- Renamed Spy School to [Ministry Affiliate](/world/bauhinia/ministry-affiliate/);
+
+## 2025-04-19
+
+- Edited [superpowers](/world/superpowers/) to make some powers active;
+- Added `cheshire.png`, `vin.png`;
+- Added file [spy school](/world/bauhinia/spy-school/);
+- Country files now display all sub-files in their "related files" sections;
+
+## 2025-04-17
+
+- Added `gigi.png`, `barnaby.png`, `firecrackers favpicker.png`;
+
+## 2025-04-16
+
+- Fixed a problem in the OC generator where the links aren't base-ified;
+- Added story [Family of Secrets](/stories/family-of-secrets/);
+
+## 2025-04-11
+
+- Released the [OC generator](/fun/generator/)! Come play!
+- Updated [Goals](/goals/);
+
+## 2025-04-10
+
+- Added section [eternal death](/world/bauhinia/#eternal-death) to Bauhinia's page;
+
+## 2025-04-09
+
+- Added `jackalope thumb.png`, `creepy govt family.png`;
+
+## 2025-04-08
+
+- Added `frosting thumb.png`, `harmony thumb.png`;
+
+## 2025-04-07
+
+- Added `entity thumb.png`, `halcyon profile.png`, `bramble thumb.png`;
+
+## 2025-04-05
+
+- Added statement about fan content in [about](/about/#fan-content);
+- Added `buttercup ref.png`, `nightsun favpicker.png`;
+
+## 2025-04-03
+
+- Edited [New Year 2032](/stories/new-year-2032/) a bit;
+- Added `blaze.png`;
+
+## 2025-04-02
+
+- Released the [scavenger hunt game](/fun/hunt/);
+- updated [character list](/characters/list/) to include fav picker image (even though I drew precisely 0 of those);
+- Added `whiteout thumb.png`, `whiteout profile.png`;
+
+## 2025-04-01
+
+- Added `hunt no.png` and `hunt yes.png`;
+- Moved March to older updates;
+
+## 2025-03-31
+
+- Edited [MSS](/world/bauhinia/mss/) a little;
+- Edited [PJH - Atlasia](/stories/pearls-journey-home-atlasia/) a little;
+- Added `hunt finish.png`, along with the individual characters;
+
+## 2025-03-29
+
+- Tweaked the footer CSS a little;
+
+## 2025-03-28
+
+- Tweaked the tags CSS a little;
+
+## 2025-03-27
+
+- Tweaked [character page](/characters/) CSS a little;
+- Updated [goals](/goals/) to include MCA count;
+
+## 2025-03-26
+
+- Made a [discord server](https://discord.gg/XzdA5vKkb2);
+	- Come hang out!
+- Added `deer thing.png`, `one man short footer.png`;
+	- `one man short footer.png` is also a new footer, in case the name wasn't obvious enough;
+
+## 2025-03-25
+
+- Added `nala.png`, `squid tentacles.png`, `buttercup slice.png`, `whiteout slice.png`;
+- Added links to the gallery on the [text list](/characters/list/);
+- Added new page [Magic Academy](/world/bauhinia/magic-academy/);
+
+## 2025-03-24
+
+- I put my stupid [ANFM](/stories/a-nuke-from-moreland/) fic on the site;
+	- Revel in cringe;
+
+## 2025-03-21
+
+- Added `goose jackalope.png`;
+- Decided to end changelog entries with semicolons for ✨ quirkiness ✨;
+
+## 2025-03-20
+
+- Added `sue.gif`, `whiteout stand.png`.
+- Edited [Pearl's Journey Home](/stories/pearls-journey-home/).
+
+## 2025-03-19
+
+- Changed the iframes of the bucket webrings (bucket and bolognese) to the OC webring widget. Come to think of it, the bucket webring is a lot similar to the OC webring I wrote…
+- Slight character page tweaks.
+
+## 2025-03-18
+
+- Added new fun page, [wallpapers](/fun/wallpapers/) you can download!
+
+## 2025-03-17
+
+- Edited a lot of country information, notably a "Foreign relations" section.
+
+## 2025-03-16
+
+- Merged [a PR from TheOliveOli](https://github.com/Tofutush/The-Iron-Ragdoll/pull/1) to add a text shadow behind the card text in front of the popup characters. Thank you!
+- Changed the dark mode accent to blue again. I cannot settle down, man.
+
+## 2025-03-15
+
+- Added the status cafe widget to [About](/about/)!
+- Tofutush canNOT decide on a blockquote style.
+- I forgot to log `ribbon profile.png` in the `.json` file… It's there now.
+- Gave Sylvandia and Moreland capital cities: [Bonnie](/world/sylvandia/bonnie/) and [Revolution's Cradle](/world/moreland/revolutions-cradle/).
+
+## 2025-03-14
+
+- Happy PI day!
+- Added tags and filtering to [stories](/stories/).
+- Removed the link colors on gallery and stories.
+	- Which led to some funny coloring of some stories, which is nice I guess.
+- Added `lark half.png`, `lark wall.png`.
+
+## 2025-03-13
+
+- Added `jackalope salute.png`, `xuer.gif`, `xuer-2.gif`.
+
+## 2025-03-10
+
+- Added stories for each country in [Pearl's Journey Home](/tir/stories/pearls-journey-home/).
+- Changed the story list's style.
+- Added `xuer.png`, `sparky tween.png`, `sparky tween.gif`.
+
+## 2025-03-09
+
+- Updated the CSS to include `<h4>`s.
+- Updated [About](/about/).
+- Added `amber profile.png`, `peacock profile.png`.
+
+## 2025-03-08
+
+- Happy Women's Day!
+- Added `pumpkin profile.png`, `paperweight profile.png`.
+- Fixed Sky's horns in `sky lineless.png` and `cms friends lineless.png`. That was awkward. It's always awkward when you draw your own characters wrong and go for ages without realizing.
+
+## 2025-03-07
+
+- Edited [A Nuke from Moreland](/stories/a-nuke-from-moreland/), [New Year 2032](/stories/new-year-2032/).
+- Edited blockquote style.
+- Added `sunflower thumb.png`, `goose profile.png`, `qibli profile.png`.
+- Added total page count to the [sitemap](/sitemap/).
+
+## 2025-03-06
+
+- Added navigation buttons in galleries.
+- Fixed a CSS problem in the comic pages.
+- Added `candlelight thumb.png`, `helsinki thumb.png`, `mooncake thumb.png`, `sunflower candlelight.png`.
+- Edited [New Year 2032](/stories/new-year-2032/).
+
+## 2025-03-05
+
+- Renamed "Projects" to [Goals](/goals/).
+- Edited the magic section on [Superpowers in Bauhinia](/world/bauhinia/superpowers/).
+- Added lore page [Races](/world/races/).
+- Added [Guardian Moose](/world/moreland/guardian-moose/), and changed MIA to [MIC](/world/moreland/mic/).
+- Added `cobalt thumb.png`, `nightingale thumb.png`, `skyhawk thumb.png`, `lucky strike.png`, `alistair darius.png`.
+
+## 2025-03-04
+
+- Updated the [overview](/world/overview/).
+- Added a [projects page](/projects/).
+- Fixed a problem where a bunch of tags were added to every page without me knowing.
+- Joined the Bolognese webring.
+- Cleaned up the layout a wee bit.
+- Added total number of pictures to [gallery stats](/gallery/stats/). How did I forget about that?
+- Added an overdue `sundae symmetrical.png`.
+- Added `villagers.png` and the respective pictures for each character.
+
+## 2025-03-03
+
+- Edited the two Candlelight stories.
+- Put some character progress stats in the [text list](/characters/list/).
+- Removed an embarrassing mistake in the theme switch JS.
+- Added `trinket thumb.png`, and updated the horned characters' thumbs to the new design where their horn colors are just their soul color.
+
+## 2025-03-02
+
+- Moved January updates to [old](/changelog/old/) because I forgot to yesterday.
+
+## 2025-03-01
+
+- Added a CC BY-NC-SA license.
 
 ## 2025-02-28
 
@@ -415,7 +937,7 @@ eleventyNavigation:
 
 - Added `fern stand.png`, `snowball lights.png`.
 - Made the grid CSS better.
-- I can't believe I did it, I spent like a week making a JSON editor for my `characters.json` and `relationships.json` so I can edit characters easier. I spent so much snabbergatting time I probably shouldn't have spent for something no one except me is ever going to use. There has to be something wrong with me. I wasted so much time but I loved it so much. Like why? Why? No reason.
+- I can't believe I did it, I spent like a week making a JSON editor for my `characters.json` and `relationships.json` so I can edit characters easier. I spent so much fucking time I probably shouldn't have spent for something no one except me is ever going to use. There has to be something wrong with me. I wasted so much time but I loved it so much. Like why? Why? No reason.
 
 ## 2024-11-04
 
@@ -557,7 +1079,7 @@ eleventyNavigation:
 ## 2024-09-22
 
 - Added `cosmo alaska subway.png`.
-- Added page [Hillslope](/world/bauhinia/coastline/hillslope/).
+- Added page [Hillslope](/world/bauhinia/hillslope/).
 
 ## 2024-09-21
 
@@ -579,10 +1101,10 @@ eleventyNavigation:
 
 - Added world pages
   - [Coastline](/world/bauhinia/coastline/)
-	- [Coastline Middle School](/world/bauhinia/coastline/cms/)
-	- [The Safe house](/world/bauhinia/coastline/safe-house/)
+	- [Coastline Middle School](/world/bauhinia/cms/)
+	- [The Safe house](/world/bauhinia/safe-house/)
   - [Flower City](/world/bauhinia/flower-city/)
-	- [University of Flower City](/world/bauhinia/flower-city/ufc/)
+	- [University of Flower City](/world/bauhinia/ufc/)
 
 ## 2024-09-16
 

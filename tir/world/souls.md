@@ -1,13 +1,13 @@
 ---
-layout: article.liquid
 title: Souls
 desc: What are souls and how do they work?
 tags:
   - lore
 eleventyNavigation:
-  key: Souls
   parent: World
 titlezh: 灵魂
+categories:
+  - Lore
 ---
 
 Everyone has a soul. It contains a person's entire identity: their self, their memories, their emotions. They are born with them and ideally should stay inside the person's body till death. The soul's color leaks into the person's eye and ears or horns, coloring them in as well. In the case of magicians, the soul color is also the color of their magic.
@@ -18,6 +18,8 @@ Everyone is born with a perfectly spherical gas soul. The soul changes shape and
 
 Everyone is genetically programmed to like the color of their soul, so there will be no such pain as hating your own color.
 
+In addition, souls are also where [superpowers](/world/superpowers/) are stored. There can only be up to one power in one soul.
+
 ## Extracting souls
 
 A soul can be removed from a person. Soul extraction is a skill that can be learned and adopted by anyone, but it originated in [Sylvandia](/world/sylvandia/).
@@ -26,9 +28,7 @@ Through a variety of techniques not limited to classic Sylvandian soul extractio
 
 People with no souls aren't people. They're just a body. Their eyes are empty, though their horns and ears would remain in color, serving as an indicator of the body's previous ownership.
 
-A body without a soul would usually die biologically within three days to a week, depending on the physique of the body.
-
-A soul without a body will die under normal circumstances too, within the span of a couple of hours: gas souls would disperse, liquid would evaporate, and solid would just… wear down. However, if a soul is stored in a vacuum, it can live on indefinitely.
+A body without a soul would usually die biologically within three days to a week, depending on the physique of the body. A soul without a body will disappear under normal circumstances too, within the span of a couple of hours. However, if a soul is stored in a vacuum, it can live on indefinitely.
 
 Normal death entails the simultaneous death of the body and the soul, which is what normally happens most of the time.
 
@@ -46,6 +46,7 @@ Typically, gas souls are the most compatible with other forms, while solid the l
 
 - [Goose](/characters/goose/), an MSS officer who could extract souls through ~~torture~~ Ideology Normalization Therapy
 - [Moonbeam](/characters/moonbeam/), a Sylvandian psychic specializing in classic soul extraction
-- [Cobalt](/characters/cobalt/), a [Fantoni](/world/fanton/) outlaw who learned soul extraction from Moonbeam
+	- [Cobalt](/characters/cobalt/), who learned soul extraction from Moonbeam
+- [Kismet](/characters/kismet/), who consumed 5 other souls in order to get all 5 common superpowers
 
 [^1]: Because I have crude humor.

@@ -1,9 +1,6 @@
 ---
-layout: article.liquid
 title: Atlasia
-templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: Atlasia
   parent: World
   order: 3
 desc: What if Ayn Rand made a country?
@@ -11,11 +8,25 @@ tags:
   - atlasia
 displayTitle: The Free Republic of Atlasia
 titlezh: 亚特莱西亚自由共和国
+categories:
+  - Countries
+  - Locations
 ---
 
-{% image "gallery/" "atlasia flag.svg" 1000 "Flag of Atlasia" 'max' %}
+{% image "gallery/" "atlasia flag" "svg" 1000 "Flag of Atlasia" 'max' %}
 
-At-LAY-zha: the green money-lovers.
+<div class="attr">
+  <p>Pronunciation</p>
+  <p>At-LAY-zha</p>
+  <p>Demonym</p>
+  <p>Atlasian</p>
+  <p>Capital</p>
+  <p><a href="/world/atlasia/the-capital/">The Capital</a></p>
+  <p>Symbol</p>
+  <p>Money!!!</p>
+</div>
+
+The green money-lovers.
 
 [[toc]]
 
@@ -26,10 +37,6 @@ Atlasia borders [Bauhinia](/world/bauhinia/) on the south, shares a short border
 It is mostly fertile plains suitable for growing rice, wheat, and corn, with some mountain ranges near its border with [Westavia](/world/westavia/) and [Moreland](/world/moreland/) called the Atlasian Mountains. [Mt. Atlas](/world/atlasia/mt-atlas/), the tallest mountain on the continent, stands between Atlasia and [Moreland](/world/moreland/).
 
 The closest geographical mirror to Atlasia is northern China.
-
-### Regions
-
-- [Mt. Atlas](/world/atlasia/mt-atlas/)
 
 ## Government
 
@@ -76,9 +83,13 @@ Atlasia is a country rife with espionage activity both political and corporate, 
 
 ## History
 
-Atlasia was created by Moose immigrants after the Guardian Moose Takeover (Morelandian Revolution). They hated the new regime, so they made their own the way they liked it.
+Atlasia was created by Moose immigrants after the Guardian Moose's coup. They hated the new regime, so they made their own the way they liked it.
 
-They took the plains in the east and declared independence shortly after [Fanton](/world/fanton/) did. During the process of establishing the new republic, they drove away many native residents of the plains into either [Moreland](/world/moreland/), [Westavia](/world/westavia/), or [Bauhinia](/world/bauhinia/).
+They took the plains in the east and declared independence in 1945. Since then, Atlasia has been a place for the ambitious to seek opportunity. Thousands of grassroot entrepreneurs made a fortune here and slowly expanded their markets to the world. Innovations were unstoppable — in fact, half of the new inventions of the industrial revolution were made in Atlasia after 1945.
+
+## Related files
+
+{{ collections.all | eleventyNavigation: "Atlasia" | eleventyNavigationToHtml }}
 
 ## Trivia
 

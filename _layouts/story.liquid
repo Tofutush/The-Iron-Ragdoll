@@ -1,0 +1,48 @@
+---
+layout: article.liquid
+eleventyComputed:
+  eleventyNavigation:
+    parent: Stories
+---
+<div class="attr">
+	<p>Canon?</p>
+	<p>{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi'
+		%}Semi-canon (is not planned in the plot, but has no conflicts with the original story){% else %}No (you should not
+		consider this in the context of TIR's universe){% endif %}</p>
+	<p>Main Cast</p>
+	<div class="tags">
+		{% for ch in chs %}
+			{% include 'chButton', ch: ch %}
+		{% endfor %}
+	</div>
+	<p>Time period</p>
+	<p>{{ time }}</p>
+	{% if myTags %}
+		<p>Tags</p>
+		<div class="tags">
+			{% assign sortedTags = myTags | sortAlphabetical %}
+			{% for tag in myTags %}
+				<a href="/stories/tag/{{ tag | slug }}/">{{ tag }}</a>
+			{% endfor %}
+		</div>
+	{% endif %}
+</div>
+{% if comic or fic %}
+	<div class="box-nav solid">
+		{% if comic %}
+			<a href="page-1/">Read the comic!</a>
+		{% endif %}
+		{% if fic %}
+			<a href="chapter-1/">Read the fic!</a>
+		{% endif %}
+	</div>
+{% endif %}
+
+{{ content }}
+
+{% assign prev = collections.stories | getPreviousCollectionItem %}
+{% assign next = collections.stories | getNextCollectionItem %}
+{% if prev or next %}
+	<hr class="solid-hr"/>
+	{% include 'prevnext' prev: prev.url, next: next.url %}
+{% endif %}

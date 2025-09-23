@@ -1,17 +1,22 @@
 ---
-layout: article.liquid
 title: Ministry of State Security
-eleventyNavigation:
-  key: Ministry of State Security
-  parent: Bauhinia
+displayTitle: Ministry of State Security of the Republic of Bauhinia
 tags:
   - ministry-of-state-security
-titlezh: 紫荆国国家安全部
+titlezh: 紫荆共和国国家安全部
+categories:
+  - Government Organizations
+  - Intelligence Agencies
+  - State Security Agencies
+  - Organizations
 ---
 
 The main security apparatus of Bauhinia, handling both intelligence and counterintelligence. Every bit as bureaucratical as you'd imagine a Bauhinian government agency to be.
 
-{% figure 'gallery/' 'mss ref.png' 1000 'MSS Uniform' 'MSS Uniform ref' 'max' %}
+<figure>
+  {% image 'gallery/' 'mss ref' 'png' 1000 'MSS Uniform' 'max' %}
+  <figcaption>MSS uniform ref</figcaption>
+</figure>
 
 Their boots — lemme ramble about the boots! They could be as quiet as you want, to sneak up on people; but they could also be as loud as you want — dreadful, intimidating crunching sounds. The prints they leave behind aren't easily identifiable, and could easily be disguised into footprints of other animals. They are also designed to kill — a kick to crush the liver.
 
@@ -21,11 +26,8 @@ That being said, most MSS agents operate in plain clothes, similar to how normal
 
 ## Members
 
-- [Goose](/characters/goose/)
-- [Pumpkin](/characters/pumpkin/) (fled)
-- [Halcyon](/characters/halcyon/) (traded)
-- [Paperweight](/characters/paperweight/) (retired)
-- [Sky](/characters/sky/) (joined later)
-- [Whiteout](/characters/whiteout/) (executed)
+<link rel="stylesheet" href="/css/characterspage.css">
+{% assign filteredChs = characters | filterChByTag: 'Ministry of State Security' %}
+{% include 'chs', chs: filteredChs %}
 
 Heed the apprentice chain: Whiteout mentored Paperweight mentored Goose mentored Sky.

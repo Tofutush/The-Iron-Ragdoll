@@ -1,0 +1,66 @@
+{
+  "main": {
+    "id": "51f408771b7f5030",
+    "type": "split",
+    "children": [
+      {
+        "id": "43c65048960aa82d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5f642ebbe6c8ea6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Base.base",
+                "viewName": "My art"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "Base"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bf5300c22d42fb8",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "862d1458550cb873",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false
+    }
+  },
+  "active": "d5f642ebbe6c8ea6",
+  "lastOpenFiles": [
+    "gallery/mulberry card.png",
+    "Base.base",
+    "gallery/sparky ref.png",
+    "gallery/nightsun ref.png",
+    "gallery/mss ref.png",
+    "gallery/buttercup ref.png",
+    "gallery/willow ref.png",
+    "gallery/pumpkin ref.png",
+    "gallery/elegance thumb.png",
+    "others art/buttercup martiansnake.png",
+    "watermark new.png"
+  ]
+}
