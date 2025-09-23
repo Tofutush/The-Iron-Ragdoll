@@ -661,7 +661,7 @@ rel2: "shimu"
 {
 source: "Sky",
 target: "Sugarcane",
-rel1: "shifu",
+rel1: "mentor",
 rel2: "apprentice"
 },
 
@@ -844,7 +844,7 @@ rel2: "superior"
 source: "Goose",
 target: "Paperweight",
 rel1: "apprentice",
-rel2: "shifu"
+rel2: "mentor"
 },
 
 {
@@ -858,7 +858,7 @@ rel2: "arch nemesis"
 source: "Pumpkin",
 target: "Halcyon",
 rel1: "apprentice",
-rel2: "shifu"
+rel2: "mentor"
 },
 
 {
