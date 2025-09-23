@@ -3,11 +3,12 @@ permalink: "fun/fav-picker/data.js"
 ---
 const data = [
 {% for ch in characters %}
+{% assign profile = ch.name | lowerCase | append: ' profile' %}{% assign thumb = ch.name | lowerCase | append: ' thumb' %}{% capture url %}{% imageUrl 'gallery/' profile 'png' 500 thumb 'png' %}{% endcapture %}
 {
 name: "{{ ch.name }}",
 color: "{{ ch.color }}",
 desc: "{{ ch.desc }}",
-img: "{% assign name = ch.name | lowerCase | append: ' favpicker.png' %}{% capture url %}{% imageUrl 'gallery/' name 500 %}{% endcapture %}{{ url | htmlBaseUrl }}"
+img: "{{ url | htmlBaseUrl }}"
 },
 {% endfor %}
 ];
