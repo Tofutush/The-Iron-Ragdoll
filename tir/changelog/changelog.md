@@ -10,6 +10,12 @@ titlezh: 更新日志
 ## 2025-09-22
 
 - Changed all "shifu" and "shimu" to "mentor";
+- Edited [The Poker Spies](/stories/the-poker-spies/) a bit, though it's still not quite readable;
+- Removed the gallery stats page;
+- Removed the character art progress section from the [sortable list](/characters/list/);
+- Put the [character art progress](/gallery/progress/) as its own page under gallery;
+- Removed the "goals" page because I kept forgetting to update it;
+	- Put the [scavenger hunt](/fun/hunt/) clue that was originally there under another page;
 
 ## 2025-09-21
 
