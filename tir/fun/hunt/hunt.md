@@ -64,7 +64,7 @@ Lotus is the symbol of Fanton. (The next hint spoils the third clue.)
 <details>
 <summary><h2>Hint 8</h2></summary>
 
-Where does this phrase appear? Alternatively, what would you call a pretty-much attainable dream? (The next hint spoils the fifth clue.)
+Find the page that I personally think is the longest, yet its code isn't very long. (The next hint spoils the fifth clue.)
 
 <details>
 <summary><h2>Hint 9</h2></summary>

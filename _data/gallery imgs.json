@@ -2947,7 +2947,6 @@
     "name": "nightsun favpicker",
     "type": "png",
     "date": "2025-04-06",
-    "kind": "fav",
     "ch": [
       "nightsun"
     ]
@@ -3030,7 +3029,6 @@
     "name": "firecrackers favpicker",
     "type": "png",
     "date": "2025-04-17",
-    "kind": "fav",
     "ch": [
       "firecrackers"
     ]
@@ -3146,7 +3144,8 @@
     "date": "2025-04-28",
     "ch": [
       "jasmine"
-    ]
+    ],
+    "kind": "thumb new"
   },
   {
     "name": "penelope",

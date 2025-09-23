@@ -24,4 +24,6 @@ Starcorp is the most important corporation on the entire continent. It's the bac
 - [Peacock](/characters/peacock/), Hyrax's attorney
 - [Animus](/characters/animus/), Hyrax's son, inherited chairman
 
+---
+
 *You found a puzzle piece: **mabj**! Next clue: a lotus inside a lotus inside a lotus. ([What is this?](/fun/hunt/))*

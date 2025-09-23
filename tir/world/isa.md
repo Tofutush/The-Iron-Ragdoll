@@ -30,4 +30,6 @@ Countries adhere to the *Agreement on the Regulation Surrounding Superpower Usag
 - [Superpowers](/world/superpowers/)
 - [Superpowers in Bauhinia](/world/bauhinia/superpowers/)
 
-*You found a puzzle piece: **Hlav**! Next clue: dreams are worth having. ([What is this?](/fun/hunt/))*
+---
+
+*You found a puzzle piece: **Hlav**! Next clue: longest page in site… but not so long either! ([What is this?](/fun/hunt/))*
