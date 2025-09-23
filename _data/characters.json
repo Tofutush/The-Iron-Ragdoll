@@ -1,1 +1,2035 @@
-[{"name":"Sparky","namezh":"闪闪","color":"#0cf","desc":"Our protagonist! Need I say more?","quote":"What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!","tags":["Hillslope","Coastline","Sparky's Family","Starcorp","Coastline Middle School","A Nuke From Moreland","Pearl's Journey Home","Fancy Private School","Bauhinia"],"attr":{"Full name":"Sparky Amber Peacock","Nickname":"Spark (by Tundra)","Gender":"Female (cis)","Birthday":"2017-08-14","Nationality":"Bauhinian","Orientation":"Bisexual, deep in the closet","Marital status":"Married (to <a href=\"../nightsun/\">Nightsun</a>)","Occupation":"Close protection officer","Weapon":"Colt 1911 pistol","Power":"Superstrength lv. 800"},"palette":{"scar outer":"#F6B6AC","scar inner":"#D29D95","hair":"#2e2e2e","shirt":"#000"},"about":"Sparky is a cheerful girl who once stood for something. She hides her trauma behind bright smiles and is almost uncapable of taking anything seriously. Usually she looks happy to other people, but she can turn aggressive at the drop of a pin. She is currently the bodyguard of [Animus](../animus/).\n\nThanks to [Ribbon](/characters/ribbon/) and [her mom](/characters/amber/), she is an excellent chef.\n\nShe's sort of a control freak. After the entire Hillslope thing she started getting scared of anything being out of her control. She also harbored naive but beautiful dreams about truth and justice. She died in the realization that she grew into exactly the person her younger self used to hate.","bio":"LOL, basically a summary of my entire comic.\n\nBorn, dad died, mom remarried, sent to Hillslope, solved mysteries, went back to Coastline, found new friends, solved more mysteries, ran away to Sylvandia, came home, went to a new school, found new friends, solved mysteries, became a bodyguard, got a son, married a spy, fell off a building~~, reincarnated into Peacock~~.","trivia":["She twiddles her whisker-like hair when lying.","Tofu is her favorite food. All kinds of them.","She loves spicy food.","She loves food."],"insp":["Homestuck indigobloods","Diesel from <i>Warriors: Graystripe's Adventure</i> (Pretty out-of-the-blue but yes, it is definitely an inspiration)"],"note":"- The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n- The highlights on her hair goes down, up, and then down.\n- Her pupils point towards the middle! Unless she's looking at somewhere in particular."},{"name":"Ribbon","namezh":"曲旋丝","color":"#e368d3","desc":"Owner of the bakery!","tags":["Hillslope","Bauhinia"],"attr":{"Nickname":"Rib (by Tundra)","Gender":"Female","Birthday":"2015-08-14","Nationality":"Bauhinian","Orientation":"Heterosexual","Weapon":"Frying pan","Deceased":true},"palette":{"apron folds":"#787878","hair":"#2e2e2e"},"about":"Ribbon is a cute girl who loves baking and taught [Sparky](../sparky/) to cook. Though she isn't taking care of her for nothing!\n\nShe has a huge crush on [Starry](../starry/) and is determined to not only find out who attacked him, but also make the assiliant regret what they did for the rest of their life.\n\nAlso she's a murderer herself.","bio":"It was unknown why Ribbon was brought to Hillslope, but there she ran a bakery in the place that's now the tavern.\n\nAfter [Starry](/characters/starry/) flooded the drug lab in the basement of Building B, [Tephra](/characters/tephra/) and Amulet chased her out of the bakery and set up a new one in the basement there, which was now given to [Jerboa](characters/jerboa/) and turned into the tavern. She got mad at it and poisoned the water boiler in Amulet's room, killing her.\n\nAs revenge, [Alaska](/character/alaska/) gave [Starry](/character/starry/) a shovel to the head with intent to kill. But Alaska was too lame and Starry merely went into a coma. She started taking care of Starry and keeping him alive.\n\nBut Alaska was *not* done. After [Tundra](/characters/tundra/) left Hillslope to treat his injuries, he buried Ribbon alive in the well he dug with Sparky.","insp":["Homestuck bronzebloods","红太狼"]},{"name":"Cosmo","namezh":"星河","color":"#998cbd","desc":"Editor of the press!","quote":"If everyone believes it, then it is the truth.","tags":["Hillslope","Bauhinia"],"attr":{"Nickname":"Cos (by Tundra)","Gender":"Female","Nationality":"Bauhinian","Weapon":"Throwing stars","Power":"Mind reading, unregistered"},"palette":{"middle eye":"#fe0","left eye":"#DCBBF0","right eye":"#A5D6F7","shirt":"#B2B8E3","hair":"#2e2e2e"},"about":"Cosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)","insp":["Homestuck ceruleanbloods"],"note":"- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."},{"name":"Tomato","namezh":"番茄","color":"#A10000","desc":"The guy who can solve all your problems but doesn't want to.","quote":"I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...","tags":["Hillslope","Bauhinia"],"attr":{"Nickname":"Tom (by Tundra)","Gender":"Male","Nationality":"Bauhinian","Weapon":"Wrench"},"palette":{"shirt":"#575757","hair":"#2e2e2e"},"insp":["Homestuck rustbloods"]},{"name":"Guillotine","namezh":"断头台","color":"#d0ae3a","desc":"Who is this girl and why does she want us to call her Guillotine?","quote":"I'm dead now! You can't kill me!","tags":["Hillslope","Bauhinia"],"attr":{"Gender":"Female","Nationality":"Atlasian","Deceased":true},"palette":{"hair":"#2E2E2E"}},{"name":"Tephra","namezh":"火山灰","color":"#008282","desc":"The boss of everything at once, but nothing in particular.","quote":"Sit down everyone. The investigation is underway.","tags":["Hillslope","Bauhinia"],"attr":{"Nickname":"Teff (by Tundra)","Gender":"Male","Nationality":"Bauhinian","Occupation":"Secret police officer","Weapon":"Walther P38 pistol"},"palette":{"belt and holster":"#AE7500","buckle":"#7D4500","gun handle":"#757575","hair":"#2e2e2e"},"about":"Runs the drug lab in Hillslope. He's the boss of the press, and most people of Hillslope.\n\nBut here's the thing: he's a snabbergatting dumb coward.\n\nHe saw [Starry](/characters/starry/)'s unmoving body lying on the ground (after [Alaska](/characters/alaska/) and immediately freaked out, thinking that [Ribbon](/characters/ribbon/) was going to accuse him. (She did.) So he ran a huge cover-up campaign which ironically implicated him.","insp":["Homestuck tealbloods"]},{"name":"Melody","namezh":"音韵","color":"#426600","desc":"Quiet badass.","quote":"...","tags":["Hillslope","Bauhinia"],"attr":{"Nickname":"Mel (by Tundra)","Gender":"Male","Nationality":"Bauhinian","Occupation":"Private detective","Weapon":"Dagger"},"palette":{"hat":"#575757","hair":"#2e2e2e"},"insp":["Homestuck olivebloods"]},{"name":"Jerboa","namezh":"跳鼠","color":"#0867af","desc":"Owner, bartender, and everything else of the tavern!","quote":"Who ordered me to do it? It's -- OW -- I did it on my own! Nobody ordered me!!","tags":["Hillslope","Bauhinia","Project Boomerang"],"attr":{"Full name":"Jerboa Kangaroo Koala","Nickname":"Jerb (by Tundra)","Gender":"Male","Birthday":"2016-09-10","Nationality":"Bauhinian","Occupation":"Bartender, chemist, undertaker, and chemist again"},"palette":{"shirt light":"#727272","shirt dark":"#4F4F4F","hair":"#2E2E2E"},"insp":["Jerboas (obviously)","Tintin (for the little pike in his hair)"]},{"name":"Tundra","namezh":"冰封雪","color":"#800080","desc":"Self-proclaimed mayor of Hillslope!","quote":"What's the big deal?","tags":["Hillslope","Bauhinia"],"attr":{"Gender":"Male","Age estimation":"Second oldest in Hillslope, after Dragonfly","Nationality":"Bauhinian","Weapon":"None, unless joints count","Power":"Immortality, unregistered"},"palette":{"tie":"#2E6CF7","hair":"#2E2E2E"},"bio":"Tundra lived in the countryside with his grandparents while his parents worked in [Coastline](/world/bauhinia/coastline/) at the [Starcorp](/world/bauhinia/starcorp/) headquarters.\n\nHe was sent to [Hillslope](/world/bauhinia/hillslope/) after his parents were murdered by Starcorp for embezzling money.\n\nAt Hillslope, he developed an intense addiction to [Ribbon](/characters/ribbon/)'s baking.\n\nOne day after pissing off [Sparky](/characters/sparky/), he got beaten senseless by her and had to be sent to a hospital in Coastline. There he discovered that he was immortal (though people at Starcorp knew it already).\n\nAfter returning to Coastline, he tried to kill himself repeatedly without success because of his immortality. When he finally saw through and found the will to live, he died from an electrostatic zap on a handrail.","insp":["Homestuck purplebloods"]},{"name":"Alaska","namezh":"阿拉斯加","color":"#6C0404","desc":"Photographer for the press!","quote":"Smile for the camera! Cheese!","tags":["Hillslope","Bauhinia"],"attr":{"Gender":"Male","Nationality":"Bauhinian"},"palette":{"shirt":"#FFF","hair":"#2E2E2E"}},{"name":"Starry","namezh":"星星","color":"#CC770F","desc":"Basically a dead guy already.","quote":"zzz...","tags":["Hillslope","Bauhinia"],"attr":{"Gender":"Male","Nationality":"Bauhinian"},"palette":{"glasses":"#666","hair":"#2E2E2E"},"about":"Went into a coma after getting hit in the head. Since then, [Ribbon](/characters/ribbon/) had kept him alive.","insp":["Homestuck jadebloods"]},{"name":"Dragonfly","namezh":"蜻蜓","color":"#00adad","desc":"Some martial arts master in the woods.","tags":["Hillslope","Bauhinia"],"attr":{"Gender":"Male","Age estimation":"Oldest in Hillslope","Nationality":"Bauhinian","Weapon":"His fists. A wooden branch if there is one nearby."},"palette":{"hair":"#2E2E2E"}},{"name":"Qibli","namezh":"奇轹","color":"#440044","desc":"(KEE-blee) Magic chicken ADHD girl.","quote":"This pearl was not from an oyster. It was from a human. No, not man-made. From a human, the way ivory was from elephants.","tags":["Coastline","Coastline Middle School","A Nuke From Moreland","Pearl's Journey Home","Bauhinia"],"attr":{"Full name":"Qibli Donut Lightning","Gender":"Female (cis)","Birthday":"2017-02-01","Nationality":"Bauhinian","Weapon":"Wand","Power":"Magic lv. 10"},"palette":{"wand":"#B025B0","shirt":"#4A70D7","glasses":"#9e9e9e","hair":"#2E2E2E"},"about":"She is a *huge* pussy. Overthinks everything, tries to chicken out of more, always worrying about how things could go wrong.\n\nShe has magic, an extremely rare [superpower](/world/superpowers/). Her wand is a cheap plastic toy bought when she was three years old, a purple five-point star on a stick.\n\n~~She's also supposed to represent me by the way.~~\n\nShe's really nerdy. She likes spy thrillers and computer programming, though she sucks at it. She also loves reading and drawing comics.","bio":"Qibli was born with magic. But her magic was so weak that it didn't even show until she was three years old. Her parents took her to the hospital, the doctors called the Arch-Magician, and the Arch-Magician told her parents to buy her a wand and taught her to store her magic in it. She hadn't left the wand's side since then.\n\nShe spent most of her childhood around [Sky](/characters/sky/).\n\nShe attended [Coastline Middle School](/world/bauhinia/coastline/cms/) because her mom worked there. Which is where she met [Sparky](/characters/sparky/).\n\nWhen she grew up, she figured out a way for other people to use her magic -- something never before thought possible -- and sold it on the black market. When confronted by the [MSS](/world/bauhinia/mss/), she said,\n\n> Don't call me \"Qibli,\" call me the Arch-Magician!\n\nWhich was badass as snabbergatt.\n\nNeedless to say, neither the MSS nor the [ISA](/world/isa/) were too happy about it -- the MSS for her breaking the law and taunting law enforcement, and the ISA for her claiming Arch-Magician when the last one was very much alive.\n\nShe didn't care. She wasn't no pussy anymore. After an entire childhood of being told she was useless, that she could never amount to anything, she could finally see that she was *not* useless. She was *something*. Even if that \"thing\" was a filthy-rich black-market dealer. But hey, she got a monopoly on magic! Isn't that nice? She was even slapping [Starcorp](/world/bauhinia/starcorp/), the ultimate monopolist, in the face!\n\nOf course Starcorp threatened to screw her over if she didn't sign that exploitive contract which would pass the molopoly to them. Of course I just had this idea off my head as I'm typing so it's not that well developed.\n\nWhat would she feel when confronted by Sky, her old friend turned secret police? What about Sparky, the old friend turned loyal Starcorp dog? (I'm so sorry I haven't worked on Firecrackers as much as the other three)","trivia":["She always talks in past tense. If you see her talking in present tense, then I probably made a mistake.","Her family has a cat named Sandstorm.","Lightning is taken from one of my first OCs ever, a Warrior cat named Lightningtail. (That was before I read Dawn of the Clans.)"],"insp":["Myself","Qibli from <i>Wings of Fire</i> for the name."]},{"name":"Sky","namezh":"万里晴","color":"#236ce1","desc":"Adventurous fidgety boy.","tags":["Coastline","Coastline Middle School","Ministry of State Security","A Nuke From Moreland","Pearl's Journey Home","Bauhinia"],"attr":{"Full name":"Sky Elmwood Dazzle","Gender":"Male","Birthday":"2017-04-13","Nationality":"Bauhinian","Weapon":"Playing cards with blade edges"},"palette":{"horns":"#905605","horn grooves":"#754400","shaved hair":"#897E67","hair":"#2E2E2E"},"about":"Sky is an adventurous boy who cannot stop moving.\n\nHe likes cardistry and is nearly always twiddling a desk of cards in his right hand.\n\nHis preferred weapon is a set of four cards made of steel with sharp edges, which act like throwing stars. The cards are aces of each suit.\n\nHe is really into stuff he considers cool, like photography, military, and science. He ended up looking nerdy.","trivia":["He is left-handed.","He has six countryball dolls on his desk, one for each country, that sqeaks when you squish them."],"insp":["My friends!","Yes I mashed up a lot of traits from my friends into him.","So what."],"note":"- Left horn points down, right horn points up."},{"name":"Firecrackers","namezh":"爆竹","color":"#8214bd","desc":"Big kind boy with no manners.","quote":"*Sticks out two middle fingers*","tags":["Coastline","Coastline Middle School","A Nuke From Moreland","Pearl's Journey Home","Bauhinia"],"attr":{"Full name":"Firecrackers Pinecone Duck","Nickname":"Crackers (by Sparky, Qibli, and Sky)","Gender":"Male","Birthday":"2017-05-20","Weapon":"Firecrackers"},"palette":{"shirt":"#B98ED0","horns":"#AA9468","hair":"#473103"},"about":"Firecrackers likes cursing even more than Sparky does. It's better when he's directly speaking to you; he would only stick a lot of middle fingers at you. But when he's texting, you can expect a curse every sentence.","trivia":["Firecrackers is mute, if you haven't noticed."]},{"name":"Myriad","namezh":"千百万","color":"#d01b84","desc":"Quiet, grumpy girl.","tags":["Coastline Middle School","Coastline","Bauhinia"],"attr":{"Gender":"Female","Nationality":"Bauhinian"},"palette":{"dress":"#696969","hair":"#2E2E2E"},"about":"Myriad has a mutation that gives her a pair of fairy wings."},{"name":"Amber","namezh":"琥珀","color":"#e15f19","desc":"Hardworking girl who would be cheerful if she had the time to smile.","tags":["Coastline","Sparky's Family","Starcorp","Bauhinia"],"attr":{"Gender":"Female (cis)","Age estimation":"Around the same as Peacock","Nationality":"Bauhinian","Orientation":"Heterosexual","Marital status":"Married (to <a href=\"../peacock/\">Peacock</a>)","Occupation":"Secretary and then unemployed","Deceased":true},"palette":{"hair":"#2E2E2E"},"bio":"Amber used to be a secretary in Starcorp. After her husband Jackal died and she married Peacock, she quit her job."},{"name":"Peacock","namezh":"孔雀","color":"#20f","desc":"Creepy old boy who knows everything and more.","tags":["Coastline","Sparky's Family","Starcorp","Bauhinia"],"attr":{"Gender":"Male (cis)","Birthday":"1985-03-06","Nationality":"Bauhinian","Orientation":"Heterosexual","Marital status":"Widowed<br/>(Previously widowed by Rainbow, divorced Reindeer, and widowed by <a href=\"../amber/\">Amber</a>)","Occupation":"Personal attorney","Power":"Superstrength lv. 800"},"palette":{"scar outer":"#F6B6AC","scar inner":"#D29D95","hair":"#2E2E2E"},"about":"Peacock is [Hyrax](/characters/minor/#hyrax)'s old friend and personal attorney.\n\n~~He is also [Sparky](../sparky/)'s reincarnation.~~","bio":"file","note":"The highlight on his hair goes up, down, and then up."},{"name":"Fantasy","namezh":"奇幻","color":"#ce00af","tags":["Coastline","Sparky's Family","Starcorp","Bauhinia"],"attr":{"Full name":"Fantasy Amber Peacock","Gender":"Female","Birthday":"2011-10-13","Nationality":"Bauhinian","Marital status":"Married","Deceased":true},"palette":{"necklace":"#caf1f1","hair":"#2E2E2E"},"about":"The big sister away at [college](/world/bauhinia/flower-city/ufc/) and hardly heard from, except when she comes back for holidays. Died under mysterious circumstances, though this time the mystery may *finally* be too dangerous for Sparky to poke her nose in."},{"name":"Ironheart","namezh":"铁心","color":"#69272b","tags":["Coastline","Sparky's Family","Starcorp","Fancy Private School","Bauhinia"],"attr":{"Full name":"Ironheart Peacock Reindeer","Gender":"Male","Birthday":"2013-01-15","Nationality":"Bauhinian"},"palette":{"shirt":"#b9ac95","pants":"#624b22","hair":"#2E2E2E"}},{"name":"Willow","namezh":"柳儿","color":"#199400","tags":["Coastline","Sparky's Family","Fancy Private School","Bauhinia"],"attr":{"Full name":"Willow Amber Peacock","Gender":"Female","Birthday":"2023-09-25","Nationality":"Bauhinian","Power":"Mind reading lv. 150"},"palette":{"shirt":"#84C776","hair":"#2E2E2E"}},{"name":"Nightsun","namezh":"午夜阳","color":"#130b51","desc":"Our favorite spy husband.","quote":"Here comes my arch-nemisis... Daymoon!","tags":["Coastline","Sparky's Family","Starcorp","Bauhinia"],"attr":{"Gender":"Male","Birthday":"2017-12-01","Nationality":"Bauhinian?","Orientation":"Bisexual, deep in the closet","Marital status":"Married (to <a href=\"../sparky/\">Sparky</a>)","Occupation":"Employee at Starcorp","Weapon":"Seedling sword"},"palette":{"hair":"#2E2E2E","sword handle":"#510E0B","sword highlight":"#fff","sword blade lighter":"#D6D6D6","sword blade":"#adadad","suit":"#000"},"trivia":["Strawberry is his favorite flavor of lolipop."],"note":"- The highlight on his hair goes up, down, and then up."},{"name":"Bramble","namezh":"荆蕀","color":"#E19D0E","desc":"Silly little boy who writes his feelings all over his face.","tags":["Coastline","Sparky's Family","Fancy Private School","Bauhinia"],"attr":{"Full name":"Bramble Nightsun Sparky","Gender":"Male","Birthday":"2036-08-29","Nationality":"Bauhinian"},"about":"Fantasy's son."},{"name":"Goose","namezh":"白鹅","color":"#D54269","desc":"Bandwagon girl.","quote":"If you feel unloved, we can send you to the Ministry of Love, where you'll be loved *so much* you don't *ever* need to be loved again!","tags":["Ministry of State Security","A Nuke From Moreland","Bauhinia"],"attr":{"Gender":"Female","Birthday":"2001-12-30","Nationality":"Bauhinian","Occupation":"State security officer","Weapon":"Baton","Power":"Invisibility lv. 300"},"palette":{"shoulder pads":"#f01ace","boots":"#8c1078","hat symbol petal":"#c5c5c5","hat symbol border":"#A7A7A7","hair":"#2E2E2E"},"about":"Goose is *just* like other girls. She likes everything other girls like. She does everything other girls do. She listens to whatever music is most popular at the moment. She watches whatever show is most popular at the moment.\n\nGoose is just happy to spend her life on the bandwagon.\n\n---\n\nGoose is an officer at the [Ministry of State Security](/world/bauhinia/mss/). She likes juggling her baton and giving vague threats about sending people to a possible Ministry of Love. She has a knack of trying her best at everything she puts her mind to do.\n\nShe 's 29 but still lives with her parents. If they died she would bury herself with them.","bio":"Goose was born in [Coastline](/world/bauhinia/coastline/). There was absolutely nothing special about her. Once her parents even missed her trying to pick her up from kindergarten because they forgot what she looked like. Goose grew up playing and gossiping with other girls, reading the most popular books (mostly trashy romance), writing silly love letters to her crushes (there were a lot of them and if you showed adult-Goose those letters she would die from internal bleeding), and trying on her mom's makeup (which she still does because she can't afford to buy her own).\n\nShe got a crappy score in her college entrance exam and went to a random college in the middle of nowhere (note: it was western Bauhinia). She graduated, knowing absolutely nothing about what she was going to do with her life, and went back to Coastline to her parents. (She even forgot what her major was.) She got a job as a janitor in a random office building, got fired for being crap; worked as a waitress, got fired for being lazy; and for quite a while refused to leave her room.\n\nOne day, she saw a military recruitment ad. She was like, \"wow that's *really* cool\" and went to the nearest office. She almost didn't make the cut, but she did.\n\nAfter serving two years in the navy, she got recruited into the MSS. Her assigned shifu was [Paperweight](/characters/paperweight/). During the same year, [Pumpkin](/characters/pumpkin/) was also recruited from the army as [Halcyon](/characters/halcyon/)'s apprentice. They got assigned together as a team.","trivia":["She gives off a goofy villain vibe.","She loves juggling her baton, kicking it from one foot to the other, catching it on her chin, spinning it on her fingertips, and throwing it at random colleagues (usually Pumpkin)."],"note":"file:mssperms.md"},{"name":"Pumpkin","namezh":"南瓜","color":"#E3744D","tags":["Ministry of State Security","A Nuke From Moreland","Bauhinia","Westavia","Pumpkin's story"],"attr":{"Gender":"Male","Birthday":"2003-07-27","Nationality":"Bauhinian","Orientation":"Homosexual","Occupation":"State security officer","Weapon":"Baton","Power":"Hyperawareness lv. 200"},"palette":{"horns":"#905605","shoulder pads":"#f01ace","boots":"#8c1078","hat symbol petal":"#c5c5c5","hat symbol border":"#A7A7A7","hair":"#754413"},"about":"Pumpkin is a goofy guy who loves slurping boba tea and hates filling out forms.","bio":"Pumpkin's grandparents immigrated to northern [Bauhinia](/world/bauhinia/) from [Westavia](/world/westavia/). His family still kept many of their Westavian traditions.\n\nAfter joining the army and getting recruited into the [MSS](/world/bauhinia/mss/) as [Halcyon](/characters/halcyon/)'s apprentice, he was flipped into a [Morelandian](/world/moreland/) spy.\n\nThough, as people prodded him, he freaked out and thought about telling on himself and Halcyon to get a lighter punishment. Halcyon killed him to shut him up. But he survived and scramed to Westavia to find the old village his grandparents came from. All he had was a name and a vague direction. And a Westavian passport he got from a forger, bearing his picture and the name \"Curly.\"\n\nHe went into Westavia and, after getting directions to his village, took a train to the city closest to it. On the train he met [Candlelight](/characters/candlelight/), who was going to the same place.","trivia":["He gives off a goofy dumbass vibe."],"note":"file:mssperms.md"},{"name":"Halcyon","namezh":"太平","color":"#008E9B","desc":"The only one in the team who actually works.","tags":["Ministry of State Security","A Nuke From Moreland","Pearl's Journey Home","Bauhinia","Moreland"],"attr":{"Gender":"Male","Birthday":"1991-03-18","Nationality":"Bauhinian (later Moose)","Occupation":"State security officer","Weapon":"Baton","Power":"Magic lv. undisclosed"},"palette":{"shoulder pads":"#f01ace","boots":"#8c1078","hat symbol petal":"#c5c5c5","hat symbol border":"#A7A7A7","hair":"#2e2e2e"},"about":"Halcyon is a [Morelandian](/world/moreland/) spy working for the [MSS](/world/bauhinia/mss/).","bio":"Halcyon was born with strong magic. He dreamed of getting a government job where he could use his magic to help people. He studied and worked (writing a Bachelor's thesis on magical teleportation on the way), joined the army, and got recruited to the MSS.\n\nHe got stationed at the [Bauhinian](/world/bauhinia/) Embassy in [Moreland](/world/moreland/) as the cultural attache, during which he found a mistress and had a daughter.\n\nAfter about ten years in Moreland, he was recalled to Bauhinia. He returned to find a country completely different from the one he left from. A normal person couldn't have felt anything off -- because they're not magicians.\n\nAt the airport, even before he crossed the customs, some MSS officers -- new, younger, he didn't recognize -- received him and immediately took him to a little office. They administered a [level test](/world/bauhinia/superpowers/#magic), wrote down a number (which Halcyon didn't see), and told him to store his magic in a card nearly identical to his ID card. He did as he was told, and his magic was taken away from him.\n\nHe didn't understand what was going on. In Moreland, he had to keep his magic a secret in order to not attract the Moose too much; but this was a different story.\n\nHis magic was stripped from him. His teleportation paper (and nearly any other publication involving magic) was nowhere to be found. He lost contact of the magician club he belonged to. It was like magicians never existed.\n\nThat was when Moose spies reach out and said, \"hey, *we* can help you. By the way, your mistress and daughter miss you a lot.\"\n\nFrom then on, Halcyon had been a mole in the MSS, spying for Moreland. Until his little apprentice [Pumpkin](/characters/pumpkin/) started getting suspicious.","note":"file:mssperms.md"},{"name":"Paperweight","namezh":"镇纸","color":"#2e2e2e","desc":"Grouchy old guy who hates fun.","tags":["Ministry of State Security","A Nuke From Moreland","Bauhinia"],"attr":{"Gender":"Male","Birthday":"1978-11-20","Nationality":"Bauhinian","Marital status":"Widowed","Occupation":"State security officer","Weapon":"Baton","Power":"Time precision lv. 350","Deceased":true},"palette":{"shoulder pads":"#f01ace","boots":"#8c1078","hat symbol petal":"#c5c5c5","hat symbol border":"#A7A7A7","hair":"#888","young hair":"#CAA740"},"about":"Paperweight is an officer at the [Ministry of State Security](/world/bauhinia/mss/) but is going to retire soon.\n\nHe is constantly angry at everything at once but nothing in particular. Also he's homophobic as snabbergatt.\n\nHe usually maintains a very calm and authoritative composure to others, especially the people he deals with at work -- spies, moles, and pesky annoying kids. But to people he knows, like [his](/characters/goose/) [subordinates](/characters/pumpkin/), he constantly yells at them.\n\nHe misses the old times when he could actually run without his knees screaming murder and shoot a gun without his hands shaking. This is why he hates young people -- because he's kind of jealous.","bio":"Paperweight was born in the countryside in northern Bauhinia. His parents died when he was really little, and he was often bullied in the orphanage, so one night he stole a bag of buns and a bag of water, and ran all the way to the Mountain Temple, half begging and half stealing along the way after the buns ran out.\n\nAt the Mountain Temple, the master accepted him out of sympathy. He learned and mastered Wood-style martial arts. When he grew up, his master sent him to join the army. Afterwards, he was recruited into the Ministry of State Security, where he'd been working ever since.\n\nYears later he got his own apprentice [Goose](/character/goose/) and got on a team with [Halcyon](/characters/halcyon/) and his apprentice [Pumpkin](/characters/pumpkin/).\n\nAccording to dramatic whispers, he had created some sort of a legend in the MSS, before Pumpkin and Goose were recruited. The legend itself was highly classified and not to be spoken of. (Actually, I just don't know what it is yet, but I'm thinking. This will be an epic spy thriller if only I have enough brain juice to write epic spy thrillers.) Paperweight himself never acknowledges nor denies this.\n\nAfter the [Moreland](/world/moreland/) nuke incident (in which [Sparky](/characters/sparky/) [and](/characters/qibli/) [her](/characters/sky/) [friends](/characters/firecrackers/) found a Morelandian nuke and the MSS got alerted), he was diagnosed with chronic leukemia. He refused treatment, said goodbye to his apprentice [Goose](/characters/goose/), retired early, and packed his stuff to [Fanton](/world/fanton/) where he spent the rest of his life in an old people home.\n\nWhile saying goodbye to Goose, he was driving a car with her sitting shotgun, he told her all about his \"legend,\" saying that his battle was not over and that she has to continue his legacy. They drove for three days straight to the Fatoni border, where he hopped in the bus to the old people home, leaving Goose to drive back to Coastline, contemplating the whole way.","trivia":["He canonically speaks Cantonese. He's the only character who does, and other characters don't find anything off about it.","楼人嘎说粤语。","He has a little \"my goddamn leash of curses\" which is a medicine box, the kind that has cells arranged in three rows (for breakfast, lunch, and dinner) and seven columns (from Monday to Sunday). You put the required amount of pills in each box at the start of every week and take the pills as scheduled. He hates it to the guts."],"note":"file:mssperms.md"},{"name":"Gecko","namezh":"壁虎","color":"#a40ca7","quote":"Uh... You don't look like Peacock.","tags":["Coastline","A Nuke From Moreland","Bauhinia"],"attr":{"Gender":"Female","Nationality":"Bauhinian","Occupation":"Smuggler"},"palette":{"hair":"#2e2e2e"},"about":"我嘞个绝世大冤种啊我的壁虎\n\nBauhinian smuggler. Had been caught once, but returned to the trade because she didn't know what else to do. Her worst mistake is not knowing that [Peacock](/characters/peacock/) has a [stepdaughter](/characters/sparky/) who is batshit crazy."},{"name":"Lark","namezh":"云雀","color":"#06B87B","tags":["Coastline","A Nuke From Moreland","Bauhinia","Moreland"],"attr":{"Gender":"Male (trans)","Birthday":"1998-09-21","Nationality":"Bauhinian","Occupation":"Secret agent"},"palette":{"horns":"#905605","horn grooves":"#754400","hair":"#2E2E2E"},"about":"A Morelandian agent in Bauhinia, recruited to recover the nuke that the kids found."},{"name":"Pearl","namezh":"珍珠","color":"#caf1f1","desc":"A little girl who cries pearls","tags":["Coastline","Pearl's Journey Home","Bauhinia","Sylvandia"],"attr":{"Full name":"Pearl Gemstone","Gender":"Female","Birthday":"2026-02-09","Nationality":"Sylvandian"},"palette":{"horn grooves":"#9CBABA","hair highlight":"#4E4E4E","hair":"#000"},"about":"She cries pearls. Yes, her tears are literally pearls.\n\nShe is everything you would expect a little girl to be: cute, curious, instinctively kind, loves animals, and incredibly dumb.","bio":"Pearl was kidnapped from her hometown in [Snowdale](/world/sylvandia/snowdale/), [Sylvandia](/world/sylvandia/), after Starcorp discovered that she cried pearl tears. She was kept in a basement and tortured every day to produce pearls. [Fantasy](../fantasy/)'s necklace was made from her tears.\n\nAfter [Sparky](../sparky/) discovered this, she tried to send her home, but failed and they were recaptured.","trivia":["She has both a Bauhinian passport and a Sylvandian one, both totally legal (not forged)."]},{"name":"Jackpot","color":"#AC7C26","desc":"Star entrepreneur.","tags":["Pearl's Journey Home","Atlasia"],"attr":{"Full name":"Jackpot Cloudy","Gender":"Male","Nationality":"Atlasian"},"palette":{"hair":"#2e2e2e"},"bio":"Jackpot got extremely rich after inventing some sort of contraception pill with absolutely no side effects for anyone. He had always wanted to expand his market, especially to [Moreland](/world/moreland/) where \"they breed like rabbits,\" but as you can guess the Moose aren't that fond of someone who compares them to rabbits.\n\nUntil one day he met a certain [three](/characters/sparky/) [dumb](/characters/sky/) [kids](/characters/firecrackers/) with [a Sylvandian girl](/characters/pearl/), wanting to pass through Atlasia to Moreland."},{"name":"Snake","namezh":"毒蛇","color":"#c30963","tags":["Pearl's Journey Home","Atlasia"],"attr":{"Full name":"Snake Cloudy","Gender":"Male","Age estimation":"Around the same as Pearl","Nationality":"Atlasian"},"palette":{"horns":"#905605","feathers":"#E184B1","shirt":"#6c6c6c","hair":"#2E2E2E"},"about":"[Jackpot](/character/jackpot/)'s mischevious and ambitious son.\n\nSnake has a mutation that gives him a pair of bird wings.\n\nHe is *very* full of himself, but still likes being friends with other people a lot, so he is more pleasant to be around than his dad.\n\nHe still lives with his dad because he's too young, but he dreams of leaving him, starting his own business, and living in a big house all on his own.\n\nHe has a pet snake named Blizzard. It is -- surprise -- a Blizzard Cornsnake. He thinks snakes are cool, which is why he also named himself Snake."},{"name":"Snowball","namezh":"雪球","color":"#D920D2","tags":["Pearl's Journey Home","Moreland"],"attr":{"Full name":"Snowball 201710033746","Gender":"Female","Birthday":"2017-10-03","Nationality":"Moose","Power":"Invisibility"},"palette":{"horns":"#905605","hair":"#2E2E2E"},"about":"Snowball is a part of a nomadic tribe in [Moreland](/world/moreland/)"},{"name":"Buttercup","namezh":"毛茛","color":"#8c7503","desc":"Fleash rebel fighting for independence from Sylvandia.","tags":["Pearl's Journey Home","Sylvandia"],"attr":{"Gender":"Female (cis)","Age estimation":"Around the same as Goose","Nationality":"Sylvandian","Orientation":"Asexual","Weapon":"Rifle"},"palette":{"buckle":"#909090","sleeve crosses":"#BC4B1D","badana":"#EBD101","coat sleeve":"#D6D3A4","coat":"#A49045","shirt":"#615010","hat, belt, and boots":"#81550B","boot pattern arrow":"#B39C76","boot pattern background":"#8A7655","pants":"#273E58","hair":"#372603"},"bio":"Buttercup was born into a poor Fleaish family in [Lunarale](/world/sylvandia/lunarale/), [Sylvandia](/world/sylvandia/) and sold into prostitution when she was little. She received the boots from one particular client who refused to pay real money. She joined a rebellion for Fleaish independence one day.","trivia":["She's probably the character with the longest color palette."]},{"name":"Beauty","namezh":"招娣","color":"#CE6C07","desc":"Obnoxious fangirl.","tags":["Coastline","Cherry-Hyrax Family","Starcorp","Fancy Private School","Bauhinia"],"attr":{"Full name":"Beauty Cherry Hyrax","Gender":"Female (cis)","Birthday":"2014-01-04","Nationality":"Bauhinian","Weapon":"Lasso"},"palette":{"shirt":"#5e5e5e","hair":"#2E2E2E"},"about":"The oldest daughter in the Cherry-Hyrax family, always neck-deep in pop culture. Her desk is plastered with pictures of her favorite idols.\n\nShe has strabismus, where her right eye points outward."},{"name":"Chastity","namezh":"招财","color":"#C3BB4E","desc":"A freaking psychopath.","tags":["Coastline","Cherry-Hyrax Family","Starcorp","Fancy Private School","Bauhinia"],"attr":{"Full name":"Chastity Cherry Hyrax","Gender":"Female (cis)","Birthday":"2015-03-14","Weapon":"chainsaw"},"palette":{"shirt":"#5e5e5e","hair":"#2E2E2E"}},{"name":"Devotion","namezh":"招婿","color":"#017909","desc":"The boss of everything in existence.","tags":["Coastline","Cherry-Hyrax Family","Starcorp","Fancy Private School","Bauhinia"],"attr":{"Full name":"Devotion Cherry Hyrax","Gender":"Female (cis)","Birthday":"2016-05-18","Weapon":"Colt 1911 pistol"},"palette":{"shirt":"#5e5e5e","hair":"#2E2E2E"}},{"name":"Elegance","namezh":"招运","color":"#1054ad","desc":"For snabbergatt's sake the only normal person in the family.","tags":["Coastline","Cherry-Hyrax Family","Starcorp","Fancy Private School","Bauhinia"],"attr":{"Full name":"Elegance Cherry Hyrax","Gender":"Female (cis)","Birthday":"2017-06-21","Power":"Timekeeping lv. 260"},"palette":{"shirt":"#5e5e5e","hair":"#2E2E2E"}},{"name":"Animus","namezh":"鲲鹏","color":"#a10000","desc":"Would be normal too if he weren't a boy which makes him oh-so-special.","tags":["Coastline","Cherry-Hyrax Family","Starcorp","Fancy Private School","Bauhinia"],"attr":{"Full name":"Animus Hyrax Cherry","Gender":"Male (cis)","Birthday":"2017-08-30","Nationality":"Bauhinian","Orientation":"Homosexual, came out to Sparky only","Occupation":"Chairman of Starcorp","Weapon":"Nun-chucks"},"palette":{"shirt":"#5e5e5e","hair":"#2E2E2E"},"insp":["The animus powers in <i>Wings of Fire</i> that taught me the word (yes Sutherland you human dictionary)"]},{"name":"Jaculus","namezh":"跃鼠","color":"#008bc7","desc":"Jerboa's big sister.","tags":["Bauhinia","Project Boomerang"],"attr":{"Full name":"Jaculus Koala Kangaroo","Nickname":"Jac (by Frosting)","Gender":"Female (cis)","Birthday":"2011-11-11","Nationality":"Bauhinian","Deceased":true},"palette":{"hair":"#2E2E2E"}},{"name":"Koala","namezh":"树袋","color":"#7F8587","desc":"Jerboa's mother, lead scientist of Project Boomerang.","tags":["Bauhinia","Project Boomerang"],"attr":{"Gender":"Female (cis)","Age estimation":"A little older than Peacock","Nationality":"Bauhinian","Occupation":"Physician","Deceased":true},"palette":{"glasses":"#727272","suit":"#816339","hair":"#2E2E2E"}},{"name":"Kangaroo","namezh":"袋鼠","color":"#A36D1F","desc":"Jerboa's father, co-lead scientist of Project Boomerang.","tags":["Bauhinia","Project Boomerang"],"attr":{"Gender":"Male (cis)","Age estimation":"Around the same as Koala","Nationality":"Bauhinian","Occupation":"Physician","Deceased":true},"palette":{"suit":"#5D6B6F","hair":"#2E2E2E"}},{"name":"Robin","namezh":"旅鸫","color":"#a72b0c","tags":["Bauhinia","Project Boomerang"],"attr":{"Gender":"Male","Nationality":"Bauhinian","Occupation":"Physician"},"palette":{"hair":"#2E2E2E"},"bio":"After the disappearance of [Koala](/characters/koala/) and [Kangaroo](/characters/kangaroo/), Robin took over as lead scientists for [Project Boomerang](/world/bauhinia/project-boomerang/). He was very dedicated to the success of the project. Or was he?"},{"name":"Frosting","namezh":"糖霜","color":"#F676D2","tags":["Bauhinia","Project Boomerang"],"attr":{"Nickname":"Frost (by Jaculus)","Gender":"Female (cis)","Age estimation":"Around the same as Jaculus","Nationality":"Bauhinian","Occupation":"Government archivist"},"palette":{"hair":"#2E2E2E"},"bio":"Frosting grew up with her father [Robin](/characters/robin/) in the [Project Boomerang)(/world/bauhinia/project-boomerang/) laboratory.\n\nWhen she grew up, she began to work at the [Bauhinian](/world/bauhinia/) government archives."},{"name":"Candlelight","namezh":"烛光","color":"#cb1616","desc":"A miserable wreck.","tags":["Westavia","Pumpkin's story"],"attr":{"Gender":"Male","Age estimation":"Around the same as Pumpkin","Nationality":"Westavian","Orientation":"Homosexual","Occupation":"Farmer"},"palette":{"hair":"#2e2e2e"},"bio":"In the aftermath of a heartbreaking break-up, Candlelight quit his job as a policeman in the city and returned to his [home village](/world/westavia/pumpkins-village/). On the way back, he met [Curly](/characters/pumpkin/), who was going to the same place."},{"name":"Helsinki","namezh":"赫尔辛基","color":"#46119f","tags":["Westavia","Pumpkin's story"],"attr":{"Gender":"Female","Age estimation":"Around the same as Pumpkin","Nationality":"Westavian","Occupation":"Farmer"},"palette":{"hair":"#2e2e2e"},"about":"Helsinki is a distant relative of [Pumpkin](/characters/pumpkin/)'s, descended from the part of his family that didn't immigrate to [Bauhinia](/world/bauhinia/). She lives in [the village](/world/westavia/pumpkins-village/)."},{"name":"Mooncake","namezh":"月饼","color":"#0b8445","tags":["Westavia","Pumpkin's story"],"attr":{"Gender":"Female","Age estimation":"Around the same as Candlelight","Nationality":"Westavian","Occupation":"Police"},"palette":{"hair":"#2e2e2e"},"about":"A policeman in a [little village](/world/westavia/pumpkins-village/)."},{"name":"Fern","namezh":"厥儿","color":"#089b19","tags":["Fanton","Misc"],"attr":{"Gender":"Female","Age estimation":"Around the same as Sparky","Nationality":"Fantoni"},"palette":{"horns":"#905605","horn grooves":"#754400","hair":"#2E2E2E"}},{"name":"Sunny","namezh":"阳阳","color":"#071cbb","tags":["Misc"],"attr":{"Gender":"Male","Nationality":"Fantoni"},"palette":{"hair":"#2e2e2e"}},{"name":"Vampire","namezh":"吸血鬼","color":"#dd8736","tags":["Misc"],"attr":{"Gender":"Male","Nationality":"Atlasian"},"palette":{"horns":"#905605","hair":"#2E2E2E"}},{"name":"Moonbeam","namezh":"月光","color":"#08d8e7","tags":["Misc"],"attr":{"Gender":"Female","Nationality":"Sylvandian"},"palette":{"hair":"#2E2E2E"}},{"name":"Thunder","color":"#DCCB09","tags":["Misc"],"attr":{"Gender":"Male","Nationality":"Sylvandian"},"palette":{"horns":"#905605","horn grooves":"#754400","hair":"#2E2E2E"}}]
+[
+  {
+    "name": "Sparky",
+    "namezh": "闪闪",
+    "color": "#0cf",
+    "desc": "Our protagonist! Need I say more?",
+    "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Starcorp",
+      "Coastline Middle School",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3822164.sparky",
+    "attr": {
+      "Full name": "Sparky Amber Peacock",
+      "Nickname": "Spark (by Sky)",
+      "Gender": "Female (cis)",
+      "Soul": "Gas, lightning-shaped",
+      "Birthday": "2017-08-14",
+      "Nationality": "Bauhinian",
+      "Orientation": "Bisexual, deep in the closet",
+      "Marital status": "Married (to <a href=\"../nightsun/\">Nightsun</a>)",
+      "Occupation": "Close protection officer",
+      "Weapon": "Colt 1911 pistol",
+      "Power": "Superstrength lv. 800"
+    },
+    "palette": {
+      "scar outer": "#F6B6AC",
+      "scar inner": "#D29D95",
+      "hair": "#2e2e2e",
+      "shirt": "#000"
+    },
+    "about": "Sparky is a cheerful girl who once stood for something. She hides her trauma behind bright smiles and is almost uncapable of taking anything seriously. Usually she looks happy to other people, but she can turn aggressive at the drop of a pin. She is currently the bodyguard of [Animus](../animus/).\n\nThanks to [Ribbon](/characters/ribbon/) and [her mom](/characters/amber/), she is an excellent chef.\n\nShe's sort of a control freak, especially to the ones she love and fear losing. She also used to harbor naive but beautiful dreams about truth and justice, despite constantly handing out very questionable judgements she isn't supposed to give just because she has power to do so, and always viewing her own understanding as the objective truth. She died in the realization that she grew into exactly the person her younger self used to hate.",
+    "trivia": "- She twiddles her whisker-like hair when lying.\n- Tofu is her favorite food. All kinds of them.\n- She loves spicy food.\n- She loves food.\n- If she had a lusus, it would be a jackalope.\n- Her motifs include jackalopes, bunnies, cats, and dancing lions.\n    - This has nothing to do with the character [Jackalope](/characters/jackalope/).\n- Theme song: [你哪个省的？](https://www.bilibili.com/video/BV1GDtvzVE8F/?share_source=copy_web&vd_source=e53ed4d7bb88e905821b63d23aa3aa43) (Parody of \n[裏表ラバーズ](https://youtu.be/b_cuMcDWwsI?si=s3Ka2daE4kp6abNe))\n- If she were ever to have a *dedicated* theme song, it would be titled *Sugar High*.",
+    "note": "- The strand of hair on her left cheek is longer, touching on her chin, while the strand on her right cheek is shorter.\n- The highlights on her hair goes down, up, and then down.\n- Her pupils point towards the middle! Unless she's looking at somewhere in particular.\n- Any interaction with Nightsun (romantic or otherwise) *must* be drawn in her adult design; so are bodyguarding activities (with or without Animus)!"
+  },
+  {
+    "name": "Amber",
+    "namezh": "琥珀",
+    "color": "#e15f19",
+    "desc": "Hardworking girl who would be cheerful if she had the time to smile.",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Starcorp",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/4038425.amber",
+    "attr": {
+      "Gender": "Female (cis)",
+      "Soul": "Solid, gemstone-shaped",
+      "Birthday": "1994-09-20",
+      "Nationality": "Bauhinian",
+      "Orientation": "Heterosexual",
+      "Marital status": "Married (to <a href=\"../peacock/\">Peacock</a>)",
+      "Occupation": "Janitor, and then unemployed"
+    },
+    "palette": {
+      "shirt": "#D9A990",
+      "shirt deco": "#F4D4C3",
+      "hair": "#2E2E2E"
+    },
+    "about": "Amber has no idea how she came across Peacock; it was like magic. (Peacock was looking for her.) Now she finally has a stable life for herself and her daughter(s). However, after being turned by the shady organization fighting against Starcorp and Bauhinia (that I haven't named yet), she used her proximity to Peacock to find a lot of evidence for Starcorp's numerous crimes. Despite Peacock's pleas, she was assassinated by Starcorp."
+  },
+  {
+    "name": "Peacock",
+    "namezh": "孔雀",
+    "color": "#20f",
+    "desc": "Creepy old boy who knows everything and more.",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Starcorp",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/4038427.peacock",
+    "attr": {
+      "Nickname": "Peepoo (by his parents)",
+      "Gender": "Male (cis)",
+      "Soul": "Gas, star-shaped",
+      "Birthday": "1986-03-06",
+      "Nationality": "Bauhinian",
+      "Orientation": "Heterosexual",
+      "Marital status": "Widowed<br/>(Previously widowed by Rainbow, divorced Reindeer, and widowed by <a href=\"../amber/\">Amber</a>)",
+      "Occupation": "Personal attorney",
+      "Power": "Superstrength lv. 800"
+    },
+    "palette": {
+      "scar outer": "#F6B6AC",
+      "scar inner": "#D29D95",
+      "shirt stripes light": "#DCE6F7",
+      "shirt stripes dark": "#F4D4C3",
+      "hair": "#2E2E2E"
+    },
+    "about": "Peacock is [Hyrax](/characters/hyrax/)'s old friend and personal attorney.\n\n~~He is also [Sparky](/characters/sparky/)'s reincarnation.~~\n\n{% image 'gallery/' 'peacock exploding butt.png' 200 \"Willow exploding Peacock's butt\" 'right' %}\n\nHe is practical and rational, and often appears quite emotionless. Around his kids, he constantly looks like he's about to kill himself.\n\nHis job, as he described it, is \"professional butt-wiper.\" He covers up Starcorp's illegal activities, either by framing them as legal, or making sure no one has enough evidence to implicate them. Big things don't pop up that often though, so most of his time is spent union-busting and shutting people up about general employee mistreatment.",
+    "trivia": "- If he had a lusus, it would be a peacock.",
+    "note": "The highlight on his hair goes up, down, and then up."
+  },
+  {
+    "name": "Willow",
+    "namezh": "柳儿",
+    "color": "#199400",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5716052.willow",
+    "attr": {
+      "Full name": "Willow Amber Peacock",
+      "Gender": "Female",
+      "Soul": "Liquid, tea-like",
+      "Birthday": "2026-09-25",
+      "Nationality": "Bauhinian",
+      "Orientation": "Homosexual",
+      "Power": "Mind reading lv. 150"
+    },
+    "palette": {
+      "shirt": "#84C776",
+      "hair": "#2E2E2E"
+    },
+    "about": "Ah, the cute little spoiled kid."
+  },
+  {
+    "name": "Ribbon",
+    "namezh": "曲旋丝",
+    "color": "#e368d3",
+    "desc": "Owner of the bakery!",
+    "tags": [
+      "Coastline",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3957942.ribbon",
+    "attr": {
+      "Nickname": "Rib (by Sky)",
+      "Gender": "Female",
+      "Soul": "Solid, stripey like a ribbon",
+      "Birthday": "1995-08-14",
+      "Nationality": "Bauhinian",
+      "Orientation": "Heterosexual",
+      "Weapon": "Frying pan"
+    },
+    "palette": {
+      "apron folds": "#787878",
+      "hair": "#2e2e2e"
+    },
+    "about": "Ribbon is a bakery owner in Coastline. Everybody likes her.\n\nHer bakery is a front for a mafia operation though."
+  },
+  {
+    "name": "Qibli",
+    "namezh": "奇轹",
+    "color": "#440044",
+    "desc": "(KEE-blee) Magic chicken ADHD girl.",
+    "quote": "This pearl was not from an oyster. It was from a human. No, not man-made. From a human, the way ivory was from elephants.",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Magic Academy",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5806216.qibli",
+    "attr": {
+      "Full name": "Qibli Donut Lightning",
+      "Gender": "Female (cis)",
+      "Soul": "Gas, bubble-shaped",
+      "Birthday": "2017-02-01",
+      "Nationality": "Bauhinian",
+      "Weapon": "Wand",
+      "Power": "Magic lv. 10"
+    },
+    "palette": {
+      "wand": "#B025B0",
+      "shirt": "#4A70D7",
+      "glasses": "#9e9e9e",
+      "hair": "#2E2E2E"
+    },
+    "about": "She is a *huge* pussy. Overthinks everything, tries to chicken out of more, always worrying about how things could go wrong.\n\nShe's really nerdy. She likes spy thrillers and computer programming, though she sucks at it. She also loves reading and drawing comics.\n\nShe was born with magic. But her magic was so weak that it didn't even show until she was three years old. Her parents took her to the hospital, the doctors called the Arch-Magician [Nebula](/characters/nebula/), and she told her parents to buy her a wand and taught her to store her magic in it. She hadn't left the wand's side since then.\n\nShe spent most of her childhood around [Sky](/characters/sky/).\n\nShe attended [Coastline Middle School](/world/bauhinia/cms/) because her mom worked there. Which is where she met [Sparky](/characters/sparky/).\n\n~~She's also supposed to represent me by the way.~~",
+    "trivia": "- She always talks in past tense. If you see her talking in present tense, then I probably made a mistake.\n- Her family has a cat named Sandstorm.\n- Lightning is taken from one of my first OCs ever, a Warrior cat named Lightningtail. (That was before I read Dawn of the Clans.)\n- If she were ever to have a theme song, it would be titled *Hotpot for One（单人火锅）*.\n- If she had a lusus, it would be a husky.\n- Her motifs include cats and dogs.\n- The symbol on the hat is [Aquittarius](http://hs.hiveswap.com/ezodiac/truesign.php?TS=Aquittarius) from the Hiveswap Extended Zodiac."
+  },
+  {
+    "name": "Sky",
+    "namezh": "万里晴",
+    "color": "#236ce1",
+    "desc": "Adventurous fidgety boy.",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Ministry of State Security",
+      "Spy School",
+      "Flower City",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Sky Elmwood Dazzle",
+      "Gender": "Male",
+      "Soul": "Solid, spades-shaped",
+      "Birthday": "2017-04-13",
+      "Nationality": "Bauhinian",
+      "Occupation": "MSS officer",
+      "Weapon": "Playing cards with blade edges"
+    },
+    "palette": {
+      "shaved hair": "#897E67",
+      "hair": "#2E2E2E"
+    },
+    "about": "Sky is an adventurous boy who cannot stop moving.\n\nHe likes cardistry and is nearly always twiddling a desk of cards in his right hand.\n\nHis preferred weapon is a set of four cards made of steel with sharp edges, which act like throwing stars. The cards are aces of each suit.\n\nHe is really into stuff he considers cool, like photography, military, and science. He ended up looking nerdy.",
+    "trivia": "- He is left-handed.\n- He has six countryball dolls on his desk, one for each country, that sqeak when you squish them.",
+    "note": "- Left horn points down, right horn points up."
+  },
+  {
+    "name": "Firecrackers",
+    "namezh": "爆竹",
+    "color": "#8214bd",
+    "desc": "Big kind boy with no manners.",
+    "quote": "*Sticks out two middle fingers*",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5806478.firecrackers",
+    "attr": {
+      "Full name": "Firecrackers Duck Pinecone",
+      "Nickname": "Crackers (by Sparky, Qibli, and Sky)",
+      "Gender": "Male",
+      "Soul": "Solid, heart-shaped",
+      "Birthday": "2017-05-20",
+      "Nationality": "Bauhinian",
+      "Weapon": "Firecrackers"
+    },
+    "palette": {
+      "shirt": "#B98ED0",
+      "horns": "#AA9468",
+      "hair": "#473103"
+    },
+    "about": "Firecrackers likes cursing even more than Sparky does. It's better when he's directly speaking to you; he would only stick a lot of middle fingers at you. But when he's texting, you can expect a curse every sentence. He also likes telling jokes. When he's not telling jokes, he's reading jokes from joke books.\n\nHis dad runs a little grocery store, and he often manned it for them during his spare time. His mom was missing, and his dad won't tell him where she is.\n\nHe was drafted into the army during the Fantoni invasion despite his muteness, because he didn't have a disability certificate given out by a hospital that can prove it. He was killed during battle by one of the spells Qibli sold to Fanton.",
+    "trivia": "- Firecrackers is mute, if you haven't noticed.\n- If he had a lusus, it would be a golden retriever."
+  },
+  {
+    "name": "Myriad",
+    "namezh": "千百万",
+    "color": "#d01b84",
+    "desc": "Quiet, grumpy girl.",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3965900.myriad",
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Liquid, calm as a lake",
+      "Birthday": "2017-06-15",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "dress": "#696969",
+      "hair": "#2E2E2E"
+    },
+    "about": "Myriad has a mutation that gives her a pair of fairy wings. She's really insecure about it, worried that people would only try to use her for that, so she hides them tucked inside her backpack which she never takes off.\n\nShe's also a kleptomaniac. She holds herself back from stealing actually valuable stuff, but she loves pocketing pens and rulers and stuff. She also stole a lot of her parents' stuff, like a lipstick tube from her mom, which in turn got stolen by the imitator.",
+    "trivia": "- 满族。"
+  },
+  {
+    "name": "Alaska",
+    "namezh": "阿拉斯加",
+    "color": "#6C0404",
+    "quote": "Smile for the camera! Cheese!",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3986092.alaska",
+    "attr": {
+      "Nickname": "Al (by Sky)",
+      "Gender": "Non-binary (they/he)",
+      "Soul": "Solid",
+      "Birthday": "2016-11-27",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "shirt": "#FFF",
+      "hair": "#2E2E2E"
+    },
+    "about": "They're nearly always cheerful and happy-go-lucky looking. Don't be fooled by that. They will backstab you (or even front-stab you) every time they get the chance.\n\nThey're the imitation thief who stole Myriad's lipstick and Sky's poker cards in the pickpocket case. But Sparky framed Myriad for everything instead.",
+    "trivia": "- When at school, he wears the non-gendered jacket uniform with nothing beneath. Two jackets if it's cold."
+  },
+  {
+    "name": "Tomato",
+    "namezh": "番茄",
+    "color": "#A10000",
+    "desc": "The guy who can solve all your problems but doesn't want to.",
+    "quote": "I can fix anything... From a leaking pipe... to a shattered bone... to a broken heart...",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3988457.tomato",
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Gas, tomato-shaped",
+      "Birthday": "2017-05-19",
+      "Nationality": "Bauhinian",
+      "Weapon": "Wrench"
+    },
+    "palette": {
+      "shirt": "#575757",
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Potato",
+    "namezh": "土豆",
+    "color": "#bdad1b",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3986088.potato",
+    "attr": {
+      "Gender": "Male",
+      "Birthday": "2017-05-19"
+    },
+    "palette": {
+      "shirt": "#575757",
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Guillotine",
+    "namezh": "断头台",
+    "color": "#d0ae3a",
+    "desc": "Who is this girl and why does she want us to call her Guillotine?",
+    "quote": "I'm dead now! You can't kill me!",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/4038434.guillotine",
+    "attr": {
+      "Nickname": "Guillo (by Sky)",
+      "Gender": "Female",
+      "Birthday": "2016-03-30",
+      "Nationality": "Atlasian"
+    },
+    "palette": {
+      "shirt": "#575757",
+      "hair": "#2E2E2E"
+    },
+    "about": "Guillotine is from Atlasia, but her parents came over to Bauhinia for work."
+  },
+  {
+    "name": "Tephra",
+    "namezh": "火山灰",
+    "color": "#008282",
+    "desc": "The boss of everything at once, but nothing in particular.",
+    "quote": "Sit down everyone. The investigation is underway.",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3957937.tephra",
+    "attr": {
+      "Nickname": "Teff (by Sky)",
+      "Gender": "Male",
+      "Soul": "Gas, flower-shaped like his symbol",
+      "Birthday": "2017-04-21",
+      "Nationality": "Bauhinian",
+      "Weapon": "Walther P38 pistol"
+    },
+    "palette": {
+      "belt and holster": "#AE7500",
+      "buckle": "#7D4500",
+      "gun handle": "#757575",
+      "hair": "#2e2e2e"
+    },
+    "trivia": "- If he had a lusus, it would be a desert fox."
+  },
+  {
+    "name": "Jerboa",
+    "namezh": "跳鼠",
+    "color": "#0867af",
+    "desc": "Owner, bartender, and everything else of the tavern!",
+    "quote": "Who ordered me to do it? It's — OW — I did it on my own! Nobody ordered me!!",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3957938.jerboa",
+    "attr": {
+      "Full name": "Jerboa Kangaroo Koala",
+      "Nickname": "Boa (by Sky)",
+      "Gender": "Male",
+      "Soul": "Solid, broken glass shards",
+      "Birthday": "2016-09-10",
+      "Nationality": "Bauhinian",
+      "Occupation": "Bartender, chemist, undertaker, and chemist again"
+    },
+    "palette": {
+      "shirt light": "#727272",
+      "shirt dark": "#4F4F4F",
+      "hair": "#2E2E2E"
+    },
+    "about": "Jerboa grew up in the Project Boomerang labs with his family. Later, his parents disappeared from the facility, and he was sent to Coastline and adopted by [Jam](/characters/jam/).",
+    "trivia": "- If he had a lusus, it would be a jerboa."
+  },
+  {
+    "name": "Cosmo",
+    "namezh": "星河",
+    "color": "#998cbd",
+    "quote": "If everyone believes it, then it is the truth.",
+    "tags": [
+      "Coastline",
+      "Coastline Middle School",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3959019.cosmo",
+    "attr": {
+      "Nickname": "Cos (by Sky)",
+      "Gender": "Female",
+      "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
+      "Birthday": "2016-12-24",
+      "Nationality": "Bauhinian",
+      "Weapon": "Throwing stars",
+      "Power": "Mind reading, lv. 13"
+    },
+    "palette": {
+      "middle eye": "#fe0",
+      "left eye": "#DCBBF0",
+      "right eye": "#A5D6F7",
+      "shirt": "#B2B8E3",
+      "hair": "#2e2e2e"
+    },
+    "about": "Cosmo was born with two souls, a rare occurance because of shenanigans with two eggs but no twins.\n\nCosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
+    "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
+  },
+  {
+    "name": "Jam",
+    "namezh": "果酱",
+    "color": "#75430b",
+    "desc": "Teacher of all the subjects because I'm too lazy to make more.",
+    "tags": [
+      "Coastline",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Liquid, jam-like",
+      "Nationality": "Bauhinian",
+      "Marital status": "Married (to his wife)",
+      "Occupation": "Teacher",
+      "Weapon": "The Physical Sword"
+    },
+    "about": "Jam is [Sparky](/characters/sparky/)'s teacher at [Coastline Middle School](/world/bauhinia/cms/) and [Jerboa](/characters/jerboa/)'s adoptive father."
+  },
+  {
+    "name": "Trinket",
+    "namezh": "玲珑",
+    "color": "#28aed1",
+    "tags": [
+      "Magic Academy",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Liquid, constantly-boiling",
+      "Birthday": "2020-09-08",
+      "Nationality": "Bauhinian",
+      "Occupation": "Magic academy teacher",
+      "Weapon": "bracelets",
+      "Power": "Magic lv. 300"
+    },
+    "palette": {
+      "hair": "#F3F2E7",
+      "skin": "#F5EBD7",
+      "shirt": "#2e2e2e"
+    },
+    "trivia": "- She's albino, in case it's not obvious."
+  },
+  {
+    "name": "Nebula",
+    "namezh": "星云",
+    "color": "#d87099",
+    "desc": "Arch-Magician.",
+    "tags": [
+      "Coastline",
+      "Magic Academy",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5863790.nebula",
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Gas, nebula-like",
+      "Nationality": "Bauhinian",
+      "Occupation": "Magic academy teacher",
+      "Weapon": "the Physical Sword",
+      "Power": "Magic lv. 350"
+    },
+    "palette": {
+      "shirt": "#737373",
+      "sleeves, dress": "#414141",
+      "hair": "#2e2e2e",
+      "red": "#FFB1B1",
+      "orange": "#FFD0A8",
+      "yellow": "#FFF3AA",
+      "green": "#B7FFDE",
+      "blue": "#B7EFFF",
+      "purple": "#D9D1FF"
+    },
+    "about": "Nebula is the Arch-Magician crowned by the [ISA](/world/westavia/isa/), and the teacher of the [Magic Academy](/world/bauhinia/magic-academy/) appointed by the Bauhinian government.\n\nHer wand of choice is a teaching stick named the Physical Sword, though she did not actually store her magic in it. She just pretends she does and it's not like anyone else would know. She also has myopia, but uses magic to see clearly.\n\nShe got strong through *A Guide to Magic*, and cast an irreversible additional charm on it that made her know the book's position at all times, though it came to bite her in the ass: when [Qibli](/characters/qibli/) found out about the book and decided to keep it, she murdered Nebula so she wouldn't know her location all the time.",
+    "trivia": "- As of now, she's the only character who wears high heels."
+  },
+  {
+    "name": "Fantasy",
+    "namezh": "奇幻",
+    "color": "#ce00af",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Starcorp",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Fantasy Amber Peacock",
+      "Gender": "Female",
+      "Soul": "Solid, sphere-shaped",
+      "Birthday": "2011-10-13",
+      "Nationality": "Bauhinian",
+      "Marital status": "Married"
+    },
+    "palette": {
+      "necklace": "#caf1f1",
+      "hair": "#2E2E2E"
+    },
+    "about": "The big sister away at [college](/world/bauhinia/ufc/) and hardly heard from, except when she comes back for holidays. Died under mysterious circumstances, though this time the mystery may *finally* be too dangerous for Sparky to poke her nose in."
+  },
+  {
+    "name": "Ironheart",
+    "namezh": "铁心",
+    "color": "#69272b",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Starcorp",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Ironheart Peacock Reindeer",
+      "Gender": "Male",
+      "Soul": "Solid, heart-shaped",
+      "Birthday": "2013-01-15",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "shirt": "#b9ac95",
+      "pants": "#624b22",
+      "hair": "#2E2E2E"
+    },
+    "trivia": "- If he had a lusus, it would be an elephant."
+  },
+  {
+    "name": "Nightsun",
+    "namezh": "午夜阳",
+    "color": "#130b51",
+    "desc": "Freelance spy.",
+    "quote": "Here comes my arch-nemisis... Daymoon!",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Starcorp",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/4822114.nightsun",
+    "attr": {
+      "Full name": "Nightsun Cassowary Tourmaline",
+      "Gender": "Male",
+      "Birthday": "2017-04-18",
+      "Nationality": "Atlasian, later Bauhinian",
+      "Orientation": "Bisexual, deep in the closet",
+      "Marital status": "Married (to <a href=\"../sparky/\">Sparky</a>)",
+      "Occupation": "Employee at Starcorp",
+      "Weapon": "Seedling sword"
+    },
+    "palette": {
+      "hair": "#2E2E2E",
+      "sword handle": "#510E0B",
+      "sword highlight": "#fff",
+      "sword blade lighter": "#D6D6D6",
+      "sword blade": "#adadad",
+      "suit": "#000"
+    },
+    "about": "Nightsun grew up in the hellscape that is Atlasia. He later became a freelance spy, gathering intelligence and selling it to whoever bid the highest — and multiple people, if the risk was low. One day he got someone really pissed off and he fled to Bauhinia, meeting a more-than-friend along the way, who helped him get Bauhinian nationality. But later that boyfriend died and Nightsun shut himself into the closet. He then laid his eyes on Starcorp, and got close enough to Sparky to marry her.",
+    "trivia": "- Strawberry is his favorite flavor of lolipop.",
+    "note": "- The highlight on his hair goes up, down, and then up."
+  },
+  {
+    "name": "Bramble",
+    "namezh": "荆蕀",
+    "color": "#E19D0E",
+    "desc": "Silly little boy who writes his feelings all over his face.",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Bramble Nightsun Sparky",
+      "Gender": "Male",
+      "Birthday": "2036-08-29",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "Fantasy's son."
+  },
+  {
+    "name": "Goose",
+    "namezh": "白鹅",
+    "color": "#D54269",
+    "desc": "Bandwagon girl.",
+    "quote": "If you feel unloved, we can send you to the Ministry of Love, where you'll be loved *so much* you don't *ever* need to be loved again!",
+    "tags": [
+      "Coastline",
+      "Ministry of State Security",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5612115.goose",
+    "attr": {
+      "Nickname": "Cheesecake (codename by the MIC)",
+      "Gender": "Female",
+      "Soul": "Solid, jelly-like",
+      "Birthday": "2001-12-30",
+      "Nationality": "Bauhinian",
+      "Occupation": "MSS officer",
+      "Weapon": "Baton",
+      "Power": "Invisibility lv. 300"
+    },
+    "palette": {
+      "shoulder pads": "#f01ace",
+      "shirt": "#F0C8EA",
+      "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
+      "hair": "#2E2E2E"
+    },
+    "about": "Check out her [PMV](https://youtu.be/v4ats5O0mio)!\n\nGoose is *just* like other girls. She likes everything other girls like. She does everything other girls do. She listens to whatever music is most popular at the moment. She watches whatever show is most popular at the moment.\n\nGoose is just happy to spend her life on the bandwagon.\n\n---\n\nGoose is an officer at the [Ministry of State Security](/world/bauhinia/mss/). She likes juggling her baton and giving vague threats about sending people to a possible Ministry of Love. She has a knack of trying her best at everything she puts her mind to do. She never fails to take business personally.\n\nShe 's 29 but still lives with her parents. If they died she would bury herself with them.",
+    "trivia": "- She gives off a goofy villain vibe.\n- She loves juggling her baton, kicking it from one foot to the other, catching it on her chin, spinning it on her fingertips, and throwing it at random colleagues (usually Pumpkin).\n- If she were ever to have a theme song, it would be titled *Goosebumps（鹅皮疙瘩）*.\n- If she had a lusus, it would be a goose.\n- Song: [苍蝇（The Fly） - ilem](https://www.bilibili.com/video/BV1p5411879s)",
+    "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves"
+  },
+  {
+    "name": "Pumpkin",
+    "namezh": "南瓜",
+    "color": "#E3744D",
+    "tags": [
+      "Coastline",
+      "Ministry of State Security",
+      "Bauhinia",
+      "Westavia",
+      "Nameless Village"
+    ],
+    "af": "https://artfight.net/character/5612117.pumpkin",
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Solid, pumpkin-shaped",
+      "Birthday": "2003-07-27",
+      "Nationality": "Bauhinian",
+      "Orientation": "Homosexual",
+      "Occupation": "MSS officer",
+      "Weapon": "Baton",
+      "Power": "Hyperawareness lv. 200"
+    },
+    "palette": {
+      "shoulder pads": "#f01ace",
+      "shirt": "#F0C8EA",
+      "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
+      "blue": "#1F6EA7",
+      "hair": "#754413"
+    },
+    "about": "Pumpkin is a goofy guy who loves slurping boba tea and hates filling out forms.",
+    "trivia": "- He gives off a goofy dumbass vibe.\n- 维吾尔族。",
+    "note": "- Any interactions with Goose or other MSS people should be drawn in his uniform.\n    - You can change the uniform design, but\n        - Keep it a dark color\n        - Have the Bauhinian pink somewhere on it\n        - Make sure they're wearing gloves\n- Any interactions with Candlelight or other villagers should be drawn in his blue clothes.\n    - His stubby horn will make a bulge in his hat. Would be charmed if it's drawn, but you don't have to!"
+  },
+  {
+    "name": "Halcyon",
+    "namezh": "太平",
+    "color": "#008E9B",
+    "desc": "The only one in the team who actually works.",
+    "tags": [
+      "Coastline",
+      "Ministry of State Security",
+      "Bauhinia",
+      "Moreland"
+    ],
+    "af": "https://artfight.net/character/5612120.halcyon",
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Solid, a little bird",
+      "Birthday": "1991-03-18",
+      "Nationality": "Bauhinian",
+      "Marital status": "Married",
+      "Occupation": "MSS officer",
+      "Weapon": "Baton",
+      "Power": "Magic lv. undisclosed"
+    },
+    "palette": {
+      "shoulder pads": "#f01ace",
+      "shirt": "#F0C8EA",
+      "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
+      "hair": "#2e2e2e"
+    },
+    "about": "Halcyon is a [Morelandian](/world/moreland/) spy working for the [MSS](/world/bauhinia/mss/).\n\nAn avid opportunist, a hopeless romantic, and a dirty traitor. But did he betray Bauhinia, or did Bauhinia betray *him*?",
+    "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves"
+  },
+  {
+    "name": "Paperweight",
+    "namezh": "镇纸",
+    "color": "#2e2e2e",
+    "desc": "Grouchy old guy who hates fun.",
+    "tags": [
+      "Coastline",
+      "Ministry of State Security",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5612121.paperweight",
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Liquid, looks like mercury",
+      "Birthday": "1978-11-20",
+      "Nationality": "Bauhinian",
+      "Marital status": "Widowed",
+      "Occupation": "MSS officer",
+      "Weapon": "Baton",
+      "Power": "Time precision lv. 350"
+    },
+    "palette": {
+      "shoulder pads": "#f01ace",
+      "shirt": "#F0C8EA",
+      "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
+      "hair": "#888",
+      "young hair": "#CAA740"
+    },
+    "about": "Paperweight is a senior officer at the [Ministry of State Security](/world/bauhinia/mss/).\n\nHe usually maintains a very calm and authoritative composure to others, especially the people he deals with at work — spies, moles, and pesky annoying kids. But under his composure, he is a frothing pit of pure rage. He is constantly angry at everything at once but nothing in particular, saddled by the weight of his own guilt and his colleague's suspicion of treason. To people he knows, like [his](/characters/goose/) [subordinates](/characters/pumpkin/), he yells at them all the time. Also he's homophobic as fuck.\n\nHe misses the old times when he could actually run without his knees screaming murder and shoot a gun without his hands shaking. This is why he hates young people — because he's kind of jealous.\n\nHe wishes someone could believe him. He wanted [Whiteout](/characters/whiteout/) back.\n\n---\n\nEveryone in this stupid world is an idiot. Including me.\n\nPumpkin should go fuck his own perverted gay ass! I'd drown him inside a milk tea pool! (Pumpkin: that's a nice way to die actually) Goose can *never* understand human speech. Oh, have the report on my desk by 3, I'd say. She'd flip through the window at 3 in the *fucking morning* and make security piss their pants. Halcyon, would you mind your *own* fucking business? I'm just old; I'm not fucking stupid! You don't have to remind me about that meeting over and over and over — I can keep time better than you could, so shut up!\n\nSigh. Finally some peace and quiet. Med time. Let me take a blood pressure too… Still a little high. Alright.\n\nSometimes I wonder if I could just give up and let myself die. What's the point of living like this, isolated by my colleagues, and shunned by my family? Maybe there exists an afterlife, where I could see *them* again… I could tell her that I'm sorry, and that I tried. I never got to ask him whether he was proud of me.\n\nUgh, Halcyon again. What does that guy want?? He's acting like a mole there with his nose in everyone's businesses. Idiots. All the best people die early. The idiots survive on, alive but not living.\n",
+    "trivia": "- He canonically speaks Cantonese. He's the only character who does, and other characters don't find anything off about it.\n    - 他说且只会说粤语。反正大家也听得懂。\n- He has a little \"my goddamn leash of curses\" which is a medicine box, the kind that has cells arranged in three rows (for breakfast, lunch, and dinner) and seven columns (from Monday to Sunday). You put the required amount of pills in each box at the start of every week and take the pills as scheduled. He hates it to the guts.",
+    "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves\n- Any interactions with Whiteout should be drawn in his young, yellow-haired design.\n- Any interactions with Goose, Pumpkin, and Halcyon should be drawn in his old, bald design."
+  },
+  {
+    "name": "Gecko",
+    "namezh": "壁虎",
+    "color": "#a40ca7",
+    "quote": "Uh... You don't look like Peacock.",
+    "tags": [
+      "Coastline",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Birthday": "1990-05-13",
+      "Nationality": "Bauhinian",
+      "Occupation": "Smuggler"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "我嘞个绝世大冤种啊我的壁虎\n\nBauhinian smuggler. Had been caught once, but returned to the trade because she didn't know what else to do. Her worst mistake is not knowing that [Peacock](/characters/peacock/) has a [stepdaughter](/characters/sparky/) who is batshit crazy.",
+    "trivia": "- If she had a lusus, it would be a gecko."
+  },
+  {
+    "name": "Lark",
+    "namezh": "云雀",
+    "color": "#06B87B",
+    "tags": [
+      "Coastline",
+      "Bauhinia",
+      "Moreland"
+    ],
+    "attr": {
+      "Gender": "Male (trans)",
+      "Birthday": "1998-09-21",
+      "Nationality": "Bauhinian",
+      "Occupation": "Secret agent"
+    },
+    "palette": {
+      "shirt": "#fff",
+      "hair": "#2E2E2E"
+    },
+    "about": "A Morelandian agent in Bauhinia, recruited to recover the nuke that the kids found.",
+    "trivia": "- If he had a lusus, it would be a lark."
+  },
+  {
+    "name": "Pearl",
+    "namezh": "珍珠",
+    "color": "#caf1f1",
+    "desc": "A little girl who cries pearls",
+    "tags": [
+      "Coastline",
+      "Bauhinia",
+      "Sylvandia"
+    ],
+    "attr": {
+      "Full name": "Pearl Gemstone",
+      "Gender": "Female",
+      "Birthday": "2026-02-09",
+      "Nationality": "Sylvandian"
+    },
+    "palette": {
+      "hair highlight": "#4E4E4E",
+      "hair": "#000"
+    },
+    "about": "She cries pearls. Yes, her tears are literally pearls.\n\nShe is everything you would expect a little girl to be: cute, curious, instinctively kind, loves animals, and incredibly stupid.",
+    "trivia": "- She has both a Bauhinian passport and a Sylvandian one, both totally legal (not forged)."
+  },
+  {
+    "name": "Fern",
+    "namezh": "厥儿",
+    "color": "#089b19",
+    "tags": [
+      "Fanton"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Age estimation": "Around the same as Sparky",
+      "Nationality": "Fantoni"
+    },
+    "palette": {
+      "shirt": "#fff",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Jackpot",
+    "namezh": "金元宝",
+    "color": "#AC7C26",
+    "desc": "Star entrepreneur.",
+    "tags": [
+      "Atlasia"
+    ],
+    "attr": {
+      "Full name": "Jackpot Cloudy",
+      "Gender": "Male",
+      "Birthday": "1994-10-20",
+      "Nationality": "Atlasian"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Snake",
+    "namezh": "毒蛇",
+    "color": "#c30963",
+    "tags": [
+      "Atlasia"
+    ],
+    "attr": {
+      "Full name": "Snake Cloudy",
+      "Gender": "Male",
+      "Birthday": "2026-06-18",
+      "Age estimation": "Around the same as Pearl",
+      "Nationality": "Atlasian"
+    },
+    "palette": {
+      "feathers": "#E184B1",
+      "shirt": "#6c6c6c",
+      "hair": "#2E2E2E"
+    },
+    "about": "[Jackpot](/character/jackpot/)'s mischevious and ambitious son.\n\nSnake has a mutation that gives him a pair of bird wings.\n\nHe is *very* full of himself, but still likes being friends with other people a lot, so he is more pleasant to be around than his dad.\n\nHe still lives with his dad because he's too young, but he dreams of leaving him, starting his own business, and living in a big house all on his own.\n\nHe has a pet snake named Blizzard. It is — surprise — a Blizzard Cornsnake. He thinks snakes are cool, which is why he also named himself Snake."
+  },
+  {
+    "name": "Snowball",
+    "namezh": "雪球",
+    "color": "#D920D2",
+    "tags": [
+      "Moreland"
+    ],
+    "attr": {
+      "Full name": "Snowball 201710033746",
+      "Gender": "Female",
+      "Birthday": "2017-10-03",
+      "Nationality": "Moose",
+      "Power": "Invisibility"
+    },
+    "palette": {
+      "shirt": "#fff",
+      "hair": "#2E2E2E"
+    },
+    "about": "Snowball is a part of a nomadic tribe in [Moreland](/world/moreland/)"
+  },
+  {
+    "name": "Buttercup",
+    "namezh": "毛茛",
+    "color": "#8c7503",
+    "desc": "Fleash rebel fighting for independence from Sylvandia.",
+    "tags": [
+      "Sylvandia"
+    ],
+    "af": "https://artfight.net/character/5793882.buttercup",
+    "attr": {
+      "Gender": "Female (cis)",
+      "Birthday": "2010-02-03",
+      "Age estimation": "Around the same as Goose",
+      "Nationality": "Sylvandian",
+      "Orientation": "Asexual",
+      "Weapon": "Rifle"
+    },
+    "palette": {
+      "buckle": "#909090",
+      "sleeve crosses": "#BC4B1D",
+      "badana": "#EBD101",
+      "coat sleeve": "#D6D3A4",
+      "coat": "#A49045",
+      "shirt": "#615010",
+      "hat, belt, and boots": "#81550B",
+      "boot pattern arrow": "#B39C76",
+      "boot pattern background": "#8A7655",
+      "pants": "#273E58",
+      "hair": "#372603"
+    },
+    "trivia": "- She's probably the character with the longest color palette."
+  },
+  {
+    "name": "Beauty",
+    "namezh": "招娣",
+    "color": "#CE6C07",
+    "desc": "Obnoxious fangirl.",
+    "tags": [
+      "Coastline",
+      "Cherry-Hyrax Family",
+      "Starcorp",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Beauty Cherry Hyrax",
+      "Gender": "Female (cis)",
+      "Birthday": "2014-01-04",
+      "Nationality": "Bauhinian",
+      "Weapon": "Lasso"
+    },
+    "palette": {
+      "shirt": "#5e5e5e",
+      "hair": "#2E2E2E"
+    },
+    "about": "The oldest daughter in the Cherry-Hyrax family, always neck-deep in pop culture. Her desk is plastered with pictures of her favorite idols.\n\nShe has strabismus, where her right eye points outward."
+  },
+  {
+    "name": "Chastity",
+    "namezh": "招财",
+    "color": "#C3BB4E",
+    "desc": "A freaking psychopath.",
+    "tags": [
+      "Coastline",
+      "Cherry-Hyrax Family",
+      "Starcorp",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Chastity Cherry Hyrax",
+      "Gender": "Female (cis)",
+      "Birthday": "2015-03-14",
+      "Nationality": "Bauhinian",
+      "Weapon": "Chainsaw"
+    },
+    "palette": {
+      "shirt": "#5e5e5e",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Devotion",
+    "namezh": "招福",
+    "color": "#017909",
+    "desc": "The boss of everything in existence.",
+    "tags": [
+      "Coastline",
+      "Cherry-Hyrax Family",
+      "Starcorp",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Devotion Cherry Hyrax",
+      "Gender": "Female (cis)",
+      "Birthday": "2016-05-18",
+      "Nationality": "Bauhinian",
+      "Weapon": "Colt 1911 pistol"
+    },
+    "palette": {
+      "shirt": "#5e5e5e",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Elegance",
+    "namezh": "招运",
+    "color": "#1054ad",
+    "desc": "For fuck's sake the only normal person in the family.",
+    "tags": [
+      "Coastline",
+      "Cherry-Hyrax Family",
+      "Starcorp",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Elegance Cherry Hyrax",
+      "Gender": "Female (cis)",
+      "Birthday": "2017-06-21",
+      "Nationality": "Bauhinian",
+      "Weapon": "Fan",
+      "Power": "Timekeeping lv. 260"
+    },
+    "palette": {
+      "shirt": "#5e5e5e",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Animus",
+    "namezh": "鲲鹏",
+    "color": "#a10000",
+    "desc": "Would be normal too if he weren't a boy which makes him oh-so-special.",
+    "tags": [
+      "Coastline",
+      "Cherry-Hyrax Family",
+      "Starcorp",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Animus Hyrax Cherry",
+      "Gender": "Male (cis)",
+      "Birthday": "2017-08-30",
+      "Nationality": "Bauhinian",
+      "Orientation": "Homosexual, came out to Sparky only",
+      "Occupation": "Chairman of Starcorp",
+      "Weapon": "Nun-chucks"
+    },
+    "palette": {
+      "shirt": "#5e5e5e",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Hyrax",
+    "namezh": "蹄兔",
+    "color": "#66210a",
+    "desc": "Starcorp legend",
+    "tags": [
+      "Cherry-Hyrax Family",
+      "Starcorp",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Male (cis)",
+      "Soul": "Solid",
+      "Birthday": "1986-08-27",
+      "Nationality": "Bauhinian",
+      "Orientation": "Heterosexual",
+      "Marital status": "Married (to Cherry)",
+      "Occupation": "Chairman"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "Hyrax is the chairman of Starcorp and the father of 5 children — four, actually."
+  },
+  {
+    "name": "Bunchberry",
+    "namezh": "红串果",
+    "color": "#ca4d3f",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Cherry-Hyrax Family",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Bunchberry Ironheart Beauty",
+      "Nickname": "Bunny (by everyone)",
+      "Gender": "Female (trans)",
+      "Age estimation": "Around the same as Bramble",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Kismet",
+    "namezh": "天意",
+    "color": "#000",
+    "desc": "President of Bauhinia.",
+    "tags": [
+      "Flower City",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/7948419.kismet",
+    "attr": {
+      "Gender": "Male (cis)",
+      "Soul": "Has 6, an original one and 5 superpowered ones, rainbow, all gas",
+      "Birthday": "1984-06-08",
+      "Nationality": "Bauhinian",
+      "Orientation": "Heterosexual",
+      "Marital status": "Married",
+      "Occupation": "President",
+      "Power": "All of them! At level 9000+!"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "The ~~dictator~~ president of Bauhinia. Extremely powerful.\n\nKismet was born with nothing special, but he consumed 5 other souls with extremely strong superpowers and now he has all 5 [common powers](/world/superpowers/). He is after [Tundra](/characters/tundra/)'s immortal body. If magic weren't impossible to get ahold of, he would've went for that too.\n\nHis 6 souls made him into a rainbow and molded his text color into pure black.\n\nHe has his extremely powerful mind-reading tuned to the entire Flower City. Usually people would just be background noise, but he would be alerted if there are in-subservient thoughts.\n\nHe is actually the reincarnation of [Hyrax](/characters/hyrax/) with memories intact. Because of this, he came up with the idea (or rather, Hyrax learned that Kismet would do this and Kismet did) of [eternal death](/world/bauhinia/#eternal-death), to prevent people from reincarnating, let alone with memory.\n\nAfter acquiring Tundra's body, he needed stand-ins for himself in public appearances, and thus [Project Kismet](/stories/project-kismet/) was initiated.",
+    "trivia": "- His rainbow border comes from too many souls leaking aura. This is purely a design aspect and in-universe characters can't see it."
+  },
+  {
+    "name": "Pinecone",
+    "namezh": "松果",
+    "color": "#094205",
+    "quote": "Deep breath… I can do this.",
+    "tags": [
+      "Flower City",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Nickname": "Pine (by Rosemary)",
+      "Gender": "Female",
+      "Soul": "Solid, pinecone-shaped",
+      "Birthday": "1984-08-05",
+      "Nationality": "Bauhinian",
+      "Marital status": "Married",
+      "Occupation": "Kismet's double; formerly housewife"
+    },
+    "palette": {
+      "eyes, ears": "#000",
+      "hair": "#2e2e2e"
+    },
+    "about": "Pinecone used to just be a short little housewife at only 145cm, raising two kids, running a grocery store with her husband, suffering domestic abuse yet trying and failing to seek help. That is, until one day, she was approached by government agents giving her an offer she can't refuse.\n\nHer kids would be guaranteed spots at Bauhinia's top institutions and offered comfortable and well-paid jobs, but Pinecone herself would also be working a secret job that forbids her from seeing her children in person again. She will be trained adequately in her new job. They have been watching her for quite a while and they know she can do it.\n\nPinecone had to agree. She was then taken to a plastic surgeon, hairdresser, and all that; and by the time she got out she looked no longer like herself, but rather like… the president of Bauhinia, Kismet. She even had a throat implant that changed her voice to his.\n\nThat was the job. She would stand in for him during public appearances. Otherwise, she had all the time to herself, though she could not leave the government building nor contact anyone outside, except for calling her kids each once a week, and she had to strictly not mention her job to them. Her younger child, Firecrackers, couldn't even be called at all because he's mute so even if she did call him, he couldn't say anything over the phone. She just left voice messages.\n\nPinecone is grateful. She is living in a fancy palace and has delicious and nutritious meals every day. Though, sometimes the fear of fucking up and causing an international scandal got too great and she was scared of facing the numerous cameras and journalists. But then, Rosemary will always be there to comfort her.\n\n*This is the best job in the world; you're lucky. Other people wouldn't dream of getting it.*"
+  },
+  {
+    "name": "Rosemary",
+    "namezh": "迷迭香",
+    "color": "#14adab",
+    "desc": "Your gentle, caring friend?",
+    "tags": [
+      "Flower City",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Nickname": "Rose (by Pinecone)",
+      "Gender": "Female",
+      "Nationality": "Bauhinian",
+      "Occupation": "Project Kismet's handler"
+    },
+    "palette": {
+      "hair": "#D7C386"
+    },
+    "about": "Rosemary is assigned Pinecone's handler in Project Kismet. She is gentle and caring, and helped Pinecone get through her worst times. She also has a couple college-aged kids."
+  },
+  {
+    "name": "Sundae",
+    "namezh": "圣代",
+    "color": "#863094",
+    "tags": [
+      "Coastline",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Nickname": "Sunny (by Willow)",
+      "Gender": "Female",
+      "Birthday": "2022-11-14",
+      "Nationality": "Bauhinian",
+      "Orientation": "Homosexual",
+      "Occupation": "College student"
+    },
+    "palette": {
+      "shirt": "#fff",
+      "hair": "#2e2e2e"
+    },
+    "about": "Sundae is nice."
+  },
+  {
+    "name": "Dragonfly",
+    "namezh": "蜻蜓",
+    "color": "#00adad",
+    "desc": "Some martial arts master in the woods.",
+    "tags": [
+      "Starcorp",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/4038432.dragonfly",
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Solid",
+      "Nationality": "Bauhinian",
+      "Weapon": "His fists. A wooden branch if there is one nearby."
+    },
+    "palette": {
+      "shirt": "#fff",
+      "hair": "#2E2E2E"
+    },
+    "about": "Dragonfly is a security guard for Starcorp. He trained Sparky in bodyguarding.",
+    "trivia": "- If he had a lusus, it would be a dragonfly."
+  },
+  {
+    "name": "Groovy",
+    "color": "#933384",
+    "tags": [
+      "Coastline",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Nickname": "Cocoa (by Nightsun)",
+      "Gender": "Female",
+      "Age estimation": "Around the same as Nightsun",
+      "Nationality": "Bauhinian",
+      "Occupation": "Case officer"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "Groovy is Nightsun's case officer."
+  },
+  {
+    "name": "Koala",
+    "namezh": "树袋",
+    "color": "#7F8587",
+    "desc": "Jerboa's mother, lead scientist of Project Boomerang.",
+    "tags": [
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Female (cis)",
+      "Birthday": "1985-01-31",
+      "Nationality": "Bauhinian",
+      "Occupation": "Physician"
+    },
+    "palette": {
+      "glasses": "#727272",
+      "suit": "#816339",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Kangaroo",
+    "namezh": "袋鼠",
+    "color": "#A36D1F",
+    "desc": "Jerboa's father, co-lead scientist of Project Boomerang.",
+    "tags": [
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Male (cis)",
+      "Birthday": "1985-04-19",
+      "Nationality": "Bauhinian",
+      "Occupation": "Physician"
+    },
+    "palette": {
+      "suit": "#5D6B6F",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Robin",
+    "namezh": "旅鸫",
+    "color": "#a72b0c",
+    "tags": [
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Birthday": "1989-06-05",
+      "Nationality": "Bauhinian",
+      "Occupation": "Physician"
+    },
+    "palette": {
+      "hair": "#2E2E2E"
+    },
+    "about": "Took over as lead scientist of Project Boomerang after the disappearance of Koala and Kangaroo.",
+    "trivia": "- If he had a lusus, it would be a robin."
+  },
+  {
+    "name": "Frosting",
+    "namezh": "糖霜",
+    "color": "#F676D2",
+    "tags": [
+      "Flower City",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5889458.frosting",
+    "attr": {
+      "Nickname": "Frost (by Jaculus)",
+      "Gender": "Female (cis)",
+      "Soul": "Non-Newtonian",
+      "Birthday": "2011-02-19",
+      "Nationality": "Bauhinian",
+      "Orientation": "Bisexual",
+      "Marital status": "Married (to <a href=\"../entity/\">Entity</a>)",
+      "Occupation": "Government archivist"
+    },
+    "palette": {
+      "glasses, shirt": "#b9b9b9",
+      "hair": "#2E2E2E"
+    },
+    "about": "Frosting grew up in the Project Boomerang laboratory with her parents.\n\nShe grew up to be a government archivist, tasked with erasing records of disappeared people in addition to whatever archivists usually do. She also manages the soul vault.\n\nShe let Jerboa into the archives to read about Project Boomerang and his parents.",
+    "note": "\n"
+  },
+  {
+    "name": "Jaculus",
+    "namezh": "跃鼠",
+    "color": "#008bc7",
+    "desc": "Jerboa's big sister.",
+    "tags": [
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/7948423.jaculus",
+    "attr": {
+      "Full name": "Jaculus Koala Kangaroo",
+      "Nickname": "Jac (by Frosting)",
+      "Gender": "Female (cis)",
+      "Birthday": "2011-11-11",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "shirt": "#fff",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Candlelight",
+    "namezh": "烛光",
+    "color": "#cb1616",
+    "desc": "A miserable wreck.",
+    "tags": [
+      "Westavia",
+      "Nameless Village"
+    ],
+    "af": "https://artfight.net/character/5794178.candlelight",
+    "attr": {
+      "Full name": "Candlelight Ember (later Candlelight Muscat)",
+      "Nickname": "Candle",
+      "Gender": "Male",
+      "Birthday": "2003-12-02",
+      "Nationality": "Westavian",
+      "Orientation": "Homosexual",
+      "Occupation": "SPF officer"
+    },
+    "palette": {
+      "armband": "#E25887",
+      "heart": "#F09FCE",
+      "hair": "#2e2e2e"
+    },
+    "trivia": "- 回族。"
+  },
+  {
+    "name": "Sunflower",
+    "namezh": "向日葵",
+    "color": "#cb9c1a",
+    "tags": [
+      "Westavia"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Gas, bright and sun-like",
+      "Nationality": "Westavian",
+      "Occupation": "Student"
+    },
+    "palette": {
+      "badge": "#adadad",
+      "hair": "#6C4816"
+    },
+    "about": "Sunflower is a high school student put on \"suicide watch\" by the [SPF](/world/westavia/spf/) because she had a paracosm called [Tadlet Kingdom](/world/tadlet-kingdom/)."
+  },
+  {
+    "name": "Helsinki",
+    "namezh": "赫尔辛基",
+    "color": "#5b3896",
+    "tags": [
+      "Westavia",
+      "Nameless Village"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Age estimation": "Around the same as Pumpkin",
+      "Nationality": "Westavian",
+      "Occupation": "Village secretary"
+    },
+    "palette": {
+      "shirt": "#C4B0CF",
+      "hair": "#6C4816"
+    },
+    "about": "Helsinki is a distant relative of [Pumpkin](/characters/pumpkin/)'s, descended from the part of his family that didn't immigrate to [Bauhinia](/world/bauhinia/). She lives in [the village](/world/westavia/pumpkins-village/).",
+    "trivia": "- 维吾尔族。"
+  },
+  {
+    "name": "Mooncake",
+    "namezh": "月饼",
+    "color": "#0b8445",
+    "tags": [
+      "Westavia",
+      "Nameless Village"
+    ],
+    "attr": {
+      "Full name": "Mooncake Thyme",
+      "Gender": "Female",
+      "Birthday": "2003-08-18",
+      "Nationality": "Westavian",
+      "Occupation": "Police"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "A policeman in a [little village](/world/westavia/pumpkins-village/).",
+    "trivia": "- 东乡族。"
+  },
+  {
+    "name": "Thyme",
+    "namezh": "百里香",
+    "color": "#3d7510",
+    "desc": "Leader of a tiny nameless village on the outskirts of Area 29",
+    "tags": [
+      "Westavia",
+      "Nameless Village"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Gas, thyme-shaped",
+      "Birthday": "1977-11-23",
+      "Nationality": "Westavian",
+      "Marital status": "Married",
+      "Occupation": "Farmer"
+    },
+    "about": "The well-revered leader of the nameless village, who once attempted to save it from terrorists. His right leg is crippled from that incident. He is the only one who knows the real name of the village, having been informed of it by the previous leader, though he dares not utter it in front of others.",
+    "trivia": "- 东乡族。"
+  },
+  {
+    "name": "Natasha",
+    "namezh": "娜塔莎",
+    "color": "#e665d5",
+    "desc": "Annoying devil-girl.",
+    "quote": "TAKE THAT, YOU MOTHERFUCKING MOTHERFUCKER!",
+    "tags": [
+      "Westavia",
+      "Nameless Village"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Gas, like a supernova",
+      "Nationality": "Westavian",
+      "Power": "Superstrength"
+    },
+    "palette": {
+      "scarf stripe": "#C13B9C",
+      "coat": "#8242B3",
+      "hair": "#AF934C",
+      "shirt, pants": "#2e2e2e"
+    },
+    "about": "Natasha is loud. You'll hear her before you see her. And after you see her, you'll probably feel her. Or feel whatever thing she managed to throw at you.\n\nShe seems addicted to attention. She couldn't handle not being in the spotlight. She probably doesn't realize she's not the only person in the world. But she does; she knows that all too clearly. She's like this for a reason. She barely sees her parents, as they're both working in the city. Her grandparents weren't the most fun people in the world by young people standards, and she didn't have any siblings. She was lonely, and she craved attention.",
+    "trivia": "- 俄罗斯族。"
+  },
+  {
+    "name": "Cobalt",
+    "namezh": "钴蚀天",
+    "color": "#0e81c8",
+    "desc": "Majiang-loving soul-dealer",
+    "tags": [
+      "Fanton"
+    ],
+    "attr": {
+      "Nickname": "Co (by Kaleidoscope)",
+      "Gender": "Female",
+      "Soul": "Solid",
+      "Nationality": "Fantoni",
+      "Orientation": "Heterosexual",
+      "Occupation": "Soul-dealer",
+      "Power": "Mind reading"
+    },
+    "palette": {
+      "robe": "#0F4481",
+      "shirt": "#5E5E5E",
+      "hair": "#2e2e2e"
+    },
+    "about": "Cobalt is as cishet as a cishet could ever cishet. She's so cishet that when she got into [Ironheart](/characters/ironheart/)'s body, she divorced his wife and attempted to get gender-affirming surgery, the latter of which [Sparky](/characters/sparky/) successfully stopped because Ironheart is also as cishet as a cishet could ever cishet and Sparky didn't want him coming back into a woman's body.\n\nShe is also a soul-dealer well-trained in the art of soul extraction."
+  },
+  {
+    "name": "Kaleidoscope",
+    "namezh": "万花筒",
+    "color": "#6f4a16",
+    "tags": [
+      "Fanton"
+    ],
+    "attr": {
+      "Nickname": "Kally (by Cobalt)",
+      "Gender": "Male",
+      "Age estimation": "Around the same as Cobalt",
+      "Nationality": "Fantoni",
+      "Orientation": "Pansexual",
+      "Occupation": "Mafia minion"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "Kaleidoscope greatly cares for his friends and family, to the point where he even went into the mafia to pay back his father's debt. Ironically, the kidnapping scene he faked in the hopes that his friends would give up on him thinking he's dead actually led them into the underground as well to look for him."
+  },
+  {
+    "name": "Nightingale",
+    "namezh": "夜莺",
+    "color": "#d22dae",
+    "tags": [
+      "Fanton"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Age estimation": "Around the same as Cobalt",
+      "Nationality": "Fantoni",
+      "Power": "Hyperawareness"
+    },
+    "palette": {
+      "earring": "#E0DD16",
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Skyhawk",
+    "namezh": "月月鸟",
+    "color": "#077838",
+    "tags": [
+      "Fanton"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Age estimation": "Around the same as Cobalt",
+      "Nationality": "Fantoni"
+    },
+    "palette": {
+      "shirt": "#5e5e5e",
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Moonbeam",
+    "namezh": "月光",
+    "color": "#08d8e7",
+    "tags": [
+      "Sylvandia"
+    ],
+    "af": "https://artfight.net/character/6011564.moonbeam",
+    "attr": {
+      "Gender": "Female",
+      "Age estimation": "A lot older than Cobalt",
+      "Nationality": "Sylvandian",
+      "Occupation": "Psychic"
+    },
+    "palette": {
+      "robe": "#411F88",
+      "robe sleeves": "#E6E098",
+      "hair": "#2E2E2E"
+    },
+    "about": "Moonbeam is a Sylvandian psychic well-trained in soul-extraction."
+  },
+  {
+    "name": "Starry",
+    "namezh": "星星",
+    "color": "#CC770F",
+    "tags": [
+      "Misc"
+    ],
+    "af": "https://artfight.net/character/4038429.starry",
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Liquid",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "glasses": "#666",
+      "hair": "#2E2E2E"
+    },
+    "about": "Went into a coma after getting hit in the head. Since then, [Ribbon](/characters/ribbon/) had kept him alive."
+  },
+  {
+    "name": "Melody",
+    "namezh": "音韵",
+    "color": "#426600",
+    "desc": "Quiet badass.",
+    "quote": "…",
+    "tags": [
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3965901.melody",
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Liquid, warm and bloody",
+      "Birthday": "2013-07-13",
+      "Nationality": "Bauhinian",
+      "Occupation": "Private detective",
+      "Weapon": "Dagger"
+    },
+    "palette": {
+      "hat": "#575757",
+      "hair": "#2e2e2e"
+    },
+    "about": "…… … …… ……\n\n…… …… ……\n\n… … ……\n\n---\n\n… ……\n\n…… … …… …\n\n……\n\n… … ……\n\n… ……\n\n… …… … …\n\n… …… … …\n\n…… … …… ……\n\n---\n\n…… … … …\n\n… …… …\n\n…… …… ……\n\n…… … ……\n\n…\n\n---\n\n……\n\n… … … …\n\n… …\n\n… … …\n\n… … …… …… … …\n\n---\n\n…… … …… …\n\n…… …… ……\n\n…… …… ……\n\n… …… … …\n\n…… … …… … …… ……\n",
+    "trivia": "- His bio is a code."
+  },
+  {
+    "name": "Tundra",
+    "namezh": "冰封雪",
+    "color": "#800080",
+    "desc": "Self-proclaimed mayor of Hillslope!",
+    "quote": "What's the big deal?",
+    "tags": [
+      "Fanton"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Gas, wispy",
+      "Birthday": "2010-07-15",
+      "Nationality": "Fantoni",
+      "Weapon": "None, unless joints count",
+      "Power": "Immortality"
+    },
+    "palette": {
+      "tie": "#2E6CF7",
+      "hair": "#2E2E2E"
+    },
+    "trivia": "- If he had a lusus, it would be a sloth."
+  },
+  {
+    "name": "Sunny",
+    "namezh": "阳阳",
+    "color": "#071cbb",
+    "tags": [
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Nationality": "Fantoni"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Vampire",
+    "namezh": "吸血鬼",
+    "color": "#dd8736",
+    "tags": [
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Nationality": "Atlasian"
+    },
+    "palette": {
+      "shaved hair": "#C5B38D",
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Thunder",
+    "namezh": "霹雳雷",
+    "color": "#DCCB09",
+    "tags": [
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Nationality": "Sylvandian"
+    },
+    "palette": {
+      "hair": "#2E2E2E"
+    }
+  },
+  {
+    "name": "Icicle",
+    "namezh": "冰棱锥",
+    "color": "#72bed2",
+    "tags": [
+      "Misc"
+    ]
+  },
+  {
+    "name": "Jackalope",
+    "namezh": "鹿角兔",
+    "color": "#b90912",
+    "tags": [
+      "Moreland",
+      "Guardian Moose"
+    ],
+    "af": "https://artfight.net/character/5806516.jackalope",
+    "attr": {
+      "Nickname": "Jack; Alpha (code name by the MSS)",
+      "Gender": "Female",
+      "Soul": "Solid, a tangle of barbed wire",
+      "Nationality": "Moose",
+      "Occupation": "Intelligence officer"
+    },
+    "palette": {
+      "hat badge": "#72470B",
+      "uniform": "#374F2D",
+      "shoes": "#0F2704",
+      "hair": "#2e2e2e"
+    },
+    "about": "Jackalope is an officer at the Intelligence Corps of the Guardian Moose."
+  },
+  {
+    "name": "Whiteout",
+    "namezh": "白茫天",
+    "color": "#178c79",
+    "desc": "Senior MSS agent",
+    "tags": [
+      "Ministry of State Security",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5794174.whiteout",
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Solid, snowy",
+      "Birthday": "1960-01-15",
+      "Nationality": "Bauhinian",
+      "Occupation": "State security officer"
+    },
+    "palette": {
+      "shoulder pads": "#f01ace",
+      "shirt": "#F0C8EA",
+      "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
+      "hair": "#2e2e2e"
+    },
+    "about": "Whiteout is a stern MSS officer, but under her hard cover, she harbors great love for her colleagues and apprentice.",
+    "note": "- You can change the uniform design, but\n    - Keep it a dark color\n    - Have the Bauhinian pink somewhere on it\n    - Make sure they're wearing gloves"
+  },
+  {
+    "name": "Entity",
+    "namezh": "概念体",
+    "color": "#1692bb",
+    "desc": "State-sanctioned murderer",
+    "tags": [
+      "Flower City",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5889481.entity",
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Solid, soft and squishy like a marshmallow",
+      "Birthday": "2011-07-06",
+      "Nationality": "Bauhinian",
+      "Orientation": "Bisexual",
+      "Marital status": "Married (to <a href=\"../frosting/\">Frosting</a>)",
+      "Occupation": "Executioner",
+      "Weapon": "Diamond knife"
+    },
+    "palette": {
+      "coat": "#9f9f9f",
+      "hair": "#2e2e2e"
+    },
+    "about": "Entity is an executioner.\n\nNot really though. He's a soul-extractor.\n\nHe takes the souls of those sentenced to eternal death — not even allowed to reincarnate. He extracts them, locks them up in a jar, and sends the freshly-drained body to cremation. It's also the reason why he met Frosting, the archivist who handles the soul jars.\n\nAt work, he pulls up a stoic and serious face to hide his emotions. To his friends and family, though, he's a scaredy-cat. He screams at the tiniest of bugs and have to have Frosting deal with them. He jumps at the slightest sound.\n\nHe believes whole-heartedly that the government has a chip in his brain to monitor his thoughts.\n\n---\n\nPeople will tell you that bodies without souls are just corpses. I know it's false. They are very much alive. They can live on for around a week. And guess what? For the first few days, the soul — if it had not found a new body — can still feel the old body. I found out during my soul-extraction training, when my friend and I pulled each other's soul out in turn for fun. Which means, the condemned can feel their body being burned to ashes.\n\nI try to live with the knowledge. That they will suffer the fire, that *I* enabled it, and that most of the time, their crimes aren't serious enough to warrant permanent death where even reincarnation, birthing as an *entirely new* soul, is not allowed. *Nothing* warrants that—\n\nStop thinking! *Stop thinking*, you stupid brain! Don't think — no, not the chip, don't think about it — Of course the government has their reasons! Some people *are* evil enough that there's no place in the world for them. Who am I to disagree? Right. Just do your job. Stop thinking about that. Think about your wife and daughter.\n\nI take a deep breath, and I stop thinking.",
+    "trivia": "- Song: [Little Pistols by Mother Mother](https://www.youtube.com/watch?v=H6f9Wc1yFsQ)"
+  },
+  {
+    "name": "Harmony",
+    "namezh": "和谐声",
+    "color": "#6d4091",
+    "desc": "Aspiring spy kid.",
+    "tags": [
+      "Spy School",
+      "Flower City",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5889496.harmony",
+    "attr": {
+      "Full name": "Harmony Frosting Entity",
+      "Gender": "Female",
+      "Soul": "Gas, shaped like a music note",
+      "Birthday": "2041-01-05",
+      "Nationality": "Bauhinian",
+      "Occupation": "MSS officer"
+    },
+    "palette": {
+      "shirt": "#CFBBDF",
+      "hair": "#2e2e2e"
+    },
+    "about": "Harmony attends the [MSS](/world/bauhinia/mss/)'s spy school in Flower City."
+  },
+  {
+    "name": "Sugarcane",
+    "namezh": "甘蔗",
+    "color": "#0fa982",
+    "desc": "Faithful student at Spy School.",
+    "tags": [
+      "Ministry of State Security",
+      "Spy School",
+      "Flower City",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/5889430.sugarcane",
+    "attr": {
+      "Full name": "Sugarcane Snowstorm Parrot",
+      "Nickname": "Sugar (by Harmony)",
+      "Gender": "Female",
+      "Birthday": "2041-07-16",
+      "Nationality": "Bauhinian",
+      "Occupation": "MSS officer"
+    },
+    "palette": {
+      "shirt": "#fff",
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Jelly",
+    "namezh": "果冻",
+    "color": "#1091b1",
+    "desc": "Lonely little kid.",
+    "quote": "Do you promise to write?",
+    "tags": [
+      "Flower City",
+      "Bauhinia",
+      "Westavia"
+    ],
+    "attr": {
+      "Full name": "Jelly Checkers",
+      "Gender": "Female",
+      "Soul": "Solid, jelly-like",
+      "Age estimation": "The same as Harmony",
+      "Nationality": "Westavian"
+    },
+    "palette": {
+      "shirt": "#555555",
+      "hair": "#2e2e2e"
+    },
+    "about": "Jelly is in Bauhinia because of her father's work, while her mother remained back in Westavia. She didn't have friends at school, and was very lonely.\n\nUntil one day, two lovely girls came up to her and asked to play with her.\n\nThey became BFFs."
+  },
+  {
+    "name": "Checkers",
+    "namezh": "跳棋",
+    "color": "#a01c0d",
+    "tags": [
+      "Flower City",
+      "Bauhinia",
+      "Westavia"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Soul": "Solid, checker-shaped",
+      "Nationality": "Westavian",
+      "Marital status": "Married",
+      "Occupation": "Intelligence officer as a cultural attaché"
+    },
+    "about": "Checkers is the (former) cultural attaché of the Westavian Embassy in Flower City. He was then blown and deported."
+  },
+  {
+    "name": "Jasmine",
+    "namezh": "茉莉",
+    "color": "#1ca091",
+    "desc": "Poet, writer, and a free soul.",
+    "tags": [
+      "Bauhinia",
+      "Westavia",
+      "Moreland"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Gas, flower-shaped",
+      "Age estimation": "At least 10 years older than Frosting that's not that big of a gap is it I mean her physical body is fucking gone already but her poems live forever you know what I mean?",
+      "Nationality": "Bauhinian"
+    },
+    "about": "A poet from Bauhinia, traveled to Moreland and wandered with the [Appaloosa Tribe](/world/moreland/appaloosa-tribe/) for a long while before being kidnapped back into Bauhinia and sentenced to eternal death."
+  },
+  {
+    "name": "Gorgeous",
+    "namezh": "靓仔",
+    "color": "#1babd0",
+    "desc": "Executed ghost.",
+    "tags": [
+      "Flower City",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Unknown",
+      "Nickname": "Gorgeous (by Entity)",
+      "Gender": "Male",
+      "Soul": "Solid, diamond",
+      "Nationality": "Bauhinian"
+    }
+  },
+  {
+    "name": "Jinx",
+    "namezh": "咒",
+    "color": "#629970",
+    "tags": [
+      "Moreland",
+      "Guardian Moose"
+    ],
+    "af": "https://artfight.net/character/7727717.jinx",
+    "attr": {
+      "Gender": "Female",
+      "Nationality": "Moose",
+      "Occupation": "Horse trainer",
+      "Weapon": "Whip"
+    },
+    "palette": {
+      "red": "#EA98B9",
+      "yellow": "#F8E77E",
+      "blue": "#7EC6F8",
+      "buckle": "#BEBEBE",
+      "clothes": "#7C7C7C",
+      "pattern": "#575757",
+      "hair": "#2e2e2e"
+    },
+    "about": "Jinx's mother died giving birth. Her father named her \"Jinx\" because of this.\n\nJinx made the most athiest of Moose question their beliefs — wherever she went, trouble followed.\n\nAfter graduating high school, she git drafted into the cavalry for her love of horses, both normal ones and [winghorses](/world/creatures/). After completing her service, she continued to work as a horse trainer and riding instructor.",
+    "trivia": "- 蒙古族。"
+  },
+  {
+    "name": "Typhoon",
+    "namezh": "台风",
+    "color": "#5d3209",
+    "tags": [
+      "Fanton",
+      "Moreland",
+      "Guardian Moose"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Solid, ice cube that looks like chocolate because it's brown",
+      "Nationality": "Moose and Fantoni",
+      "Occupation": "Wilderness survival instructor",
+      "Power": "Mind-reading"
+    },
+    "palette": {
+      "hair": "#382108"
+    },
+    "about": "Typhoon used to live on the Fantoni Plateau. But when her parents wanted to force her into an arranged marriage with a boy she hated, she packed a bit of food and water and ran away from home. She went all the way from Fanton to Moreland, all by herself, only hitching maybe a couple rides or three along the way.\n\nA little inside Moreland's borders, she got attacked by a bear and one leg was gravely injured, and started to infect without treatment. That was when the Guardian Moose found her. They sent her to a hospital and had her bad leg amputated, and thus her life was spared. The Guardians then offered to recruit her as their wilderness survival instructor, to which she agreed. She was given Moose nationality.\n\nShe was soon hailed as a devil by the new recruits for her strictness and the intensity of her training. Years later, they also got her a prosthetic leg, which made the newbies even more scared because now she can kick them properly. Jinx remembers her torment and thanked the stars that Typhoon didn't have the robot leg while she was in the army.",
+    "trivia": "- 藏族。"
+  },
+  {
+    "name": "Tsunami",
+    "namezh": "海啸",
+    "color": "#0a58bd",
+    "tags": [
+      "Poker Spies"
+    ],
+    "attr": {
+      "Nickname": "Diamonds (codename by Sky)",
+      "Gender": "Female",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#7DB2DD",
+      "suit": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Jumbo",
+    "namezh": "珍宝",
+    "color": "#cc0f0f",
+    "tags": [
+      "Bauhinia",
+      "Poker Spies"
+    ],
+    "attr": {
+      "Nickname": "Hearts (codename by Sky)",
+      "Gender": "Female",
+      "Nationality": "Bauhinian",
+      "Occupation": "Trader"
+    },
+    "palette": {
+      "hair": "#D95284",
+      "dress": "#2e2e2e"
+    },
+    "about": "Jumbo was just a small trader living near the Fantoni border, trading stuff between Bauhinia and Fanton, mostly staying within the bounds of the law. She loved making OCs based around real-life places in the world too.\n\nWhen the war broke out, trade between the two nations were nearly all cut off, and Jumbo found herself without any source of income. But the connections she established with Fantoni traders weren't going anywhere. She tried to offer to work for the MSS, but got rejected. And then she suddenly got a tiny bit of actual Bauhinian intel (details TBD), so she tried her luck again with the Fantoni, using that intel as a buy-in. They recruited her.\n\nJumbo then realized that she had no way of actually gathering useful intel, so she simply made shit up. When inconsistencies were found out by the National Security Agency of Fanton, she made up fake contacts based on her OCs to shift the blame to.\n\nSlowly, due to shit tradecraft, her messages to the Fanton military got intercepted by the MSS. They had a good laugh about how stupid this was, and realized that the NSA trusted Jumbo a lot. Here comes the chance. Sky went to Jumbo and gave her a choice. She can either go to jail for treason, or she can start working for the MSS, giving the NSA some specific fake intel provided to her. The choice was obvious. Jumbo finally got to work for the MSS now.\n\nAfter the war was over, Jumbo was in a comfortable position. Her salary from the NSA got her through the high wartime utility prices, and she saved up most of her MSS salary, plus they still gave her a monthly pension. She stopped hopping borders constantly, only doing some occasional freelancing, and focused on making her OCs. She planned to publish a novel about them, and had been writing Chapter 1 over and over again for years."
+  },
+  {
+    "name": "Mulberry",
+    "namezh": "桑葚",
+    "color": "#06740d",
+    "tags": [
+      "Bauhinia",
+      "Fanton",
+      "Poker Spies"
+    ],
+    "attr": {
+      "Nickname": "Spades (codename by Sky)",
+      "Gender": "Female",
+      "Nationality": "Fantoni, Bauhinian permanent resident",
+      "Occupation": "Unemployed"
+    },
+    "palette": {
+      "shirt light": "#959595",
+      "shirt dark": "#626262",
+      "hair": "#2e2e2e"
+    },
+    "about": "Mulberry was a rebellious young college drop-out who longed for the illicit substances banned by her home country. When she was not working at the grocery store, she spent her time on the streets, finding places to buy smokes and drinks.\n\nWhen the war broke out, she was drafted by the army, but offered to spy on Bauhinia for the NSA to avoid actually getting on the battlefield. Nearly as soon as she landed inside the country she turned herself in to the MSS. Sky got her to send fake intel to the NSA. She stayed in Bauhinia after the war, still working minimum-wage jobs, but getting a pension from the MSS and getting high a lot more safely. (Safe as in the law won't get her; it's still very unhealthy. Don't do drugs.)"
+  },
+  {
+    "name": "Blackjack",
+    "namezh": "贰拾壹",
+    "color": "#2e2e2e",
+    "tags": [
+      "Bauhinia",
+      "Fanton",
+      "Poker Spies"
+    ],
+    "attr": {
+      "Nickname": "Clubs (codename by Sky)",
+      "Gender": "Female",
+      "Nationality": "Fantoni, Bauhinian permanent resident",
+      "Occupation": "Gangster"
+    },
+    "palette": {
+      "hat": "#A0A0A0",
+      "hair": "#000"
+    },
+    "about": "Blackjack was a Fantoni underground mobster before the war, running her own team of gangsters. She also had some \"friends\" in the government who would cover for her in exchange for bribes.\n\nHer business should've been booming because of the war, but one of her government pals asked her for a bigger protection fee — run a little spying job in Bauhinia.\n\nThinking her underground dealing skills amounted to tradecraft, Blackjack landed in Bauhinia, only to be soon caught by the MSS. Sky came in and gave her an offer: execution, or working for the MSS.\n\nBlackjack chose the latter. She was sent back to Fanton with some fake intel intended to fool the government official who asked for it. She would then go do some sabotage stuff ig\n\nAfter the war had ended, Blackjack was in danger of being found out. Sky staged a rescue mission to smuggle her into Bauhinia, where she lived on as a martial arts instructor."
+  }
+]

@@ -1,0 +1,16 @@
+---
+layout: layout.liquid
+title: Random File
+noNav: true
+---
+<p>Takes you to a random file! You need to enable JavaScript for this. (There's a chance that this page would take you to another random file page or a generated JavaScript file! LOL)</p>
+<script>
+	const files = [
+		{% for file in collections.all %}
+			{% if file.url %}
+				"{{ file.url | htmlBaseUrl }}",
+			{% endif %}
+		{% endfor %}
+	];
+	window.location.href = `${window.location.protocol}//${window.location.host}${files[Math.floor(Math.random() * files.length)]}`;
+</script>

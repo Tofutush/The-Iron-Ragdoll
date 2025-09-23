@@ -1,9 +1,9 @@
 [
   "obsidian-linter",
   "callout-manager",
-  "various-complements",
   "typewriter-mode",
   "obsidian-text-format",
-  "OA-file-hider",
-  "novel-word-count"
+  "novel-word-count",
+  "various-complements",
+  "file-explorer-plus"
 ]

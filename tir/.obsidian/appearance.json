@@ -1,20 +1,18 @@
 {
-  "accentColor": "",
+  "accentColor": "#7d7d7d",
   "baseFontSize": 20,
   "enabledCssSnippets": [
-    "folder tree",
     "justify",
     "line height",
     "icon ratio",
     "titlebar background",
-    "font weight",
-    "properties",
     "word count",
-    "blockquote"
+    "folder tree",
+    "complement"
   ],
   "interfaceFontFamily": "DIN Round Pro",
-  "textFontFamily": "Lexend,Crimson Pro,Courier Prime,霞鹜文楷,霞鹜漫黑",
+  "textFontFamily": "Lexend,Readex Pro,霞鹜文楷",
   "cssTheme": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑"
 }

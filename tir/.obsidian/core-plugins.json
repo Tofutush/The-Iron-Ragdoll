@@ -8,7 +8,7 @@
   "outgoing-link": false,
   "tag-pane": false,
   "properties": true,
-  "page-preview": true,
+  "page-preview": false,
   "daily-notes": false,
   "templates": true,
   "note-composer": true,
@@ -27,5 +27,7 @@
   "file-recovery": true,
   "publish": false,
   "sync": false,
-  "webviewer": false
+  "webviewer": false,
+  "footnotes": true,
+  "bases": true
 }

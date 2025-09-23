@@ -1,0 +1,58 @@
+views:
+  - type: cards
+    name: My art
+    filters:
+      and:
+        - file.inFolder("gallery")
+        - file.ext != "svg"
+    order: []
+    sort:
+      - property: file.ctime
+        direction: DESC
+    image: file.file
+    imageFit: contain
+  - type: cards
+    name: Thumbnails
+    filters:
+      and:
+        - file.name.endsWith(" thumb.png")
+    order: []
+    image: file.file
+  - type: cards
+    name: Profiles
+    filters:
+      and:
+        - file.name.endsWith(" profile.png")
+    order: []
+    image: file.file
+  - type: cards
+    name: Reference sheets
+    filters:
+      and:
+        - file.name.endsWith(" ref.png")
+    order: []
+    image: file.file
+    imageAspectRatio: 0.65
+    cardSize: 320
+    imageFit: ""
+  - type: cards
+    name: Other's art
+    filters:
+      and:
+        - file.inFolder("others art")
+    order: []
+    image: file.file
+    imageFit: contain
+  - type: cards
+    name: Comics
+    filters:
+      and:
+        - file.inFolder("comics")
+    order: []
+    sort:
+      - property: file.folder
+        direction: ASC
+    image: file.file
+    imageFit: contain
+    imageAspectRatio: 1.4
+    cardSize: 230

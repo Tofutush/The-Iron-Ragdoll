@@ -1,10 +1,10 @@
-<div class="palette">
-  {% for color in colors %}
-    <div style="background-color:{{ color[1] }}; color: {{ color[1] | to6DigitHex | calculateBlackWhite }}">
-      <div>
-        <span>{{ color[1] | to6DigitHex | upperCase }}</span>
-        <span>{{ color[0] | lowerCase }}</span>
-      </div>
-    </div>
-  {% endfor %}
+<div class="palette" style="{{ colors | getPaletteBackground }}">
+	{% for color in colors %}
+		<div style="background-color:{{ color[1] }}; color: {{ color[1] | to6DigitHex | calculateBlackWhite }}">
+			<div>
+				<span>{{ color[1] | to6DigitHex | upperCase }}</span>
+				<span>{{ color[0] | lowerCase }}</span>
+			</div>
+		</div>
+	{% endfor %}
 </div>

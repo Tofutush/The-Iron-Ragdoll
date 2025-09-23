@@ -1,8 +1,6 @@
 ---
-layout: story.liquid
 title: Project Boomerang
 canon: yes
-order: 205
 chs:
   - koala
   - kangaroo
@@ -13,12 +11,11 @@ chs:
   - kismet
 time: 2018 - 2021
 titlezh: 回旋镖计划
-summary: Bauhinia initiated a top-secret project to develop the time machine.
-tags:
-  - project-boomerang
+desc: Bauhinia initiated a top-secret project to develop the time machine.
 myTags:
   - Canon
   - Bauhinia
+  - Kismet's presidency
 ---
 
 Due to recent breakthroughs in quantum technology, it had been proven theoretically possible to make a time machine that can revert or fast forward a certain object or area. The Republic of Bauhinia is eager to try that.

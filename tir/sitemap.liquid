@@ -1,12 +1,14 @@
 ---
-layout: layout.liquid
-title: sitemap
+layout: article.liquid
+title: Sitemap
+desc: A list of (not exactly) all pages!
 eleventyNavigation:
-  key: sitemap
   parent: Root
   order: 1000
 ---
 
 <p>Total pages in site: {{ collections.all.size }}</p>
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml }}
+<p>(Note: individual comic pages and tag / category pages are not listed.)</p>
+{{ collections.all | eleventyNavigation: "Root" | eleventyNavigationToHtml }}
+<hr/>
 <p><i>You found a puzzle piece: <b>sllr</b>! This is the last piece. (<a href="/fun/hunt/">What is this?</a>)</i></p>

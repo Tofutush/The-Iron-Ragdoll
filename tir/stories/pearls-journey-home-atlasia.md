@@ -1,8 +1,6 @@
 ---
-layout: story.liquid
 title: Pearl's Journey Home - Atlasia
 canon: yes
-order: 107
 chs:
   - sparky
   - sky
@@ -11,12 +9,13 @@ chs:
   - jackpot
   - snake
 time: "2032"
-summary: The friends get to Atlasia with Pearl.
+desc: The friends get to Atlasia with Pearl.
 myTags:
   - Canon
   - Atlasia
   - Sparky and her friends
   - Pearl's Journey Home
+titlezh: 珍珠回家：亚特莱西亚篇
 ---
 
 They got to Atlasia and met Jackpot and his son Snake in their mansion.

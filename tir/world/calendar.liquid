@@ -1,17 +1,17 @@
 ---
-layout: layout.liquid
 title: Calendar
+titlezh: 日历
 desc: The calendar of holidays and birthdays!
 tags: lore
+categories:
+  - Lore
 widepage: true
 eleventyNavigation:
-  key: Calendar
   parent: World
 ---
 <link rel="stylesheet" href="/css/calendar.css"/>
-<h1>Calendar / 日历</h1>
 <details id="toc-wrap">
-  <summary><h3>Table of Contents</h3></summary>
+  <summary><h3>Contents</h3></summary>
   <div id="toc">
     <ul>
       {% for month in calendar %}
@@ -41,7 +41,7 @@ eleventyNavigation:
           {% for bday in day.bdays.days %}
             <a href="{{ bday.url }}" class="tooltip">
               <span class="tooltip-text">{{ bday.alt }}</span>
-              {% image "gallery/" bday.image 200 bday.alt %}
+              {% image "gallery/" bday.image bday.type 200 bday.alt %}
             </a>
           {% endfor %}
         </div>

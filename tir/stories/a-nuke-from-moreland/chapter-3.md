@@ -1,7 +1,4 @@
 ---
-layout: fic.liquid
-parent: A Nuke From Moreland
-tags: anfm-fic
 chNum: 3
 date: 2025-01-23
 ---
@@ -10,7 +7,7 @@ Firecrackers got on the car.
 
 It was already past twelve and public transport had shut down, so Sparky called a taxi and picked up Sky and Firecrackers. She rode shotgun. The driver was drinking coffee and rubbing his eyes.
 
-Firecrackers had told his parents that he wanted to man the grocery store this night, to which they gleefully agreed. He sat behind the counter waiting for Sparky while his parents slept upstairs. When the taxi pulled to the front of the store, he shut the place down and slipped right into the backseat.
+Firecrackers had offered to man the grocery store this night, to which his dad gleefully agreed. He sat behind the counter waiting for Sparky while his dad slept upstairs. When the taxi pulled to the front of the store, he shut the place down and slipped right into the backseat.
 
 *Alright guys,* Sparky turned around and signed to them, *we're not going to talk out loud.* She was not very fluent in signing, and it was so dim he could barely see her hands, but Firecrackers could work with that. Sky, though, could not.
 

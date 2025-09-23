@@ -1,13 +1,12 @@
 ---
-layout: article.liquid
 title: Nameless Village
 titlezh: 无名村
-eleventyNavigation:
-  key: Nameless Village
-  parent: Westavia
 tags:
   - nameless-village
 desc: Candlelight's old home, a tiny village.
+categories:
+  - Locations
+  - Villages
 ---
 
 A little village in the countryside of [Westavia](/world/westavia/).
@@ -16,13 +15,12 @@ A little village in the countryside of [Westavia](/world/westavia/).
 >
 > It actually has a name, but to say it is a crime
 >
->— Cheesy unrhyming rhyme I wrote on a whim
+> — Cheesy unrhyming rhyme I wrote on a whim
 
 Most of the people there are farmers planting grapes, wheat, and cotton. Very stereotypically Westavian.
 
-## People
+## Characters
 
-- [Candlelight](/characters/candlelight/)
-- [Mooncake](/characters/mooncake/)
-- [Pumpkin](/characters/pumpkin/)
-- [Helsinki](/characters/helsinki/)
+<link rel="stylesheet" href="/css/characterspage.css">
+{% assign filteredChs = characters | filterChByTag: 'Nameless Village' %}
+{% include 'chs', chs: filteredChs %}

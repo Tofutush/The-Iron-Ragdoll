@@ -1,8 +1,6 @@
 ---
-layout: story.liquid
 title: Pearl's Journey Home - Moreland
 canon: yes
-order: 108
 chs:
   - sparky
   - firecrackers
@@ -10,12 +8,13 @@ chs:
   - snowball
   - halcyon
 time: "2032"
-summary: The friends get to Moreland with Pearl.
+desc: The friends get to Moreland with Pearl.
 myTags:
   - Canon
   - Moreland
   - Sparky and her friends
   - Pearl's Journey Home
+titlezh: 珍珠回家：莫尔兰篇
 ---
 
 They got to Moreland and met the Appaloosa Tribe.

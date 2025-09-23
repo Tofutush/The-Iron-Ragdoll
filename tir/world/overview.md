@@ -1,14 +1,13 @@
 ---
-layout: article.liquid
 title: Overview
 desc: Your briefing of the TIR world.
-templateEngineOverride: liquid,md
 tags:
   - lore
 eleventyNavigation:
-  key: Overview
   parent: World
 titlezh: 概览
+categories:
+  - Lore
 ---
 
 A brief overview of the world to get you a most basic idea of what this paracosm entails!
@@ -16,6 +15,8 @@ A brief overview of the world to get you a most basic idea of what this paracosm
 So, there is a continent that as far as we're concerned is the entire world unless one day I just snap and create another continent out there.
 
 On the continent there are six countries: [Bauhinia](/world/bauhinia/), in the south; [Fanton](/world/fanton/), north of Bauhinia; [Atlasia](/world/atlasia/), north of Fanton and east of Westavia; [Westavia](/world/westavia/), north of Fanton and west of Atlasia; [Moreland](/world/moreland/), north of Atlasia and Westavia; and [Sylvandia](/world/sylvandia/), north of Moreland.
+
+To the east is a vast ocean where nobody can sail far. To the west is barren wastelands uninhabitable by man.
 
 So basically:
 

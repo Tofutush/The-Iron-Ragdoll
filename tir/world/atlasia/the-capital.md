@@ -1,10 +1,8 @@
 ---
-layout: article.liquid
 title: The Capital
-templateEngineOverride: liquid,md
-eleventyNavigation:
-  key: The Capital
-  parent: Atlasia
+categories:
+  - Cities
+  - Locations
 ---
 
 The capital of Atlasia.

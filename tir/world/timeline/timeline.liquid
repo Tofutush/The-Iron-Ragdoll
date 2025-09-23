@@ -1,0 +1,36 @@
+---
+title: Timeline
+titlezh: 时间线
+desc: "A timeline of events! Warning: long, messy file."
+tags: lore
+categories:
+  - Lore
+eleventyNavigation:
+  parent: World
+---
+<style>
+	.attr>div>p:first-child {
+		margin-top: 0;
+	}
+	.attr>div>p:last-child {
+		margin-bottom: 0;
+	}
+</style>
+<p>This is a cheesy port of my Aeon Timeline project! Because of this, I can't add any links, some characters don't exist (like Jackal and "Peacock's parents"), and events with both a start and end are displayed rather awkwardly. But at last, everything I have on TIR is on the website. I am hiding nothing from you! (I'd be such a terrible spy LMAO)</p>
+<p>This might just be the longest page in the website, but it has a really short file. Just 36 lines.</p>
+<div class="attr">
+	{% for item in timeline %}
+		<div><p style="text-align: right;">{{ item.time }}</p></div>
+		<div>
+			<p>{{ item.label }}</p>
+			{% if item.participants %}
+				<p class="tags">
+					{% for ch in item.participants %}
+						{% include 'chButton', ch: ch %}
+					{% endfor %}
+				</p>
+			{% endif %}
+		</div>
+	{% endfor %}
+</div>
+<p><em>You found a puzzle piece: <strong>tc</strong>! Next clue: the tale of a 3rd gen immigrant. <a href="/fun/hunt/">What is this?</a></em></p>

@@ -1,8 +1,6 @@
 ---
-layout: story.liquid
 title: A Nuke From Moreland
 canon: yes
-order: 103
 chs:
   - sparky
   - qibli
@@ -16,20 +14,17 @@ chs:
   - gecko
   - lark
 time: 2031 summer break
-summary: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
+desc: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
 fic: true
 titlezh: 莫尔兰核弹
-tags:
-  - a-nuke-from-moreland
 myTags:
   - Canon
   - Coastline
   - Bauhinia
   - MSS
   - Sparky and her friends
+  - Fic
 ---
-
-I actually wrote like 3 chapters but it was horrible. Stalk my Toyhouse if you wanna read it. I think the questioning scene was pretty cool though. The main problem is that no one has any personality.
 
 [[toc]]
 
@@ -63,7 +58,7 @@ Eventually Sparky and Firecrackers came back up with the nuke. It was then when 
 
 Their problem got solved pretty quickly as a blinding bright flashlight shone on them, and they heard Paperweight's infectious voice: "Hands up. Don't move. You're under arrest."
 
-{% image "gallery/" "kids nuke.png" 1000 "The kids got caught" 'max' %}
+{% image "gallery/" "kids nuke" "png" 1000 "The kids got caught" 'max' %}
 
 They got shoved in the back of a car and hauled off to an interrogation room at the MSS office in Coastline. They were cuffed together to a heater, which is a funny picture I may or may not draw one day[^1].
 
@@ -81,7 +76,7 @@ Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to
 > He already showed signs of being annoyed by Sparky's "claim to fame." Plus signs of an ego. Motivation.
 
 > [!question]+ Why let him into the MSS then, if he has such an ego?
-> Well, maybe he worked on it. And showed incredible talent. And joined the military. He did grow up.
+> He attended [Spy School](/world/bauhinia/ministry-affiliate/) and had special recommendation from Goose.
 
 ## Day 1
 
@@ -91,7 +86,17 @@ They wandered around the abandoned house — catching the tabby and returning it
 
 They talked about the nuke, the MSS, debated loudly, all in vain. They went home unhappy, making a deal to come back tomorrow.
 
-Pumpkin was waiting for Sky at the bottom of his apartment building. Sky reported no progress. Pumpkin treated him to some kebabs.
+Pumpkin was waiting for Sky at the bottom of his apartment building. Sky reported no progress. Pumpkin pretended to treat him to some kebabs. During the meal, he gave Sky a little hint.
+
+> "We'd consider the people who want a nuke."
+>
+> "Sparky," Sky said.
+>
+> "And rich enough to buy one."
+>
+> "Sparky," Sky said again. "Her dad is stupidly rich."
+
+But Pumpkin ran away afterwards, leaving Sky to pay the bill.
 
 ## Day 2
 
@@ -99,7 +104,7 @@ They dug around the house again, though nothing new turned up.
 
 That was when a mysterious figure in a hat appeared, jacket slung over his shoulders, a flute in his pocket. He was on the other side of the short, dusty wall, elbows on the top, leaning in at the kids, apparently having heard everything.
 
-{% image "gallery/" "lark wall.png" 1000 "Lark on the wall" 'max' %}
+{% image "gallery/" "lark wall" "png" 1000 "Lark on the wall" 'max' %}
 
 > "Do you need help?"
 

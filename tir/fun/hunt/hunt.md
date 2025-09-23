@@ -2,10 +2,8 @@
 layout: article.liquid
 title: Scavenger Hunt
 desc: A scavenger hunt game in the website.
-templateEngineOverride: liquid,md
 tags: fun
 eleventyNavigation:
-  key: Scavenger Hunt
   parent: Fun
 ---
 
@@ -46,7 +44,7 @@ The third clue tells you where to find the substitution key. (The next hint spoi
 <details>
 <summary><h2>Hint 4</h2></summary>
 
-There are exactly 2 links to 404 pages in the changelog. You might need to look in the old changes too. (The next hint spoils the second clue.)
+There are exactly 2 links to 404 pages in the changelog. You might need to look in the old changes too. (The next hint spoils the first clue.)
 
 <details>
 <summary><h2>Hint 5</h2></summary>
@@ -66,7 +64,7 @@ Lotus is the symbol of Fanton. (The next hint spoils the third clue.)
 <details>
 <summary><h2>Hint 8</h2></summary>
 
-Where does this phrase appear? Alternatively, what would you call a pretty-much attainable dream? (The next hint spoils the fifth clue.)
+Find the page that I personally think is the longest, yet its code isn't very long. (The next hint spoils the fifth clue.)
 
 <details>
 <summary><h2>Hint 9</h2></summary>

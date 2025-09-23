@@ -1,8 +1,6 @@
 ---
-layout: story.liquid
 title: One Man Short
 canon: yes
-order: 204
 chs:
   - cobalt
   - nightingale
@@ -11,9 +9,7 @@ chs:
   - moonbeam
 time: "?"
 titlezh: 三缺一
-summary: The disappearance of a friend drags the group down the rabbit hole of Fantoni organized crime.
-tags:
-  - one-man-short
+desc: The disappearance of a friend drags the group down the rabbit hole of Fantoni organized crime.
 myTags:
   - Canon
   - Fanton
@@ -39,7 +35,7 @@ When the Sylvandian psychic and soul-extraction master Moonbeam traveled to Fant
 
 But at the end, when she had also learnt to extract souls, Moonbeam asked her to pay the price — with her body[^2]. She took Cobalt's soul out, and fed it to another body, keeping Cobalt's original with her as she journeyed on. Cobalt returned to her friends in an unfamiliar body, not even knowing the original owner of it. To make matters worse, the body had spaghetti limbs and about a hundred chronic diseases. (Almost like a Qibli clone.)
 
-With the skills all acquired, they set sail in the soul market, catching people, emptying their souls, selling the body to organ harvesters, all the likes. Thankfully, she didn't stay in that dumb body for long. Each time when it fell victim to her a body that seemed good — strong, healthy — she would get into that with the help of her friends. She was no longer stranger to body-hopping, though she stayed in her favorite one for a long while: one with big arching horns[^3].
+With the skills all acquired, they set sail in the soul market, catching people, emptying their souls, selling the body to organ harvesters, all the likes. Thankfully, she didn't stay in that stupid body for long. Each time when it fell victim to her a body that seemed good — strong, healthy — she would get into that with the help of her friends. She was no longer stranger to body-hopping, though she stayed in her favorite one for a long while: one with big arching horns[^3].
 
 When they finally found Kaleidoscope, would he recognize the woman with Co inside? Would *she* recognize the man Kally had become?
 

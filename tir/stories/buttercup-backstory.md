@@ -1,13 +1,11 @@
 ---
-layout: story.liquid
 title: Buttercup's Backstory
 canon: yes
-order: 309
 chs:
   - buttercup
-time: 
+time: 2010 - present
 titlezh: 毛茛背景
-summary: Buttercup's backstory.
+desc: Buttercup's backstory.
 myTags:
   - Canon
   - Backstory

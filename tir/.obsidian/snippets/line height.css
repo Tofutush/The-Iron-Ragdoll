@@ -1,3 +1,5 @@
-p, .cm-line, li {
-   line-height: 2;
+p,
+.cm-line,
+li {
+   line-height: 2.5;
 }

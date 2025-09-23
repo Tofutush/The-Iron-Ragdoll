@@ -1,9 +1,6 @@
 ---
-layout: article.liquid
 title: Westavia
-templateEngineOverride: liquid,md
 eleventyNavigation:
-  key: Westavia
   parent: World
   order: 4
 desc: What if alcoholics made a country?
@@ -11,11 +8,25 @@ tags:
   - westavia
 displayTitle: The People's Republic of Westavia
 titlezh: 伟思德维亚人民共和国
+categories:
+  - Countries
+  - Locations
 ---
 
-{% image "gallery/" "westavia flag.svg" 1000 "Flag of Westavia" 'max' %}
+{% image "gallery/" "westavia flag" "svg" 1000 "Flag of Westavia" 'max' %}
 
-Wes-DAY-vee-a: the brown alcoholics.
+<div class="attr">
+  <p>Pronunciation</p>
+  <p>Wes-DAY-vee-a</p>
+  <p>Demonym</p>
+  <p>Westavian</p>
+  <p>Capital</p>
+  <p><a href="/world/westavia/peoples-vanguard/">People's Vanguard</a></p>
+  <p>Symbol</p>
+  <p>The seven-point star</p>
+</div>
+
+The brown alcoholics.
 
 A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/moreland/), and west of [Atlasia](/world/atlasia/).
 
@@ -23,7 +34,7 @@ A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/mo
 
 ## Geography
 
-Westavia is quite sandy, with some really hot basins surrounded by mountain ranges. Eastern winds don't blow this far into the continent, so the place is dry and desertic. The sunshine made the country suitable for planting grapes.
+Westavia is quite sandy, with some really hot basins surrounded by mountain ranges. Eastern winds don't blow this far into the continent, so the place is dry and desertic. The wide fluctuation between day / night temperatures made the fruit produced on the land sweet; and grapes are probably most loved by the Westavians.
 
 The closest geographical mirror to Westavia is Xinjiang and Central Asia.
 
@@ -43,6 +54,7 @@ Westavia is a socialist country, a dictatorship of the proletariat. There is a c
 
 ### Agencies
 
+- [Westavian Intelligence Service](/world/westavia/wis/), the intelligence service
 - [Suicide Prevention Force](/world/westavia/spf/), the state security apparatus
 
 ### Foreign relations
@@ -54,6 +66,10 @@ The second favorite thing is accusing Moreland of being revisionist while denyin
 ## Society
 
 Westavians are known for being passionate, hospitable, and friendly to guests. To visitors, they treat them to their best food and wine; to their neighbors, they trust each other so much that in villages, people hardly lock their doors. It helps that most of their living rooms don't have roofs, and is essentially just a yard with tables in it.
+
+### Naming conventions
+
+The surname of a Westavian is their father's given name. For example, [Jelly](/characters/jelly/) [Checkers](/characters/checkers/). In recent times, more and more people have started to take on their mother's names too.
 
 ### Wine culture
 
@@ -68,6 +84,18 @@ Kids drinking is a small problem. Westavian adults could drink a ton during gath
 History — and especially Westavian history — is a hushed-up subject in the country. It is forbidden to study history outside of government-approved narratives. One most prominent example is the changing of all city names to Area \[number] ([People's Vanguard](/world/westavia/peoples-vanguard/) is also a changed name), while referring to their original names is punishable by detainment.
 
 Despite this, there are still a number of secret historians who collect and archive information on Westavia's history under the threat of jail time. These people are persecuted by the authorities (obviously), frowned upon by ordinary citizens, and revered by dissidents of the Westavian government.
+
+## History
+
+In 1935, amid the Bauhinian Empire's crackdown on the Morelandian Revolution, the people residing in modern-day Westavia initiated a large-scale strike in protest. This marked the start of the Westavian independence movement and the worker's movement. The two movements are usually considered hand-in-hand; neither can be studied without the other.
+
+After the stabilization of Moreland, Westavia began receiving assistance, without which they would not have gained independence in 1945. Nearly immediately afterwards, border disputes with Atlasia led to the Atlasian-Westavian War, which lasted until 1954.
+
+However, Westavians believe that Moreland's neocolonial actions in Sylvandia betrayed their founding revolutionary ideals. After the war, they refused to accept their aid and placed an embargo on Sylvandia. Though they're united against Bauhinia, they were at odds with each other.
+
+## Related files
+
+{{ collections.all | eleventyNavigation: "Westavia" | eleventyNavigationToHtml }}
 
 ## Trivia
 
