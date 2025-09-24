@@ -68,7 +68,7 @@ And one day, they captured a Fantoni agent lurking near Bauhinian military forts
 
 She said her name was Mulberry and that she wanted to defect. Fanton coerced her into spying in Bauhinia, and she had always dreamed of escaping that totalitarian hellhole. Her first words as a baby were "fuck Fanton." Okay sorry officers I lied on that one, but I *wish* it were true, but the "f" sound is really hard for babies to pronounce you know? Ehh… sorry I'll shut up.
 
-Goose was laughing so hard. You think you know more about totalitarian states than me? I spent my whole life living in one! Anyways, she was about to write Mulberry off as a really poorly-trained dangle.
+Goose was laughing so hard. You think you know more about totalitarian states than me? I spent my whole life living in one! Anyways, she was about to write Mulberry off as a really poorly-trained dangle. Sky, however, had a hunch that she was genuine.
 
 ## Blackjack
 
