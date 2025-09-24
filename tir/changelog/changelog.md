@@ -7,7 +7,7 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
-## 2025-09-23
+## 2025-09-24
 
 - Finally published the [Favorites picker](/fun/fav/);
 	- I originally wanted to draw a special picture for each character depicting them fighting the other character, but it was a monumental task so I just used their default pics…
