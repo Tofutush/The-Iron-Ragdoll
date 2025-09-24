@@ -58,6 +58,8 @@ jumboDialog:
 
 This is still very brainstorm-y for now so bear with me! Any info subject to change.
 
+[[toc]]
+
 ## Start of the war
 
 Sky, having no experience in wartime state security — or state security in general for that matter, being freshly out of college and all. He was eager to work with his mentor Goose, mostly in interrogating the prisoners of war Bauhinia captured. When Goose was alone, the interrogations were messy, involved too much bleeding and screaming, and arguably counterproductive. With Sky, she was a lot more reserved, and Sky learned a lot.
@@ -69,6 +71,18 @@ And one day, they captured a Fantoni agent lurking near Bauhinian military forts
 She said her name was Mulberry and that she wanted to defect. Fanton coerced her into spying in Bauhinia, and she had always dreamed of escaping that totalitarian hellhole. Her first words as a baby were "fuck Fanton." Okay sorry officers I lied on that one, but I *wish* it were true, but the "f" sound is really hard for babies to pronounce you know? Ehh… sorry I'll shut up.
 
 Goose was laughing so hard. You think you know more about totalitarian states than me? I spent my whole life living in one! Anyways, she was about to write Mulberry off as a really poorly-trained dangle. Sky, however, had a hunch that she was genuine.
+
+He decided to treat Mulberry to dinner. Starving, she didn't care if the food was poisoned (or just didn't think of the possibility) and devoured it, meat and all. He also poured wine for all of them, gleefully clicking glasses with Mulberry. After the dinner, they each had a cigarette.
+
+And he had his conclusion: Fanton would never hire someone who eats meat, drinks alcohol, and smokes to work for them. Mulberry couldn't have been pretending too, since her reactions suggested she was used to drinking and smoking.
+
+He questioned Mulberry late into the night. She worked for the NSA, and she was supposed to stay in Bauhinia, taking orders and providing them with the intel they wanted until they summoned her back.
+
+Great. How do you feel about *never* going back?
+
+The contract is signed; Mulberry is now an official double agent. Goose let Sky be her handler, since without him, Goose would've deported Mulberry right back to Fanton. Come up with a code name for her!
+
+Agent Spades.
 
 ## Blackjack
 

@@ -14,7 +14,7 @@ eleventyComputed:
 ---
 <link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
-<div style="--accent: {{ ch.color }}">
+<article style="--accent: {{ ch.color }}">
   {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
   {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
   {% if pagedoll %}
@@ -145,7 +145,7 @@ eleventyComputed:
       {% renderFile './tir/characters/files/globalperms.md' %}
     </div>
   </details>
-</div>
+</article>
 {% assign prev = pagination.previous %}
 {% assign next = pagination.next %}
 {% if prev or next %}

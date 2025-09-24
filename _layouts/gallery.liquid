@@ -1,12 +1,11 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 years:
  - 2023
  - 2024
  - 2025
 ---
 <link rel="stylesheet" href="/css/gallery.css"/>
-<h1>{{ title }}</h1>
 <div class="box-nav">
 	{% for eachyear in years %}
 		<a href="/gallery/{{ eachyear }}/" {% if year == eachyear %}aria-current="page"{% endif %}>{{ eachyear }}</a>
