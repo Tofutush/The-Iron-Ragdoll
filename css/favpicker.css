@@ -1,0 +1,94 @@
+.picker {
+	display: grid;
+	grid-template-areas:
+		"one-img vs two-img"
+		"one-name . two-name"
+		"one-desc . two-desc";
+	grid-template-columns: 1fr 6em 1fr;
+
+	& img {
+		height: 12em;
+		width: 12em;
+		background-color: var(--box);
+		border-radius: 1em;
+		cursor: pointer;
+	}
+
+	& #one-img {
+		grid-area: one-img;
+		place-self: end;
+	}
+
+	& #one-name {
+		grid-area: one-name;
+		place-self: end;
+	}
+
+	& #one-desc {
+		grid-area: one-desc;
+		place-self: end;
+	}
+
+	& #two-img {
+		grid-area: two-img;
+	}
+
+	& #two-name {
+		grid-area: two-name;
+	}
+
+	& #two-desc {
+		grid-area: two-desc;
+	}
+}
+
+.progress-bar {
+	width: 100%;
+	height: 2em;
+	border-radius: 999px;
+	background-color: var(--box);
+}
+
+.vs {
+	place-self: center;
+}
+
+.result {
+	display: none;
+
+	& p {
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.picker {
+		grid-template-areas:
+			"one-img"
+			"one-name"
+			"one-desc"
+			"vs"
+			"two-img"
+			"two-name"
+			"two-desc";
+		grid-template-columns: 1fr;
+
+
+		& #one-img,
+		#one-name,
+		#one-desc,
+		#two-img,
+		#two-name,
+		#two-desc {
+			place-self: center;
+		}
+	}
+
+	.side {
+
+		& h3,
+		& p {
+			text-align: center;
+		}
+	}
+}
