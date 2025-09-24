@@ -13,7 +13,6 @@ titlezh: 更新日志
 	- I originally wanted to draw a special picture for each character depicting them fighting the other character, but it was a monumental task so I just used their default pics…
 - The "#"s in front of the headings are back;
 	- Don't know why I removed them in the first place;
-	- Kind of related, wrapped (most) articles in the `<article>` tag;
 
 ## 2025-09-22
 

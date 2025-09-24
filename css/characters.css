@@ -56,6 +56,10 @@ blockquote {
 	object-fit: contain;
 }
 
+.card h3::before {
+	content: '';
+}
+
 .palette {
 	border-radius: 16px;
 	display: flex;
