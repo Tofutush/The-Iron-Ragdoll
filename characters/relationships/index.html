@@ -56,47 +56,49 @@
     </div>
     <h1>Relationships</h1>
     <p class="lighter-text">A graph of character relationships!</p>
-    <style>
-      #wrapper {
-        border: 12px solid var(--box);
-        border-radius: 2em;
-        max-width: 100%;
-        box-sizing: border-box;
-        overflow: hidden;
-        position: relative;
-      }
+    <article>
+      <style>
+        #wrapper {
+          border: 12px solid var(--box);
+          border-radius: 2em;
+          max-width: 100%;
+          box-sizing: border-box;
+          overflow: hidden;
+          position: relative;
+        }
 
-      #graph {
-        background-color: var(--bg);
-      }
+        #graph {
+          background-color: var(--bg);
+        }
 
-      #fullscreen {
-        position: absolute;
-        top: .5em;
-        right: .5em;
-        background-color: var(--box);
-        padding: .5em;
-        display: flex;
-      }
-    </style>
-    <p>No idea why I did this but it was fun.</p>
-    <p>Try hovering over things, zooming and panning, and clicking on them leads to their profiles!</p>
-    <p>My end goal is to have every character connected — leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
-    <div id="wrapper">
-      <button id="fullscreen" title="Fullscreen mode" onclick="document.getElementById('graph').requestFullscreen()"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-maximize-2">
-          <path d="M15 3h6v6"></path>
-          <path d="m21 3-7 7"></path>
-          <path d="m3 21 7-7"></path>
-          <path d="M9 21H3v-6"></path>
-        </svg></button>
-      <svg id="graph"></svg>
-    </div>
-    <p>Interested in how the characters are connected? See the <a href="/The-Iron-Ragdoll/fun/steps/">Steps Calculator</a>!</p>
-    <hr>
-    <p><i>You found a puzzle piece: <b>kdipj</b>! Next clue: a map in all but name. (<a href="/The-Iron-Ragdoll/fun/hunt/">What is this?</a>)</i></p>
-    <script src="/The-Iron-Ragdoll/js/d3@7.js"></script>
-    <script src="data.js"></script>
-    <script src="/The-Iron-Ragdoll/js/graph.js"></script>
+        #fullscreen {
+          position: absolute;
+          top: .5em;
+          right: .5em;
+          background-color: var(--box);
+          padding: .5em;
+          display: flex;
+        }
+      </style>
+      <p>No idea why I did this but it was fun.</p>
+      <p>Try hovering over things, zooming and panning, and clicking on them leads to their profiles!</p>
+      <p>My end goal is to have every character connected — leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
+      <div id="wrapper">
+        <button id="fullscreen" title="Fullscreen mode" onclick="document.getElementById('graph').requestFullscreen()"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-maximize-2">
+            <path d="M15 3h6v6"></path>
+            <path d="m21 3-7 7"></path>
+            <path d="m3 21 7-7"></path>
+            <path d="M9 21H3v-6"></path>
+          </svg></button>
+        <svg id="graph"></svg>
+      </div>
+      <p>Interested in how the characters are connected? See the <a href="/The-Iron-Ragdoll/fun/steps/">Steps Calculator</a>!</p>
+      <hr>
+      <p><i>You found a puzzle piece: <b>kdipj</b>! Next clue: a map in all but name. (<a href="/The-Iron-Ragdoll/fun/hunt/">What is this?</a>)</i></p>
+      <script src="/The-Iron-Ragdoll/js/d3@7.js"></script>
+      <script src="data.js"></script>
+      <script src="/The-Iron-Ragdoll/js/graph.js"></script>
+    </article>
   </main>
   <footer>
     <div class="theme-toggle">

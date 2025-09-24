@@ -51,43 +51,45 @@
     </div>
     <h1>Steps Calculator</h1>
     <p class="lighter-text">See how many steps there are between two characters!</p>
-    <style>
-      .results {
-        align-items: center;
-        display: flex;
-        flex-wrap: wrap;
-        font-size: var(--font-size);
-        gap: .5rem;
-        margin: 2rem 0;
-        line-height: 2;
-      }
+    <article>
+      <style>
+        .results {
+          align-items: center;
+          display: flex;
+          flex-wrap: wrap;
+          font-size: var(--font-size);
+          gap: .5rem;
+          margin: 2rem 0;
+          line-height: 2;
+        }
 
-      select {
-        font-size: var(--font-size);
-        font-family: lexend;
-        border: 2px solid var(--box);
-        background-color: var(--bg);
-        color: var(--text);
-        padding: 2px;
-        border-radius: 4px;
-      }
+        select {
+          font-size: var(--font-size);
+          font-family: lexend;
+          border: 2px solid var(--box);
+          background-color: var(--bg);
+          color: var(--text);
+          padding: 2px;
+          border-radius: 4px;
+        }
 
-      #selection {
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-      }
-    </style>
-    <div id="selection">
-      <p>Character 1: <select name="ch1" class="select"></select></p>
-      <p>Character 2: <select name="ch2" class="select"></select></p>
-    </div>
-    <button onclick="calculate()">Calculate!</button>
-    <div id="results"></div>
-    <button id="facts-button" onclick="facts()">Get interesting facts!</button>
-    <div id="facts"></div>
-    <script src="data.js"></script>
-    <script src="/The-Iron-Ragdoll/js/steps.js"></script>
+        #selection {
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+        }
+      </style>
+      <div id="selection">
+        <p>Character 1: <select name="ch1" class="select"></select></p>
+        <p>Character 2: <select name="ch2" class="select"></select></p>
+      </div>
+      <button onclick="calculate()">Calculate!</button>
+      <div id="results"></div>
+      <button id="facts-button" onclick="facts()">Get interesting facts!</button>
+      <div id="facts"></div>
+      <script src="data.js"></script>
+      <script src="/The-Iron-Ragdoll/js/steps.js"></script>
+    </article>
   </main>
   <footer>
     <div class="theme-toggle">

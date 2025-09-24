@@ -125,6 +125,23 @@ h4 {
 	font-size: var(--font-size-h4);
 }
 
+article {
+	& h2::before {
+		content: '# ';
+		opacity: .5;
+	}
+
+	& h3::before {
+		content: '## ';
+		opacity: .5;
+	}
+
+	& h4::before {
+		content: '### ';
+		opacity: .5;
+	}
+}
+
 [id] {
 	scroll-margin-top: 6em;
 }
@@ -307,15 +324,20 @@ details {
 		list-style: none;
 		cursor: pointer;
 		display: flex;
-		align-items: center;
+		align-items: baseline;
 		gap: .5em;
 
 		&>h2 {
 			margin: 0;
 		}
 
+		&>h3::before {
+			content: '';
+		}
+
 		&::after {
 			content: '+';
+			font-size: var(--font-size-h1);
 		}
 	}
 }
