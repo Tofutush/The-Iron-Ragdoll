@@ -56,42 +56,44 @@
     </div>
     <h1>Fav picker</h1>
     <p class="lighter-text">Find out who your favorite TIR character is!</p>
-    <link rel="stylesheet" href="/The-Iron-Ragdoll/css/favpicker.css">
-    <p>From the two choices below, find the character you like <i>better</i>. The other will be eliminated from the pool. The last one standing will be your favorite!</p>
-    <div class="picker">
-      <img id="one-img">
-      <h3 id="one-name"></h3>
-      <p id="one-desc"></p>
-      <p class="vs" style="grid-area: vs">
-        <svg width="85" height="74" viewBox="0 0 85 74" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <g clip-path="url(#clip0_97_2)">
-            <path d="M38.3008 12C38.3008 12 38.5806 23.1903 38.0529 33.7159C37.4319 46.0998 35.9468 58.1528 35.2972 58.6285C34.2164 59.4201 27.0012 49.068 20.8994 38.5655C16.0948 30.2958 12 21.4032 12 21.4032" stroke="var(--off-white)" stroke-width="24" stroke-miterlimit="10" stroke-linecap="round"></path>
-            <path d="M72.2556 27.8158C72.2556 27.8158 74.2939 17.7977 64.9709 14.979C55.953 12.2526 50.5015 18.58 50.1331 25.8977C49.4026 40.4043 72.0734 36.9859 67.9271 53.3063C66.5522 58.7177 60.2693 62.5953 54.0422 60.6933C43.3219 57.4189 45.3616 46.6037 45.3616 46.6037" stroke="var(--off-white)" stroke-width="24" stroke-miterlimit="10" stroke-linecap="round"></path>
-            <path d="M38.3008 12C38.3008 12 38.5806 23.1903 38.0529 33.7159C37.4319 46.0998 35.9468 58.1528 35.2972 58.6285C34.2164 59.4201 27.0012 49.068 20.8994 38.5655C16.0948 30.2958 12 21.4032 12 21.4032" stroke="var(--off-black)" stroke-width="15" stroke-miterlimit="10" stroke-linecap="round"></path>
-            <path d="M72.2556 27.8158C72.2556 27.8158 74.2939 17.7977 64.9709 14.979C55.953 12.2526 50.5015 18.58 50.1331 25.8977C49.4026 40.4043 72.0734 36.9859 67.9271 53.3063C66.5522 58.7177 60.2693 62.5953 54.0422 60.6933C43.3219 57.4189 45.3616 46.6037 45.3616 46.6037" stroke="var(--off-black)" stroke-width="15" stroke-miterlimit="10" stroke-linecap="round"></path>
-            <path d="M38.3008 12C38.3008 12 38.5806 23.1903 38.0529 33.7159C37.4319 46.0998 35.9468 58.1528 35.2972 58.6285C34.2164 59.4201 27.0012 49.068 20.8994 38.5655C16.0948 30.2958 12 21.4032 12 21.4032" class="V" stroke-width="11" stroke-miterlimit="10" stroke-linecap="round"></path>
-            <path d="M72.2556 27.8158C72.2556 27.8158 74.2939 17.7977 64.9709 14.979C55.953 12.2526 50.5015 18.58 50.1331 25.8977C49.4026 40.4043 72.0734 36.9859 67.9271 53.3063C66.5522 58.7177 60.2693 62.5953 54.0422 60.6933C43.3219 57.4189 45.3616 46.6037 45.3616 46.6037" class="S" stroke-width="11" stroke-miterlimit="10" stroke-linecap="round"></path>
-          </g>
-          <defs>
-            <clipPath id="clip0_97_2">
-              <rect width="85" height="74" fill="white"></rect>
-            </clipPath>
-          </defs>
-        </svg>
-      </p>
-      <img id="two-img">
-      <h3 id="two-name"></h3>
-      <p id="two-desc"></p>
-    </div>
-    <div class="progress-bar" style="background:linear-gradient(to right, var(--c) 0%, var(--box) 0%"></div>
-    <div class="result">
-      <img style="margin: auto">
-      <p>Your favorite character is <a class="fav"></a>! <a class="favsite external-link" target="_blank">Give them a favorite?</a></p>
-      <p><a href="/The-Iron-Ragdoll/contact/">Tell me your results!</a></p>
-      <p><a href=".">Play again?</a></p>
-    </div>
-    <script src="data.js"></script>
-    <script src="/The-Iron-Ragdoll/js/favpicker.js"></script>
+    <article>
+      <link rel="stylesheet" href="/The-Iron-Ragdoll/css/favpicker.css">
+      <p>From the two choices below, find the character you like <i>better</i>. The other will be eliminated from the pool. The last one standing will be your favorite!</p>
+      <div class="picker">
+        <img id="one-img">
+        <h3 id="one-name"></h3>
+        <p id="one-desc"></p>
+        <p class="vs" style="grid-area: vs">
+          <svg width="85" height="74" viewBox="0 0 85 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_97_2)">
+              <path d="M38.3008 12C38.3008 12 38.5806 23.1903 38.0529 33.7159C37.4319 46.0998 35.9468 58.1528 35.2972 58.6285C34.2164 59.4201 27.0012 49.068 20.8994 38.5655C16.0948 30.2958 12 21.4032 12 21.4032" stroke="var(--off-white)" stroke-width="24" stroke-miterlimit="10" stroke-linecap="round"></path>
+              <path d="M72.2556 27.8158C72.2556 27.8158 74.2939 17.7977 64.9709 14.979C55.953 12.2526 50.5015 18.58 50.1331 25.8977C49.4026 40.4043 72.0734 36.9859 67.9271 53.3063C66.5522 58.7177 60.2693 62.5953 54.0422 60.6933C43.3219 57.4189 45.3616 46.6037 45.3616 46.6037" stroke="var(--off-white)" stroke-width="24" stroke-miterlimit="10" stroke-linecap="round"></path>
+              <path d="M38.3008 12C38.3008 12 38.5806 23.1903 38.0529 33.7159C37.4319 46.0998 35.9468 58.1528 35.2972 58.6285C34.2164 59.4201 27.0012 49.068 20.8994 38.5655C16.0948 30.2958 12 21.4032 12 21.4032" stroke="var(--off-black)" stroke-width="15" stroke-miterlimit="10" stroke-linecap="round"></path>
+              <path d="M72.2556 27.8158C72.2556 27.8158 74.2939 17.7977 64.9709 14.979C55.953 12.2526 50.5015 18.58 50.1331 25.8977C49.4026 40.4043 72.0734 36.9859 67.9271 53.3063C66.5522 58.7177 60.2693 62.5953 54.0422 60.6933C43.3219 57.4189 45.3616 46.6037 45.3616 46.6037" stroke="var(--off-black)" stroke-width="15" stroke-miterlimit="10" stroke-linecap="round"></path>
+              <path d="M38.3008 12C38.3008 12 38.5806 23.1903 38.0529 33.7159C37.4319 46.0998 35.9468 58.1528 35.2972 58.6285C34.2164 59.4201 27.0012 49.068 20.8994 38.5655C16.0948 30.2958 12 21.4032 12 21.4032" class="V" stroke-width="11" stroke-miterlimit="10" stroke-linecap="round"></path>
+              <path d="M72.2556 27.8158C72.2556 27.8158 74.2939 17.7977 64.9709 14.979C55.953 12.2526 50.5015 18.58 50.1331 25.8977C49.4026 40.4043 72.0734 36.9859 67.9271 53.3063C66.5522 58.7177 60.2693 62.5953 54.0422 60.6933C43.3219 57.4189 45.3616 46.6037 45.3616 46.6037" class="S" stroke-width="11" stroke-miterlimit="10" stroke-linecap="round"></path>
+            </g>
+            <defs>
+              <clipPath id="clip0_97_2">
+                <rect width="85" height="74" fill="white"></rect>
+              </clipPath>
+            </defs>
+          </svg>
+        </p>
+        <img id="two-img">
+        <h3 id="two-name"></h3>
+        <p id="two-desc"></p>
+      </div>
+      <div class="progress-bar" style="background:linear-gradient(to right, var(--c) 0%, var(--box) 0%"></div>
+      <div class="result">
+        <img style="margin: auto">
+        <p>Your favorite character is <a class="fav"></a>! <a class="favsite external-link" target="_blank">Give them a favorite?</a></p>
+        <p><a href="/The-Iron-Ragdoll/contact/">Tell me your results!</a></p>
+        <p><a href=".">Play again?</a></p>
+      </div>
+      <script src="data.js"></script>
+      <script src="/The-Iron-Ragdoll/js/favpicker.js"></script>
+    </article>
   </main>
   <footer>
     <div class="theme-toggle">
