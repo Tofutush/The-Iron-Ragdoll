@@ -88,7 +88,7 @@ After the contract was signed, Mulberry opened up to them a lot more. Here's one
 
 This had already been observed by soldiers on the frontlines. They didn't know how it happened, and their comrades were lying dead on the ground with no visible injury. Countless PoWs had been tortured over it but not a single one talked; no Bauhinian spy sent to investigate had returned. Like magic.
 
-Like magic? Sky knew magic. One of his closest friends was a magician, though he hadn't heard from her in years. He had met the Arch-Magician once, briefly, [inside a police station](/stories/sparky-turns-into-a-dragon/).
+Like magic? Sky knew magic. One of his closest friends was a magician, though he hadn't heard from her in years. He had met the Arch-Magician once, briefly, [inside a police station](/stories/sparky-turns-into-a-dragon/). And he knew that one, magicians only appeared in Bauhinia for at least a few hundred years now; and two, magic cannot be used by anyone other than the magician themselves. Qibli confirmed it, and she got her knowledge from the Arch-Magician, who, as the world's leading authority on magic, couldn't possibility be wrong[^1].
 
 ## Blackjack
 
@@ -112,8 +112,9 @@ In the split second Jumbo had her back turned, Goose released Sky, letting his u
 
 ## Epilogue
 
-After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/)[^1].
+After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/)[^2].
 
 Next: [Spy School](/spy-school/), [Poker Party](/poker-party/).
 
-[^1]: 俗话说：彻底躺平！
+[^1]: Sky, being in confidential MSS college and all, hadn't heard about the whole Arch-Magician dying thing.
+[^2]: 俗话说：彻底躺平！

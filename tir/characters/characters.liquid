@@ -55,11 +55,10 @@ eleventyComputed:
       {% endfor %}
       {% if ch.tags %}
         <p>Tags</p>
-        <div class="tags">
-          {% for tag in ch.tags %}
-            <a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>
-          {% endfor %}
-        </div>
+        <p>
+          {% assign sortedTags = ch.tags | sortAlphabetical %}
+          {% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
+        </p>
       {% endif %}
     </div>
   {% endif %}

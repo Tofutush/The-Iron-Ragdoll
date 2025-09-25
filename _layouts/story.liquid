@@ -19,12 +19,9 @@ eleventyComputed:
 	<p>{{ time }}</p>
 	{% if myTags %}
 		<p>Tags</p>
-		<div class="tags">
-			{% assign sortedTags = myTags | sortAlphabetical %}
-			{% for tag in myTags %}
-				<a href="/stories/tag/{{ tag | slug }}/">{{ tag }}</a>
-			{% endfor %}
-		</div>
+		<p>
+			{% assign sortedTags = myTags | sortAlphabetical %}{% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/stories/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
+		</p>
 	{% endif %}
 </div>
 {% if comic or fic %}
