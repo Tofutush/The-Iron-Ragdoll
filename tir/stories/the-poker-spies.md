@@ -76,13 +76,19 @@ He decided to treat Mulberry to dinner. Starving, she didn't care if the food wa
 
 And he had his conclusion: Fanton would never hire someone who eats meat, drinks alcohol, and smokes to work for them. Mulberry couldn't have been pretending too, since her reactions suggested she was used to drinking and smoking.
 
-He questioned Mulberry late into the night. She worked for the NSA, and she was supposed to stay in Bauhinia, taking orders and providing them with the intel they wanted until they summoned her back.
+He questioned Mulberry late into the night. She was drafted, trained in boot camp for a while, before offering to work for the NSA, and she was supposed to stay in Bauhinia, taking orders and providing them with the intel they wanted until they summoned her back.
 
 Great. How do you feel about *never* going back?
 
-The contract is signed; Mulberry is now an official double agent. Goose let Sky be her handler, since without him, Goose would've deported Mulberry right back to Fanton. Come up with a code name for her!
+The contract was signed; Mulberry was now an official double agent. Goose let Sky be her handler, since without him, Goose would've deported Mulberry right back to Fanton. Come up with a code name for her!
 
 Agent Spades.
+
+After the contract was signed, Mulberry opened up to them a lot more. Here's one crucial piece of information she gave them. During her time in boot camp, she heard that the Fantoni had acquired a deadly weapon that could kill people while leaving barely any trace. Like magic.
+
+This had already been observed by soldiers on the frontlines. They didn't know how it happened, and their comrades were lying dead on the ground with no visible injury. Countless PoWs had been tortured over it but not a single one talked; no Bauhinian spy sent to investigate had returned. Like magic.
+
+Like magic? Sky knew magic. One of his closest friends was a magician, though he hadn't heard from her in years. He had met the Arch-Magician once, briefly, [inside a police station](/stories/sparky-turns-into-a-dragon/).
 
 ## Blackjack
 
