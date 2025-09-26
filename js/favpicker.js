@@ -55,7 +55,7 @@ function displayResult() {
 	link.innerText = data[0].name;
 	link.href = `../../characters/${data[0].name.toLowerCase()}/`;
 	const link2 = result.querySelector('.favsite');
-	link2.href = `https://tofutush.great-site.net/${data[0].name.toLowerCase()}`;
+	link2.href = `https://tofutush.leprd.space/${data[0].name.toLowerCase()}`;
 	throw new Error('game ended');
 }
 
