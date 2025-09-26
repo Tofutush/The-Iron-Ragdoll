@@ -64,7 +64,7 @@ eleventyComputed:
   {% endif %}
   <div class="box-nav solid">
     <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank">Attack {{ ch.name }} on Artfight!</a>
-    <a href="https://tofutush.great-site.net/{{ ch.name | lowerCase }}" target="_blank">Give {{ ch.name }} a favorite!</a>
+    <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank">Give {{ ch.name }} a favorite!</a>
   </div>
   {% if ch.quote %}
     <blockquote>{{ ch.quote | renderMD }}</blockquote>
