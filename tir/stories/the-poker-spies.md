@@ -84,13 +84,25 @@ The contract was signed; Mulberry was now an official double agent. Goose let Sk
 
 Agent Spades.
 
-After the contract was signed, Mulberry opened up to them a lot more. Here's one crucial piece of information she gave them. During her time in boot camp, she heard that the Fantoni had acquired a deadly weapon that could kill people while leaving barely any trace. Like magic.
+After the contract was signed, Mulberry opened up to them a lot more. Here's one crucial piece of information she gave them. During her time in boot camp, she heard that the Fantoni had acquired a deadly weapon that could kill people while leaving barely any marks. They called it "magic."
 
 This had already been observed by soldiers on the frontlines. They didn't know how it happened, and their comrades were lying dead on the ground with no visible injury. Countless PoWs had been tortured over it but not a single one talked; no Bauhinian spy sent to investigate had returned. Like magic.
 
 Like magic? Sky knew magic. One of his closest friends was a magician, though he hadn't heard from her in years. He had met the Arch-Magician once, briefly, [inside a police station](/stories/sparky-turns-into-a-dragon/). And he knew that one, magicians only appeared in Bauhinia for at least a few hundred years now; and two, magic cannot be used by anyone other than the magician themselves. Qibli confirmed it, and she got her knowledge from the Arch-Magician, who, as the world's leading authority on magic, couldn't possibility be wrong[^1].
 
+This could be a lead, but unfortunately Mulberry didn't have much additional information. She dropped the topic, and spent her time supplying the Fantoni with MSS-approved chicken feed.
+
+Fortunately, someone else came along who could potentially investigate this issue further.
+
 ## Blackjack
+
+Blackjack was also caught by the MSS in the middle of her mission to sabotage an important fiber-optic cable line with a magic spell. Sky got ahold of the spell trinket, an innocent-looking pen. They locked Blackjack in a room with a one-way mirror and forced her to cast it. The one-way mirror shattered.
+
+So, apparently the effects of this spell was just to shatter all glass nearby, which was how they planned to break the fiber-optic cable.
+
+It was confirmed: the Fantoni *did* have magic. But how? Blackjack didn't really know either.
+
+Sky gave Blackjack an offer to work for them in exchange for a proper job and permanent residency in Bauhinia after the war. She agreed.
 
 ## Jumbo
 
