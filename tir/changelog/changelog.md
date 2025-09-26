@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-26
+
+- Moved the favorites leaderboard to https://tofutush.leprd.space!
+
 ## 2025-09-24
 
 - Finally published the [Favorites picker](/fun/fav/);
@@ -31,7 +35,7 @@ titlezh: 更新日志
 
 ## 2025-09-20
 
-- Finished the [favorites leaderboard](https://tofutush.great-site.net)!
+- Finished the [favorites leaderboard](https://tofutush.leprd.space)!
 	- The URL is subject to change though;
 - Added "Attack on Artfight" and "Give favorite" buttons on the character pages;
 - Added `tsunami card.png`, `tsunami stand.png`;
