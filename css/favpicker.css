@@ -14,6 +14,10 @@
 		cursor: pointer;
 	}
 
+	& h3::before {
+		content: '';
+	}
+
 	& #one-img {
 		grid-area: one-img;
 		place-self: end;
