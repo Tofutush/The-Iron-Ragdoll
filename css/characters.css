@@ -1,5 +1,6 @@
 h1,
 h2,
+h3,
 .attr>:nth-child(2n-1) {
 	color: var(--accent);
 }
@@ -47,8 +48,12 @@ blockquote {
 	object-fit: contain;
 }
 
-.card h3::before {
-	content: '';
+.card h3 {
+	color: var(--text);
+
+	&::before {
+		content: '';
+	}
 }
 
 .palette {
