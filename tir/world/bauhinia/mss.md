@@ -24,6 +24,13 @@ Their boots — lemme ramble about the boots! They could be as quiet as you want
 
 That being said, most MSS agents operate in plain clothes, similar to how normal police wear uniforms and plainclothes don't.
 
+## Rankings
+
+- Noob: no white spots on shoulder pad, ranking only given to trainees.
+- Half-Noob: trainees who completed their initial training will all be given this rank.
+- Normal Rank: just a normal, average rank.
+- Old Grouch: given to senior officers, either because they want them to feel content and shut up ([Paperweight](/characters/paperweight/)) or they had made significant contributions ([Goose](/characters/goose/), [Sky](/characters/sky/)).
+
 ## Members
 
 <link rel="stylesheet" href="/css/characterspage.css">
