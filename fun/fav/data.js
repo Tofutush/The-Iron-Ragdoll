@@ -53,7 +53,7 @@ img: "/The-Iron-Ragdoll/img/gallery/pIDB6BpkkZ-500.webp"
 name: "Sky",
 color: "#236ce1",
 desc: "Adventurous fidgety boy.",
-img: "/The-Iron-Ragdoll/img/gallery/Hm_ri6Zhfl-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/NJaCw0fUpv-500.webp"
 },
 
 
