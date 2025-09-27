@@ -662,11 +662,6 @@ hr.solid-hr {
 	}
 }
 
-::selection {
-	background-color: var(--c);
-	color: var(--bg);
-}
-
 @media only screen and (max-width: 480px) {
 	p {
 		text-align: left;
