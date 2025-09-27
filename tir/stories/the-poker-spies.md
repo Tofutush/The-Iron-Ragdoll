@@ -62,7 +62,7 @@ This is still very brainstorm-y for now so bear with me! Any info subject to cha
 
 ## Start of the war
 
-Sky, having no experience in wartime state security — or state security in general for that matter, being freshly out of college and all. He was eager to work with his mentor Goose, mostly in interrogating the prisoners of war Bauhinia captured. When Goose was alone, the interrogations were messy, involved too much bleeding and screaming, and arguably counterproductive. With Sky, she was a lot more reserved, and Sky learned a lot.
+Sky, having no experience in wartime state security — or state security in general for that matter, being freshly out of training and all, a really new [Half-Noob](/world/bauhinia/mss/#rankings). He was eager to work with his mentor Goose, mostly in interrogating the prisoners of war Bauhinia captured. When Goose was alone, the interrogations were messy, involved too much bleeding and screaming, and arguably counterproductive. With Sky, she was a lot more reserved, and Sky learned a lot.
 
 And one day, they captured a Fantoni agent lurking near Bauhinian military forts, way behind the frontline. She was sent to Goose and Sky.
 

@@ -43,7 +43,6 @@ eleventyComputed:
         {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
         <li><a href="#reference">Reference</a></li>
         {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
-        <li><a href="#perms">Drawing Permissions</a></li>
       </ul>
     </div>
   </details>
@@ -127,23 +126,15 @@ eleventyComputed:
       </figure>
     </a>
   {% endif %}
+  {% if ch.note %}
+    <h3 id="design-notes">Design notes</h3>
+    {{ ch.note | renderMD }}
+  {% endif %}
   {% if filteredGallery.size > 0 %}
     <h2 id="gallery">Gallery</h2>
     <p class="smaller-text">Some art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please <a href="/contact/">tell me</a>!</p>
     {% include 'gallery' imgs: filteredGallery %}
   {% endif %}
-  <details>
-    <summary><h2 id="perms">Drawing Permissions</h2></summary>
-    <div>
-      <p>(Nearly identical to my <a href="https://artfight.net/~Tofutush/characters">Artfight</a> permissions anyways.)</p>
-      {% if ch.note %}
-        <h3>Character Permissions</h3>
-        {{ ch.note | renderMD }}
-        <h3>Global Permissions</h3>
-      {% endif %}
-      {% renderFile './tir/characters/files/globalperms.md' %}
-    </div>
-  </details>
 </article>
 {% assign prev = pagination.previous %}
 {% assign next = pagination.next %}
