@@ -96,6 +96,11 @@ html {
 	}
 }
 
+::selection {
+	color: var(--off-white);
+	background-color: var(--c-light);
+}
+
 h1,
 h2,
 h3,
