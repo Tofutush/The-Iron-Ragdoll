@@ -701,6 +701,13 @@ rel2: "mother"
 },
 
 {
+source: "Firecrackers",
+target: "Tsunami",
+rel1: "younger brother",
+rel2: "older sister"
+},
+
+{
 source: "Tomato",
 target: "Potato",
 rel1: "twin",
@@ -1048,6 +1055,13 @@ source: "Pinecone",
 target: "Rosemary",
 rel1: "asset",
 rel2: "handler"
+},
+
+{
+source: "Pinecone",
+target: "Tsunami",
+rel1: "mother",
+rel2: "daughter"
 },
 
 {
