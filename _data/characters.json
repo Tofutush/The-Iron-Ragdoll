@@ -1957,17 +1957,21 @@
     "namezh": "海啸",
     "color": "#0a58bd",
     "tags": [
+      "Coastline",
+      "Bauhinia",
       "Poker Spies"
     ],
     "attr": {
       "Nickname": "Diamonds (codename by Sky)",
       "Gender": "Female",
-      "Nationality": "Bauhinian"
+      "Nationality": "Bauhinian",
+      "Occupation": "hotel concierge"
     },
     "palette": {
       "hair": "#7DB2DD",
       "suit": "#2e2e2e"
-    }
+    },
+    "about": "Tsunami lost her mother at age 9 and to this day she is still convinced that she went to jail. She hated her father and loved her little brother. She got a job in a hotel.\n\nWhen Crackers got back from the battle field in a box, she was heartbroken. But she was more surprised when Crackers's friend from middle school, Sky, approached her to inform her of the cause of his death — magic. And an offer to help him investigate.\n\nThis is how Tsunami started her mission in Fanton, trying to find the source of the Fantoni's magic."
   },
   {
     "name": "Jumbo",
