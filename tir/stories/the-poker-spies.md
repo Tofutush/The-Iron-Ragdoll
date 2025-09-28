@@ -20,38 +20,47 @@ tags:
 jumboDialog:
   - - "Sky: You shouldn't have done that."
     - "Jumbo: What? Done what?"
-  - "Jumbo turned around to see Sky clad in a jet-black uniform."
+  - Jumbo turned around to see Sky clad in a jet-black uniform.
   - - "Sky: Brought strangers to your home."
     - "Jumbo: It's not my home?"
     - "Sky: Oh? What is it then?"
     - "Jumbo: It's my studio."
     - "Sky: But you live here?"
     - "Jumbo: Only occasionally."
-  - "Sky was stepping around the room, surveying the place, arms behind his back."
+  - Sky was stepping around the room, surveying the place, arms behind his back.
   - - "Sky: But you sleep here at night?"
     - "Jumbo: Ehh… yes."
     - "Sky: How long have you been living here?"
     - "Jumbo: For the past month…"
     - "Sky: Then it is your home."
-  - "Jumbo narrowed her eyes."
+  - Jumbo narrowed her eyes.
   - - "Jumbo: When did you put on that coat? I don't remember you carrying it. And it kind of looks like a government uniform?"
     - "Sky: I'm so glad you asked."
-  - "Sky pulled his badge out of his pocket and showed it to Jumbo."
+  - Sky pulled his badge out of his pocket and showed it to Jumbo.
   - - "Sky: The name's Sky Elmwood Dazzle, Ministry of State Security."
     - "Jumbo: I *knew* it!"
     - "Sky: Jumbo, you are arrested for espionage. Minimum of 10 years, up to the death penalty."
-  - "Sky pulled out a pair of handcuffs by his left hand, dangling them in front of Jumbo."
+  - Sky pulled out a pair of handcuffs by his left hand, dangling them in front of Jumbo.
   - - "Jumbo: Um, what?"
     - "Sky: Don't pretend like the Ministry isn't going to know about your correspondence with the enemy."
     - "Jumbo: But — Wait! Let me explain! I — I made everything up! Surely you know that? I never gave them real information! I was — I was *intentionally* misleading them for the benefit of Bauhinia!"
     - "Sky: The Ministry does not care whether the information is true or false. The Ministry only cares about whether you did it. Did you, or did you not?"
-  - "Jumbo was sweating and heaving, on the verge of tears."
+  - Jumbo was sweating and heaving, on the verge of tears.
   - - "Jumbo: I… I did."
     - "Sky: I appreciate your honesty."
-  - "He produced a piece of paper from his right hand. A contract."
+  - He produced a piece of paper from his right hand. A contract.
   - - "Sky: The Ministry is generous enough to offer you a chance to atone for your crimes, and even receive merit. Come work with us. Or…"
-  - "He jingled the handcuffs in his left hand. Both hands are extended towards Jumbo. She swallowed."
+  - He jingled the handcuffs in his left hand. Both hands are extended towards Jumbo. She swallowed.
   - - "Jumbo: I'll work with you. Th-thank you."
+tsunamiDialog:
+  - - "Tsunami: Aren't you Crackers's little friend?"
+    - "Qibli: Aren't you Crackers's sister?"
+    - "Tsunami: Are you the one selling magic?"
+    - "Qibli: Well, are you buying it?"
+  - "But suddenly, Fantoni police stormed into the room. Apparently the intermediary ratted them out, having heard that Qibli was being wanted."
+  - "And well, if some normal police could catch Qibli then Qibli wouldn't be Qibli. She grabbed onto Tsunami and teleported them both to Tsunami's dad's grocery store, unaware that it had been shut down."
+  - - "Qibli: Did you rat me out?"
+    - "Tsunami: No!"
 ---
 
 <link rel="stylesheet" href="/css/dialog.css"/>
@@ -132,7 +141,22 @@ Thus, Jumbo was recruited as Agent Hearts.
 
 Sky had been keeping track of Firecrackers's status ever since he had been drafted. The news came that he was one of the soldiers killed by Fanton's magic.
 
-That was his chance: he went to Tsunami, Firecrackers's older sister, working as a hotel concierge.
+That was his chance: he went to Tsunami, Firecrackers's older sister, working as a hotel concierge. She was trying and failing to take Firecrackers's ashes from their dad, who had apparently buried it already. Sky informed her of the cause of her brother's death: it was a magic spell. Do you want to help the MSS find the source of it?
+
+Driven by a desire to avenge her brother, Tsunami agreed. She was recruited as Agent Diamonds.
+
+By then Sky already had an idea who it would be: Qibli. He had this hunch ever since seeing Blackjack's spell in action: the color seeping through the cracks in the mirror was the exact dark purple of her soul. But he didn't want to believe it. Qibli wouldn't intentionally harm people like that.
+
+Sky prepared Westavian papers for Tsunami, who first entered Westavia before going into Fanton from the north.
+
+> [!to be expanded]
+> And then she went places saying she wants to buy magic n shit (but not too directly of course) and then Qibli heard it and was like "oh potential client!" so through an intermediary they arranged a meeting.
+
+Qibli was waiting for her when she went in.
+
+{% include 'dialog', dialogContent: tsunamiDialog %}
+
+and then something something and tsunami gets back to confirm skys worst fears. His friend had murdered his other friend, indirectly or not. But was Sky any better? Didn't he use Firecrackers's death to manipulate Tsunami into working for him? But she completed the mission, Sky told himself. I did the right thing.
 
 ## Epilogue
 
@@ -140,5 +164,5 @@ After the war ended, Sky was awarded with eternal bragging rights and a choice t
 
 Next: [Spy School](/spy-school/), [Poker Party](/poker-party/).
 
-[^1]: Sky, being in confidential MSS college and all, hadn't heard about the whole Arch-Magician dying thing.
+[^1]: Sky, being locked in MSS training and all, hadn't heard about the whole Arch-Magician dying thing.
 [^2]: 俗话说：彻底躺平！
