@@ -4386,5 +4386,120 @@
     "ch": [
       "mulberry"
     ]
+  },
+  {
+    "name": "cms groupshot",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "potato",
+      "myriad",
+      "cosmo",
+      "tephra",
+      "sky",
+      "firecrackers",
+      "alaska",
+      "tomato",
+      "guillotine",
+      "qibli",
+      "sparky",
+      "jerboa"
+    ]
+  },
+  {
+    "name": "cms groupshot potato",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "potato"
+    ]
+  },
+  {
+    "name": "cms groupshot alaska",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "alaska"
+    ]
+  },
+  {
+    "name": "cms groupshot cosmo",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "cosmo"
+    ]
+  },
+  {
+    "name": "cms groupshot firecrackers",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "firecrackers"
+    ]
+  },
+  {
+    "name": "cms groupshot guillotine",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "guillotine"
+    ]
+  },
+  {
+    "name": "cms groupshot jerboa",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "jerboa"
+    ]
+  },
+  {
+    "name": "cms groupshot myriad",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "myriad"
+    ]
+  },
+  {
+    "name": "cms groupshot qibli",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "qibli"
+    ]
+  },
+  {
+    "name": "cms groupshot sky",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "sky"
+    ]
+  },
+  {
+    "name": "cms groupshot sparky",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "cms groupshot tephra",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "tephra"
+    ]
+  },
+  {
+    "name": "cms groupshot tomato",
+    "type": "png",
+    "date": "2025-09-27",
+    "ch": [
+      "tomato"
+    ]
   }
 ]

@@ -66,7 +66,9 @@ Sky, having no experience in wartime state security — or state security in gen
 
 And one day, they captured a Fantoni agent lurking near Bauhinian military forts, way behind the frontline. She was sent to Goose and Sky.
 
-## Mulberry
+## Recruitment
+
+### Mulberry
 
 She said her name was Mulberry and that she wanted to defect. Fanton coerced her into spying in Bauhinia, and she had always dreamed of escaping that totalitarian hellhole. Her first words as a baby were "fuck Fanton." Okay sorry officers I lied on that one, but I *wish* it were true, but the "f" sound is really hard for babies to pronounce you know? Ehh… sorry I'll shut up.
 
@@ -80,7 +82,7 @@ He questioned Mulberry late into the night. She was drafted, trained in boot cam
 
 Great. How do you feel about *never* going back?
 
-The contract was signed; Mulberry was now an official double agent. Goose let Sky be her handler, since without him, Goose would've deported Mulberry right back to Fanton. Come up with a code name for her!
+The contract was signed; Mulberry was now an official double agent, promised permanent residency in Bauhinia should she see her service until the end of the war. Goose let Sky be her handler, since without him, Goose would've deported Mulberry right back to Fanton. Come up with a code name for her!
 
 Agent Spades.
 
@@ -94,7 +96,7 @@ This could be a lead, but unfortunately Mulberry didn't have much additional inf
 
 Fortunately, someone else came along who could potentially investigate this issue further.
 
-## Blackjack
+### Blackjack
 
 Blackjack was also caught by the MSS in the middle of her mission to sabotage an important fiber-optic cable line with a magic spell. Sky got ahold of the spell trinket, an innocent-looking pen. They locked Blackjack in a room with a one-way mirror and forced her to cast it. The one-way mirror shattered.
 
@@ -102,11 +104,15 @@ So, apparently the effects of this spell was just to shatter all glass nearby, w
 
 It was confirmed: the Fantoni *did* have magic. But how? Blackjack didn't really know either.
 
-Sky gave Blackjack an offer to work for them in exchange for a proper job and permanent residency in Bauhinia after the war. She agreed.
+Sky gave Blackjack an offer to work for them in exchange for a proper job and permanent residency in Bauhinia after the war. She agreed, and was made Agent Clubs.
 
-## Jumbo
+Blackjack's government official wanted results. What happened to the fiber-optic cable?? Well, they just published a news article about it being mysteriously broken and that a bunch of delinquent kids were charged for it.
 
-The MSS intercepted some correspondence between someone in Bauhinia and someone in Fanton. They looked at it and just stared… Seems like this person is *trying* to sell the Fantoni info but failing terribly at that. The person in question was completely making shit up.
+Since the government official gave her a magic spell, it must mean he was a part of the chain that delivered the magic from its supplier to the frontlines. With that, Blackjack was sent back to Fanton with a task: cut the chain from her trusty bribe recipient.
+
+### Jumbo
+
+Almost at the same time, the MSS intercepted some correspondence between someone in Bauhinia and someone in Fanton. They looked at it and just stared… Seems like this person is *trying* to sell the Fantoni info but failing terribly at that. The person in question was completely making shit up.
 
 They realized that the Fantoni trusted this person a lot, and that they could use them to provide intentionally misleading information.
 
@@ -120,7 +126,13 @@ In the split second Jumbo had her back turned, Goose released Sky, letting his u
 
 {% include 'dialog', dialogContent: jumboDialog %}
 
-## Tsunami
+Thus, Jumbo was recruited as Agent Hearts.
+
+### Tsunami
+
+Sky had been keeping track of Firecrackers's status ever since he had been drafted. The news came that he was one of the soldiers killed by Fanton's magic.
+
+That was his chance: he went to Tsunami, Firecrackers's older sister, working as a hotel concierge.
 
 ## Epilogue
 
