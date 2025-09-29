@@ -66,7 +66,7 @@ tsunamiDialog:
 
 <link rel="stylesheet" href="/css/dialog.css"/>
 
-This is still very brainstorm-y for now so bear with me! Any info subject to change.
+Any info is subject to change! This story is really experimental to me (for some reason, because I can't name any qualities that make it so experimental. Maybe because it's some actual spy shit lmao) but I am pretty proud of it!
 
 [[toc]]
 
@@ -165,7 +165,7 @@ By then Sky already had an idea who it would be: Qibli. He had this hunch ever s
 
 Blackjack went back to Fanton with the fake news of the fiber-optic cable being destroyed.
 
-And somehow she found out when and where her government official was going to receive a carton of spells, apparently smuggled out by some corrupt military official, who was in possession of the spells. It was a spell to disarm people, helpful in warfare but also against poachers.
+And somehow she found out when and where her government official was going to receive a carton of spells, apparently smuggled out by some corrupt military official, whose hands the spells passed through. It was a spell to disarm people, helpful in warfare but also against poachers.
 
 Blackjack tried crashing in on the meeting, but got found out. They didn't dare call the cops on her because the trade was illegal in the first place, so the government official gave her to the military official who imprisoned her on faulty espionage charges.
 
@@ -189,6 +189,10 @@ Qibli was waiting for her when she went in.
 and then something something and tsunami gets back to confirm skys worst fears. His friend had murdered his other friend, indirectly or not. But was Sky any better? Didn't he use Firecrackers's death to manipulate Tsunami into working for him? But she completed the mission, Sky told himself. I did the right thing.
 
 ### Blackjack's rescue
+
+The war was nearly ending, but Blackjack's fate still clouded Sky's heart. By this point, he was certain she had been caught. Is she even still alive?
+
+That was when, in a Fantoni newspaper, he found a list of people soon to be tried for treason in a private military court. Blackjack was one of the names.
 
 ## Epilogue
 
