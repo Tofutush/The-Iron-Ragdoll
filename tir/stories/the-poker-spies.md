@@ -4,9 +4,10 @@ titlezh: 扑克间谍环
 canon: yes
 chs:
   - sky
+  - goose
   - mulberry
-  - jumbo
   - blackjack
+  - jumbo
   - tsunami
 myTags:
   - Bauhinia
@@ -57,8 +58,8 @@ tsunamiDialog:
     - "Qibli: Aren't you Crackers's sister?"
     - "Tsunami: Are you the one selling magic?"
     - "Qibli: Well, are you buying it?"
-  - "But suddenly, Fantoni police stormed into the room. Apparently the intermediary ratted them out, having heard that Qibli was being wanted."
-  - "And well, if some normal police could catch Qibli then Qibli wouldn't be Qibli. She grabbed onto Tsunami and teleported them both to Tsunami's dad's grocery store, unaware that it had been shut down."
+  - But suddenly, Fantoni police stormed into the room. Apparently the intermediary ratted them out, having heard that Qibli was being wanted.
+  - And well, if some normal police could catch Qibli then Qibli wouldn't be Qibli. She grabbed onto Tsunami and teleported them both to Tsunami's dad's grocery store, unaware that it had been shut down.
   - - "Qibli: Did you rat me out?"
     - "Tsunami: No!"
 ---
@@ -115,9 +116,9 @@ It was confirmed: the Fantoni *did* have magic. But how? Blackjack didn't really
 
 Sky gave Blackjack an offer to work for them in exchange for a proper job and permanent residency in Bauhinia after the war. She agreed, and was made Agent Clubs.
 
-Blackjack's government official wanted results. What happened to the fiber-optic cable?? Well, they just published a news article about it being mysteriously broken and that a bunch of delinquent kids were charged for it.
+Blackjack's government official wanted results. What happened to the fiber-optic cable?? Well, they just published a news article about it being mysteriously broken and that some delinquent kids were charged for it.
 
-Since the government official gave her a magic spell, it must mean he was a part of the chain that delivered the magic from its supplier to the frontlines. With that, Blackjack was sent back to Fanton with a task: cut the chain from her trusty bribe recipient.
+Since the government official gave her a magic spell, it must mean he was a part of the chain that delivered the magic from its supplier to the frontlines. With that, Blackjack was sent back to Fanton with a task find the source of the magic.
 
 ### Jumbo
 
@@ -137,15 +138,44 @@ In the split second Jumbo had her back turned, Goose released Sky, letting his u
 
 Thus, Jumbo was recruited as Agent Hearts.
 
+## Deception
+
+While Blackjack and Tsunami were away in Fanton, Mulberry and Jumbo weren't just sitting there. They were providing fake intel back to their Fantoni handlers, painting a completely fake story Sky wanted them to believe.
+
+So how can we convince them to *stop* using the spells? Sky came up with this: since they can see the Bauhinian soldiers dying, the Fantoni obviously knows their spells are working. So we need to convince them that the spells actually harmed the Fantoni and benefitted the Bauhinians in the long run.
+
+"With every single killing spell the Fantoni soldiers cast, supplies are also generated for the Bauhinians behind the frontlines."
+
+With coordinated effort from Mulberry and Jumbo's fake agents, they sent reports to the Fantoni, stating suspicious things. Mulberry "saw" supplies being carted away from a station, far too many for a single station to hold at once but no supply deliveries *to* the station were made — where did all the supplies come from? And one time, an "agent" of Jumbo's saw a random box of ammo materialize in the middle of a road, and was subsequently arrested and signed an NDA before being released. He did not honor the NDA and reported the thing to Jumbo anyways; what an excellent contact!
+
+> [!to be expanded]
+> It's not all sunshine and rainbows. Drama happened. What drama? IDK.
+>
+> Maybe Mulberry's handlers ordered her to get a sample of the mysteriously appearing supplies.
+
+The NSA believed that their magic supplier had double-crossed them, playing an awful prank in the spells they sold. The deception had succeeded.
+
+## Investigation
+
+Let's dial back a bit. Before the deception succeeded, Sky was intent on finding out Fanton's supplier of magic.
+
+By then Sky already had an idea who it would be: Qibli. He had this hunch ever since seeing Blackjack's spell in action: the color seeping through the cracks in the mirror was the exact dark purple of her soul. But he didn't want to believe it. Qibli wouldn't intentionally harm people like that.
+
+### Blackjack
+
+Blackjack went back to Fanton with the fake news of the fiber-optic cable being destroyed.
+
+And somehow she found out when and where her government official was going to receive a carton of spells, apparently smuggled out by some corrupt military official, who was in possession of the spells. It was a spell to disarm people, helpful in warfare but also against poachers.
+
+Blackjack tried crashing in on the meeting, but got found out. They didn't dare call the cops on her because the trade was illegal in the first place, so the government official gave her to the military official who imprisoned her on faulty espionage charges.
+
 ### Tsunami
 
-Sky had been keeping track of Firecrackers's status ever since he had been drafted. The news came that he was one of the soldiers killed by Fanton's magic.
+Now that his one agent inside enemy territory had gone radio silent, Sky needed a replacement. He had been keeping track of Firecrackers's status ever since he had been drafted. Recently the news came that he was one of the soldiers killed by Fanton's magic.
 
 That was his chance: he went to Tsunami, Firecrackers's older sister, working as a hotel concierge. She was trying and failing to take Firecrackers's ashes from their dad, who had apparently buried it already. Sky informed her of the cause of her brother's death: it was a magic spell. Do you want to help the MSS find the source of it?
 
 Driven by a desire to avenge her brother, Tsunami agreed. She was recruited as Agent Diamonds.
-
-By then Sky already had an idea who it would be: Qibli. He had this hunch ever since seeing Blackjack's spell in action: the color seeping through the cracks in the mirror was the exact dark purple of her soul. But he didn't want to believe it. Qibli wouldn't intentionally harm people like that.
 
 Sky prepared Westavian papers for Tsunami, who first entered Westavia before going into Fanton from the north.
 
@@ -157,6 +187,8 @@ Qibli was waiting for her when she went in.
 {% include 'dialog', dialogContent: tsunamiDialog %}
 
 and then something something and tsunami gets back to confirm skys worst fears. His friend had murdered his other friend, indirectly or not. But was Sky any better? Didn't he use Firecrackers's death to manipulate Tsunami into working for him? But she completed the mission, Sky told himself. I did the right thing.
+
+### Blackjack's rescue
 
 ## Epilogue
 
