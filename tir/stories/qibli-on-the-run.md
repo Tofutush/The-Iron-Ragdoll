@@ -20,7 +20,7 @@ desc: Qibli is now a wanted criminal. How is she doing?
 
 After murdering Nebula, Qibli couldn't be a normal member of society anymore. She had to run away to live a life at large.
 
-One day, Qibli figured out a way for other people to use her magic — something never before thought possible — and sold it on the black market. The deed was found out when Bauhinian soldiers (along with [Blackjack](/characters/blackjack/)) noticed the Fantoni using dark-purple-colored magic on the battlefield. When confronted by the [MSS](/world/bauhinia/mss/), she said,
+One day, Qibli figured out a way for other people to use her magic — something never before thought possible — and sold it on the black market. The deed was found out when Bauhinian soldiers (along with [Mulberry](/characters/mulberry/) and [Blackjack](/characters/blackjack/)) noticed the Fantoni using dark-purple-colored magic on the battlefield. When confronted by the [MSS](/world/bauhinia/mss/), she said,
 
 > Don't call me "Qibli," call me the Arch-Magician!
 
