@@ -4501,5 +4501,45 @@
     "ch": [
       "tomato"
     ]
+  },
+  {
+    "name": "nightsun blank",
+    "type": "png",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "date": "2025-09-29",
+    "ch": [
+      "nightsun"
+    ]
+  },
+  {
+    "name": "nightsun crying blank",
+    "type": "png",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "date": "2025-09-29",
+    "ch": [
+      "nightsun"
+    ]
+  },
+  {
+    "name": "nightsun crying nocaption blank",
+    "type": "jpg",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "date": "2025-09-29",
+    "ch": [
+      "nightsun"
+    ]
+  },
+  {
+    "name": "qibli blank",
+    "type": "jpg",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "date": "2025-09-29",
+    "ch": [
+      "qibli"
+    ]
   }
 ]
