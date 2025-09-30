@@ -499,6 +499,11 @@ footer {
 		text-decoration: none;
 		transition: all .2s;
 		user-select: none;
+
+		&:hover {
+			transform: translateY(-.3em);
+			opacity: 1;
+		}
 	}
 }
 
@@ -512,14 +517,7 @@ footer {
 	&>a {
 		opacity: .5;
 
-
-
 		&[aria-current] {
-			opacity: 1;
-		}
-
-		&:hover {
-			transform: scale(1.1);
 			opacity: 1;
 		}
 	}
@@ -535,10 +533,6 @@ footer {
 
 	&>a {
 		font-size: var(--font-size-small);
-
-		&:hover {
-			transform: translateY(-.3em);
-		}
 	}
 }
 
