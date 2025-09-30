@@ -336,8 +336,12 @@ details {
 			margin: 0;
 		}
 
-		&>h3::before {
-			content: '';
+		&>h3 {
+			color: var(--text);
+
+			&::before {
+				content: '';
+			}
 		}
 
 		&::after {
