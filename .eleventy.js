@@ -30,7 +30,7 @@ export default function (eleventyConfig) {
 	}).use(markdownItTOC, {
 		includeLevel: [2, 3, 4],
 		transformContainerOpen: () => {
-			return '<details id="toc-wrap"><summary><h3>Contents</h3></summary><div id="toc">';
+			return '<details id="toc-wrap" open><summary><h3>Contents</h3></summary><div id="toc">';
 		},
 		transformContainerClose: () => {
 			return '</div></details>';
