@@ -194,9 +194,23 @@ The war was nearly ending, but Blackjack's fate still clouded Sky's heart. By th
 
 That was when, in a Fantoni newspaper, he found a list of people soon to be tried for treason in a private military court. Blackjack was one of the names.
 
+Sky came up with something daring.
+
+IDK man, i wanted him to blackmail the military official but how could he even know about the details of the transaction? perhaps blackjack got a message to him in jail. ok that makes sense.
+
+Sky makes the blackmail of the century by going to Fanton for the military official and threatening to expose his illegal magic trade unless he releases Blackjack. So he got Blackjack safely back to Fanton.
+
 ## Epilogue
 
 After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/)[^2].
+
+Mulberry remained unemployed in Bauhinia, living on her MSS pension, occasionally doing some minimum-wage jobs.
+
+Blackjack got a job as a martial arts instructor at a high school.
+
+Jumbo stopped trading and focused on creating her OCs. She was trying to write a novel for years now.
+
+Tsunami went back to working in the hotel.
 
 Next: [Spy School](/spy-school/), [Poker Party](/poker-party/).
 
