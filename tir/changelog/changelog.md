@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-29
+
+- Finished the rough outline of [The Poker Spies](/stories/the-poker-spies/);
+
 ## 2025-09-26
 
 - Moved the favorites leaderboard to https://tofutush.leprd.space;
