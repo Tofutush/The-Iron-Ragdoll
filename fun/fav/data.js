@@ -597,7 +597,7 @@ img: "/The-Iron-Ragdoll/img/gallery/QCPjNF02cP-500.webp"
 name: "Harmony",
 color: "#6d4091",
 desc: "Aspiring spy kid.",
-img: "/The-Iron-Ragdoll/img/gallery/O1o2IgmUtF-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/CY2fmWJzMG-500.webp"
 },
 
 
