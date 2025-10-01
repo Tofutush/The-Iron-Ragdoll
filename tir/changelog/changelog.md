@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-09-30
+
+- Added `harmony profile.png`;
+
 ## 2025-09-29
 
 - Finished the rough outline of [The Poker Spies](/stories/the-poker-spies/);
