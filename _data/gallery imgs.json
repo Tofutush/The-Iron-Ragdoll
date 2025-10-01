@@ -4550,5 +4550,37 @@
       "harmony"
     ],
     "kind": "thumb new"
+  },
+  {
+    "name": "nightsun sparky blank",
+    "type": "jpg",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "date": "2025-10-01",
+    "ch": [
+      "nightsun",
+      "sparky"
+    ],
+    "comment": "Sparky and Nightsun's"
+  },
+  {
+    "name": "entity blank",
+    "type": "jpg",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "date": "2025-10-01",
+    "ch": [
+      "entity"
+    ]
+  },
+  {
+    "name": "entity glare blank",
+    "type": "jpg",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "date": "2025-10-01",
+    "ch": [
+      "entity"
+    ]
   }
 ]
