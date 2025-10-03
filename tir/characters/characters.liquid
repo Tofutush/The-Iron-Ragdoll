@@ -15,7 +15,11 @@ eleventyComputed:
 <link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
 <article style="--accent: {{ ch.color }}">
-  {% assign filteredGallery = gallery | filterGallery: ch.name | sortGalleryByChCount %}
+  {% assign filteredGallery = gallery | filterGallery: ch.name %}
+  {% if filteredGallery.size > 10 %}
+    {% assign big = true %}
+    {% assign filteredGallery = filteredGallery | getFirst10 %}
+  {% endif %}
   {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
   {% if pagedoll %}
     {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
@@ -62,6 +66,7 @@ eleventyComputed:
     </div>
   {% endif %}
   <div class="box-nav solid">
+    {% if big %}<a href="gallery/">View full gallery</a>{% endif %}
     <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank">Attack {{ ch.name }} on Artfight!</a>
     <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank">Give {{ ch.name }} a favorite!</a>
   </div>
@@ -133,7 +138,9 @@ eleventyComputed:
   {% if filteredGallery.size > 0 %}
     <h2 id="gallery">Gallery</h2>
     <p class="smaller-text">Some art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please <a href="/contact/">tell me</a>!</p>
+    
     {% include 'gallery' imgs: filteredGallery %}
+    {% if big %}<div class="box-nav solid"><a href="gallery/">View full gallery</a></div>{% endif %}
   {% endif %}
 </article>
 {% assign prev = pagination.previous %}
