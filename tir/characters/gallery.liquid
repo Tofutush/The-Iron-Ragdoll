@@ -1,0 +1,21 @@
+---
+layout: layout.liquid
+pagination:
+  data: collections.charactersMoreThan10
+  size: 1
+  alias: ch
+  addAllPagesToCollections: true
+permalink: "characters/{{ ch.name | lowerCase }}/gallery/"
+widepage: true
+eleventyComputed:
+  title: "{{ ch.name }}'s Gallery"
+  desc: "{{ ch.name }}'s gallery."
+  eleventyNavigation:
+    title: "Gallery"
+    parent: "{{ ch.name }}"
+---
+<link rel="stylesheet" href="/css/gallery.css"/>
+<h1>{{ ch.name }}'s Gallery</h1>
+{% assign filteredGallery = gallery | filterGallery: ch.name %}
+{% include 'gallery' imgs: filteredGallery %}
+<script src="/js/gallery.js"></script>
