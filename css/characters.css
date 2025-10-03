@@ -37,15 +37,17 @@ blockquote {
 }
 
 .fullbody {
-	height: 12em;
+	max-height: 12em;
+	max-width: 8em;
+	height: auto;
 	width: auto;
-	object-fit: contain;
 }
 
 .rel-img {
-	height: 8em;
-	width: 8em;
-	object-fit: contain;
+	max-height: 8em;
+	max-width: 8em;
+	width: auto;
+	height: auto;
 }
 
 .card h3 {
@@ -115,9 +117,10 @@ blockquote {
 	position: fixed;
 	bottom: 1rem;
 	left: 1rem;
-	width: 20vw;
-	height: 30vh;
-	object-fit: contain;
+	max-width: 20vw;
+	max-height: 30vh;
+	height: auto;
+	width: auto;
 	z-index: 999;
 	filter: drop-shadow(0 0 16px var(--c));
 }
