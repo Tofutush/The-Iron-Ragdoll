@@ -14,6 +14,9 @@ function storyPlugin(eleventyConfig) {
 		tags = [...new Set(tags)].sort((a, b) => a.localeCompare(b));
 		return tags;
 	});
+	eleventyConfig.addFilter('filterStory', function (arr, ch) {
+		return arr.filter(s => s.data.chs?.includes(ch.toLowerCase()));
+	});
 	eleventyConfig.addFilter('filterStoriesByTag', function (arr, tag) {
 		return arr.filter(a => a.data.myTags?.includes(tag));
 	});
