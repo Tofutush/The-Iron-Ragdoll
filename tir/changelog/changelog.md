@@ -11,6 +11,7 @@ titlezh: 更新日志
 
 - Moved August to [older updates](old/);
 - Gave a special gallery subpage to every character that has more than 10 images;
+- Added `entity profile.png`, `frosting profile.png`, `sugarcane profile.png`;
 
 ## 2025-09-30
 

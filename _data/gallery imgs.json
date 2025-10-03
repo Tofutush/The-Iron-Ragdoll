@@ -4582,5 +4582,32 @@
     "ch": [
       "entity"
     ]
+  },
+  {
+    "name": "entity profile",
+    "type": "png",
+    "date": "2025-10-03",
+    "ch": [
+      "entity"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "frosting profile",
+    "type": "png",
+    "date": "2025-10-03",
+    "ch": [
+      "frosting"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "sugarcane profile",
+    "type": "png",
+    "date": "2025-10-03",
+    "ch": [
+      "sugarcane"
+    ],
+    "kind": "thumb new"
   }
 ]
