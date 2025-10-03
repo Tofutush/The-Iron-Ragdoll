@@ -16,13 +16,13 @@ eleventyComputed:
 <link rel="stylesheet" href="/css/characters.css"/>
 <article style="--accent: {{ ch.color }}">
   {% assign filteredGallery = gallery | filterGallery: ch.name %}
-  {% if filteredGallery.size > 10 %}
-    {% assign big = true %}
-    {% assign filteredGallery = filteredGallery | getFirst10 %}
-  {% endif %}
   {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
   {% if pagedoll %}
     {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
+  {% endif %}
+  {% if filteredGallery.size > 10 %}
+    {% assign big = true %}
+    {% assign filteredGallery = filteredGallery | getFirst10 %}
   {% endif %}
   <div class="title">
     {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
