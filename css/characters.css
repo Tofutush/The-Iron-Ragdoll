@@ -107,8 +107,8 @@ blockquote {
 	}
 }
 
-.gallery {
-	--c: var(--accent)
+.img>img:hover {
+	box-shadow: 0 0 0 8px var(--accent);
 }
 
 .pagedoll {
