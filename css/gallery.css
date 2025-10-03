@@ -74,10 +74,11 @@
 
 	& img {
 		background-color: transparent;
-		height: 80vh;
+		max-height: 80vh;
+		max-width: 90vw;
+		height: auto;
+		width: auto;
 		margin: 5vh 0;
-		object-fit: contain;
-		width: 90vw;
 	}
 }
 

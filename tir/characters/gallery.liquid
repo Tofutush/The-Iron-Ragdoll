@@ -15,7 +15,12 @@ eleventyComputed:
     parent: "{{ ch.name }}"
 ---
 <link rel="stylesheet" href="/css/gallery.css"/>
+<style>
+  .img>img:hover {
+    box-shadow: 0 0 0 8px var(--accent);
+  }
+</style>
 <h1>{{ ch.name }}'s Gallery</h1>
 {% assign filteredGallery = gallery | filterGallery: ch.name %}
-{% include 'gallery' imgs: filteredGallery %}
+<div style="--accent: {{ ch.color }}">{% include 'gallery' imgs: filteredGallery %}</div>
 <script src="/js/gallery.js"></script>
