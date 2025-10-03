@@ -489,6 +489,7 @@ footer {
 	flex-wrap: wrap;
 	align-items: center;
 	gap: 1em;
+	margin: 1em 0;
 
 	&>a {
 		background-color: var(--c);
