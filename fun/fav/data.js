@@ -660,7 +660,7 @@ img: "/The-Iron-Ragdoll/img/gallery/FiBuyhMHq7-500.webp"
 {
 name: "Tsunami",
 color: "#0a58bd",
-desc: "",
+desc: "Some random hotel concierge with a lot of aura about.",
 img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
 },
 
