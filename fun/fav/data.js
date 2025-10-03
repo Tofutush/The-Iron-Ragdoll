@@ -413,7 +413,7 @@ img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
 name: "Frosting",
 color: "#F676D2",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/QGWgilp-ZH-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/lMY6pwjsa_-500.webp"
 },
 
 
@@ -589,7 +589,7 @@ img: "/The-Iron-Ragdoll/img/gallery/FevBLXGT6v-500.webp"
 name: "Entity",
 color: "#1692bb",
 desc: "State-sanctioned murderer",
-img: "/The-Iron-Ragdoll/img/gallery/QCPjNF02cP-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/YglDaO_qaD-500.webp"
 },
 
 
@@ -605,7 +605,7 @@ img: "/The-Iron-Ragdoll/img/gallery/CY2fmWJzMG-500.webp"
 name: "Sugarcane",
 color: "#0fa982",
 desc: "Faithful student at Spy School.",
-img: "/The-Iron-Ragdoll/img/gallery/oK5ook2Uo1-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/rDsfswLdUL-500.webp"
 },
 
 
