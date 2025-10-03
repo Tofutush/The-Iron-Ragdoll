@@ -1956,14 +1956,17 @@
     "name": "Tsunami",
     "namezh": "海啸",
     "color": "#0a58bd",
+    "desc": "Some random hotel concierge with a lot of aura about.",
     "tags": [
       "Coastline",
       "Bauhinia",
       "Poker Spies"
     ],
     "attr": {
+      "Full name": "Tsunami Pinecone Duck",
       "Nickname": "Diamonds (codename by Sky)",
       "Gender": "Female",
+      "Soul": "Liquid, tumbling water",
       "Nationality": "Bauhinian",
       "Occupation": "hotel concierge"
     },
@@ -1984,6 +1987,7 @@
     "attr": {
       "Nickname": "Hearts (codename by Sky)",
       "Gender": "Female",
+      "Soul": "Solid, heart-shaped",
       "Nationality": "Bauhinian",
       "Occupation": "Trader"
     },
@@ -1991,7 +1995,7 @@
       "hair": "#D95284",
       "dress": "#2e2e2e"
     },
-    "about": "Jumbo was just a small trader living near the Fantoni border, trading stuff between Bauhinia and Fanton, mostly staying within the bounds of the law.\n\nShe loved making OCs. She created characters inside the real world, and took pride in the detailed research she does in the real world that made her OCs more realistic.\n\nWhen the war broke out, trade between the two nations were nearly all cut off, and Jumbo found herself without any source of income. But the connections she established with Fantoni traders weren't going anywhere. She tried to offer to work for the MSS, but got rejected. And then she suddenly got a tiny bit of actual Bauhinian intel (details TBD), so she tried her luck again with the Fantoni, using that intel as a buy-in. They recruited her.\n\nJumbo then realized that she had no way of actually gathering useful intel, so she simply made shit up. When inconsistencies were found out by the National Security Agency of Fanton, she made up fake contacts based on her OCs to shift the blame to.\n\nSlowly, due to shit tradecraft, her messages to the Fanton military got intercepted by the MSS. They had a good laugh about how stupid this was, and realized that the NSA trusted Jumbo a lot. Here comes the chance. Sky went to Jumbo and gave her a choice. She can either go to jail for treason, or she can start working for the MSS, giving the NSA some specific fake intel provided to her. The choice was obvious. Jumbo finally got to work for the MSS now.\n\nAfter the war was over, Jumbo was in a comfortable position. Her salary from the NSA got her through the high wartime utility prices, and she saved up most of her MSS salary, plus they still gave her a monthly pension. She stopped hopping borders constantly, only doing some occasional freelancing, and focused on making her OCs. She planned to publish a novel about them, and had been writing Chapter 1 over and over again for years."
+    "about": "Jumbo was just a small trader living near the Fantoni border, trading stuff between Bauhinia and Fanton, mostly staying within the bounds of the law.\n\nShe loved making OCs. She created characters inside the real world, and took pride in the detailed research she does in the real world that made her OCs more realistic.\n\nWhen the war broke out, trade between the two nations were nearly all cut off, and Jumbo found herself without any source of income. But the connections she established with Fantoni traders weren't going anywhere. She tried to offer to work for the MSS, but got rejected. And then she suddenly got a tiny bit of actual Bauhinian intel (details TBD), so she tried her luck again with the Fantoni, using that intel as a buy-in. They recruited her.\n\nJumbo then realized that she had no way of actually gathering useful intel, so she simply made shit up. When inconsistencies were found out by the National Security Agency of Fanton, she made up fake contacts based on her OCs to shift the blame to.\n\nSlowly, due to shit tradecraft, her messages to the Fanton military got intercepted by the MSS. They had a good laugh about how stupid this was, and realized that the NSA trusted Jumbo a lot. Here comes the chance. Sky went to Jumbo and gave her a choice. She can either go to jail for treason, or she can start working for the MSS, giving the NSA some specific fake intel provided to her. The choice was obvious. Jumbo finally got to work for the MSS now.\n\nAfter the war was over, Jumbo was too burnt out to ever consider making OCs again. She moved to northeastern Bauhinia to do trade with Atlasia."
   },
   {
     "name": "Mulberry",
@@ -2034,7 +2038,7 @@
       "hat": "#A0A0A0",
       "hair": "#000"
     },
-    "about": "Blackjack was a Fantoni underground mobster before the war, running her own team of gangsters. She also had some \"friends\" in the government who would cover for her in exchange for bribes.\n\nDespite maintaining a cold and ruthless appearance as a mob boss, she longed for a life of stability where she could be live under the light.\n\nHer business should've been booming because of the war, but one of her government pals asked her for a bigger protection fee — run a little sabotage job in Bauhinia.\n\nShe was given a little pen, which the government official told her was a magic spell. She was supposed to cast it by tapping its butt in a certain rhythm near an important fiber-optic line in Bauhinia.\n\nThinking her underground dealing skills amounted to tradecraft, Blackjack landed in Bauhinia, only to be soon caught by the MSS. Sky came in and gave her an offer: work for the MSS, and we will provide you with a proper, well-paying job in Bauhinia.\n\nBlackjack accepted the offer. She was sent back to Fanton with some fake intel intended to fool the government official who asked for it. She would then go do some sabotage stuff ig\n\nAfter the war had ended, Blackjack was in danger of being found out. Sky staged a rescue mission to smuggle her into Bauhinia, where she lived on as a martial arts instructor.",
+    "about": "Blackjack was a Fantoni underground mobster before the war, running her own team of gangsters. She also had some \"friends\" in the government who would cover for her in exchange for bribes.\n\nDespite maintaining a cold and ruthless appearance as a mob boss, she longed for a life of stability where she could be live under the light.\n\nHer business should've been booming because of the war, but one of her government pals asked her for a bigger protection fee — run a little sabotage job in Bauhinia.\n\nShe was given a little pen, which the government official told her was a magic spell. She was supposed to cast it by tapping its butt in a certain rhythm near an important fiber-optic line in Bauhinia.\n\nBlackjack landed in Bauhinia, only to be soon caught by the MSS. Sky came in and gave her an offer: work for the MSS, and we will provide you with a proper, well-paying job in Bauhinia.\n\nBlackjack accepted the offer. She was sent back to Fanton with fake news about the cable being destroyed, and a new mission to find out the source of the magic. But she got caught and imprisoned.\n\nRight as the war was ending, Sky came to Fanton personally to blackmail the military official who imprisoned her. She was released back into Bauhinia.\n\nAfter the war, she got her promised job as a martial arts instructor at a high school. She found herself longing for adventure once more, being bored out by the rigid predictiveness of life in the light.",
     "trivia": "- 你可以管她叫“二十一”，但不能叫“21”。"
   }
 ]

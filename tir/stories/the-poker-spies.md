@@ -204,13 +204,13 @@ Sky makes the blackmail of the century by going to Fanton for the military offic
 
 After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/)[^2].
 
-Mulberry remained unemployed in Bauhinia, living on her MSS pension, occasionally doing some minimum-wage jobs.
+Mulberry remained unemployed in Bauhinia, living on her MSS pension, occasionally doing some minimum-wage jobs to support her vices.
 
-Blackjack got a job as a martial arts instructor at a high school.
+Blackjack got a job as a martial arts instructor at a high school. She couldn't get in touch with any of her minions but she could guess most of them were caught, since she had to sell a lot of them when she was imprisoned. She found it hard to get used to the rigid life in the light.
 
-Jumbo stopped trading and focused on creating her OCs. She was trying to write a novel for years now.
+Jumbo stopped creating OCs because she was too burnt out from her deception campaign. She sold her studio. She moved to northeastern Bauhinia to do trade with Atlasia.
 
-Tsunami went back to working in the hotel.
+Tsunami went back to working in the hotel, yet constantly grieving, unable to forget about Firecrackers.
 
 Next: [Spy School](/spy-school/), [Poker Party](/poker-party/).
 
