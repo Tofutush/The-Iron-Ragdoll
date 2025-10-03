@@ -76,9 +76,6 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('img/others art/*.gif');
 	// filters
 	eleventyConfig.addFilter('slug', slug);
-	eleventyConfig.addFilter('filterStory', function (arr, ch) {
-		return arr.filter(s => s.data.chs?.includes(ch.toLowerCase()));
-	});
 	eleventyConfig.addFilter('getFooterImg', function (arr, name) {
 		return arr[Array.from(name).reduce((sum, i) => sum + i.charCodeAt(0), 0) % arr.length];
 	});
