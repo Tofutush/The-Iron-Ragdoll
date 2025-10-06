@@ -88,7 +88,7 @@ He decided to treat Mulberry to dinner. Starving, she didn't care if the food wa
 
 And he had his conclusion: Fanton would never hire someone who eats meat, drinks alcohol, and smokes to work for them. Mulberry couldn't have been pretending too, since her reactions suggested she was used to drinking and smoking.
 
-He questioned Mulberry late into the night. She was drafted, trained in boot camp for a while, before offering to work for the NSA, and she was supposed to stay in Bauhinia, taking orders and providing them with the intel they wanted until they summoned her back.
+He questioned Mulberry late into the night. She was drafted, trained in boot camp for a while, before offering to work for the [Secret Service](/world/fanton/secret-service/), and she was supposed to stay in Bauhinia, taking orders and providing them with the intel they wanted until they summoned her back.
 
 Great. How do you feel about *never* going back?
 
@@ -153,7 +153,7 @@ With coordinated effort from Mulberry and Jumbo's fake agents, they sent reports
 >
 > Maybe Mulberry's handlers ordered her to get a sample of the mysteriously appearing supplies.
 
-The NSA believed that their magic supplier had double-crossed them, playing an awful prank in the spells they sold. The deception had succeeded.
+The Secret Service believed that their magic supplier had double-crossed them, playing an awful prank in the spells they sold. The deception had succeeded.
 
 ## Investigation
 

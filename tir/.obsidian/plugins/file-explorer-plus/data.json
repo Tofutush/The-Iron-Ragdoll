@@ -37,6 +37,13 @@
         "type": "DIRECTORIES",
         "pattern": "characters/relationships",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "world/timeline",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

@@ -46,10 +46,10 @@ The closest geographical mirror to Moreland is Mongolia plus Inner Mongolia.
 
 Moreland is ruled by a military junta, officially named *Armed Forces of the Republic of Moreland*, but affectionately referred to by the people as *The Guardian Moose*, or the "guardians."
 
-### Agencies
+### Branches
 
 - [Armed Forces of the Republic of Moreland](/world/moreland/guardian-moose/)
-	- [Military Intelligence Corps](/world/moreland/mic/)
+	- [Military Intelligence Corps](/world/moreland/intelligence-corps/)
 
 ### Military service
 
