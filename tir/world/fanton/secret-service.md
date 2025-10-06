@@ -1,5 +1,5 @@
 ---
-title: National Security Agency
+title: Fantoni Secret Service
 titlezh: 国家安全局
 categories:
   - Government Organizations
@@ -8,3 +8,5 @@ categories:
   - Intelligence Agencies
 desc: Fanton's state security agency.
 ---
+
+Fanton's state security apparatus, in charge of intelligence and counterintelligence.
