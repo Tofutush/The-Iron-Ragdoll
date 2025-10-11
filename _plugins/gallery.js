@@ -25,7 +25,7 @@ function galleryPlugin(eleventyConfig) {
 	});
 	eleventyConfig.addCollection("charactersMoreThan10", collection => {
 		return characters.filter(ch =>
-			gallery().filter(img =>
+			gallery.filter(img =>
 				img.ch &&
 				img.ch.includes(ch.name.toLowerCase())).length > 10
 		);
