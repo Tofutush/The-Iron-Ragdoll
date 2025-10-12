@@ -100,6 +100,6 @@ export default function (eleventyConfig) {
 			layouts: '../_layouts',
 			data: '../_data'
 		},
-		passthroughFileCopy: true,
+		passthroughFileCopy: true
 	};
 };
