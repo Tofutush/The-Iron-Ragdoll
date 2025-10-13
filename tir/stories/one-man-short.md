@@ -19,13 +19,13 @@ Cobalt, Nightingale, Skyhawk, and Kaleidoscope were college students, a four-per
 
 As their friendship grew, Kaleidoscope and Cobalt grew into something more than friends. They started calling each other "Kally" and "Co," and would always snuggle around each other[^1].
 
-But on the day Kaleidoscope formally confessed to Cobalt, he went missing. They looked for him, called the police, all in vain. The shreds of evidence they had suggested possibly an abduction: he had gotten himself tangled up in the messy labyrinths of the Fantoni underground.
+But on the day Kaleidoscope formally confessed to Cobalt, she went missing. They looked for her, called the police, all in vain. The shreds of evidence they had suggested possibly an abduction: she had gotten herself tangled up in the messy labyrinths of the Fantoni underground.
 
 ## Kaleidoscope's fate
 
-What the other three friends didn't know was that Kaleidoscope had a gambler dad. He had gambled away all his family's money and resorted to taking out loans from loan sharks. When he suddenly died head-first onto the table, Kaleidoscope was glad to be rid of him, but the sharks didn't stop. They kidnapped him and forced him to work for a mafia operation until he earned enough to pay back his father's debt — which, accounting for interest, meant that he was stuck there for the rest of his life.
+What the other three friends didn't know was that Kaleidoscope had a gambler dad. He had gambled away all his family's money and resorted to taking out loans from loan sharks. When he suddenly died head-first onto the table, Kaleidoscope was glad to be rid of him, but the sharks didn't stop. They kidnapped her and forced her to work for a mafia operation until she earned enough to pay back her father's debt — which, accounting for interest, meant that she was stuck there for the rest of her life.
 
-He made great care to hide from his former friends because he didn't want them to worry. He wanted them to think he was dead — because he might as well be — and just move on.
+She made great care to hide from her former friends because she didn't want them to worry. She wanted them to think she was dead — because she might as well be — and just move on.
 
 ## The friends' first steps
 
@@ -37,7 +37,7 @@ But at the end, when she had also learnt to extract souls, Moonbeam asked her to
 
 With the skills all acquired, they set sail in the soul market, catching people, emptying their souls, selling the body to organ harvesters, all the likes. Thankfully, she didn't stay in that stupid body for long. Each time when it fell victim to her a body that seemed good — strong, healthy — she would get into that with the help of her friends. She was no longer stranger to body-hopping, though she stayed in her favorite one for a long while: one with big arching horns[^3].
 
-When they finally found Kaleidoscope, would he recognize the woman with Co inside? Would *she* recognize the man Kally had become?
+When they finally found Kaleidoscope, would she recognize the woman with Co inside? Would *she* recognize the woman Kally had become?
 
 ## Cobalt's Ironheart mishap
 
@@ -47,7 +47,7 @@ Cobalt got into the body of Ironheart one day. See the events of [Ironheart Assa
 
 Kaleidoscope's mafia ran into a wee bit of a problem, and needed a scapegoat to go to jail — and possibly face execution — for them. Who else, than their least-favorite slave, Kaleidoscope?
 
-But somehow Cobalt found out and they, uh, showed up in court giving him an alibi or something? idk i havent thought that far
+But somehow Cobalt found out and they, uh, showed up in court giving her an alibi or something? idk i havent thought that far
 
 [^1]: Ewwww little couple behavior, bad example, don't learn from them.
 [^2]: Not like *that* you pervert; you are to punish yourself in the timeout corner if you thought that.
