@@ -17,6 +17,7 @@ eleventyComputed:
 <article style="--accent: {{ ch.color }}">
   {% assign filteredGallery = gallery | filterGallery: ch.name %}
   {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
+  {% assign ref = filteredGallery | getFirstOfKind: "ref" %}
   {% if pagedoll %}
     {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
   {% endif %}
@@ -121,7 +122,6 @@ eleventyComputed:
   <h2 id="reference">Reference</h2>
   {% assign palette = ch | getFullPalette %}
   {% include 'palette' colors: palette %}
-  {% assign ref = filteredGallery | getFirstOfKind: "ref" %}
   {% if ref %}
     {% assign refAlt = ch.name | append: " reference sheet" %}
     <a target="_blank" href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' 'png' %}">
