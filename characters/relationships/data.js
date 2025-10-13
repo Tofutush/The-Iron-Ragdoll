@@ -1145,7 +1145,7 @@ rel2: "father"
 source: "Cobalt",
 target: "Kaleidoscope",
 rel1: "girlfriend",
-rel2: "boyfriend"
+rel2: "girlfriend"
 },
 
 {
