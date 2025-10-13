@@ -638,6 +638,10 @@ hr.solid-hr {
 	grid-template-columns: 1fr 3fr;
 	gap: 1em;
 
+	&>.tags {
+		margin: 0;
+	}
+
 	&>p {
 		margin-top: 0;
 		margin-bottom: 0;
