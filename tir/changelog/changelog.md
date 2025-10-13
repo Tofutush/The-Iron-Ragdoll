@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-10-13
+
+- Published new page of [Spy School](/stories/spy-school/page-7/);
+
 ## 2025-10-03
 
 - Moved August to [older updates](old/);
