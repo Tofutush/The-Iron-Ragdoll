@@ -18,6 +18,7 @@ eleventyComputed:
   {% assign filteredGallery = gallery | filterGallery: ch.name %}
   {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
   {% assign ref = filteredGallery | getFirstOfKind: "ref" %}
+  {% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
   {% if pagedoll %}
     {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
   {% endif %}
@@ -76,7 +77,6 @@ eleventyComputed:
   {% endif %}
   {% if ch.about %}
     <h2 id="about">About</h2>
-    {% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
     {% if fullbody %}
       {% image 'gallery/' fullbody.name fullbody.type 500 fullbody.name 'float-right fullbody' %}
     {% endif %}
