@@ -489,6 +489,7 @@ footer {
 	flex-wrap: wrap;
 	align-items: center;
 	gap: 1em;
+	margin: 1em 0;
 
 	&>a {
 		background-color: var(--c);
@@ -636,6 +637,10 @@ hr.solid-hr {
 	display: grid;
 	grid-template-columns: 1fr 3fr;
 	gap: 1em;
+
+	&>.tags {
+		margin: 0;
+	}
 
 	&>p {
 		margin-top: 0;
