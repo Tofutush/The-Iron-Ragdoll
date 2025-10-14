@@ -4615,5 +4615,24 @@
     "type": "png",
     "date": "2025-10-12",
     "comment": "For Fritz's art exchange event!"
+  },
+  {
+    "name": "natasha thumb",
+    "type": "png",
+    "date": "2025-10-13",
+    "ch": [
+      "natasha"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "tsunami firecrackers",
+    "type": "png",
+    "date": "2025-10-13",
+    "ch": [
+      "tsunami",
+      "firecrackers"
+    ],
+    "kind": "rel"
   }
 ]

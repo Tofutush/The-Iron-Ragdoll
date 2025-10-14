@@ -10,6 +10,7 @@ titlezh: 更新日志
 ## 2025-10-13
 
 - Published new page of [Spy School](/stories/spy-school/page-7/);
+- Added `natasha thumb.png`, `tsunami firecrackers.png`;
 
 ## 2025-10-03
 
@@ -27,7 +28,7 @@ titlezh: 更新日志
 
 ## 2025-09-26
 
-- Moved the favorites leaderboard to https://tofutush.leprd.space;
+- Moved the favorites leaderboard to <https://tofutush.leprd.space>;
 - Edited `sky profile.png`;
 - Removed the "drawing permissions" section in character profiles and moved design notes to a subheading under "reference";
 	- My perms are still on [Artfight](https://artfight.net/~Tofutush);
