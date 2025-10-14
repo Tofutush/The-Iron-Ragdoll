@@ -469,7 +469,7 @@ img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
 name: "Natasha",
 color: "#e665d5",
 desc: "Annoying devil-girl.",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/ib6lw8wRYN-500.webp"
 },
 
 
