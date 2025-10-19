@@ -1,7 +1,7 @@
 {
   "hideStrictPathFilters": true,
   "pinFilters": {
-    "active": true,
+    "active": false,
     "tags": [],
     "paths": [],
     "frontMatter": []
@@ -49,7 +49,7 @@
     "frontMatter": [
       {
         "name": "",
-        "active": true,
+        "active": false,
         "path": "",
         "pattern": "",
         "patternType": "STRICT"
