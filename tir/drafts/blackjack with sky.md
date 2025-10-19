@@ -1,5 +1,7 @@
 # immediate to-do
 
+- [ ] proper double down disabling
+
 # plans
 
 - [ ] start screen

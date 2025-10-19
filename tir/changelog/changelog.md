@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-10-19
+
+- Added [Artfight permissions](/misc/perms/) as a page;
+	- I can use this for random art exchange events too;
+
 ## 2025-10-18
 
 - Added `pumpkin helsinki dance.png` and the two individual images;
