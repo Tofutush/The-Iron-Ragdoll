@@ -1,8 +1,10 @@
 ---
 layout: article.liquid
 title: Credits
+desc: Where it's due.
+tags: misc
 eleventyNavigation:
-  parent: Misc
+  parent: Miscellaneous
 ---
 
 Most content on this site is made by myself. What isn't:
