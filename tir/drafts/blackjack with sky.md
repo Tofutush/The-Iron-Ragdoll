@@ -24,7 +24,9 @@
 	- [x] check for natural blackjack
 	- [x] check for split
 		- [ ] if split, double bets. exchange chips if needed
-	- [ ] buy insurance
+	- [ ] check dealer upcard
+		- [ ] prompt insurance if dealer upcard is ace
+			- [ ] show bet slider again, maxed at bet / 2 floored
 	- [x] player draw until stand or bust
 		- [ ] if split, do the other too
 	- [x] reveal dealer down card
