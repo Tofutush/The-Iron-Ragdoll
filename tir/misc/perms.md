@@ -1,3 +1,12 @@
+---
+layout: article.liquid
+title: Perms
+desc: Artfight drawing perms.
+tags: misc
+eleventyNavigation:
+  parent: Miscellaneous
+---
+
 - **Design clarifications**
 	- The marks on the girls' faces are eyelashes, not face paint! You can draw whatever you want; I'm just making sure you don't think it's face paint.
 	- None of my characters have real-world skin colors! Their races are just whether they have ears or horns on their heads, so everyone's skin color is the same.

@@ -1,0 +1,12 @@
+---
+layout: article.liquid
+title: Miscellaneous
+eleventyNavigation:
+  parent: Root
+---
+
+<ul>
+	{% for file in collections.misc %}
+		{% include 'fileLi', file: file %}
+	{% endfor %}
+</ul>
