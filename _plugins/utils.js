@@ -55,6 +55,12 @@ function utilPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getMMDD', function (bleh) {
 		return new Date().toISOString().slice(5, 10);
 	});
+	eleventyConfig.addFilter('toDateObj', function (date) {
+		let year = date.slice(0, 4);
+		let month = date.slice(5, 7);
+		let day = date.slice(8, 10);
+		return new Date(year, month - 1, day);
+	});
 }
 
 function to6DigitHex(hex) {

@@ -21,7 +21,7 @@ function imagePlugin(eleventyConfig) {
 			...imageAttributes,
 			class: className
 		};
-		return Image.generateHTML(metadata, imageAttributes);
+		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
 		let src = getImgSrc(path, name, type, fallback, fallbackType);

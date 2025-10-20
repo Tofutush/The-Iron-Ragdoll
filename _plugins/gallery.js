@@ -8,6 +8,9 @@ function galleryPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('filterGalleryByDate', function (arr, f) {
 		return arr.filter(a => a.date?.includes(f));
 	});
+	eleventyConfig.addFilter('getYear', function (a) {
+		return a.date?.slice(0, 4);
+	});
 	eleventyConfig.addFilter('filterGalleryByKind', function (arr, f) {
 		return arr.filter(a => a.kind === f);
 	});
