@@ -3,36 +3,37 @@
   eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
 	<title>The Iron Ragdoll Image RSS</title>
-	<subtitle>Image updates for The Iron Ragdoll. Only my art is included.</subtitle>
-	<link href="https://tofutush.github.io/The-Iron-Ragdoll/gallery/feed.xml" rel="self" />
-	<link href="https://tofutush.github.io/The-Iron-Ragdoll/" />
-	<updated>{{ gallery[0].date | toDateObj | dateToRfc3339 }}</updated>
-	<id>https://tofutush.github.io/The-Iron-Ragdoll/</id>
-	<author><name>Tofutush</name></author>
+	<link>https://tofutush.github.io/The-Iron-Ragdoll/</link>
+	<atom:link href="https://tofutush.github.io/The-Iron-Ragdoll/gallery" rel="self" type="application/rss+xml" />
+	<description>Image updates for The Iron Ragdoll. Only my art is included.</description>
+	<language>en-US</language>
 	{% assign filteredGallery = gallery | getOnlyMyArt %}
 	{% for img in filteredGallery %}
-	{% assign year = img | getYear %}
-	<entry>
-		<title>{{ img.name }}</title>
-		<link href="https://tofutush.github.io/The-Iron-Ragdoll/gallery/{{ year }}/" />
-		<updated>{{ img.date | toDateObj | dateToRfc3339 }}</updated>
-		<id>https://tofutush.github.io/The-Iron-Ragdoll/gallery/{{ year }}/</id>
-		<content type="html">
-			{% capture image %}{% image "gallery/" img.name img.type 1000 img.name %}{% endcapture %}
-			{{ image | transformWithHtmlBase: "https://tofutush.github.io/" }}</img>
-			{% if img.ch %}
-			<ul>
-				{% for ch in img.ch %}
-					<li><a href="https://tofutush.github.io/The-Iron-Ragdoll/characters/{{ ch }}/">{{ ch | capitalize }}</a></li>
-				{% endfor %}
-			</ul>
-			{% endif %}
-			{% if img.comment %}
-				{{ img.comment | renderMD }}
-			{% endif %}
-		</content>
-	</entry>
+		{% assign year = img | getYear %}
+		<item>
+			<title>{{ img.name }}</title>
+			<link>https://tofutush.github.io/The-Iron-Ragdoll/gallery/{{ year }}/</link>
+			<description><![CDATA[
+				{% capture image %}{% image "gallery/" img.name img.type 1000 img.name %}{% endcapture %}
+				{{ image | transformWithHtmlBase: "https://tofutush.github.io/" }}</img>
+				{% if img.ch %}
+				<ul>
+					{% for ch in img.ch %}
+						<li><a href="https://tofutush.github.io/The-Iron-Ragdoll/characters/{{ ch }}/">{{ ch | capitalize }}</a></li>
+					{% endfor %}
+				</ul>
+				{% endif %}
+				{% if img.comment %}
+					{{ img.comment | renderMD }}
+				{% endif %}
+			]]></description>
+			<pubDate>{{ img.date | dateToRfc822 }}</pubDate>
+			<creator>Tofutush</creator>
+			<guid>https://tofutush.github.io/The-Iron-Ragdoll/gallery/{{ year }}/</guid>
+		</item>
 	{% endfor %}
-</feed>
+</channel>
+</rss>

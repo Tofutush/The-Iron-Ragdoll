@@ -78,7 +78,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('img/others art/*.gif');
 	// filters
 	eleventyConfig.addFilter('slug', slug);
-	eleventyConfig.addFilter("dateToRfc3339", eleventyRssPlugin.dateToRfc3339);
+	eleventyConfig.addLiquidFilter("dateToRfc822", eleventyRssPlugin.dateToRfc822);
 	eleventyConfig.addFilter('getFooterImg', function (arr, name) {
 		return arr[Array.from(name).reduce((sum, i) => sum + i.charCodeAt(0), 0) % arr.length];
 	});
