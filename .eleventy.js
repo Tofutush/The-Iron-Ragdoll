@@ -1,5 +1,6 @@
 import { EleventyHtmlBasePlugin, EleventyRenderPlugin } from '@11ty/eleventy';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
+import eleventyRssPlugin from '@11ty/eleventy-plugin-rss';
 import pinyin from "chinese-to-pinyin";
 import beautify from 'js-beautify';
 import markdownIt from 'markdown-it';
@@ -65,6 +66,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(storyPlugin);
 	eleventyConfig.addPlugin(worldPlugin);
 	eleventyConfig.addPlugin(funPlugin);
+	eleventyConfig.addPlugin(eleventyRssPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');
@@ -76,6 +78,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('img/others art/*.gif');
 	// filters
 	eleventyConfig.addFilter('slug', slug);
+	eleventyConfig.addFilter("dateToRfc3339", eleventyRssPlugin.dateToRfc3339);
 	eleventyConfig.addFilter('getFooterImg', function (arr, name) {
 		return arr[Array.from(name).reduce((sum, i) => sum + i.charCodeAt(0), 0) % arr.length];
 	});

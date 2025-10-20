@@ -1,0 +1,38 @@
+---
+  permalink: "/gallery/feed.xml"
+  eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+	<title>The Iron Ragdoll Image RSS</title>
+	<subtitle>Image updates for The Iron Ragdoll. Only my art is included.</subtitle>
+	<link href="https://tofutush.github.io/The-Iron-Ragdoll/gallery/feed.xml" rel="self" />
+	<link href="https://tofutush.github.io/The-Iron-Ragdoll/" />
+	<updated>{{ gallery[0].date | toDateObj | dateToRfc3339 }}</updated>
+	<id>https://tofutush.github.io/The-Iron-Ragdoll/</id>
+	<author><name>Tofutush</name></author>
+	{% assign filteredGallery = gallery | getOnlyMyArt %}
+	{% for img in filteredGallery %}
+	{% assign year = img | getYear %}
+	<entry>
+		<title>{{ img.name }}</title>
+		<link href="https://tofutush.github.io/The-Iron-Ragdoll/gallery/{{ year }}/" />
+		<updated>{{ img.date | toDateObj | dateToRfc3339 }}</updated>
+		<id>https://tofutush.github.io/The-Iron-Ragdoll/gallery/{{ year }}/</id>
+		<content type="html">
+			{% capture image %}{% image "gallery/" img.name img.type 1000 img.name %}{% endcapture %}
+			{{ image | transformWithHtmlBase: "https://tofutush.github.io/" }}</img>
+			{% if img.ch %}
+			<ul>
+				{% for ch in img.ch %}
+					<li><a href="https://tofutush.github.io/The-Iron-Ragdoll/characters/{{ ch }}/">{{ ch | capitalize }}</a></li>
+				{% endfor %}
+			</ul>
+			{% endif %}
+			{% if img.comment %}
+				{{ img.comment | renderMD }}
+			{% endif %}
+		</content>
+	</entry>
+	{% endfor %}
+</feed>
