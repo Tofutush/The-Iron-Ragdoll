@@ -18,12 +18,25 @@ jobs:
         with:
           node-version: current
 
-      - name: Install dependencies & build
+      - name: Install dependencies
         run: |
           npm ci
+
+      - name: build
+        run: |
           npm run build
+
+      - name: buildneo
+        run: |
           npm run buildneo
+
+      - name: copy images
+        run: |
           npm run copy
+
+      - name: delete feed.xml
+        run: |
+          npm run delete
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
