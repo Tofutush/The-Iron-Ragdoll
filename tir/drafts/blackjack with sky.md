@@ -1,6 +1,7 @@
 # immediate to-do
 
 - [ ] proper double down disabling
+- [ ] add chips afterwards don't re-calculate, but another stack instead
 
 # plans
 
@@ -49,6 +50,8 @@
 	1. There's that saying. The house always wins. The Ministry always wins.
 	2. You're lucky we're even giving you a chance at all.
 	3. I don't even know who you are or what you did. And I'm not supposed to. I'm just dealing cards here.
+- tie
+	1. Good game, but you'll need more luck than that.
 - natural bj eat half dollar
 	- didn't see surrender
 		- The payout is 1.5 times your bet, so you should've received {amount}. I ate your half dollar. Think about this next time you want to bet an odd number.
