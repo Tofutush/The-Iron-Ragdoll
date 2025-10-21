@@ -1,7 +1,6 @@
 # immediate to-do
 
 - [ ] proper double down disabling
-- [ ] insurance bet don't exceed money, don't allow insurance if money is 0 (or bet is 1)
 
 # plans
 
