@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-10-20
+
+- Added [image gallery RSS feed](/gallery/feed.xml);
+
 ## 2025-10-19
 
 - Added [Artfight permissions](/misc/perms/) as a page;
