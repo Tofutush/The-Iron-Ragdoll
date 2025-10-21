@@ -11,6 +11,6 @@ years:
 		<a href="/gallery/{{ eachyear }}/" {% if year == eachyear %}aria-current="page"{% endif %}>{{ eachyear }}</a>
 	{% endfor %}
 	<a href="/gallery/progress/" {% if page.url == '/gallery/progress/' %}aria-current="page"{% endif %}>Progress</a>
-	<a href="https://tofutush.github.io/The-Iron-Ragdoll/gallery/feed.xml/">{% lucide 'rss' %}</a>
+	<a href="https://tofutush.github.io/The-Iron-Ragdoll/gallery/feed.xml">{% lucide 'rss' %}</a>
 </div>
 {{ content }}
