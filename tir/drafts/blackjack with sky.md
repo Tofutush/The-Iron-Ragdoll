@@ -1,7 +1,7 @@
 # immediate to-do
 
 - [ ] proper double down disabling
-- [ ] add chips afterwards don't re-calculate, but another stack instead
+- [ ] insurance bet don't exceed money, don't allow insurance if money is 0 (or bet is 1)
 
 # plans
 
