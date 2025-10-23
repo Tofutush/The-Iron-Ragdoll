@@ -131,4 +131,4 @@ Arch-people are obviously the most powerful at whatever their superpower is. How
 - [International Superpowers Association](/world/isa/)
 
 [^1]: LOL stop laughing
-[^2]: This sounds dumb [throw better words at me please](/contact/).
+[^2]: This sounds dumb [throw better words at me please](https://tofutush.leprd.space/guestbook/).
