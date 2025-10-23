@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-10-23
+
+- Made my own [guestbook](https://tofutush.leprd.space/guestbook/); go sign!
+
 ## 2025-10-20
 
 - Added [image gallery RSS feed](/gallery/feed.xml);
