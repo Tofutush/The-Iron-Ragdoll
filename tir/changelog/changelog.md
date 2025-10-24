@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-10-24
+
+- Added `kaleidoscope.png`, `moonflower.png`;
+- Added [Moonflower](/characters/moonflower/);
+
 ## 2025-10-23
 
 - Made my own [guestbook](https://tofutush.leprd.space/guestbook/); go sign!
