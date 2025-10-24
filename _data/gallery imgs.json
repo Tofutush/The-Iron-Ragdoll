@@ -4659,5 +4659,23 @@
     "ch": [
       "pumpkin"
     ]
+  },
+  {
+    "name": "kaleidoscope",
+    "type": "png",
+    "date": "2025-10-24",
+    "ch": [
+      "kaleidoscope"
+    ],
+    "kind": "fullbody"
+  },
+  {
+    "name": "moonflower",
+    "type": "png",
+    "date": "2025-10-24",
+    "ch": [
+      "moonflower"
+    ],
+    "kind": "fullbody"
   }
 ]
