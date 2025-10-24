@@ -1,7 +1,8 @@
 # to-do
 
 - [ ] make chips display like olympic rings
-- [ ] proper button disabling
+- [ ] implement strict splitting rules
+- [ ] fix ui scaling
 
 # plans
 
@@ -13,6 +14,8 @@
 		- [ ] stand or hit at soft 17
 		- [ ] how many decks (1 - 8)
 		- [ ] strict splitting rules (specifics down in code)
+	- [ ] start
+	- [ ] continue
 - [ ] game start
 	- [ ] intro cutscene
 		- [ ] bag lifted off face, white screen fades into sky
@@ -47,18 +50,19 @@
 		- [x] 2 cards to dealer but one face down
 	- [x] check for natural blackjack
 	- [x] check for split
-		- [ ] if split, double bets, add new hand
+		- [x] if split, double bets, add new hand
+		- [ ] deal new cards to split hands
 	- [x] check dealer upcard
 		- [x] prompt insurance if dealer upcard is ace
 			- [x] show bet slider again, maxed at bet / 2 floored
 	- [x] player draw until stand or bust
-		- [ ] after drawing once, disable insurance, double down, and surrender
-		- [ ] if split, keep doing until all 4 hands are done
+		- [x] after drawing once, disable insurance, double down, and surrender
+		- [x] if split, keep doing until all 4 hands are done
 	- [x] reveal dealer down card
 	- [x] dealer draw until past 17
 	- [x] check for win
 		- [x] determine insurance bet wins or not
-		- [ ] if split, check each
+		- [x] if split, check all
 	- [x] play again
 - [ ] goes under $21
 	- [ ] lose cutscene
