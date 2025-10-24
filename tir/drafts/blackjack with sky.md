@@ -1,8 +1,6 @@
 # to-do
 
-- [ ] make chips display like olympic rings
-- [ ] implement strict splitting rules
-- [ ] fix ui scaling
+- [ ] fix surrender
 
 # plans
 
@@ -51,7 +49,7 @@
 	- [x] check for natural blackjack
 	- [x] check for split
 		- [x] if split, double bets, add new hand
-		- [ ] deal new cards to split hands
+		- [x] deal new cards to split hands
 	- [x] check dealer upcard
 		- [x] prompt insurance if dealer upcard is ace
 			- [x] show bet slider again, maxed at bet / 2 floored
@@ -64,8 +62,8 @@
 		- [x] determine insurance bet wins or not
 		- [x] if split, check all
 	- [x] play again
-- [ ] goes under $21
-	- [ ] lose cutscene
+- [x] goes under $21
+	- [x] lose cutscene
 - [ ] goes above $1000
 	- [ ] lose anyways
 
