@@ -1477,6 +1477,26 @@
     "trivia": "- 俄罗斯族。"
   },
   {
+    "name": "Moonflower",
+    "namezh": "月亮花",
+    "color": "#c78d0e",
+    "tags": [
+      "Westavia",
+      "Nameless Village"
+    ],
+    "attr": {
+      "Nickname": "Flower",
+      "Gender": "Female",
+      "Nationality": "Westavian"
+    },
+    "palette": {
+      "robe": "#CCC122",
+      "hair": "#2e2e2e"
+    },
+    "about": "ئايگۈل, Uyghurche for Moonflower. Literally just ئاي (moon) + گۈل (flower).",
+    "trivia": "- 维吾尔族"
+  },
+  {
     "name": "Cobalt",
     "namezh": "钴蚀天",
     "color": "#0e81c8",
@@ -2042,21 +2062,5 @@
     },
     "about": "Blackjack was a Fantoni underground mobster before the war, running her own team of gangsters. She also had some \"friends\" in the government who would cover for her in exchange for bribes.\n\nDespite maintaining a cold and ruthless appearance as a mob boss, she longed for a life of stability where she could be live under the light.\n\nHer business should've been booming because of the war, but one of her government pals asked her for a bigger protection fee — run a little sabotage job in Bauhinia.\n\nShe was given a little pen, which the government official told her was a magic spell. She was supposed to cast it by tapping its butt in a certain rhythm near an important fiber-optic line in Bauhinia.\n\nBlackjack landed in Bauhinia, only to be soon caught by the MSS. Sky came in and gave her an offer: work for the MSS, and we will provide you with a proper, well-paying job in Bauhinia.\n\nBlackjack accepted the offer. She was sent back to Fanton with fake news about the cable being destroyed, and a new mission to find out the source of the magic. But she got caught and imprisoned.\n\nRight as the war was ending, Sky came to Fanton personally to blackmail the military official who imprisoned her. She was released back into Bauhinia.\n\nAfter the war, she got her promised job as a martial arts instructor at a high school. She found herself longing for adventure once more, being bored out by the rigid predictiveness of life in the light.",
     "trivia": "- 你可以管她叫“二十一”，但不能叫“21”。"
-  },
-  {
-    "name": "Moonflower",
-    "namezh": "月亮花",
-    "color": "#c78d0e",
-    "tags": [
-      "Westavia",
-      "Nameless Village"
-    ],
-    "attr": {
-      "Nickname": "Flower",
-      "Gender": "Female",
-      "Nationality": "Westavian"
-    },
-    "about": "ئايگۈل, Uyghurche for Moonflower. Literally just ئاي (moon) + گۈل (flower).",
-    "trivia": "- 维吾尔族"
   }
 ]
