@@ -10,6 +10,7 @@
 	<atom:link href="https://tofutush.github.io/The-Iron-Ragdoll/gallery" rel="self" type="application/rss+xml" />
 	<description>Image updates for The Iron Ragdoll. Only my art is included.</description>
 	<language>en-US</language>
+	<lastBuildDate>{% assign lastGalleryIdx = gallery.size | minus: 1 %}{{ gallery[0].date | dateToRfc822 }}</lastBuildDate>
 	{% assign filteredGallery = gallery | getOnlyMyArt %}
 	{% for img in filteredGallery %}
 		{% assign year = img | getYear %}
