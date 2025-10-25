@@ -12,12 +12,12 @@
 		- [ ] stand or hit at soft 17
 		- [ ] how many decks (1 - 8)
 		- [ ] strict splitting rules (specifics down in code)
-	- [ ] start
+	- [x] start
 	- [ ] continue
 - [ ] game start
-	- [ ] intro cutscene
+	- [x] intro cutscene
 		- [ ] bag lifted off face, white screen fades into sky
-		- [ ] sky explaining you have been sentenced to death but play blackjack to live
+		- [x] sky explaining you have been sentenced to death but play blackjack to live
 		- [ ] skippable tutorial
 			- [ ] Blackjack is a game of comparing who has a higher hand. You want to get as close to 21 as possible without going over.
 			- [ ] Numbered cards count as their number. Face cards (J, Q, K) count as 10. Aces count as either 1 or 11, depending on which gives you the highest number that's not over 21.
@@ -64,8 +64,8 @@
 	- [x] play again
 - [x] goes under $21
 	- [x] lose cutscene
-- [ ] goes above $1000
-	- [ ] lose anyways
+- [x] goes above $1000
+	- [x] lose anyways
 
 ## dialog
 
