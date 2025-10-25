@@ -9,5 +9,7 @@ dialog:
  - "The professor did not speak. Sugarcane walked up the stairs in the center to the back of the lecture hall, and then all the way across to the corner where Harmony sat. She settled in beside Harmony."
  - - "Sugarcane: You still like the window seat."
  - "Harmony simply stared at her notebook."
- - - ""
+ - - "Sugarcane: You know, usually when scenes like this happen in movies, the lecture would be about freedom and democracy and that type of stuff."
+   - "Sugarcane: Not, you know, physics."
+   - "Harmony: Physics is real."
 ---

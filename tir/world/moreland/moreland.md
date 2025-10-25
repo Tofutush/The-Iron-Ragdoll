@@ -77,6 +77,10 @@ Family is abolished in Moreland. As soon as the mother had recovered enough and 
 
 Since family isn't a thing in Moreland, people don't have family names. In legal settings where precise identification is required, their unique ID number would be written where the family name would be. For example, "[Snowball 201710033746](/characters/snowball/)."
 
+### Introversion and extroversion
+
+Morelandian society takes the comfort of introverts very seriously.
+
 ## History
 
 The Morelandian struggle for independence started after the industrial revolution when the surge in productivity had outgrown the relationship between labor and capital and societal conflicts called for new forms of government. In 1930, Morelandians started a bourgeoisie revolution and established a provisional republican government in 1935.

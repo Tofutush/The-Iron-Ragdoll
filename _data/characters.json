@@ -708,9 +708,11 @@
     "af": "https://artfight.net/character/5612120.halcyon",
     "attr": {
       "Gender": "Male",
+      "Pronouns": "he/him",
+      "Energy": "Extrovert",
       "Soul": "Solid, a little bird",
       "Birthday": "1991-03-18",
-      "Nationality": "Bauhinian",
+      "Nationality": "Bauhinian, later Moose",
       "Marital status": "Married",
       "Occupation": "MSS officer",
       "Weapon": "Baton",
@@ -792,7 +794,8 @@
       "Moreland"
     ],
     "attr": {
-      "Gender": "Male (trans)",
+      "Pronouns": "he/him",
+      "Energy": "Extrovert",
       "Birthday": "1998-09-21",
       "Nationality": "Bauhinian",
       "Occupation": "Secret agent"
@@ -801,7 +804,7 @@
       "shirt": "#fff",
       "hair": "#2E2E2E"
     },
-    "about": "A Morelandian agent in Bauhinia, recruited to recover the nuke that the kids found.",
+    "about": "Trans guy. A Morelandian agent in Bauhinia, recruited to recover the nuke that the kids found.",
     "trivia": "- If he had a lusus, it would be a lark."
   },
   {
@@ -892,7 +895,8 @@
     ],
     "attr": {
       "Full name": "Snowball 201710033746",
-      "Gender": "Female",
+      "Pronouns": "she/her",
+      "Energy": "Extrovert",
       "Birthday": "2017-10-03",
       "Nationality": "Moose",
       "Power": "Invisibility"
@@ -1729,7 +1733,8 @@
     "af": "https://artfight.net/character/5806516.jackalope",
     "attr": {
       "Nickname": "Jack; Alpha (code name by the MSS)",
-      "Gender": "Female",
+      "Pronouns": "she/her",
+      "Energy": "Extrovert",
       "Soul": "Solid, a tangle of barbed wire",
       "Nationality": "Moose",
       "Occupation": "Intelligence officer"
@@ -1934,7 +1939,8 @@
     ],
     "af": "https://artfight.net/character/7727717.jinx",
     "attr": {
-      "Gender": "Female",
+      "Pronouns": "she/her",
+      "Energy": "Introvert",
       "Nationality": "Moose",
       "Occupation": "Horse trainer",
       "Weapon": "Whip"
@@ -1961,9 +1967,11 @@
       "Guardian Moose"
     ],
     "attr": {
-      "Gender": "Female",
+      "Gender": "Female, later none",
+      "Pronouns": "she/her",
+      "Energy": "Extrovert",
       "Soul": "Solid, ice cube that looks like chocolate because it's brown",
-      "Nationality": "Moose and Fantoni",
+      "Nationality": "Fantoni, later Moose",
       "Occupation": "Wilderness survival instructor",
       "Power": "Mind-reading"
     },
