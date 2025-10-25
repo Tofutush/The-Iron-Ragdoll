@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-10-25
+
+- Added the [Introversion and extroversion](/world/moreland/#introversion-and-extroversion) section to Moreland;
+- Removed "gender" from all Moose (or people who were given nationality later like Halcyon and Typhoon) and replaced them with pronouns and energy.
+
 ## 2025-10-24
 
 - Added `kaleidoscope.png`, `moonflower.png`;

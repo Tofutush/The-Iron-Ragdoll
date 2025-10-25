@@ -79,7 +79,9 @@ Since family isn't a thing in Moreland, people don't have family names. In legal
 
 ### Introversion and extroversion
 
-Morelandian society takes the comfort of introverts very seriously.
+Morelandian society takes the comfort of introverts very seriously. Your "energy," which is to say whether you're introverted or extroverted, is a legal identifier assigned to you when you were very young and written on your ID. There are plenty of facilities known as "introvert caves" where people can work quietly without interruption or other human contact. They are always guarded at the entrance by Guardians and you need to show them your ID to be let in.
+
+Moreland brands itself as a society where people with differing personalities are all given an equal chance to succeed. Introverts are never being pushed to "step out of their comfort zone" and "put themselves out there" to be noticed. They don't show you this data, but nearly everyone at the top of the Guardian Moose are legally extroverts. They claim they're protecting introverts by keeping them locked up in holes and preventing them from doing certain jobs, but it is in fact limiting introverts as a lower, subjugated class.
 
 ## History
 
