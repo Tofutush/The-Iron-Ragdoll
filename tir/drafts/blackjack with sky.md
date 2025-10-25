@@ -1,6 +1,6 @@
 # to-do
 
-- [ ] fix surrender
+- [ ] bag sliding animation
 
 # plans
 
