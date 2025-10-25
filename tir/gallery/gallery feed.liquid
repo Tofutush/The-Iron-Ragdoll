@@ -18,7 +18,6 @@
 			<title>{{ img.name }}</title>
 			<link>https://tofutush.github.io/The-Iron-Ragdoll/gallery/{{ year }}/</link>
 			<description><![CDATA[
-				<h1>{{ img.name }}</h1>
 				{% capture image %}{% image "gallery/" img.name img.type 1000 img.name %}{% endcapture %}
 				{{ image | transformWithHtmlBase: "https://tofutush.github.io/" }}</img>
 				{% if img.ch %}
