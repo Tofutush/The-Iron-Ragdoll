@@ -1,7 +1,5 @@
 # to-do
 
-- [ ] bag sliding animation
-
 # plans
 
 - [ ] start screen
@@ -16,7 +14,7 @@
 	- [ ] continue
 - [ ] game start
 	- [x] intro cutscene
-		- [ ] bag lifted off face, white screen fades into sky
+		- [x] bag lifted off face, white screen fades into sky
 		- [x] sky explaining you have been sentenced to death but play blackjack to live
 		- [ ] skippable tutorial
 			- [ ] Blackjack is a game of comparing who has a higher hand. You want to get as close to 21 as possible without going over.
@@ -41,7 +39,7 @@
 			- [ ] Buying insurance is betting on whether I have blackjack. You can bet for up to half your original bet. If I do have blackjack, you will be paid 3 times your insurance bet. It is carried out independently of the outcome of the main game.
 			- [ ] Now that you've placed your insurance bet, it's time to play as usual. I'll leave this part up to you.
 			- [ ] My turn. Looks like I *do* have blackjack! That means you lose. But your insurance bet won.
-- [ ] main game
+- [x] main game
 	- [x] bets in
 	- [x] deal
 		- [x] 2 cards to player
