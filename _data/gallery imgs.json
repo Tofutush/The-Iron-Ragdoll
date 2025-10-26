@@ -4677,5 +4677,50 @@
       "moonflower"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "blackjack thumb",
+    "type": "png",
+    "date": "2025-10-26",
+    "ch": [
+      "blackjack"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "jumbo thumb",
+    "type": "png",
+    "date": "2025-10-26",
+    "ch": [
+      "jumbo"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "kaleidoscope thumb",
+    "type": "png",
+    "date": "2025-10-26",
+    "ch": [
+      "kaleidoscope"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "mulberry thumb",
+    "type": "png",
+    "date": "2025-10-26",
+    "ch": [
+      "mulberry"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "tsunami thumb",
+    "type": "png",
+    "date": "2025-10-26",
+    "ch": [
+      "tsunami"
+    ],
+    "kind": "thumb"
   }
 ]
