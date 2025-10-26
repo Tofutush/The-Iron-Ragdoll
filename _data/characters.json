@@ -20,6 +20,7 @@
       "Gender": "Female (cis)",
       "Soul": "Gas, lightning-shaped",
       "Birth": "2017-08-14",
+      "Death": "2050-06-13",
       "Nationality": "Bauhinian",
       "Orientation": "Bisexual, deep in the closet",
       "Marital status": "Married (to <a href=\"../nightsun/\">Nightsun</a>)",
@@ -53,6 +54,7 @@
       "Gender": "Female (cis)",
       "Soul": "Solid, gemstone-shaped",
       "Birth": "1994-09-20",
+      "Death": "2032-05-28",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Married (to <a href=\"../peacock/\">Peacock</a>)",
@@ -229,6 +231,7 @@
       "Gender": "Male",
       "Soul": "Solid, heart-shaped",
       "Birth": "2017-05-20",
+      "Death": "2042-06-01",
       "Nationality": "Bauhinian",
       "Weapon": "Firecrackers"
     },
@@ -534,6 +537,7 @@
       "Gender": "Female",
       "Soul": "Solid, sphere-shaped",
       "Birth": "2011-10-13",
+      "Death": "2042-12-01",
       "Nationality": "Bauhinian",
       "Marital status": "Married"
     },
@@ -1761,6 +1765,7 @@
       "Gender": "Female",
       "Soul": "Solid, snowy",
       "Birth": "1960-01-15",
+      "Death": "2017-01-15",
       "Nationality": "Bauhinian",
       "Occupation": "State security officer"
     },
