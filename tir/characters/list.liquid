@@ -30,7 +30,7 @@ eleventyNavigation:
 					<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
 					{% assign filteredGallery = gallery | filterGallery: ch.name %}
 					<td><a href="/characters/{{ ch.name | lowerCase }}/#gallery">{{ filteredGallery.size }}</a></td>
-					<td>{{ ch.attr.Birthday }}</td>
+					<td>{{ ch.attr.Birth }}</td>
 					<td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upperCase }}</td>
 				</tr>
 			{% endfor %}

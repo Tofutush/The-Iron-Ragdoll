@@ -46,7 +46,7 @@ function utilPlugin(eleventyConfig) {
 	});
 	eleventyConfig.addFilter('getBDayStars', function (arr) {
 		let dateMonth = new Date().toISOString().slice(5, 10);
-		return arr.filter(ch => ch.attr?.Birthday?.substring(5) === dateMonth);
+		return arr.filter(ch => ch.attr?.Birth?.substring(5) === dateMonth);
 	});
 	eleventyConfig.addFilter('getHolidays', function (blah) {
 		let dateMonth = new Date().toISOString().slice(5, 10);

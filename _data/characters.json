@@ -19,7 +19,7 @@
       "Nickname": "Spark (by Sky)",
       "Gender": "Female (cis)",
       "Soul": "Gas, lightning-shaped",
-      "Birthday": "2017-08-14",
+      "Birth": "2017-08-14",
       "Nationality": "Bauhinian",
       "Orientation": "Bisexual, deep in the closet",
       "Marital status": "Married (to <a href=\"../nightsun/\">Nightsun</a>)",
@@ -52,7 +52,7 @@
     "attr": {
       "Gender": "Female (cis)",
       "Soul": "Solid, gemstone-shaped",
-      "Birthday": "1994-09-20",
+      "Birth": "1994-09-20",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Married (to <a href=\"../peacock/\">Peacock</a>)",
@@ -81,7 +81,7 @@
       "Nickname": "Peepoo (by his parents)",
       "Gender": "Male (cis)",
       "Soul": "Gas, star-shaped",
-      "Birthday": "1986-03-06",
+      "Birth": "1986-03-06",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Widowed<br/>(Previously widowed by Rainbow, divorced Reindeer, and widowed by <a href=\"../amber/\">Amber</a>)",
@@ -114,7 +114,7 @@
       "Full name": "Willow Amber Peacock",
       "Gender": "Female",
       "Soul": "Liquid, tea-like",
-      "Birthday": "2026-09-25",
+      "Birth": "2026-09-25",
       "Nationality": "Bauhinian",
       "Orientation": "Homosexual",
       "Power": "Mind reading lv. 150"
@@ -139,7 +139,7 @@
       "Nickname": "Rib (by Sky)",
       "Gender": "Female",
       "Soul": "Solid, stripey like a ribbon",
-      "Birthday": "1995-08-14",
+      "Birth": "1995-08-14",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Weapon": "Frying pan"
@@ -167,7 +167,7 @@
       "Full name": "Qibli Donut Lightning",
       "Gender": "Female (cis)",
       "Soul": "Gas, bubble-shaped",
-      "Birthday": "2017-02-01",
+      "Birth": "2017-02-01",
       "Nationality": "Bauhinian",
       "Weapon": "Wand",
       "Power": "Magic lv. 10"
@@ -198,7 +198,7 @@
       "Full name": "Sky Elmwood Dazzle",
       "Gender": "Male",
       "Soul": "Solid, spades-shaped",
-      "Birthday": "2017-04-13",
+      "Birth": "2017-04-13",
       "Nationality": "Bauhinian",
       "Occupation": "MSS officer",
       "Weapon": "Playing cards with blade edges"
@@ -228,7 +228,7 @@
       "Nickname": "Crackers (by Sparky, Qibli, and Sky)",
       "Gender": "Male",
       "Soul": "Solid, heart-shaped",
-      "Birthday": "2017-05-20",
+      "Birth": "2017-05-20",
       "Nationality": "Bauhinian",
       "Weapon": "Firecrackers"
     },
@@ -254,7 +254,7 @@
     "attr": {
       "Gender": "Female",
       "Soul": "Liquid, calm as a lake",
-      "Birthday": "2017-06-15",
+      "Birth": "2017-06-15",
       "Nationality": "Bauhinian"
     },
     "palette": {
@@ -279,7 +279,7 @@
       "Nickname": "Al (by Sky)",
       "Gender": "Female",
       "Soul": "Solid",
-      "Birthday": "2016-11-27",
+      "Birth": "2016-11-27",
       "Nationality": "Bauhinian"
     },
     "palette": {
@@ -304,7 +304,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Gas, tomato-shaped",
-      "Birthday": "2017-05-19",
+      "Birth": "2017-05-19",
       "Nationality": "Bauhinian",
       "Weapon": "Wrench"
     },
@@ -325,7 +325,7 @@
     "af": "https://artfight.net/character/3986088.potato",
     "attr": {
       "Gender": "Male",
-      "Birthday": "2017-05-19"
+      "Birth": "2017-05-19"
     },
     "palette": {
       "shirt": "#575757",
@@ -347,7 +347,7 @@
     "attr": {
       "Nickname": "Guillo (by Sky)",
       "Gender": "Female",
-      "Birthday": "2016-03-30",
+      "Birth": "2016-03-30",
       "Nationality": "Atlasian"
     },
     "palette": {
@@ -372,7 +372,7 @@
       "Nickname": "Teff (by Sky)",
       "Gender": "Male",
       "Soul": "Gas, flower-shaped like his symbol",
-      "Birthday": "2017-04-21",
+      "Birth": "2017-04-21",
       "Nationality": "Bauhinian",
       "Weapon": "Walther P38 pistol"
     },
@@ -401,7 +401,7 @@
       "Nickname": "Boa (by Sky)",
       "Gender": "Male",
       "Soul": "Solid, broken glass shards",
-      "Birthday": "2016-09-10",
+      "Birth": "2016-09-10",
       "Nationality": "Bauhinian",
       "Occupation": "Bartender, chemist, undertaker, and chemist again"
     },
@@ -428,7 +428,7 @@
       "Nickname": "Cos (by Sky)",
       "Gender": "Female",
       "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
-      "Birthday": "2016-12-24",
+      "Birth": "2016-12-24",
       "Nationality": "Bauhinian",
       "Weapon": "Throwing stars",
       "Power": "Mind reading, lv. 13"
@@ -473,7 +473,7 @@
     "attr": {
       "Gender": "Female",
       "Soul": "Liquid, constantly-boiling",
-      "Birthday": "2020-09-08",
+      "Birth": "2020-09-08",
       "Nationality": "Bauhinian",
       "Occupation": "Magic academy teacher",
       "Weapon": "bracelets",
@@ -533,7 +533,7 @@
       "Full name": "Fantasy Amber Peacock",
       "Gender": "Female",
       "Soul": "Solid, sphere-shaped",
-      "Birthday": "2011-10-13",
+      "Birth": "2011-10-13",
       "Nationality": "Bauhinian",
       "Marital status": "Married"
     },
@@ -558,7 +558,7 @@
       "Full name": "Ironheart Peacock Reindeer",
       "Gender": "Male",
       "Soul": "Solid, heart-shaped",
-      "Birthday": "2013-01-15",
+      "Birth": "2013-01-15",
       "Nationality": "Bauhinian"
     },
     "palette": {
@@ -584,7 +584,7 @@
     "attr": {
       "Full name": "Nightsun Cassowary Tourmaline",
       "Gender": "Male",
-      "Birthday": "2017-04-18",
+      "Birth": "2017-04-18",
       "Nationality": "Atlasian, later Bauhinian",
       "Orientation": "Bisexual, deep in the closet",
       "Marital status": "Married (to <a href=\"../sparky/\">Sparky</a>)",
@@ -617,7 +617,7 @@
     "attr": {
       "Full name": "Bramble Nightsun Sparky",
       "Gender": "Male",
-      "Birthday": "2036-08-29",
+      "Birth": "2036-08-29",
       "Nationality": "Bauhinian"
     },
     "palette": {
@@ -641,7 +641,7 @@
       "Nickname": "Cheesecake (codename by the Guardians)",
       "Gender": "Female",
       "Soul": "Solid, jelly-like",
-      "Birthday": "2001-12-30",
+      "Birth": "2001-12-30",
       "Nationality": "Bauhinian",
       "Occupation": "MSS officer",
       "Weapon": "Baton",
@@ -674,7 +674,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Solid, pumpkin-shaped",
-      "Birthday": "2003-07-27",
+      "Birth": "2003-07-27",
       "Nationality": "Bauhinian",
       "Orientation": "Homosexual",
       "Occupation": "MSS officer",
@@ -711,7 +711,7 @@
       "Pronouns": "he/him",
       "Energy": "Extrovert",
       "Soul": "Solid, a little bird",
-      "Birthday": "1991-03-18",
+      "Birth": "1991-03-18",
       "Nationality": "Bauhinian, later Moose",
       "Marital status": "Married",
       "Occupation": "MSS officer",
@@ -743,7 +743,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Liquid, looks like mercury",
-      "Birthday": "1978-11-20",
+      "Birth": "1978-11-20",
       "Nationality": "Bauhinian",
       "Marital status": "Widowed",
       "Occupation": "MSS officer",
@@ -774,7 +774,7 @@
     ],
     "attr": {
       "Gender": "Female",
-      "Birthday": "1990-05-13",
+      "Birth": "1990-05-13",
       "Nationality": "Bauhinian",
       "Occupation": "Smuggler"
     },
@@ -795,7 +795,7 @@
     ],
     "attr": {
       "Gender": "Male (trans)",
-      "Birthday": "1998-09-21",
+      "Birth": "1998-09-21",
       "Nationality": "Bauhinian",
       "Occupation": "Secret agent"
     },
@@ -819,7 +819,7 @@
     "attr": {
       "Full name": "Pearl Gemstone",
       "Gender": "Female",
-      "Birthday": "2026-02-09",
+      "Birth": "2026-02-09",
       "Nationality": "Sylvandian"
     },
     "palette": {
@@ -857,7 +857,7 @@
     "attr": {
       "Full name": "Jackpot Cloudy",
       "Gender": "Male",
-      "Birthday": "1994-10-20",
+      "Birth": "1994-10-20",
       "Nationality": "Atlasian"
     },
     "palette": {
@@ -874,7 +874,7 @@
     "attr": {
       "Full name": "Snake Cloudy",
       "Gender": "Male",
-      "Birthday": "2026-06-18",
+      "Birth": "2026-06-18",
       "Age estimation": "Around the same as Pearl",
       "Nationality": "Atlasian"
     },
@@ -896,7 +896,7 @@
       "Full name": "Snowball 201710033746",
       "Pronouns": "she/her",
       "Energy": "Extrovert",
-      "Birthday": "2017-10-03",
+      "Birth": "2017-10-03",
       "Nationality": "Moose",
       "Power": "Invisibility"
     },
@@ -917,7 +917,7 @@
     "af": "https://artfight.net/character/5793882.buttercup",
     "attr": {
       "Gender": "Female (cis)",
-      "Birthday": "2010-02-03",
+      "Birth": "2010-02-03",
       "Age estimation": "Around the same as Goose",
       "Nationality": "Sylvandian",
       "Orientation": "Asexual",
@@ -953,7 +953,7 @@
     "attr": {
       "Full name": "Beauty Cherry Hyrax",
       "Gender": "Female (cis)",
-      "Birthday": "2014-01-04",
+      "Birth": "2014-01-04",
       "Nationality": "Bauhinian",
       "Weapon": "Lasso"
     },
@@ -978,7 +978,7 @@
     "attr": {
       "Full name": "Chastity Cherry Hyrax",
       "Gender": "Female (cis)",
-      "Birthday": "2015-03-14",
+      "Birth": "2015-03-14",
       "Nationality": "Bauhinian",
       "Weapon": "Chainsaw"
     },
@@ -1002,7 +1002,7 @@
     "attr": {
       "Full name": "Devotion Cherry Hyrax",
       "Gender": "Female (cis)",
-      "Birthday": "2016-05-18",
+      "Birth": "2016-05-18",
       "Nationality": "Bauhinian",
       "Weapon": "Colt 1911 pistol"
     },
@@ -1026,7 +1026,7 @@
     "attr": {
       "Full name": "Elegance Cherry Hyrax",
       "Gender": "Female (cis)",
-      "Birthday": "2017-06-21",
+      "Birth": "2017-06-21",
       "Nationality": "Bauhinian",
       "Weapon": "Fan",
       "Power": "Timekeeping lv. 260"
@@ -1051,7 +1051,7 @@
     "attr": {
       "Full name": "Animus Hyrax Cherry",
       "Gender": "Male (cis)",
-      "Birthday": "2017-08-30",
+      "Birth": "2017-08-30",
       "Nationality": "Bauhinian",
       "Orientation": "Homosexual, came out to Sparky only",
       "Occupation": "Chairman of Starcorp",
@@ -1075,7 +1075,7 @@
     "attr": {
       "Gender": "Male (cis)",
       "Soul": "Solid",
-      "Birthday": "1986-08-27",
+      "Birth": "1986-08-27",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Married (to Cherry)",
@@ -1121,7 +1121,7 @@
     "attr": {
       "Gender": "Male (cis)",
       "Soul": "Has 6, an original one and 5 superpowered ones, rainbow, all gas",
-      "Birthday": "1984-06-08",
+      "Birth": "1984-06-08",
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Married",
@@ -1147,7 +1147,7 @@
       "Nickname": "Pine (by Rosemary)",
       "Gender": "Female",
       "Soul": "Solid, pinecone-shaped",
-      "Birthday": "1984-08-05",
+      "Birth": "1984-08-05",
       "Nationality": "Bauhinian",
       "Marital status": "Married",
       "Occupation": "Kismet's double; formerly housewife"
@@ -1189,7 +1189,7 @@
     "attr": {
       "Nickname": "Sunny (by Willow)",
       "Gender": "Female",
-      "Birthday": "2022-11-14",
+      "Birth": "2022-11-14",
       "Nationality": "Bauhinian",
       "Orientation": "Homosexual",
       "Occupation": "College student"
@@ -1252,7 +1252,7 @@
     ],
     "attr": {
       "Gender": "Female (cis)",
-      "Birthday": "1985-01-31",
+      "Birth": "1985-01-31",
       "Nationality": "Bauhinian",
       "Occupation": "Physician"
     },
@@ -1272,7 +1272,7 @@
     ],
     "attr": {
       "Gender": "Male (cis)",
-      "Birthday": "1985-04-19",
+      "Birth": "1985-04-19",
       "Nationality": "Bauhinian",
       "Occupation": "Physician"
     },
@@ -1290,7 +1290,7 @@
     ],
     "attr": {
       "Gender": "Male",
-      "Birthday": "1989-06-05",
+      "Birth": "1989-06-05",
       "Nationality": "Bauhinian",
       "Occupation": "Physician"
     },
@@ -1313,7 +1313,7 @@
       "Nickname": "Frost (by Jaculus)",
       "Gender": "Female (cis)",
       "Soul": "Non-Newtonian",
-      "Birthday": "2011-02-19",
+      "Birth": "2011-02-19",
       "Nationality": "Bauhinian",
       "Orientation": "Bisexual",
       "Marital status": "Married (to <a href=\"../entity/\">Entity</a>)",
@@ -1339,7 +1339,7 @@
       "Full name": "Jaculus Koala Kangaroo",
       "Nickname": "Jac (by Frosting)",
       "Gender": "Female (cis)",
-      "Birthday": "2011-11-11",
+      "Birth": "2011-11-11",
       "Nationality": "Bauhinian"
     },
     "palette": {
@@ -1361,7 +1361,7 @@
       "Full name": "Candlelight Ember (later Candlelight Muscat)",
       "Nickname": "Candle",
       "Gender": "Male",
-      "Birthday": "2003-12-02",
+      "Birth": "2003-12-02",
       "Nationality": "Westavian",
       "Orientation": "Homosexual",
       "Occupation": "SPF officer"
@@ -1424,7 +1424,7 @@
     "attr": {
       "Full name": "Mooncake Thyme",
       "Gender": "Female",
-      "Birthday": "2003-08-18",
+      "Birth": "2003-08-18",
       "Nationality": "Westavian",
       "Occupation": "Police"
     },
@@ -1446,7 +1446,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Gas, thyme-shaped",
-      "Birthday": "1977-11-23",
+      "Birth": "1977-11-23",
       "Nationality": "Westavian",
       "Marital status": "Married",
       "Occupation": "Farmer"
@@ -1633,7 +1633,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Liquid, warm and bloody",
-      "Birthday": "2013-07-13",
+      "Birth": "2013-07-13",
       "Nationality": "Bauhinian",
       "Occupation": "Private detective",
       "Weapon": "Dagger"
@@ -1657,7 +1657,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Gas, wispy",
-      "Birthday": "2010-07-15",
+      "Birth": "2010-07-15",
       "Nationality": "Fantoni",
       "Weapon": "None, unless joints count",
       "Power": "Immortality"
@@ -1760,7 +1760,7 @@
     "attr": {
       "Gender": "Female",
       "Soul": "Solid, snowy",
-      "Birthday": "1960-01-15",
+      "Birth": "1960-01-15",
       "Nationality": "Bauhinian",
       "Occupation": "State security officer"
     },
@@ -1788,7 +1788,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Solid, soft and squishy like a marshmallow",
-      "Birthday": "2011-07-06",
+      "Birth": "2011-07-06",
       "Nationality": "Bauhinian",
       "Orientation": "Bisexual",
       "Marital status": "Married (to <a href=\"../frosting/\">Frosting</a>)",
@@ -1817,7 +1817,7 @@
       "Full name": "Harmony Frosting Entity",
       "Gender": "Female",
       "Soul": "Gas, shaped like a music note",
-      "Birthday": "2041-01-05",
+      "Birth": "2041-01-05",
       "Nationality": "Bauhinian",
       "Occupation": "MSS officer"
     },
@@ -1843,7 +1843,7 @@
       "Full name": "Sugarcane Snowstorm Parrot",
       "Nickname": "Sugar (by Harmony)",
       "Gender": "Female",
-      "Birthday": "2041-07-16",
+      "Birth": "2041-07-16",
       "Nationality": "Bauhinian",
       "Occupation": "MSS officer"
     },
@@ -1996,7 +1996,7 @@
       "Nickname": "Diamonds (codename by Sky)",
       "Gender": "Female",
       "Soul": "Liquid, tumbling water",
-      "Birthday": "2015-01-13",
+      "Birth": "2015-01-13",
       "Nationality": "Bauhinian",
       "Occupation": "hotel concierge"
     },

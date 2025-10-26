@@ -14,7 +14,7 @@ function chPlugin(eleventyConfig) {
 		return Object.assign({ "soul": ch.color }, ch.palette);
 	});
 	eleventyConfig.addFilter('sortByAge', function (arr) {
-		return arr.filter(ch => ch.attr?.Birthday).sort((a, b) => a.attr.Birthday.localeCompare(b.attr.Birthday));
+		return arr.filter(ch => ch.attr?.Birth).sort((a, b) => a.attr.Birth.localeCompare(b.attr.Birth));
 	});
 }
 

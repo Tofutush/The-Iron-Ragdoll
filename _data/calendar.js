@@ -5,8 +5,8 @@ let days = JSON.parse(JSON.stringify(daysJson));
 
 // tf is this godawful code kid can future you fix it
 for (let z = 0; z < characters.length; z++) {
-	if (characters[z].attr?.Birthday) {
-		let monthDay = characters[z].attr.Birthday.substring(5);
+	if (characters[z].attr?.Birth) {
+		let monthDay = characters[z].attr.Birth.substring(5);
 		let obj = {
 			image: `${characters[z].name.toLowerCase()} thumb`,
 			type: 'png',
