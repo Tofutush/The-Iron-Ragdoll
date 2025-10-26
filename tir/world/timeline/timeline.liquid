@@ -9,7 +9,7 @@ eleventyNavigation:
   parent: World
 ---
 <style>
-	.attr>div>p {
+	.attr>div:nth-child(2n-1)>p {
 		text-align:right;
 	}
 	.attr>div>p:first-child {
@@ -20,7 +20,7 @@ eleventyNavigation:
 	}
 	@media only screen and (max-width: 480px) {
 		.attr>div>p {
-			text-align:left;
+			text-align:left !important;
 		}
 	}
 </style>
