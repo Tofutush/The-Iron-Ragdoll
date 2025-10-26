@@ -204,6 +204,8 @@ Sky makes the blackmail of the century by going to Fanton for the military offic
 
 After the war ended, Sky was awarded with eternal bragging rights and a choice to work wherever he wanted to. He decided to become a teacher at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/)[^2].
 
+He also planned the covert operation to assassinate [Halcyon](/characters/halcyon/), though didn't take part in his execution. The rationale was, if a level 10 magician like Qibli could deal so much damage, what if Halcyon learns to distribute *his* magic too? It was too risky. They poisoned his food at a restaurant he frequented, though it also killed nearly every other patron inside.
+
 Mulberry remained unemployed in Bauhinia, living on her MSS pension, occasionally doing some minimum-wage jobs to support her vices.
 
 Blackjack got a job as a martial arts instructor at a high school. She couldn't get in touch with any of her minions but she could guess most of them were caught, since she had to sell a lot of them when she was imprisoned. She found it hard to get used to the rigid life in the light.
