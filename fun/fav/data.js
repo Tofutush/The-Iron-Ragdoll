@@ -493,7 +493,7 @@ img: "/The-Iron-Ragdoll/img/gallery/Ab19PaiUbR-500.webp"
 name: "Kaleidoscope",
 color: "#6f4a16",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/LMXonkwLqP-500.webp"
 },
 
 
@@ -669,7 +669,7 @@ img: "/The-Iron-Ragdoll/img/gallery/FiBuyhMHq7-500.webp"
 name: "Tsunami",
 color: "#0a58bd",
 desc: "Some random hotel concierge with a lot of aura about.",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/JLbCAers1y-500.webp"
 },
 
 
@@ -677,7 +677,7 @@ img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
 name: "Jumbo",
 color: "#cc0f0f",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/WMf7187Mxo-500.webp"
 },
 
 
@@ -685,7 +685,7 @@ img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
 name: "Mulberry",
 color: "#06740d",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/z9H35f9XBf-500.webp"
 },
 
 
@@ -693,7 +693,7 @@ img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
 name: "Blackjack",
 color: "#2e2e2e",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/_o5Dv_OOeb-500.webp"
 },
 
 ];
