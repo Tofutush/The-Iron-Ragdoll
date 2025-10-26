@@ -7,6 +7,11 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-10-26
+
+- Added death dates to character attributes;
+	- (I need to kill more characters fr fr)
+
 ## 2025-10-25
 
 - Added the [Introversion and extroversion](/world/moreland/#introversion-and-extroversion) section to Moreland;
