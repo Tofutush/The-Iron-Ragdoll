@@ -11,6 +11,7 @@ titlezh: 更新日志
 
 - Added death dates to character attributes;
 	- (I need to kill more characters fr fr)
+- Added `kaleidoscope thumb.png`, `jumbo thumb.png`, `blackjack thumb.png`, `tsunami thumb.png`, `mulberry thumb.png`;
 
 ## 2025-10-25
 
