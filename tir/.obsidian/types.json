@@ -7,6 +7,7 @@
     "sds": "multitext",
     "myTags": "multitext",
     "permalink": "checkbox",
-    "categories": "multitext"
+    "categories": "multitext",
+    "draft": "checkbox"
   }
 }

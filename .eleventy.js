@@ -96,6 +96,12 @@ export default function (eleventyConfig) {
 		// If not an HTML output, return content as-is
 		return content;
 	});
+	// drafts
+	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
+		if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
+			return false;
+		}
+	});
 	return {
 		dir: {
 			input: 'tir',
