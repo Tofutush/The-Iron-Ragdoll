@@ -8,8 +8,8 @@
 
 # plans
 
-- [ ] start screen
-	- [ ] save / load
+- [x] start screen
+	- [x] save / load
 	- [x] settings
 		- [x] sound
 		- [x] language
@@ -18,33 +18,10 @@
 		- [x] strict splitting rules (specifics down in code)
 	- [x] start
 	- [x] continue
-- [ ] game start
+- [x] game start
 	- [x] intro cutscene
 		- [x] bag lifted off face, white screen fades into sky
 		- [x] sky explaining you have been sentenced to death but play blackjack to live
-		- [ ] skippable tutorial
-			- [ ] Blackjack is a game of comparing who has a higher hand. You want to get as close to 21 as possible without going over.
-			- [ ] Numbered cards count as their number. Face cards (J, Q, K) count as 10. Aces count as either 1 or 11, depending on which gives you the highest number that's not over 21.
-			- [ ] Place some bets! In the tutorial you have infinite money. (I also set a minimum bet of $10 that won't be in the actual game.)
-			- [ ] At the start, I will deal us both 2 cards. One of my cards will be facing down.
-			- [ ] You can choose to "hit," which is to take a new card, or "stand," which ends your round.
-			- [ ] Now try hitting.
-			- [ ] Great! Now your cards are totalled at 20. This is a good time to stand, because if you hit, there's a big chance you will bust — go over 21.
-			- [ ] Now that you're standing, I will start drawing. I have to draw until my total gets over 17, after which I have to stand.
-			- [ ] (If I reach a "soft 17" — my cards count as 17 only if the ace is counted as 11, whether I will hit or stand is configurable in the settings. It defaults to hit.)
-			- [ ] If I bust, you win, provided you didn't bust.
-			- [ ] I got 18. You win! You will be paid twice the amount you bet. Let's play another round. Bets in.
-			- [ ] Natural blackjack! You got 21 in your first two cards alone.
-			- [ ] The game ends immediately, and you will be paid 1.5 times the amount you bet. Next round, bets in.
-			- [ ] You got an 11. This is a good time to double down!
-			- [ ] Doubling down means doubling your bet, taking one more card, and then standing. You can only double down when you have 2 cards in your hand.
-			- [ ] See, 21! With the highest number in the game, you can only win or tie. My turn.
-			- [ ] I got 18. You win! Doubling down is risky but also rewarding. Another round.
-			- [ ] I have an ace! When this happens, you can buy insurance.
-			- [ ] This is because I have a good chance of having natural blackjack — that is, the card that's face-down has a good chance of being a card of value 10. If that's the case, you can only tie or lose.
-			- [ ] Buying insurance is betting on whether I have blackjack. You can bet for up to half your original bet. If I do have blackjack, you will be paid 3 times your insurance bet. It is carried out independently of the outcome of the main game.
-			- [ ] Now that you've placed your insurance bet, it's time to play as usual. I'll leave this part up to you.
-			- [ ] My turn. Looks like I *do* have blackjack! That means you lose. But your insurance bet won.
 - [x] main game
 	- [x] bets in
 	- [x] deal
