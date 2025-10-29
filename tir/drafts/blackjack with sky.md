@@ -10,14 +10,14 @@
 
 - [ ] start screen
 	- [ ] save / load
-	- [ ] settings
-		- [ ] sound
-		- [ ] language
-		- [ ] stand or hit at soft 17
-		- [ ] how many decks (1 - 8)
-		- [ ] strict splitting rules (specifics down in code)
+	- [x] settings
+		- [x] sound
+		- [x] language
+		- [x] stand or hit at soft 17
+		- [x] how many decks (1 - 8)
+		- [x] strict splitting rules (specifics down in code)
 	- [x] start
-	- [ ] continue
+	- [x] continue
 - [ ] game start
 	- [x] intro cutscene
 		- [x] bag lifted off face, white screen fades into sky
