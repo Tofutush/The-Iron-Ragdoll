@@ -18,21 +18,29 @@ jobs:
         with:
           node-version: current
 
+      - name: Persist npm cache
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package.json') }}
+
+      - name: Persist Eleventy .cache
+        uses: actions/cache@v3
+        with:
+          path: ./.cache
+          key: ${{ runner.os }}-eleventy-fetch-cache
+
       - name: Install dependencies
-        run: |
-          npm ci
+        run: npm ci
 
       - name: build
-        run: |
-          npm run build
+        run: npm run build
 
       - name: buildneo
-        run: |
-          npm run buildneo
+        run: npm run buildneo
 
       - name: copy images
-        run: |
-          npm run copy
+        run: npm run copy
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
