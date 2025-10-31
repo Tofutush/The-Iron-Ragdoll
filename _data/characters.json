@@ -1085,7 +1085,7 @@
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Married (to Cherry)",
-      "Occupation": "Chairman"
+      "Occupation": "Chairman of Starcorp"
     },
     "palette": {
       "hair": "#2e2e2e"
@@ -1131,7 +1131,7 @@
       "Nationality": "Bauhinian",
       "Orientation": "Heterosexual",
       "Marital status": "Married",
-      "Occupation": "President",
+      "Occupation": "President of Bauhinia",
       "Power": "All of them! At level 9000+!"
     },
     "palette": {
@@ -1146,6 +1146,7 @@
     "color": "#094205",
     "quote": "Deep breath… I can do this.",
     "tags": [
+      "Coastline",
       "Flower City",
       "Bauhinia"
     ],
@@ -1156,7 +1157,7 @@
       "Birth": "1984-08-05",
       "Nationality": "Bauhinian",
       "Marital status": "Married",
-      "Occupation": "Kismet's double; formerly housewife"
+      "Occupation": "Grocery store owner, later Kismet's double"
     },
     "palette": {
       "eyes, ears": "#000",
@@ -1210,8 +1211,9 @@
     "name": "Dragonfly",
     "namezh": "蜻蜓",
     "color": "#00adad",
-    "desc": "Some martial arts master in the woods.",
+    "desc": "Some martial arts master.",
     "tags": [
+      "Coastline",
       "Starcorp",
       "Bauhinia"
     ],
@@ -1220,7 +1222,8 @@
       "Gender": "Male",
       "Soul": "Solid",
       "Nationality": "Bauhinian",
-      "Weapon": "His fists. A wooden branch if there is one nearby."
+      "Occupation": "Close protection officer",
+      "Weapon": "Colt 1911 pistol"
     },
     "palette": {
       "shirt": "#fff",
@@ -1593,7 +1596,6 @@
     "af": "https://artfight.net/character/6011564.moonbeam",
     "attr": {
       "Gender": "Female",
-      "Age estimation": "A lot older than Cobalt",
       "Nationality": "Sylvandian",
       "Occupation": "Psychic"
     },
@@ -1872,7 +1874,6 @@
       "Gender": "Female",
       "Soul": "Solid, jelly-like",
       "Birth": "2039-01-25",
-      "Age estimation": "The same as Harmony",
       "Nationality": "Westavian"
     },
     "palette": {
@@ -1912,7 +1913,6 @@
     "attr": {
       "Gender": "Female",
       "Soul": "Gas, flower-shaped",
-      "Age estimation": "At least 10 years older than Frosting that's not that big of a gap is it I mean her physical body is fucking gone already but her poems live forever you know what I mean?",
       "Nationality": "Bauhinian"
     },
     "about": "A poet from Bauhinia, traveled to Moreland and wandered with the [Appaloosa Tribe](/world/moreland/appaloosa-tribe/) for a long while before being kidnapped back into Bauhinia and sentenced to eternal death."
