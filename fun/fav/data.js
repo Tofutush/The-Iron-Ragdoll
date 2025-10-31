@@ -100,7 +100,7 @@ img: "/The-Iron-Ragdoll/img/gallery/scIAwaDZXQ-500.webp"
 {
 name: "Guillotine",
 color: "#d0ae3a",
-desc: "Who is this girl and why does she want us to call her Guillotine?",
+desc: "",
 img: "/The-Iron-Ragdoll/img/gallery/LuTpj-1rdH-500.webp"
 },
 
