@@ -372,7 +372,7 @@ img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
 {
 name: "Dragonfly",
 color: "#00adad",
-desc: "Some martial arts master in the woods.",
+desc: "Some martial arts master.",
 img: "/The-Iron-Ragdoll/img/gallery/O8Du-58hgo-500.webp"
 },
 
