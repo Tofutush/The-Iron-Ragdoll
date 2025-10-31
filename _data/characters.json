@@ -17,7 +17,7 @@
     "attr": {
       "Full name": "Sparky Amber Peacock",
       "Nickname": "Spark (by Sky)",
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Soul": "Gas, lightning-shaped",
       "Birth": "2017-08-14",
       "Death": "2050-06-13",
@@ -51,7 +51,7 @@
     ],
     "af": "https://artfight.net/character/4038425.amber",
     "attr": {
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Soul": "Solid, gemstone-shaped",
       "Birth": "1994-09-20",
       "Death": "2032-05-28",
@@ -81,7 +81,7 @@
     "af": "https://artfight.net/character/4038427.peacock",
     "attr": {
       "Nickname": "Peepoo (by his parents)",
-      "Gender": "Male (cis)",
+      "Gender": "Male",
       "Soul": "Gas, star-shaped",
       "Birth": "1986-03-06",
       "Nationality": "Bauhinian",
@@ -167,7 +167,7 @@
     "af": "https://artfight.net/character/5806216.qibli",
     "attr": {
       "Full name": "Qibli Donut Lightning",
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Soul": "Gas, bubble-shaped",
       "Birth": "2017-02-01",
       "Nationality": "Bauhinian",
@@ -801,7 +801,7 @@
       "Moreland"
     ],
     "attr": {
-      "Gender": "Male (trans)",
+      "Gender": "Male",
       "Birth": "1998-09-21",
       "Nationality": "Bauhinian",
       "Occupation": "Secret agent"
@@ -845,7 +845,7 @@
     ],
     "attr": {
       "Gender": "Female",
-      "Age estimation": "Around the same as Sparky",
+      "Birth": "2017-09-12",
       "Nationality": "Fantoni"
     },
     "palette": {
@@ -882,7 +882,6 @@
       "Full name": "Snake Cloudy",
       "Gender": "Male",
       "Birth": "2026-06-18",
-      "Age estimation": "Around the same as Pearl",
       "Nationality": "Atlasian"
     },
     "palette": {
@@ -923,9 +922,8 @@
     ],
     "af": "https://artfight.net/character/5793882.buttercup",
     "attr": {
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Birth": "2010-02-03",
-      "Age estimation": "Around the same as Goose",
       "Nationality": "Sylvandian",
       "Orientation": "Asexual",
       "Weapon": "Rifle"
@@ -959,9 +957,10 @@
     ],
     "attr": {
       "Full name": "Beauty Cherry Hyrax",
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Birth": "2014-01-04",
       "Nationality": "Bauhinian",
+      "Marital status": "Married (to <a href=\"../ironheart/\">Ironheart</a>)",
       "Weapon": "Lasso"
     },
     "palette": {
@@ -984,7 +983,7 @@
     ],
     "attr": {
       "Full name": "Chastity Cherry Hyrax",
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Birth": "2015-03-14",
       "Nationality": "Bauhinian",
       "Weapon": "Chainsaw"
@@ -1008,7 +1007,7 @@
     ],
     "attr": {
       "Full name": "Devotion Cherry Hyrax",
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Birth": "2016-05-18",
       "Nationality": "Bauhinian",
       "Weapon": "Colt 1911 pistol"
@@ -1032,7 +1031,7 @@
     ],
     "attr": {
       "Full name": "Elegance Cherry Hyrax",
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Birth": "2017-06-21",
       "Nationality": "Bauhinian",
       "Weapon": "Fan",
@@ -1057,7 +1056,7 @@
     ],
     "attr": {
       "Full name": "Animus Hyrax Cherry",
-      "Gender": "Male (cis)",
+      "Gender": "Male",
       "Birth": "2017-08-30",
       "Nationality": "Bauhinian",
       "Orientation": "Homosexual, came out to Sparky only",
@@ -1080,7 +1079,7 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Male (cis)",
+      "Gender": "Male",
       "Soul": "Solid",
       "Birth": "1986-08-27",
       "Nationality": "Bauhinian",
@@ -1107,8 +1106,8 @@
     "attr": {
       "Full name": "Bunchberry Ironheart Beauty",
       "Nickname": "Bunny (by everyone)",
-      "Gender": "Female (trans)",
-      "Age estimation": "Around the same as Bramble",
+      "Gender": "Female",
+      "Birth": "2036-03-30",
       "Nationality": "Bauhinian"
     },
     "palette": {
@@ -1126,7 +1125,7 @@
     ],
     "af": "https://artfight.net/character/7948419.kismet",
     "attr": {
-      "Gender": "Male (cis)",
+      "Gender": "Male",
       "Soul": "Has 6, an original one and 5 superpowered ones, rainbow, all gas",
       "Birth": "1984-06-08",
       "Nationality": "Bauhinian",
@@ -1240,7 +1239,7 @@
     "attr": {
       "Nickname": "Cocoa (by Nightsun)",
       "Gender": "Female",
-      "Age estimation": "Around the same as Nightsun",
+      "Birth": "2017-05-01",
       "Nationality": "Bauhinian",
       "Occupation": "Case officer"
     },
@@ -1258,7 +1257,7 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Birth": "1985-01-31",
       "Nationality": "Bauhinian",
       "Occupation": "Physician"
@@ -1278,7 +1277,7 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Male (cis)",
+      "Gender": "Male",
       "Birth": "1985-04-19",
       "Nationality": "Bauhinian",
       "Occupation": "Physician"
@@ -1318,7 +1317,7 @@
     "af": "https://artfight.net/character/5889458.frosting",
     "attr": {
       "Nickname": "Frost (by Jaculus)",
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Soul": "Non-Newtonian",
       "Birth": "2011-02-19",
       "Nationality": "Bauhinian",
@@ -1345,7 +1344,7 @@
     "attr": {
       "Full name": "Jaculus Koala Kangaroo",
       "Nickname": "Jac (by Frosting)",
-      "Gender": "Female (cis)",
+      "Gender": "Female",
       "Birth": "2011-11-11",
       "Nationality": "Bauhinian"
     },
@@ -1409,7 +1408,7 @@
     ],
     "attr": {
       "Gender": "Female",
-      "Age estimation": "Around the same as Pumpkin",
+      "Birth": "2002-11-20",
       "Nationality": "Westavian",
       "Occupation": "Village secretary"
     },
@@ -1541,7 +1540,6 @@
     "attr": {
       "Nickname": "Kally (by Cobalt)",
       "Gender": "Female",
-      "Age estimation": "Around the same as Cobalt",
       "Nationality": "Fantoni",
       "Orientation": "Pansexual",
       "Occupation": "Mafia minion"
@@ -1561,7 +1559,6 @@
     ],
     "attr": {
       "Gender": "Female",
-      "Age estimation": "Around the same as Cobalt",
       "Nationality": "Fantoni",
       "Power": "Hyperawareness"
     },
@@ -1579,7 +1576,6 @@
     ],
     "attr": {
       "Gender": "Male",
-      "Age estimation": "Around the same as Cobalt",
       "Nationality": "Fantoni"
     },
     "palette": {
@@ -1875,6 +1871,7 @@
       "Full name": "Jelly Checkers",
       "Gender": "Female",
       "Soul": "Solid, jelly-like",
+      "Birth": "2039-01-25",
       "Age estimation": "The same as Harmony",
       "Nationality": "Westavian"
     },
