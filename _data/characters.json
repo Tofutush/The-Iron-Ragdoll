@@ -143,7 +143,7 @@
       "Soul": "Solid, stripey like a ribbon",
       "Birth": "1995-08-14",
       "Nationality": "Bauhinian",
-      "Orientation": "Heterosexual",
+      "Occupation": "Baker",
       "Weapon": "Frying pan"
     },
     "palette": {
@@ -328,7 +328,9 @@
     "af": "https://artfight.net/character/3986088.potato",
     "attr": {
       "Gender": "Male",
-      "Birth": "2017-05-19"
+      "Soul": "Solid, potato-shaped",
+      "Birth": "2017-05-19",
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#575757",
@@ -339,8 +341,6 @@
     "name": "Guillotine",
     "namezh": "断头台",
     "color": "#d0ae3a",
-    "desc": "Who is this girl and why does she want us to call her Guillotine?",
-    "quote": "I'm dead now! You can't kill me!",
     "tags": [
       "Coastline",
       "Coastline Middle School",
@@ -377,6 +377,7 @@
       "Soul": "Gas, flower-shaped like his symbol",
       "Birth": "2017-04-21",
       "Nationality": "Bauhinian",
+      "Occupation": "police officer",
       "Weapon": "Walther P38 pistol"
     },
     "palette": {
@@ -401,7 +402,7 @@
     "af": "https://artfight.net/character/3957938.jerboa",
     "attr": {
       "Full name": "Jerboa Kangaroo Koala",
-      "Nickname": "Boa (by Sky)",
+      "Nickname": "Boa (by Tephra), Jerb (by Sky)",
       "Gender": "Male",
       "Soul": "Solid, broken glass shards",
       "Birth": "2016-09-10",
@@ -459,9 +460,8 @@
       "Gender": "Male",
       "Soul": "Liquid, jam-like",
       "Nationality": "Bauhinian",
-      "Marital status": "Married (to his wife)",
       "Occupation": "Teacher",
-      "Weapon": "The Physical Sword"
+      "Weapon": "teaching stick"
     },
     "about": "Jam is [Sparky](/characters/sparky/)'s teacher at [Coastline Middle School](/world/bauhinia/cms/) and [Jerboa](/characters/jerboa/)'s adoptive father."
   },
@@ -530,6 +530,7 @@
       "Coastline",
       "Sparky's Family",
       "Starcorp",
+      "Fancy Private School",
       "Bauhinia"
     ],
     "attr": {
@@ -563,7 +564,8 @@
       "Gender": "Male",
       "Soul": "Solid, heart-shaped",
       "Birth": "2013-01-15",
-      "Nationality": "Bauhinian"
+      "Nationality": "Bauhinian",
+      "Marital status": "Married (to <a href=\"../beauty/\">Beauty</a>)"
     },
     "palette": {
       "shirt": "#b9ac95",
@@ -592,7 +594,7 @@
       "Nationality": "Atlasian, later Bauhinian",
       "Orientation": "Bisexual, deep in the closet",
       "Marital status": "Married (to <a href=\"../sparky/\">Sparky</a>)",
-      "Occupation": "Employee at Starcorp",
+      "Occupation": "Employee at Starcorp, later unemployed",
       "Weapon": "Seedling sword"
     },
     "palette": {
@@ -719,7 +721,7 @@
       "Death": "2045-01-19",
       "Nationality": "Bauhinian, later Moose",
       "Marital status": "Married",
-      "Occupation": "MSS officer",
+      "Occupation": "MSS officer, later novelist",
       "Weapon": "Baton",
       "Power": "Magic lv. undisclosed"
     },
@@ -751,7 +753,7 @@
       "Birth": "1978-11-20",
       "Nationality": "Bauhinian",
       "Marital status": "Widowed",
-      "Occupation": "MSS officer",
+      "Occupation": "MSS officer, retired",
       "Weapon": "Baton",
       "Power": "Time precision lv. 350"
     },
