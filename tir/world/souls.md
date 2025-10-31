@@ -12,7 +12,7 @@ categories:
 
 Everyone has a soul. It contains a person's entire identity: their self, their memories, their emotions. They are born with them and ideally should stay inside the person's body till death. The soul's color leaks into the person's eye and ears or horns, coloring them in as well. In the case of magicians, the soul color is also the color of their magic.
 
-Souls come in three forms: solid, liquid, and gas.
+Souls come in three forms: solid, liquid, and gas. (Or non-Newtonian, though that's incredibly rare.)
 
 Everyone is born with a perfectly spherical gas soul. The soul changes shape and form as the person grows (but the color never changes), and generally settles in place in their thirties.
 
@@ -40,7 +40,7 @@ If there already *is* a soul (or souls) inside you, the new soul has to merge in
 
 Compatibility is determined by various factors, like values, life experiences, and what the owners of the respective souls think of each other, but the most important one is its form. Shape and color are not factors.
 
-Typically, gas souls are the most compatible with other forms, while solid the least. It would be extremely hard to merge two solid souls together, but other factors, like the owners of the souls being really good friends with each other, may increase compatibility.
+Typically, gas souls are the most compatible with other forms, while solid the least. Non-Newtonian souls have similar compatibility to liquid ones. It would be extremely hard to merge two solid souls together, but other factors, like the owners of the souls being really good friends with each other, may increase compatibility.
 
 ## Related files
 
