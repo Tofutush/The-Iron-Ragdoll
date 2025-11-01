@@ -693,7 +693,7 @@ img: "/The-Iron-Ragdoll/img/gallery/z9H35f9XBf-500.webp"
 name: "Blackjack",
 color: "#2e2e2e",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/_o5Dv_OOeb-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/Wjc8zKufnl-500.webp"
 },
 
 ];
