@@ -1806,11 +1806,11 @@
     "af": "https://artfight.net/character/5889496.harmony",
     "attr": {
       "Full name": "Harmony Frosting Entity",
+      "Nickname": "Harm",
       "Gender": "Female",
       "Soul": "Gas, shaped like a music note",
       "Birth": "2041-01-05",
-      "Nationality": "Bauhinian",
-      "Occupation": "MSS officer"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#CFBBDF",
@@ -1836,7 +1836,8 @@
       "Gender": "Female",
       "Birth": "2041-07-16",
       "Nationality": "Bauhinian",
-      "Occupation": "MSS officer"
+      "Occupation": "MSS officer",
+      "Weapon": "baton"
     },
     "palette": {
       "shirt": "#fff",
@@ -1897,6 +1898,8 @@
     ],
     "attr": {
       "Gender": "Female",
+      "Pronouns": "she/her",
+      "Energy": "Introvert",
       "Soul": "Gas, flower-shaped",
       "Nationality": "Bauhinian"
     },
@@ -1988,7 +1991,7 @@
       "Soul": "Liquid, tumbling water",
       "Birth": "2015-01-13",
       "Nationality": "Bauhinian",
-      "Occupation": "hotel concierge"
+      "Occupation": "Hotel concierge"
     },
     "palette": {
       "hair": "#7DB2DD",
@@ -2052,7 +2055,7 @@
       "Nickname": "Clubs (codename by Sky)",
       "Gender": "Female",
       "Nationality": "Fantoni, Bauhinian permanent resident",
-      "Occupation": "Gangster"
+      "Occupation": "Gangster, later PE teacher"
     },
     "palette": {
       "hat": "#A0A0A0",
