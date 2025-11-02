@@ -9,7 +9,7 @@ titlezh: 更新日志
 
 ## 2025-11-02
 
-- Added `jumbo deal.png`;
+- Added `jumbo deal.png`, `moonflower hi.png`;
 - Check out the [Chinese version of my lore](https://tofutush.notion.site/29b186f1eaa180c58613e231c5feeffa)!
 
 ## 2025-10-26
