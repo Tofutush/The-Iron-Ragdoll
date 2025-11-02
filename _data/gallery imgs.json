@@ -4753,5 +4753,22 @@
       "goose",
       "pumpkin"
     ]
+  },
+  {
+    "name": "jumbo deal",
+    "type": "png",
+    "date": "2025-11-02",
+    "ch": [
+      "jumbo",
+      "sky"
+    ]
+  },
+  {
+    "name": "jumbo deal jumbo",
+    "type": "png",
+    "date": "2025-11-02",
+    "ch": [
+      "jumbo"
+    ]
   }
 ]
