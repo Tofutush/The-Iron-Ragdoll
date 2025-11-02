@@ -7,6 +7,8 @@ eleventyNavigation:
   parent: Miscellaneous
 ---
 
+- **About credits**
+	- I'll post your attack on this website, so please let me know if you don't want that! I will credit your Artfight account, but if you want me to credit something else, just tell me and I will!
 - **Don't**
 	- NSFW, 18+, whatever.
 		- This involves artistic nudity.
