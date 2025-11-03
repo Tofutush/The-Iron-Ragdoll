@@ -11,6 +11,7 @@ titlezh: 更新日志
 
 - Added `jumbo deal.png`, `moonflower hi.png`;
 - Check out the [Chinese version of my lore](https://tofutush.notion.site/29b186f1eaa180c58613e231c5feeffa)!
+- Revamped the [scavenger hunt](/fun/hunt/)'s hints. Hopefully it'd be easier now!
 
 ## 2025-10-26
 

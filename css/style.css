@@ -170,6 +170,11 @@ p {
 	text-align: justify;
 }
 
+.spoilers {
+	background-color: var(--text);
+	border-radius: 4px;
+}
+
 a {
 	color: inherit;
 	text-decoration: underline;
