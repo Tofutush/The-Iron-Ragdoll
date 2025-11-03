@@ -728,6 +728,13 @@ rel2: ""
 
 {
 source: "Tephra",
+target: "Trinket",
+rel1: "teammate",
+rel2: "teammate"
+},
+
+{
+source: "Tephra",
 target: "Frosting",
 rel1: "acquaintance",
 rel2: "acquaintance"
