@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html class="light">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ForumFarms, the forum of the internet.">
+  <meta name="author" content="Tofutush">
+  <meta name="theme-color" content="#555555">
+  <meta property="og:title" content="ForumFarms | The Iron Ragdoll">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/banner.png">
+  <meta property="og:site_name" content="The Iron Ragdoll">
+  <meta property="og:description" content="ForumFarms, the forum of the internet.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="ForumFarms | The Iron Ragdoll">
+  <meta name="twitter:description" content="ForumFarms, the forum of the internet.">
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/banner.png">
+  <title>ForumFarms | The Iron Ragdoll</title>
+  <script>
+    (function() {
+      let lightDark = parseInt(localStorage.getItem('light-dark'));
+      if (lightDark === 0) document.documentElement.className = 'dark';
+      if (lightDark === 1) document.documentElement.className = 'light';
+    })();
+  </script>
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/callout.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
+  <link rel="icon" href="/The-Iron-Ragdoll/icon.ico">
+  <style>
+    body {
+      margin: 0;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1em;
+      width: auto;
+      height: auto;
+      user-select: text;
+      border-bottom: 2px solid var(--box);
+    }
+
+    #search {
+      background-color: var(--box);
+      width: 50%;
+      border-radius: 999px;
+      padding: .5em;
+    }
+
+    #user {
+      width: 2em;
+      height: 2em;
+      background-color: var(--box);
+      border-radius: 999px;
+    }
+
+    #grid {
+      display: grid;
+      grid-template-columns: 1fr 3fr;
+      gap: 1em;
+      margin: 0 1em;
+      padding: 0;
+      max-width: 100%;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      font-family: lexend;
+      letter-spacing: 0;
+    }
+
+    #left {
+      border-right: 2px solid var(--box);
+      padding-right: 1em;
+    }
+
+    .stack {
+      & div {
+        padding: .5em;
+        border-radius: 8px;
+        cursor: pointer;
+
+        &:hover {
+          background-color: var(--box);
+        }
+      }
+    }
+
+    details.thread summary {
+      display: block;
+      border-radius: .5em;
+      padding: .5em 1em;
+
+      &::after {
+        content: '';
+      }
+
+      &:hover {
+        background-color: var(--box);
+      }
+    }
+
+    details.thread[open] summary::after {
+      content: '';
+    }
+
+    .replies {
+      margin-left: 1em;
+      border-left: 4px solid var(--box);
+      padding: 0 1em;
+
+      &>div {
+        border-bottom: 2px solid var(--box);
+      }
+    }
+
+    .name {
+      line-break: anywhere;
+      font-size: var(--font-size-small);
+      opacity: .5;
+    }
+
+    .ping {
+      color: var(--c);
+      text-decoration: underline;
+    }
+
+    footer {
+      border-top: 2px solid var(--box);
+
+      &>p {
+        text-align: center;
+      }
+    }
+
+    @media only screen and (max-width: 480px) {
+      #left {
+        border: 0;
+      }
+
+      #search {
+        display: none;
+      }
+
+      #grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div id="logo">ForumFarms</div>
+    <div id="search">Search</div>
+    <div id="user"></div>
+  </header>
+  <main id="grid">
+    <div id="left">
+      <h3>Explore</h3>
+      <div class="stack">
+        <div>Recent</div>
+        <div>Popular</div>
+      </div>
+      <h3>Your farms</h3>
+      <div class="stack">
+        <div>f/Atlasia</div>
+        <div>f/Memes</div>
+      </div>
+    </div>
+    <div id="right">
+      <h1>Trending</h1>
+      <p>Click on a thread to see replies!</p>
+      <hr>
+      <details class="thread">
+        <summary>
+          <p class="name">f/Atlasia · cookiekid283 · 5 hours ago</p>
+          <h3>fire department in river delta advice, emergency help or super fighters?</h3>
+          <div class="tags"><a>Question</a></div>
+          <p>im moving out of my parents soon, i already have a place in river delta but idk which fire rescue service to choose. all 3 provide services in river delta and the rates are similar so idk how to choose between emergency help and super fighters. does anyone have advice</p>
+        </summary>
+        <div class="replies">
+          <div>
+            <p class="name">F/ATLASIA MOD · 5 hours ago</p>
+            <p>Thank you for posting in f/Atlasia! Before posting a question, please make sure that it's not answered in the <a>FAQ</a>, and that there wasn't a similar question before!</p>
+          </div>
+          <div>
+            <p class="name">SFPlant · 5 hours ago</p>
+            <p>Use Super Fighters! They're extremely helpful, quick in responding, affordable prices… We've used them in my family for generations, ever since their founding in 1946 as they were the only fire emergency service back then! <a>Here's a referral link for a discount on your first year!</a></p>
+          </div>
+          <div>
+            <p class="name">theUltimate · 4 hours ago</p>
+            <p>Why not Drencher? My family's been using them and they were great.</p>
+          </div>
+          <div>
+            <p class="name">cookiekid283 · 4 hours ago</p>
+            <p><span class="ping">@theUltimate</span> my family used drencher and they let half our house burn down. it was an electric fire, we called them and told them that, and we had put the fire out with the help of neighbors already before they showed up with a water hose…</p>
+          </div>
+          <div>
+            <p class="name">cookiekid283 · 4 hours ago</p>
+            <p><span class="ping">@SFPlant</span> thank you for the discount!</p>
+          </div>
+          <div>
+            <p class="name">mrIlliterate · 4 hours ago</p>
+            <p>i would look up which companies provide service in your area, and compare their rates. lazy ass bitches not doing a bit of research before running on the internet asking other people. we have our own jobs you know, im a busy person, can't spend all day answering your endless questions that needn't be asked</p>
+          </div>
+          <div>
+            <p class="name">incelPervert · 3 hours ago</p>
+            <p>sweet darling i live in river delta too hit me up ill show you a good night</p>
+          </div>
+          <div>
+            <p class="name">theOneActuallyHelpfulPersonEveryoneIgnores · 2 hours ago</p>
+            <p>Super Fighters are strictly for fire. Emergency Help has additional natural disaster services that can be helpful since River Delta is a coastal city.</p>
+          </div>
+          <div>
+            <p class="name">blabber · 2 hours ago</p>
+            <p>why waste the money? i havent had any emergency service for years. never had a thing happen to me. skill issue.</p>
+          </div>
+          <div>
+            <p class="name">mrIlliterate · 2 hours ago</p>
+            <p><span class="ping">@blabber</span> great i hope you die</p>
+          </div>
+          <div>
+            <p class="name">blabber · 2 hours ago</p>
+            <p><span class="ping">@mrIlliterate</span> i thought u had a job? lol</p>
+          </div>
+          <div>
+            <p class="name">imtired · 2 hours ago</p>
+            <p><span class="ping">@mrIlliterate</span> this goddamn website with its piss poor reading comprehension</p>
+          </div>
+          <div>
+            <p class="name">mrIlliterate · 2 hours ago</p>
+            <p><span class="ping">@imtired</span> wtf whenever did i piss on the poor???</p>
+          </div>
+        </div>
+      </details>
+      <hr>
+      <details class="thread">
+        <summary>
+          <p class="name">f/ForumFarmsMeta · conspiracyTheorist · 3 hours ago</p>
+          <h3>PSA: ForumFarms is owned by Starcorp</h3>
+          <div class="tags"><a>Discussion</a></div>
+          <p><em>Post has been removed.</em></p>
+        </summary>
+        <blockquote>
+          <p>Sorry, this post has been removed by the moderators of f/ForumFarmsMeta.</p>
+        </blockquote>
+      </details>
+      <hr>
+      <details class="thread">
+        <summary>
+          <p class="name">f/CorporateHell · conspiracyTheorist · 3 hours ago · Edited 2 hours ago</p>
+          <h3>PSA: ForumFarms is owned by Starcorp</h3>
+          <div class="tags"><a>HOLY SHIT</a></div>
+          <p>ForumFarms, the most popular forum website on the Internet, is owned by none other than Starcorp! Boycott ForumFarms!</p>
+          <p><strong>Proof:</strong></p>
+          <p>Look up ForumFarms on KnowYourCompany. Note down the name of the owner. Now go to StarPedia and look at Hyrax's Family Tree, do you see that the owner of ForumFarms is none other than Hyrax's <strong>very own brother</strong>??</p>
+          <p>This is huge. ALL of our conversations and data are being stolen. Deactivate your account now!</p>
+          <p>(Edit: the same post I posted in f/ForumFarmsMeta had been taken down. They don't want us to know. But they cannot hide from us. Spread the word!)</p>
+        </summary>
+        <div class="replies">
+          <div>
+            <p class="name">puppyLover947 · 3 hours ago</p>
+            <p>Oh boy, who's gonna tell them.</p>
+          </div>
+          <div>
+            <p class="name">fish · 3 hours ago</p>
+            <p>youre such a fucking idiot, have you scrolled down to the bottom of the page to fucking SEE whats written RIGHT THERE?? i cant believe idiots like you exist in this fucking world</p>
+          </div>
+          <div>
+            <p class="name">iHateVriska · 2 hours ago</p>
+            <p>SOMEone hadn't read something written so clearly right in front of them</p>
+          </div>
+          <div>
+            <p class="name">HaikuBot · 2 hours ago</p>
+            <p>SOMEone hadn't read</p>
+            <p>something written so clearly</p>
+            <p>right in front of them</p>
+            <p><span class="ping">@iHateVriska</span></p>
+            <p><em>I spot accidental haiku posts. Sometimes I make mistakes.</em></p>
+          </div>
+        </div>
+      </details>
+      <hr>
+      <details class="thread">
+        <summary>
+          <p class="name">f/AITA · obviousTrollAccount · 1 day ago</p>
+          <h3>AITA for murdering my girlfriend's entire family?</h3>
+          <div class="tags"><a>Open</a></div>
+          <p>Me (23M) and my girlfriend (20F) got into a little quarrel so I murdered her entire family. AITA?</p>
+        </summary>
+        <div class="replies">
+          <div>
+            <p class="name">incelPervert · 1 day ago</p>
+            <p>nta. she had it coming</p>
+          </div>
+          <div>
+            <p class="name">fish · 1 day ago</p>
+            <p>yta bc wtf??? im gonna dox you and call the police!!</p>
+          </div>
+          <div>
+            <p class="name">normalPerson · 12 hours ago</p>
+            <p>i know i said to not feed the trolls anymore, but just commenting to say where are the mods</p>
+          </div>
+          <p><em>Please <a>log in</a> to view more comments.</em></p>
+        </div>
+      </details>
+      <hr>
+      <details class="thread">
+        <summary>
+          <p class="name">f/Moreland · throwawayAccount · 3 days ago</p>
+          <h3>Today is the 1-year anniversary of me escaping Moreland.</h3>
+          <div class="tags"><a>Personal experiences</a></div>
+          <p>One year ago, I fled Moreland. You can read about that <a>here</a>.</p>
+          <p>A lot have happened this year. I evaded the Terrorist Moose, found a job and a place to live, and started a family that's truly mine. My child is starting kindergarten this September.</p>
+        </summary>
+        <div class="replies">
+          <div>
+            <p class="name">puppyLover947 · 3 days ago</p>
+            <p>I'm so happy for you!</p>
+          </div>
+          <div>
+            <p class="name">chocolateLover92 · 3 days ago</p>
+            <p>How is your kid old enough to be in kindergarten if it's only been one year?</p>
+          </div>
+          <div>
+            <p class="name">mrIlliterate · 3 days ago</p>
+            <p><span class="ping">@chocolateLover92</span> theres something called adoption. dunno if youve heard of it.</p>
+          </div>
+          <div>
+            <p class="name">python · 3 days ago</p>
+            <p><em>Comment has been removed by moderators of f/Moreland.</em></p>
+          </div>
+          <div>
+            <p class="name">java · 3 days ago</p>
+            <p><span class="ping">@mrIlliterate</span> if you look at OP's previous post they linked, he thinks raising a kid that's not yours is like, evil</p>
+          </div>
+          <div>
+            <p class="name">helloWorld · 3 days ago</p>
+            <p>what did python say?</p>
+          </div>
+          <div>
+            <p class="name">mrIlliterate · 3 days ago</p>
+            <p><span class="ping">@java</span> source??</p>
+          </div>
+          <div>
+            <p class="name">archivist · 2 days ago</p>
+            <p><span class="ping">@helloWorld</span> <em>Comment has been removed by moderators of f/Moreland.</em></p>
+          </div>
+          <div>
+            <p class="name">mrIlliterate · 2 days ago</p>
+            <p>lmao the loser blocked me</p>
+          </div>
+          <p><em>Please <a>log in</a> to view more comments.</em></p>
+        </div>
+      </details>
+    </div>
+  </main>
+  <footer>
+    <p>ForumFarms, subsidiary of Starcorp</p>
+    <p><a>About</a> · <a>Terms of Service</a></p>
+  </footer>
+</body>
+
+</html>
