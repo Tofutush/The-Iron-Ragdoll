@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-11-03
+
+- Added [ForumFarms](/fun/forumfarms/), the forums of the internet;
+
 ## 2025-11-02
 
 - Added `jumbo deal.png`, `moonflower hi.png`;
