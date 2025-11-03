@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html class="light">
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="../../../css/style.css" />
+	<style>
+		body {
+			margin: 0;
+		}
+
+		header {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			padding: 1em;
+			width: auto;
+			height: auto;
+			user-select: text;
+			border-bottom: 2px solid var(--box);
+		}
+
+		#search {
+			background-color: var(--box);
+			width: 50%;
+			border-radius: 999px;
+			padding: .5em;
+		}
+
+		#user {
+			width: 2em;
+			height: 2em;
+			background-color: var(--box);
+			border-radius: 999px;
+		}
+
+		#grid {
+			display: grid;
+			grid-template-columns: 1fr 3fr;
+			gap: 1em;
+			margin: 0 1em;
+			padding: 0;
+			max-width: 100%;
+		}
+
+		h1,
+		h2,
+		h3,
+		h4 {
+			font-family: lexend;
+			letter-spacing: 0;
+		}
+
+		#left {
+			border-right: 2px solid var(--box);
+			padding-right: 1em;
+		}
+
+		.stack {
+
+			& div {
+				padding: .5em;
+				border-radius: 8px;
+				cursor: pointer;
+
+				&:hover {
+					background-color: var(--box);
+				}
+			}
+		}
+
+		details.thread summary {
+			display: block;
+			border-radius: .5em;
+			padding: .5em 1em;
+
+			&::after {
+				content: '';
+			}
+
+			&:hover {
+				background-color: var(--box);
+			}
+		}
+
+		details.thread[open] summary::after {
+			content: '';
+		}
+
+		.replies {
+			margin-left: 1em;
+			border-left: 4px solid var(--box);
+			padding: 0 1em;
+
+			&>div {
+				border-bottom: 2px solid var(--box);
+			}
+		}
+
+		.name {
+			line-break: anywhere;
+			font-size: var(--font-size-small);
+			opacity: .5;
+		}
+
+		.ping {
+			color: var(--c);
+			text-decoration: underline;
+		}
+
+		@media only screen and (max-width: 480px) {
+			#left {
+				border: 0;
+			}
+
+			#search {
+				display: none;
+			}
+
+			#grid {
+				grid-template-columns: 1fr;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<header>
+		<div id="logo">ForumFarms</div>
+		<div id="search">Search</div>
+		<div id="user"></div>
+	</header>
+	<main id="grid">
+		<div id="left">
+			<h3>Explore</h3>
+			<div class="stack">
+				<div>Recent</div>
+				<div>Popular</div>
+			</div>
+			<h3>Your farms</h3>
+			<div class="stack">
+				<div>f/Atlasia</div>
+				<div>f/Memes</div>
+			</div>
+		</div>
+		<div id="right">
+			<h1>Recent Threads</h1>
+			<p>Click on a thread to see replies!</p>
+			<hr />
+			<details class="thread">
+				<summary>
+					<p class="name">f/Atlasia · cookiekid283 · 5 hours ago</p>
+					<h3>fire department in river delta advice, emergency help or super fighters?</h3>
+					<div class="tags"><a>Question</a></div>
+					<p>im moving out of my parents soon, i already have a place in river delta but idk which fire rescue service to choose. all 3 provide services in river delta and the rates are similar so idk how to choose between emergency help and super fighters. does anyone have advice</p>
+				</summary>
+				<div class="replies">
+					<div>
+						<p class="name">F/ATLASIA MOD · 5 hours ago</p>
+						<p>Thank you for posting in f/Atlasia! Before posting a question, please make sure that it's not answered in the <a>FAQ</a>, and that there wasn't a similar question before!</p>
+					</div>
+					<div>
+						<p class="name">SFPlant · 5 hours ago</p>
+						<p>Use Super Fighters! They're extremely helpful, quick in responding, affordable prices… We've used them in my family for generations, ever since their founding in 1946 as they were the only fire emergency service back then! <a>Here's a referral link for a discount on your first year!</a></p>
+					</div>
+					<div>
+						<p class="name">theUltimate · 4 hours ago</p>
+						<p>Why not Drencher? My family's been using them and they were great.</p>
+					</div>
+					<div>
+						<p class="name">cookiekid283 · 4 hours ago</p>
+						<p><span class="ping">@theUltimate</span> my family used drencher and they let half our house burn down. it was an electric fire, we called them and told them that, and we had put the fire out with the help of neighbors already before they showed up with a water hose…</p>
+					</div>
+					<div>
+						<p class="name">cookiekid283 · 4 hours ago</p>
+						<p><span class="ping">@SFPlant</span> thank you for the discount!</p>
+					</div>
+					<div>
+						<p class="name">mrIlliterate · 4 hours ago</p>
+						<p>i would look up which companies provide service in your area, and compare their rates. lazy ass bitches not doing a bit of research before running on the internet asking other people. we have our own jobs you know, im a busy person, can't spend all day answering your endless questions that needn't be asked</p>
+					</div>
+					<div>
+						<p class="name">incelPervert · 3 hours ago</p>
+						<p>sweet darling i live in river delta too hit me up ill show you a good night</p>
+					</div>
+					<div>
+						<p class="name">theOneActuallyHelpfulPersonEveryoneIgnores · 2 hours ago</p>
+						<p>Super Fighters are strictly for fire. Emergency Help has additional natural disaster services that can be helpful since River Delta is a coastal city.</p>
+					</div>
+					<div>
+						<p class="name">blabber · 2 hours ago</p>
+						<p>why waste the money? i havent had any emergency service for years. never had a thing happen to me. skill issue.</p>
+					</div>
+					<div>
+						<p class="name">mrIlliterate · 2 hours ago</p>
+						<p><span class="ping">@blabber</span> great i hope you die</p>
+					</div>
+					<div>
+						<p class="name">blabber · 2 hours ago</p>
+						<p>i thought u had a job? lol</p>
+					</div>
+				</div>
+			</details>
+		</div>
+	</main>
+</body>
+
+</html>
