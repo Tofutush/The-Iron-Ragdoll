@@ -34,7 +34,7 @@ How could the empire just stand and watch? They sent troops to teach those fucke
 
 That's when the Guardian Moose came in. A group of partisans, some former members of the provisional government's military, some ordinary people forced to take up arms against Bauhinia's soldiers, all of them brave fighters. They resented the provisional government's softness and took a staunch anti-Bauhinian stance. In 1936, they took over the provisional government by force in an event later referred to as the Guardian Moose Takeover and seen as the peak of the Morelandian independence movement.
 
-Immediately after the Guardian Moose seized the government, they employed drastic reform measures, establishing a stratocracy. After two more years of grueling war with Bauhinia, they finally drove them away and achieved complete independence of [The Republic of Moreland](/world/moreland/). The military government continued to wage war against the Empire until 1939, when Bauhinian troops withdrew and the Empire was forced to recognize Moreland's full independence.
+Immediately after the Guardian Moose seized the government, they employed drastic reform measures, establishing a stratocracy. After two more years of grueling war with Bauhinia, they finally drove them away and achieved complete independence of [The Republic of Moreland](/world/moreland/) in 1939.
 
 ## Atlasia's independence
 

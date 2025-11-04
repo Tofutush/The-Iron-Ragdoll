@@ -68,7 +68,9 @@ There is a special fabric that can conceal a person from sensors. They hate 'em,
 
 Get invisible. Like, that's it. Exactly how much you can get invisible depends on your power strength. Like, weaker people might only get their immediate bodies invisible while their clothes are left hanging in the air; stronger people might be able to get a lot more things near them invisible. But no matter what, they have to be invisible *themselves* — you can't hide something else but not yourself. Strong invisibles may even make themselves and everything they've hidden pass-through.
 
-This power is active, obviously. You hide yourself if you want to.
+This power is active, obviously. You hide yourself if you want to. Though if someone's been startled, they might subconsciously hide themselves.
+
+No matter the level, invisible people can always been seen in a mirror. There's also the old trick of pouring flour everywhere.
 
 ### Mind Reading
 
