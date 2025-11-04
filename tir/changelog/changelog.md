@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-11-04
+
+- Removed Hillslope Mysteries entirely;
+
 ## 2025-11-03
 
 - Added [ForumFarms](/fun/forumfarms/), the forums of the internet;
