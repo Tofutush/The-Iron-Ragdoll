@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-11-05
+
+- Embeds of character links now show the character's icon;
+
 ## 2025-11-04
 
 - Removed Hillslope Mysteries entirely;
