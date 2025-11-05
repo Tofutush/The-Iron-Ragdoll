@@ -1,5 +1,6 @@
 {
     "eleventyNavigation": {
         "parent": "Atlasia"
-    }
+    },
+    "image": "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/gallery/atlasia flag.png"
 }
