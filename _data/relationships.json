@@ -1311,6 +1311,32 @@
   {
     "ch": [
       [
+        "Sunflower",
+        "acquaintance"
+      ],
+      [
+        "Icicle",
+        "acquaintance"
+      ]
+    ],
+    "desc": "Icicle found Sunflower in her paracosm. Icicle told Sunflower that it was 2035 where she came from, and Sunflower told Icicle all about what happened to her."
+  },
+  {
+    "ch": [
+      [
+        "Starry",
+        "friend"
+      ],
+      [
+        "Icicle",
+        "friend"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Mooncake",
         "daughter"
       ],
