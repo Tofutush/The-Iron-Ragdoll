@@ -1381,8 +1381,11 @@
     "attr": {
       "Gender": "Female",
       "Soul": "Gas, bright and sun-like",
+      "Birth": "2017-05-14",
+      "Death": "2031-07-03",
       "Nationality": "Westavian",
-      "Occupation": "Student"
+      "Occupation": "Student",
+      "Weapon": "Knitting needles"
     },
     "palette": {
       "badge": "#adadad",

@@ -10,6 +10,7 @@ titlezh: 更新日志
 ## 2025-11-04
 
 - Removed Hillslope Mysteries entirely;
+- Added `tsunami attack qibli.png`;
 
 ## 2025-11-03
 
