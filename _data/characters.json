@@ -1394,6 +1394,38 @@
     "about": "Sunflower is a high school student put on \"suicide watch\" by the [SPF](/world/westavia/spf/) because she had a paracosm called [Tadlet Kingdom](/world/tadlet-kingdom/)."
   },
   {
+    "name": "Starry",
+    "namezh": "星星",
+    "color": "#CC770F",
+    "tags": [
+      "Westavia"
+    ],
+    "af": "https://artfight.net/character/4038429.starry",
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Gas, maple-leaf-shaped",
+      "Nationality": "Westavian"
+    },
+    "palette": {
+      "glasses": "#666",
+      "hair": "#2E2E2E"
+    },
+    "about": "Starry was a student at Area 1 Middle School when one day she suddenly disappeared, sucked into [Sunflower](/characters/sunflower/)'s paracosm."
+  },
+  {
+    "name": "Icicle",
+    "namezh": "冰棱锥",
+    "color": "#72bed2",
+    "tags": [
+      "Westavia"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Nationality": "Westavian"
+    },
+    "about": "When her friend [Starry](/characters/starry/) disappeared, she decided to find her, thus entering [Sunflower](/characters/sunflower/)'s paracosm."
+  },
+  {
     "name": "Helsinki",
     "namezh": "赫尔辛基",
     "color": "#5b3896",
@@ -1597,25 +1629,6 @@
     "about": "Moonbeam is a Sylvandian psychic well-trained in soul-extraction."
   },
   {
-    "name": "Starry",
-    "namezh": "星星",
-    "color": "#CC770F",
-    "tags": [
-      "Misc"
-    ],
-    "af": "https://artfight.net/character/4038429.starry",
-    "attr": {
-      "Gender": "Male",
-      "Soul": "Liquid",
-      "Nationality": "Bauhinian"
-    },
-    "palette": {
-      "glasses": "#666",
-      "hair": "#2E2E2E"
-    },
-    "about": "Went into a coma after getting hit in the head. Since then, [Ribbon](/characters/ribbon/) had kept him alive."
-  },
-  {
     "name": "Melody",
     "namezh": "音韵",
     "color": "#426600",
@@ -1708,14 +1721,6 @@
     "palette": {
       "hair": "#2E2E2E"
     }
-  },
-  {
-    "name": "Icicle",
-    "namezh": "冰棱锥",
-    "color": "#72bed2",
-    "tags": [
-      "Misc"
-    ]
   },
   {
     "name": "Jackalope",

@@ -3,6 +3,9 @@ title: Sunflower 2 (DEFINITELY working title)
 canon: yes
 chs:
   - sunflower
+  - starry
+  - icicle
+  - qibli
 time: "2033"
 desc: Sunflower is dead, but she isn't gone yet.
 myTags:
@@ -42,5 +45,9 @@ It was 2045, one year after the Fantoni war ended, and 14 years after Sunflower 
 Worried, she went outside to investigate, and bumped into Sunflower and the student.
 
 They talked. Qibli said she was from 2045, when a war with Fanton had recently ended. She realized Sunflower was the same age as her, despite still looking like a child.
+
+So now all three of them set out to navigate this evil and corrupted Tadlet Kingdom looking for Starry, with the characters Sunflower once knew and loved now all being evil and they're fighting one another.
+
+In the end they found Starry, but the three outsiders needed a way to get back to the real world. They brought peace to Tadlet Kingdom and all kingdoms stopped fighting, but Sunflower sacrificed herself and died for real, and the paracosm world disappeared for good. Starry and Icicle went back to 2035, all the desks and chairs were also returned to the school, and Qibli went back to 2045 where she made a new pocket dimension and continued to study revival.
 
 [^1]: They're not wrong. I'm not saying materialism is bad; in fact I think it's really good. It's just unfortunate that these logical and grounded Westavians exist in *my paracosm*. Suffer!
