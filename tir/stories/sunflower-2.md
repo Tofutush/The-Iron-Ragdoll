@@ -27,8 +27,20 @@ The ever-so-materialist Westavians weren't about to buy into the supernatural[^1
 
 And then it happened. A *student* disappeared. (I've yet to name her.)
 
+This time it wasn't spiritually entering like Sunflower did. This time it was actually physical; the paracosm sucked her in.
+
+Another student set out to find her, and made it in (how? spiritually or physically? idk yet)
+
+She wandered around the Tadlet Kingdom, and finally found Sunflower lying on the ground somewhere, scrolling on her phone.
+
+They talked. The student shared that it was 2035. Sunflower's phone still said July the third, 2031. She told the student about what happened with her and Candlelight.
+
 ## Qibli
 
-It was 2045, one year after the Fantoni war ended, and 14 years after Sunflower died. Qibli lived in her pocket dimension, hellbent on figuring out how to revive Firecrackers, when the sunny skies of her pocket dimension suddenly started raining and thundering.
+It was 2045, one year after the Fantoni war ended, and 14 years after Sunflower died. Qibli lived in her pocket dimension, hellbent on figuring out how to revive Firecrackers, when the sunny skies of her pocket dimension suddenly started raining and thundering. She thought she had just accidentally did that, and tried to stop the rain, but found that she was no longer in control of her surroundings.
+
+Worried, she went outside to investigate, and bumped into Sunflower and the student.
+
+They talked. Qibli said she was from 2045, when a war with Fanton had recently ended. She realized Sunflower was the same age as her, despite still looking like a child.
 
 [^1]: They're not wrong. I'm not saying materialism is bad; in fact I think it's really good. It's just unfortunate that these logical and grounded Westavians exist in *my paracosm*. Suffer!
