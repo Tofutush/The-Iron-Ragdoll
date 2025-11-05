@@ -5,6 +5,88 @@ eleventyNavigation:
   parent: Changelog
 ---
 
+## 2025-09-30
+
+- Added `harmony profile.png`;
+
+## 2025-09-29
+
+- Finished the rough outline of [The Poker Spies](/stories/the-poker-spies/);
+
+## 2025-09-26
+
+- Moved the favorites leaderboard to <https://tofutush.leprd.space>;
+- Edited `sky profile.png`;
+- Removed the "drawing permissions" section in character profiles and moved design notes to a subheading under "reference";
+	- My perms are still on [Artfight](https://artfight.net/~Tofutush);
+
+## 2025-09-24
+
+- Finally published the [Favorites picker](/fun/fav/);
+	- I originally wanted to draw a special picture for each character depicting them fighting the other character, but it was a monumental task so I just used their default pics…
+- The "#"s in front of the headings are back;
+	- Don't know why I removed them in the first place;
+
+## 2025-09-22
+
+- Changed all "shifu" and "shimu" to "mentor";
+- Edited [The Poker Spies](/stories/the-poker-spies/) a bit, though it's still not quite readable;
+- Removed the gallery stats page;
+- Removed the character art progress section from the [sortable list](/characters/list/);
+- Put the [character art progress](/gallery/progress/) as its own page under gallery;
+- Removed the "goals" page because I kept forgetting to update it;
+	- Put the [scavenger hunt](/fun/hunt/) clue that was originally there under another page;
+
+## 2025-09-21
+
+- Added `poker spies footer.png` along with the four individual characters;
+	- Also obvious from the name, it is a new footer;
+
+## 2025-09-20
+
+- Finished the [favorites leaderboard](https://tofutush.leprd.space)!
+	- The URL is subject to change though;
+- Added "Attack on Artfight" and "Give favorite" buttons on the character pages;
+- Added `tsunami card.png`, `tsunami stand.png`;
+
+## 2025-09-19
+
+- Added `jumbo card.png`, `blackjack card.png`, `mulberry stand.png`, `jumbo stand.png`, `blackjack stand.png`;
+- Edited a lot of stories;
+
+## 2025-09-16
+
+- Made a cool new dialog display. Check out an example [here](/stories/spy-school/page-6/);
+- Added the [Poker Spies](/world/bauhinia/poker-spies/): [Tsunami](/characters/tsunami/), [Jumbo](/characters/jumbo/), [Mulberry](/characters/mulberry/), [Blackjack](/characters/blackjack/);
+- Added `mulberry card.png`;
+
+## 2025-09-14
+
+- Added characters under the events they participated in in the [timeline](/world/timeline/);
+
+## 2025-09-13
+
+- Changed the off-white color and footer style a little;
+	- Usually I don't log these, but well, I'm not updating a whole lot recently. College's been kicking my ass and it's only like 2 weeks. Goddamn;
+- Published [Spy School pages 5 - 6](/stories/spy-school/page-5/);
+
+## 2025-09-08
+
+- Added a shitty [timeline](/world/timeline/)!
+
+## 2025-09-07
+
+- Added `jelly astonished.png`, `sparky cool.png`;
+- Changed theme color to grayscale to make the character soul colors stand out more.
+
+## 2025-09-04
+
+- Added `jinx jackalope snow.png`;
+
+## 2025-09-01
+
+- Moved July to [older updates](old/);
+
 ## 2025-08-31
 
 - Added `nebula profile.png`, `jinx horse.png`;
@@ -818,389 +900,3 @@ eleventyNavigation:
 
 - Added a [sortable character list](/characters/list/).
 - Added `zuben el genubi.png`.
-
----
-
-## 2024-12-31
-
-- Paginated the gallery by year.
-- Added `berlin eagle.png`.
-
-## 2024-12-28
-
-- Story edits.
-
-## 2024-12-27
-
-- Added "prev" and "next" arrows on each story page.
-
-## 2024-12-26
-
-- Added `jay jacome.png`.
-- Story edits.
-- Deleted the "Biography" section off all character profiles. Will start making a story for each backstory.
-
-## 2024-12-25
-
-- Added `froese.png`.
-- Story edits.
-
-## 2024-12-24
-
-- Upgraded to 11ty v3.
-	- It was a painful ride, but I did it.
-- Story edits.
-
-## 2024-12-23
-
-- Added [stories](/stories/)! Now I can infodump about the plots and put the actual comic in even bigger hiatus limbo!
-
-## 2024-12-20
-
-- Added `milk.png`.
-- Character edits.
-
-## 2024-12-16
-
-- Added `paperweight young.png`, `buttercup pride.png`.
-- Character edits.
-
-## 2024-12-15
-
-- Revamped the gallery page so it's grouped by year-month.
-- Added `sprinkles.png`, `huizhong.png`.
-
-## 2024-12-13
-
-- Character edits.
-
-## 2024-12-11
-
-- World edits.
-	- Added page [Creatures](/world/creatures/).
-
-## 2024-12-10
-
-- Character edits.
-- World edits.
-	- Added page [ISA](/world/isa/).
-- CSS tweaks.
-
-## 2024-12-09
-
-- Added `sparky nightsun wallpaper.png`.
-- Character edits.
-- OC Webring test.
-
-## 2024-12-04
-
-- Joined bucket webring.
-- Added `pearl snake.png`.
-- Character edits.
-
-## 2024-12-03
-
-- Added some new buttons.
-- Fixed an embarrassing error that uploaded two copies of the site to Neocities.
-
-## 2024-12-02
-
-- Character edits.
-- Added [Pumpkin's Village](/world/westavia/pumpkins-village/).
-
-## 2024-12-01
-
-- Added placeholder image.
-- Added `snake stand.png`.
-- Moved old updates.
-
-## 2024-11-30
-
-- Added `goose-goose-2.gif`, `goosebump.gif`.
-	- Why'd `goose-goose-2` have hyphens in its name? When'd I do that?
-	- Whatever.
-	- Wait hang on. `goose-float` and `goose-hat` both have hyphens too.
-	- Whatever.
-- Character edits.
-- Redid the RSS feed a little.
-
-## 2024-11-29
-
-- Character edits.
-	- Added "Age estimation" for some.
-
-## 2024-11-28
-
-- New filter style on characters page.
-- Character edits.
-
-## 2024-11-27
-
-- Added `sparky fern panda.png`.
-- Character edits.
-
-## 2024-11-25
-
-- Added `dijkolo.png`.
-- Updated calendar.
-
-## 2024-11-24
-
-- Character edits.
-	- Added [Gecko](/characters/gecko/).
-- World edits.
-
-## 2024-11-21
-
-- Character edits.
-- World edits.
-
-## 2024-11-19
-
-- Added `chastity stand.png`, `devotion stand.png`, `elegance stand.png`.
-
-## 2024-11-18
-
-- Added `beauty stand.png`.
-- Character edits.
-- 加上了中文字体。
-
-## 2024-11-17
-
-- Character edits.
-
-## 2024-11-15
-
-- Added `pumpkin horn.png`.
-- Character edits.
-
-## 2024-11-14
-
-- Finished character page filtering.
-
-## 2024-11-13
-
-- Character edits.
-- World edits.
-- CSS tweaks.
-
-## 2024-11-12
-
-- Added `goose goose.png`, `goose float.gif`.
-- Character edits.
-- World edits.
-
-## 2024-11-11
-
-- Added *the ability to* add a table of contents for MD files.
-- World pages edits.
-
-## 2024-11-09
-
-- Added `kids nuke.png`.
-- Character edits.
-- World edits.
-- Rearranged the [Calendar](/world/calendar/) page.
-
-## 2024-11-08
-
-- Added `fern stand.png`, `snowball lights.png`.
-- Made the grid CSS better.
-- I can't believe I did it, I spent like a week making a JSON editor for my `characters.json` and `relationships.json` so I can edit characters easier. I spent so much fucking time I probably shouldn't have spent for something no one except me is ever going to use. There has to be something wrong with me. I wasted so much time but I loved it so much. Like why? Why? No reason.
-
-## 2024-11-04
-
-- Added `nightsun sword.png`.
-- Added *the ability to add* a relationship image for each relationship.
-- Edits.
-
-## 2024-10-31
-
-- Added `paperweight sit.png`, `sparky adult.png`.
-- Added some more birthdays.
-- Edits.
-
-## 2024-10-25
-
-- Added `404.png` and put it on the 404 page. Added `sonetto.png`, `sparky carrying animus.png`.
-- Edits.
-- Moved older updates to [another page](/changelog/old/).
-
-## 2024-10-24
-
-- Added a [calendar](/world/calendar/)!
-- Moved stylesheets out of `layout.liquid`.
-
-## 2024-10-23
-
-- Added a [contact page](/contact/).
-- Added more buttons.
-
-## 2024-10-22
-
-- Edited some characters.
-- Deleted the "buttons" section from the footer. Why was it even there?
-
-## 2024-10-20
-
-- Edited some characters.
-- Edited some world pages.
-- Added the date to each comic page.
-- Edited the layout a bit.
-- Added some fancy but meaningless CSS effects.
-	- It was originally fancier, but it was too fancy. So I dialed down the fancy-o-meter.
-
-## 2024-10-19
-
-- Added a footer.
-- Edited some world pages.
-- Edited some characters.
-
-## 2024-10-18
-
-- Edited some world pages.
-
-## 2024-10-15
-
-- Added `jaculus thumb.png`, `koala thumb.png`, `kangaroo thumb.png`, and `qibli gape.png`.
-- Edited some characters and relationships.
-
-## 2024-10-14
-
-- Added blockquote style.
-- Edited [Atlasia](/world/atlasia/) a bit.
-
-## 2024-10-13
-
-- Added some characters but they have like no info.
-- Added [Palettes](/characters/palettes/).
-- Changed the 404 pages.
-- Made `linkcolors.css` auto-generated.
-
-## 2024-10-12
-
-- Edited some World pages.
-- Style tweaks.
-
-## 2024-10-11
-
-- Fixed the 468x60 img thing. Turned out my adblocker was blocking it. Weird.
-- Added WEB / COMIC / RING webring.
-- Edited relationships.
-
-## 2024-10-10
-
-- Added buttons and webrings in [About](/about/).
-- Edited page number thing to make it easier later when revamping Chapter 1 (if ever).
-- Edited arrows when flipping pages.
-- Fixed save/load stuff.
-- Added RSS button.
-
-## 2024-10-04
-
-- Added `qibli sit.png`.
-- Edited some pages.
-
-## 2024-10-03
-
-- Added `kids garbage.png`.
-- Edited some pages.
-
-## 2024-10-02
-
-- Added `sparky nuke.png`.
-- Edited some pages.
-
-## 2024-10-01
-
-- Added [Overview](/world/overview/).
-- Added [Westavia](/world/westavia/).
-- Added `westavia flag.svg`, `westavia token.svg`.
-- Edited some pages.
-
-## 2024-09-30
-
-- Added `silhouettes.png`.
-- Did some CSS changes.
-
-## 2024-09-29
-
-- Changed Sparky's age in [her bio](/characters/sparky/biography/).
-- Edited some world pages.
-
-## 2024-09-28
-
-- Added pages [Superpowers](/world/superpowers/) and [Superpowers in Bauhinia](/world/bauhinia/superpowers/).
-
-## 2024-09-27
-
-- Added `melody jerboa.png`.
-
-## 2024-09-25
-
-- Added `alex oris.png` and `tbn soapbox.png`.
-
-## 2024-09-23
-
-- Added the [RSS feed](/feed.xml/).
-- Started to add custom 404 pages. [Look here](/jackdaws-love-my-big-sphinx-of-quartz/).
-
-## 2024-09-22
-
-- Added `cosmo alaska subway.png`.
-- Added page [Hillslope](/world/bauhinia/hillslope/).
-
-## 2024-09-21
-
-- Added `lepolde.png`, `pearl thumb.png`.
-
-## 2024-09-19
-
-- Made the svg line caps round.
-	- Maybe I should start using the icons instead of copying and pasting svgs?
-- Added `buzz.png`, `mitzi ashford.png`, `odona.png`, `zuperbg.png`.
-- Updated [About](/about/).
-
-## 2024-09-18
-
-- Added [Peacock's bio](/characters/peacock/biography/).
-- Added light / dark mode toggle. Note that some things may be really hard to read with dark mode.
-
-## 2024-09-17
-
-- Added world pages
-  - [Coastline](/world/bauhinia/coastline/)
-	- [Coastline Middle School](/world/bauhinia/cms/)
-	- [The Safe house](/world/bauhinia/safe-house/)
-  - [Flower City](/world/bauhinia/flower-city/)
-	- [University of Flower City](/world/bauhinia/ufc/)
-
-## 2024-09-16
-
-- Fixed a wee problem in [Jaculus](/characters/jaculus/), [Koala](/characters/koala/) and [Kangaroo](/characters/kangaroo/).
-- Added `goose hat.gif`.
-- Added trivia and inspiration section for characters.
-
-## 2024-09-15
-
-- Added some character information.
-- Added [MSS](/world/bauhinia/mss/).
-
-## 2024-09-14
-
-- Added breadcrumbs!
-- Added `tephra walk.gif` and `sparky dragonfly.png`.
-	- I haven't figured out a way to put gifs on here yet sorry.
-- Added dates to all the images
-	- I just went through the gallery folder and copied the last modified dates of the files over.
-- CSS tweaks.
-
-## 2024-09-13
-
-- Started a changelog because it sounds like a good idea.
-- Cleaned up the CSS a *wee* bit.
-	- Also added some pointless variables.
-- Tried link color. It seems to work!
-- Added [Starcorp](/world/bauhinia/starcorp/).
-- Might consider switching to light mode since a lot of the link colors are too dark.
-	- I did it.
