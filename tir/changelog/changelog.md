@@ -10,6 +10,7 @@ titlezh: 更新日志
 ## 2025-11-05
 
 - Embeds of character links now show the character's icon;
+	- Countries and their sub-files also display the country flag;
 
 ## 2025-11-04
 
