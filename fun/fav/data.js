@@ -442,6 +442,22 @@ img: "/The-Iron-Ragdoll/img/gallery/Nd97mOoaEI-500.webp"
 
 
 {
+name: "Starry",
+color: "#CC770F",
+desc: "",
+img: "/The-Iron-Ragdoll/img/gallery/BgsO5nBo6i-500.webp"
+},
+
+
+{
+name: "Icicle",
+color: "#72bed2",
+desc: "",
+img: "/The-Iron-Ragdoll/img/gallery/ZCPcem7dd5-500.webp"
+},
+
+
+{
 name: "Helsinki",
 color: "#5b3896",
 desc: "",
@@ -522,14 +538,6 @@ img: "/The-Iron-Ragdoll/img/gallery/WlAsiWa6j3-500.webp"
 
 
 {
-name: "Starry",
-color: "#CC770F",
-desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/BgsO5nBo6i-500.webp"
-},
-
-
-{
 name: "Melody",
 color: "#426600",
 desc: "Quiet badass.",
@@ -566,14 +574,6 @@ name: "Thunder",
 color: "#DCCB09",
 desc: "",
 img: "/The-Iron-Ragdoll/img/gallery/-DCSm1hLip-500.webp"
-},
-
-
-{
-name: "Icicle",
-color: "#72bed2",
-desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/ZCPcem7dd5-500.webp"
 },
 
 
