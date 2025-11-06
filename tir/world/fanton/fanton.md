@@ -23,7 +23,7 @@ categories:
   <p>Capital</p>
   <p><a href="/world/fanton/lotus-lake-city/">Lotus Lake City</a></p>
   <p>Symbol</p>
-  <p>The panda</p>
+  <p>The lotus flower</p>
 </div>
 
 The purple starry-eyed tree-lovers.
@@ -43,11 +43,8 @@ The closest geographical mirror to Bauhinia is Sichuan plus the Yungui Plateau p
 ### Regions
 
 - [Fantoni Basin](/world/fanton/fantoni-basin/)
+	- [Lotus Lake City](/world/fanton/lotus-lake-city/) (capital)
 - [Fantoni Plateau](/world/fanton/fantoni-plateau/)
-
-### Cities
-
-- [Lotus Lake City](/world/fanton/lotus-lake-city/) (capital)
 
 ## Government
 

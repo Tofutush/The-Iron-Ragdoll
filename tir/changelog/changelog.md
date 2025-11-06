@@ -7,6 +7,10 @@ eleventyNavigation:
 titlezh: 更新日志
 ---
 
+## 2025-11-06
+
+- Added `harold.png`;
+
 ## 2025-11-05
 
 - Embeds of character links now show the character's icon;
