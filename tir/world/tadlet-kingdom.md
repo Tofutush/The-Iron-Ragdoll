@@ -12,7 +12,7 @@ It's a world full of huge, talking tadlets living inside kingdoms. The two main 
 
 ## Meta
 
-(Compare to [Qibli's pocket dimension](/stories/qibli-on-the-run/#pocket-dimension).)
+(Contrast with [Qibli's pocket dimension](/stories/qibli-on-the-run/#pocket-dimension).)
 
 Sunflower can enter her paracosm, normally by flushing herself down a toilet, but any method works actually, as long as you know about it and intend to enter. She just likes the absurdity.
 

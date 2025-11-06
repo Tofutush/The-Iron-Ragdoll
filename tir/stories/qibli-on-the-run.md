@@ -22,7 +22,7 @@ After murdering Nebula, Qibli couldn't be a normal member of society anymore. Sh
 
 ## Pocket dimension
 
-She rested herself in a pocket dimension she created, where there's a treehouse she lives in, and the outside terrain can shift to her liking. It works a lot like [Sunflower](/characters/sunflower/)'s paracosm, except that it's created through magic and not imagination, and time flows normally; and because she will physically enter her pocket dimension, she cannot connect to the internet.
+She rested herself in a pocket dimension she created, where there's a treehouse she lives in, and the outside terrain can shift to her liking. In the pocket dimension, and flows normally; and because she will physically enter her pocket dimension, she cannot connect to the internet. Contrast with [Sunflower](/characters/sunflower/)'s paracosm.
 
 ## Discovery
 
