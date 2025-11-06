@@ -9,7 +9,7 @@ titlezh: 更新日志
 
 ## 2025-11-06
 
-- Added `harold.png`;
+- Added `harold.png`, `astra.png`;
 
 ## 2025-11-05
 
