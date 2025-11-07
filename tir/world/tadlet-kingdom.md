@@ -10,6 +10,8 @@ categories:
 
 It's a world full of huge, talking tadlets living inside kingdoms. The two main kingdoms are Cat Kingdom and Dog Kingdom.
 
+The main character is Snowy, a husky dog with rainbow eyes and horn. Her job is to spread happiness across the land.
+
 ## Meta
 
 (Contrast with [Qibli's pocket dimension](/stories/qibli-on-the-run/#pocket-dimension).)
