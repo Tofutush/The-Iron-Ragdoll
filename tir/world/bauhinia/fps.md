@@ -1,7 +1,6 @@
 ---
 title: Fancy Private School
 desc: A really fancy private school.
-titlezh: 有钱人上的私立学校
 eleventyNavigation:
   parent: Coastline
 tags:

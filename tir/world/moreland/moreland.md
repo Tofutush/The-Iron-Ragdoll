@@ -7,7 +7,6 @@ desc: What if introverts made a country?
 tags:
   - moreland
 displayTitle: The Republic of Moreland
-titlezh: 莫尔兰共和国
 categories:
   - Countries
   - Locations

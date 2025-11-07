@@ -5,7 +5,6 @@ tags:
   - lore
 eleventyNavigation:
   parent: World
-titlezh: 超能力
 categories:
   - Lore
 ---

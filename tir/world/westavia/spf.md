@@ -1,7 +1,6 @@
 ---
 title: Suicide Prevention Force
 desc: Westavia's internal security apparatus.
-titlezh: 轻生防范队
 categories:
   - Organizations
   - Government Organizations

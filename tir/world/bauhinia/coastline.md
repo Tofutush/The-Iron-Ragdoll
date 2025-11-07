@@ -2,7 +2,6 @@
 title: Coastline
 tags:
   - coastline
-titlezh: 沿海城
 categories:
   - Cities
   - Locations

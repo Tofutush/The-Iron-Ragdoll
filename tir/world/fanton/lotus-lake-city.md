@@ -1,6 +1,5 @@
 ---
 title: Lotus Lake City
-titlezh: 莲花湖城
 desc: Capital of Fanton.
 categories:
   - Locations

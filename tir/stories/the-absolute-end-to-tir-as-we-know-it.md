@@ -3,7 +3,6 @@ title: The Absolute End to TIR as We Know It
 canon: yes
 chs:
   - kismet
-titlezh: 铁打洋娃娃的终结
 desc: This is the end of the paracosm.
 myTags:
   - Bauhinia

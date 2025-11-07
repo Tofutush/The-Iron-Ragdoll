@@ -5,7 +5,6 @@ chs:
   - goose
 time: 2001 - present
 desc: Goose's backstory.
-titlezh: 白鹅背景
 myTags:
   - Canon
   - Backstory

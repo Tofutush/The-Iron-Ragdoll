@@ -16,7 +16,6 @@ chs:
 time: 2031 summer break
 desc: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
 fic: true
-titlezh: 莫尔兰核弹
 myTags:
   - Canon
   - Coastline

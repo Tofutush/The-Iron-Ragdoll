@@ -5,7 +5,6 @@ tags:
 desc: Creatures of the world!
 eleventyNavigation:
   parent: World
-titlezh: 小动物
 categories:
   - Lore
 ---

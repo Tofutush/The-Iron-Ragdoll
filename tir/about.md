@@ -5,7 +5,6 @@ desc: About The Iron Ragdoll.
 eleventyNavigation:
   parent: Root
   order: 2
-titlezh: 关于
 ---
 
 [[toc]]

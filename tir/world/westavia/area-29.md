@@ -1,7 +1,6 @@
 ---
 title: Area 29
 desc: A random city in the middle of nowhere.
-titlezh: 第二十九区
 categories:
   - Cities
   - Locations

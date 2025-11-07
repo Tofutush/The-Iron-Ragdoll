@@ -5,7 +5,6 @@ chs:
   - kismet
   - pinecone
   - rosemary
-titlezh: 天意计划
 desc: The president of Bauhinia got immortality. Now he can't show his face. Help!
 myTags:
   - Bauhinia

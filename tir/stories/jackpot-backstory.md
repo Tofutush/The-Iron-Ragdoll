@@ -4,7 +4,6 @@ canon: yes
 chs:
   - jackpot
 time: 1994 - present
-titlezh: 金元宝背景
 desc: Jackpot's backstory.
 myTags:
   - Canon

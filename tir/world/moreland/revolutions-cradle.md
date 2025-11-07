@@ -1,7 +1,6 @@
 ---
 title: Revolution's Cradle
 desc: Capital of Moreland.
-titlezh: 首义之城
 categories:
   - Cities
   - Locations

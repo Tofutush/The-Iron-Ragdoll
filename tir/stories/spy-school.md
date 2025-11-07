@@ -10,7 +10,6 @@ chs:
   - jelly
   - checkers
 time: "2053"
-titlezh: 国安附中
 desc: Harmony goes to a special school.
 myTags:
   - Bauhinia

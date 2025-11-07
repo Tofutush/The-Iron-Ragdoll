@@ -1,6 +1,5 @@
 ---
 title: Westavian Intelligence Service
-titlezh: 伟斯德维亚情报局
 desc: Foreign intelligence service of Westavia
 categories:
   - Organizations

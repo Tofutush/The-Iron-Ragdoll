@@ -7,7 +7,6 @@ chs:
   - animus
   - cobalt
 time: 
-titlezh: 铁心遇刺
 desc: Ironheart gets assassinated. Fortunately, he survives. Unfortunately, he is no longer Ironheart.
 myTags:
   - Canon

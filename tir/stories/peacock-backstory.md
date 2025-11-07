@@ -5,7 +5,6 @@ chs:
   - peacock
 time: 1986 - present
 desc: Peacock's backstory.
-titlezh: 孔雀背景
 myTags:
   - Canon
   - Backstory

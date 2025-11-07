@@ -1,6 +1,5 @@
 ---
 title: Fantoni Secret Service
-titlezh: 国家安全局
 categories:
   - Government Organizations
   - Organizations

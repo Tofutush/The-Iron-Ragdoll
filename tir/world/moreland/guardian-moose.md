@@ -1,6 +1,5 @@
 ---
 title: The Guardian Moose
-titlezh: 驼鹿护卫军
 desc: The Armed Forces of the Republic of Moreland
 tags:
   - guardian-moose

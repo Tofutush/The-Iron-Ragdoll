@@ -1,6 +1,5 @@
 ---
 title: Tadlet Kingdom
-titlezh: 蝌蚪精王国
 desc: Sunflower's paracosm.
 eleventyNavigation:
   parent: World

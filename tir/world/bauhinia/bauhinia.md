@@ -7,7 +7,6 @@ eleventyNavigation:
 desc: What if CEOs made a country?
 tags:
   - bauhinia
-titlezh: 紫荆共和国
 categories:
   - Countries
   - Locations

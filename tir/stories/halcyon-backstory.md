@@ -4,7 +4,6 @@ canon: yes
 chs:
   - halcyon
 time: 1991 - 2025
-titlezh: 太平背景
 desc: Halcyon's backstory
 myTags:
   - Canon

@@ -1,6 +1,5 @@
 ---
 title: The Poker Spies
-titlezh: 扑克间谍环
 canon: yes
 chs:
   - sky

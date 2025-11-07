@@ -1,7 +1,6 @@
 ---
 title: Poker Spies
 desc: A spy ring assembled during the Fantoni War.
-titlezh: 扑克间谍环
 categories:
   - Misc
 tags:

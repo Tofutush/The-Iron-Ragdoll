@@ -4,7 +4,6 @@ eleventyNavigation:
   parent: Coastline
 tags:
   - coastline-middle-school
-titlezh: 沿海十一中
 categories:
   - Schools
 desc: A shitty public middle school.

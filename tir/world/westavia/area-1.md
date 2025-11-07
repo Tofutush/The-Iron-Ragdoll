@@ -1,7 +1,6 @@
 ---
 title: Area 1
 desc: Economic center of Westavia.
-titlezh: 第一区
 categories:
   - Cities
   - Locations

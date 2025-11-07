@@ -1,7 +1,6 @@
 ---
 title: Area 3
 desc: Former industrial center of Westavia.
-titlezh: 第三区
 categories:
   - Cities
   - Locations

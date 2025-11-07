@@ -5,7 +5,6 @@ tags:
   - lore
 eleventyNavigation:
   parent: World
-titlezh: 灵魂
 categories:
   - Lore
 ---
