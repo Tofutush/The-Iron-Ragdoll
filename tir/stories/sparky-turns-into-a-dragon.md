@@ -8,7 +8,6 @@ chs:
   - firecrackers
   - jam
   - nebula
-titlezh: 闪闪跃龙门
 desc: Sparky jumps over a gate and gets turned into a dragon. How would they turn her back?
 myTags:
   - Bauhinia

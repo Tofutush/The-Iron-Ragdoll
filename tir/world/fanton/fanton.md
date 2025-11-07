@@ -7,7 +7,6 @@ desc: What if tree-huggers made a country?
 tags:
   - fanton
 displayTitle: The Republic of Fanton
-titlezh: 范顿共和国
 categories:
   - Countries
   - Locations

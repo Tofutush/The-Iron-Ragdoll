@@ -1,7 +1,6 @@
 ---
 title: People's Vanguard
 desc: Capital of Westavia.
-titlezh: 人民先锋
 categories:
   - Cities
   - Locations

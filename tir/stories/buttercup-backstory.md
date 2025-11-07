@@ -4,7 +4,6 @@ canon: yes
 chs:
   - buttercup
 time: 2010 - present
-titlezh: 毛茛背景
 desc: Buttercup's backstory.
 myTags:
   - Canon

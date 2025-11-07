@@ -4,7 +4,6 @@ tags:
   - starcorp
   - cherry-hyrax-family
   - sparkys-family
-titlezh: 繁星集团
 categories:
   - Organizations
   - Corporations

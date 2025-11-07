@@ -1,6 +1,5 @@
 ---
 title: Nameless Village
-titlezh: 无名村
 tags:
   - nameless-village
 desc: Candlelight's old home, a tiny village.

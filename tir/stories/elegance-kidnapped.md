@@ -8,7 +8,6 @@ chs:
   - qibli
 time: "?"
 desc: Elegance gets kidnapped. Sparky refuses to leave her side and also gets kidnapped.
-titlezh: 招运绑架案
 myTags:
   - Canon
   - Bauhinia

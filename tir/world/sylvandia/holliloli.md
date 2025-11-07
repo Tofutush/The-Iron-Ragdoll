@@ -2,7 +2,6 @@
 title: Holliloli
 eleventyNavigation:
   order: 4
-titlezh: 冬青莉莉
 categories:
   - Locations
 ---

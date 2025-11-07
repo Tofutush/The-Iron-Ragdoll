@@ -2,7 +2,6 @@
 title: Lotus Lake
 eleventyNavigation:
   parent: Lotus Lake City
-titlezh: 莲花湖
 categories:
   - Locations
 desc: A big freshwater lake, the most famous in Fanton and perhaps the whole world.

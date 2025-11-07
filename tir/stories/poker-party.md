@@ -6,7 +6,6 @@ chs:
   - sugarcane
   - sky
 time: "2054"
-titlezh: 扑克派对
 desc: Harmony throws a party for Sky and the Poker Spies. But the spies, unsurprisingly, have a lot of enemies and putting them all in one place was probably not the best idea.
 myTags:
   - Bauhinia

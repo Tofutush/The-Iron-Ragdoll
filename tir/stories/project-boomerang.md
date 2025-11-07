@@ -10,7 +10,6 @@ chs:
   - jerboa
   - kismet
 time: 2018 - 2021
-titlezh: 回旋镖计划
 desc: Bauhinia initiated a top-secret project to develop the time machine.
 myTags:
   - Canon

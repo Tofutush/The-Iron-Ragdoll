@@ -1,6 +1,5 @@
 ---
 title: Magic Academy
-titlezh: 魔法学院
 desc: Magical indoctrination school.
 categories:
   - Schools

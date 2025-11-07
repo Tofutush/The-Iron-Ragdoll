@@ -8,7 +8,6 @@ chs:
   - kaleidoscope
   - moonbeam
 time: "?"
-titlezh: 三缺一
 desc: The disappearance of a friend drags the group down the rabbit hole of Fantoni organized crime.
 myTags:
   - Canon

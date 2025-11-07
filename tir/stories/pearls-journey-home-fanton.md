@@ -14,7 +14,6 @@ myTags:
   - Fanton
   - Sparky and her friends
   - Pearl's Journey Home
-titlezh: 珍珠回家：范顿篇
 ---
 
 They got to Fanton. They had a good time there, with all the beautiful scenery and tofu. They also saw pandas. They got to the border.

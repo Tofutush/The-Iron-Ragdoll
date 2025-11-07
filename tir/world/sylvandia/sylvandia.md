@@ -7,7 +7,6 @@ desc: What if no one made a country and you're all just smooshed together?
 tags:
   - sylvandia
 displayTitle: The Sylvandian Federation
-titlezh: 希尔万迪亚合众国
 categories:
   - Countries
   - Locations

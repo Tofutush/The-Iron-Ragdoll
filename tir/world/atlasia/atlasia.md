@@ -7,7 +7,6 @@ desc: What if Ayn Rand made a country?
 tags:
   - atlasia
 displayTitle: The Free Republic of Atlasia
-titlezh: 亚特莱西亚自由共和国
 categories:
   - Countries
   - Locations

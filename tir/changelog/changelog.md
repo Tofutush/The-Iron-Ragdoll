@@ -4,7 +4,6 @@ title: Changelog
 eleventyNavigation:
   parent: Root
   order: 990
-titlezh: 更新日志
 ---
 
 ## 2025-11-06

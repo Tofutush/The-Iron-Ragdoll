@@ -5,7 +5,6 @@ tags:
   - lore
 eleventyNavigation:
   parent: World
-titlezh: 历史
 categories:
   - Lore
 ---

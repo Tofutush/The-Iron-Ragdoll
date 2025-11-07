@@ -5,7 +5,6 @@ tags:
   - lore
 eleventyNavigation:
   parent: World
-titlezh: 国际超能力协会
 categories:
   - Organizations
   - NGOs

@@ -5,7 +5,6 @@ chs:
   - harmony
   - sugarcane
   - sky
-titlezh: 毕业典礼
 desc: Harmony and Sugarcane graduate high school.
 myTags:
   - Bauhinia

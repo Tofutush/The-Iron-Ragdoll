@@ -1,7 +1,6 @@
 ---
 title: Froggy Island
 desc: Hyrax's personal island.
-titlezh: 蛙蛙岛
 categories:
   - Locations
 ---

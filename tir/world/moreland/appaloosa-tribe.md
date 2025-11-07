@@ -1,7 +1,6 @@
 ---
 title: The Appaloosa Tribe
 desc: A nomadic tribe in Moreland.
-titlezh: 阿波露萨族
 categories:
   - Organizations
   - Tribes

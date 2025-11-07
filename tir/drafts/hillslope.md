@@ -5,7 +5,6 @@ tags:
   - hillslope
 eleventyNavigation:
   parent: Coastline
-titlezh: 小山坡
 ---
 
 A town ran by [Starcorp](/world/bauhinia/starcorp/) to help people by raising the kids they can't afford or have no time to raise. At least, that's what it is on paper.

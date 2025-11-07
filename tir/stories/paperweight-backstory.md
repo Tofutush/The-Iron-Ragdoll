@@ -4,7 +4,6 @@ canon: yes
 chs:
   - paperweight
 time: 1978 - 2032
-titlezh: 镇纸背景
 desc: Paperweight's backstory.
 myTags:
   - Canon

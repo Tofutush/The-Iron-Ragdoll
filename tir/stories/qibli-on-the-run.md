@@ -1,6 +1,5 @@
 ---
 title: Qibli on the Run (working title)
-titlezh: 奇轹在逃
 canon: yes
 chs:
   - qibli

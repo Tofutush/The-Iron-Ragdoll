@@ -10,7 +10,6 @@ chs:
   - gorgeous
   - sky
 time: 2056-05
-titlezh: 谍影三人行
 desc: A family surviving under the oppressive government of Bauhinia.
 myTags:
   - Bauhinia

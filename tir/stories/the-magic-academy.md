@@ -1,6 +1,5 @@
 ---
 title: The Magic Academy
-titlezh: 魔法学院
 canon: yes
 chs:
   - qibli
