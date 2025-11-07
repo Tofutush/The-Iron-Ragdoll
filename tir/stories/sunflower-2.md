@@ -48,6 +48,16 @@ They talked. The student informs Qibli that the paracosm was sucking things in, 
 
 So now all three of them set out to navigate this evil and corrupted Tadlet Kingdom looking for Starry, with the characters Sunflower once knew and loved now all being evil and they're fighting one another.
 
-In the end they found Starry, but the three outsiders needed a way to get back to the real world. They brought peace to Tadlet Kingdom and all kingdoms stopped fighting, but Sunflower sacrificed herself and died for real, and the paracosm world disappeared for good. Starry and Icicle went back to 2035, all the desks and chairs were also returned to the school, and Qibli went back to 2045 where she made a new pocket dimension and continued to study revival.
+## Tadlet Kingdom
+
+The world had plunged into warfare. Cat Kingdom and Dog Kingdom were fighting each other. Snowy had turned into an assassin for the Dog Kingdom, killing enemies of the state.
+
+In the end they found Starry, but the three outsiders needed a way to get back to the real world. They brought peace to Tadlet Kingdom and all kingdoms stopped fighting, but Sunflower had to sacrifice herself. The entire paracosm collapsed into a book that contained all the lore and fell into Starry's hands. The three got ejected back into the real world.
+
+## Real world
+
+Starry and Icicle went back to 2035, all the desks and chairs were also returned to the school, and Qibli went back to 2045 where she made a new pocket dimension and continued to study revival.
+
+Starry still had the book. She decided to publish it, believing that by doing so, Sunflower and the entire world will continue to exist. Now Starry and Icicle could enter the paracosm and meet Sunflower at any time. They had a "you're *back*!" "you're still here!" when meeting and all. The book never sold well.
 
 [^1]: They're not wrong. I'm not saying materialism is bad; in fact I think it's really good. It's just unfortunate that these logical and grounded Westavians exist in *my paracosm*. Suffer!
