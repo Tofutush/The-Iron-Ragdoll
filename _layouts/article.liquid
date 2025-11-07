@@ -3,4 +3,4 @@ layout: layout.liquid
 ---
 <h1>{% if displayTitle %}{{ displayTitle }}{% else %}{{ title }}{% endif %}{% if titlezh %} · {{ titlezh }}{% endif %}</h1>
 {% if desc %}<p class="lighter-text">{{ desc }}</p>{% endif %}
-<article>{{ content }}</article>
+{{ content }}
