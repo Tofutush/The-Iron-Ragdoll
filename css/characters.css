@@ -16,16 +16,22 @@ blockquote {
 	margin: 2em 0;
 
 	&>img {
-		height: 240px;
-		width: 240px;
+		height: 280px;
+		width: 280px;
 		background-color: var(--box);
 		border-radius: 1em;
 		user-select: none;
 	}
 
 	&>.names {
-		&>h1 {
+		&>.en {
 			font-size: calc(var(--font-size-h1) * 1.5);
+			margin-top: 0;
+			margin-bottom: 1rem;
+		}
+
+		&>.zh {
+			font-weight: bold;
 			margin-top: 0;
 			margin-bottom: 1rem;
 		}
@@ -152,8 +158,12 @@ blockquote {
 	.title {
 		flex-direction: column;
 
-		&>.names>* {
-			text-align: center;
+		&>.names {
+			gap: 0;
+
+			&>* {
+				text-align: center;
+			}
 		}
 	}
 }
