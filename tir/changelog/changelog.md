@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-07
+
+- Added `pumpkin goose mirror.png`;
+
 ## 2025-11-06
 
 - Added `harold.png`, `astra.png`;
