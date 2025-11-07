@@ -32,7 +32,8 @@ eleventyComputed:
     {% assign profilePath = ch.name | lowerCase | append: " profile" %}
     {% image "gallery/" profilePath 'png' 'auto' ch.name '' iconPath 'png' %}
     <div class="names">
-      <h1>{{ ch.name }}{% if ch.namezh %} · {{ ch.namezh }}{% endif %}</h1>
+      {% if ch.namezh %}<h1 class="zh">{{ ch.namezh }}</h1>{% endif %}
+      <h1 class="en">{{ ch.name }}</h1>
       {% if ch.desc %}
         {{ ch.desc | renderMD }}
       {% endif %}
