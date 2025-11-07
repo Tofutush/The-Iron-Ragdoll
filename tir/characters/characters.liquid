@@ -15,7 +15,7 @@ eleventyComputed:
 ---
 <link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
-<article style="--accent: {{ ch.color }}">
+<div style="--accent: {{ ch.color }}">
   {% assign filteredGallery = gallery | filterGallery: ch.name %}
   {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
   {% assign ref = filteredGallery | getFirstOfKind: "ref" %}
@@ -142,7 +142,7 @@ eleventyComputed:
     {% include 'gallery' imgs: filteredGallery %}
     {% if big %}<div class="box-nav solid"><a href="gallery/">View full gallery</a></div>{% endif %}
   {% endif %}
-</article>
+</div>
 {% assign prev = pagination.previous %}
 {% assign next = pagination.next %}
 {% if prev or next %}
