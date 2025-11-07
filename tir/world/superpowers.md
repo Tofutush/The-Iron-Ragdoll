@@ -21,8 +21,6 @@ Common powers are stored in a person's soul. One soul can only have at most one 
 
 ### Superstrength
 
-<figure class="float-right">{% image 'gallery/' 'superstrength' 'svg' 200 '' %} <figcaption>Superstrength symbol</figcaption></figure>
-
 - Possessors: [Sparky](/characters/sparky/), [Peacock](/characters/peacock/)
 - People with superstrength are called strongpeople[^1]
 
@@ -33,8 +31,6 @@ Of course strength is something that can be trained up, and a lack of exercise c
 This power is active, which means that a strongperson has to call upon their power if they want to lift heavy stuff, and that they wouldn't accidentally break things because of their strength. This also means you can catch their unawares.
 
 ### Timekeeping
-
-<figure class="float-right">{% image 'gallery/' 'timekeeping' 'svg' 200 '' %} <figcaption>Timekeeping symbol</figcaption></figure>
 
 - Possessors: [Elegance](/characters/elegance/), [Paperweight](/characters/paperweight/)
 - People with timekeeping are called timekeepers
@@ -47,8 +43,6 @@ Under duress, a timekeeper's internal clock could be messed up. For example, it'
 
 ### Hyperawareness
 
-<figure class="float-right">{% image 'gallery/' 'hyperawareness' 'svg' 200 '' %} <figcaption>Hyperawareness symbol</figcaption></figure>
-
 - Possessors: [Pumpkin](/characters/pumpkin/)
 - People with hyperawareness are called sensors[^2]
 
@@ -60,7 +54,7 @@ There is a special fabric that can conceal a person from sensors. They hate 'em,
 
 ### Invisibility
 
-<figure class="float-right">{% image 'gallery/' 'invisibility' 'svg' 200 '' %} <figcaption>Invisibility symbol</figcaption></figure>
+<figure class="float-right">{% image 'gallery/' 'pumpkin goose mirror' 'png' 200 '' %} <figcaption>Goose showing in the mirror</figcaption></figure>
 
 - Possessors: [Goose](/characters/goose/), [Snowball](/characters/snowball/)
 - People with invisibility are called invisibles
@@ -69,11 +63,9 @@ Get invisible. Like, that's it. Exactly how much you can get invisible depends o
 
 This power is active, obviously. You hide yourself if you want to. Though if someone's been startled, they might subconsciously hide themselves.
 
-No matter the level, invisible people can always been seen in a mirror. There's also the old trick of pouring flour everywhere.
+No matter the level, invisible people can always been seen in a mirror, or by a camera. There's also the old trick of pouring flour everywhere.
 
 ### Mind Reading
-
-<figure class="float-right">{% image 'gallery/' 'mind reading' 'svg' 200 '' %} <figcaption>Mind reading symbol</figcaption></figure>
 
 - Possessors: [Cosmo](/characters/cosmo/), [Willow](/characters/willow/)
 - People with mind reading are called mind-readers
@@ -94,8 +86,6 @@ Technically, a person can have both a common power and a special power — or ev
 
 ### Immortality
 
-<figure class="float-right">{% image 'gallery/' 'immortality' 'svg' 200 '' %} <figcaption>Immortality symbol YES I was lazy</figcaption></figure>
-
 - Possessors: [Tundra](/characters/tundra/)
 - People with immortality are called immortals
 
@@ -106,8 +96,6 @@ For each immortal there is *one* thing that can kill them. And you won't know wh
 Immortality is stored in the bones, and as such it's the only power that can be detected through medical tests. Since it's in the bones, it comes with the body, unlike the common powers that come with the soul. This is the rarest superpower, followed by magic.
 
 ### Magic
-
-<figure class="float-right">{% image 'gallery/' 'magic' 'svg' 200 '' %} <figcaption>Magic symbol</figcaption></figure>
 
 - Possessors: [Qibli](/characters/qibli/), [Trinket](/characters/trinket/), [Halcyon](/characters/halcyon/), [Nebula](/characters/nebula/)
 - People with magic are called magicians
