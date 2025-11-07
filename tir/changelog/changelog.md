@@ -9,6 +9,8 @@ eleventyNavigation:
 ## 2025-11-06
 
 - Added `harold.png`, `astra.png`;
+- Removed all Chinese from the site (except character names);
+	- Chinese version now stored [here](https://tofutush.notion.site/29b186f1eaa180c58613e231c5feeffa);
 
 ## 2025-11-05
 
