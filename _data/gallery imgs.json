@@ -4828,5 +4828,26 @@
     "ch": [
       "harmony"
     ]
+  },
+  {
+    "name": "sunflower snowy",
+    "type": "png",
+    "date": "2025-11-09",
+    "ch": [
+      "sunflower"
+    ]
+  },
+  {
+    "name": "sunflower snowy - sunflower",
+    "type": "png",
+    "date": "2025-11-09",
+    "ch": [
+      "sunflower"
+    ]
+  },
+  {
+    "name": "sunflower snowy - snowy",
+    "type": "png",
+    "date": "2025-11-09"
   }
 ]
