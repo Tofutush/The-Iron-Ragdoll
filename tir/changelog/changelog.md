@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-09
+
+- Added `sunflower snowy.png`;
+
 ## 2025-11-07
 
 - Added `pumpkin goose mirror.png`;
