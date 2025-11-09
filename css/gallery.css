@@ -1,32 +1,26 @@
 .gallery {
 	display: grid;
-	gap: .5em;
+	gap: 1em;
 	grid-template-columns: repeat(auto-fill, minmax(144px, 1fr));
 }
 
 .img {
-	position: relative;
-
-	&.hidden {
-		display: none;
-	}
 
 	&>img {
 		background-color: var(--box);
 		border-radius: 16px;
 		cursor: pointer;
 		object-fit: cover;
-		width: 120px;
+		width: 100%;
+		height: auto;
+		box-sizing: border-box;
 		padding: .5em;
-		margin: 12px;
-		height: 120px;
 		user-select: none;
 		aspect-ratio: 1;
-		transition: all .2s;
+		transition: all .2s var(--bezier);
 
 		&:hover {
 			transform: scale(1.1);
-			box-shadow: 0 0 0 8px var(--c);
 		}
 	}
 }
