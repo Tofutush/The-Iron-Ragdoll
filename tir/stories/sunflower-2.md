@@ -28,11 +28,11 @@ But now, three years later, mysterious things started happening at Area 1 Middle
 
 The ever-so-materialist Westavians weren't about to buy into the supernatural[^1]. They investigated, to no avail.
 
-And then it happened. A *student* disappeared. (I've yet to name her.)
+And then it happened. A *student* disappeared. Starry, known as the token quiet girl.
 
 This time it wasn't spiritually entering like Sunflower did. This time it was actually physical; the paracosm sucked her in.
 
-Another student set out to find her, and made it in (how? spiritually or physically? idk yet)
+Her good friend Icicle set out to find her, and made it in (how? spiritually or physically? idk yet)
 
 She wandered around the Tadlet Kingdom, and finally found Sunflower lying on the ground somewhere, scrolling on her phone.
 
