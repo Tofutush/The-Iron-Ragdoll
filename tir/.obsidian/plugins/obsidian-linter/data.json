@@ -267,7 +267,7 @@
       "enabled": true
     },
     "empty-line-around-horizontal-rules": {
-      "enabled": false
+      "enabled": true
     }
   },
   "lintOnSave": true,
