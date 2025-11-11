@@ -42,9 +42,9 @@ They talked. The student shared that it was 2035. Sunflower's phone still said J
 
 It was 2045, one year after the Fantoni war ended, and 14 years after Sunflower died. Qibli lived in her pocket dimension, hellbent on figuring out how to revive Firecrackers, when the sunny skies of her pocket dimension suddenly started raining and thundering. She thought she had just accidentally did that, and tried to stop the rain, but found that she was no longer in control of her surroundings.
 
-Worried, she went outside to investigate, and bumped into Sunflower and the student.
+Worried, she went outside to investigate, and bumped into Sunflower and Icicle.
 
-They talked. The student informs Qibli that the paracosm was sucking things in, and Qibli figured it must've sucked her pocket dimension in. Qibli said she was from 2045, when a war with Fanton had recently ended. She realized Sunflower was the same age as her, despite still looking like a child.
+They talked. Icicle informs Qibli that the paracosm was sucking things in, and Qibli figured it must've sucked her pocket dimension in. Qibli said she was from 2045, when a war with Fanton had recently ended. She realized Sunflower was the same age as her, despite still looking like a child.
 
 So now all three of them set out to navigate this evil and corrupted Tadlet Kingdom looking for Starry, with the characters Sunflower once knew and loved now all being evil and they're fighting one another.
 
