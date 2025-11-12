@@ -43,16 +43,3 @@ views:
     order: []
     image: file.file
     imageFit: contain
-  - type: cards
-    name: Comics
-    filters:
-      and:
-        - file.inFolder("comics")
-    order: []
-    sort:
-      - property: file.folder
-        direction: ASC
-    image: file.file
-    imageFit: contain
-    imageAspectRatio: 1.4
-    cardSize: 230
