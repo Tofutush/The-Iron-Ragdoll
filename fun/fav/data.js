@@ -444,7 +444,7 @@ img: "/The-Iron-Ragdoll/img/gallery/Nd97mOoaEI-500.webp"
 {
 name: "Starry",
 color: "#CC770F",
-desc: "",
+desc: "Shy, quiet girl.",
 img: "/The-Iron-Ragdoll/img/gallery/BgsO5nBo6i-500.webp"
 },
 
