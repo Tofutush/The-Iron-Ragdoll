@@ -4859,5 +4859,23 @@
       "sunflower"
     ],
     "kind": "thumb new"
+  },
+  {
+    "name": "icicle profile",
+    "type": "png",
+    "date": "2025-11-13",
+    "ch": [
+      "icicle"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "starry profile",
+    "type": "png",
+    "date": "2025-11-13",
+    "ch": [
+      "starry"
+    ],
+    "kind": "thumb new"
   }
 ]
