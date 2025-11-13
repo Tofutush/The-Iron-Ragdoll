@@ -445,7 +445,7 @@ img: "/The-Iron-Ragdoll/img/gallery/LlywIFBqGL-500.webp"
 name: "Starry",
 color: "#CC770F",
 desc: "Shy, quiet girl.",
-img: "/The-Iron-Ragdoll/img/gallery/BY3rXT-Pzc-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/8sldefbkqG-500.webp"
 },
 
 
@@ -453,7 +453,7 @@ img: "/The-Iron-Ragdoll/img/gallery/BY3rXT-Pzc-500.webp"
 name: "Icicle",
 color: "#72bed2",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/wW34rj3cHZ-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/G-Wipn636T-500.webp"
 },
 
 
