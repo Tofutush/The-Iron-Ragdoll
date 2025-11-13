@@ -437,7 +437,7 @@ img: "/The-Iron-Ragdoll/img/gallery/VZx2xZYakL-500.webp"
 name: "Sunflower",
 color: "#cb9c1a",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/Nd97mOoaEI-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/LlywIFBqGL-500.webp"
 },
 
 
@@ -445,7 +445,7 @@ img: "/The-Iron-Ragdoll/img/gallery/Nd97mOoaEI-500.webp"
 name: "Starry",
 color: "#CC770F",
 desc: "Shy, quiet girl.",
-img: "/The-Iron-Ragdoll/img/gallery/BgsO5nBo6i-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/BY3rXT-Pzc-500.webp"
 },
 
 
@@ -453,7 +453,7 @@ img: "/The-Iron-Ragdoll/img/gallery/BgsO5nBo6i-500.webp"
 name: "Icicle",
 color: "#72bed2",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/ZCPcem7dd5-500.webp"
+img: "/The-Iron-Ragdoll/img/gallery/wW34rj3cHZ-500.webp"
 },
 
 
