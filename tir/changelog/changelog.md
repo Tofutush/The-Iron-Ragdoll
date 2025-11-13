@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-12
+
+- Added `sunflower profile.png`;
+
 ## 2025-11-09
 
 - Added `sunflower snowy.png`;

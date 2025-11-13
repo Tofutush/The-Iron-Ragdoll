@@ -4850,5 +4850,14 @@
     "name": "sunflower snowy - snowy",
     "type": "png",
     "date": "2025-11-09"
+  },
+  {
+    "name": "sunflower profile",
+    "type": "png",
+    "date": "2025-11-12",
+    "ch": [
+      "sunflower"
+    ],
+    "kind": "thumb new"
   }
 ]
