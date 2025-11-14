@@ -4877,5 +4877,14 @@
       "starry"
     ],
     "kind": "thumb new"
+  },
+  {
+    "name": "goose ref",
+    "type": "png",
+    "date": "2025-11-14",
+    "ch": [
+      "goose"
+    ],
+    "kind": "ref"
   }
 ]
