@@ -46,8 +46,9 @@ eleventyComputed:
         {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
         {% assign filteredStories = collections.stories | filterStory: ch.name %}
         {% if filteredStories.size > 0 %}<li><a href="#stories">Stories</a></li>{% endif %}
-        {% assign filteredRelations = relationships | filterRelations: ch.name %}
-        {% if filteredRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
+        {% assign majorRelations = relationships | getMajorRels: ch.name %}
+        {% assign minorRelations = relationships | getMinorRels: ch.name %}
+        {% if majorRelations.size > 0 or minorRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
         {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
         <li><a href="#reference">Reference</a></li>
         {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
@@ -88,10 +89,10 @@ eleventyComputed:
       <h2 id="stories">Stories</h2>
       {% include 'storylist', stories: filteredStories %}
   {% endif %}
-  {% if filteredRelations.size > 0 %}
+  {% if majorRelations.size > 0 or minorRelations.size > 0 %}
     <h2 id="relationships">Relationships</h2>
     {% assign count = 0 %}
-    {% for rel in filteredRelations %}
+    {% for rel in majorRelations %}
       <div class="card">
         {% assign otherCh = rel | getOtherCh: ch.name %}
         {% assign relImg = rel | getRelImg %}
@@ -116,6 +117,14 @@ eleventyComputed:
         {{ rel.desc | renderMD }}
       </div>
     {% endfor %}
+    {% if minorRelations.size > 0 %}
+      {% for rel in minorRelations %}
+        <ul>
+          {% assign otherCh = rel | getOtherCh: ch.name %}
+          <li><a href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</li>
+        </ul>
+      {% endfor %}
+    {% endif %}
   {% endif %}
   {% if ch.trivia %}
     <h2 id="trivia">Trivia</h2>
