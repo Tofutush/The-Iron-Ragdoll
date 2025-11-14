@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2025-11-14
 
 - Put relationships without a description text at the bottom in a list;
+- Added `goose ref.png`;
 
 ## 2025-11-13
 
