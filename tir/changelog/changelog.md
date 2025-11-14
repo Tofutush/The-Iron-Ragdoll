@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-14
+
+- Put relationships without a description text at the bottom in a list;
+
 ## 2025-11-13
 
 - Added `icicle profile.png`, `starry profile.png`;
