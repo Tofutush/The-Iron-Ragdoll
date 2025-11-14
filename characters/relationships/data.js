@@ -491,8 +491,64 @@ rel2: "friend"
 {
 source: "Sparky",
 target: "Myriad",
-rel1: "classmates",
-rel2: "classmates"
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sparky",
+target: "Alaska",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sparky",
+target: "Tomato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sparky",
+target: "Potato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sparky",
+target: "Guillotine",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sparky",
+target: "Tephra",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sparky",
+target: "Jerboa",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sparky",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sparky",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
 },
 
 {
@@ -637,6 +693,69 @@ rel2: "friend"
 
 {
 source: "Qibli",
+target: "Myriad",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Qibli",
+target: "Alaska",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Qibli",
+target: "Tomato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Qibli",
+target: "Potato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Qibli",
+target: "Guillotine",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Qibli",
+target: "Tephra",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Qibli",
+target: "Jerboa",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Qibli",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Qibli",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
+},
+
+{
+source: "Qibli",
 target: "Trinket",
 rel1: "ex-friend / classmate",
 rel2: "ex-friend / classmate"
@@ -654,6 +773,69 @@ source: "Sky",
 target: "Firecrackers",
 rel1: "friend",
 rel2: "friend"
+},
+
+{
+source: "Sky",
+target: "Myriad",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sky",
+target: "Alaska",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sky",
+target: "Tomato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sky",
+target: "Potato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sky",
+target: "Guillotine",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sky",
+target: "Tephra",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sky",
+target: "Jerboa",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sky",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Sky",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
 },
 
 {
@@ -700,6 +882,69 @@ rel2: "agent"
 
 {
 source: "Firecrackers",
+target: "Myriad",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Firecrackers",
+target: "Alaska",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Firecrackers",
+target: "Tomato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Firecrackers",
+target: "Potato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Firecrackers",
+target: "Guillotine",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Firecrackers",
+target: "Tephra",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Firecrackers",
+target: "Jerboa",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Firecrackers",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Firecrackers",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
+},
+
+{
+source: "Firecrackers",
 target: "Pinecone",
 rel1: "son",
 rel2: "mother"
@@ -713,6 +958,111 @@ rel2: "older sister"
 },
 
 {
+source: "Myriad",
+target: "Alaska",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Myriad",
+target: "Tomato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Myriad",
+target: "Potato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Myriad",
+target: "Guillotine",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Myriad",
+target: "Tephra",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Myriad",
+target: "Jerboa",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Myriad",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Myriad",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
+},
+
+{
+source: "Alaska",
+target: "Tomato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Alaska",
+target: "Potato",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Alaska",
+target: "Guillotine",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Alaska",
+target: "Tephra",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Alaska",
+target: "Jerboa",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Alaska",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Alaska",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
+},
+
+{
 source: "Tomato",
 target: "Potato",
 rel1: "twin",
@@ -720,10 +1070,122 @@ rel2: "twin"
 },
 
 {
+source: "Tomato",
+target: "Guillotine",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Tomato",
+target: "Tephra",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Tomato",
+target: "Jerboa",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Tomato",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Tomato",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
+},
+
+{
+source: "Potato",
+target: "Guillotine",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Potato",
+target: "Tephra",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Potato",
+target: "Jerboa",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Potato",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Potato",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
+},
+
+{
+source: "Guillotine",
+target: "Tephra",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Guillotine",
+target: "Jerboa",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Guillotine",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Guillotine",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
+},
+
+{
 source: "Tephra",
 target: "Jerboa",
 rel1: "boss",
 rel2: ""
+},
+
+{
+source: "Tephra",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
+},
+
+{
+source: "Tephra",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
 },
 
 {
@@ -745,6 +1207,13 @@ source: "Tephra",
 target: "Melody",
 rel1: "friend",
 rel2: "friend"
+},
+
+{
+source: "Jerboa",
+target: "Cosmo",
+rel1: "classmate",
+rel2: "classmate"
 },
 
 {
@@ -780,6 +1249,13 @@ source: "Jerboa",
 target: "Jaculus",
 rel1: "younger brother",
 rel2: "older sister"
+},
+
+{
+source: "Cosmo",
+target: "Jam",
+rel1: "student",
+rel2: "teacher"
 },
 
 {
