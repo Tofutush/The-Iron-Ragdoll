@@ -94,14 +94,118 @@
     "ch": [
       [
         "Sparky",
-        "classmates"
+        "classmate"
       ],
       [
         "Myriad",
-        "classmates"
+        "classmate"
       ]
     ],
     "desc": "Myriad worked with Sparky on the thief case. They had a fair share of conflicts, as Myriad disapproved of Sparky's recklessness and Sparky thought Myriad was dull. In the end, Sparky framed Myriad for all the theft and got her sent to juvie."
+  },
+  {
+    "ch": [
+      [
+        "Sparky",
+        "classmate"
+      ],
+      [
+        "Alaska",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sparky",
+        "classmate"
+      ],
+      [
+        "Tomato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sparky",
+        "classmate"
+      ],
+      [
+        "Potato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sparky",
+        "classmate"
+      ],
+      [
+        "Guillotine",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sparky",
+        "classmate"
+      ],
+      [
+        "Tephra",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sparky",
+        "classmate"
+      ],
+      [
+        "Jerboa",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sparky",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sparky",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [
@@ -365,6 +469,123 @@
     "ch": [
       [
         "Qibli",
+        "classmate"
+      ],
+      [
+        "Myriad",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Qibli",
+        "classmate"
+      ],
+      [
+        "Alaska",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Qibli",
+        "classmate"
+      ],
+      [
+        "Tomato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Qibli",
+        "classmate"
+      ],
+      [
+        "Potato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Qibli",
+        "classmate"
+      ],
+      [
+        "Guillotine",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Qibli",
+        "classmate"
+      ],
+      [
+        "Tephra",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Qibli",
+        "classmate"
+      ],
+      [
+        "Jerboa",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Qibli",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Qibli",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Qibli",
         "ex-friend / classmate"
       ],
       [
@@ -399,6 +620,123 @@
       ]
     ],
     "desc": "At first, Sky was annoyed that he had to learn sign language to understand Firecrackers, and insisted that he just doesn't have to listen to Firecrackers. But then he realized he was missing out on all the jokes Firecrackers told, and with that Sky warmed up to him."
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "classmate"
+      ],
+      [
+        "Myriad",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "classmate"
+      ],
+      [
+        "Alaska",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "classmate"
+      ],
+      [
+        "Tomato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "classmate"
+      ],
+      [
+        "Potato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "classmate"
+      ],
+      [
+        "Guillotine",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "classmate"
+      ],
+      [
+        "Tephra",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "classmate"
+      ],
+      [
+        "Jerboa",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sky",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [
@@ -482,6 +820,123 @@
     "ch": [
       [
         "Firecrackers",
+        "classmate"
+      ],
+      [
+        "Myriad",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Firecrackers",
+        "classmate"
+      ],
+      [
+        "Alaska",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Firecrackers",
+        "classmate"
+      ],
+      [
+        "Tomato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Firecrackers",
+        "classmate"
+      ],
+      [
+        "Potato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Firecrackers",
+        "classmate"
+      ],
+      [
+        "Guillotine",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Firecrackers",
+        "classmate"
+      ],
+      [
+        "Tephra",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Firecrackers",
+        "classmate"
+      ],
+      [
+        "Jerboa",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Firecrackers",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Firecrackers",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Firecrackers",
         "son"
       ],
       [
@@ -507,12 +962,389 @@
   {
     "ch": [
       [
+        "Myriad",
+        "classmate"
+      ],
+      [
+        "Alaska",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Myriad",
+        "classmate"
+      ],
+      [
+        "Tomato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Myriad",
+        "classmate"
+      ],
+      [
+        "Potato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Myriad",
+        "classmate"
+      ],
+      [
+        "Guillotine",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Myriad",
+        "classmate"
+      ],
+      [
+        "Tephra",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Myriad",
+        "classmate"
+      ],
+      [
+        "Jerboa",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Myriad",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Myriad",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Alaska",
+        "classmate"
+      ],
+      [
+        "Tomato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Alaska",
+        "classmate"
+      ],
+      [
+        "Potato",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Alaska",
+        "classmate"
+      ],
+      [
+        "Guillotine",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Alaska",
+        "classmate"
+      ],
+      [
+        "Tephra",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Alaska",
+        "classmate"
+      ],
+      [
+        "Jerboa",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Alaska",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Alaska",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Tomato",
         "twin"
       ],
       [
         "Potato",
         "twin"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Tomato",
+        "classmate"
+      ],
+      [
+        "Guillotine",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Tomato",
+        "classmate"
+      ],
+      [
+        "Tephra",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Tomato",
+        "classmate"
+      ],
+      [
+        "Jerboa",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Tomato",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Tomato",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Potato",
+        "classmate"
+      ],
+      [
+        "Guillotine",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Potato",
+        "classmate"
+      ],
+      [
+        "Tephra",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Potato",
+        "classmate"
+      ],
+      [
+        "Jerboa",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Potato",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Potato",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Guillotine",
+        "classmate"
+      ],
+      [
+        "Tephra",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Guillotine",
+        "classmate"
+      ],
+      [
+        "Jerboa",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Guillotine",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Guillotine",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
       ]
     ],
     "desc": ""
@@ -528,6 +1360,32 @@
       ]
     ],
     "desc": "Tephra promised to help Jerboa find his parents if Jerboa was willing to stick around his butt and do his bidding all day. Years later, Tephra became a cop, and fulfilled his promise by introducing Jerboa to Frosting."
+  },
+  {
+    "ch": [
+      [
+        "Tephra",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Tephra",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [
@@ -567,6 +1425,19 @@
       ]
     ],
     "desc": "Ahh, I made a classic cop / detective dynamic. Melody often helps Tephra solve cases; and sometimes Tephra uses his police authority helps Melody on some of his cases too."
+  },
+  {
+    "ch": [
+      [
+        "Jerboa",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [
@@ -632,6 +1503,19 @@
       ]
     ],
     "desc": "Jerboa faintly remembers playing dolls with Jaculus. She is also in the family photo he doesn't remember taking."
+  },
+  {
+    "ch": [
+      [
+        "Cosmo",
+        "student"
+      ],
+      [
+        "Jam",
+        "teacher"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [
