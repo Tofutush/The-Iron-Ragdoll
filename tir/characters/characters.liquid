@@ -118,12 +118,12 @@ eleventyComputed:
       </div>
     {% endfor %}
     {% if minorRelations.size > 0 %}
-      {% for rel in minorRelations %}
-        <ul>
+      <ul>
+        {% for rel in minorRelations %}
           {% assign otherCh = rel | getOtherCh: ch.name %}
           <li><a href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</li>
-        </ul>
-      {% endfor %}
+        {% endfor %}
+      </ul>
     {% endif %}
   {% endif %}
   {% if ch.trivia %}
