@@ -416,6 +416,8 @@ footer {
 	width: 13em;
 	user-select: none;
 	filter: drop-shadow(0 0 16px var(--c));
+	z-index: -1;
+	position: relative;
 }
 
 .license {
