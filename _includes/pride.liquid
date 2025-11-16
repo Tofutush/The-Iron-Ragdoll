@@ -1,0 +1,17 @@
+{% assign dateMonth = 0 | getMMDD %}
+{% assign month = dateMonth[1] %}
+{% if dateMonth | between: "02-15", "02-21" %}
+    <div id="flag" title="Aromantic" style="background-image:linear-gradient(#3ca542,#3ca542 20%,#a8d377 20%,#a8d377 40%,#fff 40%,#fff 60%,#a9a9a9 60%,#a9a9a9 80%,#000 80%);"></div>
+{% elsif dateMonth | between: "04-20", "04-26" %}
+    <div id="flag" title="Lesbian" style="background-image:linear-gradient(#d42c00,#d42c00 20%,#fd9855 20%,#fd9855 40%,#fff 40%,#fff 60%,#d161a2 60%,#d161a2 80%,#a20161 80%);"></div>
+{% elsif dateMonth | between: "07-14", "07-20" %}
+    <div id="flag" title="Non-binary" style="background-image:linear-gradient(#fff42c,#fff42c 25%,#fff 25%,#fff 50%,#9d59d2 50%,#9d59d2 75%,#000 75%);"></div>
+{% elsif dateMonth | between: "09-16", "09-22" %}
+    <div id="flag" title="Bisexual" style="background-image:linear-gradient(#d70170,#d70170 40%,#734f94 40%,#734f94 60%,#0039a7 60%);"></div>
+{% elsif dateMonth | between: "10-25", "10-31" %}
+    <div id="flag" title="Asexual" style="background-image:linear-gradient(#000,#000 25%,#7f7f7f 25%,#7f7f7f 50%,#fff 50%,#fff 75%,#670066 75%);"></div>
+{% elsif dateMonth | between: "11-13", "11-19" %}
+    <div id="flag" title="Transgender" style="background-image:linear-gradient(#5ac7ed,#5ac7ed 20%,#efa4b1 20%,#efa4b1 40%,#fff 40%,#fff 60%,#efa4b1 60%,#efa4b1 80%,#5ac7ed 80%);"></div>
+{% elsif month == '6' %}
+    <div id="flag" title="Pride" style="background-image:linear-gradient(#e40303,#e40303 16.7%,#ff8c00 16.7%,#ff8c00 33.4%,#ffed00 33.3%,#ffed00 50.1%,#008026 50.1%,#008026 66.8%,#004dff 66.8%,#004dff 83.5%,#750787 83.5%);"></div>
+{% endif %}

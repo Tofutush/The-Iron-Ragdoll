@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-15
+
+- Added pride flags that show up during corresponding visibility weeks!
+
 ## 2025-11-14
 
 - Put relationships without a description text at the bottom in a list;

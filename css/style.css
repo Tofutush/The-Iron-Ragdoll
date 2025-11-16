@@ -435,6 +435,10 @@ footer {
 	}
 }
 
+#flag {
+	height: 2em;
+}
+
 .footnote-backref svg,
 .callout svg,
 .breadcrumbs svg {

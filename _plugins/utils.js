@@ -61,6 +61,9 @@ function utilPlugin(eleventyConfig) {
 		let day = date.slice(8, 10);
 		return new Date(year, month - 1, day);
 	});
+	eleventyConfig.addFilter('between', function (date, start, end) {
+		return start <= date && date <= end;
+	});
 }
 
 function to6DigitHex(hex) {
