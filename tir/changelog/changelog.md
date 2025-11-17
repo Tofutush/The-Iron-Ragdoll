@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-17
+
+- Added a [PGP key](/tofutush-public.asc) so you can send me secret messages and headaches;
+
 ## 2025-11-15
 
 - Added pride flags that show up during corresponding visibility weeks!
