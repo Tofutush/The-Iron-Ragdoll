@@ -4886,5 +4886,28 @@
       "goose"
     ],
     "kind": "ref"
+  },
+  {
+    "name": "cms friends blank",
+    "type": "png",
+    "date": "2025-11-16",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "sky",
+      "sparky",
+      "firecrackers",
+      "qibli"
+    ]
+  },
+  {
+    "name": "entity blank",
+    "type": "png",
+    "date": "2025-11-15",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "entity"
+    ]
   }
 ]
