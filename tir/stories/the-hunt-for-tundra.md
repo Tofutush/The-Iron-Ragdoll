@@ -5,7 +5,6 @@ chs:
   - tundra
   - kismet
 time: "2023"
-titlezh:
 desc: The president of Bauhinia seeks immortality, part 2.
 myTags:
   - Canon
