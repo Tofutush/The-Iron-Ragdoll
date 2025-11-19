@@ -4,9 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "time": "text",
-    "sds": "multitext",
     "myTags": "multitext",
-    "permalink": "checkbox",
     "categories": "multitext",
     "draft": "checkbox"
   }
