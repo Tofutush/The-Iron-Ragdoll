@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-20
+
+- Removed [Poker Spies](/stories/poker-spies/)'s Bauhinia page and merged its contents with the story;
+
 ## 2025-11-17
 
 - Added a [PGP key](/tofutush-public.asc) so you can send me secret messages and headaches;

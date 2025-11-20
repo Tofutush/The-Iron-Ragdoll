@@ -1,5 +1,5 @@
 ---
-title: The Poker Spies
+title: Poker Spies
 canon: yes
 chs:
   - sky
@@ -68,6 +68,15 @@ tsunamiDialog:
 Any info is subject to change! This story is really experimental to me (for some reason, because I can't name any qualities that make it so experimental. Maybe because it's some actual spy shit lmao) but I am pretty proud of it!
 
 [[toc]]
+
+During the Fantoni War, [MSS](/world/bauhinia/mss/) officer [Sky](/characters/sky/) ran a ring of four spies gathering intel and doing deception. Sky liked representing them with the ace cards of the four suits, which is why they are later referred to as the "Poker Spies."
+
+## The spies
+
+- [Mulberry](/characters/mulberry/): Ace of Spades; green chip
+- [Blackjack](/characters/blackjack/): Ace of Clubs; black chip
+- [Jumbo](/characters/jumbo/): Ace of Hearts; red chip
+- [Tsunami](/characters/tsunami/): Ace of Diamonds; blue chip
 
 ## Start of the war
 
@@ -174,7 +183,9 @@ Now that his one agent inside enemy territory had gone radio silent, Sky needed 
 
 That was his chance: he went to Tsunami, Firecrackers's older sister, working as a hotel concierge. She was trying and failing to take Firecrackers's ashes from their dad, who had apparently buried it already. Sky informed her of the cause of her brother's death: it was a magic spell. Do you want to help the MSS find the source of it?
 
-Driven by a desire to avenge her brother, Tsunami agreed. She was recruited as Agent Diamonds.
+What Sky didn't know, but helped immensely, was that Tsunami had just been back from a visit to her mother, [Pinecone](/characters/pinecone/), on her deathbed. She spent her whole life thinking Pinecone had been in jail, and the last time they will ever meet, she was told Pinecone had been working for a top secret government project, and was going to die soon.
+
+Driven by grief for her mother and a desire to avenge her brother, Tsunami agreed. She was recruited as Agent Diamonds.
 
 Sky prepared Westavian papers for Tsunami, who first entered Westavia before going into Fanton from the north.
 
@@ -215,5 +226,9 @@ Tsunami went back to working in the hotel, yet constantly grieving, unable to fo
 
 Next: [Spy School](/spy-school/), [Poker Party](/poker-party/).
 
-[^1]: Sky, being locked in MSS training and all, hadn't heard about the whole Arch-Magician dying thing.
+## Trivia
+
+The inspiration behind this is [Operation Fortitude](https://en.wikipedia.org/wiki/Operation_Fortitude)[^1] and the wider [Double-Cross System](https://en.wikipedia.org/wiki/Double-Cross_System). Ben Macintyre wrote a good book about it called *Double Cross*.
+
+[^1]: Please forgive me for linking Wikipedia but it *is* the quickest source of information.
 [^2]: 俗话说：彻底躺平！
