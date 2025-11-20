@@ -40,6 +40,14 @@ eleventyComputed:
 			}
 		</style>
 	{% endif %}
+	{% assign dateMonth = 0 | getMMDD %}
+	{% if dateMonth == '12-13' %}
+		<style>
+			html {
+				filter: grayscale(1);
+			}
+		</style>
+	{% endif %}
 </head>
 <body>
 	<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner' 'png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
