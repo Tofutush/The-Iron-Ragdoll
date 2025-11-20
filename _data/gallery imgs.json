@@ -4921,5 +4921,30 @@
     "type": "png",
     "date": "2025-11-18",
     "comment": "Art trade with Blank!"
+  },
+  {
+    "name": "goose blank",
+    "type": "png",
+    "date": "2025-11-20",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "goose"
+    ]
+  },
+  {
+    "name": "blank",
+    "type": "png",
+    "date": "2025-11-20",
+    "comment": "Art trade with Blank!"
+  },
+  {
+    "name": "detective entity",
+    "type": "png",
+    "date": "2025-11-20",
+    "ch": [
+      "entity"
+    ],
+    "comment": "Art trade with Blank!"
   }
 ]
