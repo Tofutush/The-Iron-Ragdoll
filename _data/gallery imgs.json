@@ -4946,5 +4946,15 @@
       "entity"
     ],
     "comment": "Art trade with Blank!"
+  },
+  {
+    "name": "qibli blank",
+    "type": "png",
+    "date": "2025-11-23",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "qibli"
+    ]
   }
 ]
