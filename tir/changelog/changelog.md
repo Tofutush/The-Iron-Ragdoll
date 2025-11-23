@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-23
+
+- Automated the "related files" section of World pages;
+	- A problem is that they would always come after the footnotes, but well;
+
 ## 2025-11-20
 
 - Removed [Poker Spies](/stories/poker-spies/)'s Bauhinia page and merged its contents with the story;

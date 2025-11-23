@@ -92,10 +92,6 @@ After the stabilization of Moreland, Westavia began receiving assistance, withou
 
 However, Westavians believe that Moreland's neocolonial actions in Sylvandia betrayed their founding revolutionary ideals. After the war, they refused to accept their aid and placed an embargo on Sylvandia. Though they're united against Bauhinia, they were at odds with each other.
 
-## Related files
-
-{{ collections.all | eleventyNavigation: "Westavia" | eleventyNavigationToHtml }}
-
 ## Trivia
 
 - If Westavia were ever to have a theme song (not national anthem), it would be titled *Commie Propaganda*.
