@@ -6,8 +6,8 @@ layout: article.liquid
 {% endif %}
 {{ content }}
 {% capture related %}{{ collections.all | eleventyNavigation: title }}{% endcapture %}
-{{ related.size | log }}
 {% if related.size != 0 %}
+    <hr/>
     <h2>Related files</h2>
     {{ collections.all | eleventyNavigation: title | eleventyNavigationToHtml }}
 {% endif %}
