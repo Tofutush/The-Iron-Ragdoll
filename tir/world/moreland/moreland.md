@@ -93,7 +93,3 @@ Bauhinian troops finally withdrew in 1939, after which Moreland began a series o
 Meanwhile, Moreland also proxied Westavia in the Atlasian-Westavian war. At the end of the war, they had officially entered a state of cold war against Bauhinia.
 
 Moreland continued to provide aid to Westavia and Fanton. The aid to Fanton stopped after Bauhinia's invasion war, when they made Fanton finlandized.
-
-## Related files
-
-{{ collections.all | eleventyNavigation: "Moreland" | eleventyNavigationToHtml }}

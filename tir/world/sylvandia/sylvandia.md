@@ -56,7 +56,3 @@ Rebellions in the north of the Bauhinian Empire is like trees in a forest, thoug
 With aid from Moreland, five different states declared their independence and set up republican governance: [Solarine](/world/sylvandia/solarine/) and [Lunarale](/world/sylvandia/lunarale/) in 1948, [Holliloli](/world/sylvandia/holliloli/) in 1949, [Snowdale](/world/sylvandia/snowdale/) in 1950, and [Mistle](/world/mistle/) in 1951. That basically got most of the continent covered. Shortly after the creation of Mistle, on July 29<sup>th</sup>, the states formed a federal government with the capital set in Bonnie, a city on the border of Holliloli and Snowdale.
 
 But despite this, numerous rebellions have continued to spring up, demonstrating the need for Guardian Moose stationing in Sylvandia.
-
-## Related files
-
-{{ collections.all | eleventyNavigation: "Sylvandia" | eleventyNavigationToHtml }}

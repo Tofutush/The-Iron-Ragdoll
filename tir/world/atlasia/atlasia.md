@@ -86,10 +86,6 @@ Atlasia was created by Moose immigrants after the Guardian Moose's coup. They ha
 
 They took the plains in the east and declared independence in 1945. Since then, Atlasia has been a place for the ambitious to seek opportunity. Thousands of grassroot entrepreneurs made a fortune here and slowly expanded their markets to the world. Innovations were unstoppable — in fact, half of the new inventions of the industrial revolution were made in Atlasia after 1945.
 
-## Related files
-
-{{ collections.all | eleventyNavigation: "Atlasia" | eleventyNavigationToHtml }}
-
 ## Trivia
 
 It's kinda cringe, Atlasia is based off of Ayn Rand's works. I never actually read them. But I plan to. I just gotta read through all the Captain Underpants books for the 100th time first.

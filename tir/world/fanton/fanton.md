@@ -83,8 +83,4 @@ The creation of Fanton led a lot of the original inhabitants to move out in frus
 
 Fanton remained a place of sanctuary for people and creatures alike, where endangered plants and animals thrive, where war refugees could escape the gunfire. That is, until 2041, when Bauhinia launched an invasion against Fanton, aiming to annex it. The brave people of Fanton fought them off all by themselves, and though now Fanton has to make some concessions to Bauhinia a bit on the global stage, the sacrifice is to ensure the long-term wellbeing of the Fantoni.
 
-## Related files
-
-{{ collections.all | eleventyNavigation: "Fanton" | eleventyNavigationToHtml }}
-
 [^1]: It used to be *just* Sichuan, and just the basin part too. Why do I keep making Fanton bigger and bigger? Most of their population is still in the basin though.
