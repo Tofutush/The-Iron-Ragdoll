@@ -112,8 +112,4 @@ At the end of the war, the world formed a bipolar[^1] structure with Bauhinia an
 
 In 2041, Bauhinia launched a reunification campaign to take back Fanton. The campaign failed due to Moreland's backdoor support for Fanton, but successfully made Fanton finlandized to Bauhinia.
 
-## Related files
-
-{{ collections.all | eleventyNavigation: "Bauhinia" | eleventyNavigationToHtml }}
-
 [^1]: Not *that* bipolar, you get what I mean right?
