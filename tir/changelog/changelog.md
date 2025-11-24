@@ -10,6 +10,9 @@ eleventyNavigation:
 
 - Automated the "related files" section of World pages;
 	- A problem is that they would always come after the footnotes, but well;
+- Finalized [Qibli on the Run](/stories/qibli-on-the-run/);
+	- This story is basically considered "complete" and won't receive major revisions in a short span;
+- Added `detective.png`, `skull.png`;
 
 ## 2025-11-20
 

@@ -1,5 +1,5 @@
 ---
-title: Qibli on the Run (working title)
+title: Qibli on the Run
 canon: yes
 chs:
   - qibli
@@ -64,12 +64,24 @@ In the middle of the big fight, a hand suddenly poked out of Firecrackers's grav
 
 But he wasn't Firecrackers. His eyes were empty. His soul had long ago moved on; only his body was revived.
 
-## Capture
+Qibli desperately tried to believe that Firecrackers was revived and well, despite overwhelming evidence to the contrary. Worse, if she lets go of her magic for just a couple minutes, the body goes back to being dead.
 
-Qibli got captured by Trinket with some smart plan, because although she's a master of magic, she's still a weakling.
+Grieving, Qibli buried Firecrackers back in his grave. Trinket took the chance to bash her in the head, knocking her out and capturing her. She headed back to Flower City and handed Qibli to Kismet, the fake one.
+
+## Capture
 
 By this time [Kismet](/characters/kismet/) had already figured out that magic could be accessed from the blood, from studying confiscated Fantoni spells. He crafted a magic bioweapon and tucked Qibli inside, draining her blood to use it.
 
-Except that it's not working. They took Qibli out again. Trinket suggested that she must've stored her magic in a vessel right before being knocked out. She was ordered to interrogate Qibli on where her vessel is.
+Except that it's not working. They took Qibli out again. Trinket suggested that she must've stored her magic in a vessel right before being knocked out. She was ordered to interrogate Qibli on where her vessel is. The real Kismet told her that he was assigned her assistant.
 
 {% include 'dialog', dialogContent: trinketDialog %}
+
+They needn't agree, because Kismet was watching the interrogation and reading Qibli's mind. When she thought about her vessel, Kismet knew of its location — Firecrackers's corpse.
+
+So they dug Firecrackers back up and cremated the motherfucker, returning magic to Qibli, and plugging her back into the machine. Kismet started to trust Trinket after this, and introduced the real him to her, fully accepting her into his closest circle.
+
+Of course, Kismet's a smart man. He had never even considered killing magicians for their blood; he had briefly considered a bone marrow transplant that could turn himself into a magician but was quickly dissuaded by his doctors. Luckily, he could put his magic machine to good use with just Qibli, as long as they don't drain her too quickly and keep her alive to continuously feed the machine. Her movements were heavily regulated; she was tied to the bed at all times with magic chains enchanted by Trinket that prevents her from casting any spells (it's impossible for magicians to interfere with other people's minds or free will; the spell on the chains is designed to neutralize immediately whatever spells Qibli may cast, like those noise-cancelling headphones). If she refused to eat food, they would simply inject nutrients.
+
+As far as I'm concerned right now, this is the end of Qibli's story, and the rest of her long, miserable life is spent in that room getting repeatedly drained half-dry and then recovering to get drained again[^1].
+
+[^1]: Why are you so intent on torturing your self-insert? I don't know; I've had numerous self-inserts in past paracosms or projects, and they were always the ones who get tortured the most. I really don't know girl it just happens.
