@@ -1,6 +1,5 @@
 ---
 title: Ironheart Assassinated
-canon: yes
 chs:
   - ironheart
   - sparky

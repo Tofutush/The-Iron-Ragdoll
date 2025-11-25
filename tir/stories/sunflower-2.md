@@ -1,6 +1,5 @@
 ---
 title: Sunflower 2 (DEFINITELY working title)
-canon: yes
 chs:
   - sunflower
   - starry

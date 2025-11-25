@@ -1,6 +1,5 @@
 ---
 title: Jackpot's Backstory
-canon: yes
 chs:
   - jackpot
 time: 1994 - present

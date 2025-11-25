@@ -1,6 +1,5 @@
 ---
 title: One Man Short
-canon: yes
 chs:
   - cobalt
   - nightingale

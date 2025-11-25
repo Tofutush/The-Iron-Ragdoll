@@ -1,6 +1,5 @@
 ---
 title: Project Kismet
-canon: yes
 chs:
   - kismet
   - pinecone

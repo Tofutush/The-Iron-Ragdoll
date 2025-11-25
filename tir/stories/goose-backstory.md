@@ -1,6 +1,5 @@
 ---
 title: Goose's Backstory
-canon: yes
 chs:
   - goose
 time: 2001 - present

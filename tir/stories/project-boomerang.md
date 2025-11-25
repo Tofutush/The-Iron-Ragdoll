@@ -1,6 +1,5 @@
 ---
 title: Project Boomerang
-canon: yes
 chs:
   - koala
   - kangaroo

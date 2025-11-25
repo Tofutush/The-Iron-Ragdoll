@@ -1,6 +1,5 @@
 ---
 title: Sunflowers in the Dark (working title)
-canon: yes
 chs:
   - candlelight
   - sunflower

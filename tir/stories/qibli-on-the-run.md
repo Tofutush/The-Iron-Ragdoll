@@ -1,6 +1,5 @@
 ---
 title: Qibli on the Run
-canon: yes
 chs:
   - qibli
   - sparky

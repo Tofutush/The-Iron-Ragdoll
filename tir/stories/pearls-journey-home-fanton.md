@@ -1,6 +1,5 @@
 ---
 title: Pearl's Journey Home - Fanton
-canon: yes
 chs:
   - sparky
   - qibli

@@ -1,6 +1,5 @@
 ---
 title: Poker Party
-canon: yes
 chs:
   - harmony
   - sugarcane

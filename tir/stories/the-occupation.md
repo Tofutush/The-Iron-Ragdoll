@@ -1,6 +1,5 @@
 ---
 title: The Occupation
-canon: yes
 chs:
   - candlelight
   - mooncake

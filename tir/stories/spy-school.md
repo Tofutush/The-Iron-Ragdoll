@@ -1,6 +1,5 @@
 ---
 title: Spy School
-canon: yes
 chs:
   - harmony
   - frosting

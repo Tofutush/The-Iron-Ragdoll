@@ -1,6 +1,5 @@
 ---
 title: Paperweight's Backstory
-canon: yes
 chs:
   - paperweight
 time: 1978 - 2032

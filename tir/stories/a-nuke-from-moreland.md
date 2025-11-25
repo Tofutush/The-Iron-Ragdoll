@@ -1,6 +1,5 @@
 ---
 title: A Nuke From Moreland
-canon: yes
 chs:
   - sparky
   - qibli

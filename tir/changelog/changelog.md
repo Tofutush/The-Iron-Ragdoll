@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-25
+
+- Removed stories' canon field, because most of them are canon anyways;
+
 ## 2025-11-24
 
 - Added `jackalope gun.png`;

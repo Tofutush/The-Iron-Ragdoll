@@ -1,6 +1,5 @@
 ---
 title: The Absolute End to TIR as We Know It
-canon: yes
 chs:
   - kismet
 desc: This is the end of the paracosm.

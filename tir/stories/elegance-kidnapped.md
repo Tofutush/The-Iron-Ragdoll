@@ -1,6 +1,5 @@
 ---
 title: Elegance Kidnapped
-canon: yes
 chs:
   - sparky
   - elegance

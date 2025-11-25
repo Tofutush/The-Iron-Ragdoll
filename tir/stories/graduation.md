@@ -1,6 +1,5 @@
 ---
 title: Graduation
-canon: yes
 chs:
   - harmony
   - sugarcane
