@@ -7,7 +7,6 @@ chs:
 desc: The president of Bauhinia got immortality. Now he can't show his face. Help!
 myTags:
   - Bauhinia
-  - Canon
   - Flower City
   - Kismet's presidency
 time: 2023 - end

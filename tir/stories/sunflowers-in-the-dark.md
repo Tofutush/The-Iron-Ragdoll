@@ -6,7 +6,6 @@ chs:
 time: "2031"
 desc: Candlelight gets an annoying suicide watch target and ends up quitting his job.
 myTags:
-  - Canon
   - Westavia
   - Area 1
 ---

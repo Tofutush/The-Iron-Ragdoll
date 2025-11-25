@@ -9,7 +9,6 @@ chs:
 time: "2031"
 desc: Candlelight goes back home to his little village, meeting a more-than-friend along the way. Incidents happen and the once-friendly villagers are turned against each other.
 myTags:
-  - Canon
   - Westavia
   - Nameless village
 tags:

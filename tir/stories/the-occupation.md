@@ -7,7 +7,6 @@ chs:
 time: 2019-03
 desc: The events of a fateful night in a nameless village.
 myTags:
-  - Canon
   - Nameless village
   - Westavia
   - Oneshot

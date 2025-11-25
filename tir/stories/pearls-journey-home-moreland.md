@@ -9,7 +9,6 @@ chs:
 time: "2032"
 desc: The friends get to Moreland with Pearl.
 myTags:
-  - Canon
   - Moreland
   - Sparky and her friends
   - Pearl's Journey Home

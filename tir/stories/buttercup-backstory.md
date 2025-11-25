@@ -5,7 +5,6 @@ chs:
 time: 2010 - present
 desc: Buttercup's backstory.
 myTags:
-  - Canon
   - Backstory
   - Sylvandia
   - Lunarale

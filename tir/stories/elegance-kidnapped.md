@@ -8,7 +8,6 @@ chs:
 time: "?"
 desc: Elegance gets kidnapped. Sparky refuses to leave her side and also gets kidnapped.
 myTags:
-  - Canon
   - Bauhinia
   - Coastline
 ---

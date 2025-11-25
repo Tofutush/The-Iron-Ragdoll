@@ -364,6 +364,7 @@
     "tags": [
       "Coastline",
       "Coastline Middle School",
+      "Flower City",
       "Bauhinia"
     ],
     "af": "https://artfight.net/character/3957937.tephra",
@@ -382,7 +383,7 @@
       "gun handle": "#757575",
       "hair": "#2e2e2e"
     },
-    "about": "Quite insufferable and bossy. Grew up to be a cop.",
+    "about": "Quite insufferable and bossy.\n\nWent to police academy in Flower City, and ended up being a cop there.",
     "trivia": "- If he had a lusus, it would be a desert fox."
   },
   {
@@ -484,6 +485,7 @@
       "skin": "#F5EBD7",
       "shirt": "#2e2e2e"
     },
+    "about": "Trinket was born with quite strong magic. She started going to [Magic Academy](/world/bauhinia/magic-academy/) as soon as she was 10. There, she met and befriended [Qibli](/characters/qibli/).\n\nBut then, Qibli murdered [Nebula](/characters/nebula/). Trinket was freshly 18, and crowned Arch-Magician shortly after attending Nebula's funeral.\n\nHer current task is teaching in the Magic Academy. She dedicated her spare time to seeking revenge from Qibli.",
     "trivia": "- She's albino, in case it's not obvious."
   },
   {
@@ -1638,6 +1640,7 @@
     "desc": "Quiet badass.",
     "quote": "…",
     "tags": [
+      "Flower City",
       "Bauhinia"
     ],
     "af": "https://artfight.net/character/3965901.melody",

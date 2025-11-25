@@ -5,7 +5,6 @@ chs:
 time: 1991 - 2025
 desc: Halcyon's backstory
 myTags:
-  - Canon
   - Backstory
   - Bauhinia
   - Moreland

@@ -11,7 +11,6 @@ chs:
 myTags:
   - Bauhinia
   - MSS
-  - Canon
 time: 2039 - present
 desc: Qibli is now a wanted criminal. How is she doing?
 trinketDialog:

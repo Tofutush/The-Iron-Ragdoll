@@ -6,7 +6,6 @@ chs:
 time: "2023"
 desc: The president of Bauhinia seeks immortality, part 2.
 myTags:
-  - Canon
   - Bauhinia
   - Fanton
   - Kismet's presidency

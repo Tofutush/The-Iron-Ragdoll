@@ -5,7 +5,6 @@ chs:
 time: 2003 - present
 desc: Pumpkin's backstory.
 myTags:
-  - Canon
   - Backstory
   - Bauhinia
   - Westavia

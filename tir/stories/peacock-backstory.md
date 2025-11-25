@@ -5,7 +5,6 @@ chs:
 time: 1986 - present
 desc: Peacock's backstory.
 myTags:
-  - Canon
   - Backstory
   - Bauhinia
 ---

@@ -13,7 +13,6 @@ chs:
 time: "2032"
 desc: Mishap in Sparky's home during the new year leads to shocking discoveries.
 myTags:
-  - Canon
   - Bauhinia
   - Coastline
   - Sparky and her friends

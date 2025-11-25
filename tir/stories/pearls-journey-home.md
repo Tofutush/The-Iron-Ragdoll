@@ -9,7 +9,6 @@ chs:
 time: "2032"
 desc: The friends send a kidnapped girl home, all the way across the continent. When the journey ends, everything stays the same, and yet no one is the same anymore.
 myTags:
-  - Canon
   - Bauhinia
   - Coastline
   - Sparky and her friends

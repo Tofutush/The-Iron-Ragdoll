@@ -13,7 +13,6 @@ desc: Harmony goes to a special school.
 myTags:
   - Bauhinia
   - Flower City
-  - Canon
   - MSS
   - Spy School
   - Comic

@@ -10,7 +10,6 @@ chs:
 desc: Sparky jumps over a gate and gets turned into a dragon. How would they turn her back?
 myTags:
   - Bauhinia
-  - Canon
   - CMS
   - Coastline
   - Sparky and her friends

@@ -9,7 +9,6 @@ chs:
 time: "2032"
 desc: The friends get to Fanton with Pearl.
 myTags:
-  - Canon
   - Fanton
   - Sparky and her friends
   - Pearl's Journey Home

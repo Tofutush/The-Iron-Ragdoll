@@ -5,7 +5,6 @@ chs:
 time: 1978 - 2032
 desc: Paperweight's backstory.
 myTags:
-  - Canon
   - Backstory
   - Bauhinia
   - Coastline
