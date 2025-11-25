@@ -1267,6 +1267,13 @@ rel2: "teacher"
 
 {
 source: "Trinket",
+target: "Kismet",
+rel1: "acquaintance",
+rel2: "boss"
+},
+
+{
+source: "Trinket",
 target: "Melody",
 rel1: "client",
 rel2: "teammate"
