@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-24
+
+- Added `jackalope gun.png`;
+
 ## 2025-11-23
 
 - Automated the "related files" section of World pages;

@@ -4968,5 +4968,19 @@
     "type": "png",
     "date": "2025-11-23",
     "comment": "Art trade with Blank!"
+  },
+  {
+    "name": "jackalope gun",
+    "type": "png",
+    "date": "2025-11-24",
+    "ch": [
+      "jackalope"
+    ]
+  },
+  {
+    "name": "ritchie",
+    "type": "png",
+    "date": "2025-11-24",
+    "comment": "Secret Santa gift art."
   }
 ]
