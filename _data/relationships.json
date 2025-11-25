@@ -1534,6 +1534,19 @@
     "ch": [
       [
         "Trinket",
+        "acquaintance"
+      ],
+      [
+        "Kismet",
+        "boss"
+      ]
+    ],
+    "desc": "Kismet had been watching Trinket ever since she became the new Arch-Magician, and she satisfied him. Nebula trained her well."
+  },
+  {
+    "ch": [
+      [
+        "Trinket",
         "client"
       ],
       [
