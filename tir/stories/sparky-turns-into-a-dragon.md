@@ -1,6 +1,5 @@
 ---
 title: Sparky Turns into a Dragon
-canon: yes
 chs:
   - sparky
   - qibli

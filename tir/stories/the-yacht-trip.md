@@ -1,6 +1,5 @@
 ---
 title: The Yacht Trip
-canon: yes
 chs:
   - sparky
   - peacock

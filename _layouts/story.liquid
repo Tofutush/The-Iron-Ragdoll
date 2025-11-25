@@ -5,10 +5,6 @@ eleventyComputed:
     parent: Stories
 ---
 <div class="attr">
-	<p>Canon?</p>
-	<p>{% if canon == 'yes' %}Yes (has a planned occurence in the plot){% elsif canon == 'semi'
-		%}Semi-canon (is not planned in the plot, but has no conflicts with the original story){% else %}No (you should not
-		consider this in the context of TIR's universe){% endif %}</p>
 	<p>Main Cast</p>
 	<div class="tags">
 		{% for ch in chs %}

@@ -1,6 +1,5 @@
 ---
 title: The Magic Academy
-canon: yes
 chs:
   - qibli
   - trinket

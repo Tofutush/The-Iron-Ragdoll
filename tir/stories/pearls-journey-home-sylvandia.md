@@ -1,6 +1,5 @@
 ---
 title: Pearl's Journey Home - Sylvandia
-canon: yes
 chs:
   - sparky
   - pearl

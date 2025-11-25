@@ -1,6 +1,5 @@
 ---
 title: Peacock's Backstory
-canon: yes
 chs:
   - peacock
 time: 1986 - present

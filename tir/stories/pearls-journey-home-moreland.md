@@ -1,6 +1,5 @@
 ---
 title: Pearl's Journey Home - Moreland
-canon: yes
 chs:
   - sparky
   - firecrackers

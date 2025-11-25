@@ -1,6 +1,5 @@
 ---
 title: Coastline Middle School Mysteries
-canon: yes
 chs:
   - sparky
   - qibli

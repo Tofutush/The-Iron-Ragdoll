@@ -1,6 +1,5 @@
 ---
 title: Candlelight Back Home
-canon: yes
 chs:
   - candlelight
   - mooncake

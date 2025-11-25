@@ -1,6 +1,5 @@
 ---
 title: Pearl's Journey Home
-canon: yes
 chs:
   - sparky
   - qibli

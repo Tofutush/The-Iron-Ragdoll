@@ -1,6 +1,5 @@
 ---
 title: Pumpkin's Backstory
-canon: yes
 chs:
   - pumpkin
 time: 2003 - present

@@ -1,6 +1,5 @@
 ---
 title: The Hunt for Tundra (working title)
-canon: yes
 chs:
   - tundra
   - kismet

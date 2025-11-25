@@ -1,6 +1,5 @@
 ---
 title: Halcyon's Backstory
-canon: yes
 chs:
   - halcyon
 time: 1991 - 2025

@@ -1,6 +1,5 @@
 ---
 title: New Year 2032
-canon: yes
 chs:
   - sparky
   - qibli

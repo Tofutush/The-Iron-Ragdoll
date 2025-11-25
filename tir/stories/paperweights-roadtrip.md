@@ -1,6 +1,5 @@
 ---
 title: Paperweight's Roadtrip
-canon: yes
 chs:
   - paperweight
   - goose

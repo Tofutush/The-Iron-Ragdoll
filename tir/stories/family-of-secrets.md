@@ -1,6 +1,5 @@
 ---
 title: Family of Secrets
-canon: yes
 chs:
   - harmony
   - frosting

@@ -1,6 +1,5 @@
 ---
 title: Poker Spies
-canon: yes
 chs:
   - sky
   - goose

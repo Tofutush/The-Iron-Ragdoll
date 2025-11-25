@@ -1,6 +1,5 @@
 ---
 title: Pearl's Journey Home - Atlasia
-canon: yes
 chs:
   - sparky
   - sky

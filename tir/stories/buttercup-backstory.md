@@ -1,6 +1,5 @@
 ---
 title: Buttercup's Backstory
-canon: yes
 chs:
   - buttercup
 time: 2010 - present

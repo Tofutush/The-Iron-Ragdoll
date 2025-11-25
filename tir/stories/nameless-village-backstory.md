@@ -1,6 +1,5 @@
 ---
 title: Nameless Village Backstory
-canon: yes
 chs:
   - pumpkin
   - helsinki
