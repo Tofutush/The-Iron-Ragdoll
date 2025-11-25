@@ -13,7 +13,6 @@ desc: A family surviving under the oppressive government of Bauhinia.
 myTags:
   - Bauhinia
   - Flower City
-  - Canon
   - Spy School
 ---
 

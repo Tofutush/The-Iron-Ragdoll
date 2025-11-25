@@ -11,7 +11,6 @@ desc: Backstory of the characters in the Nameless Village. Condensed into one as
 myTags:
   - Area 1
   - Backstory
-  - Canon
   - Westavia
   - Nameless village
 tags:

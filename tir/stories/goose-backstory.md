@@ -5,7 +5,6 @@ chs:
 time: 2001 - present
 desc: Goose's backstory.
 myTags:
-  - Canon
   - Backstory
   - Bauhinia
   - Coastline

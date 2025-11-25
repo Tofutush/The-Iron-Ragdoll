@@ -11,7 +11,6 @@ chs:
 time: 2018 - 2021
 desc: Bauhinia initiated a top-secret project to develop the time machine.
 myTags:
-  - Canon
   - Bauhinia
   - Kismet's presidency
 ---

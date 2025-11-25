@@ -13,7 +13,6 @@ chs:
 time: 2032-07
 desc: The two families go on a vacation.
 myTags:
-  - Canon
   - Bauhinia
   - Coastline
   - Froggy Island

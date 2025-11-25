@@ -7,7 +7,6 @@ chs:
 desc: Harmony and Sugarcane graduate high school.
 myTags:
   - Bauhinia
-  - Canon
   - Comic
   - Flower City
   - MSS

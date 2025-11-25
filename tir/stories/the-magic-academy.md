@@ -6,7 +6,6 @@ chs:
   - nebula
 myTags:
   - Bauhinia
-  - Canon
   - Coastline
 time: 2030 - 2035
 desc: Qibli and Trinket attend Magic Academy.

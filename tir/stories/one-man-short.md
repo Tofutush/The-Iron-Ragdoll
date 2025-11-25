@@ -9,7 +9,6 @@ chs:
 time: "?"
 desc: The disappearance of a friend drags the group down the rabbit hole of Fantoni organized crime.
 myTags:
-  - Canon
   - Fanton
 ---
 

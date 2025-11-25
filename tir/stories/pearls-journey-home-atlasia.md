@@ -10,7 +10,6 @@ chs:
 time: "2032"
 desc: The friends get to Atlasia with Pearl.
 myTags:
-  - Canon
   - Atlasia
   - Sparky and her friends
   - Pearl's Journey Home

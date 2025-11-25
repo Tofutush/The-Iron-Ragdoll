@@ -5,7 +5,6 @@ chs:
 time: 1994 - present
 desc: Jackpot's backstory.
 myTags:
-  - Canon
   - Backstory
   - Atlasia
   - The Capital

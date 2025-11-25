@@ -9,7 +9,6 @@ chs:
   - tsunami
 myTags:
   - Bauhinia
-  - Canon
   - Fanton
   - MSS
 time: 2041 - 2044

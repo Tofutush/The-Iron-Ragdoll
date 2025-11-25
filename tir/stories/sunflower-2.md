@@ -8,7 +8,6 @@ chs:
 time: "2033"
 desc: Sunflower is dead, but she isn't gone yet.
 myTags:
-  - Canon
   - Westavia
   - Area 1
 ---
