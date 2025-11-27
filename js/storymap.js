@@ -15,7 +15,6 @@ const graph = builder(data);
 
 // set the layout functions
 const nodeRadius = 20;
-const nodeSize = [nodeRadius * 2, nodeRadius * 2];
 // use this to render our edges
 const line = d3.line().curve(d3.curveMonotoneY);
 // here's the layout operator, uncomment some of the settings
@@ -25,7 +24,7 @@ const layout = d3dag
     //.decross(d3dag.decrossOpt())
     //.coord(d3dag.coordGreedy())
     //.coord(d3dag.coordQuad())
-    .nodeSize(nodeSize)
+    .nodeSize([nodeRadius * 2, nodeRadius * 2])
     .gap([nodeRadius, nodeRadius])
 
 // actually perform the layout and get the final size
@@ -55,15 +54,14 @@ svg
             .attr("opacity", 0)
             .call((enter) => {
                 enter
+                    .append("a")
+                    .attr("href", n => n.data.url.replace("/stories/", "../"))
+                    .append("title").text(n => n.data.id);
+                enter
+                    .selectAll("a")
                     .append("circle")
                     .attr("r", nodeRadius)
-                    .attr("fill", (n) => "var(--c)");
-                enter
-                    .append("text")
-                    .text((d) => d.data.id)
-                    .attr("text-anchor", "middle")
-                    .attr("alignment-baseline", "middle")
-                    .attr("fill", "var(--text)");
+                    .attr("fill", "var(--c)");
                 enter.transition(trans).attr("opacity", 1);
             })
     );
@@ -82,3 +80,37 @@ svg
             .attr("opacity", 0)
             .call((enter) => enter.transition(trans).attr("opacity", 1))
     );
+
+function wrap(text, width) {
+    text.each(function () {
+        const text = d3.select(this);
+        const words = text.text().split(/\s+/).reverse();
+        let line = [];
+        let lineNumber = 0;
+        const lineHeight = 1.5; // em
+        const y = text.attr("y") || 0;
+        const dy = 0;
+
+        let tspan = text.text(null)
+            .append("tspan")
+            .attr("x", 0)
+            .attr("y", y)
+            .attr("dy", dy + "em");
+
+        let word;
+        while (word = words.pop()) {
+            line.push(word);
+            tspan.text(line.join(" "));
+            if (tspan.node().getComputedTextLength() > width) {
+                line.pop();
+                tspan.text(line.join(" "));
+                line = [word];
+                tspan = text.append("tspan")
+                    .attr("x", 0)
+                    .attr("y", y)
+                    .attr("dy", ++lineNumber * lineHeight + dy + "em")
+                    .text(word);
+            }
+        }
+    });
+}
