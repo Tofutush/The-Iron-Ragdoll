@@ -23,6 +23,10 @@ myTags:
   - Fic
 prev:
   - "[Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/)"
+  - "[Pumpkin's Backstory](/stories/pumpkin-backstory/)"
+  - "[Goose's Backstory](/stories/goose-backstory/)"
+  - "[Halcyon's Backstory](/stories/halcyon-backstory/)"
+  - "[Paperweight's Backstory](/stories/paperweight-backstory/)"
 ---
 
 [[toc]]
