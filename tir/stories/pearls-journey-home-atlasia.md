@@ -15,6 +15,7 @@ myTags:
   - Pearl's Journey Home
 prev:
   - "[Pearl's Journey Home - Fanton](/stories/pearls-journey-home-fanton/)"
+  - "[Jackpot's Backstory](/stories/jackpot-backstory/)"
 ---
 
 They got to Atlasia and met Jackpot and his son Snake in their mansion.
