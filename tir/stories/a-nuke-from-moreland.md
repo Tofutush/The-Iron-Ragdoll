@@ -21,6 +21,8 @@ myTags:
   - MSS
   - Sparky and her friends
   - Fic
+prev:
+  - "[Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/)"
 ---
 
 [[toc]]

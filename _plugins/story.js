@@ -43,6 +43,9 @@ function storyPlugin(eleventyConfig) {
 				pages: chapters[chap]
 			}));
 	});
+	eleventyConfig.addFilter('getNameFromLink', function (link) {
+		return link.match(/\[.*\]/)[0].slice(1, -1);
+	});
 }
 
 export default storyPlugin;
