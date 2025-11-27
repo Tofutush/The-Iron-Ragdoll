@@ -2,14 +2,11 @@
 permalink: "stories/map/data.js"
 layout: ""
 ---
-{% comment %} {% for s in stories %} {% endcomment %}
 const data = [
+{% for s in collections.stories %}
     {
-        id: "test",
-        parentIds: ["pumpkin"]
-    },
-    {
-        id: "pumpkin",
+        id: "{{ s.data.title }}",
         parentIds: []
-    }
+    },
+{% endfor %}
 ]
