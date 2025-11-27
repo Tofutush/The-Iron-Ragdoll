@@ -14,6 +14,8 @@ myTags:
   - Bauhinia
   - Flower City
   - Spy School
+prev:
+  - "[Poker Party](/stories/poker-party/)"
 ---
 
 Planned as an interactive choose-your-own-adventure with multiple endings, though there is a canon version of events.

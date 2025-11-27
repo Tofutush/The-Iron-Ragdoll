@@ -155,6 +155,7 @@ views:
     order:
       - file.name
       - title
+      - prev
       - chs
       - myTags
       - time
@@ -162,6 +163,8 @@ views:
     columnSize:
       file.name: 132
       note.title: 145
+      note.prev: 234
       note.chs: 130
-      note.desc: 360
+      note.time: 97
+      note.desc: 111
     rowHeight: medium

@@ -10,6 +10,8 @@ desc: Elegance gets kidnapped. Sparky refuses to leave her side and also gets ki
 myTags:
   - Bauhinia
   - Coastline
+prev:
+  - "[The Yacht Trip](/stories/the-yacht-trip/)"
 ---
 
 Hyrax got a hunch that there might be a plot to kidnap Animus, so he hired a bodyguard to follow him around everywhere.
