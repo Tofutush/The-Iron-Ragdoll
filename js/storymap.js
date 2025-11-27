@@ -51,15 +51,6 @@ const { width, height } = layout(graph);
 // Rendering //
 // --------- //
 
-// colors
-const steps = graph.nnodes() - 1;
-const interp = d3.interpolateRainbow;
-const colorMap = new Map(
-    [...graph.nodes()]
-        .sort((a, b) => a.y - b.y)
-        .map((node, i) => [node.data.id, interp(i / steps)])
-);
-
 // global
 const svg = d3
     .select("#svg")
@@ -82,7 +73,7 @@ svg
                 enter
                     .append("circle")
                     .attr("r", nodeRadius)
-                    .attr("fill", (n) => colorMap.get(n.data.id));
+                    .attr("fill", (n) => "var(--c)");
                 enter
                     .append("text")
                     .text((d) => d.data.id)
@@ -116,12 +107,12 @@ svg
                     .append("stop")
                     .attr("class", "grad-start")
                     .attr("offset", "0%")
-                    .attr("stop-color", ({ source }) => colorMap.get(source.data.id));
+                    .attr("stop-color", "var(--c)");
                 enter
                     .append("stop")
                     .attr("class", "grad-stop")
                     .attr("offset", "100%")
-                    .attr("stop-color", ({ target }) => colorMap.get(target.data.id));
+                    .attr("stop-color", "var(--c)");
             })
     );
 
@@ -134,7 +125,7 @@ svg
         enter
             .append("path")
             .attr("d", ({ points }) => line(points))
-            .attr("fill", "none")
+            .attr("fill", "var(--c)")
             .attr("stroke-width", 3)
             .attr(
                 "stroke",
@@ -156,7 +147,7 @@ svg
         enter
             .append("path")
             .attr("d", arrow)
-            .attr("fill", ({ target }) => colorMap.get(target.data.id))
+            .attr("fill", ({ target }) => "var(--c)")
             .attr("transform", arrowTransform)
             .attr("opacity", 0)
             .attr("stroke", "white")
