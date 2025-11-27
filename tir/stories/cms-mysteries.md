@@ -13,6 +13,8 @@ myTags:
   - Coastline
   - CMS
   - Sparky and her friends
+prev:
+  - "[Peacock's Backstory](/stories/peacock-backstory/)"
 ---
 
 Sparky is a girl who clinged on her mom too much, hated her stepdad and half-sister, and was about to start middle school.

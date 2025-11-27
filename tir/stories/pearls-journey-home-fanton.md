@@ -12,6 +12,8 @@ myTags:
   - Fanton
   - Sparky and her friends
   - Pearl's Journey Home
+prev:
+  - "[Pearl's Journey Home](/stories/pearls-journey-home/)"
 ---
 
 They got to Fanton. They had a good time there, with all the beautiful scenery and tofu. They also saw pandas. They got to the border.

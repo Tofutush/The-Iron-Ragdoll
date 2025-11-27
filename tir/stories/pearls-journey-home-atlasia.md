@@ -13,6 +13,8 @@ myTags:
   - Atlasia
   - Sparky and her friends
   - Pearl's Journey Home
+prev:
+  - "[Pearl's Journey Home - Fanton](/stories/pearls-journey-home-fanton/)"
 ---
 
 They got to Atlasia and met Jackpot and his son Snake in their mansion.

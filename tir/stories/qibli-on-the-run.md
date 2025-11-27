@@ -28,6 +28,9 @@ trinketDialog:
     - "Trinket: This area is outside of both of our expertise, but one thing you left out was that the total number of magicians born never fluctuated. They just changed places."
     - "Qibli: Because they're migrated. If they're killed en masse, things would be different. Do you think Kismet would risk that? I know he's listening. He can consider it right now."
     - "Qibli: I can work for you. In exchange for you destroying that magic machine and never attempting anything like that ever again. Is that a deal?"
+prev:
+  - "[Pearl's Journey Home - Sylvandia](/stories/pearls-journey-home-sylvandia/)"
+  - "[The Magic Academy](/stories/the-magic-academy/)"
 ---
 
 <link rel="stylesheet" href="/css/dialog.css"/>

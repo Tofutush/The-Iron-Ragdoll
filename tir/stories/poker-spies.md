@@ -59,6 +59,8 @@ tsunamiDialog:
   - And well, if some normal police could catch Qibli then Qibli wouldn't be Qibli. She grabbed onto Tsunami and teleported them both to Tsunami's dad's grocery store, unaware that it had been shut down.
   - - "Qibli: Did you rat me out?"
     - "Tsunami: No!"
+prev:
+  - "[Pearl's Journey Home - Sylvandia](/stories/pearls-journey-home-sylvandia/)"
 ---
 
 <link rel="stylesheet" href="/css/dialog.css"/>
