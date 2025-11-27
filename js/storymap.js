@@ -61,11 +61,9 @@ svg
                 enter
                     .append("text")
                     .text((d) => d.data.id)
-                    .attr("font-weight", "bold")
-                    .attr("font-family", "sans-serif")
                     .attr("text-anchor", "middle")
                     .attr("alignment-baseline", "middle")
-                    .attr("fill", "white");
+                    .attr("fill", "var(--text)");
                 enter.transition(trans).attr("opacity", 1);
             })
     );
