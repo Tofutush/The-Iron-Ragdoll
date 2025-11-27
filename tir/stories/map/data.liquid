@@ -10,7 +10,8 @@ const data = [
             {% for parent in s.data.prev %}
                 "{{ parent | getNameFromLink }}",
             {% endfor %}
-        ]
+        ],
+        url: "{{ s.url }}"
     },
 {% endfor %}
 ]
