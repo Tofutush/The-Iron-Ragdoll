@@ -77,6 +77,7 @@ svg
             .attr("d", ({ points }) => line(points))
             .attr("stroke-width", 3)
             .attr("stroke", "var(--c)")
+            .attr("fill", "none")
             .attr("opacity", 0)
             .call((enter) => enter.transition(trans).attr("opacity", 1))
     );
