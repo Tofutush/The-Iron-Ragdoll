@@ -5,19 +5,6 @@ import * as d3dag from "https://cdn.skypack.dev/d3-dag@1.0.0-1";
 // Setup //
 // ----- //
 
-/**
- * get transform for arrow rendering
- *
- * This transform takes anything with points (a graph link) and returns a
- * transform that puts an arrow on the last point, aligned based off of the
- * second to last.
- */
-function arrowTransform({ points }) {
-    const [[x1, y1], [x2, y2]] = points.slice(-2);
-    const angle = (Math.atan2(y2 - y1, x2 - x1) * 180) / Math.PI + 90;
-    return `translate(${x2}, ${y2}) rotate(${angle})`;
-}
-
 // create our builder and turn the raw data into a graph
 const builder = d3dag.graphStratify();
 const graph = builder(data);
@@ -29,8 +16,6 @@ const graph = builder(data);
 // set the layout functions
 const nodeRadius = 20;
 const nodeSize = [nodeRadius * 2, nodeRadius * 2];
-// this truncates the edges so we can render arrows nicely
-const shape = d3dag.tweakShape(nodeSize, d3dag.shapeEllipse);
 // use this to render our edges
 const line = d3.line().curve(d3.curveMonotoneY);
 // here's the layout operator, uncomment some of the settings
@@ -42,7 +27,6 @@ const layout = d3dag
     //.coord(d3dag.coordQuad())
     .nodeSize(nodeSize)
     .gap([nodeRadius, nodeRadius])
-    .tweaks([shape]);
 
 // actually perform the layout and get the final size
 const { width, height } = layout(graph);
@@ -132,27 +116,5 @@ svg
                 ({ source, target }) => `url(#${source.data.id}--${target.data.id})`
             )
             .attr("opacity", 0)
-            .call((enter) => enter.transition(trans).attr("opacity", 1))
-    );
-
-// Arrows
-const arrowSize = 80;
-const arrowLen = Math.sqrt((4 * arrowSize) / Math.sqrt(3));
-const arrow = d3.symbol().type(d3.symbolTriangle).size(arrowSize);
-svg
-    .select("#arrows")
-    .selectAll("path")
-    .data(graph.links())
-    .join((enter) =>
-        enter
-            .append("path")
-            .attr("d", arrow)
-            .attr("fill", ({ target }) => "var(--c)")
-            .attr("transform", arrowTransform)
-            .attr("opacity", 0)
-            .attr("stroke", "white")
-            .attr("stroke-width", 2)
-            // use this to put a white boundary on the tip of the arrow
-            .attr("stroke-dasharray", `${arrowLen},${arrowLen}`)
             .call((enter) => enter.transition(trans).attr("opacity", 1))
     );
