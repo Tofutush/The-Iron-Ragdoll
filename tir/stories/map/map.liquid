@@ -2,17 +2,25 @@
 layout: layout.liquid
 title: Map
 desc: Map of stories.
+widepage: true
 eleventyNavigation:
   parent: Stories
 ---
-
-<svg id="svg">
-    <g transform="translate(2, 2)">
-        <defs id="defs" />
-        <g id="links" />
-        <g id="nodes" />
-        <g id="arrows" />
-    </g>
-</svg>
+<style>
+    #wrapper {
+        max-width: 1200px;
+        overflow-x: auto;
+    }
+</style>
+<div id="wrapper">
+    <svg id="svg">
+        <g transform="translate(2, 2)">
+            <defs id="defs" />
+            <g id="links" />
+            <g id="nodes" />
+            <g id="arrows" />
+        </g>
+    </svg>
+</div>
 <script src="data.js"></script>
 <script type="module" src="/js/storymap.js"></script>
