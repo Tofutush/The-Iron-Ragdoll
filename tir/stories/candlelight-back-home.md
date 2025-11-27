@@ -13,6 +13,9 @@ myTags:
   - Nameless village
 tags:
   - candlelight-back-home
+prev:
+  - "[Sunflowers in the Dark (working title)](/stories/sunflowers-in-the-dark/)"
+  - "[A Nuke From Moreland](/stories/a-nuke-from-moreland/)"
 ---
 
 Candlelight, disillusioned and worn-down from his [SPF](/world/westavia/spf/) job, decided to quit and go back to being a farmer. He moved from [Area 1](/world/westavia/area-1/) back to the nameless village near [Area 29](/world/westavia/area-29/) in which he was born.
