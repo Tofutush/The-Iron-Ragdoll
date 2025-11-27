@@ -10,6 +10,8 @@ desc: Sunflower is dead, but she isn't gone yet.
 myTags:
   - Westavia
   - Area 1
+prev:
+  - "[Sunflowers in the Dark (working title)](/stories/sunflowers-in-the-dark/)"
 ---
 
 Prev: [Sunflowers in the Dark](/stories/sunflowers-in-the-dark/)

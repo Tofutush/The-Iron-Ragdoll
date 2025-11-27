@@ -13,6 +13,8 @@ myTags:
   - Coastline
   - Sparky and her friends
   - Pearl's Journey Home
+prev:
+  - "[New Year 2032](/stories/new-year-2032/)"
 ---
 
 They got Pearl stashed in the safe house. They figured it out. She was from Sylvandia.

@@ -9,6 +9,8 @@ myTags:
   - Sylvandia
   - Sparky and her friends
   - Pearl's Journey Home
+prev:
+  - "[Pearl's Journey Home - Moreland](/stories/pearls-journey-home-moreland/)"
 ---
 
 They finally got to Sylvandia.

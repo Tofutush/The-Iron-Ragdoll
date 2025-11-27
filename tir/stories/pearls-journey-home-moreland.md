@@ -12,6 +12,8 @@ myTags:
   - Moreland
   - Sparky and her friends
   - Pearl's Journey Home
+prev:
+  - "[Pearl's Journey Home - Atlasia](/stories/pearls-journey-home-atlasia/)"
 ---
 
 They got to Moreland and met the Appaloosa Tribe.

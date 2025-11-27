@@ -9,6 +9,8 @@ myTags:
   - Bauhinia
   - Coastline
   - MSS
+prev:
+  - "[A Nuke From Moreland](/stories/a-nuke-from-moreland/)"
 ---
 
 After the events in [The Nuke From Moreland](/stories/a-nuke-from-moreland/), Paperweight could not stay in the MSS anymore. Moreover, he was diagnosed with chronic leukemia.

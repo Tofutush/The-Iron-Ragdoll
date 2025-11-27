@@ -10,6 +10,8 @@ myTags:
   - Flower City
   - Kismet's presidency
 time: 2023 - end
+prev:
+  - "[The Hunt for Tundra (working title)](/stories/the-hunt-for-tundra/)"
 ---
 
 After Kismet successfully kidnapped Tundra, banished his soul to the vault, and settled into his body, he was faced with a problem: Tundra was 180cm while he was only 145. There's no way he could explain that away, and cutting his legs were out of the question.
