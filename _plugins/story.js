@@ -46,6 +46,9 @@ function storyPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getNameFromLink', function (link) {
 		return link.match(/\[.*\]/)[0].slice(1, -1);
 	});
+	eleventyConfig.addFilter('getUrlFromLink', function (link) {
+		return link.match(/\(.*\)/)[0].slice(1, -1);
+	});
 }
 
 export default storyPlugin;
