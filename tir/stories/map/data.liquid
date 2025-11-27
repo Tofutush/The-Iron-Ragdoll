@@ -6,7 +6,11 @@ const data = [
 {% for s in collections.stories %}
     {
         id: "{{ s.data.title }}",
-        parentIds: []
+        parentIds: [
+            {% for parent in s.data.prev %}
+                "{{ parent | getNameFromLink }}",
+            {% endfor %}
+        ]
     },
 {% endfor %}
 ]

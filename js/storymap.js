@@ -68,36 +68,6 @@ svg
             })
     );
 
-// link gradients
-svg
-    .select("#defs")
-    .selectAll("linearGradient")
-    .data(graph.links())
-    .join((enter) =>
-        enter
-            .append("linearGradient")
-            .attr("id", ({ source, target }) =>
-                encodeURIComponent(`${source.data.id}--${target.data.id}`)
-            )
-            .attr("gradientUnits", "userSpaceOnUse")
-            .attr("x1", ({ points }) => points[0][0])
-            .attr("x2", ({ points }) => points[points.length - 1][0])
-            .attr("y1", ({ points }) => points[0][1])
-            .attr("y2", ({ points }) => points[points.length - 1][1])
-            .call((enter) => {
-                enter
-                    .append("stop")
-                    .attr("class", "grad-start")
-                    .attr("offset", "0%")
-                    .attr("stop-color", "var(--c)");
-                enter
-                    .append("stop")
-                    .attr("class", "grad-stop")
-                    .attr("offset", "100%")
-                    .attr("stop-color", "var(--c)");
-            })
-    );
-
 // link paths
 svg
     .select("#links")
@@ -107,12 +77,8 @@ svg
         enter
             .append("path")
             .attr("d", ({ points }) => line(points))
-            .attr("fill", "var(--c)")
             .attr("stroke-width", 3)
-            .attr(
-                "stroke",
-                ({ source, target }) => `url(#${source.data.id}--${target.data.id})`
-            )
+            .attr("stroke", "var(--c)")
             .attr("opacity", 0)
             .call((enter) => enter.transition(trans).attr("opacity", 1))
     );
