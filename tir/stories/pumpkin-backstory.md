@@ -32,8 +32,6 @@ Though, as people (namely, [Goose](/characters/goose/)) prodded him, he freaked 
 
 He went into Westavia and, after getting directions to his village, took a train to the city closest to it. On the train he met [Candlelight](/characters/candlelight/), who was going to the same place.
 
-The story continues in [Pumpkin Back Home](/stories/pumpkin-back-home/).
-
 ---
 
 *You found a puzzle piece: **Ubiic**! Next clue: like a spider weaving its web, from one character to the next. ([What is this?](/fun/hunt/))*

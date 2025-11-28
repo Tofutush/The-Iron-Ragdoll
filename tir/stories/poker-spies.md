@@ -224,8 +224,6 @@ Jumbo stopped creating OCs because she was too burnt out from her deception camp
 
 Tsunami went back to working in the hotel, yet constantly grieving, unable to forget about Firecrackers.
 
-Next: [Spy School](/spy-school/), [Poker Party](/poker-party/).
-
 ## Trivia
 
 The inspiration behind this is [Operation Fortitude](https://en.wikipedia.org/wiki/Operation_Fortitude)[^1] and the wider [Double-Cross System](https://en.wikipedia.org/wiki/Double-Cross_System). Ben Macintyre wrote a good book about it called *Double Cross*.
