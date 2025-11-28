@@ -13,9 +13,11 @@ myTags:
   - CMS
   - Coastline
   - Sparky and her friends
+  - Complete
 time: "2031"
 prev:
   - "[Coastline Middle School Mysteries](/stories/cms-mysteries/)"
+complete: true
 ---
 
 One weekend in April, Sparky and her friends were walking by a river when they noticed a big gate thing positioned across the two banks. Sparky, being Sparky, decided to jump over it. She managed to do it because of her superstrength.

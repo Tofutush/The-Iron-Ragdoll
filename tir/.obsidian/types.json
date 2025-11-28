@@ -6,6 +6,7 @@
     "time": "text",
     "myTags": "multitext",
     "categories": "multitext",
-    "draft": "checkbox"
+    "draft": "checkbox",
+    "complete": "checkbox"
   }
 }

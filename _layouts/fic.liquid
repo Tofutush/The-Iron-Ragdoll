@@ -17,7 +17,7 @@ eleventyComputed:
 	</ul>
 	</div>
 </details>
-<h1>Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}</h1>
+<h1>{% if chTitle %}{{ chTitle }}{% else %}Chapter {{ chNum }}{% endif %}</h1>
 {{ content }}
 {% assign prev = collections[colName] | getPreviousCollectionItem %}
 {% assign next = collections[colName] | getNextCollectionItem %}

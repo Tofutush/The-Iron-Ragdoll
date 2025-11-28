@@ -159,12 +159,15 @@ views:
       - chs
       - myTags
       - time
+      - complete
       - desc
     columnSize:
       file.name: 132
       note.title: 145
       note.prev: 234
       note.chs: 130
+      note.myTags: 151
       note.time: 97
+      note.complete: 29
       note.desc: 111
     rowHeight: tall
