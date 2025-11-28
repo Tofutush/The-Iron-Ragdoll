@@ -15,8 +15,6 @@ prev:
   - "[Qibli on the Run](/stories/qibli-on-the-run/)"
 ---
 
-Prev: [Sunflowers in the Dark](/stories/sunflowers-in-the-dark/)
-
 Sunflower had died in the real world, but her paracosm world is still thriving, and she's still inside it.
 
 Her phone stopped progressing time. It stayed stuck on July the third, 2031, when she died in the real world. She didn't know that yet.

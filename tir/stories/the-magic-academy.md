@@ -30,5 +30,3 @@ If you can't get rid of the charm, what can you do?
 Let's murder the person on whom the charm works.
 
 Qibli murdered Nebula by chopping her brains into tofu, and fled to live a life at large. Trinket was made the next Arch-Magician.
-
-Next: [Qibli on the Run](/stories/qibli-on-the-run/);

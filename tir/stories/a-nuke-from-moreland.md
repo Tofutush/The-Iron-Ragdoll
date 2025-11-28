@@ -251,10 +251,4 @@ how do the kids figure out halcyon did it?
 
 sky told his friends about pumpkins car confession.
 
-## Next
-
-- The kids: [New Year 2032](/stories/new-year-2032/).
-- Paperweight and Goose: [Paperweight's Roadtrip](/stories/paperweights-roadtrip/).
-- Pumpkin: [Candlelight Back Home](/stories/candlelight-back-home/).
-
 [^1]: Why is there a wall heater in Coastline of all places where it never snows? I don't care I like cuffing people to heaters.
