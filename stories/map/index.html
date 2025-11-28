@@ -4,15 +4,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="">
+  <meta name="description" content="Map of stories.">
   <meta name="author" content="Tofutush">
   <meta name="theme-color" content="#555555">
-  <meta property="og:title" content="Random Story | The Iron Ragdoll">
+  <meta property="og:title" content="Map | The Iron Ragdoll">
   <meta property="og:type" content="website">
   <meta property="og:image" content="https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png">
   <meta property="og:site_name" content="The Iron Ragdoll">
-  <meta property="og:description" content="">
-  <title>Random Story | The Iron Ragdoll</title>
+  <meta property="og:description" content="Map of stories.">
+  <title>Map | The Iron Ragdoll</title>
   <script>
     (function() {
       let lightDark = parseInt(localStorage.getItem('light-dark'));
@@ -38,11 +38,34 @@
     <a href="/The-Iron-Ragdoll/changelog/">Updates</a>
   </nav>
   <main>
-    <p>Takes you to a random story! You need to enable JavaScript for this.</p>
-    <script>
-      const files = ["/The-Iron-Ragdoll/stories/a-nuke-from-moreland/", "/The-Iron-Ragdoll/stories/buttercup-backstory/", "/The-Iron-Ragdoll/stories/candlelight-back-home/", "/The-Iron-Ragdoll/stories/cms-mysteries/", "/The-Iron-Ragdoll/stories/elegance-kidnapped/", "/The-Iron-Ragdoll/stories/family-of-secrets/", "/The-Iron-Ragdoll/stories/goose-backstory/", "/The-Iron-Ragdoll/stories/graduation/", "/The-Iron-Ragdoll/stories/halcyon-backstory/", "/The-Iron-Ragdoll/stories/jackpot-backstory/", "/The-Iron-Ragdoll/stories/map/data.js", "/The-Iron-Ragdoll/stories/map/", "/The-Iron-Ragdoll/stories/nameless-village-backstory/", "/The-Iron-Ragdoll/stories/new-year-2032/", "/The-Iron-Ragdoll/stories/one-man-short/", "/The-Iron-Ragdoll/stories/oneshots/", "/The-Iron-Ragdoll/stories/paperweight-backstory/", "/The-Iron-Ragdoll/stories/paperweights-roadtrip/", "/The-Iron-Ragdoll/stories/peacock-backstory/", "/The-Iron-Ragdoll/stories/pearls-journey-home-atlasia/", "/The-Iron-Ragdoll/stories/pearls-journey-home-fanton/", "/The-Iron-Ragdoll/stories/pearls-journey-home-moreland/", "/The-Iron-Ragdoll/stories/pearls-journey-home-sylvandia/", "/The-Iron-Ragdoll/stories/pearls-journey-home/", "/The-Iron-Ragdoll/stories/poker-party/", "/The-Iron-Ragdoll/stories/poker-spies/", "/The-Iron-Ragdoll/stories/project-boomerang/", "/The-Iron-Ragdoll/stories/project-kismet/", "/The-Iron-Ragdoll/stories/pumpkin-backstory/", "/The-Iron-Ragdoll/stories/qibli-on-the-run/", "/The-Iron-Ragdoll/stories/sparky-turns-into-a-dragon/", "/The-Iron-Ragdoll/stories/spy-school/", "/The-Iron-Ragdoll/stories/sunflower-2/", "/The-Iron-Ragdoll/stories/sunflowers-in-the-dark/", "/The-Iron-Ragdoll/stories/the-absolute-end-to-tir-as-we-know-it/", "/The-Iron-Ragdoll/stories/the-hunt-for-tundra/", "/The-Iron-Ragdoll/stories/the-magic-academy/", "/The-Iron-Ragdoll/stories/the-occupation/", "/The-Iron-Ragdoll/stories/the-yacht-trip/", ];
-      window.location.href = `${window.location.protocol}//${window.location.host}${files[Math.floor(Math.random() * files.length)]}`;
-    </script>
+    <div class="breadcrumbs">
+      <a href="/The-Iron-Ragdoll/stories/">Stories</a>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+        <path d="m9 18 6-6-6-6"></path>
+      </svg>
+      <a href="/The-Iron-Ragdoll/stories/map/">Map</a>
+    </div>
+    <style>
+      #wrapper {
+        max-width: 800px;
+        overflow-x: auto;
+      }
+    </style>
+    <p>This is a map of which stories take place after which! It's not a chronological map, but rather cause-and-effect.</p>
+    <p>The links are only circles with no text… yeah, sorry, but I really don't know how to make the text appear properly. D3.js is already hard enough.</p>
+    <p>On desktop you can hover over the links to see the title text. On mobile, you'd have to open them. Sorry!</p>
+    <div id="wrapper">
+      <svg id="svg">
+        <g transform="translate(2, 2)">
+          <defs id="defs"></defs>
+          <g id="links"></g>
+          <g id="nodes"></g>
+          <g id="arrows"></g>
+        </g>
+      </svg>
+    </div>
+    <script src="data.js"></script>
+    <script type="module" src="/The-Iron-Ragdoll/js/storymap.js"></script>
   </main>
   <footer>
     <div class="theme-toggle">
@@ -79,11 +102,11 @@
         });
       })();
     </script>
-    <img src="/The-Iron-Ragdoll/img/gallery/LTgImSOajo-500.webp" alt="one man short footer" title="one man short footer" loading="lazy" decoding="async" class="footer-img" width="500" height="370">
+    <img src="/The-Iron-Ragdoll/img/gallery/SzKl8uSUZn-500.webp" alt="sparky nightsun footer" title="sparky nightsun footer" loading="lazy" decoding="async" class="footer-img" width="500" height="637">
   </footer>
   <div class="license">
     <p>The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></p>
-    <p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/./tir/fun/random/story.liquid">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll/fun/random/story/">Archive this page</a></p>
+    <p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/./tir/stories/map/map.liquid">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll/stories/map/">Archive this page</a></p>
   </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
   <script>
