@@ -10,8 +10,10 @@ myTags:
   - Westavia
   - MSS
   - Nameless village
+  - Complete
 prev:
   - "[Nameless Village Backstory](/stories/nameless-village-backstory/)"
+complete: true
 ---
 
 Pumpkin's grandparents immigrated to northern [Bauhinia](/world/bauhinia/) from [Westavia](/world/westavia/). His family still kept many of their Westavian traditions.

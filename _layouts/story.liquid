@@ -13,6 +13,8 @@ eleventyComputed:
 	</div>
 	<p>Time period</p>
 	<p>{{ time }}</p>
+	<p>Complete</p>
+	<p>{% if complete %}{% lucide 'check' %}{% else %}{% lucide 'x' %}{% endif %}</p>
 	{% if myTags %}
 		<p>Tags</p>
 		<p>
@@ -20,16 +22,6 @@ eleventyComputed:
 		</p>
 	{% endif %}
 </div>
-{% if comic or fic %}
-	<div class="box-nav solid">
-		{% if comic %}
-			<a href="page-1/">Read the comic!</a>
-		{% endif %}
-		{% if fic %}
-			<a href="chapter-1/">Read the fic!</a>
-		{% endif %}
-	</div>
-{% endif %}
 
 {% if prev %}
 	<h2>Previous</h2>
@@ -39,6 +31,17 @@ eleventyComputed:
 		{% endfor %}
 	</ul>
 	<hr/>
+{% endif %}
+
+{% if comic or fic %}
+	<div class="box-nav solid">
+		{% if comic %}
+			<a href="page-1/">Read the comic!</a>
+		{% endif %}
+		{% if fic %}
+			<a href="chapter-1/">Read the fic!</a>
+		{% endif %}
+	</div>
 {% endif %}
 
 {{ content }}

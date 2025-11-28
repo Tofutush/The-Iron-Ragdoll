@@ -10,8 +10,10 @@ myTags:
   - Nameless village
   - Westavia
   - Oneshot
+  - Complete
 prev:
   - "[Nameless Village Backstory](/stories/nameless-village-backstory/)"
+complete: true
 ---
 
 [[toc]]

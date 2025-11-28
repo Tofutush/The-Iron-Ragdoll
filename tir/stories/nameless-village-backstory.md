@@ -13,8 +13,10 @@ myTags:
   - Backstory
   - Westavia
   - Nameless village
+  - Complete
 tags:
   - nameless-village
+complete: true
 ---
 
 ## Pumpkin's grandparents
