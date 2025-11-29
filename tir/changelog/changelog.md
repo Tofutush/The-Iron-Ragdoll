@@ -6,6 +6,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-27
+
+- Cool new page: [Story map](/stories/map/)!
+- Added "Previous" and "Next" sections on stories, which are the same as the stories they're connected to on the map;
+- Added a "complete" field to stories;
+
 ## 2025-11-25
 
 - Removed stories' canon field, because most of them are canon anyways;

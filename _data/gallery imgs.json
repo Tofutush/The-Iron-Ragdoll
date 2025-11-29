@@ -4982,5 +4982,16 @@
     "type": "png",
     "date": "2025-11-24",
     "comment": "Secret Santa gift art."
+  },
+  {
+    "name": "entity comm",
+    "type": "jpg",
+    "date": "2025-11-27",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "entity"
+    ],
+    "comment": "A commission gift from Blank."
   }
 ]
