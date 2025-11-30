@@ -47,6 +47,22 @@
     </div>
     <h1>Peacock's Backstory</h1>
     <p class="lighter-text">Peacock's backstory.</p>
+    <style>
+      #prev-next {
+        display: flex;
+        gap: 2em;
+        flex-wrap: wrap;
+
+        &>* {
+          min-width: 200px;
+          flex: 1;
+        }
+
+        & ul {
+          font-size: var(--font-size-small);
+        }
+      }
+    </style>
     <div class="attr">
       <p>Main Cast</p>
       <div class="tags">
@@ -89,10 +105,14 @@
     <p>&quot;To move on.&quot;</p>
     <p>And the story has a closure.</p>
     <hr>
-    <h2>Next</h2>
-    <ul>
-      <li><a href="/The-Iron-Ragdoll/stories/cms-mysteries/">Coastline Middle School Mysteries</a></li>
-    </ul>
+    <section id="prev-next">
+      <div class="graybox">
+        <h4>Next</h4>
+        <ul>
+          <li><a href="/The-Iron-Ragdoll/stories/cms-mysteries/">Coastline Middle School Mysteries</a></li>
+        </ul>
+      </div>
+    </section>
   </main>
   <footer>
     <div class="theme-toggle">
