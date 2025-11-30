@@ -18,18 +18,6 @@ jobs:
         with:
           node-version: current
 
-      - name: Persist npm cache
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package.json') }}
-
-      - name: Persist Eleventy .cache
-        uses: actions/cache@v3
-        with:
-          path: ./.cache
-          key: ${{ runner.os }}-eleventy-fetch-cache
-
       - name: Install dependencies
         run: npm ci
 
