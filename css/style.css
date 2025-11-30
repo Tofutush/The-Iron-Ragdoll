@@ -49,9 +49,9 @@
 	--off-black: #222;
 	--off-white: #eee;
 	--c-light: #555;
-	--box-light: #0001;
+	--box-light: #dbdbdb;
 	--c-dark: #aaa;
-	--box-dark: #fff5;
+	--box-dark: #3e3e3e;
 }
 
 body {
@@ -452,14 +452,16 @@ footer {
 	border-radius: 1em;
 	padding: 1em;
 
-	& p {
-		&:first-child {
-			margin-top: 0;
-		}
+	&>:first-child {
+		margin-top: 0;
+	}
 
-		&:last-child {
-			margin-bottom: 0;
-		}
+	&>:last-child {
+		margin-bottom: 0;
+	}
+
+	& h4::before {
+		content: '';
 	}
 }
 
