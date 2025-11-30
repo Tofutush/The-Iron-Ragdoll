@@ -1,4 +1,3 @@
-- star
 - euphoria
-- rosemary
 - basil
+- cascade

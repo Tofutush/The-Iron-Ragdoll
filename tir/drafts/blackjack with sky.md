@@ -5,4 +5,3 @@
 	- queen: qibli
 	- king: firecrackers
 	- (implying joker is sky)
-- $900 message

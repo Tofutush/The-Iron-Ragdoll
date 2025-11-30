@@ -108,8 +108,6 @@ The empire resumed their war with Moreland, but trouble was brewing back home. T
 
 In Moreland, a group of dissidents of the regime went off and started their own country, Atlasia, and maintained independence from Moreland with Bauhinia's aid. At the same time, Westavia also declared independence as a satellite of Moreland's, and Bauhinia staged a border dispute which started a war between the two that ended when Bauhinia developed nuclear bombs and nuked Area 3, the industrial center of Westavia. To this day, Area 3 hasn't regained its industrial capabilities.
 
-At the end of the war, the world formed a bipolar[^1] structure with Bauhinia and Moreland being in a state of cold war. Bauhinia recognized Fanton, Westavia, and Sylvandia.
+At the end of the war, the world formed a bipolar structure with Bauhinia and Moreland being in a state of cold war. Bauhinia recognized Fanton, Westavia, and Sylvandia.
 
 In 2041, Bauhinia launched a reunification campaign to take back Fanton. The campaign failed due to Moreland's backdoor support for Fanton, but successfully made Fanton finlandized to Bauhinia.
-
-[^1]: Not *that* bipolar, you get what I mean right?
