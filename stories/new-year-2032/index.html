@@ -47,6 +47,22 @@
     </div>
     <h1>New Year 2032</h1>
     <p class="lighter-text">Mishap in Sparky's home during the new year leads to shocking discoveries.</p>
+    <style>
+      #prev-next {
+        display: flex;
+        gap: 2em;
+        flex-wrap: wrap;
+
+        &>* {
+          min-width: 200px;
+          flex: 1;
+        }
+
+        & ul {
+          font-size: var(--font-size-small);
+        }
+      }
+    </style>
     <div class="attr">
       <p>Main Cast</p>
       <div class="tags">
@@ -72,11 +88,6 @@
         <a href="/The-Iron-Ragdoll/stories/tag/bauhinia/">Bauhinia</a>, <a href="/The-Iron-Ragdoll/stories/tag/coastline/">Coastline</a>, <a href="/The-Iron-Ragdoll/stories/tag/pearls-journey-home/">Pearl's Journey Home</a>, <a href="/The-Iron-Ragdoll/stories/tag/sparky-and-her-friends/">Sparky and her friends</a>
       </p>
     </div>
-    <h2>Previous</h2>
-    <ul>
-      <li><a href="/The-Iron-Ragdoll/stories/a-nuke-from-moreland/">A Nuke From Moreland</a></li>
-    </ul>
-    <hr>
     <details id="toc-wrap" open="">
       <summary>
         <h3>Contents</h3>
@@ -158,10 +169,20 @@
       </ol>
     </section>
     <hr>
-    <h2>Next</h2>
-    <ul>
-      <li><a href="/The-Iron-Ragdoll/stories/pearls-journey-home/">Pearl's Journey Home</a></li>
-    </ul>
+    <section id="prev-next">
+      <div class="graybox">
+        <h4>Previous</h4>
+        <ul>
+          <li><a href="/The-Iron-Ragdoll/stories/a-nuke-from-moreland/">A Nuke From Moreland</a></li>
+        </ul>
+      </div>
+      <div class="graybox">
+        <h4>Next</h4>
+        <ul>
+          <li><a href="/The-Iron-Ragdoll/stories/pearls-journey-home/">Pearl's Journey Home</a></li>
+        </ul>
+      </div>
+    </section>
   </main>
   <footer>
     <div class="theme-toggle">

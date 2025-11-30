@@ -47,6 +47,22 @@
     </div>
     <h1>Nameless Village Backstory</h1>
     <p class="lighter-text">Backstory of the characters in the Nameless Village. Condensed into one as some points overlap.</p>
+    <style>
+      #prev-next {
+        display: flex;
+        gap: 2em;
+        flex-wrap: wrap;
+
+        &>* {
+          min-width: 200px;
+          flex: 1;
+        }
+
+        & ul {
+          font-size: var(--font-size-small);
+        }
+      }
+    </style>
     <div class="attr">
       <p>Main Cast</p>
       <div class="tags">
@@ -109,11 +125,15 @@
       </ol>
     </section>
     <hr>
-    <h2>Next</h2>
-    <ul>
-      <li><a href="/The-Iron-Ragdoll/stories/pumpkin-backstory/">Pumpkin's Backstory</a></li>
-      <li><a href="/The-Iron-Ragdoll/stories/the-occupation/">The Occupation</a></li>
-    </ul>
+    <section id="prev-next">
+      <div class="graybox">
+        <h4>Next</h4>
+        <ul>
+          <li><a href="/The-Iron-Ragdoll/stories/pumpkin-backstory/">Pumpkin's Backstory</a></li>
+          <li><a href="/The-Iron-Ragdoll/stories/the-occupation/">The Occupation</a></li>
+        </ul>
+      </div>
+    </section>
   </main>
   <footer>
     <div class="theme-toggle">

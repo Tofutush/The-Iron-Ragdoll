@@ -47,6 +47,22 @@
     </div>
     <h1>Qibli on the Run</h1>
     <p class="lighter-text">Qibli is now a wanted criminal. How is she doing?</p>
+    <style>
+      #prev-next {
+        display: flex;
+        gap: 2em;
+        flex-wrap: wrap;
+
+        &>* {
+          min-width: 200px;
+          flex: 1;
+        }
+
+        & ul {
+          font-size: var(--font-size-small);
+        }
+      }
+    </style>
     <div class="attr">
       <p>Main Cast</p>
       <div class="tags">
@@ -70,12 +86,6 @@
         <a href="/The-Iron-Ragdoll/stories/tag/bauhinia/">Bauhinia</a>, <a href="/The-Iron-Ragdoll/stories/tag/mss/">MSS</a>
       </p>
     </div>
-    <h2>Previous</h2>
-    <ul>
-      <li><a href="/The-Iron-Ragdoll/stories/pearls-journey-home-sylvandia/">Pearl's Journey Home - Sylvandia</a></li>
-      <li><a href="/The-Iron-Ragdoll/stories/the-magic-academy/">The Magic Academy</a></li>
-    </ul>
-    <hr>
     <link rel="stylesheet" href="/The-Iron-Ragdoll/css/dialog.css">
     <p>After murdering Nebula, Qibli couldn't be a normal member of society anymore. She had to run away to live a life at large.</p>
     <h2 id="pocket-dimension" tabindex="-1">Pocket dimension</h2>
@@ -173,10 +183,21 @@
       </ol>
     </section>
     <hr>
-    <h2>Next</h2>
-    <ul>
-      <li><a href="/The-Iron-Ragdoll/stories/sunflower-2/">Sunflower 2 (DEFINITELY working title)</a></li>
-    </ul>
+    <section id="prev-next">
+      <div class="graybox">
+        <h4>Previous</h4>
+        <ul>
+          <li><a href="/The-Iron-Ragdoll/stories/pearls-journey-home-sylvandia/">Pearl's Journey Home - Sylvandia</a></li>
+          <li><a href="/The-Iron-Ragdoll/stories/the-magic-academy/">The Magic Academy</a></li>
+        </ul>
+      </div>
+      <div class="graybox">
+        <h4>Next</h4>
+        <ul>
+          <li><a href="/The-Iron-Ragdoll/stories/sunflower-2/">Sunflower 2 (DEFINITELY working title)</a></li>
+        </ul>
+      </div>
+    </section>
   </main>
   <footer>
     <div class="theme-toggle">

@@ -47,6 +47,22 @@
     </div>
     <h1>The Yacht Trip</h1>
     <p class="lighter-text">The two families go on a vacation.</p>
+    <style>
+      #prev-next {
+        display: flex;
+        gap: 2em;
+        flex-wrap: wrap;
+
+        &>* {
+          min-width: 200px;
+          flex: 1;
+        }
+
+        & ul {
+          font-size: var(--font-size-small);
+        }
+      }
+    </style>
     <div class="attr">
       <p>Main Cast</p>
       <div class="tags">
@@ -72,19 +88,24 @@
         <a href="/The-Iron-Ragdoll/stories/tag/bauhinia/">Bauhinia</a>, <a href="/The-Iron-Ragdoll/stories/tag/coastline/">Coastline</a>, <a href="/The-Iron-Ragdoll/stories/tag/froggy-island/">Froggy Island</a>
       </p>
     </div>
-    <h2>Previous</h2>
-    <ul>
-      <li><a href="/The-Iron-Ragdoll/stories/pearls-journey-home-sylvandia/">Pearl's Journey Home - Sylvandia</a></li>
-    </ul>
-    <hr>
     <p>Peacock's family and Hyrax's family go on Hyrax's fancy private yacht to sail to Hyrax's fancy private and insanely big island, <a href="/The-Iron-Ragdoll/world/bauhinia/froggy-island/">Froggy Island</a>. Stuff happen.</p>
     <p>Also Reindeer got murdered somehow so Ironheart is with Peacock now.</p>
     <p>They sailed across the sea for a week to the island.</p>
     <hr>
-    <h2>Next</h2>
-    <ul>
-      <li><a href="/The-Iron-Ragdoll/stories/elegance-kidnapped/">Elegance Kidnapped</a></li>
-    </ul>
+    <section id="prev-next">
+      <div class="graybox">
+        <h4>Previous</h4>
+        <ul>
+          <li><a href="/The-Iron-Ragdoll/stories/pearls-journey-home-sylvandia/">Pearl's Journey Home - Sylvandia</a></li>
+        </ul>
+      </div>
+      <div class="graybox">
+        <h4>Next</h4>
+        <ul>
+          <li><a href="/The-Iron-Ragdoll/stories/elegance-kidnapped/">Elegance Kidnapped</a></li>
+        </ul>
+      </div>
+    </section>
   </main>
   <footer>
     <div class="theme-toggle">

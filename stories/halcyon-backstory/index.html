@@ -47,6 +47,22 @@
     </div>
     <h1>Halcyon's Backstory</h1>
     <p class="lighter-text">Halcyon's backstory</p>
+    <style>
+      #prev-next {
+        display: flex;
+        gap: 2em;
+        flex-wrap: wrap;
+
+        &>* {
+          min-width: 200px;
+          flex: 1;
+        }
+
+        & ul {
+          font-size: var(--font-size-small);
+        }
+      }
+    </style>
     <div class="attr">
       <p>Main Cast</p>
       <div class="tags">
@@ -76,10 +92,14 @@
     <p>He was captured and repeatedly tortured by his <a href="/The-Iron-Ragdoll/characters/goose/">scary former subordinate</a> to reveal the extent of his treachery. It was hard because he didn't even remember all of it.</p>
     <p>He could've been sentenced to death, but the MSS traded him to Moreland instead. He was finally free and reunited with his mistress and daughter.</p>
     <hr>
-    <h2>Next</h2>
-    <ul>
-      <li><a href="/The-Iron-Ragdoll/stories/a-nuke-from-moreland/">A Nuke From Moreland</a></li>
-    </ul>
+    <section id="prev-next">
+      <div class="graybox">
+        <h4>Next</h4>
+        <ul>
+          <li><a href="/The-Iron-Ragdoll/stories/a-nuke-from-moreland/">A Nuke From Moreland</a></li>
+        </ul>
+      </div>
+    </section>
   </main>
   <footer>
     <div class="theme-toggle">
