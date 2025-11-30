@@ -4,6 +4,22 @@ eleventyComputed:
   eleventyNavigation:
     parent: Stories
 ---
+<style>
+	#prev-next {
+		display: flex;
+		gap: 2em;
+		flex-wrap: wrap;
+
+		&>* {
+			min-width: 200px;
+			flex: 1;
+		}
+
+		& ul {
+			font-size: var(--font-size-small);
+		}
+	}
+</style>
 <div class="attr">
 	<p>Main Cast</p>
 	<div class="tags">
@@ -23,16 +39,6 @@ eleventyComputed:
 	{% endif %}
 </div>
 
-{% if prev %}
-	<h2>Previous</h2>
-	<ul>
-		{% for s in prev %}
-			<li><a href="{{ s | getUrlFromLink }}">{{ s | getNameFromLink }}</a></li>
-		{% endfor %}
-	</ul>
-	<hr/>
-{% endif %}
-
 {% if comic or fic %}
 	<div class="box-nav solid">
 		{% if comic %}
@@ -47,12 +53,28 @@ eleventyComputed:
 {{ content }}
 
 {% assign next = collections.stories | getNextStories: title %}
-{% if next.size != 0 %}
+{% if prev or next.size != 0 %}
 	<hr/>
-	<h2>Next</h2>
-	<ul>
-		{% for s in next %}
-			<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>
-		{% endfor %}
-	</ul>
+	<section id="prev-next">
+		{% if prev %}
+			<div class="graybox">
+				<h4>Previous</h4>
+				<ul>
+					{% for s in prev %}
+						<li><a href="{{ s | getUrlFromLink }}">{{ s | getNameFromLink }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		{% endif %}
+		{% if next.size != 0 %}
+			<div class="graybox">
+				<h4>Next</h4>
+				<ul>
+					{% for s in next %}
+						<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		{% endif %}
+	</section>
 {% endif %}
