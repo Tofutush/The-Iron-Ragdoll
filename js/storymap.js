@@ -1,12 +1,9 @@
-import * as d3 from "https://cdn.skypack.dev/d3@7.8.4";
-import * as d3dag from "https://cdn.skypack.dev/d3-dag@1.0.0-1";
-
 // ----- //
 // Setup //
 // ----- //
 
 // create our builder and turn the raw data into a graph
-const builder = d3dag.graphStratify();
+const builder = d3.graphStratify();
 const graph = builder(data);
 
 // -------------- //
@@ -18,7 +15,7 @@ const nodeRadius = 20;
 // use this to render our edges
 const line = d3.line().curve(d3.curveMonotoneY);
 // here's the layout operator, uncomment some of the settings
-const layout = d3dag
+const layout = d3
     .sugiyama()
     //.layering(d3dag.layeringLongestPath())
     //.decross(d3dag.decrossOpt())
