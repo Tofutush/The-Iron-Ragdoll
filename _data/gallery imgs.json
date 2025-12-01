@@ -4666,8 +4666,7 @@
     "date": "2025-10-24",
     "ch": [
       "kaleidoscope"
-    ],
-    "kind": "fullbody"
+    ]
   },
   {
     "name": "moonflower",
@@ -4993,5 +4992,31 @@
       "entity"
     ],
     "comment": "A commission gift from Blank."
+  },
+  {
+    "name": "buttercup spread",
+    "type": "png",
+    "date": "2025-11-30",
+    "ch": [
+      "buttercup"
+    ]
+  },
+  {
+    "name": "cobalt hand raised",
+    "type": "png",
+    "date": "2025-11-30",
+    "ch": [
+      "cobalt"
+    ],
+    "kind": "fullbody"
+  },
+  {
+    "name": "kaleidoscope stand",
+    "type": "png",
+    "date": "2025-11-30",
+    "ch": [
+      "kaleidoscope"
+    ],
+    "kind": "fullbody"
   }
 ]
