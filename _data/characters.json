@@ -1448,7 +1448,7 @@
       "shirt": "#C4B0CF",
       "hair": "#6C4816"
     },
-    "about": "Helsinki is a distant relative of [Pumpkin](/characters/pumpkin/)'s, descended from the part of his family that didn't immigrate to [Bauhinia](/world/bauhinia/). She lives in [the village](/world/westavia/pumpkins-village/).",
+    "about": "Helsinki is a distant relative of [Pumpkin](/characters/pumpkin/)'s, descended from the part of his family that didn't immigrate to [Bauhinia](/world/bauhinia/). She lives in [the village](/world/westavia/nameless-village/).",
     "trivia": "- 维吾尔族。"
   },
   {
@@ -1469,7 +1469,7 @@
     "palette": {
       "hair": "#2e2e2e"
     },
-    "about": "A policeman in a [little village](/world/westavia/pumpkins-village/).",
+    "about": "A police officer in a [little village](/world/westavia/nameless-village/).",
     "trivia": "- 东乡族。"
   },
   {
@@ -1559,7 +1559,7 @@
       "shirt": "#5E5E5E",
       "hair": "#2e2e2e"
     },
-    "about": "Cobalt is as cishet as a cishet could ever cishet. She's so cishet that when she got into [Ironheart](/characters/ironheart/)'s body, she divorced his wife and attempted to get gender-affirming surgery, the latter of which [Sparky](/characters/sparky/) successfully stopped because Ironheart is also as cishet as a cishet could ever cishet and Sparky didn't want him coming back into a woman's body.\n\nShe is also a soul-dealer well-trained in the art of soul extraction."
+    "about": "Cobalt was a normal college student who barely passed classes and liked playing with her friends. But one day, her friend Kaleidoscope confessed to her, and disappeared right after. The rest of the crew set out to find her.\n\nCobalt also learned classic Sylvandian soul-extraction from Moonbeam."
   },
   {
     "name": "Kaleidoscope",
@@ -1606,7 +1606,8 @@
     ],
     "attr": {
       "Gender": "Male",
-      "Nationality": "Fantoni"
+      "Nationality": "Fantoni",
+      "Power": "Superstrength"
     },
     "palette": {
       "shirt": "#5e5e5e",
@@ -1680,6 +1681,7 @@
       "tie": "#2E6CF7",
       "hair": "#2E2E2E"
     },
+    "about": "Tundra found out early on in his life that he was immortal. Because of this, he didn't take care of his body at *all*; not even lending worry to his fatal thing. He spent his days drinking and smoking weed in corners the law can't see.\n\nNone of this prepared him for when the [dictator of Bauhinia](/characters/kismet/) himself went after him.",
     "trivia": "- If he had a lusus, it would be a sloth."
   },
   {
@@ -1751,7 +1753,7 @@
       "shoes": "#0F2704",
       "hair": "#2e2e2e"
     },
-    "about": "Jackalope is an officer at the Intelligence Corps of the Guardian Moose."
+    "about": "Jackalope is an officer at the Intelligence Corps of the Guardian Moose.\n\nIn her free time, she loved gardening."
   },
   {
     "name": "Whiteout",
