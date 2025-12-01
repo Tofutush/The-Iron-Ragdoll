@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-11-30
+
+- Added `buttercup spread.png`, `cobalt hand raised.png`, `kaleidoscope stand.png`;
+
 ## 2025-11-27
 
 - Cool new page: [Story map](/stories/map/)!
