@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2025-11-30
 
 - Added `buttercup spread.png`, `cobalt hand raised.png`, `kaleidoscope stand.png`;
+- "Related pages" in World and "previous and next" stories are now in neat little gray boxes;
 
 ## 2025-11-27
 
