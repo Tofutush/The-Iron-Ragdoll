@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-01
+
+- Added some dialog about Pumpkin and Candlelight's first meeting in [Candlelight Back Home](/stories/candlelight-back-home/);
+- Moved October to [older updates](old/);
+
 ## 2025-11-30
 
 - Added `buttercup spread.png`, `cobalt hand raised.png`, `kaleidoscope stand.png`;
@@ -95,50 +100,6 @@ eleventyNavigation:
 - Added `jumbo deal.png`, `moonflower hi.png`;
 - Check out the [Chinese version of my lore](https://tofutush.notion.site/29b186f1eaa180c58613e231c5feeffa)!
 - Revamped the [scavenger hunt](/fun/hunt/)'s hints. Hopefully it'd be easier now!
-
-## 2025-10-26
-
-- Added death dates to character attributes;
-	- (I need to kill more characters fr fr)
-- Added `kaleidoscope thumb.png`, `jumbo thumb.png`, `blackjack thumb.png`, `tsunami thumb.png`, `mulberry thumb.png`;
-
-## 2025-10-25
-
-- Added the [Introversion and extroversion](/world/moreland/#introversion-and-extroversion) section to Moreland;
-- Removed "gender" from all Moose (or people who were given nationality later like Halcyon and Typhoon) and replaced them with pronouns and energy.
-
-## 2025-10-24
-
-- Added `kaleidoscope.png`, `moonflower.png`;
-- Added [Moonflower](/characters/moonflower/);
-
-## 2025-10-23
-
-- Made my own [guestbook](https://tofutush.leprd.space/guestbook/); go sign!
-
-## 2025-10-20
-
-- Added [image gallery RSS feed](/gallery/feed.xml);
-
-## 2025-10-19
-
-- Added [Artfight permissions](/misc/perms/) as a page;
-	- I can use this for random art exchange events too;
-
-## 2025-10-18
-
-- Added `pumpkin helsinki dance.png` and the two individual images;
-
-## 2025-10-13
-
-- Published new page of [Spy School](/stories/spy-school/page-7/);
-- Added `natasha thumb.png`, `tsunami firecrackers.png`;
-
-## 2025-10-03
-
-- Moved August to [older updates](old/);
-- Gave a special gallery subpage to every character that has more than 10 images;
-- Added `entity profile.png`, `frosting profile.png`, `sugarcane profile.png`;
 
 ---
 
