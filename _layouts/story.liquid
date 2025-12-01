@@ -14,10 +14,6 @@ eleventyComputed:
 			min-width: 200px;
 			flex: 1;
 		}
-
-		& ul {
-			font-size: var(--font-size-small);
-		}
 	}
 </style>
 <div class="attr">
@@ -59,7 +55,7 @@ eleventyComputed:
 		{% if prev %}
 			<div class="graybox">
 				<h4>Previous</h4>
-				<ul>
+				<ul class="smaller-text">
 					{% for s in prev %}
 						<li><a href="{{ s | getUrlFromLink }}">{{ s | getNameFromLink }}</a></li>
 					{% endfor %}
@@ -69,7 +65,7 @@ eleventyComputed:
 		{% if next.size != 0 %}
 			<div class="graybox">
 				<h4>Next</h4>
-				<ul>
+				<ul class="smaller-text">
 					{% for s in next %}
 						<li><a href="{{ s.url }}">{{ s.data.title }}</a></li>
 					{% endfor %}
