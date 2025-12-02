@@ -1,5 +1,5 @@
 ---
-title: Sunflowers in the Dark (working title)
+title: Sunflowers in the Dark
 chs:
   - candlelight
   - sunflower
