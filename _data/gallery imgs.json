@@ -5018,5 +5018,21 @@
       "kaleidoscope"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "jackalope entity interaction",
+    "type": "png",
+    "date": "2025-12-02",
+    "ch": [
+      "entity",
+      "jackalope"
+    ],
+    "comment": "Art request from Blank!"
+  },
+  {
+    "name": "pathey ninja",
+    "type": "png",
+    "date": "2025-12-02",
+    "comment": "Art trade with Blank!"
   }
 ]
