@@ -47,7 +47,7 @@ function storyPlugin(eleventyConfig) {
 		return link.match(/\[.*\]/)[0].slice(1, -1);
 	});
 	eleventyConfig.addFilter('getUrlFromLink', function (link) {
-		return link.match(/\(.*\)/)[0].slice(1, -1);
+		return link.match(/\([^\(\)]*\)(?!.*\([^\(\)]*\))/)[0].slice(1, -1);
 	});
 	eleventyConfig.addFilter('getNextStories', function (stories, title) {
 		return stories.filter(s => s.data.prev?.some(p => p.match(/\[.*\]/)[0].slice(1, -1) == title));

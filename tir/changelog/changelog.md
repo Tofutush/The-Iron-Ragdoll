@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-02
+
+- Fixed a problem where "previous" story links with parenthesis in their titles (notably Sunflowers in the Dark (working title)) led to 404;
+	- I completely brought this upon myself I need to come up with fancy titles for them;
+
 ## 2025-12-01
 
 - Added some dialog about Pumpkin and Candlelight's first meeting in [Candlelight Back Home](/stories/candlelight-back-home/);
