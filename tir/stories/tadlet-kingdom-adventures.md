@@ -11,7 +11,7 @@ myTags:
   - Westavia
   - Area 1
 prev:
-  - "[Sunflowers in the Dark (working title)](/stories/sunflowers-in-the-dark/)"
+  - "[Sunflowers in the Dark](/stories/sunflowers-in-the-dark/)"
   - "[Qibli on the Run](/stories/qibli-on-the-run/)"
 ---
 

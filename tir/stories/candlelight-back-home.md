@@ -14,13 +14,13 @@ myTags:
 tags:
   - candlelight-back-home
 prev:
-  - "[Sunflowers in the Dark (working title)](/stories/sunflowers-in-the-dark/)"
+  - "[Sunflowers in the Dark](/stories/sunflowers-in-the-dark/)"
   - "[A Nuke From Moreland](/stories/a-nuke-from-moreland/)"
 stationDialog:
   - - "Pumpkin: Excuse me; do you know how I can get to Amoxicillin?"
     - "Ticket salesperson: Uh, there's a health center near the station. You can go ask them."
     - "Pumpkin: No, no, I'm not looking for the medicine Amoxicillin — Ugh this is hard —"
-  - "The man left the ticket counter, brows furrowing."
+  - The man left the ticket counter, brows furrowing.
   - - "Pumpkin: Excuse me please?"
     - "Candlelight: What do you need?"
     - "Pumpkin: Do you know how I can get to Amoxicillin?"
@@ -31,12 +31,12 @@ stationDialog:
     - "Candlelight: Just, don't. Not… *names* like that. Describe the place to me."
     - "Pumpkin: Well, actually, I don't know anything about this place. I grew up in Bauhinia, you see. I only know that my grandparents were from there, having came to Bauhinia during the war; and that I have some distant relatives there."
     - "Candlelight: Whelp, that doesn't really narrow it down. I know in my village — I'm going there and the train is in like four hours — there used to be a story about two people eloping, heh. Maybe they are your grandparents. The age checks."
-  - "The man fumbled in his pocket and pulled out a wad of papers. Old and crumbled, were these his grandparents' documents?"
-  - "Candlelight watched as the man pulled out a particular piece of paper that said it was a \"travel permit.\""
+  - The man fumbled in his pocket and pulled out a wad of papers. Old and crumbled, were these his grandparents' documents?
+  - Candlelight watched as the man pulled out a particular piece of paper that said it was a "travel permit."
   - - "Pumpkin: This is where it says Amo — the village name."
-  - "He shoved it back into the pile and pulled out another, a booklet. It was coming loose, and poorly bound in the first place. A passport of old. The man opened it to the appropriate page."
+  - He shoved it back into the pile and pulled out another, a booklet. It was coming loose, and poorly bound in the first place. A passport of old. The man opened it to the appropriate page.
   - - "Pumpkin: This is the city the passport is issued in. It's a little faded, but the issuing city is still visible. I wasn't sure how far the city is from the village so…"
-  - "It was very clearly, the very banned, very illegal name of Yigirme Toqquzinchi. Area 29."
+  - It was very clearly, the very banned, very illegal name of Yigirme Toqquzinchi. Area 29.
   - - "Candlelight: My village was right near this city. It could be very possible that the stories I heard *were* about your parents… But what are the chances?"
     - "Pumpkin: Wow, what a coincidence! Can I please travel with you? To Yigir — am I allowed to say that?"
     - "Candlelight: No. And I can't be sure; how about you come with me to my village and let's ask around for some older people there? You have their names so it should be quite easy."
