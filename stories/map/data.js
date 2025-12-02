@@ -149,7 +149,7 @@ const data = [
     },
 
     {
-        id: "Sunflowers in the Dark (working title)",
+        id: "Sunflowers in the Dark",
         parentIds: [
             
                 "The Occupation",
@@ -162,7 +162,7 @@ const data = [
         id: "Candlelight Back Home",
         parentIds: [
             
-                "Sunflowers in the Dark (working title)",
+                "Sunflowers in the Dark",
             
                 "A Nuke From Moreland",
             
@@ -191,20 +191,20 @@ const data = [
     },
 
     {
-        id: "The Hunt for Tundra (working title)",
+        id: "Operation Ice Age",
         parentIds: [
             
                 "Project Boomerang",
             
         ],
-        url: "/stories/the-hunt-for-tundra/"
+        url: "/stories/operation-ice-age/"
     },
 
     {
         id: "Project Kismet",
         parentIds: [
             
-                "The Hunt for Tundra (working title)",
+                "Operation Ice Age",
             
         ],
         url: "/stories/project-kismet/"
@@ -269,15 +269,15 @@ const data = [
     },
 
     {
-        id: "Sunflower 2 (DEFINITELY working title)",
+        id: "Tadlet Kingdom Adventures",
         parentIds: [
             
-                "Sunflowers in the Dark (working title)",
+                "Sunflowers in the Dark",
             
                 "Qibli on the Run",
             
         ],
-        url: "/stories/sunflower-2/"
+        url: "/stories/tadlet-kingdom-adventures/"
     },
 
     {
