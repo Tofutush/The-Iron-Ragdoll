@@ -10,6 +10,7 @@ eleventyNavigation:
 
 - Fixed a problem where "previous" story links with parenthesis in their titles (notably Sunflowers in the Dark (working title)) led to 404;
 	- I completely brought this upon myself I need to come up with fancy titles for them;
+- Okay I did it. [Sunflowers in the Dark](/stories/sunflowers-in-the-dark/) is promoted to proper title status, Sunflower 2 is renamed [Tadlet Kingdom Adventures](/stories/tadlet-kingdom-adventures/), and the Hunt for Tundra is renamed [Operation Ice Age](/stories/operation-ice-age/);
 
 ## 2025-12-01
 

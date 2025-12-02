@@ -21,4 +21,4 @@ So they initiated a top-secret project called Project Boomerang to develop such 
 
 But then both of them disappeared, leaving behind two young kids Jaculus and Jerboa. Robin replaced them as the lead.
 
-The project is actually the first attempt Kismet tried at gaining immortality, but it failed. After this, he tried [kidnapping Tundra and taking his body](/stories/the-hunt-for-tundra/).
+The project is actually the first attempt Kismet tried at gaining immortality, but it failed. After this, he tried [kidnapping Tundra and taking his body](/stories/operation-ice-age/).
