@@ -41,7 +41,7 @@ There's a company called [Starcorp](/world/bauhinia/starcorp/), the most powerfu
 
 Later, after Sparky grew up, Hyrax had his son [Animus](/characters/animus/) replace him as the chairman. Hyrax also had Sparky become Animus's bodyguard and Peacock's son [Ironheart](/characters/ironheart/) become the CEO. Keep it in the family, right? Sparky also married a [husband](/characters/nightsun/) and adopted the [son](/characters/bramble/) of her late [stepsister](/characters/fantasy/).
 
-Hyrax and [Kismet](/characters/kismet/), the ~~dictator~~ president of Bauhinia, also know each other. Kismet, after turning into the most overpowered Gary Stu of the world, is on a [crusade in pursuit of immortality](/stories/the-hunt-for-tundra/).
+Hyrax and [Kismet](/characters/kismet/), the ~~dictator~~ president of Bauhinia, also know each other. Kismet, after turning into the most overpowered Gary Stu of the world, is on a [crusade in pursuit of immortality](/stories/tag/kismets-presidency/).
 
 In Fanton, a [group of friends tries to find their missing friend](/stories/one-man-short/).
 

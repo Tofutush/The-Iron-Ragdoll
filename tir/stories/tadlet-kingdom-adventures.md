@@ -1,5 +1,5 @@
 ---
-title: Sunflower 2 (DEFINITELY working title)
+title: Tadlet Kingdom Adventures
 chs:
   - sunflower
   - starry
