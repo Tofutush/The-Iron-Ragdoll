@@ -13,6 +13,7 @@ eleventyNavigation:
 - Okay I did it. [Sunflowers in the Dark](/stories/sunflowers-in-the-dark/) is promoted to proper title status, Sunflower 2 is renamed [Tadlet Kingdom Adventures](/stories/tadlet-kingdom-adventures/), and the Hunt for Tundra is renamed [Operation Ice Age](/stories/operation-ice-age/);
 	- Please do [report](https://tofutush.leprd.space/guestbook/) any resulting 404 errors (except those in changelogs which are meant to be preserved), as the URLs have changed;
 	- I can technically remove the aforementioned fix now but I'm keeping it just in case;
+- Added `jackalope entity interaction.png`, `pathey ninja.png`;
 
 ## 2025-12-01
 
