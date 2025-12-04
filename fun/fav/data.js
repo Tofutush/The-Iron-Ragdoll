@@ -618,6 +618,14 @@ img: "/The-Iron-Ragdoll/img/gallery/rDsfswLdUL-500.webp"
 
 
 {
+name: "Rose",
+color: "#b7155b",
+desc: "",
+img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+},
+
+
+{
 name: "Jelly",
 color: "#1091b1",
 desc: "Lonely little kid.",
