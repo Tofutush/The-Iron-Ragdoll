@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-04
+
+- New character: [Rose](/characters/rose/);
+- Added `rose stand.png`, `rose adult.png`;
+
 ## 2025-12-02
 
 - Fixed a problem where "previous" story links with parenthesis in their titles (notably Sunflowers in the Dark (working title)) led to 404;

@@ -1862,6 +1862,26 @@
     }
   },
   {
+    "name": "Rose",
+    "namezh": "玫瑰",
+    "color": "#b7155b",
+    "tags": [
+      "Flower City",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Birth": "2041-04-09",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "dye": "#CC578A",
+      "hair": "#2e2e2e"
+    },
+    "about": "Rose went to the same elementary school as Harmony and Sugarcane.\n\nShe had always been the popular kid at school, but the only two kids she wasn't able to \"conquer\" were Sugarcane and Harmony, whom she despises and tells everyone else to isolate. And now that they've went to some fancy cool \"spy school,\" she's bound to cause them more trouble.",
+    "trivia": "- 壮族。\n- She can't wait to get to college so she can have her ears pierced and hair dyed."
+  },
+  {
     "name": "Jelly",
     "namezh": "果冻",
     "color": "#1091b1",
