@@ -6,6 +6,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-05
+
+- Fancy new banners!
+	- This setup allows me to set a banner for different page — but again, the biggest obstacle is *drawing* these banners, LOL;
+	- Currently I have `banner sparky.png`, `banner bauhinia.png`;
+
 ## 2025-12-04
 
 - New character: [Rose](/characters/rose/);
