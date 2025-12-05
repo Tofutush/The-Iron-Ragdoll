@@ -9,7 +9,7 @@ eleventyNavigation:
 ## 2025-12-04
 
 - New character: [Rose](/characters/rose/);
-- Added `rose stand.png`, `rose adult.png`;
+- Added `rose stand.png`, `rose adult.png`, `qibli sunflower virgin.png`;
 
 ## 2025-12-02
 
