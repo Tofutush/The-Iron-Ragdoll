@@ -1,6 +1,8 @@
 ---
 navOptions:
   includeSelf: true
+banner: "banner sparky"
+image: "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
@@ -16,7 +18,7 @@ eleventyComputed:
 	<meta name="theme-color" content="#555555" />
 	<meta property="og:title" content="{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll">
 	<meta property="og:type" content="website">
-	<meta property="og:image" content="{% if image %}{{ image }}{% else %}https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png{% endif %}">
+	<meta property="og:image" content="{{ image }}">
 	<meta property="og:site_name" content="The Iron Ragdoll">
 	<meta property="og:description" content="{{ desc }}">
 	<title>{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll</title>
@@ -50,7 +52,7 @@ eleventyComputed:
 	{% endif %}
 </head>
 <body>
-	<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' 'banner' 'png' 2000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
+	<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' banner 'png' 3000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
 	<nav>
 		<a href="#top">(Top)</a>
 		<a href="/about/">About</a>
