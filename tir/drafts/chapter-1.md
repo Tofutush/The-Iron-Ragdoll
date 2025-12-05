@@ -44,11 +44,9 @@ For the second time, he looked into Harmony's eyes.
 
 "Um." Harmony stared at him blankly. "Why do I want to go there?"
 
-"Because we'll teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me. It's gonna be… what do you call it? Super-duper cool!"
+"Because we'll teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me."
 
-Harmony couldn't believe he just unironically said "super-duper." Maybe five years ago kids liked to say that. She did *not* want to be just like Sky.
-
-"I was supposed to go to the same school as my friend," she said.
+"I was supposed to go to Flower City Middle School with my friend," Harmony said.
 
 "Sugarcane? I just visited her yesterday. She agreed to attend."
 
@@ -78,45 +76,44 @@ Harmony coughed.
 
 "Why don't you make sure first? Confirm it with Sugarcane."
 
-Harmony stopped in her track. That was a good point.
+Oh, right. Harmony hadn't thought about that. "I'll go find her at the playground!"
 
 ---
 
-In the playground near their homes, Sugarcane was sitting on a swing, letting it dangle slightly to and fro. Whens she saw Harmony she hopped down.
+In the playground near their homes, Harmony found Sugarcane. She was sitting on a bench, legs crossed, too cool for any of the swings or slides; though Harmony noticed she wasn't on her usual bench, but another one, next to some shrubs. Harmony yelled at her, and she turned her head.
 
-"Hey!" she called out, swiping her bangs out of her eyes.
+"Hey!" she yelled back, swiping her bangs out of her eyes.
 
 "Hey," Harmony replied. "I want to ask you something. There's this guy who came to my home earlier today. He wanted me to attend this Ministry school and he said you agreed to go. Is that true?"
 
-Sugarcane's eyes widened. "So he *did* go to you!"
+Sugarcane smiled. "Yes."
 
-"So it's true!"
+"So you're going?" Harmony asked.
 
-"Yeah. I told him that I would go, but only with you. So he did go find you after all."
+"Of course!" Sugarcane said. "It's a nice school. It's way better than Flower City Middle School. Honestly, I'd say anyone who goes there is a loser. So glad we're not among them."
 
-"Yeah. So you're going?" Harmony asked.
+"This is great!" Harmony was hopping up and down.
 
-"Totally," Sugarcane said. "It's a nice school. And now that you can go too, why not?"
+"*What* is great?" Came a teasing voice from behind. Harmony turned around. It was Rose, leaned against a lamp post behind the shrubs.
 
-"Totally great!" Harmony was hopping up and down. "We can go get a photo taken right now!"
+Rose was a classmate of Harmony and Sugarcane's. Sugarcane didn't like her, so she refused to hang out with any of her friends either. Except that Rose was friends with nearly everyone else. Sugarcane would've been alone all the time if it weren't for Harmony, although Harmony suspected that she would've been fine with that.
 
-"No need to hurry," Sugarcane sat back onto the swing. "We have to graduate first."
+"Oh, hey Rose," Sugarcane said without turning her head. "What's 'great' is that you here, and you can play with things appropriate for your age." She waved at the swings and slides, around which a couple of kindergarteners were happily chasing each other.
+
+Rose decided to ignore the comment. "What is this "ministry school" I heard from you two?" She said with a face full of smug. "Some fancy version of a juvie?"
+
+"Sitting in the grass getting your ass all wet and a bunch of bug bites, just to ask that basic question." Sugarcane shook her head. "This is why they didn't recruit you." She stood up, still facing away from Rose. "C'mon, Harmony, let's go. Talk somewhere without little spies snooping on us. Not that she's a good spy, but still."
+
+Harmony got up to follow Sugarcane.
+
+"Still latching yourself onto her butt, I see," Rose shouted behind them.
+
+"Don't mind her," Sugarcane said. "You know you're my best friend."
+
+Harmony knew that.
 
 ---
 
-Harmony spent the rest of her elementary school looking forward to the new middle school. Soon, she would be able to leave her horrible teachers and rowdy classmates behind! When she got back home, she busied herself with flipping through the introduction booklet from Sky — its staples were almost coming off from wear. The students would receive all sort of cool-ass looking combat and weapons training, theory classes on espionage and counterespionage, and some might even get a chance to participate in real missions!
-
-Although, a certain fragment of Sugarcane's voice kept echoing in her head. "I told him that I would go, but only with you."
-
-*Does that mean they only found me because Sugarcane asked them to?*
-The thought intruded her head.
-
-*But they still gave me the offer. I could legally attend. So what's the matter?* She tried to shake it off, but it would still pop inside from time to time.
-
----
-
-Finally, she had her diploma in her hands. It would've been at most just a souvenir, because since when are elementary school diplomas worth squat? But now, all Harmony could think of was that this little piece of paper was needed for her to be admitted into Ministry Affiliate as a proof of her graduation.
-
-Right after the ceremony, Harmony and Sugarcane went into a nearby photo studio and took their ID photos. Clutching their receipts, ID cards, and diplomas, they asked Entity to drive them to the address.
+The day of graduation finally came. Clutching their diploma, ID card, and photo receipt in hand, the girls bugged Entity into driving them over.
 
 "Aren't you eager," Entity sighed.

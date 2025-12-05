@@ -83,6 +83,12 @@ So they dug Firecrackers back up and cremated the motherfucker, returning magic 
 
 Of course, Kismet's a smart man. He had never even considered killing magicians for their blood; he had briefly considered a bone marrow transplant that could turn himself into a magician but was quickly dissuaded by his doctors. Luckily, he could put his magic machine to good use with just Qibli, as long as they don't drain her too quickly and keep her alive to continuously feed the machine. Her movements were heavily regulated; she was tied to the bed at all times with magic chains enchanted by Trinket that prevents her from casting any spells (it's impossible for magicians to interfere with other people's minds or free will; the spell on the chains is designed to neutralize immediately whatever spells Qibli may cast, like those noise-cancelling headphones). If she refused to eat food, they would simply inject nutrients.
 
+She could still manage to enter Sunflower's paracosm, and spends the majority of her time in there.
+
+{% image "gallery/" "qibli sunflower virgin" "png" 1000 "Qibli talking to Sunflower" 'max' %}
+
+Sometimes Kismet comes chat with her when he's bored.
+
 As far as I'm concerned right now, this is the end of Qibli's story, and the rest of her long, miserable life is spent in that room getting repeatedly drained half-dry and then recovering to get drained again[^1].
 
 [^1]: Why are you so intent on torturing your self-insert? I don't know; I've had numerous self-inserts in past paracosms or projects, and they were always the ones who get tortured the most. I really don't know girl it just happens.

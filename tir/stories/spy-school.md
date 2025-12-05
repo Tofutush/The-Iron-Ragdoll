@@ -8,6 +8,7 @@ chs:
   - sky
   - jelly
   - checkers
+  - rose
 time: "2053"
 desc: Harmony goes to a special school.
 myTags:
