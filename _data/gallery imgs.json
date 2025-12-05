@@ -3255,7 +3255,6 @@
     "name": "banner",
     "type": "png",
     "date": "2025-05-18",
-    "kind": "banner",
     "ch": [
       "sparky",
       "nightsun"
@@ -5060,5 +5059,18 @@
       "qibli",
       "sunflower"
     ]
+  },
+  {
+    "name": "banner sparky",
+    "type": "png",
+    "date": "2025-12-05",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "banner bauhinia",
+    "type": "png",
+    "date": "2025-12-05"
   }
 ]
