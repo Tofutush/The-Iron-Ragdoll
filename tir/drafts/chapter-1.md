@@ -114,6 +114,68 @@ Harmony knew that.
 
 ---
 
-The day of graduation finally came. Clutching their diploma, ID card, and photo receipt in hand, the girls bugged Entity into driving them over.
+The day of graduation finally came. The girls had received their diplomas, went to take pictures right after the ceremony, and returned to Harmony's home, where they bugged Entity to walk them over.
+
+"Can't you wait until your mom gets home?" Entity said.
+
+"But that would be way into the evening!" Harmony said. "Would they even still be open?"
 
 "Aren't you eager," Entity sighed.
+
+The school was a twenty-minute walk away from Harmony's — fifteen minutes from Sugarcane's. "That's close enough for you to go to school yourselves," Entity said to them.
+
+"I can make a detour to Sugarcane's and we can walk the rest of the way together," Harmony said. "It's only a couple minutes longer."
+
+"That sounds great!" Sugarcane said. Entity was falling behind them.
+
+They reached the address. It was a large campus, surrounded by barbed wires and gray walls. Harmony must've passed this building many times in her thirteen years of living in Flower City, but it had never occurred to her that this place was a school. A juvie, more like. Oh no, was Rose correct?
+
+A security guard stood at the intersection, guarding the road leading to the gate. "State your business," he ordered.
+
+Harmony turned around to look at her dad, but he was lingering way behind. "I'll wait for you girls here!" He called out.
+
+"We're here to sign up for Ministry Affiliate," Sugarcane answered the guard.
+
+"IDs."
+
+Sugarcane already had hers ready while Harmony fumbled for her own. The guard tapped each card against a machine in his hands.
+
+"Who's that guy?" He gestured towards Entity.
+
+"My dad," Harmony answered.
+
+"Alright," the guard stepped away, beckoning them forward.
+
+They reached the school's gate. The only indicator that it was a school was a tiny metal plaque, silver on the gray wall, bearing its absurdly long name. A gatekeeper sat in the security office by the door.
+
+"New students?" He said. "You're very early. It's not even July yet. May I see your IDs, please?"
+
+Again, Sugarcane already had hers ready. Harmony had decided to put hers back in the folder during the walk.
+
+After checking their IDs, the gatekeeper pressed some controls, and the small human gate next to the big sliding gate swung open. "Right there," he said. "You'll see it."
+
+They entered to find a clearing of dusty concrete tiles between them and the main buildings, all dusty gray and tall. Against the side of the building was a canopy tent labeled *New Student Registration*. In the shade of the tent, behind the table, sat none other than Sky himself.
+
+"Sky!" Harmony yelled out in excitement and ran towards him. Sugarcane followed close behind.
+
+"Hi!" Sky replied. "So good to see you here! Documents, please."
+
+Harmony gave her folder to Sky, realized that her ID was still in her hand, and handed that over as well. Sugarcane, however, had put her ID back into her folder during the run and simply handed over the entire thing.
+
+Sky went to work, checking their IDs against their diplomas and against a list he had on the table. He typed into a laptop, shoved their photo receipts in a bag, returned their documents, and typed some more.
+
+"You're all set!" He smiled. "First day of classes is on September the first. I expect to see you then! I hope I get to teach you, actually, but sadly the classes are assigned at random." He gave them a wink.
+
+"Thank you," Harmony and Sugarcane said. Harmony raised her head and gave the imposing building behind the tent one last look.
+
+"This is actually the high school part," Sky explained. "To get to the middle school, you turn right immediately after coming in. There will be people showing you the way by then, so don't worry."
+
+They said their "thank you" again and left. Harmony was skipping. "That was easy!"
+
+"Of course it is," Sugarcane said. "Let's just hope the rest of the school year is as easy as today."
+
+They passed the guard, greeted Entity, and started for home. Harmony suggested they go to Sugarcane's and then back to her home so she could familiarize herself with the route.
+
+At dinner, Harmony excitedly told her mom about her enrollment. Frosting merely nodded, not looking up from her bowl. "Just remember," she said, "sometimes, the teachers and the schools make mistakes too. Nothing they teach you is an absolute fact. Sometimes they're wrong about things, so you need to judge for yourself. We can also help you; just ask us."
+
+"Yeah, yeah," Harmony said, not paying attention.
