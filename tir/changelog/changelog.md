@@ -9,7 +9,7 @@ eleventyNavigation:
 ## 2025-12-05
 
 - Fancy new banners!
-	- This setup allows me to set a banner for different page — but again, the biggest obstacle is *drawing* these banners, LOL;
+	- This setup allows me to set different banners for different pages — but again, the biggest obstacle is *drawing* these banners, LOL;
 	- Currently I have `banner sparky.png`, `banner bauhinia.png`;
 
 ## 2025-12-04
