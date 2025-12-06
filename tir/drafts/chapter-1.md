@@ -8,13 +8,13 @@ chNum: 1
 date: 2025-05-21
 ---
 
-Harmony was curled up on the sofa with a book when there came a knock on the door. Entity went to get it.
+It was a Sunday afternoon. Harmony was curled up on the sofa with a book when there came a knock on the door. Entity went to get it.
 
-A man in a jet-black uniform stood in the doorway, sporting two blue horns and a welcoming smile, hands held behind his back. Entity nearly slammed the door right back into his face, but he reached out a hand, stopped it, and put it behind again.
+A man in a jet-black uniform stood in the doorway, sporting two blue horns and a welcoming smile, hands held behind his back. Entity nearly slammed the door right back into his face, but he reached out a hand and stopped it.
 
 "Wh-What did I do?" Entity's voice was trembling as if the man was a spider he saw in a corner.
 
-"Why, if there's anything you did, that was giving birth to a wonderful daughter! Is little Harmony home?"
+"Why, if there's anything you did, that was raising a wonderful daughter! Is little Harmony home?"
 
 His eyes locked with Harmony's for a split second. She sank back into the book, though her attention was still focused on him.
 
