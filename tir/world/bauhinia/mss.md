@@ -1,6 +1,7 @@
 ---
 title: Ministry of State Security
 displayTitle: Ministry of State Security of the Republic of Bauhinia
+banner: "banner goose"
 tags:
   - ministry-of-state-security
 categories:
