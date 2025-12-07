@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-06
+
+- New banner, `banner goose.png`;
+
 ## 2025-12-05
 
 - Fancy new banners!
