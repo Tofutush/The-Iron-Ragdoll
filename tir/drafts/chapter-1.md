@@ -98,9 +98,9 @@ Sugarcane smiled. "Yes."
 
 Rose was a classmate of Harmony and Sugarcane's. Sugarcane didn't like her, so she refused to hang out with any of her friends either. Except that Rose was friends with nearly everyone else. Sugarcane would've been alone all the time if it weren't for Harmony, although Harmony suspected that she would've been fine with that.
 
-"Oh, hey Rose," Sugarcane said without turning her head. "What's 'great' is that you here, and you can play with things appropriate for your age." She waved at the swings and slides, around which a couple of kindergarteners were happily chasing each other.
+"Oh, hey Rose," Sugarcane said without turning her head. "What's 'great' is that you're here, and you can play with things appropriate for your age." She waved at the swings and slides, around which a couple of kindergarteners were happily chasing each other.
 
-Rose decided to ignore the comment. "What is this "ministry school" I heard from you two?" She said with a face full of smug. "Some fancy version of a juvie?"
+Rose decided to ignore the comment. "What is this 'ministry school' I heard from you two?" She said with a face full of smug. "Some fancy version of a juvie?"
 
 "Sitting in the grass getting your ass all wet and a bunch of bug bites, just to ask that basic question." Sugarcane shook her head. "This is why they didn't recruit you." She stood up, still facing away from Rose. "C'mon, Harmony, let's go. Talk somewhere without little spies snooping on us. Not that she's a good spy, but still."
 
