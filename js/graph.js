@@ -222,3 +222,38 @@ function dragended(event) {
 	event.subject.fy = null;
 }
 
+// filtering for character and depth
+function setFocus(ch, d) {
+	focus = ch;
+	depth = d;
+	if (focus === 'none') {
+		updateGraph(data);
+	} else {
+		// filter out this character. filter bc we need color as well
+		let chNew = data.ch.filter(c => c.id === focus);
+		// characters. loop once for each depth
+		for (let z = 0; z < depth; z++) {
+			// finds every character that has a link to the current list
+			chNew.push(...data.ch.filter(c =>
+				data.rel.some(r => chNew.some(c2 =>
+					(c.id === r.source.id && c2.id === r.target.id)
+					|| (c.id === r.target.id && c2.id === r.source.id))
+				)
+				&& !chNew.includes(c)
+			));
+		}
+		// find rels whose source and target are both in the list
+		let relNew = [];
+		relNew = data.rel.filter(r =>
+			chNew.some(c => c.id === r.source.id)
+			&& chNew.some(c => c.id === r.target.id)
+			&& !relNew.includes(r)
+		);
+		console.log(chNew, relNew);
+		// links.
+		updateGraph({
+			ch: chNew,
+			rel: relNew
+		});
+	}
+}
