@@ -35,7 +35,7 @@ eleventyNavigation:
   <p>Focus on: <select name="ch" value="none">
     <option value="none">None</option>
     {% for ch in characters %}
-      <option value="{{ ch.name | lowerCase }}">{{ ch.name }}</option>
+      <option value="{{ ch.name }}">{{ ch.name }}</option>
     {% endfor %}
   </select></p>
   <p>Depth: <input type="range" min="1" max="12" value="1"/></p>
