@@ -219,6 +219,12 @@ svg {
 	user-select: none;
 }
 
+.flex-around {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
 figure {
 	margin: 1em;
 	display: flex;
@@ -232,6 +238,20 @@ figcaption {
 	font-size: smaller;
 	opacity: .8;
 	line-height: 2;
+}
+
+select {
+	font-size: var(--font-size);
+	font-family: lexend;
+	border: 2px solid var(--box);
+	background-color: var(--bg);
+	color: var(--text);
+	padding: 2px;
+	border-radius: 4px;
+}
+
+input[type="range"] {
+	width: 12em;
 }
 
 .lighter-text {
