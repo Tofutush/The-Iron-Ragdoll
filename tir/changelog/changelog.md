@@ -6,6 +6,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-08
+
+- Cool new improvement to the [Relationship graph](/characters/relationships/)!
+	- You can now choose to focus on one character, showing only their immediate neighbors;
+- Made [Cosmo](/characters/cosmo/), [Sunny](/characters/sunny/), and [Thunder](/characters/thunder/) into Spy School kids;
+
 ## 2025-12-06
 
 - New banner, `banner goose.png`;
