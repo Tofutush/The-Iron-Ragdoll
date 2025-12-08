@@ -416,36 +416,6 @@
     "trivia": "- If he had a lusus, it would be a jerboa."
   },
   {
-    "name": "Cosmo",
-    "namezh": "星河",
-    "color": "#998cbd",
-    "quote": "If everyone believes it, then it is the truth.",
-    "tags": [
-      "Coastline",
-      "Coastline Middle School",
-      "Bauhinia"
-    ],
-    "af": "https://artfight.net/character/3959019.cosmo",
-    "attr": {
-      "Nickname": "Cos (by Sky)",
-      "Gender": "Female",
-      "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
-      "Birth": "2016-12-24",
-      "Nationality": "Bauhinian",
-      "Weapon": "Throwing stars",
-      "Power": "Mind reading, lv. 13"
-    },
-    "palette": {
-      "middle eye": "#fe0",
-      "left eye": "#DCBBF0",
-      "right eye": "#A5D6F7",
-      "shirt": "#B2B8E3",
-      "hair": "#2e2e2e"
-    },
-    "about": "Cosmo was born with two souls, a rare occurance because of shenanigans with two eggs but no twins.\n\nCosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
-    "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
-  },
-  {
     "name": "Jam",
     "namezh": "果酱",
     "color": "#75430b",
@@ -1686,21 +1656,6 @@
     "trivia": "- If he had a lusus, it would be a sloth."
   },
   {
-    "name": "Sunny",
-    "namezh": "阳阳",
-    "color": "#071cbb",
-    "tags": [
-      "Misc"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Nationality": "Fantoni"
-    },
-    "palette": {
-      "hair": "#2e2e2e"
-    }
-  },
-  {
     "name": "Vampire",
     "namezh": "吸血鬼",
     "color": "#dd8736",
@@ -1713,21 +1668,6 @@
     },
     "palette": {
       "shaved hair": "#C5B38D",
-      "hair": "#2E2E2E"
-    }
-  },
-  {
-    "name": "Thunder",
-    "namezh": "霹雳雷",
-    "color": "#DCCB09",
-    "tags": [
-      "Misc"
-    ],
-    "attr": {
-      "Gender": "Male",
-      "Nationality": "Sylvandian"
-    },
-    "palette": {
       "hair": "#2E2E2E"
     }
   },
@@ -1881,6 +1821,73 @@
     },
     "about": "Rose went to the same elementary school as Harmony and Sugarcane.\n\nShe had always been the popular kid at school, but the only two kids she wasn't able to \"conquer\" were Sugarcane and Harmony, whom she despises and tells everyone else to isolate. And now that they've went to some fancy cool \"spy school,\" she's bound to cause them more trouble.",
     "trivia": "- 壮族。\n- She can't wait to get to college so she can have her ears pierced and hair dyed."
+  },
+  {
+    "name": "Cosmo",
+    "namezh": "星河",
+    "color": "#998cbd",
+    "quote": "If everyone believes it, then it is the truth.",
+    "tags": [
+      "Spy School",
+      "Flower City",
+      "Bauhinia"
+    ],
+    "af": "https://artfight.net/character/3959019.cosmo",
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
+      "Birth": "2040-12-24",
+      "Nationality": "Bauhinian",
+      "Weapon": "Throwing stars",
+      "Power": "Mind reading, lv. 13"
+    },
+    "palette": {
+      "middle eye": "#fe0",
+      "left eye": "#DCBBF0",
+      "right eye": "#A5D6F7",
+      "shirt": "#B2B8E3",
+      "hair": "#2e2e2e"
+    },
+    "about": "Cosmo was born with two souls, a rare occurance because of shenanigans with two eggs but no twins.\n\nCosmo has the mind reading superpower thanks to her third eye, but it's so weak that she can only tell whether somebody is lying intentionally -- though she's quite good at that. She can't tell if someone is lying by omission, or tell facts from lies (so if someone genuinely believes in what they're saying, she will think they're telling the truth), but if you're lying and she heard you, she will know.\n\nWhen she lies herself, her third eye closes. Otherwise, it stays open, even when she's sleeping. (It closes when she washes her face too though, or it's gonna be awkward.)",
+    "note": "- Left eye blue, right eye pink. Left eyebrow pink, right eyebrow blue. Eyelashes match the eyes.\n- Sleeves are wider than a normal sleeve.\n- Both the inside of her ears and her dress are gradient from pink (top) to blue (bottom).\n- Shoes and hairband match color.\n- The yellow eye (yellow with black pupil) is always open, unless she's lying."
+  },
+  {
+    "name": "Sunny",
+    "namezh": "阳阳",
+    "color": "#071cbb",
+    "tags": [
+      "Spy School",
+      "Flower City",
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Birth": "2041-03-09",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Thunder",
+    "namezh": "霹雳雷",
+    "color": "#DCCB09",
+    "tags": [
+      "Spy School",
+      "Flower City",
+      "Bauhinia",
+      "Misc"
+    ],
+    "attr": {
+      "Gender": "Male",
+      "Birth": "2041-04-03",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#2E2E2E"
+    }
   },
   {
     "name": "Jelly",

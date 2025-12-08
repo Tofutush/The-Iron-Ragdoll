@@ -9,6 +9,9 @@ chs:
   - jelly
   - checkers
   - rose
+  - cosmo
+  - sunny
+  - thunder
 time: "2053"
 desc: Harmony goes to a special school.
 myTags:

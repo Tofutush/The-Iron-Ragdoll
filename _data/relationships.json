@@ -185,19 +185,6 @@
     "ch": [
       [
         "Sparky",
-        "classmate"
-      ],
-      [
-        "Cosmo",
-        "classmate"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Sparky",
         "student"
       ],
       [
@@ -560,19 +547,6 @@
     "ch": [
       [
         "Qibli",
-        "classmate"
-      ],
-      [
-        "Cosmo",
-        "classmate"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Qibli",
         "student"
       ],
       [
@@ -707,19 +681,6 @@
       ],
       [
         "Jerboa",
-        "classmate"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Sky",
-        "classmate"
-      ],
-      [
-        "Cosmo",
         "classmate"
       ]
     ],
@@ -911,19 +872,6 @@
     "ch": [
       [
         "Firecrackers",
-        "classmate"
-      ],
-      [
-        "Cosmo",
-        "classmate"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Firecrackers",
         "student"
       ],
       [
@@ -1041,19 +989,6 @@
     "ch": [
       [
         "Myriad",
-        "classmate"
-      ],
-      [
-        "Cosmo",
-        "classmate"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Myriad",
         "student"
       ],
       [
@@ -1123,19 +1058,6 @@
       ],
       [
         "Jerboa",
-        "classmate"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Alaska",
-        "classmate"
-      ],
-      [
-        "Cosmo",
         "classmate"
       ]
     ],
@@ -1210,19 +1132,6 @@
     "ch": [
       [
         "Tomato",
-        "classmate"
-      ],
-      [
-        "Cosmo",
-        "classmate"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Tomato",
         "student"
       ],
       [
@@ -1275,19 +1184,6 @@
     "ch": [
       [
         "Potato",
-        "classmate"
-      ],
-      [
-        "Cosmo",
-        "classmate"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Potato",
         "student"
       ],
       [
@@ -1318,19 +1214,6 @@
       ],
       [
         "Jerboa",
-        "classmate"
-      ]
-    ],
-    "desc": ""
-  },
-  {
-    "ch": [
-      [
-        "Guillotine",
-        "classmate"
-      ],
-      [
-        "Cosmo",
         "classmate"
       ]
     ],
@@ -1360,19 +1243,6 @@
       ]
     ],
     "desc": "Tephra promised to help Jerboa find his parents if Jerboa was willing to stick around his butt and do his bidding all day. Years later, Tephra became a cop, and fulfilled his promise by introducing Jerboa to Frosting."
-  },
-  {
-    "ch": [
-      [
-        "Tephra",
-        "classmate"
-      ],
-      [
-        "Cosmo",
-        "classmate"
-      ]
-    ],
-    "desc": ""
   },
   {
     "ch": [
@@ -1425,19 +1295,6 @@
       ]
     ],
     "desc": "Ahh, I made a classic cop / detective dynamic. Melody often helps Tephra solve cases; and sometimes Tephra uses his police authority helps Melody on some of his cases too."
-  },
-  {
-    "ch": [
-      [
-        "Jerboa",
-        "classmate"
-      ],
-      [
-        "Cosmo",
-        "classmate"
-      ]
-    ],
-    "desc": ""
   },
   {
     "ch": [
@@ -1503,19 +1360,6 @@
       ]
     ],
     "desc": "Jerboa faintly remembers playing dolls with Jaculus. She is also in the family photo he doesn't remember taking."
-  },
-  {
-    "ch": [
-      [
-        "Cosmo",
-        "student"
-      ],
-      [
-        "Jam",
-        "teacher"
-      ]
-    ],
-    "desc": ""
   },
   {
     "ch": [
@@ -2378,6 +2222,45 @@
     "ch": [
       [
         "Harmony",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Harmony",
+        "classmate"
+      ],
+      [
+        "Sunny",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Harmony",
+        "classmate"
+      ],
+      [
+        "Thunder",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Harmony",
         "friend"
       ],
       [
@@ -2404,6 +2287,45 @@
     "ch": [
       [
         "Sugarcane",
+        "classmate"
+      ],
+      [
+        "Cosmo",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sugarcane",
+        "classmate"
+      ],
+      [
+        "Sunny",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sugarcane",
+        "classmate"
+      ],
+      [
+        "Thunder",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sugarcane",
         "friend"
       ],
       [
@@ -2412,6 +2334,45 @@
       ]
     ],
     "desc": "Sugarcane made friends with Jelly, but it was actually to run her as an agent."
+  },
+  {
+    "ch": [
+      [
+        "Cosmo",
+        "classmate"
+      ],
+      [
+        "Sunny",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Cosmo",
+        "classmate"
+      ],
+      [
+        "Thunder",
+        "classmate"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Sunny",
+        "classmate"
+      ],
+      [
+        "Thunder",
+        "classmate"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [
