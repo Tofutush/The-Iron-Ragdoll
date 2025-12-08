@@ -122,14 +122,6 @@ img: "/The-Iron-Ragdoll/img/gallery/JLmmGj4kNR-500.webp"
 
 
 {
-name: "Cosmo",
-color: "#998cbd",
-desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/scFrnq_kVy-500.webp"
-},
-
-
-{
 name: "Jam",
 color: "#75430b",
 desc: "Teacher of all the subjects because I'm too lazy to make more.",
@@ -554,26 +546,10 @@ img: "/The-Iron-Ragdoll/img/gallery/jQn5TjNevW-500.webp"
 
 
 {
-name: "Sunny",
-color: "#071cbb",
-desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/LQE_YBXArW-500.webp"
-},
-
-
-{
 name: "Vampire",
 color: "#dd8736",
 desc: "",
 img: "/The-Iron-Ragdoll/img/gallery/GtfWqsWaS_-500.webp"
-},
-
-
-{
-name: "Thunder",
-color: "#DCCB09",
-desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/-DCSm1hLip-500.webp"
 },
 
 
@@ -622,6 +598,30 @@ name: "Rose",
 color: "#b7155b",
 desc: "",
 img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+},
+
+
+{
+name: "Cosmo",
+color: "#998cbd",
+desc: "",
+img: "/The-Iron-Ragdoll/img/gallery/scFrnq_kVy-500.webp"
+},
+
+
+{
+name: "Sunny",
+color: "#071cbb",
+desc: "",
+img: "/The-Iron-Ragdoll/img/gallery/LQE_YBXArW-500.webp"
+},
+
+
+{
+name: "Thunder",
+color: "#DCCB09",
+desc: "",
+img: "/The-Iron-Ragdoll/img/gallery/-DCSm1hLip-500.webp"
 },
 
 
