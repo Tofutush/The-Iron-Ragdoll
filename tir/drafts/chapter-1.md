@@ -164,7 +164,7 @@ Harmony gave her folder to Sky, realized that her ID was still in her hand, and 
 
 Sky went to work, checking their IDs against their diplomas and against a list he had on the table. He typed into a laptop, shoved their photo receipts in a bag, returned their documents, and typed some more.
 
-"You're all set!" He smiled. "First day of classes is on September the first. I expect to see you then! I hope I get to teach you, actually, but sadly the classes are assigned at random." He gave them a wink.
+"You're all set!" He smiled. "Orientation day is on September the first. I expect to see you then!"
 
 "Thank you," Harmony and Sugarcane said. Harmony raised her head and gave the imposing building behind the tent one last look.
 
