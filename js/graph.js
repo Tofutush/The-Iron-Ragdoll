@@ -228,10 +228,11 @@ function setFocus(ch, d) {
 	focusCh = ch;
 	depth = d;
 	if (focusCh === 'none') {
-		document.getElementById('depth').innerHTML = '(Not applicable)';
+		document.getElementById('depthInput').disabled = true;
 		updateGraph(data);
 	} else {
 		document.getElementById('depth').innerHTML = depth;
+		document.getElementById('depthInput').disabled = false;
 		// filter out this character. filter bc we need color as well
 		let chNew = data.ch.filter(c => c.id === focusCh);
 		// characters. loop once for each depth
