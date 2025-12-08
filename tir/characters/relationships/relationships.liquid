@@ -31,6 +31,8 @@ eleventyNavigation:
 <p>No idea why I did this but it was fun.</p>
 <p>Try hovering over things, zooming and panning, and clicking on them leads to their profiles!</p>
 <p>My end goal is to have every character connected — leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
+<p style="text-align: center">Focus on: <select name="ch" value="none"></select></p>
+<p style="text-align: center">Depth: <input type="range" min="0" max="12" value="0"/></p>
 <div id="wrapper">
   <button id="fullscreen" title="Fullscreen mode" onclick="document.getElementById('graph').requestFullscreen()">{% lucide 'maximize-2' %}</button>
   <svg id="graph"></svg>
