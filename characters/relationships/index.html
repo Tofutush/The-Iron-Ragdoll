@@ -78,6 +78,102 @@
     <p>No idea why I did this but it was fun.</p>
     <p>Try hovering over things, zooming and panning, and clicking on them leads to their profiles!</p>
     <p>My end goal is to have every character connected — leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
+    <p>Here you can focus on one character and the characters surrounding them. Don't drag the slider too quickly, or the thing will start to lag because my code is completely unoptimized! Yay!</p>
+    <div class="flex-around">
+      <p style="margin: 0;">Focus on: <select id="chInput" name="ch" value="none">
+          <option value="none">None</option>
+          <option value="Sparky">Sparky</option>
+          <option value="Amber">Amber</option>
+          <option value="Peacock">Peacock</option>
+          <option value="Willow">Willow</option>
+          <option value="Ribbon">Ribbon</option>
+          <option value="Qibli">Qibli</option>
+          <option value="Sky">Sky</option>
+          <option value="Firecrackers">Firecrackers</option>
+          <option value="Myriad">Myriad</option>
+          <option value="Alaska">Alaska</option>
+          <option value="Tomato">Tomato</option>
+          <option value="Potato">Potato</option>
+          <option value="Guillotine">Guillotine</option>
+          <option value="Tephra">Tephra</option>
+          <option value="Jerboa">Jerboa</option>
+          <option value="Cosmo">Cosmo</option>
+          <option value="Jam">Jam</option>
+          <option value="Trinket">Trinket</option>
+          <option value="Nebula">Nebula</option>
+          <option value="Fantasy">Fantasy</option>
+          <option value="Ironheart">Ironheart</option>
+          <option value="Nightsun">Nightsun</option>
+          <option value="Bramble">Bramble</option>
+          <option value="Goose">Goose</option>
+          <option value="Pumpkin">Pumpkin</option>
+          <option value="Halcyon">Halcyon</option>
+          <option value="Paperweight">Paperweight</option>
+          <option value="Gecko">Gecko</option>
+          <option value="Lark">Lark</option>
+          <option value="Pearl">Pearl</option>
+          <option value="Fern">Fern</option>
+          <option value="Jackpot">Jackpot</option>
+          <option value="Snake">Snake</option>
+          <option value="Snowball">Snowball</option>
+          <option value="Buttercup">Buttercup</option>
+          <option value="Beauty">Beauty</option>
+          <option value="Chastity">Chastity</option>
+          <option value="Devotion">Devotion</option>
+          <option value="Elegance">Elegance</option>
+          <option value="Animus">Animus</option>
+          <option value="Hyrax">Hyrax</option>
+          <option value="Bunchberry">Bunchberry</option>
+          <option value="Kismet">Kismet</option>
+          <option value="Pinecone">Pinecone</option>
+          <option value="Rosemary">Rosemary</option>
+          <option value="Sundae">Sundae</option>
+          <option value="Dragonfly">Dragonfly</option>
+          <option value="Groovy">Groovy</option>
+          <option value="Koala">Koala</option>
+          <option value="Kangaroo">Kangaroo</option>
+          <option value="Robin">Robin</option>
+          <option value="Frosting">Frosting</option>
+          <option value="Jaculus">Jaculus</option>
+          <option value="Candlelight">Candlelight</option>
+          <option value="Sunflower">Sunflower</option>
+          <option value="Starry">Starry</option>
+          <option value="Icicle">Icicle</option>
+          <option value="Helsinki">Helsinki</option>
+          <option value="Mooncake">Mooncake</option>
+          <option value="Thyme">Thyme</option>
+          <option value="Natasha">Natasha</option>
+          <option value="Moonflower">Moonflower</option>
+          <option value="Cobalt">Cobalt</option>
+          <option value="Kaleidoscope">Kaleidoscope</option>
+          <option value="Nightingale">Nightingale</option>
+          <option value="Skyhawk">Skyhawk</option>
+          <option value="Moonbeam">Moonbeam</option>
+          <option value="Melody">Melody</option>
+          <option value="Tundra">Tundra</option>
+          <option value="Sunny">Sunny</option>
+          <option value="Vampire">Vampire</option>
+          <option value="Thunder">Thunder</option>
+          <option value="Jackalope">Jackalope</option>
+          <option value="Whiteout">Whiteout</option>
+          <option value="Entity">Entity</option>
+          <option value="Harmony">Harmony</option>
+          <option value="Sugarcane">Sugarcane</option>
+          <option value="Rose">Rose</option>
+          <option value="Jelly">Jelly</option>
+          <option value="Checkers">Checkers</option>
+          <option value="Jasmine">Jasmine</option>
+          <option value="Gorgeous">Gorgeous</option>
+          <option value="Jinx">Jinx</option>
+          <option value="Typhoon">Typhoon</option>
+          <option value="Tsunami">Tsunami</option>
+          <option value="Jumbo">Jumbo</option>
+          <option value="Mulberry">Mulberry</option>
+          <option value="Blackjack">Blackjack</option>
+        </select></p>
+      <p style="margin: 0;">Depth <span id="depth">1</span>: <input id="depthInput" type="range" min="1" max="10" value="1"></p>
+    </div>
+    <p style="text-align: center;">Displaying <span id="chNum"></span> with <span id="linkNum"></span> between them.</p>
     <div id="wrapper">
       <button id="fullscreen" title="Fullscreen mode" onclick="document.getElementById('graph').requestFullscreen()"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-maximize-2">
           <path d="M15 3h6v6"></path>
