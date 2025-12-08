@@ -32,13 +32,13 @@ eleventyNavigation:
 <p>Try hovering over things, zooming and panning, and clicking on them leads to their profiles!</p>
 <p>My end goal is to have every character connected — leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
 <div class="flex-around">
-  <p>Focus on: <select name="ch" value="none">
+  <p>Focus on: <select id="chInput" name="ch" value="none">
     <option value="none">None</option>
     {% for ch in characters %}
       <option value="{{ ch.name }}">{{ ch.name }}</option>
     {% endfor %}
   </select></p>
-  <p>Depth: <input type="range" min="1" max="12" value="1"/></p>
+  <p>Depth <span id="depth">(Not applicable)</span>: <input id="depthInput" type="range" min="1" max="12" value="1"/></p>
 </div>
 <p>Displaying <span id="chNum"></span> with <span id="linkNum"></span> between them.</p>
 <div id="wrapper">

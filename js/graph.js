@@ -4,7 +4,7 @@ let font12 = 12, font16 = 16, font20 = 20;
 // stuff in the graph, for updating
 let simulation, linkGroup, link, linkLabel1, linkLabel2, nodeGroup, node, nodeLabel, bigG;
 // stuff for filtering
-let focus = "none", depth = 1;
+let focusCh = "", depth = 1;
 
 // Create the SVG container.
 const svg = d3.select("#graph")
@@ -26,7 +26,7 @@ const svg = d3.select("#graph")
 // zoom wrapper
 bigG = svg.append('g');
 
-setFocus('none');
+setFocus('none', 1);
 
 function updateGraph(data) {
 	const links = [...data.rel];
@@ -224,13 +224,16 @@ function dragended(event) {
 
 // filtering for character and depth
 function setFocus(ch, d) {
-	focus = ch;
+	if ((focusCh === ch && d === depth) || focusCh === 'none' && ch === 'none') return;
+	focusCh = ch;
 	depth = d;
-	if (focus === 'none') {
+	if (focusCh === 'none') {
+		document.getElementById('depth').innerHTML = '(Not applicable)';
 		updateGraph(data);
 	} else {
+		document.getElementById('depth').innerHTML = depth;
 		// filter out this character. filter bc we need color as well
-		let chNew = data.ch.filter(c => c.id === focus);
+		let chNew = data.ch.filter(c => c.id === focusCh);
 		// characters. loop once for each depth
 		for (let z = 0; z < depth; z++) {
 			// finds every character that has a link to the current list
@@ -249,11 +252,12 @@ function setFocus(ch, d) {
 			&& chNew.some(c => c.id === r.target.id)
 			&& !relNew.includes(r)
 		);
-		console.log(chNew, relNew);
-		// links.
 		updateGraph({
 			ch: chNew,
 			rel: relNew
 		});
 	}
 }
+
+document.getElementById('chInput').onchange = e => setFocus(e.target.value, depth);
+document.getElementById('depthInput').oninput = e => setFocus(focusCh, e.target.value);
