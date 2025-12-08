@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": false,
   "newLinkFormat": "absolute",
   "readableLineLength": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "showLineNumber": false
 }
