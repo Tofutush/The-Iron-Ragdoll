@@ -229,6 +229,8 @@ function setFocus(ch, d) {
 	depth = d;
 	if (focusCh === 'none') {
 		document.getElementById('depthInput').disabled = true;
+		document.getElementById('chNum').innerHTML = data.ch.length + ' character' + (data.ch.length === 1 ? '' : 's');
+		document.getElementById('linkNum').innerHTML = data.rel.length + ' connection' + (data.rel.length === 1 ? '' : 's');
 		updateGraph(data);
 	} else {
 		document.getElementById('depth').innerHTML = depth;
@@ -253,6 +255,8 @@ function setFocus(ch, d) {
 			&& chNew.some(c => c.id === r.target.id)
 			&& !relNew.includes(r)
 		);
+		document.getElementById('chNum').innerHTML = chNew.length + ' character' + (chNew.length === 1 ? '' : 's');
+		document.getElementById('linkNum').innerHTML = relNew.length + ' connection' + (relNew.length === 1 ? '' : 's');
 		updateGraph({
 			ch: chNew,
 			rel: relNew
