@@ -33,15 +33,15 @@ eleventyNavigation:
 <p>My end goal is to have every character connected — leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
 <p>Here you can focus on one character and the characters surrounding them. Don't drag the slider too quickly, or the thing will start to lag because my code is completely unoptimized! Yay!</p>
 <div class="flex-around">
-  <p>Focus on: <select id="chInput" name="ch" value="none">
+  <p style="margin: 0;">Focus on: <select id="chInput" name="ch" value="none">
     <option value="none">None</option>
     {% for ch in characters %}
       <option value="{{ ch.name }}">{{ ch.name }}</option>
     {% endfor %}
   </select></p>
-  <p>Depth <span id="depth">1</span>: <input id="depthInput" type="range" min="1" max="10" value="1"/></p>
+  <p style="margin: 0;">Depth <span id="depth">1</span>: <input id="depthInput" type="range" min="1" max="10" value="1"/></p>
 </div>
-<p>Displaying <span id="chNum"></span> with <span id="linkNum"></span> between them.</p>
+<p style="text-align: center;">Displaying <span id="chNum"></span> with <span id="linkNum"></span> between them.</p>
 <div id="wrapper">
   <button id="fullscreen" title="Fullscreen mode" onclick="document.getElementById('graph').requestFullscreen()">{% lucide 'maximize-2' %}</button>
   <svg id="graph"></svg>
