@@ -240,6 +240,20 @@ figcaption {
 	line-height: 2;
 }
 
+select {
+	font-size: var(--font-size);
+	font-family: lexend;
+	border: 2px solid var(--box);
+	background-color: var(--bg);
+	color: var(--text);
+	padding: 2px;
+	border-radius: 4px;
+}
+
+input[type="range"] {
+	width: 12em;
+}
+
 .lighter-text {
 	opacity: .5;
 }
