@@ -219,6 +219,12 @@ svg {
 	user-select: none;
 }
 
+.flex-around {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
 figure {
 	margin: 1em;
 	display: flex;
