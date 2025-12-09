@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-09
+
+- Added page [Banners and Footers](/misc/banners-and-footers/);
+
 ## 2025-12-08
 
 - Cool new improvement to the [Relationship graph](/characters/relationships/)!

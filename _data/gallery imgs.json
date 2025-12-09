@@ -5066,12 +5066,14 @@
     "date": "2025-12-05",
     "ch": [
       "sparky"
-    ]
+    ],
+    "kind": "banner"
   },
   {
     "name": "banner bauhinia",
     "type": "png",
-    "date": "2025-12-05"
+    "date": "2025-12-05",
+    "kind": "banner"
   },
   {
     "name": "tsunami doshmobile",
@@ -5089,7 +5091,8 @@
     "date": "2025-12-06",
     "ch": [
       "goose"
-    ]
+    ],
+    "kind": "banner"
   },
   {
     "name": "tower beginnings flower",
