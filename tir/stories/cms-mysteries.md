@@ -6,6 +6,13 @@ chs:
   - sky
   - firecrackers
   - myriad
+  - jerboa
+  - tephra
+  - alaska
+  - tomato
+  - potato
+  - guillotine
+  - jam
 time: "2031"
 desc: Sparky starts middle school dealing with her crazy friends, patchwork family, and a kleptomaniac.
 myTags:
