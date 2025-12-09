@@ -6,7 +6,8 @@ ch: [
 {% for ch in characters %}
 {
 id: "{{ ch.name }}",
-color: "{{ ch.color }}"
+color: "{{ ch.color }}",
+img: "{% assign name = ch.name | lowerCase | append: ' thumb' %}{% capture url %}{% imageUrl 'gallery/' name 'png' 200 %}{% endcapture %}{{ url | htmlBaseUrl }}",
 },
 {% endfor %}
 ],
@@ -22,6 +23,6 @@ rel2: "{{ rel.ch[1][1] }}"
 ]
 };
 
-const imgs = {
+{% comment %} const imgs = {
     {% for ch in characters %}{% assign name = ch.name | lowerCase | append: ' thumb' %}{% capture url %}{% imageUrl 'gallery/' name 'png' 200 %}{% endcapture %}{{ ch.name }}: "{{ url | htmlBaseUrl }}",{% endfor %}
-}
+} {% endcomment %}
