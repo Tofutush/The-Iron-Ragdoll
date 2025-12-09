@@ -1,0 +1,35 @@
+---
+layout: layout.liquid
+title: Banners and Footers
+desc: Banners and footers found on the site.
+tags: misc
+eleventyNavigation:
+  parent: Miscellaneous
+---
+<style>
+    #footers-div {
+        display: flex;
+        gap: 2em;
+        overflow-x: auto;
+        align-items: flex-end;
+        
+        &>img {
+            width: 13em;
+            height: auto;
+        }
+    }
+</style>
+<h1>Banners and footers</h1>
+<p>Here's a list of banners and footers you can find on this site.</p>
+<h2>Banners</h2>
+{% assign banners = gallery | filterGalleryByKind: "banner" %}
+{% for b in banners %}
+    {% image 'gallery/' b.name 'png' 3000 b.name 'max' %}
+{% endfor %}
+<h2>Footers</h2>
+{% assign footers = gallery | filterGalleryByKind: "footer" %}
+<div id="footers-div">
+    {% for f in footers %}
+        {% image 'gallery/' f.name 'png' 500 f.name %}
+    {% endfor %}
+</div>
