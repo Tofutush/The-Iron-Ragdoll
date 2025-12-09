@@ -94,7 +94,7 @@ function updateGraph(data) {
 		.join("svg:image")
 		.attr('width', 40)
 		.attr('height', 40)
-		.attr("xlink:href", d => imgs[d.id])
+		.attr("xlink:href", d => d.img)
 		// .attr("r", 8)
 		// .attr('stroke', 'var(--bg)')
 		// .attr('stroke-width', 2)
