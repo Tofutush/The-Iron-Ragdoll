@@ -90,7 +90,6 @@ function updateGraph(data) {
 		.attr("xlink:href", d => `../${d.id.toLowerCase()}/`)
 		.attr("target", "_blank")
 		.append("svg:image")
-		.data(nodes)
 		.join("svg:image")
 		.attr('width', 40)
 		.attr('height', 40)
@@ -101,11 +100,6 @@ function updateGraph(data) {
 		// .attr("fill", d => d.color)
 		.on("pointerover", function (e, d) {
 			d3.select(this)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr("r", 12)
-				.attr('stroke-width', 3)
 				.style('z-index', 9);
 			nodeLabel.filter(l => l === d)
 				.transition()
@@ -137,15 +131,10 @@ function updateGraph(data) {
 		})
 		.on("pointerout", function (e, d) {
 			d3.select(this)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr("r", 8)
-				.attr('stroke-width', 2)
 				.style('z-index', 0);
 			nodeLabel.filter(l => l === d)
 				.transition()
-				.ease(d3.easeQuadInOut)
+				.ease(d3.easeCubicInOut)
 				.duration(200)
 				.attr('opacity', .5)
 				.attr('font-size', font16)
@@ -185,9 +174,7 @@ function updateGraph(data) {
 			.attr("x2", d => d.target.x)
 			.attr("y2", d => d.target.y);
 
-		node.attr("cx", d => d.x)
-			.attr("cy", d => d.y)
-			.attr('x', d => d.x - 20)
+		node.attr('x', d => d.x - 20)
 			.attr('y', d => d.y - 20);
 
 		nodeLabel.attr("x", d => d.x)
