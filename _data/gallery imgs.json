@@ -5096,5 +5096,15 @@
     "type": "png",
     "date": "2025-12-07",
     "comment": "Fanart of [The Progress of Things](https://characters.numbersstory.com/lits/theprogressofthings/) by [Kolo](https://numbersstory.com), featuring [Milk and Stone, the Tower](https://characters.numbersstory.com/chara/frag/tower) and [Beginnings and Endings](https://characters.numbersstory.com/chara/frag/beginnings)."
+  },
+  {
+    "name": "sky blank",
+    "type": "png",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "date": "2025-12-09",
+    "ch": [
+      "sky"
+    ]
   }
 ]
