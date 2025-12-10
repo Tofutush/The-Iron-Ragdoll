@@ -15,9 +15,9 @@ const svg = d3.select("#graph")
 		.on("zoom", (event) => {
 			bigG.attr("transform", event.transform);
 			// font size
-			font12 = 12 / event.transform.k;
-			font16 = 16 / event.transform.k;
-			font20 = 20 / event.transform.k;
+			font12 = Math.min(12, 12 / event.transform.k);
+			font16 = Math.min(16, 16 / event.transform.k);
+			font20 = Math.min(20, 20 / event.transform.k);
 			linkLabel1.attr('font-size', font12);
 			linkLabel2.attr('font-size', font12);
 			nodeLabel.attr('font-size', font16);
