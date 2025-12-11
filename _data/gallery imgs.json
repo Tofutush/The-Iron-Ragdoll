@@ -5109,5 +5109,27 @@
     "ch": [
       "sky"
     ]
+  },
+  {
+    "name": "sparky dragon",
+    "type": "png",
+    "date": "2025-12-10",
+    "ch": [
+      "sparky",
+      "sky",
+      "qibli",
+      "firecrackers"
+    ]
+  },
+  {
+    "name": "sparky dragon only",
+    "type": "png",
+    "date": "2025-12-10",
+    "ch": [
+      "sparky",
+      "sky",
+      "qibli",
+      "firecrackers"
+    ]
   }
 ]

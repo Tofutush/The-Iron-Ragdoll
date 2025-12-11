@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2025-12-10
 
 - Changed the attribute display to use `<dl>`, `<dt>`, and `<dd>`;
+- Added `sparky dragon.png`;
 
 ## 2025-12-09
 
