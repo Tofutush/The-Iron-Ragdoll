@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-10
+
+- Changed the attribute display to use `<dl>`, `<dt>`, and `<dd>`;
+
 ## 2025-12-09
 
 - Added page [Banners and Footers](/misc/banners-and-footers/);
