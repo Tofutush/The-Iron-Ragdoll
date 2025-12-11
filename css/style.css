@@ -666,7 +666,7 @@ hr.solid-hr {
 	content: '☍';
 }
 
-.attr {
+dl {
 	border: 4px dashed var(--box);
 	border-width: 8px 0;
 	color: var(--text);
@@ -686,10 +686,16 @@ hr.solid-hr {
 		margin-bottom: 0;
 	}
 
-	&>:nth-child(2n-1) {
+	&>dt {
+		line-height: 2;
 		color: var(--c);
 		font-weight: bold;
 		text-align: right !important;
+	}
+
+	&>dd {
+		line-height: 2;
+		margin: 0;
 	}
 }
 
@@ -723,14 +729,14 @@ hr.solid-hr {
 		padding: 0 1em;
 	}
 
-	.attr {
+	dl {
 		grid-template-columns: 1fr;
 
-		&>:nth-child(2n-1) {
+		&>dt {
 			text-align: left !important;
 		}
 
-		&>:nth-child(2n) {
+		&>dd {
 			margin-left: 1em;
 		}
 	}
