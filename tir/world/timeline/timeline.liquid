@@ -8,27 +8,30 @@ eleventyNavigation:
   parent: World
 ---
 <style>
-	.attr>div:nth-child(2n-1)>p {
+	dt>p {
 		text-align:right;
 	}
-	.attr>div>p:first-child {
+	dl>dt>p:first-child,
+	dl>dd>p:first-child {
 		margin-top: 0;
 	}
-	.attr>div>p:last-child {
+	dl>dt>p:last-child,
+	dl>dd>p:last-child {
 		margin-bottom: 0;
 	}
 	@media only screen and (max-width: 480px) {
-		.attr>div>p {
+		dl>dt>p,
+		dl>dd>p {
 			text-align:left !important;
 		}
 	}
 </style>
 <p>This is a cheesy port of my Aeon Timeline project! Because of this, I can't add any links, some characters don't exist (like Jackal and "Peacock's parents"), and events with both a start and end are displayed rather awkwardly. But at last, everything I have on TIR is on the website. I am hiding nothing from you! (I'd be such a terrible spy LMAO)</p>
 <p>This might just be the longest page in the website, but it has a really short file. Just 36 lines.</p>
-<div class="attr">
+<dl>
 	{% for item in timeline %}
-		<div><p>{{ item.time }}</p></div>
-		<div>
+		<dt><p>{{ item.time }}</p></dt>
+		<dd>
 			<p>{{ item.label }}</p>
 			{% if item.participants %}
 				<p class="tags">
@@ -37,7 +40,7 @@ eleventyNavigation:
 					{% endfor %}
 				</p>
 			{% endif %}
-		</div>
+		</dd>
 	{% endfor %}
-</div>
+</dl>
 <p><em>You found a puzzle piece: <strong>tc</strong>! Next clue: the tale of a 3rd gen immigrant. <a href="/fun/hunt/">What is this?</a></em></p>

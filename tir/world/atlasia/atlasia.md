@@ -14,16 +14,16 @@ categories:
 
 {% image "gallery/" "atlasia flag" "svg" 1000 "Flag of Atlasia" 'max' %}
 
-<div class="attr">
-  <p>Pronunciation</p>
-  <p>At-LAY-zha</p>
-  <p>Demonym</p>
-  <p>Atlasian</p>
-  <p>Capital</p>
-  <p><a href="/world/atlasia/the-capital/">The Capital</a></p>
-  <p>Symbol</p>
-  <p>Money!!!</p>
-</div>
+<dl>
+  <dt>Pronunciation</dt>
+  <dd>At-LAY-zha</dd>
+  <dt>Demonym</dt>
+  <dd>Atlasian</dd>
+  <dt>Capital</dt>
+  <dd><a href="/world/atlasia/the-capital/">The Capital</a></dd>
+  <dt>Symbol</dt>
+  <dd>Money!!!</dd>
+</dl>
 
 The green money-lovers.
 

@@ -14,16 +14,16 @@ categories:
 
 {% image "gallery/" "fanton flag" "svg" 1000 "Flag of Fanton" 'max' %}
 
-<div class="attr">
-  <p>Pronunciation</p>
-  <p>FAN-ten (alternatively, FAN-[grunting sound])</p>
-  <p>Demonym</p>
-  <p>Fantoni</p>
-  <p>Capital</p>
-  <p><a href="/world/fanton/lotus-lake-city/">Lotus Lake City</a></p>
-  <p>Symbol</p>
-  <p>The lotus flower</p>
-</div>
+<dl>
+  <dt>Pronunciation</dt>
+  <dd>FAN-ten (alternatively, FAN-[grunting sound])</dd>
+  <dt>Demonym</dt>
+  <dd>Fantoni</dd>
+  <dt>Capital</dt>
+  <dd><a href="/world/fanton/lotus-lake-city/">Lotus Lake City</a></dd>
+  <dt>Symbol</dt>
+  <dd>The lotus flower</dd>
+</dl>
 
 The purple starry-eyed tree-lovers.
 
