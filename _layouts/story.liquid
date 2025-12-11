@@ -16,24 +16,24 @@ eleventyComputed:
 		}
 	}
 </style>
-<div class="attr">
-	<p>Main Cast</p>
-	<div class="tags">
+<dl>
+	<dt>Main Cast</dt>
+	<dd class="tags">
 		{% for ch in chs %}
 			{% include 'chButton', ch: ch %}
 		{% endfor %}
-	</div>
-	<p>Time period</p>
-	<p>{{ time }}</p>
-	<p>Complete</p>
-	<p>{% if complete %}{% lucide 'check' %}{% else %}{% lucide 'x' %}{% endif %}</p>
+	</dd>
+	<dt>Time period</dt>
+	<dd>{{ time }}</dd>
+	<dt>Complete</dt>
+	<dd>{% if complete %}{% lucide 'check' %}{% else %}{% lucide 'x' %}{% endif %}</dd>
 	{% if myTags %}
-		<p>Tags</p>
-		<p>
+		<dt>Tags</dt>
+		<dd>
 			{% assign sortedTags = myTags | sortAlphabetical %}{% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/stories/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
-		</p>
+		</dd>
 	{% endif %}
-</div>
+</dl>
 
 {% if comic or fic %}
 	<div class="box-nav solid">

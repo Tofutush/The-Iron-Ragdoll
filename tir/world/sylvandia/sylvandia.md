@@ -14,18 +14,18 @@ categories:
 
 {% image "gallery/" "sylvandia flag" "svg" 1000 "Flag of Sylvandia" 'max' %}
 
-<div class="attr">
-  <p>Pronunciation</p>
-  <p>Sil-VAN-dee-a</p>
-  <p>Demonym</p>
-  <p>Sylvandian</p>
-  <p>Capital</p>
-  <p><a href="/world/sylvandia/bonnie/">Bonnie</a></p>
-  <p>National day</p>
-  <p>July 29<sup>th</sup></p>
-  <p>Symbol</p>
-  <p>tba</p>
-</div>
+<dl>
+  <dt>Pronunciation</dt>
+  <dd>Sil-VAN-dee-a</dd>
+  <dt>Demonym</dt>
+  <dd>Sylvandian</dd>
+  <dt>Capital</dt>
+  <dd><a href="/world/sylvandia/bonnie/">Bonnie</a></dd>
+  <dt>National day</dt>
+  <dd>July 29<sup>th</sup></dd>
+  <dt>Symbol</dt>
+  <dd>tba</dd>
+</dl>
 
 The blue-and-yellow-colored huge mess. It is nominally independent but still in colonial limbo.
 

@@ -14,16 +14,16 @@ categories:
 
 {% image "gallery/" "westavia flag" "svg" 1000 "Flag of Westavia" 'max' %}
 
-<div class="attr">
-  <p>Pronunciation</p>
-  <p>Wes-DAY-vee-a</p>
-  <p>Demonym</p>
-  <p>Westavian</p>
-  <p>Capital</p>
-  <p><a href="/world/westavia/peoples-vanguard/">People's Vanguard</a></p>
-  <p>Symbol</p>
-  <p>The seven-point star</p>
-</div>
+<dl>
+  <dt>Pronunciation</dt>
+  <dd>Wes-DAY-vee-a</dd>
+  <dt>Demonym</dt>
+  <dd>Westavian</dd>
+  <dt>Capital</dt>
+  <dd><a href="/world/westavia/peoples-vanguard/">People's Vanguard</a></dd>
+  <dt>Symbol</dt>
+  <dd>The seven-point star</dd>
+</dl>
 
 The brown alcoholics.
 

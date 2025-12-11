@@ -14,18 +14,18 @@ categories:
 
 {% image "gallery/" "bauhinia flag" "svg" 1000 "Flag of Bauhinia" 'max' %}
 
-<div class="attr">
-  <p>Pronunciation</p>
-  <p>Bau-HEE-nee-a</p>
-  <p>Demonym</p>
-  <p>Bauhunian</p>
-  <p>Capital</p>
-  <p><a href="/world/bauhinia/">Flower City</a></p>
-  <p>National day</p>
-  <p>February 24<sup>th</sup></p>
-  <p>Symbol</p>
-  <p>The bauhinia flower</p>
-</div>
+<dl>
+  <dt>Pronunciation</dt>
+  <dd>Bau-HEE-nee-a</dd>
+  <dt>Demonym</dt>
+  <dd>Bauhunian</dd>
+  <dt>Capital</dt>
+  <dd><a href="/world/bauhinia/">Flower City</a></dd>
+  <dt>National day</dt>
+  <dd>February 24<sup>th</sup></dd>
+  <dt>Symbol</dt>
+  <dd>The bauhinia flower</dd>
+</dl>
 
 The pink bureaucratic fanatic.
 

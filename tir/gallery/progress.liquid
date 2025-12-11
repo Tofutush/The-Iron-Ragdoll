@@ -17,18 +17,18 @@ eleventyNavigation:
 <p>Every character needs these three pictures: a thumb, a profile (cursedly called "thumb new" in my data file), and a reference — that is, if they even have a design in the first place.</p>
 <p>I call them "Mandatory Character Art" (MCA). This page charts the progress I'm making on them!</p>
 {% assign total = 0 %}
-<div class="attr">
-	<p>Needs design</p>
-	<div class="tags">
+<dl>
+	<dt>Needs design</dt>
+	<dd class="tags">
 		{% for ch in characters %}
 			{% assign filteredGallery = gallery | filterGallery: ch.name %}
 			{% if filteredGallery.size == 0 %}
 				{% include 'chButton', ch: ch.name %}
 			{% endif %}
 		{% endfor %}
-	</div>
-	<p>Needs thumb</p>
-	<div class="tags">
+	</dd>
+	<dt>Needs thumb</dt>
+	<dd class="tags">
 		{% for ch in characters %}
 			{% assign filteredGallery = gallery | filterGallery: ch.name %}
 			{% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
@@ -39,9 +39,9 @@ eleventyNavigation:
 				{% assign total = total | plus: 1 %}
 			{% endif %}
 		{% endfor %}
-	</div>
-	<p>Needs profile</p>
-	<div class="tags">
+	</dd>
+	<dt>Needs profile</dt>
+	<dd class="tags">
 		{% for ch in characters %}
 			{% assign filteredGallery = gallery | filterGallery: ch.name %}
 			{% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
@@ -53,9 +53,9 @@ eleventyNavigation:
 				{% assign total = total | plus: 1 %}
 			{% endif %}
 		{% endfor %}
-	</div>
-	<p>Needs reference</p>
-	<div class="tags">
+	</dd>
+	<dt>Needs reference</dt>
+	<dd class="tags">
 		{% for ch in characters %}
 			{% assign filteredGallery = gallery | filterGallery: ch.name %}
 			{% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
@@ -67,9 +67,9 @@ eleventyNavigation:
 				{% assign total = total | plus: 1 %}
 			{% endif %}
 		{% endfor %}
-	</div>
-	<p>All done</p>
-	<div class="tags">
+	</dd>
+	<dt>All done</dt>
+	<dd class="tags">
 		{% for ch in characters %}
 			{% assign filteredGallery = gallery | filterGallery: ch.name %}
 			{% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
@@ -79,7 +79,7 @@ eleventyNavigation:
 				{% include 'chButton', ch: ch.name %}
 			{% endif %}
 		{% endfor %}
-	</div>
-</div>
+	</dd>
+</dl>
 <p>Completed: {{ total }} out of {{ characters.size | times: 3 }}!</p>
 <div class="progress-bar" style="background:linear-gradient(to right, var(--c) {{ total | divided_by: characters.size | divided_by: 3 | times: 100}}%, var(--box) {{ total | divided_by: characters.size | divided_by: 3 | times: 100 }}%"></div>

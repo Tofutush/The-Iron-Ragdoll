@@ -57,19 +57,19 @@ eleventyComputed:
     </div>
   </details>
   {% if ch.attr %}
-    <div class="attr">
+    <dl>
       {% for att in ch.attr %}
-        <p>{{ att[0] }}</p>
-        <p>{{ att[1] }}</p>
+        <dt>{{ att[0] }}</dt>
+        <dd>{{ att[1] }}</dd>
       {% endfor %}
       {% if ch.tags %}
-        <p>Tags</p>
-        <p>
+        <dt>Tags</dt>
+        <dd>
           {% assign sortedTags = ch.tags | sortAlphabetical %}
           {% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
-        </p>
+        </dd>
       {% endif %}
-    </div>
+    </dl>
   {% endif %}
   <div class="box-nav solid">
     {% if big %}<a href="gallery/">View full gallery</a>{% endif %}

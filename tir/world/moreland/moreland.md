@@ -14,18 +14,18 @@ categories:
 
 {% image "gallery/" "moreland flag" "svg" 1000 "Flag of Moreland" 'max' %}
 
-<div class="attr">
-  <p>Pronunciation</p>
-  <p>MORE-lend</p>
-  <p>Demonym</p>
-  <p>Moose (people) / Morelandian (things)</p>
-  <p>Capital</p>
-  <p><a href="/world/moreland/revolutions-cradle/">Revolution's Cradle</a></p>
-  <p>National day</p>
-  <p>December 21<sup>st</sup> — 23<sup>rd</sup></p>
-  <p>Symbol</p>
-  <p>The moose</p>
-</div>
+<dl>
+  <dt>Pronunciation</dt>
+  <dd>MORE-lend</dd>
+  <dt>Demonym</dt>
+  <dd>Moose (people) / Morelandian (things)</dd>
+  <dt>Capital</dt>
+  <dd><a href="/world/moreland/revolutions-cradle/">Revolution's Cradle</a></dd>
+  <dt>National day</dt>
+  <dd>December 21<sup>st</sup> — 23<sup>rd</sup></dd>
+  <dt>Symbol</dt>
+  <dd>The moose</dd>
+</dl>
 
 The green moose people.
 
