@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-12
+
+- Moved the banners and footers page to [Fun](/fun/), added New Year drawings to it, and renamed it [Picture Collections](/fun/pictures/);
+
 ## 2025-12-10
 
 - Changed the attribute display to use `<dl>`, `<dt>`, and `<dd>`;
