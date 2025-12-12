@@ -1,0 +1,62 @@
+---
+layout: layout.liquid
+title: Picture collections
+desc: Collections of pictures I drew.
+tags: fun
+eleventyNavigation:
+  parent: Fun
+---
+<style>
+    #footers-div {
+        display: flex;
+        gap: 2em;
+        overflow-x: auto;
+        align-items: flex-end;
+        
+        &>img {
+            width: 13em;
+            height: auto;
+        }
+    }
+    .pic-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+		gap: 1em;
+        align-items: end;
+
+		& img {
+			width: 100%;
+			height: auto;
+		}
+	}
+</style>
+<h1>Picture collections</h1>
+<p>Here's a list of pictures to browse through.</p>
+<details id="toc-wrap">
+    <summary><h3>Contents</h3></summary>
+    <div id="toc">
+        <ul>
+            <li><a href="#banners">Banners</a></li>
+            <li><a href="#footers">Footers</a></li>
+            <li><a href="#new-year">New Year</a></li>
+        </ul>
+    </div>
+</details>
+<h2 id="banners">Banners</h2>
+{% assign banners = gallery | filterGalleryByKind: "banner" %}
+{% for b in banners %}
+    {% image 'gallery/' b.name 'png' 3000 b.name 'max' %}
+{% endfor %}
+<h2 id="footers">Footers</h2>
+{% assign footers = gallery | filterGalleryByKind: "footer" %}
+<div class="pic-grid">
+    {% for f in footers %}
+        {% image 'gallery/' f.name 'png' 500 f.name %}
+    {% endfor %}
+</div>
+<h2 id="new-year">New Year</h2>
+<p>Hopefully this can motivate me to draw one of these every year.</p>
+<div class="pic-grid">
+    {% image 'gallery/' 'cosmo snake year' 'png' 500 '2025 Year of the Snake' %}
+    <div></div><div></div>
+</div>
