@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-13
+
+- Added character [Sundew](/character/sundew/);
+- Added `sundew stand.png`, `jam half.png`, `banner nebula.png`;
+
 ## 2025-12-12
 
 - Moved the banners and footers page to [Fun](/fun/), added New Year drawings to it, and renamed it [Picture Collections](/fun/pictures/);

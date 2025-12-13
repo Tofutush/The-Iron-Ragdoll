@@ -1,6 +1,7 @@
 ---
 title: Magic Academy
 desc: Magical indoctrination school.
+banner: "banner nebula"
 categories:
   - Schools
 tags:
