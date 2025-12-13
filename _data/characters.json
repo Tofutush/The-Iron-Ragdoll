@@ -432,6 +432,10 @@
       "Occupation": "Teacher",
       "Weapon": "teaching stick"
     },
+    "palette": {
+      "shirt": "#75430B",
+      "hair": "#2e2e2e"
+    },
     "about": "Jam is [Sparky](/characters/sparky/)'s teacher at [Coastline Middle School](/world/bauhinia/cms/) and [Jerboa](/characters/jerboa/)'s adoptive father."
   },
   {
@@ -464,6 +468,7 @@
     "namezh": "星云",
     "color": "#d87099",
     "desc": "Arch-Magician.",
+    "banner": "banner nebula",
     "tags": [
       "Coastline",
       "Magic Academy",
@@ -1343,6 +1348,27 @@
       "heart": "#F09FCE",
       "hair": "#2e2e2e"
     },
+    "trivia": "- 回族。"
+  },
+  {
+    "name": "Sundew",
+    "namezh": "阳露",
+    "color": "#c93ba3",
+    "tags": [
+      "Westavia",
+      "Nameless Village"
+    ],
+    "attr": {
+      "Full name": "Sundew Muscat",
+      "Gender": "Female",
+      "Birth": "2000-11-14",
+      "Nationality": "Westavian",
+      "Occupation": "Restaurant owner"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "Sundew was the daughter of Muscat and Ember. She hated her dad and made it her life's mission to help her mom escape, but she failed.\n\nShe studied hard and got into a university in [People's Vanguard](/world/westavia/peoples-vanguard/), though Ember forbid her from going. She counted up her life's savings, borrowed a lot from [Thyme](/characters/thyme/), and stole a little bit of Ember's, and hopped on a midnight train from Area 29 to People's Vanguard. She never looked back.\n\nNow, she owns a little mama and papa's restaurant with her husband in People's Vanguard. Life was hard but relatively peaceful. She missed her little brother and wondered how he was doing, and will he ever come looking for her.",
     "trivia": "- 回族。"
   },
   {
