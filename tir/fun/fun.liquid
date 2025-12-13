@@ -9,11 +9,34 @@ eleventyNavigation:
 <h1>Fun</h1>
 
 <ul>
-	{% for file in collections.fun %}
-		{% include 'fileLi', file: file %}
-	{% endfor %}
-</ul>
-<ul>
+	<li>In-universe</li>
+	<ul>
+		<li><a href="forumfarms/">ForumFarms</a></li>
+	</ul>
+	<li>Games</li>
+	<ul>
+		<li><a href="fav/">Fav Picker</a></li>
+		<li><a href="guess/">Guessing Game</a></li>
+		<li><a href="hunt/">Scavenger Hunt</a></li>
+		<li><a href="mss-quiz/">MSS Personality Quiz</a></li>
+		<li><a class="external-link" target="_blank" href="https://tofutush.itch.io/sparky-hungry">Feed Sparky something!</li>
+		<li><a class="external-link" target="_blank" href="https://tofutush.github.io/idlegame">{% lucide 'pickaxe' %} Idle Forced Labor Camp</a>, a cursed game about running a forced labor camp. (INCOMPLETE)</li>
+	</ul>
+	<li>Generators</li>
+	<ul>
+		<li><a href="generator/">OC Generator</a></li>
+		<li><a href="scenarios/">Scenario Generator</a></li>
+	</ul>
+	<li>Pictures</li>
+	<ul>
+		<li><a href="wallpapers/">Wallpapers</a></li>
+		<li><a href="pictures/">Picture collections</a></li>
+	</ul>
+	<li>Meta</li>
+	<ul>
+		<li><a href="steps/">Steps Calculator</a></li>
+		<li><a class="external-link" target="_blank" href="https://tofutush.leprd.space">Favorites Leaderboard</a></li>
+	</ul>
 	<li>Random pages</li>
 	<ul>
 		<li><a href="random/file/">Random file</a></li>
@@ -21,8 +44,4 @@ eleventyNavigation:
 		<li><a href="random/story/">Random story</a></li>
 		<li><a href="random/world/">Random world file</a></li>
 	</ul>
-	</li>
-	<li><a class="external-link" target="_blank" href="https://tofutush.leprd.space">Favorites Leaderboard</a></li>
-	<li><a class="external-link" target="_blank" href="https://tofutush.github.io/idlegame">{% lucide 'pickaxe' %} Idle Forced Labor Camp</a>, a cursed game about running a forced labor camp.</li>
-	<li><a class="external-link" target="_blank" href="https://tofutush.itch.io/sparky-hungry">Feed Sparky something!</li>
 </ul>
