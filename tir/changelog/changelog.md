@@ -9,6 +9,8 @@ eleventyNavigation:
 ## 2025-12-12
 
 - Moved the banners and footers page to [Fun](/fun/), added New Year drawings to it, and renamed it [Picture Collections](/fun/pictures/);
+- Organized Fun page;
+- Made [wallpaper](/fun/wallpapers/) links `.png`;
 
 ## 2025-12-10
 
