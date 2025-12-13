@@ -426,6 +426,14 @@ img: "/The-Iron-Ragdoll/img/gallery/VZx2xZYakL-500.webp"
 
 
 {
+name: "Sundew",
+color: "#c93ba3",
+desc: "",
+img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+},
+
+
+{
 name: "Sunflower",
 color: "#cb9c1a",
 desc: "",

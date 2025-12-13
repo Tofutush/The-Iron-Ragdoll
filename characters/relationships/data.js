@@ -320,6 +320,12 @@ img: "/The-Iron-Ragdoll/img/gallery/YfHVyEqpvQ-200.webp",
 },
 
 {
+id: "Sundew",
+color: "#c93ba3",
+img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+},
+
+{
 id: "Sunflower",
 color: "#cb9c1a",
 img: "/The-Iron-Ragdoll/img/gallery/Nd97mOoaEI-200.webp",
@@ -1622,6 +1628,13 @@ source: "Frosting",
 target: "Jasmine",
 rel1: "",
 rel2: "crush"
+},
+
+{
+source: "Candlelight",
+target: "Sundew",
+rel1: "younger brother",
+rel2: "older sister"
 },
 
 {
