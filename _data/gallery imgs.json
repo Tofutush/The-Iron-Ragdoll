@@ -5178,5 +5178,23 @@
       "nebula"
     ],
     "kind": "banner"
+  },
+  {
+    "name": "jam thumb",
+    "type": "png",
+    "date": "2025-12-14",
+    "ch": [
+      "jam"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "sundew thumb",
+    "type": "png",
+    "date": "2025-12-14",
+    "ch": [
+      "sundew"
+    ],
+    "kind": "thumb"
   }
 ]
