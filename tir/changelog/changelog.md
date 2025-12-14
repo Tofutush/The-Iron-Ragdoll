@@ -9,7 +9,7 @@ eleventyNavigation:
 ## 2025-12-13
 
 - Added character [Sundew](/characters/sundew/);
-- Added `sundew stand.png`, `jam half.png`, `banner nebula.png`;
+- Added `sundew stand.png`, `jam half.png`, `banner nebula.png`, `jam thumb.png`, `sundew thumb.png`;
 
 ## 2025-12-12
 
