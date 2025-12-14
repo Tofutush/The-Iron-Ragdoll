@@ -125,7 +125,7 @@ img: "/The-Iron-Ragdoll/img/gallery/JLmmGj4kNR-500.webp"
 name: "Jam",
 color: "#75430b",
 desc: "Teacher of all the subjects because I'm too lazy to make more.",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/NgwTDBX9sZ-500.webp"
 },
 
 
@@ -429,7 +429,7 @@ img: "/The-Iron-Ragdoll/img/gallery/VZx2xZYakL-500.webp"
 name: "Sundew",
 color: "#c93ba3",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/OcVpC2Fhhp-500.webp"
 },
 
 

@@ -94,7 +94,7 @@ img: "/The-Iron-Ragdoll/img/gallery/IrFMe3eik9-200.webp",
 {
 id: "Jam",
 color: "#75430b",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/gallery/NgwTDBX9sZ-200.webp",
 },
 
 {
@@ -322,7 +322,7 @@ img: "/The-Iron-Ragdoll/img/gallery/YfHVyEqpvQ-200.webp",
 {
 id: "Sundew",
 color: "#c93ba3",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/gallery/OcVpC2Fhhp-200.webp",
 },
 
 {
