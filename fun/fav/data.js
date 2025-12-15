@@ -493,7 +493,7 @@ img: "/The-Iron-Ragdoll/img/gallery/ib6lw8wRYN-500.webp"
 name: "Moonflower",
 color: "#c78d0e",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/JZggED87Be-500.webp"
 },
 
 
@@ -605,7 +605,7 @@ img: "/The-Iron-Ragdoll/img/gallery/rDsfswLdUL-500.webp"
 name: "Rose",
 color: "#b7155b",
 desc: "",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+img: "/The-Iron-Ragdoll/img/gallery/2KQtBdWNX9-500.webp"
 },
 
 
