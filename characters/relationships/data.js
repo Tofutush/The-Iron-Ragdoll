@@ -370,7 +370,7 @@ img: "/The-Iron-Ragdoll/img/gallery/ib6lw8wRYN-200.webp",
 {
 id: "Moonflower",
 color: "#c78d0e",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/gallery/JZggED87Be-200.webp",
 },
 
 {
@@ -454,7 +454,7 @@ img: "/The-Iron-Ragdoll/img/gallery/oK5ook2Uo1-200.webp",
 {
 id: "Rose",
 color: "#b7155b",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/gallery/2KQtBdWNX9-200.webp",
 },
 
 {
