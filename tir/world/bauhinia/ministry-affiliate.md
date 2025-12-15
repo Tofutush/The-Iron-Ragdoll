@@ -9,6 +9,7 @@ tags:
 title: Ministry Affiliate
 categories:
   - Schools
+banner: banner sky
 ---
 
 A school for ~~indoctrinating~~ training [MSS](/world/bauhinia/mss/) officers from a young age. The official shortening is "Ministry Affiliate" （国安附中）, but students usually call it spy school for short.
