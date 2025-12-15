@@ -5214,5 +5214,14 @@
       "moonflower"
     ],
     "kind": "thumb"
+  },
+  {
+    "name": "banner sky",
+    "type": "png",
+    "date": "2025-12-15",
+    "ch": [
+      "sky"
+    ],
+    "kind": "banner"
   }
 ]

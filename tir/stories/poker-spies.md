@@ -61,6 +61,7 @@ tsunamiDialog:
     - "Tsunami: No!"
 prev:
   - "[Pearl's Journey Home - Sylvandia](/stories/pearls-journey-home-sylvandia/)"
+banner: banner sky
 ---
 
 <link rel="stylesheet" href="/css/dialog.css"/>
