@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-15
+
+- Ditched Notion; I really can't be comfortable with it. New Chinese site link: https://tofutush.github.io/tdyww/;
+
 ## 2025-12-14
 
 - Check out my Jinx and Jackalope [shitpost](https://youtu.be/q453vqRk1sU);
