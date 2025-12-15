@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-14
+
+- Check out my Jinx and Jackalope [shitpost](https://youtu.be/q453vqRk1sU);
+- Added `rose thumb.png`, `moonflower thumb.png`;
+
 ## 2025-12-13
 
 - Added character [Sundew](/characters/sundew/);

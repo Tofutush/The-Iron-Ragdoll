@@ -5196,5 +5196,23 @@
       "sundew"
     ],
     "kind": "thumb"
+  },
+  {
+    "name": "rose thumb",
+    "type": "png",
+    "date": "2025-12-14",
+    "ch": [
+      "rose"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "moonflower thumb",
+    "type": "png",
+    "date": "2025-12-14",
+    "ch": [
+      "moonflower"
+    ],
+    "kind": "thumb"
   }
 ]
