@@ -11,6 +11,7 @@ myTags:
   - Pearl's Journey Home
 prev:
   - "[Pearl's Journey Home - Moreland](/stories/pearls-journey-home-moreland/)"
+  - "[Buttercup's Backstory](/stories/buttercup-backstory/)"
 ---
 
 They finally got to Sylvandia.
