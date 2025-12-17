@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-16
+
+- Added all countries' banners, as well as updated Bauhinia's;
+
 ## 2025-12-15
 
 - Ditched Notion; I really can't be comfortable with it. New Chinese site link: https://tofutush.github.io/tdyww/;

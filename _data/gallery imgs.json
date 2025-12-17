@@ -5223,5 +5223,35 @@
       "sky"
     ],
     "kind": "banner"
+  },
+  {
+    "name": "banner fanton",
+    "type": "png",
+    "date": "2025-12-16",
+    "kind": "banner"
+  },
+  {
+    "name": "banner atlasia",
+    "type": "png",
+    "date": "2025-12-16",
+    "kind": "banner"
+  },
+  {
+    "name": "banner westavia",
+    "type": "png",
+    "date": "2025-12-16",
+    "kind": "banner"
+  },
+  {
+    "name": "banner moreland",
+    "type": "png",
+    "date": "2025-12-16",
+    "kind": "banner"
+  },
+  {
+    "name": "banner sylvandia",
+    "type": "png",
+    "date": "2025-12-16",
+    "kind": "banner"
   }
 ]
