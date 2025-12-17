@@ -2,5 +2,6 @@
     "eleventyNavigation": {
         "parent": "Sylvandia"
     },
+    "banner": "banner sylvandia",
     "image": "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/gallery/sylvandia flag.png"
 }
