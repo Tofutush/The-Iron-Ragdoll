@@ -13,6 +13,7 @@ tags:
   - magic-academy
 prev:
   - "[Coastline Middle School Mysteries](/stories/cms-mysteries/)"
+banner: banner qibli
 ---
 
 Qibli begged the doctor to put her magic level down as 10 so it looked better. What she didn't know was that she had to start attending [Magic Academy](/world/bauhinia/magic-academy/) now.
