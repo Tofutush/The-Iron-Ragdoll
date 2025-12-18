@@ -31,6 +31,7 @@ trinketDialog:
 prev:
   - "[Pearl's Journey Home - Sylvandia](/stories/pearls-journey-home-sylvandia/)"
   - "[The Magic Academy](/stories/the-magic-academy/)"
+banner: banner qibli
 ---
 
 <link rel="stylesheet" href="/css/dialog.css"/>

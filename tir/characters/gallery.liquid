@@ -10,6 +10,7 @@ widepage: true
 eleventyComputed:
   title: "{{ ch.name }}'s Gallery"
   desc: "{{ ch.name }}'s gallery."
+  banner: "{% if ch.banner %}{{ ch.banner }}{% else %}banner sparky{% endif %}"
   eleventyNavigation:
     title: "Gallery"
     parent: "{{ ch.name }}"
