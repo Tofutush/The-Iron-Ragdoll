@@ -8,7 +8,7 @@ eleventyNavigation:
 
 ## 2025-12-17
 
-- Added `banner qibli.png`;
+- Added `banner qibli.png`, `mss ref new.png`;
 - Character banners now also appear on their gallery subpage, if they have one;
 
 ## 2025-12-16
