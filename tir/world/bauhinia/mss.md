@@ -14,7 +14,7 @@ categories:
 The main security apparatus of Bauhinia, handling both intelligence and counterintelligence. Every bit as bureaucratical as you'd imagine a Bauhinian government agency to be.
 
 <figure>
-  {% image 'gallery/' 'mss ref' 'png' 1000 'MSS Uniform' 'max' %}
+  {% image 'gallery/' 'mss ref new' 'png' 1000 'MSS Uniform' 'max' %}
   <figcaption>MSS uniform ref</figcaption>
 </figure>
 
