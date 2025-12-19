@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-19
+
+- Updated Pumpkin's and Goose's reference images;
+
 ## 2025-12-17
 
 - Added `banner qibli.png`, `mss ref new.png`;
