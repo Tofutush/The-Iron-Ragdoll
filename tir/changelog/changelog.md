@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2025-12-19
 
 - Updated Pumpkin's and Goose's reference images;
+- Updated [credits](/misc/credits/) a little;
 
 ## 2025-12-17
 

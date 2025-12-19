@@ -16,11 +16,12 @@ Most content on this site is made by myself. What isn't:
 - The Robot Master on [About](/about/) is from [KFCMan](https://kunfucutsman.neocities.org/fun/robot-master-maker/).
 - The hosting is provided by either Github Pages or [Neocities](https://neocities.org), depending on where you are.
 - Adjectives and adverbs in the [scenario generator](/fun/scenarios/) and [OC generator](/fun/generator/) are from [Corpora](https://github.com/dariusk/corpora).
-- 中文字体用的是[霞鹜漫黑 v0.312](https://github.com/lxgw/LxgwMarkerGothic)。
+- English fonts are [Lexend](https://lexend.com) for the body and [Troika](https://www.behance.net/gallery/15146053/Troika-free-font?) for headings.
+- 中文字体主体用的是[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)，标题用的是[霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)。
 - Markdown files are edited in [Obsidian](https://obsidian.md).
 - Most [wallpapers](/fun/wallpapers/) are made by [TheOliveOli](https://theoliveoli.blahaj.land/).
 
-All stories and characters on this site are created by myself. Some artwork is by other people. If you would like me to remove your artwork, change the attribution link, or anything else, please [tell me](/contact/)!
+All stories and characters on this site are created by myself. Some artwork is by other people. If you would like me to remove your artwork, change the attribution link, or anything else, please [tell me](https://tofutush.leprd.space/guestbook/)!
 
 ## Let me tell you about Homestuck
 
