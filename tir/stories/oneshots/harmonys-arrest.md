@@ -23,9 +23,10 @@ dialog:
   - - "Sugarcane: You glued me to the seat??"
   - But Harmony was gone. As soon as she stepped out of the lecture hall she burst into a sprint.
 chTitle: Harmony's Arrest
-chNum: 6
-date: 2025-10-28
+chNum: 10
+date: 2025-12-30
 draft: true
 ---
 <link rel="stylesheet" href="/css/dialog.css"/>
+
 {% include 'dialog', dialogContent: dialog %}

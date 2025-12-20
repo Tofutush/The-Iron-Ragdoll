@@ -10,6 +10,7 @@ eleventyNavigation:
 
 - Updated Pumpkin's and Goose's reference images;
 - Updated [credits](/misc/credits/) a little;
+- Moved some dialog segments out of the stories themselves and into [Oneshots](/stories/oneshots/);
 
 ## 2025-12-17
 

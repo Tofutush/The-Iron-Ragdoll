@@ -13,30 +13,15 @@ myTags:
   - MSS
 time: 2039 - present
 desc: Qibli is now a wanted criminal. How is she doing?
-trinketDialog:
-  - - "Qibli: Do you know what would happen if he actually succeeds?"
-    - "Qibli: Every single magician in this country is registered."
-    - "Trinket: Ugh, look."
-    - "Qibli: None of them will be safe."
-    - "Trinket: I will start hurting you if you keep being difficult."
-    - "Qibli: And risk spilling magician blood?"
-    - "Trinket: You are already spilling it yourself, aren't you?"
-    - "Qibli: Heh. Fair. But here's another thing."
-    - "Qibli: Go — go tell Kismet that. He's a smart man. Tell him, ask him to think about why magicians are only born in Bauhinia in the first place."
-    - "Qibli: The emperors summoning them to the palace did something. Slowly fewer and fewer magicians were born in northern areas. Now, in the modern day, they only appear in Bauhinia's borders."
-    - "Qibli: What does he think would happen if he starts killing magicians this way? Draining all the magic out of them?"
-    - "Trinket: This area is outside of both of our expertise, but one thing you left out was that the total number of magicians born never fluctuated. They just changed places."
-    - "Qibli: Because they're migrated. If they're killed en masse, things would be different. Do you think Kismet would risk that? I know he's listening. He can consider it right now."
-    - "Qibli: I can work for you. In exchange for you destroying that magic machine and never attempting anything like that ever again. Is that a deal?"
 prev:
   - "[Pearl's Journey Home - Sylvandia](/stories/pearls-journey-home-sylvandia/)"
   - "[The Magic Academy](/stories/the-magic-academy/)"
 banner: banner qibli
 ---
 
-<link rel="stylesheet" href="/css/dialog.css"/>
-
 After murdering Nebula, Qibli couldn't be a normal member of society anymore. She had to run away to live a life at large.
+
+[[toc]]
 
 ## Pocket dimension
 
@@ -76,9 +61,9 @@ By this time [Kismet](/characters/kismet/) had already figured out that magic co
 
 Except that it's not working. They took Qibli out again. Trinket suggested that she must've stored her magic in a vessel right before being knocked out. She was ordered to interrogate Qibli on where her vessel is. The real Kismet told her that he was assigned her assistant.
 
-{% include 'dialog', dialogContent: trinketDialog %}
+[Interrogation oneshot](/stories/oneshots/chapter-7/).
 
-They needn't agree, because Kismet was watching the interrogation and reading Qibli's mind. When she thought about her vessel, Kismet knew of its location — Firecrackers's corpse.
+Kismet was watching the interrogation and reading Qibli's mind. When she thought about her vessel, Kismet knew of its location — Firecrackers's corpse.
 
 So they dug Firecrackers back up and cremated the motherfucker, returning magic to Qibli, and plugging her back into the machine. Kismet started to trust Trinket after this, and introduced the real him to her, fully accepting her into his closest circle.
 

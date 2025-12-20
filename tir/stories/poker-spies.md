@@ -15,56 +15,10 @@ time: 2041 - 2044
 desc: The story of four spies in the Fantoni invasion war.
 tags:
   - poker-spies
-jumboDialog:
-  - - "Sky: You shouldn't have done that."
-    - "Jumbo: What? Done what?"
-  - Jumbo turned around to see Sky clad in a jet-black uniform.
-  - - "Sky: Brought strangers to your home."
-    - "Jumbo: It's not my home?"
-    - "Sky: Oh? What is it then?"
-    - "Jumbo: It's my studio."
-    - "Sky: But you live here?"
-    - "Jumbo: Only occasionally."
-  - Sky was stepping around the room, surveying the place, arms behind his back.
-  - - "Sky: But you sleep here at night?"
-    - "Jumbo: Ehh… yes."
-    - "Sky: How long have you been living here?"
-    - "Jumbo: For the past month…"
-    - "Sky: Then it is your home."
-  - Jumbo narrowed her eyes.
-  - - "Jumbo: When did you put on that coat? I don't remember you carrying it. And it kind of looks like a government uniform?"
-    - "Sky: I'm so glad you asked."
-  - Sky pulled his badge out of his pocket and showed it to Jumbo.
-  - - "Sky: The name's Sky Elmwood Dazzle, Ministry of State Security."
-    - "Jumbo: I *knew* it!"
-    - "Sky: Jumbo, you are arrested for espionage. Minimum of 10 years, up to the death penalty."
-  - Sky pulled out a pair of handcuffs by his left hand, dangling them in front of Jumbo.
-  - - "Jumbo: Um, what?"
-    - "Sky: Don't pretend like the Ministry isn't going to know about your correspondence with the enemy."
-    - "Jumbo: But — Wait! Let me explain! I — I made everything up! Surely you know that? I never gave them real information! I was — I was *intentionally* misleading them for the benefit of Bauhinia!"
-    - "Sky: The Ministry does not care whether the information is true or false. The Ministry only cares about whether you did it. Did you, or did you not?"
-  - Jumbo was sweating and heaving, on the verge of tears.
-  - - "Jumbo: I… I did."
-    - "Sky: I appreciate your honesty."
-  - He produced a piece of paper from his right hand. A contract.
-  - - "Sky: The Ministry is generous enough to offer you a chance to atone for your crimes, and even receive merit. Come work with us. Or…"
-  - He jingled the handcuffs in his left hand. Both hands are extended towards Jumbo. She swallowed.
-  - - "Jumbo: I'll work with you. Th-thank you."
-tsunamiDialog:
-  - - "Tsunami: Aren't you Crackers's little friend?"
-    - "Qibli: Aren't you Crackers's sister?"
-    - "Tsunami: Are you the one selling magic?"
-    - "Qibli: Well, are you buying it?"
-  - But suddenly, Fantoni police stormed into the room. Apparently the intermediary ratted them out, having heard that Qibli was being wanted.
-  - And well, if some normal police could catch Qibli then Qibli wouldn't be Qibli. She grabbed onto Tsunami and teleported them both to Tsunami's dad's grocery store, unaware that it had been shut down.
-  - - "Qibli: Did you rat me out?"
-    - "Tsunami: No!"
 prev:
   - "[Pearl's Journey Home - Sylvandia](/stories/pearls-journey-home-sylvandia/)"
 banner: banner sky
 ---
-
-<link rel="stylesheet" href="/css/dialog.css"/>
 
 Any info is subject to change! This story is really experimental to me (for some reason, because I can't name any qualities that make it so experimental. Maybe because it's some actual spy shit lmao) but I am pretty proud of it!
 
@@ -143,7 +97,7 @@ Jumbo met Sky in a restaurant, but quickly, Sky asked to go somewhere more priva
 
 In the split second Jumbo had her back turned, Goose released Sky, letting his uniform show. Still invisible, she slipped away, trusting her apprentice to handle it.
 
-{% include 'dialog', dialogContent: jumboDialog %}
+[Sky recruits Jumbo oneshot](/stories/oneshots/chapter-8/).
 
 Thus, Jumbo was recruited as Agent Hearts.
 
@@ -195,7 +149,7 @@ Sky prepared Westavian papers for Tsunami, who first entered Westavia before goi
 
 Qibli was waiting for her when she went in.
 
-{% include 'dialog', dialogContent: tsunamiDialog %}
+[Tsunami confronts Qibli oneshot](/stories/oneshots/chapter-9/).
 
 and then something something and tsunami gets back to confirm skys worst fears. His friend had murdered his other friend, indirectly or not. But was Sky any better? Didn't he use Firecrackers's death to manipulate Tsunami into working for him? But she completed the mission, Sky told himself. I did the right thing.
 
