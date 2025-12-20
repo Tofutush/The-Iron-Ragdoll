@@ -1,6 +1,6 @@
 ---
 chTitle: Tsunami Confronts Qibli
-chNum: 9
+chNum: 8
 date: 2025-12-21
 dialog:
   - - "Tsunami: Aren't you Crackers's little friend?"

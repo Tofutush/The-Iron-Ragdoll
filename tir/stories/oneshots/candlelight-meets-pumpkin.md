@@ -1,7 +1,7 @@
 ---
 chTitle: Candlelight Meets Pumpkin
 dialog:
-  - "At the station, Candlelight saw a nervous guy asking around for directions."
+  - At the station, Candlelight saw a nervous guy asking around for directions.
   - - "Pumpkin: Excuse me; do you know how I can get to Amoxicillin?"
     - "Ticket salesperson: Uh, there's a health center near the station. You can go ask them."
     - "Pumpkin: No, no, I'm not looking for the medicine Amoxicillin — Ugh this is hard —"
@@ -29,7 +29,7 @@ dialog:
     - "Candlelight: Yes. I never caught your name?"
     - "Pumpkin: Oh, right, sorry! I'm Curly."
     - "Candlelight: Candlelight. It's a pleasure meeting you."
-chNum: 6
+chNum: 5
 date: 2025-12-18
 ---
 <link rel="stylesheet" href="/css/dialog.css"/>

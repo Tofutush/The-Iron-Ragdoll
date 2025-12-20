@@ -23,7 +23,7 @@ dialog:
   - - "Sugarcane: You glued me to the seat??"
   - But Harmony was gone. As soon as she stepped out of the lecture hall she burst into a sprint.
 chTitle: Harmony's Arrest
-chNum: 10
+chNum: 9
 date: 2025-12-30
 draft: true
 ---

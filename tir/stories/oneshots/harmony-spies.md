@@ -1,6 +1,6 @@
 ---
 chTitle: Harmony Spies
-chNum: 3
+chNum: 2
 date: 2025-07-12
 ---
 
