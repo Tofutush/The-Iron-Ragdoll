@@ -61,7 +61,7 @@ By this time [Kismet](/characters/kismet/) had already figured out that magic co
 
 Except that it's not working. They took Qibli out again. Trinket suggested that she must've stored her magic in a vessel right before being knocked out. She was ordered to interrogate Qibli on where her vessel is. The real Kismet told her that he was assigned her assistant.
 
-[Interrogation oneshot](/stories/oneshots/chapter-7/).
+[Interrogation oneshot](/stories/oneshots/chapter-6/).
 
 Kismet was watching the interrogation and reading Qibli's mind. When she thought about her vessel, Kismet knew of its location — Firecrackers's corpse.
 
