@@ -354,6 +354,8 @@ const data = [
         id: "The Absolute End to TIR as We Know It",
         parentIds: [
             
+                "Project Kismet",
+            
         ],
         url: "/stories/the-absolute-end-to-tir-as-we-know-it/"
     },
