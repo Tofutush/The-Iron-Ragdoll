@@ -9,6 +9,8 @@ myTags:
   - Moreland
 time: end
 complete: true
+prev:
+  - "[Project Kismet](/stories/project-kismet/)"
 ---
 
 If the timeline of events in TIR will end one definite day, it would happen like this.
