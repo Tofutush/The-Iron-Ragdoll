@@ -44,6 +44,13 @@
         "type": "DIRECTORIES",
         "pattern": "world/timeline",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "stories/map",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
