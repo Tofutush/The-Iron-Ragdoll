@@ -4,7 +4,7 @@ let font12 = 12, font16 = 16, font20 = 20;
 // stuff in the graph, for updating
 let simulation, linkGroup, link, linkLabel1, linkLabel2, nodeGroup, node, nodeLabel, bigG;
 // stuff for filtering
-let focusCh = "", depth = 1;
+let focusCh = "", depth = 1, hideMinor = false;
 
 // Create the SVG container.
 const svg = d3.select("#graph")
@@ -210,10 +210,11 @@ function dragended(event) {
 }
 
 // filtering for character and depth
-function setFocus(ch, d) {
-	if ((focusCh === ch && d === depth) || focusCh === 'none' && ch === 'none') return;
+function setFocus(ch, d, hide) {
+	if ((focusCh === ch && depth === d && hideMinor === hide) || focusCh === 'none' && ch === 'none' && hideMinor === hide) return;
 	focusCh = ch;
 	depth = d;
+	hideMinor = hide;
 	if (focusCh === 'none') {
 		document.getElementById('depthInput').disabled = true;
 		document.getElementById('chNum').innerHTML = data.ch.length + ' character' + (data.ch.length === 1 ? '' : 's');
@@ -251,5 +252,6 @@ function setFocus(ch, d) {
 	}
 }
 
-document.getElementById('chInput').onchange = e => setFocus(e.target.value, depth);
-document.getElementById('depthInput').oninput = e => setFocus(focusCh, e.target.value);
+document.getElementById('chInput').onchange = e => setFocus(e.target.value, depth, hideMinor);
+document.getElementById('depthInput').oninput = e => setFocus(focusCh, e.target.value, hideMinor);
+document.getElementById('hide-minor').onchange = e => setFocus(focusCh, depth, e.target.value);
