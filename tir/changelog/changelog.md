@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-21
+
+- Added `halcyon ref.png`, `sugarcane gun.png`;
+
 ## 2025-12-19
 
 - Updated Pumpkin's and Goose's reference images;
