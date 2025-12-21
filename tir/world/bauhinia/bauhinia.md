@@ -92,7 +92,7 @@ For girls, their names would be given name + mother's given name + father's give
 
 For boys, their names would be given name + father's given name + mother's given name. For example, "[Bramble](/characters/bramble/) [Nightsun](/characters/nightsun/) [Sparky](/characters/sparky/)."
 
-When your legal guardians change, they can apply for a name change for you. Sparky's name was Sparky Amber Jackal before Peacock became her stepdad. [Fantasy](/characters/fantasy/) also had her name changed from Fantasy Rainbow Peacock to Fantasy Amber Peacock. But [Ironheart](/characters/ironheart/) remained as Ironheart Peacock Reindeer because Amber had already died by the time he moved in with Peacock.
+When your legal guardians change, they can apply for a name change for you.
 
 ## History
 

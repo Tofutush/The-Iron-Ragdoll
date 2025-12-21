@@ -35,13 +35,15 @@ At the camp, he met [Hyrax](/characters/minor#hyrax/), there because of a lovely
 
 ## Adulthood
 
-Peacock searched for Amber, which was hard because Sparky really didn't know how Amber and Peacock met. He got under his parents' pressure to marry Rainbow and had Fantasy, though Rainbow died soon after. He then married Reindeer and had Ironheart, but they divorced; Peacock kept Fantasy and Ironheart went to Reindeer.
+Peacock searched for Amber, which was hard because Sparky really didn't know how Amber and Peacock met. His parents kept bugging him about grandchildren, so he got mad and simply adopted Fantasy.
 
 And then he found her. Amber. Mother of his previous life. That she didn't get to love enough.
 
 Then let's love her again in this life.
 
-They had Willow, but Amber got killed for finding out too much about Starcorp's doings. Reindeer died a while later too, so Ironheart came back to Peacock. Now he's raising four kids on his own lmao (but Fantasy's an adult by now).
+They had Willow, but Amber got killed for finding out too much about Starcorp's doings.
+
+Fantasy told Peacock that she remembered having a little brother, but he was adopted way before she did, and asked Peacock to find him. He eventually found him, and Ironheart started living with them.
 
 When Sparky died in front of his eyes, he barely felt anything, because he knew it would happen.
 
