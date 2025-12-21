@@ -730,15 +730,15 @@ rel2: "daughter"
 {
 source: "Peacock",
 target: "Fantasy",
-rel1: "father",
-rel2: "daughter"
+rel1: "adoptive father",
+rel2: "adoptive daughter"
 },
 
 {
 source: "Peacock",
 target: "Ironheart",
-rel1: "father",
-rel2: "son"
+rel1: "adoptive father",
+rel2: "adoptive son"
 },
 
 {
@@ -751,15 +751,15 @@ rel2: "friend"
 {
 source: "Willow",
 target: "Fantasy",
-rel1: "younger half-sister",
-rel2: "older half-sister"
+rel1: "younger stepsister",
+rel2: "older stepsister"
 },
 
 {
 source: "Willow",
 target: "Ironheart",
-rel1: "younger half-sister",
-rel2: "older half-brother"
+rel1: "younger stepsister",
+rel2: "older stepbrother"
 },
 
 {
@@ -1304,8 +1304,8 @@ rel2: "boss"
 {
 source: "Fantasy",
 target: "Ironheart",
-rel1: "older half-sister",
-rel2: "younger half-brother"
+rel1: "older sister",
+rel2: "younger brother"
 },
 
 {
