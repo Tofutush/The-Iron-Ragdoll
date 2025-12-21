@@ -352,11 +352,11 @@
     "ch": [
       [
         "Peacock",
-        "father"
+        "adoptive father"
       ],
       [
         "Fantasy",
-        "daughter"
+        "adoptive daughter"
       ]
     ],
     "desc": ""
@@ -365,11 +365,11 @@
     "ch": [
       [
         "Peacock",
-        "father"
+        "adoptive father"
       ],
       [
         "Ironheart",
-        "son"
+        "adoptive son"
       ]
     ],
     "desc": ""
@@ -391,11 +391,11 @@
     "ch": [
       [
         "Willow",
-        "younger half-sister"
+        "younger stepsister"
       ],
       [
         "Fantasy",
-        "older half-sister"
+        "older stepsister"
       ]
     ],
     "desc": "Fantasy and Willow have the [same father](/characters/peacock/) but different mothers."
@@ -404,11 +404,11 @@
     "ch": [
       [
         "Willow",
-        "younger half-sister"
+        "younger stepsister"
       ],
       [
         "Ironheart",
-        "older half-brother"
+        "older stepbrother"
       ]
     ],
     "desc": "Willow and Ironheart have the [same father](/characters/peacock/) but different mothers."
@@ -1417,11 +1417,11 @@
     "ch": [
       [
         "Fantasy",
-        "older half-sister"
+        "older sister"
       ],
       [
         "Ironheart",
-        "younger half-brother"
+        "younger brother"
       ]
     ],
     "desc": "Fantasy and Ironheart have the [same father](/characters/peacock/) but different mothers."

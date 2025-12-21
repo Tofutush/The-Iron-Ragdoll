@@ -9,6 +9,8 @@ eleventyNavigation:
 ## 2025-12-21
 
 - Added `halcyon ref.png`, `sugarcane gun.png`;
+- Did a little recton;
+	- Basically, Peacock doesn't have so many dead wives now; he adopted Fantasy before he met Amber, and Fantasy told him there was a little brother who got adopted before her and she'd really like to reunite with him. While Sparky was on her [journey](/stories/pearls-journey-home/), Peacock found Ironheart's new family and pressured them into giving Ironheart to him, so he came right on time for [the Yacht Trip](/stories/the-yacht-trip/);
 
 ## 2025-12-19
 
