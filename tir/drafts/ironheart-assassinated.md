@@ -5,10 +5,9 @@ chs:
   - sparky
   - animus
   - cobalt
-time: 
+time:
 desc: Ironheart gets assassinated. Fortunately, he survives. Unfortunately, he is no longer Ironheart.
 myTags:
-  - Canon
   - Bauhinia
   - Coastline
 ---
