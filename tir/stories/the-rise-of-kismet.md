@@ -10,6 +10,7 @@ myTags:
   - Flower City
   - Bauhinia
   - Kismet's presidency
+complete: true
 ---
 
 Kismet was born in 1984 in Flower City to a disgraced, once-influential politician long since irrelevant. He made it his life's mission to restore his father's honor.
