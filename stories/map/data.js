@@ -185,8 +185,18 @@ const data = [
     },
 
     {
+        id: "The Rise of Kismet",
+        parentIds: [
+            
+        ],
+        url: "/stories/the-rise-of-kismet/"
+    },
+
+    {
         id: "Project Boomerang",
         parentIds: [
+            
+                "The Rise of Kismet",
             
         ],
         url: "/stories/project-boomerang/"
