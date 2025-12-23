@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-23
+
+- New story: [The Rise of Kismet](/stories/the-rise-of-kismet/);
+
 ## 2025-12-21
 
 - Added `halcyon ref.png`, `sugarcane gun.png`;
