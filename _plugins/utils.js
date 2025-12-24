@@ -1,8 +1,15 @@
 import markdownIt from "markdown-it";
-import holidays from '../_data/holidays.json' with {type: 'json'};
+import markdownItExternalLinks from "markdown-it-external-links";
+import holidays from '../_data/holidays.json' with { type: 'json' };
 
 function utilPlugin(eleventyConfig) {
-	const mdRender = new markdownIt();
+	const mdRender = new markdownIt({
+		html: true,
+		breaks: true,
+		linkify: true
+	}).use(markdownItExternalLinks, {
+		externalTarget: '_blank'
+	});
 	eleventyConfig.addFilter('lowerCase', function (s) {
 		return s.toLowerCase();
 	});
