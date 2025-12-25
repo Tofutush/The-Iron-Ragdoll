@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-25
+
+- Added a "hide minor relationships" button to the [relationships graph](/characters/relationships/), changed the depth limit to 5;
+
 ## 2025-12-24
 
 - Updated [Sparky](/characters/sparky/)'s about section;
