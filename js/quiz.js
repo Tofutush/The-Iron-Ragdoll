@@ -10,8 +10,6 @@ class Quiz {
 		this.bigQDiv = elt('div', { id: 'questions' });
 		this.resultsDiv = elt('div', { id: 'results' });
 		this.buttonDiv = elt('button', { style: 'display: block; margin: auto', onclick: () => this.submit() }, 'Submit!');
-		this.errorDiv = elt('p', { style: 'text-align: center' });
-		this.error = false;
 	}
 
 	init() {
@@ -49,7 +47,6 @@ class Quiz {
 		this.div.appendChild(this.bigQDiv);
 		// submit
 		this.div.appendChild(elt('hr'));
-		this.div.appendChild(this.errorDiv);
 		this.div.appendChild(this.buttonDiv);
 	}
 
@@ -67,7 +64,7 @@ class Quiz {
 		// then add
 		let multiplier = e.target.checked ? 1 : -1;
 		for (let p of Object.keys(personalities))
-			this.responses[qIdx][p] = (this.responses[qIdx][p] ?? 0) + multiplier * personalities[p];
+			this.responses[qIdx][p] = Math.max(0, (this.responses[qIdx][p] ?? 0) + multiplier * personalities[p]);
 	}
 
 	noneOfTheAbove(qIdx, ulDiv) {
@@ -79,30 +76,22 @@ class Quiz {
 	}
 
 	submit() {
-		if (this.error) {
-			this.errorDiv.innerHTML = 'There are unresolved errors in the quiz. Please go back and fix them!';
-			return;
+		console.log(this.responses);
+		let scores = Object.fromEntries(Object.keys(this.results).map(name => [name, 0]));
+		for (const response of this.responses) {
+			if (!response) continue;
+			for (let [name, val] of Object.entries(response)) scores[name] += val;
 		}
-		this.errorDiv.innerHTML = '';
-		let result = [];
-		for (let idx in Object.keys(this.results)) result[idx] = [Object.keys(this.results)[idx], 0];
-		for (let z = 0; z < this.responses.length; z++) {
-			if (this.responses[z]) {
-				for (let personality of Object.keys(this.responses[z])) {
-					result.find(r => r[0] === personality)[1] += this.responses[z][personality];
-				}
-			}
-		}
-		result.sort((a, b) => b[1] - a[1]);
+		let result = Object.entries(scores).sort((a, b) => b[1] - a[1]);
 		this.div.appendChild(this.resultsDiv);
 		this.renderResult(result);
+		console.log(result);
 		localStorage.setItem('mssQuizResult', JSON.stringify(result));
 	}
 
 	renderResult(result) {
 		// check tie
-		let tie = false;
-		if (result[0][1] === result[1][1]) tie = true;
+		let tie = result.length > 1 && result[0][1] === result[1][1];
 		this.resultsDiv.innerHTML = '';
 		this.resultsDiv.appendChild(elt('p', { style: 'text-align: center' }, 'Your result is…'));
 		if (tie) {
