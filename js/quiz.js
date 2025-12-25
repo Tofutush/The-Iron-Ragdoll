@@ -9,6 +9,9 @@ class Quiz {
 		this.responses = [];
 		this.bigQDiv = elt('div', { id: 'questions' });
 		this.resultsDiv = elt('div', { id: 'results' });
+		this.buttonDiv = elt('button', { style: 'display: block; margin: auto', onclick: () => this.submit() }, 'Submit!');
+		this.errorDiv = elt('p', { style: 'text-align: center' });
+		this.error = false;
 	}
 
 	init() {
@@ -28,9 +31,16 @@ class Quiz {
 			if (q.randomize ?? this.randomize) shuffle(q.answers);
 			for (let x = 0; x < q.answers.length; x++) {
 				let a = q.answers[x];
-				let inputDiv = elt('input', { name: 'q' + z, type: 'radio', onchange: e => this.setAnswer(z, a.response) });
+				let inputDiv;
+				if (q.multi) inputDiv = elt('input', { name: 'q' + z, type: 'checkbox', onchange: e => this.setMultiAnswer(e, z, a.response, ulDiv) });
+				else inputDiv = elt('input', { name: 'q' + z, type: 'radio', onchange: e => this.setAnswer(z, a.response) });
 				let labelDiv = elt('label', {}, inputDiv, a.text);
 				let liDiv = elt('li', {}, labelDiv);
+				ulDiv.appendChild(liDiv);
+			}
+			// add none of the above
+			if (q.multi && q.addNoneAbove) {
+				let liDiv = elt('li', { className: 'none-of-the-above' }, elt('label', {}, elt('input', { name: 'q' + z, type: 'checkbox', onchange: e => this.noneOfTheAbove(z, ulDiv) }), 'None of the above.'));
 				ulDiv.appendChild(liDiv);
 			}
 			questionDiv.appendChild(ulDiv);
@@ -39,14 +49,41 @@ class Quiz {
 		this.div.appendChild(this.bigQDiv);
 		// submit
 		this.div.appendChild(elt('hr'));
-		this.div.appendChild(elt('button', { style: 'display: block; margin: auto', onclick: () => this.submit() }, 'Submit!'));
+		this.div.appendChild(this.errorDiv);
+		this.div.appendChild(this.buttonDiv);
 	}
 
 	setAnswer(qIdx, personalities) {
 		this.responses[qIdx] = personalities;
 	}
 
+	setMultiAnswer(e, qIdx, personalities, ulDiv) {
+		// remove none of the above if it exists
+		if (ulDiv.lastChild.className === 'none-of-the-above') ulDiv.lastChild.firstChild.firstChild.checked = false;
+		// if no response yet, init
+		if (!this.responses[qIdx]) {
+			this.responses[qIdx] = {};
+		}
+		// then add
+		let multiplier = e.target.checked ? 1 : -1;
+		for (let p of Object.keys(personalities))
+			this.responses[qIdx][p] = (this.responses[qIdx][p] ?? 0) + multiplier * personalities[p];
+	}
+
+	noneOfTheAbove(qIdx, ulDiv) {
+		this.responses[qIdx] = {};
+		// clear out all others
+		for (let z = 0; z < ulDiv.children.length - 1; z++) {
+			ulDiv.children[z].firstChild.firstChild.checked = false;
+		}
+	}
+
 	submit() {
+		if (this.error) {
+			this.errorDiv.innerHTML = 'There are unresolved errors in the quiz. Please go back and fix them!';
+			return;
+		}
+		this.errorDiv.innerHTML = '';
 		let result = [];
 		for (let idx in Object.keys(this.results)) result[idx] = [Object.keys(this.results)[idx], 0];
 		for (let z = 0; z < this.responses.length; z++) {
