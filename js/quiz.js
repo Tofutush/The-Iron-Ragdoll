@@ -7,16 +7,20 @@ class Quiz {
 		this.randomize = quizContent.randomize;
 
 		this.responses = [];
+		this.bigQDiv = elt('div', { id: 'questions' });
 		this.resultsDiv = elt('div', { id: 'results' });
 	}
 
 	init() {
+		this.div.appendChild(this.resultsDiv);
+		if (localStorage.getItem('mssQuizResult')) {
+			this.renderResult(JSON.parse(localStorage.getItem('mssQuizResult')));
+		}
 		this.div.appendChild(elt('p', {}, this.desc));
 		this.div.appendChild(elt('p', { className: 'graybox' }, 'Select an answer for the options below. You can also leave questions empty. Some questions may be multi-select, and will be marked as such.'));
 		// questions
-		let bigQDiv = elt('div', { id: 'questions' });
 		for (let z = 0; z < this.questions.length; z++) {
-			bigQDiv.appendChild(elt('hr'));
+			this.bigQDiv.appendChild(elt('hr'));
 			let q = this.questions[z];
 			let questionDiv = elt('div', { className: 'question' });
 			questionDiv.appendChild(elt('ol', { start: z + 1 }, elt('li', {}, elt('strong', {}, q.title))));
@@ -30,14 +34,12 @@ class Quiz {
 				ulDiv.appendChild(liDiv);
 			}
 			questionDiv.appendChild(ulDiv);
-			bigQDiv.appendChild(questionDiv);
+			this.bigQDiv.appendChild(questionDiv);
 		}
-		this.div.appendChild(bigQDiv);
+		this.div.appendChild(this.bigQDiv);
 		// submit
 		this.div.appendChild(elt('hr'));
 		this.div.appendChild(elt('button', { style: 'display: block; margin: auto', onclick: () => this.submit() }, 'Submit!'));
-		this.div.appendChild(this.resultsDiv);
-		if (localStorage.getItem('mssQuizResult')) this.renderResult(localStorage.getItem('mssQuizResult'));
 	}
 
 	setAnswer(qIdx, personalities) {
@@ -55,12 +57,13 @@ class Quiz {
 			}
 		}
 		result.sort((a, b) => b[1] - a[1]);
+		this.div.appendChild(this.resultsDiv);
 		this.renderResult(result);
+		localStorage.setItem('mssQuizResult', JSON.stringify(result));
 	}
 
 	renderResult(result) {
 		console.log(result);
-
 		// check tie
 		let tie = false;
 		if (result[0][1] === result[1][1]) tie = true;
@@ -68,12 +71,41 @@ class Quiz {
 		this.resultsDiv.appendChild(elt('p', { style: 'text-align: center' }, 'Your result is…'));
 		if (tie) {
 			this.resultsDiv.appendChild(elt('h1', { style: 'text-align: center' }, 'You got a tie!'));
+			let list = elt('p', { style: 'text-align: center' }, 'Between ');
+			let index = 0;
+			while (index < result.length && result[index][1] === result[0][1]) {
+				let name = result[index][0];
+				if (index != 0) list.appendChild(document.createTextNode(', '));
+				list.appendChild(elt('a', { href: this.results[name].url }, name));
+				index++;
+			}
+			this.resultsDiv.appendChild(list);
+			// loop again to display descs
+			index = 0;
+			while (index < result.length && result[index][1] === result[0][1]) {
+				this.resultsDiv.appendChild(this.getPersonality(result[index][0]));
+				index++;
+			}
 		} else {
-			let name = result[0][0];
-			this.resultsDiv.appendChild(elt('h1', { style: 'text-align: center' }, elt('a', { href: this.results[name].url }, name)));
-			this.resultsDiv.appendChild(elt('img', { src: this.results[name].img, className: 'max max-500' }));
-			this.resultsDiv.appendChild(elt('p', { style: 'text-align: center' }, this.results[name].desc));
+			this.resultsDiv.appendChild(this.getPersonality(result[0][0]));
 		}
+		let olDiv = elt('ol');
+		for (let z = 0; z < result.length; z++) {
+			let name = result[z][0];
+			olDiv.appendChild(elt('li', {}, elt('a', { href: this.results[name].url }, name), `: ${result[z][1]}`));
+		}
+		this.resultsDiv.appendChild(olDiv);
+		this.resultsDiv.appendChild(elt('p', { style: 'text-align: center' }, "Want to retry? Simply do the form and submit again!"));
+	}
+
+	getPersonality(name) {
+		let div = elt('div');
+		div.appendChild(elt('h1', { style: 'text-align: center' }, elt('a', { href: this.results[name].url }, name)));
+		div.appendChild(elt('img', { src: this.results[name].img, className: 'max max-500' }));
+		let desc = elt('p', { style: 'text-align: center' });
+		desc.innerHTML = this.results[name].desc;
+		div.appendChild(desc);
+		return div;
 	}
 }
 
