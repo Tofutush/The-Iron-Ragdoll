@@ -7,13 +7,14 @@ class Quiz {
 		this.randomize = quizContent.randomize;
 
 		this.responses = [];
+		this.resultsDiv = elt('div', { id: 'results' });
 	}
 
 	init() {
 		this.div.appendChild(elt('p', {}, this.desc));
 		this.div.appendChild(elt('p', { className: 'graybox' }, 'Select an answer for the options below. You can also leave questions empty. Some questions may be multi-select, and will be marked as such.'));
 		// questions
-		let bigQDiv = elt('div');
+		let bigQDiv = elt('div', { id: 'questions' });
 		for (let z = 0; z < this.questions.length; z++) {
 			bigQDiv.appendChild(elt('hr'));
 			let q = this.questions[z];
@@ -35,6 +36,8 @@ class Quiz {
 		// submit
 		this.div.appendChild(elt('hr'));
 		this.div.appendChild(elt('button', { style: 'display: block; margin: auto', onclick: () => this.submit() }, 'Submit!'));
+		this.div.appendChild(this.resultsDiv);
+		if (localStorage.getItem('mssQuizResult')) this.renderResult(localStorage.getItem('mssQuizResult'));
 	}
 
 	setAnswer(qIdx, personalities) {
@@ -51,8 +54,26 @@ class Quiz {
 				}
 			}
 		}
+		result.sort((a, b) => b[1] - a[1]);
+		this.renderResult(result);
+	}
+
+	renderResult(result) {
 		console.log(result);
 
+		// check tie
+		let tie = false;
+		if (result[0][1] === result[1][1]) tie = true;
+		this.resultsDiv.innerHTML = '';
+		this.resultsDiv.appendChild(elt('p', { style: 'text-align: center' }, 'Your result is…'));
+		if (tie) {
+			this.resultsDiv.appendChild(elt('h1', { style: 'text-align: center' }, 'You got a tie!'));
+		} else {
+			let name = result[0][0];
+			this.resultsDiv.appendChild(elt('h1', { style: 'text-align: center' }, elt('a', { href: this.results[name].url }, name)));
+			this.resultsDiv.appendChild(elt('img', { src: this.results[name].img, className: 'max max-500' }));
+			this.resultsDiv.appendChild(elt('p', { style: 'text-align: center' }, this.results[name].desc));
+		}
 	}
 }
 
