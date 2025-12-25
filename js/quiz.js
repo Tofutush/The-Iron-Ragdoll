@@ -140,6 +140,25 @@ function shuffle(array) {
 		[array[i], array[j]] = [array[j], array[i]];
 	}
 }
+function scanResults(quizContent) {
+	const characters = Object.keys(quizContent.results);
+	quizContent.questions.forEach((q, qi) => {
+		// init totals to 0
+		const totals = Object.fromEntries(characters.map(c => [c, 0]));
+		// accumulate answer weights
+		q.answers.forEach(a => {
+			for (const [char, weight] of Object.entries(a.response)) totals[char] += weight;
+		});
+		// log totals
+		console.log(`${qi + 1}. ${q.title}`);
+		for (const char of characters) console.log(`  ${char}: ${totals[char]}`);
+		// warn about zero-weight characters
+		const zeroes = characters.filter(c => totals[c] === 0);
+		if (zeroes.length) {
+			console.warn(`Question ${qi + 1} has zero-weight characters:`, zeroes);
+		}
+	});
+}
 
 function elt(type, props, ...children) {
 	let dom = document.createElement(type);
