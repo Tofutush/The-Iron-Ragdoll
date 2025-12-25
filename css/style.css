@@ -256,6 +256,14 @@ input[type="range"] {
 
 label {
 	line-height: 2;
+	cursor: pointer;
+	display: block;
+	border-radius: 1em;
+	padding: .2em 1em;
+}
+
+label:hover {
+	background-color: var(--box);
 }
 
 .lighter-text {
