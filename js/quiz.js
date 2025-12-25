@@ -25,7 +25,7 @@ class Quiz {
 			let questionDiv = elt('div', { className: 'question' });
 			questionDiv.appendChild(elt('ol', { start: z + 1 }, elt('li', {}, elt('strong', {}, q.title))));
 			let ulDiv = elt('ul');
-			if (this.randomize) shuffle(q.answers);
+			if (q.randomize ?? this.randomize) shuffle(q.answers);
 			for (let x = 0; x < q.answers.length; x++) {
 				let a = q.answers[x];
 				let inputDiv = elt('input', { name: 'q' + z, type: 'radio', onchange: e => this.setAnswer(z, a.response) });
