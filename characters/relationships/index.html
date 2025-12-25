@@ -78,8 +78,11 @@
     <p>No idea why I did this but it was fun.</p>
     <p>Try hovering over things, zooming and panning, and clicking on them leads to their profiles!</p>
     <p>My end goal is to have every character connected — leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
-    <p>Here you can focus on one character and the characters surrounding them. Don't drag the slider too quickly, or the thing will start to lag because my code is completely unoptimized! Yay!</p>
-    <div class="flex-around">
+    <div class="smaller-text graybox" style="max-width: 800px; margin: auto;">
+      <p>Here you can focus on one character and the characters surrounding them. Don't drag the slider too quickly, or the thing will start to lag because my code is completely unoptimized! Yay!</p>
+      <p>"Minor relationships" are relationships with no text description. Do note that I just forget (or don't know how to yet) write descriptions for some relationships so it's not that accurate. (If you spam the button the graph spins around.)</p>
+    </div>
+    <div class="flex-around graybox" style="margin: 2em 0">
       <p style="margin: 0;">Focus on: <select id="chInput" name="ch" value="none">
           <option value="none">None</option>
           <option value="Sparky">Sparky</option>
@@ -172,7 +175,8 @@
           <option value="Mulberry">Mulberry</option>
           <option value="Blackjack">Blackjack</option>
         </select></p>
-      <p style="margin: 0;">Depth <span id="depth">1</span>: <input id="depthInput" type="range" min="1" max="10" value="1"></p>
+      <p style="margin: 0;">Depth <span id="depth">1</span>: <input id="depthInput" type="range" min="1" max="5" value="1"></p>
+      <label for="hide-minor"><input type="checkbox" id="hide-minor"> Hide minor relationships</label>
     </div>
     <p style="text-align: center;">Displaying <span id="chNum"></span> with <span id="linkNum"></span> between them.</p>
     <div id="wrapper">
