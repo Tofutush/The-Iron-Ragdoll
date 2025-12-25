@@ -17,6 +17,7 @@ class Quiz {
 			let questionDiv = elt('div', { className: 'question' });
 			questionDiv.appendChild(elt('ol', { start: z + 1 }, elt('li', {}, elt('strong', {}, q.title))));
 			let ulDiv = elt('ul');
+			if (this.randomize) shuffle(q.answers);
 			for (let x = 0; x < q.answers.length; x++) {
 				let a = q.answers[x];
 				let inputDiv = elt('input', { name: 'q' + z, type: 'radio' });
@@ -35,6 +36,13 @@ class Quiz {
 	submit() {
 		console.log('submitted');
 
+	}
+}
+
+function shuffle(array) {
+	for (let i = array.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		[array[i], array[j]] = [array[j], array[i]];
 	}
 }
 
