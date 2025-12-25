@@ -4,7 +4,7 @@ let font12 = 12, font16 = 16, font20 = 20;
 // stuff in the graph, for updating
 let simulation, linkGroup, link, linkLabel1, linkLabel2, nodeGroup, node, nodeLabel, bigG;
 // stuff for filtering
-let focusCh = "", depth = 1, hideMinor = false;
+let focusCh = '', depth = 1, hideMinor = false;
 
 // Create the SVG container.
 const svg = d3.select("#graph")
@@ -26,7 +26,7 @@ const svg = d3.select("#graph")
 // zoom wrapper
 bigG = svg.append('g');
 
-setFocus('none', 1);
+setFocus('none', depth, hideMinor);
 
 function updateGraph(data) {
 	const links = [...data.rel];
@@ -211,25 +211,38 @@ function dragended(event) {
 
 // filtering for character and depth
 function setFocus(ch, d, hide) {
+	console.log(ch, d, hide);
+
 	if ((focusCh === ch && depth === d && hideMinor === hide) || focusCh === 'none' && ch === 'none' && hideMinor === hide) return;
+	console.log(ch, d, hide);
+
 	focusCh = ch;
 	depth = d;
 	hideMinor = hide;
 	if (focusCh === 'none') {
+		let relNew = [];
+		if (hideMinor) relNew = data.rel.filter(r => !r.minor);
+		else relNew = data.rel;
 		document.getElementById('depthInput').disabled = true;
 		document.getElementById('chNum').innerHTML = data.ch.length + ' character' + (data.ch.length === 1 ? '' : 's');
-		document.getElementById('linkNum').innerHTML = data.rel.length + ' connection' + (data.rel.length === 1 ? '' : 's');
-		updateGraph(data);
+		document.getElementById('linkNum').innerHTML = relNew.length + ' connection' + (data.rel.length === 1 ? '' : 's');
+		updateGraph({
+			ch: data.ch,
+			rel: relNew
+		});
 	} else {
 		document.getElementById('depth').innerHTML = depth;
 		document.getElementById('depthInput').disabled = false;
 		// filter out this character. filter bc we need color as well
 		let chNew = data.ch.filter(c => c.id === focusCh);
+		let relNew = [];
+		if (hideMinor) relNew = data.rel.filter(r => !r.minor);
+		else relNew = data.rel;
 		// characters. loop once for each depth
 		for (let z = 0; z < depth; z++) {
 			// finds every character that has a link to the current list
 			chNew.push(...data.ch.filter(c =>
-				data.rel.some(r => chNew.some(c2 =>
+				relNew.some(r => chNew.some(c2 =>
 					(c.id === r.source.id && c2.id === r.target.id)
 					|| (c.id === r.target.id && c2.id === r.source.id))
 				)
@@ -237,11 +250,9 @@ function setFocus(ch, d, hide) {
 			));
 		}
 		// find rels whose source and target are both in the list
-		let relNew = [];
-		relNew = data.rel.filter(r =>
+		relNew = relNew.filter(r =>
 			chNew.some(c => c.id === r.source.id)
 			&& chNew.some(c => c.id === r.target.id)
-			&& !relNew.includes(r)
 		);
 		document.getElementById('chNum').innerHTML = chNew.length + ' character' + (chNew.length === 1 ? '' : 's');
 		document.getElementById('linkNum').innerHTML = relNew.length + ' connection' + (relNew.length === 1 ? '' : 's');
@@ -254,4 +265,4 @@ function setFocus(ch, d, hide) {
 
 document.getElementById('chInput').onchange = e => setFocus(e.target.value, depth, hideMinor);
 document.getElementById('depthInput').oninput = e => setFocus(focusCh, e.target.value, hideMinor);
-document.getElementById('hide-minor').onchange = e => setFocus(focusCh, depth, e.target.value);
+document.getElementById('hide-minor').onchange = e => setFocus(focusCh, depth, e.target.checked);
