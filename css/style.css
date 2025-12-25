@@ -251,7 +251,7 @@ select {
 }
 
 input[type="range"] {
-	width: 12em;
+	width: 10em;
 }
 
 label {
