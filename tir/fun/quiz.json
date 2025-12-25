@@ -1,15 +1,4 @@
----
-layout: article.liquid
-title: MSS Personality Quiz
-desc: Which MSS character are you?
-tags: fun
-eleventyNavigation:
-  parent: Fun
----
-
-<div id="quiz"></div>
-<script>
-const quizContent = {
+{
   "randomize": true,
   "results": {
     "Paperweight": {
@@ -210,5 +199,3 @@ const quizContent = {
     }
   ]
 }
-</script>
-<script src="/js/quiz.js"></script>
