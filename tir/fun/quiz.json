@@ -136,7 +136,7 @@
           }
         },
         {
-          "text": "I won't kick it down. I'd knock and ask politely, \"can you please turn around so we can handcuff you, thank you so much/\"",
+          "text": "I won't kick it down. I'd knock and ask politely, \"can you please turn around so we can handcuff you, thank you so much\"",
           "response": {
             "Pumpkin": 2,
             "Sky": 1
@@ -195,6 +195,65 @@
             "Paperweight": 2,
             "Goose": 1
           }
+        }
+      ]
+    },
+    {
+      "title": "Who among these people do you think are spies?",
+      "multi": true,
+      "randomize": false,
+      "answers": [
+        {
+          "text": "A middle-aged person, married with 3 kids, 2 cats, and 1 dog. Lives in the suburbs close to a military base.",
+          "response": {
+            "Goose": 1,
+            "Halcyon": 1
+          }
+        },
+        {
+          "text": "A college student active in leftist spaces.",
+          "response": {
+            "Goose": 1,
+            "Whiteout": 1
+          }
+        },
+        {
+          "text": "A homosexual person with no further context.",
+          "response": {
+            "Goose": 1,
+            "Paperweight": 1
+          }
+        },
+        {
+          "text": "A young child living with a diplomat parent.",
+          "response": {
+            "Goose": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "The diplomat parent of said young child",
+          "response": {
+            "Goose": 2
+          }
+        },
+        {
+          "text": "A person who openly expresses anti-government sentiment.",
+          "response": {
+            "Sugarcane": 1,
+            "Goose": 1
+          }
+        },
+        {
+          "text": "A person with family in an enemy state.",
+          "response": {
+            "Pumpkin": 1,
+            "Goose": 1
+          }
+        },
+        {
+          "text": "A middle-aged young homosexual college student with family in an enemy state, married with 3 kids, 2 cats, and 1 dog living with their diplomat parent while also being a diplomat parent of one young child and are active in leftist spaces while openly expressing anti-government sentiment, with no further context.",
+          "response": {}
         }
       ]
     }
