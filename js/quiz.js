@@ -63,7 +63,6 @@ class Quiz {
 	}
 
 	renderResult(result) {
-		console.log(result);
 		// check tie
 		let tie = false;
 		if (result[0][1] === result[1][1]) tie = true;
