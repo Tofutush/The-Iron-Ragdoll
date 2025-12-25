@@ -6,10 +6,16 @@ tags: fun
 eleventyNavigation:
   parent: Fun
 ---
-
+<style>
+  .question ul {
+    list-style: none;
+  }
+</style>
 <div id="quiz"></div>
+<script src="/js/quiz.js"></script>
 <script>
 const quizContent = {
+  "desc": "The Ministry of State Security, widely feared and revered by the citizens of Bauhinia. Who will you be among its ranks? The ruthless spymaster, the hapless scapegoat, or the brainwashed patriot? Find out below!",
   "randomize": true,
   "results": {
     "Paperweight": {
@@ -210,5 +216,6 @@ const quizContent = {
     }
   ]
 }
+let quiz = new Quiz(document.getElementById('quiz'), quizContent);
+quiz.init();
 </script>
-<script src="/js/quiz.js"></script>
