@@ -116,6 +116,125 @@
       ]
     },
     {
+      "title": "Some kid next to you on a train is being really annoying…",
+      "answers": [
+        {
+          "text": "Shove my MSS badge into their face and threaten to arrest them if they keep it up.",
+          "response": {
+            "Sky": 1,
+            "Goose": 1,
+            "Sugarcane": 1,
+            "Paperweight": 1
+          }
+        },
+        {
+          "text": "Extremely angrily tell the kid's parents to get them to shut up.",
+          "response": {
+            "Paperweight": 1
+          }
+        },
+        {
+          "text": "I don't mind at all. Let them have fun!",
+          "response": {
+            "Pumpkin": 1,
+            "Whiteout": 1
+          }
+        },
+        {
+          "text": "Politely tell the kid to be quiet.",
+          "response": {
+            "Pumpkin": 1,
+            "Whiteout": 1,
+            "Halcyon": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "A person you're dealing with tried to bribe you. What do you do?",
+      "answers": [
+        {
+          "text": "Harshly reject them and charge them for bribery.",
+          "response": {
+            "Whiteout": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "Stare at the money or cigarettes or wine or whatever and go \"haHAHAHAhahaHAHAHAHA.\"",
+          "response": {
+            "Goose": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "Take the money and do what they want.",
+          "response": {
+            "Paperweight": 1
+          }
+        },
+        {
+          "text": "Take the money and not do what they asked for anyways.",
+          "response": {
+            "Halcyon": 1
+          }
+        },
+        {
+          "text": "Look at them dumbfoundedly, not sure what to do.",
+          "response": {
+            "Pumpkin": 1,
+            "Goose": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "A long-awaited day off! What are you going to do?",
+      "answers": [
+        {
+          "text": "Sleep in bed all day.",
+          "response": {
+            "Pumpkin": 1
+          }
+        },
+        {
+          "text": "I spend it with people significant to me, as I rarely have time to keep them company.",
+          "response": {
+            "Whiteout": 1,
+            "Halcyon": 1
+          }
+        },
+        {
+          "text": "I go back to work because I have no life outside of it.",
+          "response": {
+            "Goose": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I spend the entire day playing video games late into the night and show up to work the next day with dark circles under my eyes.",
+          "response": {
+            "Sky": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I'd go on a hike!",
+          "response": {
+            "Whiteout": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "I'd go shopping!",
+          "response": {
+            "Sugarcane": 1,
+            "Goose": 1
+          }
+        }
+      ]
+    },
+    {
       "title": "You and your team are about to kick the door of a suspect open. What would you do?",
       "answers": [
         {
