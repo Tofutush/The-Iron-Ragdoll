@@ -239,6 +239,112 @@
       ]
     },
     {
+      "title": "Would you eat at the MSS cafeteria?",
+      "randomize": false,
+      "answers": [
+        {
+          "text": "It ok, it good!",
+          "response": {
+            "Goose": 1,
+            "Halcyon": 1,
+            "Sugarcane": 1,
+            "Whiteout": 1
+          }
+        },
+        {
+          "text": "No, it poison!",
+          "response": {
+            "Paperweight": 1,
+            "Pumpkin": 1,
+            "Sky": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "What's your opinion on young people?",
+      "randomize": false,
+      "answers": [
+        {
+          "text": "I HATE young people!!!",
+          "response": {
+            "Paperweight": 2
+          }
+        },
+        {
+          "text": "I AM young people.",
+          "response": {
+            "Goose": 1,
+            "Pumpkin": 1,
+            "Sky": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I make them do the work I don't wanna do, and they can't complain because they want promotions.",
+          "response": {
+            "Halcyon": 1,
+            "Paperweight": 1
+          }
+        },
+        {
+          "text": "They will ruin the Ministry. They will ruin the country. They're gonna get us all killed.",
+          "response": {
+            "Paperweight": 2
+          }
+        },
+        {
+          "text": "They are the future of the country. I place great hope and expectations in them, and I would do my best to guide them.",
+          "response": {
+            "Whiteout": 2,
+            "Goose": 1,
+            "Sky": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "What do you do about enemy agents who refuse to talk during an interrogation?",
+      "randomize": false,
+      "answers": [
+        {
+          "text": "If I'm nice enough they would open up to me!",
+          "response": {
+            "Pumpkin": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I play good-cop bad-cop with whoever chose the \"be nice\" option.",
+          "response": {
+            "Goose": 1,
+            "Halcyon": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "Nothing beats a little blackmail.",
+          "response": {
+            "Sky": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "Torture torture go go go",
+          "response": {
+            "Goose": 2
+          }
+        },
+        {
+          "text": "Refuse to talk? They all wet their pants when they see me! They tell me everything from who they work for to what they ate for breakfast when I don't even ask! nobody \"refuses to talk\" to me!",
+          "response": {
+            "Paperweight": 1,
+            "Whiteout": 1
+          }
+        }
+      ]
+    },
+    {
       "title": "Who among these people do you think are spies?",
       "multi": true,
       "randomize": false,
