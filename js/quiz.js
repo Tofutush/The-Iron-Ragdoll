@@ -24,7 +24,7 @@ class Quiz {
 			this.bigQDiv.appendChild(elt('hr'));
 			let q = this.questions[z];
 			let questionDiv = elt('div', { className: 'question' });
-			questionDiv.appendChild(elt('ol', { start: z + 1 }, elt('li', {}, elt('strong', {}, q.title))));
+			questionDiv.appendChild(elt('ol', { start: z + 1 }, elt('li', {}, elt('strong', {}, q.title + (q.multi ? ' (Choose multiple)' : '')))));
 			let ulDiv = elt('ul');
 			if (q.randomize ?? this.randomize) shuffle(q.answers);
 			for (let x = 0; x < q.answers.length; x++) {
