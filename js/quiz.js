@@ -120,6 +120,7 @@ class Quiz {
 			olDiv.appendChild(elt('li', {}, elt('a', { href: this.results[name].url }, name), `: ${result[z][1]}`));
 		}
 		this.resultsDiv.appendChild(olDiv);
+		this.resultsDiv.appendChild(elt('p', { style: 'text-align: center' }, elt('a', { href: "https://tofutush.leprd.space/guestbook/", target: "_blank", className: 'external-link' }, "Tell me your results!")));
 		this.resultsDiv.appendChild(elt('p', { style: 'text-align: center' }, "Want to retry? Simply do the form and submit again!"));
 	}
 
