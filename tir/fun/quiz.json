@@ -345,6 +345,159 @@
       ]
     },
     {
+      "title": "Your agent betrayed you and started working for the enemy. What do you do?",
+      "answers": [
+        {
+          "text": "*muffled scream* *gunshot* \"okay, they're dealt with.\"",
+          "response": {
+            "Goose": 2,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "They must've been blackmailed into it. I can help them!",
+          "response": {
+            "Pumpkin": 2
+          }
+        },
+        {
+          "text": "I start feeding them false information that they'd pass to their new bosses.",
+          "response": {
+            "Paperweight": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "I cut ties completely. Who are you? Do I know you? Don't talk to me.",
+          "response": {
+            "Halcyon": 1
+          }
+        },
+        {
+          "text": "I report back to my boss and await proper orders.",
+          "response": {
+            "Whiteout": 1,
+            "Sugarcane": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "They never told you secret police work involves so much paperwork…",
+      "answers": [
+        {
+          "text": "I use ChatGPT",
+          "response": {
+            "Goose": 1,
+            "Sky": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I give this work to my apprentices dreaming of promotions.",
+          "response": {
+            "Paperweight": 1,
+            "Halcyon": 1
+          }
+        },
+        {
+          "text": "I can handle it.",
+          "response": {
+            "Halcyon": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I CAN'T HANDLE THIS.",
+          "response": {
+            "Pumpkin": 2,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "I work diligently, to the best of my ability.",
+          "response": {
+            "Whiteout": 1,
+            "Pumpkin": 1,
+            "Sugarcane": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "Your alarm didn't go off and now you're late for work. What do you do?",
+      "answers": [
+        {
+          "text": "I rush over, and upon arrival I notice I'm still wearing slippers.",
+          "response": {
+            "Pumpkin": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I call in sick.",
+          "response": {
+            "Paperweight": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "I still spend a bunch of time on makeup like I always do and arrive even later.",
+          "response": {
+            "Goose": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "I apologize profusely and work extra hard that day.",
+          "response": {
+            "Whiteout": 1,
+            "Halcyon": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "You got assigned a tailing (following people around) shift on the same day as the birthday of someone significant to you. No one else can take your place. What do you do?",
+      "answers": [
+        {
+          "text": "I go on the shift, apologize to the significant person, and promise to make it up somehow.",
+          "response": {
+            "Pumpkin": 1,
+            "Whiteout": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I don't have anyone significant to me alive.",
+          "response": {
+            "Paperweight": 1
+          }
+        },
+        {
+          "text": "I take the significant person on the shift with me.",
+          "response": {
+            "Goose": 1
+          }
+        },
+        {
+          "text": "I cook up an elaborate plan to do both things at once.",
+          "response": {
+            "Halcyon": 1,
+            "Whiteout": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I simply don't do the shift, go celebrate the birthday, and fake a report later.",
+          "response": {
+            "Goose": 1,
+            "Sky": 1
+          }
+        }
+      ]
+    },
+    {
       "title": "Who among these people do you think are spies?",
       "multi": true,
       "randomize": false,
@@ -401,6 +554,72 @@
         {
           "text": "A middle-aged young homosexual college student with family in an enemy state, married with 3 kids, 2 cats, and 1 dog living with their diplomat parent while also being a diplomat parent of one young child and are active in leftist spaces while openly expressing anti-government sentiment, with no further context.",
           "response": {}
+        }
+      ]
+    },
+    {
+      "title": "Finally, do you like your job???",
+      "answers": [
+        {
+          "text": "I am a vessel for violence. I am oppression personified. I am not human inside this uniform. My heart is made of lead. If I died the world would be a better place.",
+          "response": {
+            "Halcyon": 1
+          }
+        },
+        {
+          "text": "I got a cool uniform and a cool baton! I am so cool! *generic excited noises*",
+          "response": {
+            "Goose": 1
+          }
+        },
+        {
+          "text": "I feel so scared of screwing up, yet I wanna do well and have those important people recognize me!",
+          "response": {
+            "Pumpkin": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "It's just a job. What more is there to it? I'm retiring next year.",
+          "response": {
+            "Sky": 1,
+            "Paperweight": 1
+          }
+        },
+        {
+          "text": "I'm okay with it.",
+          "response": {
+            "Goose": 1,
+            "Pumpkin": 1,
+            "Sky": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "I'd rather be a Youtuber instead.",
+          "response": {
+            "Pumpkin": 1,
+            "Halcyon": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "I have a responsibility for my fellow citizens. I am granted with power meant to protect and serve. I will not let them down.",
+          "response": {
+            "Whiteout": 2
+          }
+        },
+        {
+          "text": "It's only useful when I can provide secrets to the country with which my true loyalties lie.",
+          "response": {
+            "Halcyon": 2
+          }
+        },
+        {
+          "text": "This is the most amazing thing ever. I am more than human in this uniform. I represent order. I AM THE LAW.",
+          "response": {
+            "Goose": 2
+          }
         }
       ]
     }
