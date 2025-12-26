@@ -57,7 +57,7 @@ const quizContent = {
     "Whiteout": {
       "url": "../../characters/whiteout/",
       "img": "{% capture url %}{% imageUrl 'gallery/' 'whiteout profile' 'png' 500 %}{% endcapture %}{{ url | htmlBaseUrl }}",
-      "desc": "You're like, currently the oldest character in TIR. You are cold and emotionless, but underneath the mask, you care for your colleagues a lot. You have no idea what milk tea is and that's a tragedy considering it's a very traditional Westavian drink (not that you like the Westavians, but still)."
+      "desc": "You're like, currently the oldest character in TIR. You are cold and emotionless, but underneath the mask, you care for your colleagues a lot. Though they would call you a traitor, you know the truth was that you were the one betrayed by the country you used to love. You have no idea what milk tea is and that's a tragedy considering it's a very traditional Westavian drink (not that you like the Westavians, but still)."
     },
     "Sky": {
       "url": "../../characters/sky/",
@@ -269,6 +269,45 @@ const quizContent = {
           "response": {
             "Paperweight": 1,
             "Halcyon": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "Why did you join the MSS?",
+      "answers": [
+        {
+          "text": "I literally had no choice.",
+          "response": {
+            "Paperweight": 1,
+            "Pumpkin": 1
+          }
+        },
+        {
+          "text": "I wish to serve my country.",
+          "response": {
+            "Whiteout": 1,
+            "Goose": 1,
+            "Halcyon": 1,
+            "Sugarcane": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "It pays well.",
+          "response": {
+            "Paperweight": 1,
+            "Goose": 1,
+            "Pumpkin": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "It makes me look cool in front of everyone else.",
+          "response": {
+            "Goose": 1,
+            "Sky": 1,
+            "Sugarcane": 1
           }
         }
       ]
@@ -616,6 +655,83 @@ const quizContent = {
       ]
     },
     {
+      "title": "An enemy organization offered you triple salary to defect. What would you do?",
+      "answers": [
+        {
+          "text": "Moreland, here I come! Hang on it's Westavia?? Never mind.",
+          "response": {
+            "Halcyon": 1
+          }
+        },
+        {
+          "text": "No fucking way!",
+          "response": {
+            "Goose": 1,
+            "Sugarcane": 1
+          }
+        },
+        {
+          "text": "Maybe with more money…",
+          "response": {
+            "Whiteout": 1,
+            "Sky": 1,
+            "Paperweight": 1
+          }
+        },
+        {
+          "text": "You don't even need to offer me money to convince me.",
+          "response": {
+            "Halcyon": 1
+          }
+        },
+        {
+          "text": "I would like to, but I'm scared of what they're gonna do to me if they find out.",
+          "response": {
+            "Pumpkin": 1,
+            "Sky": 1
+          }
+        }
+      ]
+    },
+    {
+      "title": "Your childhood friend is accused of treason.",
+      "answers": [
+        {
+          "text": "I trust the authorities to know what they're doing.",
+          "response": {
+            "Sugarcane": 2
+          }
+        },
+        {
+          "text": "They must be wrong. My friend would never do it! I have to help them!",
+          "response": {
+            "Pumpkin": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "Time to grab them and flee the country.",
+          "response": {
+            "Whiteout": 1,
+            "Halcyon": 1
+          }
+        },
+        {
+          "text": "I would confront my friend myself to figure out the truth.",
+          "response": {
+            "Goose": 1,
+            "Sky": 1
+          }
+        },
+        {
+          "text": "Friend? What's that?",
+          "response": {
+            "Paperweight": 1
+          }
+        }
+      ]
+    },
+    {
       "title": "You got assigned a tailing (following people around) shift on the same day as the birthday of someone significant to you. No one else can take your place. What do you do?",
       "answers": [
         {
@@ -777,6 +893,13 @@ const quizContent = {
           "text": "This is the most amazing thing ever. I am more than human in this uniform. I represent order. I AM THE LAW.",
           "response": {
             "Goose": 2
+          }
+        },
+        {
+          "text": "I used to. But now I regret it.",
+          "response": {
+            "Paperweight": 1,
+            "Whiteout": 1
           }
         }
       ]
