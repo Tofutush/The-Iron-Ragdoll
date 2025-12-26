@@ -38,7 +38,7 @@ It should be obvious that I do not agree with everything presented on this site,
 
 ### JavaScript usage
 
-This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the relationship graph, the scavenger hunt result page, and most of the [fun](/fun/) pages. The personality quiz needs a script too for some reason. It should be fine to view most other things with JS disabled.
+This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the relationship graph, the scavenger hunt result page, and most of the [fun](/fun/) pages. It should be fine to view most other things with JS disabled.
 
 ### License
 

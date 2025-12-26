@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2025-12-25
 
 - Added a "hide minor relationships" button to the [relationships graph](/characters/relationships/), changed the depth limit to 5;
+- The [MSS personality quiz](/fun/mss-quiz/) has been updated to include all 7 MSS characters determined through 20 questions, and is no longer relying on uQuiz;
 
 ## 2025-12-24
 
