@@ -20,7 +20,7 @@ categories:
   <dt>Demonym</dt>
   <dd>Bauhunian</dd>
   <dt>Capital</dt>
-  <dd><a href="/world/bauhinia/">Flower City</a></dd>
+  <dd><a href="/world/bauhinia/flower-city/">Flower City</a></dd>
   <dt>National day</dt>
   <dd>February 24<sup>th</sup></dd>
   <dt>Symbol</dt>
