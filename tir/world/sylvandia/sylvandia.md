@@ -39,11 +39,11 @@ The closest geographical mirror to Sylvandia is Siberia.
 
 ### States
 
-- [Solarine](solarine/)
-- [Lunarale](lunarale/)
-- [Mistle](mistle/)
-- [Holliloli](holliloli/)
-- [Snowdale](snowdale/)
+- [Solarine](/world/sylvandia/solarine/)
+- [Lunarale](/world/sylvandia/lunarale/)
+- [Mistle](/world/sylvandia/mistle/)
+- [Holliloli](/world/sylvandia/holliloli/)
+- [Snowdale](/world/sylvandia/snowdale/)
 
 ### Places
 

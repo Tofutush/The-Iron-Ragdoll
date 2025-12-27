@@ -3,5 +3,6 @@
         "parent": "Fanton"
     },
     "banner": "banner fanton",
-    "image": "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/gallery/fanton flag.png"
+    "image": "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/gallery/fanton flag.png",
+    "themeColor": "#B212D2"
 }
