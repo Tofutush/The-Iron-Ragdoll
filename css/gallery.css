@@ -67,36 +67,39 @@
 	width: 800px;
 }
 
-.container {
+.modal img {
+	height: 80vh;
+	width: 90vw;
+	object-fit: contain;
+	margin: 5vh 0;
+}
+
+.prev,
+.next {
+	position: fixed;
+	top: 0;
+	height: 100%;
 	display: flex;
-	gap: 1em;
-	justify-content: space-between;
-	width: 100%;
 	align-items: center;
+	border-radius: 0;
+	background-color: transparent;
 
-	& img {
-		height: 80vh;
-		object-fit: contain;
-		margin: 5vh 0;
-		min-width: 0;
-	}
+	&.noclick {
+		opacity: .5;
 
-	& button {
-		height: 100%;
-		display: flex;
-		align-items: center;
-		border-radius: 0;
-		background-color: transparent;
-
-		&.noclick {
-			opacity: .5;
-
-			&:hover {
-				cursor: not-allowed;
-				background-image: none !important;
-			}
+		&:hover {
+			cursor: not-allowed;
+			background-image: none !important;
 		}
 	}
+}
+
+.prev {
+	left: 0
+}
+
+.next {
+	right: 0
 }
 
 .chbuttons {
@@ -108,7 +111,6 @@
 
 .close {
 	color: var(--off-white);
-	cursor: pointer;
 	position: fixed;
 	background-color: transparent;
 	right: 2em;
