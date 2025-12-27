@@ -75,7 +75,7 @@
 	align-items: center;
 
 	& img {
-		height: 90vh;
+		height: 80vh;
 		object-fit: contain;
 		margin: 5vh 0;
 		min-width: 0;
@@ -95,14 +95,6 @@
 				cursor: not-allowed;
 				background-image: none !important;
 			}
-		}
-
-		&:first-child:hover {
-			background-image: linear-gradient(to right, var(--box-dark), transparent);
-		}
-
-		&:last-child:hover {
-			background-image: linear-gradient(to left, var(--box-dark), transparent);
 		}
 	}
 }
