@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2025-12-27
 
 - Added `nebula folded wings.png`;
+- Edited gallery layout;
 
 ## 2025-12-25
 
