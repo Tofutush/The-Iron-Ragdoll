@@ -4,8 +4,8 @@
 		let img = images[z].querySelector('img');
 		let modal = images[z].querySelector('.modal');
 		let close = modal.querySelector('.close');
-		let prev = modal.querySelector('.buttons').children[0];
-		let next = modal.querySelector('.buttons').children[1];
+		let prev = modal.querySelector('.prev');
+		let next = modal.querySelector('.next');
 		img.addEventListener('click', e => {
 			modal.style.display = 'flex';
 			document.body.style.overflow = 'hidden';
