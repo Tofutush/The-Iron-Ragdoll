@@ -95,11 +95,19 @@
 }
 
 .prev {
-	left: 0
+	left: 0;
+
+	&:hover {
+		background-image: linear-gradient(to right, var(--box-dark), transparent);
+	}
 }
 
 .next {
-	right: 0
+	right: 0;
+
+	&:hover {
+		background-image: linear-gradient(to left, var(--box-dark), transparent);
+	}
 }
 
 .chbuttons {
