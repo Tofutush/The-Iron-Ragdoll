@@ -14,7 +14,7 @@
 				<a>{% lucide 'chevron-left' 48 'var(--off-white)' %}</a>
 				<a>{% lucide 'chevron-right' 48 'var(--off-white)' %}</a>
 			</div>
-			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}">{{ img.author }}</a></p>{% endif %}
+			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank">{{ img.author }}</a></p>{% endif %}
 			{% if img.ch %}
 			<div class="tags chbuttons">
 				{% for ch in img.ch %}
