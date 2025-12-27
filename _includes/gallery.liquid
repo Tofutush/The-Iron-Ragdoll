@@ -9,10 +9,10 @@
 		{% image path img.name img.type 120 img.name '' '' '' true %}
 		<div class="modal">
 			<div class="close">{% lucide 'x' 48 %}</div>
-			{% image path img.name img.type 1000 img.name %}
-			<div class="buttons">
-				<a>{% lucide 'chevron-left' 48 'var(--off-white)' %}</a>
-				<a>{% lucide 'chevron-right' 48 'var(--off-white)' %}</a>
+			<div class="container">
+				<button>{% lucide 'chevron-left' 48 'var(--off-white)' %}</button>
+				{% image path img.name img.type 1000 img.name %}
+				<button>{% lucide 'chevron-right' 48 'var(--off-white)' %}</button>
 			</div>
 			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank">{{ img.author }}</a></p>{% endif %}
 			{% if img.ch %}

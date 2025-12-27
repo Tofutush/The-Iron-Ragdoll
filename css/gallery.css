@@ -60,14 +60,6 @@
 		text-indent: 0;
 		opacity: .5;
 	}
-
-	& img {
-		background-color: transparent;
-		height: 80vh;
-		width: 90vw;
-		object-fit: contain;
-		margin: 5vh 0;
-	}
 }
 
 .comment {
@@ -75,18 +67,42 @@
 	width: 800px;
 }
 
-.buttons {
-	& a {
+.container {
+	display: flex;
+	gap: 1em;
+	justify-content: space-between;
+	width: 100%;
+	align-items: center;
+
+	& img {
+		height: 90vh;
+		object-fit: contain;
+		margin: 5vh 0;
+		min-width: 0;
+	}
+
+	& button {
+		height: 100%;
+		display: flex;
+		align-items: center;
+		border-radius: 0;
+		background-color: transparent;
+
 		&.noclick {
 			opacity: .5;
 
 			&:hover {
 				cursor: not-allowed;
+				background-image: none !important;
 			}
 		}
 
-		&:hover {
-			cursor: pointer;
+		&:first-child:hover {
+			background-image: linear-gradient(to right, var(--box-dark), transparent);
+		}
+
+		&:last-child:hover {
+			background-image: linear-gradient(to left, var(--box-dark), transparent);
 		}
 	}
 }
@@ -99,9 +115,10 @@
 }
 
 .close {
-	color: #fff;
+	color: var(--off-white);
 	cursor: pointer;
 	position: fixed;
 	right: 2em;
 	top: 2em;
+	z-index: 999;
 }
