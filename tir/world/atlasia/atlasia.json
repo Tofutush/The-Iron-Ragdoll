@@ -3,5 +3,6 @@
         "parent": "Atlasia"
     },
     "banner": "banner atlasia",
-    "image": "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/gallery/atlasia flag.png"
+    "image": "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/gallery/atlasia flag.png",
+    "themeColor": "#09721A"
 }

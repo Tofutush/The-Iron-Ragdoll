@@ -3,5 +3,6 @@
         "parent": "Moreland"
     },
     "banner": "banner moreland",
-    "image": "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/gallery/moreland flag.png"
+    "image": "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/gallery/moreland flag.png",
+    "themeColor": "#169986"
 }

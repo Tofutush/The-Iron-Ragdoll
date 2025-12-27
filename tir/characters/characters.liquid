@@ -11,6 +11,7 @@ eleventyComputed:
   desc: "{{ ch.desc }}"
   banner: "{% if ch.banner %}{{ ch.banner }}{% else %}banner sparky{% endif %}"
   image: "{% assign iconPath = ch.name | lowerCase | append: ' thumb' %}{% assign profilePath = ch.name | lowerCase | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl 'gallery/' profilePath 'png' '200' iconPath 'png' %}"
+  themeColor: "{{ ch.color }}"
   eleventyNavigation:
     parent: Characters
 ---

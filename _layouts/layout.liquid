@@ -3,6 +3,7 @@ navOptions:
   includeSelf: true
 banner: "banner sparky"
 image: "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png"
+themeColor: "#555555"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
@@ -15,7 +16,7 @@ eleventyComputed:
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="{{ desc }}" >
 	<meta name="author" content="Tofutush">
-	<meta name="theme-color" content="#555555" />
+	<meta name="theme-color" content="{{ themeColor }}" />
 	<meta property="og:title" content="{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll">
 	<meta property="og:type" content="website">
 	<meta property="og:image" content="{{ image }}">
