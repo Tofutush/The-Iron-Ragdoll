@@ -67,6 +67,7 @@ eleventyNavigation:
                     <li><a href="#profiles">Profiles</a></li>
                     <li><a href="#thumbnails">Thumbnails</a></li>
                     <li><a href="#souls">Souls</a></li>
+                    <li><a href="#references">References</a></li>
                 </ul>
             </li>
         </ul>
@@ -148,6 +149,14 @@ eleventyNavigation:
 <div class="pic-grid but-smaller no-gap">
     {% assign souls = gallery | filterGalleryByKind: "soul" %}
     {% for img in souls %}
+        {% assign ch = img.ch[0] %}
+        <a href="/characters/{{ ch }}/">{% image 'gallery/' img.name img.type 300 img.name %}</a>
+    {% endfor %}
+</div>
+<h3 id="references">References</h3>
+<div class="pic-grid">
+    {% assign refs = gallery | filterGalleryByKind: "ref" %}
+    {% for img in refs %}
         {% assign ch = img.ch[0] %}
         <a href="/characters/{{ ch }}/">{% image 'gallery/' img.name img.type 300 img.name %}</a>
     {% endfor %}
