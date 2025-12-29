@@ -62,7 +62,12 @@ eleventyNavigation:
 <h2 id="banners">Banners</h2>
 {% assign banners = gallery | filterGalleryByKind: "banner" %}
 {% for b in banners %}
-    {% image 'gallery/' b.name 'png' 3000 b.name 'max' %}
+    {% assign ch = b.ch[0] %}
+    {% if ch %}
+        <a href="/characters/{{ ch }}/">{% image 'gallery/' b.name 'png' 3000 b.name 'max' %}</a>
+    {% else %}
+        {% image 'gallery/' b.name 'png' 3000 b.name 'max' %}
+    {% endif %}
 {% endfor %}
 <h2 id="footers">Footers</h2>
 {% assign footers = gallery | filterGalleryByKind: "footer" %}
@@ -74,7 +79,7 @@ eleventyNavigation:
 <h2 id="new-year">New Year</h2>
 <p>Hopefully this can motivate me to draw one of these every year.</p>
 <div class="pic-grid">
-    {% image 'gallery/' 'cosmo snake year' 'png' 500 '2025 Year of the Snake' %}
+    <a href="/characters/cosmo/">{% image 'gallery/' 'cosmo snake year' 'png' 500 '2025 Year of the Snake' %}</a>
     <div></div><div></div>
 </div>
 <h2 id="wallpapers">Wallpapers</h2>
@@ -105,8 +110,8 @@ eleventyNavigation:
         {% assign profile = ch.name | append: ' profile' %}
         {% assign thumb = ch.name | append: ' thumb' %}
         {% assign soul = ch.name | append: ' soul' %}
-        {% image 'gallery/' profile 'png' 300 profile '' 'literally empty' 'png' %}
-        {% image 'gallery/' thumb 'png' 300 thumb '' 'literally empty' 'png' %}
-        {% image 'gallery/' soul 'png' 300 soul '' 'literally empty' 'png' %}
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image 'gallery/' profile 'png' 300 profile '' 'literally empty' 'png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image 'gallery/' thumb 'png' 300 thumb '' 'literally empty' 'png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image 'gallery/' soul 'png' 300 soul '' 'literally empty' 'png' %}</a>
     {% endfor %}
 </div>
