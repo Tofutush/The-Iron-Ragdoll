@@ -29,6 +29,12 @@ eleventyNavigation:
 			height: auto;
 		}
 	}
+    .but-smaller {
+    	grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    }
+    .no-gap {
+        gap: 0;
+    }
     .three-grid {
         display: grid;
         grid-template-columns: repeat(6, 1fr);
@@ -55,7 +61,14 @@ eleventyNavigation:
             <li><a href="#footers">Footers</a></li>
             <li><a href="#new-year">New Year</a></li>
             <li><a href="#wallpapers">Wallpapers</a></li>
-            <li><a href="#characters">Characters</a></li>
+            <li>
+                <a href="#characters">Characters</a>
+                <ul>
+                    <li><a href="#profiles">Profiles</a></li>
+                    <li><a href="#thumbnails">Thumbnails</a></li>
+                    <li><a href="#souls">Souls</a></li>
+                </ul>
+            </li>
         </ul>
     </div>
 </details>
@@ -113,5 +126,29 @@ eleventyNavigation:
         <a href="/characters/{{ ch.name | lowerCase }}">{% image 'gallery/' profile 'png' 300 profile '' 'literally empty' 'png' %}</a>
         <a href="/characters/{{ ch.name | lowerCase }}">{% image 'gallery/' thumb 'png' 300 thumb '' 'literally empty' 'png' %}</a>
         <a href="/characters/{{ ch.name | lowerCase }}">{% image 'gallery/' soul 'png' 300 soul '' 'literally empty' 'png' %}</a>
+    {% endfor %}
+</div>
+<h3 id="profiles">Profiles</h3>
+<div class="pic-grid no-gap">
+    {% assign profiles = gallery | filterGalleryByKind: "thumb new" %}
+    {% for img in profiles %}
+        {% assign ch = img.ch[0] %}
+        <a href="/characters/{{ ch }}/">{% image 'gallery/' img.name img.type 300 img.name %}</a>
+    {% endfor %}
+</div>
+<h3 id="thumbnails">Thumbnails</h3>
+<div class="pic-grid but-smaller no-gap">
+    {% assign thumbnails = gallery | filterGalleryByKind: "thumb" %}
+    {% for img in thumbnails %}
+        {% assign ch = img.ch[0] %}
+        <a href="/characters/{{ ch }}/">{% image 'gallery/' img.name img.type 300 img.name %}</a>
+    {% endfor %}
+</div>
+<h3 id="souls">Souls</h3>
+<div class="pic-grid but-smaller no-gap">
+    {% assign souls = gallery | filterGalleryByKind: "soul" %}
+    {% for img in souls %}
+        {% assign ch = img.ch[0] %}
+        <a href="/characters/{{ ch }}/">{% image 'gallery/' img.name img.type 300 img.name %}</a>
     {% endfor %}
 </div>
