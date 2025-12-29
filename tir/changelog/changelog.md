@@ -10,6 +10,7 @@ eleventyNavigation:
 
 - Added soul pictures for many characters;
 	- Also added them to character pages, near their icons;
+- Updated [collections](/gallery/collections/) to include character art and souls;
 
 ## 2025-12-28
 
