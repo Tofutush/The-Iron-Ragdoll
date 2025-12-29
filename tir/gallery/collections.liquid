@@ -121,9 +121,9 @@ eleventyNavigation:
 <h2 id="characters">Characters</h2>
 <div class="three-grid">
     {% for ch in characters %}
-        {% assign profile = ch.name | append: ' profile' %}
-        {% assign thumb = ch.name | append: ' thumb' %}
-        {% assign soul = ch.name | append: ' soul' %}
+        {% assign profile = ch.name | lowerCase | append: ' profile' %}
+        {% assign thumb = ch.name | lowerCase | append: ' thumb' %}
+        {% assign soul = ch.name | lowerCase | append: ' soul' %}
         <a href="/characters/{{ ch.name | lowerCase }}">{% image 'gallery/' profile 'png' 300 profile '' 'literally empty' 'png' %}</a>
         <a href="/characters/{{ ch.name | lowerCase }}">{% image 'gallery/' thumb 'png' 300 thumb '' 'literally empty' 'png' %}</a>
         <a href="/characters/{{ ch.name | lowerCase }}">{% image 'gallery/' soul 'png' 300 soul '' 'literally empty' 'png' %}</a>
