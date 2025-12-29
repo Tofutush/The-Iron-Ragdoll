@@ -54,6 +54,18 @@ eleventyNavigation:
 			{% endif %}
 		{% endfor %}
 	</dd>
+	<dt>Needs soul</dt>
+	<dd class="tags">
+		{% for ch in characters %}
+			{% assign filteredGallery = gallery | filterGallery: ch.name %}
+			{% assign soul = filteredGallery | filterGalleryByKind: 'soul' %}
+			{% if soul.size == 0 %}
+				{% include 'chButton', ch: ch.name %}
+			{% else %}
+				{% assign total = total | plus: 1 %}
+			{% endif %}
+		{% endfor %}
+	</dd>
 	<dt>Needs reference</dt>
 	<dd class="tags">
 		{% for ch in characters %}
@@ -81,5 +93,5 @@ eleventyNavigation:
 		{% endfor %}
 	</dd>
 </dl>
-<p>Completed: {{ total }} out of {{ characters.size | times: 3 }}!</p>
+<p>Completed: {{ total }} out of {{ characters.size | times: 4 }}!</p>
 <div class="progress-bar" style="background:linear-gradient(to right, var(--c) {{ total | divided_by: characters.size | divided_by: 3 | times: 100}}%, var(--box) {{ total | divided_by: characters.size | divided_by: 3 | times: 100 }}%"></div>
