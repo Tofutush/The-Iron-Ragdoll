@@ -29,6 +29,21 @@ eleventyNavigation:
 			height: auto;
 		}
 	}
+    .three-grid {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        gap: 0;
+
+		& img {
+			width: 100%;
+			height: auto;
+		}
+    }
+    @media only screen and (max-width: 480px) {
+        .three-grid {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
 </style>
 <h1>Picture collections</h1>
 <p>Here's a list of pictures to browse through.</p>
@@ -40,6 +55,7 @@ eleventyNavigation:
             <li><a href="#footers">Footers</a></li>
             <li><a href="#new-year">New Year</a></li>
             <li><a href="#wallpapers">Wallpapers</a></li>
+            <li><a href="#characters">Characters</a></li>
         </ul>
     </div>
 </details>
@@ -83,3 +99,14 @@ eleventyNavigation:
 	<a href="{% imageUrl 'bg/wall/' 'cms lineless chars alt portrait' 'png' 9999 '' '' 'png' %}">{% image 'bg/wall/' 'cms lineless chars alt portrait' 'png' 200 'cms lineless chars alt portrait' %}</a>
 </div>
 <p>By TheOliveOli, 1920 &times; 3840px</p>
+<h2 id="characters">Characters</h2>
+<div class="three-grid">
+    {% for ch in characters %}
+        {% assign profile = ch.name | append: ' profile' %}
+        {% assign thumb = ch.name | append: ' thumb' %}
+        {% assign soul = ch.name | append: ' soul' %}
+        {% image 'gallery/' profile 'png' 300 profile '' 'literally empty' 'png' %}
+        {% image 'gallery/' thumb 'png' 300 thumb '' 'literally empty' 'png' %}
+        {% image 'gallery/' soul 'png' 300 soul '' 'literally empty' 'png' %}
+    {% endfor %}
+</div>
