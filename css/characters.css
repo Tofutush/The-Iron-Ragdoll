@@ -15,12 +15,30 @@ blockquote {
 	align-items: center;
 	margin: 2em 0;
 
-	&>img {
-		height: 280px;
-		width: 280px;
-		background-color: var(--box);
-		border-radius: 1em;
+	&>div:first-child {
+		position: relative;
 		user-select: none;
+
+		&>img {
+			&:first-child {
+				height: 280px;
+				width: 280px;
+				background-color: var(--box);
+				border-radius: 1em;
+			}
+
+			&:last-child:not(:first-child) {
+				position: absolute;
+				height: 8em;
+				width: 8em;
+				right: -3em;
+				bottom: -3em;
+
+				&:hover {
+					animation: vibe 2s infinite;
+				}
+			}
+		}
 	}
 
 	&>.names {
@@ -130,10 +148,10 @@ blockquote {
 	width: auto;
 	z-index: 999;
 	filter: drop-shadow(0 0 16px var(--c));
-}
 
-.pagedoll:hover {
-	animation: fa-bounce 1s infinite;
+	&:hover {
+		animation: fa-bounce 1s infinite;
+	}
 }
 
 /* you guessed it -- from fontAwesome */
@@ -155,6 +173,20 @@ blockquote {
 	}
 }
 
+@keyframes vibe {
+	0% {
+		transform: scale(1);
+	}
+
+	50% {
+		transform: scale(0.8);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}
+
 @media only screen and (max-width: 780px) {
 	.title {
 		flex-direction: column;
@@ -166,5 +198,11 @@ blockquote {
 				text-align: center;
 			}
 		}
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.title>div>img:last-child {
+		right: 0;
 	}
 }

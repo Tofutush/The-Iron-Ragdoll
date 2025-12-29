@@ -22,6 +22,7 @@ eleventyComputed:
   {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
   {% assign ref = filteredGallery | getFirstOfKind: "ref" %}
   {% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
+  {% assign soul = filteredGallery | getFirstOfKind: "soul" %}
   {% if pagedoll %}
     {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
   {% endif %}
@@ -32,7 +33,12 @@ eleventyComputed:
   <div class="title">
     {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
     {% assign profilePath = ch.name | lowerCase | append: " profile" %}
-    {% image "gallery/" profilePath 'png' 'auto' ch.name '' iconPath 'png' %}
+    <div>
+      {% image "gallery/" profilePath 'png' 'auto' ch.name '' iconPath 'png' %}
+      {% if soul %}
+        {% image "gallery/" soul.name soul.type 200 soul.name 'soul' %}
+      {% endif %}
+    </div>
     <div class="names">
       {% if ch.namezh %}<h1 class="zh">{{ ch.namezh }}</h1>{% endif %}
       <h1 class="en">{{ ch.name }}</h1>
