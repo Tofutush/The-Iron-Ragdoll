@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-28
+
+- Moved both picture collections and wallpapers to [a new page](/gallery/collections/);
+
 ## 2025-12-27
 
 - Added `nebula folded wings.png`;
