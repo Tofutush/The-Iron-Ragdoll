@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2025-12-29
 
 - Added soul pictures for many characters;
+	- Also added them to character pages, near their icons;
 
 ## 2025-12-28
 
