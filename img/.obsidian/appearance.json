@@ -1,9 +1,0 @@
-{
-  "interfaceFontFamily": "JetBrains Mono",
-  "showRibbon": false,
-  "showViewHeader": false,
-  "theme": "obsidian",
-  "enabledCssSnippets": [
-    "bases"
-  ]
-}
