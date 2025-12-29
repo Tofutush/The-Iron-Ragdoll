@@ -91,7 +91,7 @@
       "scar outer": "#F6B6AC",
       "scar inner": "#D29D95",
       "shirt stripes light": "#DCE6F7",
-      "shirt stripes dark": "#F4D4C3",
+      "shirt stripes dark": "#B8CEF4",
       "hair": "#2E2E2E"
     },
     "about": "Peacock is [Hyrax](/characters/hyrax/)'s old friend and personal attorney.\n\n~~He is also [Sparky](/characters/sparky/)'s reincarnation.~~\n\nHe is practical and rational, and often appears quite emotionless. Around his kids, he constantly looks like he's about to kill himself.\n\nHis job, as he described it, is \"professional butt-wiper.\" He covers up Starcorp's illegal activities, either by framing them as legal, or making sure no one has enough evidence to implicate them. Big things don't pop up that often though, so most of his time is spent union-busting and shutting people up about general employee mistreatment.",
@@ -436,7 +436,7 @@
       "Weapon": "teaching stick"
     },
     "palette": {
-      "shirt": "#75430B",
+      "shirt": "#8E0F15",
       "hair": "#2e2e2e"
     },
     "about": "Jam is [Sparky](/characters/sparky/)'s teacher at [Coastline Middle School](/world/bauhinia/cms/) and [Jerboa](/characters/jerboa/)'s adoptive father."
@@ -840,6 +840,7 @@
     "attr": {
       "Full name": "Jackpot Cloudy",
       "Gender": "Male",
+      "Soul": "Solid, yuanbao-shaped",
       "Birth": "1994-10-20",
       "Nationality": "Atlasian"
     },
@@ -857,6 +858,7 @@
     "attr": {
       "Full name": "Snake Cloudy",
       "Gender": "Male",
+      "Soul": "Solid, snake-shaped",
       "Birth": "2026-06-18",
       "Nationality": "Atlasian"
     },
@@ -878,6 +880,7 @@
       "Full name": "Snowball 201710033746",
       "Pronouns": "she/her",
       "Energy": "Extrovert",
+      "Soul": "Solid, snowman-shaped",
       "Birth": "2017-10-03",
       "Nationality": "Moose",
       "Power": "Invisibility"
@@ -899,6 +902,7 @@
     "af": "https://artfight.net/character/5793882.buttercup",
     "attr": {
       "Gender": "Female",
+      "Soul": "Gas, buttercup-shaped",
       "Birth": "2010-02-03",
       "Nationality": "Sylvandian",
       "Weapon": "Rifle"
@@ -1149,6 +1153,7 @@
     "attr": {
       "Nickname": "Rose (by Pinecone)",
       "Gender": "Female",
+      "Soul": "Solid, rosemary-shaped",
       "Nationality": "Bauhinian",
       "Occupation": "Project Kismet's handler"
     },
@@ -1191,7 +1196,7 @@
     "af": "https://artfight.net/character/4038432.dragonfly",
     "attr": {
       "Gender": "Male",
-      "Soul": "Solid",
+      "Soul": "Solid, dragonfly-shaped",
       "Nationality": "Bauhinian",
       "Occupation": "Close protection officer",
       "Weapon": "Colt 1911 pistol"
@@ -1303,8 +1308,7 @@
       "glasses, shirt": "#b9b9b9",
       "hair": "#2E2E2E"
     },
-    "about": "Frosting grew up in the Project Boomerang laboratory with her parents.\n\nShe grew up to be a government archivist, tasked with erasing records of disappeared people in addition to whatever archivists usually do. She also manages the soul vault.\n\nShe let Jerboa into the archives to read about Project Boomerang and his parents.",
-    "note": "\n"
+    "about": "Frosting grew up in the Project Boomerang laboratory with her parents.\n\nShe grew up to be a government archivist, tasked with erasing records of disappeared people in addition to whatever archivists usually do. She also manages the soul vault.\n\nShe let Jerboa into the archives to read about Project Boomerang and his parents."
   },
   {
     "name": "Jaculus",
@@ -1341,6 +1345,7 @@
       "Full name": "Candlelight Ember (later Candlelight Muscat)",
       "Nickname": "Candle",
       "Gender": "Male",
+      "Soul": "Gas, flame-shaped",
       "Birth": "2003-12-02",
       "Nationality": "Westavian",
       "Occupation": "SPF officer"
@@ -1428,6 +1433,11 @@
       "Gender": "Female",
       "Soul": "Solid, icicle-shaped",
       "Nationality": "Westavian"
+    },
+    "palette": {
+      "shirt light": "#F3AB16",
+      "shirt dark": "#FF7300",
+      "hair:": "#2e2e2e"
     },
     "about": "When her friend [Starry](/characters/starry/) disappeared, she decided to find her, thus entering [Sunflower](/characters/sunflower/)'s paracosm."
   },
@@ -1625,6 +1635,7 @@
     "af": "https://artfight.net/character/6011564.moonbeam",
     "attr": {
       "Gender": "Female",
+      "Soul": "Gas, moon-shaped",
       "Nationality": "Sylvandian",
       "Occupation": "Psychic"
     },
@@ -1842,6 +1853,7 @@
     ],
     "attr": {
       "Gender": "Female",
+      "Soul": "Gas, rose-shaped",
       "Birth": "2041-04-09",
       "Nationality": "Bauhinian"
     },
