@@ -45,15 +45,15 @@ A teacher sat behind the table under the tent. The girls handed over their ID ca
 
 "You'd wager Sky pulled strings?"
 
-Grade seven class five was fortunately on the first floor of the main building. It was dimly-lit, with floor tiles that had once been white. At the front, the teacher's desk sat on an elevated platform, behind which was the blackboard on the wall, the bottom groove caked in chalk dust. The projector screen was retracted, leaving the default blue screen projected straight onto the blackboard. Forty or so wiggly, rusted desks cramped into the small space, and some kids were already sitting in them. Some lifted their heads as Harmony and Sugarcane walked in, but their interests faded when they realized they were only fellow students, not the teacher.
+Grade seven class five was fortunately on the first floor of the main building. It was dimly-lit, with floor tiles that had once been white. At the front, the teacher's desk sat on an elevated platform, where a huge stack of boxes lay, probably textbooks waiting to be handed out. The blackboard hung on the wall, the bottom groove caked in chalk dust. The projector screen was retracted, leaving the default blue screen projected straight onto the blackboard. Forty or so wiggly, rusted desks cramped into the small space, and some kids were already sitting in them. Some lifted their heads as Harmony and Sugarcane walked in, but their interests faded when they realized they were only fellow students, not the teacher.
 
-Sugarcane found two spots for them and they sat down next to each other. A girl with thick, long hair was right behind Harmony.
+Sugarcane found two spots for them right next to the door and they sat down next to each other. A girl with thick, long hair was right behind Harmony.
 
 Sugarcane turned around and said "hi" to her. She lifted her head, and that was when Harmony noticed her eyes were of different colors, one blue and one pink.
 
 Heterochromia, or two souls? Her ears were drooped so Harmony couldn't check the color of her inner ear.
 
-And then she saw, on her forehead, she had a *third* eye.
+And then she saw, on her forehead, she had a *third* eye. Yellow, with a black iris.
 
 "Hi," she said back.
 
@@ -65,11 +65,39 @@ Cosmo. "That's a pretty name," Harmony said.
 
 She felt a weird tingling sensation in her mind as Cosmo looked at her. It felt familiar, though she couldn't remember when she last felt it.
 
-"Thanks. Harmony is a good name too."
+"Thanks. Harmony is a good name too." Her third eye blinked. So it really was an eye.
 
-A teacher walked inside and the chatter died down. It was none other than Sky Elmwood Dazzle himself.
+"What's up with your eyes, if you don't mind?" Sugarcane asked. "I've never seen someone with different colored eyes before."
 
-"Good morning, class five!" He said cheerfully.
+"Oh," Cosmo flashed a smile. "I have two souls."
+
+"Whoa. How?"
+
+"Apparently I was supposed to be twins. But I ate the other kid or something," Cosmo rolled her eyes, including the third, which she pointed a finger to. "Probably how I got this thing too. I can't actually see out of it. It's just there, being creepy."
+
+"I don't think it's creepy at all!" Sugarcane said.
+
+"Really," Cosmo crossed her arms.
+
+"Well, maybe not," Sugarcane admitted. "But now I know what it is."
+
+A new student arrived at the door. "Is this class five?" He asked.
+
+"Sure is," Sugarcane immediately turned towards him. "I'm Sugarcane, this is Harmony, and this…"
+
+"Cosmo."
+
+"Hi, I'm Sunny." He walked over to the seat next to Cosmo, behind Sugarcane. "Mind if I sit here?"
+
+"Not at all," Cosmo said. She scooted over a little bit, the chair making a horrible scraping sound against the floor as Sunny settled down.
+
+They spent the rest of the time chatting. Well, Sugarcane, Cosmo, and Sunny at least. Harmony didn't speak a lot; she just watched. They caught Sunny up to Cosmo's eye situation. Sunny lived about an hour's drive away, and Cosmo had to take the subway to and from school. They both envied how Harmony and Sugarcane lived so close, but Harmony could tell that Cosmo realized what this said about their parents and didn't bring the topic up again.
+
+The classroom slowly filled up.
+
+At eight o'clock sharp, a teacher walked inside and the chatter died down. It was none other than Sky Elmwood Dazzle himself, holding a cup of coffee that said "#1 teacher."
+
+"Good morning, class five!" He said cheerfully, setting the cup down on the table.
 
 "Sky definitely pulled strings," Harmony whispered to Sugarcane.
 
@@ -93,7 +121,9 @@ After they returned to the air-conditioning of the classroom, Sky unpacked the b
 
 "Here are your student cards. Come up here and find which one has your name on it. You'll be needing this to swipe into the school from now on, as well as the cafeteria."
 
-Sugarcane went up first and found both of their cards.
+Sugarcane went up first and found both of their cards. She also went up when Sky asked for hands in helping him give everyone their textbooks.
+
+Harmony soon amassed a big pile. Language and literature, math, physics, chemistry, biology, geography… *The "science" class in elementary school had been dismembered, I see…* And politics. That was new. She spent a good while writing her name and class number down on all of them. Sugarcane settled back in her seat and did the same.
 
 At last, Sky had one final announcement to make.
 
@@ -105,17 +135,21 @@ Voices of "what?" "no!" and "aaaarrrrgggghhhhh…" echoed throughout the room.
 
 "Oh no," Harmony said, perhaps a little too loudly. "They're gonna separate us! These classes are temporary; they're gonna split us into new classes based on the test results!"
 
-"Isn't that illegal for public schools?"
+"Isn't that illegal for public schools?" Sugarcane replied.
 
 "Exactly!" Sky raised his voice. "That's why that's *not what we're doing*! You're all staying in this class. We just need to know who's a Math Olympiad kid and who can't count to ten on their fingers! Although," he added, "I hope everyone can count to ten here."
 
-"Do you have any preparation materials?" One student asked.
+"What subjects are gonna be on the test?" Cosmo asked.
+
+"I don't know. I hadn't seen the questions. But they could be anything. There's bound to be questions about things you never heard of before, and that's okay."
+
+"Do you have any preparation materials?" Sunny asked.
 
 "No. It's just an assessment of your current level, not how well you can cram."
 
-"What subjects are gonna be on the test, then?"
+"We should cram the new textbooks, got it," Cosmo said.
 
-"I don't know. I hadn't seen the questions. But they could be anything. There's bound to be questions about things you never heard of before, and that's okay."
+"That's not — whatever," Sky threw his hands up. "Just make sure to get enough sleep."
 
 On that note they were dismissed. It was only eleven o'clock. Harmony invited Sugarcane to her home for lunch, but Sugarcane said her mom had already made lunch for her.
 
@@ -152,3 +186,11 @@ During lunch, Harmony freaked out again to her parents about the test.
 "That just makes it matter less," Frosting assured her. "Do you want to play with Sugarcane in the afternoon? I can call her mom."
 
 "Oh yeah, about that. Sugarcane has a phone now."
+
+"You're not getting one," Frosting said.
+
+"But what if an accident happens on the way to school?"
+
+"You've been walking to school for quite a while now. You're going to be fine. If you give me Sugarcane's number I can contact her directly."
+
+Frosting called Sugarcane's mom for the kids to meet, and returned to work for the afternoon, leaving Harmony to pout alone on the sofa.
