@@ -97,9 +97,7 @@ Jumbo met Sky in a restaurant, but quickly, Sky asked to go somewhere more priva
 
 In the split second Jumbo had her back turned, Goose released Sky, letting his uniform show. Still invisible, she slipped away, trusting her apprentice to handle it.
 
-[Sky recruits Jumbo oneshot](/stories/oneshots/chapter-7/).
-
-Thus, Jumbo was recruited as Agent Hearts.
+Sky threatened to arrest her, unless she agreed to work with them. Thus, Jumbo was recruited as Agent Hearts.
 
 ## Deception
 
@@ -147,9 +145,7 @@ Sky prepared Westavian papers for Tsunami, who first entered Westavia before goi
 > [!to be expanded]
 > And then she went places saying she wants to buy magic n shit (but not too directly of course) and then Qibli heard it and was like "oh potential client!" so through an intermediary they arranged a meeting.
 
-Qibli was waiting for her when she went in.
-
-[Tsunami confronts Qibli oneshot](/stories/oneshots/chapter-8/).
+Qibli was waiting for her when she went in. They just stared at each other, surprised at finding an old acquaintance in a new place.
 
 and then something something and tsunami gets back to confirm skys worst fears. His friend had murdered his other friend, indirectly or not. But was Sky any better? Didn't he use Firecrackers's death to manipulate Tsunami into working for him? But she completed the mission, Sky told himself. I did the right thing.
 

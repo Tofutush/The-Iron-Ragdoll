@@ -1,6 +1,6 @@
 ---
 chTitle: Sky Threatens Jumbo
-chNum: 7
+chNum: 6
 date: 2025-12-20
 dialog:
   - - "Sky: You shouldn't have done that."
