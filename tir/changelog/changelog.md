@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2025-12-30
+
+- Published the first chapter of [Spy School](/stories/spy-school/chapter-1/) because I can't make up my fucking mind about how to present the story;
+	- High chance neither the comic nor the fic is ever going to be complete but we can dream;
+
 ## 2025-12-29
 
 - Added soul pictures for many characters;

@@ -10,9 +10,9 @@ date: 2025-05-21
 
 It was a Sunday afternoon. Harmony was curled up on the sofa with a book when there came a knock on the door. Entity went to get it.
 
-A man in a jet-black uniform stood in the doorway, sporting two blue horns and a welcoming smile, hands held behind his back. Entity nearly slammed the door right back into his face, but he reached out a hand and stopped it.
+A man in a jet-black uniform stood in the doorway, sporting two blue horns and a welcoming smile, hands held behind his back. Entity nearly slammed the door right back into his face, but the man reached out a hand and stopped it.
 
-"Wh-What did I do?" Entity's voice was trembling as if the man was a spider he saw in a corner.
+"Wh-What did I do?" Entity's voice was trembling as if he saw a spider in a corner.
 
 "Why, if there's anything you did, that was raising a wonderful daughter! Is little Harmony home?"
 
@@ -66,7 +66,7 @@ Harmony coughed.
 
 "Thank you, officer," Frosting said.
 
-"I should be thanking *you*." Sky got up and headed for the door. "Bye! I look forward to teaching you." The cup of tea remained half-drunk.
+"I should be thanking *you*." Sky got up and headed for the door. "Bye! I look forward to teaching you." The cup of tea was emptied.
 
 "Well," Harmony said, "let's go get the photo taken!"
 
@@ -76,11 +76,11 @@ Harmony coughed.
 
 "Why don't you make sure first? Confirm it with Sugarcane."
 
-Oh, right. Harmony hadn't thought about that. "I'll go find her at the playground!"
+Oh, right. Harmony hadn't thought about that. "Tell her mom I'd be at the playground!"
 
 ---
 
-In the playground near their homes, Harmony found Sugarcane. She was sitting on a bench, legs crossed, too cool for any of the swings or slides; though Harmony noticed she wasn't on her usual bench, but another one, next to some shrubs. Harmony yelled at her, and she turned her head.
+Sugarcane was already there when Harmony arrived at the playground. She was sitting on a bench, legs crossed, too cool for any of the swings or slides; though Harmony noticed she wasn't on her usual bench, but another one, next to some shrubs. Harmony yelled at her, and she turned her head.
 
 "Hey!" she yelled back, swiping her bangs out of her eyes.
 
@@ -154,7 +154,7 @@ Again, Sugarcane already had hers ready. Harmony had decided to put hers back in
 
 After checking their IDs, the gatekeeper pressed some controls, and the small human gate next to the big sliding gate swung open. "Right there," he said. "You'll see it."
 
-They entered to find a clearing of dusty concrete tiles between them and the main buildings, all dusty gray and tall. Against the side of the building was a canopy tent labeled *New Student Registration*. In the shade of the tent, behind the table, sat none other than Sky himself.
+They entered to find a clearing of dusty concrete tiles between them and the main buildings, all dusty gray and tall. Against the side of the building was a single canopy tent labeled *New Student Registration*. In the shade of the tent, behind the table, sat none other than Sky himself.
 
 "Sky!" Harmony yelled out in excitement and ran towards him. Sugarcane followed close behind.
 

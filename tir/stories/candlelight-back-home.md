@@ -22,8 +22,6 @@ Candlelight, disillusioned and worn-down from his [SPF](/world/westavia/spf/) jo
 
 At the train station in Area 1, he met a nervous little guy, apparently new to Westavia, asking around for directions. He introduced himself as Curly. Candlelight figured that Curly might be going to his own village, and invited him on the same train.
 
-[Candlelight meets Pumpkin oneshot](/stories/oneshots/chapter-5/).
-
 When they got home, he met his childhood friend Mooncake, who was also a cop and faring way better than him. Curly also met his distant relative, Helsinki. Candlelight found that the other villagers had long ago sold every removable furniture at his house, including the pot of wine in the basement, and divided the spoils which had again long ago been spent.
 
 So for the time being, they stayed in Helsinki's.

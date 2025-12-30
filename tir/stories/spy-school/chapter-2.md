@@ -1,12 +1,19 @@
+---
+layout: fic.liquid
+chTitle: The First Day
+parent: Spy School
+tags:
+  - ss-fic
+chNum: 2
+date: 2025-12-30
+draft: true
+---
+
 September the first happened to be a Monday. Harmony woke up early, even before her mom had left for work, and asked her to send a message to Sugarcane's mom saying that she was leaving. She triple-checked her school bag, and set off for Sugarcane's.
 
 "Have fun at school!" Frosting said as she left. "Be safe!"
 
-Harmony arrived just in time to see Sugarcane coming out from her apartment building.
-
-"What a coincidence!" She said.
-
-"Sure is," Sugarcane replied.
+Harmony arrived just in time to see Sugarcane coming out from her apartment building. They greeted each other and continued on their way.
 
 The guard was no longer present at the intersection. Instead, a barrier was set up on the lane, and a row of traffic police hurried around, directing the flood of cars that had taken over.
 
@@ -38,9 +45,27 @@ A teacher sat behind the table under the tent. The girls handed over their ID ca
 
 "You'd wager Sky pulled strings?"
 
-Grade seven class five was fortunately on the first floor of the main building.
+Grade seven class five was fortunately on the first floor of the main building. It was dimly-lit, with floor tiles that had once been white. At the front, the teacher's desk sat on an elevated platform, behind which was the blackboard on the wall, the bottom groove caked in chalk dust. The projector screen was retracted, leaving the default blue screen projected straight onto the blackboard. Forty or so wiggly, rusted desks cramped into the small space, and some kids were already sitting in them. Some lifted their heads as Harmony and Sugarcane walked in, but their interests faded when they realized they were only fellow students, not the teacher.
 
-[SKIPPED STUFF, MENTIONS THE BOX ON THE TABLE]
+Sugarcane found two spots for them and they sat down next to each other. A girl with thick, long hair was right behind Harmony.
+
+Sugarcane turned around and said "hi" to her. She lifted her head, and that was when Harmony noticed her eyes were of different colors, one blue and one pink.
+
+Heterochromia, or two souls? Her ears were drooped so Harmony couldn't check the color of her inner ear.
+
+And then she saw, on her forehead, she had a *third* eye.
+
+"Hi," she said back.
+
+"I'm Sugarcane. This is Harmony. Nice to meet you!"
+
+"Nice to meet you too. I'm Cosmo."
+
+Cosmo. "That's a pretty name," Harmony said.
+
+She felt a weird tingling sensation in her mind as Cosmo looked at her. It felt familiar, though she couldn't remember when she last felt it.
+
+"Thanks. Harmony is a good name too."
 
 A teacher walked inside and the chatter died down. It was none other than Sky Elmwood Dazzle himself.
 

@@ -1,6 +1,6 @@
 ---
 chTitle: Qibli's Interrogation
-chNum: 6
+chNum: 5
 date: 2025-12-19
 dialog:
   - - "Qibli: Do you know what would happen if he actually succeeds?"
