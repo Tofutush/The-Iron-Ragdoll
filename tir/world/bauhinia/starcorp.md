@@ -7,6 +7,7 @@ tags:
 categories:
   - Organizations
   - Corporations
+desc: Your second worst nightmare.
 ---
 
 Starcorp is the most important corporation on the entire continent. It's the backbone of Bauhinian economy, controlling all the resources it has access to — and more. The ever-greedy Hyrax family sucking all the wealth of the people to them, draining the country into a rickety shack with Starcorp as the foundation. Starcorp is what makes Bauhinia strong, what makes Bauhinia prosperous, what makes Bauhinia hell. Without Starcorp, Bauhinia would collapse into economic crisis.
