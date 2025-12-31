@@ -607,20 +607,13 @@ code {
 
 .breadcrumbs {
 	align-items: center;
-	display: flex;
-	flex-wrap: wrap;
-	font-size: var(--font-size);
-	gap: .5rem;
+	font-size: var(--font-size-small);
 	margin: 2rem 0;
 	line-height: 2;
 
-	& span {
-		height: 24px;
-		user-select: none;
-	}
-
 	& svg {
 		stroke: var(--text);
+		vertical-align: middle;
 	}
 }
 
