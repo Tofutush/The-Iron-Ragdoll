@@ -3,17 +3,19 @@ layout: chs.liquid
 pagination:
   data: tagsplot
   size: 1
-  alias: tag
+  alias: tagName
   addAllPagesToCollections: true
-permalink: "characters/tag/{{ tag | slug }}/"
-noNav: true
+permalink: "characters/tag/{{ tagName | slug }}/"
+eleventyNavigation:
+  parent: "Character Tags"
 eleventyComputed:
-  title: "{{ tag }} Characters"
-  tag: "{{ tag }}"
+  title: "{{ tagName }} Characters"
+  eleventyNavigation:
+    title: "{{ tagName }}"
 ---
-{% assign filteredChs = characters | filterChByTag: tag %}
+{% assign filteredChs = characters | filterChByTag: tagName %}
 {% include 'chs', chs: filteredChs %}
-{% assign slugged = tag | slug %}
+{% assign slugged = tagName | slug %}
 {% if collections[slugged] %}
   <h2>Related files</h2>
   <ul>

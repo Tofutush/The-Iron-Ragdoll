@@ -3,13 +3,15 @@ layout: storyLayout.liquid
 pagination:
   data: collections.storyTags
   size: 1
-  alias: tag
+  alias: tagName
   addAllPagesToCollections: true
-permalink: "stories/tag/{{ tag | slug }}/"
-noNav: true
+permalink: "stories/tag/{{ tagName | slug }}/"
+eleventyNavigation:
+  parent: "Story Tags"
 eleventyComputed:
-  title: "{{ tag }} Stories"
-  tag: "{{ tag }}"
+  title: "{{ tagName }} Stories"
+  eleventyNavigation:
+    title: "{{ tagName }}"
 ---
-{% assign filteredStories = collections.stories | filterStoriesByTag: tag %}
+{% assign filteredStories = collections.stories | filterStoriesByTag: tagName %}
 {% include 'storylist', stories: filteredStories %}

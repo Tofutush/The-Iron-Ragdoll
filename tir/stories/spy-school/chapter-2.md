@@ -151,7 +151,7 @@ Voices of "what?" "no!" and "aaaarrrrgggghhhhh…" echoed throughout the room.
 
 "That's not — whatever," Sky threw his hands up. "Just make sure to get enough sleep."
 
-On that note they were dismissed. It was only eleven o'clock. Harmony invited Sugarcane to her home for lunch, but Sugarcane said her mom had already made lunch for her.
+On that note they were dismissed. It was only eleven o'clock. They packed up the books — the backpack was visibly heavier — and waved goodbye to Cosmo and Sunny at the gate. Harmony invited Sugarcane to her home for lunch, but Sugarcane said her mom had already made lunch for her.
 
 "How did you even know that?"
 
@@ -175,6 +175,8 @@ On that note they were dismissed. It was only eleven o'clock. Harmony invited Su
 
 They waved each other goodbye at Sugarcane's apartment.
 
+---
+
 During lunch, Harmony freaked out again to her parents about the test.
 
 "Well, that's going to become the norm in middle school," Frosting said. "You're also going to have midterms as well as finals."
@@ -193,4 +195,80 @@ During lunch, Harmony freaked out again to her parents about the test.
 
 "You've been walking to school for quite a while now. You're going to be fine. If you give me Sugarcane's number I can contact her directly."
 
-Frosting called Sugarcane's mom for the kids to meet, and returned to work for the afternoon, leaving Harmony to pout alone on the sofa.
+Harmony looked at Entity expectantly.
+
+"Your mother's right," he said. "You don't need a phone." The rest of lunch continued in silence.
+
+When she was done, Frosting called Sugarcane's mom for the kids to meet, and returned to work for the afternoon. Entity went to their bedroom to nap, leaving Harmony to pout alone on the sofa. Eventually she got up to meet Sugarcane.
+
+"She won't get me one," Harmony said as soon as Sugarcane opened the door.
+
+"That sucks."
+
+"Can you send her a text so she can get your number?"
+
+"Come inside first."
+
+They headed straight into Sugarcane's room and sent the text, although Harmony knew Frosting won't see it until she had gone off work.
+
+On her desk, the new textbooks were strewn about, all of them open on unit one.
+
+"Have you been studying?" Harmony asked. She hadn't even taken the books out of her backpack.
+
+"Kind of. But I keep forgetting stuff as soon as I read it."
+
+"I haven't even opened them," Harmony admitted. She grabbed the nearest book and looked at it. It was chemistry, open on a diagram showing the structure of an atom.
+
+"What's an atom?"
+
+"It's, uh, it's like a thing. That has these things inside it," Sugarcane pointed to the diagram.
+
+Harmony set the chemistry book down and grabbed the physics one. Stuff about the three laws of Isaac Isaac Hannah, because apparently people liked naming kids after themselves back then. Funny things, but Harmony could understand none of it.
+
+"I'll be fried in the exam tomorrow," Harmony said.
+
+"Me too," Sugarcane followed.
+
+"But you've been studying. I haven't done *anything*."
+
+"Eh, fair."
+
+Harmony reached for the chemistry book again and turned it to page one, reading from the introduction.
+
+"Do you want to draw?" Sugarcane was holding their doodle books.
+
+"I kinda wanna study. Can't you study with me?"
+
+"But I've been studying since I got back home. I'm tired."
+
+Eventually Harmony settled to play their usual things with Sugarcane because the textbook was too boring. Then she thought of something.
+
+"When I was talking to the Cosmo kid, I felt this weird thing in my head. I remember feeling it before. Have you?"
+
+"Oh, that. She's a mind-reader."
+
+"That's it!" Harmony remembered. The feeling came from your mind being read.
+
+"Most mind-readers won't let you feel that, though," Sugarcane said. "Maybe she just hasn't been trained."
+
+---
+
+Late into the afternoon, Sugarcane's phone buzzed. She immediately picked it up.
+
+"It's your mom!" She said. "She just got off work and she wants you to go home."
+
+"Alright then," Harmony said. "See you tomorrow!"
+
+"Bye!"
+
+On the way home, the wave of anxiety that Harmony had been suppressing resurfaced. Sugarcane knows about the structure of an atom now, and she doesn't know anything. Why can't she be smarter and more hardworking? Like *her*?
+
+She told this to Frosting at dinner.
+
+"Darling, just go to bed early," she said. "When you finish the exam tomorrow, you'll see that there's nothing to worry about."
+
+"It's not about the exam," Harmony shook her head.
+
+"Then what is it about?"
+
+Harmony didn't know how to word it, so she just left it at that.
