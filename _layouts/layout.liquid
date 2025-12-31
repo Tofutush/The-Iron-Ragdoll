@@ -74,12 +74,12 @@ eleventyComputed:
 			{% if length > 2 %}
 				<div class="breadcrumbs">
 					{% for item in bc %}
-					{% if forloop.index != 1 %}
-						{% if forloop.index != 2 %}
-							{% lucide 'chevron-right' %}
-						{% endif %}
-						<a href="{{ item.url }}">{{ item.title }}</a>
-					{% endif %}
+						{% unless forloop.first %}
+							{% unless forloop.index == 2 %}
+								{% lucide 'chevron-right' %}
+							{% endunless %}
+							<a href="{{ item.url }}">{{ item.title }}</a>
+						{% endunless %}
 					{% endfor %}
 				</div>
 			{% endif %}
