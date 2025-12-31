@@ -5,6 +5,7 @@ eleventyNavigation:
   title: Mt. Atlas
 categories:
   - Locations
+desc: Tallest mountain on the continent.
 ---
 
 The tallest mountain on the continent, in [Atlasia](/world/atlasia/), near the border with [Moreland](/world/moreland/).

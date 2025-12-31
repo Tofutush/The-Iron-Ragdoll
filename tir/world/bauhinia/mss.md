@@ -1,7 +1,7 @@
 ---
 title: Ministry of State Security
 displayTitle: Ministry of State Security of the Republic of Bauhinia
-banner: "banner goose"
+banner: banner goose
 tags:
   - ministry-of-state-security
 categories:
@@ -9,6 +9,7 @@ categories:
   - Intelligence Agencies
   - State Security Agencies
   - Organizations
+desc: Your worst nightmare.
 ---
 
 The main security apparatus of Bauhinia, handling both intelligence and counterintelligence. Every bit as bureaucratical as you'd imagine a Bauhinian government agency to be.
