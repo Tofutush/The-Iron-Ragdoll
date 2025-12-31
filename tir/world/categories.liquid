@@ -1,19 +1,19 @@
 ---
-layout: layout.liquid
+layout: article.liquid
 pagination:
   data: collections.worldCats
   size: 1
-  alias: tag
+  alias: tagName
   addAllPagesToCollections: true
-permalink: "world/category/{{ tag | slug }}/"
-noNav: true
+permalink: "world/category/{{ tagName | slug }}/"
+eleventyNavigation:
+  parent: Categories
 eleventyComputed:
-  title: "{{ tag }}"
-  tag: "{{ tag }}"
+  title: "{{ tagName }} Files"
+  eleventyNavigation:
+    title: "{{ tagName }}"
 ---
-{% assign filteredFiles = collections.world | filterWorldByTag: tag %}
-<div class="breadcrumbs"><a href="/world/">World</a> {% lucide 'chevron-right' %} <a href="/world/category/">Category</a>{% lucide 'chevron-right' %}<a href="{{ page.url }}">{{ tag }}</a></div>
-<h1>Category: {{ tag }}</h1>
+{% assign filteredFiles = collections.world | filterWorldByTag: tagName %}
 <ul>
     {% for file in filteredFiles %}
         {% include 'fileLi', file: file %}
