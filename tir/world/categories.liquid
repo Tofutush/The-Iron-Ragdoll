@@ -9,9 +9,7 @@ permalink: "world/category/{{ tagName | slug }}/"
 eleventyNavigation:
   parent: Categories
 eleventyComputed:
-  title: "{{ tagName }} Files"
-  eleventyNavigation:
-    title: "{{ tagName }}"
+  title: "{{ tagName }}"
 ---
 {% assign filteredFiles = collections.world | filterWorldByTag: tagName %}
 <ul>
