@@ -1,5 +1,5 @@
 import Image from "@11ty/eleventy-img";
-import { existsSync } from "fs";
+import { existsSync, readdirSync, statSync } from "fs";
 import { imageSizeFromFile } from 'image-size/fromFile';
 
 function imagePlugin(eleventyConfig) {
@@ -29,9 +29,28 @@ function imagePlugin(eleventyConfig) {
 		return metadata[outputType || 'webp'][0].url;
 	});
 	function getImgSrc(path, name, type, fallback, fallbackType) {
-		if (existsSync(`img/${path}${name}.${type}`)) return `img/${path}${name}.${type}`;
-		if (fallback && existsSync(`img/${path}${fallback}.${fallbackType}`)) return `img/${path}${fallback}.${fallbackType}`;
-		return 'img/bg/placeholder.png';
+		const base = `img/${path}`;
+		const file = (p, n, t) => `${p}${n}.${t}`;
+		if (existsSync(file(base, name, type))) return file(base, name, type);
+		if (path.startsWith("gallery/")) {
+			const years = readdirSync(base).filter(d => /^\d{4}$/.test(d) && statSync(`${base}${d}`).isDirectory());
+			for (const y of years) {
+				const f = `${base}${y}/${name}.${type}`;
+				if (existsSync(f)) return f;
+			}
+		}
+		if (fallback) {
+			if (existsSync(file(base, fallback, fallbackType)))
+				return file(base, fallback, fallbackType);
+			if (path.startsWith("gallery/")) {
+				const years = readdirSync(base).filter(d => /^\d{4}$/.test(d));
+				for (const y of years) {
+					const f = `${base}${y}/${fallback}.${fallbackType}`;
+					if (existsSync(f)) return f;
+				}
+			}
+		}
+		return "img/bg/placeholder.png";
 	}
 	async function getImg(src, size, format, path) {
 		return await Image(src, {
