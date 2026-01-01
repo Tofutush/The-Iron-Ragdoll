@@ -1,0 +1,17 @@
+---
+layout: article.liquid
+title: Superpower Quiz
+desc: What superpower do you have?
+eleventyNavigation:
+  parent: Fun
+---
+<link rel="stylesheet" href="/css/quiz.css"/>
+<div id="quiz"></div>
+<script src="/js/quiz.js"></script>
+<script>
+const quizContent = {
+
+};
+let quiz = new Quiz(document.getElementById('quiz'), quizContent);
+quiz.init();
+</script>
