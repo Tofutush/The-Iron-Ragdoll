@@ -75,7 +75,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('fonts');
 	eleventyConfig.addPassthroughCopy('robots.txt');
 	eleventyConfig.addPassthroughCopy('tofutush-public.asc');
-	eleventyConfig.addPassthroughCopy('img/gallery/*.gif');
+	eleventyConfig.addPassthroughCopy({ 'img/gallery/**/*.gif': 'img/gallery' });
 	eleventyConfig.addPassthroughCopy('img/others art/*.gif');
 	// filters
 	eleventyConfig.addFilter('slug', slug);
