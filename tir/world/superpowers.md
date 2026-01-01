@@ -15,7 +15,7 @@ Some people are born with ~~convenient plot devices~~ superpowers. There are som
 
 All common powers are active except for timekeeping, which is passive. More explained in their respective sections.
 
-## Common powers · 普通
+## Common powers
 
 Common powers are stored in a person's soul. One soul can only have at most one power, but a person isn't limited to one soul.
 
@@ -78,7 +78,7 @@ This power is active, which means that a mind-reader has to be concentrating (an
 
 Everyone can be trained to shield their own thoughts from mind-readers. There is also a special enchanted helmet that can block off mind-readers completely regardless of level, but only powerful magicians can make it.
 
-## Special powers · 特殊
+## Special powers
 
 These powers are extremely rare, and don't have the boosting and blocking effects that the other five have.
 
