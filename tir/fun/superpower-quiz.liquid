@@ -10,7 +10,88 @@ eleventyNavigation:
 <script src="/js/quiz.js"></script>
 <script>
 const quizContent = {
-
+  "desc": "The five common superpowers, and the two rare ones — which one of them do you have? Or do you have none of them? Find out with the quiz below! (Note: assignment is pretty much arbitrary. I pulled most of it out of my ass. Just have fun!)",
+  "randomize": true,
+  "results": {
+    "Superstrength": {
+      "desc": "You can channel up your soul to give you extra strength! Lift that car up and toss it! Go!",
+      "url": "../../world/superpowers/#superstrength"
+    },
+    "Timekeeping": {
+      "desc": "You know exactly what time it is. You won't ever <em>accidentally</em> be late!",
+      "url": "../../world/superpowers/#timekeeping"
+    },
+    "Hyperawareness": {
+      "desc": "You can see and hear miles away if you focus! You won't ever need glasses!",
+      "url": "../../world/superpowers/#hyperawareness"
+    },
+    "Invisibility": {
+      "desc": "You can hide yourself from view! Watch out for mirrors and cameras though, for they can always capture you…",
+      "url": "../../world/superpowers/#invisibility"
+    },
+    "Mind reading": {
+      "desc": "You can read people's minds! If you're not trained or powerful enough, they will feel a tingling sensation when you do so. Too bad the teachers will prevent you from doing it during exams…",
+      "url": "../../world/superpowers/#mind-reading"
+    },
+    "Magic": {
+      "desc": "You have magic flowing in your veins! Quick, get registered and attend the Magic Academy unless you want to be in jail!",
+      "url": "../../world/superpowers/#magic"
+    },
+    "Immortality": {
+      "desc": "You cannot die. You stop aging in your twenties. If you get hurt, your body regenerates. But watch out! There is one thing in the world that can instantly kill you. Do you want to find out what it is?",
+      "url": "../../world/superpowers/#immortality"
+    }
+  },
+  "questions": [
+    {
+      "title": "Do you like cats?",
+      "answers": [
+        {
+          "text": "I LOVE them! They're my whole world!",
+          "response": {
+            "Superstrength": 1
+          }
+        },
+        {
+          "text": "I am forever a loyal servant to my cat(s).",
+          "response": {
+            "Timekeeping": 1
+          }
+        },
+        {
+          "text": "I like cats a lot.",
+          "response": {
+            "Hyperawareness": 1
+          }
+        },
+        {
+          "text": "They're okay, I guess.",
+          "response": {
+            "Invisibility": 1
+          }
+        },
+        {
+          "text": "I hate cats.",
+          "response": {
+            "Mind reading": 1
+          }
+        },
+        {
+          "text": "Every time I see a cat I throw it in a ditch because of how much I hate them.",
+          "response": {
+            "Magic": 1
+          }
+        },
+        {
+          "text": "The world will be a better place without any felines at all, including tigers, lions, etc.",
+          "response": {
+            "Immortality": 1
+          }
+        }
+      ],
+      "randomize": false
+    }
+  ]
 };
 let quiz = new Quiz(document.getElementById('quiz'), quizContent);
 quiz.init();
