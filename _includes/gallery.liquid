@@ -2,9 +2,9 @@
 {% for img in imgs %}
 	<div class="img">
 		{% if img.author %}
-			{% assign path = 'others art/'%}
+			{% assign path = 'others art/' %}
 		{% else %}
-			{% assign path = 'gallery/'%}
+			{% assign path = 'gallery/' %}
 		{% endif %}
 		{% image path img.name img.type 120 img.name '' '' '' true %}
 		<div class="modal">
