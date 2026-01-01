@@ -11,6 +11,8 @@ eleventyNavigation:
 - First commit of the new year! Organized my images into subfolders by year to make this site future-proof. Can we get to that future? I hope so!
 - Not gonna add the 2026 gallery page until I actually have a picture;
 - Moved November to [older updates](old/);
+- Added `goose camera.gif`;
+	- [2026 gallery](/gallery/2026/) opened;
 
 ## 2025-12-30
 

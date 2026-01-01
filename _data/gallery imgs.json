@@ -5775,5 +5775,13 @@
       "willow"
     ],
     "kind": "soul"
+  },
+  {
+    "name": "goose camera",
+    "type": "gif",
+    "date": "2026-01-01",
+    "ch": [
+      "goose"
+    ]
   }
 ]
