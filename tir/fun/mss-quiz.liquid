@@ -5,27 +5,7 @@ desc: Which MSS character are you?
 eleventyNavigation:
   parent: Fun
 ---
-<style>
-  .question ul {
-    list-style: none;
-    padding-inline-start: 0;
-    &>li {
-      margin: 0;
-    }
-    & label {
-      cursor: pointer;
-      display: block;
-      border-radius: 1em;
-      padding: .2em 1em;
-      &:hover {
-        background-color: var(--box);
-      }
-    }
-  }
-  .question ol {
-    padding-inline-start: 1em;
-  }
-</style>
+<link rel="stylesheet" href="/css/quiz.css"/>
 <div id="quiz"></div>
 <script src="/js/quiz.js"></script>
 <script>
@@ -904,7 +884,7 @@ const quizContent = {
       ]
     }
   ]
-}
+};
 let quiz = new Quiz(document.getElementById('quiz'), quizContent);
 quiz.init();
 </script>
