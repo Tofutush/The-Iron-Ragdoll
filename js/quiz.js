@@ -14,6 +14,7 @@ class Quiz {
 	}
 
 	init() {
+		this.div.innerHTML = '';
 		this.div.appendChild(this.resultsDiv);
 		if (localStorage.getItem(this.quizID + 'QuizResult')) {
 			this.renderResult(JSON.parse(localStorage.getItem(this.quizID + 'QuizResult')));
