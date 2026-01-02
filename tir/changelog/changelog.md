@@ -13,6 +13,7 @@ eleventyNavigation:
 - Moved November to [older updates](old/);
 - Added `goose camera.gif`;
 	- [2026 gallery](/gallery/2026/) opened;
+- Published [Spy School chapter 2](/stories/spy-school/chapter-2/);
 
 ## 2025-12-30
 
