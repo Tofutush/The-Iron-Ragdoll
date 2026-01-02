@@ -783,7 +783,7 @@ source: "Willow",
 target: "Fantasy",
 rel1: "younger stepsister",
 rel2: "older stepsister",
-
+minor: true
 },
 
 {
@@ -791,7 +791,7 @@ source: "Willow",
 target: "Ironheart",
 rel1: "younger stepsister",
 rel2: "older stepbrother",
-
+minor: true
 },
 
 {
