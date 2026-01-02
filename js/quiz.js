@@ -21,7 +21,7 @@ class Quiz {
 		let descP = elt('p', {});
 		descP.innerHTML = this.desc;
 		this.div.appendChild(descP);
-		this.div.appendChild(elt('p', { className: 'graybox' }, 'Select an answer for the options below. You can also leave questions empty. Some questions may be multi-select, and will be marked as such.'));
+		this.div.appendChild(elt('div', { className: 'graybox' }, elt('p', {}, 'Select an answer for the options below. You can also leave questions empty. Some questions may be multi-select, and will be marked as such.'), elt('p', {}, 'Note: This quiz requires JavaScript to run.')));
 		// questions
 		for (let z = 0; z < this.questions.length; z++) {
 			this.bigQDiv.appendChild(elt('hr'));
