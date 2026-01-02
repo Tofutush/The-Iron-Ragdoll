@@ -8,7 +8,7 @@ chNum: 2
 date: 2025-12-30
 ---
 
-September the first happened to be a Monday. Harmony woke up early, even before her mom had left for work, and asked her to send a message to Sugarcane's mom saying that she was leaving. She triple-checked her school bag, and set off for Sugarcane's.
+September the first happened to be a Monday. Harmony woke up early, even before her mom had left for work, and asked her to send a message to Sugarcane's mom saying that she was leaving. She stuffed a re-heated bun into her mouth, triple-checked her school bag, and set off for Sugarcane's.
 
 "Have fun at school!" Frosting said as she left. "Be safe!"
 
