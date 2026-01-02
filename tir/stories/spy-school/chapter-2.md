@@ -6,7 +6,6 @@ tags:
   - ss-fic
 chNum: 2
 date: 2025-12-30
-draft: true
 ---
 
 September the first happened to be a Monday. Harmony woke up early, even before her mom had left for work, and asked her to send a message to Sugarcane's mom saying that she was leaving. She triple-checked her school bag, and set off for Sugarcane's.
@@ -45,7 +44,7 @@ A teacher sat behind the table under the tent. The girls handed over their ID ca
 
 "You'd wager Sky pulled strings?"
 
-Grade seven class five was fortunately on the first floor of the main building. It was dimly-lit, with floor tiles that had once been white. At the front, the teacher's desk sat on an elevated platform, where a huge stack of boxes lay, probably textbooks waiting to be handed out. The blackboard hung on the wall, the bottom groove caked in chalk dust. The projector screen was retracted, leaving the default blue screen projected straight onto the blackboard. Forty or so wiggly, rusted desks cramped into the small space, and some kids were already sitting in them. Some lifted their heads as Harmony and Sugarcane walked in, but their interests faded when they realized they were only fellow students, not the teacher.
+Grade seven class five was fortunately on the first floor of the main building. It was dimly-lit, with floor tiles that had once been white. At the front, the teacher's desk sat on an elevated platform, where a huge stack of boxes lay, probably textbooks, waiting to be handed out. The blackboard hung on the wall, the bottom groove caked in chalk dust. The projector screen was retracted, leaving the default blue screen blasted straight onto the blackboard. Forty or so wiggly, rusted desks cramped into the small space, and some kids were already sitting in them. Some lifted their heads as Harmony and Sugarcane walked in, but their interests faded when they realized they were only fellow students, not the teacher.
 
 Sugarcane found two spots for them right next to the door and they sat down next to each other. A girl with thick, long hair was right behind Harmony.
 
@@ -101,7 +100,7 @@ At eight o'clock sharp, a teacher walked inside and the chatter died down. It wa
 
 "Sky definitely pulled strings," Harmony whispered to Sugarcane.
 
-"No I didn't," Sky said. "They go off by who went to whose homes. And that means I had met all of you before. Nice to meet you again, and I hope we have a great three years together.
+"No I didn't," Sky had apparently heard that. "They go off by who went to whose homes. And that means I had met all of you before. Nice to meet you again, and I hope we have a great three years together.
 
 "Now, I'd like all of you to get in a line outside of the classroom. We're going to the soccer field for the opening ceremony."
 
@@ -173,7 +172,7 @@ On that note they were dismissed. It was only eleven o'clock. They packed up the
 
 "You won't. It's just an entrance exam, c'mon. How hard can it be?"
 
-They waved each other goodbye at Sugarcane's apartment.
+They waved each other goodbye at Sugarcane's apartment building.
 
 ---
 
@@ -241,7 +240,7 @@ Harmony reached for the chemistry book again and turned it to page one, reading 
 
 "But I've been studying since I got back home. I'm tired."
 
-Eventually Harmony settled to play their usual things with Sugarcane because the textbook was too boring. Then she thought of something.
+Harmony tried to focus on the books, but eventually she settled to play their usual things with Sugarcane because the textbook was too boring. Then she thought of something.
 
 "When I was talking to the Cosmo kid, I felt this weird thing in my head. I remember feeling it before. Have you?"
 
@@ -250,6 +249,12 @@ Eventually Harmony settled to play their usual things with Sugarcane because the
 "That's it!" Harmony remembered. The feeling came from your mind being read.
 
 "Most mind-readers won't let you feel that, though," Sugarcane said. "Maybe she just hasn't been trained."
+
+Harmony wondered whether Cosmo had heard her thoughts. "I bet she thinks I'm weird and offensive now."
+
+"You're fine."
+
+Harmony sighed and didn't continue the conversation.
 
 ---
 
