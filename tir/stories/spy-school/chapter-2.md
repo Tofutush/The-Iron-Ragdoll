@@ -222,7 +222,7 @@ On her desk, the new textbooks were strewn about, all of them open on unit one.
 
 "It's, uh, it's like a thing. That has these things inside it," Sugarcane pointed to the diagram.
 
-Harmony set the chemistry book down and grabbed the physics one. Stuff about the three laws of Isaac Isaac Hannah, because apparently people liked naming kids after themselves back then. Funny things, but Harmony could understand none of it.
+Harmony set the chemistry book down and grabbed the physics one. Stuff about Newton's three laws. Funny things, but Harmony could understand none of it.
 
 "I'll be fried in the exam tomorrow," Harmony said.
 
