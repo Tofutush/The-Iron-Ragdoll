@@ -26,6 +26,8 @@ class Quiz {
 		for (let z = 0; z < this.questions.length; z++) {
 			this.bigQDiv.appendChild(elt('hr'));
 			let q = this.questions[z];
+			// set the question's response to its empty response object, if there is one
+			this.responses[z] = q.response;
 			let questionDiv = elt('div', { className: 'question' });
 			questionDiv.appendChild(elt('ol', { start: z + 1 }, elt('li', {}, elt('strong', {}, q.title + (q.multi ? ' (Choose multiple)' : '')))));
 			let ulDiv = elt('ul');
@@ -41,7 +43,7 @@ class Quiz {
 			}
 			// add none of the above
 			if (q.multi && q.addNoneAbove) {
-				let liDiv = elt('li', { className: 'none-of-the-above' }, elt('label', {}, elt('input', { name: 'q' + z, type: 'checkbox', onchange: e => this.noneOfTheAbove(z, ulDiv) }), 'None of the above.'));
+				let liDiv = elt('li', { className: 'none-of-the-above' }, elt('label', {}, elt('input', { name: 'q' + z, type: 'checkbox', onchange: e => this.noneOfTheAbove(z, q.response, ulDiv) }), 'None of the above.'));
 				ulDiv.appendChild(liDiv);
 			}
 			questionDiv.appendChild(ulDiv);
@@ -58,20 +60,21 @@ class Quiz {
 	}
 
 	setMultiAnswer(e, qIdx, personalities, ulDiv) {
-		// remove none of the above if it exists
-		if (ulDiv.lastChild.className === 'none-of-the-above') ulDiv.lastChild.firstChild.firstChild.checked = false;
-		// if no response yet, init
-		if (!this.responses[qIdx]) {
+		// remove none of the above and empty out the results
+		if (ulDiv.lastChild.className === 'none-of-the-above') {
+			ulDiv.lastChild.firstChild.firstChild.checked = false;
 			this.responses[qIdx] = {};
 		}
+		// if no response yet, init
+		if (!this.responses[qIdx]) this.responses[qIdx] = {};
 		// then add
 		let multiplier = e.target.checked ? 1 : -1;
 		for (let p of Object.keys(personalities))
 			this.responses[qIdx][p] = Math.max(0, (this.responses[qIdx][p] ?? 0) + multiplier * personalities[p]);
 	}
 
-	noneOfTheAbove(qIdx, ulDiv) {
-		this.responses[qIdx] = {};
+	noneOfTheAbove(qIdx, response = {}, ulDiv) {
+		this.responses[qIdx] = response;
 		// clear out all others
 		for (let z = 0; z < ulDiv.children.length - 1; z++) {
 			ulDiv.children[z].firstChild.firstChild.checked = false;
