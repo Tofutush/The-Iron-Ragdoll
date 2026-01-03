@@ -6,7 +6,6 @@ tags:
   - ss-fic
 chNum: 3
 date: 2026-01-02
-draft: true
 ---
 
 Harmony woke up the next day unable to stomach any breakfast.
@@ -285,9 +284,11 @@ Sugarcane thought for a while and said, "I want to learn new knowledge and be th
 
 "Harmony," Entity was disappointed. "Don't treat uncle like that. How about you go for second place?"
 
-"Sure," Harmony just wanted this to be over.
+"Did we order the beef noodles?" Harmony just wanted this to be over.
 
-"I'm full," she said. She was not full. "I'll go for a walk in the mall."
+We did order the beef noodles, but just a small plate enough for Harmony and Sugarcane to split.
+
+"I'm full," Harmony said. She was not full. "I'll go for a walk in the mall."
 
 She wandered aimlessly through the row of restaurants and shops. Sugarcane soon caught up to her.
 
@@ -295,6 +296,6 @@ She wandered aimlessly through the row of restaurants and shops. Sugarcane soon 
 
 "You have *money*?"
 
-"I have my phone. my parents gave me some allowance. Ice cream?"
+"I have my phone. My parents gave me some allowance. Ice cream?"
 
-Harmony found the cheapest option on the menu. Sugarcane got a big sundae and paid for them both.
+Harmony found the cheapest option on the menu. Sugarcane got a big sundae and paid for them both. All Harmony could think of was how to get the money to pay Sugarcane back.
