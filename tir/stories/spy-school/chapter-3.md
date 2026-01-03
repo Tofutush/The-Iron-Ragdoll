@@ -121,7 +121,7 @@ Harmony and Sugarcane met at their backpacks. She shot Sugarcane an exasperated 
 
 The ten minutes were up, and Sky called everyone back into the classroom.
 
-"You are now doing the second part of the exam. You have one hour, but you can leave whenever. There's nothing else for the rest of the day either, so you can leave the school after finishing." The new answer sheet and questions were passed down.
+"You are now doing the second part of the exam. You have one hour, but you can leave whenever. There's nothing else for the rest of the day either, so you can leave the school after finishing. Remember, normal classes begin tomorrow!" The new answer sheet and questions were passed down.
 
 Harmony stared at the paper.
 
@@ -236,3 +236,23 @@ Entity woke Harmony up when dinnertime came.
 Harmony often heard her dad bring up Tangerine, but she could never remember him.
 
 They parked in the basement of the mall in their favorite spot right next to the elevator, and rode up. The hotpot restaurant was in front of them as the elevator doors opened.
+
+"Table for seven," Entity said to the waiter who greeted them.
+
+They ordered some basic things and waited for the other people to arrive. Harmony asked for two drinks. Entity had a rare smile on his face as he watched the soup boil.
+
+Tangerine walked over. "Hey, Entity! Hey, Frosting!"
+
+"Hi!" Frosting replied, and then turned to Harmony. "Say hello to uncle Tangerine."
+
+"Hello uncle," Harmony muttered.
+
+"My therapist said he could make an appointment with you Thursday, same time," Tangerine said to Entity as he sat down. "Would you be up for it?"
+
+"Wow, thanks!" Entity said. "I won't be back for dinner Thursday, then." Frosting nodded. The pot was bubbling, so Entity turned the heat down.
+
+"Hello!" Came Sugarcane's voice. "Good evening, auntie and uncles!"
+
+The adults greeted each other as Harmony and Sugarcane sipped their drinks doodled on the napkins. Entity was, of course, the one to dip the beef; though he always made sure to put some in his bowl first before giving it to anyone else.
+
+"So!" Tangerine started. Harmony felt a sense of familiar dread. "How's our new middle-schoolers doing?"
