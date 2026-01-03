@@ -256,3 +256,45 @@ Tangerine walked over. "Hey, Entity! Hey, Frosting!"
 The adults greeted each other as Harmony and Sugarcane sipped their drinks doodled on the napkins. Entity was, of course, the one to dip the beef; though he always made sure to put some in his bowl first before giving it to anyone else.
 
 "So!" Tangerine started. Harmony felt a sense of familiar dread. "How's our new middle-schoolers doing?"
+
+*Now* Harmony remembers who Uncle Tangerine was.
+
+"They're doing well!" Frosting said cheerfully.
+
+"That's nice to hear! What did you learn at school today?"
+
+"We did the entrance exam," Sugarcane said.
+
+"How was the exam?"
+
+"It was okay."
+
+"When I was at school" — *oh, please* — "I used to set a goal every semester. It helps a lot with a target in mind! Why don't you do it too?"
+
+"Yeah," Sugarcane's mom seconded. "What are your goals for this semester?"
+
+Sugarcane thought for a while and said, "I want to learn new knowledge and be the first place in class." She had always been good at these sort of things.
+
+"What about you, Harmony?" Tangerine looked at her with his wide, greasy grin.
+
+"I don't know," Harmony said.
+
+"Well you *gotta* have one!"
+
+*No I don't.* "Survive," Harmony said curtly.
+
+"Harmony," Entity was disappointed. "Don't treat uncle like that. How about you go for second place?"
+
+"Sure," Harmony just wanted this to be over.
+
+"I'm full," she said. She was not full. "I'll go for a walk in the mall."
+
+She wandered aimlessly through the row of restaurants and shops. Sugarcane soon caught up to her.
+
+"You want some desserts?" She asked.
+
+"You have *money*?"
+
+"I have my phone. my parents gave me some allowance. Ice cream?"
+
+Harmony found the cheapest option on the menu. Sugarcane got a big sundae and paid for them both.

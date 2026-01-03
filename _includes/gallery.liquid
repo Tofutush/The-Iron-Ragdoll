@@ -12,7 +12,7 @@
 			<button class="prev">{% lucide 'chevron-left' 48 'var(--off-white)' %}</button>
 			<button class="next">{% lucide 'chevron-right' 48 'var(--off-white)' %}</button>
 			{% image path img.name img.type 1000 img.name %}
-			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank">{{ img.author }}</a></p>{% endif %}
+			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank" class="external-link">{{ img.author }}</a></p>{% endif %}
 			{% if img.ch %}
 			<div class="tags chbuttons">
 				{% for ch in img.ch %}
