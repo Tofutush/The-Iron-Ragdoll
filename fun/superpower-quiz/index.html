@@ -1,0 +1,780 @@
+<!doctype html>
+<html lang="en" class="light">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="What superpower do you have?">
+  <meta name="author" content="Tofutush">
+  <meta name="theme-color" content="#555555">
+  <meta property="og:title" content="Superpower Quiz | The Iron Ragdoll">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png">
+  <meta property="og:site_name" content="The Iron Ragdoll">
+  <meta property="og:description" content="What superpower do you have?">
+  <title>Superpower Quiz | The Iron Ragdoll</title>
+  <script>
+    (function() {
+      let lightDark = parseInt(localStorage.getItem('light-dark'));
+      if (lightDark === 0) document.documentElement.className = 'dark';
+      if (lightDark === 1) document.documentElement.className = 'light';
+    })();
+  </script>
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/callout.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
+  <link rel="icon" href="/The-Iron-Ragdoll/icon.ico">
+</head>
+
+<body>
+  <header style="background-image: url(/The-Iron-Ragdoll/img/gallery/htShwmOnXm-2850.webp)"><a href="/The-Iron-Ragdoll/"></a></header>
+  <nav>
+    <a href="#top">(Top)</a>
+    <a href="/The-Iron-Ragdoll/about/">About</a>
+    <a href="/The-Iron-Ragdoll/characters/">Characters</a>
+    <a href="/The-Iron-Ragdoll/stories/">Stories</a>
+    <a href="/The-Iron-Ragdoll/world/">World</a>
+    <a href="/The-Iron-Ragdoll/gallery/2026/">Gallery</a>
+    <a href="/The-Iron-Ragdoll/changelog/">Updates</a>
+  </nav>
+  <main>
+    <div class="breadcrumbs">
+      <a href="/The-Iron-Ragdoll/fun/">Fun</a>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+        <path d="m9 18 6-6-6-6"></path>
+      </svg>
+      <a href="/The-Iron-Ragdoll/fun/superpower-quiz/">Superpower Quiz</a>
+    </div>
+    <h1>Superpower Quiz</h1>
+    <p class="lighter-text">What superpower do you have?</p>
+    <link rel="stylesheet" href="/The-Iron-Ragdoll/css/quiz.css">
+    <div id="quiz">
+      <p>This quiz requires JavaScript to run!</p>
+    </div>
+    <script src="/The-Iron-Ragdoll/js/quiz.js"></script>
+    <script>
+      const quizContent = {
+        "id": "super",
+        "desc": "The five common superpowers, and the two rare ones — which one of them do you have? Or do you have none of them? Find out with the quiz below! (Note: assignment is pretty much arbitrary. I pulled most of it out of my ass. Just have fun!)",
+        "randomize": true,
+        "results": {
+          "Superstrength": {
+            "desc": "You can channel up your soul to give you extra strength! Lift that car up and toss it! Go!",
+            "url": "../../world/superpowers/#superstrength"
+          },
+          "Timekeeping": {
+            "desc": "You know exactly what time it is. You won't ever <em>accidentally</em> be late!",
+            "url": "../../world/superpowers/#timekeeping"
+          },
+          "Hyperawareness": {
+            "desc": "You can see and hear miles away if you focus! You won't ever need glasses!",
+            "url": "../../world/superpowers/#hyperawareness"
+          },
+          "Invisibility": {
+            "desc": "You can hide yourself from view! Watch out for mirrors and cameras though, for they can always capture you…",
+            "url": "../../world/superpowers/#invisibility"
+          },
+          "Mind reading": {
+            "desc": "You can read people's minds! If you're not trained or powerful enough, they will feel a tingling sensation when you do so. Too bad the teachers will prevent you from doing it during exams…",
+            "url": "../../world/superpowers/#mind-reading"
+          },
+          "Magic": {
+            "desc": "You have magic flowing in your veins! Quick, get registered and attend the Magic Academy unless you want to be in jail!",
+            "url": "../../world/superpowers/#magic"
+          },
+          "Immortality": {
+            "desc": "You cannot die. You stop aging in your twenties. If you get hurt, your body regenerates. But watch out! There is one thing in the world that can instantly kill you. Do you want to find out what it is?",
+            "url": "../../world/superpowers/#immortality"
+          },
+          "None": {
+            "desc": "You don't have any superpowers. Don't be sad though, you are the same with the majority of the population!"
+          }
+        },
+        "questions": [{
+          "title": "Do you like cats?",
+          "answers": [{
+            "text": "I LOVE them! They're my whole world!",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "I am forever a loyal servant to my cat(s).",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "I like cats a lot.",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "They're okay, I guess.",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "I hate cats.",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "Every time I see a cat I throw it in a ditch because of how much I hate them.",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "The world will be a better place without any felines at all, including tigers, lions, etc.",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          },
+          "randomize": false
+        }, {
+          "title": "What would you do on a rainy day?",
+          "answers": [{
+            "text": "Invite my friends over before the rain started, so they're trapped at my place and have to play with me.",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "Read a book.",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "Go shopping.",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "Play video games.",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "I work on my website like a true webmaster.",
+            "response": {}
+          }, {
+            "text": "Stay in bed and paracosm all day.",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "I go out and play in the rain!",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          }
+        }, {
+          "title": "Which country do you want to live in the most?",
+          "answers": [{
+            "text": "Bauhinia",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "Fanton",
+            "response": {
+              "Immortality": 1
+            }
+          }, {
+            "text": "Atlasia",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "Westavia",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "Moreland",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "Sylvandia",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "NONE of these dystopian hellscapes!",
+            "response": {
+              "Magic": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          },
+          "randomize": false
+        }, {
+          "title": "Would you work for the MSS?",
+          "answers": [{
+            "text": "Fuck no.",
+            "response": {
+              "Superstrength": 1,
+              "Mind reading": 1,
+              "Magic": 1,
+              "Immortality": 1
+            }
+          }, {
+            "text": "Fuck yes.",
+            "response": {
+              "Timekeeping": 1,
+              "Hyperawareness": 1,
+              "Invisibility": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          }
+        }, {
+          "title": "What's your favorite color?",
+          "answers": [{
+            "text": "Red",
+            "response": {
+              "Magic": 10,
+              "Superstrength": 1
+            }
+          }, {
+            "text": "Orange",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "Yellow",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "Green",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "Blue",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "Purple",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "Gray",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          },
+          "randomize": false,
+          "addNoneAbove": true
+        }, {
+          "title": "Do you like pineapple pizza?",
+          "answers": [{
+            "text": "I would like to suffer the same fate as Kismet.",
+            "response": {
+              "Superstrength": 1,
+              "Hyperawareness": 1,
+              "Mind reading": 1,
+              "Immortality": 1
+            }
+          }, {
+            "text": "Fuck no.",
+            "response": {
+              "Timekeeping": 1,
+              "Invisibility": 1,
+              "Magic": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          }
+        }, {
+          "title": "Are you bald??",
+          "answers": [{
+            "text": "I have but a single hair on my head.",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "I'm a reptile. None of us have hair.",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "I have plenty of hair everywhere except my head.",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "I wear a wig to cover up my baldness.",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "I am smart, and smart people are all bald.",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "My head can light up a cave if I stand at the entrance with the sun behind me.",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "People hang me upside-down from the ceiling to act as a disco ball.",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          }
+        }, {
+          "title": "How good is your eyesight?",
+          "answers": [{
+            "text": "I can't read this text so I'm just picking random options.",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "I can't tell who a person is unless we're touching noses.",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "I can see Venus with my naked eye. During the day.",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "I'm forced to sit at the front row of the classroom because of my terrible eyes.",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "It doesn't matter. I don't really need to see when I have other senses.",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "I'm legally blind.",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "I'm like, average. Average average.",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          }
+        }, {
+          "title": "Which of these things would you bring to a party?",
+          "answers": [{
+            "text": "Balloons!",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "Food I made all by myself.",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "A bunch of DVDs of 80's movies.",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "My undying party spirit.",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "A silly costume.",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "Fireworks!",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "Candies!",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          },
+          "multi": true,
+          "addNoneAbove": true
+        }, {
+          "title": "You're making a potion! What do you put in the pot?",
+          "answers": [{
+            "text": "Fish Stench Grass (Houttuynia cordata), Tofu's grandma's epic cure to runny noses. It tastes like… drumroll… Fish stench!",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "Carrots!",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "Lots and lots of sugar.",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "Arsenic.",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "Cupcake sprinkles!",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "A human soul, solid or liquid (because gas ones would just float away).",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "The last hair on my bald head.",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          },
+          "multi": true,
+          "addNoneAbove": true
+        }, {
+          "title": "What kind of these games that I hate* do you like? (* Save for one kind)",
+          "answers": [{
+            "text": "Fighting games!",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "Platformers. I love dying!",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "Open-world stuff.",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "RPG!",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "Simulation games!",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "Choose-your-own-adventure games like Henry Stickmin.",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "GACHA GAMES like the Game That Shall Not Be Named!!!",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          },
+          "multi": true,
+          "addNoneAbove": true
+        }, {
+          "title": "Which of these insightful, thought-provoking lyrics do you resonate with the most?",
+          "answers": [{
+            "text": "Bang, bang bang bang~ ba-BONG ba-bang-bang!",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "Da-da-da-da da, da, da! Da-da-da-da da, da, da-a-a!",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "Ye yi ya yi, ye yi-ye ya ho!",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "Doo da di DA, di, do da da do di",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "Sweet dreams are made of cheese",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "Yeah, I'm gonna take my horse to the old town road, I'm gonna cheese 'til I can't no more",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "Da DOO di da-di da DOO daaa",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          }
+        }, {
+          "title": "If you can pick one superpower, what would it be?",
+          "answers": [{
+            "text": "Superstrength",
+            "response": {
+              "Timekeeping": 1,
+              "Hyperawareness": 1,
+              "Invisibility": 1,
+              "Mind reading": 1,
+              "Magic": 1,
+              "Immortality": 1,
+              "None": 1
+            }
+          }, {
+            "text": "Timekeeping",
+            "response": {
+              "Superstrength": 1,
+              "Hyperawareness": 1,
+              "Invisibility": 1,
+              "Mind reading": 1,
+              "Magic": 1,
+              "Immortality": 1,
+              "None": 1
+            }
+          }, {
+            "text": "Hyperawareness",
+            "response": {
+              "Timekeeping": 1,
+              "Superstrength": 1,
+              "Invisibility": 1,
+              "Mind reading": 1,
+              "Magic": 1,
+              "Immortality": 1,
+              "None": 1
+            }
+          }, {
+            "text": "Invisibility",
+            "response": {
+              "Superstrength": 1,
+              "Timekeeping": 1,
+              "Hyperawareness": 1,
+              "Mind reading": 1,
+              "Magic": 1,
+              "Immortality": 1,
+              "None": 1
+            }
+          }, {
+            "text": "Mind reading",
+            "response": {
+              "Superstrength": 1,
+              "Timekeeping": 1,
+              "Hyperawareness": 1,
+              "Invisibility": 1,
+              "Magic": 1,
+              "Immortality": 1,
+              "None": 1
+            }
+          }, {
+            "text": "Magic",
+            "response": {
+              "Superstrength": 1,
+              "Timekeeping": 1,
+              "Hyperawareness": 1,
+              "Invisibility": 1,
+              "Mind reading": 1,
+              "Immortality": 1,
+              "None": 1
+            }
+          }, {
+            "text": "Immortality",
+            "response": {
+              "Superstrength": 1,
+              "Timekeeping": 1,
+              "Hyperawareness": 1,
+              "Invisibility": 1,
+              "Mind reading": 1,
+              "Magic": 1,
+              "None": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          }
+        }, {
+          "title": "You got some cute stickers! Where do you stick them?",
+          "answers": [{
+            "text": "On the back of my laptop!",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "On the cover of my notebooks!",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "On my fridge!",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "On the frames of my photographs!",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "On my waterbottle!",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "On my pens and pencil case!",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "On my desk!",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          },
+          "multi": true,
+          "addNoneAbove": true
+        }, {
+          "title": "What are on your walls?",
+          "answers": [{
+            "text": "The corpses of my enemies.",
+            "response": {
+              "Superstrength": 1
+            }
+          }, {
+            "text": "A clock.",
+            "response": {
+              "Timekeeping": 1
+            }
+          }, {
+            "text": "Photographs.",
+            "response": {
+              "Hyperawareness": 1
+            }
+          }, {
+            "text": "Artwork.",
+            "response": {
+              "Invisibility": 1
+            }
+          }, {
+            "text": "Memos and sticky notes.",
+            "response": {
+              "Mind reading": 1
+            }
+          }, {
+            "text": "Windows.",
+            "response": {
+              "Magic": 1
+            }
+          }, {
+            "text": "Dead mosquitoes.",
+            "response": {
+              "Immortality": 1
+            }
+          }],
+          "response": {
+            "None": 1
+          },
+          "multi": true,
+          "addNoneAbove": true
+        }]
+      };
+      let quiz = new Quiz(document.getElementById('quiz'), quizContent);
+      quiz.init();
+    </script>
+  </main>
+  <footer>
+    <div class="theme-toggle">
+      <div>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun">
+          <circle cx="12" cy="12" r="4"></circle>
+          <path d="M12 2v2"></path>
+          <path d="M12 20v2"></path>
+          <path d="m4.93 4.93 1.41 1.41"></path>
+          <path d="m17.66 17.66 1.41 1.41"></path>
+          <path d="M2 12h2"></path>
+          <path d="M20 12h2"></path>
+          <path d="m6.34 17.66-1.41 1.41"></path>
+          <path d="m19.07 4.93-1.41 1.41"></path>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon">
+          <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path>
+        </svg>
+      </div>
+    </div>
+    <script>
+      (function() {
+        let toggle = document.querySelector('.theme-toggle');
+        let lightDark = parseInt(localStorage.getItem('light-dark'));
+        toggle.addEventListener('click', e => {
+          if (lightDark === 0) {
+            lightDark = 1;
+            document.documentElement.className = 'light';
+          } else {
+            lightDark = 0;
+            document.documentElement.className = 'dark';
+          }
+          localStorage.setItem('light-dark', lightDark);
+        });
+      })();
+    </script>
+    <img src="/The-Iron-Ragdoll/img/gallery/Yg3KMewQxD-372.webp" alt="pearl footer" title="pearl footer" loading="lazy" decoding="async" class="footer-img" width="372" height="158">
+  </footer>
+  <div class="license">
+    <p>The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></p>
+    <p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/./tir/fun/superpower-quiz.liquid">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll/fun/superpower-quiz/">Archive this page</a></p>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
+  <script>
+    if (!window.location.href.includes('localhost')) {
+      window.addEventListener('load', () => {
+        quicklink.listen();
+      });
+    }
+  </script>
+</body>
+
+</html>
