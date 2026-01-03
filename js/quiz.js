@@ -89,11 +89,9 @@ class Quiz {
 	}
 
 	noneOfTheAbove(qIdx, response = {}, ulDiv) {
-		console.log(qIdx, response);
 		this.responses[qIdx] = {};
-		for (let r of Object.keys(response)) {
-			response[qIdx][r] = response[r];
-		}
+		for (let r of Object.keys(response))
+			this.responses[qIdx][r] = response[r];
 		// clear out all others
 		for (let z = 0; z < ulDiv.children.length - 1; z++) {
 			ulDiv.children[z].firstChild.firstChild.checked = false;
