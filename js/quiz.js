@@ -5,6 +5,7 @@ class Quiz {
 		this.questions = quizContent.questions;
 		this.results = quizContent.results;
 		this.randomize = quizContent.randomize;
+		this.quizID = quizContent.id;
 
 		this.responses = [];
 		this.bigQDiv = elt('div', { id: 'questions' });
@@ -13,16 +14,21 @@ class Quiz {
 	}
 
 	init() {
+		this.div.innerHTML = '';
 		this.div.appendChild(this.resultsDiv);
-		if (localStorage.getItem('mssQuizResult')) {
-			this.renderResult(JSON.parse(localStorage.getItem('mssQuizResult')));
+		if (localStorage.getItem(this.quizID + 'QuizResult')) {
+			this.renderResult(JSON.parse(localStorage.getItem(this.quizID + 'QuizResult')));
 		}
-		this.div.appendChild(elt('p', {}, this.desc));
+		let descP = elt('p', {});
+		descP.innerHTML = this.desc;
+		this.div.appendChild(descP);
 		this.div.appendChild(elt('p', { className: 'graybox' }, 'Select an answer for the options below. You can also leave questions empty. Some questions may be multi-select, and will be marked as such.'));
 		// questions
 		for (let z = 0; z < this.questions.length; z++) {
 			this.bigQDiv.appendChild(elt('hr'));
 			let q = this.questions[z];
+			// set the question's response to its empty response object, if there is one
+			this.responses[z] = q.response;
 			let questionDiv = elt('div', { className: 'question' });
 			questionDiv.appendChild(elt('ol', { start: z + 1 }, elt('li', {}, elt('strong', {}, q.title + (q.multi ? ' (Choose multiple)' : '')))));
 			let ulDiv = elt('ul');
@@ -38,7 +44,7 @@ class Quiz {
 			}
 			// add none of the above
 			if (q.multi && q.addNoneAbove) {
-				let liDiv = elt('li', { className: 'none-of-the-above' }, elt('label', {}, elt('input', { name: 'q' + z, type: 'checkbox', onchange: e => this.noneOfTheAbove(z, ulDiv) }), 'None of the above.'));
+				let liDiv = elt('li', { className: 'none-of-the-above' }, elt('label', {}, elt('input', { name: 'q' + z, type: 'checkbox', onchange: e => this.noneOfTheAbove(z, q.response, ulDiv) }), 'None of the above.'));
 				ulDiv.appendChild(liDiv);
 			}
 			questionDiv.appendChild(ulDiv);
@@ -55,20 +61,21 @@ class Quiz {
 	}
 
 	setMultiAnswer(e, qIdx, personalities, ulDiv) {
-		// remove none of the above if it exists
-		if (ulDiv.lastChild.className === 'none-of-the-above') ulDiv.lastChild.firstChild.firstChild.checked = false;
-		// if no response yet, init
-		if (!this.responses[qIdx]) {
+		// remove none of the above and empty out the results
+		if (ulDiv.lastChild.className === 'none-of-the-above') {
+			ulDiv.lastChild.firstChild.firstChild.checked = false;
 			this.responses[qIdx] = {};
 		}
+		// if no response yet, init
+		if (!this.responses[qIdx]) this.responses[qIdx] = {};
 		// then add
 		let multiplier = e.target.checked ? 1 : -1;
 		for (let p of Object.keys(personalities))
 			this.responses[qIdx][p] = Math.max(0, (this.responses[qIdx][p] ?? 0) + multiplier * personalities[p]);
 	}
 
-	noneOfTheAbove(qIdx, ulDiv) {
-		this.responses[qIdx] = {};
+	noneOfTheAbove(qIdx, response = {}, ulDiv) {
+		this.responses[qIdx] = response;
 		// clear out all others
 		for (let z = 0; z < ulDiv.children.length - 1; z++) {
 			ulDiv.children[z].firstChild.firstChild.checked = false;
@@ -86,7 +93,7 @@ class Quiz {
 		this.div.appendChild(this.resultsDiv);
 		this.renderResult(result);
 		console.log(result);
-		localStorage.setItem('mssQuizResult', JSON.stringify(result));
+		localStorage.setItem(this.quizID + 'QuizResult', JSON.stringify(result));
 	}
 
 	renderResult(result) {
@@ -101,7 +108,8 @@ class Quiz {
 			while (index < result.length && result[index][1] === result[0][1]) {
 				let name = result[index][0];
 				if (index != 0) list.appendChild(document.createTextNode(', '));
-				list.appendChild(elt('a', { href: this.results[name].url }, name));
+				if (this.results[name].url) list.appendChild(elt('a', { href: this.results[name].url }, name));
+				else list.appendChild(elt('span', {}, name));
 				index++;
 			}
 			this.resultsDiv.appendChild(list);
@@ -126,8 +134,8 @@ class Quiz {
 
 	getPersonality(name) {
 		let div = elt('div');
-		div.appendChild(elt('h1', { style: 'text-align: center' }, elt('a', { href: this.results[name].url }, name)));
-		div.appendChild(elt('img', { src: this.results[name].img, className: 'max max-500' }));
+		div.appendChild(elt('h1', { style: 'text-align: center' }, this.results[name].url ? elt('a', { href: this.results[name].url }, name) : elt('span', {}, name)));
+		if (this.results[name].img) div.appendChild(elt('img', { src: this.results[name].img, className: 'max max-500' }));
 		let desc = elt('p', { style: 'text-align: center' });
 		desc.innerHTML = this.results[name].desc;
 		div.appendChild(desc);
