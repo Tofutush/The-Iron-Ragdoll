@@ -10,15 +10,20 @@ class Quiz {
 		this.responses = [];
 		this.bigQDiv = elt('div', { id: 'questions' });
 		this.resultsDiv = elt('div', { id: 'results' });
-		this.buttonDiv = elt('button', { style: 'display: block; margin: auto', onclick: () => this.submit() }, 'Submit!');
+		this.buttonDiv = elt('button', {
+			style: 'display: block; margin: auto',
+			onclick: () => this.submit()
+		},
+			'Submit!');
 	}
 
 	init() {
 		this.div.innerHTML = '';
+		// put the results div at the top for saved result
 		this.div.appendChild(this.resultsDiv);
-		if (localStorage.getItem(this.quizID + 'QuizResult')) {
+		if (localStorage.getItem(this.quizID + 'QuizResult'))
 			this.renderResult(JSON.parse(localStorage.getItem(this.quizID + 'QuizResult')));
-		}
+		// description & instruction
 		let descP = elt('p', {});
 		descP.innerHTML = this.desc;
 		this.div.appendChild(descP);
@@ -29,15 +34,31 @@ class Quiz {
 			let q = this.questions[z];
 			// set the question's response to its empty response object, if there is one
 			this.responses[z] = q.response;
+			// create questions div
 			let questionDiv = elt('div', { className: 'question' });
-			questionDiv.appendChild(elt('ol', { start: z + 1 }, elt('li', {}, elt('strong', {}, q.title + (q.multi ? ' (Choose multiple)' : '')))));
+			// title
+			questionDiv.appendChild(elt('ol', { start: z + 1 },
+				elt('li', {},
+					elt('strong', {}, q.title + (q.multi ? ' (Choose multiple)' : '')))));
+			// options
 			let ulDiv = elt('ul');
+			// shuffle, local override global
 			if (q.randomize ?? this.randomize) shuffle(q.answers);
+			// append each option
 			for (let x = 0; x < q.answers.length; x++) {
 				let a = q.answers[x];
 				let inputDiv;
-				if (q.multi) inputDiv = elt('input', { name: 'q' + z, type: 'checkbox', onchange: e => this.setMultiAnswer(e, z, a.response, ulDiv) });
-				else inputDiv = elt('input', { name: 'q' + z, type: 'radio', onchange: e => this.setAnswer(z, a.response) });
+				// multi - checkbox, single - radio
+				if (q.multi) inputDiv = elt('input', {
+					name: 'q' + z,
+					type: 'checkbox',
+					onchange: e => this.setMultiAnswer(e, z, a.response, ulDiv)
+				});
+				else inputDiv = elt('input', {
+					name: 'q' + z,
+					type: 'radio',
+					onchange: e => this.setAnswer(z, a.response)
+				});
 				let labelDiv = elt('label', {}, inputDiv, a.text);
 				let liDiv = elt('li', {}, labelDiv);
 				ulDiv.appendChild(liDiv);
@@ -65,8 +86,8 @@ class Quiz {
 	}
 
 	setAnswer(qIdx, personalities) {
+		// single-choice answer, simply set
 		this.responses[qIdx] = personalities;
-		console.log(this.responses);
 	}
 
 	setMultiAnswer(e, qIdx, personalities, ulDiv) {
@@ -89,6 +110,7 @@ class Quiz {
 	}
 
 	noneOfTheAbove(qIdx, response = {}, ulDiv) {
+		// clear, and then add. don't set, its gonna be a reference and be changed!
 		this.responses[qIdx] = {};
 		for (let r of Object.keys(response))
 			this.responses[qIdx][r] = response[r];
@@ -96,18 +118,19 @@ class Quiz {
 		for (let z = 0; z < ulDiv.children.length - 1; z++) {
 			ulDiv.children[z].firstChild.firstChild.checked = false;
 		}
-		console.log(this.responses);
-
 	}
 
 	submit() {
-		console.log(this.responses);
+		// init score object
 		let scores = Object.fromEntries(Object.keys(this.results).map(name => [name, 0]));
+		// add score from each question
 		for (const response of this.responses) {
 			if (!response) continue;
 			for (let [name, val] of Object.entries(response)) scores[name] += val;
 		}
+		// sort
 		let result = Object.entries(scores).sort((a, b) => b[1] - a[1]);
+		// move results div to the bottom
 		this.div.appendChild(this.resultsDiv);
 		this.renderResult(result);
 		console.log(result);
