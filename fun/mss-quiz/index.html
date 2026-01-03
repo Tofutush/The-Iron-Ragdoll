@@ -47,35 +47,14 @@
     </div>
     <h1>MSS Personality Quiz</h1>
     <p class="lighter-text">Which MSS character are you?</p>
-    <style>
-      .question ul {
-        list-style: none;
-        padding-inline-start: 0;
-
-        &>li {
-          margin: 0;
-        }
-
-        & label {
-          cursor: pointer;
-          display: block;
-          border-radius: 1em;
-          padding: .2em 1em;
-
-          &:hover {
-            background-color: var(--box);
-          }
-        }
-      }
-
-      .question ol {
-        padding-inline-start: 1em;
-      }
-    </style>
-    <div id="quiz"></div>
+    <link rel="stylesheet" href="/The-Iron-Ragdoll/css/quiz.css">
+    <div id="quiz">
+      <p>This quiz requires JavaScript to run!</p>
+    </div>
     <script src="/The-Iron-Ragdoll/js/quiz.js"></script>
     <script>
       const quizContent = {
+        "id": "mss",
         "desc": "The Ministry of State Security, widely feared and revered by the citizens of Bauhinia. Who will you be among its ranks? The ruthless spymaster, the hapless scapegoat, or the brainwashed patriot? Find out below!",
         "randomize": true,
         "results": {
@@ -805,7 +784,7 @@
             }
           }]
         }]
-      }
+      };
       let quiz = new Quiz(document.getElementById('quiz'), quizContent);
       quiz.init();
     </script>
