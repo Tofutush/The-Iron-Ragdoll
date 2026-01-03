@@ -105,8 +105,6 @@ class Quiz {
 		let multiplier = e.target.checked ? 1 : -1;
 		for (let p of Object.keys(personalities))
 			this.responses[qIdx][p] = Math.max(0, (this.responses[qIdx][p] ?? 0) + multiplier * personalities[p]);
-		console.log(this.responses);
-
 	}
 
 	noneOfTheAbove(qIdx, response = {}, ulDiv) {
