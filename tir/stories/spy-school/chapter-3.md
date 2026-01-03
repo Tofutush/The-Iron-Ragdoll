@@ -8,7 +8,7 @@ chNum: 3
 date: 2026-01-02
 ---
 
-Harmony woke up the next day unable to stomach any breakfast.
+Harmony did not stop thinking about it. She woke up unable to stomach any breakfast.
 
 "You need energy," Frosting said.
 
@@ -18,7 +18,7 @@ Frosting wrapped the bun in a plastic bag and put it in Harmony's backpack. "Mak
 
 "I may pass out anyways."
 
-Harmony greeted Sugarcane at their usual spot. With every step they neared the school, and Harmony's heart beat faster. *Is this really going to be the norm in middle school?*
+Harmony greeted Sugarcane at their usual spot. With every step they neared the school, and Harmony's heart beat faster. *Would they use the exam scores as an excuse to get rid of me?*
 
 "I'm really not prepared."
 
@@ -256,7 +256,7 @@ The adults greeted each other as Harmony and Sugarcane sipped their drinks doodl
 
 "So!" Tangerine started. Harmony felt a sense of familiar dread. "How's our new middle-schoolers doing?"
 
-*Now* Harmony remembers who Uncle Tangerine was.
+*Now* Harmony remembered who Uncle Tangerine was.
 
 "They're doing well!" Frosting said cheerfully.
 

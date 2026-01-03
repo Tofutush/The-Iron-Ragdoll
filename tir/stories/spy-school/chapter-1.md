@@ -120,6 +120,8 @@ When they were far enough away from Rose, Sugarcane finally turned excitedly to 
 
 "I'm so glad we'd still be together," Harmony said. "I wouldn't know what to do without you."
 
+"Me neither."
+
 ---
 
 The day of graduation finally came. The girls had received their diplomas, went to take pictures right after the ceremony, and returned to Harmony's home, where they bugged Entity to walk them over.
