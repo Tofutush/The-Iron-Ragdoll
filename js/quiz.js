@@ -58,13 +58,17 @@ class Quiz {
 
 	setAnswer(qIdx, personalities) {
 		this.responses[qIdx] = personalities;
+		console.log(this.responses);
 	}
 
 	setMultiAnswer(e, qIdx, personalities, ulDiv) {
 		// remove none of the above and empty out the results
 		if (ulDiv.lastChild.className === 'none-of-the-above') {
-			ulDiv.lastChild.firstChild.firstChild.checked = false;
-			this.responses[qIdx] = {};
+			let checkbox = ulDiv.lastChild.firstChild.firstChild;
+			if (checkbox.checked) {
+				this.responses[qIdx] = {};
+				checkbox.checked = false;
+			}
 		}
 		// if no response yet, init
 		if (!this.responses[qIdx]) this.responses[qIdx] = {};
@@ -72,6 +76,8 @@ class Quiz {
 		let multiplier = e.target.checked ? 1 : -1;
 		for (let p of Object.keys(personalities))
 			this.responses[qIdx][p] = Math.max(0, (this.responses[qIdx][p] ?? 0) + multiplier * personalities[p]);
+		console.log(this.responses);
+
 	}
 
 	noneOfTheAbove(qIdx, response = {}, ulDiv) {
@@ -80,6 +86,8 @@ class Quiz {
 		for (let z = 0; z < ulDiv.children.length - 1; z++) {
 			ulDiv.children[z].firstChild.firstChild.checked = false;
 		}
+		console.log(this.responses);
+
 	}
 
 	submit() {
