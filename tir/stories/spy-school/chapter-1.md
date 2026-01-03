@@ -112,6 +112,14 @@ Harmony got up to follow Sugarcane.
 
 Harmony knew that.
 
+When they were far enough away from Rose, Sugarcane finally turned excitedly to Harmony and said, "you're really coming! I said I'd only attend if you do!"
+
+"Hey, I also said that!"
+
+"Looks like they *did* go find you!"
+
+"I'm so glad we'd still be together," Harmony said. "I wouldn't know what to do without you."
+
 ---
 
 The day of graduation finally came. The girls had received their diplomas, went to take pictures right after the ceremony, and returned to Harmony's home, where they bugged Entity to walk them over.
