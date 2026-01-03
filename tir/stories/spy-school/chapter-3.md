@@ -201,7 +201,7 @@ Suddenly Sugarcane's phone rang, a delightful, uplifting tune. She answered it. 
 
 "See you then," Harmony nodded.
 
-Frosting had lunch ready. "How did the exam go?"
+Back home, Frosting had lunch ready. "How did the exam go?"
 
 "Terribly."
 
@@ -220,3 +220,19 @@ Frosting had lunch ready. "How did the exam go?"
 "Have some more, then."
 
 "I'm *not hungry*!" Harmony ran to her room and shut the door. She buried her nose into her pillow and started sobbing.
+
+---
+
+Entity woke Harmony up when dinnertime came.
+
+"Why was your therapy canceled?" Harmony remembered to ask.
+
+"My therapist caught a cold and had a fever."
+
+"Who else is coming?"
+
+"Sugarcane's parents, as well as uncle Tangerine. Do you remember him?"
+
+Harmony often heard her dad bring up Tangerine, but she could never remember him.
+
+They parked in the basement of the mall in their favorite spot right next to the elevator, and rode up. The hotpot restaurant was in front of them as the elevator doors opened.
