@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-03
+
+- Published the [Superpowers Quiz](/fun/superpower-quiz/);
+	- Come find out what power you have!
+
 ## 2026-01-02
 
 - Published [Spy School chapter 3](/stories/spy-school/chapter-3/);
