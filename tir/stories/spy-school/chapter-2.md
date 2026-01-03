@@ -276,4 +276,14 @@ She told this to Frosting at dinner.
 
 "Then what is it about?"
 
-Harmony didn't know how to word it, so she just left it at that.
+"I… When Sky went to Sugarcane's, she said she wouldn't go without me."
+
+"Okay?"
+
+"And the next day, Sky came here."
+
+"Aww, sweetheart, that can't be it. They would not recruit a student they didn't want to recruit."
+
+"But…"
+
+"If they wanted Sugarcane that badly, they wouldn't have given her a choice. They would have forced her to go, not cater to her demands," Frosting stood up and put away their bowls. "You really just need a warm bath an early bed, and you'll stop thinking about it tomorrow."
