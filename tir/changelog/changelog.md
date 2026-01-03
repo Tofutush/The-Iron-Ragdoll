@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-02
+
+- Published [Spy School chapter 3](/stories/spy-school/chapter-3/);
+
 ## 2026-01-01
 
 - First commit of the new year! Organized my images into subfolders by year to make this site future-proof. Can we get to that future? I hope so!
