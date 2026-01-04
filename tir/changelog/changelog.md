@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-04
+
+- Made different souls' hover animation different;
+	- Solid is bounce, liquid and non-Newtonian is float, and gas (and if you have more than one soul) is pulse!
+
 ## 2026-01-03
 
 - Published the [Superpowers Quiz](/fun/superpower-quiz/);

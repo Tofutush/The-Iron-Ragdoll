@@ -36,7 +36,14 @@ eleventyComputed:
     <div>
       {% image "gallery/" profilePath 'png' 'auto' ch.name '' iconPath 'png' %}
       {% if soul %}
-        {% image "gallery/" soul.name soul.type 200 soul.name 'soul' %}
+        {% if ch.attr.Soul[0] == 'S' %}
+          {% assign soulType = 'soul solid' %}
+        {% elsif ch.attr.Soul[0] == 'L' or ch.attr.Soul[0] == 'N' %}
+          {% assign soulType = 'soul liquid' %}
+        {% else %}
+          {% assign soulType = 'soul gas' %}
+        {% endif %}
+        {% image "gallery/" soul.name soul.type 200 soul.name soulType %}
       {% endif %}
     </div>
     <div class="names">
