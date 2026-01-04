@@ -10,6 +10,7 @@ eleventyNavigation:
 
 - Made different souls' hover animation different;
 	- Solid is bounce, liquid and non-Newtonian is float, and gas (and if you have more than one soul) is pulse!
+- Added `pumpkin candlelight wall.png`, `willow rainbow scratch paper.png`;
 
 ## 2026-01-03
 

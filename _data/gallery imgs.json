@@ -5793,5 +5793,23 @@
     "ch": [
       "goose"
     ]
+  },
+  {
+    "name": "pumpkin candlelight wall",
+    "type": "png",
+    "date": "2026-01-04",
+    "ch": [
+      "candlelight",
+      "pumpkin"
+    ]
+  },
+  {
+    "name": "willow rainbow scratch paper",
+    "type": "png",
+    "date": "2026-01-04",
+    "ch": [
+      "willow"
+    ],
+    "comment": "Canonically, Willow drew this herself."
   }
 ]
