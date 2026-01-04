@@ -9,11 +9,30 @@ blockquote {
 	border-color: var(--accent);
 }
 
-.title {
+#wrapper {
 	display: flex;
-	gap: 2em;
+	flex-wrap: wrap;
+	gap: 3em;
+
+	&>:first-child {
+		max-width: 10em;
+		margin: 0 auto;
+	}
+
+	&>:last-child {
+		max-width: 800px;
+		flex: 1;
+	}
+}
+
+.title {
 	align-items: center;
-	margin: 2em 0;
+	position: sticky;
+	top: 4em;
+
+	&>.names>* {
+		text-align: center;
+	}
 
 	&>div:first-child {
 		position: relative;
@@ -21,18 +40,18 @@ blockquote {
 
 		&>img {
 			&:first-child {
-				height: 280px;
-				width: 280px;
+				height: 10em;
+				width: 10em;
 				background-color: var(--box);
 				border-radius: 1em;
 			}
 
 			&:last-child:not(:first-child) {
 				position: absolute;
-				height: 8em;
-				width: 8em;
-				right: -3em;
-				bottom: -3em;
+				height: 6em;
+				width: 6em;
+				right: -2em;
+				bottom: -2em;
 
 				&:hover {
 					animation: vibe 2s infinite;
@@ -141,7 +160,7 @@ blockquote {
 .pagedoll {
 	position: fixed;
 	bottom: 1rem;
-	left: 1rem;
+	right: 1rem;
 	max-width: 20vw;
 	max-height: 30vh;
 	height: auto;
@@ -187,22 +206,9 @@ blockquote {
 	}
 }
 
-@media only screen and (max-width: 780px) {
-	.title {
+@media only screen and (max-width: 720px) {
+	#wrapper {
 		flex-direction: column;
-
-		&>.names {
-			gap: 0;
-
-			&>* {
-				text-align: center;
-			}
-		}
-	}
-}
-
-@media only screen and (max-width: 480px) {
-	.title>div>img:last-child {
-		right: 0 !important;
+		gap: 1em;
 	}
 }

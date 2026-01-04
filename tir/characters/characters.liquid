@@ -6,6 +6,7 @@ pagination:
   alias: ch
   addAllPagesToCollections: true
 permalink: "characters/{{ ch.name | lowerCase }}/"
+widepage: true
 eleventyComputed:
   title: "{{ ch.name }}"
   desc: "{{ ch.desc }}"
@@ -17,149 +18,153 @@ eleventyComputed:
 ---
 <link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
-<div style="--accent: {{ ch.color }}">
-  {% assign filteredGallery = gallery | filterGallery: ch.name %}
-  {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
-  {% assign ref = filteredGallery | getFirstOfKind: "ref" %}
-  {% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
-  {% assign soul = filteredGallery | getFirstOfKind: "soul" %}
-  {% if pagedoll %}
-    {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
-  {% endif %}
-  {% if filteredGallery.size > 10 %}
-    {% assign big = true %}
-    {% assign filteredGallery = filteredGallery | getFirst10 %}
-  {% endif %}
-  <div class="title">
-    {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
-    {% assign profilePath = ch.name | lowerCase | append: " profile" %}
-    <div>
-      {% image "gallery/" profilePath 'png' 'auto' ch.name '' iconPath 'png' %}
-      {% if soul %}
-        {% image "gallery/" soul.name soul.type 200 soul.name 'soul' %}
-      {% endif %}
-    </div>
-    <div class="names">
-      {% if ch.namezh %}<h1 class="zh">{{ ch.namezh }}</h1>{% endif %}
-      <h1 class="en">{{ ch.name }}</h1>
-      {% if ch.desc %}
-        {{ ch.desc | renderMD }}
-      {% endif %}
-    </div>
-  </div>
-  <details id="toc-wrap">
-    <summary><h3>Contents</h3></summary>
-    <div id="toc">
-      <ul>
-        {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
-        {% assign filteredStories = collections.stories | filterStory: ch.name %}
-        {% if filteredStories.size > 0 %}<li><a href="#stories">Stories</a></li>{% endif %}
-        {% assign majorRelations = relationships | getMajorRels: ch.name %}
-        {% assign minorRelations = relationships | getMinorRels: ch.name %}
-        {% if majorRelations.size > 0 or minorRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
-        {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
-        <li><a href="#reference">Reference</a></li>
-        {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
-      </ul>
-    </div>
-  </details>
-  {% if ch.attr %}
-    <dl>
-      {% for att in ch.attr %}
-        <dt>{{ att[0] }}</dt>
-        <dd>{{ att[1] }}</dd>
-      {% endfor %}
-      {% if ch.tags %}
-        <dt>Tags</dt>
-        <dd>
-          {% assign sortedTags = ch.tags | sortAlphabetical %}
-          {% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
-        </dd>
-      {% endif %}
-    </dl>
-  {% endif %}
-  <div class="box-nav solid">
-    {% if big %}<a href="gallery/">View full gallery</a>{% endif %}
-    <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank">Attack {{ ch.name }} on Artfight!</a>
-    <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank">Give {{ ch.name }} a favorite!</a>
-  </div>
-  {% if ch.quote %}
-    <blockquote>{{ ch.quote | renderMD }}</blockquote>
-  {% endif %}
-  {% if ch.about %}
-    <h2 id="about">About</h2>
-    {% if fullbody %}
-      {% image 'gallery/' fullbody.name fullbody.type 500 fullbody.name 'float-right fullbody' %}
-    {% endif %}
-    {{ ch.about | renderMD }}
-  {% endif %}
-  {% if filteredStories.size > 0 %}
-      <h2 id="stories">Stories</h2>
-      {% include 'storylist', stories: filteredStories %}
-  {% endif %}
-  {% if majorRelations.size > 0 or minorRelations.size > 0 %}
-    <h2 id="relationships">Relationships</h2>
-    {% assign count = 0 %}
-    {% for rel in majorRelations %}
-      <div class="card">
-        {% assign otherCh = rel | getOtherCh: ch.name %}
-        {% assign relImg = rel | getRelImg %}
-        {% if relImg %}
-          {% assign mod = forloop.index |  modulo: 2 %}
-          {% if mod == 0 %}
-            {% assign class = 'float-left' | append: ' rel-img' %}
-          {% else %}
-            {% assign class='float-right' | append: ' rel-img' %}
-          {% endif %}
-          {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
-          {% if relImg.author %}
-            {% assign path = 'others art/'%}
-            {% assign alt = alt | append: ' by ' | append: relImg.author %}
-          {% else %}
-            {% assign path = 'gallery/'%}
-          {% endif %}
-          {% image path relImg.name relImg.type 500 alt class %}
-          {% assign count = count | plus: 1 %}
+{% assign filteredGallery = gallery | filterGallery: ch.name %}
+{% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
+{% assign ref = filteredGallery | getFirstOfKind: "ref" %}
+{% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
+{% assign soul = filteredGallery | getFirstOfKind: "soul" %}
+{% if pagedoll %}
+  {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
+{% endif %}
+{% if filteredGallery.size > 10 %}
+  {% assign big = true %}
+  {% assign filteredGallery = filteredGallery | getFirst10 %}
+{% endif %}
+<div id="wrapper" style="--accent: {{ ch.color }}">
+  <div>
+    <div class="title">
+      {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
+      {% assign profilePath = ch.name | lowerCase | append: " profile" %}
+      <div>
+        {% image "gallery/" profilePath 'png' 'auto' ch.name '' iconPath 'png' %}
+        {% if soul %}
+          {% image "gallery/" soul.name soul.type 200 soul.name 'soul' %}
         {% endif %}
-        <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
-        {{ rel.desc | renderMD }}
       </div>
-    {% endfor %}
-    {% if minorRelations.size > 0 %}
-      <ul>
-        {% for rel in minorRelations %}
-          {% assign otherCh = rel | getOtherCh: ch.name %}
-          <li><a href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</li>
+      <div class="names">
+        {% if ch.namezh %}<h1 class="zh">{{ ch.namezh }}</h1>{% endif %}
+        <h1 class="en">{{ ch.name }}</h1>
+        {% if ch.desc %}
+          {{ ch.desc | renderMD }}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  <div>
+    <details id="toc-wrap">
+      <summary><h3>Contents</h3></summary>
+      <div id="toc">
+        <ul>
+          {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
+          {% assign filteredStories = collections.stories | filterStory: ch.name %}
+          {% if filteredStories.size > 0 %}<li><a href="#stories">Stories</a></li>{% endif %}
+          {% assign majorRelations = relationships | getMajorRels: ch.name %}
+          {% assign minorRelations = relationships | getMinorRels: ch.name %}
+          {% if majorRelations.size > 0 or minorRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
+          {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
+          <li><a href="#reference">Reference</a></li>
+          {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
+        </ul>
+      </div>
+    </details>
+    {% if ch.attr %}
+      <dl>
+        {% for att in ch.attr %}
+          <dt>{{ att[0] }}</dt>
+          <dd>{{ att[1] }}</dd>
         {% endfor %}
-      </ul>
+        {% if ch.tags %}
+          <dt>Tags</dt>
+          <dd>
+            {% assign sortedTags = ch.tags | sortAlphabetical %}
+            {% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
+          </dd>
+        {% endif %}
+      </dl>
     {% endif %}
-  {% endif %}
-  {% if ch.trivia %}
-    <h2 id="trivia">Trivia</h2>
-    {{ ch.trivia | renderMD }}
-  {% endif %}
-  <h2 id="reference">Reference</h2>
-  {% assign palette = ch | getFullPalette %}
-  {% include 'palette' colors: palette %}
-  {% if ref %}
-    {% assign refAlt = ch.name | append: " reference sheet" %}
-    <a target="_blank" href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' '' 'png' %}">
-      <figure>
-        {% image 'gallery/' ref.name 'png' 500 refAlt 'max' %}
-        <figcaption>Click for full size!</figcaption>
-      </figure>
-    </a>
-  {% endif %}
-  {% if ch.note %}
-    <h3 id="design-notes">Design notes</h3>
-    {{ ch.note | renderMD }}
-  {% endif %}
-  {% if filteredGallery.size > 0 %}
-    <h2 id="gallery">Gallery</h2>
-    <p class="smaller-text">Some art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please <a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">tell me</a>!</p>
-    {% include 'gallery' imgs: filteredGallery %}
-    {% if big %}<div class="box-nav solid"><a href="gallery/">View full gallery</a></div>{% endif %}
-  {% endif %}
+    <div class="box-nav solid">
+      {% if big %}<a href="gallery/">View full gallery</a>{% endif %}
+      <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank">Attack {{ ch.name }} on Artfight!</a>
+      <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank">Give {{ ch.name }} a favorite!</a>
+    </div>
+    {% if ch.quote %}
+      <blockquote>{{ ch.quote | renderMD }}</blockquote>
+    {% endif %}
+    {% if ch.about %}
+      <h2 id="about">About</h2>
+      {% if fullbody %}
+        {% image 'gallery/' fullbody.name fullbody.type 500 fullbody.name 'float-right fullbody' %}
+      {% endif %}
+      {{ ch.about | renderMD }}
+    {% endif %}
+    {% if filteredStories.size > 0 %}
+        <h2 id="stories">Stories</h2>
+        {% include 'storylist', stories: filteredStories %}
+    {% endif %}
+    {% if majorRelations.size > 0 or minorRelations.size > 0 %}
+      <h2 id="relationships">Relationships</h2>
+      {% assign count = 0 %}
+      {% for rel in majorRelations %}
+        <div class="card">
+          {% assign otherCh = rel | getOtherCh: ch.name %}
+          {% assign relImg = rel | getRelImg %}
+          {% if relImg %}
+            {% assign mod = forloop.index |  modulo: 2 %}
+            {% if mod == 0 %}
+              {% assign class = 'float-left' | append: ' rel-img' %}
+            {% else %}
+              {% assign class='float-right' | append: ' rel-img' %}
+            {% endif %}
+            {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
+            {% if relImg.author %}
+              {% assign path = 'others art/'%}
+              {% assign alt = alt | append: ' by ' | append: relImg.author %}
+            {% else %}
+              {% assign path = 'gallery/'%}
+            {% endif %}
+            {% image path relImg.name relImg.type 500 alt class %}
+            {% assign count = count | plus: 1 %}
+          {% endif %}
+          <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
+          {{ rel.desc | renderMD }}
+        </div>
+      {% endfor %}
+      {% if minorRelations.size > 0 %}
+        <ul>
+          {% for rel in minorRelations %}
+            {% assign otherCh = rel | getOtherCh: ch.name %}
+            <li><a href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endif %}
+    {% if ch.trivia %}
+      <h2 id="trivia">Trivia</h2>
+      {{ ch.trivia | renderMD }}
+    {% endif %}
+    <h2 id="reference">Reference</h2>
+    {% assign palette = ch | getFullPalette %}
+    {% include 'palette' colors: palette %}
+    {% if ref %}
+      {% assign refAlt = ch.name | append: " reference sheet" %}
+      <a target="_blank" href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' '' 'png' %}">
+        <figure>
+          {% image 'gallery/' ref.name 'png' 500 refAlt 'max' %}
+          <figcaption>Click for full size!</figcaption>
+        </figure>
+      </a>
+    {% endif %}
+    {% if ch.note %}
+      <h3 id="design-notes">Design notes</h3>
+      {{ ch.note | renderMD }}
+    {% endif %}
+    {% if filteredGallery.size > 0 %}
+      <h2 id="gallery">Gallery</h2>
+      <p class="smaller-text">Some art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please <a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">tell me</a>!</p>
+      {% include 'gallery' imgs: filteredGallery %}
+      {% if big %}<div class="box-nav solid"><a href="gallery/">View full gallery</a></div>{% endif %}
+    {% endif %}
+  </div>
 </div>
 {% assign prev = pagination.previous %}
 {% assign next = pagination.next %}
