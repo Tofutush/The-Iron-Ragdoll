@@ -30,8 +30,12 @@ blockquote {
 	position: sticky;
 	top: 4em;
 
-	&>.names>* {
-		text-align: center;
+	&>.names {
+		margin-top: 1em;
+
+		&>* {
+			text-align: center;
+		}
 	}
 
 	&>div:first-child {

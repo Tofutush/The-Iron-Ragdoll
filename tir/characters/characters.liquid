@@ -87,84 +87,86 @@ eleventyComputed:
       <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank">Attack {{ ch.name }} on Artfight!</a>
       <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank">Give {{ ch.name }} a favorite!</a>
     </div>
-    {% if ch.quote %}
-      <blockquote>{{ ch.quote | renderMD }}</blockquote>
-    {% endif %}
-    {% if ch.about %}
-      <h2 id="about">About</h2>
-      {% if fullbody %}
-        {% image 'gallery/' fullbody.name fullbody.type 500 fullbody.name 'float-right fullbody' %}
-      {% endif %}
-      {{ ch.about | renderMD }}
-    {% endif %}
-    {% if filteredStories.size > 0 %}
-        <h2 id="stories">Stories</h2>
-        {% include 'storylist', stories: filteredStories %}
-    {% endif %}
-    {% if majorRelations.size > 0 or minorRelations.size > 0 %}
-      <h2 id="relationships">Relationships</h2>
-      {% assign count = 0 %}
-      {% for rel in majorRelations %}
-        <div class="card">
-          {% assign otherCh = rel | getOtherCh: ch.name %}
-          {% assign relImg = rel | getRelImg %}
-          {% if relImg %}
-            {% assign mod = forloop.index |  modulo: 2 %}
-            {% if mod == 0 %}
-              {% assign class = 'float-left' | append: ' rel-img' %}
-            {% else %}
-              {% assign class='float-right' | append: ' rel-img' %}
-            {% endif %}
-            {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
-            {% if relImg.author %}
-              {% assign path = 'others art/'%}
-              {% assign alt = alt | append: ' by ' | append: relImg.author %}
-            {% else %}
-              {% assign path = 'gallery/'%}
-            {% endif %}
-            {% image path relImg.name relImg.type 500 alt class %}
-            {% assign count = count | plus: 1 %}
-          {% endif %}
-          <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
-          {{ rel.desc | renderMD }}
-        </div>
-      {% endfor %}
-      {% if minorRelations.size > 0 %}
-        <ul>
-          {% for rel in minorRelations %}
-            {% assign otherCh = rel | getOtherCh: ch.name %}
-            <li><a href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-    {% endif %}
-    {% if ch.trivia %}
-      <h2 id="trivia">Trivia</h2>
-      {{ ch.trivia | renderMD }}
-    {% endif %}
-    <h2 id="reference">Reference</h2>
-    {% assign palette = ch | getFullPalette %}
-    {% include 'palette' colors: palette %}
-    {% if ref %}
-      {% assign refAlt = ch.name | append: " reference sheet" %}
-      <a target="_blank" href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' '' 'png' %}">
-        <figure>
-          {% image 'gallery/' ref.name 'png' 500 refAlt 'max' %}
-          <figcaption>Click for full size!</figcaption>
-        </figure>
-      </a>
-    {% endif %}
-    {% if ch.note %}
-      <h3 id="design-notes">Design notes</h3>
-      {{ ch.note | renderMD }}
-    {% endif %}
-    {% if filteredGallery.size > 0 %}
-      <h2 id="gallery">Gallery</h2>
-      <p class="smaller-text">Some art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please <a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">tell me</a>!</p>
-      {% include 'gallery' imgs: filteredGallery %}
-      {% if big %}<div class="box-nav solid"><a href="gallery/">View full gallery</a></div>{% endif %}
-    {% endif %}
   </div>
+</div>
+<div style="max-width: 800px; margin: auto; --accent: {{ ch.color }}">
+  {% if ch.quote %}
+    <blockquote>{{ ch.quote | renderMD }}</blockquote>
+  {% endif %}
+  {% if ch.about %}
+    <h2 id="about">About</h2>
+    {% if fullbody %}
+      {% image 'gallery/' fullbody.name fullbody.type 500 fullbody.name 'float-right fullbody' %}
+    {% endif %}
+    {{ ch.about | renderMD }}
+  {% endif %}
+  {% if filteredStories.size > 0 %}
+      <h2 id="stories">Stories</h2>
+      {% include 'storylist', stories: filteredStories %}
+  {% endif %}
+  {% if majorRelations.size > 0 or minorRelations.size > 0 %}
+    <h2 id="relationships">Relationships</h2>
+    {% assign count = 0 %}
+    {% for rel in majorRelations %}
+      <div class="card">
+        {% assign otherCh = rel | getOtherCh: ch.name %}
+        {% assign relImg = rel | getRelImg %}
+        {% if relImg %}
+          {% assign mod = forloop.index |  modulo: 2 %}
+          {% if mod == 0 %}
+            {% assign class = 'float-left' | append: ' rel-img' %}
+          {% else %}
+            {% assign class='float-right' | append: ' rel-img' %}
+          {% endif %}
+          {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
+          {% if relImg.author %}
+            {% assign path = 'others art/'%}
+            {% assign alt = alt | append: ' by ' | append: relImg.author %}
+          {% else %}
+            {% assign path = 'gallery/'%}
+          {% endif %}
+          {% image path relImg.name relImg.type 500 alt class %}
+          {% assign count = count | plus: 1 %}
+        {% endif %}
+        <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
+        {{ rel.desc | renderMD }}
+      </div>
+    {% endfor %}
+    {% if minorRelations.size > 0 %}
+      <ul>
+        {% for rel in minorRelations %}
+          {% assign otherCh = rel | getOtherCh: ch.name %}
+          <li><a href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endif %}
+  {% if ch.trivia %}
+    <h2 id="trivia">Trivia</h2>
+    {{ ch.trivia | renderMD }}
+  {% endif %}
+  <h2 id="reference">Reference</h2>
+  {% assign palette = ch | getFullPalette %}
+  {% include 'palette' colors: palette %}
+  {% if ref %}
+    {% assign refAlt = ch.name | append: " reference sheet" %}
+    <a target="_blank" href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' '' 'png' %}">
+      <figure>
+        {% image 'gallery/' ref.name 'png' 500 refAlt 'max' %}
+        <figcaption>Click for full size!</figcaption>
+      </figure>
+    </a>
+  {% endif %}
+  {% if ch.note %}
+    <h3 id="design-notes">Design notes</h3>
+    {{ ch.note | renderMD }}
+  {% endif %}
+  {% if filteredGallery.size > 0 %}
+    <h2 id="gallery">Gallery</h2>
+    <p class="smaller-text">Some art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn this character before and I didn't put that here and you'd like me to, please <a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">tell me</a>!</p>
+    {% include 'gallery' imgs: filteredGallery %}
+    {% if big %}<div class="box-nav solid"><a href="gallery/">View full gallery</a></div>{% endif %}
+  {% endif %}
 </div>
 {% assign prev = pagination.previous %}
 {% assign next = pagination.next %}
