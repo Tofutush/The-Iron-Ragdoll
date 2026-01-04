@@ -548,7 +548,7 @@ img: "/The-Iron-Ragdoll/img/gallery/gUwudi5y5R-500.webp"
 {
 name: "Tundra",
 color: "#800080",
-desc: "Self-proclaimed mayor of Hillslope!",
+desc: "",
 img: "/The-Iron-Ragdoll/img/gallery/jQn5TjNevW-500.webp"
 },
 
