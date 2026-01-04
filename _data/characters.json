@@ -1676,7 +1676,6 @@
     "name": "Tundra",
     "namezh": "冰封雪",
     "color": "#800080",
-    "desc": "Self-proclaimed mayor of Hillslope!",
     "quote": "What's the big deal?",
     "tags": [
       "Fanton"
@@ -1900,8 +1899,7 @@
     "tags": [
       "Spy School",
       "Flower City",
-      "Bauhinia",
-      "Misc"
+      "Bauhinia"
     ],
     "attr": {
       "Gender": "Male",
@@ -1919,8 +1917,7 @@
     "tags": [
       "Spy School",
       "Flower City",
-      "Bauhinia",
-      "Misc"
+      "Bauhinia"
     ],
     "attr": {
       "Gender": "Male",
