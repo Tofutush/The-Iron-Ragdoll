@@ -1,0 +1,142 @@
+@font-face {
+    font-family: Lexend;
+    src: local(Lexend),
+        url(/~tofutush/fonts/Lexend.ttf);
+}
+
+@font-face {
+    font-family: lxgw;
+    src: local(霞鹜文楷),
+        url(/~tofutush/fonts/LXGWWenKai-Regular.ttf);
+}
+
+@font-face {
+    font-family: Troika;
+    src: local(Troika),
+        url(/~tofutush/fonts/troika.otf);
+}
+
+:root {
+    --font-size: clamp(16px, 0.75rem + 0.8vw, 24px);
+    --text: #121212;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: Lexend, lxgw;
+    font-size: var(--font-size);
+    color: var(--text);
+    background: linear-gradient(#000b), url(/~tofutush/assets/bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1,
+h2 {
+    color: #404;
+}
+
+main {
+    display: flex;
+    gap: 2em;
+    margin: 2em;
+
+    &>* {
+        background-color: #fffd;
+        border-radius: 1em;
+        padding: 0 1em;
+    }
+
+    &>aside {
+        margin-top: 5em;
+        padding: 1em;
+        max-width: 12em;
+
+        & img {
+            display: block;
+            width: 10em;
+            height: 10em;
+            border-radius: 999px;
+            margin: -5em auto 0 auto;
+        }
+
+        & h1,
+        & h2,
+        & p {
+            text-align: center;
+        }
+    }
+
+    &>section {
+        max-height: 80vh;
+        overflow-y: auto;
+        scrollbar-width: none;
+    }
+}
+
+ul {
+    list-style: none;
+    border-left: 4px solid #404;
+    padding-inline-start: 1em;
+    margin-left: 1em;
+
+    & ul li a {
+        background-color: #fff6;
+    }
+
+    & li {
+        margin: .5em 0;
+
+        & a {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #fffa;
+            padding: 1em;
+            border-radius: .7em;
+            color: var(--text);
+            text-decoration: none;
+            transition: all .3s cubic-bezier(0, 0.7, 0.7, 1);
+
+            &:hover {
+                font-weight: bold;
+                transform: translateY(-.2em);
+                box-shadow: 0 4px 10px 0 #12121288;
+            }
+
+            & img {
+                height: 1em;
+                width: auto;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 640px) {
+    body {
+        align-items: start;
+    }
+
+    main {
+        flex-direction: column;
+        margin: 1em;
+
+        & aside {
+            max-width: unset;
+        }
+
+        & section {
+            max-height: unset;
+        }
+    }
+}
