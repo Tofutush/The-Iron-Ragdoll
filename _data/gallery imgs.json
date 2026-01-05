@@ -5811,5 +5811,21 @@
       "willow"
     ],
     "comment": "Canonically, Willow drew this herself."
+  },
+  {
+    "name": "goose camera",
+    "type": "png",
+    "date": "2026-01-01",
+    "ch": [
+      "goose"
+    ]
+  },
+  {
+    "name": "goose camera loom",
+    "type": "png",
+    "date": "2026-01-01",
+    "ch": [
+      "goose"
+    ]
   }
 ]
