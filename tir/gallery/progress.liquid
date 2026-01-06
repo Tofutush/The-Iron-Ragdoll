@@ -88,7 +88,8 @@ eleventyNavigation:
 			{% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
 			{% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
 			{% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
-			{% if thumb.size == 1 and profile.size == 1 and ref.size == 1 %}
+			{% assign soul = filteredGallery | filterGalleryByKind: 'soul' %}
+			{% if thumb.size == 1 and profile.size == 1 and ref.size == 1 and soul.size == 1 %}
 				{% include 'chButton', ch: ch.name %}
 			{% endif %}
 		{% endfor %}
