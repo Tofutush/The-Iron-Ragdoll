@@ -1047,6 +1047,25 @@
     }
   },
   {
+    "name": "Cherry",
+    "namezh": "樱桃",
+    "color": "#601346",
+    "tags": [
+      "Coastline",
+      "Cherry-Hyrax Family",
+      "Starcorp",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Gender": "Female",
+      "Soul": "Solid, cherry-shaped",
+      "Birth": "1986-05-09",
+      "Nationality": "Bauhinian",
+      "Marital status": "Married (to <a href=\"../hyrax/\">Hyrax</a>",
+      "Occupation": "Unemployed"
+    }
+  },
+  {
     "name": "Hyrax",
     "namezh": "蹄兔",
     "color": "#66210a",
