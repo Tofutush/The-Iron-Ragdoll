@@ -314,6 +314,14 @@ img: "/The-Iron-Ragdoll/img/gallery/yzU3D1P0VB-500.webp"
 
 
 {
+name: "Cherry",
+color: "#601346",
+desc: "",
+img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
+},
+
+
+{
 name: "Hyrax",
 color: "#66210a",
 desc: "Starcorp legend",
