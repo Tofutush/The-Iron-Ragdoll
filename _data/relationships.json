@@ -1706,6 +1706,19 @@
         "daughter"
       ],
       [
+        "Cherry",
+        "mother"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Beauty",
+        "daughter"
+      ],
+      [
         "Hyrax",
         "father"
       ]
@@ -1771,6 +1784,19 @@
         "daughter"
       ],
       [
+        "Cherry",
+        "mother"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Chastity",
+        "daughter"
+      ],
+      [
         "Hyrax",
         "father"
       ]
@@ -1810,6 +1836,19 @@
         "daughter"
       ],
       [
+        "Cherry",
+        "mother"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Devotion",
+        "daughter"
+      ],
+      [
         "Hyrax",
         "father"
       ]
@@ -1836,8 +1875,34 @@
         "daughter"
       ],
       [
+        "Cherry",
+        "mother"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Elegance",
+        "daughter"
+      ],
+      [
         "Hyrax",
         "father"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Animus",
+        "son"
+      ],
+      [
+        "Cherry",
+        "mother"
       ]
     ],
     "desc": ""
@@ -1854,6 +1919,19 @@
       ]
     ],
     "desc": "Ah, the pride of the family. The precious little son. What Animus don't know is that Hyrax is actually his *uncle* — he asked his brother for a son, and he gave Animus to him."
+  },
+  {
+    "ch": [
+      [
+        "Cherry",
+        "wife"
+      ],
+      [
+        "Hyrax",
+        "husband"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [
