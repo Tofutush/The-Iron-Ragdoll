@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-05
+
+- Peep my https://tilde.town/ [homepage](https://tilde.town/~tofutush/);
+
 ## 2026-01-04
 
 - Made different souls' hover animation different;
