@@ -68,13 +68,7 @@ I'd love code to have a similar license too, but apparently noncommercial goes a
 
 **Summary:** Subject is a human being[^1] who displays a strong interest in fake people in her head. Is known to participate in cultish worshipping activities of domestic felines. May spontaneously eat people[^2]. Sometimes imagines herself being a "supreme dictator of the entire world." Likes the phrase "it's easy to kill but hard to dispose of the body[^3]."
 
-**Recent sightings:**
-
-- [Discord](https://discord.com/invite/XzdA5vKkb2)
-- [Toyhouse](https://toyhou.se/Tofutush)
-- [Artfight](https://artfight.net/~Tofutush)
-- [Blog](https://tofutush.github.io)
-- [Guestbook](https://tofutush.leprd.space/guestbook) ([PGP public key](/tofutush-public.asc)!)
+**[Recent sightings log](https://tilde.town/~tofutush/)**
 
 **Risk assessment:** Low risk. Subject can and will trip over her own shoelaces. Has next to zero counter-surveillance skills. The only obstacle to containment is her spontaneous consumption of other people.
 

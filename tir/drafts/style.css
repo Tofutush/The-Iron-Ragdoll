@@ -1,19 +1,13 @@
 @font-face {
     font-family: Lexend;
     src: local(Lexend),
-        url(/~tofutush/fonts/Lexend.ttf);
+        url(fonts/Lexend.ttf);
 }
 
 @font-face {
     font-family: lxgw;
     src: local(霞鹜文楷),
-        url(/~tofutush/fonts/LXGWWenKai-Regular.ttf);
-}
-
-@font-face {
-    font-family: Troika;
-    src: local(Troika),
-        url(/~tofutush/fonts/troika.otf);
+        url(fonts/LXGWWenKai-Regular.ttf);
 }
 
 :root {
@@ -110,8 +104,8 @@ ul {
 
             &:hover {
                 font-weight: bold;
-                transform: translateY(-.2em);
-                box-shadow: 0 4px 10px 0 #12121288;
+                box-shadow: 0 0 10px 0 #12121288;
+                padding: 1em 2em;
             }
 
             & img {
