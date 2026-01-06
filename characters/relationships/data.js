@@ -236,6 +236,12 @@ img: "/The-Iron-Ragdoll/img/gallery/1v7HLg1ORT-200.webp",
 },
 
 {
+id: "Cherry",
+color: "#601346",
+img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+},
+
+{
 id: "Hyrax",
 color: "#66210a",
 img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
@@ -1588,6 +1594,14 @@ minor: true
 
 {
 source: "Beauty",
+target: "Cherry",
+rel1: "daughter",
+rel2: "mother",
+minor: true
+},
+
+{
+source: "Beauty",
 target: "Hyrax",
 rel1: "daughter",
 rel2: "father",
@@ -1628,6 +1642,14 @@ minor: true
 
 {
 source: "Chastity",
+target: "Cherry",
+rel1: "daughter",
+rel2: "mother",
+minor: true
+},
+
+{
+source: "Chastity",
 target: "Hyrax",
 rel1: "daughter",
 rel2: "father",
@@ -1652,6 +1674,14 @@ minor: true
 
 {
 source: "Devotion",
+target: "Cherry",
+rel1: "daughter",
+rel2: "mother",
+minor: true
+},
+
+{
+source: "Devotion",
 target: "Hyrax",
 rel1: "daughter",
 rel2: "father",
@@ -1668,9 +1698,25 @@ minor: true
 
 {
 source: "Elegance",
+target: "Cherry",
+rel1: "daughter",
+rel2: "mother",
+minor: true
+},
+
+{
+source: "Elegance",
 target: "Hyrax",
 rel1: "daughter",
 rel2: "father",
+minor: true
+},
+
+{
+source: "Animus",
+target: "Cherry",
+rel1: "son",
+rel2: "mother",
 minor: true
 },
 
@@ -1680,6 +1726,14 @@ target: "Hyrax",
 rel1: "son",
 rel2: "father",
 
+},
+
+{
+source: "Cherry",
+target: "Hyrax",
+rel1: "wife",
+rel2: "husband",
+minor: true
 },
 
 {
