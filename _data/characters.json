@@ -1061,8 +1061,12 @@
       "Soul": "Solid, cherry-shaped",
       "Birth": "1986-05-09",
       "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../hyrax/\">Hyrax</a>",
+      "Marital status": "Married (to <a href=\"../hyrax/\">Hyrax</a>)",
       "Occupation": "Unemployed"
+    },
+    "palette": {
+      "shirt": "#5e5e5e",
+      "hair": "#2E2E2E"
     }
   },
   {
@@ -1080,7 +1084,7 @@
       "Soul": "Solid",
       "Birth": "1986-08-27",
       "Nationality": "Bauhinian",
-      "Marital status": "Married (to Cherry)",
+      "Marital status": "Married (to <a href=\"../cherry/\">Cherry</a>)",
       "Occupation": "Chairman of Starcorp"
     },
     "palette": {
