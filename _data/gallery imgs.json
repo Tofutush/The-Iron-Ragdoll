@@ -5827,5 +5827,47 @@
     "ch": [
       "goose"
     ]
+  },
+  {
+    "name": "nebula hair",
+    "type": "png",
+    "date": "2026-01-06",
+    "ch": [
+      "nebula"
+    ]
+  },
+  {
+    "name": "nebula hair light",
+    "type": "png",
+    "date": "2026-01-06",
+    "ch": [
+      "nebula"
+    ],
+    "comment": "I swear I use a different blending mode for every one of these damn magic beams."
+  },
+  {
+    "name": "nebula hair transparent",
+    "type": "png",
+    "date": "2026-01-06",
+    "ch": [
+      "nebula"
+    ]
+  },
+  {
+    "name": "helsinki cute",
+    "type": "png",
+    "date": "2026-01-06",
+    "ch": [
+      "helsinki"
+    ]
+  },
+  {
+    "name": "cherry stand",
+    "type": "png",
+    "date": "2026-01-06",
+    "ch": [
+      "cherry"
+    ],
+    "kind": "fullbody"
   }
 ]

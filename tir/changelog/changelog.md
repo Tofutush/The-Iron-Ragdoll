@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-06
+
+- Added `nebula hair.png`, `nebula hair light.png`, `nebula hair transparent.png`, `helsinki cute.png`, `cherry stand.png`;
+
 ## 2026-01-05
 
 - Peep my https://tilde.town/ [homepage](https://tilde.town/~tofutush/);
