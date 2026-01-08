@@ -12,7 +12,7 @@ categories:
 banner: banner sky
 ---
 
-A school for ~~indoctrinating~~ training [MSS](/world/bauhinia/mss/) officers from a young age. The official shortening is "Ministry Affiliate" （国安附中）, but students usually call it spy school for short.
+A school for ~~indoctrinating~~ training [MSS](/world/bauhinia/mss/) officers from a young age. The official shortening is "Ministry Affiliate," but students usually call it "spy school."
 
 It has a middle school part (grades 7 - 9) and a high school part (grades 10 - 12) named "The Middle School for Older But Still Young Officers in Training Affiliated to the Ministry of State Security." Though they share the same Flower City campus, middle schoolers go home every day while high schoolers stay in dormitories and only go home once a week.
 
