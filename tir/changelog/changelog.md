@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-07
+
+- Peep my [microblog](https://tofutush.github.io/pages/microblog.html);
+
 ## 2026-01-06
 
 - Added `nebula hair.png`, `nebula hair light.png`, `nebula hair transparent.png`, `helsinki cute.png`, `cherry stand.png`;

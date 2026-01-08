@@ -8,7 +8,7 @@ tags:
   - magic-academy
 ---
 
-A school for [magicians](/world/superpowers/#magic), ran by the Bauhinian government, established in 2017. Every magician in Bauhinia with a level above or equal to 10 and is older than 10 years is required to attend.
+A school for [magicians](/world/superpowers/#magic), ran by the Bauhinian government, established in 2017 by the Arch-Magician [Nebula](/characters/nebula/). Every magician in Bauhinia with a level above or equal to 10 and is older than 10 years is required to attend (the "double ten" policy).
 
 Students can "graduate" from the school after going there every day for 5 years and passing the graduation exam; and after that, an exam is administered every 5 years. Failing those would get you back into the school.
 
@@ -20,7 +20,7 @@ The school's location is secret. A school bus goes around picking students up an
 
 Time does not pass once you get on the bus, which means that you could get on, go to school, and by the time you get home, barely any time would have passed.
 
-The charm the Arch-Magician cast on the school bus and grounds so that no one would be unable to attend due to distance or schedule.
+These are the charms the Arch-Magician cast on the school bus and grounds so that no one would be unable to attend due to distance or schedule.
 
 Students are required to put their wands inside a box in the classroom, and are not allowed to take them out unless the teacher explicitly told them to, which is usually during the practice period.
 

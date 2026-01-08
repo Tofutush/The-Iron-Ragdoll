@@ -51,7 +51,7 @@ The closest geographical mirror to Bauhinia is southern China.
 
 Bauhinia is a ministerial republic with an avid love for bureaucracy. The government primarily serves the interests of the bourgeoisie, which kind of only involves [Starcorp](/world/bauhinia/starcorp/), with which it is in a mutually beneficial and balanced relationship, with Starcorp making sure the government stays in power and the government making sure Starcorp dominates in the economy.
 
-Bauhinia is also a dictatorship, in case you haven't noticed. It's on a happy-go-lucky seesaw between liberalism and fascism — sometimes it's really liberal and not so fascist, while sometimes it's really fascist and not so liberal. Last time the seesaw hit the bottom of the fascist side, Bauhinia invaded Fanton.
+Bauhinia is also a dictatorship, in case you haven't noticed. It's on a happy-go-lucky seesaw between liberalism and fascism — sometimes it's really liberal and not so fascist, while sometimes it's really fascist and not so liberal, since there isn't really any meaningful opposition to fascism. Or opposition at all, after [Kismet](/characters/kismet/) became president. Last time the seesaw hit the bottom of the fascist side, Bauhinia invaded Fanton.
 
 ### Ministries
 
@@ -82,7 +82,7 @@ I don't really understand economics enough.
 
 Everyone is batshit crazy in Bauhinia.
 
-Bauhinia emphasizes love, empathy, harmony, and family. Too bad it's actually full of hate, apathy, discord, and [single dads raising 4 kids each with different bio parents](/characters/peacock/). (The [oldest one](/characters/fantasy/) is an adult now though so she doesn't count.)
+Bauhinia emphasizes love, empathy, harmony, and family. Too bad it's actually full of hate, apathy, discord, and [single dads raising 4 kids](/characters/peacock/). (The [oldest one](/characters/fantasy/) is an adult now though so she doesn't count.)
 
 ### Naming conventions
 
