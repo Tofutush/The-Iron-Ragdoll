@@ -23,7 +23,7 @@ In addition, souls are also where [superpowers](/world/superpowers/) are stored.
 
 A soul can be removed from a person. Soul extraction is a skill that can be learned and adopted by anyone, but it originated in [Sylvandia](/world/sylvandia/).
 
-Through a variety of techniques not limited to classic Sylvandian soul extraction (torture is a common example), your soul can come out of your mouth — commonly known as "barfing out[^1]." Most books on this topic are banned in places like [Bauhinia](/world/bauhinia/), [Moreland](/world/moreland/), and [Westavia](/world/westavia/) as they're deemed too dangerous.
+Through a variety of techniques not limited to classic Sylvandian soul extraction (torture is a common example), your soul can manifest in your mouth, where it would then come out — commonly known as "barfing out[^1]." Most books on this topic are banned in places like [Bauhinia](/world/bauhinia/), [Moreland](/world/moreland/), and [Westavia](/world/westavia/) as they're deemed too dangerous.
 
 People with no souls aren't people. They're just a body. Their eyes are empty, though their horns and ears would remain in color, serving as an indicator of the body's previous ownership.
 

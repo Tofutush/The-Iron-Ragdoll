@@ -74,9 +74,9 @@ Look into other people's deepest privacy. Listen in. What are they thinking abou
 
 That is, if your power is strong enough. Weak mind reading powers are extremely limited. For example, Cosmo can only tell whether people are lying — though she's quite good at that.
 
-This power is active, which means that a mind-reader has to be concentrating (and perhaps putting their fingers to their temples or something) to read minds.
+This power is active, which means that a mind-reader has to be concentrating (and perhaps putting their fingers to their temples or something) to read minds. Usually, the one being mind-read would have a tingling sensation in their head, but skilled mind-readers could learn to reduce the effect.
 
-Everyone can be trained to shield their own thoughts from mind-readers. There is also a special enchanted helmet that can block off mind-readers completely regardless of level, but only powerful magicians can make it.
+Everyone can be trained to shield their own thoughts from mind-readers. There is also a special enchanted helmet that can block off mind-readers completely regardless of level, but only magicians can make it. Another type of helmet blocks the ability for mind-readers to read other people's minds. These two types of helmets are different, with the latter being way more common and legal than the former.
 
 ## Special powers
 

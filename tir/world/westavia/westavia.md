@@ -62,6 +62,12 @@ Westavia is on [Moreland](/world/moreland/)'s side in the cold war against [Bauh
 
 The second favorite thing is accusing Moreland of being revisionist while denying Moreland's accusation that *they* are the revisionists. They are against Moreland's colonizing and exploitive actions in [Sylvandia](/world/sylvandia/).
 
+## Economy
+
+Eastern Westavia is more industrialized, and western Westavia is a lot more agricultural. Notable produce include cotton, wheat, and grapes. There are also plenty of sheep and cow herders to the north.
+
+[Area 1](/world/westavia/area-1/) is an important trading hub connecting Westavia to the rest of the continent.
+
 ## Society
 
 Westavians are known for being passionate, hospitable, and friendly to guests. To visitors, they treat them to their best food and wine; to their neighbors, they trust each other so much that in villages, people hardly lock their doors. It helps that most of their living rooms don't have roofs, and is essentially just a yard with tables in it.
