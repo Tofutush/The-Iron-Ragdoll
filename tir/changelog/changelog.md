@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-08
+
+- Went over some World files to update information. Notably, fixed outdated info in [Superpowers in Bauhinia](/world/bauhinia/superpowers/), added [economy](/world/westavia/#economy) section to Westavia;
+
 ## 2026-01-07
 
 - Peep my [microblog](https://tofutush.github.io/pages/microblog.html);
