@@ -8,7 +8,7 @@ categories:
 eleventyNavigation:
   parent: World
 ---
-<link rel="stylesheet" href="/css/alphabet.css"/>
+<style>table img {max-width: 100px;margin: auto;}</style>
 
 The Bauhinian Empire had a universal language and alphabet. Even long after the empire split apart, everyone still spoke the same language and wrote the same script.
 
@@ -36,52 +36,126 @@ The script features five base shapes, which I call: tall loops, short loops, R's
 <figure><img class="max" src="/img/bg/alphabet/bp.png" alt="Bump"/><figcaption>Bump (end, middle, beginning)</figcaption></figure>
 <figure><img class="max" src="/img/bg/alphabet/br.png" alt="Break"/><figcaption>Break</figcaption></figure>
 
+The break is called a break because it's the only base shape that causes a break in the writing flow — meaning you have to lift your pen up to continue.
+
 The letters are then constructed by adding diacritics to these base shapes. Diacritics include a dot, a line (horizontal, vertical, or slanted), or an arrow (four directions).
+
+Vowels are tall loops, and consonants hog the four other base shapes, with the exception of L, which is a tall loop with no diacritic.
+
+## Transcription
 
 Following are four tables for transcription from Uyghurche, Chinese, and English to Bauhinian, and one to transcribe from Bauhinian.
 
-## Uyghurche
+### Uyghurche
 
-| Uyghurche | ULY | Bauhinian                               |
-| --------- | --- | --------------------------------------- |
-| ئا        | a   | <img src="/img/bg/alphabet/tl-sr.png"/> |
-| ئە        | e   | <img src="/img/bg/alphabet/tl-sl.png"/> |
-| ب         | b   | <img src="/img/bg/alphabet/bb-dt.png"/> |
-| پ         | p   | <img src="/img/bg/alphabet/bb-au.png"/> |
-| ت         | t   | <img src="/img/bg/alphabet/bt-hr.png"/> |
-| ج         | zh  | <img src="/img/bg/alphabet/sl-ar.png"/> |
-| چ         | ch  | <img src="/img/bg/alphabet/sl-al.png"/> |
-| خ         | x   | <img src="/img/bg/alphabet/sl-dt.png"/> |
-| د         | d   | <img src="/img/bg/alphabet/bb-hr.png"/> |
-| ر         | r   | <img src="/img/bg/alphabet/rr.png"/>    |
-| ز         | z   | <img src="/img/bg/alphabet/rr-dt.png"/> |
-| ژ         | j   | <img src="/img/bg/alphabet/sl-au.png"/> |
-| س         | s   | <img src="/img/bg/alphabet/sl.png"/>    |
-| ش         | sh  | <img src="/img/bg/alphabet/sl-vr.png"/> |
-| غ         | gh  | <img src="/img/bg/alphabet/rr-hr.png"/> |
-| ف         | f   | <img src="/img/bg/alphabet/bb-ad.png"/> |
-| ق         | q   | <img src="/img/bg/alphabet/sl-hr.png"/> |
-| ك         | k   | <img src="/img/bg/alphabet/br.png"/>    |
-| گ         | g   | <img src="/img/bg/alphabet/br-hr.png"/> |
-| ڭ         | ng  | <img src="/img/bg/alphabet/br-dt.png"/> |
-| ل         | l   | <img src="/img/bg/alphabet/tl.png"/>    |
-| م         | m   | <img src="/img/bg/alphabet/bt-ad.png"/> |
-| ن         | n   | <img src="/img/bg/alphabet/bt-dt.png"/> |
-| ھ         | h   | <img src="/img/bg/alphabet/bt-vr.png"/> |
-| ئو        | o   | <img src="/img/bg/alphabet/tl-au.png"/> |
-| ئۇ        | u   | <img src="/img/bg/alphabet/tl-ad.png"/> |
-| ئۆ        | ö   | <img src="/img/bg/alphabet/tl-ar.png"/> |
-| ئۈ        | ü   | <img src="/img/bg/alphabet/tl-al.png"/> |
-| ۋ         | w   | <img src="/img/bg/alphabet/sl-ad.png"/> |
-| ئې        | ë   | <img src="/img/bg/alphabet/tl-vr.png"/> |
-| ئى        | i   | <img src="/img/bg/alphabet/tl-hr.png"/> |
-| ي         | y   | <img src="/img/bg/alphabet/bp.png"/>    |
+| Uyghurche | Bauhinian                               | Composition              |
+| --------- | --------------------------------------- | ------------------------ |
+| ئا        | <img src="/img/bg/alphabet/tl-sr.png"/> | Tall loop + right slant  |
+| ئە        | <img src="/img/bg/alphabet/tl-sl.png"/> | Tall loop + left slant   |
+| ب         | <img src="/img/bg/alphabet/bb-dt.png"/> | Bump + bottom dot        |
+| پ         | <img src="/img/bg/alphabet/bb-au.png"/> | Bump + bottom arrow up   |
+| ت         | <img src="/img/bg/alphabet/bt-hr.png"/> | Bump + top horizontal    |
+| ج         | <img src="/img/bg/alphabet/sl-ar.png"/> | Short loop + arrow right |
+| چ         | <img src="/img/bg/alphabet/sl-al.png"/> | Short loop + arrow left  |
+| خ         | <img src="/img/bg/alphabet/sl-dt.png"/> | Short loop + dot         |
+| د         | <img src="/img/bg/alphabet/bb-hr.png"/> | Bump + bottom horizontal |
+| ر         | <img src="/img/bg/alphabet/rr.png"/>    | R                        |
+| ز         | <img src="/img/bg/alphabet/rr-dt.png"/> | R + dot                  |
+| ژ         | <img src="/img/bg/alphabet/sl-au.png"/> | Short loop + arrow up    |
+| س         | <img src="/img/bg/alphabet/sl.png"/>    | Short loop               |
+| ش         | <img src="/img/bg/alphabet/sl-vr.png"/> | Short loop + vertical    |
+| غ         | <img src="/img/bg/alphabet/rr-hr.png"/> | R + horizontal           |
+| ف         | <img src="/img/bg/alphabet/bb-ad.png"/> | Bump + bottom arrow down |
+| ق         | <img src="/img/bg/alphabet/sl-hr.png"/> | Short loop + horizontal  |
+| ك         | <img src="/img/bg/alphabet/br.png"/>    | Break                    |
+| گ         | <img src="/img/bg/alphabet/br-hr.png"/> | Break + horizontal       |
+| ڭ         | <img src="/img/bg/alphabet/br-dt.png"/> | Break + dot              |
+| ل         | <img src="/img/bg/alphabet/tl.png"/>    | Tall loop                |
+| م         | <img src="/img/bg/alphabet/bt-ad.png"/> | Bump + top arrow down    |
+| ن         | <img src="/img/bg/alphabet/bt-dt.png"/> | Bump + top dot           |
+| ھ         | <img src="/img/bg/alphabet/bt-vr.png"/> | Bump + top vertical      |
+| ئو        | <img src="/img/bg/alphabet/tl-au.png"/> | Tall loop + arrow up     |
+| ئۇ        | <img src="/img/bg/alphabet/tl-ad.png"/> | Tall loop + arrow down   |
+| ئۆ        | <img src="/img/bg/alphabet/tl-ar.png"/> | Tall loop + arrow right  |
+| ئۈ        | <img src="/img/bg/alphabet/tl-al.png"/> | Tall loop + arrow left   |
+| ۋ         | <img src="/img/bg/alphabet/sl-ad.png"/> | Short loop + arrow down  |
+| ئې        | <img src="/img/bg/alphabet/tl-vr.png"/> | Tall loop + vertical     |
+| ئى        | <img src="/img/bg/alphabet/tl-hr.png"/> | Tall loop + horizontal   |
+| ي         | <img src="/img/bg/alphabet/bp.png"/>    | Bump                     |
 
-## Chinese
+### Chinese
 
-## English
+| Pinyin | Bauhinian                               | Composition              |
+| ------ | --------------------------------------- | ------------------------ |
+| a      | <img src="/img/bg/alphabet/tl-sr.png"/> | Tall loop + right slant  |
+| o      | <img src="/img/bg/alphabet/tl-au.png"/> | Tall loop + arrow up     |
+| e      | <img src="/img/bg/alphabet/tl-sl.png"/> | Tall loop + left slant   |
+| i      | <img src="/img/bg/alphabet/tl-hr.png"/> | Tall loop + horizontal   |
+| u      | <img src="/img/bg/alphabet/tl-ad.png"/> | Tall loop + arrow down   |
+| ü      | <img src="/img/bg/alphabet/tl-al.png"/> | Tall loop + arrow left   |
+| b      | <img src="/img/bg/alphabet/bb-dt.png"/> | Bump + bottom dot        |
+| p      | <img src="/img/bg/alphabet/bb-au.png"/> | Bump + bottom arrow up   |
+| m      | <img src="/img/bg/alphabet/bt-ad.png"/> | Bump + top arrow down    |
+| f      | <img src="/img/bg/alphabet/bb-ad.png"/> | Bump + bottom arrow down |
+| d      | <img src="/img/bg/alphabet/bb-hr.png"/> | Bump + bottom horizontal |
+| t      | <img src="/img/bg/alphabet/bt-hr.png"/> | Bump + top horizontal    |
+| n      | <img src="/img/bg/alphabet/bt-dt.png"/> | Bump + top dot           |
+| l      | <img src="/img/bg/alphabet/tl.png"/>    | Tall loop                |
+| g      | <img src="/img/bg/alphabet/br-hr.png"/> | Break + horizontal       |
+| k      | <img src="/img/bg/alphabet/br.png"/>    | Break                    |
+| h      | <img src="/img/bg/alphabet/bt-vr.png"/> | Bump + top vertical      |
+| j      | <img src="/img/bg/alphabet/sl-au.png"/> | Short loop + arrow up    |
+| q      | <img src="/img/bg/alphabet/sl-hr.png"/> | Short loop + horizontal  |
+| x      | <img src="/img/bg/alphabet/sl-dt.png"/> | Short loop + dot         |
+| zh     | <img src="/img/bg/alphabet/sl-ar.png"/> | Short loop + arrow right |
+| ch     | <img src="/img/bg/alphabet/sl-al.png"/> | Short loop + arrow left  |
+| sh     | <img src="/img/bg/alphabet/sl-vr.png"/> | Short loop + vertical    |
+| r      | <img src="/img/bg/alphabet/rr.png"/>    | R                        |
+| z      | <img src="/img/bg/alphabet/rr-dt.png"/> | R + dot                  |
+| c      | <img src="/img/bg/alphabet/bt-au.png"/> | Bump + top arrow up      |
+| s      | <img src="/img/bg/alphabet/sl.png"/>    | Short loop               |
+| y      | <img src="/img/bg/alphabet/bp.png"/>    | Bump                     |
+| w      | <img src="/img/bg/alphabet/sl-ad.png"/> | Short loop + arrow down  |
+| ng     | <img src="/img/bg/alphabet/br-dt.png"/> | Break + dot              |
 
-## Bauhinian order
+The ng consonant is a special one that does not exist in the standard pinyin chart, but I added it in to reduce the amount of symbols needed.
+
+### English
+
+| Letter | Bauhinian                               | Composition              |
+| ------ | --------------------------------------- | ------------------------ |
+| a      | <img src="/img/bg/alphabet/tl-sr.png"/> | Tall loop + right slant  |
+| b      | <img src="/img/bg/alphabet/bb-dt.png"/> | Bump + bottom dot        |
+| c      | <img src="/img/bg/alphabet/bt-au.png"/> | Bump + top arrow up      |
+| d      | <img src="/img/bg/alphabet/bb-hr.png"/> | Bump + bottom horizontal |
+| e      | <img src="/img/bg/alphabet/tl-sl.png"/> | Tall loop + left slant   |
+| f      | <img src="/img/bg/alphabet/bb-ad.png"/> | Bump + bottom arrow down |
+| g      | <img src="/img/bg/alphabet/br-hr.png"/> | Break + horizontal       |
+| h      | <img src="/img/bg/alphabet/bt-vr.png"/> | Bump + top vertical      |
+| i      | <img src="/img/bg/alphabet/tl-hr.png"/> | Tall loop + horizontal   |
+| j      | <img src="/img/bg/alphabet/sl-au.png"/> | Short loop + arrow up    |
+| k      | <img src="/img/bg/alphabet/br.png"/>    | Break                    |
+| l      | <img src="/img/bg/alphabet/tl.png"/>    | Tall loop                |
+| m      | <img src="/img/bg/alphabet/bt-ad.png"/> | Bump + top arrow down    |
+| n      | <img src="/img/bg/alphabet/bt-dt.png"/> | Bump + top dot           |
+| o      | <img src="/img/bg/alphabet/tl-au.png"/> | Tall loop + arrow up     |
+| p      | <img src="/img/bg/alphabet/bb-au.png"/> | Bump + bottom arrow up   |
+| q      | <img src="/img/bg/alphabet/sl-hr.png"/> | Short loop + horizontal  |
+| r      | <img src="/img/bg/alphabet/rr.png"/>    | R                        |
+| s      | <img src="/img/bg/alphabet/sl.png"/>    | Short loop               |
+| t      | <img src="/img/bg/alphabet/bt-hr.png"/> | Bump + top horizontal    |
+| u      | <img src="/img/bg/alphabet/tl-ad.png"/> | Tall loop + arrow down   |
+| v      | <img src="/img/bg/alphabet/rr-vr.png"/> | R + vertical             |
+| w      | <img src="/img/bg/alphabet/sl-ad.png"/> | Short loop + arrow down  |
+| x      | <img src="/img/bg/alphabet/sl-dt.png"/> | Short loop + dot         |
+| y      | <img src="/img/bg/alphabet/bp.png"/>    | Bump                     |
+| z      | <img src="/img/bg/alphabet/rr-dt.png"/> | R + dot                  |
+
+### Bauhinian order
+
+| Bauhinian | Composition | Uyghurche | Pinyin | English |
+| --------- | ----------- | --------- | ------ | ------- |
+|           |             |           |        |         |
 
 As you can notice, not all base shape and diacritic combinations are used, creating possibilities for more sounds not present in these three languages.
 
