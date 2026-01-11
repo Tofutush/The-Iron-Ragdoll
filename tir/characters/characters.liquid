@@ -79,7 +79,7 @@ eleventyComputed:
       {% if ch.tags %}
         <dt>Tags</dt>
         <dd>
-          {% assign sortedTags = ch.tags | sortAlphabetical %}
+          {% assign sortedTags = ch.tags | sort %}
           {% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
         </dd>
       {% endif %}

@@ -3,7 +3,7 @@ layout: layout.liquid
 ---
 <style>#related ul { font-size: var(--font-size-small); }</style>
 {% if categories %}
-<p class="smaller-text lighter-text">Categories: {% assign sortedCats = categories | sortAlphabetical %}{% for cat in sortedCats %}{% if forloop.index != 1 %}, {% endif %}<a href="/world/category/{{ cat | slug }}/">{{ cat }}</a>{% endfor %}</p>
+<p class="smaller-text lighter-text">Categories: {% assign sortedCats = categories | sort %}{% for cat in sortedCats %}{% if forloop.index != 1 %}, {% endif %}<a href="/world/category/{{ cat | slug }}/">{{ cat }}</a>{% endfor %}</p>
 {% endif %}
 <h1>{% if displayTitle %}{{ displayTitle }}{% else %}{{ title }}{% endif %}</h1>
 {% if desc %}<p class="lighter-text">{{ desc }}</p>{% endif %}
