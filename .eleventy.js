@@ -9,6 +9,7 @@ import markdownItExternalLinks from 'markdown-it-external-links';
 import markdownItFootnote from "markdown-it-footnote";
 import markdownItObsidianCallouts from "markdown-it-obsidian-callouts";
 import markdownItTOC from 'markdown-it-table-of-contents';
+import markdownitTableWrap from 'markdown-it-table-wrap';
 import chPlugin from './_plugins/ch.js';
 import funPlugin from './_plugins/fun.js';
 import galleryPlugin from './_plugins/gallery.js';
@@ -38,7 +39,7 @@ export default function (eleventyConfig) {
 		},
 	}).use(markdownItExternalLinks, {
 		externalTarget: '_blank'
-	}).use(markdownItObsidianCallouts);
+	}).use(markdownItObsidianCallouts).use(markdownitTableWrap);
 	mdIt.renderer.rules.footnote_caption = (tokens, idx) => {
 		let n = Number(tokens[idx].meta.id + 1).toString();
 		if (tokens[idx].meta.subId > 0) n += `:${tokens[idx].meta.subId}`;
