@@ -1,0 +1,17 @@
+table {
+
+	th,
+	td {
+		text-align: center;
+	}
+
+	td {
+		font-size: var(--font-size-h2);
+		padding: 1em 0;
+	}
+
+	img {
+		max-width: 80px;
+		margin: auto;
+	}
+}
