@@ -397,7 +397,7 @@ details {
 
 		&::after {
 			content: '+';
-			font-size: var(--font-size-h1);
+			font-size: var(--font-size-h3);
 		}
 	}
 }
@@ -487,6 +487,48 @@ footer {
 .callout svg,
 .breadcrumbs svg {
 	vertical-align: baseline;
+}
+
+.table-responsive {
+	width: 100%;
+	overflow-x: auto;
+	margin: 2rem 0;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	line-height: 2;
+}
+
+thead tr {
+	background-color: var(--c);
+	color: var(--bg);
+}
+
+tbody tr:nth-child(odd) {
+	background-color: var(--box);
+}
+
+th,
+td {
+	padding: 1em;
+	border: 0;
+	text-align: left;
+	white-space: nowrap;
+}
+
+th.sortable {
+	cursor: pointer;
+	user-select: none;
+
+	&.sorted:before {
+		content: '↓ ';
+	}
+
+	&.sorted-reverse:before {
+		content: '↑ ';
+	}
 }
 
 .graybox {
