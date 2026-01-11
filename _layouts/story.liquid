@@ -30,7 +30,7 @@ eleventyComputed:
 	{% if myTags %}
 		<dt>Tags</dt>
 		<dd>
-			{% assign sortedTags = myTags | sortAlphabetical %}{% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/stories/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
+			{% assign sortedTags = myTags | sort %}{% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/stories/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
 		</dd>
 	{% endif %}
 </dl>

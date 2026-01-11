@@ -19,9 +19,6 @@ function utilPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('capitalize', function (s) {
 		return s[0].toUpperCase() + s.slice(1);
 	});
-	eleventyConfig.addFilter('sortAlphabetical', function (arr) {
-		return arr.sort((a, b) => a.localeCompare(b));
-	});
 	eleventyConfig.addFilter('padStart', function (n, num, token) {
 		return n.toString().padStart(num, token);
 	});
