@@ -489,7 +489,7 @@ footer {
 	vertical-align: baseline;
 }
 
-.table-container {
+.table-responsive {
 	width: 100%;
 	overflow-x: auto;
 	margin: 2rem 0;

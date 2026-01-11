@@ -7,11 +7,10 @@ table {
 
 	td {
 		font-size: var(--font-size-h2);
-		padding: 1em 0;
 	}
 
 	img {
-		max-width: 80px;
+		max-width: 100px;
 		margin: auto;
 	}
 }
