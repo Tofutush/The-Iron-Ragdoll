@@ -153,11 +153,47 @@ The ng consonant is a special one that does not exist in the standard pinyin cha
 
 ### Bauhinian order
 
-| Bauhinian | Composition | Uyghurche | Pinyin | English |
-| --------- | ----------- | --------- | ------ | ------- |
-|           |             |           |        |         |
+| No. | Bauhinian                               | Composition              | Uyghurche | Pinyin | English |
+| --- | --------------------------------------- | ------------------------ | --------- | ------ | ------- |
+| 1   | <img src="/img/bg/alphabet/tl.png"/>    | Tall loop                | ل         | l      | l       |
+| 2   | <img src="/img/bg/alphabet/tl-hr.png"/> | Tall loop + horizontal   | ئى        | i      | i       |
+| 3   | <img src="/img/bg/alphabet/tl-vr.png"/> | Tall loop + vertical     | ئې        |        |         |
+| 4   | <img src="/img/bg/alphabet/tl-sr.png"/> | Tall loop + right slant  | ئا        | a      | a       |
+| 5   | <img src="/img/bg/alphabet/tl-sl.png"/> | Tall loop + left slant   | ئە        | e      | e       |
+| 6   | <img src="/img/bg/alphabet/tl-au.png"/> | Tall loop + arrow up     | ئو        | o      | o       |
+| 7   | <img src="/img/bg/alphabet/tl-ad.png"/> | Tall loop + arrow down   | ئۇ        | u      | u       |
+| 8   | <img src="/img/bg/alphabet/tl-al.png"/> | Tall loop + arrow left   | ئۈ        | ü      |         |
+| 9   | <img src="/img/bg/alphabet/tl-ar.png"/> | Tall loop + arrow right  | ئۆ        |        |         |
+| 10  | <img src="/img/bg/alphabet/sl.png"/>    | Short loop               | س         | s      | s       |
+| 11  | <img src="/img/bg/alphabet/sl-hr.png"/> | Short loop + horizontal  | ق         | q      | q       |
+| 12  | <img src="/img/bg/alphabet/sl-vr.png"/> | Short loop + vertical    | ش         | sh     |         |
+| 13  | <img src="/img/bg/alphabet/sl-dt.png"/> | Short loop + dot         | خ         | x      | x       |
+| 14  | <img src="/img/bg/alphabet/sl-au.png"/> | Short loop + arrow up    | ژ         | j      | j       |
+| 15  | <img src="/img/bg/alphabet/sl-ad.png"/> | Short loop + arrow down  | ۋ         | w      | w       |
+| 16  | <img src="/img/bg/alphabet/sl-al.png"/> | Short loop + arrow left  | چ         | ch     |         |
+| 17  | <img src="/img/bg/alphabet/sl-ar.png"/> | Short loop + arrow right | ج         | zh     |         |
+| 18  | <img src="/img/bg/alphabet/rr.png"/>    | R                        | ر         | r      | r       |
+| 19  | <img src="/img/bg/alphabet/rr-dt.png"/> | R + dot                  | ز         | z      | z       |
+| 20  | <img src="/img/bg/alphabet/rr-hr.png"/> | R + horizontal           | غ         |        |         |
+| 21  | <img src="/img/bg/alphabet/rr-vr.png"/> | R + vertical             |           |        | v       |
+| 22  | <img src="/img/bg/alphabet/bp.png"/>    | Bump                     | ي         | y      | y       |
+| 23  | <img src="/img/bg/alphabet/bt-dt.png"/> | Bump + top dot           | ن         | n      | n       |
+| 24  | <img src="/img/bg/alphabet/bt-hr.png"/> | Bump + top horizontal    | ت         | t      | t       |
+| 25  | <img src="/img/bg/alphabet/bt-vr.png"/> | Bump + top vertical      | ھ         | h      | h       |
+| 26  | <img src="/img/bg/alphabet/bt-au.png"/> | Bump + top arrow up      |           | c      | c       |
+| 27  | <img src="/img/bg/alphabet/bt-ad.png"/> | Bump + top arrow down    | م         | m      | m       |
+| 28  | <img src="/img/bg/alphabet/bb-dt.png"/> | Bump + bottom dot        | ب         | b      | b       |
+| 29  | <img src="/img/bg/alphabet/bb-hr.png"/> | Bump + bottom horizontal | د         | d      | d       |
+| 30  | <img src="/img/bg/alphabet/bb-au.png"/> | Bump + bottom arrow up   | پ         | p      | p       |
+| 31  | <img src="/img/bg/alphabet/bb-ad.png"/> | Bump + bottom arrow down | ف         | f      | f       |
+| 32  | <img src="/img/bg/alphabet/br.png"/>    | Break                    | ك         | k      | k       |
+| 33  | <img src="/img/bg/alphabet/br-dt.png"/> | Break + dot              | ڭ         | ng     |         |
+| 34  | <img src="/img/bg/alphabet/br-hr.png"/> | Break + horizontal       | گ         | g      | g       |
 
-As you can notice, not all base shape and diacritic combinations are used, creating possibilities for more sounds not present in these three languages.
+## Notes
+
+- Not every Bauhinian letter is pronounced the same in every language! For example, the Chinese C is pronounced as *ts* while the English C is pronounced either *k* or *s*. And perhaps more notably, the X sound is pronounced differently in all three.
+- Not all base shape and diacritic combinations are used, creating possibilities for more sounds not present in these three languages.
 
 [^1]: One time, when I was trying to name [Natasha](/characters/natasha/), I was like "I usually name my characters after things but I really like the name Natasha," and then a person suggested to me I name her after a thing but as the Russian word. Which wouldn't make sense, because concepts don't have languages. I ended up going for Natasha anyways, as you can see.
 [^2]: An alphabet is a writing system where each sound, vowel and consonant, is represented by a symbol. An abjad only contains consonants and leaves the vowels up to reader's inference. Though the two are largely similar, Arabic uses an abjad while Uyghurche uses an alphabet.
