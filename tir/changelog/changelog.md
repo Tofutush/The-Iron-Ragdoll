@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-12
+
+- Updated the reference sheets to include the Bauhinian spelling;
+
 ## 2026-01-11
 
 - Finished the first draft of the [Alphabet](/world/alphabet/) page!
