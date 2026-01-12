@@ -5879,5 +5879,22 @@
     "ch": [
       "jumbo"
     ]
+  },
+  {
+    "name": "nightsun target",
+    "type": "png",
+    "date": "2026-01-12",
+    "ch": [
+      "nightsun"
+    ]
+  },
+  {
+    "name": "sparky animus gray",
+    "type": "png",
+    "date": "2026-01-12",
+    "ch": [
+      "sparky",
+      "animus"
+    ]
   }
 ]
