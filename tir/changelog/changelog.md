@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2026-01-12
 
 - Updated the reference sheets to include the Bauhinian spelling;
+- Added `nightsun target.png`, `sparky animus gray.png`;
 
 ## 2026-01-11
 

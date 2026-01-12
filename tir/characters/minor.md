@@ -35,4 +35,4 @@ Characters that I have a name of but doesn't have a large role in the story. Or 
 - Dazzle: [Sky](/characters/sky/)'s mother.
 - Duck: [Firecrackers](/characters/firecrackers/)'s father.
 - Cassowary: [Nightsun](/characters/nightsun/)'s father.
-- Tourmaline: [Nightsun](/characters/nightsun)'s mother.
+- Tourmaline: [Nightsun](/characters/nightsun/)'s mother.
