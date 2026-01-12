@@ -34,7 +34,7 @@ The script features five base shapes, which I call: tall loops, short loops, R's
 <figure><img class="max" src="/img/bg/alphabet/sl.png" alt="Short loop"/><figcaption>Short loop (middle / end, beginning)</figcaption></figure>
 <figure><img class="max" src="/img/bg/alphabet/rr.png" alt="R"/><figcaption>R (end, middle, beginning)</figcaption></figure>
 <figure><img class="max" src="/img/bg/alphabet/bp.png" alt="Bump"/><figcaption>Bump (end, middle, beginning)</figcaption></figure>
-<figure><img class="max" src="/img/bg/alphabet/br.png" alt="Break"/><figcaption>Break</figcaption></figure>
+<figure><img class="max" src="/img/bg/alphabet/br.png" alt="Break"/><figcaption>Break (end / middle, beginning)</figcaption></figure>
 
 The break is called a break because it's the only base shape that causes a break in the writing flow — meaning you have to lift your pen up to continue.
 
