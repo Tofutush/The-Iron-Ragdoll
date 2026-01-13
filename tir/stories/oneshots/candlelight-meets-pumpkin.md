@@ -4,7 +4,8 @@ dialog:
   - At the station, Candlelight saw a nervous guy asking around for directions.
   - - "Pumpkin: Excuse me; do you know how I can get to Amoxicillin?"
     - "Ticket salesperson: Uh, there's a health center near the station. You can go ask them."
-    - "Pumpkin: No, no, I'm not looking for the medicine Amoxicillin — Ugh this is hard —"
+    - "Pumpkin: No, no, I'm not looking for the medicine Amoxicillin — What about… Yigirme… Toqqu-Toqquzinchi?"
+    - "Ticket salesperson: I have no idea what you're talking about."
   - The man left the ticket counter, brows furrowing.
   - - "Pumpkin: Excuse me please?"
     - "Candlelight: What do you need?"
