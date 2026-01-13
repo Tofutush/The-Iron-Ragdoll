@@ -940,13 +940,13 @@
       "Birth": "2014-01-04",
       "Nationality": "Bauhinian",
       "Marital status": "Married (to <a href=\"../ironheart/\">Ironheart</a>)",
-      "Weapon": "Lasso"
+      "Weapon": "Fan"
     },
     "palette": {
       "shirt": "#5e5e5e",
       "hair": "#2E2E2E"
     },
-    "about": "The oldest daughter in the Cherry-Hyrax family, always neck-deep in pop culture. Her desk is plastered with pictures of her favorite idols.\n\nShe has strabismus, where her right eye points outward."
+    "about": "The oldest daughter in the Cherry-Hyrax family, always neck-deep in pop culture. Her desk is plastered with pictures of her favorite idols, and she would never miss a single concert, unless she got bad grades at school and Hyrax forbid her from going.\n\nShe has strabismus, where her right eye points outward."
   },
   {
     "name": "Chastity",
@@ -970,7 +970,8 @@
     "palette": {
       "shirt": "#5e5e5e",
       "hair": "#2E2E2E"
-    }
+    },
+    "about": "A wild, adventurous soul, always eager to get her hands dirty. She loved waving a rubber chainsaw around, though sometimes she swaps it for a real blade and you can't tell from afar. Despite her crazy demeanor, she is very reasonable and a good person to go to for advice."
   },
   {
     "name": "Devotion",
@@ -994,7 +995,8 @@
     "palette": {
       "shirt": "#5e5e5e",
       "hair": "#2E2E2E"
-    }
+    },
+    "about": "Always parading around a poker face, it's hard to believe Devotion doesn't have a heart made of lead. If she has her sights on something, no one in the world could change her mind. This was why she enlisted in the army during the Fantoni war. Hyrax went through a lot of trouble ensuring she got out alive."
   },
   {
     "name": "Elegance",
@@ -1013,13 +1015,15 @@
       "Gender": "Female",
       "Birth": "2017-06-21",
       "Nationality": "Bauhinian",
-      "Weapon": "Fan",
+      "Occupation": "Artist",
+      "Weapon": "Lasso",
       "Power": "Timekeeping lv. 260"
     },
     "palette": {
       "shirt": "#5e5e5e",
       "hair": "#2E2E2E"
-    }
+    },
+    "about": "A lovely little girl who loves art and animals, especially her winghorse Muffin. Always the one to get kidnapped during incidents."
   },
   {
     "name": "Animus",
@@ -1136,7 +1140,7 @@
     "palette": {
       "hair": "#2e2e2e"
     },
-    "about": "The ~~dictator~~ president of Bauhinia. Extremely powerful.\n\nKismet was born with nothing special, but he consumed 5 other souls with extremely strong superpowers and now he has all 5 [common powers](/world/superpowers/). He is after [Tundra](/characters/tundra/)'s immortal body. If magic weren't impossible to get ahold of, he would've went for that too.\n\nHis 6 souls made him into a rainbow and molded his text color into pure black.\n\nHe has his extremely powerful mind-reading tuned to the entire Flower City. Usually people would just be background noise, but he would be alerted if there are in-subservient thoughts.\n\nHe is actually the reincarnation of [Hyrax](/characters/hyrax/) with memories intact. Because of this, he came up with the idea (or rather, Hyrax learned that Kismet would do this and Kismet did) of [eternal death](/world/bauhinia/#eternal-death), to prevent people from reincarnating, let alone with memory.\n\nAfter acquiring Tundra's body, he needed stand-ins for himself in public appearances, and thus [Project Kismet](/stories/project-kismet/) was initiated.",
+    "about": "The ~~dictator~~ president of Bauhinia. Extremely powerful.\n\nKismet was born with nothing special, but he consumed 5 other souls with extremely strong superpowers and now he has all 5 [common powers](/world/superpowers/). He is after [Tundra](/characters/tundra/)'s immortal body. If magic weren't impossible to get ahold of, he would've went for that too.\n\nHis 6 souls made him into a rainbow and molded his text color into pure black.\n\nHe has his extremely powerful mind-reading tuned to the entire Flower City. Usually people would just be background noise, but he would be alerted if there are in-subservient thoughts.\n\nHe learnt about reincarnation through reading minds, and lied about being the reincarnation of [Hyrax](/characters/hyrax/) with memories intact. Because of this, he came up with the idea of [eternal death](/world/bauhinia/#eternal-death), to prevent people from reincarnating, let alone with memory.\n\nAfter acquiring Tundra's body, he needed stand-ins for himself in public appearances, and thus [Project Kismet](/stories/project-kismet/) was initiated.",
     "trivia": "- His rainbow border comes from too many souls leaking aura. This is purely a design aspect and in-universe characters can't see it.\n- Song: [Babylon - Dirt Poor Robins](https://youtu.be/Vg5163AJkwk?si=pC0VAWhrRxBu1anD)."
   },
   {
@@ -1987,6 +1991,7 @@
     "attr": {
       "Gender": "Male",
       "Soul": "Solid, checker-shaped",
+      "Birth": "2016-08-09",
       "Nationality": "Westavian",
       "Marital status": "Married",
       "Occupation": "Intelligence officer as a cultural attaché"
