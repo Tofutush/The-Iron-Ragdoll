@@ -10,6 +10,7 @@ eleventyNavigation:
 
 - Updated the reference sheets to include the Bauhinian spelling;
 - Added `nightsun target.png`, `sparky animus gray.png`;
+- Updated [Candlelight Back Home](/stories/candlelight-back-home/);
 
 ## 2026-01-11
 

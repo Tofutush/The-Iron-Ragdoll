@@ -26,7 +26,7 @@ When they got home, he met his childhood friend Mooncake, who was also a cop and
 
 So for the time being, they stayed in Helsinki's.
 
-Candlelight noticed that many families he used to know had similar things happen to their houses — run-down and sold empty. He wondered why. The curt answers Thyme gave him was that the old members had died and the young ones were away in eastern Westavia.
+Candlelight noticed that many families he used to know had similar things happen to their houses — run-down and sold empty. He wondered why. The curt answers Thyme gave him was that the old members had died and the young ones were away in eastern Westavia. Their land? Thyme's now. Well, you see, the kids don't know how to work it anyways. Thyme could take care of it better than they could.
 
 A couple days later, Thyme got a call from the police, saying that Ember was due to be released from reeducation soon. Not because he actually changed his mind or anything, but because he was the last person in the camp and they couldn't afford it running anymore. They asked him whether Thyme could find Ember's relatives to go get him.
 
@@ -36,8 +36,34 @@ So apparently, Ember and the band of terrorists he ran away with got caught. The
 
 So he did. And boy was he still the same. After he learnt that Candlelight was a cop in Area 1, he tried getting Candlelight to send him money every month; but immediately grew mad again when he told Ember that he quit already.
 
+He still demanded money though, and Candlelight was legally obliged to pay him, by virtue of being his child. But there was a way out. If he could prove in court that Ember was a bad father, he could be freed of this obligation.
+
+Candlelight formed a plan. He would go to the hospital to find evidence about Muscat's abuse; and then he'd find Sundew to have her testify. Potentially they can *both* be freed of the obligation.
+
+He also had other witnesses in mind, like Mooncake and Thyme. But Sundew would be the most important one.
+
+He did eventually find Sundew in People's Vanguard, but she didn't want to go back to the village, much less meet Ember again. And as long as Ember doesn't find her, she can't be extorted.
+
+Meanwhile, things were going on in the village. A textile factory is planned to be built next to it. Many villagers was excited about the prospect — this can increase employment, attract the young people back, and potentially grow the place into more than a village. Area 30 — doesn't that sound amazing?
+
+Thyme, however, was not happy, because the factory would take up a lot of land. *His* land. He rallied Pumpkin into siding with him, but Pumpkin was just a stranger here.
+
 At one point, Pumpkin and Thyme conversed about the original name of Nameless Village. Turns out, with all these leaders whispering, the name had long been misheard. Thyme thought it was "A Mocking Silence," when it was in fact "Amoxicillin," as evident from Pumpkin's grandparents' documents.
 
-Later it turned out that Thyme had murdered many families to steal their land for himself.
+Candlelight only got Thyme to testify on court, since Sundew didn't want to come, and Mooncake wasn't able to. The only evidence about Muscat he got was a report of suicide with no mention of domestic abuse. He was relying on Thyme alone to prove the entire thing.
 
-In the end, Candlelight murdered Ember and framed Thyme for that.
+And Thyme didn't. In his testimony, he said Ember was a good guy and the only mistake he made was on the day of the attack, where he was coerced by the terrorists to turn on his fellow villagers. Candlelight lost the case.
+
+And now, Candlelight also realized why Thyme said what he said. Ember was the only reliable way to funnel Candlelight's savings into village funds.
+
+Eventually the factory started construction. When they were digging the foundation, they dug up more than dirt. They found the skeletons of around a dozen people, all in their twenties and thirties, some having clearly suffered heavy injuries. A quick DNA test proved they were the children of the dead old people who were supposed to be off in eastern Westavia for opportunities.
+
+Thyme immediately fell under suspicion, though no hard evidence had been found. The village went into lockdown; no one could enter or leave, and Mooncake was handed a rifle to guard them alongside the soldiers stationed at the roads.
+
+And that was when Candlelight had a plan. He would murder Ember and frame Thyme. If they couldn't get him for the murder of all these families, they could still send him to jail for the murder of Ember.
+
+The process was simple. Candlelight and Pumpkin were sleeping at Helsinki's while Ember slept at Thyme's. And knives in Westavia had to be barcoded with your information, so you get in trouble if the knife is used to stab someone, even if you weren't the one stabbing. He'd simply sneak into Thyme's, murder Ember with his knife, and bury the body — in Helsinki's yard, making it look like Thyme was trying to frame *her*. He just had to wait for a day Mooncake was on night shift.
+
+The ploy succeeded with Pumpkin's testimony that Candlelight never left during the night.
+
+(Pumpkin needs an arc of his own though. Think about it more.)
