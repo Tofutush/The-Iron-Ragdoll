@@ -69,27 +69,29 @@ eleventyComputed:
 		</section>
 		<section>
 			<section id="main">
-				{% unless noNav %}
-					{% if navTitle %}
-						{% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
-					{% else %}
-						{% assign bc = collections.all | eleventyNavigationBreadcrumb: title, navOptions %}
-					{% endif %}
-					{% assign length = bc | size %}
-					{% if length > 2 %}
-						<div class="breadcrumbs">
-							{% for item in bc %}
-								{% unless forloop.first %}
-									{% unless forloop.index == 2 %}
-										{% lucide 'chevron-right' %}
+				<section id="content">
+					{% unless noNav %}
+						{% if navTitle %}
+							{% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
+						{% else %}
+							{% assign bc = collections.all | eleventyNavigationBreadcrumb: title, navOptions %}
+						{% endif %}
+						{% assign length = bc | size %}
+						{% if length > 2 %}
+							<div class="breadcrumbs">
+								{% for item in bc %}
+									{% unless forloop.first %}
+										{% unless forloop.index == 2 %}
+											{% lucide 'chevron-right' %}
+										{% endunless %}
+										<a href="{{ item.url }}">{{ item.title }}</a>
 									{% endunless %}
-									<a href="{{ item.url }}">{{ item.title }}</a>
-								{% endunless %}
-							{% endfor %}
-						</div>
-					{% endif %}
-				{% endunless %}
-				<section id="content">{{ content }}</section>
+								{% endfor %}
+							</div>
+						{% endif %}
+					{% endunless %}
+					{{ content }}
+				</section>
 				{% unless siteTheme and noFooterImage %}
 					<footer>
 						{% unless siteTheme %}
