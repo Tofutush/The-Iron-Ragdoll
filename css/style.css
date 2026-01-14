@@ -159,7 +159,7 @@ h4::before {
 main {
 	display: flex;
 	gap: 2em;
-	margin: 2em auto;
+	margin: 2em auto 0 auto;
 	max-width: min(90vw, 48em);
 
 	&>:last-child {
