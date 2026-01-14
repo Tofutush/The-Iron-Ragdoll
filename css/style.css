@@ -60,7 +60,7 @@ body {
 	font-size: var(--font-size);
 	hyphens: auto;
 	margin: 0;
-	background-color: var(--bg);
+	background-color: var(--box);
 }
 
 html {
@@ -157,9 +157,22 @@ h4::before {
 }
 
 main {
+	display: flex;
+	gap: 2em;
 	margin: 2em auto;
-	max-width: 800px;
+	max-width: min(90vw, 48em);
+
+	&>:last-child {
+		flex: 1;
+		min-width: 0;
+	}
+}
+
+#main {
+	background-color: var(--bg);
+	border-radius: 2em;
 	padding: 0 2em;
+	overflow: hidden;
 }
 
 p {
@@ -412,7 +425,7 @@ header {
 	user-select: none;
 	background-size: cover;
 	background-position: 80% center;
-	background-color: var(--c);
+	background-color: var(--box);
 }
 
 header a {
@@ -422,18 +435,14 @@ header a {
 }
 
 nav {
-	align-items: center;
+	margin-top: 2em;
 	display: flex;
-	flex-wrap: wrap;
+	flex-direction: column;
 	font-size: var(--font-size);
-	justify-content: center;
-	margin: auto;
+	align-items: flex-end;
 	width: 100%;
-	background-color: var(--c);
-	color: var(--bg);
 	position: sticky;
-	top: 0;
-	z-index: 999;
+	top: 2em;
 	user-select: none;
 
 	&>a {
@@ -442,14 +451,9 @@ nav {
 	}
 }
 
-nav>a:hover,
-.license a:hover {
-	text-decoration: underline;
-	color: var(--bg);
-}
-
 footer {
 	position: relative;
+	margin-top: 4em;
 }
 
 .footer-img {
@@ -458,23 +462,26 @@ footer {
 	width: 13em;
 	user-select: none;
 	filter: drop-shadow(0 0 16px var(--c));
-	z-index: -1;
 	position: relative;
+	margin-left: -2em;
 }
 
 .license {
 	padding: .5em;
-	background-color: var(--c);
 	user-select: none;
 
 	&>p {
 		font-size: var(--font-size-small);
-		color: var(--bg);
 		text-align: center;
 		margin: 0;
 
 		&>a {
 			text-decoration: none;
+
+			&:hover {
+				color: var(--text);
+				text-decoration: underline;
+			}
 		}
 	}
 }

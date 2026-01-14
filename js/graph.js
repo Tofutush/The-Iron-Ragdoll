@@ -1,4 +1,4 @@
-const width = 1200;
+const width = 800;
 const height = 600;
 let font12 = 12, font16 = 16, font20 = 20;
 // stuff in the graph, for updating
@@ -8,7 +8,7 @@ let focusCh = '', depth = 1, hideMinor = false;
 
 // Create the SVG container.
 const svg = d3.select("#graph")
-	.attr("width", width)
+	// .attr("width", width)
 	.attr("height", height)
 	.attr("viewBox", [-width / 2, -height / 2, width, height])
 	.call(d3.zoom()

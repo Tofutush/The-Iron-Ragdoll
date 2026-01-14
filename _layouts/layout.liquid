@@ -36,13 +36,13 @@ eleventyComputed:
 	<link rel="stylesheet" href="/css/callout.css"/>
 	<link rel="stylesheet" href="/css/linkcolor.css"/>
 	<link rel="icon" href="/icon.ico"/>
-	{% if widepage %}
+	{% comment %} {% if widepage %}
 		<style>
 			main {
 			max-width: 1200px;
 			}
 		</style>
-	{% endif %}
+	{% endif %} {% endcomment %}
 	{% assign dateMonth = 0 | getMMDD %}
 	{% if dateMonth == '12-13' %}
 		<style>
@@ -54,75 +54,82 @@ eleventyComputed:
 </head>
 <body>
 	<header style="background-image: url({% capture url %}{% imageUrl 'gallery/' banner 'png' 3000 %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
-	<nav>
-		<a href="#top">(Top)</a>
-		<a href="/about/">About</a>
-		<a href="/characters/">Characters</a>
-		<a href="/stories/">Stories</a>
-		<a href="/world/">World</a>
-		<a href="/gallery/2026/">Gallery</a>
-		<a href="/changelog/">Updates</a>
-	</nav>
 	<main>
-		{% unless noNav %}
-			{% if navTitle %}
-				{% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
-			{% else %}
-				{% assign bc = collections.all | eleventyNavigationBreadcrumb: title, navOptions %}
-			{% endif %}
-			{% assign length = bc | size %}
-			{% if length > 2 %}
-				<div class="breadcrumbs">
-					{% for item in bc %}
-						{% unless forloop.first %}
-							{% unless forloop.index == 2 %}
-								{% lucide 'chevron-right' %}
-							{% endunless %}
-							<a href="{{ item.url }}">{{ item.title }}</a>
+		<section>
+			<nav>
+				<a href="#top">(Top)</a>
+				<a href="/">Home</a>
+				<a href="/about/">About</a>
+				<a href="/characters/">Characters</a>
+				<a href="/stories/">Stories</a>
+				<a href="/world/">World</a>
+				<a href="/gallery/2026/">Gallery</a>
+				<a href="/changelog/">Updates</a>
+			</nav>
+		</section>
+		<section>
+			<section id="main">
+				{% unless noNav %}
+					{% if navTitle %}
+						{% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
+					{% else %}
+						{% assign bc = collections.all | eleventyNavigationBreadcrumb: title, navOptions %}
+					{% endif %}
+					{% assign length = bc | size %}
+					{% if length > 2 %}
+						<div class="breadcrumbs">
+							{% for item in bc %}
+								{% unless forloop.first %}
+									{% unless forloop.index == 2 %}
+										{% lucide 'chevron-right' %}
+									{% endunless %}
+									<a href="{{ item.url }}">{{ item.title }}</a>
+								{% endunless %}
+							{% endfor %}
+						</div>
+					{% endif %}
+				{% endunless %}
+				<section id="content">{{ content }}</section>
+				{% unless siteTheme and noFooterImage %}
+					<footer>
+						{% unless siteTheme %}
+							<div class="theme-toggle">
+								<div>
+									{% lucide 'sun' %}
+									{% lucide 'moon' %}
+								</div>
+							</div>
+							<script>
+								(function () {
+									let toggle = document.querySelector('.theme-toggle');
+									let lightDark = parseInt(localStorage.getItem('light-dark'));
+									toggle.addEventListener('click', e => {
+										if (lightDark === 0) {
+											lightDark = 1;
+											document.documentElement.className = 'light';
+										} else {
+											lightDark = 0;
+											document.documentElement.className = 'dark';
+										}
+										localStorage.setItem('light-dark', lightDark);
+									});
+								})();
+							</script>
 						{% endunless %}
-					{% endfor %}
-				</div>
-			{% endif %}
-		{% endunless %}
-		{{ content }}
+						{% unless noFooterImage %}
+							{% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
+							{% image 'gallery/' footerimg.name footerimg.type 500 footerimg.name 'footer-img' %}
+						{% endunless %}
+					</footer>
+				{% endunless %}
+				{% include 'pride' %}
+			</section>
+			<section class="license">
+				<p>The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></p>
+				<p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/{{ page.inputPath }}">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll{{ page.url }}">Archive this page</a></p>
+			</section>
+		</section>
 	</main>
-	{% unless siteTheme and noFooterImage %}
-		<footer>
-			{% unless siteTheme %}
-				<div class="theme-toggle">
-					<div>
-						{% lucide 'sun' %}
-						{% lucide 'moon' %}
-					</div>
-				</div>
-				<script>
-					(function () {
-						let toggle = document.querySelector('.theme-toggle');
-						let lightDark = parseInt(localStorage.getItem('light-dark'));
-						toggle.addEventListener('click', e => {
-							if (lightDark === 0) {
-								lightDark = 1;
-								document.documentElement.className = 'light';
-							} else {
-								lightDark = 0;
-								document.documentElement.className = 'dark';
-							}
-							localStorage.setItem('light-dark', lightDark);
-						});
-					})();
-				</script>
-			{% endunless %}
-			{% unless noFooterImage %}
-				{% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
-				{% image 'gallery/' footerimg.name footerimg.type 500 footerimg.name 'footer-img' %}
-			{% endunless %}
-		</footer>
-	{% endunless %}
-	{% include 'pride' %}
-	<div class="license">
-		<p>The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></p>
-		<p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/{{ page.inputPath }}">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll{{ page.url }}">Archive this page</a></p>
-	</div>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
 	<script>
 		if(!window.location.href.includes('localhost')) {
