@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-16
+
+- Added `nightsun sparky bramble stack.png`, `elegance horse year.png`;
+
 ## 2026-01-12
 
 - Updated the reference sheets to include the Bauhinian spelling;
