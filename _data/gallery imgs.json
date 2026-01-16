@@ -5896,5 +5896,23 @@
       "sparky",
       "animus"
     ]
+  },
+  {
+    "name": "nightsun sparky bramble stack",
+    "type": "png",
+    "date": "2026-01-16",
+    "ch": [
+      "nightsun",
+      "sparky",
+      "bramble"
+    ]
+  },
+  {
+    "name": "elegance horse year",
+    "type": "png",
+    "date": "2026-01-16",
+    "ch": [
+      "elegance"
+    ]
   }
 ]
