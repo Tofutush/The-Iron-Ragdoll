@@ -1559,9 +1559,9 @@
     "name": "Moonflower",
     "namezh": "月亮花",
     "color": "#c78d0e",
+    "desc": "A dancer, but also an informer.",
     "tags": [
-      "Westavia",
-      "Nameless Village"
+      "Westavia"
     ],
     "attr": {
       "Nickname": "Flower",
@@ -1572,7 +1572,7 @@
       "robe": "#CCC122",
       "hair": "#2e2e2e"
     },
-    "about": "ئايگۈل, Uyghurche for Moonflower. Literally just ئاي (moon) + گۈل (flower).",
+    "about": "ئايگۈل, Uyghurche for Moonflower. Literally just ئاي (moon) + گۈل (flower).\n\nThe lead dancer of a traveling dance troupe. Also works as an informer for the WIS.",
     "trivia": "- 维吾尔族",
     "note": "- She has a monobrow."
   },
