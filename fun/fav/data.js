@@ -500,7 +500,7 @@ img: "/The-Iron-Ragdoll/img/gallery/ib6lw8wRYN-500.webp"
 {
 name: "Moonflower",
 color: "#c78d0e",
-desc: "",
+desc: "A dancer, but also an informer.",
 img: "/The-Iron-Ragdoll/img/gallery/JZggED87Be-500.webp"
 },
 
