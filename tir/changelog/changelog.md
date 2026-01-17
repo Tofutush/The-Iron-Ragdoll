@@ -9,6 +9,8 @@ eleventyNavigation:
 ## 2026-01-17
 
 - Added `moonflower neck.gif`;
+- Updated [Overview](/world/overview/);
+- Updated About, and added a [how-to-navigate section](/about/#how-to-navigate) to it;
 
 ## 2026-01-16
 

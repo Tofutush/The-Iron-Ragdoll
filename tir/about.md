@@ -26,15 +26,25 @@ eleventyNavigation:
 
 A paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage! This website is where I display everything I have created for this paracosm.
 
-You can browse through it with the navigation bar at the top. The first link will take you back to the top of the page. There's also a bunch of links on the [homepage](/) that takes you to important pages on the site.
-
-You can also switch color themes through the toggle at the bottom. Happy browsing!
+Also, I call "pages" in this site "files" because it sounds cool. If I said "page" anywhere, it was probably a mistake.
 
 ### Content warnings
 
 This site and its contents feature strong language, cartoon violence, and occasional mature themes. It's generally rated as 16+.
 
 It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't treat it so seriously.
+
+### How to navigate
+
+You can browse through it with the navigation bar at the top. The first link will take you back to the top of the page. There's also a bunch of links on the [homepage](/) that takes you to important pages on the site.
+
+To follow the arc of a [character](/characters/), go to the "stories" section on their profile!
+
+Each [story](/stories/) has a "Complete?" field near the top that tells you whether it's complete. Note that most stories are incomplete though, and reading the incomplete version still gives you an idea about the story! (Most of the time I have a beginning and end and just fail to fill out the middle.)
+
+If you ever remember a page name but forgot where to reach it, the [sitemap](/sitemap/) includes a list of (most) pages.
+
+You can also switch color themes through the toggle at the bottom. Happy browsing!
 
 ### JavaScript usage
 
@@ -48,40 +58,12 @@ I'd love code to have a similar license too, but apparently noncommercial goes a
 
 ## About me
 
-### CONFIDENTIAL
-
-**Name:** Tofutush
-
-**Known aliases:** 黑帮老大，吸螺壳
-
-**Unknown aliases:** We don't know; that's why they're unknown you doofus
-
-**Pronouns:** she/her
-
-**Languages:** 中 / Eng
-
-**Status:** At large
-
-**DoB:** Feb 1<sup>st</sup>
-
-**Occupation:** Lurker (professional)
-
-**Summary:** Subject is a human being[^1] who displays a strong interest in fake people in her head. Is known to participate in cultish worshipping activities of domestic felines. May spontaneously eat people[^2]. Sometimes imagines herself being a "supreme dictator of the entire world." Likes the phrase "it's easy to kill but hard to dispose of the body[^3]."
-
-**[Recent sightings log](https://tilde.town/~tofutush/)**
-
-**Risk assessment:** Low risk. Subject can and will trip over her own shoelaces. Has next to zero counter-surveillance skills. The only obstacle to containment is her spontaneous consumption of other people.
+Hi, Tofutush here! Adult, she/her, 中 / Eng. [Other places I'm at](https://tilde.town/~tofutush/).
 
 ### Boundaries
 
-Please don't draw parallels between my paracosm and real-life, even if I initiated it! I understand the difference between real-world and imaginary, and so should you. This includes (but is not limited to) first and foremost comparing [Bauhinia](/world/bauhinia/) to Hong Kong based on the flower alone.
-
-### Fan content
+Please don't draw parallels between my paracosm and real-life!
 
 I welcome any sort of derivative content, like fanart, OCs, and everything, as long as you understand that they are not canon. For what is worth, the [races](/world/races/) and [creatures](/world/creatures/) are also all classified as open species. Make sure to show me anything you make; I'd love to see them!
 
 CC-BY-NC-SA license applies; see the [License](#license) section!
-
-[^1]: Likely, though we can't be completely certain
-[^2]: RIP our brave hero. You will always be remembered
-[^3]: Which I'm sure is about action and consequence, and not literal!
