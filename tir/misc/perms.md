@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Perms
 desc: Artfight drawing perms.
-tags: misc
 eleventyNavigation:
   parent: Miscellaneous
 ---
