@@ -43,7 +43,6 @@
     <style>
       .imgs {
         display: flex;
-        gap: 1rem;
         flex-wrap: wrap;
         justify-content: center;
       }
@@ -52,8 +51,8 @@
         transition: transform 0.3s var(--bezier-bounce);
       }
 
-      .imgs img:hover {
-        transform: scale(1.2);
+      .imgs a:hover img {
+        transform: translateY(-.7em);
       }
     </style>
     <div class="box-nav solid">
