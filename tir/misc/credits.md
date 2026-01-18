@@ -2,7 +2,6 @@
 layout: article.liquid
 title: Credits
 desc: Where it's due.
-tags: misc
 eleventyNavigation:
   parent: Miscellaneous
 ---
