@@ -237,18 +237,19 @@ svg {
 }
 
 figure {
-	margin: 1em;
+	margin: 2em 1em;
 	display: flex;
 	flex-direction: column;
-	gap: .5em;
 	align-items: center;
 	justify-content: space-between;
-}
 
-figcaption {
-	font-size: smaller;
-	opacity: .8;
-	line-height: 2;
+
+	& figcaption {
+		font-size: smaller;
+		opacity: .8;
+		line-height: 2;
+		text-align: center;
+	}
 }
 
 select {
