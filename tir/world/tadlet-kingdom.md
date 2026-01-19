@@ -7,7 +7,9 @@ categories:
   - Misc
 ---
 
-It's a world full of huge, talking tadlets living inside kingdoms. The two main kingdoms are Cat Kingdom and Dog Kingdom.
+It's a world full of huge[^1], talking tadlets living inside kingdoms. The two biggest kingdoms are Cat Kingdom and Dog Kingdom.
+
+All the tadlets have telekinesis magic, used through their horns.
 
 The main character is Snowy, a husky dog with rainbow eyes and horn. Her job is to spread happiness across the land.
 
@@ -22,3 +24,5 @@ Real time passes when you are inside, though not always linearly, so it's best t
 You are not actually inside — your physical body is still in the real world, sitting on that toilet; and that's how you can still connect to the real world like your watch displaying the correct time or phone connecting to the internet.
 
 The things inside the paracosm depends wholly on Sunflower's imagination, though the talking tadlets don't need Sunflower's active thinking to do stuff — like they have sentience (they don't *really* have sentience though, they aren't real).
+
+[^1]: To visualize how big the tadlets are: imagine a cute, little hamster. Now imagine the hamster is as big as a grown golden retriever.
