@@ -5932,5 +5932,30 @@
     "ch": [
       "moonflower"
     ]
+  },
+  {
+    "name": "sparky think",
+    "type": "png",
+    "date": "2026-01-21",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "thyme stand",
+    "type": "png",
+    "date": "2026-01-21",
+    "ch": [
+      "thyme"
+    ]
+  },
+  {
+    "name": "pumpkin thyme discussion",
+    "type": "png",
+    "date": "2026-01-21",
+    "ch": [
+      "pumpkin",
+      "thyme"
+    ]
   }
 ]

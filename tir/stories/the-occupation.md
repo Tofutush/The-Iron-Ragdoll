@@ -44,7 +44,7 @@ Mooncake's dad Thyme wasn't home, and Mooncake assumed he must be in the communi
 
 Thyme's cousin was working in Area 29. Mooncake held a hand to her mouth.
 
-"Don't worry, she wasn't anywhere near the bazaar that got attacked. But she saw it. There was a bomb, apparently."
+"Don't worry, she wasn't anywhere near the market that got attacked. But she saw it. There was a bomb, apparently."
 
 Candlelight and Mooncake just stared at each other. The attacks had become more frequent. They used to happen only in the more developed eastern side of the country, about where they could be blissfully oblivious, but Area 29 was in the very west, the city closest to their little village. It was almost as if the terrorists would be coming for *them* next.
 
@@ -206,7 +206,7 @@ Candlelight finally managed to unfreeze and ran away with Mooncake.
 
 They were both at Candlelight's. He sat on the carpet because sitting on any chair would vividly remind him of the feeling when the chair was hitting him. Mooncake was curled up beside him, blanket over her head, shaking as Candlelight tried to comfort her, but even he couldn't believe himself when he told her it would be okay.
 
-They tried eating some stone-cold naan in the kitchen. They couldn't stomach it. They toiled until eleven. The sun had set and the stars came out, like they always did.
+They tried eating some stone-cold bread in the kitchen. They couldn't stomach it. They toiled until eleven. The sun had set and the stars came out, like they always did.
 
 That was when they heard a dog scratching their door. Even the mutts were scared.
 
