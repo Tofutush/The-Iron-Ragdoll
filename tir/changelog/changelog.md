@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-21
+
+- Added `sparky think.png`, `thyme stand.png`, `pumpkin thyme discussion.png`;
+
 ## 2026-01-17
 
 - Added `moonflower neck.gif`;
