@@ -14,7 +14,7 @@ let timeline = timelineRaw.data.items.reduce((prev, curr) => {
 		});
 		if (participants.length) item[0].participants = participants;
 	}
-	if (curr.start != curr.end) {
+	if (curr.end && curr.start != curr.end) {
 		item[0].label = curr.type == 'defaultPerson' ? `${curr.label} born` : `Start of ${curr.label}`;
 		item.push({
 			label: curr.type === 'defaultPerson' ? `${curr.label} died` : `End of ${curr.label}`,
