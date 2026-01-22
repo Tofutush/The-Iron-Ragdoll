@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2026-01-21
 
 - Added `sparky think.png`, `thyme stand.png`, `pumpkin thyme discussion.png`;
+- Important update regarding [Tadlet Kingdom Adventures](/stories/tadlet-kingdom-adventures/);
 
 ## 2026-01-17
 

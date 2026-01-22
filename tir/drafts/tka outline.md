@@ -1,0 +1,97 @@
+- prologue
+	- IC & ST at school, finding desks & chairs missing
+	- IC explains curse of sunflower
+	- they go on with their day
+	- ST disappears
+	- IC goes looking
+	- IC gets in
+	- rain, thunder, SF lying on carpet
+	- IC talk to her
+		- SF: who are you?
+		- id like to ask that too! who are you? where am i?
+		- my name is sunflower. this is my paracosm
+- chapter 1
+	- QB in treehouse
+	- suddenly weather changes
+	- QB tries to change it back, fails
+	- leans out window to see 2 people out there
+	- walks down and towards them
+	- meet n greet
+		- QB: ive been mostly living in there since the war ended
+		- what war?
+		- the war with fanton?
+		- what??
+	- solve time problems
+	- stuff that need to be explained
+		- by IC: sunflowers death, disappearances of stuff and ST
+		- by SF: nature of paracosm, how time works, how IC is spiritually here and QB and ST is physically here
+			- time: IC has analog watch
+			- SF implies she may also die if she stays here too long
+	- they set off to find ST
+- chapter 2
+	- SF: were in cat kingdom
+	- encounter barbed wire wall
+	- LT chat
+		- LT excited about creator waking
+		- worry about other humans
+			- i remember what happened last time a human was here
+		- says today is inspection day and MG will soon come, meanwhile chat
+		- SF ask about JW
+			- LT: he died in the war
+			- SF: not again??
+		- LT explains war & cold war
+			- after the hiatus, stuff went to hell
+			- winghorse queen TP launched invasion to kill you
+			- put up wall
+			- dog kingdom allied
+			- towards the end, dog kingdom obtain notebook
+				- SF: that is a real thing, candlelight has it
+			- winghorse kingdom partitioned, cold war begins
+		- SF ask about human & stuff
+	- MG arrives
+	- go to castle
+		- IC asks why no teleport
+		- SF explains how she lost control of the paracosm
+	- castle fortified
+		- MG asks SF to fix the world
+		- SF tells her shes dead
+		- MG tells her about dog prophecy
+			- magic dog advisor to EM
+			- chosen one (public)
+			- creator, notebook, crystal peak, night of thunder and lightning (spy-gained)
+				- every nights like this
+				- no dog kingdom is pretty dry
+		- SF asks MG about human & stuff
+		- MG gives travel tips
+			- hamster, east winghorse, west winghorse, dog
+			- avoid death seekers led by TP
+		- MG gives small bikes
+		- QB turns them big after they leave the castle
+	- rain stopped
+	- SF says to check out CV
+- chapter 3
+	- CV land barren
+	- to LT's city
+	- FM still firefighter
+		- says CV immigrated to fox kingdom
+		- SF wonders if SW is still doing the same
+		- FM: you have other characters? im not your favorite?
+		- SF: oh wait yeah youre one of the few who hasnt canonically met SW
+	- emergency
+		- CS house
+		- FM failed, QB to the rescue
+		- CS was okay, they continue
+	- hamster kingdom
+		- go to AC
+			- flying athlete turned war vet
+			- queen CD coronation, front row seat
+			- princess CD good, disaster relief, war vet when cats invade
+		- attend coronation
+		- assassin swoop in, kill CD, and flew away
+		- the three chase after the assassin
+			- SF: it looked like a dog
+- epilogue
+	- IC wake up, ST returns with book
+	- QB going oh well, ill make a new pocket timeline
+	- ST publish book with vanity publisher
+	- ST & IC enter again
