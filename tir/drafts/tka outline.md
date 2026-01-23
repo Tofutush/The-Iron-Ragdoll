@@ -10,86 +10,146 @@
 		- SF: who are you?
 		- id like to ask that too! who are you? where am i?
 		- my name is sunflower. this is my paracosm
-- chapter 1
-	- QB in treehouse
-	- suddenly weather changes
-	- QB tries to change it back, fails
-	- leans out window to see 2 people out there
-	- walks down and towards them
-	- meet n greet
-		- QB: ive been mostly living in there since the war ended
-		- what war?
-		- the war with fanton?
-		- what??
-	- solve time problems
-	- stuff that need to be explained
-		- by IC: sunflowers death, disappearances of stuff and ST
-		- by SF: nature of paracosm, how time works, how IC is spiritually here and QB and ST is physically here
-			- time: IC has analog watch
-			- SF implies she may also die if she stays here too long
-	- they set off to find ST
-- chapter 2
-	- SF: were in cat kingdom
-	- encounter barbed wire wall
-	- LT chat
-		- LT excited about creator waking
-		- worry about other humans
-			- i remember what happened last time a human was here
-		- says today is inspection day and MG will soon come, meanwhile chat
-		- SF ask about JW
-			- LT: he died in the war
-			- SF: not again??
-		- LT explains war & cold war
-			- after the hiatus, stuff went to hell
-			- winghorse queen TP launched invasion to kill you
-			- put up wall
-			- dog kingdom allied
-			- towards the end, dog kingdom obtain notebook
-				- SF: that is a real thing, candlelight has it
-			- winghorse kingdom partitioned, cold war begins
-		- SF ask about human & stuff
-	- MG arrives
-	- go to castle
-		- IC asks why no teleport
-		- SF explains how she lost control of the paracosm
-	- castle fortified
-		- MG asks SF to fix the world
-		- SF tells her shes dead
-		- MG tells her about dog prophecy
-			- magic dog advisor to EM
-			- chosen one (public)
-			- creator, notebook, crystal peak, night of thunder and lightning (spy-gained)
-				- every nights like this
-				- no dog kingdom is pretty dry
-		- SF asks MG about human & stuff
-		- MG gives travel tips
-			- hamster, east winghorse, west winghorse, dog
-			- avoid death seekers led by TP
-		- MG gives small bikes
-		- QB turns them big after they leave the castle
-	- rain stopped
-	- SF says to check out CV
-- chapter 3
-	- CV land barren
-	- to LT's city
-	- FM still firefighter
-		- says CV immigrated to fox kingdom
-		- SF wonders if SW is still doing the same
-		- FM: you have other characters? im not your favorite?
-		- SF: oh wait yeah youre one of the few who hasnt canonically met SW
-	- emergency
-		- CS house
-		- FM failed, QB to the rescue
-		- CS was okay, they continue
-	- hamster kingdom
-		- go to AC
-			- flying athlete turned war vet
-			- queen CD coronation, front row seat
-			- princess CD good, disaster relief, war vet when cats invade
-		- attend coronation
-		- assassin swoop in, kill CD, and flew away
-		- the three chase after the assassin
-			- SF: it looked like a dog
+- QB in treehouse
+- suddenly weather changes
+- QB tries to change it back, fails
+- leans out window to see 2 people out there
+- walks down and towards them
+- meet n greet
+	- QB: ive been mostly living in there since the war ended
+	- what war?
+	- the war with fanton?
+	- what??
+- solve time problems
+- stuff that need to be explained
+	- by IC: sunflowers death, disappearances of stuff and ST
+	- by SF: nature of paracosm, how time works, how IC is spiritually here and QB and ST is physically here
+		- time: IC has analog watch
+		- SF implies she may also die if she stays here too long
+- they set off to find ST
+- SF: were in cat kingdom
+- encounter barbed wire wall
+- LT chat
+	- LT excited about creator waking
+	- worry about other humans
+		- i remember what happened last time a human was here
+	- says today is inspection day and MG will soon come, meanwhile chat
+	- SF ask about JW
+		- LT: he died in the war
+		- SF: not again??
+	- LT explains war & cold war
+		- after the hiatus, stuff went to hell
+		- winghorse queen TP launched invasion to kill you
+		- put up wall
+		- dog kingdom allied
+		- towards the end, dog kingdom obtain notebook
+			- SF: that is a real thing, candlelight has it
+		- winghorse kingdom partitioned, cold war begins
+	- SF ask about human & stuff
+- MG arrives
+- go to castle
+	- IC asks why no teleport
+	- SF explains how she lost control of the paracosm
+- castle fortified
+	- MG asks SF to fix the world
+	- SF tells her shes dead
+	- MG tells her about dog prophecy
+		- magic dog advisor to EM
+		- chosen one (public)
+		- creator, notebook, crystal peak, night of thunder and lightning (spy-gained)
+			- every nights like this
+			- no dog kingdom is pretty dry
+	- SF asks MG about human & stuff
+	- MG gives travel tips
+		- hamster, east winghorse, west winghorse, dog
+		- avoid death seekers led by TP
+	- MG gives small bikes & currency
+	- QB turns them big after they leave the castle
+- rain stopped
+- SF says to check out CV
+- CV land barren
+- to LT's city
+- FM still firefighter
+	- says CV immigrated to fox kingdom
+	- SF wonders if SW is still doing the same
+	- FM: you have other characters? im not your favorite?
+	- SF: oh wait yeah youre one of the few who hasnt canonically met SW
+- emergency
+	- CS house
+	- FM failed, QB to the rescue
+	- CS was okay
+	- SF: ill introduce SW to you, shell brighten up your day for sure
+	- FM: gonna need that now that i know im not your fav
+	- they continue
+- hamster kingdom
+	- go to AC
+		- flying athlete turned war vet
+		- queen CD coronation, front row seat
+			- former queen DS (dusty) retired not dead
+		- princess CD good, disaster relief, war vet when cats invade
+	- attend coronation
+	- assassin swoop in, kill CD, and flew away
+- the three chase after the assassin
+	- SF: it looked like a dog
+- reach fox border
+	- border guards say a dog passed
+	- hamster police catch up
+		- police & border guard quarrel
+			- QB: we shouldnt be straying too far from the path…
+			- IC wants to explore as much as possible in hopes of finding ST
+			- SF promises to find the assassin for them
+			- police give them a torn piece of the assassins cloak
+- the quarrel made them lose the assassin
+- walk around town, comments its getting late, sees factory getting off work
+- sees CV
+	- CV saw someone with a cloak but wont tell them where they went
+- treats CV to dinner at MP's
+	- TV reports assassination of CD, DS also dead
+	- exiled noble CM (cream) from western winghorse kingdom returns to hamster kingdom
+- sees the torn cloak figure at the bar
+	- CV: are you still paying the bill?
+	- bill paid
+- figure is SW
+- SW: lets talk outside
+- go outside
+	- SF convo
+		- SF: was that you
+		- SW: yes
+		- SF: why the FUCK
+		- SW: just doing my job
+		- SF: your job is to spread joy!
+		- SW: i am doing exactly that!
+		- SF: by murder and assassination?
+		- SW: i just spread joy to the entire Hamster Kingdom and this is the thanks i get?
+		- SF: you murdered Cloud!
+		- SW: she was a terrible tadlet SF. shes a warmonger! dictator! you should know that since you made her that way??
+		- SF: i did not, SW, i lost control of the world. im dead!
+		- SW: you are? but youre still here?
+		- SF: its complicated
+	- QB interrupts
+		- QB: lemme deal with her. who are you working for?
+		- SW: none of your damn business
+		- QB: the dog crown?
+		- SW: nooooooooooooo?
+		- QB: youre awful at this snowy, do you know what theyre gonna do if the hamsters caught you
+		- SW: my queen has my back
+		- QB: your queen will claim youre a lone actor! they will abandon you, or even prosecute you themselves!
+		- QB: i just wanna let you know its in your best interests to collaborate with us. we are acquainted with the hamster police.
+	- IC steps in
+		- IC: have you heard of another human appearing? perhaps some desks and chairs appearing in this world?
+		- SW: oh, its the mage. she can make stuff appear out of thin air
+		- SF: who is that?
+		- SW: i dont fucking know
+		- SF: what do you know about the prophecy?
+		- SW: its all over dog kingdom. theyve found the chosen one.
+		- SF: who is that?
+		- SW: i dont fucking know. no one knows who they are and what theyre doing. except for the queen and the mage of course
+	- SF: we want to find a way to fix this world, SW. back to how it was before.
+	- IC: and find the human. her name is starry btw
+	- QB: and then get us three outta here.
+	- SF: do you want to help us?
+	- SW: well sure, but thats only bc ms baseball hat here made threats. i dont believe the world can go "back." it is what it is now.
+- …
 - epilogue
 	- IC wake up, ST returns with book
 	- QB going oh well, ill make a new pocket timeline
