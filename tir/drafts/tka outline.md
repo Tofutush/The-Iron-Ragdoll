@@ -59,6 +59,10 @@
 		- creator, notebook, crystal peak, night of thunder and lightning (spy-gained)
 			- every nights like this
 			- no dog kingdom is pretty dry
+	- guards come in carrying tuxedo (TX), we caught the spy
+		- MG: throw her in jail first, ill decide what to do with her later
+		- SF: no how could you??
+		- MG: national security
 	- SF asks MG about human & stuff
 	- MG gives travel tips
 		- hamster, east winghorse, west winghorse, dog
@@ -139,7 +143,8 @@
 		- IC: have you heard of another human appearing? perhaps some desks and chairs appearing in this world?
 		- SW: oh, its the mage. she can make stuff appear out of thin air
 		- SF: who is that?
-		- SW: i dont fucking know
+		- SW: i dont fucking know, but at first all she produced was stationery. but shes making bigger and bigger stuff. recently she populated an entire new school with huge desks and chairs
+		- IC: i think we found our culprit.
 		- SF: what do you know about the prophecy?
 		- SW: its all over dog kingdom. theyve found the chosen one.
 		- SF: who is that?
