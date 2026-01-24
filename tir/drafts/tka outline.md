@@ -21,6 +21,8 @@
 	- the war with fanton?
 	- what??
 - solve time problems
+	- so youre an adult!
+	- QB: im… im an adult? im an adult!!! noooooo!!!
 - stuff that need to be explained
 	- by IC: sunflowers death, disappearances of stuff and ST
 	- by SF: nature of paracosm, how time works, how IC is spiritually here and QB and ST is physically here
@@ -107,7 +109,7 @@
 - walk around town, comments its getting late, sees factory getting off work
 - sees CV
 	- CV saw someone with a cloak but wont tell them where they went
-- treats CV to dinner at MP's
+- treats CV to dinner
 	- TV reports assassination of CD, DS also dead
 	- exiled noble CM (cream) from western winghorse kingdom returns to hamster kingdom
 - sees the torn cloak figure at the bar
@@ -154,7 +156,29 @@
 	- QB: and then get us three outta here.
 	- SF: do you want to help us?
 	- SW: well no. ive got transport headed for western winghorse kingdom ive gotta get going.
-- SW leaves, the gang heads west
+- SW leaves
+- its too late, they find hotel, QB casts magic to make them small
+	- wow you made the room bigger?
+	- if magicians are this strong how hasnt bauhinia taken over the world yet?
+		- hehe its just me. im the strongest. normally people wont be able to do this
+	- would this affect the neighboring rooms though?
+		- actually i didnt make the room big, i made us small. this may have health issues in the long run but one night is fine
+		- well find some other sort of accommodation tomorrow
+	- middle of night someone climbs in through window. was maple (MP) the fox
+		- QB alert
+		- IC turn on lights to see window open, QB pinning down MP
+		- interrogation
+			- QB: what are you doing here?
+			- MP: i live here! what are *you* doing?
+			- QB: like hell you live in a hotel room
+			- MP: i *paid* for it? like how hotels work?
+			- QB: so you hop in through the goddamn window?
+			- SF: QB, dont hurt her! shes my friend
+			- QB: your friend my ass! she came to kill you!
+			- QB gets knife off MP
+			- she works for the death seekers!
+			- SF: how do you know?
+			- QB: you tadlets are way too easy to read. magenta sent you on this cross-continental quest bc she hoped you could regain control over the world by talking to the tadlets again. thats why she let you talk to tuxedo in the first place. as for this fella? fox kingdom, death seeker base if magentas to be believed and she wont lie to you. flips in the window at night with a knife, what do you think shes doing? also, i really hope you kids realize magentas very invested in our safety, yet doesnt want us getting too sympathetic towards the "bad guys," isnt it — walks to door and opens — lightningtail? if i were a bodyguard id have made sure maple didnt get in in the first place.
 - …
 - epilogue
 	- IC wake up, ST returns with book
