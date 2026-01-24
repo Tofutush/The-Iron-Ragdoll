@@ -110,6 +110,8 @@
 - sees CV
 	- CV saw someone with a cloak but wont tell them where they went
 - treats CV to dinner
+	- IC comments on NPCs, whether theyd notice three big humans walking around
+		- SF: oh no they wont mind us at all. the concept i came up with is that they wont notice us unless we approach them first, and theyd treat us just like other tadlets. i dont think the NPCs would have a large impact anywhere really. just background crowds.
 	- TV reports assassination of CD, DS also dead
 	- exiled noble CM (cream) from western winghorse kingdom returns to hamster kingdom
 - sees the torn cloak figure at the bar
@@ -176,9 +178,6 @@
 			- SF: QB, dont hurt her! shes my friend
 			- QB: your friend my ass! she came to kill you!
 			- QB gets knife off MP
-			- she works for the death seekers!
-			- SF: how do you know?
-			- QB: you tadlets are way too easy to read. magenta sent you on this cross-continental quest bc she hoped you could regain control over the world by talking to the tadlets again. thats why she let you talk to tuxedo in the first place. as for this fella? fox kingdom, death seeker base if magentas to be believed and she wont lie to you. flips in the window at night with a knife, what do you think shes doing? also, i really hope you kids realize magentas very invested in our safety, yet doesnt want us getting too sympathetic towards the "bad guys," isnt it — walks to door and opens — lightningtail? if i were a bodyguard id have made sure maple didnt get in in the first place.
 - …
 - epilogue
 	- IC wake up, ST returns with book
