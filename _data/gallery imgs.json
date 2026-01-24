@@ -5957,5 +5957,25 @@
       "pumpkin",
       "thyme"
     ]
+  },
+  {
+    "name": "sparky blankninja",
+    "type": "png",
+    "date": "2026-01-23",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "sparky bounce blankninja",
+    "type": "gif",
+    "date": "2026-01-23",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "sparky"
+    ]
   }
 ]
