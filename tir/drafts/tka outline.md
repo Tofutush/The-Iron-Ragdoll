@@ -153,7 +153,8 @@
 	- IC: and find the human. her name is starry btw
 	- QB: and then get us three outta here.
 	- SF: do you want to help us?
-	- SW: well sure, but thats only bc ms baseball hat here made threats. i dont believe the world can go "back." it is what it is now.
+	- SW: well no. ive got transport headed for western winghorse kingdom ive gotta get going.
+- SW leaves, the gang heads west
 - …
 - epilogue
 	- IC wake up, ST returns with book
