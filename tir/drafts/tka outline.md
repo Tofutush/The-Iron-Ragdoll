@@ -171,13 +171,20 @@
 		- IC turn on lights to see window open, QB pinning down MP
 		- interrogation
 			- QB: what are you doing here?
-			- MP: i live here! what are *you* doing?
-			- QB: like hell you live in a hotel room
-			- MP: i *paid* for it? like how hotels work?
-			- QB: so you hop in through the goddamn window?
-			- SF: QB, dont hurt her! shes my friend
-			- QB: your friend my ass! she came to kill you!
-			- QB gets knife off MP
+			- MP: i… i need help!
+			- QB: you need help stabbing this knife in sunflowers throat? i bet you work for the death seekers
+			- MP: no! i always carry this knife, i was running away from mobsters!
+			- QB: like hell you are
+			- SF: wait! i know MP, trust her!
+			- SF: lets let her stay for the night
+			- QB: no fucking way. i dont trust her and i am pretty invested in your survival.
+			- SF: what do you propose then
+			- QB: keep her with someone else who is very invested in your survival
+			- QB opens the door to reveal LT
+			- shes been tailing us the whole time
+			- LT: i… yeah i was sent by MG to protect you!
+			- QB: would you make sure MP is safe and sound for a night in your room?
+	- QB: im never making us small again, i forgot it would also make us easier to kill. that was my bad
 - …
 - epilogue
 	- IC wake up, ST returns with book
