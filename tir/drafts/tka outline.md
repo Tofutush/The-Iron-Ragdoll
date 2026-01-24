@@ -185,6 +185,8 @@
 			- LT: i… yeah i was sent by MG to protect you!
 			- QB: would you make sure MP is safe and sound for a night in your room?
 	- QB: im never making us small again, i forgot it would also make us easier to kill. that was my bad
+	- next morning MP was gone. LT claims she escaped during the night
+		- QB: she has to be death seeker
 - …
 - epilogue
 	- IC wake up, ST returns with book
