@@ -66,6 +66,7 @@
 		- SF: no how could you??
 		- MG: national security
 	- SF asks MG about human & stuff
+	- lunch
 	- MG gives travel tips
 		- hamster, east winghorse, west winghorse, dog
 		- avoid death seekers led by TP
@@ -188,7 +189,14 @@
 - next morning MP was gone. LT claims she escaped during the night
 	- QB: she has to be death seeker
 	- (actually: MP offered the location of a death seeker base in exchange for cat asylum. cats later raid the base, and death seekers later hunt down and kill MP)
-- QB: now we know the death seekers are after us, we better get going quick.
+- QB: now we know the death seekers are after us, great
+- IC: we still havent found a trace of ST
+- SF: im sure well find the answers if we get to dog kingdom, find the prophet and question her
+- and then we go see whats on top of crystal peak!
+- east winghorse kingdom
+- west winghorse kingdom
+- pony kingdom
+- dog kingdom
 - …
 - epilogue
 	- IC wake up, ST returns with book
