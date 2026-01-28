@@ -1,15 +1,16 @@
-- prologue
-	- IC & ST at school, finding desks & chairs missing
-	- IC explains curse of sunflower
-	- they go on with their day
-	- ST disappears
-	- IC goes looking
-	- IC gets in
-	- rain, thunder, SF lying on carpet
-	- IC talk to her
-		- SF: who are you?
-		- id like to ask that too! who are you? where am i?
-		- my name is sunflower. this is my paracosm
+# entering
+
+- IC & ST at school, finding desks & chairs missing
+- IC explains curse of sunflower
+- they go on with their day
+- ST disappears
+- IC goes looking
+- IC gets in
+- rain, thunder, SF lying on carpet
+- IC talk to her
+	- SF: who are you?
+	- id like to ask that too! who are you? where am i?
+	- my name is sunflower. this is my paracosm
 - QB in treehouse
 - suddenly weather changes
 - QB tries to change it back, fails
@@ -29,6 +30,9 @@
 		- time: IC has analog watch
 		- SF implies she may also die if she stays here too long
 - they set off to find ST
+
+# cat kingdom
+
 - SF: were in cat kingdom
 - encounter barbed wire wall
 - LT chat
@@ -88,8 +92,10 @@
 	- SF: ill introduce SW to you, shell brighten up your day for sure
 	- FM: gonna need that now that i know im not your fav
 	- they continue
-- hamster kingdom
-	- go to AC
+
+# hamster kingdom
+
+- go to AC
 		- flying athlete turned war vet
 		- queen CD coronation, front row seat
 			- former queen DS (dusty) retired not dead
@@ -98,6 +104,9 @@
 	- assassin swoop in, kill CD, and flew away
 - the three chase after the assassin
 	- SF: it looked like a dog
+
+# fox kingdom
+
 - reach fox border
 	- border guards say a dog passed
 	- hamster police catch up
@@ -193,13 +202,23 @@
 - IC: we still havent found a trace of ST
 - SF: im sure well find the answers if we get to dog kingdom, find the prophet and question her
 - and then we go see whats on top of crystal peak!
-- east winghorse kingdom
-- west winghorse kingdom
-- pony kingdom
-- dog kingdom
-- …
-- epilogue
-	- IC wake up, ST returns with book
-	- QB going oh well, ill make a new pocket timeline
-	- ST publish book with vanity publisher
-	- ST & IC enter again
+- on the way, SF talks about her characters
+	- youve met LT, MG, TX, FL, CS, AC, CD, CV, MP, SW
+		- LT is a mischief, MG is a benevolent queen like everyone
+
+# east winghorse kingdom
+
+# west winghorse kingdom
+
+# pony kingdom
+
+# dog kingdom
+
+# epilogue
+
+- IC wake up, ST returns with book
+- QB going oh well, ill make a new pocket timeline
+	- SK catches her
+	- QB: i just spent like the past week dealing with colorful fascists with wings give me a fucking break!!
+- ST publish book with vanity publisher
+- ST & IC enter again
