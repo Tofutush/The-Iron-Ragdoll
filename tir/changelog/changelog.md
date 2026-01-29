@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-28
+
+- Added `nightsun sparky caramelldansen.gif`;
+
 ## 2026-01-26
 
 - Added `tpr.png`;
