@@ -1,5 +1,5 @@
 .callout {
-	border: 8px solid var(--c);
+	border: .4em solid var(--box);
 	border-radius: 16px;
 	margin: 1em 0;
 }
@@ -7,9 +7,8 @@
 .callout-title {
 	display: flex;
 	gap: .5em;
-	background-color: var(--c);
-	padding: 1em;
-	color: var(--bg);
+	background-color: var(--box);
+	padding: .5em 1em;
 	align-items: center;
 	user-select: none;
 }
