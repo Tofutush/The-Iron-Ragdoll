@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-30
+
+- Fancy new `<h2>` style, along with other styling tweaks;
+
 ## 2026-01-28
 
 - Added `nightsun sparky caramelldansen.gif`;
