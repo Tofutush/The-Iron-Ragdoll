@@ -3,13 +3,15 @@ layout: layout.liquid
 ---
 <link rel="stylesheet" href="/css/characterspage.css" />
 <h1>{{ title }}</h1>
-<details>
-	<summary><h2>Tag filter</h2></summary>
-	<div class="tags">
-		<a href="/characters/" {% if page.url == "/characters/" %}aria-current="true"{% endif %}>All</a>
-		{% for t in tagsplot %}
-			<a href="/characters/tag/{{ t | slug }}/" {% if t == tag %}aria-current="true"{% endif %}>{{ t }}</a>
-		{% endfor %}
+<details class="callout">
+	<summary class="callout-title"><div class="callout-title-inner">Tag filter</div></summary>
+	<div class="callout-content">
+		<div class="tags">
+			<a href="/characters/" {% if page.url == "/characters/" %}aria-current="true"{% endif %}>All</a>
+			{% for t in tagsplot %}
+				<a href="/characters/tag/{{ t | slug }}/" {% if t == tag %}aria-current="true"{% endif %}>{{ t }}</a>
+			{% endfor %}
+		</div>
 	</div>
 </details>
 {{ content }}
