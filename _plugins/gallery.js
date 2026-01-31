@@ -26,13 +26,6 @@ function galleryPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getFirst10', function (arr) {
 		return arr.slice(0, 10);
 	});
-	eleventyConfig.addCollection("charactersMoreThan10", collection => {
-		return characters.filter(ch =>
-			gallery.filter(img =>
-				img.ch &&
-				img.ch.includes(ch.name.toLowerCase())).length > 10
-		);
-	});
 }
 
 export default galleryPlugin;
