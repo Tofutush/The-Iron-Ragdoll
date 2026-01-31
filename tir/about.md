@@ -56,6 +56,10 @@ This site uses JavaScript for theme switching, comic save / load, table sorting,
 
 I'd love code to have a similar license too, but apparently noncommercial goes against being open-source? Like how come? The closest to CC-BY-NC-SA I've found is GNU GPLv3, but that still allows commercial use, which goes against my principle of "if *I* cannot make money, no one else should either." So I'm gonna tack this license to the code anyways. Who's gonna stop me? Who's *actually* gonna use the code? Right? If you *do* turn out wanting to copy my code (or a part of it), I have four things to say to you: go wild, credit me, don't make money (stay poor with me), and I love you.
 
+### Art notice
+
+Some character art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn a character before and I forgot to put that here and you'd like me to, please <a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">tell me</a>!
+
 ## About me
 
 Hi, Tofutush here! Adult, she/her, 中 / Eng. [Other places I'm at](https://tilde.town/~tofutush/).
