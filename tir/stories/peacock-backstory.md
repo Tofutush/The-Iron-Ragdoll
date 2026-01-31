@@ -31,7 +31,7 @@ Peepoo, where is your grandpa?
 
 Now that was really *it*. But Peacock's parents weren't ready to let their precious prodigy get a criminal record. (Kinda wished the lowest age for responsibility stayed as 15.) They found this delinquent camp in the city advertising themselves as a cure for rebellious teens. The fees are expensive but they scraped it up.
 
-At the camp, he met [Hyrax](/characters/minor#hyrax/), there because of a lovely [Starcorp](/world/bauhinia/starcorp/) family tradition of sending company successors to a hard place to "build character." They became good friends. It was also there that Peacock completely recalled his past life as Sparky and foresaw his eventual work with Hyrax. Hyrax, after hearing about Peacock's talent in law, promised to get back to Peacock once he got old enough to inherit the company.
+At the camp, he met [Hyrax](/characters/hyrax/), there because of a lovely [Starcorp](/world/bauhinia/starcorp/) family tradition of sending company successors to a hard place to "build character." They became good friends. It was also there that Peacock completely recalled his past life as Sparky and foresaw his eventual work with Hyrax. Hyrax, after hearing about Peacock's talent in law, promised to get back to Peacock once he got old enough to inherit the company.
 
 ## Adulthood
 
