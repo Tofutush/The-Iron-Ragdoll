@@ -6012,5 +6012,39 @@
       "sparky"
     ],
     "comment": "Used the template by [cecilioque](https://www.tumblr.com/cecilioque/705934601390063616/)!"
+  },
+  {
+    "name": "kismet blank",
+    "type": "png",
+    "date": "2026-01-30",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "kismet"
+    ]
+  },
+  {
+    "name": "kismet blank no text",
+    "type": "png",
+    "date": "2026-01-30",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "kismet"
+    ]
+  },
+  {
+    "name": "im the friend blank",
+    "type": "png",
+    "date": "2026-01-30",
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "ch": [
+      "pinecone",
+      "sparky",
+      "sky",
+      "firecrackers",
+      "qibli"
+    ]
   }
 ]
