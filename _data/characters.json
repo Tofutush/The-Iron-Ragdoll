@@ -17,14 +17,10 @@
     "attr": {
       "Full name": "Sparky Amber Peacock",
       "Nickname": "Spark (by Sky)",
-      "Gender": "Female",
       "Soul": "Gas, lightning-shaped",
       "Birth": "2017-08-14",
       "Death": "2050-06-13",
       "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../nightsun/\">Nightsun</a>)",
-      "Occupation": "Close protection officer",
-      "Weapon": "Colt 1911 pistol",
       "Power": "Superstrength lv. 800"
     },
     "palette": {
@@ -50,13 +46,10 @@
     ],
     "af": "https://artfight.net/character/4038425.amber",
     "attr": {
-      "Gender": "Female",
       "Soul": "Solid, gemstone-shaped",
       "Birth": "1994-09-20",
       "Death": "2032-05-28",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../peacock/\">Peacock</a>)",
-      "Occupation": "Janitor, and then unemployed"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#D9A990",
@@ -79,12 +72,9 @@
     "af": "https://artfight.net/character/4038427.peacock",
     "attr": {
       "Nickname": "Peepoo (by his parents)",
-      "Gender": "Male",
       "Soul": "Gas, star-shaped",
       "Birth": "1986-03-06",
       "Nationality": "Bauhinian",
-      "Marital status": "Widowed",
-      "Occupation": "Personal attorney",
       "Power": "Superstrength lv. 900"
     },
     "palette": {
@@ -112,7 +102,6 @@
     "af": "https://artfight.net/character/5716052.willow",
     "attr": {
       "Full name": "Willow Amber Peacock",
-      "Gender": "Female",
       "Soul": "Liquid, tea-like",
       "Birth": "2026-09-25",
       "Nationality": "Bauhinian",
@@ -136,12 +125,9 @@
     "af": "https://artfight.net/character/3957942.ribbon",
     "attr": {
       "Nickname": "Rib (by Sky)",
-      "Gender": "Female",
       "Soul": "Solid, stripey like a ribbon",
       "Birth": "1995-08-14",
-      "Nationality": "Bauhinian",
-      "Occupation": "Baker",
-      "Weapon": "Frying pan"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "apron folds": "#787878",
@@ -165,11 +151,9 @@
     "af": "https://artfight.net/character/5806216.qibli",
     "attr": {
       "Full name": "Qibli Donut Lightning",
-      "Gender": "Female",
       "Soul": "Gas, bubble-shaped",
       "Birth": "2017-02-01",
       "Nationality": "Bauhinian",
-      "Weapon": "Wand",
       "Power": "Magic lv. 10"
     },
     "palette": {
@@ -198,12 +182,9 @@
     "af": "https://artfight.net/character/8023707.sky",
     "attr": {
       "Full name": "Sky Elmwood Dazzle",
-      "Gender": "Male",
       "Soul": "Solid, spades-shaped",
       "Birth": "2017-04-13",
-      "Nationality": "Bauhinian",
-      "Occupation": "MSS officer",
-      "Weapon": "Playing cards with blade edges"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shaved hair": "#897E67",
@@ -228,12 +209,10 @@
     "attr": {
       "Full name": "Firecrackers Duck Pinecone",
       "Nickname": "Crackers (by Sparky, Qibli, and Sky)",
-      "Gender": "Male",
       "Soul": "Solid, heart-shaped",
       "Birth": "2017-05-20",
       "Death": "2042-06-01",
-      "Nationality": "Bauhinian",
-      "Weapon": "Firecrackers"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#B98ED0",
@@ -255,7 +234,6 @@
     ],
     "af": "https://artfight.net/character/3965900.myriad",
     "attr": {
-      "Gender": "Female",
       "Soul": "Liquid, calm as a lake",
       "Birth": "2017-06-15",
       "Nationality": "Bauhinian"
@@ -280,7 +258,6 @@
     "af": "https://artfight.net/character/3986092.alaska",
     "attr": {
       "Nickname": "Al (by Sky)",
-      "Gender": "Non-binary",
       "Soul": "Solid",
       "Birth": "2016-11-27",
       "Nationality": "Bauhinian"
@@ -305,11 +282,9 @@
     ],
     "af": "https://artfight.net/character/3988457.tomato",
     "attr": {
-      "Gender": "Non-binary",
       "Soul": "Gas, tomato-shaped",
       "Birth": "2017-05-19",
-      "Nationality": "Bauhinian",
-      "Weapon": "Wrench"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#575757",
@@ -328,7 +303,6 @@
     ],
     "af": "https://artfight.net/character/3986088.potato",
     "attr": {
-      "Gender": "Non-binary",
       "Soul": "Solid, potato-shaped",
       "Birth": "2017-05-19",
       "Nationality": "Bauhinian"
@@ -351,7 +325,6 @@
     "af": "https://artfight.net/character/4038434.guillotine",
     "attr": {
       "Nickname": "Guillo (by Sky)",
-      "Gender": "Female",
       "Birth": "2016-03-30",
       "Nationality": "Atlasian"
     },
@@ -376,12 +349,9 @@
     "af": "https://artfight.net/character/3957937.tephra",
     "attr": {
       "Nickname": "Teff (by Sky)",
-      "Gender": "Male",
       "Soul": "Gas, flower-shaped like his symbol",
       "Birth": "2017-04-21",
-      "Nationality": "Bauhinian",
-      "Occupation": "police officer",
-      "Weapon": "Walther P38 pistol"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "belt and holster": "#AE7500",
@@ -406,11 +376,9 @@
     "attr": {
       "Full name": "Jerboa Kangaroo Koala",
       "Nickname": "Boa (by Tephra), Jerb (by Sky)",
-      "Gender": "Male",
       "Soul": "Solid, broken glass shards",
       "Birth": "2016-09-10",
-      "Nationality": "Bauhinian",
-      "Occupation": "Bartender, chemist, undertaker, and chemist again"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt light": "#727272",
@@ -431,11 +399,8 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Male",
       "Soul": "Liquid, jam-like",
-      "Nationality": "Bauhinian",
-      "Occupation": "Teacher",
-      "Weapon": "teaching stick"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#8E0F15",
@@ -453,12 +418,9 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Female",
       "Soul": "Liquid, constantly-boiling",
       "Birth": "2020-09-08",
       "Nationality": "Bauhinian",
-      "Occupation": "Magic academy teacher",
-      "Weapon": "bracelets",
       "Power": "Magic lv. 300"
     },
     "palette": {
@@ -482,11 +444,8 @@
     ],
     "af": "https://artfight.net/character/5863790.nebula",
     "attr": {
-      "Gender": "Female",
       "Soul": "Gas, nebula-like",
       "Nationality": "Bauhinian",
-      "Occupation": "Magic academy teacher",
-      "Weapon": "the Physical Sword",
       "Power": "Magic lv. 350"
     },
     "palette": {
@@ -516,12 +475,10 @@
     ],
     "attr": {
       "Full name": "Fantasy Amber Peacock",
-      "Gender": "Female",
       "Soul": "Solid, sphere-shaped",
       "Birth": "2011-10-13",
       "Death": "2042-12-01",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "necklace": "#caf1f1",
@@ -542,11 +499,9 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Male",
       "Soul": "Solid, heart-shaped",
       "Birth": "2013-01-15",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../beauty/\">Beauty</a>)"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#b9ac95",
@@ -571,12 +526,8 @@
     "af": "https://artfight.net/character/4822114.nightsun",
     "attr": {
       "Full name": "Nightsun Cassowary Tourmaline",
-      "Gender": "Male",
       "Birth": "2017-04-18",
-      "Nationality": "Atlasian, later Bauhinian",
-      "Marital status": "Married (to <a href=\"../sparky/\">Sparky</a>)",
-      "Occupation": "Employee at Starcorp, later unemployed",
-      "Weapon": "Seedling sword"
+      "Nationality": "Atlasian, later Bauhinian"
     },
     "palette": {
       "hair": "#2E2E2E",
@@ -603,7 +554,6 @@
     ],
     "attr": {
       "Full name": "Bramble Nightsun Sparky",
-      "Gender": "Male",
       "Birth": "2036-08-29",
       "Nationality": "Bauhinian"
     },
@@ -627,12 +577,9 @@
     "af": "https://artfight.net/character/5612115.goose",
     "attr": {
       "Nickname": "Cheesecake (codename by the Guardians)",
-      "Gender": "Female",
       "Soul": "Solid, jelly-like",
       "Birth": "2001-12-30",
       "Nationality": "Bauhinian",
-      "Occupation": "MSS officer",
-      "Weapon": "Baton",
       "Power": "Invisibility lv. 300"
     },
     "palette": {
@@ -661,12 +608,9 @@
     ],
     "af": "https://artfight.net/character/5612117.pumpkin",
     "attr": {
-      "Gender": "Male",
       "Soul": "Solid, pumpkin-shaped",
       "Birth": "2003-07-27",
       "Nationality": "Bauhinian",
-      "Occupation": "MSS officer",
-      "Weapon": "Baton",
       "Power": "Hyperawareness lv. 200"
     },
     "palette": {
@@ -695,16 +639,10 @@
     ],
     "af": "https://artfight.net/character/5612120.halcyon",
     "attr": {
-      "Gender": "Male",
-      "Pronouns": "he/him",
-      "Energy": "Extrovert",
       "Soul": "Solid, a little bird",
       "Birth": "1991-03-18",
       "Death": "2045-01-19",
       "Nationality": "Bauhinian, later Moose",
-      "Marital status": "Married",
-      "Occupation": "MSS officer, later novelist",
-      "Weapon": "Baton",
       "Power": "Magic lv. undisclosed"
     },
     "palette": {
@@ -730,13 +668,9 @@
     ],
     "af": "https://artfight.net/character/5612121.paperweight",
     "attr": {
-      "Gender": "Male",
       "Soul": "Liquid, looks like mercury",
       "Birth": "1978-11-20",
       "Nationality": "Bauhinian",
-      "Marital status": "Widowed",
-      "Occupation": "MSS officer, retired",
-      "Weapon": "Baton",
       "Power": "Time precision lv. 350"
     },
     "palette": {
@@ -762,10 +696,8 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Female",
       "Birth": "1990-05-13",
-      "Nationality": "Bauhinian",
-      "Occupation": "Smuggler"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#2e2e2e"
@@ -783,10 +715,8 @@
       "Moreland"
     ],
     "attr": {
-      "Gender": "Male",
       "Birth": "1998-09-21",
-      "Nationality": "Bauhinian",
-      "Occupation": "Secret agent"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#fff",
@@ -807,7 +737,6 @@
     ],
     "attr": {
       "Full name": "Pearl Gemstone",
-      "Gender": "Female",
       "Birth": "2026-02-09",
       "Nationality": "Sylvandian"
     },
@@ -826,7 +755,6 @@
       "Fanton"
     ],
     "attr": {
-      "Gender": "Female",
       "Birth": "2017-09-12",
       "Nationality": "Fantoni"
     },
@@ -846,7 +774,6 @@
     ],
     "attr": {
       "Full name": "Jackpot Cloudy",
-      "Gender": "Male",
       "Soul": "Solid, yuanbao-shaped",
       "Birth": "1994-10-20",
       "Nationality": "Atlasian"
@@ -865,7 +792,6 @@
     ],
     "attr": {
       "Full name": "Snake Cloudy",
-      "Gender": "Male",
       "Soul": "Solid, snake-shaped",
       "Birth": "2026-06-18",
       "Nationality": "Atlasian"
@@ -886,8 +812,6 @@
     ],
     "attr": {
       "Full name": "Snowball 201710033746",
-      "Pronouns": "she/her",
-      "Energy": "Extrovert",
       "Soul": "Solid, snowman-shaped",
       "Birth": "2017-10-03",
       "Nationality": "Moose",
@@ -909,11 +833,9 @@
     ],
     "af": "https://artfight.net/character/5793882.buttercup",
     "attr": {
-      "Gender": "Female",
       "Soul": "Gas, buttercup-shaped",
       "Birth": "2010-02-03",
-      "Nationality": "Sylvandian",
-      "Weapon": "Rifle"
+      "Nationality": "Sylvandian"
     },
     "palette": {
       "buckle": "#909090",
@@ -945,11 +867,8 @@
     ],
     "attr": {
       "Full name": "Beauty Cherry Hyrax",
-      "Gender": "Female",
       "Birth": "2014-01-04",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../ironheart/\">Ironheart</a>)",
-      "Weapon": "Fan"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#5e5e5e",
@@ -971,10 +890,8 @@
     ],
     "attr": {
       "Full name": "Chastity Cherry Hyrax",
-      "Gender": "Female",
       "Birth": "2015-03-14",
-      "Nationality": "Bauhinian",
-      "Weapon": "Chainsaw"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#5e5e5e",
@@ -996,10 +913,8 @@
     ],
     "attr": {
       "Full name": "Devotion Cherry Hyrax",
-      "Gender": "Female",
       "Birth": "2016-05-18",
-      "Nationality": "Bauhinian",
-      "Weapon": "Colt 1911 pistol"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#5e5e5e",
@@ -1021,11 +936,8 @@
     ],
     "attr": {
       "Full name": "Elegance Cherry Hyrax",
-      "Gender": "Female",
       "Birth": "2017-06-21",
       "Nationality": "Bauhinian",
-      "Occupation": "Artist",
-      "Weapon": "Lasso",
       "Power": "Timekeeping lv. 260"
     },
     "palette": {
@@ -1048,11 +960,8 @@
     ],
     "attr": {
       "Full name": "Animus Hyrax Cherry",
-      "Gender": "Male",
       "Birth": "2017-08-30",
-      "Nationality": "Bauhinian",
-      "Occupation": "Chairman of Starcorp",
-      "Weapon": "Nun-chucks"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#5e5e5e",
@@ -1071,12 +980,9 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Female",
       "Soul": "Solid, cherry-shaped",
       "Birth": "1986-05-09",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../hyrax/\">Hyrax</a>)",
-      "Occupation": "Unemployed"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#5e5e5e",
@@ -1094,12 +1000,9 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Male",
       "Soul": "Solid",
       "Birth": "1986-08-27",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../cherry/\">Cherry</a>)",
-      "Occupation": "Chairman of Starcorp"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#2e2e2e"
@@ -1120,7 +1023,6 @@
     "attr": {
       "Full name": "Bunchberry Ironheart Beauty",
       "Nickname": "Bunny (by everyone)",
-      "Gender": "Female",
       "Birth": "2036-03-30",
       "Nationality": "Bauhinian"
     },
@@ -1140,12 +1042,9 @@
     ],
     "af": "https://artfight.net/character/7948419.kismet",
     "attr": {
-      "Gender": "Male",
       "Soul": "Has 6, an original one and 5 superpowered ones, rainbow, all gas",
       "Birth": "1984-06-08",
       "Nationality": "Bauhinian",
-      "Marital status": "Married",
-      "Occupation": "President of Bauhinia",
       "Power": "All of them! At level 9000+!"
     },
     "palette": {
@@ -1166,12 +1065,9 @@
     ],
     "attr": {
       "Nickname": "Pine (by Rosemary)",
-      "Gender": "Female",
       "Soul": "Solid, pinecone-shaped",
       "Birth": "1984-08-05",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married",
-      "Occupation": "Grocery store owner, later Kismet's double"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "eyes, ears": "#000",
@@ -1190,10 +1086,8 @@
     ],
     "attr": {
       "Nickname": "Rose (by Pinecone)",
-      "Gender": "Female",
       "Soul": "Solid, rosemary-shaped",
-      "Nationality": "Bauhinian",
-      "Occupation": "Project Kismet's handler"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#D7C386"
@@ -1210,10 +1104,8 @@
     ],
     "attr": {
       "Nickname": "Sunny (by Willow)",
-      "Gender": "Female",
       "Birth": "2022-11-14",
-      "Nationality": "Bauhinian",
-      "Occupation": "College student"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#fff",
@@ -1233,11 +1125,8 @@
     ],
     "af": "https://artfight.net/character/4038432.dragonfly",
     "attr": {
-      "Gender": "Male",
       "Soul": "Solid, dragonfly-shaped",
-      "Nationality": "Bauhinian",
-      "Occupation": "Close protection officer",
-      "Weapon": "Colt 1911 pistol"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#fff",
@@ -1255,10 +1144,8 @@
     ],
     "attr": {
       "Nickname": "Cocoa (by Nightsun)",
-      "Gender": "Female",
       "Birth": "2017-05-01",
-      "Nationality": "Bauhinian",
-      "Occupation": "Case officer"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#2e2e2e"
@@ -1273,11 +1160,8 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Female",
       "Birth": "1985-01-31",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../kangaroo/\">Kangaroo</a>)",
-      "Occupation": "Physician"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "glasses": "#727272",
@@ -1294,10 +1178,8 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Male",
       "Birth": "1985-04-19",
-      "Nationality": "Bauhinian",
-      "Occupation": "Physician"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "suit": "#5D6B6F",
@@ -1313,10 +1195,8 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Male",
       "Birth": "1989-06-05",
-      "Nationality": "Bauhinian",
-      "Occupation": "Physician"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#2E2E2E"
@@ -1335,12 +1215,9 @@
     "af": "https://artfight.net/character/5889458.frosting",
     "attr": {
       "Nickname": "Frost (by Jaculus)",
-      "Gender": "Female",
       "Soul": "Non-Newtonian",
       "Birth": "2011-02-19",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../entity/\">Entity</a>)",
-      "Occupation": "Government archivist"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "glasses, shirt": "#b9b9b9",
@@ -1360,7 +1237,6 @@
     "attr": {
       "Full name": "Jaculus Koala Kangaroo",
       "Nickname": "Jac (by Frosting)",
-      "Gender": "Female",
       "Birth": "2011-11-11",
       "Nationality": "Bauhinian"
     },
@@ -1382,11 +1258,9 @@
     "attr": {
       "Full name": "Candlelight Ember (later Candlelight Muscat)",
       "Nickname": "Candle",
-      "Gender": "Male",
       "Soul": "Gas, flame-shaped",
       "Birth": "2003-12-02",
-      "Nationality": "Westavian",
-      "Occupation": "SPF officer"
+      "Nationality": "Westavian"
     },
     "palette": {
       "armband": "#E25887",
@@ -1405,11 +1279,8 @@
     ],
     "attr": {
       "Full name": "Sundew Muscat",
-      "Gender": "Female",
       "Birth": "2000-11-14",
-      "Nationality": "Westavian",
-      "Marital status": "Married",
-      "Occupation": "Restaurant owner"
+      "Nationality": "Westavian"
     },
     "palette": {
       "hair": "#2e2e2e"
@@ -1425,13 +1296,10 @@
       "Westavia"
     ],
     "attr": {
-      "Gender": "Female",
       "Soul": "Gas, bright and sun-like",
       "Birth": "2017-05-14",
       "Death": "2031-07-03",
-      "Nationality": "Westavian",
-      "Occupation": "Student",
-      "Weapon": "Knitting needles"
+      "Nationality": "Westavian"
     },
     "palette": {
       "badge": "#adadad",
@@ -1449,7 +1317,6 @@
     ],
     "af": "https://artfight.net/character/4038429.starry",
     "attr": {
-      "Gender": "Female",
       "Soul": "Gas, maple-leaf-shaped",
       "Nationality": "Westavian"
     },
@@ -1468,7 +1335,6 @@
       "Westavia"
     ],
     "attr": {
-      "Gender": "Female",
       "Soul": "Solid, icicle-shaped",
       "Nationality": "Westavian"
     },
@@ -1488,10 +1354,8 @@
       "Nameless Village"
     ],
     "attr": {
-      "Gender": "Female",
       "Birth": "2002-11-20",
-      "Nationality": "Westavian",
-      "Occupation": "Village secretary"
+      "Nationality": "Westavian"
     },
     "palette": {
       "shirt": "#C4B0CF",
@@ -1510,10 +1374,8 @@
     ],
     "attr": {
       "Full name": "Mooncake Thyme",
-      "Gender": "Female",
       "Birth": "2003-08-18",
-      "Nationality": "Westavian",
-      "Occupation": "Police"
+      "Nationality": "Westavian"
     },
     "palette": {
       "hair": "#2e2e2e"
@@ -1531,12 +1393,9 @@
       "Nameless Village"
     ],
     "attr": {
-      "Gender": "Male",
       "Soul": "Gas, thyme-shaped",
       "Birth": "1977-11-23",
-      "Nationality": "Westavian",
-      "Marital status": "Married",
-      "Occupation": "Farmer"
+      "Nationality": "Westavian"
     },
     "palette": {
       "coat": "#83785B",
@@ -1557,7 +1416,6 @@
       "Nameless Village"
     ],
     "attr": {
-      "Gender": "Female",
       "Soul": "Gas, like a supernova",
       "Nationality": "Westavian",
       "Power": "Superstrength"
@@ -1581,7 +1439,6 @@
     ],
     "attr": {
       "Nickname": "Flower",
-      "Gender": "Female",
       "Nationality": "Westavian"
     },
     "palette": {
@@ -1602,10 +1459,8 @@
     ],
     "attr": {
       "Nickname": "Co (by Kaleidoscope)",
-      "Gender": "Female",
       "Soul": "Solid",
       "Nationality": "Fantoni",
-      "Occupation": "Soul-dealer",
       "Power": "Mind reading"
     },
     "palette": {
@@ -1624,9 +1479,7 @@
     ],
     "attr": {
       "Nickname": "Kally (by Cobalt)",
-      "Gender": "Female",
-      "Nationality": "Fantoni",
-      "Occupation": "Mafia minion"
+      "Nationality": "Fantoni"
     },
     "palette": {
       "shirt": "#5D5D5D",
@@ -1642,7 +1495,6 @@
       "Fanton"
     ],
     "attr": {
-      "Gender": "Female",
       "Nationality": "Fantoni",
       "Power": "Hyperawareness"
     },
@@ -1660,7 +1512,6 @@
       "Fanton"
     ],
     "attr": {
-      "Gender": "Male",
       "Nationality": "Fantoni",
       "Power": "Superstrength"
     },
@@ -1679,10 +1530,8 @@
     ],
     "af": "https://artfight.net/character/6011564.moonbeam",
     "attr": {
-      "Gender": "Female",
       "Soul": "Gas, moon-shaped",
-      "Nationality": "Sylvandian",
-      "Occupation": "Psychic"
+      "Nationality": "Sylvandian"
     },
     "palette": {
       "robe": "#411F88",
@@ -1703,12 +1552,9 @@
     ],
     "af": "https://artfight.net/character/3965901.melody",
     "attr": {
-      "Gender": "Male",
       "Soul": "Liquid, warm and bloody",
       "Birth": "2013-07-13",
-      "Nationality": "Bauhinian",
-      "Occupation": "Private detective",
-      "Weapon": "Dagger"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hat": "#575757",
@@ -1726,11 +1572,9 @@
       "Fanton"
     ],
     "attr": {
-      "Gender": "Male",
       "Soul": "Gas, wispy",
       "Birth": "2010-07-15",
       "Nationality": "Fantoni",
-      "Weapon": "None",
       "Power": "Immortality"
     },
     "palette": {
@@ -1748,7 +1592,6 @@
       "Misc"
     ],
     "attr": {
-      "Gender": "Male",
       "Nationality": "Atlasian"
     },
     "palette": {
@@ -1767,12 +1610,9 @@
     "af": "https://artfight.net/character/5806516.jackalope",
     "attr": {
       "Nickname": "Jack; Alpha (code name by the MSS)",
-      "Pronouns": "she/her",
-      "Energy": "Extrovert",
       "Soul": "Solid, a tangle of barbed wire",
       "Birth": "2004-02-12",
-      "Nationality": "Moose",
-      "Occupation": "Intelligence officer"
+      "Nationality": "Moose"
     },
     "palette": {
       "hat badge": "#72470B",
@@ -1793,12 +1633,10 @@
     ],
     "af": "https://artfight.net/character/5794174.whiteout",
     "attr": {
-      "Gender": "Female",
       "Soul": "Solid, snowy",
       "Birth": "1960-01-15",
       "Death": "2017-01-15",
-      "Nationality": "Bauhinian",
-      "Occupation": "State security officer"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shoulder pads": "#f01ace",
@@ -1822,13 +1660,9 @@
     ],
     "af": "https://artfight.net/character/5889481.entity",
     "attr": {
-      "Gender": "Male",
       "Soul": "Solid, soft and squishy like a marshmallow",
       "Birth": "2011-07-06",
-      "Nationality": "Bauhinian",
-      "Marital status": "Married (to <a href=\"../frosting/\">Frosting</a>)",
-      "Occupation": "Executioner",
-      "Weapon": "Diamond knife"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "coat": "#9f9f9f",
@@ -1851,7 +1685,6 @@
     "attr": {
       "Full name": "Harmony Frosting Entity",
       "Nickname": "Harm",
-      "Gender": "Female",
       "Soul": "Gas, shaped like a music note",
       "Birth": "2041-01-05",
       "Nationality": "Bauhinian"
@@ -1877,11 +1710,8 @@
     "attr": {
       "Full name": "Sugarcane Snowstorm Parrot",
       "Nickname": "Sugar (by Harmony)",
-      "Gender": "Female",
       "Birth": "2041-07-16",
-      "Nationality": "Bauhinian",
-      "Occupation": "MSS officer",
-      "Weapon": "baton"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "shirt": "#fff",
@@ -1898,7 +1728,6 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Female",
       "Soul": "Gas, rose-shaped",
       "Birth": "2041-04-09",
       "Nationality": "Bauhinian"
@@ -1922,11 +1751,9 @@
     ],
     "af": "https://artfight.net/character/3959019.cosmo",
     "attr": {
-      "Gender": "Female",
       "Soul": "Has two: one pink (gas, heart-shaped), the other blue (liquid, slimy)",
       "Birth": "2040-12-24",
       "Nationality": "Bauhinian",
-      "Weapon": "Throwing stars",
       "Power": "Mind reading, lv. 13"
     },
     "palette": {
@@ -1949,7 +1776,6 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Male",
       "Birth": "2041-03-09",
       "Nationality": "Bauhinian"
     },
@@ -1967,7 +1793,6 @@
       "Bauhinia"
     ],
     "attr": {
-      "Gender": "Male",
       "Birth": "2041-04-03",
       "Nationality": "Bauhinian"
     },
@@ -1988,7 +1813,6 @@
     ],
     "attr": {
       "Full name": "Jelly Checkers",
-      "Gender": "Female",
       "Soul": "Solid, jelly-like",
       "Birth": "2039-01-25",
       "Nationality": "Westavian"
@@ -2009,12 +1833,9 @@
       "Westavia"
     ],
     "attr": {
-      "Gender": "Male",
       "Soul": "Solid, checker-shaped",
       "Birth": "2016-08-09",
-      "Nationality": "Westavian",
-      "Marital status": "Married",
-      "Occupation": "Intelligence officer as a cultural attaché"
+      "Nationality": "Westavian"
     },
     "about": "Checkers is the (former) cultural attaché of the Westavian Embassy in Flower City. He was then blown and deported."
   },
@@ -2029,9 +1850,6 @@
       "Moreland"
     ],
     "attr": {
-      "Gender": "Female",
-      "Pronouns": "she/her",
-      "Energy": "Introvert",
       "Soul": "Gas, flower-shaped",
       "Nationality": "Bauhinian"
     },
@@ -2049,7 +1867,6 @@
     "attr": {
       "Full name": "Unknown",
       "Nickname": "Gorgeous (by Entity)",
-      "Gender": "Male",
       "Soul": "Solid, diamond",
       "Nationality": "Bauhinian"
     }
@@ -2064,11 +1881,7 @@
     ],
     "af": "https://artfight.net/character/7727717.jinx",
     "attr": {
-      "Pronouns": "she/her",
-      "Energy": "Introvert",
-      "Nationality": "Moose",
-      "Occupation": "Horse trainer",
-      "Weapon": "Whip"
+      "Nationality": "Moose"
     },
     "palette": {
       "red": "#EA98B9",
@@ -2092,12 +1905,8 @@
       "Guardian Moose"
     ],
     "attr": {
-      "Gender": "Female, later none",
-      "Pronouns": "she/her",
-      "Energy": "Extrovert",
       "Soul": "Solid, ice cube that looks like chocolate because it's brown",
       "Nationality": "Fantoni, later Moose",
-      "Occupation": "Wilderness survival instructor",
       "Power": "Mind-reading"
     },
     "palette": {
@@ -2119,11 +1928,9 @@
     "attr": {
       "Full name": "Tsunami Pinecone Duck",
       "Nickname": "Diamonds (codename by Sky)",
-      "Gender": "Female",
       "Soul": "Liquid, tumbling water",
       "Birth": "2015-01-13",
-      "Nationality": "Bauhinian",
-      "Occupation": "Hotel concierge"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#7DB2DD",
@@ -2141,10 +1948,8 @@
     ],
     "attr": {
       "Nickname": "Hearts (codename by Sky)",
-      "Gender": "Female",
       "Soul": "Solid, heart-shaped",
-      "Nationality": "Bauhinian",
-      "Occupation": "Trader"
+      "Nationality": "Bauhinian"
     },
     "palette": {
       "hair": "#D95284",
@@ -2163,9 +1968,7 @@
     ],
     "attr": {
       "Nickname": "Spades (codename by Sky)",
-      "Gender": "Female",
-      "Nationality": "Fantoni, Bauhinian permanent resident",
-      "Occupation": "Unemployed"
+      "Nationality": "Fantoni, Bauhinian permanent resident"
     },
     "palette": {
       "shirt light": "#959595",
@@ -2185,9 +1988,7 @@
     ],
     "attr": {
       "Nickname": "Clubs (codename by Sky)",
-      "Gender": "Female",
-      "Nationality": "Fantoni, Bauhinian permanent resident",
-      "Occupation": "Gangster, later PE teacher"
+      "Nationality": "Fantoni, Bauhinian permanent resident"
     },
     "palette": {
       "hat": "#A0A0A0",
