@@ -66,8 +66,9 @@
 		margin: 0;
 	}
 
-	& h2::before {
-		content: '';
+	& h2 {
+		background-color: transparent;
+		padding: 0;
 	}
 
 	&>:last-child {
