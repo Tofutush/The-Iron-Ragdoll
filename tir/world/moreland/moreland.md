@@ -51,6 +51,9 @@ The leader of the country is called the Supreme Marshall, who heads the Military
 
 - [Armed Forces of the Republic of Moreland](/world/moreland/guardian-moose/)
 	- [Military Intelligence Corps](/world/moreland/intelligence-corps/)
+	- Medical Corps
+	- Nuclear Corps
+	- And whatever else a normal military has
 
 ### Military service
 
@@ -70,7 +73,11 @@ The second favorite thing is accusing [Westavia](/world/westavia/) of being revi
 
 ### Family
 
-Family is abolished in Moreland. As soon as the mother had recovered enough and the baby isn't reliant on milk anymore, they get sent to government childcare and the mother goes back to whatever they were doing before. (Unless the mother works in government childcare. Then the kid would be purposefully kept in another childcare center.)
+Family is abolished in Moreland. As soon as the mother had recovered enough and the baby isn't reliant on milk anymore, they get sent to government childcare and the mother goes back to whatever they were doing before. (If the mother works in government childcare, the kid would be purposefully kept in another childcare center.)
+
+Nomadic tribes, however, are exceptions to this policy. They get to raise their kids. The culture within most of these tribes is that they are one big family, with no clear distinction between "my kid" and "my niece / nephew," or siblings and cousins.
+
+The Medical Corps of the Guardians spend a lot of effort promoting DNA testing before you date someone to make sure they're not actually your cousin or something.
 
 ### Naming conventions
 
