@@ -8,7 +8,7 @@
 
 	&>img {
 		background-color: var(--box);
-		border-radius: 16px;
+		border-radius: 1em;
 		cursor: pointer;
 		object-fit: cover;
 		width: 100%;
@@ -20,20 +20,9 @@
 		transition: all .2s var(--bezier);
 
 		&:hover {
-			box-shadow: 0 0 0 8px var(--c);
+			box-shadow: 0 0 0 .4em var(--c);
 		}
 	}
-}
-
-.icons {
-	position: absolute;
-	top: 12px;
-	left: 18px;
-	color: var(--c);
-	user-select: none;
-	cursor: pointer;
-	display: flex;
-	gap: 8px;
 }
 
 .modal {
