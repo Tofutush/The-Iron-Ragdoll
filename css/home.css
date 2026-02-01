@@ -69,6 +69,7 @@
 	& h2 {
 		background-color: transparent;
 		padding: 0;
+		clip-path: none;
 	}
 
 	&>:last-child {
