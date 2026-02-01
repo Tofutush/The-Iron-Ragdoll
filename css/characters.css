@@ -74,6 +74,8 @@ blockquote {
 	max-width: 8em;
 	height: auto;
 	width: auto;
+	position: relative;
+	z-index: 9;
 }
 
 .rel-img {
