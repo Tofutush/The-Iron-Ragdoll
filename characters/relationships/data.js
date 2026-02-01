@@ -1465,6 +1465,14 @@ rel2: "case officer",
 },
 
 {
+source: "Bramble",
+target: "Bunchberry",
+rel1: "friend",
+rel2: "friend",
+minor: true
+},
+
+{
 source: "Goose",
 target: "Pumpkin",
 rel1: "colleague / friend",
