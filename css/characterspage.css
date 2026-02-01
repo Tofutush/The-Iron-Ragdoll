@@ -1,14 +1,11 @@
 .chs {
-	flex-grow: 1;
 	display: grid;
-	gap: 2em;
+	gap: 1em;
 	grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
 	user-select: none;
-	border-radius: 16px;
-	padding: 2em 0;
+	padding: 1em 0;
 	height: min-content;
 	background-color: var(--bg);
-	z-index: 999;
 
 	&>div {
 		align-items: center;
@@ -29,7 +26,7 @@
 			transform: scale(1.1) translateY(.2em);
 
 			& .ch {
-				box-shadow: 0 0 0 8px var(--c);
+				box-shadow: 0 0 0 .4em var(--c);
 			}
 		}
 	}
@@ -38,14 +35,14 @@
 .ch {
 	align-items: center;
 	background-color: var(--box);
-	border-radius: 16px;
+	border-radius: 1em;
 	display: flex;
 	justify-content: center;
 	overflow: hidden;
 	transition: box-shadow .2s;
 
 	& img {
-		height: 120px;
-		width: 120px;
+		height: 6em;
+		width: auto;
 	}
 }
