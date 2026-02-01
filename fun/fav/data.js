@@ -28,7 +28,7 @@ img: "/The-Iron-Ragdoll/img/gallery/SjmE0PEif4-500.webp"
 {
 name: "Willow",
 color: "#199400",
-desc: "",
+desc: "Princess of the family.",
 img: "/The-Iron-Ragdoll/img/gallery/TmYB1wXgX_-500.webp"
 },
 
@@ -116,7 +116,7 @@ img: "/The-Iron-Ragdoll/img/gallery/Vsj4j7bY5c-500.webp"
 {
 name: "Jerboa",
 color: "#0867af",
-desc: "Owner, bartender, and everything else of the tavern!",
+desc: "",
 img: "/The-Iron-Ragdoll/img/gallery/JLmmGj4kNR-500.webp"
 },
 
@@ -132,7 +132,7 @@ img: "/The-Iron-Ragdoll/img/gallery/NgwTDBX9sZ-500.webp"
 {
 name: "Trinket",
 color: "#28aed1",
-desc: "",
+desc: "Nebula's successor.",
 img: "/The-Iron-Ragdoll/img/gallery/8Xho2_LDrf-500.webp"
 },
 
@@ -156,7 +156,7 @@ img: "/The-Iron-Ragdoll/img/gallery/7VxTeivOkc-500.webp"
 {
 name: "Ironheart",
 color: "#69272b",
-desc: "",
+desc: "The cocky sibling we all hate.",
 img: "/The-Iron-Ragdoll/img/gallery/X1UC_94NBe-500.webp"
 },
 
@@ -188,7 +188,7 @@ img: "/The-Iron-Ragdoll/img/gallery/NS87GcDb1F-500.webp"
 {
 name: "Pumpkin",
 color: "#E3744D",
-desc: "",
+desc: "Doormat boy.",
 img: "/The-Iron-Ragdoll/img/gallery/bBDPIKAzCM-500.webp"
 },
 
@@ -388,7 +388,7 @@ img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
 {
 name: "Koala",
 color: "#7F8587",
-desc: "Jerboa's mother, lead scientist of Project Boomerang.",
+desc: "Lead scientist of Project Boomerang.",
 img: "/The-Iron-Ragdoll/img/gallery/vZY-fR4R9i-500.webp"
 },
 
@@ -396,7 +396,7 @@ img: "/The-Iron-Ragdoll/img/gallery/vZY-fR4R9i-500.webp"
 {
 name: "Kangaroo",
 color: "#A36D1F",
-desc: "Jerboa's father, co-lead scientist of Project Boomerang.",
+desc: "Co-lead scientist of Project Boomerang.",
 img: "/The-Iron-Ragdoll/img/gallery/qc0Jt8CwFM-500.webp"
 },
 
@@ -404,7 +404,7 @@ img: "/The-Iron-Ragdoll/img/gallery/qc0Jt8CwFM-500.webp"
 {
 name: "Robin",
 color: "#a72b0c",
-desc: "",
+desc: "Assistant physician in Project Boomerang.",
 img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp"
 },
 
@@ -508,7 +508,7 @@ img: "/The-Iron-Ragdoll/img/gallery/kh2TwBrER5-500.webp"
 {
 name: "Cobalt",
 color: "#0e81c8",
-desc: "Majiang-loving soul-dealer",
+desc: "Majiang-loving soul-dealer.",
 img: "/The-Iron-Ragdoll/img/gallery/Ab19PaiUbR-500.webp"
 },
 
