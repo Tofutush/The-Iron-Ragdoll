@@ -6046,5 +6046,14 @@
       "firecrackers",
       "qibli"
     ]
+  },
+  {
+    "name": "lightningtails",
+    "type": "png",
+    "date": "2026-02-01",
+    "ch": [
+      "sparky"
+    ],
+    "comment": "Lightningtail's evolution."
   }
 ]
