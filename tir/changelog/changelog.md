@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-01-31
+
+- Deleted some character fields and added the relevant info on their about section instead;
+
 ## 2026-01-30
 
 - Fancy new `<h2>` style, along with other styling tweaks;

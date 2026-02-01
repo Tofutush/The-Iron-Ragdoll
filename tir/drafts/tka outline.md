@@ -208,6 +208,15 @@
 
 # east winghorse kingdom
 
+- go to obsidian's bakery
+	- she also works part time at a cocoon hatchery now
+	- a cocoon is stolen
+		- freaks out about how shes gonna get it
+	- call cops, cat arrives
+		- initially disinterested, qibli told her its a cat cocoon
+- qibli & obsidian go to pony kingdom
+- the rest go to western winghorse kingdom
+
 # west winghorse kingdom
 
 # pony kingdom
