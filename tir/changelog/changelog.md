@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-02
+
+- Added `cotton candy.png`;
+
 ## 2026-02-01
 
 - Added `lightningtails.png`;
