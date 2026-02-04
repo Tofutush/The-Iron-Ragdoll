@@ -39,9 +39,16 @@ function imagePlugin(eleventyConfig) {
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
-		let src = getImgSrc('gallery/', name + ' profile', 'png', name + ' thumb', 'png');
+		let src = getImgSrc('gallery/', name.toLowerCase() + ' profile', 'png', name.toLowerCase() + ' thumb', 'png');
 		let format = await getFormat(src);
 		let metadata = await getImg(src, size, format, 'gallery/');
+		let imageAttributes = {
+			alt: name,
+			title: name,
+			loading: "lazy",
+			decoding: "async",
+		};
+		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
 		let src = getImgSrc(path, name, type, fallback, fallbackType);
