@@ -56,7 +56,68 @@
           <circle cx="5" cy="19" r="1"></circle>
         </svg></a>
     </div>
-    <p>Click on the year buttons above to view my drawings, or the Progress button for my progress on character art!</p>
+    <style>
+      .three-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1em;
+        align-items: end;
+
+        &>a {
+          text-decoration: none;
+
+          &>div {
+            height: 10em;
+            background-size: cover;
+            background-position: top left;
+            padding: 1em;
+            border-radius: 1em;
+            display: flex;
+            align-items: end;
+            transition: all 1s;
+
+            &>p {
+              font-size: calc(var(--font-size) * 1.35);
+              margin: 0;
+              background-color: var(--bg);
+              padding: 0 .5em;
+              border-radius: 999px;
+              transition: all .2s;
+            }
+
+            &:hover {
+              background-position: bottom right;
+
+              &>p {
+                opacity: .5;
+              }
+            }
+          }
+        }
+      }
+    </style>
+    <div class="three-grid">
+      <a href="2026/">
+        <div style="background-image: url(/The-Iron-Ragdoll/img/gallery/UpF_5jYyf4-1000.webp)">
+          <p>2026</p>
+        </div>
+      </a>
+      <a href="2025/">
+        <div style="background-image: url(/The-Iron-Ragdoll/img/gallery/cKt_yqqM4y-1000.webp)">
+          <p>2025</p>
+        </div>
+      </a>
+      <a href="2024/">
+        <div style="background-image: url(/The-Iron-Ragdoll/img/gallery/TWITRQfcKK-1000.webp)">
+          <p>2024</p>
+        </div>
+      </a>
+      <a href="2023/">
+        <div style="background-image: url(/The-Iron-Ragdoll/img/gallery/aP38qg6f7k-842.webp)">
+          <p>2023</p>
+        </div>
+      </a>
+    </div>
     <p>Using: Huion tablet with Clip Studio Paint. Adobe After Effects for animation.</p>
   </main>
   <footer>
