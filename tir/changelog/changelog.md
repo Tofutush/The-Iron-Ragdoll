@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-03
+
+- Added `map.png`, `map alliances.png`;
+
 ## 2026-02-02
 
 - Added `cotton candy.png`;
