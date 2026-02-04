@@ -1,11 +1,9 @@
-import { existsSync } from 'fs';
+import { existsSync, statSync, readdirSync } from 'fs';
 
 function funPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getGuessData', (chs, rels) => {
 		let characters = [], relationships = [];
-		characters = chs.filter(c => existsSync(`img/gallery/${c.name.toLowerCase()} thumb.png`)
-			|| existsSync(`img/gallery/${c.name.toLowerCase()} profile.png`));
-		characters = characters.map(c => c.name);
+		characters = chs.map(c => c.name).filter(c => hasPic(c));
 		relationships = rels.filter(r =>
 			r.ch[0][1] && r.ch[1][1]
 			&& characters.includes(r.ch[0][0])
@@ -28,6 +26,17 @@ function funPlugin(eleventyConfig) {
 		}
 		return graph;
 	});
+}
+
+function hasPic(ch) {
+	const base = `img/gallery/`;
+	const years = readdirSync(base).filter(d => /^\d{4}$/.test(d) && statSync(`${base}${d}`).isDirectory());
+	for (const y of years) {
+		const thumb = `${base}${y}/${ch} thumb.png`;
+		const profile = `${base}${y}/${ch} profile.png`;
+		if (existsSync(thumb) && existsSync(profile)) return true;
+	}
+	return false;
 }
 
 export default funPlugin;
