@@ -343,7 +343,7 @@
     ],
     "date": "2023-09-21",
     "comment": "Peacock's family, all mysteriously happy. This is an old drawing; now, Amber never met Ironheart. And Fantasy's necklace should be light blue.",
-    "featured": true
+    "kind": "featured"
   },
   {
     "name": "peacock thumb",
@@ -896,7 +896,7 @@
       "paperweight"
     ],
     "date": "2024-08-28",
-    "featured": true
+    "kind": "featured"
   },
   {
     "name": "pumpkin stand",
@@ -5122,7 +5122,7 @@
       "qibli",
       "firecrackers"
     ],
-    "featured": true
+    "kind": "featured"
   },
   {
     "name": "sparky dragon only",
@@ -5814,7 +5814,7 @@
       "willow"
     ],
     "comment": "Canonically, Willow drew this herself.",
-    "featured": true
+    "kind": "featured"
   },
   {
     "name": "goose camera",
