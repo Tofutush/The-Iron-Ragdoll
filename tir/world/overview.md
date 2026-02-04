@@ -15,31 +15,21 @@ A brief overview of the world to get you a most basic idea of what this paracosm
 
 So, there is a continent that as far as we're concerned is the entire world unless one day I just snap and create another continent out there.
 
-On the continent there are six countries: [Bauhinia](/world/bauhinia/), in the south; [Fanton](/world/fanton/), north of Bauhinia; [Atlasia](/world/atlasia/), north of Fanton and east of Westavia; [Westavia](/world/westavia/), north of Fanton and west of Atlasia; [Moreland](/world/moreland/), north of Atlasia and Westavia; and [Sylvandia](/world/sylvandia/), north of Moreland.
+On the continent there are six countries. From south to north, they are [Bauhinia](/world/bauhinia/), [Fanton](/world/fanton/), [Atlasia](/world/atlasia/), [Westavia](/world/westavia/), (Atlasia and Westavia are next to each other) [Moreland](/world/moreland/), and [Sylvandia](/world/sylvandia/).
+
+{% image 'gallery/' 'map' 'png' 1000 'Map' 'max' %}
 
 To the east is a vast ocean where nobody can sail far. To the west is barren wastelands uninhabitable by man.
 
-So basically:
-
-<p style="text-align: center;"><a href="/world/sylvandia/">Sylvandia</a></p>
-
-<p style="text-align: center;"><a href="/world/moreland/">Moreland</a></p>
-
-<p style="text-align: center;"><a href="/world/westavia/">Westavia</a> / <a href="/world/atlasia/">Atlasia</a></p>
-
-<p style="text-align: center;"><a href="/world/fanton/">Fanton</a></p>
-
-<p style="text-align: center;"><a href="/world/bauhinia/">Bauhinia</a></p>
-
 All of them are republics, but Sylvandia's a federation while others are all unitary.
 
-Yes I mapped the continent to eastern Asia because I'm terrible at geography. It's basically China, Mongolia, and Siberia.
+They're locked in an perpetual cold war between [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/), splitting the continent into the north and the south.
 
-They're locked in an perpetual cold war between [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/), splitting the continent into the north and the south, with [Atlasia](/world/atlasia/) being with [Bauhinia](/world/bauhinia/), and [Westavia](/world/westavia/) with [Moreland](/world/moreland/), who also has great influence over [Sylvandia](/world/sylvandia/). [Fanton](/world/fanton/) is unaligned though slightly finlandized by Bauhinia. During the course of the story, Bauhinia would launch an invasion of Fanton and while failing to annex them, would make Fanton officially on Bauhinia's side.
+{% image 'gallery/' 'map alliances' 'png' 1000 'Alliances' 'max' %}
 
-So basically:
+Both of these two countries have two allies, one staunch ally and one unwilling ally.
 
-<p style="text-align: center;"><a href="/world/bauhinia/">Bauhinia</a> + <a href="/world/atlasia/">Atlasia</a> + (<a href="/world/fanton/">Fanton</a>) VS <a href="/world/moreland/">Moreland</a> + <a href="/world/westavia/">Westavia</a> + (<a href="/world/sylvandia/">Sylvandia</a>)</p>
+\[todo: insert image]
 
 ## Bauhinia
 
