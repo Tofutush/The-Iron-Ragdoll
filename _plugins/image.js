@@ -26,8 +26,7 @@ function imagePlugin(eleventyConfig) {
 	eleventyConfig.addShortcode('imageObj', async function (obj, size, alt) {
 		const path = obj.author ? 'others art/' : `gallery/${obj.date.substring(0, 4)}/`;
 		let src = `img/${path}${obj.name}.${obj.type}`;
-		let dimensions = await imageSizeFromFile(src);
-		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
+		let format = await getFormat(src);
 		let metadata = await getImg(src, size, format, path);
 		let imageAttributes = {
 			alt: alt || obj.name,
@@ -36,7 +35,12 @@ function imagePlugin(eleventyConfig) {
 			decoding: "async",
 		};
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
-	})
+	});
+	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
+		let src = getImgSrc('gallery/', name + ' profile', 'png', name + ' thumb', 'png');
+		let format = await getFormat(src);
+		let metadata = await getImg(src, size, format, 'gallery/');
+	});
 	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
 		let src = getImgSrc(path, name, type, fallback, fallbackType);
 		let metadata = await getImg(src, size, outputType || 'webp', path);
@@ -65,6 +69,10 @@ function imagePlugin(eleventyConfig) {
 			}
 		}
 		return "img/bg/placeholder.png";
+	}
+	async function getFormat(src) {
+		let dimensions = await imageSizeFromFile(src);
+		return (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
 	}
 	async function getImg(src, size, format, path) {
 		return await Image(src, {
