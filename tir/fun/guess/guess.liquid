@@ -41,11 +41,14 @@ eleventyNavigation:
         font-size: var(--font-size-h2);
     }
 </style>
-<details>
-    <summary>
-        <h2>How to play</h2>
+<details class="callout">
+    <summary class="callout-title">
+        <div class="callout-title-icon">{% lucide 'circle-question-mark' %}</div>
+        <div class="callout-title-inner">How to play</div>
     </summary>
-    <p>Click the right character to answer the question! The options will increase as you progress. You have three lives, guessing wrong will deduct one, and you lose if you have no lives left. Good luck!</p>
+    <div class="callout-content">
+        <p>Click the right character to answer the question! The options will increase as you progress. You have three lives, guessing wrong will deduct one, and you lose if you have no lives left. Good luck!</p>
+    </div>
 </details>
 <div id="stats" style="display: none;">
     <div>
