@@ -24,11 +24,7 @@ eleventyNavigation:
   <h2>Today's birthday!</h2>
   {% for ch in bdayStars %}
     <div class="ch-card" style="border-color: {{ ch.color }}">
-      <div>
-        {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
-        {% assign profilePath = ch.name | lowerCase | append: " profile" %}
-        {% image "gallery/" profilePath 'png' 300 ch.name '' iconPath 'png' %}
-      </div>
+      <div>{% getProfileOrThumb ch.name 300 %}</div>
       <div>
         <h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
         <p>{{ ch.desc }}</p>

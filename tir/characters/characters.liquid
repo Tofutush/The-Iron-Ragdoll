@@ -24,7 +24,7 @@ eleventyComputed:
   {% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
   {% assign soul = filteredGallery | getFirstOfKind: "soul" %}
   {% if pagedoll %}
-    {% image 'gallery/' pagedoll.name pagedoll.type 500 pagedoll.name 'pagedoll' %}
+    {% imageObj pagedoll 500 'pagedoll' 'pagedoll' %}
   {% endif %}
   {% if filteredGallery.size > 10 %}
     {% assign big = true %}
@@ -34,7 +34,7 @@ eleventyComputed:
     {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
     {% assign profilePath = ch.name | lowerCase | append: " profile" %}
     <div>
-      {% image "gallery/" profilePath 'png' 'auto' ch.name '' iconPath 'png' %}
+      {% getProfileOrThumb ch.name 500 %}
       {% if soul %}
         {% if ch.attr.Soul[0] == 'S' %}
           {% assign soulType = 'soul solid' %}
@@ -43,7 +43,7 @@ eleventyComputed:
         {% else %}
           {% assign soulType = 'soul gas' %}
         {% endif %}
-        {% image "gallery/" soul.name soul.type 200 soul.name soulType %}
+        {% imageObj soul 200 'soul' soulType %}
       {% endif %}
     </div>
     <div class="names">
@@ -95,7 +95,7 @@ eleventyComputed:
   {% if ch.about %}
     <h2 id="about">About</h2>
     {% if fullbody %}
-      {% image 'gallery/' fullbody.name fullbody.type 500 fullbody.name 'float-right fullbody' %}
+      {% imageObj fullbody 500 'fullbody' 'float-right fullbody' %}
     {% endif %}
     {{ ch.about | renderMD }}
   {% endif %}
@@ -111,20 +111,17 @@ eleventyComputed:
         {% assign otherCh = rel | getOtherCh: ch.name %}
         {% assign relImg = rel | getRelImg %}
         {% if relImg %}
-          {% assign mod = forloop.index |  modulo: 2 %}
+          {% assign mod = count | modulo: 2 %}
           {% if mod == 0 %}
-            {% assign class = 'float-left' | append: ' rel-img' %}
+            {% assign class = 'float-left rel-img' %}
           {% else %}
-            {% assign class='float-right' | append: ' rel-img' %}
+            {% assign class='float-right rel-img' %}
           {% endif %}
           {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
           {% if relImg.author %}
-            {% assign path = 'others art/'%}
             {% assign alt = alt | append: ' by ' | append: relImg.author %}
-          {% else %}
-            {% assign path = 'gallery/'%}
           {% endif %}
-          {% image path relImg.name relImg.type 500 alt class %}
+          {% imageObj relImg 500 alt class %}
           {% assign count = count | plus: 1 %}
         {% endif %}
         <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
@@ -151,7 +148,7 @@ eleventyComputed:
     {% assign refAlt = ch.name | append: " reference sheet" %}
     <a target="_blank" href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' '' 'png' %}">
       <figure>
-        {% image 'gallery/' ref.name 'png' 500 refAlt 'max' %}
+        {% imageObj ref 500 'reference' 'max' %}
         <figcaption>Click for full size!</figcaption>
       </figure>
     </a>

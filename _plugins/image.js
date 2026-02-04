@@ -23,7 +23,7 @@ function imagePlugin(eleventyConfig) {
 		};
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
-	eleventyConfig.addShortcode('imageObj', async function (obj, size, alt) {
+	eleventyConfig.addShortcode('imageObj', async function (obj, size, alt, className) {
 		const path = obj.author ? 'others art/' : 'gallery/';
 		let src;
 		if (obj.author) src = `img/others art/${obj.name}.${obj.type}`;
@@ -35,6 +35,10 @@ function imagePlugin(eleventyConfig) {
 			title: alt || obj.name,
 			loading: "lazy",
 			decoding: "async",
+		};
+		if (className) imageAttributes = {
+			...imageAttributes,
+			class: className
 		};
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});

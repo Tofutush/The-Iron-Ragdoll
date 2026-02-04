@@ -114,7 +114,7 @@ eleventyComputed:
 			{% endunless %}
 			{% unless noFooterImage %}
 				{% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
-				{% image 'gallery/' footerimg.name footerimg.type 500 footerimg.name 'footer-img' %}
+				{% imageObj footerimg 500 0 'footer-img' %}
 			{% endunless %}
 		</footer>
 	{% endunless %}
