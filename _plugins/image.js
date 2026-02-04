@@ -23,6 +23,20 @@ function imagePlugin(eleventyConfig) {
 		};
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
+	eleventyConfig.addShortcode('imageObj', async function (obj, size, alt) {
+		const path = obj.author ? 'others art/' : `gallery/${obj.date.substring(0, 4)}/`;
+		let src = `img/${path}${obj.name}.${obj.type}`;
+		let dimensions = await imageSizeFromFile(src);
+		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
+		let metadata = await getImg(src, size, format, path);
+		let imageAttributes = {
+			alt: alt || obj.name,
+			title: alt || obj.name,
+			loading: "lazy",
+			decoding: "async",
+		};
+		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
+	})
 	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
 		let src = getImgSrc(path, name, type, fallback, fallbackType);
 		let metadata = await getImg(src, size, outputType || 'webp', path);

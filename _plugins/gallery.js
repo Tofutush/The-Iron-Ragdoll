@@ -1,6 +1,3 @@
-import characters from '../_data/characters.json' with {type: 'json'};
-import gallery from '../_data/gallery.js';
-
 function galleryPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('filterGallery', function (arr, f) {
 		return arr.filter(a => a.ch?.includes(f.toLowerCase()));

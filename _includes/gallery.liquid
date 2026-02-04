@@ -1,17 +1,16 @@
 <div class="gallery">
 {% for img in imgs %}
 	<div class="img">
-		{% if img.author %}
-			{% assign path = 'others art/' %}
-		{% else %}
-			{% assign path = 'gallery/' %}
-		{% endif %}
-		{% image path img.name img.type 120 img.name '' '' '' true %}
+		{% imageObj img 120 %}
 		<div class="modal">
 			<button class="close">{% lucide 'x' 48 %}</button>
 			<button class="prev">{% lucide 'chevron-left' 48 'var(--off-white)' %}</button>
 			<button class="next">{% lucide 'chevron-right' 48 'var(--off-white)' %}</button>
-			{% image path img.name img.type 1000 img.name %}
+			{% if img.type == 'gif' %}
+				<img src="/img/gallery/{{ img.name }}.gif" alt="{{ img.name }}" title="{{ img.name }}"/>
+			{% else %}
+				{% imageObj img 1000 %}
+			{% endif %}
 			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank" class="external-link">{{ img.author }}</a></p>{% endif %}
 			{% if img.ch %}
 			<div class="tags chbuttons">
