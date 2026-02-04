@@ -24,8 +24,10 @@ function imagePlugin(eleventyConfig) {
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	eleventyConfig.addShortcode('imageObj', async function (obj, size, alt) {
-		const path = obj.author ? 'others art/' : `gallery/${obj.date.substring(0, 4)}/`;
-		let src = `img/${path}${obj.name}.${obj.type}`;
+		const path = obj.author ? 'others art/' : 'gallery/';
+		let src;
+		if (obj.author) src = `img/others art/${obj.name}.${obj.type}`;
+		else src = `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
 		let format = await getFormat(src);
 		let metadata = await getImg(src, size, format, path);
 		let imageAttributes = {
