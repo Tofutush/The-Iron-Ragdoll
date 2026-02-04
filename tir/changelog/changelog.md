@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2026-02-03
 
 - Added `map.png`, `map alliances.png`;
+- Cool new [gallery main page](/gallery/) that features one image from each year;
 
 ## 2026-02-02
 
