@@ -54,7 +54,7 @@ There is a special fabric that can conceal a person from sensors. They hate 'em,
 
 ### Invisibility
 
-<figure class="float-right">{% imageName 'pumpkin goose mirror' 200 'Goose showing in the mirror' %} <figcaption>Goose showing in the mirror</figcaption></figure>
+<figure class="float-right">{% image 'pumpkin goose mirror' 200 'Goose showing in the mirror' %} <figcaption>Goose showing in the mirror</figcaption></figure>
 
 - Possessors: [Goose](/characters/goose/), [Snowball](/characters/snowball/)
 - People with invisibility are called invisibles

@@ -12,7 +12,7 @@ categories:
   - Locations
 ---
 
-{% imageName "moreland flag" 1000 "Flag of Moreland" 'max' %}
+{% image "moreland flag" 1000 "Flag of Moreland" 'max' %}
 
 <dl>
   <dt>Pronunciation</dt>

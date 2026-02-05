@@ -24,7 +24,7 @@ eleventyComputed:
   {% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
   {% assign soul = filteredGallery | getFirstOfKind: "soul" %}
   {% if pagedoll %}
-    {% imageObj pagedoll 500 'pagedoll' 'pagedoll' %}
+    {% image pagedoll 500 'pagedoll' 'pagedoll' %}
   {% endif %}
   {% if filteredGallery.size > 10 %}
     {% assign big = true %}
@@ -43,7 +43,7 @@ eleventyComputed:
         {% else %}
           {% assign soulType = 'soul gas' %}
         {% endif %}
-        {% imageObj soul 200 'soul' soulType %}
+        {% image soul 200 'soul' soulType %}
       {% endif %}
     </div>
     <div class="names">
@@ -95,7 +95,7 @@ eleventyComputed:
   {% if ch.about %}
     <h2 id="about">About</h2>
     {% if fullbody %}
-      {% imageObj fullbody 500 'fullbody' 'float-right fullbody' %}
+      {% image fullbody 500 'fullbody' 'float-right fullbody' %}
     {% endif %}
     {{ ch.about | renderMD }}
   {% endif %}
@@ -121,7 +121,7 @@ eleventyComputed:
           {% if relImg.author %}
             {% assign alt = alt | append: ' by ' | append: relImg.author %}
           {% endif %}
-          {% imageObj relImg 500 alt class %}
+          {% image relImg 500 alt class %}
           {% assign count = count | plus: 1 %}
         {% endif %}
         <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
@@ -148,7 +148,7 @@ eleventyComputed:
     {% assign refAlt = ch.name | append: " reference sheet" %}
     <a target="_blank" href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' '' 'png' %}">
       <figure>
-        {% imageObj ref 500 'reference' 'max' %}
+        {% image ref 500 'reference' 'max' %}
         <figcaption>Click for full size!</figcaption>
       </figure>
     </a>

@@ -12,7 +12,7 @@ categories:
   - Locations
 ---
 
-{% imageName "westavia flag" 1000 "Flag of Westavia" 'max' %}
+{% image "westavia flag" 1000 "Flag of Westavia" 'max' %}
 
 <dl>
   <dt>Pronunciation</dt>

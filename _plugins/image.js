@@ -4,47 +4,25 @@ import { imageSizeFromFile } from 'image-size/fromFile';
 import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
-	// change this to be imageobj and imagename combined
-	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt, className, fallback, fallbackType, freeze) {
-		if (type === 'gif' && !freeze) {
-			return `<img src="/img/${path}${name}.gif" alt="${alt}" class="${className}" />`;
+	// image in gallery imgs.json, name or obj
+	// fallback must be img/path
+	eleventyConfig.addShortcode('image', async function (obj, size, alt, className, fallback = 'img/bg/placeholder.png') {
+		if (typeof obj === 'string') {
+			let list = gallery.filter(img => img.name === obj);
+			if (!list.length)
+				return Image.generateHTML(
+					await getImg(fallback, size, 'webp', 'gallery/'),
+					{
+						alt: '',
+						title: '',
+						loading: 'lazy',
+						decoding: 'async'
+					}
+				);
+			if (list.length > 1) throw new Error(`multiple imgs named ${name}!\n\n${list}`);
+			obj = list[0];
 		}
-		let src = getImgSrc(path, name, type, fallback, fallbackType);
-
-		src = 'img/bg/placeholder.png';
-
-		let dimensions = await imageSizeFromFile(src);
-		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
-		let metadata = await getImg(src, size, format, path);
-		let imageAttributes = {
-			alt,
-			title: alt,
-			loading: "lazy",
-			decoding: "async",
-		};
-		if (className) imageAttributes = {
-			...imageAttributes,
-			class: className
-		};
-		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
-	});
-	eleventyConfig.addShortcode('imageObj', async function (obj, size, alt, className) {
 		return await getImgFromObj(obj, size, alt, className);
-	});
-	eleventyConfig.addShortcode('imageName', async function (name, size, alt, className, fallback = 'img/bg/placeholder.png') {
-		let list = gallery.filter(img => img.name === name);
-		if (!list.length)
-			return Image.generateHTML(
-				await getImg(fallback, size, 'webp', 'gallery/'),
-				{
-					alt: name,
-					title: name,
-					loading: 'lazy',
-					decoding: 'async'
-				}
-			);
-		if (list.length > 1) throw new Error(`multiple imgs named ${name}!\n\n${list}`);
-		return await getImgFromObj(list[0], size, alt, className);
 	});
 	// for images not logged in gallery imgs.json
 	eleventyConfig.addShortcode('imagePath', async function (path, size, alt, className, fallback) {
@@ -61,7 +39,6 @@ function imagePlugin(eleventyConfig) {
 			...imageAttributes,
 			class: className
 		};
-
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	// change this to be imageObj/Name but for urls

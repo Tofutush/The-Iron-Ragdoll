@@ -78,23 +78,23 @@ eleventyNavigation:
 {% for b in banners %}
     {% assign ch = b.ch[0] %}
     {% if ch %}
-        <a href="/characters/{{ ch }}/">{% imageObj b 3000 0 'max' %}</a>
+        <a href="/characters/{{ ch }}/">{% image b 3000 0 'max' %}</a>
     {% else %}
-        {% imageObj b 3000 0 'max' %}
+        {% image b 3000 0 'max' %}
     {% endif %}
 {% endfor %}
 <h2 id="footers">Footers</h2>
 {% assign footers = gallery | filterGalleryByKind: "footer" %}
 <div class="pic-grid">
     {% for f in footers %}
-        {% imageObj f 500 %}
+        {% image f 500 %}
     {% endfor %}
 </div>
 <h2 id="new-year">New Year</h2>
 <p>Hopefully this can motivate me to draw one of these every year.</p>
 <div class="pic-grid">
-    <a href="/characters/cosmo/">{% imageName 'cosmo snake year' 500 '2025 Year of the Snake' %}</a>
-    <a href="/characters/elegance/">{% imageName 'elegance horse year' 500 '2026 Year of the Horse' %}</a>    
+    <a href="/characters/cosmo/">{% image 'cosmo snake year' 500 '2025 Year of the Snake' %}</a>
+    <a href="/characters/elegance/">{% image 'elegance horse year' 500 '2026 Year of the Horse' %}</a>    
     <div></div>
 </div>
 <h2 id="wallpapers">Wallpapers</h2>
@@ -125,36 +125,36 @@ eleventyNavigation:
         {% assign profile = ch.name | lowerCase | append: ' profile' %}
         {% assign thumb = ch.name | lowerCase | append: ' thumb' %}
         {% assign soul = ch.name | lowerCase | append: ' soul' %}
-        <a href="/characters/{{ ch.name | lowerCase }}">{% imageName profile 300 0 '' 'img/gallery/literally empty.png' %}</a>
-        <a href="/characters/{{ ch.name | lowerCase }}">{% imageName thumb 300 0 '' 'img/gallery/literally empty.png' %}</a>
-        <a href="/characters/{{ ch.name | lowerCase }}">{% imageName soul 300 0 '' 'img/gallery/literally empty.png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image profile 300 0 '' 'img/gallery/literally empty.png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 300 0 '' 'img/gallery/literally empty.png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image soul 300 0 '' 'img/gallery/literally empty.png' %}</a>
     {% endfor %}
 </div>
 <h3 id="profiles">Profiles</h3>
 <div class="pic-grid no-gap">
     {% assign profiles = gallery | filterGalleryByKind: "thumb new" %}
     {% for img in profiles %}
-        <a href="/characters/{{ img.ch[0] }}/">{% imageObj img 300 %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% image img 300 %}</a>
     {% endfor %}
 </div>
 <h3 id="thumbnails">Thumbnails</h3>
 <div class="pic-grid but-smaller no-gap">
     {% assign thumbnails = gallery | filterGalleryByKind: "thumb" %}
     {% for img in thumbnails %}
-        <a href="/characters/{{ img.ch[0] }}/">{% imageObj img 300 %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% image img 300 %}</a>
     {% endfor %}
 </div>
 <h3 id="souls">Souls</h3>
 <div class="pic-grid but-smaller no-gap">
     {% assign souls = gallery | filterGalleryByKind: "soul" %}
     {% for img in souls %}
-        <a href="/characters/{{ img.ch[0] }}/">{% imageObj img 300 %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% image img 300 %}</a>
     {% endfor %}
 </div>
 <h3 id="references">References</h3>
 <div class="pic-grid">
     {% assign refs = gallery | filterGalleryByKind: "ref" %}
     {% for img in refs %}
-        <a href="/characters/{{ img.ch[0] }}/">{% imageObj img 300 %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% image img 300 %}</a>
     {% endfor %}
 </div>

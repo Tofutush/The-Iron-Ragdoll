@@ -12,7 +12,7 @@ categories:
   - Locations
 ---
 
-{% imageName "atlasia flag" 1000 "Flag of Atlasia" 'max' %}
+{% image "atlasia flag" 1000 "Flag of Atlasia" 'max' %}
 
 <dl>
   <dt>Pronunciation</dt>

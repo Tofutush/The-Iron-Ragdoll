@@ -1,7 +1,7 @@
 <div class="gallery">
 {% for img in imgs %}
 	<div class="img">
-		{% imageObj img 120 %}
+		{% image img 120 %}
 		<div class="modal">
 			<button class="close">{% lucide 'x' 48 %}</button>
 			<button class="prev">{% lucide 'chevron-left' 48 'var(--off-white)' %}</button>
@@ -9,7 +9,7 @@
 			{% if img.type == 'gif' %}
 				<img src="/img/gallery/{{ img.name }}.gif" alt="{{ img.name }}" title="{{ img.name }}"/>
 			{% else %}
-				{% imageObj img 1000 %}
+				{% image img 1000 %}
 			{% endif %}
 			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank" class="external-link">{{ img.author }}</a></p>{% endif %}
 			{% if img.ch %}
