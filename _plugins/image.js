@@ -1,5 +1,5 @@
 import Image from "@11ty/eleventy-img";
-import { exists, existsSync, readdirSync, statSync } from "fs";
+import { existsSync } from "fs";
 import { imageSizeFromFile } from 'image-size/fromFile';
 import gallery from '../_data/gallery.js';
 
@@ -8,29 +8,16 @@ function imagePlugin(eleventyConfig) {
 	// fallback must be path
 	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback) {
 		let { src, alt } = getImgSrc(img, fallback);
-		return await getImgFromObj(src, size, alt0 || alt, className);
+		return await getImg(src, size, alt0 || alt, className);
 	});
 	// outputs urls, not html
 	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp', fallback) {
-		let { src } = getImgSrc(img, fallback);
-		let metadata = await getMetadata(src, size, outputType);
+		let metadata = await getMetadata(getImgSrc(img, fallback).src, size, outputType);
 		return metadata[outputType || 'webp'][0].url;
 	});
 	// for character icons, double fallback from profile - thumb - placeholder
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
-		let profile = gallery.filter(img => img.kind === 'thumb new' && img.ch.includes(name.toLowerCase()));
-		if (profile.length === 1) return await getImgFromObj(getImgSrc(profile[0]).src, size, name);
-		let thumb = gallery.filter(img => img.kind === 'thumb' && img.ch.includes(name.toLowerCase()));
-		if (thumb.length === 1) return await getImgFromObj(getImgSrc(thumb[0]).src, size, name);
-		return Image.generateHTML(
-			await getImg('img/bg/placeholder.png', size, 'webp', 'gallery/'),
-			{
-				alt: name,
-				title: name,
-				loading: 'lazy',
-				decoding: 'async'
-			}
-		);
+		return await getImg(getImgSrc(`${name.toLowerCase()} profile`, `${name.toLowerCase()} thumb`).src, size, name);
 	});
 	// returns string starting from
 	function getImgSrc(main, fallback) {
@@ -60,27 +47,18 @@ function imagePlugin(eleventyConfig) {
 		if (obj.author) return `img/others art/${obj.name}.${obj.type}`;
 		return `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
 	}
-	async function getFormat(src) {
-		let dimensions = await imageSizeFromFile(src);
-		return (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
-	}
-	async function getImg(src, size, format, path) {
-		return await Image(src, {
-			widths: [size],
-			formats: [format],
-			urlPath: '/img/' + path,
-			outputDir: './_site/img/' + path
-		});
-	}
 	async function getMetadata(src, size, format) {
-		if (!format) format = await getFormat(src);
+		if (!format) {
+			let dimensions = await imageSizeFromFile(src);
+			format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
+		}
 		return await Image(src, {
 			widths: [size],
 			formats: [format],
 			outputDir: './_site/img/'
 		});
 	}
-	async function getImgFromObj(src, size, alt, className) {
+	async function getImg(src, size, alt, className) {
 		let metadata = await getMetadata(src, size);
 		let imageAttributes = {
 			alt: alt,
