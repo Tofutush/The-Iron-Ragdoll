@@ -45,7 +45,7 @@ eleventyNavigation:
   {% for year in years reversed %}
     <a href="{{ year }}/">
       {% assign img = gallery | filterGalleryByDate: year | getFirstOfKind: "featured" %}
-      <div style="background-image: url({% capture url %}{% imageUrl 'gallery/' img.name img.type 1000 %}{% endcapture %}{{ url | htmlBaseUrl }})">
+      <div style="background-image: url({% capture url %}{% imageUrl img 1000 %}{% endcapture %}{{ url | htmlBaseUrl }})">
         <p>{{ year }}</p>
       </div>
     </a>
