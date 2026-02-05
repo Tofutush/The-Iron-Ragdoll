@@ -31,20 +31,29 @@ function imagePlugin(eleventyConfig) {
 	eleventyConfig.addShortcode('imageObj', async function (obj, size, alt, className) {
 		return await getImgFromObj(obj, size, alt, className);
 	});
-	eleventyConfig.addShortcode('imageName', async function (name, size, alt, className) {
+	eleventyConfig.addShortcode('imageName', async function (name, size, alt, className, fallback = 'img/bg/placeholder.png') {
 		let list = gallery.filter(img => img.name === name);
-		if (!list.length) throw new Error(`no img named ${name} found!`);
+		if (!list.length)
+			return Image.generateHTML(
+				await getImg(fallback, size, 'webp', 'gallery/'),
+				{
+					alt: name,
+					title: name,
+					loading: 'lazy',
+					decoding: 'async'
+				}
+			);
 		if (list.length > 1) throw new Error(`multiple imgs named ${name}!\n\n${list}`);
 		return await getImgFromObj(list[0], size, alt, className);
 	});
-	// for images not logged in gallery imgs.json, also those with fallbacks
+	// for images not logged in gallery imgs.json
 	eleventyConfig.addShortcode('imagePath', async function (path, size, alt, className, fallback) {
-		let src = 'img/' + path;
+		let src = getImgSrc(path, fallback);
 		let format = await getFormat(src);
-		let metadata = await getImg(src, size, format, path);
+		let metadata = await getImg(src, size, format, '');
 		let imageAttributes = {
-			alt: alt || obj.name,
-			title: alt || obj.name,
+			alt: alt,
+			title: alt,
 			loading: "lazy",
 			decoding: "async",
 		};
@@ -52,6 +61,7 @@ function imagePlugin(eleventyConfig) {
 			...imageAttributes,
 			class: className
 		};
+
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	// change this to be imageObj/Name but for urls
@@ -112,7 +122,7 @@ function imagePlugin(eleventyConfig) {
 			// 	}
 			// }
 		}
-		return "img/bg/placeholder.png";
+		throw new Error(`img ${main} and fallback ${fallback} both not found`);
 	}
 	async function getFormat(src) {
 		let dimensions = await imageSizeFromFile(src);
