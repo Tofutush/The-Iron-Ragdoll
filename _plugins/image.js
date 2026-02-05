@@ -1,6 +1,7 @@
 import Image from "@11ty/eleventy-img";
 import { existsSync, readdirSync, statSync } from "fs";
 import { imageSizeFromFile } from 'image-size/fromFile';
+import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
 	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt, className, fallback, fallbackType, freeze) {
@@ -24,23 +25,13 @@ function imagePlugin(eleventyConfig) {
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	eleventyConfig.addShortcode('imageObj', async function (obj, size, alt, className) {
-		const path = obj.author ? 'others art/' : 'gallery/';
-		let src;
-		if (obj.author) src = `img/others art/${obj.name}.${obj.type}`;
-		else src = `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
-		let format = await getFormat(src);
-		let metadata = await getImg(src, size, format, path);
-		let imageAttributes = {
-			alt: alt || obj.name,
-			title: alt || obj.name,
-			loading: "lazy",
-			decoding: "async",
-		};
-		if (className) imageAttributes = {
-			...imageAttributes,
-			class: className
-		};
-		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
+		return await getImgFromObj(obj, size, alt, className);
+	});
+	eleventyConfig.addShortcode('imageName', async function (name, size, alt, className) {
+		let list = gallery.filter(img => img.name === name);
+		if (!list.length) throw new Error(`no img named ${name} found!`);
+		if (list.length > 1) throw new Error(`multiple imgs named ${name}!\n\n${list}`);
+		return await getImgFromObj(list[0], size, alt, className);
 	});
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
 		let src = getImgSrc('gallery/', name.toLowerCase() + ' profile', 'png', name.toLowerCase() + ' thumb', 'png');
@@ -94,6 +85,25 @@ function imagePlugin(eleventyConfig) {
 			urlPath: '/img/' + path,
 			outputDir: './_site/img/' + path
 		});
+	}
+	async function getImgFromObj(obj, size, alt, className) {
+		const path = obj.author ? 'others art/' : 'gallery/';
+		let src;
+		if (obj.author) src = `img/others art/${obj.name}.${obj.type}`;
+		else src = `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
+		let format = await getFormat(src);
+		let metadata = await getImg(src, size, format, path);
+		let imageAttributes = {
+			alt: alt || obj.name,
+			title: alt || obj.name,
+			loading: "lazy",
+			decoding: "async",
+		};
+		if (className) imageAttributes = {
+			...imageAttributes,
+			class: className
+		};
+		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	}
 }
 
