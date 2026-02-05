@@ -31,7 +31,7 @@ eleventyComputed:
 		<a href="../page-{{ page.pagenum }}/">
 			{% assign path = "comics/" | append: page.url | append: '.png' %}
 			{% assign alt = "Page " | append: page.pagenum %}
-			{% imagePath path 100 alt %}
+			{% image path 100 alt %}
 		</a>
 		{% endfor %}
 	</div>
@@ -42,7 +42,7 @@ eleventyComputed:
 			<a href="../page-{{ page.pagenum }}/">
 				{% assign path = "comics/" | append: page.url | append: '.png' %}
 				{% assign alt = "Page " | append: page.pagenum %}
-				{% imagePath path 100 alt %}
+				{% image path 100 alt %}
 			</a>
 		{% endfor %}
 	</div>

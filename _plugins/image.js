@@ -4,37 +4,17 @@ import { imageSizeFromFile } from 'image-size/fromFile';
 import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
-	// image in gallery imgs.json, name or obj
+	// img takes any: obj, name, or path (without 'img/')
 	// fallback must be path
 	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback) {
 		let { src, alt } = getImgSrc(img, fallback);
 		return await getImgFromObj(src, size, alt0 || alt, className);
 	});
-	// for images not logged in gallery imgs.json
-	eleventyConfig.addShortcode('imagePath', async function (path, size, alt, className, fallback) {
-		// let src = getImgSrc(path, fallback);
-		// let format = await getFormat(src);
-		// let metadata = await getImg(src, size, format, '');
-		// let imageAttributes = {
-		// 	alt: alt,
-		// 	title: alt,
-		// 	loading: "lazy",
-		// 	decoding: "async",
-		// };
-		// if (className) imageAttributes = {
-		// 	...imageAttributes,
-		// 	class: className
-		// };
-		// return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
-	});
-	// image, but for urls
+	// outputs urls, not html
 	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp') {
-		// let metadata = await getMetadataFromObj(getImgSrc(img, fallback), size);
-		// return metadata[outputType || 'webp'][0].url;
-	});
-	// imageUrl + imagePath
-	eleventyConfig.addShortcode('imageUrlPath', async function (path, size, alt, outputType) {
-
+		let { src } = getImgSrc(img);
+		let metadata = await getMetadata(src, size);
+		return metadata[outputType || 'webp'][0].url;
 	});
 	// for character icons, double fallback from profile - thumb - placeholder
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
@@ -92,21 +72,16 @@ function imagePlugin(eleventyConfig) {
 			outputDir: './_site/img/' + path
 		});
 	}
-	async function getMetadataFromObj(obj, size) {
-		const path = obj.author ? 'others art/' : 'gallery/';
-		let src;
-		if (obj.author) src = `img/others art/${obj.name}.${obj.type}`;
-		else src = `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
+	async function getMetadata(src, size) {
 		let format = await getFormat(src);
-		return await getImg(src, size, format, path);
-	}
-	async function getImgFromObj(src, size, alt, className) {
-		let format = await getFormat(src);
-		let metadata = await Image(src, {
+		return await Image(src, {
 			widths: [size],
 			formats: [format],
 			outputDir: './_site/img/'
 		});
+	}
+	async function getImgFromObj(src, size, alt, className) {
+		let metadata = await getMetadata(src, size);
 		let imageAttributes = {
 			alt: alt,
 			title: alt,
