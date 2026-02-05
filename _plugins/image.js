@@ -10,6 +10,9 @@ function imagePlugin(eleventyConfig) {
 			return `<img src="/img/${path}${name}.gif" alt="${alt}" class="${className}" />`;
 		}
 		let src = getImgSrc(path, name, type, fallback, fallbackType);
+
+		src = 'img/bg/placeholder.png';
+
 		let dimensions = await imageSizeFromFile(src);
 		let format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
 		let metadata = await getImg(src, size, format, path);
@@ -36,12 +39,26 @@ function imagePlugin(eleventyConfig) {
 	});
 	// for images not logged in gallery imgs.json, also those with fallbacks
 	eleventyConfig.addShortcode('imagePath', async function (path, size, alt, className, fallback) {
-
+		let src = 'img/' + path;
+		let format = await getFormat(src);
+		let metadata = await getImg(src, size, format, path);
+		let imageAttributes = {
+			alt: alt || obj.name,
+			title: alt || obj.name,
+			loading: "lazy",
+			decoding: "async",
+		};
+		if (className) imageAttributes = {
+			...imageAttributes,
+			class: className
+		};
+		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	// change this to be imageObj/Name but for urls
 	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
-		let src = getImgSrc(path, name, type, fallback, fallbackType);
-		let metadata = await getImg(src, size, outputType || 'webp', path);
+		// let src = getImgSrc(path, name, type, fallback, fallbackType);
+		// let metadata = await getImg(src, size, outputType || 'webp', path);
+		let metadata = await getImg('img/bg/placeholder.png', size, outputType || 'webp', path);
 		return metadata[outputType || 'webp'][0].url;
 	});
 	// imageUrl + imagePath
@@ -50,38 +67,50 @@ function imagePlugin(eleventyConfig) {
 	});
 	// for character icons, double fallback from profile - thumb - placeholder
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
-		let src = getImgSrc('gallery/', name.toLowerCase() + ' profile', 'png', name.toLowerCase() + ' thumb', 'png');
-		let format = await getFormat(src);
-		let metadata = await getImg(src, size, format, 'gallery/');
-		let imageAttributes = {
-			alt: name,
-			title: name,
-			loading: "lazy",
-			decoding: "async",
-		};
-		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
+		let profile = gallery.filter(img => img.kind === 'thumb new' && img.ch.includes(name.toLowerCase()));
+		if (profile.length === 1) return await getImgFromObj(profile[0], size, name);
+		let thumb = gallery.filter(img => img.kind === 'thumb' && img.ch.includes(name.toLowerCase()));
+		if (thumb.length === 1) return await getImgFromObj(thumb[0], size, name);
+		return Image.generateHTML(
+			await getImg('img/bg/placeholder.png', size, 'webp', 'gallery/'),
+			{
+				alt: name,
+				title: name,
+				loading: 'lazy',
+				decoding: 'async'
+			}
+		);
+		// let src = getImgSrc('gallery/', name.toLowerCase() + ' profile', 'png', name.toLowerCase() + ' thumb', 'png');
+		// let format = await getFormat(src);
+		// let metadata = await getImg(src, size, format, 'gallery/');
+		// let imageAttributes = {
+		// 	alt: name,
+		// 	title: name,
+		// 	loading: "lazy",
+		// 	decoding: "async",
+		// };
+		// return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
-	function getImgSrc(path, name, type, fallback, fallbackType) {
-		const base = `img/${path}`;
-		const file = (p, n, t) => `${p}${n}.${t}`;
-		if (existsSync(file(base, name, type))) return file(base, name, type);
-		if (path.startsWith("gallery/")) {
-			const years = readdirSync(base).filter(d => /^\d{4}$/.test(d) && statSync(`${base}${d}`).isDirectory());
-			for (const y of years) {
-				const f = `${base}${y}/${name}.${type}`;
-				if (existsSync(f)) return f;
-			}
-		}
+	function getImgSrc(main, fallback) {
+		let src = 'img/' + main;
+		if (existsSync(src)) return src;
+		// if (path.startsWith("gallery/")) {
+		// 	let years = readdirSync('img/gallery').filter(d => /^\d{4}$/.test(d) && statSync(`img/gallery/${d}`).isDirectory());
+		// 	for (let y of years) {
+		// 		const f = `${base}${y}/${name}.${type}`;
+		// 		if (existsSync(f)) return f;
+		// 	}
+		// }
 		if (fallback) {
-			if (existsSync(file(base, fallback, fallbackType)))
-				return file(base, fallback, fallbackType);
-			if (path.startsWith("gallery/")) {
-				const years = readdirSync(base).filter(d => /^\d{4}$/.test(d));
-				for (const y of years) {
-					const f = `${base}${y}/${fallback}.${fallbackType}`;
-					if (existsSync(f)) return f;
-				}
-			}
+			let srcFallback = 'img/' + fallback;
+			if (existsSync(srcFallback)) return srcFallback
+			// if (path.startsWith("gallery/")) {
+			// 	const years = readdirSync(base).filter(d => /^\d{4}$/.test(d));
+			// 	for (const y of years) {
+			// 		const f = `${base}${y}/${fallback}.${fallbackType}`;
+			// 		if (existsSync(f)) return f;
+			// 	}
+			// }
 		}
 		return "img/bg/placeholder.png";
 	}
