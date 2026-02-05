@@ -6,18 +6,14 @@
 			<button class="close">{% lucide 'x' 48 %}</button>
 			<button class="prev">{% lucide 'chevron-left' 48 'var(--off-white)' %}</button>
 			<button class="next">{% lucide 'chevron-right' 48 'var(--off-white)' %}</button>
-			{% if img.type == 'gif' %}
-				<img src="/img/gallery/{{ img.name }}.gif" alt="{{ img.name }}" title="{{ img.name }}"/>
-			{% else %}
-				{% image img 1000 %}
-			{% endif %}
+			{% image img 1000 0 0 0 true %}
 			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank" class="external-link">{{ img.author }}</a></p>{% endif %}
 			{% if img.ch %}
-			<div class="tags chbuttons">
-				{% for ch in img.ch %}
-					{% include 'chButton', ch: ch %}
-				{% endfor %}
-			</div>
+				<div class="tags chbuttons">
+					{% for ch in img.ch %}
+						{% include 'chButton', ch: ch %}
+					{% endfor %}
+				</div>
 			{% endif %}
 			<div class="comment">
 				<p class="name-date"><span>{{ img.name }}</span><span>{{ img.date }}</span></p>

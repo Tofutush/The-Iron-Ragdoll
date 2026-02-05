@@ -6,9 +6,9 @@ import gallery from '../_data/gallery.js';
 function imagePlugin(eleventyConfig) {
 	// img takes any: obj, name, or path (without 'img/')
 	// fallback must be path
-	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback) {
+	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback, freeze) {
 		let { src, alt } = getImgSrc(img, fallback);
-		return await getImg(src, size, alt0 || alt, className);
+		return await getImg(src, size, alt0 || alt, className, freeze);
 	});
 	// outputs urls, not html
 	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp', fallback) {
@@ -47,19 +47,21 @@ function imagePlugin(eleventyConfig) {
 		if (obj.author) return `img/others art/${obj.name}.${obj.type}`;
 		return `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
 	}
-	async function getMetadata(src, size, format) {
+	async function getMetadata(src, size, format, freeze) {
 		if (!format) {
 			let dimensions = await imageSizeFromFile(src);
 			format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
 		}
-		return await Image(src, {
+		let options = {
 			widths: [size],
 			formats: [format],
 			outputDir: './_site/img/'
-		});
+		};
+		if (freeze) options.sharpOptions = { animated: true, };
+		return await Image(src, options);
 	}
-	async function getImg(src, size, alt, className) {
-		let metadata = await getMetadata(src, size);
+	async function getImg(src, size, alt, className, freeze) {
+		let metadata = await getMetadata(src, size, 0, freeze);
 		let imageAttributes = {
 			alt: alt,
 			title: alt,
