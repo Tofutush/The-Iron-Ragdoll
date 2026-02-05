@@ -4,6 +4,7 @@ import { imageSizeFromFile } from 'image-size/fromFile';
 import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
+	// change this to be imageobj and imagename combined
 	eleventyConfig.addShortcode('image', async function (path, name, type, size, alt, className, fallback, fallbackType, freeze) {
 		if (type === 'gif' && !freeze) {
 			return `<img src="/img/${path}${name}.gif" alt="${alt}" class="${className}" />`;
@@ -33,6 +34,21 @@ function imagePlugin(eleventyConfig) {
 		if (list.length > 1) throw new Error(`multiple imgs named ${name}!\n\n${list}`);
 		return await getImgFromObj(list[0], size, alt, className);
 	});
+	// for images not logged in gallery imgs.json, also those with fallbacks
+	eleventyConfig.addShortcode('imagePath', async function (path, size, alt, className, fallback) {
+
+	});
+	// change this to be imageObj/Name but for urls
+	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
+		let src = getImgSrc(path, name, type, fallback, fallbackType);
+		let metadata = await getImg(src, size, outputType || 'webp', path);
+		return metadata[outputType || 'webp'][0].url;
+	});
+	// imageUrl + imagePath
+	eleventyConfig.addShortcode('imageUrlPath', async function (path, size, alt, outputType) {
+
+	});
+	// for character icons, double fallback from profile - thumb - placeholder
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
 		let src = getImgSrc('gallery/', name.toLowerCase() + ' profile', 'png', name.toLowerCase() + ' thumb', 'png');
 		let format = await getFormat(src);
@@ -44,11 +60,6 @@ function imagePlugin(eleventyConfig) {
 			decoding: "async",
 		};
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
-	});
-	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
-		let src = getImgSrc(path, name, type, fallback, fallbackType);
-		let metadata = await getImg(src, size, outputType || 'webp', path);
-		return metadata[outputType || 'webp'][0].url;
 	});
 	function getImgSrc(path, name, type, fallback, fallbackType) {
 		const base = `img/${path}`;
