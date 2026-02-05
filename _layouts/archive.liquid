@@ -29,8 +29,9 @@ eleventyComputed:
 	<div class="archive">
 		{% for page in group.pages %}
 		<a href="../page-{{ page.pagenum }}/">
+			{% assign path = "comics/" | append: page.url | append: '.png' %}
 			{% assign alt = "Page " | append: page.pagenum %}
-			{% image "comics/" page.url 'png' 100 alt %}
+			{% imagePath path 100 alt %}
 		</a>
 		{% endfor %}
 	</div>
@@ -39,8 +40,9 @@ eleventyComputed:
 	<div class="archive">
 		{% for page in comicData[dataName] %}
 			<a href="../page-{{ page.pagenum }}/">
+				{% assign path = "comics/" | append: page.url | append: '.png' %}
 				{% assign alt = "Page " | append: page.pagenum %}
-				{% image "comics/" page.url 'png' 100 alt %}
+				{% imagePath path 100 alt %}
 			</a>
 		{% endfor %}
 	</div>
