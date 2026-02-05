@@ -12,7 +12,7 @@ categories:
   - Locations
 ---
 
-{% image "gallery/" "sylvandia flag" "svg" 1000 "Flag of Sylvandia" 'max' %}
+{% imageName "sylvandia flag" 1000 "Flag of Sylvandia" 'max' %}
 
 <dl>
   <dt>Pronunciation</dt>
