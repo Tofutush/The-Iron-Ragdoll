@@ -34,7 +34,7 @@ function hasPic(ch) {
 	for (const y of years) {
 		const thumb = `${base}${y}/${ch} thumb.png`;
 		const profile = `${base}${y}/${ch} profile.png`;
-		if (existsSync(thumb) && existsSync(profile)) return true;
+		if (existsSync(thumb) || existsSync(profile)) return true;
 	}
 	return false;
 }
