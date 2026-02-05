@@ -125,9 +125,9 @@ eleventyNavigation:
         {% assign profile = ch.name | lowerCase | append: ' profile' %}
         {% assign thumb = ch.name | lowerCase | append: ' thumb' %}
         {% assign soul = ch.name | lowerCase | append: ' soul' %}
-        <a href="/characters/{{ ch.name | lowerCase }}">{% image profile 300 0 '' 'img/gallery/literally empty.png' %}</a>
-        <a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 300 0 '' 'img/gallery/literally empty.png' %}</a>
-        <a href="/characters/{{ ch.name | lowerCase }}">{% image soul 300 0 '' 'img/gallery/literally empty.png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image profile 300 0 '' 'gallery/literally empty.png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 300 0 '' 'gallery/literally empty.png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image soul 300 0 '' 'gallery/literally empty.png' %}</a>
     {% endfor %}
 </div>
 <h3 id="profiles">Profiles</h3>

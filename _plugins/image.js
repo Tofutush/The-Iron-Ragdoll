@@ -1,66 +1,36 @@
 import Image from "@11ty/eleventy-img";
-import { existsSync, readdirSync, statSync } from "fs";
+import { exists, existsSync, readdirSync, statSync } from "fs";
 import { imageSizeFromFile } from 'image-size/fromFile';
 import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
 	// image in gallery imgs.json, name or obj
-	// fallback must be img/path
-	eleventyConfig.addShortcode('image', async function (img, size, alt, className, fallback = 'img/bg/placeholder.png') {
-		if (typeof img === 'string') {
-			let list = gallery.filter(i => i.name === img);
-			if (!list.length)
-				return Image.generateHTML(
-					await getImg(fallback, size, 'webp', 'gallery/'),
-					{
-						alt: '',
-						title: '',
-						loading: 'lazy',
-						decoding: 'async'
-					}
-				);
-			if (list.length > 1) throw new Error(`multiple imgs named ${img}!\n\n${list}`);
-			img = list[0];
-		}
-		return await getImgFromObj(img, size, alt, className);
+	// fallback must be path
+	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback) {
+		let { src, alt } = getImgSrc(img, fallback);
+		return await getImgFromObj(src, size, alt0 || alt, className);
 	});
 	// for images not logged in gallery imgs.json
 	eleventyConfig.addShortcode('imagePath', async function (path, size, alt, className, fallback) {
-		let src = getImgSrc(path, fallback);
-		let format = await getFormat(src);
-		let metadata = await getImg(src, size, format, '');
-		let imageAttributes = {
-			alt: alt,
-			title: alt,
-			loading: "lazy",
-			decoding: "async",
-		};
-		if (className) imageAttributes = {
-			...imageAttributes,
-			class: className
-		};
-		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
+		// let src = getImgSrc(path, fallback);
+		// let format = await getFormat(src);
+		// let metadata = await getImg(src, size, format, '');
+		// let imageAttributes = {
+		// 	alt: alt,
+		// 	title: alt,
+		// 	loading: "lazy",
+		// 	decoding: "async",
+		// };
+		// if (className) imageAttributes = {
+		// 	...imageAttributes,
+		// 	class: className
+		// };
+		// return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	// image, but for urls
-	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp', fallback = 'img/bg/placeholder.png') {
-		if (typeof img === 'string') {
-			let list = gallery.filter(i => i.name === img);
-			if (!list.length) {
-				return Image.generateHTML(
-					await getImg(fallback, size, 'webp', 'gallery/'),
-					{
-						alt: '',
-						title: '',
-						loading: 'lazy',
-						decoding: 'async'
-					}
-				);
-			}
-			if (list.length > 1) throw new Error(`multiple imgs named ${img}!\n\n${list}`);
-			img = list[0];
-		}
-		let metadata = await getMetadataFromObj(img, size);
-		return metadata[outputType || 'webp'][0].url;
+	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp') {
+		// let metadata = await getMetadataFromObj(getImgSrc(img, fallback), size);
+		// return metadata[outputType || 'webp'][0].url;
 	});
 	// imageUrl + imagePath
 	eleventyConfig.addShortcode('imageUrlPath', async function (path, size, alt, outputType) {
@@ -69,9 +39,9 @@ function imagePlugin(eleventyConfig) {
 	// for character icons, double fallback from profile - thumb - placeholder
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
 		let profile = gallery.filter(img => img.kind === 'thumb new' && img.ch.includes(name.toLowerCase()));
-		if (profile.length === 1) return await getImgFromObj(profile[0], size, name);
+		if (profile.length === 1) return await getImgFromObj(getImgSrc(profile[0]).src, size, name);
 		let thumb = gallery.filter(img => img.kind === 'thumb' && img.ch.includes(name.toLowerCase()));
-		if (thumb.length === 1) return await getImgFromObj(thumb[0], size, name);
+		if (thumb.length === 1) return await getImgFromObj(getImgSrc(thumb[0]).src, size, name);
 		return Image.generateHTML(
 			await getImg('img/bg/placeholder.png', size, 'webp', 'gallery/'),
 			{
@@ -81,39 +51,34 @@ function imagePlugin(eleventyConfig) {
 				decoding: 'async'
 			}
 		);
-		// let src = getImgSrc('gallery/', name.toLowerCase() + ' profile', 'png', name.toLowerCase() + ' thumb', 'png');
-		// let format = await getFormat(src);
-		// let metadata = await getImg(src, size, format, 'gallery/');
-		// let imageAttributes = {
-		// 	alt: name,
-		// 	title: name,
-		// 	loading: "lazy",
-		// 	decoding: "async",
-		// };
-		// return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
+	// returns string starting from
 	function getImgSrc(main, fallback) {
-		let src = 'img/' + main;
-		if (existsSync(src)) return src;
-		// if (path.startsWith("gallery/")) {
-		// 	let years = readdirSync('img/gallery').filter(d => /^\d{4}$/.test(d) && statSync(`img/gallery/${d}`).isDirectory());
-		// 	for (let y of years) {
-		// 		const f = `${base}${y}/${name}.${type}`;
-		// 		if (existsSync(f)) return f;
-		// 	}
-		// }
-		if (fallback) {
-			let srcFallback = 'img/' + fallback;
-			if (existsSync(srcFallback)) return srcFallback
-			// if (path.startsWith("gallery/")) {
-			// 	const years = readdirSync(base).filter(d => /^\d{4}$/.test(d));
-			// 	for (const y of years) {
-			// 		const f = `${base}${y}/${fallback}.${fallbackType}`;
-			// 		if (existsSync(f)) return f;
-			// 	}
-			// }
+		if (typeof main === 'object') return { src: getSrcFromObj(main), alt: main.name };
+		if (typeof main === 'string') {
+			let list = gallery.filter(i => i.name === main);
+			if (list.length === 1) return { src: getSrcFromObj(list[0]), alt: list[0].name };
+			if (list.length > 1) throw new Error(`multiple imgs named ${main} found!`);
+			// name not found, try path
+			if (existsSync('img/' + main)) return { src: 'img/' + main, alt: '' };
 		}
-		throw new Error(`img ${main} and fallback ${fallback} both not found`);
+		// main not found, try fallback
+		if (fallback) {
+			if (typeof fallback === Object) return { src: getSrcFromObj(fallback), alt: fallback.name };
+			if (typeof fallback === 'string') {
+				let list = gallery.filter(i => i.name === fallback);
+				if (list.length === 1) return { src: getSrcFromObj(list[0]), alt: list[0].name };
+				if (list.length > 1) throw new Error(`multiple imgs named ${fallback} found!`);
+				// name not found, try path
+				if (existsSync('img/' + fallback)) return { src: 'img/' + fallback, alt: '' };
+			}
+		}
+		return { src: 'img/bg/placeholder.png', alt: '' };
+	}
+	// returns string from gallery imgs.json obj
+	function getSrcFromObj(obj) {
+		if (obj.author) return `img/others art/${obj.name}.${obj.type}`;
+		return `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
 	}
 	async function getFormat(src) {
 		let dimensions = await imageSizeFromFile(src);
@@ -135,11 +100,16 @@ function imagePlugin(eleventyConfig) {
 		let format = await getFormat(src);
 		return await getImg(src, size, format, path);
 	}
-	async function getImgFromObj(obj, size, alt, className) {
-		let metadata = await getMetadataFromObj(obj, size);
+	async function getImgFromObj(src, size, alt, className) {
+		let format = await getFormat(src);
+		let metadata = await Image(src, {
+			widths: [size],
+			formats: [format],
+			outputDir: './_site/img/'
+		});
 		let imageAttributes = {
-			alt: alt || obj.name,
-			title: alt || obj.name,
+			alt: alt,
+			title: alt,
 			loading: "lazy",
 			decoding: "async",
 		};
