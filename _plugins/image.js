@@ -6,9 +6,9 @@ import gallery from '../_data/gallery.js';
 function imagePlugin(eleventyConfig) {
 	// image in gallery imgs.json, name or obj
 	// fallback must be img/path
-	eleventyConfig.addShortcode('image', async function (obj, size, alt, className, fallback = 'img/bg/placeholder.png') {
-		if (typeof obj === 'string') {
-			let list = gallery.filter(img => img.name === obj);
+	eleventyConfig.addShortcode('image', async function (img, size, alt, className, fallback = 'img/bg/placeholder.png') {
+		if (typeof img === 'string') {
+			let list = gallery.filter(i => i.name === img);
 			if (!list.length)
 				return Image.generateHTML(
 					await getImg(fallback, size, 'webp', 'gallery/'),
@@ -19,10 +19,10 @@ function imagePlugin(eleventyConfig) {
 						decoding: 'async'
 					}
 				);
-			if (list.length > 1) throw new Error(`multiple imgs named ${name}!\n\n${list}`);
-			obj = list[0];
+			if (list.length > 1) throw new Error(`multiple imgs named ${img}!\n\n${list}`);
+			img = list[0];
 		}
-		return await getImgFromObj(obj, size, alt, className);
+		return await getImgFromObj(img, size, alt, className);
 	});
 	// for images not logged in gallery imgs.json
 	eleventyConfig.addShortcode('imagePath', async function (path, size, alt, className, fallback) {
@@ -41,11 +41,25 @@ function imagePlugin(eleventyConfig) {
 		};
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
-	// change this to be imageObj/Name but for urls
-	eleventyConfig.addShortcode('imageUrl', async function (path, name, type, size, fallback, fallbackType, outputType) {
-		// let src = getImgSrc(path, name, type, fallback, fallbackType);
-		// let metadata = await getImg(src, size, outputType || 'webp', path);
-		let metadata = await getImg('img/bg/placeholder.png', size, outputType || 'webp', path);
+	// image, but for urls
+	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp', fallback = 'img/bg/placeholder.png') {
+		if (typeof img === 'string') {
+			let list = gallery.filter(i => i.name === img);
+			if (!list.length) {
+				return Image.generateHTML(
+					await getImg(fallback, size, 'webp', 'gallery/'),
+					{
+						alt: '',
+						title: '',
+						loading: 'lazy',
+						decoding: 'async'
+					}
+				);
+			}
+			if (list.length > 1) throw new Error(`multiple imgs named ${img}!\n\n${list}`);
+			img = list[0];
+		}
+		let metadata = await getMetadataFromObj(img, size);
 		return metadata[outputType || 'webp'][0].url;
 	});
 	// imageUrl + imagePath
@@ -113,13 +127,16 @@ function imagePlugin(eleventyConfig) {
 			outputDir: './_site/img/' + path
 		});
 	}
-	async function getImgFromObj(obj, size, alt, className) {
+	async function getMetadataFromObj(obj, size) {
 		const path = obj.author ? 'others art/' : 'gallery/';
 		let src;
 		if (obj.author) src = `img/others art/${obj.name}.${obj.type}`;
 		else src = `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
 		let format = await getFormat(src);
-		let metadata = await getImg(src, size, format, path);
+		return await getImg(src, size, format, path);
+	}
+	async function getImgFromObj(obj, size, alt, className) {
+		let metadata = await getMetadataFromObj(obj, size);
 		let imageAttributes = {
 			alt: alt || obj.name,
 			title: alt || obj.name,
