@@ -146,9 +146,9 @@ eleventyComputed:
   {% include 'palette' colors: palette %}
   {% if ref %}
     {% assign refAlt = ch.name | append: " reference sheet" %}
-    <a target="_blank" href="{% imageUrl 'gallery/' ref.name 'png' 9999 '' '' 'png' %}">
+    <a target="_blank" href="{% imageUrl ref 9999 'png' %}">
       <figure>
-        {% image ref 500 'reference' 'max' %}
+        {% image ref 500 refAlt 'max' %}
         <figcaption>Click for full size!</figcaption>
       </figure>
     </a>

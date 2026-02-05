@@ -11,9 +11,9 @@ function imagePlugin(eleventyConfig) {
 		return await getImgFromObj(src, size, alt0 || alt, className);
 	});
 	// outputs urls, not html
-	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp') {
-		let { src } = getImgSrc(img);
-		let metadata = await getMetadata(src, size);
+	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp', fallback) {
+		let { src } = getImgSrc(img, fallback);
+		let metadata = await getMetadata(src, size, outputType);
 		return metadata[outputType || 'webp'][0].url;
 	});
 	// for character icons, double fallback from profile - thumb - placeholder
@@ -72,8 +72,8 @@ function imagePlugin(eleventyConfig) {
 			outputDir: './_site/img/' + path
 		});
 	}
-	async function getMetadata(src, size) {
-		let format = await getFormat(src);
+	async function getMetadata(src, size, format) {
+		if (!format) format = await getFormat(src);
 		return await Image(src, {
 			widths: [size],
 			formats: [format],

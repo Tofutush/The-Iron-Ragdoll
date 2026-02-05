@@ -3,7 +3,7 @@ permalink: "fun/fav/data.js"
 ---
 const data = [
 {% for ch in characters %}
-{% assign profile = ch.name | lowerCase | append: ' profile' %}{% assign thumb = ch.name | lowerCase | append: ' thumb' %}{% capture url %}{% imageUrl 'gallery/' profile 'png' 500 thumb 'png' %}{% endcapture %}
+{% assign profile = ch.name | lowerCase | append: ' profile' %}{% assign thumb = ch.name | lowerCase | append: ' thumb' %}{% capture url %}{% imageUrl profile 500 'webp' thumb %}{% endcapture %}
 {
 name: "{{ ch.name }}",
 color: "{{ ch.color }}",
