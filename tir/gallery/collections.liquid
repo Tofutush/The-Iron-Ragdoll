@@ -78,16 +78,16 @@ eleventyNavigation:
 {% for b in banners %}
     {% assign ch = b.ch[0] %}
     {% if ch %}
-        <a href="/characters/{{ ch }}/">{% image 'gallery/' b.name 'png' 3000 b.name 'max' %}</a>
+        <a href="/characters/{{ ch }}/">{% imageObj b 3000 0 'max' %}</a>
     {% else %}
-        {% image 'gallery/' b.name 'png' 3000 b.name 'max' %}
+        {% imageObj b 3000 0 'max' %}
     {% endif %}
 {% endfor %}
 <h2 id="footers">Footers</h2>
 {% assign footers = gallery | filterGalleryByKind: "footer" %}
 <div class="pic-grid">
     {% for f in footers %}
-        {% image 'gallery/' f.name 'png' 500 f.name %}
+        {% imageObj f 500 %}
     {% endfor %}
 </div>
 <h2 id="new-year">New Year</h2>
@@ -134,31 +134,27 @@ eleventyNavigation:
 <div class="pic-grid no-gap">
     {% assign profiles = gallery | filterGalleryByKind: "thumb new" %}
     {% for img in profiles %}
-        {% assign ch = img.ch[0] %}
-        <a href="/characters/{{ ch }}/">{% image 'gallery/' img.name img.type 300 img.name %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% imageObj img 300 %}</a>
     {% endfor %}
 </div>
 <h3 id="thumbnails">Thumbnails</h3>
 <div class="pic-grid but-smaller no-gap">
     {% assign thumbnails = gallery | filterGalleryByKind: "thumb" %}
     {% for img in thumbnails %}
-        {% assign ch = img.ch[0] %}
-        <a href="/characters/{{ ch }}/">{% image 'gallery/' img.name img.type 300 img.name %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% imageObj img 300 %}</a>
     {% endfor %}
 </div>
 <h3 id="souls">Souls</h3>
 <div class="pic-grid but-smaller no-gap">
     {% assign souls = gallery | filterGalleryByKind: "soul" %}
     {% for img in souls %}
-        {% assign ch = img.ch[0] %}
-        <a href="/characters/{{ ch }}/">{% image 'gallery/' img.name img.type 300 img.name %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% imageObj img 300 %}</a>
     {% endfor %}
 </div>
 <h3 id="references">References</h3>
 <div class="pic-grid">
     {% assign refs = gallery | filterGalleryByKind: "ref" %}
     {% for img in refs %}
-        {% assign ch = img.ch[0] %}
-        <a href="/characters/{{ ch }}/">{% image 'gallery/' img.name img.type 300 img.name %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% imageObj img 300 %}</a>
     {% endfor %}
 </div>
