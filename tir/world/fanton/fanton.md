@@ -12,7 +12,7 @@ categories:
   - Locations
 ---
 
-{% image "gallery/" "fanton flag" "svg" 1000 "Flag of Fanton" 'max' %}
+{% imageName "fanton flag" 1000 "Flag of Fanton" 'max' %}
 
 <dl>
   <dt>Pronunciation</dt>

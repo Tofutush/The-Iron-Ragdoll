@@ -12,7 +12,7 @@ categories:
   - Locations
 ---
 
-{% image "gallery/" "bauhinia flag" "svg" 1000 "Flag of Bauhinia" 'max' %}
+{% imageName "bauhinia flag" 1000 "Flag of Bauhinia" 'max' %}
 
 <dl>
   <dt>Pronunciation</dt>
