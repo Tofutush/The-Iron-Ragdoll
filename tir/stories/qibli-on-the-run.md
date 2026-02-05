@@ -69,7 +69,7 @@ Of course, Kismet's a smart man. He had never even considered killing magicians 
 
 She could still manage to enter Sunflower's paracosm, and spends the majority of her time in there.
 
-<figure>{% imageName "qibli sunflower virgin" 1000 "Qibli talking to Sunflower" 'max' %}<figcaption>This scene is actually outdated as Sunflower did not live on in Tadlet Kingdom. But I'm still showing it here because it's funny.</figcaption></figure>
+<figure>{% image "qibli sunflower virgin" 1000 "Qibli talking to Sunflower" 'max' %}<figcaption>This scene is actually outdated as Sunflower did not live on in Tadlet Kingdom. But I'm still showing it here because it's funny.</figcaption></figure>
 
 Sometimes Kismet comes chat with her when he's bored.
 

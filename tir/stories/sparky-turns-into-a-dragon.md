@@ -28,7 +28,7 @@ She tried turning back by jumping over again from the other side, but she turned
 
 Now, her friends didn't know how to turn her back and didn't want to. They figured out how to make Sparky spit water and started using her as a water hose, spraying everywhere. They put out a fire and got on the news, which alerted the cops.
 
-{% imageName "sparky dragon" 1000 "Sparky putting out the fire" 'max' %}
+{% image "sparky dragon" 1000 "Sparky putting out the fire" 'max' %}
 
 They found Sparky and really didn't know what to do with her. They called the MSS, who contacted the Arch-Magician, and Nebula came over to the police station, apologizing profusely that she took the gate out for a class demonstration yesterday but forgot to take it back. She turned Sparky back into a human, with a word of warning:
 

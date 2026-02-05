@@ -20,7 +20,7 @@ Qibli begged the doctor to put her magic level down as 10 so it looked better. W
 
 There, she met [Trinket](/characters/trinket/) and found the book that changed her life: *A Guide to Magic* by [Appaloosa](/world/moreland/appaloosa-tribe/), tucked into the janitor's closet.
 
-{% imageName 'book discovery' 1000 'Qibli and Trinket discover the book' 'max' %}
+{% image 'book discovery' 1000 'Qibli and Trinket discover the book' 'max' %}
 
 The book was enchanted. The more she read it, the stronger her magic became. She actually learned new spells, something insanely hard to do because of how magicians' skillset and level are set in stone at birth.
 

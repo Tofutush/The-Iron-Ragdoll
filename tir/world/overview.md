@@ -17,7 +17,7 @@ So, there is a continent that as far as we're concerned is the entire world unle
 
 On the continent there are six countries. From south to north, they are [Bauhinia](/world/bauhinia/), [Fanton](/world/fanton/), [Atlasia](/world/atlasia/), [Westavia](/world/westavia/), (Atlasia and Westavia are next to each other) [Moreland](/world/moreland/), and [Sylvandia](/world/sylvandia/).
 
-{% imageName 'map' 1000 'Map' 'max' %}
+{% image 'map' 1000 'Map' 'max' %}
 
 To the east is a vast ocean where nobody can sail far. To the west is barren wastelands uninhabitable by man.
 
@@ -25,7 +25,7 @@ All of them are republics, but Sylvandia's a federation while others are all uni
 
 They're locked in an perpetual cold war between [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/), splitting the continent into the north and the south.
 
-{% imageName 'map alliances' 1000 'Alliances' 'max' %}
+{% image 'map alliances' 1000 'Alliances' 'max' %}
 
 Both of these two countries have two allies, one staunch ally and one unwilling ally.
 
