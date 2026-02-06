@@ -77,7 +77,6 @@ class Game {
     getQuestion() {
         do {
             let rel = this.rels[randomInRange(0, this.rels.length - 1)];
-            console.log(this.rels, rel);
             let coin = randomInRange(0, 1);
             this.question = (coin === 0) ? {
                 ch: rel[0][0],
