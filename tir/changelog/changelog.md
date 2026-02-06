@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-06
+
+- Added `harmony bench.png`, `icicle starry footer.png`;
+
 ## 2026-02-05
 
 - Revamped the image optimization code. Nearly nothing had changed for you;

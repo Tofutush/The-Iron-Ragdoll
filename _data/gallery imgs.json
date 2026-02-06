@@ -6075,5 +6075,23 @@
     "name": "map alliances",
     "type": "png",
     "date": "2026-02-03"
+  },
+  {
+    "name": "harmony bench",
+    "type": "png",
+    "date": "2026-02-06",
+    "ch": [
+      "harmony"
+    ]
+  },
+  {
+    "name": "icicle starry footer",
+    "type": "png",
+    "date": "2026-02-06",
+    "ch": [
+      "icicle",
+      "starry"
+    ],
+    "kind": "footer"
   }
 ]
