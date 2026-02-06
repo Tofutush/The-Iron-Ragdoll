@@ -6,6 +6,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-05
+
+- Revamped the image optimization code. Nearly nothing had changed for you;
+	- `gif`s are now also `webp`. Hooray;
+	- Also adjusted the sizes of some of them;
+
 ## 2026-02-03
 
 - Added `map.png`, `map alliances.png`;

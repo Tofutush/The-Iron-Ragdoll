@@ -9,8 +9,7 @@
     "serve": "eleventy --serve --incremental --pathprefix=The-Iron-Ragdoll",
     "build": "eleventy --pathprefix=The-Iron-Ragdoll",
     "buildneo": "eleventy --output=_neocities",
-    "copy": "copyfiles -u 1 \"./_site/img/**/*.*\" \"./_neocities\"",
-    "delete": "rm -f \"./_neocities/gallery/feed.xml\""
+    "copy": "copyfiles -u 1 \"./_site/img/**/*.*\" \"./_neocities\""
   },
   "keywords": [],
   "author": "",
