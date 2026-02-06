@@ -125,36 +125,36 @@ eleventyNavigation:
         {% assign profile = ch.name | lowerCase | append: ' profile' %}
         {% assign thumb = ch.name | lowerCase | append: ' thumb' %}
         {% assign soul = ch.name | lowerCase | append: ' soul' %}
-        <a href="/characters/{{ ch.name | lowerCase }}">{% image profile 300 0 '' 'gallery/literally empty.png' %}</a>
-        <a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 300 0 '' 'gallery/literally empty.png' %}</a>
-        <a href="/characters/{{ ch.name | lowerCase }}">{% image soul 300 0 '' 'gallery/literally empty.png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image profile 200 0 '' 'gallery/literally empty.png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 200 0 '' 'gallery/literally empty.png' %}</a>
+        <a href="/characters/{{ ch.name | lowerCase }}">{% image soul 200 0 '' 'gallery/literally empty.png' %}</a>
     {% endfor %}
 </div>
 <h3 id="profiles">Profiles</h3>
 <div class="pic-grid no-gap">
     {% assign profiles = gallery | filterGalleryByKind: "thumb new" %}
     {% for img in profiles %}
-        <a href="/characters/{{ img.ch[0] }}/">{% image img 300 %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
     {% endfor %}
 </div>
 <h3 id="thumbnails">Thumbnails</h3>
 <div class="pic-grid but-smaller no-gap">
     {% assign thumbnails = gallery | filterGalleryByKind: "thumb" %}
     {% for img in thumbnails %}
-        <a href="/characters/{{ img.ch[0] }}/">{% image img 300 %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
     {% endfor %}
 </div>
 <h3 id="souls">Souls</h3>
 <div class="pic-grid but-smaller no-gap">
     {% assign souls = gallery | filterGalleryByKind: "soul" %}
     {% for img in souls %}
-        <a href="/characters/{{ img.ch[0] }}/">{% image img 300 %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
     {% endfor %}
 </div>
 <h3 id="references">References</h3>
 <div class="pic-grid">
     {% assign refs = gallery | filterGalleryByKind: "ref" %}
     {% for img in refs %}
-        <a href="/characters/{{ img.ch[0] }}/">{% image img 300 %}</a>
+        <a href="/characters/{{ img.ch[0] }}/">{% image img 500 %}</a>
     {% endfor %}
 </div>
