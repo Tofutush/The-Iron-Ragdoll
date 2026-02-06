@@ -4,541 +4,541 @@ ch: [
 {
 id: "Sparky",
 color: "#0cf",
-img: "/The-Iron-Ragdoll/img/gallery/MXoErqmXYg-200.webp",
+img: "/The-Iron-Ragdoll/img/MXoErqmXYg-200.webp",
 },
 
 {
 id: "Amber",
 color: "#e15f19",
-img: "/The-Iron-Ragdoll/img/gallery/6hDpgFeaJ5-200.webp",
+img: "/The-Iron-Ragdoll/img/6hDpgFeaJ5-200.webp",
 },
 
 {
 id: "Peacock",
 color: "#20f",
-img: "/The-Iron-Ragdoll/img/gallery/1Jn99jqrlm-200.webp",
+img: "/The-Iron-Ragdoll/img/1Jn99jqrlm-200.webp",
 },
 
 {
 id: "Willow",
 color: "#199400",
-img: "/The-Iron-Ragdoll/img/gallery/zSfnxJkY50-200.webp",
+img: "/The-Iron-Ragdoll/img/zSfnxJkY50-200.webp",
 },
 
 {
 id: "Ribbon",
 color: "#e368d3",
-img: "/The-Iron-Ragdoll/img/gallery/OrnrWCHnCX-200.webp",
+img: "/The-Iron-Ragdoll/img/OrnrWCHnCX-200.webp",
 },
 
 {
 id: "Qibli",
 color: "#440044",
-img: "/The-Iron-Ragdoll/img/gallery/uG01bdCG7q-200.webp",
+img: "/The-Iron-Ragdoll/img/uG01bdCG7q-200.webp",
 },
 
 {
 id: "Sky",
 color: "#236ce1",
-img: "/The-Iron-Ragdoll/img/gallery/O7YsK19p9H-200.webp",
+img: "/The-Iron-Ragdoll/img/O7YsK19p9H-200.webp",
 },
 
 {
 id: "Firecrackers",
 color: "#8214bd",
-img: "/The-Iron-Ragdoll/img/gallery/Dp-FnAvCe_-200.webp",
+img: "/The-Iron-Ragdoll/img/Dp-FnAvCe_-200.webp",
 },
 
 {
 id: "Myriad",
 color: "#d01b84",
-img: "/The-Iron-Ragdoll/img/gallery/wBk-1t4_0j-200.webp",
+img: "/The-Iron-Ragdoll/img/wBk-1t4_0j-200.webp",
 },
 
 {
 id: "Alaska",
 color: "#6C0404",
-img: "/The-Iron-Ragdoll/img/gallery/tokW9qo_RA-200.webp",
+img: "/The-Iron-Ragdoll/img/tokW9qo_RA-200.webp",
 },
 
 {
 id: "Tomato",
 color: "#A10000",
-img: "/The-Iron-Ragdoll/img/gallery/rgwbfBKNYz-200.webp",
+img: "/The-Iron-Ragdoll/img/rgwbfBKNYz-200.webp",
 },
 
 {
 id: "Potato",
 color: "#bdad1b",
-img: "/The-Iron-Ragdoll/img/gallery/KxELFZnTBx-200.webp",
+img: "/The-Iron-Ragdoll/img/KxELFZnTBx-200.webp",
 },
 
 {
 id: "Guillotine",
 color: "#d0ae3a",
-img: "/The-Iron-Ragdoll/img/gallery/5306crJ3CA-200.webp",
+img: "/The-Iron-Ragdoll/img/5306crJ3CA-200.webp",
 },
 
 {
 id: "Tephra",
 color: "#008282",
-img: "/The-Iron-Ragdoll/img/gallery/r-K3xqnvmM-200.webp",
+img: "/The-Iron-Ragdoll/img/r-K3xqnvmM-200.webp",
 },
 
 {
 id: "Jerboa",
 color: "#0867af",
-img: "/The-Iron-Ragdoll/img/gallery/IrFMe3eik9-200.webp",
+img: "/The-Iron-Ragdoll/img/IrFMe3eik9-200.webp",
 },
 
 {
 id: "Jam",
 color: "#75430b",
-img: "/The-Iron-Ragdoll/img/gallery/NgwTDBX9sZ-200.webp",
+img: "/The-Iron-Ragdoll/img/NgwTDBX9sZ-200.webp",
 },
 
 {
 id: "Trinket",
 color: "#28aed1",
-img: "/The-Iron-Ragdoll/img/gallery/oeMRyu1h36-200.webp",
+img: "/The-Iron-Ragdoll/img/oeMRyu1h36-200.webp",
 },
 
 {
 id: "Nebula",
 color: "#d87099",
-img: "/The-Iron-Ragdoll/img/gallery/RrhLv1FjWG-200.webp",
+img: "/The-Iron-Ragdoll/img/RrhLv1FjWG-200.webp",
 },
 
 {
 id: "Fantasy",
 color: "#ce00af",
-img: "/The-Iron-Ragdoll/img/gallery/NnN5CcPiqO-200.webp",
+img: "/The-Iron-Ragdoll/img/NnN5CcPiqO-200.webp",
 },
 
 {
 id: "Ironheart",
 color: "#69272b",
-img: "/The-Iron-Ragdoll/img/gallery/G0Vw9a-T5K-200.webp",
+img: "/The-Iron-Ragdoll/img/G0Vw9a-T5K-200.webp",
 },
 
 {
 id: "Nightsun",
 color: "#130b51",
-img: "/The-Iron-Ragdoll/img/gallery/zUis3hvPIP-200.webp",
+img: "/The-Iron-Ragdoll/img/zUis3hvPIP-200.webp",
 },
 
 {
 id: "Bramble",
 color: "#E19D0E",
-img: "/The-Iron-Ragdoll/img/gallery/BVUSz79G7b-200.webp",
+img: "/The-Iron-Ragdoll/img/BVUSz79G7b-200.webp",
 },
 
 {
 id: "Goose",
 color: "#D54269",
-img: "/The-Iron-Ragdoll/img/gallery/wBmz9IJjvc-200.webp",
+img: "/The-Iron-Ragdoll/img/wBmz9IJjvc-200.webp",
 },
 
 {
 id: "Pumpkin",
 color: "#E3744D",
-img: "/The-Iron-Ragdoll/img/gallery/xUdVhkWgkB-200.webp",
+img: "/The-Iron-Ragdoll/img/xUdVhkWgkB-200.webp",
 },
 
 {
 id: "Halcyon",
 color: "#008E9B",
-img: "/The-Iron-Ragdoll/img/gallery/QMMaK7Nk-8-200.webp",
+img: "/The-Iron-Ragdoll/img/QMMaK7Nk-8-200.webp",
 },
 
 {
 id: "Paperweight",
 color: "#2e2e2e",
-img: "/The-Iron-Ragdoll/img/gallery/egggbunWpz-200.webp",
+img: "/The-Iron-Ragdoll/img/egggbunWpz-200.webp",
 },
 
 {
 id: "Gecko",
 color: "#a40ca7",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Lark",
 color: "#06B87B",
-img: "/The-Iron-Ragdoll/img/gallery/zLidiF6wRX-200.webp",
+img: "/The-Iron-Ragdoll/img/zLidiF6wRX-200.webp",
 },
 
 {
 id: "Pearl",
 color: "#caf1f1",
-img: "/The-Iron-Ragdoll/img/gallery/IyjhPSRX5i-200.webp",
+img: "/The-Iron-Ragdoll/img/IyjhPSRX5i-200.webp",
 },
 
 {
 id: "Fern",
 color: "#089b19",
-img: "/The-Iron-Ragdoll/img/gallery/FKb6TPH7jB-200.webp",
+img: "/The-Iron-Ragdoll/img/FKb6TPH7jB-200.webp",
 },
 
 {
 id: "Jackpot",
 color: "#AC7C26",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Snake",
 color: "#c30963",
-img: "/The-Iron-Ragdoll/img/gallery/ljCsEnGq_k-200.webp",
+img: "/The-Iron-Ragdoll/img/ljCsEnGq_k-200.webp",
 },
 
 {
 id: "Snowball",
 color: "#D920D2",
-img: "/The-Iron-Ragdoll/img/gallery/SnePzHLLG_-200.webp",
+img: "/The-Iron-Ragdoll/img/SnePzHLLG_-200.webp",
 },
 
 {
 id: "Buttercup",
 color: "#8c7503",
-img: "/The-Iron-Ragdoll/img/gallery/UAQwIlCmzV-200.webp",
+img: "/The-Iron-Ragdoll/img/UAQwIlCmzV-200.webp",
 },
 
 {
 id: "Beauty",
 color: "#CE6C07",
-img: "/The-Iron-Ragdoll/img/gallery/349bCd0nPN-200.webp",
+img: "/The-Iron-Ragdoll/img/349bCd0nPN-200.webp",
 },
 
 {
 id: "Chastity",
 color: "#C3BB4E",
-img: "/The-Iron-Ragdoll/img/gallery/K7m2aB0i3F-200.webp",
+img: "/The-Iron-Ragdoll/img/K7m2aB0i3F-200.webp",
 },
 
 {
 id: "Devotion",
 color: "#017909",
-img: "/The-Iron-Ragdoll/img/gallery/N6FqYsy-Td-200.webp",
+img: "/The-Iron-Ragdoll/img/N6FqYsy-Td-200.webp",
 },
 
 {
 id: "Elegance",
 color: "#1054ad",
-img: "/The-Iron-Ragdoll/img/gallery/Tzy6aXAj3z-200.webp",
+img: "/The-Iron-Ragdoll/img/Tzy6aXAj3z-200.webp",
 },
 
 {
 id: "Animus",
 color: "#a10000",
-img: "/The-Iron-Ragdoll/img/gallery/1v7HLg1ORT-200.webp",
+img: "/The-Iron-Ragdoll/img/1v7HLg1ORT-200.webp",
 },
 
 {
 id: "Cherry",
 color: "#601346",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Hyrax",
 color: "#66210a",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Bunchberry",
 color: "#ca4d3f",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Kismet",
 color: "#000",
-img: "/The-Iron-Ragdoll/img/gallery/IkriICdn34-200.webp",
+img: "/The-Iron-Ragdoll/img/IkriICdn34-200.webp",
 },
 
 {
 id: "Pinecone",
 color: "#094205",
-img: "/The-Iron-Ragdoll/img/gallery/en9PhMEXjF-200.webp",
+img: "/The-Iron-Ragdoll/img/en9PhMEXjF-200.webp",
 },
 
 {
 id: "Rosemary",
 color: "#14adab",
-img: "/The-Iron-Ragdoll/img/gallery/OY_D4SSO2t-200.webp",
+img: "/The-Iron-Ragdoll/img/OY_D4SSO2t-200.webp",
 },
 
 {
 id: "Sundae",
 color: "#863094",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Dragonfly",
 color: "#00adad",
-img: "/The-Iron-Ragdoll/img/gallery/O8Du-58hgo-200.webp",
+img: "/The-Iron-Ragdoll/img/O8Du-58hgo-200.webp",
 },
 
 {
 id: "Groovy",
 color: "#933384",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Koala",
 color: "#7F8587",
-img: "/The-Iron-Ragdoll/img/gallery/vZY-fR4R9i-200.webp",
+img: "/The-Iron-Ragdoll/img/vZY-fR4R9i-200.webp",
 },
 
 {
 id: "Kangaroo",
 color: "#A36D1F",
-img: "/The-Iron-Ragdoll/img/gallery/qc0Jt8CwFM-200.webp",
+img: "/The-Iron-Ragdoll/img/qc0Jt8CwFM-200.webp",
 },
 
 {
 id: "Robin",
 color: "#a72b0c",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Frosting",
 color: "#F676D2",
-img: "/The-Iron-Ragdoll/img/gallery/QGWgilp-ZH-200.webp",
+img: "/The-Iron-Ragdoll/img/QGWgilp-ZH-200.webp",
 },
 
 {
 id: "Jaculus",
 color: "#008bc7",
-img: "/The-Iron-Ragdoll/img/gallery/OPEASUoVaa-200.webp",
+img: "/The-Iron-Ragdoll/img/OPEASUoVaa-200.webp",
 },
 
 {
 id: "Candlelight",
 color: "#cb1616",
-img: "/The-Iron-Ragdoll/img/gallery/YfHVyEqpvQ-200.webp",
+img: "/The-Iron-Ragdoll/img/YfHVyEqpvQ-200.webp",
 },
 
 {
 id: "Sundew",
 color: "#c93ba3",
-img: "/The-Iron-Ragdoll/img/gallery/OcVpC2Fhhp-200.webp",
+img: "/The-Iron-Ragdoll/img/OcVpC2Fhhp-200.webp",
 },
 
 {
 id: "Sunflower",
 color: "#cb9c1a",
-img: "/The-Iron-Ragdoll/img/gallery/Nd97mOoaEI-200.webp",
+img: "/The-Iron-Ragdoll/img/Nd97mOoaEI-200.webp",
 },
 
 {
 id: "Starry",
 color: "#CC770F",
-img: "/The-Iron-Ragdoll/img/gallery/BY3rXT-Pzc-200.webp",
+img: "/The-Iron-Ragdoll/img/BY3rXT-Pzc-200.webp",
 },
 
 {
 id: "Icicle",
 color: "#72bed2",
-img: "/The-Iron-Ragdoll/img/gallery/wW34rj3cHZ-200.webp",
+img: "/The-Iron-Ragdoll/img/wW34rj3cHZ-200.webp",
 },
 
 {
 id: "Helsinki",
 color: "#5b3896",
-img: "/The-Iron-Ragdoll/img/gallery/cC00NvezX3-200.webp",
+img: "/The-Iron-Ragdoll/img/cC00NvezX3-200.webp",
 },
 
 {
 id: "Mooncake",
 color: "#0b8445",
-img: "/The-Iron-Ragdoll/img/gallery/Q0SIqiGUWo-200.webp",
+img: "/The-Iron-Ragdoll/img/Q0SIqiGUWo-200.webp",
 },
 
 {
 id: "Thyme",
 color: "#3d7510",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Natasha",
 color: "#e665d5",
-img: "/The-Iron-Ragdoll/img/gallery/ib6lw8wRYN-200.webp",
+img: "/The-Iron-Ragdoll/img/ib6lw8wRYN-200.webp",
 },
 
 {
 id: "Moonflower",
 color: "#c78d0e",
-img: "/The-Iron-Ragdoll/img/gallery/kh2TwBrER5-200.webp",
+img: "/The-Iron-Ragdoll/img/kh2TwBrER5-200.webp",
 },
 
 {
 id: "Cobalt",
 color: "#0e81c8",
-img: "/The-Iron-Ragdoll/img/gallery/Ab19PaiUbR-200.webp",
+img: "/The-Iron-Ragdoll/img/Ab19PaiUbR-200.webp",
 },
 
 {
 id: "Kaleidoscope",
 color: "#6f4a16",
-img: "/The-Iron-Ragdoll/img/gallery/LMXonkwLqP-200.webp",
+img: "/The-Iron-Ragdoll/img/LMXonkwLqP-200.webp",
 },
 
 {
 id: "Nightingale",
 color: "#d22dae",
-img: "/The-Iron-Ragdoll/img/gallery/0wl8M_DeLf-200.webp",
+img: "/The-Iron-Ragdoll/img/0wl8M_DeLf-200.webp",
 },
 
 {
 id: "Skyhawk",
 color: "#077838",
-img: "/The-Iron-Ragdoll/img/gallery/yJ2qDbMd2H-200.webp",
+img: "/The-Iron-Ragdoll/img/yJ2qDbMd2H-200.webp",
 },
 
 {
 id: "Moonbeam",
 color: "#08d8e7",
-img: "/The-Iron-Ragdoll/img/gallery/WlAsiWa6j3-200.webp",
+img: "/The-Iron-Ragdoll/img/WlAsiWa6j3-200.webp",
 },
 
 {
 id: "Melody",
 color: "#426600",
-img: "/The-Iron-Ragdoll/img/gallery/gUwudi5y5R-200.webp",
+img: "/The-Iron-Ragdoll/img/gUwudi5y5R-200.webp",
 },
 
 {
 id: "Tundra",
 color: "#800080",
-img: "/The-Iron-Ragdoll/img/gallery/jQn5TjNevW-200.webp",
+img: "/The-Iron-Ragdoll/img/jQn5TjNevW-200.webp",
 },
 
 {
 id: "Vampire",
 color: "#dd8736",
-img: "/The-Iron-Ragdoll/img/gallery/GtfWqsWaS_-200.webp",
+img: "/The-Iron-Ragdoll/img/GtfWqsWaS_-200.webp",
 },
 
 {
 id: "Jackalope",
 color: "#b90912",
-img: "/The-Iron-Ragdoll/img/gallery/nF_Hh49Kim-200.webp",
+img: "/The-Iron-Ragdoll/img/nF_Hh49Kim-200.webp",
 },
 
 {
 id: "Whiteout",
 color: "#178c79",
-img: "/The-Iron-Ragdoll/img/gallery/14bSEI-saI-200.webp",
+img: "/The-Iron-Ragdoll/img/14bSEI-saI-200.webp",
 },
 
 {
 id: "Entity",
 color: "#1692bb",
-img: "/The-Iron-Ragdoll/img/gallery/QCPjNF02cP-200.webp",
+img: "/The-Iron-Ragdoll/img/QCPjNF02cP-200.webp",
 },
 
 {
 id: "Harmony",
 color: "#6d4091",
-img: "/The-Iron-Ragdoll/img/gallery/O1o2IgmUtF-200.webp",
+img: "/The-Iron-Ragdoll/img/O1o2IgmUtF-200.webp",
 },
 
 {
 id: "Sugarcane",
 color: "#0fa982",
-img: "/The-Iron-Ragdoll/img/gallery/oK5ook2Uo1-200.webp",
+img: "/The-Iron-Ragdoll/img/oK5ook2Uo1-200.webp",
 },
 
 {
 id: "Rose",
 color: "#b7155b",
-img: "/The-Iron-Ragdoll/img/gallery/2KQtBdWNX9-200.webp",
+img: "/The-Iron-Ragdoll/img/2KQtBdWNX9-200.webp",
 },
 
 {
 id: "Cosmo",
 color: "#998cbd",
-img: "/The-Iron-Ragdoll/img/gallery/aiSSMMZRWw-200.webp",
+img: "/The-Iron-Ragdoll/img/aiSSMMZRWw-200.webp",
 },
 
 {
 id: "Sunny",
 color: "#071cbb",
-img: "/The-Iron-Ragdoll/img/gallery/LQE_YBXArW-200.webp",
+img: "/The-Iron-Ragdoll/img/LQE_YBXArW-200.webp",
 },
 
 {
 id: "Thunder",
 color: "#DCCB09",
-img: "/The-Iron-Ragdoll/img/gallery/-DCSm1hLip-200.webp",
+img: "/The-Iron-Ragdoll/img/-DCSm1hLip-200.webp",
 },
 
 {
 id: "Jelly",
 color: "#1091b1",
-img: "/The-Iron-Ragdoll/img/gallery/7HdgGyVM0G-200.webp",
+img: "/The-Iron-Ragdoll/img/7HdgGyVM0G-200.webp",
 },
 
 {
 id: "Checkers",
 color: "#a01c0d",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Jasmine",
 color: "#1ca091",
-img: "/The-Iron-Ragdoll/img/gallery/xxGUUi5Wl5-200.webp",
+img: "/The-Iron-Ragdoll/img/xxGUUi5Wl5-200.webp",
 },
 
 {
 id: "Gorgeous",
 color: "#1babd0",
-img: "/The-Iron-Ragdoll/img/gallery/c3wewMqDSO-100.webp",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
 id: "Jinx",
 color: "#629970",
-img: "/The-Iron-Ragdoll/img/gallery/yqjfidZje6-200.webp",
+img: "/The-Iron-Ragdoll/img/yqjfidZje6-200.webp",
 },
 
 {
 id: "Typhoon",
 color: "#5d3209",
-img: "/The-Iron-Ragdoll/img/gallery/FiBuyhMHq7-200.webp",
+img: "/The-Iron-Ragdoll/img/FiBuyhMHq7-200.webp",
 },
 
 {
 id: "Tsunami",
 color: "#0a58bd",
-img: "/The-Iron-Ragdoll/img/gallery/JLbCAers1y-200.webp",
+img: "/The-Iron-Ragdoll/img/JLbCAers1y-200.webp",
 },
 
 {
 id: "Jumbo",
 color: "#cc0f0f",
-img: "/The-Iron-Ragdoll/img/gallery/WMf7187Mxo-200.webp",
+img: "/The-Iron-Ragdoll/img/WMf7187Mxo-200.webp",
 },
 
 {
 id: "Mulberry",
 color: "#06740d",
-img: "/The-Iron-Ragdoll/img/gallery/z9H35f9XBf-200.webp",
+img: "/The-Iron-Ragdoll/img/z9H35f9XBf-200.webp",
 },
 
 {
 id: "Blackjack",
 color: "#2e2e2e",
-img: "/The-Iron-Ragdoll/img/gallery/Wjc8zKufnl-200.webp",
+img: "/The-Iron-Ragdoll/img/Wjc8zKufnl-200.webp",
 },
 
 ],
@@ -2090,4 +2090,3 @@ rel2: "instructor",
 
 ]
 };
-
