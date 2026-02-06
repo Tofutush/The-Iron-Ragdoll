@@ -8,7 +8,8 @@ eleventyNavigation:
 
 ## 2026-02-06
 
-- Added `harmony bench.png`, `icicle starry footer.png`;
+- Added `harmony bench.png`, `icicle starry footer.png`, `map allies.png`, `bauhinia starcorp.png`;
+- Finished the [overview](/world/overview/);
 
 ## 2026-02-05
 
