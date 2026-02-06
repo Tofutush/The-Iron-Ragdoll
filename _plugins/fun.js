@@ -1,4 +1,5 @@
 import { existsSync, statSync, readdirSync } from 'fs';
+import gallery from '../_data/gallery.js';
 
 function funPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getGuessData', (chs, rels) => {
@@ -29,13 +30,10 @@ function funPlugin(eleventyConfig) {
 }
 
 function hasPic(ch) {
-	const base = `img/gallery/`;
-	const years = readdirSync(base).filter(d => /^\d{4}$/.test(d) && statSync(`${base}${d}`).isDirectory());
-	for (const y of years) {
-		const thumb = `${base}${y}/${ch} thumb.png`;
-		const profile = `${base}${y}/${ch} profile.png`;
-		if (existsSync(thumb) || existsSync(profile)) return true;
-	}
+	let thumb = gallery.filter(i => i.kind === 'thumb' && i.ch.length === 1 && i.ch.includes(ch.toLowerCase()));
+	if (thumb.length) return true;
+	let profile = gallery.filter(i => i.kind === 'thumb new' && i.ch.length === 1 && i.ch.includes(ch.toLowerCase()));
+	if (profile.length) return true;
 	return false;
 }
 
