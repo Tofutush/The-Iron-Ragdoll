@@ -29,13 +29,18 @@ They're locked in an perpetual cold war between [Bauhinia](/world/bauhinia/) and
 
 Both of these two countries have two allies, one staunch ally and one unwilling ally.
 
-\[todo: insert image]
+- [Bauhinia](/world/bauhinia/) has [Atlasia](/world/atlasia/) and [Fanton](/world/fanton/).
+- [Moreland](/world/moreland/) has [Westavia](/world/westavia/) and [Sylvandia](/world/sylvandia/).
+
+{% image 'map allies' 1000 'Allies' 'max' %}
 
 ## Bauhinia
 
 The main focus here is [Bauhinia](/world/bauhinia/), a bureaucratical fanatical corporate dictatorship[^1].
 
 There's a company called [Starcorp](/world/bauhinia/starcorp/), the most powerful company in Bauhinia (and undoubtedly the whole world), having gotten rich during the war through arms dealing, declined for a bit, but rose again thanks to the legendary chairman [Hyrax](/characters/hyrax/). Starcorp now controls most of Bauhinia's industries and resources.
+
+<figure>{% image 'bauhinia starcorp' 500 'Bauhinia's and Starcorp's flags' 'max' %}<figcaption>Because I hate being subtle: Bauhinia's flag is flown higher than Starcorp's, which makes sense; but Starcorp's is in front of and covering up Bauhinia's, which tells you who is the real boss of the country.</figcaption></figure>
 
 ## Major storylines
 

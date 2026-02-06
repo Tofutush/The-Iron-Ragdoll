@@ -6093,5 +6093,15 @@
       "starry"
     ],
     "kind": "footer"
+  },
+  {
+    "name": "map allies",
+    "type": "png",
+    "date": "2026-02-06"
+  },
+  {
+    "name": "bauhinia starcorp",
+    "type": "png",
+    "date": "2026-02-06"
   }
 ]
