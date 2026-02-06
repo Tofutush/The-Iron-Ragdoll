@@ -10,7 +10,7 @@ eleventyComputed:
   title: "{{ ch.name }}"
   desc: "{{ ch.desc }}"
   banner: "{% if ch.banner %}{{ ch.banner }}{% else %}banner sparky{% endif %}"
-  image: "{% assign iconPath = ch.name | lowerCase | append: ' thumb' %}{% assign profilePath = ch.name | lowerCase | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl profilePath 200 'png' iconPath %}"
+  image: "{% assign iconPath = ch.name | lowerCase | append: ' thumb' %}{% assign profilePath = ch.name | lowerCase | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl profilePath 200 0 iconPath %}"
   themeColor: "{{ ch.color }}"
   eleventyNavigation:
     parent: Characters

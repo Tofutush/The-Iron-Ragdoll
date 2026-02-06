@@ -9,7 +9,6 @@ for (let z = 0; z < characters.length; z++) {
 		let monthDay = characters[z].attr.Birth.substring(5);
 		let obj = {
 			image: `${characters[z].name.toLowerCase()} thumb`,
-			type: 'png',
 			alt: `${characters[z].name}'s birthday`,
 			url: `/characters/${characters[z].name.toLowerCase()}/`
 		}
