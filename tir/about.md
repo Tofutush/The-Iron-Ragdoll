@@ -32,18 +32,6 @@ This site and its contents feature strong language, cartoon violence, and occasi
 
 It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't treat it so seriously.
 
-## How to navigate
-
-You can browse through it with the navigation bar at the top. The first link will take you back to the top of the page. There's also a bunch of links on the [homepage](/) that takes you to important pages on the site.
-
-To follow the arc of a [character](/characters/), go to the "stories" section on their profile!
-
-Each [story](/stories/) has a "Complete?" field near the top that tells you whether it's complete. Note that most stories are incomplete though, and reading the incomplete version still gives you an idea about the story! (Most of the time I have a beginning and end and just fail to fill out the middle.)
-
-If you ever remember a page name but forgot where to reach it, the [sitemap](/sitemap/) includes a list of (most) pages.
-
-You can also switch color themes through the toggle at the bottom. Happy browsing!
-
 ## JavaScript usage
 
 This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the relationship graph, the scavenger hunt result page, and most of the [fun](/fun/) pages. It should be fine to view most other things with JS disabled.

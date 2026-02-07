@@ -6,6 +6,13 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-07
+
+- Edited the homepage;
+	- Mainly removed redundant links (ones already in the navbar);
+	- Also edited birthday and holiday display, but you can't see them right now;
+- Changed the heading font;
+
 ## 2026-02-06
 
 - Added `harmony bench.png`, `icicle starry footer.png`, `map allies.png`, `bauhinia starcorp.png`;

@@ -17,80 +17,62 @@ eleventyNavigation:
 {% image 'cms friends lineless' 1000 'Coastline Middle School friends' 'max' %}
 <p>Hi, I'm Tofutush! Thanks for visiting this little webbed site. I hope you have fun!</p>
 <p>The Iron Ragdoll is my paracosm that I adore and want to share with you. It's about a bunch of colorful people with animal ears and horns. They play around, solve mysteries, and spy on each other, living in a borderline-dystopian world with spies, agents, betrayal, and friendship both genuine and fake.</p>
-<p>The <a href="/about/">About</a> file and <a href="/world/overview/">world overview</a> are good places to start!</p>
+<p>Use the navigation links above to check things out!</p>
 <div class="buttons"><img alt="The Iron Ragdoll" src="/img/bg/88x31.gif"/></div>
-{% assign bdayStars = characters | getBDayStars %}
-{% if bdayStars.size > 0 %}
-  <h2>Today's birthday!</h2>
-  {% for ch in bdayStars %}
-    <div class="ch-card" style="border-color: {{ ch.color }}">
-      <div>{% getProfileOrThumb ch.name 300 %}</div>
-      <div>
-        <h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
-        <p>{{ ch.desc }}</p>
-      </div>
-    </div>
-  {% endfor %}
-{% endif %}
-{% assign todayHolidays = 0 | getHolidays %}
-{% if todayHolidays.days.size > 0 %}
-  <div class="card">
-    <p>Today's holidays!</p>
-    <ul>
-    {% for day in todayHolidays.days %}
-      <li><a href="{{ day.url }}">{{ day.alt }}</a></li>
-    {% endfor %}
-    </ul>
+<details class="callout" open>
+  <summary class="callout-title">
+    <div class="callout-title-icon">{% lucide 'circle-question-mark' %}</div>
+    <div class="callout-title-inner">New here?</div>
+  </summary>
+  <div class="callout-content">
+    <p>Start with <a href="/about/">About</a> and <a href="/world/overview/">world overview</a>!</p>
   </div>
+</details>
+{% assign bdayStars = characters | getBDayStars %}
+{% assign todayHolidays = 0 | getHolidays %}
+{% if bdayStars or todayHolidays %}
+  <section class="bday-holiday">
+    {% if bdayStars.size > 0 %}
+      <section class="bday">
+        <h2>Birthday{% if bdayStars.size > 1 %}s{% endif %}!</h2>
+        <section class="ch-cards {% if todayHolidays.size > 0 %}short{% endif %}">
+          {% for ch in bdayStars %}
+            <div class="ch-card" style="border-color: {{ ch.color }}">
+              <div>{% getProfileOrThumb ch.name 300 %}</div>
+              <div>
+                <h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
+                <p>{{ ch.desc }}</p>
+              </div>
+            </div>
+          {% endfor %}
+        </section>
+      </section>
+    {% endif %}
+    {% if todayHolidays.days.size > 0 %}
+      <section class="holiday">
+        <h2>Holiday{% if todayHolidays.size > 1 %}s{% endif %}!</h2>
+        <ul>
+        {% for day in todayHolidays.days %}
+          <li><a href="{{ day.url }}">{{ day.alt }}</a></li>
+        {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+  </section>
 {% endif %}
-<div class="grid">
-  <a class="big" href="/characters/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/sparky pop.png' | htmlBaseUrl }}');"><p>{% lucide 'contact-round' 32 %} Characters</p></div>
-  </a>
-  <a href="/characters/list/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/cosmo pop.png' | htmlBaseUrl }}');"><p>{% lucide 'table-2' 32 %} Characters list</p></div>
-  </a>
-  <a href="/characters/relationships/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/tephra pop.png' | htmlBaseUrl }}');"><p>{% lucide 'git-fork' 32 %} Relationships</p></div>
-  </a>
-  <a href="/gallery/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/goose pop.png' | htmlBaseUrl }}');"><p>{% lucide 'images' 32 %} Gallery</p></div>
-  </a>
-  <a href="/stories/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/pumpkin pop.png' | htmlBaseUrl }}');"><p>{% lucide 'book-marked' 32 %} Stories</p></div>
-  </a>
-  <a class="big" href="/world/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/buttercup pop.png' | htmlBaseUrl }}');"><p>{% lucide 'earth' 32 %} World</p></div>
-  </a>
-  <a href="/world/overview/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/melody pop.png' | htmlBaseUrl }}');"><p>{% lucide 'square-chart-gantt' 32 %} Overview</p></div>
-  </a>
-  <a href="/world/history/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/alaska pop.png' | htmlBaseUrl }}');"><p>{% lucide 'scroll-text' 32 %} History</p></div>
-  </a>
-  <a href="/about/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/qibli pop.png' | htmlBaseUrl }}');"><p>{% lucide 'info' 32 %} About</p></div>
-  </a>
-  <a href="/fun/">
-	<div class="card" style="background-image: url('{{ '/img/bg/pop/guillotine pop.png' | htmlBaseUrl }}');"><p>{% lucide 'ferris-wheel' 32 %} Fun</p></div>
-  </a>
+<div class="box-nav solid">
+  <a href="/fun/">{% lucide 'ferris-wheel' %}Fun stuff</a>
+  <a href="/sitemap/">{% lucide 'code-xml' %} Sitemap</a>
+  <a href="/misc/links/">{% lucide 'square-arrow-out-up-right' %}Links</a>
+  <a href="/misc/credits">{% lucide 'thumbs-up' %}Credits</a>
 </div>
-<h2>Meta</h2>
-<ul>
-  <li><a href="/misc/">{% lucide 'circle-ellipsis' %} Misc</a>
-    <ul>
-      <li><a href="/misc/links/">Neighbors and webrings</a></li>
-      <li><a href="/misc/credits">Credits</a></li>
-    </ul>
-  </li>
-  <li><a href="/changelog/">{% lucide 'clock-8' %} Changelog</a></li>
-  <li><a href="/sitemap/">{% lucide 'code-xml' %} Sitemap</a></li>
-</ul>
+{% image 'jackalope sticker' 500 0 'split' %}
 <h2>Outgoing</h2>
 <ul>
-  <li><a class="external-link" target="_blank" href="https://tofutush.github.io/tdyww/">{% lucide 'globe' %} 中文站</a>：中文内容！（建设中）</li>
-  <li><a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">{% lucide 'notebook-tabs' %} Guestbook</a>: Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here!</li>
-  <li><a class="external-link" target="_blank" href="https://discord.gg/XzdA5vKkb2">{% lucide 'messages-square' %} Discord server</a>, join the discord!</li>
+  <li><a class="external-link" target="_blank" href="https://tilde.town/~tofutush">{% lucide 'user-round' %} About me</a></li>
+  <li><a class="external-link" target="_blank" href="https://tofutush.github.io/tdyww/">{% lucide 'globe' %} 中文站</a></li>
+  <li><a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">{% lucide 'notebook-tabs' %} Guestbook</a></li>
+  <li><a class="external-link" target="_blank" href="https://discord.gg/XzdA5vKkb2">{% lucide 'messages-square' %} Discord server</a></li>
   <li><a class="external-link" target="_blank" href="https://neocities.org/site/tofutush">{% lucide 'cat' %}{% lucide 'brush' %} Neocities profile</a></li>
   <li><a class="external-link" target="_blank" href="https://tofutush.leprd.space">{% lucide 'heart' %} Favorites Leaderboard</a></li>
 </ul>
