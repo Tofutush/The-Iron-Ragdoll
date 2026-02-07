@@ -20,10 +20,10 @@
 }
 
 @font-face {
-	font-family: troika;
-	src: local(Troika),
-		url(/The-Iron-Ragdoll/fonts/troika.otf),
-		url(/fonts/troika.otf);
+	font-family: mclaren;
+	src: local(mclaren),
+		url(/The-Iron-Ragdoll/fonts/McLaren-Regular.ttf),
+		url(/fonts/McLaren-Regular.ttf);
 }
 
 @font-face {
@@ -114,9 +114,8 @@ h3,
 h4 {
 	color: var(--text);
 	line-height: 2;
-	font-family: troika, lxgw-marker;
-	letter-spacing: 3px;
-	font-weight: normal;
+	font-family: mclaren, lxgw-marker;
+	letter-spacing: 1px;
 	margin-bottom: .75em;
 	margin-top: 1.25em;
 }
