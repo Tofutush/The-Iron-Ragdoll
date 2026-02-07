@@ -35,9 +35,9 @@ eleventyNavigation:
     {% if bdayStars.size > 0 %}
       <section class="bday">
         <h2>Birthday{% if bdayStars.size > 1 %}s{% endif %}!</h2>
-        <section class="ch-cards">
+        <section class="ch-cards {% if todayHolidays.size > 0 %}short{% endif %}">
           {% for ch in bdayStars %}
-            <div class="ch-card {% if todayHolidays.size > 0 %}short{% endif %}" style="border-color: {{ ch.color }}">
+            <div class="ch-card" style="border-color: {{ ch.color }}">
               <div>{% getProfileOrThumb ch.name 300 %}</div>
               <div>
                 <h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>

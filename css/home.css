@@ -8,7 +8,7 @@
 	}
 }
 
-.ch-cards {
+.ch-cards.short {
 	display: flex;
 	overflow-x: auto;
 }
@@ -50,7 +50,26 @@
 		user-select: none;
 	}
 
-	&.short {
+
+}
+
+.short .ch-card {
+	flex-direction: column;
+	gap: .5em;
+	min-width: 12em;
+
+	&>:last-child {
+		align-items: center;
+		gap: .5em;
+
+		& p {
+			text-align: start;
+		}
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.ch-card {
 		flex-direction: column;
 		gap: .5em;
 		min-width: 12em;
@@ -64,9 +83,12 @@
 			}
 		}
 	}
-}
 
-@media only screen and (max-width: 480px) {
+	.ch-cards {
+		display: flex;
+		overflow-x: auto;
+	}
+
 	.bday-holiday {
 		display: block;
 	}
