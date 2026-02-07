@@ -60,22 +60,19 @@ eleventyNavigation:
     {% endif %}
   </section>
 {% endif %}
-<h2>Meta</h2>
-<ul>
-  <li><a href="/misc/">{% lucide 'circle-ellipsis' %} Misc</a>
-    <ul>
-      <li><a href="/misc/links/">Neighbors and webrings</a></li>
-      <li><a href="/misc/credits">Credits</a></li>
-    </ul>
-  </li>
-  <li><a href="/changelog/">{% lucide 'clock-8' %} Changelog</a></li>
-  <li><a href="/sitemap/">{% lucide 'code-xml' %} Sitemap</a></li>
-</ul>
+<div class="box-nav solid">
+  <a href="/fun/">{% lucide 'ferris-wheel' %}Fun stuff</a>
+  <a href="/changelog/">{% lucide 'clock-8' %} Changelog</a>
+  <a href="/sitemap/">{% lucide 'code-xml' %} Sitemap</a>
+  <a href="/misc/links/">{% lucide 'square-arrow-out-up-right' %}Links</a>
+  <a href="/misc/credits">{% lucide 'thumbs-up' %}Credits</a>
+</div>
+{% image 'jackalope sticker' 500 0 'split' %}
 <h2>Outgoing</h2>
 <ul>
-  <li><a class="external-link" target="_blank" href="https://tofutush.github.io/tdyww/">{% lucide 'globe' %} 中文站</a>：中文内容！（建设中）</li>
-  <li><a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">{% lucide 'notebook-tabs' %} Guestbook</a>: Found a spelling / grammar mistake? Want me to add your button? Ask questions? Put anything here!</li>
-  <li><a class="external-link" target="_blank" href="https://discord.gg/XzdA5vKkb2">{% lucide 'messages-square' %} Discord server</a>, join the discord!</li>
+  <li><a class="external-link" target="_blank" href="https://tofutush.github.io/tdyww/">{% lucide 'globe' %} 中文站</a></li>
+  <li><a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">{% lucide 'notebook-tabs' %} Guestbook</a></li>
+  <li><a class="external-link" target="_blank" href="https://discord.gg/XzdA5vKkb2">{% lucide 'messages-square' %} Discord server</a></li>
   <li><a class="external-link" target="_blank" href="https://neocities.org/site/tofutush">{% lucide 'cat' %}{% lucide 'brush' %} Neocities profile</a></li>
   <li><a class="external-link" target="_blank" href="https://tofutush.leprd.space">{% lucide 'heart' %} Favorites Leaderboard</a></li>
 </ul>
