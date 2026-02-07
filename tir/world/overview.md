@@ -15,6 +15,8 @@ A brief overview of the world to get you a most basic idea of what this paracosm
 
 So, there is a continent that as far as we're concerned is the entire world unless one day I just snap and create another continent out there.
 
+Their technology level is mostly the same as ours (except for maybe a [time machine](/stories/project-boomerang/) or two). Most of the story takes place in the 21st century, while near-modern history started in 1911.
+
 On the continent there are six countries. From south to north, they are [Bauhinia](/world/bauhinia/), [Fanton](/world/fanton/), [Atlasia](/world/atlasia/), [Westavia](/world/westavia/), (Atlasia and Westavia are next to each other) [Moreland](/world/moreland/), and [Sylvandia](/world/sylvandia/).
 
 <figure>{% image 'map' 1000 'Map' 'max' %}<figcaption>Countries not drawn to scale. Let's not go there.</figcaption></figure>
@@ -40,7 +42,7 @@ The main focus here is [Bauhinia](/world/bauhinia/), a bureaucratical fanatical 
 
 There's a company called [Starcorp](/world/bauhinia/starcorp/), the most powerful company in Bauhinia (and undoubtedly the whole world), having gotten rich during the war through arms dealing, declined for a bit, but rose again thanks to the legendary chairman [Hyrax](/characters/hyrax/). Starcorp now controls most of Bauhinia's industries and resources.
 
-<figure>{% image 'bauhinia starcorp' 500 'Bauhinia's and Starcorp's flags' 'max' %}<figcaption>Because I hate being subtle: Bauhinia's flag is flown higher than Starcorp's, which makes sense; but Starcorp's is in front of and covering up Bauhinia's, which tells you who is the real boss of the country.</figcaption></figure>
+<figure>{% image 'bauhinia starcorp' 500 "Bauhinia's and Starcorp's flags" 'max' %}<figcaption>Because I hate being subtle: Bauhinia's flag is flown higher than Starcorp's, which makes sense; but Starcorp's is in front of and covering up Bauhinia's, which tells you who is the real boss of the country.</figcaption></figure>
 
 ## Major storylines
 
@@ -55,6 +57,8 @@ I love it when many characters' lives intertwine and everyone is the protagonist
 - [Harmony](/characters/harmony/) and [Sugarcane](/characters/sugarcane/)'s friendship gets tested as [they go to said spy school](/stories/tag/spy-school/).
 - In Fanton, a [group of friends tries to find their missing friend](/stories/one-man-short/).
 
-Of course there are many more characters and their arcs, but that's about it for the overview. Read about the ~~plot devices~~ [superpowers](/world/superpowers/) some people in this world have. Or read about the [history](/world/history/) of the countries!
+Of course there are many more characters and their arcs, but that's about it for the overview.
+
+Read about the ~~plot devices~~ [superpowers](/world/superpowers/) some people in this world have, or read about the [history](/world/history/)!
 
 [^1]: How do these four words even go together?
