@@ -15,6 +15,8 @@ A brief overview of the world to get you a most basic idea of what this paracosm
 
 So, there is a continent that as far as we're concerned is the entire world unless one day I just snap and create another continent out there.
 
+Their technology level is mostly the same as ours (except for maybe a [time machine](/stories/project-boomerang/) or two). Most of the story takes place in the 21st century, while near-modern history started in 1911.
+
 On the continent there are six countries. From south to north, they are [Bauhinia](/world/bauhinia/), [Fanton](/world/fanton/), [Atlasia](/world/atlasia/), [Westavia](/world/westavia/), (Atlasia and Westavia are next to each other) [Moreland](/world/moreland/), and [Sylvandia](/world/sylvandia/).
 
 {% image 'map' 1000 'Map' 'max' %}
@@ -57,6 +59,6 @@ I love it when many characters' lives intertwine and everyone is the protagonist
 
 Of course there are many more characters and their arcs, but that's about it for the overview.
 
-Read about the ~~plot devices~~ [superpowers](/world/superpowers/) some people in this world have. Or read about the [history](/world/history/) of the countries!
+Read about the ~~plot devices~~ [superpowers](/world/superpowers/) some people in this world have, or read about the [history](/world/history/)!
 
 [^1]: How do these four words even go together?
