@@ -17,7 +17,7 @@ So, there is a continent that as far as we're concerned is the entire world unle
 
 On the continent there are six countries. From south to north, they are [Bauhinia](/world/bauhinia/), [Fanton](/world/fanton/), [Atlasia](/world/atlasia/), [Westavia](/world/westavia/), (Atlasia and Westavia are next to each other) [Moreland](/world/moreland/), and [Sylvandia](/world/sylvandia/).
 
-{% image 'map' 1000 'Map' 'max' %}
+<figure>{% image 'map' 1000 'Map' 'max' %}<figcaption>Countries not drawn to scale. Let's not go there.</figcaption></figure>
 
 To the east is a vast ocean where nobody can sail far. To the west is barren wastelands uninhabitable by man.
 
