@@ -17,7 +17,7 @@ All common powers are active except for timekeeping, which is passive. More expl
 
 ## Common powers
 
-Common powers are stored in a person's soul. One soul can only have at most one power, but a person isn't limited to one soul.
+Common powers are stored in a person's [soul](/world/souls/). One soul can only have at most one power, but a person isn't limited to one soul.
 
 ### Superstrength
 

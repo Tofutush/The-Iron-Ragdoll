@@ -68,6 +68,12 @@
 	}
 }
 
+.split {
+	margin: auto;
+	width: 200px;
+	height: auto;
+}
+
 @media only screen and (max-width: 480px) {
 	.ch-card {
 		flex-direction: column;
