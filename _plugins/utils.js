@@ -49,10 +49,12 @@ function utilPlugin(eleventyConfig) {
 		return arr[Math.floor(Math.random() * arr.length)];
 	});
 	eleventyConfig.addFilter('getBDayStars', function (arr) {
+		return arr.slice(0, 2);
 		let dateMonth = new Date().toISOString().slice(5, 10);
 		return arr.filter(ch => ch.attr?.Birth?.substring(5) === dateMonth);
 	});
 	eleventyConfig.addFilter('getHolidays', function (blah) {
+		return holidays['12-23'];
 		let dateMonth = new Date().toISOString().slice(5, 10);
 		return holidays[dateMonth];
 	});
