@@ -12,6 +12,7 @@ eleventyNavigation:
 	- Mainly removed redundant links (ones already in the navbar);
 	- Also edited birthday and holiday display, but you can't see them right now;
 - Changed the heading font;
+- Added `sundew profile.png`, `jackalope profile.png`;
 
 ## 2026-02-06
 
