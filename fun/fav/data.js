@@ -677,7 +677,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Jinx",
 color: "#629970",
 desc: "",
-img: "/The-Iron-Ragdoll/img/yqjfidZje6-500.webp"
+img: "/The-Iron-Ragdoll/img/QJ4JjXyJB--500.webp"
 },
 
 
