@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-08
+
+- Added `jinx profile.png`, `chastity evil.png`;
+
 ## 2026-02-07
 
 - Edited the homepage;
