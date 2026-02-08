@@ -437,7 +437,7 @@ img: "/The-Iron-Ragdoll/img/VZx2xZYakL-500.webp"
 name: "Sundew",
 color: "#c93ba3",
 desc: "",
-img: "/The-Iron-Ragdoll/img/OcVpC2Fhhp-500.webp"
+img: "/The-Iron-Ragdoll/img/HS3QnjQpXU-500.webp"
 },
 
 
@@ -573,7 +573,7 @@ img: "/The-Iron-Ragdoll/img/GtfWqsWaS_-500.webp"
 name: "Jackalope",
 color: "#b90912",
 desc: "",
-img: "/The-Iron-Ragdoll/img/nF_Hh49Kim-500.webp"
+img: "/The-Iron-Ragdoll/img/Celr0MrlfI-500.webp"
 },
 
 
