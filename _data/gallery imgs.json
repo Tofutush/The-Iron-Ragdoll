@@ -6103,5 +6103,23 @@
     "name": "bauhinia starcorp",
     "type": "png",
     "date": "2026-02-06"
+  },
+  {
+    "name": "jackalope profile",
+    "type": "png",
+    "date": "2026-02-07",
+    "ch": [
+      "jackalope"
+    ],
+    "kind": "thumb new"
+  },
+  {
+    "name": "sundew profile",
+    "type": "png",
+    "date": "2026-02-07",
+    "ch": [
+      "sundew"
+    ],
+    "kind": "thumb new"
   }
 ]
