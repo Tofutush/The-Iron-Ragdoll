@@ -7,95 +7,114 @@ eleventyNavigation:
   order: 9
 ---
 <style>
-    #footers-div {
-        display: flex;
-        gap: 2em;
-        overflow-x: auto;
-        align-items: flex-end;
-        
-        &>img {
-            width: 13em;
-            height: auto;
-        }
-    }
-    .pic-grid {
+	#footers-div {
+		display: flex;
+		gap: 2em;
+		overflow-x: auto;
+		align-items: flex-end;
+		
+		&>img {
+			width: 13em;
+			height: auto;
+		}
+	}
+	.pic-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 		gap: 1em;
-        align-items: end;
+		align-items: end;
 
 		& img {
 			width: 100%;
 			height: auto;
 		}
 	}
-    .but-smaller {
-    	grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    }
-    .no-gap {
-        gap: 0;
-    }
-    .three-grid {
-        display: grid;
-        grid-template-columns: repeat(6, 1fr);
-        gap: 0;
+	.but-smaller {
+		grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+	}
+	.no-gap {
+		gap: 0;
+	}
+	.three-grid {
+		display: grid;
+		grid-template-columns: repeat(6, 1fr);
+		gap: 0;
 
 		& img {
 			width: 100%;
 			height: auto;
 		}
-    }
-    @media only screen and (max-width: 480px) {
-        .three-grid {
-            grid-template-columns: repeat(3, 1fr);
-        }
-    }
+	}
+	.scroll {
+		display: flex;
+		gap: 1em;
+		overflow-x: auto;
+		align-items: end;
+		height: 12em;
+
+		&>*,
+		& img {
+			height: 100%;
+			width: auto;
+		}
+	}
+	@media only screen and (max-width: 480px) {
+		.three-grid {
+			grid-template-columns: repeat(3, 1fr);
+		}
+	}
 </style>
-<h1>Picture collections</h1>
-<p>Here's a list of pictures to browse through.</p>
+<p>Here you can see specific categories of pictures I drew. Some of them scroll!</p>
 <details id="toc-wrap">
-    <summary><h3>Contents</h3></summary>
-    <div id="toc">
-        <ul>
-            <li><a href="#banners">Banners</a></li>
-            <li><a href="#footers">Footers</a></li>
-            <li><a href="#new-year">New Year</a></li>
-            <li><a href="#wallpapers">Wallpapers</a></li>
-            <li>
-                <a href="#characters">Characters</a>
-                <ul>
-                    <li><a href="#profiles">Profiles</a></li>
-                    <li><a href="#thumbnails">Thumbnails</a></li>
-                    <li><a href="#souls">Souls</a></li>
-                    <li><a href="#references">References</a></li>
-                </ul>
-            </li>
-        </ul>
-    </div>
+	<summary><h3>Contents</h3></summary>
+	<div id="toc">
+		<ul>
+			<li><a href="#banners">Banners</a></li>
+			<li><a href="#footers">Footers</a></li>
+			<li><a href="#new-year">New Year</a></li>
+			<li><a href="#featured">Featured</a></li>
+			<li><a href="#wallpapers">Wallpapers</a></li>
+			<li>
+				<a href="#characters">Characters</a>
+				<ul>
+					<li><a href="#fullbodies">Fullbodies</a></li>
+					<li><a href="#pagedolls">Pagedolls</a></li>
+					<li><a href="#references">References</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
 </details>
 <h2 id="banners">Banners</h2>
 {% assign banners = gallery | filterGalleryByKind: "banner" %}
 {% for b in banners %}
-    {% assign ch = b.ch[0] %}
-    {% if ch %}
-        <a href="/characters/{{ ch }}/">{% image b 3000 0 'max' %}</a>
-    {% else %}
-        {% image b 3000 0 'max' %}
-    {% endif %}
+	{% assign ch = b.ch[0] %}
+	{% if ch %}
+		<a href="/characters/{{ ch }}/">{% image b 3000 0 'max' %}</a>
+	{% else %}
+		{% image b 3000 0 'max' %}
+	{% endif %}
 {% endfor %}
 <h2 id="footers">Footers</h2>
 {% assign footers = gallery | filterGalleryByKind: "footer" %}
-<div class="pic-grid">
-    {% for f in footers %}
-        {% image f 500 %}
-    {% endfor %}
+<div class="scroll">
+	{% for f in footers %}
+		{% image f 500 %}
+	{% endfor %}
 </div>
 <h2 id="new-year">New Year</h2>
 <p>Hopefully this can motivate me to draw one of these every year.</p>
-<div class="pic-grid">
-    <a href="/characters/cosmo/">{% image 'cosmo snake year' 500 '2025 Year of the Snake' %}</a>
-    <a href="/characters/elegance/">{% image 'elegance horse year' 500 '2026 Year of the Horse' %}</a>    
-    <div></div>
+<div class="scroll">
+	<a href="/characters/cosmo/">{% image 'cosmo snake year' 500 '2025 Year of the Snake' %}</a>
+	<a href="/characters/elegance/">{% image 'elegance horse year' 500 '2026 Year of the Horse' %}</a>    
+</div>
+<h2 id="featured">Featured</h2>
+<p>I pick out a featured drawing every year for the <a href="/gallery/">Gallery</a> page.</p>
+<div class="scroll">
+	{% assign featured = gallery | filterGalleryByKind: 'featured' %}
+	{% for f in featured %}
+		{% image f 500 %}
+	{% endfor %}
 </div>
 <h2 id="wallpapers">Wallpapers</h2>
 <p>Special thanks to <a class="external-link" target="_blank" href="https://theoliveoli.blahaj.land/">TheOliveOli</a> for making these wallpapers!</p>
@@ -120,41 +139,72 @@ eleventyNavigation:
 </div>
 <p>By TheOliveOli, 1920 &times; 3840px</p>
 <h2 id="characters">Characters</h2>
-<div class="three-grid">
-    {% for ch in characters %}
-        {% assign profile = ch.name | lowerCase | append: ' profile' %}
-        {% assign thumb = ch.name | lowerCase | append: ' thumb' %}
-        {% assign soul = ch.name | lowerCase | append: ' soul' %}
-        <a href="/characters/{{ ch.name | lowerCase }}">{% image profile 200 0 '' 'gallery/literally empty.png' %}</a>
-        <a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 200 0 '' 'gallery/literally empty.png' %}</a>
-        <a href="/characters/{{ ch.name | lowerCase }}">{% image soul 200 0 '' 'gallery/literally empty.png' %}</a>
-    {% endfor %}
+<details class="callout">
+	<summary class="callout-title">All</summary>
+	<div class="callout-content">
+		<div class="three-grid">
+			{% for ch in characters %}
+				{% assign profile = ch.name | lowerCase | append: ' profile' %}
+				{% assign thumb = ch.name | lowerCase | append: ' thumb' %}
+				{% assign soul = ch.name | lowerCase | append: ' soul' %}
+				<a href="/characters/{{ ch.name | lowerCase }}">{% image profile 200 0 '' 'gallery/literally empty.png' %}</a>
+				<a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 200 0 '' 'gallery/literally empty.png' %}</a>
+				<a href="/characters/{{ ch.name | lowerCase }}">{% image soul 200 0 '' 'gallery/literally empty.png' %}</a>
+			{% endfor %}
+		</div>
+	</div>
+</details>
+<details class="callout">
+	<summary class="callout-title">Profiles</summary>
+	<div class="callout-content">
+		<div class="pic-grid no-gap">
+			{% assign profiles = gallery | filterGalleryByKind: "thumb new" %}
+			{% for img in profiles %}
+				<a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
+			{% endfor %}
+		</div>
+	</div>
+</details>
+<details class="callout">
+	<summary class="callout-title">Thumbnails</summary>
+	<div class="callout-content">
+		<div class="pic-grid but-smaller no-gap">
+			{% assign thumbnails = gallery | filterGalleryByKind: "thumb" %}
+			{% for img in thumbnails %}
+				<a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
+			{% endfor %}
+		</div>
+	</div>
+</details>
+<details class="callout">
+	<summary class="callout-title">Souls</summary>
+	<div class="callout-content">
+		<div class="pic-grid but-smaller no-gap">
+			{% assign souls = gallery | filterGalleryByKind: "soul" %}
+			{% for img in souls %}
+				<a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
+			{% endfor %}
+		</div>
+	</div>
+</details>
+<h3 id="fullbodies">Fullbodies</h3>
+<div class="scroll">
+	{% assign fbs = gallery | filterGalleryByKind: "fullbody" %}
+	{% for img in fbs %}
+		<a href="/characters/{{ img.ch[0] }}/">{% image img 500 %}</a>
+	{% endfor %}
 </div>
-<h3 id="profiles">Profiles</h3>
-<div class="pic-grid no-gap">
-    {% assign profiles = gallery | filterGalleryByKind: "thumb new" %}
-    {% for img in profiles %}
-        <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
-    {% endfor %}
-</div>
-<h3 id="thumbnails">Thumbnails</h3>
-<div class="pic-grid but-smaller no-gap">
-    {% assign thumbnails = gallery | filterGalleryByKind: "thumb" %}
-    {% for img in thumbnails %}
-        <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
-    {% endfor %}
-</div>
-<h3 id="souls">Souls</h3>
-<div class="pic-grid but-smaller no-gap">
-    {% assign souls = gallery | filterGalleryByKind: "soul" %}
-    {% for img in souls %}
-        <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
-    {% endfor %}
+<h3 id="pagedolls">Pagedolls</h3>
+<div class="scroll">
+	{% assign pds = gallery | filterGalleryByKind: "pagedoll" %}
+	{% for img in pds %}
+		<a href="/characters/{{ img.ch[0] }}/">{% image img 500 %}</a>
+	{% endfor %}
 </div>
 <h3 id="references">References</h3>
-<div class="pic-grid">
-    {% assign refs = gallery | filterGalleryByKind: "ref" %}
-    {% for img in refs %}
-        <a href="/characters/{{ img.ch[0] }}/">{% image img 500 %}</a>
-    {% endfor %}
+<div class="scroll">
+	{% assign refs = gallery | filterGalleryByKind: "ref" %}
+	{% for img in refs %}
+		<a href="/characters/{{ img.ch[0] }}/">{% image img 500 %}</a>
+	{% endfor %}
 </div>
