@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-09
+
+- Edited [Collections](/gallery/collections/) to add categories and adjust some styling;
+
 ## 2026-02-08
 
 - Added `jinx profile.png`, `chastity evil.png`;
