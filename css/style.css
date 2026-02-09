@@ -358,18 +358,28 @@ pre {
 #toc-wrap {
 	border: .4em solid var(--box);
 	border-radius: 1em;
-	padding: .1em 2em;
+	padding: 0 1.5em;
 	width: fit-content;
-}
 
-#toc {
 	& summary {
 		user-select: none;
+
+		& h3 {
+			margin: 1em 0;
+		}
 	}
 
-	& ul {
-		list-style: decimal;
-		padding-inline-start: 1em;
+	&[open] h3 {
+		margin-bottom: 0;
+	}
+
+	& #toc {
+
+		& ul {
+			list-style: decimal;
+			padding-inline-start: 1em;
+			margin-top: 0;
+		}
 	}
 }
 
