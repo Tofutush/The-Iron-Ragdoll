@@ -157,7 +157,7 @@ eleventyNavigation:
 <details class="callout">
 	<summary class="callout-title">Profiles</summary>
 	<div class="callout-content">
-		<div class="pic-grid no-gap">
+		<div class="pic-grid but-smaller no-gap">
 			{% assign profiles = gallery | filterGalleryByKind: "thumb new" %}
 			{% for img in profiles %}
 				<a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
