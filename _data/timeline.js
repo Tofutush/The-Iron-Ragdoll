@@ -21,6 +21,10 @@ let timeline = timelineRaw.data.items.reduce((prev, curr) => {
 			time: curr.end.substring(0, 10)
 		});
 	}
+	if (curr.type === 'defaultPerson') {
+		item[0].participants = [curr.label];
+		if (item[1]) item[1].participants = [curr.label];
+	}
 	return [...prev, ...item];
 }, []);
 timeline.sort((a, b) => a.time.localeCompare(b.time));
