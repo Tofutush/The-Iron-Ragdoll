@@ -35,8 +35,9 @@ const { width, height } = layout(graph);
 const svg = d3
     .select("#svg")
     // pad a little for link thickness
-    .style("width", width + 4)
-    .style("height", height + 4);
+    .attr("width", width + 4)
+    .attr("height", height + 4)
+    .attr('viewbox', [0, 0, width, height]);
 const trans = svg.transition().duration(750);
 
 // nodes
