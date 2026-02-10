@@ -10,11 +10,13 @@ eleventyNavigation:
 ---
 <style>table img {max-width: 100px;margin: auto;}</style>
 
+**So the way loops (tall and short) are written had changed since I first made this and I got too lazy to draw new pictures but basically if a vowel starts a word, you prefix it with a bump that has a circle diacritic on top.**
+
 The Bauhinian Empire had a universal language and alphabet. Even long after the empire split apart, everyone still spoke the same language and wrote the same script.
 
 [[toc]]
 
-## What language did the continent speak?
+## What do they speak?
 
 I would say they speak their own language, different from all of ours.
 
@@ -189,11 +191,40 @@ The ng consonant is a special one that does not exist in the standard pinyin cha
 | 32  | <img src="/img/bg/alphabet/br.png"/>    | Break                    | ك         | k      | k       |
 | 33  | <img src="/img/bg/alphabet/br-dt.png"/> | Break + dot              | ڭ         | ng     |         |
 | 34  | <img src="/img/bg/alphabet/br-hr.png"/> | Break + horizontal       | گ         | g      | g       |
+| 35  |                                         | Bump + circle            | ئ         |        | '       |
+
+The last character, the separation glyph, is a special one which usage will be discussed below.
 
 ## Notes
 
 - Not every Bauhinian letter is pronounced the same in every language! For example, the Chinese C is pronounced as *ts* while the English C is pronounced either *k* or *s*. And perhaps more notably, the X sound is pronounced differently in all three.
 - Not all base shape and diacritic combinations are used, creating possibilities for more sounds not present in these three languages.
+
+## Rules
+
+### Uyghurche
+
+The special separation character is required before a vowel if it starts a word or syllable. Essentially, it replaces ئ. For example, ئائىلە should be written as \[img needed]
+
+When there is a difference between spoken and writing, always transcribe the writing.
+
+### English
+
+In Bauhinian English, the separation character replaces the apostrophe in contractions. It does not replace single quotes.
+
+#### Disemvowelment
+
+Removing vowels from a word when it does not create ambiguity is allowed in Bauhinian English. It is usually used in casual correspondence. It is not allowed in official documents.
+
+You can only drop vowels from words that are 4 letters or longer, but afterwards it's up to the writer to decide how many is kept. Excessive dropping is frowned upon, but spelling everything out is an annoyance too.
+
+For example, "the quick brown fox jumps over the lazy dog" can be written as "the quck brwn fox jmps ovr the lzy dog."
+
+### Chinese
+
+Tone is indicated at the end of a character by a bump with the appropriate diacritic at the top. A lack of that means no tone.
+
+The separation character can be used isolated to signify a duplicate of the previous character. In this case, the character has to be completely duplicated, as in they have to be the same character, not just homophones.
 
 [^1]: One time, when I was trying to name [Natasha](/characters/natasha/), I was like "I usually name my characters after things but I really like the name Natasha," and then a person suggested to me I name her after a thing but as the Russian word. Which wouldn't make sense, because concepts don't have languages. I ended up going for Natasha anyways, as you can see.
 [^2]: An alphabet is a writing system where each sound, vowel and consonant, is represented by a symbol. An abjad only contains consonants and leaves the vowels up to reader's inference. Though the two are largely similar, Arabic uses an abjad while Uyghurche uses an alphabet.
