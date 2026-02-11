@@ -177,6 +177,16 @@ const data = [
     },
 
     {
+        id: "The Bodyguard Show",
+        parentIds: [
+            
+                "Elegance Kidnapped",
+            
+        ],
+        url: "/stories/the-bodyguard-show/"
+    },
+
+    {
         id: "The Rise of Kismet",
         parentIds: [
             
