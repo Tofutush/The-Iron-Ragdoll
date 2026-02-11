@@ -21,3 +21,7 @@ She goofed around Coastline until she saw an ad of a reality show about bodyguar
 This is really appealing for Sparky's goddamn ego so she signed up as self-trained.
 
 How the show works is that each contestant is given a principal ranging from 21 - 25 years old. They are then taken to many indoors and outdoors settings, with trained stunts trying to hurt the principals, as well as man-made natural hazards. Each principal has three lives. Getting hurt (usually defined by getting paint on them) takes off one life, and when all three lives are gone they're considered incapacitated and their bodyguard gets eliminated. The bodyguards themselves have a higher paint threshold to be considered hurt, and when they're hurt they have to timeout, leaving their principals unattended to, the amount of time depending on how much paint they have. Real-life injuries serious enough to warrant medical attention results in immediate elimination.
+
+Sparky didn't know that this show was for Starcorp Security to recruit new people. She was not supposed to be on it as she already worked for Starcorp Security. Still, no one knew that when she signed up.
+
+At one point though things turn lethal like always.
