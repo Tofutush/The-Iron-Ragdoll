@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-10
+
+- Added some rules to [the alphabet](/world/alphabet/);
+- New story: [The Bodyguard Show](/stories/the-bodyguard-show/);
+
 ## 2026-02-09
 
 - Edited [Collections](/gallery/collections/) to add categories and adjust some styling;
