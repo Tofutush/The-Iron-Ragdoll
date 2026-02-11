@@ -133,14 +133,6 @@ const data = [
     },
 
     {
-        id: "Paperweight's Backstory",
-        parentIds: [
-            
-        ],
-        url: "/stories/paperweight-backstory/"
-    },
-
-    {
         id: "Paperweight's Roadtrip",
         parentIds: [
             
@@ -316,6 +308,14 @@ const data = [
             
         ],
         url: "/stories/halcyon-backstory/"
+    },
+
+    {
+        id: "Paperweight's Backstory",
+        parentIds: [
+            
+        ],
+        url: "/stories/paperweight-backstory/"
     },
 
     {
