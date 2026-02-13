@@ -10,8 +10,6 @@ eleventyNavigation:
 ---
 <style>table img {max-width: 100px;margin: auto;}</style>
 
-**So the way loops (tall and short) are written had changed since I first made this and I got too lazy to draw new pictures but basically if a vowel starts a word, you prefix it with a bump that has a circle diacritic on top.**
-
 The Bauhinian Empire had a universal language and alphabet. Even long after the empire split apart, everyone still spoke the same language and wrote the same script.
 
 [[toc]]
@@ -204,19 +202,15 @@ The last character, the separation glyph, is a special one which usage will be d
 
 ### Uyghurche
 
-The special separation character is required before a vowel if it starts a word or syllable. Essentially, it replaces ئ. For example, ئائىلە should be written as \[img needed]
+The special separation character is replaces ئ except that it is *not* placed at the beginning when a vowel starts a word. For example, ئائىلە should be written as \[img needed]
 
 When there is a difference between spoken and writing, always transcribe the writing.
 
 ### English
 
-In Bauhinian English, the separation character replaces the apostrophe in contractions. It does not replace single quotes.
-
-#### Disemvowelment
-
 Removing vowels from a word when it does not create ambiguity is allowed in Bauhinian English. It is usually used in casual correspondence. It is not allowed in official documents.
 
-You can only drop vowels from words that are 4 letters or longer, but afterwards it's up to the writer to decide how many is kept. Excessive dropping is frowned upon, but spelling everything out is an annoyance too.
+You can only drop vowels from words that are 4 letters or longer, as long as the resulting spelling is at least 3 letters long. Excessive dropping is frowned upon, but spelling everything out is an annoyance too.
 
 For example, "the quick brown fox jumps over the lazy dog" can be written as "the quck brwn fox jmps ovr the lzy dog."
 
