@@ -6138,5 +6138,23 @@
     "ch": [
       "chastity"
     ]
+  },
+  {
+    "name": "hyrax thumb",
+    "type": "png",
+    "date": "2026-02-13",
+    "ch": [
+      "hyrax"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "hyrax animus",
+    "type": "png",
+    "date": "2026-02-13",
+    "ch": [
+      "hyrax",
+      "animus"
+    ]
   }
 ]

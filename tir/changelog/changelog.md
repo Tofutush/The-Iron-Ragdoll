@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-13
+
+- Added `hyrax thumb.png`, `hyrax animus.png`;
+
 ## 2026-02-10
 
 - Added some rules to [the alphabet](/world/alphabet/);
