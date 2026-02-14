@@ -6156,5 +6156,20 @@
       "hyrax",
       "animus"
     ]
+  },
+  {
+    "name": "clover ref",
+    "type": "png",
+    "date": "2026-02-14",
+    "comment": "A character in [Sunflower](/characters/sunflower/)'s paracosm [Tadlet Kingdom](/world/tadlet-kingdom/). Clover is a gardener who plants beautiful flowers."
+  },
+  {
+    "name": "kismet hyrax",
+    "type": "png",
+    "date": "2026-02-14",
+    "ch": [
+      "kismet",
+      "hyrax"
+    ]
   }
 ]
