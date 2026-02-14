@@ -244,7 +244,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 {
 id: "Hyrax",
 color: "#66210a",
-img: "/The-Iron-Ragdoll/img/cZP8i6Clx4-200.webp",
+img: "/The-Iron-Ragdoll/img/nERn0QKcm0-200.webp",
 },
 
 {
