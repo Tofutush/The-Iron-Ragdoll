@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-14
+
+- Added `clover ref.png`, `kismet hyrax.png`;
+
 ## 2026-02-13
 
 - Added `hyrax thumb.png`, `hyrax animus.png`;

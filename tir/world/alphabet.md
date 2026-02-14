@@ -208,6 +208,8 @@ When there is a difference between spoken and writing, always transcribe the wri
 
 ### English
 
+The separation character replaces the apostrophe in contractions.
+
 Removing vowels from a word when it does not create ambiguity is allowed in Bauhinian English. It is usually used in casual correspondence. It is not allowed in official documents.
 
 You can only drop vowels from words that are 4 letters or longer, as long as the resulting spelling is at least 3 letters long. Excessive dropping is frowned upon, but spelling everything out is an annoyance too.
