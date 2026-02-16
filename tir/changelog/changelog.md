@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-15
+
+- Published the [Bauhinian Text Converter](https://tofutush.github.io/bauhinian/);
+
 ## 2026-02-14
 
 - Added `clover ref.png`, `kismet hyrax.png`;
