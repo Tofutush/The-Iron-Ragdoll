@@ -12,6 +12,8 @@ eleventyNavigation:
 
 The Bauhinian Empire had a universal language and alphabet. Even long after the empire split apart, everyone still spoke the same language and wrote the same script.
 
+See how it looks like with the [Bauhinian text converter](https://tofutush.github.io/bauhinian/)!
+
 [[toc]]
 
 ## What do they speak?
