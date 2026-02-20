@@ -6180,5 +6180,20 @@
       "holly"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "color wheel",
+    "type": "png",
+    "date": "2026-02-20",
+    "ch": [
+      "starry",
+      "sunflower",
+      "willow",
+      "sparky",
+      "nightsun",
+      "helsinki",
+      "ribbon",
+      "jumbo"
+    ]
   }
 ]
