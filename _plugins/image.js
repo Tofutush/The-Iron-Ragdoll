@@ -19,8 +19,8 @@ function imagePlugin(eleventyConfig) {
 		return await getImg(src, size, alt0 || alt, className, animate);
 	});
 	// outputs urls, not html
-	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp', fallback) {
-		let metadata = await getMetadata(getImgSrc(img, fallback).src, size, outputType);
+	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp', fallback, animate) {
+		let metadata = await getMetadata(getImgSrc(img, fallback).src, size, outputType, animate);
 		return metadata[outputType || 'webp'][0].url;
 	});
 	// for character icons, double fallback from profile - thumb - placeholder
