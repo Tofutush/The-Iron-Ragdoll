@@ -214,14 +214,24 @@
 		- freaks out about how shes gonna get it
 	- call cops, cat arrives
 		- initially disinterested, qibli told her its a cat cocoon
-- qibli & obsidian go to pony kingdom
+	- watch footage
+		- sunflower recognizes cobweb (CW)
+		- CW doesnt like it outside pony kingdom. shed go home as soon as she can
+- qibli go to pony kingdom
+	- cop needs to make sure the pony is really back in pony kingdom, and then contact interpol
+	- obsidian doesnt have visa
+	- sunflower gives qibli details of CW's home
+	- qibli teleports
 - the rest go to western winghorse kingdom
 
-# west winghorse kingdom
+# QB in pony kingdom
 
-# pony kingdom
-
-# dog kingdom
+- found CW with cocoon (somehow)
+- short confrontation
+- both got shot with tranquilizer, CW down
+- QB: ha you stupid tadlets, this dose isnt nearly enough for me
+- second arrow hits QB, QB down
+- wake up in death seeker cell
 
 # epilogue
 

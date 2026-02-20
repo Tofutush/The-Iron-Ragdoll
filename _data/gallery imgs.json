@@ -6171,5 +6171,14 @@
       "kismet",
       "hyrax"
     ]
+  },
+  {
+    "name": "holly stand",
+    "type": "png",
+    "date": "2026-02-19",
+    "ch": [
+      "holly"
+    ],
+    "kind": "fullbody"
   }
 ]

@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-19
+
+- New character, [Holly](/characters/holly/);
+- Added `holly stand.png`;
+
 ## 2026-02-15
 
 - Published the [Bauhinian Text Converter](https://tofutush.github.io/bauhinian/);
