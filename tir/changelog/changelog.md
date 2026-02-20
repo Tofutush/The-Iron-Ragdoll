@@ -8,7 +8,7 @@ eleventyNavigation:
 
 ## 2026-02-20
 
-- Added `color wheel.png`;
+- Added `color wheel.png` and its parts;
 
 ## 2026-02-19
 
