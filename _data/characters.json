@@ -1996,5 +1996,26 @@
     },
     "about": "Blackjack was a Fantoni underground mobster before the war, running her own team of gangsters. She also had some \"friends\" in the government who would cover for her in exchange for bribes.\n\nDespite maintaining a cold and ruthless appearance as a mob boss, she longed for a life of stability where she could be live under the light.\n\nHer business should've been booming because of the war, but one of her government pals asked her for a bigger protection fee — run a little sabotage job in Bauhinia.\n\nShe was given a little pen, which the government official told her was a magic spell. She was supposed to cast it by tapping its butt in a certain rhythm near an important fiber-optic line in Bauhinia.\n\nBlackjack landed in Bauhinia, only to be soon caught by the MSS. Sky came in and gave her an offer: work for the MSS, and we will provide you with a proper, well-paying job in Bauhinia.\n\nBlackjack accepted the offer. She was sent back to Fanton with fake news about the cable being destroyed, and a new mission to find out the source of the magic. But she got caught and imprisoned.\n\nRight as the war was ending, Sky came to Fanton personally to blackmail the military official who imprisoned her. She was released back into Bauhinia.\n\nAfter the war, she got her promised job as a martial arts instructor at a high school. She found herself longing for adventure once more, being bored out by the rigid predictiveness of life in the light.",
     "trivia": "- 你可以管她叫“二十一”，但不能叫“21”。"
+  },
+  {
+    "name": "Holly",
+    "namezh": "冬青",
+    "color": "#1a5022",
+    "desc": "Prospective TV star.",
+    "tags": [
+      "Coastline",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Soul": "Gas (both two), her own is green, leaf-shaped; her sister's is red, fruit-shaped",
+      "Nationality": "Bauhinian",
+      "Power": "Hyperawareness lv. 30"
+    },
+    "palette": {
+      "other soul": "#83181A",
+      "hair": "#2e2e2e"
+    },
+    "about": "Holly had an older sister, but one day she fell sick from terminal illness. Not wanting to lose her forever, Holly's parents transplanted her sister's soul into Holly, leaving her body to die alone. It was illegal, so they told Holly to tell everyone she has ~~homophobia~~ heterochromia.\n\nThe merge went well but Holly never really accepted the fact that her late sister was a part of her now. Holly's own green soul remained dominant, though her newfound hyperawareness power came from her sister.\n\nHolly wanted to be a TV star. The first show she went on was The Bodyguard Show as a principal, and she worked with Sparky.",
+    "note": "- Eye and eyebrows: left red, right green.\n- Eyelashes and ears: left green, right red."
   }
 ]
