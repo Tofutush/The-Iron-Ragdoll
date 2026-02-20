@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-20
+
+- Added `color wheel.png`;
+
 ## 2026-02-19
 
 - New character, [Holly](/characters/holly/);
