@@ -3,6 +3,7 @@ title: The Bodyguard Show
 chs:
   - sparky
   - animus
+  - holly
 time: "2047"
 desc: Sparky goes on a reality show.
 myTags:
