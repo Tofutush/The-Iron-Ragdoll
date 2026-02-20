@@ -6195,5 +6195,69 @@
       "ribbon",
       "jumbo"
     ]
+  },
+  {
+    "name": "color wheel - nightsun",
+    "type": "png",
+    "date": "2026-02-20",
+    "ch": [
+      "nightsun"
+    ]
+  },
+  {
+    "name": "color wheel - sparky",
+    "type": "png",
+    "date": "2026-02-20",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "color wheel - willow",
+    "type": "png",
+    "date": "2026-02-20",
+    "ch": [
+      "willow"
+    ]
+  },
+  {
+    "name": "color wheel - sunflower",
+    "type": "png",
+    "date": "2026-02-20",
+    "ch": [
+      "sunflower"
+    ]
+  },
+  {
+    "name": "color wheel - starry",
+    "type": "png",
+    "date": "2026-02-20",
+    "ch": [
+      "starry"
+    ]
+  },
+  {
+    "name": "color wheel - jumbo",
+    "type": "png",
+    "date": "2026-02-20",
+    "ch": [
+      "jumbo"
+    ]
+  },
+  {
+    "name": "color wheel - ribbon",
+    "type": "png",
+    "date": "2026-02-20",
+    "ch": [
+      "ribbon"
+    ]
+  },
+  {
+    "name": "color wheel - helsinki",
+    "type": "png",
+    "date": "2026-02-20",
+    "ch": [
+      "helsinki"
+    ]
   }
 ]
