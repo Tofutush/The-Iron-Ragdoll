@@ -541,6 +541,12 @@ color: "#2e2e2e",
 img: "/The-Iron-Ragdoll/img/Wjc8zKufnl-200.webp",
 },
 
+{
+id: "Holly",
+color: "#1a5022",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
 ],
 rel: [
 
@@ -726,6 +732,14 @@ target: "Animus",
 rel1: "friend / bodyguard",
 rel2: "friend / principal",
 minor: true
+},
+
+{
+source: "Sparky",
+target: "Holly",
+rel1: "bodyguard",
+rel2: "principal",
+
 },
 
 {
