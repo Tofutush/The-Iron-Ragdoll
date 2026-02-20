@@ -4,6 +4,14 @@ import { imageSizeFromFile } from 'image-size/fromFile';
 import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
+	// 1. gallery feed
+	// 2. characters/characters
+	// 3. same
+	// 4. same
+	// 5. collections
+	// 6. gallery pages
+	// 7. same
+
 	// img takes any: obj, name, or path (without 'img/')
 	// fallback must be path
 	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback, freeze) {
@@ -57,6 +65,10 @@ function imagePlugin(eleventyConfig) {
 			formats: [format],
 			outputDir: './_site/img/'
 		};
+		if (src.includes('holly stand')) {
+			console.log(src, size, format);
+			console.log(await Image(src, options));
+		}
 		if (freeze) options.sharpOptions = { animated: true, };
 		return await Image(src, options);
 	}
