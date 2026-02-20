@@ -14,9 +14,9 @@ function imagePlugin(eleventyConfig) {
 
 	// img takes any: obj, name, or path (without 'img/')
 	// fallback must be path
-	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback, freeze) {
+	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback, animate) {
 		let { src, alt } = getImgSrc(img, fallback);
-		return await getImg(src, size, alt0 || alt, className, freeze);
+		return await getImg(src, size, alt0 || alt, className, animate);
 	});
 	// outputs urls, not html
 	eleventyConfig.addShortcode('imageUrl', async function (img, size, outputType = 'webp', fallback) {
@@ -55,7 +55,7 @@ function imagePlugin(eleventyConfig) {
 		if (obj.author) return `img/others art/${obj.name}.${obj.type}`;
 		return `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
 	}
-	async function getMetadata(src, size, format, freeze) {
+	async function getMetadata(src, size, format, animate) {
 		if (!format) {
 			let dimensions = await imageSizeFromFile(src);
 			format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
@@ -65,15 +65,11 @@ function imagePlugin(eleventyConfig) {
 			formats: [format],
 			outputDir: './_site/img/'
 		};
-		if (src.includes('holly stand')) {
-			console.log(src, size, format);
-			console.log(await Image(src, options));
-		}
-		if (freeze) options.sharpOptions = { animated: true, };
+		if (animate && src.substring(src.length - 3) === 'gif') options.sharpOptions = { animated: true, };
 		return await Image(src, options);
 	}
-	async function getImg(src, size, alt, className, freeze) {
-		let metadata = await getMetadata(src, size, 0, freeze);
+	async function getImg(src, size, alt, className, animate) {
+		let metadata = await getMetadata(src, size, 0, animate);
 		let imageAttributes = {
 			alt: alt,
 			title: alt,
