@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-21
+
+- Added `sheva stuck.png`, `jonx horse fly.png`;
+
 ## 2026-02-20
 
 - Added `color wheel.png` and its parts;
