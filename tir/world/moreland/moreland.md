@@ -1,8 +1,8 @@
 ---
 title: The Republic of Moreland
 navTitle: Moreland
+parent: World
 eleventyNavigation:
-  parent: World
   order: 5
 desc: What if introverts made a country?
 tags:

@@ -6,8 +6,7 @@ pagination:
   alias: tagName
   addAllPagesToCollections: true
 permalink: "characters/tag/{{ tagName | slug }}/"
-eleventyNavigation:
-  parent: "chs-tags"
+parent: "chs-tags"
 eleventyComputed:
   title: "Tag: {{ tagName }}"
   navTitle: "{{ tagName }}"

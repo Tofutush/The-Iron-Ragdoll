@@ -1,8 +1,8 @@
 ---
 title: The Republic of Fanton
 navTitle: Fanton
+parent: World
 eleventyNavigation:
-  parent: World
   order: 2
 desc: What if tree-huggers made a country?
 tags:

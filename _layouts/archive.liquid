@@ -1,12 +1,11 @@
 ---
 layout: layout.liquid
 desc: Archive
-permalink: "stories/{{ parent | slug }}/archive/"
+permalink: "stories/{{ comicTitle | slug }}/archive/"
 eleventyComputed:
   title: "{{ comicTitle }} comic - archive"
+  navTitle: Archive
   eleventyNavigation:
-    title: "Archive"
-    parent: "{{ parent }}"
     order: 0
 ---
 <style>

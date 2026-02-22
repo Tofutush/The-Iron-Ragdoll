@@ -1,8 +1,8 @@
 ---
 title: The Sylvandian Federation
 navTitle: Sylvandia
+parent: World
 eleventyNavigation:
-  parent: World
   order: 6
 desc: What if no one made a country and you're all just smooshed together?
 tags:

@@ -1,8 +1,8 @@
 ---
 layout: article.liquid
 title: Minor Characters
+parent: Characters
 eleventyNavigation:
-  parent: Characters
   order: 2
 ---
 

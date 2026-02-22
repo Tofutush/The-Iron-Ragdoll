@@ -1,7 +1,6 @@
 ---
 title: Military Intelligence Corps
-eleventyNavigation:
-  parent: The Guardian Moose
+parent: The Guardian Moose
 desc: The intelligence branch of the Armed Forces of Moreland.
 categories:
   - Organizations

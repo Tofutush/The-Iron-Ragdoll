@@ -2,8 +2,7 @@
 title: The Middle School for Young Officers in Training Affiliated to the Ministry of State Security of the Republic of Bauhinia
 navTitle: Ministry Affiliate
 desc: Spy school.
-eleventyNavigation:
-  parent: Flower City
+parent: Flower City
 tags:
   - ministry-of-state-security
   - spy-school
