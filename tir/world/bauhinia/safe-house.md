@@ -1,7 +1,6 @@
 ---
 title: Safe house
-eleventyNavigation:
-  parent: Coastline
+parent: Coastline
 categories:
   - Locations
 ---

@@ -1,7 +1,5 @@
 {
-    "eleventyNavigation": {
-        "parent": "Moreland"
-    },
+    "parent": "Moreland",
     "banner": "banner moreland",
     "image": "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/gallery/moreland token.png",
     "themeColor": "#169986"

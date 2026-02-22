@@ -1,8 +1,8 @@
 ---
 title: The Republic of Bauhinia
 navTitle: Bauhinia
+parent: World
 eleventyNavigation:
-  parent: World
   order: 1
 desc: What if CEOs made a country?
 tags:

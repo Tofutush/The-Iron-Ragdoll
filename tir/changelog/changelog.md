@@ -1,8 +1,8 @@
 ---
 layout: article.liquid
 title: Changelog
+parent: Root
 eleventyNavigation:
-  parent: Root
   order: 990
 ---
 
@@ -144,7 +144,7 @@ eleventyNavigation:
 
 ## 2026-01-05
 
-- Peep my https://tilde.town/ [homepage](https://tilde.town/~tofutush/);
+- Peep my <https://tilde.town/> [homepage](https://tilde.town/~tofutush/);
 
 ## 2026-01-04
 

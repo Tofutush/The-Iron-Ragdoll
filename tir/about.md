@@ -2,8 +2,8 @@
 layout: article.liquid
 title: About
 desc: About The Iron Ragdoll.
+parent: Root
 eleventyNavigation:
-  parent: Root
   order: 2
 ---
 

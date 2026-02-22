@@ -1,7 +1,6 @@
 ---
 title: University of Flower City
-eleventyNavigation:
-  parent: Flower City
+parent: Flower City
 categories:
   - Schools
 ---

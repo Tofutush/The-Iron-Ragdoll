@@ -12,8 +12,7 @@ eleventyComputed:
   navTitle: "Gallery"
   desc: "{{ ch.name }}'s gallery."
   banner: "{% if ch.banner %}{{ ch.banner }}{% else %}banner sparky{% endif %}"
-  eleventyNavigation:
-    parent: "{{ ch.name }}"
+  parent: "{{ ch.name }}"
 ---
 <link rel="stylesheet" href="/css/gallery.css"/>
 <style>

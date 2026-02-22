@@ -1,7 +1,6 @@
 ---
 title: Coastline Middle School
-eleventyNavigation:
-  parent: Coastline
+parent: Coastline
 tags:
   - coastline-middle-school
 categories:

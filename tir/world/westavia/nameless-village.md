@@ -6,8 +6,7 @@ desc: Candlelight's old home, a tiny village.
 categories:
   - Locations
   - Villages
-eleventyNavigation:
-  parent: "Area 29"
+parent: "Area 29"
 ---
 
 A little village in the countryside of [Westavia](/world/westavia/).

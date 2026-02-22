@@ -1,7 +1,6 @@
 ---
 title: Lotus Lake Temple
-eleventyNavigation:
-  parent: Lotus Lake
+parent: Lotus Lake
 categories:
   - Locations
 desc: A temple famous for its water-style martial arts.

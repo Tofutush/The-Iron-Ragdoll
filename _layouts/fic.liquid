@@ -3,9 +3,7 @@ layout: layout.liquid
 permalink: "stories/{{ parent | slug }}/chapter-{{ chNum }}/"
 eleventyComputed:
   title: "{{ parent }} - Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
-  eleventyNavigation:
-    title: "Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
-    parent: "{{ parent }}"
+  navTitle: "Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
 ---
 {% assign colName = tags[0] %}
 <details id="toc-wrap">

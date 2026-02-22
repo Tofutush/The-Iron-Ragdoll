@@ -1,8 +1,7 @@
 ---
 title: Fancy Private School
 desc: A really fancy private school.
-eleventyNavigation:
-  parent: Coastline
+parent: Coastline
 tags:
   - fancy-private-school
 categories:

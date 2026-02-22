@@ -6,8 +6,7 @@ pagination:
   alias: tagName
   addAllPagesToCollections: true
 permalink: "world/category/{{ tagName | slug }}/"
-eleventyNavigation:
-  parent: Categories
+parent: Categories
 eleventyComputed:
   key: "cat-{{ tagName }}"
   title: "{{ tagName }}"
