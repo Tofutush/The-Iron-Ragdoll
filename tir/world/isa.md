@@ -3,8 +3,6 @@ title: International Superpowers Association
 desc: The international organization for everything surrounding superpowers.
 tags:
   - lore
-eleventyNavigation:
-  parent: World
 categories:
   - Organizations
   - IGOs

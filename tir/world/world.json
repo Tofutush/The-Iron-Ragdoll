@@ -1,3 +1,6 @@
 {
-    "layout": "world.liquid"
+    "layout": "world.liquid",
+    "eleventyNavigation": {
+        "parent": "World"
+    }
 }

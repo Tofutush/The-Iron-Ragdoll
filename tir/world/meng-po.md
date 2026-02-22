@@ -3,8 +3,6 @@ title: Meng Po
 desc: The afterlife and reincarnation.
 categories:
   - Lore
-eleventyNavigation:
-  parent: World
 tags:
   - lore
 ---

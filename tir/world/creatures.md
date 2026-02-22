@@ -3,8 +3,6 @@ title: Creatures
 tags:
   - lore
 desc: Creatures of the world!
-eleventyNavigation:
-  parent: World
 categories:
   - Lore
 ---

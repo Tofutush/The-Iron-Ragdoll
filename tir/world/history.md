@@ -3,8 +3,6 @@ title: History
 desc: The history of the world.
 tags:
   - lore
-eleventyNavigation:
-  parent: World
 categories:
   - Lore
 ---

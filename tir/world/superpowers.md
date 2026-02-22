@@ -3,8 +3,6 @@ title: Superpowers
 desc: Superpowers, common and rare!
 tags:
   - lore
-eleventyNavigation:
-  parent: World
 categories:
   - Lore
   - Superpowers

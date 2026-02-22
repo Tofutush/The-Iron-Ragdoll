@@ -1,8 +1,6 @@
 ---
 title: Races
 desc: The types of off-humans in this world.
-eleventyNavigation:
-  parent: World
 tags:
   - lore
 categories:

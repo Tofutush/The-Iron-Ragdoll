@@ -3,8 +3,6 @@ title: Souls
 desc: What are souls and how do they work?
 tags:
   - lore
-eleventyNavigation:
-  parent: World
 categories:
   - Lore
 ---

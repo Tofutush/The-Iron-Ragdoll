@@ -3,8 +3,6 @@ title: Overview
 desc: Your briefing of the TIR world.
 tags:
   - lore
-eleventyNavigation:
-  parent: World
 categories:
   - Lore
 ---
