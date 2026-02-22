@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-22
+
+- Wrangled the navigation system a bit;
+
 ## 2026-02-21
 
 - Added `sheva stuck.png`, `jinx horse fly.png`;

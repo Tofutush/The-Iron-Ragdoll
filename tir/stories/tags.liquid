@@ -7,11 +7,11 @@ pagination:
   addAllPagesToCollections: true
 permalink: "stories/tag/{{ tagName | slug }}/"
 eleventyNavigation:
-  parent: "Story Tags"
+  parent: "story-tags"
 eleventyComputed:
-  title: "{{ tagName }} Stories"
-  eleventyNavigation:
-    title: "{{ tagName }}"
+  displayTitle: "Tag: {{ tagName }}"
+  title: "{{ tagName }}"
+  key: "stories-{{ tagName }}"
 ---
 {% assign filteredStories = collections.stories | filterStoriesByTag: tagName %}
 {% include 'storylist', stories: filteredStories %}

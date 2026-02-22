@@ -7,11 +7,11 @@ pagination:
   addAllPagesToCollections: true
 permalink: "characters/tag/{{ tagName | slug }}/"
 eleventyNavigation:
-  parent: "Character Tags"
+  parent: "chs-tags"
 eleventyComputed:
-  title: "{{ tagName }} Characters"
-  eleventyNavigation:
-    title: "{{ tagName }}"
+  displayTitle: "Tag: {{ tagName }}"
+  title: "{{ tagName }}"
+  key: "chs-{{ tagName }}"
 ---
 {% assign filteredChs = characters | filterChByTag: tagName %}
 {% include 'chs', chs: filteredChs %}
