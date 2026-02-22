@@ -1,12 +1,12 @@
 ---
-title: Westavia
+title: The People's Republic of Westavia
+navTitle: Westavia
 eleventyNavigation:
   parent: World
   order: 4
 desc: What if alcoholics made a country?
 tags:
   - westavia
-displayTitle: The People's Republic of Westavia
 categories:
   - Countries
   - Locations

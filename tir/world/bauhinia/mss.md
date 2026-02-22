@@ -1,6 +1,6 @@
 ---
-title: Ministry of State Security
-displayTitle: Ministry of State Security of the Republic of Bauhinia
+title: Ministry of State Security of the Republic of Bauhinia
+navTitle: Ministry of State Security
 banner: banner goose
 tags:
   - ministry-of-state-security

@@ -1,7 +1,6 @@
 ---
-title: Superpowers
-key: superpowers-bauhinia
-displayTitle: Superpowers in Bauhinia
+title: Superpowers in Bauhinia
+navTitle: Superpowers
 desc: How Bauhinia treats superpowers.
 categories:
   - Lore

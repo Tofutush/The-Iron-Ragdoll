@@ -1,6 +1,6 @@
 ---
-title: Bauhinia
-displayTitle: The Republic of Bauhinia
+title: The Republic of Bauhinia
+navTitle: Bauhinia
 eleventyNavigation:
   parent: World
   order: 1

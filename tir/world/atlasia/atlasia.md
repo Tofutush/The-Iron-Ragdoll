@@ -1,12 +1,12 @@
 ---
-title: Atlasia
+title: The Free Republic of Atlasia
+navTitle: Atlasia
 eleventyNavigation:
   parent: World
   order: 3
 desc: What if Ayn Rand made a country?
 tags:
   - atlasia
-displayTitle: The Free Republic of Atlasia
 categories:
   - Countries
   - Locations
