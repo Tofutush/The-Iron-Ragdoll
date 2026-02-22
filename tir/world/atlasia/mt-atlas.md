@@ -1,8 +1,6 @@
 ---
-title: mtatlas
-displayTitle: Mt. Atlas
-eleventyNavigation:
-  title: Mt. Atlas
+title: Mt. Atlas
+key: mtatlas
 categories:
   - Locations
 desc: Tallest mountain on the continent.
