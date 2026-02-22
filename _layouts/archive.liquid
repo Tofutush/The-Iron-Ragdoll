@@ -3,8 +3,9 @@ layout: layout.liquid
 desc: Archive
 permalink: "stories/{{ comicTitle | slug }}/archive/"
 eleventyComputed:
-  title: "{{ comicTitle }} comic - archive"
+  title: "{{ comicTitle }} - archive"
   navTitle: Archive
+  parent: "{{ comicTitle }}"
   eleventyNavigation:
     order: 0
 ---
