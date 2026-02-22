@@ -5,6 +5,7 @@ banner: "banner sparky"
 image: "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png"
 themeColor: "#555555"
 eleventyComputed:
+  displayTitle: "{% if displayTitle %}{{ displayTitle }}{% else %}{{ title }}{% endif %}"
   key: "{% if key %}{{ key }}{% else %}{{ title }}{% endif %}"
   eleventyNavigation:
     key: "{{ key }}"
