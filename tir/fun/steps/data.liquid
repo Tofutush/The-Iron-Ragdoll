@@ -1,5 +1,6 @@
 ---
 permalink: "fun/steps/data.js"
+eleventyExcludeFromCollections: true
 ---
 {% assign rel = relationships | getStepsData %}
 const rel = {{ rel | json }}

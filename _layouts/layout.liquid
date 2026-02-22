@@ -20,12 +20,12 @@ eleventyComputed:
 	<meta name="description" content="{{ desc }}" >
 	<meta name="author" content="Tofutush">
 	<meta name="theme-color" content="{{ themeColor }}" />
-	<meta property="og:title" content="{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll">
+	<meta property="og:title" content="{% if page.url != '/' %}{{ displayTitle }} | {% endif %}The Iron Ragdoll">
 	<meta property="og:type" content="website">
 	<meta property="og:image" content="{{ image }}">
 	<meta property="og:site_name" content="The Iron Ragdoll">
 	<meta property="og:description" content="{{ desc }}">
-	<title>{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll</title>
+	<title>{% if page.url != '/' %}{{ displayTitle }} | {% endif %}The Iron Ragdoll</title>
 	{% unless siteTheme %}
 		<script>
 			(function () {

@@ -7,10 +7,11 @@ pagination:
   addAllPagesToCollections: true
 permalink: "gallery/{{ year }}/"
 eleventyComputed:
-  title: "Gallery {{ year }}"
+  displayTitle: "Gallery {{ year }}"
+  title: "{{ year }}"
+  key: "gallery-{{ year }}"
   desc: "A bunch of pictures I drew in {{ year }}."
   eleventyNavigation:
-    title: "{{ year }}"
     parent: Gallery
 ---
 {% for month in (1..12) reversed %}
