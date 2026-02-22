@@ -8,7 +8,9 @@ eleventyNavigation:
 
 ## 2026-02-21
 
-- Added `sheva stuck.png`, `jonx horse fly.png`;
+- Added `sheva stuck.png`, `jinx horse fly.png`;
+- Added [International Coalition](/world/ic/);
+- Edited the main three [Superpowers](/world/category/superpowers/) files;
 
 ## 2026-02-20
 

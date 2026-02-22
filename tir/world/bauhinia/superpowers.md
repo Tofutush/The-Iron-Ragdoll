@@ -1,10 +1,10 @@
 ---
-title: Superpowers in Bauhinia
-eleventyNavigation:
-  title: Superpowers
+title: Superpowers
+displayTitle: Superpowers in Bauhinia
 desc: How Bauhinia treats superpowers.
 categories:
   - Lore
+  - Superpowers
 ---
 
 *You might wanna read [the main superpowers page](/world/superpowers/) first!*
