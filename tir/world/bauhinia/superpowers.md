@@ -1,5 +1,6 @@
 ---
 title: Superpowers
+key: superpowers-bauhinia
 displayTitle: Superpowers in Bauhinia
 desc: How Bauhinia treats superpowers.
 categories:

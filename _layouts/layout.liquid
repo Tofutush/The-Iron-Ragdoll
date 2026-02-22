@@ -5,8 +5,10 @@ banner: "banner sparky"
 image: "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png"
 themeColor: "#555555"
 eleventyComputed:
+  key: "{% if key %}{{ key }}{% else %}{{ title }}{% endif %}"
   eleventyNavigation:
-    key: "{{ title }}"
+    key: "{{ key }}"
+    title: "{{ title }}"
 ---
 <!doctype html>
 {% assign siteTheme = siteTheme | default: false %}
@@ -65,11 +67,7 @@ eleventyComputed:
 	</nav>
 	<main>
 		{% unless noNav %}
-			{% if navTitle %}
-				{% assign bc = collections.all | eleventyNavigationBreadcrumb: navTitle, navOptions %}
-			{% else %}
-				{% assign bc = collections.all | eleventyNavigationBreadcrumb: title, navOptions %}
-			{% endif %}
+			{% assign bc = collections.all | eleventyNavigationBreadcrumb: key, navOptions %}
 			{% assign length = bc | size %}
 			{% if length > 2 %}
 				<div class="breadcrumbs">
