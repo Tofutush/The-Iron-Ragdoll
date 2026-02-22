@@ -9,8 +9,8 @@ permalink: "stories/tag/{{ tagName | slug }}/"
 eleventyNavigation:
   parent: "story-tags"
 eleventyComputed:
-  displayTitle: "Tag: {{ tagName }}"
-  title: "{{ tagName }}"
+  title: "Tag: {{ tagName }}"
+  navTitle: "{{ tagName }}"
   key: "stories-{{ tagName }}"
 ---
 {% assign filteredStories = collections.stories | filterStoriesByTag: tagName %}

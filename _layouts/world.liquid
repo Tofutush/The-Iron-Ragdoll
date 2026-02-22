@@ -5,7 +5,7 @@ layout: layout.liquid
 {% if categories %}
 <p class="smaller-text lighter-text">Categories: {% assign sortedCats = categories | sort %}{% for cat in sortedCats %}{% if forloop.index != 1 %}, {% endif %}<a href="/world/category/{{ cat | slug }}/">{{ cat }}</a>{% endfor %}</p>
 {% endif %}
-<h1>{% if displayTitle %}{{ displayTitle }}{% else %}{{ title }}{% endif %}</h1>
+<h1>{{ title }}</h1>
 {% if desc %}<p class="lighter-text">{{ desc }}</p>{% endif %}
 {{ content }}
 {% capture related %}{{ collections.all | eleventyNavigation: title }}{% endcapture %}

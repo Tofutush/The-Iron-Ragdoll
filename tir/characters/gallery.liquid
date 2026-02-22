@@ -8,9 +8,8 @@ pagination:
 permalink: "characters/{{ ch.name | lowerCase }}/gallery/"
 widepage: true
 eleventyComputed:
-  displayTitle: "{{ ch.name }}'s Gallery"
-  title: "Gallery"
-  key: "gallery-{{ ch.name }}"
+  title: "{{ ch.name }}'s Gallery"
+  navTitle: "Gallery"
   desc: "{{ ch.name }}'s gallery."
   banner: "{% if ch.banner %}{{ ch.banner }}{% else %}banner sparky{% endif %}"
   eleventyNavigation:

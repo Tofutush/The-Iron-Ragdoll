@@ -1,12 +1,12 @@
 ---
-title: Fanton
+title: The Republic of Fanton
+navTitle: Fanton
 eleventyNavigation:
   parent: World
   order: 2
 desc: What if tree-huggers made a country?
 tags:
   - fanton
-displayTitle: The Republic of Fanton
 categories:
   - Countries
   - Locations

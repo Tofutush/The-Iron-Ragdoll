@@ -9,8 +9,8 @@ permalink: "characters/tag/{{ tagName | slug }}/"
 eleventyNavigation:
   parent: "chs-tags"
 eleventyComputed:
-  displayTitle: "Tag: {{ tagName }}"
-  title: "{{ tagName }}"
+  title: "Tag: {{ tagName }}"
+  navTitle: "{{ tagName }}"
   key: "chs-{{ tagName }}"
 ---
 {% assign filteredChs = characters | filterChByTag: tagName %}
