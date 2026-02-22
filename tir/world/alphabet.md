@@ -5,8 +5,6 @@ tags:
   - lore
 categories:
   - Lore
-eleventyNavigation:
-  parent: World
 ---
 <style>table img {max-width: 100px;margin: auto;}</style>
 

@@ -1,8 +1,6 @@
 ---
 title: Tadlet Kingdom
 desc: Sunflower's paracosm.
-eleventyNavigation:
-  parent: World
 categories:
   - Misc
 ---
