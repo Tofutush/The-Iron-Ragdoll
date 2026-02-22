@@ -1,5 +1,6 @@
 ---
 permalink: "fun/guess/data.js"
+eleventyExcludeFromCollections: true
 ---
 {% assign data = characters | getGuessData: relationships %}
 const data = {{ data | json }};
