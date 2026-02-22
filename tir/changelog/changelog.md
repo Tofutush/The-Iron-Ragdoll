@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2026-02-22
 
 - Wrangled the navigation system a bit;
+	- Not just a little bit. A huge bit. Why do I always bring this upon myself;
 
 ## 2026-02-21
 
