@@ -7,9 +7,9 @@ categories:
   - Lore
 ---
 
-Everyone has a soul. It contains a person's entire identity: their self, their memories, their emotions. They are born with them and ideally should stay inside the person's body till death. The soul's color leaks into the person's eye and ears or horns, coloring them in as well. In the case of magicians, the soul color is also the color of their magic.
+Everyone has a soul. It contains a person's entire identity: their self, their memories, their emotions, their worldview. They are born with them and ideally should stay inside the person's body until death. The soul's color leaks into the person's eye and ears or horns, coloring them in as well. In the case of magicians, the soul color is also the color of their magic.
 
-Souls come in three forms: solid, liquid, and gas. (Or non-Newtonian, though that's incredibly rare.)
+Souls come in three forms: solid, liquid, and gas. (Or non-Newtonian, though that's incredibly rare.) The only way to determine what the form of a person's soul is is to extract it.
 
 Everyone is born with a perfectly spherical gas soul. The soul changes shape and form as the person grows (but the color never changes), and generally settles in place in their thirties.
 
@@ -21,11 +21,13 @@ In addition, souls are also where [superpowers](/world/superpowers/) are stored.
 
 A soul can be removed from a person. Soul extraction is a skill that can be learned and adopted by anyone, but it originated in [Sylvandia](/world/sylvandia/).
 
-Through a variety of techniques not limited to classic Sylvandian soul extraction (torture is a common example), your soul can manifest in your mouth, where it would then come out — commonly known as "barfing out[^1]." Most books on this topic are banned in places like [Bauhinia](/world/bauhinia/), [Moreland](/world/moreland/), and [Westavia](/world/westavia/) as they're deemed too dangerous.
+Through a variety of techniques not limited to classic Sylvandian soul extraction (torture is a common example), you can make someone's soul manifest in around their throat, where it would then come out — commonly known as "barfing out[^1]." Most books on this topic are banned in places like [Bauhinia](/world/bauhinia/), [Moreland](/world/moreland/), and [Westavia](/world/westavia/) as they're deemed too dangerous.
+
+When the soul is in a person's body, it does not assume its shape and form. It's the act of extraction that makes the soul manifest inside of the person's throat.
 
 People with no souls aren't people. They're just a body. Their eyes are empty, though their horns and ears would remain in color, serving as an indicator of the body's previous ownership.
 
-A body without a soul would usually die biologically within three days to a week, depending on the physique of the body. A soul without a body will disappear under normal circumstances too, within the span of a couple of hours. However, if a soul is stored in a vacuum, it can live on indefinitely.
+A body without a soul would usually die biologically within three days to a week, depending on the physique of the body. A soul without a body will disappear under normal circumstances too, within the span of a couple of hours. However, if a soul is stored in a vacuum, it can live on indefinitely. This is how Kismet's soul vault works, by storing all these souls in vacuum jars.
 
 Normal death entails the simultaneous death of the body and the soul, which is what normally happens most of the time.
 
