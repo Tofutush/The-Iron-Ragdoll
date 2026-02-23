@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-23
+
+- Added `banner bauhinia new.png` and updated pages accordingly;
+- New file, [Bauhinia Tower](/world/bauhinia/bauhinia-tower/);
+
 ## 2026-02-22
 
 - Wrangled the navigation system a bit;
