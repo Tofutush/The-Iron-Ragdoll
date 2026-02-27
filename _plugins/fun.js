@@ -32,7 +32,7 @@ function funPlugin(eleventyConfig) {
 function hasPic(ch) {
 	let thumb = gallery.filter(i => i.kind === 'thumb' && i.ch.length === 1 && i.ch.includes(ch.toLowerCase()));
 	if (thumb.length) return true;
-	let profile = gallery.filter(i => i.kind === 'thumb new' && i.ch.length === 1 && i.ch.includes(ch.toLowerCase()));
+	let profile = gallery.filter(i => i.kind === 'profile' && i.ch.length === 1 && i.ch.includes(ch.toLowerCase()));
 	if (profile.length) return true;
 	return false;
 }

@@ -144,7 +144,7 @@ eleventyNavigation:
 	<div class="callout-content">
 		<div class="three-grid">
 			{% for ch in characters %}
-				{% assign profile = gallery | filterGallery: ch.name | getFirstOfKind: 'thumb new' %}
+				{% assign profile = gallery | filterGallery: ch.name | getFirstOfKind: 'profile' %}
 				{% assign thumb = gallery | filterGallery: ch.name | getFirstOfKind: 'thumb' %}
 				{% assign soul = gallery | filterGallery: ch.name | getFirstOfKind: 'soul' %}
 				{% if profile or thumb or soul %}
@@ -160,7 +160,7 @@ eleventyNavigation:
 	<summary class="callout-title">Profiles</summary>
 	<div class="callout-content">
 		<div class="pic-grid but-smaller no-gap">
-			{% assign profiles = gallery | filterGalleryByKind: "thumb new" %}
+			{% assign profiles = gallery | filterGalleryByKind: "profile" %}
 			{% for img in profiles %}
 				<a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
 			{% endfor %}
