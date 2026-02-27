@@ -144,12 +144,14 @@ eleventyNavigation:
 	<div class="callout-content">
 		<div class="three-grid">
 			{% for ch in characters %}
-				{% assign profile = ch.name | lowerCase | append: ' profile' %}
-				{% assign thumb = ch.name | lowerCase | append: ' thumb' %}
-				{% assign soul = ch.name | lowerCase | append: ' soul' %}
-				<a href="/characters/{{ ch.name | lowerCase }}">{% image profile 200 0 '' 'gallery/literally empty.png' %}</a>
-				<a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 200 0 '' 'gallery/literally empty.png' %}</a>
-				<a href="/characters/{{ ch.name | lowerCase }}">{% image soul 200 0 '' 'gallery/literally empty.png' %}</a>
+				{% assign profile = gallery | filterGallery: ch.name | getFirstOfKind: 'thumb new' %}
+				{% assign thumb = gallery | filterGallery: ch.name | getFirstOfKind: 'thumb' %}
+				{% assign soul = gallery | filterGallery: ch.name | getFirstOfKind: 'soul' %}
+				{% if profile or thumb or soul %}
+					<a href="/characters/{{ ch.name | lowerCase }}">{% image profile 200 0 '' 'gallery/literally empty.png' %}</a>
+					<a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 200 0 '' 'gallery/literally empty.png' %}</a>
+					<a href="/characters/{{ ch.name | lowerCase }}">{% image soul 200 0 '' 'gallery/literally empty.png' %}</a>
+				{% endif %}
 			{% endfor %}
 		</div>
 	</div>
