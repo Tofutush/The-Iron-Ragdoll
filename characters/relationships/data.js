@@ -994,7 +994,7 @@ minor: true
 source: "Sky",
 target: "Goose",
 rel1: "apprentice",
-rel2: "shimu",
+rel2: "mentor",
 
 },
 
@@ -1562,7 +1562,7 @@ rel2: "colleague",
 source: "Paperweight",
 target: "Whiteout",
 rel1: "apprentice",
-rel2: "shimu",
+rel2: "mentor",
 
 },
 
