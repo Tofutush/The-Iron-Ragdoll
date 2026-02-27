@@ -6289,5 +6289,37 @@
       "sky"
     ],
     "kind": "ref"
+  },
+  {
+    "name": "blackjack profile",
+    "type": "png",
+    "ch": [
+      "blackjack"
+    ],
+    "kind": "profile"
+  },
+  {
+    "name": "jumbo profile",
+    "type": "png",
+    "ch": [
+      "jumbo"
+    ],
+    "kind": "profile"
+  },
+  {
+    "name": "mulberry profile",
+    "type": "png",
+    "ch": [
+      "mulberry"
+    ],
+    "kind": "profile"
+  },
+  {
+    "name": "tsunami profile",
+    "type": "png",
+    "ch": [
+      "tsunami"
+    ],
+    "kind": "profile"
   }
 ]

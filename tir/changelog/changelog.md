@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-02-27
+
+- Added `blackjack profile.png`, `jumbo profile.png`, `mulberry profile.png`, `tsunami profile.png`;
+
 ## 2026-02-25
 
 - Added `sky ref.png`;
