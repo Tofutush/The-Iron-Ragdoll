@@ -15,7 +15,7 @@ eleventyNavigation:
 		background-color: var(--box);
 	}
 </style>
-<p>Every character needs these three pictures: a thumb, a profile (cursedly called "thumb new" in my data file), and a reference — that is, if they even have a design in the first place.</p>
+<p>Every character needs these three pictures: a thumb, a profile, and a reference — that is, if they even have a design in the first place.</p>
 <p>I call them "Mandatory Character Art" (MCA). This page charts the progress I'm making on them!</p>
 {% assign total = 0 %}
 <dl>
@@ -46,7 +46,7 @@ eleventyNavigation:
 		{% for ch in characters %}
 			{% assign filteredGallery = gallery | filterGallery: ch.name %}
 			{% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
-			{% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+			{% assign profile = filteredGallery | filterGalleryByKind: 'profile' %}
 			{% if thumb.size == 1 and profile.size == 0 %}
 				{% include 'chButton', ch: ch.name %}
 			{% endif %}
@@ -71,7 +71,7 @@ eleventyNavigation:
 	<dd class="tags">
 		{% for ch in characters %}
 			{% assign filteredGallery = gallery | filterGallery: ch.name %}
-			{% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+			{% assign profile = filteredGallery | filterGalleryByKind: 'profile' %}
 			{% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
 			{% if profile.size == 1 and ref.size == 0 %}
 				{% include 'chButton', ch: ch.name %}
@@ -86,7 +86,7 @@ eleventyNavigation:
 		{% for ch in characters %}
 			{% assign filteredGallery = gallery | filterGallery: ch.name %}
 			{% assign thumb = filteredGallery | filterGalleryByKind: 'thumb' %}
-			{% assign profile = filteredGallery | filterGalleryByKind: 'thumb new' %}
+			{% assign profile = filteredGallery | filterGalleryByKind: 'profile' %}
 			{% assign ref = filteredGallery | filterGalleryByKind: 'ref' %}
 			{% assign soul = filteredGallery | filterGalleryByKind: 'soul' %}
 			{% if thumb.size == 1 and profile.size == 1 and ref.size == 1 and soul.size == 1 %}

@@ -397,7 +397,7 @@
       "ribbon"
     ],
     "date": "2025-02-07",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "ribbon turn",
@@ -1390,7 +1390,7 @@
       "buttercup"
     ],
     "date": "2025-01-14",
-    "kind": "thumb new",
+    "kind": "profile",
     "comment": "Is she not cool as snabbergatt? Answer me!"
   },
   {
@@ -1428,7 +1428,7 @@
       "sparky"
     ],
     "date": "2025-01-18",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "trinket profile",
@@ -1437,7 +1437,7 @@
       "trinket"
     ],
     "date": "2025-01-18",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "tiramisu",
@@ -1508,7 +1508,7 @@
       "nightsun"
     ],
     "date": "2025-02-03",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "elegance hugging muffin",
@@ -1524,7 +1524,7 @@
     "ch": [
       "willow"
     ],
-    "kind": "thumb new",
+    "kind": "profile",
     "date": "2025-02-04"
   },
   {
@@ -1609,7 +1609,7 @@
       "cosmo"
     ],
     "date": "2025-02-14",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "tephra profile",
@@ -1618,7 +1618,7 @@
       "tephra"
     ],
     "date": "2025-02-14",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "tomato profile",
@@ -1627,7 +1627,7 @@
       "tomato"
     ],
     "date": "2025-02-15",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "jerboa profile",
@@ -1636,7 +1636,7 @@
       "jerboa"
     ],
     "date": "2025-02-15",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "nightsun bramble",
@@ -2183,7 +2183,7 @@
       "goose"
     ],
     "date": "2025-03-07",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "qibli profile",
@@ -2192,7 +2192,7 @@
       "qibli"
     ],
     "date": "2025-03-07",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "pumpkin profile",
@@ -2201,7 +2201,7 @@
       "pumpkin"
     ],
     "date": "2025-03-08",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "paperweight profile",
@@ -2210,7 +2210,7 @@
       "paperweight"
     ],
     "date": "2025-03-08",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "amber profile",
@@ -2219,7 +2219,7 @@
       "amber"
     ],
     "date": "2025-03-09",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "peacock profile",
@@ -2228,7 +2228,7 @@
       "peacock"
     ],
     "date": "2025-03-09",
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "xuer",
@@ -2925,7 +2925,7 @@
     "name": "whiteout profile",
     "type": "png",
     "date": "2025-04-02",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "whiteout"
     ]
@@ -2966,7 +2966,7 @@
     "name": "halcyon profile",
     "type": "png",
     "date": "2025-04-07",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "halcyon"
     ]
@@ -3072,7 +3072,7 @@
     "ch": [
       "sky"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "firecrackers profile",
@@ -3081,7 +3081,7 @@
     "ch": [
       "firecrackers"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "frosting stand",
@@ -3147,7 +3147,7 @@
     "ch": [
       "jasmine"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "penelope",
@@ -3159,7 +3159,7 @@
     "name": "beauty profile",
     "type": "png",
     "date": "2025-05-01",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "beauty"
     ]
@@ -3168,7 +3168,7 @@
     "name": "chastity profile",
     "type": "png",
     "date": "2025-05-01",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "chastity"
     ]
@@ -3177,7 +3177,7 @@
     "name": "devotion profile",
     "type": "png",
     "date": "2025-05-01",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "devotion"
     ]
@@ -3186,7 +3186,7 @@
     "name": "elegance profile",
     "type": "png",
     "date": "2025-05-01",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "elegance"
     ]
@@ -3248,7 +3248,7 @@
     "name": "animus profile",
     "type": "png",
     "date": "2025-05-18",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "animus"
     ]
@@ -3284,7 +3284,7 @@
     "name": "fantasy profile",
     "type": "png",
     "date": "2025-05-20",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "fantasy"
     ]
@@ -3293,7 +3293,7 @@
     "name": "ironheart profile",
     "type": "png",
     "date": "2025-05-20",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "ironheart"
     ]
@@ -3302,7 +3302,7 @@
     "name": "candlelight profile",
     "type": "png",
     "date": "2025-05-21",
-    "kind": "thumb new",
+    "kind": "profile",
     "ch": [
       "candlelight"
     ]
@@ -3899,7 +3899,7 @@
     "ch": [
       "potato"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "pb kids",
@@ -4027,7 +4027,7 @@
     "ch": [
       "myriad"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "alaska profile",
@@ -4036,7 +4036,7 @@
     "ch": [
       "alaska"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "guillotine profile",
@@ -4045,7 +4045,7 @@
     "ch": [
       "guillotine"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "sparky stupied",
@@ -4211,7 +4211,7 @@
     "ch": [
       "jaculus"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "pumpkin ref",
@@ -4239,7 +4239,7 @@
     "ch": [
       "nebula"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "jinx horse",
@@ -4550,7 +4550,7 @@
     "ch": [
       "harmony"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "nightsun sparky blank",
@@ -4591,7 +4591,7 @@
     "ch": [
       "entity"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "frosting profile",
@@ -4600,7 +4600,7 @@
     "ch": [
       "frosting"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "sugarcane profile",
@@ -4609,7 +4609,7 @@
     "ch": [
       "sugarcane"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "gift mc",
@@ -4858,7 +4858,7 @@
     "ch": [
       "sunflower"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "icicle profile",
@@ -4867,7 +4867,7 @@
     "ch": [
       "icicle"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "starry profile",
@@ -4876,7 +4876,7 @@
     "ch": [
       "starry"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "goose ref",
@@ -6111,7 +6111,7 @@
     "ch": [
       "jackalope"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "sundew profile",
@@ -6120,7 +6120,7 @@
     "ch": [
       "sundew"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "jinx profile",
@@ -6129,7 +6129,7 @@
     "ch": [
       "jinx"
     ],
-    "kind": "thumb new"
+    "kind": "profile"
   },
   {
     "name": "chastity evil",
@@ -6278,6 +6278,7 @@
     "name": "banner bauhinia new",
     "type": "png",
     "date": "2026-02-23",
+    "kind": "banner",
     "comment": "Fuck was that tower hard to draw!"
   },
   {
