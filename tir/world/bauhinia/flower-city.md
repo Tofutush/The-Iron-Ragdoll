@@ -1,6 +1,6 @@
 ---
 title: Flower City
-desc: Capital and cultural center of Bauhinia
+desc: Capital and cultural center of Bauhinia. The panopticon.
 categories:
   - Cities
   - Locations
