@@ -1,7 +1,5 @@
-h1,
-h2,
-h3,
-dt {
+dl>dt,
+.names>h1 {
 	color: var(--accent);
 }
 
