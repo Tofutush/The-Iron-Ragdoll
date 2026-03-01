@@ -35,7 +35,7 @@
 .ch {
 	align-items: center;
 	background-color: var(--box);
-	border-radius: 1em;
+	border-radius: 12%;
 	display: flex;
 	justify-content: center;
 	overflow: hidden;

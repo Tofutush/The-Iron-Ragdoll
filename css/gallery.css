@@ -5,10 +5,9 @@
 }
 
 .img {
-
 	&>img {
 		background-color: var(--box);
-		border-radius: 1em;
+		border-radius: 12%;
 		cursor: pointer;
 		object-fit: cover;
 		width: 100%;
