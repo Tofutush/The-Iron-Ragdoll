@@ -30,8 +30,6 @@ parent: Characters
     {% assign filteredGallery = filteredGallery | getFirst10 %}
   {% endif %}
   <div class="title">
-    {% assign iconPath = ch.name | lowerCase | append: " thumb" %}
-    {% assign profilePath = ch.name | lowerCase | append: " profile" %}
     <div>
       {% getProfileOrThumb ch.name 500 %}
       {% if soul %}
@@ -104,28 +102,27 @@ parent: Characters
   {% endif %}
   {% if majorRelations.size > 0 or minorRelations.size > 0 %}
     <h2 id="relationships">Relationships</h2>
-    {% assign count = 0 %}
     {% for rel in majorRelations %}
-      <div class="card">
+      <section class="card">
         {% assign otherCh = rel | getOtherCh: ch.name %}
         {% assign relImg = rel | getRelImg %}
         {% if relImg %}
-          {% assign mod = count | modulo: 2 %}
-          {% if mod == 0 %}
-            {% assign class = 'float-left rel-img' %}
-          {% else %}
-            {% assign class='float-right rel-img' %}
-          {% endif %}
           {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
           {% if relImg.author %}
             {% assign alt = alt | append: ' by ' | append: relImg.author %}
           {% endif %}
-          {% image relImg 500 alt class %}
-          {% assign count = count | plus: 1 %}
+          {% image relImg 500 alt 'float-right rel-img' %}
+        {% else %}
+          {% assign iconPath = otherCh[0] | lowerCase | append: " thumb" %}
+          {% assign profilePath = otherCh[0] | lowerCase | append: " profile" %}
+          {% assign otherChName = otherCh[0] %}
+          {% image profilePath 200 otherChName 'float-right rel-img round' iconPath %}
         {% endif %}
-        <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</h3>
+        {% assign count = count | plus: 1 %}
+        <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a></h3>
+        {% if otherCh[1] %}<p class="smaller-text lighter-text">{{ otherCh[1] }}</p>{% endif %}
         {{ rel.desc | renderMD }}
-      </div>
+      </section>
     {% endfor %}
     {% if minorRelations.size > 0 %}
       <ul>
