@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2026-03-02
 
 - Added single character images to relationship descriptions with no two-character image;
+- Added `cherry thumb.png`, `sparky idk.png`, `goose nightmare.png` and its no background variant;
 
 ## 2026-02-27
 
