@@ -78,13 +78,17 @@ blockquote {
 
 .rel-img {
 	max-height: 8em;
-	max-width: 8em;
+	max-width: 6em;
 	width: auto;
 	height: auto;
+
+	&.round {
+		border-radius: 999px;
+	}
 }
 
 .card h3 {
-	color: var(--text);
+	margin-top: .5em;
 
 	&::before {
 		content: '';
