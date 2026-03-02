@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-02
+
+- Added single character images to relationship descriptions with no two-character image;
+
 ## 2026-02-27
 
 - Added `blackjack profile.png`, `jumbo profile.png`, `mulberry profile.png`, `tsunami profile.png`;
