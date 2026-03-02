@@ -317,7 +317,7 @@ img: "/The-Iron-Ragdoll/img/yzU3D1P0VB-500.webp"
 name: "Cherry",
 color: "#601346",
 desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/bz1j03_rxk-500.webp"
 },
 
 

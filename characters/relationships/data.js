@@ -238,7 +238,7 @@ img: "/The-Iron-Ragdoll/img/1v7HLg1ORT-200.webp",
 {
 id: "Cherry",
 color: "#601346",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/bz1j03_rxk-200.webp",
 },
 
 {
