@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-03
+
+- Updated [Progress](/gallery/progress/);
+	- Added fullbodies and pagedolls as MCAs and turned it into a neat table;
+
 ## 2026-03-02
 
 - Added single character images to relationship descriptions with no two-character image;
