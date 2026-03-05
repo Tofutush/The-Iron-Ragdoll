@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-04
+
+- Added `buttercup mad.png`;
+
 ## 2026-03-03
 
 - Updated [Progress](/gallery/progress/);
