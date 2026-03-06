@@ -1,6 +1,8 @@
 {% assign dateMonth = 0 | getMMDD %}
 {% assign month = dateMonth[1] %}
-{% if dateMonth | between: "02-15", "02-21" %}
+{% if dateMonth == "05-24" %}
+    <div id="flag" title="Pansexual" style="background-image:linear-gradient(#ff218c,#ff218c 33.3%,#fed800 33.3%,#fed800 66.6%,#21b1ff 66.6%);"></div>
+{% elsif dateMonth | between: "02-15", "02-21" %}
     <div id="flag" title="Aromantic" style="background-image:linear-gradient(#3ca542,#3ca542 20%,#a8d377 20%,#a8d377 40%,#fff 40%,#fff 60%,#a9a9a9 60%,#a9a9a9 80%,#000 80%);"></div>
 {% elsif dateMonth | between: "04-20", "04-26" %}
     <div id="flag" title="Lesbian" style="background-image:linear-gradient(#d42c00,#d42c00 20%,#fd9855 20%,#fd9855 40%,#fff 40%,#fff 60%,#d161a2 60%,#d161a2 80%,#a20161 80%);"></div>
