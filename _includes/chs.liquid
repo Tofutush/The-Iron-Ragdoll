@@ -1,1 +1,1 @@
-<div class="chs">{% for ch in chs %}<div><div class="ch" style="--c: {{ ch.color }}"><a href="/characters/{{ ch.name | lowerCase }}/">{% getProfileOrThumb ch.name 200 %}</a></div>{% include 'chButton', ch: ch.name %}</div>{% endfor %}</div>
+<div class="chs">{% for ch in chs %}<div><div class="ch" style="--c: {{ ch.color }}"><a href="/characters/{{ ch.name | lowerCase }}/" tabindex="-1">{% getProfileOrThumb ch.name 200 %}</a></div>{% include 'chButton', ch: ch.name %}</div>{% endfor %}</div>
