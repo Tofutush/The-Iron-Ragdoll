@@ -1,7 +1,7 @@
 <div class="gallery">
 {% for img in imgs %}
 	<div class="img">
-		{% image img 200 %}
+		<button class="thumb">{% image img 200 %}</button>
 		<div class="modal">
 			<button class="close">{% lucide 'x' 48 %}</button>
 			<button class="prev">{% lucide 'chevron-left' 48 'var(--off-white)' %}</button>
