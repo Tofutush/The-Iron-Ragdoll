@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-06
+
+- Added `pumpkin hang.png`, `halcyon float.png`;
+
 ## 2026-03-04
 
 - Added `buttercup mad.png`;
