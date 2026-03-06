@@ -6367,5 +6367,23 @@
       "buttercup"
     ],
     "kind": "pagedoll"
+  },
+  {
+    "name": "pumpkin hang",
+    "type": "png",
+    "date": "2026-03-06",
+    "ch": [
+      "pumpkin"
+    ],
+    "kind": "pagedoll"
+  },
+  {
+    "name": "halcyon float",
+    "type": "png",
+    "date": "2026-03-06",
+    "ch": [
+      "halcyon"
+    ],
+    "kind": "pagedoll"
   }
 ]
