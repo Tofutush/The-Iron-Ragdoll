@@ -89,12 +89,12 @@ eleventyComputed:
 	{% unless siteTheme and noFooterImage %}
 		<footer>
 			{% unless siteTheme %}
-				<div class="theme-toggle">
+				<button class="theme-toggle">
 					<div>
 						{% lucide 'sun' %}
 						{% lucide 'moon' %}
 					</div>
-				</div>
+				</button>
 				<script>
 					(function () {
 						let toggle = document.querySelector('.theme-toggle');
