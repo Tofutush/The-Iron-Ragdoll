@@ -670,6 +670,7 @@ code {
 }
 
 .theme-toggle {
+	box-sizing: content-box;
 	position: absolute;
 	z-index: 99;
 	background-color: var(--c);
