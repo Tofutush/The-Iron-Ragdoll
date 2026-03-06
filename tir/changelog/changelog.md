@@ -9,6 +9,9 @@ eleventyNavigation:
 ## 2026-03-06
 
 - Added `pumpkin hang.png`, `halcyon float.png`;
+- To honor my experience in choosing the *one* computer without a mouse and navigating Google Drive with a keyboard for like half an hour, I enhanced keyboard navigation on this site;
+	- Now you can focus on the theme toggle and gallery thumbnails with your keyboard;
+	- I didn't add a "skip to content" link though since I don't have a shitton of navigation links, but that may be a consideration to make;
 
 ## 2026-03-04
 
