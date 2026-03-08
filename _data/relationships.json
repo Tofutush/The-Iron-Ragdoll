@@ -2286,6 +2286,71 @@
   {
     "ch": [
       [
+        "Jackalope",
+        "handler"
+      ],
+      [
+        "Spark",
+        "agent"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Jackalope",
+        "handler"
+      ],
+      [
+        "Chariot",
+        "agent"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Jackalope",
+        "handler"
+      ],
+      [
+        "Equestria",
+        "agent"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Jackalope",
+        "handler"
+      ],
+      [
+        "Ivory",
+        "agent"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Jackalope",
+        "handler"
+      ],
+      [
+        "Tiara",
+        "agent"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Entity",
         "father"
       ],

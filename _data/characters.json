@@ -2018,5 +2018,73 @@
     },
     "about": "Holly had an older sister, but one day she fell sick from terminal illness. Not wanting to lose her forever, Holly's parents transplanted her sister's soul into Holly, leaving her body to die alone. It was illegal, so they told Holly to tell everyone she has ~~homophobia~~ heterochromia.\n\nThe merge went well but Holly never really accepted the fact that her late sister was a part of her now. Holly's own green soul remained dominant, though her newfound hyperawareness power came from her sister.\n\nHolly wanted to be a TV star. The first show she went on was The Bodyguard Show as a principal, and she worked with Sparky.",
     "note": "- Eye and eyebrows: left red, right green.\n- Eyelashes and ears: left green, right red."
+  },
+  {
+    "name": "Spark",
+    "namezh": "星火",
+    "color": "#f25088",
+    "desc": "The pawn.",
+    "tags": [
+      "Ministry of State Security",
+      "Flower City",
+      "Bauhinia",
+      "Gambit Five"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian"
+    }
+  },
+  {
+    "name": "Chariot",
+    "namezh": "战车",
+    "color": "#dab80b",
+    "desc": "The rook.",
+    "tags": [
+      "Flower City",
+      "Bauhinia",
+      "Gambit Five"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian"
+    }
+  },
+  {
+    "name": "Equestria",
+    "namezh": "千里马",
+    "color": "#339ee1",
+    "desc": "The knight.",
+    "tags": [
+      "Bauhinia",
+      "Gambit Five"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian"
+    }
+  },
+  {
+    "name": "Ivory",
+    "namezh": "象牙",
+    "color": "#ae51ec",
+    "desc": "The bishop.",
+    "tags": [
+      "Bauhinia",
+      "Gambit Five"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian"
+    }
+  },
+  {
+    "name": "Tiara",
+    "namezh": "冠冕",
+    "color": "#919191",
+    "desc": "The queen.",
+    "tags": [
+      "Bauhinia",
+      "Gambit Five"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian"
+    }
   }
 ]
