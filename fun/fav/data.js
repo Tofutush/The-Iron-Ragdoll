@@ -728,4 +728,44 @@ desc: "Prospective TV star.",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 },
 
+
+{
+name: "Spark",
+color: "#f25088",
+desc: "The pawn.",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
+name: "Chariot",
+color: "#dab80b",
+desc: "The rook.",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
+name: "Equestria",
+color: "#339ee1",
+desc: "The knight.",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
+name: "Ivory",
+color: "#ae51ec",
+desc: "The bishop.",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
+name: "Tiara",
+color: "#919191",
+desc: "The queen.",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
 ];
