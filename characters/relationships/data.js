@@ -547,6 +547,36 @@ color: "#1a5022",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
+{
+id: "Spark",
+color: "#f25088",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Chariot",
+color: "#dab80b",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Equestria",
+color: "#339ee1",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Ivory",
+color: "#ae51ec",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Tiara",
+color: "#919191",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
 ],
 rel: [
 
@@ -1955,6 +1985,46 @@ source: "Jackalope",
 target: "Typhoon",
 rel1: "trainee",
 rel2: "instructor",
+minor: true
+},
+
+{
+source: "Jackalope",
+target: "Spark",
+rel1: "handler",
+rel2: "agent",
+minor: true
+},
+
+{
+source: "Jackalope",
+target: "Chariot",
+rel1: "handler",
+rel2: "agent",
+minor: true
+},
+
+{
+source: "Jackalope",
+target: "Equestria",
+rel1: "handler",
+rel2: "agent",
+minor: true
+},
+
+{
+source: "Jackalope",
+target: "Ivory",
+rel1: "handler",
+rel2: "agent",
+minor: true
+},
+
+{
+source: "Jackalope",
+target: "Tiara",
+rel1: "handler",
+rel2: "agent",
 minor: true
 },
 
