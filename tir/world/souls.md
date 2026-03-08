@@ -9,6 +9,8 @@ categories:
 
 Everyone has a soul. It contains a person's entire identity: their self, their memories, their emotions, their worldview. They are born with them and ideally should stay inside the person's body until death. The soul's color leaks into the person's eye and ears or horns, coloring them in as well. In the case of magicians, the soul color is also the color of their magic.
 
+[[toc]]
+
 Souls come in three forms: solid, liquid, and gas. (Or non-Newtonian, though that's incredibly rare.) The only way to determine what the form of a person's soul is is to extract it.
 
 Everyone is born with a perfectly spherical gas soul. The soul changes shape and form as the person grows (but the color never changes), and generally settles in place in their thirties.
@@ -40,6 +42,18 @@ If there already *is* a soul (or souls) inside you, the new soul has to merge in
 Compatibility is determined by various factors, like values, life experiences, and what the owners of the respective souls think of each other, but the most important one is its form. Shape and color are not factors.
 
 Typically, gas souls are the most compatible with other forms, while solid the least. Non-Newtonian souls have similar compatibility to liquid ones. It would be extremely hard to merge two solid souls together, but other factors, like the owners of the souls being really good friends with each other, may increase compatibility.
+
+## "Gray Soul Disorder"
+
+Gray (or black, but collectively called "gray," as opposed to "colorful") souls are extremely rare, and a white soul had never been observed.
+
+In the Bauhinian Empire times, people believed gray souls to be genetic and eugenicists would usually kill a gray-souled baby on sight. In modern times, it is proven that gray souls (and soul color in general) have no relation to genetics. It appears spontaneously, in a similar fashion to [superpowers](/world/superpowers/).
+
+There had never been a successful merging of a gray soul, proven by many experiments, consensual or otherwise, aimed at merging gray souls of all forms with colorful souls or with each other. It is widely believed that a gray soul cannot be merged at all.
+
+Some people theorize that a gray soul is the sixth superpower a soul can have, as its appearance patterns are similar to that of other superpowers, and it does indeed have the "power" of repelling every other soul. Their argument is defeated by the fact that there have been plenty of gray-souled people with a superpower. But one can argue that the gray soul superpower is special.
+
+All the characters with gray souls that you have met or will meet are all pretty much grouches with hearts of gold though, but let's not be physiognomic about this.
 
 ## Related files
 

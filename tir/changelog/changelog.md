@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2026-03-08
 
 - Added the Gambit Five: [Spark](/characters/spark/), [Chariot](/characters/chariot/), [Equestria](/characters/equestria/), [Ivory](/characters/ivory/), and [Tiara](/characters/tiara/);
+- Added section [Gray Soul Disorder](/world/souls/#gray-soul-disorder);
 
 ## 2026-03-06
 
