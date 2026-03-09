@@ -577,6 +577,12 @@ color: "#919191",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
+{
+id: "Cornflower",
+color: "#45519d",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
 ],
 rel: [
 
@@ -2170,6 +2176,14 @@ target: "Typhoon",
 rel1: "trainee",
 rel2: "instructor",
 
+},
+
+{
+source: "Spark",
+target: "Cornflower",
+rel1: "friend",
+rel2: "friend",
+minor: true
 },
 
 ]
