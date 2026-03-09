@@ -298,4 +298,4 @@ She wandered aimlessly through the row of restaurants and shops. Sugarcane soon 
 
 "I have my phone. My parents gave me some allowance. Ice cream?"
 
-Harmony found the cheapest option on the menu. Sugarcane got a big sundae and paid for them both. All Harmony could think of was how to get the money to pay Sugarcane back.
+Harmony found the cheapest option on the menu. Sugarcane got a big sundae and paid for them both. All Harmony could think of was paying her back.

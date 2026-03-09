@@ -1870,6 +1870,10 @@
       "Nickname": "Gorgeous (by Entity)",
       "Soul": "Solid, diamond",
       "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#BCB36F",
+      "clothes": "#2e2e2e"
     }
   },
   {
@@ -2086,5 +2090,30 @@
     "attr": {
       "Nationality": "Bauhinian"
     }
+  },
+  {
+    "name": "Cornflower",
+    "namezh": "矢车菊",
+    "color": "#45519d",
+    "desc": "Wiretapper for the MSS.",
+    "tags": [
+      "Ministry of State Security",
+      "Flower City",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Soul": "Gas, cornflower-shaped",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "shoulder pads": "#f01ace",
+      "shirt": "#F0C8EA",
+      "boots": "#8c1078",
+      "hat symbol petal": "#c5c5c5",
+      "hat symbol border": "#A7A7A7",
+      "hair": "#979797",
+      "uniform": "#2e2e2e"
+    },
+    "trivia": "- She is a direct ripoff of Bkornblume from [Reverse: 1999](https://re1999.bluepoch.com/), because I love her and no one can stop me. Cornflower's soul color is colorpicked from Bkorn's scarf."
   }
 ]
