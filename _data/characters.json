@@ -2103,7 +2103,8 @@
     ],
     "attr": {
       "Soul": "Gas, cornflower-shaped",
-      "Nationality": "Bauhinian"
+      "Nationality": "Bauhinian",
+      "Power": "Hyperawareness lv. 50"
     },
     "palette": {
       "shoulder pads": "#f01ace",
@@ -2114,6 +2115,7 @@
       "hair": "#979797",
       "uniform": "#2e2e2e"
     },
-    "trivia": "- She is a direct ripoff of Bkornblume from [Reverse: 1999](https://re1999.bluepoch.com/), because I love her and no one can stop me. Cornflower's soul color is colorpicked from Bkorn's scarf."
+    "about": "Cornflower is a wiretapper for the MSS, spending all day sitting in her desk transcribing the various bugs installed all over Flower City.\n\nShe often leaves out incriminating information in her reports, protecting the people she's eavesdropping on. She was so good at making herself look like she's good at her job that no one noticed.",
+    "trivia": "- She is a direct ripoff of Bkornblume from [Reverse: 1999](https://re1999.bluepoch.com/), because I love her and no one can stop me. Cornflower's soul color is colorpicked from Bkorn's scarf.\n- Her long hair technically violates MSS dress code, as they require hair to either be short or tied up, but everyone thinks she's so good at her job that they let her keep her long hair untied.\n- Her actual hearing is impacted by covering her ears with headphones blasting noises all the time, so she often uses her hyperawareness powers to aid her hearing."
   }
 ]
