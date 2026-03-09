@@ -6,6 +6,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-09
+
+- Added character [Cornflower](/characters/cornflower/);
+- Added `gorgeous design.png`, `cornflower stand.png`;
+
 ## 2026-03-08
 
 - Added the Gambit Five: [Spark](/characters/spark/), [Chariot](/characters/chariot/), [Equestria](/characters/equestria/), [Ivory](/characters/ivory/), and [Tiara](/characters/tiara/);
