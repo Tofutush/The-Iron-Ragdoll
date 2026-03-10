@@ -53,3 +53,5 @@ Please don't draw parallels between my paracosm and real-life!
 I welcome any sort of derivative content, like fanart, OCs, and everything, as long as you understand that they are not canon. For what is worth, the [races](/world/races/) and [creatures](/world/creatures/) are also all classified as open species. Make sure to show me anything you make; I'd love to see them!
 
 CC-BY-NC-SA license applies; see the [License](#license) section!
+
+That being said, my paracosm is still something I hold dear to myself. This is not a media franchise, and should not be regarded as such. If the way you're interacting that makes me uncomfortable, I have a right to stop interacting with you. Thanks for understanding, and happy browsing!
