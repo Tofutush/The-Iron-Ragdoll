@@ -580,7 +580,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 {
 id: "Cornflower",
 color: "#45519d",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/Xijd859Q6I-200.webp",
 },
 
 ],
