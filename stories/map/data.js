@@ -277,6 +277,16 @@ const data = [
     },
 
     {
+        id: "The Gambit Five",
+        parentIds: [
+            
+                "Paperweight's Roadtrip",
+            
+        ],
+        url: "/stories/the-gambit-five/"
+    },
+
+    {
         id: "One Man Short",
         parentIds: [
             
