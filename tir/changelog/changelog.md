@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-11
+
+- Added `cornflower thumb.png`;
+
 ## 2026-03-10
 
 - Added story [The Gambit Five](/stories/the-gambit-five/);
