@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-10
+
+- Added story [The Gambit Five](/stories/the-gambit-five/);
+
 ## 2026-03-09
 
 - Added character [Cornflower](/characters/cornflower/);
