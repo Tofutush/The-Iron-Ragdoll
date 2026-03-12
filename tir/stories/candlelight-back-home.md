@@ -11,8 +11,6 @@ desc: Candlelight goes back home to his little village, meeting a more-than-frie
 myTags:
   - Westavia
   - Nameless village
-tags:
-  - candlelight-back-home
 prev:
   - "[Sunflowers in the Dark](/stories/sunflowers-in-the-dark/)"
   - "[A Nuke From Moreland](/stories/a-nuke-from-moreland/)"
