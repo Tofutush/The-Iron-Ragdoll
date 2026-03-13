@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-12
+
+- Added `jackalope half sit.png`, `chariot stand.png`;
+
 ## 2026-03-11
 
 - Added `cornflower thumb.png`;
