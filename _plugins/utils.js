@@ -48,14 +48,6 @@ function utilPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('randomItem', function (arr) {
 		return arr[Math.floor(Math.random() * arr.length)];
 	});
-	eleventyConfig.addFilter('getBDayStars', function (arr) {
-		let dateMonth = new Date().toISOString().slice(5, 10);
-		return arr.filter(ch => ch.attr?.Birth?.substring(5) === dateMonth);
-	});
-	eleventyConfig.addFilter('getHolidays', function (blah) {
-		let dateMonth = new Date().toISOString().slice(5, 10);
-		return holidays[dateMonth];
-	});
 	eleventyConfig.addFilter('getMMDD', function (bleh) {
 		return new Date().toISOString().slice(5, 10);
 	});

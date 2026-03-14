@@ -22,7 +22,7 @@ widepage: true
 <div class="calendar">
   <div><h1 id="{{ month.name | lowerCase }}">{{ month.name }}</h1></div>
   {% for day in month.days %}
-    <div{% if day.bdays.days %} class="has-birthday"{% endif %}>
+    <div>
       <div class="number{% if day.bdays.holidays %} has-holiday tooltip{% endif %}">
         {% if day.bdays.holidays %}
           <span class="tooltip-text">
@@ -38,7 +38,7 @@ widepage: true
           {% for bday in day.bdays.days %}
             <a href="{{ bday.url }}" class="tooltip">
               <span class="tooltip-text">{{ bday.alt }}</span>
-              {% image bday.image 100 bday.alt %}
+              {% image bday.image 200 bday.alt %}
             </a>
           {% endfor %}
         </div>

@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-13
+
+- Removed the birthday and holiday display because I got tired of them;
+
 ## 2026-03-12
 
 - Added `jackalope half sit.png`, `chariot stand.png`;
