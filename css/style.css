@@ -20,13 +20,6 @@
 }
 
 @font-face {
-	font-family: mclaren;
-	src: local(mclaren),
-		url(/The-Iron-Ragdoll/fonts/McLaren-Regular.ttf),
-		url(/fonts/McLaren-Regular.ttf);
-}
-
-@font-face {
 	font-family: noto sans arabic;
 	src: local(Noto Sans Arabic),
 		url(/The-Iron-Ragdoll/fonts/NotoSansArabic-VariableFont_wdth\,wght.ttf),
@@ -114,10 +107,10 @@ h3,
 h4 {
 	color: var(--text);
 	line-height: 2;
-	font-family: mclaren, lxgw-marker;
+	font-family: lexend, lxgw-marker;
 	letter-spacing: 1px;
-	margin-bottom: .75em;
-	margin-top: 1.25em;
+	margin-bottom: .5em;
+	margin-top: 1em;
 }
 
 h1 {
@@ -126,11 +119,6 @@ h1 {
 
 h2 {
 	font-size: var(--font-size-h2);
-	background-color: var(--box);
-	padding: 0 1em;
-	clip-path: polygon(0% 0%, 100% 0%, calc(100% - 1em) 50%, 100% 100%, 0% 100%);
-	border-radius: .4em 0 0 .4em;
-	clear: both;
 }
 
 h3 {
@@ -140,6 +128,7 @@ h3 {
 		content: '# ';
 		opacity: .5;
 	}
+
 }
 
 h4 {

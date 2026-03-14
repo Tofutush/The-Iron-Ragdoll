@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-14
+
+- Changed the heading styles again;
+
 ## 2026-03-13
 
 - Removed the birthday and holiday display because I got tired of them;
