@@ -1,6 +1,12 @@
 dl>dt,
-.names>h1 {
+.names>h1,
+h2,
+h3 {
 	color: var(--accent);
+}
+
+.img>.thumb:hover {
+	box-shadow: 0 0 0 .4em var(--accent);
 }
 
 blockquote {
@@ -89,6 +95,7 @@ blockquote {
 
 .card h3 {
 	margin-top: .5em;
+	color: var(--text);
 
 	&::before {
 		content: '';
