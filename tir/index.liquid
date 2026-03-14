@@ -26,38 +26,6 @@ title: Root
     <p>Start with <a href="/about/">About</a> and <a href="/world/overview/">world overview</a>!</p>
   </div>
 </details>
-{% assign bdayStars = characters | getBDayStars %}
-{% assign todayHolidays = 0 | getHolidays %}
-{% if bdayStars or todayHolidays %}
-  <section class="bday-holiday">
-    {% if bdayStars.size > 0 %}
-      <section class="bday">
-        <h2>Birthday{% if bdayStars.size > 1 %}s{% endif %}!</h2>
-        <section class="ch-cards {% if todayHolidays.size > 0 %}short{% endif %}">
-          {% for ch in bdayStars %}
-            <div class="ch-card" style="border-color: {{ ch.color }}">
-              <div>{% getProfileOrThumb ch.name 300 %}</div>
-              <div>
-                <h2><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></h2>
-                <p>{{ ch.desc }}</p>
-              </div>
-            </div>
-          {% endfor %}
-        </section>
-      </section>
-    {% endif %}
-    {% if todayHolidays.days.size > 0 %}
-      <section class="holiday">
-        <h2>Holiday{% if todayHolidays.size > 1 %}s{% endif %}!</h2>
-        <ul>
-        {% for day in todayHolidays.days %}
-          <li><a href="{{ day.url }}">{{ day.alt }}</a></li>
-        {% endfor %}
-        </ul>
-      </section>
-    {% endif %}
-  </section>
-{% endif %}
 <div class="box-nav solid">
   <a href="/fun/">{% lucide 'ferris-wheel' %}Fun stuff</a>
   <a href="/sitemap/">{% lucide 'code-xml' %} Sitemap</a>
