@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2026-03-14
 
 - Changed the heading styles again;
+- Decreased the godawful font size a bit. Hard refresh, and LMK if anything looks off!
 
 ## 2026-03-13
 
