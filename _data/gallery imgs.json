@@ -1,7 +1,6 @@
 [
   {
     "name": "alaska thumb",
-    "type": "png",
     "ch": [
       "alaska"
     ],
@@ -59,7 +58,6 @@
   },
   {
     "name": "buttercup stand",
-    "type": "png",
     "ch": [
       "buttercup"
     ],
@@ -69,7 +67,6 @@
   },
   {
     "name": "buttercup thumb",
-    "type": "png",
     "ch": [
       "buttercup"
     ],
@@ -78,7 +75,6 @@
   },
   {
     "name": "cms friends",
-    "type": "png",
     "ch": [
       "sparky",
       "sky",
@@ -90,7 +86,6 @@
   },
   {
     "name": "cosmo thumb",
-    "type": "png",
     "ch": [
       "cosmo"
     ],
@@ -99,7 +94,6 @@
   },
   {
     "name": "dragonfly thumb",
-    "type": "png",
     "ch": [
       "dragonfly"
     ],
@@ -108,7 +102,6 @@
   },
   {
     "name": "fantasy thumb",
-    "type": "png",
     "ch": [
       "fantasy"
     ],
@@ -133,7 +126,6 @@
   },
   {
     "name": "fern thumb",
-    "type": "png",
     "ch": [
       "fern"
     ],
@@ -142,7 +134,6 @@
   },
   {
     "name": "firecrackers thumb",
-    "type": "png",
     "ch": [
       "firecrackers"
     ],
@@ -151,7 +142,6 @@
   },
   {
     "name": "guillotine thumb",
-    "type": "png",
     "ch": [
       "guillotine"
     ],
@@ -160,7 +150,6 @@
   },
   {
     "name": "icicle old",
-    "type": "png",
     "ch": [
       "icicle"
     ],
@@ -169,7 +158,6 @@
   },
   {
     "name": "icicle thumb",
-    "type": "png",
     "ch": [
       "icicle"
     ],
@@ -178,7 +166,6 @@
   },
   {
     "name": "int",
-    "type": "png",
     "ch": [
       "peacock",
       "qibli",
@@ -190,7 +177,6 @@
   },
   {
     "name": "ironheart thumb",
-    "type": "png",
     "ch": [
       "ironheart"
     ],
@@ -199,7 +185,6 @@
   },
   {
     "name": "jerboa cute",
-    "type": "png",
     "ch": [
       "jerboa"
     ],
@@ -208,7 +193,6 @@
   },
   {
     "name": "jerboa head",
-    "type": "png",
     "ch": [
       "jerboa"
     ],
@@ -216,7 +200,6 @@
   },
   {
     "name": "jerboa stand",
-    "type": "png",
     "ch": [
       "jerboa"
     ],
@@ -225,7 +208,6 @@
   },
   {
     "name": "jerboa thumb",
-    "type": "png",
     "ch": [
       "jerboa"
     ],
@@ -234,7 +216,6 @@
   },
   {
     "name": "jerboa turn",
-    "type": "png",
     "ch": [
       "jerboa"
     ],
@@ -242,7 +223,6 @@
   },
   {
     "name": "lark thumb",
-    "type": "png",
     "ch": [
       "lark"
     ],
@@ -251,7 +231,6 @@
   },
   {
     "name": "melody old",
-    "type": "png",
     "ch": [
       "melody"
     ],
@@ -261,7 +240,6 @@
   },
   {
     "name": "melody sparky tephra",
-    "type": "png",
     "ch": [
       "melody",
       "sparky",
@@ -272,7 +250,6 @@
   },
   {
     "name": "melody thumb",
-    "type": "png",
     "ch": [
       "melody"
     ],
@@ -281,7 +258,6 @@
   },
   {
     "name": "moonbeam thumb",
-    "type": "png",
     "ch": [
       "moonbeam"
     ],
@@ -305,7 +281,6 @@
   },
   {
     "name": "myriad thumb",
-    "type": "png",
     "ch": [
       "myriad"
     ],
@@ -314,7 +289,6 @@
   },
   {
     "name": "myriad wings",
-    "type": "png",
     "ch": [
       "myriad"
     ],
@@ -323,7 +297,6 @@
   },
   {
     "name": "nightsun thumb",
-    "type": "png",
     "ch": [
       "nightsun"
     ],
@@ -332,7 +305,6 @@
   },
   {
     "name": "peacock family",
-    "type": "png",
     "ch": [
       "amber",
       "peacock",
@@ -347,7 +319,6 @@
   },
   {
     "name": "peacock thumb",
-    "type": "png",
     "ch": [
       "peacock"
     ],
@@ -356,7 +327,6 @@
   },
   {
     "name": "potato thumb",
-    "type": "png",
     "ch": [
       "potato"
     ],
@@ -366,7 +336,6 @@
   },
   {
     "name": "qibli thumb",
-    "type": "png",
     "ch": [
       "qibli"
     ],
@@ -375,7 +344,6 @@
   },
   {
     "name": "ribbon head",
-    "type": "png",
     "ch": [
       "ribbon"
     ],
@@ -383,7 +351,6 @@
   },
   {
     "name": "ribbon thumb",
-    "type": "png",
     "ch": [
       "ribbon"
     ],
@@ -392,7 +359,6 @@
   },
   {
     "name": "ribbon profile",
-    "type": "png",
     "ch": [
       "ribbon"
     ],
@@ -401,7 +367,6 @@
   },
   {
     "name": "ribbon turn",
-    "type": "png",
     "ch": [
       "ribbon"
     ],
@@ -409,7 +374,6 @@
   },
   {
     "name": "sky thumb",
-    "type": "png",
     "ch": [
       "sky"
     ],
@@ -418,7 +382,6 @@
   },
   {
     "name": "snake thumb",
-    "type": "png",
     "ch": [
       "snake"
     ],
@@ -427,7 +390,6 @@
   },
   {
     "name": "snowball thumb",
-    "type": "png",
     "ch": [
       "snowball"
     ],
@@ -436,7 +398,6 @@
   },
   {
     "name": "sparky and pearl stand",
-    "type": "png",
     "ch": [
       "sparky",
       "pearl"
@@ -446,7 +407,6 @@
   },
   {
     "name": "sparky and nightsun spinning",
-    "type": "png",
     "ch": [
       "sparky",
       "nightsun"
@@ -457,7 +417,6 @@
   },
   {
     "name": "sparky carrying pearl",
-    "type": "png",
     "ch": [
       "sparky",
       "pearl"
@@ -466,7 +425,6 @@
   },
   {
     "name": "sparky cute",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -475,7 +433,6 @@
   },
   {
     "name": "sparky dumb",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -484,7 +441,6 @@
   },
   {
     "name": "sparky elegance glowbugs",
-    "type": "png",
     "ch": [
       "sparky",
       "elegance"
@@ -494,7 +450,6 @@
   },
   {
     "name": "sparky expressions",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -502,7 +457,6 @@
   },
   {
     "name": "sparky head",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -510,7 +464,6 @@
   },
   {
     "name": "sparky jerboa deal",
-    "type": "png",
     "ch": [
       "sparky",
       "jerboa"
@@ -519,7 +472,6 @@
   },
   {
     "name": "sparky old",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -528,7 +480,6 @@
   },
   {
     "name": "sparky thumb",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -537,7 +488,6 @@
   },
   {
     "name": "sparky turn",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -545,7 +495,6 @@
   },
   {
     "name": "sparky xmas 2023",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -553,7 +502,6 @@
   },
   {
     "name": "sparky zombie",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -577,7 +525,6 @@
   },
   {
     "name": "starry thumb",
-    "type": "png",
     "ch": [
       "starry"
     ],
@@ -586,7 +533,6 @@
   },
   {
     "name": "sunny thumb",
-    "type": "png",
     "ch": [
       "sunny"
     ],
@@ -605,7 +551,6 @@
   },
   {
     "name": "tephra head",
-    "type": "png",
     "ch": [
       "tephra"
     ],
@@ -613,7 +558,6 @@
   },
   {
     "name": "tephra stand",
-    "type": "png",
     "ch": [
       "tephra"
     ],
@@ -622,7 +566,6 @@
   },
   {
     "name": "tephra thumb",
-    "type": "png",
     "ch": [
       "tephra"
     ],
@@ -631,7 +574,6 @@
   },
   {
     "name": "tephra turn",
-    "type": "png",
     "ch": [
       "tephra"
     ],
@@ -639,7 +581,6 @@
   },
   {
     "name": "tephra xmas 2023",
-    "type": "png",
     "ch": [
       "tephra"
     ],
@@ -647,7 +588,6 @@
   },
   {
     "name": "thunder thumb",
-    "type": "png",
     "ch": [
       "thunder"
     ],
@@ -656,7 +596,6 @@
   },
   {
     "name": "tomato thumb",
-    "type": "png",
     "ch": [
       "tomato"
     ],
@@ -665,7 +604,6 @@
   },
   {
     "name": "tundra stand",
-    "type": "png",
     "ch": [
       "tundra"
     ],
@@ -674,7 +612,6 @@
   },
   {
     "name": "tundra thumb",
-    "type": "png",
     "ch": [
       "tundra"
     ],
@@ -683,7 +620,6 @@
   },
   {
     "name": "willow thumb",
-    "type": "png",
     "ch": [
       "willow"
     ],
@@ -692,7 +628,6 @@
   },
   {
     "name": "tundra xmas 2023",
-    "type": "png",
     "ch": [
       "tundra"
     ],
@@ -701,7 +636,6 @@
   },
   {
     "name": "vampire thumb",
-    "type": "png",
     "ch": [
       "vampire"
     ],
@@ -710,7 +644,6 @@
   },
   {
     "name": "cosmo turn",
-    "type": "png",
     "ch": [
       "cosmo"
     ],
@@ -718,7 +651,6 @@
   },
   {
     "name": "animus thumb",
-    "type": "png",
     "ch": [
       "animus"
     ],
@@ -727,7 +659,6 @@
   },
   {
     "name": "amber thumb",
-    "type": "png",
     "ch": [
       "amber"
     ],
@@ -736,7 +667,6 @@
   },
   {
     "name": "beauty thumb",
-    "type": "png",
     "ch": [
       "beauty"
     ],
@@ -745,7 +675,6 @@
   },
   {
     "name": "chastity thumb",
-    "type": "png",
     "ch": [
       "chastity"
     ],
@@ -754,7 +683,6 @@
   },
   {
     "name": "devotion thumb",
-    "type": "png",
     "ch": [
       "devotion"
     ],
@@ -763,7 +691,6 @@
   },
   {
     "name": "elegance thumb",
-    "type": "png",
     "ch": [
       "elegance"
     ],
@@ -772,7 +699,6 @@
   },
   {
     "name": "cherry hyrax family",
-    "type": "png",
     "ch": [
       "beauty",
       "chastity",
@@ -784,7 +710,6 @@
   },
   {
     "name": "nightsun motorbike",
-    "type": "png",
     "ch": [
       "nightsun"
     ],
@@ -793,7 +718,6 @@
   },
   {
     "name": "jerboa family",
-    "type": "png",
     "ch": [
       "jerboa",
       "jaculus",
@@ -805,7 +729,6 @@
   },
   {
     "name": "sparky willow",
-    "type": "png",
     "ch": [
       "sparky",
       "willow"
@@ -815,7 +738,6 @@
   },
   {
     "name": "qibli stand wand",
-    "type": "png",
     "ch": [
       "qibli"
     ],
@@ -824,7 +746,6 @@
   },
   {
     "name": "sparky ironheart interrogation",
-    "type": "png",
     "ch": [
       "ironheart",
       "sparky"
@@ -835,7 +756,6 @@
   },
   {
     "name": "goose thumb",
-    "type": "png",
     "ch": [
       "goose"
     ],
@@ -844,7 +764,6 @@
   },
   {
     "name": "halcyon thumb",
-    "type": "png",
     "ch": [
       "halcyon"
     ],
@@ -853,7 +772,6 @@
   },
   {
     "name": "paperweight thumb",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -862,7 +780,6 @@
   },
   {
     "name": "pumpkin thumb",
-    "type": "png",
     "ch": [
       "pumpkin"
     ],
@@ -871,7 +788,6 @@
   },
   {
     "name": "goose stand",
-    "type": "png",
     "ch": [
       "goose"
     ],
@@ -879,7 +795,6 @@
   },
   {
     "name": "halcyon stand",
-    "type": "png",
     "ch": [
       "halcyon"
     ],
@@ -888,7 +803,6 @@
   },
   {
     "name": "mss groupshot",
-    "type": "png",
     "ch": [
       "halcyon",
       "pumpkin",
@@ -900,7 +814,6 @@
   },
   {
     "name": "pumpkin stand",
-    "type": "png",
     "ch": [
       "pumpkin"
     ],
@@ -909,7 +822,6 @@
   },
   {
     "name": "paperweight stand",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -918,7 +830,6 @@
   },
   {
     "name": "sparky nightsun back",
-    "type": "png",
     "ch": [
       "sparky",
       "nightsun"
@@ -928,7 +839,6 @@
   },
   {
     "name": "sparky dragonfly",
-    "type": "png",
     "ch": [
       "sparky",
       "dragonfly"
@@ -938,37 +848,31 @@
   },
   {
     "name": "buzz",
-    "type": "png",
     "date": "2024-09-19",
     "comment": "Art trade with [QuikSylver](https://toyhou.se/QuikSylver), featuring [Buzz](https://toyhou.se/24316710.polly-buzzcock/24934083.negaverse-au-mc-buzz)."
   },
   {
     "name": "mitzi ashford",
-    "type": "png",
     "date": "2024-09-11",
     "comment": "Art trade with [Ozzanpa_Wowzers](https://toyhou.se/Ozzanpa_Wowzers), featuring [Mitzi](https://toyhou.se/21751118.mitzi) and [Ashford](https://toyhou.se/15762038.ashford)."
   },
   {
     "name": "zuperbg",
-    "type": "png",
     "date": "2024-09-09",
     "comment": "Art trade with [HeebHullaballo](https://toyhou.se/HeebHullaballo), featuring [Zuper](https://toyhou.se/23960825.zuper)."
   },
   {
     "name": "odona",
-    "type": "png",
     "date": "2024-09-08",
     "comment": "Gift art for [wingsofmoonlight](https://toyhou.se/wingsofmoonlight), featuring [Odona](https://toyhou.se/29103402.odona)."
   },
   {
     "name": "lepolde",
-    "type": "png",
     "date": "2024-09-21",
     "comment": "Art trade with [Honk-Shoo](https://toyhou.se/Honk-Shoo), featuring [Lepolde](https://toyhou.se/27103327.lepolde-leppy)."
   },
   {
     "name": "pearl thumb",
-    "type": "png",
     "ch": [
       "pearl"
     ],
@@ -977,7 +881,6 @@
   },
   {
     "name": "cosmo alaska subway",
-    "type": "png",
     "ch": [
       "cosmo",
       "alaska"
@@ -987,19 +890,16 @@
   },
   {
     "name": "alex oris",
-    "type": "png",
     "date": "2024-09-25",
     "comment": "Art trade with [mangocryptid](https://toyhou.se/mangocryptid), featuring [Alex](https://toyhou.se/13431827.alex-myers) and [Oris](https://toyhou.se/8024024.oris-mizrah-wip-profile)."
   },
   {
     "name": "tbn soapbox",
-    "type": "png",
     "date": "2024-09-25",
     "comment": "Art trade with [S04PB0X](https://toyhou.se/S04PB0X), featuring [Gimme A Minute, Needs Name](https://toyhou.se/29380911.gimme-a-minute-needs-name)."
   },
   {
     "name": "melody jerboa",
-    "type": "png",
     "ch": [
       "melody",
       "jerboa"
@@ -1008,7 +908,6 @@
   },
   {
     "name": "silhouettes",
-    "type": "png",
     "ch": [
       "sparky",
       "ribbon",
@@ -1038,7 +937,6 @@
   },
   {
     "name": "sparky nuke",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -1046,7 +944,6 @@
   },
   {
     "name": "kids garbage",
-    "type": "png",
     "ch": [
       "qibli",
       "sky",
@@ -1057,7 +954,6 @@
   },
   {
     "name": "qibli sit",
-    "type": "png",
     "ch": [
       "qibli"
     ],
@@ -1066,7 +962,6 @@
   },
   {
     "name": "jaculus thumb",
-    "type": "png",
     "ch": [
       "jaculus"
     ],
@@ -1075,7 +970,6 @@
   },
   {
     "name": "koala thumb",
-    "type": "png",
     "ch": [
       "koala"
     ],
@@ -1084,7 +978,6 @@
   },
   {
     "name": "kangaroo thumb",
-    "type": "png",
     "ch": [
       "kangaroo"
     ],
@@ -1093,7 +986,6 @@
   },
   {
     "name": "qibli gape",
-    "type": "png",
     "ch": [
       "qibli"
     ],
@@ -1102,7 +994,6 @@
   },
   {
     "name": "404",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -1110,13 +1001,11 @@
   },
   {
     "name": "sonetto",
-    "type": "png",
     "date": "2024-10-25",
     "comment": "Fan art of Sonetto from Reverse: 1999."
   },
   {
     "name": "sparky carrying animus",
-    "type": "png",
     "ch": [
       "sparky",
       "animus"
@@ -1125,7 +1014,6 @@
   },
   {
     "name": "paperweight sit",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -1134,7 +1022,6 @@
   },
   {
     "name": "sparky adult",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -1143,7 +1030,6 @@
   },
   {
     "name": "nightsun sword",
-    "type": "png",
     "ch": [
       "nightsun"
     ],
@@ -1151,7 +1037,6 @@
   },
   {
     "name": "fern stand",
-    "type": "png",
     "ch": [
       "fern"
     ],
@@ -1160,7 +1045,6 @@
   },
   {
     "name": "snowball lights",
-    "type": "png",
     "ch": [
       "snowball"
     ],
@@ -1168,7 +1052,6 @@
   },
   {
     "name": "kids nuke",
-    "type": "png",
     "ch": [
       "firecrackers",
       "sky",
@@ -1181,7 +1064,6 @@
   },
   {
     "name": "goose goose",
-    "type": "png",
     "ch": [
       "goose"
     ],
@@ -1230,7 +1112,6 @@
   },
   {
     "name": "pumpkin horn",
-    "type": "png",
     "ch": [
       "pumpkin"
     ],
@@ -1238,7 +1119,6 @@
   },
   {
     "name": "beauty stand",
-    "type": "png",
     "ch": [
       "beauty"
     ],
@@ -1247,7 +1127,6 @@
   },
   {
     "name": "chastity stand",
-    "type": "png",
     "ch": [
       "chastity"
     ],
@@ -1256,7 +1135,6 @@
   },
   {
     "name": "devotion stand",
-    "type": "png",
     "ch": [
       "devotion"
     ],
@@ -1265,7 +1143,6 @@
   },
   {
     "name": "elegance stand",
-    "type": "png",
     "ch": [
       "elegance"
     ],
@@ -1274,13 +1151,11 @@
   },
   {
     "name": "dijkolo",
-    "type": "png",
     "date": "2024-11-25",
     "comment": "Fan art of Kolo and Dijamant, by [Numbers Story](https://numbersstory.com) by Kolo."
   },
   {
     "name": "sparky fern panda",
-    "type": "png",
     "ch": [
       "fern",
       "sparky"
@@ -1289,7 +1164,6 @@
   },
   {
     "name": "snake stand",
-    "type": "png",
     "ch": [
       "snake"
     ],
@@ -1298,7 +1172,6 @@
   },
   {
     "name": "pearl snake",
-    "type": "png",
     "ch": [
       "pearl",
       "snake"
@@ -1309,19 +1182,16 @@
   },
   {
     "name": "sprinkles",
-    "type": "png",
     "date": "2024-12-15",
     "comment": "Gift art for [CoddlingCod12](https://toyhou.se/CoddlingCod12), featuring [Sprinkles](https://toyhou.se/30611914.sprinkles)."
   },
   {
     "name": "huizhong",
-    "type": "png",
     "date": "2024-12-15",
     "comment": "Gift art for [steak_soda](https://toyhou.se/steak_soda), featuring [Huizhong](https://toyhou.se/20494110.huizhong)."
   },
   {
     "name": "paperweight young",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -1330,7 +1200,6 @@
   },
   {
     "name": "buttercup pride",
-    "type": "png",
     "ch": [
       "buttercup"
     ],
@@ -1338,37 +1207,31 @@
   },
   {
     "name": "milk",
-    "type": "png",
     "date": "2024-12-19",
     "comment": "Secret Santa gift for [ashtonic](https://toyhou.se/ashtonic), featuring [Milk](https://toyhou.se/3160139.milk/)."
   },
   {
     "name": "froese",
-    "type": "png",
     "date": "2024-12-25",
     "comment": "Commission for [WackySass](https://toyhou.se/wackysass), featuring [Froese](https://toyhou.se/22114456.froese)."
   },
   {
     "name": "jay jacome",
-    "type": "png",
     "date": "2024-12-26",
     "comment": "Gift art for [pepperpenguin](https://toyhou.se/pepperpenguin), featuring [Jay Jacome](https://toyhou.se/16537685.jay-jacome)."
   },
   {
     "name": "berlin eagle",
-    "type": "png",
     "date": "2024-12-31",
     "comment": "Fan art of Bkornblume and Eagle from Reverse: 1999."
   },
   {
     "name": "zuben el genubi",
-    "type": "png",
     "date": "2025-01-02",
     "comment": "Art trade with [Kolo](https://numbersstory.com), featuring [Zuben El Genubi](https://characters.numbersstory.com/chara/sol/zubenelgenubi)."
   },
   {
     "name": "cosmo snake year",
-    "type": "png",
     "ch": [
       "cosmo"
     ],
@@ -1376,7 +1239,6 @@
   },
   {
     "name": "peacock exploding butt",
-    "type": "png",
     "ch": [
       "peacock",
       "willow"
@@ -1385,7 +1247,6 @@
   },
   {
     "name": "buttercup profile",
-    "type": "png",
     "ch": [
       "buttercup"
     ],
@@ -1395,7 +1256,6 @@
   },
   {
     "name": "goose hidden face",
-    "type": "png",
     "ch": [
       "goose"
     ],
@@ -1405,7 +1265,6 @@
   },
   {
     "name": "sparky gape emoji",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -1413,7 +1272,6 @@
   },
   {
     "name": "sparky nightsun crossdress",
-    "type": "png",
     "ch": [
       "sparky",
       "nightsun"
@@ -1423,7 +1281,6 @@
   },
   {
     "name": "sparky profile",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -1432,7 +1289,6 @@
   },
   {
     "name": "trinket profile",
-    "type": "png",
     "ch": [
       "trinket"
     ],
@@ -1441,19 +1297,16 @@
   },
   {
     "name": "tiramisu",
-    "type": "png",
     "date": "2025-01-20",
     "comment": "Gift art for Ket, featuring Tiramisu."
   },
   {
     "name": "kraken",
-    "type": "png",
     "date": "2025-01-21",
     "comment": "Art trade with [Grimm](https://web-surfer.neocities.org), featuring [Lottie Deckard](https://web-surfer.neocities.org/chara/DeckardLottie)."
   },
   {
     "name": "sparky nightsun footer",
-    "type": "png",
     "ch": [
       "sparky",
       "nightsun"
@@ -1463,12 +1316,10 @@
   },
   {
     "name": "tadlet cycle",
-    "type": "png",
     "date": "2025-01-22"
   },
   {
     "name": "sparky willow hug",
-    "type": "png",
     "ch": [
       "sparky",
       "willow"
@@ -1478,7 +1329,6 @@
   },
   {
     "name": "qibli birthday",
-    "type": "png",
     "ch": [
       "qibli"
     ],
@@ -1486,7 +1336,6 @@
   },
   {
     "name": "willow ref",
-    "type": "png",
     "ch": [
       "willow"
     ],
@@ -1495,7 +1344,6 @@
   },
   {
     "name": "goosebumps",
-    "type": "png",
     "ch": [
       "goose"
     ],
@@ -1503,7 +1351,6 @@
   },
   {
     "name": "nightsun profile",
-    "type": "png",
     "ch": [
       "nightsun"
     ],
@@ -1512,7 +1359,6 @@
   },
   {
     "name": "elegance hugging muffin",
-    "type": "png",
     "ch": [
       "elegance"
     ],
@@ -1520,7 +1366,6 @@
   },
   {
     "name": "willow profile",
-    "type": "png",
     "ch": [
       "willow"
     ],
@@ -1529,7 +1374,6 @@
   },
   {
     "name": "jerboa idlegame idle",
-    "type": "png",
     "ch": [
       "jerboa"
     ],
@@ -1537,7 +1381,6 @@
   },
   {
     "name": "jerboa idlegame dig",
-    "type": "png",
     "ch": [
       "jerboa"
     ],
@@ -1545,7 +1388,6 @@
   },
   {
     "name": "tomato idlegame dig",
-    "type": "png",
     "ch": [
       "tomato"
     ],
@@ -1554,7 +1396,6 @@
   },
   {
     "name": "tomato idlegame idle",
-    "type": "png",
     "ch": [
       "tomato"
     ],
@@ -1562,7 +1403,6 @@
   },
   {
     "name": "paperweight bald 1",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -1570,7 +1410,6 @@
   },
   {
     "name": "paperweight bald 2",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -1578,7 +1417,6 @@
   },
   {
     "name": "lark pride",
-    "type": "png",
     "ch": [
       "lark"
     ],
@@ -1586,7 +1424,6 @@
   },
   {
     "name": "sparky pride",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -1594,7 +1431,6 @@
   },
   {
     "name": "majiang friends catch",
-    "type": "png",
     "ch": [
       "cobalt",
       "nightingale",
@@ -1604,7 +1440,6 @@
   },
   {
     "name": "cosmo profile",
-    "type": "png",
     "ch": [
       "cosmo"
     ],
@@ -1613,7 +1448,6 @@
   },
   {
     "name": "tephra profile",
-    "type": "png",
     "ch": [
       "tephra"
     ],
@@ -1622,7 +1456,6 @@
   },
   {
     "name": "tomato profile",
-    "type": "png",
     "ch": [
       "tomato"
     ],
@@ -1631,7 +1464,6 @@
   },
   {
     "name": "jerboa profile",
-    "type": "png",
     "ch": [
       "jerboa"
     ],
@@ -1640,7 +1472,6 @@
   },
   {
     "name": "nightsun bramble",
-    "type": "png",
     "ch": [
       "nightsun",
       "bramble"
@@ -1936,7 +1767,6 @@
   },
   {
     "name": "mss ref",
-    "type": "png",
     "ch": [
       "goose",
       "pumpkin",
@@ -1949,7 +1779,6 @@
   },
   {
     "name": "nightsun hug sparky",
-    "type": "png",
     "ch": [
       "nightsun",
       "sparky"
@@ -1958,7 +1787,6 @@
   },
   {
     "name": "cms friends lineless",
-    "type": "png",
     "ch": [
       "sky",
       "sparky",
@@ -1970,7 +1798,6 @@
   },
   {
     "name": "sky lineless",
-    "type": "png",
     "ch": [
       "sky"
     ],
@@ -1978,7 +1805,6 @@
   },
   {
     "name": "qibli lineless",
-    "type": "png",
     "ch": [
       "qibli"
     ],
@@ -1986,7 +1812,6 @@
   },
   {
     "name": "sparky firecrackers lineless",
-    "type": "png",
     "ch": [
       "sparky",
       "firecrackers"
@@ -1995,19 +1820,16 @@
   },
   {
     "name": "signe luna",
-    "type": "png",
     "date": "2025-02-27",
     "comment": "Art trade with [Indigaygo](https://toyhou.se/Indigaygo), featuring Signe and Luna."
   },
   {
     "name": "xavier",
-    "type": "png",
     "date": "2025-02-27",
     "comment": "Art trade with [Charessel](https://toyhou.se/Charessel), featuring Xavier."
   },
   {
     "name": "paperweight old young",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -2016,7 +1838,6 @@
   },
   {
     "name": "paperweight old half",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -2024,7 +1845,6 @@
   },
   {
     "name": "paperweight young half",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -2032,7 +1852,6 @@
   },
   {
     "name": "trinket thumb",
-    "type": "png",
     "ch": [
       "trinket"
     ],
@@ -2041,7 +1860,6 @@
   },
   {
     "name": "sundae symmetrical",
-    "type": "png",
     "ch": [
       "sundae"
     ],
@@ -2050,7 +1868,6 @@
   },
   {
     "name": "villagers",
-    "type": "png",
     "ch": [
       "helsinki",
       "pumpkin",
@@ -2061,7 +1878,6 @@
   },
   {
     "name": "candlelight half",
-    "type": "png",
     "ch": [
       "candlelight"
     ],
@@ -2069,7 +1885,6 @@
   },
   {
     "name": "helsinki half",
-    "type": "png",
     "ch": [
       "helsinki"
     ],
@@ -2077,7 +1892,6 @@
   },
   {
     "name": "mooncake half",
-    "type": "png",
     "ch": [
       "mooncake"
     ],
@@ -2085,7 +1899,6 @@
   },
   {
     "name": "pumpkin curly half",
-    "type": "png",
     "ch": [
       "pumpkin"
     ],
@@ -2093,7 +1906,6 @@
   },
   {
     "name": "cobalt thumb",
-    "type": "png",
     "ch": [
       "cobalt"
     ],
@@ -2102,7 +1914,6 @@
   },
   {
     "name": "nightingale thumb",
-    "type": "png",
     "ch": [
       "nightingale"
     ],
@@ -2111,7 +1922,6 @@
   },
   {
     "name": "skyhawk thumb",
-    "type": "png",
     "ch": [
       "skyhawk"
     ],
@@ -2120,19 +1930,16 @@
   },
   {
     "name": "lucky strike",
-    "type": "png",
     "date": "2025-03-05",
     "comment": "Forum game art for [BBungle](https://toyhou.se/BBungle), featuring [Lucky Strike](https://toyhou.se/7844065.lucky-strike)."
   },
   {
     "name": "alistair darius",
-    "type": "png",
     "date": "2025-03-05",
     "comment": "Forum game art for [Gannsi](https://toyhou.se/Gannsi), featuring Alistair and Darius."
   },
   {
     "name": "candlelight thumb",
-    "type": "png",
     "ch": [
       "candlelight"
     ],
@@ -2141,7 +1948,6 @@
   },
   {
     "name": "helsinki thumb",
-    "type": "png",
     "ch": [
       "helsinki"
     ],
@@ -2150,7 +1956,6 @@
   },
   {
     "name": "mooncake thumb",
-    "type": "png",
     "ch": [
       "mooncake"
     ],
@@ -2159,7 +1964,6 @@
   },
   {
     "name": "sunflower candlelight",
-    "type": "png",
     "ch": [
       "sunflower",
       "candlelight"
@@ -2169,7 +1973,6 @@
   },
   {
     "name": "sunflower thumb",
-    "type": "png",
     "ch": [
       "sunflower"
     ],
@@ -2178,7 +1981,6 @@
   },
   {
     "name": "goose profile",
-    "type": "png",
     "ch": [
       "goose"
     ],
@@ -2187,7 +1989,6 @@
   },
   {
     "name": "qibli profile",
-    "type": "png",
     "ch": [
       "qibli"
     ],
@@ -2196,7 +1997,6 @@
   },
   {
     "name": "pumpkin profile",
-    "type": "png",
     "ch": [
       "pumpkin"
     ],
@@ -2205,7 +2005,6 @@
   },
   {
     "name": "paperweight profile",
-    "type": "png",
     "ch": [
       "paperweight"
     ],
@@ -2214,7 +2013,6 @@
   },
   {
     "name": "amber profile",
-    "type": "png",
     "ch": [
       "amber"
     ],
@@ -2223,7 +2021,6 @@
   },
   {
     "name": "peacock profile",
-    "type": "png",
     "ch": [
       "peacock"
     ],
@@ -2232,13 +2029,11 @@
   },
   {
     "name": "xuer",
-    "type": "png",
     "date": "2025-03-10",
     "comment": "Gift art for [Kolo](https://numbersstory.com), featuring [Xuer](https://characters.numbersstory.com/chara/house/xuer).\n\nPssst, if you're Kolo and you saw this, this is *not* finished!"
   },
   {
     "name": "sparky tween",
-    "type": "png",
     "ch": [
       "sparky"
     ],
@@ -2254,7 +2049,6 @@
   },
   {
     "name": "buttercup lilyofthe428valley",
-    "type": "png",
     "author": "Lilyofthe328Valley",
     "authorUrl": "https://toyhou.se/Lilyofthe328Valley",
     "ch": [
@@ -2264,7 +2058,6 @@
   },
   {
     "name": "buttercup plowyawya",
-    "type": "png",
     "author": "plowyawya",
     "authorUrl": "https://toyhou.se/plowyawya",
     "ch": [
@@ -2274,7 +2067,6 @@
   },
   {
     "name": "buttercup martiansnake",
-    "type": "png",
     "author": "MartianSnake",
     "authorUrl": "https://toyhou.se/MartianSnake",
     "ch": [
@@ -2294,7 +2086,6 @@
   },
   {
     "name": "cosmo toasti",
-    "type": "png",
     "author": "t0asti3_",
     "authorUrl": "https://toyhou.se/t0asti3_",
     "ch": [
@@ -2326,7 +2117,6 @@
   },
   {
     "name": "goose wickie",
-    "type": "png",
     "author": "wickie",
     "authorUrl": "https://toyhou.se/wickie",
     "ch": [
@@ -2336,7 +2126,6 @@
   },
   {
     "name": "goose Charessel",
-    "type": "png",
     "author": "Charessel",
     "authorUrl": "https://toyhou.se/Charessel",
     "ch": [
@@ -2346,7 +2135,6 @@
   },
   {
     "name": "kolo goose pumpkin",
-    "type": "png",
     "author": "Kolo",
     "authorUrl": "https://numbersstory.com/",
     "ch": [
@@ -2367,7 +2155,6 @@
   },
   {
     "name": "goose soapbox",
-    "type": "png",
     "author": "S04PB0X",
     "authorUrl": "https://toyhou.se/S04PB0X",
     "ch": [
@@ -2377,7 +2164,6 @@
   },
   {
     "name": "goose deny005",
-    "type": "png",
     "author": "Deny005",
     "authorUrl": "https://toyhou.se/Deny005",
     "ch": [
@@ -2387,7 +2173,6 @@
   },
   {
     "name": "jerboa heebhullaballo",
-    "type": "png",
     "authorUrl": "https://toyhou.se/HeebHullaballo",
     "author": "HeebHullaballo",
     "ch": [
@@ -2397,7 +2182,6 @@
   },
   {
     "name": "jerboa jaculus Indigaygo",
-    "type": "png",
     "author": "Indigaygo",
     "authorUrl": "https://toyhou.se/Indigaygo",
     "ch": [
@@ -2408,7 +2192,6 @@
   },
   {
     "name": "jerboa kroco",
-    "type": "png",
     "authorUrl": "https://toyhou.se/Kr0co",
     "author": "Kr0co",
     "ch": [
@@ -2418,7 +2201,6 @@
   },
   {
     "name": "melody honk-shoo",
-    "type": "png",
     "authorUrl": "https://toyhou.se/Honk-Shoo",
     "author": "Honk-Shoo",
     "ch": [
@@ -2428,7 +2210,6 @@
   },
   {
     "name": "pumpkin candlelight lovelovesignal",
-    "type": "png",
     "authorUrl": "https://toyhou.se/lovelovesignal",
     "author": "lovelovesignal",
     "ch": [
@@ -2439,7 +2220,6 @@
   },
   {
     "name": "ribbon toasti",
-    "type": "png",
     "author": "t0asti3_",
     "authorUrl": "https://toyhou.se/t0asti3_",
     "ch": [
@@ -2449,7 +2229,6 @@
   },
   {
     "name": "ribbon kroco",
-    "type": "png",
     "author": "Kr0co",
     "authorUrl": "https://toyhou.se/Kr0co",
     "ch": [
@@ -2479,7 +2258,6 @@
   },
   {
     "name": "starry crrus",
-    "type": "png",
     "author": "crrus",
     "authorUrl": "https://artfight.net/~crrus",
     "ch": [
@@ -2489,7 +2267,6 @@
   },
   {
     "name": "starry lilyvalley",
-    "type": "png",
     "author": "Lilyofthe328Valley",
     "authorUrl": "https://toyhou.se/Lilyofthe328Valley",
     "ch": [
@@ -2509,7 +2286,6 @@
   },
   {
     "name": "tundra quiksylver",
-    "type": "png",
     "author": "QuikSylver",
     "authorUrl": "https://toyhou.se/QuikSylver",
     "ch": [
@@ -2529,7 +2305,6 @@
   },
   {
     "name": "tephra z3ta",
-    "type": "png",
     "authorUrl": "https://toyhou.se/Z3ta",
     "author": "Z3ta",
     "ch": [
@@ -2549,7 +2324,6 @@
   },
   {
     "name": "sparky nightsun castrr-oil001",
-    "type": "png",
     "authorUrl": "https://toyhou.se/castrr-oil001",
     "author": "castrr-oil001",
     "ch": [
@@ -2560,7 +2334,6 @@
   },
   {
     "name": "sparky nightsun mangocryptid",
-    "type": "png",
     "authorUrl": "https://toyhou.se/mangocryptid",
     "author": "mangocryptid",
     "ch": [
@@ -2571,7 +2344,6 @@
   },
   {
     "name": "sparky lilyvalley",
-    "type": "png",
     "author": "Lilyofthe328Valley",
     "authorUrl": "https://toyhou.se/Lilyofthe328Valley",
     "ch": [
@@ -2591,7 +2363,6 @@
   },
   {
     "name": "sparky nightsun ozzanpa",
-    "type": "png",
     "authorUrl": "https://toyhou.se/Ozzanpa_Wowzers",
     "author": "Ozzanpa_Wowzers",
     "ch": [
@@ -2602,7 +2373,6 @@
   },
   {
     "name": "sparky captnday",
-    "type": "png",
     "author": "captnday",
     "authorUrl": "https://toyhou.se/captnday",
     "ch": [
@@ -2632,7 +2402,6 @@
   },
   {
     "name": "sparky sleepyarty",
-    "type": "png",
     "authorUrl": "https://toyhou.se/SleepyArty",
     "author": "SleepyArty",
     "ch": [
@@ -2652,7 +2421,6 @@
   },
   {
     "name": "sparky violetblooded",
-    "type": "png",
     "authorUrl": "https://artfight.net/~violetblooded",
     "author": "violetblooded",
     "ch": [
@@ -2683,7 +2451,6 @@
   },
   {
     "name": "sparky smallsmartkitty",
-    "type": "png",
     "authorUrl": "https://toyhou.se/SmallSmartkitty",
     "author": "SmallSmartkitty",
     "ch": [
@@ -2693,7 +2460,6 @@
   },
   {
     "name": "jackalope salute",
-    "type": "png",
     "ch": [
       "jackalope"
     ],
@@ -2714,7 +2480,6 @@
   },
   {
     "name": "lark half",
-    "type": "png",
     "ch": [
       "lark"
     ],
@@ -2722,7 +2487,6 @@
   },
   {
     "name": "lark wall",
-    "type": "png",
     "ch": [
       "lark"
     ],
@@ -2730,7 +2494,6 @@
   },
   {
     "name": "whiteout stand",
-    "type": "png",
     "ch": [
       "whiteout"
     ],
@@ -2745,7 +2508,6 @@
   },
   {
     "name": "goose jackalope",
-    "type": "png",
     "ch": [
       "goose",
       "jackalope"
@@ -2765,7 +2527,6 @@
   },
   {
     "name": "sparky theoliveoli",
-    "type": "png",
     "author": "TheOliveOli",
     "authorUrl": "https://theoliveoli.blahaj.land/",
     "ch": [
@@ -2775,7 +2536,6 @@
   },
   {
     "name": "jerboa theoliveoli",
-    "type": "png",
     "author": "TheOliveOli",
     "authorUrl": "https://theoliveoli.blahaj.land/",
     "ch": [
@@ -2785,7 +2545,6 @@
   },
   {
     "name": "sparky stand theoliveoli",
-    "type": "png",
     "author": "TheOliveOli",
     "authorUrl": "https://theoliveoli.blahaj.land/",
     "ch": [
@@ -2795,7 +2554,6 @@
   },
   {
     "name": "sparky drive theoliveoli",
-    "type": "png",
     "author": "TheOliveOli",
     "authorUrl": "https://theoliveoli.blahaj.land/",
     "ch": [
@@ -2805,13 +2563,11 @@
   },
   {
     "name": "nala",
-    "type": "png",
     "date": "2025-03-25",
     "comment": "Gift art for [TheOliveOli](https://theoliveoli.blahaj.land/)."
   },
   {
     "name": "squid tentacles",
-    "type": "png",
     "ch": [
       "sundae",
       "buttercup",
@@ -2822,7 +2578,6 @@
   },
   {
     "name": "buttercup slice",
-    "type": "png",
     "ch": [
       "buttercup"
     ],
@@ -2830,7 +2585,6 @@
   },
   {
     "name": "whiteout slice",
-    "type": "png",
     "ch": [
       "whiteout"
     ],
@@ -2838,13 +2592,11 @@
   },
   {
     "name": "deer thing",
-    "type": "png",
     "date": "2025-03-26",
     "comment": "给[缚寻](https://www.xiaohongshu.com/user/profile/62adb921000000001b0297c1?channelType=web_user_card_popup_page&xsec_token=ABv0ouGlLjMPG17TgGb6t0f9-qrQgz7vhfbcB18XIw8QQ%3D&xsec_source=pc_hovercard)的无偿。"
   },
   {
     "name": "one man short footer",
-    "type": "png",
     "date": "2025-03-26",
     "ch": [
       "skyhawk",
@@ -2855,7 +2607,6 @@
   },
   {
     "name": "hunt finish",
-    "type": "png",
     "date": "2025-03-31",
     "ch": [
       "goose",
@@ -2866,7 +2617,6 @@
   },
   {
     "name": "hunt finish goose",
-    "type": "png",
     "date": "2025-03-31",
     "ch": [
       "goose"
@@ -2874,7 +2624,6 @@
   },
   {
     "name": "hunt finish pumpkin",
-    "type": "png",
     "date": "2025-03-31",
     "ch": [
       "pumpkin"
@@ -2882,7 +2631,6 @@
   },
   {
     "name": "hunt finish halcyon",
-    "type": "png",
     "date": "2025-03-31",
     "ch": [
       "halcyon"
@@ -2890,7 +2638,6 @@
   },
   {
     "name": "hunt finish paperweight",
-    "type": "png",
     "date": "2025-03-31",
     "ch": [
       "paperweight"
@@ -2898,7 +2645,6 @@
   },
   {
     "name": "hunt no",
-    "type": "png",
     "date": "2025-04-01",
     "ch": [
       "goose"
@@ -2906,7 +2652,6 @@
   },
   {
     "name": "hunt yes",
-    "type": "png",
     "date": "2025-04-01",
     "ch": [
       "goose"
@@ -2914,7 +2659,6 @@
   },
   {
     "name": "whiteout thumb",
-    "type": "png",
     "date": "2025-04-02",
     "kind": "thumb",
     "ch": [
@@ -2923,7 +2667,6 @@
   },
   {
     "name": "whiteout profile",
-    "type": "png",
     "date": "2025-04-02",
     "kind": "profile",
     "ch": [
@@ -2932,13 +2675,11 @@
   },
   {
     "name": "blaze",
-    "type": "png",
     "date": "2025-04-03",
     "comment": "Gift art for Forestwalk, featuring Blaze."
   },
   {
     "name": "buttercup ref",
-    "type": "png",
     "date": "2025-04-06",
     "kind": "ref",
     "ch": [
@@ -2947,7 +2688,6 @@
   },
   {
     "name": "nightsun favpicker",
-    "type": "png",
     "date": "2025-04-06",
     "ch": [
       "nightsun"
@@ -2955,7 +2695,6 @@
   },
   {
     "name": "entity thumb",
-    "type": "png",
     "date": "2025-04-07",
     "kind": "thumb",
     "ch": [
@@ -2964,7 +2703,6 @@
   },
   {
     "name": "halcyon profile",
-    "type": "png",
     "date": "2025-04-07",
     "kind": "profile",
     "ch": [
@@ -2973,7 +2711,6 @@
   },
   {
     "name": "bramble thumb",
-    "type": "png",
     "date": "2025-04-07",
     "kind": "thumb",
     "ch": [
@@ -2982,7 +2719,6 @@
   },
   {
     "name": "frosting thumb",
-    "type": "png",
     "date": "2025-04-08",
     "kind": "thumb",
     "ch": [
@@ -2991,7 +2727,6 @@
   },
   {
     "name": "harmony thumb",
-    "type": "png",
     "date": "2025-04-08",
     "kind": "thumb",
     "ch": [
@@ -3000,7 +2735,6 @@
   },
   {
     "name": "jackalope thumb",
-    "type": "png",
     "date": "2025-04-09",
     "kind": "thumb",
     "ch": [
@@ -3009,7 +2743,6 @@
   },
   {
     "name": "creepy govt family",
-    "type": "png",
     "date": "2025-04-09",
     "ch": [
       "frosting",
@@ -3019,17 +2752,14 @@
   },
   {
     "name": "gigi",
-    "type": "png",
     "date": "2025-04-17"
   },
   {
     "name": "barnaby",
-    "type": "png",
     "date": "2025-04-17"
   },
   {
     "name": "firecrackers favpicker",
-    "type": "png",
     "date": "2025-04-17",
     "ch": [
       "firecrackers"
@@ -3037,7 +2767,6 @@
   },
   {
     "name": "jerboa Sheepy_Wish",
-    "type": "png",
     "date": "2025-04-15",
     "author": "Sheepy_Wish",
     "authorUrl": "https://toyhou.se/Sheepy_Wish",
@@ -3047,19 +2776,16 @@
   },
   {
     "name": "cheshire",
-    "type": "png",
     "date": "2025-04-19",
     "comment": "Forum game art for [pangur](https://toyhou.se/pangur), featuring [Cheshire](https://toyhou.se/20592374.cheshire)."
   },
   {
     "name": "vin",
-    "type": "png",
     "date": "2025-04-19",
     "comment": "Forum game art for [event-horizon](https://toyhou.se/event-horizon), featuring [Vin](https://toyhou.se/27290576.vin)."
   },
   {
     "name": "sugarcane cafe",
-    "type": "png",
     "date": "2025-04-22",
     "ch": [
       "sugarcane"
@@ -3067,7 +2793,6 @@
   },
   {
     "name": "sky profile",
-    "type": "png",
     "date": "2025-04-22",
     "ch": [
       "sky"
@@ -3076,7 +2801,6 @@
   },
   {
     "name": "firecrackers profile",
-    "type": "png",
     "date": "2025-04-22",
     "ch": [
       "firecrackers"
@@ -3085,7 +2809,6 @@
   },
   {
     "name": "frosting stand",
-    "type": "png",
     "date": "2025-04-24",
     "ch": [
       "frosting"
@@ -3094,7 +2817,6 @@
   },
   {
     "name": "sugarcane tween",
-    "type": "png",
     "date": "2025-04-24",
     "ch": [
       "sugarcane"
@@ -3102,7 +2824,6 @@
   },
   {
     "name": "buttercup Bakerinator",
-    "type": "png",
     "date": "2025-04-22",
     "author": "Bakerinator",
     "authorUrl": "https://toyhou.se/Bakerinator",
@@ -3112,7 +2833,6 @@
   },
   {
     "name": "goose int",
-    "type": "png",
     "date": "2025-04-28",
     "ch": [
       "goose"
@@ -3120,7 +2840,6 @@
   },
   {
     "name": "int2",
-    "type": "png",
     "date": "2025-04-28",
     "ch": [
       "peacock",
@@ -3133,7 +2852,6 @@
   },
   {
     "name": "jasmine thumb",
-    "type": "png",
     "date": "2025-04-28",
     "ch": [
       "jasmine"
@@ -3142,7 +2860,6 @@
   },
   {
     "name": "jasmine profile",
-    "type": "png",
     "date": "2025-04-28",
     "ch": [
       "jasmine"
@@ -3151,13 +2868,11 @@
   },
   {
     "name": "penelope",
-    "type": "png",
     "date": "2025-04-29",
     "comment": "Art trade with Tel, featuring Penelope."
   },
   {
     "name": "beauty profile",
-    "type": "png",
     "date": "2025-05-01",
     "kind": "profile",
     "ch": [
@@ -3166,7 +2881,6 @@
   },
   {
     "name": "chastity profile",
-    "type": "png",
     "date": "2025-05-01",
     "kind": "profile",
     "ch": [
@@ -3175,7 +2889,6 @@
   },
   {
     "name": "devotion profile",
-    "type": "png",
     "date": "2025-05-01",
     "kind": "profile",
     "ch": [
@@ -3184,7 +2897,6 @@
   },
   {
     "name": "elegance profile",
-    "type": "png",
     "date": "2025-05-01",
     "kind": "profile",
     "ch": [
@@ -3193,7 +2905,6 @@
   },
   {
     "name": "nebula stand",
-    "type": "png",
     "date": "2025-05-04",
     "ch": [
       "nebula"
@@ -3202,7 +2913,6 @@
   },
   {
     "name": "qibli into trinket",
-    "type": "png",
     "date": "2025-05-12",
     "ch": [
       "trinket",
@@ -3213,7 +2923,6 @@
   },
   {
     "name": "qibli into trinket 2",
-    "type": "png",
     "date": "2025-05-12",
     "ch": [
       "trinket",
@@ -3222,13 +2931,11 @@
   },
   {
     "name": "goldie",
-    "type": "png",
     "date": "2025-05-17",
     "comment": "Gift art for [TenMomentsTill](https://toyhou.se/TenMomentsTill), featuring [Goldie](https://toyhou.se/19347815.workneh-goldie-theas)."
   },
   {
     "name": "frosting sing",
-    "type": "png",
     "date": "2025-05-17",
     "ch": [
       "frosting"
@@ -3237,7 +2944,6 @@
   },
   {
     "name": "entity float",
-    "type": "png",
     "date": "2025-05-17",
     "kind": "pagedoll",
     "ch": [
@@ -3246,7 +2952,6 @@
   },
   {
     "name": "animus profile",
-    "type": "png",
     "date": "2025-05-18",
     "kind": "profile",
     "ch": [
@@ -3255,7 +2960,6 @@
   },
   {
     "name": "banner",
-    "type": "png",
     "date": "2025-05-18",
     "ch": [
       "sparky",
@@ -3264,7 +2968,6 @@
   },
   {
     "name": "nightsun ref",
-    "type": "png",
     "date": "2025-05-19",
     "kind": "ref",
     "ch": [
@@ -3273,7 +2976,6 @@
   },
   {
     "name": "sparky ref",
-    "type": "png",
     "date": "2025-05-19",
     "kind": "ref",
     "ch": [
@@ -3282,7 +2984,6 @@
   },
   {
     "name": "fantasy profile",
-    "type": "png",
     "date": "2025-05-20",
     "kind": "profile",
     "ch": [
@@ -3291,7 +2992,6 @@
   },
   {
     "name": "ironheart profile",
-    "type": "png",
     "date": "2025-05-20",
     "kind": "profile",
     "ch": [
@@ -3300,7 +3000,6 @@
   },
   {
     "name": "candlelight profile",
-    "type": "png",
     "date": "2025-05-21",
     "kind": "profile",
     "ch": [
@@ -3309,12 +3008,10 @@
   },
   {
     "name": "sparrow",
-    "type": "png",
     "date": "2025-05-22"
   },
   {
     "name": "moonbeam ball",
-    "type": "png",
     "date": "2025-05-22",
     "ch": [
       "moonbeam"
@@ -3322,7 +3019,6 @@
   },
   {
     "name": "sparky AggressiveFruitt",
-    "type": "png",
     "date": "2025-04-30",
     "authorUrl": "https://toyhou.se/AggressiveFruitt",
     "author": "AggressiveFruitt",
@@ -3332,7 +3028,6 @@
   },
   {
     "name": "sparky 1 AggressiveFruitt",
-    "type": "png",
     "date": "2025-04-30",
     "authorUrl": "https://toyhou.se/AggressiveFruitt",
     "author": "AggressiveFruitt",
@@ -3351,7 +3046,6 @@
   },
   {
     "name": "paperweight doubly_magic",
-    "type": "png",
     "date": "2025-05-11",
     "authorUrl": "https://toyhou.se/doubly_magic",
     "author": "doubly_magic",
@@ -3371,7 +3065,6 @@
   },
   {
     "name": "jelly adult stand",
-    "type": "png",
     "date": "2025-05-26",
     "ch": [
       "jelly"
@@ -3380,7 +3073,6 @@
   },
   {
     "name": "sugarcane thumb",
-    "type": "png",
     "date": "2025-05-26",
     "ch": [
       "sugarcane"
@@ -3389,7 +3081,6 @@
   },
   {
     "name": "jelly thumb",
-    "type": "png",
     "date": "2025-05-26",
     "ch": [
       "jelly"
@@ -3398,13 +3089,11 @@
   },
   {
     "name": "zuri emil",
-    "type": "png",
     "date": "2025-05-29",
     "comment": "Gift art for [Rosarolli](https://toyhou.se/Rosarolli), featuring [Zuri](https://toyhou.se/30265980.zuri) and [Emil](https://toyhou.se/28564944.emil-armaros)."
   },
   {
     "name": "sparky animus limpdick",
-    "type": "png",
     "date": "2025-05-30",
     "ch": [
       "sparky",
@@ -3413,7 +3102,6 @@
   },
   {
     "name": "firecrackers hide n seek",
-    "type": "png",
     "date": "2025-05-31",
     "ch": [
       "firecrackers",
@@ -3422,7 +3110,6 @@
   },
   {
     "name": "nebula lilypad",
-    "type": "png",
     "date": "2025-06-01",
     "ch": [
       "nebula"
@@ -3430,7 +3117,6 @@
   },
   {
     "name": "nebula cross legs",
-    "type": "png",
     "date": "2025-06-01",
     "ch": [
       "nebula"
@@ -3439,7 +3125,6 @@
   },
   {
     "name": "pearl footer",
-    "type": "png",
     "date": "2025-06-02",
     "ch": [
       "pearl"
@@ -3448,7 +3133,6 @@
   },
   {
     "name": "sugarcane harmony footer",
-    "type": "png",
     "date": "2025-06-02",
     "ch": [
       "harmony",
@@ -3458,7 +3142,6 @@
   },
   {
     "name": "nebula thumb",
-    "type": "png",
     "date": "2025-06-03",
     "ch": [
       "nebula"
@@ -3467,7 +3150,6 @@
   },
   {
     "name": "candlelight meets curly",
-    "type": "png",
     "date": "2025-06-03",
     "ch": [
       "pumpkin",
@@ -3476,7 +3158,6 @@
   },
   {
     "name": "snake wings",
-    "type": "png",
     "date": "2025-06-03",
     "ch": [
       "snake"
@@ -3485,7 +3166,6 @@
   },
   {
     "name": "sky cards",
-    "type": "png",
     "date": "2025-06-15",
     "ch": [
       "sky"
@@ -3493,7 +3173,6 @@
   },
   {
     "name": "sky sans cards",
-    "type": "png",
     "date": "2025-06-15",
     "ch": [
       "sky"
@@ -3501,7 +3180,6 @@
   },
   {
     "name": "pumpkin candlelight Bowieeeee",
-    "type": "png",
     "date": "2025-06-19",
     "author": "boweevilous",
     "authorUrl": "https://toyhou.se/boweevilous",
@@ -3512,7 +3190,6 @@
   },
   {
     "name": "goose purge",
-    "type": "png",
     "date": "2025-06-23",
     "ch": [
       "goose"
@@ -3520,7 +3197,6 @@
   },
   {
     "name": "woshilunhui",
-    "type": "png",
     "date": "2025-06-26",
     "ch": [
       "sugarcane",
@@ -3531,7 +3207,6 @@
   },
   {
     "name": "goose pumpkin strawberiishortcake",
-    "type": "png",
     "date": "2025-06-26",
     "ch": [
       "goose",
@@ -3542,7 +3217,6 @@
   },
   {
     "name": "pmv cover",
-    "type": "png",
     "date": "2025-06-28",
     "ch": [
       "goose"
@@ -3551,7 +3225,6 @@
   },
   {
     "name": "pmv cover en",
-    "type": "png",
     "date": "2025-06-28",
     "ch": [
       "goose"
@@ -3560,13 +3233,11 @@
   },
   {
     "name": "mynx",
-    "type": "png",
     "date": "2025-06-29",
     "comment": "Draw for the person above for [CritCraft](https://toyhou.se/CritCraft), featuring [Mynx](https://toyhou.se/33677447.mynx)."
   },
   {
     "name": "firecrackers sign comic",
-    "type": "png",
     "date": "2025-06-29",
     "ch": [
       "firecrackers",
@@ -3585,7 +3256,6 @@
   },
   {
     "name": "sparky nightsun king-lee",
-    "type": "png",
     "date": "2025-07-01",
     "author": "King Lee",
     "authorUrl": "https://www.instagram.com/king_lee.12",
@@ -3597,7 +3267,6 @@
   },
   {
     "name": "whiteout illieous",
-    "type": "png",
     "date": "2025-07-01",
     "author": "illieous",
     "authorUrl": "https://artfight.net/~illieous",
@@ -3630,7 +3299,6 @@
   },
   {
     "name": "nebula Kams_loyal",
-    "type": "png",
     "date": "2025-07-02",
     "author": "Kams_loyal",
     "authorUrl": "https://artfight.net/~Kams_loyal",
@@ -3641,7 +3309,6 @@
   },
   {
     "name": "whiteout AggdyFehg",
-    "type": "png",
     "date": "2025-07-02",
     "author": "AggdyFehg",
     "authorUrl": "https://artfight.net/~AggdyFehg",
@@ -3652,7 +3319,6 @@
   },
   {
     "name": "tephra Nenesvil",
-    "type": "png",
     "date": "2025-07-02",
     "author": "Nenesvil",
     "authorUrl": "https://artfight.net/~Nenesvil",
@@ -3663,7 +3329,6 @@
   },
   {
     "name": "willow Aincretop",
-    "type": "png",
     "date": "2025-07-03",
     "author": "Aincretop",
     "authorUrl": "https://artfight.net/~Aincretop",
@@ -3674,7 +3339,6 @@
   },
   {
     "name": "sparky PixelverseArt",
-    "type": "png",
     "date": "2025-07-04",
     "author": "PixelverseArt",
     "authorUrl": "https://artfight.net/~PixelverseArt",
@@ -3707,7 +3371,6 @@
   },
   {
     "name": "nightsun ffflks",
-    "type": "png",
     "date": "2025-07-05",
     "author": "ffflks",
     "authorUrl": "https://artfight.net/~ffflks",
@@ -3718,7 +3381,6 @@
   },
   {
     "name": "jerboa spiritonadventure",
-    "type": "png",
     "date": "2025-07-06",
     "author": "spiritonadventure",
     "authorUrl": "https://artfight.net/~spiritonadventure",
@@ -3740,7 +3402,6 @@
   },
   {
     "name": "starry Cadeless",
-    "type": "png",
     "date": "2025-07-10",
     "author": "Cadeless",
     "authorUrl": "https://artfight.net/~Cadeless",
@@ -3757,13 +3418,11 @@
   },
   {
     "name": "ri",
-    "type": "png",
     "date": "2025-07-12",
     "comment": "Artfight attack for [fanitoon](https://artfight.net/~fanitoon), featuring [Ri](https://artfight.net/character/2863852.ri)."
   },
   {
     "name": "esther",
-    "type": "png",
     "date": "2025-07-12",
     "comment": "Artfight attack for [Aincretop](https://artfight.net/~Aincretop), featuring [Esther](https://artfight.net/character/5681898.esther)."
   },
@@ -3775,7 +3434,6 @@
   },
   {
     "name": "sparky Aincretop",
-    "type": "png",
     "date": "2025-07-13",
     "author": "Aincretop",
     "authorUrl": "https://artfight.net/~Aincretop",
@@ -3783,13 +3441,11 @@
   },
   {
     "name": "kyrea",
-    "type": "png",
     "date": "2025-07-14",
     "comment": "Artfight attack for [KiwiMeowo](https://artfight.net/~KiwiMeowo), featuring [Kyrea](https://artfight.net/character/3130430.kyrea)."
   },
   {
     "name": "jinx",
-    "type": "png",
     "date": "2025-07-14",
     "ch": [
       "jinx"
@@ -3798,25 +3454,21 @@
   },
   {
     "name": "matilda",
-    "type": "png",
     "date": "2025-07-15",
     "comment": "Artfight attack for [AggdyFehg](https://artfight.net/~AggdyFehg), featuring [Matilda](https://artfight.net/character/4824994.matilda)."
   },
   {
     "name": "xeltha",
-    "type": "png",
     "date": "2025-07-15",
     "comment": "Artfight attack for [Cadeless](https://artfight.net/~Cadeless), featuring [Xeltha](https://artfight.net/character/5768678.xeltha)."
   },
   {
     "name": "mitao",
-    "type": "png",
     "date": "2025-07-16",
     "comment": "Artfight attack for [citrinever](https://artfight.net/~citrinever), featuring [蜜桃](https://artfight.net/character/5804995.)."
   },
   {
     "name": "sparky nightsun Skysscribbles",
-    "type": "png",
     "date": "2025-07-15",
     "author": "Skysscribbles",
     "authorUrl": "https://artfight.net/~Skysscribbles",
@@ -3828,7 +3480,6 @@
   },
   {
     "name": "jinx impeack",
-    "type": "png",
     "date": "2025-07-16",
     "author": "impeack",
     "authorUrl": "https://artfight.net/~impeack",
@@ -3850,7 +3501,6 @@
   },
   {
     "name": "peacock Kokoloko",
-    "type": "png",
     "date": "2025-07-16",
     "author": "Kokoloko",
     "authorUrl": "https://artfight.net/~Kokoloko",
@@ -3861,7 +3511,6 @@
   },
   {
     "name": "oc 3 groupshot",
-    "type": "png",
     "date": "2025-07-17",
     "ch": [
       "sparky"
@@ -3870,13 +3519,11 @@
   },
   {
     "name": "barbabara",
-    "type": "png",
     "date": "2025-07-17",
     "comment": "Artfight attack for [impeack](https://artfight.net/~impeack), featuring [Barbabara](https://artfight.net/character/7491801.bbppbarbabara)."
   },
   {
     "name": "jackalope jinx",
-    "type": "png",
     "date": "2025-07-17",
     "ch": [
       "jackalope",
@@ -3885,7 +3532,6 @@
   },
   {
     "name": "jinx thumb",
-    "type": "png",
     "date": "2025-07-18",
     "ch": [
       "jinx"
@@ -3894,7 +3540,6 @@
   },
   {
     "name": "potato profile",
-    "type": "png",
     "date": "2025-07-18",
     "ch": [
       "potato"
@@ -3903,7 +3548,6 @@
   },
   {
     "name": "pb kids",
-    "type": "png",
     "date": "2025-07-19",
     "ch": [
       "frosting",
@@ -3914,7 +3558,6 @@
   },
   {
     "name": "pb kids - fs",
-    "type": "png",
     "date": "2025-07-19",
     "ch": [
       "frosting"
@@ -3922,7 +3565,6 @@
   },
   {
     "name": "pb kids - jb",
-    "type": "png",
     "date": "2025-07-19",
     "ch": [
       "jerboa"
@@ -3930,7 +3572,6 @@
   },
   {
     "name": "pb kids - jc",
-    "type": "png",
     "date": "2025-07-19",
     "ch": [
       "jaculus"
@@ -3938,7 +3579,6 @@
   },
   {
     "name": "goose jackalope swanno",
-    "type": "png",
     "date": "2025-07-20",
     "author": "Swanno",
     "authorUrl": "https://artfight.net/~Swanno",
@@ -3950,7 +3590,6 @@
   },
   {
     "name": "mss lia",
-    "type": "png",
     "date": "2025-07-24",
     "authorUrl": "https://artfight.net/~Lia_Amanata",
     "author": "Lia",
@@ -3964,7 +3603,6 @@
   },
   {
     "name": "book discovery",
-    "type": "png",
     "date": "2025-07-26",
     "ch": [
       "qibli",
@@ -3974,7 +3612,6 @@
   },
   {
     "name": "qibli book discovery",
-    "type": "png",
     "date": "2025-07-26",
     "ch": [
       "qibli"
@@ -3982,7 +3619,6 @@
   },
   {
     "name": "trinket book discovery",
-    "type": "png",
     "date": "2025-07-26",
     "ch": [
       "trinket"
@@ -4001,7 +3637,6 @@
   },
   {
     "name": "pumpkin candlelight LemonadeHammer",
-    "type": "png",
     "date": "2025-07-28",
     "author": "LemonadeHammer",
     "authorUrl": "https://artfight.net/~LemonadeHammer",
@@ -4013,7 +3648,6 @@
   },
   {
     "name": "jinx hugging jackalope",
-    "type": "png",
     "date": "2025-07-30",
     "ch": [
       "jinx",
@@ -4022,7 +3656,6 @@
   },
   {
     "name": "myriad profile",
-    "type": "png",
     "date": "2025-08-01",
     "ch": [
       "myriad"
@@ -4031,7 +3664,6 @@
   },
   {
     "name": "alaska profile",
-    "type": "png",
     "date": "2025-08-01",
     "ch": [
       "alaska"
@@ -4040,7 +3672,6 @@
   },
   {
     "name": "guillotine profile",
-    "type": "png",
     "date": "2025-08-01",
     "ch": [
       "guillotine"
@@ -4049,7 +3680,6 @@
   },
   {
     "name": "sparky stupied",
-    "type": "png",
     "date": "2025-08-01",
     "author": "Stupied",
     "authorUrl": "https://artfight.net/~Stupied",
@@ -4071,13 +3701,11 @@
   },
   {
     "name": "apri",
-    "type": "png",
     "date": "2025-08-02",
     "comment": "Art trade with [Sneavile](https://toyhou.se/Sneavile), featuring [Apri](https://toyhou.se/33623650.apri)."
   },
   {
     "name": "kismet thumb",
-    "type": "png",
     "date": "2025-08-09",
     "ch": [
       "kismet"
@@ -4086,7 +3714,6 @@
   },
   {
     "name": "pinecone thumb",
-    "type": "png",
     "date": "2025-08-09",
     "ch": [
       "pinecone"
@@ -4095,7 +3722,6 @@
   },
   {
     "name": "natasha stand",
-    "type": "png",
     "date": "2025-08-09",
     "ch": [
       "natasha"
@@ -4104,7 +3730,6 @@
   },
   {
     "name": "rosemary thumb",
-    "type": "png",
     "date": "2025-08-09",
     "ch": [
       "rosemary"
@@ -4113,7 +3738,6 @@
   },
   {
     "name": "typhoon thumb",
-    "type": "png",
     "date": "2025-08-09",
     "ch": [
       "typhoon"
@@ -4122,7 +3746,6 @@
   },
   {
     "name": "light camera action",
-    "type": "png",
     "date": "2025-08-10",
     "ch": [
       "pinecone",
@@ -4132,7 +3755,6 @@
   },
   {
     "name": "sparky Sneavile",
-    "type": "png",
     "date": "2025-08-05",
     "author": "Sneavile",
     "authorUrl": "https://toyhou.se/Sneavile",
@@ -4142,7 +3764,6 @@
   },
   {
     "name": "jackalope sticker",
-    "type": "png",
     "date": "2025-08-14",
     "ch": [
       "jackalope"
@@ -4151,7 +3772,6 @@
   },
   {
     "name": "jinx sticker",
-    "type": "png",
     "date": "2025-08-14",
     "ch": [
       "jinx"
@@ -4160,7 +3780,6 @@
   },
   {
     "name": "mooncake candlelight occupation night",
-    "type": "png",
     "date": "2025-08-14",
     "ch": [
       "mooncake",
@@ -4169,7 +3788,6 @@
   },
   {
     "name": "kismet and kismet",
-    "type": "png",
     "date": "2025-08-16",
     "ch": [
       "kismet"
@@ -4177,7 +3795,6 @@
   },
   {
     "name": "kismet original",
-    "type": "png",
     "date": "2025-08-16",
     "ch": [
       "kismet"
@@ -4186,7 +3803,6 @@
   },
   {
     "name": "kismet tundra",
-    "type": "png",
     "date": "2025-08-16",
     "ch": [
       "kismet"
@@ -4195,7 +3811,6 @@
   },
   {
     "name": "sparky animus cherrydutchie",
-    "type": "png",
     "date": "2025-08-16",
     "authorUrl": "https://toyhou.se/cherrydutchie",
     "author": "cherrydutchie",
@@ -4206,7 +3821,6 @@
   },
   {
     "name": "jaculus profile",
-    "type": "png",
     "date": "2025-08-18",
     "ch": [
       "jaculus"
@@ -4215,7 +3829,6 @@
   },
   {
     "name": "pumpkin ref",
-    "type": "png",
     "date": "2025-12-19",
     "ch": [
       "pumpkin"
@@ -4234,7 +3847,6 @@
   },
   {
     "name": "nebula profile",
-    "type": "png",
     "date": "2025-08-30",
     "ch": [
       "nebula"
@@ -4243,7 +3855,6 @@
   },
   {
     "name": "jinx horse",
-    "type": "png",
     "date": "2025-08-31",
     "ch": [
       "jinx"
@@ -4251,7 +3862,6 @@
   },
   {
     "name": "jinx jackalope snow",
-    "type": "png",
     "date": "2025-09-04",
     "ch": [
       "jinx",
@@ -4261,7 +3871,6 @@
   },
   {
     "name": "jelly astonished",
-    "type": "png",
     "date": "2025-09-07",
     "ch": [
       "jelly"
@@ -4269,7 +3878,6 @@
   },
   {
     "name": "sparky cool",
-    "type": "png",
     "date": "2025-09-07",
     "ch": [
       "sparky"
@@ -4278,7 +3886,6 @@
   },
   {
     "name": "mulberry card",
-    "type": "png",
     "date": "2025-09-16",
     "ch": [
       "mulberry"
@@ -4286,7 +3893,6 @@
   },
   {
     "name": "mulberry stand",
-    "type": "png",
     "date": "2025-09-16",
     "ch": [
       "mulberry"
@@ -4295,7 +3901,6 @@
   },
   {
     "name": "jumbo card",
-    "type": "png",
     "date": "2025-09-19",
     "ch": [
       "jumbo"
@@ -4303,7 +3908,6 @@
   },
   {
     "name": "jumbo stand",
-    "type": "png",
     "date": "2025-09-19",
     "ch": [
       "jumbo"
@@ -4312,7 +3916,6 @@
   },
   {
     "name": "blackjack card",
-    "type": "png",
     "date": "2025-09-19",
     "ch": [
       "blackjack"
@@ -4320,7 +3923,6 @@
   },
   {
     "name": "blackjack stand",
-    "type": "png",
     "date": "2025-09-19",
     "ch": [
       "blackjack"
@@ -4329,7 +3931,6 @@
   },
   {
     "name": "tsunami card",
-    "type": "png",
     "date": "2025-09-20",
     "ch": [
       "tsunami"
@@ -4337,7 +3938,6 @@
   },
   {
     "name": "tsunami stand",
-    "type": "png",
     "date": "2025-09-20",
     "ch": [
       "tsunami"
@@ -4346,7 +3946,6 @@
   },
   {
     "name": "poker spies footer",
-    "type": "png",
     "date": "2025-09-21",
     "ch": [
       "tsunami",
@@ -4358,7 +3957,6 @@
   },
   {
     "name": "poker spies footer - tsunami",
-    "type": "png",
     "date": "2025-09-21",
     "ch": [
       "tsunami"
@@ -4366,7 +3964,6 @@
   },
   {
     "name": "poker spies footer - jumbo",
-    "type": "png",
     "date": "2025-09-21",
     "ch": [
       "jumbo"
@@ -4374,7 +3971,6 @@
   },
   {
     "name": "poker spies footer - blackjack",
-    "type": "png",
     "date": "2025-09-21",
     "ch": [
       "blackjack"
@@ -4382,7 +3978,6 @@
   },
   {
     "name": "poker spies footer - mulberry",
-    "type": "png",
     "date": "2025-09-21",
     "ch": [
       "mulberry"
@@ -4390,7 +3985,6 @@
   },
   {
     "name": "cms groupshot",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "potato",
@@ -4409,7 +4003,6 @@
   },
   {
     "name": "cms groupshot potato",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "potato"
@@ -4417,7 +4010,6 @@
   },
   {
     "name": "cms groupshot alaska",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "alaska"
@@ -4425,7 +4017,6 @@
   },
   {
     "name": "cms groupshot cosmo",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "cosmo"
@@ -4433,7 +4024,6 @@
   },
   {
     "name": "cms groupshot firecrackers",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "firecrackers"
@@ -4441,7 +4031,6 @@
   },
   {
     "name": "cms groupshot guillotine",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "guillotine"
@@ -4449,7 +4038,6 @@
   },
   {
     "name": "cms groupshot jerboa",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "jerboa"
@@ -4457,7 +4045,6 @@
   },
   {
     "name": "cms groupshot myriad",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "myriad"
@@ -4465,7 +4052,6 @@
   },
   {
     "name": "cms groupshot qibli",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "qibli"
@@ -4473,7 +4059,6 @@
   },
   {
     "name": "cms groupshot sky",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "sky"
@@ -4481,7 +4066,6 @@
   },
   {
     "name": "cms groupshot sparky",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "sparky"
@@ -4489,7 +4073,6 @@
   },
   {
     "name": "cms groupshot tephra",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "tephra"
@@ -4497,7 +4080,6 @@
   },
   {
     "name": "cms groupshot tomato",
-    "type": "png",
     "date": "2025-09-27",
     "ch": [
       "tomato"
@@ -4505,7 +4087,6 @@
   },
   {
     "name": "nightsun blank",
-    "type": "png",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
     "date": "2025-09-29",
@@ -4515,7 +4096,6 @@
   },
   {
     "name": "nightsun crying blank",
-    "type": "png",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
     "date": "2025-09-29",
@@ -4545,7 +4125,6 @@
   },
   {
     "name": "harmony profile",
-    "type": "png",
     "date": "2025-09-30",
     "ch": [
       "harmony"
@@ -4586,7 +4165,6 @@
   },
   {
     "name": "entity profile",
-    "type": "png",
     "date": "2025-10-03",
     "ch": [
       "entity"
@@ -4595,7 +4173,6 @@
   },
   {
     "name": "frosting profile",
-    "type": "png",
     "date": "2025-10-03",
     "ch": [
       "frosting"
@@ -4604,7 +4181,6 @@
   },
   {
     "name": "sugarcane profile",
-    "type": "png",
     "date": "2025-10-03",
     "ch": [
       "sugarcane"
@@ -4613,13 +4189,11 @@
   },
   {
     "name": "gift mc",
-    "type": "png",
     "date": "2025-10-12",
     "comment": "For Fritz's art exchange event!"
   },
   {
     "name": "natasha thumb",
-    "type": "png",
     "date": "2025-10-13",
     "ch": [
       "natasha"
@@ -4628,7 +4202,6 @@
   },
   {
     "name": "tsunami firecrackers",
-    "type": "png",
     "date": "2025-10-13",
     "ch": [
       "tsunami",
@@ -4638,7 +4211,6 @@
   },
   {
     "name": "pumpkin helsinki dance",
-    "type": "png",
     "date": "2025-10-18",
     "ch": [
       "helsinki",
@@ -4647,7 +4219,6 @@
   },
   {
     "name": "helsinki dance",
-    "type": "png",
     "date": "2025-10-18",
     "ch": [
       "helsinki"
@@ -4655,7 +4226,6 @@
   },
   {
     "name": "pumpkin dance",
-    "type": "png",
     "date": "2025-10-18",
     "ch": [
       "pumpkin"
@@ -4663,7 +4233,6 @@
   },
   {
     "name": "kaleidoscope",
-    "type": "png",
     "date": "2025-10-24",
     "ch": [
       "kaleidoscope"
@@ -4671,7 +4240,6 @@
   },
   {
     "name": "moonflower",
-    "type": "png",
     "date": "2025-10-24",
     "ch": [
       "moonflower"
@@ -4680,7 +4248,6 @@
   },
   {
     "name": "blackjack thumb",
-    "type": "png",
     "date": "2025-10-26",
     "ch": [
       "blackjack"
@@ -4689,7 +4256,6 @@
   },
   {
     "name": "jumbo thumb",
-    "type": "png",
     "date": "2025-10-26",
     "ch": [
       "jumbo"
@@ -4698,7 +4264,6 @@
   },
   {
     "name": "kaleidoscope thumb",
-    "type": "png",
     "date": "2025-10-26",
     "ch": [
       "kaleidoscope"
@@ -4707,7 +4272,6 @@
   },
   {
     "name": "mulberry thumb",
-    "type": "png",
     "date": "2025-10-26",
     "ch": [
       "mulberry"
@@ -4716,7 +4280,6 @@
   },
   {
     "name": "tsunami thumb",
-    "type": "png",
     "date": "2025-10-26",
     "ch": [
       "tsunami"
@@ -4745,7 +4308,6 @@
   },
   {
     "name": "goose pumpkin king lee",
-    "type": "png",
     "date": "2025-10-30",
     "author": "King Lee",
     "authorUrl": "https://www.instagram.com/king_lee.12",
@@ -4756,7 +4318,6 @@
   },
   {
     "name": "jumbo deal",
-    "type": "png",
     "date": "2025-11-02",
     "ch": [
       "jumbo",
@@ -4765,7 +4326,6 @@
   },
   {
     "name": "jumbo deal jumbo",
-    "type": "png",
     "date": "2025-11-02",
     "ch": [
       "jumbo"
@@ -4773,7 +4333,6 @@
   },
   {
     "name": "moonflower hi",
-    "type": "png",
     "date": "2025-11-02",
     "ch": [
       "moonflower"
@@ -4781,7 +4340,6 @@
   },
   {
     "name": "tsunami attack qibli",
-    "type": "png",
     "date": "2025-11-04",
     "ch": [
       "tsunami",
@@ -4790,19 +4348,16 @@
   },
   {
     "name": "harold",
-    "type": "png",
     "date": "2025-11-06",
     "comment": "Gift art for [Toxinlem](https://toyhou.se/Toxinlem), featuring [Harold](https://toyhou.se/31232254.harold)."
   },
   {
     "name": "astra",
-    "type": "png",
     "date": "2025-11-06",
     "comment": "Gift art for [Mistic_Dude](https://artfight.net/~Mistic_Dude), featuring [Astra](https://artfight.net/character/6906850.astra)."
   },
   {
     "name": "goose apollo",
-    "type": "png",
     "date": "2025-11-06",
     "author": "Supernova_king",
     "authorUrl": "https://artfight.net/~Supernova_king",
@@ -4812,7 +4367,6 @@
   },
   {
     "name": "pumpkin goose mirror",
-    "type": "png",
     "date": "2025-11-07",
     "ch": [
       "pumpkin",
@@ -4821,7 +4375,6 @@
   },
   {
     "name": "harmony blank",
-    "type": "png",
     "date": "2025-11-09",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -4831,7 +4384,6 @@
   },
   {
     "name": "sunflower snowy",
-    "type": "png",
     "date": "2025-11-09",
     "ch": [
       "sunflower"
@@ -4839,7 +4391,6 @@
   },
   {
     "name": "sunflower snowy - sunflower",
-    "type": "png",
     "date": "2025-11-09",
     "ch": [
       "sunflower"
@@ -4848,12 +4399,10 @@
   },
   {
     "name": "sunflower snowy - snowy",
-    "type": "png",
     "date": "2025-11-09"
   },
   {
     "name": "sunflower profile",
-    "type": "png",
     "date": "2025-11-12",
     "ch": [
       "sunflower"
@@ -4862,7 +4411,6 @@
   },
   {
     "name": "icicle profile",
-    "type": "png",
     "date": "2025-11-13",
     "ch": [
       "icicle"
@@ -4871,7 +4419,6 @@
   },
   {
     "name": "starry profile",
-    "type": "png",
     "date": "2025-11-13",
     "ch": [
       "starry"
@@ -4880,7 +4427,6 @@
   },
   {
     "name": "goose ref",
-    "type": "png",
     "date": "2025-12-19",
     "ch": [
       "goose"
@@ -4889,7 +4435,6 @@
   },
   {
     "name": "cms friends blank",
-    "type": "png",
     "date": "2025-11-16",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -4902,7 +4447,6 @@
   },
   {
     "name": "entity blank",
-    "type": "png",
     "date": "2025-11-15",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -4912,19 +4456,16 @@
   },
   {
     "name": "enmo 2",
-    "type": "png",
     "date": "2025-11-18",
     "comment": "Art trade with Blank!"
   },
   {
     "name": "skull",
-    "type": "png",
     "date": "2025-11-18",
     "comment": "Art trade with Blank!"
   },
   {
     "name": "goose blank",
-    "type": "png",
     "date": "2025-11-20",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -4934,13 +4475,11 @@
   },
   {
     "name": "blank",
-    "type": "png",
     "date": "2025-11-20",
     "comment": "Art trade with Blank!"
   },
   {
     "name": "detective entity",
-    "type": "png",
     "date": "2025-11-20",
     "ch": [
       "entity"
@@ -4949,7 +4488,6 @@
   },
   {
     "name": "qibli blank",
-    "type": "png",
     "date": "2025-11-23",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -4959,19 +4497,16 @@
   },
   {
     "name": "detective",
-    "type": "png",
     "date": "2025-11-23",
     "comment": "Art trade with Blank!"
   },
   {
     "name": "skull 2",
-    "type": "png",
     "date": "2025-11-23",
     "comment": "Art trade with Blank!"
   },
   {
     "name": "jackalope gun",
-    "type": "png",
     "date": "2025-11-24",
     "ch": [
       "jackalope"
@@ -4979,7 +4514,6 @@
   },
   {
     "name": "ritchie",
-    "type": "png",
     "date": "2025-11-24",
     "comment": "Secret Santa gift art."
   },
@@ -4996,7 +4530,6 @@
   },
   {
     "name": "buttercup spread",
-    "type": "png",
     "date": "2025-11-30",
     "ch": [
       "buttercup"
@@ -5004,7 +4537,6 @@
   },
   {
     "name": "cobalt hand raised",
-    "type": "png",
     "date": "2025-11-30",
     "ch": [
       "cobalt"
@@ -5013,7 +4545,6 @@
   },
   {
     "name": "kaleidoscope stand",
-    "type": "png",
     "date": "2025-11-30",
     "ch": [
       "kaleidoscope"
@@ -5022,7 +4553,6 @@
   },
   {
     "name": "jackalope entity interaction",
-    "type": "png",
     "date": "2025-12-02",
     "ch": [
       "entity",
@@ -5032,13 +4562,11 @@
   },
   {
     "name": "pathey ninja",
-    "type": "png",
     "date": "2025-12-02",
     "comment": "Art trade with Blank!"
   },
   {
     "name": "rose stand",
-    "type": "png",
     "date": "2025-12-04",
     "ch": [
       "rose"
@@ -5047,7 +4575,6 @@
   },
   {
     "name": "rose adult",
-    "type": "png",
     "date": "2025-12-04",
     "ch": [
       "rose"
@@ -5055,7 +4582,6 @@
   },
   {
     "name": "qibli sunflower virgin",
-    "type": "png",
     "date": "2025-12-04",
     "ch": [
       "qibli",
@@ -5064,7 +4590,6 @@
   },
   {
     "name": "banner sparky",
-    "type": "png",
     "date": "2025-12-05",
     "ch": [
       "sparky"
@@ -5073,13 +4598,11 @@
   },
   {
     "name": "banner bauhinia",
-    "type": "png",
     "date": "2025-12-05",
     "kind": "banner"
   },
   {
     "name": "tsunami doshmobile",
-    "type": "png",
     "author": "doshMobile",
     "authorUrl": "https://artfight.net/~doshMobile",
     "date": "2025-12-05",
@@ -5089,7 +4612,6 @@
   },
   {
     "name": "banner goose",
-    "type": "png",
     "date": "2025-12-06",
     "ch": [
       "goose"
@@ -5098,13 +4620,11 @@
   },
   {
     "name": "tower beginnings flower",
-    "type": "png",
     "date": "2025-12-07",
     "comment": "Fanart of [The Progress of Things](https://characters.numbersstory.com/lits/theprogressofthings/) by [Kolo](https://numbersstory.com), featuring [Milk and Stone, the Tower](https://characters.numbersstory.com/chara/frag/tower) and [Beginnings and Endings](https://characters.numbersstory.com/chara/frag/beginnings)."
   },
   {
     "name": "sky blank",
-    "type": "png",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
     "date": "2025-12-09",
@@ -5114,7 +4634,6 @@
   },
   {
     "name": "sparky dragon",
-    "type": "png",
     "date": "2025-12-10",
     "ch": [
       "sparky",
@@ -5126,7 +4645,6 @@
   },
   {
     "name": "sparky dragon only",
-    "type": "png",
     "date": "2025-12-10",
     "ch": [
       "sparky",
@@ -5137,19 +4655,16 @@
   },
   {
     "name": "auroza postcard",
-    "type": "png",
     "date": "2025-12-12",
     "comment": "Gift art for [Kolo](https://numbersstory.com), featuring [Tower](https://characters.numbersstory.com/chara/frag/tower) and the [Theta Frags](https://characters.numbersstory.com/chara/frag/factions/originals#theta)."
   },
   {
     "name": "auroza postcard only",
-    "type": "png",
     "date": "2025-12-12",
     "comment": "Gift art for [Kolo](https://numbersstory.com), featuring [Tower](https://characters.numbersstory.com/chara/frag/tower) and the [Theta Frags](https://characters.numbersstory.com/chara/frag/factions/originals#theta)."
   },
   {
     "name": "gorgeous execution",
-    "type": "png",
     "date": "2025-12-12",
     "ch": [
       "entity"
@@ -5158,7 +4673,6 @@
   },
   {
     "name": "sundew stand",
-    "type": "png",
     "date": "2025-12-13",
     "ch": [
       "sundew"
@@ -5167,7 +4681,6 @@
   },
   {
     "name": "jam half",
-    "type": "png",
     "date": "2025-12-13",
     "ch": [
       "jam"
@@ -5175,7 +4688,6 @@
   },
   {
     "name": "banner nebula",
-    "type": "png",
     "date": "2025-12-13",
     "ch": [
       "nebula"
@@ -5184,7 +4696,6 @@
   },
   {
     "name": "jam thumb",
-    "type": "png",
     "date": "2025-12-14",
     "ch": [
       "jam"
@@ -5193,7 +4704,6 @@
   },
   {
     "name": "sundew thumb",
-    "type": "png",
     "date": "2025-12-14",
     "ch": [
       "sundew"
@@ -5202,7 +4712,6 @@
   },
   {
     "name": "rose thumb",
-    "type": "png",
     "date": "2025-12-14",
     "ch": [
       "rose"
@@ -5211,7 +4720,6 @@
   },
   {
     "name": "moonflower thumb",
-    "type": "png",
     "date": "2025-12-14",
     "ch": [
       "moonflower"
@@ -5220,7 +4728,6 @@
   },
   {
     "name": "banner sky",
-    "type": "png",
     "date": "2025-12-15",
     "ch": [
       "sky"
@@ -5229,37 +4736,31 @@
   },
   {
     "name": "banner fanton",
-    "type": "png",
     "date": "2025-12-16",
     "kind": "banner"
   },
   {
     "name": "banner atlasia",
-    "type": "png",
     "date": "2025-12-16",
     "kind": "banner"
   },
   {
     "name": "banner westavia",
-    "type": "png",
     "date": "2025-12-16",
     "kind": "banner"
   },
   {
     "name": "banner moreland",
-    "type": "png",
     "date": "2025-12-16",
     "kind": "banner"
   },
   {
     "name": "banner sylvandia",
-    "type": "png",
     "date": "2025-12-16",
     "kind": "banner"
   },
   {
     "name": "banner qibli",
-    "type": "png",
     "date": "2025-12-17",
     "ch": [
       "qibli"
@@ -5268,7 +4769,6 @@
   },
   {
     "name": "mss ref new",
-    "type": "png",
     "date": "2025-12-17",
     "ch": [
       "whiteout",
@@ -5282,7 +4782,6 @@
   },
   {
     "name": "halcyon ref",
-    "type": "png",
     "date": "2025-12-21",
     "ch": [
       "halcyon"
@@ -5291,7 +4790,6 @@
   },
   {
     "name": "sugarcane gun",
-    "type": "png",
     "date": "2025-12-21",
     "ch": [
       "sugarcane"
@@ -5299,7 +4797,6 @@
   },
   {
     "name": "nebula folded wings",
-    "type": "png",
     "date": "2025-12-27",
     "ch": [
       "nebula"
@@ -5307,13 +4804,11 @@
   },
   {
     "name": "venus casper",
-    "type": "png",
     "date": "2025-12-27",
     "comment": "Gift art for [King Lee](https://artfight.net/~king-lee), featuring [Venus](https://artfight.net/character/5830826.venus) and [Casper](https://artfight.net/character/5701276.casper)."
   },
   {
     "name": "amber soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "amber"
@@ -5322,7 +4817,6 @@
   },
   {
     "name": "buttercup soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "buttercup"
@@ -5331,7 +4825,6 @@
   },
   {
     "name": "candlelight soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "candlelight"
@@ -5340,7 +4833,6 @@
   },
   {
     "name": "checkers soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "checkers"
@@ -5349,7 +4841,6 @@
   },
   {
     "name": "cosmo soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "cosmo"
@@ -5358,7 +4849,6 @@
   },
   {
     "name": "dragonfly soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "dragonfly"
@@ -5367,7 +4857,6 @@
   },
   {
     "name": "entity soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "entity"
@@ -5376,7 +4865,6 @@
   },
   {
     "name": "fantasy soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "fantasy"
@@ -5385,7 +4873,6 @@
   },
   {
     "name": "firecrackers soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "firecrackers"
@@ -5394,7 +4881,6 @@
   },
   {
     "name": "frosting soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "frosting"
@@ -5403,7 +4889,6 @@
   },
   {
     "name": "goose soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "goose"
@@ -5412,7 +4897,6 @@
   },
   {
     "name": "gorgeous soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "gorgeous"
@@ -5421,7 +4905,6 @@
   },
   {
     "name": "halcyon soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "halcyon"
@@ -5430,7 +4913,6 @@
   },
   {
     "name": "harmony soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "harmony"
@@ -5439,7 +4921,6 @@
   },
   {
     "name": "icicle soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "icicle"
@@ -5448,7 +4929,6 @@
   },
   {
     "name": "ironheart soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "ironheart"
@@ -5457,7 +4937,6 @@
   },
   {
     "name": "jackalope soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "jackalope"
@@ -5466,7 +4945,6 @@
   },
   {
     "name": "jackpot soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "jackpot"
@@ -5475,7 +4953,6 @@
   },
   {
     "name": "jam soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "jam"
@@ -5484,7 +4961,6 @@
   },
   {
     "name": "jasmine soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "jasmine"
@@ -5493,7 +4969,6 @@
   },
   {
     "name": "jerboa soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "jerboa"
@@ -5502,7 +4977,6 @@
   },
   {
     "name": "jumbo soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "jumbo"
@@ -5511,7 +4985,6 @@
   },
   {
     "name": "kismet soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "kismet"
@@ -5520,7 +4993,6 @@
   },
   {
     "name": "melody soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "melody"
@@ -5529,7 +5001,6 @@
   },
   {
     "name": "moonbeam soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "moonbeam"
@@ -5538,7 +5009,6 @@
   },
   {
     "name": "myriad soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "myriad"
@@ -5547,7 +5017,6 @@
   },
   {
     "name": "natasha soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "natasha"
@@ -5556,7 +5025,6 @@
   },
   {
     "name": "nebula soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "nebula"
@@ -5565,7 +5033,6 @@
   },
   {
     "name": "paperweight soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "paperweight"
@@ -5574,7 +5041,6 @@
   },
   {
     "name": "peacock soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "peacock"
@@ -5583,7 +5049,6 @@
   },
   {
     "name": "pinecone soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "pinecone"
@@ -5592,7 +5057,6 @@
   },
   {
     "name": "potato soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "potato"
@@ -5601,7 +5065,6 @@
   },
   {
     "name": "pumpkin soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "pumpkin"
@@ -5610,7 +5073,6 @@
   },
   {
     "name": "qibli soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "qibli"
@@ -5619,7 +5081,6 @@
   },
   {
     "name": "ribbon soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "ribbon"
@@ -5628,7 +5089,6 @@
   },
   {
     "name": "rose soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "rose"
@@ -5637,7 +5097,6 @@
   },
   {
     "name": "rosemary soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "rosemary"
@@ -5646,7 +5105,6 @@
   },
   {
     "name": "sky soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "sky"
@@ -5655,7 +5113,6 @@
   },
   {
     "name": "snake soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "snake"
@@ -5664,7 +5121,6 @@
   },
   {
     "name": "snowball soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "snowball"
@@ -5673,7 +5129,6 @@
   },
   {
     "name": "sparky soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "sparky"
@@ -5682,7 +5137,6 @@
   },
   {
     "name": "starry soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "starry"
@@ -5691,7 +5145,6 @@
   },
   {
     "name": "sunflower soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "sunflower"
@@ -5700,7 +5153,6 @@
   },
   {
     "name": "tephra soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "tephra"
@@ -5709,7 +5161,6 @@
   },
   {
     "name": "thyme soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "thyme"
@@ -5718,7 +5169,6 @@
   },
   {
     "name": "tomato soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "tomato"
@@ -5727,7 +5177,6 @@
   },
   {
     "name": "trinket soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "trinket"
@@ -5736,7 +5185,6 @@
   },
   {
     "name": "tsunami soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "tsunami"
@@ -5745,7 +5193,6 @@
   },
   {
     "name": "tundra soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "tundra"
@@ -5754,7 +5201,6 @@
   },
   {
     "name": "typhoon soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "typhoon"
@@ -5763,7 +5209,6 @@
   },
   {
     "name": "whiteout soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "whiteout"
@@ -5772,7 +5217,6 @@
   },
   {
     "name": "willow soul",
-    "type": "png",
     "date": "2025-12-29",
     "ch": [
       "willow"
@@ -5789,7 +5233,6 @@
   },
   {
     "name": "goose squidlykitten",
-    "type": "png",
     "date": "2025-04-25",
     "author": "squidlykitten",
     "authorUrl": "https://toyhou.se/squidlykitten",
@@ -5799,7 +5242,6 @@
   },
   {
     "name": "pumpkin candlelight wall",
-    "type": "png",
     "date": "2026-01-04",
     "ch": [
       "candlelight",
@@ -5808,7 +5250,6 @@
   },
   {
     "name": "willow rainbow scratch paper",
-    "type": "png",
     "date": "2026-01-04",
     "ch": [
       "willow"
@@ -5818,7 +5259,6 @@
   },
   {
     "name": "goose camera",
-    "type": "png",
     "date": "2026-01-01",
     "ch": [
       "goose"
@@ -5826,7 +5266,6 @@
   },
   {
     "name": "goose camera loom",
-    "type": "png",
     "date": "2026-01-01",
     "ch": [
       "goose"
@@ -5834,7 +5273,6 @@
   },
   {
     "name": "nebula hair",
-    "type": "png",
     "date": "2026-01-06",
     "ch": [
       "nebula"
@@ -5842,7 +5280,6 @@
   },
   {
     "name": "nebula hair light",
-    "type": "png",
     "date": "2026-01-06",
     "ch": [
       "nebula"
@@ -5851,7 +5288,6 @@
   },
   {
     "name": "nebula hair transparent",
-    "type": "png",
     "date": "2026-01-06",
     "ch": [
       "nebula"
@@ -5859,7 +5295,6 @@
   },
   {
     "name": "helsinki cute",
-    "type": "png",
     "date": "2026-01-06",
     "ch": [
       "helsinki"
@@ -5867,7 +5302,6 @@
   },
   {
     "name": "cherry stand",
-    "type": "png",
     "date": "2026-01-06",
     "ch": [
       "cherry"
@@ -5886,7 +5320,6 @@
   },
   {
     "name": "nightsun target",
-    "type": "png",
     "date": "2026-01-12",
     "ch": [
       "nightsun"
@@ -5894,7 +5327,6 @@
   },
   {
     "name": "sparky animus gray",
-    "type": "png",
     "date": "2026-01-12",
     "ch": [
       "sparky",
@@ -5903,7 +5335,6 @@
   },
   {
     "name": "nightsun sparky bramble stack",
-    "type": "png",
     "date": "2026-01-16",
     "ch": [
       "nightsun",
@@ -5913,7 +5344,6 @@
   },
   {
     "name": "elegance horse year",
-    "type": "png",
     "date": "2026-01-16",
     "ch": [
       "elegance"
@@ -5921,7 +5351,6 @@
   },
   {
     "name": "tsunami luna",
-    "type": "png",
     "author": "mothplush",
     "authorUrl": "https://toyhou.se/mothplush",
     "date": "2026-01-16",
@@ -5939,7 +5368,6 @@
   },
   {
     "name": "sparky think",
-    "type": "png",
     "date": "2026-01-21",
     "ch": [
       "sparky"
@@ -5947,7 +5375,6 @@
   },
   {
     "name": "thyme stand",
-    "type": "png",
     "date": "2026-01-21",
     "ch": [
       "thyme"
@@ -5955,7 +5382,6 @@
   },
   {
     "name": "pumpkin thyme discussion",
-    "type": "png",
     "date": "2026-01-21",
     "ch": [
       "pumpkin",
@@ -5964,7 +5390,6 @@
   },
   {
     "name": "sparky blankninja",
-    "type": "png",
     "date": "2026-01-23",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -5984,7 +5409,6 @@
   },
   {
     "name": "nightsun blankninja",
-    "type": "png",
     "date": "2026-01-23",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -5994,7 +5418,6 @@
   },
   {
     "name": "sunflower lnt",
-    "type": "png",
     "date": "2026-01-24",
     "ch": [
       "icicle",
@@ -6004,7 +5427,6 @@
   },
   {
     "name": "tpr",
-    "type": "png",
     "date": "2026-01-26"
   },
   {
@@ -6019,7 +5441,6 @@
   },
   {
     "name": "kismet blank",
-    "type": "png",
     "date": "2026-01-30",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -6029,7 +5450,6 @@
   },
   {
     "name": "kismet blank no text",
-    "type": "png",
     "date": "2026-01-30",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -6039,7 +5459,6 @@
   },
   {
     "name": "im the friend blank",
-    "type": "png",
     "date": "2026-01-30",
     "author": "BlankNinja",
     "authorUrl": "https://artfight.net/~BlankNinja",
@@ -6053,7 +5472,6 @@
   },
   {
     "name": "lightningtails",
-    "type": "png",
     "date": "2026-02-01",
     "ch": [
       "sparky"
@@ -6062,23 +5480,19 @@
   },
   {
     "name": "cotton candy",
-    "type": "png",
     "date": "2026-02-02",
     "comment": "Cotton and Candy, the two Winghorse Tadlet princesses, who became rivals after the partition of Winghorse Kingdom, each ruling a side."
   },
   {
     "name": "map",
-    "type": "png",
     "date": "2026-02-03"
   },
   {
     "name": "map alliances",
-    "type": "png",
     "date": "2026-02-03"
   },
   {
     "name": "harmony bench",
-    "type": "png",
     "date": "2026-02-06",
     "ch": [
       "harmony"
@@ -6086,7 +5500,6 @@
   },
   {
     "name": "icicle starry footer",
-    "type": "png",
     "date": "2026-02-06",
     "ch": [
       "icicle",
@@ -6096,17 +5509,14 @@
   },
   {
     "name": "map allies",
-    "type": "png",
     "date": "2026-02-06"
   },
   {
     "name": "bauhinia starcorp",
-    "type": "png",
     "date": "2026-02-06"
   },
   {
     "name": "jackalope profile",
-    "type": "png",
     "date": "2026-02-07",
     "ch": [
       "jackalope"
@@ -6115,7 +5525,6 @@
   },
   {
     "name": "sundew profile",
-    "type": "png",
     "date": "2026-02-07",
     "ch": [
       "sundew"
@@ -6124,7 +5533,6 @@
   },
   {
     "name": "jinx profile",
-    "type": "png",
     "date": "2026-02-08",
     "ch": [
       "jinx"
@@ -6133,7 +5541,6 @@
   },
   {
     "name": "chastity evil",
-    "type": "png",
     "date": "2026-02-08",
     "ch": [
       "chastity"
@@ -6141,7 +5548,6 @@
   },
   {
     "name": "hyrax thumb",
-    "type": "png",
     "date": "2026-02-13",
     "ch": [
       "hyrax"
@@ -6150,7 +5556,6 @@
   },
   {
     "name": "hyrax animus",
-    "type": "png",
     "date": "2026-02-13",
     "ch": [
       "hyrax",
@@ -6159,13 +5564,11 @@
   },
   {
     "name": "clover ref",
-    "type": "png",
     "date": "2026-02-14",
     "comment": "A character in [Sunflower](/characters/sunflower/)'s paracosm [Tadlet Kingdom](/world/tadlet-kingdom/). Clover is a gardener who plants beautiful flowers."
   },
   {
     "name": "kismet hyrax",
-    "type": "png",
     "date": "2026-02-14",
     "ch": [
       "kismet",
@@ -6174,7 +5577,6 @@
   },
   {
     "name": "holly stand",
-    "type": "png",
     "date": "2026-02-19",
     "ch": [
       "holly"
@@ -6183,7 +5585,6 @@
   },
   {
     "name": "color wheel",
-    "type": "png",
     "date": "2026-02-20",
     "ch": [
       "jumbo",
@@ -6198,7 +5599,6 @@
   },
   {
     "name": "color wheel - nightsun",
-    "type": "png",
     "date": "2026-02-20",
     "ch": [
       "nightsun"
@@ -6206,7 +5606,6 @@
   },
   {
     "name": "color wheel - sparky",
-    "type": "png",
     "date": "2026-02-20",
     "ch": [
       "sparky"
@@ -6214,7 +5613,6 @@
   },
   {
     "name": "color wheel - willow",
-    "type": "png",
     "date": "2026-02-20",
     "ch": [
       "willow"
@@ -6222,7 +5620,6 @@
   },
   {
     "name": "color wheel - sunflower",
-    "type": "png",
     "date": "2026-02-20",
     "ch": [
       "sunflower"
@@ -6230,7 +5627,6 @@
   },
   {
     "name": "color wheel - starry",
-    "type": "png",
     "date": "2026-02-20",
     "ch": [
       "starry"
@@ -6238,7 +5634,6 @@
   },
   {
     "name": "color wheel - jumbo",
-    "type": "png",
     "date": "2026-02-20",
     "ch": [
       "jumbo"
@@ -6246,7 +5641,6 @@
   },
   {
     "name": "color wheel - ribbon",
-    "type": "png",
     "date": "2026-02-20",
     "ch": [
       "ribbon"
@@ -6254,7 +5648,6 @@
   },
   {
     "name": "color wheel - helsinki",
-    "type": "png",
     "date": "2026-02-20",
     "ch": [
       "helsinki"
@@ -6262,13 +5655,11 @@
   },
   {
     "name": "sheva stuck",
-    "type": "png",
     "date": "2026-02-21",
     "comment": "Gift exchange."
   },
   {
     "name": "jinx horse fly",
-    "type": "png",
     "date": "2026-02-21",
     "ch": [
       "jinx"
@@ -6276,14 +5667,12 @@
   },
   {
     "name": "banner bauhinia new",
-    "type": "png",
     "date": "2026-02-23",
     "kind": "banner",
     "comment": "Fuck was that tower hard to draw!"
   },
   {
     "name": "sky ref",
-    "type": "png",
     "date": "2026-02-25",
     "ch": [
       "sky"
@@ -6292,7 +5681,6 @@
   },
   {
     "name": "blackjack profile",
-    "type": "png",
     "date": "2026-02-27",
     "ch": [
       "blackjack"
@@ -6301,7 +5689,6 @@
   },
   {
     "name": "jumbo profile",
-    "type": "png",
     "date": "2026-02-27",
     "ch": [
       "jumbo"
@@ -6310,7 +5697,6 @@
   },
   {
     "name": "mulberry profile",
-    "type": "png",
     "date": "2026-02-27",
     "ch": [
       "mulberry"
@@ -6319,7 +5705,6 @@
   },
   {
     "name": "tsunami profile",
-    "type": "png",
     "date": "2026-02-27",
     "ch": [
       "tsunami"
@@ -6328,7 +5713,6 @@
   },
   {
     "name": "cherry thumb",
-    "type": "png",
     "date": "2026-03-02",
     "ch": [
       "cherry"
@@ -6337,7 +5721,6 @@
   },
   {
     "name": "sparky idk",
-    "type": "png",
     "date": "2026-03-02",
     "ch": [
       "sparky"
@@ -6345,7 +5728,6 @@
   },
   {
     "name": "goose nightmare",
-    "type": "png",
     "date": "2026-03-02",
     "ch": [
       "goose"
@@ -6353,7 +5735,6 @@
   },
   {
     "name": "goose nightmare no bg",
-    "type": "png",
     "date": "2026-03-02",
     "ch": [
       "goose"
@@ -6361,7 +5742,6 @@
   },
   {
     "name": "buttercup mad",
-    "type": "png",
     "date": "2026-03-04",
     "ch": [
       "buttercup"
@@ -6370,7 +5750,6 @@
   },
   {
     "name": "pumpkin hang",
-    "type": "png",
     "date": "2026-03-06",
     "ch": [
       "pumpkin"
@@ -6379,7 +5758,6 @@
   },
   {
     "name": "halcyon float",
-    "type": "png",
     "date": "2026-03-06",
     "ch": [
       "halcyon"
@@ -6388,7 +5766,6 @@
   },
   {
     "name": "gorgeous design",
-    "type": "png",
     "date": "2026-03-09",
     "ch": [
       "gorgeous"
@@ -6396,7 +5773,6 @@
   },
   {
     "name": "cornflower stand",
-    "type": "png",
     "date": "2026-03-09",
     "ch": [
       "cornflower"
@@ -6405,7 +5781,6 @@
   },
   {
     "name": "cornflower thumb",
-    "type": "png",
     "date": "2026-03-11",
     "ch": [
       "cornflower"
@@ -6414,7 +5789,6 @@
   },
   {
     "name": "jackalope half sit",
-    "type": "png",
     "date": "2026-03-12",
     "ch": [
       "jackalope"
@@ -6422,7 +5796,6 @@
   },
   {
     "name": "chariot stand",
-    "type": "png",
     "date": "2026-03-12",
     "ch": [
       "chariot"
@@ -6431,7 +5804,6 @@
   },
   {
     "name": "cornflower wave",
-    "type": "png",
     "date": "2026-03-15",
     "ch": [
       "cornflower"
@@ -6439,7 +5811,6 @@
   },
   {
     "name": "qibli ref",
-    "type": "png",
     "date": "2026-03-15",
     "ch": [
       "qibli"
