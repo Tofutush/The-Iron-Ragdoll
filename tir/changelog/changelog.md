@@ -6,6 +6,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-15
+
+- Added `cornflower wave.png`, `qibli ref.png`;
+
 ## 2026-03-14
 
 - Changed the heading styles again;
