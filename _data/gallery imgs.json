@@ -6428,5 +6428,22 @@
       "chariot"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "cornflower wave",
+    "type": "png",
+    "date": "2026-03-15",
+    "ch": [
+      "cornflower"
+    ]
+  },
+  {
+    "name": "qibli ref",
+    "type": "png",
+    "date": "2026-03-15",
+    "ch": [
+      "qibli"
+    ],
+    "kind": "ref"
   }
 ]
