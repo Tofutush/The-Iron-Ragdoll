@@ -44,8 +44,8 @@ function imagePlugin(eleventyConfig) {
 	}
 	// returns string from gallery imgs.json obj
 	function getSrcFromObj(obj) {
-		if (obj.author) return `img/others art/${obj.name}.${obj.type}`;
-		return `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type}`;
+		if (obj.author) return `img/others art/${obj.name}.${obj.type || 'png'}`;
+		return `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type || 'png'}`;
 	}
 	async function getMetadata(src, size, format, animate) {
 		if (!format) {
