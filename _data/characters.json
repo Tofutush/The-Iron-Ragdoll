@@ -11,7 +11,8 @@
       "Starcorp",
       "Coastline Middle School",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Superstrength"
     ],
     "af": "https://artfight.net/character/3822164.sparky",
     "attr": {
@@ -67,7 +68,8 @@
       "Coastline",
       "Sparky's Family",
       "Starcorp",
-      "Bauhinia"
+      "Bauhinia",
+      "Superstrength"
     ],
     "af": "https://artfight.net/character/4038427.peacock",
     "attr": {
@@ -97,7 +99,8 @@
       "Coastline",
       "Sparky's Family",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Mind Reading"
     ],
     "af": "https://artfight.net/character/5716052.willow",
     "attr": {
@@ -146,7 +149,8 @@
       "Coastline",
       "Coastline Middle School",
       "Magic Academy",
-      "Bauhinia"
+      "Bauhinia",
+      "Magic"
     ],
     "af": "https://artfight.net/character/5806216.qibli",
     "attr": {
@@ -415,7 +419,8 @@
     "desc": "Nebula's successor.",
     "tags": [
       "Magic Academy",
-      "Bauhinia"
+      "Bauhinia",
+      "Magic"
     ],
     "attr": {
       "Soul": "Liquid, constantly-boiling",
@@ -440,7 +445,8 @@
     "tags": [
       "Coastline",
       "Magic Academy",
-      "Bauhinia"
+      "Bauhinia",
+      "Magic"
     ],
     "af": "https://artfight.net/character/5863790.nebula",
     "attr": {
@@ -572,7 +578,8 @@
     "tags": [
       "Coastline",
       "Ministry of State Security",
-      "Bauhinia"
+      "Bauhinia",
+      "Invisibility"
     ],
     "af": "https://artfight.net/character/5612115.goose",
     "attr": {
@@ -604,7 +611,8 @@
       "Ministry of State Security",
       "Bauhinia",
       "Westavia",
-      "Nameless Village"
+      "Nameless Village",
+      "Hyperawareness"
     ],
     "af": "https://artfight.net/character/5612117.pumpkin",
     "attr": {
@@ -635,7 +643,8 @@
       "Coastline",
       "Ministry of State Security",
       "Bauhinia",
-      "Moreland"
+      "Moreland",
+      "Magic"
     ],
     "af": "https://artfight.net/character/5612120.halcyon",
     "attr": {
@@ -665,7 +674,8 @@
     "tags": [
       "Coastline",
       "Ministry of State Security",
-      "Bauhinia"
+      "Bauhinia",
+      "Timekeeping"
     ],
     "af": "https://artfight.net/character/5612121.paperweight",
     "attr": {
@@ -809,7 +819,8 @@
     "namezh": "雪球",
     "color": "#D920D2",
     "tags": [
-      "Moreland"
+      "Moreland",
+      "Invisibility"
     ],
     "attr": {
       "Full name": "Snowball 201710033746",
@@ -933,7 +944,8 @@
       "Cherry-Hyrax Family",
       "Starcorp",
       "Fancy Private School",
-      "Bauhinia"
+      "Bauhinia",
+      "Timekeeping"
     ],
     "attr": {
       "Full name": "Elegance Cherry Hyrax",
@@ -1039,7 +1051,13 @@
     "desc": "President of Bauhinia.",
     "tags": [
       "Flower City",
-      "Bauhinia"
+      "Bauhinia",
+      "Superstrength",
+      "Hyperawareness",
+      "Timekeeping",
+      "Invisibility",
+      "Mind Reading",
+      "Immortality"
     ],
     "af": "https://artfight.net/character/7948419.kismet",
     "attr": {
@@ -1414,7 +1432,8 @@
     "quote": "TAKE THAT, YOU MOTHERFUCKING MOTHERFUCKER!",
     "tags": [
       "Westavia",
-      "Nameless Village"
+      "Nameless Village",
+      "Superstrength"
     ],
     "attr": {
       "Soul": "Gas, like a supernova",
@@ -1456,7 +1475,8 @@
     "color": "#0e81c8",
     "desc": "Majiang-loving soul-dealer.",
     "tags": [
-      "Fanton"
+      "Fanton",
+      "Mind Reading"
     ],
     "attr": {
       "Nickname": "Co (by Kaleidoscope)",
@@ -1493,7 +1513,8 @@
     "namezh": "夜莺",
     "color": "#d22dae",
     "tags": [
-      "Fanton"
+      "Fanton",
+      "Hyperawareness"
     ],
     "attr": {
       "Nationality": "Fantoni",
@@ -1510,7 +1531,8 @@
     "namezh": "月月鸟",
     "color": "#077838",
     "tags": [
-      "Fanton"
+      "Fanton",
+      "Superstrength"
     ],
     "attr": {
       "Nationality": "Fantoni",
@@ -1570,7 +1592,8 @@
     "color": "#800080",
     "quote": "What's the big deal?",
     "tags": [
-      "Fanton"
+      "Fanton",
+      "Immortality"
     ],
     "attr": {
       "Soul": "Gas, wispy",
@@ -1748,7 +1771,8 @@
     "tags": [
       "Spy School",
       "Flower City",
-      "Bauhinia"
+      "Bauhinia",
+      "Mind Reading"
     ],
     "af": "https://artfight.net/character/3959019.cosmo",
     "attr": {
@@ -1907,7 +1931,8 @@
     "tags": [
       "Fanton",
       "Moreland",
-      "Guardian Moose"
+      "Guardian Moose",
+      "Mind Reading"
     ],
     "attr": {
       "Soul": "Solid, ice cube that looks like chocolate because it's brown",
@@ -2009,7 +2034,8 @@
     "desc": "Prospective TV star.",
     "tags": [
       "Coastline",
-      "Bauhinia"
+      "Bauhinia",
+      "Hyperawareness"
     ],
     "attr": {
       "Soul": "Gas (both two), her own is green, leaf-shaped; her sister's is red, fruit-shaped",
@@ -2099,7 +2125,8 @@
     "tags": [
       "Ministry of State Security",
       "Flower City",
-      "Bauhinia"
+      "Bauhinia",
+      "Hyperawareness"
     ],
     "attr": {
       "Soul": "Gas, cornflower-shaped",
