@@ -773,7 +773,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Cornflower",
 color: "#45519d",
 desc: "Wiretapper for the MSS.",
-img: "/The-Iron-Ragdoll/img/Xijd859Q6I-500.webp"
+img: "/The-Iron-Ragdoll/img/Q-b3N7u-JY-500.webp"
 },
 
 ];
