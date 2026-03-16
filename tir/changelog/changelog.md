@@ -9,6 +9,7 @@ eleventyNavigation:
 ## 2026-03-15
 
 - Added `cornflower wave.png`, `qibli ref.png`;
+- Added the superpowers as tags;
 
 ## 2026-03-14
 
