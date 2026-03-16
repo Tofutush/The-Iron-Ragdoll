@@ -5816,5 +5816,33 @@
       "qibli"
     ],
     "kind": "ref"
+  },
+  {
+    "name": "holly soul",
+    "date": "2026-03-16",
+    "ch": [
+      "holly"
+    ],
+    "kind": "soul"
+  },
+  {
+    "name": "cornflower soul",
+    "date": "2026-03-16",
+    "ch": [
+      "cornflower"
+    ],
+    "kind": "soul"
+  },
+  {
+    "name": "sparky splat",
+    "date": "2026-03-16",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "swim bird",
+    "date": "2026-03-16",
+    "comment": "A little swim bird from Blue Prince."
   }
 ]
