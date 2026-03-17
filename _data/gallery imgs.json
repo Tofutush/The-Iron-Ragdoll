@@ -5844,5 +5844,13 @@
     "name": "swim bird",
     "date": "2026-03-16",
     "comment": "A little swim bird from Blue Prince."
+  },
+  {
+    "name": "sky popping",
+    "date": "2026-03-17",
+    "ch": [
+      "sky"
+    ],
+    "kind": "pagedoll"
   }
 ]
