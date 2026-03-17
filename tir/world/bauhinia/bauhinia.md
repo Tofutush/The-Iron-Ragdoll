@@ -84,6 +84,8 @@ Everyone is batshit crazy in Bauhinia.
 
 Bauhinia emphasizes love, empathy, harmony, and family. Too bad it's actually full of hate, apathy, discord, and [single dads raising 4 kids](/characters/peacock/). (The [oldest one](/characters/fantasy/) is an adult now though so she doesn't count.)
 
+Republican revolutionaries often wore berets, and thus after the revolution, wearing berets is seen as a nice and patriotic thing, hence why president Kismet wears that all the time.
+
 ### Naming conventions
 
 The name of a Bauhinian (or [Fantoni](/world/fanton/)) consists of three parts: the given name, and the parents' given names.
