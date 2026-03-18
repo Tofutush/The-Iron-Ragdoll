@@ -151,10 +151,6 @@ blockquote {
 	}
 }
 
-.img>img:hover {
-	box-shadow: 0 0 0 .4em var(--accent);
-}
-
 .pagedoll {
 	position: fixed;
 	bottom: 1rem;
