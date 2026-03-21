@@ -1613,7 +1613,11 @@
     "name": "Vampire",
     "namezh": "吸血鬼",
     "color": "#dd8736",
+    "desc": "Has spent more time as a dragon than as a human.",
+    "quote": "I'm in *Bauhinia*???",
     "tags": [
+      "Coastline",
+      "Atlasia",
       "Misc"
     ],
     "attr": {
@@ -1622,7 +1626,8 @@
     "palette": {
       "shaved hair": "#C5B38D",
       "hair": "#2E2E2E"
-    }
+    },
+    "about": "Vampire was one of the few people to jump over the dragon gate, situated in Atlasia, before Bauhinian magicians ~~stole~~ borrowed it. He was 13 when he turned into a dragon this way. He somehow unknowingly made it to Coastline through a system of underwater rivers, and have been depleting the fish of [Honeypot Lake](/world/bauhinia/honeypot-lake/) for 15 years before he was found."
   },
   {
     "name": "Jackalope",

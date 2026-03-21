@@ -53,7 +53,7 @@ But he wasn't Firecrackers. His eyes were empty. His soul had long ago moved on;
 
 Qibli desperately tried to believe that Firecrackers was revived and well, despite overwhelming evidence to the contrary. Worse, if she lets go of her magic for just a couple minutes, the body goes back to being dead.
 
-Grieving, Qibli buried Firecrackers back in his grave. Trinket took the chance to bash her in the head, knocking her out and capturing her. She headed back to Flower City and handed Qibli to Kismet, the fake one.
+Grieving, Qibli buried Firecrackers back in his grave. Tsunami took the chance to bash her in the head, knocking her out and capturing her. She headed back to Flower City and handed Qibli to Kismet, the fake one.
 
 ## Capture
 
