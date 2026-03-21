@@ -564,7 +564,7 @@ img: "/The-Iron-Ragdoll/img/jQn5TjNevW-500.webp"
 {
 name: "Vampire",
 color: "#dd8736",
-desc: "",
+desc: "Has spent more time as a dragon than as a human.",
 img: "/The-Iron-Ragdoll/img/GtfWqsWaS_-500.webp"
 },
 
