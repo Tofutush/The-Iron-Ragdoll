@@ -1,10 +1,13 @@
 ---
-layout: article.liquid
 title: Changelog
 parent: Root
 eleventyNavigation:
   order: 990
 ---
+
+## 2026-03-20
+
+- Updated [Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/) to include a brand new section;
 
 ## 2026-03-17
 
@@ -251,4 +254,4 @@ eleventyNavigation:
 
 ---
 
-*Never seen someone read a changelog with this much enthusiasm. Anyways, more for you: [older updates](old/).*
+*Never seen someone read a changelog with this much enthusiasm. Anyways, more for you: [2025 updates](../2025/).*
