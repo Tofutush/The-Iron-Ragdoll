@@ -8,6 +8,9 @@ eleventyNavigation:
 ## 2026-03-20
 
 - Updated [Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/) to include a brand new section;
+- Changed the changelog;
+	- Brought back the 2024 changes (did anyone even notice they were gone?)
+	- Now, I won't be moving updates away per month, but would rather archive an entire year's at the end of a year;
 
 ## 2026-03-17
 
