@@ -257,4 +257,4 @@ eleventyNavigation:
 
 ---
 
-*Never seen someone read a changelog with this much enthusiasm. Anyways, more for you: [2025 updates](../2025/).*
+*Never seen someone read a changelog with this much enthusiasm. Anyways, more for you: [2025 changelog](/changelog/2025/).*
