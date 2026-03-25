@@ -22,18 +22,15 @@ Possessor lists are not complete.
 
 ### Superstrength
 
-- Possessors: [Sparky](/characters/sparky/), [Peacock](/characters/peacock/)
-
 Exactly what it says on the tin. Superstrength means you're born stronger than other people.
 
 Of course strength is something that can be trained up, and a lack of exercise can make you weak and lame like me, but people with superstrength would have more things to them than a normal person who's just strong.
 
 This power is active, which means that a strongperson has to call upon their power if they want to lift heavy stuff, and that they wouldn't accidentally break things because of their strength. This also means you can catch their unawares.
 
-### Timekeeping
+[Possessors](/characters/tag/superstrength/)
 
-- Possessors: [Elegance](/characters/elegance/), [Paperweight](/characters/paperweight/)
-- People with timekeeping are called timekeepers
+### Timekeeping
 
 Never be late again! Be able to tell the time down to the second (if you're strong enough). Also be able to tell how much time passed between to certain events.
 
@@ -41,9 +38,9 @@ This power is passive, so they will always know what time it is or how much time
 
 Under duress, a timekeeper's internal clock could be messed up. For example, it's common to mistake their own heartbeat for seconds when timekeepers are panicking.
 
-### Hyperawareness
+[Possessors](/characters/tag/timekeeping/)
 
-- Possessors: [Pumpkin](/characters/pumpkin/)
+### Hyperawareness
 
 Be able to see, hear, and smell things that other people can't. For weaker people, they might only get enhanced senses, but for stronger people, they might literally be able to see stuff going on on the other side of town, or hear a pin dropped in a noisy room. It's also possible for someone to be extremely strong in one or two senses but lacking in the others.
 
@@ -51,11 +48,11 @@ This power is active, which means that a person with hyperawareness has to be co
 
 There is a special fabric that can conceal a person from people with hyperawareness. They hate 'em, we love 'em! Of course, you need extra layers of said fabric to hide yourself from stronger people.
 
+[Possessors](/characters/tag/hyperawareness/)
+
 ### Invisibility
 
 <figure class="float-right">{% image 'pumpkin goose mirror' 200 'Goose showing in the mirror' %} <figcaption>Goose showing in the mirror</figcaption></figure>
-
-- Possessors: [Goose](/characters/goose/), [Snowball](/characters/snowball/)
 
 Get invisible. Like, that's it. Exactly how much you can get invisible depends on your power strength. Like, weaker people might only get their immediate bodies invisible while their clothes are left hanging in the air; stronger people might be able to get a lot more things near them invisible. But no matter what, they have to be invisible *themselves* — you can't hide something else but not yourself.
 
@@ -63,10 +60,9 @@ This power is active, obviously. You hide yourself if you want to. Though if som
 
 No matter the level, invisible people can always been seen in a mirror, or by a camera. There's also the old trick of pouring flour everywhere, as they can never make themselves pass-through.
 
-### Mind Reading
+[Possessors](/characters/tag/invisibility/)
 
-- Possessors: [Cosmo](/characters/cosmo/), [Willow](/characters/willow/)
-- People with mind reading are called mind-readers
+### Mind Reading
 
 Look into other people's deepest privacy. Listen in. What are they thinking about? See what they see in their mind's eye. Unless they have aphantasia or something. Hear what they hear in their mind's ear. Including what song is stuck in their head right now.
 
@@ -76,14 +72,13 @@ This power is active, which means that a mind-reader has to be concentrating (an
 
 Everyone can be trained to shield their own thoughts from mind-readers. There is also a special enchanted helmet that can block off mind-readers completely regardless of level, but only magicians can make it. Another type of helmet blocks the ability for mind-readers to read other people's minds, which can be made without magicians. These two types of helmets are different, with the latter being way more common than the former.
 
+[Possessors](/characters/tag/mind-reading/)
+
 ## Special powers
 
 These powers are extremely rare. Technically, a person can have both a common power and a special power — or even both special powers — at the same time as they're not stored in the same place, but this is so rare that no such person might as well exist.
 
 ### Immortality
-
-- Possessors: [Tundra](/characters/tundra/)
-- People with immortality are called immortals
 
 Get mutilated beyond recognition and still recover with an able body! Literally never die! Except…
 
@@ -91,10 +86,9 @@ For each immortal there is *one* thing that can kill them. And you won't know wh
 
 Immortality is stored in the bones, and as such it's the only power that can be detected through medical tests. Since it's in the bones, it comes with the body, unlike the common powers that come with the soul. This is the rarest superpower, followed by magic.
 
-### Magic
+[Possessors](/characters/tag/immortality/)
 
-- Possessors: [Qibli](/characters/qibli/), [Trinket](/characters/trinket/), [Halcyon](/characters/halcyon/), [Nebula](/characters/nebula/)
-- People with magic are called magicians
+### Magic
 
 Now, this is the best one of all. Powerful, mystical, and artificially rare.
 
@@ -103,3 +97,5 @@ Magicians can do nearly anything they put their minds to. Most of it involve tel
 Magicians can choose to take their magic out of their body and into a vessel. Then they can only use their magic if they're physically in contact with the vessel. The magic is still theirs, and still only they can use it. But while all other spells function the same, they *cannot* take the magic back out again unless the vessel is completely broken — for example, snapped in half. Slight chipping doesn't count.
 
 Magic is stored in the blood, but people don't know that. That is, until Qibli out and started dripping tiny bits of it in vessels, allowing other people to use them. But even she is unable to give her magic completely to someone else and make them a magician.
+
+[Possessors](/characters/tag/magic/)
