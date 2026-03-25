@@ -8,7 +8,7 @@ chNum: 1
 date: 2025-05-21
 ---
 
-It was a Sunday afternoon. Harmony was curled up on the sofa with a book when there came a knock on the door. Entity went to get it.
+It was a Sunday afternoon. Harmony was curled up on the sofa with a book when there came a knock on the door. Her dad, Entity, went to get it.
 
 A man in a jet-black uniform stood in the doorway, sporting two blue horns and a welcoming smile, hands held behind his back. Entity nearly slammed the door right back into his face, but the man reached out a hand and stopped it.
 
@@ -34,17 +34,17 @@ They sat down around the tea table. Harmony put her book face-down on the sofa. 
 
 "Really?" Frosting burst out.
 
-"You are not mistaken. Our administration saw potential in a student like Harmony."
+"You are not mistaken. Our administration sees potential in a student like Harmony."
 
 For the second time, he looked into Harmony's eyes.
 
-"Uh, what's Ministry Affiliate?" Harmony asked.
+Harmony felt compelled to say something lest Sky thought she was an idiot. "Uh, what's Ministry Affiliate?" She asked.
 
 "It's a special school ran by the Ministry of State Security," Sky said. "Where you can start early in your training to become an officer there."
 
-"Um." Harmony stared at him blankly. "Why do I want to go there?"
+Oh. Harmony had heard rumors about the mystical school before, under the name of "Spy School." But she had never expected to have anything to do with it.
 
-"Because we'll teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me."
+"We will teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me."
 
 "I was supposed to go to Flower City Middle School with my friend," Harmony said.
 
@@ -74,9 +74,23 @@ Harmony coughed.
 
 "What is there to consider?" Harmony picked the book back up from the sofa and headed for her room. "Sugarcane is going."
 
-"Why don't you make sure first? Confirm it with Sugarcane."
+"Do you know what that school is?" Frosting stood up and walked after her. "They all call it Spy School."
 
-Oh, right. Harmony hadn't thought about that. "Tell her mom I'd be at the playground!"
+"I think I've heard of it," Harmony set the book facedown on her desk.
+
+"It's known for its rigorous coursework. A lot of people end up quitting. I remember a year when the graduating class had only half the kids they started with."
+
+Now Harmony was reasonably worried. "Where do these kids go then?"
+
+"Back to normal middle and high schools. Although, because what Spy School teaches are a lot different, a lot of them have trouble catching up."
+
+"Really?"
+
+"So," Frosting continued, "all I'm saying is to take more consideration before making a significant choice like this."
+
+Harmony thought about her future as a middle school dropout. But she also thought about going to school without Sugarcane. Without her warm and uplifting laughter, her gentle lecturing about class content Harmony didn't understand, and her confident authority in everything that brought Harmony doubt. She had been Harmony's best and only friend all throughout elementary school. Harmony didn't want to leave her.
+
+"I'll go find Sugarcane at the playground."
 
 ---
 
@@ -109,8 +123,6 @@ Harmony got up to follow Sugarcane.
 "Still latching yourself onto her butt, I see," Rose shouted behind them.
 
 "Don't mind her," Sugarcane said. "You know you're my best friend."
-
-Harmony knew that.
 
 When they were far enough away from Rose, Sugarcane finally turned excitedly to Harmony and said, "you're really coming! I said I'd only attend if you do!"
 
