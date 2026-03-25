@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-24
+
+- Added `sparky lasso.png`;
+
 ## 2026-03-20
 
 - Updated [Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/) to include a brand new section;

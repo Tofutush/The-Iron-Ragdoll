@@ -3,15 +3,7 @@
   "pinFilters": {
     "active": false,
     "tags": [],
-    "paths": [
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "changelog/changelog.md",
-        "patternType": "STRICT"
-      }
-    ],
+    "paths": [],
     "frontMatter": []
   },
   "hideFilters": {
