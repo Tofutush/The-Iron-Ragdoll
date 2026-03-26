@@ -7,6 +7,7 @@ categories:
   - Lore
   - Superpowers
 ---
+<link rel="stylesheet" href="/css/characterspage.css">
 
 [[toc]]
 
@@ -28,7 +29,7 @@ Of course strength is something that can be trained up, and a lack of exercise c
 
 This power is active, which means that a strongperson has to call upon their power if they want to lift heavy stuff, and that they wouldn't accidentally break things because of their strength. This also means you can catch their unawares.
 
-[Possessors](/characters/tag/superstrength/)
+{% assign superstrength = characters | filterChByTag: 'Superstrength' %} {% include 'chs', chs: superstrength %}
 
 ### Timekeeping
 
@@ -38,7 +39,7 @@ This power is passive, so they will always know what time it is or how much time
 
 Under duress, a timekeeper's internal clock could be messed up. For example, it's common to mistake their own heartbeat for seconds when timekeepers are panicking.
 
-[Possessors](/characters/tag/timekeeping/)
+{% assign timekeeping = characters | filterChByTag: 'Timekeeping' %} {% include 'chs', chs: timekeeping %}
 
 ### Hyperawareness
 
@@ -48,7 +49,7 @@ This power is active, which means that a person with hyperawareness has to be co
 
 There is a special fabric that can conceal a person from people with hyperawareness. They hate 'em, we love 'em! Of course, you need extra layers of said fabric to hide yourself from stronger people.
 
-[Possessors](/characters/tag/hyperawareness/)
+{% assign hyperawareness = characters | filterChByTag: 'Hyperawareness' %} {% include 'chs', chs: hyperawareness %}
 
 ### Invisibility
 
@@ -60,7 +61,7 @@ This power is active, obviously. You hide yourself if you want to. Though if som
 
 No matter the level, invisible people can always been seen in a mirror, or by a camera. There's also the old trick of pouring flour everywhere, as they can never make themselves pass-through.
 
-[Possessors](/characters/tag/invisibility/)
+{% assign invisibility = characters | filterChByTag: 'Invisibility' %} {% include 'chs', chs: invisibility %}
 
 ### Mind Reading
 
@@ -72,7 +73,7 @@ This power is active, which means that a mind-reader has to be concentrating (an
 
 Everyone can be trained to shield their own thoughts from mind-readers. There is also a special enchanted helmet that can block off mind-readers completely regardless of level, but only magicians can make it. Another type of helmet blocks the ability for mind-readers to read other people's minds, which can be made without magicians. These two types of helmets are different, with the latter being way more common than the former.
 
-[Possessors](/characters/tag/mind-reading/)
+{% assign mr = characters | filterChByTag: 'Mind Reading' %} {% include 'chs', chs: mr %}
 
 ## Special powers
 
@@ -86,7 +87,7 @@ For each immortal there is *one* thing that can kill them. And you won't know wh
 
 Immortality is stored in the bones, and as such it's the only power that can be detected through medical tests. Since it's in the bones, it comes with the body, unlike the common powers that come with the soul. This is the rarest superpower, followed by magic.
 
-[Possessors](/characters/tag/immortality/)
+{% assign immortality = characters | filterChByTag: 'Immortality' %} {% include 'chs', chs: immortality %}
 
 ### Magic
 
@@ -98,4 +99,4 @@ Magicians can choose to take their magic out of their body and into a vessel. Th
 
 Magic is stored in the blood, but people don't know that. That is, until Qibli out and started dripping tiny bits of it in vessels, allowing other people to use them. But even she is unable to give her magic completely to someone else and make them a magician.
 
-[Possessors](/characters/tag/magic/)
+{% assign magic = characters | filterChByTag: 'Magic' %} {% include 'chs', chs: magic %}
