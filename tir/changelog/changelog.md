@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-26
+
+- Added possessors to the [Superpowers](/world/superpowers/) file;
+
 ## 2026-03-24
 
 - Added `sparky lasso.png`;
