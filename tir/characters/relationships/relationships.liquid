@@ -52,9 +52,6 @@ eleventyNavigation:
   <div class="flex-around">
     <p style="margin: 0;">Focus on: <select id="chInput" name="ch" value="none">
       <option value="none">None</option>
-      {% for ch in characters %}
-        <option value="{{ ch.name }}">{{ ch.name }}</option>
-      {% endfor %}
     </select></p>
     <p style="margin: 0;">Depth <span id="depth">1</span>: <input id="depthInput" type="range" min="1" max="5" value="1"/></p>
     <label for="hide-minor"><input type="checkbox" id="hide-minor"/> Hide minor relationships</label>

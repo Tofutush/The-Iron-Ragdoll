@@ -6,6 +6,11 @@ let simulation, linkGroup, link, linkLabel1, linkLabel2, nodeGroup, node, nodeLa
 // stuff for filtering
 let focusCh = '', depth = 1, hideMinor = false;
 
+// add ch to select fields
+for (let ch of data.ch.sort((a, b) => a.id.localeCompare(b.id)).map(ch => ch.id)) {
+	document.getElementById('chInput').appendChild(elt('option', { value: ch }, ch));
+}
+
 // Create the SVG container.
 const svg = d3.select("#graph")
 	.attr("width", width)
@@ -290,4 +295,14 @@ document.getElementById('connections-mode').onchange = e => {
 	resetFocus();
 	focusDiv.style.display = 'none';
 	connectionsDiv.style.display = 'block';
+}
+
+function elt(type, props, ...children) {
+	let dom = document.createElement(type);
+	if (props) Object.assign(dom, props);
+	for (let child of children) {
+		if (typeof child != "string") dom.appendChild(child);
+		else dom.appendChild(document.createTextNode(child));
+	}
+	return dom;
 }
