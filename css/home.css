@@ -1,3 +1,29 @@
+#title {
+	& p {
+		margin-bottom: 0;
+		font-style: italic;
+	}
+
+	& h1 {
+		margin-top: 0;
+	}
+}
+
+#flex {
+	display: flex;
+	gap: 2em;
+
+	&>#left {
+		flex: 1;
+		min-width: 0;
+	}
+}
+
+#links {
+	flex-direction: column;
+	align-items: end;
+}
+
 .bday-holiday {
 	display: flex;
 	gap: 1em;
