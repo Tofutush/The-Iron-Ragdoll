@@ -321,15 +321,8 @@ function calculateSteps() {
 	if (result.length === 1) {
 		message.innerText = 'These two characters are the same!';
 	}
-	// resultsDiv.innerHTML = '';
-	// let p = elt('div', { className: 'results' });
-	// for (let z = 0; z < result.length; z++) {
-	// 	p.innerHTML += `<a href="../../characters/${result[z].name.toLowerCase()}/">${result[z].name}</a>`;
-	// 	if (z != result.length - 1)
-	// 		p.innerHTML += `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-right"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>(${result[z].rel || 'has connection to'}) `;
-	// }
-	// resultsDiv.appendChild(p);
-	// resultsDiv.appendChild(elt('p', {}, `Characters in-between: ${result.length - 2}!`))
+	let newCh = data.ch.filter(ch => result.includes(ch.id));
+	updateGraph({ ch: newCh, rel: data.rel });
 }
 
 function findRelationshipPath(graph, start, end) {
@@ -342,8 +335,8 @@ function findRelationshipPath(graph, start, end) {
 		visited.add(name);
 		let neighbors = graph[name] || [];
 		for (let neighbor of neighbors) {
-			let newPath = [...path, { name, rel: neighbor.rel }];
-			if (neighbor.name === end) return [...newPath, { name: end, rel: null }];
+			let newPath = [...path, name];
+			if (neighbor.name === end) return [...newPath, end];
 			queue.push({ name: neighbor.name, path: newPath });
 		}
 	}
