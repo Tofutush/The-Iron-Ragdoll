@@ -16,12 +16,21 @@
 	&>#left {
 		flex: 1;
 		min-width: 0;
+
+		& img {
+			max-width: 30%;
+			height: auto;
+		}
+
+		& #new-here {
+			clear: both;
+		}
 	}
 }
 
-#links {
+.links {
 	flex-direction: column;
-	align-items: end;
+	align-items: start;
 }
 
 .bday-holiday {
@@ -123,5 +132,11 @@
 
 	.bday-holiday {
 		display: block;
+	}
+}
+
+@media only screen and (max-width: 720px) {
+	#flex {
+		flex-direction: column;
 	}
 }
