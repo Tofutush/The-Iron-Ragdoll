@@ -211,11 +211,7 @@ function dragended(event) {
 
 // filtering for character and depth
 function setFocus(ch, d, hide) {
-	console.log(ch, d, hide);
-
 	if ((focusCh === ch && depth === d && hideMinor === hide) || focusCh === 'none' && ch === 'none' && hideMinor === hide) return;
-	console.log(ch, d, hide);
-
 	focusCh = ch;
 	depth = d;
 	hideMinor = hide;
