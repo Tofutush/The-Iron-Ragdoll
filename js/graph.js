@@ -1,35 +1,44 @@
 const width = 1200;
 const height = 600;
 let font12 = 12, font16 = 16, font20 = 20;
-// stuff in the graph, for updating
+
+// D3 / Graph elements
 let simulation, linkGroup, link, linkLabel1, linkLabel2, nodeGroup, node, nodeLabel, bigG;
-// stuff for filtering
+
+// Filtering state
 let focusCh = '', depth = 1, hideMinor = false;
 
+// DOM elements
+const chInput = document.getElementById('chInput');
+const depthInput = document.getElementById('depthInput');
+const depthDisplay = document.getElementById('depth');
+const hideMinorInput = document.getElementById('hide-minor');
+const stepsResults = document.getElementById('steps-results');
+const chNumDisplay = document.getElementById('chNum');
+const linkNumDisplay = document.getElementById('linkNum');
 const selects = document.querySelectorAll('.select');
 
-// steps data
+const focusDiv = document.getElementById('focus');
+const connectionsDiv = document.getElementById('connections');
+
+// --- Build stepsGraph ---
 let stepsGraph = {};
 for (let r of data.rel) {
-	let aName = r.source;
-	let aRel = r.rel1 || '';
-	let bName = r.target;
-	let bRel = r.rel2 || '';
+	const { source: aName, rel1: aRel = '', target: bName, rel2: bRel = '' } = r;
 	if (!stepsGraph[aName]) stepsGraph[aName] = [];
 	if (!stepsGraph[bName]) stepsGraph[bName] = [];
 	stepsGraph[aName].push({ name: bName, rel: bRel });
 	stepsGraph[bName].push({ name: aName, rel: aRel });
 }
 
-// add ch to select fields
-// focus
-for (let ch of data.ch.sort((a, b) => a.id.localeCompare(b.id)).map(ch => ch.id)) {
+// --- Populate select fields ---
+for (let ch of data.ch.sort((a, b) => a.id.localeCompare(b.id)).map(c => c.id)) {
 	let option = document.createElement('option');
 	option.innerText = ch;
 	option.value = ch;
 	document.getElementById('chInput').appendChild(option);
 }
-// connections
+
 for (let select of selects) {
 	for (let ch of Object.keys(stepsGraph).sort((a, b) => a.localeCompare(b))) {
 		let option = document.createElement('option');
@@ -39,56 +48,44 @@ for (let select of selects) {
 	}
 }
 
-///////// D3 stuff
-
-// Create the SVG container.
+// --- D3 SVG setup ---
 const svg = d3.select("#graph")
 	.attr("width", width)
 	.attr("height", height)
 	.attr("viewBox", [-width / 2, -height / 2, width, height])
-	.call(d3.zoom()
-		.on("zoom", (event) => {
-			bigG.attr("transform", event.transform);
-			// font size
-			font12 = Math.min(12, 12 / event.transform.k);
-			font16 = Math.min(16, 16 / event.transform.k);
-			font20 = Math.min(20, 20 / event.transform.k);
-			linkLabel1.attr('font-size', font12);
-			linkLabel2.attr('font-size', font12);
-			nodeLabel.attr('font-size', font16);
-		}));
+	.call(d3.zoom().on("zoom", (event) => {
+		bigG.attr("transform", event.transform);
 
-// zoom wrapper
+		font12 = Math.min(12, 12 / event.transform.k);
+		font16 = Math.min(16, 16 / event.transform.k);
+		font20 = Math.min(20, 20 / event.transform.k);
+
+		linkLabel1?.attr('font-size', font12);
+		linkLabel2?.attr('font-size', font12);
+		nodeLabel?.attr('font-size', font16);
+	}));
+
 bigG = svg.append('g');
 
 setFocus('none', depth, hideMinor);
 
-function updateGraph(data) {
-	const links = [...data.rel];
-	const nodes = [...data.ch];
+// --- Graph update function ---
+function updateGraph({ ch: nodes, rel: links }) {
+	bigG.selectAll('*').remove();
 
-	// clear
-	if (bigG) bigG.selectAll('*').remove();
-
-	// Create a simulation with several forces.
 	simulation = d3.forceSimulation(nodes)
 		.force("link", d3.forceLink(links).id(d => d.id).distance(200))
 		.force("charge", d3.forceManyBody().strength(-400))
 		.force("x", d3.forceX())
 		.force("y", d3.forceY());
 
-	linkGroup = bigG.append("g")
-		.selectAll("g")
-		.data(links)
-		.join("g");
+	linkGroup = bigG.append("g").selectAll("g").data(links).join("g");
 
-	// link lines
 	link = linkGroup.append("line")
 		.attr("stroke", "var(--text)")
 		.attr('opacity', 0.1)
 		.attr("stroke-width", 2);
 
-	// link labels
 	linkLabel1 = linkGroup.append("text")
 		.attr("text-anchor", "middle")
 		.attr("fill", d => d.source.color)
@@ -96,6 +93,7 @@ function updateGraph(data) {
 		.attr('opacity', 0.3)
 		.style('user-select', 'none')
 		.text(d => d.rel1);
+
 	linkLabel2 = linkGroup.append("text")
 		.attr("text-anchor", "middle")
 		.attr("fill", d => d.target.color)
@@ -104,11 +102,7 @@ function updateGraph(data) {
 		.style('user-select', 'none')
 		.text(d => d.rel2);
 
-	// node labels & circles
-	nodeLabel = bigG.append("g")
-		.selectAll("text")
-		.data(nodes)
-		.join("text")
+	nodeLabel = bigG.append("g").selectAll("text").data(nodes).join("text")
 		.attr("text-anchor", "middle")
 		.attr('font-size', font16)
 		.attr('font-weight', 'bold')
@@ -117,92 +111,22 @@ function updateGraph(data) {
 		.attr("fill", "var(--text)")
 		.attr('opacity', 0.5)
 		.style('user-select', 'none');
-	// circle come after label so its layered top
-	node = bigG.append("g")
-		.selectAll("a")
-		.data(nodes)
-		.join("a")
+
+	node = bigG.append("g").selectAll("a").data(nodes).join("a")
 		.attr("xlink:href", d => `../${d.id.toLowerCase()}/`)
 		.attr("target", "_blank")
 		.append("svg:image")
-		.join("svg:image")
 		.attr('width', 40)
 		.attr('height', 40)
 		.attr("xlink:href", d => d.img)
-		// .attr("r", 8)
-		// .attr('stroke', 'var(--bg)')
-		// .attr('stroke-width', 2)
-		// .attr("fill", d => d.color)
-		.on("pointerover", function (e, d) {
-			d3.select(this)
-				.style('z-index', 9);
-			nodeLabel.filter(l => l === d)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr('opacity', 1)
-				.attr('font-size', font20)
-				.style('z-index', 9)
-				.attr('dy', 36);
-			linkLabel1.filter(l => l.source === d)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr('opacity', 1)
-				.attr('font-size', font16)
-				.style('z-index', 9);
-			linkLabel2.filter(l => l.target === d)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr('opacity', 1)
-				.attr('font-size', font16)
-				.style('z-index', 9);
-			link.filter(l => l.source === d || l.target === d)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr('opacity', .3);
-		})
-		.on("pointerout", function (e, d) {
-			d3.select(this)
-				.style('z-index', 0);
-			nodeLabel.filter(l => l === d)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr('opacity', .5)
-				.attr('font-size', font16)
-				.style('z-index', 0)
-				.attr('dy', 32);
-			linkLabel1.filter(l => l.source === d)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr('opacity', .3)
-				.attr('font-size', font12)
-				.style('z-index', 0);
-			linkLabel2.filter(l => l.target === d)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr('opacity', .3)
-				.attr('font-size', font12)
-				.style('z-index', 0);
-			link.filter(l => l.source === d || l.target === d)
-				.transition()
-				.ease(d3.easeCubicInOut)
-				.duration(200)
-				.attr('opacity', .1);
-		});
+		.on("pointerover", handlePointerOver)
+		.on("pointerout", handlePointerOut)
+		.call(d3.drag()
+			.on("start", dragstarted)
+			.on("drag", dragged)
+			.on("end", dragended)
+		);
 
-	// Add a drag behavior.
-	node.call(d3.drag()
-		.on("start", dragstarted)
-		.on("drag", dragged)
-		.on("end", dragended));
-
-	// Set the position attributes of links and nodes each time the simulation ticks.
 	simulation.on("tick", () => {
 		link.attr("x1", d => d.source.x)
 			.attr("y1", d => d.source.y)
@@ -223,135 +147,149 @@ function updateGraph(data) {
 	});
 }
 
-// Reheat the simulation when drag starts, and fix the subject position.
+// --- Pointer handlers ---
+function handlePointerOver(e, d) {
+	d3.select(this).style('z-index', 9);
+	nodeLabel.filter(l => l === d)
+		.transition().duration(200).ease(d3.easeCubicInOut)
+		.attr('opacity', 1).attr('font-size', font20).attr('dy', 36)
+		.style('z-index', 9);
+
+	linkLabel1.filter(l => l.source === d)
+		.transition().duration(200).ease(d3.easeCubicInOut)
+		.attr('opacity', 1).attr('font-size', font16).style('z-index', 9);
+
+	linkLabel2.filter(l => l.target === d)
+		.transition().duration(200).ease(d3.easeCubicInOut)
+		.attr('opacity', 1).attr('font-size', font16).style('z-index', 9);
+
+	link.filter(l => l.source === d || l.target === d)
+		.transition().duration(200).ease(d3.easeCubicInOut)
+		.attr('opacity', 0.3);
+}
+
+function handlePointerOut(e, d) {
+	d3.select(this).style('z-index', 0);
+	nodeLabel.filter(l => l === d)
+		.transition().duration(200).ease(d3.easeCubicInOut)
+		.attr('opacity', 0.5).attr('font-size', font16).attr('dy', 32).style('z-index', 0);
+
+	linkLabel1.filter(l => l.source === d)
+		.transition().duration(200).ease(d3.easeCubicInOut)
+		.attr('opacity', 0.3).attr('font-size', font12).style('z-index', 0);
+
+	linkLabel2.filter(l => l.target === d)
+		.transition().duration(200).ease(d3.easeCubicInOut)
+		.attr('opacity', 0.3).attr('font-size', font12).style('z-index', 0);
+
+	link.filter(l => l.source === d || l.target === d)
+		.transition().duration(200).ease(d3.easeCubicInOut)
+		.attr('opacity', 0.1);
+}
+
+// --- Drag handlers ---
 function dragstarted(event) {
 	if (!event.active) simulation.alphaTarget(0.3).restart();
 	event.subject.fx = event.subject.x;
 	event.subject.fy = event.subject.y;
 }
 
-// Update the subject (dragged node) position during drag.
 function dragged(event) {
 	event.subject.fx = event.x;
 	event.subject.fy = event.y;
 }
 
-// Restore the target alpha so the simulation cools after dragging ends.
-// Unfix the subject position now that it’s no longer being dragged.
 function dragended(event) {
 	if (!event.active) simulation.alphaTarget(0);
 	event.subject.fx = null;
 	event.subject.fy = null;
 }
 
-///////// focus stuff
-
-// filtering for character and depth
+// --- Focus/filtering ---
 function setFocus(ch, d, hide) {
-	if ((focusCh === ch && depth === d && hideMinor === hide) || focusCh === 'none' && ch === 'none' && hideMinor === hide) return;
+	if ((focusCh === ch && depth === d && hideMinor === hide) || (focusCh === 'none' && ch === 'none' && hideMinor === hide)) return;
+
 	focusCh = ch;
 	depth = d;
 	hideMinor = hide;
+
 	if (focusCh === 'none') {
-		let relNew = [];
-		if (hideMinor) relNew = data.rel.filter(r => !r.minor);
-		else relNew = data.rel;
-		document.getElementById('depthInput').disabled = true;
-		document.getElementById('chNum').innerHTML = data.ch.length + ' character' + (data.ch.length === 1 ? '' : 's');
-		document.getElementById('linkNum').innerHTML = relNew.length + ' connection' + (data.rel.length === 1 ? '' : 's');
-		updateGraph({
-			ch: data.ch,
-			rel: relNew
-		});
+		const relNew = hideMinor ? data.rel.filter(r => !r.minor) : data.rel;
+		depthInput.disabled = true;
+		chNumDisplay.textContent = `${data.ch.length} character${data.ch.length === 1 ? '' : 's'}`;
+		linkNumDisplay.textContent = `${relNew.length} connection${relNew.length === 1 ? '' : 's'}`;
+		updateGraph({ ch: data.ch, rel: relNew });
 	} else {
-		document.getElementById('depth').innerHTML = depth;
-		document.getElementById('depthInput').disabled = false;
-		// filter out this character. filter bc we need color as well
+		depthInput.disabled = false;
+		depthDisplay.textContent = depth;
+
 		let chNew = data.ch.filter(c => c.id === focusCh);
-		let relNew = [];
-		if (hideMinor) relNew = data.rel.filter(r => !r.minor);
-		else relNew = data.rel;
-		// characters. loop once for each depth
+		let relNew = hideMinor ? data.rel.filter(r => !r.minor) : data.rel;
+
 		for (let z = 0; z < depth; z++) {
-			// finds every character that has a link to the current list
 			chNew.push(...data.ch.filter(c =>
 				relNew.some(r => chNew.some(c2 =>
-					(c.id === r.source.id && c2.id === r.target.id)
-					|| (c.id === r.target.id && c2.id === r.source.id))
-				)
-				&& !chNew.includes(c)
+					(c.id === r.source.id && c2.id === r.target.id) || (c.id === r.target.id && c2.id === r.source.id)
+				)) && !chNew.includes(c)
 			));
 		}
+
 		relNew = filterRels(chNew, relNew);
-		document.getElementById('chNum').innerHTML = chNew.length + ' character' + (chNew.length === 1 ? '' : 's');
-		document.getElementById('linkNum').innerHTML = relNew.length + ' connection' + (relNew.length === 1 ? '' : 's');
-		updateGraph({
-			ch: chNew,
-			rel: relNew
-		});
+		chNumDisplay.textContent = `${chNew.length} character${chNew.length === 1 ? '' : 's'}`;
+		linkNumDisplay.textContent = `${relNew.length} connection${relNew.length === 1 ? '' : 's'}`;
+		updateGraph({ ch: chNew, rel: relNew });
 	}
 }
 
-// find rels whose source and target are both in the list
-function filterRels(chs, initial) {
-	return initial.filter(r =>
-		chs.some(c => c.id === r.source.id)
-		&& chs.some(c => c.id === r.target.id)
-	);
+function filterRels(chs, rels) {
+	return rels.filter(r => chs.some(c => c.id === r.source.id) && chs.some(c => c.id === r.target.id));
 }
 
+// --- Reset ---
 function reset() {
-	document.getElementById('chInput').value = 'none';
-	document.getElementById('depthInput').value = "1";
-	document.getElementById('depth').innerHTML = "1";
-	document.getElementById('hide-minor').checked = false;
-	document.getElementById('steps-results').innerText = '';
+	chInput.value = 'none';
+	depthInput.value = "1";
+	depthDisplay.textContent = "1";
+	hideMinorInput.checked = false;
+	stepsResults.textContent = '';
 	setFocus('none', 1, false, true);
 	updateGraph(data);
 }
 
-document.getElementById('chInput').onchange = e => setFocus(e.target.value, depth, hideMinor);
-document.getElementById('depthInput').oninput = e => setFocus(focusCh, e.target.value, hideMinor);
-document.getElementById('hide-minor').onchange = e => setFocus(focusCh, depth, e.target.checked);
+// --- Event listeners ---
+chInput.onchange = e => setFocus(e.target.value, depth, hideMinor);
+depthInput.oninput = e => setFocus(focusCh, e.target.value, hideMinor);
+hideMinorInput.onchange = e => setFocus(focusCh, depth, e.target.checked);
 
-///////// connections stuff
-
+// --- Connections ---
 function calculateSteps() {
-	let message = document.getElementById('steps-results');
-	message.innerText = '';
-	let ch1 = selects[0].value;
-	let ch2 = selects[1].value;
-	if (!(ch1 && ch2)) {
-		message.innerText = 'Please select two characters!';
-		return;
-	}
-	let result = findRelationshipPath(stepsGraph, ch1, ch2);
-	if (result === 'none') {
-		message.innerText = 'No connection found. Sorry!';
-		updateGraph(data);
-		return;
-	}
-	if (result.length === 1) {
-		message.innerText = 'These two characters are the same!';
-		updateGraph(data);
-		return;
-	}
-	message.innerText = `Characters in-between: ${result.length - 2}!`;
-	let newCh = data.ch.filter(ch => result.includes(ch.id));
+	stepsResults.textContent = '';
+	const [ch1, ch2] = [selects[0].value, selects[1].value];
+	if (!ch1 || !ch2) return stepsResults.textContent = 'Please select two characters!';
+
+	const result = findRelationshipPath(stepsGraph, ch1, ch2);
+	if (result === 'none') return stepsResults.textContent = 'No connection found. Sorry!', updateGraph(data);
+	if (result.length === 1) return stepsResults.textContent = 'These two characters are the same!', updateGraph(data);
+
+	stepsResults.textContent = `Characters in-between: ${result.length - 2}!`;
+	const newCh = data.ch.filter(ch => result.includes(ch.id));
 	updateGraph({ ch: newCh, rel: filterRels(newCh, data.rel) });
 }
 
 function findRelationshipPath(graph, start, end) {
 	if (start === end) return data.ch.filter(ch => ch.id === start);
-	let visited = new Set();
-	let queue = [{ name: start, path: [] }];
-	while (queue.length > 0) {
-		let { name, path } = queue.shift();
+
+	const visited = new Set();
+	const queue = [{ name: start, path: [] }];
+
+	while (queue.length) {
+		const { name, path } = queue.shift();
 		if (visited.has(name)) continue;
 		visited.add(name);
-		let neighbors = graph[name] || [];
-		for (let neighbor of neighbors) {
-			let newPath = [...path, name];
+
+		const neighbors = graph[name] || [];
+		for (const neighbor of neighbors) {
+			const newPath = [...path, name];
 			if (neighbor.name === end) return [...newPath, end];
 			queue.push({ name: neighbor.name, path: newPath });
 		}
@@ -359,23 +297,21 @@ function findRelationshipPath(graph, start, end) {
 	return 'none';
 }
 
-///////// mode select
-
-const focusDiv = document.getElementById('focus');
-const connectionsDiv = document.getElementById('connections');
-
-document.getElementById('no-mode').onchange = e => {
+// --- Mode selection ---
+document.getElementById('no-mode').onchange = () => {
 	reset();
 	focusDiv.style.display = 'none';
 	connectionsDiv.style.display = 'none';
-}
-document.getElementById('focus-mode').onchange = e => {
+};
+
+document.getElementById('focus-mode').onchange = () => {
 	reset();
 	focusDiv.style.display = 'block';
 	connectionsDiv.style.display = 'none';
-}
-document.getElementById('connections-mode').onchange = e => {
+};
+
+document.getElementById('connections-mode').onchange = () => {
 	reset();
 	focusDiv.style.display = 'none';
 	connectionsDiv.style.display = 'block';
-}
+};
