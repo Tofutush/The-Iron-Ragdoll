@@ -6,9 +6,29 @@ let simulation, linkGroup, link, linkLabel1, linkLabel2, nodeGroup, node, nodeLa
 // stuff for filtering
 let focusCh = '', depth = 1, hideMinor = false;
 
+// steps data
+let stepsGraph = {};
+for (let r of data.rel) {
+	let aName = r.source;
+	let aRel = r.rel1 || '';
+	let bName = r.target;
+	let bRel = r.rel2 || '';
+	if (!stepsGraph[aName]) stepsGraph[aName] = [];
+	if (!stepsGraph[bName]) stepsGraph[bName] = [];
+	stepsGraph[aName].push({ name: bName, rel: bRel });
+	stepsGraph[bName].push({ name: aName, rel: aRel });
+}
+
 // add ch to select fields
+// focus
 for (let ch of data.ch.sort((a, b) => a.id.localeCompare(b.id)).map(ch => ch.id)) {
 	document.getElementById('chInput').appendChild(elt('option', { value: ch }, ch));
+}
+// connections
+for (let select of document.querySelectorAll('.select')) {
+	for (let ch of Object.keys(stepsGraph).sort((a, b) => a.localeCompare(b))) {
+		select.appendChild(elt('option', { value: ch }, ch));
+	}
 }
 
 // Create the SVG container.
