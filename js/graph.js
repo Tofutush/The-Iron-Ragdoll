@@ -294,12 +294,14 @@ function filterRels(chs, initial) {
 	);
 }
 
-function resetFocus() {
+function reset() {
 	document.getElementById('chInput').value = 'none';
 	document.getElementById('depthInput').value = "1";
 	document.getElementById('depth').innerHTML = "1";
 	document.getElementById('hide-minor').checked = false;
+	document.getElementById('steps-results').innerText = '';
 	setFocus('none', 1, false, true);
+	updateGraph(data);
 }
 
 document.getElementById('chInput').onchange = e => setFocus(e.target.value, depth, hideMinor);
@@ -357,17 +359,17 @@ const focusDiv = document.getElementById('focus');
 const connectionsDiv = document.getElementById('connections');
 
 document.getElementById('no-mode').onchange = e => {
-	resetFocus();
+	reset();
 	focusDiv.style.display = 'none';
 	connectionsDiv.style.display = 'none';
 }
 document.getElementById('focus-mode').onchange = e => {
-	resetFocus();
+	reset();
 	focusDiv.style.display = 'block';
 	connectionsDiv.style.display = 'none';
 }
 document.getElementById('connections-mode').onchange = e => {
-	resetFocus();
+	reset();
 	focusDiv.style.display = 'none';
 	connectionsDiv.style.display = 'block';
 }
