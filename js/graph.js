@@ -21,14 +21,14 @@ const selects = document.querySelectorAll('.select');
 const focusDiv = document.getElementById('focus');
 const connectionsDiv = document.getElementById('connections');
 
-// --- Build stepsGraph ---
-let stepsGraph = {};
-for (let r of data.rel) {
-	const { source: aName, rel1: aRel = '', target: bName, rel2: bRel = '' } = r;
-	if (!stepsGraph[aName]) stepsGraph[aName] = [];
-	if (!stepsGraph[bName]) stepsGraph[bName] = [];
-	stepsGraph[aName].push({ name: bName, rel: bRel });
-	stepsGraph[bName].push({ name: aName, rel: aRel });
+const adjacencyMap = {};
+for (const r of data.rel) {
+	const src = r.source; // string initially, becomes object after D3
+	const tgt = r.target;
+	if (!adjacencyMap[src]) adjacencyMap[src] = [];
+	if (!adjacencyMap[tgt]) adjacencyMap[tgt] = [];
+	adjacencyMap[src].push({ id: tgt, minor: !!r.minor });
+	adjacencyMap[tgt].push({ id: src, minor: !!r.minor });
 }
 
 // --- Populate select fields ---
@@ -40,7 +40,7 @@ for (let ch of data.ch.sort((a, b) => a.id.localeCompare(b.id)).map(c => c.id)) 
 }
 
 for (let select of selects) {
-	for (let ch of Object.keys(stepsGraph).sort((a, b) => a.localeCompare(b))) {
+	for (let ch of Object.keys(adjacencyMap).sort((a, b) => a.localeCompare(b))) {
 		let option = document.createElement('option');
 		option.innerText = ch;
 		option.value = ch;
@@ -206,15 +206,35 @@ function dragended(event) {
 }
 
 // --- Focus/filtering ---
+function getNodesWithinDepth(startId, maxDepth, hideMinor) {
+	const included = new Set([startId]);
+	const queue = [{ id: startId, depth: 0 }];
+
+	while (queue.length) {
+		const { id, depth } = queue.shift();
+		if (depth >= maxDepth) continue;
+
+		for (const n of adjacencyMap[id] || []) {
+			if (hideMinor && n.minor) continue;
+			if (!included.has(n.id)) {
+				included.add(n.id);
+				queue.push({ id: n.id, depth: depth + 1 });
+			}
+		}
+	}
+
+	return Array.from(included);
+}
+
 function setFocus(ch, d, hide) {
-	if ((focusCh === ch && depth === d && hideMinor === hide) || (focusCh === 'none' && ch === 'none' && hideMinor === hide)) return;
+	if (focusCh === ch && depth === d && hideMinor === hide) return;
 
 	focusCh = ch;
 	depth = d;
 	hideMinor = hide;
 
-	if (focusCh === 'none') {
-		const relNew = hideMinor ? data.rel.filter(r => !r.minor) : data.rel;
+	if (ch === 'none') {
+		const relNew = hide ? data.rel.filter(r => !r.minor) : data.rel;
 		depthInput.disabled = true;
 		chNumDisplay.textContent = `${data.ch.length} character${data.ch.length === 1 ? '' : 's'}`;
 		linkNumDisplay.textContent = `${relNew.length} connection${relNew.length === 1 ? '' : 's'}`;
@@ -223,18 +243,10 @@ function setFocus(ch, d, hide) {
 		depthInput.disabled = false;
 		depthDisplay.textContent = depth;
 
-		let chNew = data.ch.filter(c => c.id === focusCh);
-		let relNew = hideMinor ? data.rel.filter(r => !r.minor) : data.rel;
+		const nodeIds = getNodesWithinDepth(ch, depth, hideMinor);
+		const chNew = data.ch.filter(c => nodeIds.includes(c.id));
+		const relNew = filterRels(chNew, hide ? data.rel.filter(r => !r.minor) : data.rel);
 
-		for (let z = 0; z < depth; z++) {
-			chNew.push(...data.ch.filter(c =>
-				relNew.some(r => chNew.some(c2 =>
-					(c.id === r.source.id && c2.id === r.target.id) || (c.id === r.target.id && c2.id === r.source.id)
-				)) && !chNew.includes(c)
-			));
-		}
-
-		relNew = filterRels(chNew, relNew);
 		chNumDisplay.textContent = `${chNew.length} character${chNew.length === 1 ? '' : 's'}`;
 		linkNumDisplay.textContent = `${relNew.length} connection${relNew.length === 1 ? '' : 's'}`;
 		updateGraph({ ch: chNew, rel: relNew });
@@ -242,7 +254,8 @@ function setFocus(ch, d, hide) {
 }
 
 function filterRels(chs, rels) {
-	return rels.filter(r => chs.some(c => c.id === r.source.id) && chs.some(c => c.id === r.target.id));
+	const chSet = new Set(chs.map(c => c.id));
+	return rels.filter(r => chSet.has(r.source.id) && chSet.has(r.target.id));
 }
 
 // --- Reset ---
@@ -267,34 +280,35 @@ function calculateSteps() {
 	const [ch1, ch2] = [selects[0].value, selects[1].value];
 	if (!ch1 || !ch2) return stepsResults.textContent = 'Please select two characters!';
 
-	const result = findRelationshipPath(stepsGraph, ch1, ch2);
-	if (result === 'none') return stepsResults.textContent = 'No connection found. Sorry!', updateGraph(data);
-	if (result.length === 1) return stepsResults.textContent = 'These two characters are the same!', updateGraph(data);
+	const path = findRelationshipPath(ch1, ch2);
+	if (!path) return stepsResults.textContent = 'No connection found. Sorry!', updateGraph(data);
+	if (path.length === 1) return stepsResults.textContent = 'These two characters are the same!', updateGraph(data);
 
-	stepsResults.textContent = `Characters in-between: ${result.length - 2}!`;
-	const newCh = data.ch.filter(ch => result.includes(ch.id));
+	stepsResults.textContent = `Characters in-between: ${path.length - 2}!`;
+	const newCh = data.ch.filter(c => path.includes(c.id));
 	updateGraph({ ch: newCh, rel: filterRels(newCh, data.rel) });
 }
 
-function findRelationshipPath(graph, start, end) {
-	if (start === end) return data.ch.filter(ch => ch.id === start);
+function findRelationshipPath(start, end) {
+	if (start === end) return [start];
 
-	const visited = new Set();
-	const queue = [{ name: start, path: [] }];
+	const visited = new Set([start]);
+	const queue = [[start, [start]]];
 
 	while (queue.length) {
-		const { name, path } = queue.shift();
-		if (visited.has(name)) continue;
-		visited.add(name);
+		const [current, path] = queue.shift();
 
-		const neighbors = graph[name] || [];
-		for (const neighbor of neighbors) {
-			const newPath = [...path, name];
-			if (neighbor.name === end) return [...newPath, end];
-			queue.push({ name: neighbor.name, path: newPath });
+		for (const n of adjacencyMap[current] || []) {
+			if (visited.has(n.id)) continue;
+			visited.add(n.id);
+
+			const newPath = [...path, n.id];
+			if (n.id === end) return newPath;
+			queue.push([n.id, newPath]);
 		}
 	}
-	return 'none';
+
+	return null;
 }
 
 // --- Mode selection ---
