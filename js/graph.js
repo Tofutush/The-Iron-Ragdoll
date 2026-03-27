@@ -6,6 +6,8 @@ let simulation, linkGroup, link, linkLabel1, linkLabel2, nodeGroup, node, nodeLa
 // stuff for filtering
 let focusCh = '', depth = 1, hideMinor = false;
 
+const selects = document.querySelectorAll('.select');
+
 // steps data
 let stepsGraph = {};
 for (let r of data.rel) {
@@ -25,7 +27,7 @@ for (let ch of data.ch.sort((a, b) => a.id.localeCompare(b.id)).map(ch => ch.id)
 	document.getElementById('chInput').appendChild(elt('option', { value: ch }, ch));
 }
 // connections
-for (let select of document.querySelectorAll('.select')) {
+for (let select of selects) {
 	for (let ch of Object.keys(stepsGraph).sort((a, b) => a.localeCompare(b))) {
 		select.appendChild(elt('option', { value: ch }, ch));
 	}
@@ -304,20 +306,20 @@ document.getElementById('hide-minor').onchange = e => setFocus(focusCh, depth, e
 
 function calculateSteps() {
 	let message = document.getElementById('steps-results');
+	message.innerText = '';
 	let ch1 = selects[0].value;
 	let ch2 = selects[1].value;
 	if (!(ch1 && ch2)) {
 		message.innerText = 'Please select two characters!';
 		return;
 	}
-	let result = findRelationshipPath(rel, ch1, ch2);
+	let result = findRelationshipPath(stepsGraph, ch1, ch2);
 	if (result === 'none') {
 		message.innerText = 'No connection found. Sorry!';
 		return;
 	}
-	if (result === 'self') {
+	if (result.length === 1) {
 		message.innerText = 'These two characters are the same!';
-		return;
 	}
 	// resultsDiv.innerHTML = '';
 	// let p = elt('div', { className: 'results' });
@@ -331,7 +333,7 @@ function calculateSteps() {
 }
 
 function findRelationshipPath(graph, start, end) {
-	if (start === end) return 'self';
+	if (start === end) return data.ch.filter(ch => ch.id === start);
 	let visited = new Set();
 	let queue = [{ name: start, path: [] }];
 	while (queue.length > 0) {
