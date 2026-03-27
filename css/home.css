@@ -43,6 +43,7 @@
 	& #right-flex {
 		display: flex;
 		align-items: center;
+		justify-content: space-between;
 
 		& .links {
 			margin-bottom: 0;
@@ -62,5 +63,19 @@
 @media only screen and (max-width: 720px) {
 	#flex {
 		flex-direction: column;
+	}
+
+	#title-flex {
+		flex-direction: column;
+		gap: 0;
+
+		& #title {
+			white-space: nowrap;
+			width: 100%;
+		}
+
+		& img {
+			flex: unset;
+		}
 	}
 }
