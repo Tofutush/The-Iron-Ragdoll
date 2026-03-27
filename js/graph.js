@@ -276,11 +276,7 @@ function setFocus(ch, d, hide) {
 				&& !chNew.includes(c)
 			));
 		}
-		// find rels whose source and target are both in the list
-		relNew = relNew.filter(r =>
-			chNew.some(c => c.id === r.source.id)
-			&& chNew.some(c => c.id === r.target.id)
-		);
+		relNew = filterRels(chNew, relNew);
 		document.getElementById('chNum').innerHTML = chNew.length + ' character' + (chNew.length === 1 ? '' : 's');
 		document.getElementById('linkNum').innerHTML = relNew.length + ' connection' + (relNew.length === 1 ? '' : 's');
 		updateGraph({
@@ -288,6 +284,14 @@ function setFocus(ch, d, hide) {
 			rel: relNew
 		});
 	}
+}
+
+// find rels whose source and target are both in the list
+function filterRels(chs, initial) {
+	return initial.filter(r =>
+		chs.some(c => c.id === r.source.id)
+		&& chs.some(c => c.id === r.target.id)
+	);
 }
 
 function resetFocus() {
@@ -316,13 +320,17 @@ function calculateSteps() {
 	let result = findRelationshipPath(stepsGraph, ch1, ch2);
 	if (result === 'none') {
 		message.innerText = 'No connection found. Sorry!';
+		updateGraph(data);
 		return;
 	}
 	if (result.length === 1) {
 		message.innerText = 'These two characters are the same!';
+		updateGraph(data);
+		return;
 	}
+	message.innerText = `Characters in-between: ${result.length - 2}!`;
 	let newCh = data.ch.filter(ch => result.includes(ch.id));
-	updateGraph({ ch: newCh, rel: data.rel });
+	updateGraph({ ch: newCh, rel: filterRels(newCh, data.rel) });
 }
 
 function findRelationshipPath(graph, start, end) {
