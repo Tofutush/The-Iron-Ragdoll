@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-03-27
 
 - Added a toggle to hide story summaries;
+- Incorporated the steps calculator into the [Relationship graph](/characters/relationships/) after a lot of pain and suffering. Hopefully there won't be any bugs and the code runs marginally faster as I finally fixed the horrible code;
 
 ## 2026-03-26
 

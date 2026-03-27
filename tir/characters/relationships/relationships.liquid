@@ -27,31 +27,58 @@ eleventyNavigation:
   padding: .5em;
   display: flex;
 }
+#focus, #connections {
+  display: none;
+}
 </style>
 <p>No idea why I did this but it was fun.</p>
-<p>Try hovering over things, zooming and panning, and clicking on them leads to their profiles!</p>
-<p>My end goal is to have every character connected — leave no orphans or clusters. They're all gonna lead to Sparky someday.</p>
-<div class="smaller-text graybox max-800">
-  <p>Here you can focus on one character and the characters surrounding them. Don't drag the slider too quickly, or the thing will start to lag because my code is completely unoptimized! Yay!</p>
-  <p>"Minor relationships" are relationships with no text description. Do note that I just forget (or don't know how to yet) write descriptions for some relationships so it's not that accurate. (If you spam the button the graph spins around.)</p>
+<p>Try hovering over things, zooming and panning! Clicking on them leads to their profiles!</p>
+<div class="flex-around" style="margin: 2em 0">
+  <label><input type="radio" id="no-mode" name="mode" checked/> Hide modes</label>
+  <label><input type="radio" id="focus-mode" name="mode"/> Focus mode</label>
+  <label><input type="radio" id="connections-mode" name="mode"/> Connections mode</label>
 </div>
-<div class="flex-around graybox" style="margin: 2em 0">
-  <p style="margin: 0;">Focus on: <select id="chInput" name="ch" value="none">
-    <option value="none">None</option>
-    {% for ch in characters %}
-      <option value="{{ ch.name }}">{{ ch.name }}</option>
-    {% endfor %}
-  </select></p>
-  <p style="margin: 0;">Depth <span id="depth">1</span>: <input id="depthInput" type="range" min="1" max="5" value="1"/></p>
-  <label for="hide-minor"><input type="checkbox" id="hide-minor"/> Hide minor relationships</label>
-</div>
-<p style="text-align: center;">Displaying <span id="chNum"></span> with <span id="linkNum"></span> between them.</p>
+<section id="focus">
+  <details class="callout">
+    <summary class="callout-title">
+      <div class="callout-title-icon">{% lucide 'circle-question-mark' %}</div>
+      <div class="callout-title-inner">How to use?</div>
+    </summary>
+    <div class="callout-content">
+      <p>Here you can focus on one character and the characters surrounding them. Don't drag the slider too quickly, or the thing will start to lag because my code is completely unoptimized! Yay!</p>
+      <p>"Minor relationships" are relationships with no text description. Do note that I just forget (or don't know how to yet) write descriptions for some relationships so it's not that accurate. (If you spam the button the graph spins around.)</p>
+    </div>
+  </details>
+  <div class="flex-around">
+    <p style="margin: 0;">Focus on: <select id="chInput" name="ch" value="none">
+      <option value="none">None</option>
+    </select></p>
+    <p style="margin: 0;">Depth <span id="depth">1</span>: <input id="depthInput" type="range" min="1" max="5" value="1"/></p>
+    <label for="hide-minor"><input type="checkbox" id="hide-minor"/> Hide minor relationships</label>
+  </div>
+  <p style="text-align: center;">Displaying <span id="chNum"></span> with <span id="linkNum"></span> between them.</p>
+</section>
+<section id="connections">
+  <details class="callout">
+    <summary class="callout-title">
+      <div class="callout-title-icon">{% lucide 'circle-question-mark' %}</div>
+      <div class="callout-title-inner">How to use?</div>
+    </summary>
+    <div class="callout-content">
+      <p>Here you can choose two characters and see the shortest path between them!</p>
+    </div>
+  </details>
+  <div class="flex-around">
+    <p>Character 1: <select name="ch1" class="select"></select></p>
+    <p>Character 2: <select name="ch2" class="select"></select></p>
+    <p><button onclick="calculateSteps()">Calculate</button></p>
+  </div>
+  <p id="steps-results" style="text-align: center"></p>
+</section>
 <div id="wrapper">
   <button id="fullscreen" title="Fullscreen mode" onclick="document.getElementById('graph').requestFullscreen()">{% lucide 'maximize-2' %}</button>
   <svg id="graph"></svg>
 </div>
-<p>Interested in how the characters are connected? See the <a href="/fun/steps/">Steps Calculator</a>!</p>
-<hr/>
 <p><i>You found a puzzle piece: <b>kdipj</b>! Next clue: a map in all but name. (<a href="/fun/hunt/">What is this?</a>)</i></p>
 <script src="/js/d3@7.js"></script>
 <script src="./data.js"></script>
