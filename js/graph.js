@@ -24,12 +24,18 @@ for (let r of data.rel) {
 // add ch to select fields
 // focus
 for (let ch of data.ch.sort((a, b) => a.id.localeCompare(b.id)).map(ch => ch.id)) {
-	document.getElementById('chInput').appendChild(elt('option', { value: ch }, ch));
+	let option = document.createElement('option');
+	option.innerText = ch;
+	option.value = ch;
+	document.getElementById('chInput').appendChild(option);
 }
 // connections
 for (let select of selects) {
 	for (let ch of Object.keys(stepsGraph).sort((a, b) => a.localeCompare(b))) {
-		select.appendChild(elt('option', { value: ch }, ch));
+		let option = document.createElement('option');
+		option.innerText = ch;
+		option.value = ch;
+		select.appendChild(option);
 	}
 }
 
