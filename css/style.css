@@ -263,6 +263,10 @@ label {
 	line-height: 2;
 }
 
+p:has(#story-detail-check:checked)~.story-list>li>div:last-child {
+	display: none;
+}
+
 .lighter-text {
 	opacity: .5;
 }
