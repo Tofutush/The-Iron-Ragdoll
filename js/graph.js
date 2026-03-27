@@ -262,3 +262,25 @@ function setFocus(ch, d, hide) {
 document.getElementById('chInput').onchange = e => setFocus(e.target.value, depth, hideMinor);
 document.getElementById('depthInput').oninput = e => setFocus(focusCh, e.target.value, hideMinor);
 document.getElementById('hide-minor').onchange = e => setFocus(focusCh, depth, e.target.checked);
+
+// mode select
+
+const focusDiv = document.getElementById('focus');
+const connectionsDiv = document.getElementById('connections');
+
+document.getElementById('no-mode').onchange = e => {
+	setFocus('none');
+	focusDiv.style.display = 'none';
+	connectionsDiv.style.display = 'none';
+}
+document.getElementById('focus-mode').onchange = e => {
+	setFocus('none');
+	focusDiv.style.display = 'block';
+	connectionsDiv.style.display = 'none';
+}
+
+document.getElementById('connections-mode').onchange = e => {
+	setFocus('none');
+	focusDiv.style.display = 'none';
+	connectionsDiv.style.display = 'block';
+}
