@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-28
+
+- Added `jackalope jinx footer.png`;
+
 ## 2026-03-27
 
 - Added a toggle to hide story summaries;
