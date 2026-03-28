@@ -69,10 +69,14 @@
 #ch-scroll {
 	overflow-x: hidden;
 
-	& div {
-		animation: scroll 10s linear infinite;
+	& #scroll-content {
+		animation: scroll 50s linear infinite;
 		display: flex;
 		width: fit-content;
+
+		&:hover {
+			animation-play-state: paused;
+		}
 
 		& img {
 			width: 120px;

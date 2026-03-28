@@ -58,13 +58,15 @@ widepage: true
   </section>
 </section>
 <section id="ch-scroll">
-  <div>
-    {% assign thumbnails = gallery | filterGalleryByKind: "thumb" | sort: "name" %}
-    {% for img in thumbnails %}
-      <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
-    {% endfor %}
-    {% for img in thumbnails %}
-      <a aria-hidden href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
-    {% endfor %}
-  </div>
+  <div id="scroll-content"></div>
 </section>
+<p style="text-align: center"><button onclick="randomize()">Get new characters!</button></p>
+{% assign thumbnails = gallery | filterGalleryByKind: "thumb" | sort: "name" %}
+<script>
+  const imgs = {
+    {% for img in thumbnails %}
+      "{{ img.ch[0] }}": "{% imageUrl img 200 %}",
+    {% endfor %}
+  }
+</script>
+<script src="/js/home.js"></script>
