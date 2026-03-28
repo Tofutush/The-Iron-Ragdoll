@@ -30,9 +30,10 @@
 		flex: 1;
 		min-width: 0;
 
-		& img {
+		& .qibli {
 			max-width: 30%;
 			height: auto;
+			shape-outside: polygon(0 0, 50% 9%, 80% 12%, 75% 25%, 100% 30%, 100% 40%, 95% 60%, 90% 77%, 65% 90%, 0 100%)
 		}
 
 		& #new-here {
