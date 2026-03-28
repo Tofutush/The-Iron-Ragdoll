@@ -58,8 +58,13 @@ widepage: true
   </section>
 </section>
 <section id="ch-scroll">
-  {% assign thumbnails = gallery | filterGalleryByKind: "thumb" %}
-  {% for img in thumbnails %}
-    <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
-  {% endfor %}
+  <div>
+    {% assign thumbnails = gallery | filterGalleryByKind: "thumb" | sort: "name" %}
+    {% for img in thumbnails %}
+      <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
+    {% endfor %}
+    {% for img in thumbnails %}
+      <a aria-hidden href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
+    {% endfor %}
+  </div>
 </section>

@@ -36,7 +36,7 @@
 			shape-outside: polygon(0 0, 50% 9%, 80% 12%, 75% 25%, 100% 30%, 100% 40%, 95% 60%, 90% 77%, 65% 90%, 0 100%);
 
 			&:hover {
-				animation: solid 1s infinite;
+				animation: large 1s infinite;
 			}
 		}
 
@@ -66,6 +66,27 @@
 	align-items: start;
 }
 
+#ch-scroll {
+	overflow-x: hidden;
+
+	& div {
+		animation: scroll 10s linear infinite;
+		display: flex;
+		width: fit-content;
+
+		& img {
+			width: 120px;
+			height: 120px;
+
+			&:hover {
+				animation: small 1s infinite;
+			}
+		}
+	}
+
+
+}
+
 @media only screen and (max-width: 720px) {
 	#flex {
 		flex-direction: column;
@@ -86,13 +107,13 @@
 	}
 }
 
-@keyframes solid {
+@keyframes small {
 	0% {
 		transform: translateY(0);
 	}
 
 	26% {
-		transform: translateY(-1em);
+		transform: translateY(-0.7em);
 	}
 
 	40% {
@@ -109,5 +130,41 @@
 
 	100% {
 		transform: translateY(0);
+	}
+}
+
+@keyframes large {
+	0% {
+		transform: translateY(0);
+	}
+
+	26% {
+		transform: translateY(-1.5em);
+	}
+
+	40% {
+		transform: translateY(0);
+	}
+
+	50% {
+		transform: translateY(-0.6em);
+	}
+
+	62% {
+		transform: translateY(0);
+	}
+
+	100% {
+		transform: translateY(0);
+	}
+}
+
+@keyframes scroll {
+	0% {
+		transform: translateX(0);
+	}
+
+	100% {
+		transform: translateX(-50%);
 	}
 }
