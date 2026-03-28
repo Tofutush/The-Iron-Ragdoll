@@ -44,7 +44,7 @@ widepage: true
         <a href="/misc/links/">{% lucide 'square-arrow-out-up-right' %} Links</a>
         <a href="/misc/credits">{% lucide 'thumbs-up' %} Credits</a>
       </div>
-      <img src="/img/bg/tempgoose.png"/>
+      {% image 'goose home' 500 'goose home' %}
     </section>
     <hr/>
     <div class="box-nav solid links">
@@ -56,4 +56,10 @@ widepage: true
       <a target="_blank" href="https://tofutush.leprd.space">{% lucide 'heart' %} Favorites Leaderboard</a>
     </div>
   </section>
+</section>
+<section id="ch-scroll">
+  {% assign thumbnails = gallery | filterGalleryByKind: "thumb" %}
+  {% for img in thumbnails %}
+    <a href="/characters/{{ img.ch[0] }}/">{% image img 200 %}</a>
+  {% endfor %}
 </section>
