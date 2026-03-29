@@ -7,7 +7,7 @@ eleventyNavigation:
 
 ## 2026-03-28
 
-- Added `jackalope jinx footer.png`;
+- Added `jackalope jinx footer.png`, thumbs for Chariot, Equestria, Ivory, and Tiara;
 
 ## 2026-03-27
 
