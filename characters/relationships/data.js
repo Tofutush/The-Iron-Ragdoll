@@ -556,25 +556,25 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 {
 id: "Chariot",
 color: "#dab80b",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/lCBmBvPZOJ-200.webp",
 },
 
 {
 id: "Equestria",
 color: "#339ee1",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/5KfPUkNndd-200.webp",
 },
 
 {
 id: "Ivory",
 color: "#ae51ec",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/j8vKYSPQwX-200.webp",
 },
 
 {
 id: "Tiara",
 color: "#919191",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/CpdLRweMgL-200.webp",
 },
 
 {
