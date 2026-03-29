@@ -79,8 +79,8 @@
 		}
 
 		& img {
-			width: 120px;
-			height: 120px;
+			width: 6em;
+			height: 6em;
 			user-select: none;
 
 			&:hover {
