@@ -5883,5 +5883,46 @@
     "ch": [
       "goose"
     ]
+  },
+  {
+    "name": "jackalope jinx footer",
+    "date": "2026-03-28",
+    "ch": [
+      "jackalope",
+      "jinx"
+    ],
+    "kind": "footer"
+  },
+  {
+    "name": "chariot thumb",
+    "date": "2026-03-28",
+    "ch": [
+      "chariot"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "equestria thumb",
+    "date": "2026-03-28",
+    "ch": [
+      "equestria"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "ivory thumb",
+    "date": "2026-03-28",
+    "ch": [
+      "ivory"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "tiara thumb",
+    "date": "2026-03-28",
+    "ch": [
+      "tiara"
+    ],
+    "kind": "thumb"
   }
 ]
