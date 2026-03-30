@@ -550,7 +550,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 {
 id: "Spark",
 color: "#f25088",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/sKN7MKYtpv-200.webp",
 },
 
 {

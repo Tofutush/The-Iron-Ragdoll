@@ -733,7 +733,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Spark",
 color: "#f25088",
 desc: "The pawn.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/sKN7MKYtpv-500.webp"
 },
 
 
