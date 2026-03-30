@@ -9,6 +9,7 @@ eleventyNavigation:
 
 - Added `spark thumb.png`;
 	- That's all of the Gambit Five designed! I'mma still try to refrain from thinking too much about them before I read more about the Cambridge Five though;
+- Cool new homepage;
 
 ## 2026-03-28
 
