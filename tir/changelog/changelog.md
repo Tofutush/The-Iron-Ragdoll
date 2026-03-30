@@ -9,6 +9,8 @@ eleventyNavigation:
 
 - Allowed titles on comic chapters;
 	- My code is such a mess…;
+- Added support for multiple images on one comic page;
+	- This is mainly so that — bear with me — Bramble's Happy Family was so long it surpassed `webp`'s dimension limit so I had to add in a check for whether an image is too large so I could spit out `png`s instead of `webp`s — but that check is only ever used in Bramble's Happy Family. And the standard practice is to split long strip comics into pieces anyways. So I did that (though I split it into only 2 long pieces LOL) and now I don't need the check anymore and I could make that comic `webp` too yay;
 
 ## 2026-03-29
 

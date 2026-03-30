@@ -1,6 +1,5 @@
 import Image from "@11ty/eleventy-img";
 import { existsSync } from "fs";
-import { imageSizeFromFile } from 'image-size/fromFile';
 import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
@@ -48,13 +47,9 @@ function imagePlugin(eleventyConfig) {
 		return `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type || 'png'}`;
 	}
 	async function getMetadata(src, size, format, animate) {
-		if (!format) {
-			let dimensions = await imageSizeFromFile(src);
-			format = (dimensions.width > 16383 || dimensions.height > 16383) ? 'png' : 'webp';
-		}
 		let options = {
 			widths: [size],
-			formats: [format],
+			formats: [format || 'webp'],
 			outputDir: './_site/img/'
 		};
 		if (animate && src.substring(src.length - 3) === 'gif') options.sharpOptions = { animated: true, };

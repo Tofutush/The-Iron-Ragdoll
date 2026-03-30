@@ -31,9 +31,25 @@ eleventyComputed:
 {% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum, top: true %}
 {% if comic.title %}<h2>{{ comic.title }}</h2>{% endif %}
 <div id="img">
-	{% assign path = 'comics/' | append: comic.url | append: '.png' %}
-	{% assign alt = "Page " | append: comic.pagenum %}
-	{% image path 1000 alt %}
+	{% if comic.url.first %}
+		{% for p in comic.url %}
+			{% assign path = 'comics/' | append: p | append: '.png' %}
+			{% if comic.alt %}
+				{% assign alt = comic.alt %}
+			{% else %}
+				{% assign alt = "Page " | append: comic.pagenum %}
+			{% endif %}
+			{% image path 1000 alt %}
+		{% endfor %}
+	{% else %}
+		{% assign path = 'comics/' | append: comic.url | append: '.png' %}
+		{% if comic.alt %}
+			{% assign alt = comic.alt %}
+		{% else %}
+			{% assign alt = "Page " | append: comic.pagenum %}
+		{% endif %}
+		{% image path 1000 alt %}
+	{% endif %}
 </div>
 {% if comic.content %}
 	<link rel="stylesheet" href="/css/dialog.css"/>

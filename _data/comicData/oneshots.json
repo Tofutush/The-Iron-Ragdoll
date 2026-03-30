@@ -2,14 +2,20 @@
   {
     "pagenum": 1,
     "chapter": 1,
-    "url": "bhf/en",
+    "url": [
+      "bhf/en-1",
+      "bhf/en-2"
+    ],
     "date": "2025-02-04",
     "title": "Bramble's Happy Family"
   },
   {
     "pagenum": 2,
     "chapter": 1,
-    "url": "bhf/zh",
+    "url": [
+      "bhf/zh-1",
+      "bhf/zh-2"
+    ],
     "date": "2025-02-04"
   },
   {
