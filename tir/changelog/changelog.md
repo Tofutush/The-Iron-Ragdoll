@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-30
+
+- Allowed titles on comic chapters;
+	- My code is such a mess…;
+
 ## 2026-03-29
 
 - Added `spark thumb.png`;

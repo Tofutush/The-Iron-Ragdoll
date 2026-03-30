@@ -29,6 +29,7 @@ eleventyComputed:
 {% endif %}
 <div class="breadcrumbs"><a href="/stories/">Stories</a> {% lucide 'chevron-right' %} <a href="../">{{ comicTitle }}</a> {% lucide 'chevron-right' %} <a href="{{ page.url }}">Page {{ comic.pagenum }}</a></div>
 {% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum, top: true %}
+{% if comic.title %}<h2>{{ comic.title }}</h2>{% endif %}
 <div id="img">
 	{% assign path = 'comics/' | append: comic.url | append: '.png' %}
 	{% assign alt = "Page " | append: comic.pagenum %}
