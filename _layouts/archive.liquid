@@ -33,8 +33,17 @@ eleventyComputed:
 		<div class="archive">
 			{% for page in group.pages %}
 			<a href="../page-{{ page.pagenum }}/">
-				{% assign path = "comics/" | append: page.url | append: '.png' %}
-				{% assign alt = "Page " | append: page.pagenum %}
+				{% if page.url.first %}
+					{% assign p = page.url[0] %}
+				{% else %}
+					{% assign p = page.url %}
+				{% endif %}
+				{% assign path = "comics/" | append: p | append: '.png' %}
+				{% if page.alt %}
+					{% assign alt = page.alt %}
+				{% else %}
+					{% assign alt = "Page " | append: page.pagenum %}
+				{% endif %}
 				{% image path 100 alt %}
 			</a>
 			{% endfor %}
