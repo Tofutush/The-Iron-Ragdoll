@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-29
+
+- Added `spark thumb.png`;
+	- That's all of the Gambit Five designed! I'mma still try to refrain from thinking too much about them before I read more about the Cambridge Five though;
+
 ## 2026-03-28
 
 - Added `jackalope jinx footer.png`, thumbs for Chariot, Equestria, Ivory, and Tiara;
