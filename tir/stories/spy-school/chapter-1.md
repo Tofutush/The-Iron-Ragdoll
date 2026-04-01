@@ -34,11 +34,11 @@ For the second time, he looked into Harmony's eyes.
 
 Harmony felt compelled to say something lest Sky thought she was an idiot. "Uh, what's Ministry Affiliate?" She asked.
 
-"It's a special school ran by the Ministry of State Security," Sky said. "Where you can start early in your training to become an officer there."
+"It's a special school ran by the Ministry of State Security," Sky said. "Where you can start early in your training to become an officer there. We will teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me."
 
-Oh. Harmony had heard rumors about the mystical school before, under the name of "Spy School." But she had never expected to have anything to do with it.
+Oh. Harmony had heard about the mystical school before, of its prestige and its secrecy. *Everyone* wants to attend Ministry Affiliate.
 
-"We will teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me."
+Not Harmony though.
 
 "I was supposed to go to Flower City Middle School with my friend," Harmony said.
 
