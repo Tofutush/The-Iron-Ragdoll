@@ -5,7 +5,7 @@ myTags:
   - Comic
   - Oneshot
   - Fic
-comic: page-1
+comic: true
 ---
 
 I decided to stash most oneshots here, instead of making a new story file for each one.
