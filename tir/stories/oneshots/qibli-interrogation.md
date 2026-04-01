@@ -1,7 +1,5 @@
 ---
 chTitle: Qibli's Interrogation
-chNum: 5
-date: 2025-12-19
 dialog:
   - - "Qibli: Do you know what would happen if he actually succeeds?"
     - "Qibli: Every single magician in this country is registered."

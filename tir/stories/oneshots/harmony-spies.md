@@ -1,7 +1,5 @@
 ---
 chTitle: Harmony Spies
-chNum: 2
-date: 2025-07-12
 ---
 
 Harmony snuck in the teachers' office to eavesdrop on them after her tadlet got confiscated. There were only two teachers inside, Sky and someone else Harmony didn't know.

@@ -1,9 +1,8 @@
 ---
 layout: layout.liquid
-permalink: "stories/{{ parent | slug }}/chapter-{{ chNum }}/"
 eleventyComputed:
-  title: "{{ parent }} - Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
-  navTitle: "Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
+  title: "{{ parent }}{% if chNum %} Chapter {{ chNum }}{% endif %}{% if chTitle %}: {{ chTitle }}{% endif %}"
+  navTitle: "{% if chNum %}Chapter {{ chNum }}{% endif %}{% if chTitle and chNum %}: {% endif %}{% if chTitle %}{{ chTitle }}{% endif %}"
 ---
 {% assign colName = parent | append: "-fic" %}
 <details id="toc-wrap">
