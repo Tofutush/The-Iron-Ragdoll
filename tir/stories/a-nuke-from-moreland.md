@@ -14,7 +14,7 @@ chs:
   - lark
 time: 2031 summer break
 desc: The kids find a nuke in the basement of an abandoned house. The Ministry of State Security gets involved. So begins a tug-of-war over the ownership of the nuke.
-fic: true
+fic: "1"
 myTags:
   - Coastline
   - Bauhinia

@@ -30,8 +30,6 @@ dialog:
     - "Candlelight: Yes. I never caught your name?"
     - "Pumpkin: Oh, right, sorry! I'm Curly."
     - "Candlelight: Candlelight. It's a pleasure meeting you."
-chNum: 4
-date: 2025-12-18
 ---
 <link rel="stylesheet" href="/css/dialog.css"/>
 

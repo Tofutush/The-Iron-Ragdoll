@@ -21,8 +21,8 @@ myTags:
   - Spy School
   - Comic
   - Fic
-comic: true
-fic: true
+comic: page-1
+fic: "1"
 prev:
   - "[Project Boomerang](/stories/project-boomerang/)"
   - "[Poker Spies](/stories/poker-spies/)"
