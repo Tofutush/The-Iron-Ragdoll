@@ -52,6 +52,16 @@ function storyPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getNextStories', function (stories, title) {
 		return stories.filter(s => s.data.prev?.some(p => p.match(/\[.*\]/)[0].slice(1, -1) == title));
 	});
+
+	// fic collections
+	addFicCollection('Spy School', 'spy-school');
+	addFicCollection('A Nuke From Moreland', 'a-nuke-from-moreland');
+
+	function addFicCollection(parent, url) {
+		eleventyConfig.addCollection(`${parent}-fic`, collection =>
+			collection.getFilteredByGlob(`tir/stories/${url}/*.md`).sort((a, b) => a.data.chNum - b.data.chNum)
+		);
+	}
 }
 
 export default storyPlugin;

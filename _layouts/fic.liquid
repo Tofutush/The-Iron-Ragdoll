@@ -5,7 +5,7 @@ eleventyComputed:
   title: "{{ parent }} - Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
   navTitle: "Chapter {{ chNum }}{% if chTitle %}: {{ chTitle }}{% endif %}"
 ---
-{% assign colName = tags[0] %}
+{% assign colName = parent | append: "-fic" %}
 <details id="toc-wrap">
 	<summary><h3>Chapters</h3></summary>
 	<div id="toc">
