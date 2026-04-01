@@ -1,5 +1,6 @@
 ---
 chNum: 2
+draft: true
 ---
 
 Harmony did not stop thinking about it. She woke up unable to stomach any breakfast.
