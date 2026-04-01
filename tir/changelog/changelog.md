@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-03-31
+
+- Reworking the fic system and rewriting bits of Spy School;
+
 ## 2026-03-30
 
 - Allowed titles on comic chapters;
