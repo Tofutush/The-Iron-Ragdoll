@@ -1,6 +1,5 @@
 ---
 chNum: 3
-date: 2025-01-23
 ---
 
 Firecrackers got on the car.
