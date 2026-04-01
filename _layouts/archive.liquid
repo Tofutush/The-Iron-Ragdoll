@@ -32,7 +32,7 @@ eleventyComputed:
 		{% endif %}
 		<div class="archive">
 			{% for page in group.pages %}
-			<a href="../page-{{ page.pagenum }}/">
+			<a href="../{{ page.pagenum }}/">
 				{% if page.url.first %}
 					{% assign p = page.url[0] %}
 				{% else %}
@@ -52,7 +52,7 @@ eleventyComputed:
 {% else %}
 	<div class="archive">
 		{% for page in comicData[dataName] %}
-			<a href="../page-{{ page.pagenum }}/">
+			<a href="../{{ page.pagenum }}/">
 				{% assign path = "comics/" | append: page.url | append: '.png' %}
 				{% assign alt = "Page " | append: page.pagenum %}
 				{% image path 100 alt %}

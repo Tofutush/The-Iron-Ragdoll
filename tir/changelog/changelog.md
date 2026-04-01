@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-03-31
 
 - Reworking the fic system and rewriting bits of Spy School;
+	- Do tell me if anything stops working!
 
 ## 2026-03-30
 

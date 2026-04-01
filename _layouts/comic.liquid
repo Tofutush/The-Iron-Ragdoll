@@ -6,7 +6,7 @@ pagination:
   alias: comic
 noFooterImage: true
 noNav: true
-permalink: "stories/{{ comicTitle | slug }}/page-{{ comic.pagenum }}/"
+permalink: "stories/{{ comicTitle | slug }}/{{ comic.pagenum }}/"
 eleventyComputed:
   title: "{{ comicTitle }} - page {{ comic.pagenum }}"
   siteTheme: "{% if comic.theme %}{{ comic.theme }}{% elsif siteTheme %}{{ siteTheme }}{% endif %}"
@@ -75,7 +75,7 @@ eleventyComputed:
 	}
 	function load() {
 		let place = localStorage.getItem('{{ comicTitle }} place');
-		if(place !== undefined) window.open(`../page-${place}/#img`, '_self');
+		if(place !== undefined) window.open(`../${place}/#img`, '_self');
 		else alert('no place was saved!');
 	}
 </script>
