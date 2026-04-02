@@ -26,7 +26,7 @@ Practitioners: [Nightsun](/characters/nightsun/)
 
 Wood-style martial arts is quite catch-all, being good for both offense and defense, with a focus on hand-to-hand combat. Out of all five styles, it is the easiest to learn but the hardest to master, and once mastered, the most deadly. It is the most popular style among hobbyists and militaries all over the continent, for basic combat and self-defense training. If someone is studying martial arts, with no further specification, they would usually be learning wood-style martial arts.
 
-There are like, a total of 10 people who actually mastered the style, Paperweight's mentor at the Mountain Temple being one. They are among the most respected of the entire martial arts scene.
+There are like, a total of 10 people on the continent who actually mastered the style, Paperweight's mentor at the Mountain Temple being one. They are among the most respected of the entire martial arts scene.
 
 Practitioners: [Paperweight](/characters/paperweight/) (and yes, he is way above the hobbyists, though nowhere near the biggest masters)
 
