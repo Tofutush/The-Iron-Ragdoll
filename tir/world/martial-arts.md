@@ -5,7 +5,6 @@ tags:
   - lore
 categories:
   - Lore
-draft: true
 ---
 
 People do martial arts and fight each other on the continent. But considering style and functions, there are five major mainstream styles of martial arts.
@@ -32,11 +31,17 @@ Practitioners: [Paperweight](/characters/paperweight/) (and yes, he is way above
 
 ## Water-style
 
-Water-style martial arts is the only style *not* outlawed in Fanton, because Fanton outlaws literally everything. I won't be surprised if they outlaw smiling in public next, but who knows.
+Water-style martial arts emphasize grace and balance. It may seem useless and weak at first, and may even be so in proper competitions, but under extreme conditions is where they shine. On a wobbly bridge, atop a windy mountaintop, where most usual people could not even stand, let alone fight, water-style practitioners could gracefully throw their opponent into the trenches below. If you can guide your opponent to somewhere dangerous, water-style practitioners can even defeat fire-style fighters.
+
+There was a story about water-style practitioners winning underwater fights, but both sides ended up drowning so it was hard to tell who exactly had been winning before they both drowned.
+
+There is even a branch of water-style dedicated to mastering walking on water. They had a special section of the [Lotus Lake](/world/fanton/lotus-lake/), had not succeeded in centuries, but they hadn't stopped trying, and also they get grants from the government so why stop.
+
+Water-style martial arts is the only style *not* outlawed in Fanton, because it's usually tame and harmless, and also it originated in Fanton. Fanton outlaws literally everything. I won't be surprised if they outlaw smiling in public next; who knows.
 
 ## Fire-style
 
-There is only one goal for fire-style martial arts: to kill by any means possible. It has moves for any makeshift weapon you can imagine, from sticks and stones to spears and daggers. It is not below underhanded and dishonorable tactics, making it generally frowned-upon in "proper" professional martial arts, but popular among guerrillas and criminals. It is not something you can normally learn by signing up to classes, and was even outlawed in [Moreland](/world/moreland/), but it's the most deadly, outmatched only by the highest wood-style masters.
+There is only one goal for fire-style martial arts: to kill by any means possible. It has moves for any makeshift weapon you can imagine, from sticks and stones to spears and daggers, and is the only style that takes into consideration the use of firearms, both for the practitioner and the opponent. It is not below underhanded and dishonorable tactics, making it generally frowned-upon in "proper" professional martial arts, but popular among guerrillas and criminals. It is not something you can normally learn by signing up to classes, and was even outlawed in [Moreland](/world/moreland/), but it's the most deadly, outmatched only by the highest wood-style masters.
 
 Its banning in Moreland is quite ironic, considering how it was developed in the ever-so-militaristic region in the first place, and popularized by the Guardian Moose as they spread terror to the Bauhinian imperial troops, the compromising bourgeoisie republicans, and the would-be Atlasians. Nowadays, the Guardians teach wood-style to its new recruits.
 

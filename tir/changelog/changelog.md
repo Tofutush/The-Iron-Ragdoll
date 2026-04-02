@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-02
+
+- New lore file, [Martial Arts](/world/martial-arts/);
+
 ## 2026-03-31
 
 - Reworking the fic system and rewriting bits of Spy School;
