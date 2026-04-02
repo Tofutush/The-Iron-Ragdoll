@@ -15,7 +15,7 @@ complete: true
 
 Paperweight was born in the countryside in northern Bauhinia. His parents died when he was really little, and he was often bullied in the orphanage, so one night he stole a bag of buns and a bag of water, and ran all the way to the Mountain Temple, half begging and half stealing along the way after the buns ran out.
 
-At the Mountain Temple, the master accepted him out of sympathy. He learned and mastered Wood-style martial arts. When he grew up, his master sent him to join the army. Afterwards, he was recruited into the [Ministry of State Security](/world/bauhinia/mss/) under [Whiteout](/characters/whiteout/), where he'd been working ever since.
+At the Mountain Temple, the master accepted him out of sympathy. He learned and mastered wood-style martial arts. When he grew up, his master sent him to join the army. Afterwards, he was recruited into the [Ministry of State Security](/world/bauhinia/mss/) under [Whiteout](/characters/whiteout/), where he'd been working ever since.
 
 One day, he received orders from above to shoot Whiteout. He obeyed without question, chasing her to the Fantoni border on a snowy night and shooting her just as she was about to cross the border on a bike.
 
