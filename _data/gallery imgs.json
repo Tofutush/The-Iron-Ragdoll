@@ -5932,5 +5932,39 @@
       "spark"
     ],
     "kind": "thumb"
+  },
+  {
+    "name": "qibli 3d 1",
+    "date": "2026-04-03",
+    "ch": [
+      "qibli"
+    ],
+    "comment": "A cheesy 3D Qibli!"
+  },
+  {
+    "name": "qibli 3d 2",
+    "date": "2026-04-03",
+    "ch": [
+      "qibli"
+    ]
+  },
+  {
+    "name": "qibli 3d 3",
+    "date": "2026-04-03",
+    "ch": [
+      "qibli"
+    ]
+  },
+  {
+    "name": "qibli 3d 4",
+    "date": "2026-04-03",
+    "ch": [
+      "qibli"
+    ]
+  },
+  {
+    "name": "dragon 3d",
+    "date": "2026-04-02",
+    "comment": "First time trying Feather 3D."
   }
 ]
