@@ -27,7 +27,7 @@
 	}
 }
 
-.modal {
+#modal {
 	align-items: center;
 	background-color: #000c;
 	display: none;
@@ -39,6 +39,14 @@
 	width: 100%;
 	overflow: auto;
 	z-index: 999;
+
+	& img {
+		height: 80vh;
+		width: 90vw;
+		object-fit: contain;
+		margin: 5vh 0;
+		transition: opacity .2s;
+	}
 
 	& p {
 		color: var(--off-white);
@@ -53,16 +61,9 @@
 	}
 }
 
-.comment {
+.info {
 	max-width: 90vw;
 	width: 800px;
-}
-
-.modal img {
-	height: 80vh;
-	width: 90vw;
-	object-fit: contain;
-	margin: 5vh 0;
 }
 
 .prev,
@@ -75,7 +76,7 @@
 	border-radius: 0;
 	background-color: transparent;
 
-	&.noclick {
+	&[disabled] {
 		opacity: .5;
 
 		&:hover {
