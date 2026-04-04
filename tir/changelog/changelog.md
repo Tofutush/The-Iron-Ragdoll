@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-04
+
+- Reworked the gallery;
+	- Can you *imagine* I used to have a modal element for *every single image*? Anyway I hope everything still works;
+
 ## 2026-04-03
 
 - Added some screenshots of my 3D drawings;
