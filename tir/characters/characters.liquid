@@ -14,7 +14,6 @@ eleventyComputed:
   themeColor: "{{ ch.color }}"
 parent: Characters
 ---
-<link rel="stylesheet" href="/css/gallery.css"/>
 <link rel="stylesheet" href="/css/characters.css"/>
 <div style="--accent: {{ ch.color }}">
   {% assign filteredGallery = gallery | filterGallery: ch.name %}
@@ -165,4 +164,4 @@ parent: Characters
   <hr class="solid-hr"/>
   {% include 'prevnext' prev: prev, next: next %}
 {% endif %}
-<script src="/js/gallery.js"></script>
+{% include 'galleryModal' %}

@@ -6,7 +6,6 @@ years:
  - 2025
  - 2026
 ---
-<link rel="stylesheet" href="/css/gallery.css"/>
 <div class="box-nav">
 	{% for eachyear in years %}
 		<a href="/gallery/{{ eachyear }}/" {% if year == eachyear %}aria-current="page"{% endif %}>{{ eachyear }}</a>
