@@ -1,15 +1,6 @@
 name: Dispatch
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
-    inputs:
-      myCommit:
-        description: 'Commit SHA1'
-        required: true
-        default: 'undefined'
-        type: string
 
 jobs:
   build:
