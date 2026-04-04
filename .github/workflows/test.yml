@@ -1,4 +1,4 @@
-name: Build Eleventy
+name: Test
 on:
   workflow_dispatch:
     inputs:
