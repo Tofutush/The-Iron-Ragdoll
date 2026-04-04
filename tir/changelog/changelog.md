@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-03
+
+- Added some screenshots of my 3D drawings;
+
 ## 2026-04-02
 
 - New lore file, [Martial Arts](/world/martial-arts/);
