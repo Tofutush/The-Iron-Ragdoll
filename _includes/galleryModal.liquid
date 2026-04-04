@@ -1,142 +1,134 @@
 <style>
-.gallery {
-	display: grid;
-	gap: 1em;
-	grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-}
-
-.img {
-	&>.thumb {
-		background-color: var(--box);
-		border-radius: 12%;
-		cursor: pointer;
-		box-sizing: border-box;
-		padding: .5em;
-		user-select: none;
-		transition: all .2s var(--bezier);
-
-		&:hover {
-			box-shadow: 0 0 0 .4em var(--c);
-		}
-
-		&>img {
-			object-fit: cover;
-			width: 100%;
-			height: auto;
-			aspect-ratio: 1;
-		}
-	}
-}
-
-.modal {
-	align-items: center;
-	background-color: #000c;
-	display: none;
-	flex-direction: column;
-	height: 100%;
-	left: 0;
-	position: fixed;
-	top: 0;
-	width: 100%;
-	overflow: auto;
-	z-index: 999;
-
-	& p {
-		color: var(--off-white);
-	}
-
-	& .name-date {
-		display: flex;
+	.gallery {
+		display: grid;
 		gap: 1em;
-		justify-content: space-between;
-		text-indent: 0;
-		opacity: .5;
+		grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
 	}
-}
 
-.comment {
-	max-width: 90vw;
-	width: 800px;
-}
+	.img {
+		&>.thumb {
+			background-color: var(--box);
+			border-radius: 12%;
+			cursor: pointer;
+			box-sizing: border-box;
+			padding: .5em;
+			user-select: none;
+			transition: all .2s var(--bezier);
 
-.modal img {
-	height: 80vh;
-	width: 90vw;
-	object-fit: contain;
-	margin: 5vh 0;
-}
+			&:hover {
+				box-shadow: 0 0 0 .4em var(--c);
+			}
 
-.prev,
-.next {
-	position: fixed;
-	top: 0;
-	height: 100%;
-	display: flex;
-	align-items: center;
-	border-radius: 0;
-	background-color: transparent;
-
-	&.noclick {
-		opacity: .5;
-
-		&:hover {
-			cursor: not-allowed;
-			background-image: none !important;
+			&>img {
+				object-fit: cover;
+				width: 100%;
+				height: auto;
+				aspect-ratio: 1;
+			}
 		}
 	}
-}
 
-.prev {
-	left: 0;
+	#modal {
+		align-items: center;
+		background-color: #000c;
+		display: none;
+		flex-direction: column;
+		height: 100%;
+		left: 0;
+		position: fixed;
+		top: 0;
+		width: 100%;
+		overflow: auto;
+		z-index: 999;
 
-	&:hover {
-		background-image: linear-gradient(to right, var(--box-dark), transparent);
+		& img {
+			height: 80vh;
+			width: 90vw;
+			object-fit: contain;
+			margin: 5vh 0;
+		}
+
+		& p {
+			color: var(--off-white);
+		}
+
+		& .name-date {
+			display: flex;
+			gap: 1em;
+			justify-content: space-between;
+			text-indent: 0;
+			opacity: .5;
+		}
 	}
-}
 
-.next {
-	right: 0;
-
-	&:hover {
-		background-image: linear-gradient(to left, var(--box-dark), transparent);
+	.info {
+		max-width: 90vw;
+		width: 800px;
 	}
-}
 
-.chbuttons {
-	justify-content: center;
-	max-width: 90vw;
-	width: 800px;
-	margin-top: 1em;
-}
+	.prev,
+	.next {
+		position: fixed;
+		top: 0;
+		height: 100%;
+		display: flex;
+		align-items: center;
+		border-radius: 0;
+		background-color: transparent;
 
-.close {
-	color: var(--off-white);
-	position: fixed;
-	background-color: transparent;
-	right: 2em;
-	top: 2em;
-	z-index: 999;
-	padding: 0;
-}
+		&.noclick {
+			opacity: .5;
+
+			&:hover {
+				cursor: not-allowed;
+				background-image: none !important;
+			}
+		}
+	}
+
+	.prev {
+		left: 0;
+
+		&:hover {
+			background-image: linear-gradient(to right, var(--box-dark), transparent);
+		}
+	}
+
+	.next {
+		right: 0;
+
+		&:hover {
+			background-image: linear-gradient(to left, var(--box-dark), transparent);
+		}
+	}
+
+	.chbuttons {
+		justify-content: center;
+		max-width: 90vw;
+		width: 800px;
+		margin-top: 1em;
+	}
+
+	.close {
+		color: var(--off-white);
+		position: fixed;
+		background-color: transparent;
+		right: 2em;
+		top: 2em;
+		z-index: 999;
+		padding: 0;
+	}
 </style>
-<div class="modal">
+<div id="modal">
 	<button class="close">{% lucide 'x' 48 %}</button>
 	<button class="prev">{% lucide 'chevron-left' 48 'var(--off-white)' %}</button>
 	<button class="next">{% lucide 'chevron-right' 48 'var(--off-white)' %}</button>
-	{% image img 1000 0 0 0 true %}
-	{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank" class="external-link">{{ img.author }}</a></p>{% endif %}
-	{% if img.ch %}
-		<div class="tags chbuttons">
-			{% for ch in img.ch %}
-				{% include 'chButton', ch: ch %}
-			{% endfor %}
-		</div>
-	{% endif %}
-	<div class="comment">
-		<p class="name-date"><span>{{ img.name }}</span><span>{{ img.date }}</span></p>
-		{% if img.comment %}
-			{{ img.comment | renderMD }}
-		{% endif %}
+	<img/>
+	<p class="author">Art by <a target="_blank" class="external-link"></a></p>
+	<div class="tags chbuttons"></div>
+	<div class="info">
+		<p class="name-date"><span></span><span></span></p>
+		<div class="comment"></div>
 	</div>
 </div>
 <script src="/js/gallery.js"></script>
