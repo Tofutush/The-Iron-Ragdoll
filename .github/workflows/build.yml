@@ -31,10 +31,7 @@ jobs:
         run: npm run copy
 
       - name: im a stats nerd
-        run: du -sh _site
-
-      - name: still a stats nerd
-        run: du -sh _neocities
+        run: du -h _site _neocities
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
