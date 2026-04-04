@@ -1,27 +1,21 @@
 <div class="gallery">
 {% for img in imgs %}
 	<div class="img">
-		<button class="thumb">{% image img 200 %}</button>
-		<div class="modal">
-			<button class="close">{% lucide 'x' 48 %}</button>
-			<button class="prev">{% lucide 'chevron-left' 48 'var(--off-white)' %}</button>
-			<button class="next">{% lucide 'chevron-right' 48 'var(--off-white)' %}</button>
-			{% image img 1000 0 0 0 true %}
-			{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank" class="external-link">{{ img.author }}</a></p>{% endif %}
-			{% if img.ch %}
-				<div class="tags chbuttons">
-					{% for ch in img.ch %}
-						{% include 'chButton', ch: ch %}
-					{% endfor %}
-				</div>
+		<button class="thumb"
+			data-url="{% capture url %}{% imageUrl img 1000 0 0 true %}{% endcapture %}{{ url | htmlBaseUrl }}"
+			data-name="{{ img.name }}"
+			data-date="{{ img.date }}"
+			{% if img.author %}
+				data-author="{{ img.author }}"
+				data-authorUrl="{{ img.authorUrl }}"
 			{% endif %}
-			<div class="comment">
-				<p class="name-date"><span>{{ img.name }}</span><span>{{ img.date }}</span></p>
-				{% if img.comment %}
-					{{ img.comment | renderMD }}
-				{% endif %}
-			</div>
-		</div>
+			{% if img.ch %}
+				data-ch='{% capture chHTML %}{% for ch in img.ch %}<a class="character-button" style="color: {{ characters | getChColor: ch | to6DigitHex | calculateBlackWhite }}" href="{% capture url %}/characters/{{ ch | lowerCase }}/{% endcapture %}{{ url | htmlBaseUrl }}">{{ ch | capitalize }}</a>{% endfor %}{% endcapture %}{{ chHTML | escape }}'
+			{% endif %}
+			{% if img.comment %}
+				data-comment="{{ img.comment | renderMD | escape }}"
+			{% endif %}
+		>{% image img 200 %}</button>
 	</div>
 {% endfor %}
 </div>

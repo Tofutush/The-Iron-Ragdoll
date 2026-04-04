@@ -14,7 +14,6 @@ eleventyComputed:
   banner: "{% if ch.banner %}{{ ch.banner }}{% else %}banner sparky{% endif %}"
   parent: "{{ ch.name }}"
 ---
-<link rel="stylesheet" href="/css/gallery.css"/>
 <style>
   .img>.thumb:hover {
     box-shadow: 0 0 0 .4em var(--accent);
@@ -23,4 +22,4 @@ eleventyComputed:
 <h1>{{ ch.name }}'s Gallery</h1>
 {% assign filteredGallery = gallery | filterGallery: ch.name %}
 <div style="--accent: {{ ch.color }}">{% include 'gallery' imgs: filteredGallery %}</div>
-<script src="/js/gallery.js"></script>
+{% include 'galleryModal' %}
