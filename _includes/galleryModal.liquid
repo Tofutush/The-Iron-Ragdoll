@@ -1,3 +1,4 @@
+<style>
 .gallery {
 	display: grid;
 	gap: 1em;
@@ -117,3 +118,25 @@
 	z-index: 999;
 	padding: 0;
 }
+</style>
+<div class="modal">
+	<button class="close">{% lucide 'x' 48 %}</button>
+	<button class="prev">{% lucide 'chevron-left' 48 'var(--off-white)' %}</button>
+	<button class="next">{% lucide 'chevron-right' 48 'var(--off-white)' %}</button>
+	{% image img 1000 0 0 0 true %}
+	{% if img.author %}<p>Art by <a href="{{ img.authorUrl }}" target="_blank" class="external-link">{{ img.author }}</a></p>{% endif %}
+	{% if img.ch %}
+		<div class="tags chbuttons">
+			{% for ch in img.ch %}
+				{% include 'chButton', ch: ch %}
+			{% endfor %}
+		</div>
+	{% endif %}
+	<div class="comment">
+		<p class="name-date"><span>{{ img.name }}</span><span>{{ img.date }}</span></p>
+		{% if img.comment %}
+			{{ img.comment | renderMD }}
+		{% endif %}
+	</div>
+</div>
+<script src="/js/gallery.js"></script>
