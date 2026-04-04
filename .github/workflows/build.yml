@@ -33,6 +33,9 @@ jobs:
       - name: im a stats nerd
         run: du -sh _site
 
+      - name: still a stats nerd
+        run: du -sh _neocities
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
         with:

@@ -1,0 +1,32 @@
+name: Build Eleventy
+on:
+  workflow_dispatch:
+    inputs:
+      myCommit:
+        description: 'Commit SHA1'
+        required: true
+        default: 'undefined'
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.inputs.myCommit }}
+
+      - name: Use Node.js current
+        uses: actions/setup-node@v3
+        with:
+          node-version: current
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: build
+        run: npm run build
+
+      - name: im a stats nerd
+        run: du -sh _site
