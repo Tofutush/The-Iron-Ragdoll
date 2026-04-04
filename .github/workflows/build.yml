@@ -30,6 +30,9 @@ jobs:
       - name: copy images
         run: npm run copy
 
+      - name: im a stats nerd
+        run: du -sh _site
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
         with:
