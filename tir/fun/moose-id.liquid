@@ -1,0 +1,40 @@
+---
+layout: article.liquid
+title: Moose ID Calculator
+desc: Get your Moose ID!
+---
+<p>You technically aren't supposed to know about the algorithm used to calculate this. Oh to examine Morelandian national secrets — one of the many privileges granted by browsing my website!</p>
+<form>
+	<p><label for="name">Name: <input required id="name" type="text" pattern="[A-Za-z]+" maxlength="50" /></label></p>
+	<p><label for="birth">Birthday: <input required id="birth" type="date" /></label></p>
+	<p><button id="submit" type="submit">Calculate!</button></p>
+</form>
+<p id="result"></p>
+<script>
+document.querySelector('form').addEventListener('submit', e => {
+	e.preventDefault();
+	let name = document.getElementById('name').value.toLowerCase();
+	let birth = document.getElementById('birth').value.replaceAll('-', '');
+	// first 8 digits: birthday
+	let id = birth;
+	// 9th digit: birthdays multiplied
+	id += (parseInt(birth.substring(0, 4)) * parseInt(birth.substring(4, 6)) * parseInt(birth.substring(6, 8))) % 10;
+	// 10th digit: ascii sum
+	id += Array.from(name).reduce((prev, curr) => prev + curr.charCodeAt(0), 0) % 10;
+	// 11th digit: name ascii xor birthday
+	id += Array.from(name).reduce((prev, curr, z) => prev + name.charCodeAt(z) ^ parseInt(birth[z % birth.length]), 0) % 10;
+	// 12th digit: weird shit
+	id += Array.from(name).reduce((prev, curr, z) => prev + name.charCodeAt(z) * fibonacci(parseInt(birth[z % birth.length])), 0) % 10;
+
+	document.getElementById('result').innerHTML = id;
+});
+function fibonacci(n) {
+	if(n > 10) {
+		document.getElementById('result').innerHTML = "Don't make me fibonacci larger than 10. How did you even do it."
+		throw new Error("Ultimately, users are responsible for my bad code");
+	}
+	if(n == 0) return 0;
+	if(n == 1) return 1;
+	return fibonacci(n - 2) + fibonacci(n - 1);
+}
+</script>
