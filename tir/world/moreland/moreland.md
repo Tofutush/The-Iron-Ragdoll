@@ -81,7 +81,9 @@ The Medical Corps of the Guardians spend a lot of effort promoting DNA testing b
 
 ### Naming conventions
 
-Since family isn't a thing in Moreland, people don't have family names. In legal settings where precise identification is required, their unique ID number would be written where the family name would be. For example, "[Snowball 201710033746](/characters/snowball/)."
+Since family isn't a thing in Moreland, people don't have family names. In legal settings where precise identification is required, their unique ID number would be written where the family name would be. For example, "[Snowball 201710030667](/characters/snowball/)."
+
+The ID number is obtained from the birthday and a series of checksums. You can calculate it with the [Moose ID Calculator](/fun/moose-id/).
 
 ### Introversion and extroversion
 
