@@ -3,29 +3,7 @@ chNum: 2
 draft: true
 ---
 
-Harmony did not stop thinking about it. She woke up unable to stomach any breakfast.
-
-"You need energy," Frosting said.
-
-"I want to throw up."
-
-Frosting wrapped the bun in a plastic bag and put it in Harmony's backpack. "Make sure you eat at least a little bit before the exam. Or you might pass out in the middle."
-
-"I may pass out anyways."
-
-Harmony greeted Sugarcane at their usual spot. With every step they neared the school, and Harmony's heart beat faster. *Would they use the exam scores as an excuse to get rid of me?*
-
-"I'm really not prepared."
-
-"Me neither," Sugarcane said.
-
-"You totally are."
-
-"No I'm not. Besides, it's just an entrance exam. Sky said it doesn't matter."
-
-"He's just saying that to not scare us."
-
----
+The digital alarm Harmony set on her new phone rang at seven o'clock sharp, but she had been awake long before.
 
 "Please put your backpacks and electronics outside of the classroom!" Sky was standing at the door, holding a metal detector. "You may only bring your pencil cases and student cards."
 
