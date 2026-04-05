@@ -49,7 +49,7 @@
     <p class="lighter-text">Get your Moose ID!</p>
     <p>You technically aren't supposed to know about the algorithm used to calculate this. Oh to examine Morelandian national secrets — one of the many privileges granted by browsing my website!</p>
     <form>
-      <p><label for="name">Name: <input required="" id="name" type="text" pattern="[A-Za-z]+" maxlength="50"></label></p>
+      <p><label for="name">Name: <input required="" id="name" type="text" pattern="[A-Za-z ]+" maxlength="50"></label></p>
       <p><label for="birth">Birthday: <input required="" id="birth" type="date"></label></p>
       <p><button id="submit" type="submit">Calculate!</button></p>
     </form>
@@ -57,7 +57,7 @@
     <script>
       document.querySelector('form').addEventListener('submit', e => {
         e.preventDefault();
-        let name = document.getElementById('name').value.toLowerCase();
+        let name = document.getElementById('name').value.replaceAll(' ', '').toLowerCase();
         let birth = document.getElementById('birth').value.replaceAll('-', '');
         // first 8 digits: birthday
         let id = birth;
