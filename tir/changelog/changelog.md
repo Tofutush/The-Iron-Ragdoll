@@ -9,6 +9,7 @@ eleventyNavigation:
 
 - Reworked the gallery;
 	- Can you *imagine* I used to have a modal element for *every single image*? Anyway I hope everything still works;
+- Added [Moose ID Calculator](/fun/moose-id/);
 
 ## 2026-04-03
 
