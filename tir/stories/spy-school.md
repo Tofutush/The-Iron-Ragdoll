@@ -22,7 +22,6 @@ myTags:
   - Comic
   - Fic
 comic: true
-fic: true
 prev:
   - "[Project Boomerang](/stories/project-boomerang/)"
   - "[Poker Spies](/stories/poker-spies/)"

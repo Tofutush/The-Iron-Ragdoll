@@ -1,5 +1,6 @@
 ---
 chNum: 1
+draft: true
 ---
 
 It was a Sunday afternoon. Harmony was curled up on the sofa with a book when there came a knock on the door. Her dad, Entity, went to get it.
@@ -10,9 +11,9 @@ A man in a jet-black uniform stood in the doorway, sporting two blue horns and a
 
 "Why, if there's anything you did, that was raising a wonderful daughter! Is little Harmony home?"
 
-His eyes locked with Harmony's for a split second. She sank back into the book, though her attention was still focused on him.
+His eyes locked with Harmony's for a split second. She sank back into the book, though her attention was still focused on him. Black uniform, purple boots, and the shiny silver badge on the hat — the man was from the Ministry of State Security. What did he want with Harmony, an innocent little sixth-grader?
 
-Entity turned around to face her. "Honey? It's for you."
+Entity turned around to face her, looking relieved that the officer wasn't coming for him. "Honey? It's for you."
 
 "Actually," said the man, "is Mrs. Frosting home? I would love to discuss this matter with the whole family."
 
@@ -20,7 +21,7 @@ Entity nodded. "Darling!" he called.
 
 Frosting came out from her study. "What is it?" And then she saw the man in the doorway. "Oh. What's the matter, officer?"
 
-They sat down around the tea table. Harmony put her book face-down on the sofa. The man introduced himself as Sky, from the Ministry of State Security. Frosting made tea.
+They sat down around the tea table. Harmony put her book face-down on the sofa. The man introduced himself as Sky Elmwood Dazzle. Frosting made tea.
 
 "I am here on behalf of the the Middle School for Young Officers in Training Affiliated to the Ministry of State Security." Sky began. "I know it's a mouthful. We usually call it Ministry Affiliate.
 
