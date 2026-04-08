@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-07
+
+- Added ranking information to [Martial Arts](/world/martial-arts/);
+
 ## 2026-04-05
 
 - Unpublished the Spy School fic drafts because I keep editing them;
