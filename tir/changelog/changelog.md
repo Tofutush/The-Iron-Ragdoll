@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-08
+
+- Gallery keyboard navigation;
+
 ## 2026-04-07
 
 - Added ranking information to [Martial Arts](/world/martial-arts/);
