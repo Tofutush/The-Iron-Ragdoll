@@ -37,7 +37,7 @@ Harmony felt compelled to say something lest Sky thought she was an idiot. "Uh, 
 
 "It's a special school ran by the Ministry of State Security," Sky said. "Where you can start early in your training to become an officer there. We will teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me."
 
-Oh. Harmony had heard about the mystical school before, of its prestige and its secrecy. *Everyone* wants to attend Ministry Affiliate.
+Oh. Harmony had heard about the mystical school before, of its prestige and its secrecy. *Everyone* wanted to attend Ministry Affiliate.
 
 Not Harmony though.
 
@@ -105,7 +105,7 @@ Sugarcane smiled. "Yes."
 
 "*What* is great?" Came a teasing voice from behind. Harmony turned around. It was Rose, leaned against a lamp post behind the shrubs.
 
-Rose was a classmate of Harmony and Sugarcane's. Sugarcane didn't like her, so she refused to hang out with any of her friends either. Except that Rose was friends with nearly everyone else. Sugarcane would've been alone all the time if it weren't for Harmony, although Harmony suspected that she would've been fine with that.
+Rose was a classmate of Harmony and Sugarcane's. Sugarcane didn't like her, and she refused to hang out with any of Rose's friends either. Except that Rose was friends with nearly everyone else. Sugarcane would've been alone all the time if it weren't for Harmony, although Harmony suspected that she would've been fine with that.
 
 "Oh, hey Rose," Sugarcane said without turning her head. "What's 'great' is that you're here, and you can play with things appropriate for your age." She waved at the swings and slides, around which a couple of kindergarteners were happily chasing each other.
 
@@ -127,13 +127,13 @@ When they were far enough away from Rose, Sugarcane finally turned excitedly to 
 
 "I'm so glad we'd still be together," Harmony said. "I wouldn't know what to do without you."
 
-"Me neither."
+"Me neither. We can go sign up as soon as we graduate."
 
 ---
 
 The day of graduation finally came. The girls had received their diplomas, went to take pictures right after the ceremony, and returned to Harmony's home, where they bugged Entity to walk them over.
 
-"Can't you wait until your mom gets home?" Entity said.
+"Can't you wait until your mom gets home?" Entity rubbed his temples.
 
 "But that would be way into the evening!" Harmony said. "Would they even still be open?"
 
@@ -171,15 +171,15 @@ Again, Sugarcane already had hers ready. Harmony had decided to put hers back in
 
 After checking their IDs, the gatekeeper pressed some controls, and the small human gate next to the big sliding gate swung open. "Right there," he said. "You'll see it."
 
-They entered to find a clearing of dusty concrete tiles between them and the main buildings, all dusty gray and tall. Against the side of the building was a single canopy tent labeled *New Student Registration*. In the shade of the tent, behind the table, sat none other than Sky himself.
+They entered to find a clearing of dusty concrete tiles between them and the main buildings. Against the side of the building was a single canopy tent labeled *New Student Registration*. In the shade of the tent, behind a laptop on the table, sat none other than Sky himself.
 
 "Sky!" Harmony yelled out in excitement and ran towards him. Sugarcane followed close behind.
 
-"Hi!" Sky replied. "So good to see you here! Documents, please."
+"Hi!" Sky looked up from his laptop. "So good to see you here! Documents, please."
 
 Harmony gave her folder to Sky, realized that her ID was still in her hand, and handed that over as well. Sugarcane, however, had put her ID back into her folder during the run and simply handed over the entire thing.
 
-Sky went to work, checking their IDs against their diplomas and against a list he had on the table. He typed into a laptop, shoved their photo receipts in a bag, returned their documents, and typed some more.
+Sky went to work, checking their IDs against their diplomas and against a list he had on the table. He typed into the laptop, shoved their photo receipts in a bag, returned their documents, and typed some more.
 
 "You're all set!" He smiled. "Orientation day is on September the first. I expect to see you then!"
 
@@ -199,7 +199,7 @@ At dinner, Harmony excitedly told her mom about her enrollment. Frosting merely 
 
 "I'm being serious. If you're having any questions, or doubts, just tell us and we can answer it."
 
-Harmony merely rolled her eyes. Her parents were always acting like they're her friend, and it was really corny.
+Harmony merely rolled her eyes. Her parents were always acting like they're her friend, and it was really corny. Sugarcane was her only friend.
 
 "Or if you feel too pressured and want to transfer. I have teacher friends who would be happy to tutor you if you need help, so if you transfer out and have trouble catching up…"
 
@@ -279,9 +279,9 @@ She felt a weird tingling sensation in her mind as Cosmo looked at her. It felt 
 
 "Really," Cosmo crossed her arms.
 
-"Well, maybe not," Sugarcane admitted. "But now I know what it is."
+"Well, maybe a little," Sugarcane admitted. "But now I know what it is."
 
-A new student arrived at the door. "Is this class five?" He asked.
+A new student arrived at the door and poked his head in. "Is this class five?" He asked.
 
 "Sure is," Sugarcane immediately turned towards him. "I'm Sugarcane, this is Harmony, and this…"
 
@@ -397,7 +397,7 @@ Entity put the phone box on the shelf behind him. "Lunch first."
 
 ---
 
-Harmony spent the afternoon setting up her phone at Sugarcane's. They created accounts and added each other on StarChat, and spent about an hour finding a perfect wallpaper so they could match.
+Harmony spent the afternoon setting up her phone at Sugarcane's. They created accounts and added each other on StarChat, and spent about an hour finding the perfect pair of matching wallpapers.
 
 On Sugarcane's desk, the new textbooks were strewn about, all of them open on unit one. Had she been studying before Harmony got here?
 
