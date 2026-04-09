@@ -59,8 +59,8 @@ eleventyComputed:
 <div id="date-save">
 	<p>{{ comic.date }}</p>
 	<div id="save">
-		<a title="Save" onclick="save()">{% lucide 'arrow-down-from-line' %}</a>
-		<a title="Load" onclick="load()">{% lucide 'arrow-up-from-line' %}</a>
+		<button title="Save" onclick="save()">{% lucide 'arrow-down-from-line' %}</button>
+		<button title="Load" onclick="load()">{% lucide 'arrow-up-from-line' %}</button>
 		{% if archive %}<a title="Archive" href="../archive/">{% lucide 'list' %}</a>{% endif %}
 	</div>
 </div>
@@ -75,7 +75,7 @@ eleventyComputed:
 	}
 	function load() {
 		let place = localStorage.getItem('{{ comicTitle }} place');
-		if(place !== undefined) window.open(`../${place}/#img`, '_self');
+		if(place !== undefined) window.open(`../${place}/#arrow`, '_self');
 		else alert('no place was saved!');
 	}
 </script>
