@@ -10,7 +10,7 @@ function randomize() {
 	for (let z = 0; z < 2; z++)
 		for (let ch of selected) {
 			let capitalized = ch[0].toUpperCase() + ch.slice(1);
-			div.appendChild(elt('a', { href: `characters/${ch}/` },
+			div.appendChild(elt('a', { href: `characters/${ch}/`, tabIndex: "-1", },
 				elt('img', { src: imgs[ch].slice(1), alt: capitalized, title: capitalized })
 			));
 		}
