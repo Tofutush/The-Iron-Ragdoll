@@ -120,8 +120,13 @@ blockquote {
 		overflow: hidden;
 		margin: -1px;
 
-		&:hover {
+		&:hover,
+		&:focus {
 			flex-basis: 4em;
+
+			&>div {
+				display: flex;
+			}
 		}
 
 		&>div {
@@ -143,10 +148,6 @@ blockquote {
 					font-size: var(--font-size-small);
 				}
 			}
-		}
-
-		&:hover>div {
-			display: flex;
 		}
 	}
 }
