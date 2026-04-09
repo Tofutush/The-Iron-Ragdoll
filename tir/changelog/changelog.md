@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-09
+
+- Improved keyboard navigation for comics and dialogs;
+
 ## 2026-04-08
 
 - Gallery keyboard navigation;
