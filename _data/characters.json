@@ -1112,7 +1112,10 @@
       "Nationality": "Bauhinian"
     },
     "palette": {
-      "hair": "#D7C386"
+      "jade": "#88DDBB",
+      "jacket:": "#C0A88D",
+      "hair": "#D7C386",
+      "dress": "#2e2e2e"
     },
     "about": "Rosemary is assigned Pinecone's handler in Project Kismet. She is gentle and caring, and helped Pinecone get through her worst times. She also has a couple college-aged kids."
   },
