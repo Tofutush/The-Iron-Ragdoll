@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-04-09
 
 - Improved keyboard navigation for comics and dialogs;
+- Added graph to [Martial Arts](/world/martial-arts/) file;
 
 ## 2026-04-08
 

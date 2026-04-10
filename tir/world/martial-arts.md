@@ -114,8 +114,6 @@ Taking ranking into account, here's a list from the strongest to the weakest. Ea
 19. **Water**-style, Violet // **Earth**-style, 1
 20. **Wood**-style, Hobbyist // **Earth**-style, 0
 
-I should draw a graph. No one can understand this shit.
-
 [^1]: *Don't* ask me.
 [^2]: I'm sorry but the brainrot is lowkirkenuinely getting to me.
 [^3]: Why does it start from 0? Because I code too much, obviously.
