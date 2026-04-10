@@ -5966,5 +5966,51 @@
     "name": "dragon 3d",
     "date": "2026-04-02",
     "comment": "First time trying Feather 3D."
+  },
+  {
+    "name": "harmony sugarcane mesmerizer",
+    "date": "2026-04-10",
+    "ch": [
+      "sugarcane",
+      "harmony"
+    ],
+    "comment": "Sugarcane and Harmony to the cover art of Mesmerizer!"
+  },
+  {
+    "name": "rosemary stand",
+    "date": "2026-04-10",
+    "ch": [
+      "rosemary"
+    ],
+    "kind": "fullbody",
+    "comment": "I still need to learn to draw this fit in more than 1 perspective…"
+  },
+  {
+    "name": "goose 3d 1",
+    "date": "2026-04-10",
+    "ch": [
+      "goose"
+    ]
+  },
+  {
+    "name": "goose 3d 2",
+    "date": "2026-04-10",
+    "ch": [
+      "goose"
+    ]
+  },
+  {
+    "name": "goose 3d 3",
+    "date": "2026-04-10",
+    "ch": [
+      "goose"
+    ]
+  },
+  {
+    "name": "goose 3d 4",
+    "date": "2026-04-10",
+    "ch": [
+      "goose"
+    ]
   }
 ]
