@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-11
+
+- Added `kismet hyrax children.png`, `firecrackers skip.png`;
+
 ## 2026-04-10
 
 - Added `harmony sugarcane mesmerizer.png`, `rosemary stand.png`, 3D Goose screenshots;
