@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-12
+
+- Added `willow drawing.png`;
+
 ## 2026-04-11
 
 - Added `kismet hyrax children.png`, `firecrackers skip.png`;
