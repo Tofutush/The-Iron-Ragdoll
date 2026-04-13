@@ -11,13 +11,14 @@ eleventyComputed:
 ---
 <style>
 	.archive {
-		display: flex;
-		flex-wrap: wrap;
-		gap: .5em;
+		display: grid;
+		gap: 1em;
+		grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
 		& img {
-			height: 6em;
-			width: 6em;
 			object-fit: cover;
+			width: 100%;
+			height: auto;
+			aspect-ratio: 1;
 		}
 	}
 </style>
@@ -30,7 +31,7 @@ eleventyComputed:
 		{% else %}
 			<h2>Chapter {{ group.chapter }}</h2>
 		{% endif %}
-		<div class="archive">
+		<section class="archive">
 			{% for page in group.pages %}
 			<a href="../{{ page.pagenum }}/">
 				{% if page.url.first %}
@@ -47,10 +48,10 @@ eleventyComputed:
 				{% image path 100 alt %}
 			</a>
 			{% endfor %}
-		</div>
+		</section>
 	{% endfor %}
 {% else %}
-	<div class="archive">
+	<section class="archive">
 		{% for page in comicData[dataName] %}
 			<a href="../{{ page.pagenum }}/">
 				{% assign path = "comics/" | append: page.url | append: '.png' %}
@@ -58,5 +59,5 @@ eleventyComputed:
 				{% image path 100 alt %}
 			</a>
 		{% endfor %}
-	</div>
+	</section>
 {% endif %}
