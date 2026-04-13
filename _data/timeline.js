@@ -24,7 +24,7 @@ timelineRaw.data.items.filter(item => item.start).forEach(item => {
 		if (item.type === 'defaultEvent') entry.label = `Start of ${item.label}`;
 		// otherwise (is person), list said person as participant again
 		else endEntry.participants = [item.label];
-
+		timeline.push(endEntry);
 	}
 	timeline.push(entry);
 });
