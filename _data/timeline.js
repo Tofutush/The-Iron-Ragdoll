@@ -28,36 +28,6 @@ timelineRaw.data.items.filter(item => item.start).forEach(item => {
 	}
 	timeline.push(entry);
 });
-/*
-let timeline = timelineRaw.data.items.reduce((prev, curr) => {
-	if (!curr.start) return prev;
-	let item = [{
-		label: curr.type === 'defaultPerson' ? `${curr.label} born` : curr.label,
-		time: curr.start.substring(0, 10)
-	}];
-	// if this is an event, find the participants. Event ID should match the subject of the relationship, and the target is the participant
-	if (curr.type === 'defaultEvent') {
-		let participants = [];
-		timelineRaw.data.relationships.filter(rel => rel.subject === curr.id && rel.relationshipType === 'participantRef').forEach(rel => {
-			participants.push(timelineRaw.data.items.find(item => item.id === rel.target).label);
-		});
-		if (participants.length) item[0].participants = participants;
-	}
-	if (curr.start != curr.end) {
-		item[0].label = curr.type == 'defaultPerson' ? `${curr.label} born` : `Start of ${curr.label}`;
-		item.push({
-			label: curr.type === 'defaultPerson' ? `${curr.label} died` : `End of ${curr.label}`,
-			time: curr.end.substring(0, 10)
-		});
-	}
-	if (curr.type === 'defaultPerson') {
-		console.log(item);
-		item[0].participants = [curr.label];
-		if (item[1]) item[1].participants = [curr.label];
-	}
-	return [...prev, ...item];
-}, []);
-*/
 timeline.sort((a, b) => a.time.localeCompare(b.time));
 
 export default timeline;
