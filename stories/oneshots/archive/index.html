@@ -51,29 +51,30 @@
     </div>
     <style>
       .archive {
-        display: flex;
-        flex-wrap: wrap;
-        gap: .5em;
+        display: grid;
+        gap: 1em;
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
 
         & img {
-          height: 6em;
-          width: 6em;
           object-fit: cover;
+          width: 100%;
+          height: auto;
+          aspect-ratio: 1;
         }
       }
     </style>
     <h1>Oneshots Archive</h1>
     <h2>Bramble's Happy Family</h2>
-    <div class="archive">
+    <section class="archive">
       <a href="../1/">
         <img src="/The-Iron-Ragdoll/img/7HSV7LnPMI-100.webp" alt="Page 1" title="Page 1" loading="lazy" decoding="async" width="100" height="1884">
       </a>
       <a href="../2/">
         <img src="/The-Iron-Ragdoll/img/v8L51KRsFs-100.webp" alt="Page 2" title="Page 2" loading="lazy" decoding="async" width="100" height="1836">
       </a>
-    </div>
+    </section>
     <h2>Goose's Visit</h2>
-    <div class="archive">
+    <section class="archive">
       <a href="../3/">
         <img src="/The-Iron-Ragdoll/img/uP9jmVqMts-100.webp" alt="Page 3" title="Page 3" loading="lazy" decoding="async" width="100" height="141">
       </a>
@@ -83,7 +84,7 @@
       <a href="../5/">
         <img src="/The-Iron-Ragdoll/img/Zw7elCj7CB-100.webp" alt="Page 5" title="Page 5" loading="lazy" decoding="async" width="100" height="141">
       </a>
-    </div>
+    </section>
   </main>
   <footer>
     <button class="theme-toggle">
