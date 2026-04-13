@@ -5,25 +5,23 @@
 }
 
 .img {
-	&>.thumb {
-		background-color: var(--box);
-		border-radius: 12%;
-		cursor: pointer;
-		box-sizing: border-box;
-		padding: .5em;
-		user-select: none;
-		transition: all .2s var(--bezier);
+	background-color: var(--box);
+	border-radius: 12%;
+	cursor: pointer;
+	box-sizing: border-box;
+	padding: .5em;
+	user-select: none;
+	transition: all .2s var(--bezier);
 
-		&:hover {
-			box-shadow: 0 0 0 .4em var(--c);
-		}
+	&:hover {
+		box-shadow: 0 0 0 .4em var(--c);
+	}
 
-		&>img {
-			object-fit: cover;
-			width: 100%;
-			height: auto;
-			aspect-ratio: 1;
-		}
+	&>img {
+		object-fit: cover;
+		width: 100%;
+		height: auto;
+		aspect-ratio: 1;
 	}
 }
 
