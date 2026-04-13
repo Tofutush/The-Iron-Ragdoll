@@ -14,7 +14,7 @@
 	let comment = modal.querySelector('.comment');
 	let images = document.querySelectorAll('.img');
 	for (let z = 0; z < images.length; z++) {
-		images[z].querySelector('button').addEventListener('click', e => {
+		images[z].addEventListener('click', e => {
 			if (viewing) return;
 			showImg(z);
 			modal.style.display = 'flex';
@@ -51,7 +51,7 @@
 		else prev.disabled = false;
 		if (idx == images.length - 1) next.disabled = true;
 		else next.disabled = false;
-		let button = images[idx].querySelector('button');
+		let button = images[idx];
 		// load img
 		let src = button.getAttribute('data-url');
 		modalImg.style.opacity = 0;
@@ -89,6 +89,6 @@
 		modal.querySelector('img').src = '';
 		document.body.style.overflow = 'auto';
 		viewing = false;
-		images[currentIdx].querySelector('button').focus();
+		images[currentIdx].focus();
 	}
 })();

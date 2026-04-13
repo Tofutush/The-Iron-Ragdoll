@@ -1,21 +1,19 @@
 <div class="gallery">
 {% for img in imgs %}
-	<div class="img">
-		<button class="thumb"
-			data-url="{% capture url %}{% imageUrl img 1000 0 0 true %}{% endcapture %}{{ url | htmlBaseUrl }}"
-			data-name="{{ img.name }}"
-			data-date="{{ img.date }}"
-			{% if img.author %}
-				data-author="{{ img.author }}"
-				data-authorUrl="{{ img.authorUrl }}"
-			{% endif %}
-			{% if img.ch %}
-				data-ch='{% capture chHTML %}{% for ch in img.ch %}<a class="character-button" style="color: {{ characters | getChColor: ch | to6DigitHex | calculateBlackWhite }}" href="{% capture url %}/characters/{{ ch | lowerCase }}/{% endcapture %}{{ url | htmlBaseUrl }}">{{ ch | capitalize }}</a>{% endfor %}{% endcapture %}{{ chHTML | escape }}'
-			{% endif %}
-			{% if img.comment %}
-				data-comment="{{ img.comment | renderMD | escape }}"
-			{% endif %}
-		>{% image img 200 %}</button>
-	</div>
+	<button class="img"
+		data-url="{% capture url %}{% imageUrl img 1000 0 0 true %}{% endcapture %}{{ url | htmlBaseUrl }}"
+		data-name="{{ img.name }}"
+		data-date="{{ img.date }}"
+		{% if img.author %}
+			data-author="{{ img.author }}"
+			data-authorUrl="{{ img.authorUrl }}"
+		{% endif %}
+		{% if img.ch %}
+			data-ch='{% capture chHTML %}{% for ch in img.ch %}<a class="character-button" style="color: {{ characters | getChColor: ch | to6DigitHex | calculateBlackWhite }}" href="{% capture url %}/characters/{{ ch | lowerCase }}/{% endcapture %}{{ url | htmlBaseUrl }}">{{ ch | capitalize }}</a>{% endfor %}{% endcapture %}{{ chHTML | escape }}'
+		{% endif %}
+		{% if img.comment %}
+			data-comment="{{ img.comment | renderMD | escape }}"
+		{% endif %}
+	>{% image img 200 %}</button>
 {% endfor %}
 </div>
