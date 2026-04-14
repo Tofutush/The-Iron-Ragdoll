@@ -44,11 +44,11 @@ And Sparky got slammed into the ground again. Little stones, leaves, and twigs h
 
 ---
 
-When things calmed down, Paperweight and Goose went to investigate the broken police tape. Except that all the police tape were broken at this point. They knew the specific location where the broken tape was first found though, but to trace any path someone might've gone through was near impossible, given the debris left behind. Still they ordered a search party and found Sparky in a circle of boulders that sheltered her from the wind, having broken an arm and a leg which was why she didn't make it out herself. Her head was fine, thankfully; in fact, she broke the arm sheltering her head against the boulders.
+When things calmed down, Paperweight and Goose went to investigate the broken police tape. Except that all the police tape were broken at this point. They knew the specific location where the broken tape was first found though, but to trace any path someone might've gone through was near impossible, given the debris left behind. Still they ordered a search party and found Sparky in a circle of boulders that sheltered her from the wind, having broken an arm and a leg which was why she didn't make it out herself. Her head was fine, thankfully; in fact, she broke the arm sheltering her head against the boulders. Clutched in her good hand is a giant feather, as tall as herself, gray but shining rainbow under the sun.
 
-Paperweight recognized her. You're the girl who turned herself into a dragon and helped us locate an Atlasian who crossed the border without documents and illegally stayed in Bauhinia for over 10 years!
+Paperweight recognized her. You're the girl who turned herself into a dragon and helped us locate an Atlasian who crossed the border without documents and illegally stayed in Bauhinia for over 10 years! Drop the feather.
 
-That is not how I would've put it, Sparky said.
+That is not how I would've put it, Sparky said. Also, the feather is mine. I found it.
 
 Whatever. You've caused us enough trouble. Get in the ambulance. You need a stretcher?
 

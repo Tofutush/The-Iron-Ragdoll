@@ -176,3 +176,5 @@ A voice came from behind them. "Why was the exam like *that*?" followed by some 
 "It's not like it's a flu. He just caught some chills, it's not contagious."
 
 "Fine," I wasn't about to disagree with Sugarcane, but I did sit diagonally from Sunny.
+
+I opened my mouth to talk to Sugarcane, but Cosmo popped up behind us 
