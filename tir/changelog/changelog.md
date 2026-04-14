@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-04-13
 
 - Fixed the timeline;
+- New story: [The Migration of Peng](/stories/the-migration-of-peng/);
 
 ## 2026-04-12
 

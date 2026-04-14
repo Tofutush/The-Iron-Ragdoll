@@ -13,7 +13,7 @@ chs:
   - potato
   - guillotine
   - jam
-time: "2031"
+time: 2031-02
 desc: Sparky starts middle school dealing with her crazy friends, patchwork family, and a kleptomaniac.
 myTags:
   - Bauhinia
