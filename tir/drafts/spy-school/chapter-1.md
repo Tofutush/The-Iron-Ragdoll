@@ -205,7 +205,9 @@ I merely rolled my eyes. My parents were always acting like they were my friends
 
 "I'm not going to transfer out," I said. "School hasn't even started! Have some faith in me!"
 
-I wondered why Mom was so worried. Did she know someone who attended the school and had to drop out? I looked at my dad, but Entity was being quiet as usual.
+I wondered why Mom was so worried. Did she know someone who attended the school and had to drop out, out of all the children of her colleagues she never stopped talking about? Mom had a never-ending treasure trove of stories about her colleagues' children and which schools they went to, what jobs they got, and what they had for breakfast. Every time I thought she had run out of colleagues to talk about, she brought up someone new.
+
+I looked at my dad, but Entity was being quiet as usual.
 
 "I'm full," I scraped up the last bit of rice in my bowl and headed for the kitchen. It didn't matter if Mom kept worrying. I had Sugarcane. I would be fine.
 
