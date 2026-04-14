@@ -21,10 +21,18 @@ const data = [
     },
 
     {
-        id: "A Nuke From Moreland",
+        id: "The Migration of Peng",
         parentIds: [
             
                 "Sparky Turns into a Dragon",
+            
+        ],
+        url: "/stories/the-migration-of-peng/"
+    },
+
+    {
+        id: "A Nuke From Moreland",
+        parentIds: [
             
                 "Pumpkin's Backstory",
             
@@ -33,6 +41,8 @@ const data = [
                 "Halcyon's Backstory",
             
                 "Paperweight's Backstory",
+            
+                "The Migration of Peng",
             
         ],
         url: "/stories/a-nuke-from-moreland/"
