@@ -6,13 +6,7 @@ function storyPlugin(eleventyConfig) {
 	);
 	eleventyConfig.addCollection("storyTags", collection => {
 		let stories = collection.getFilteredByGlob('tir/stories/*.md');
-		let tags = [];
-		for (let z = 0; z < stories.length; z++) {
-			if (!stories[z].data.myTags) continue;
-			for (let a of stories[z].data.myTags) tags.push(a);
-		}
-		tags = [...new Set(tags)].sort((a, b) => a.localeCompare(b));
-		return tags;
+		return [...new Set([].concat(...stories.map(s => s.data.myTags || [])))].sort((a, b) => a.localeCompare(b));
 	});
 	eleventyConfig.addFilter('filterStory', function (arr, ch) {
 		return arr.filter(s => s.data.chs?.includes(ch.toLowerCase()));
