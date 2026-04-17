@@ -1,6 +1,7 @@
 import markdownIt from "markdown-it";
 import markdownItExternalLinks from "markdown-it-external-links";
 import holidays from '../_data/holidays.json' with { type: 'json' };
+import characters from '../_data/characters.json' with { type: 'json' };
 
 function utilPlugin(eleventyConfig) {
 	const mdRender = new markdownIt({
@@ -59,6 +60,12 @@ function utilPlugin(eleventyConfig) {
 	});
 	eleventyConfig.addFilter('between', function (date, start, end) {
 		return start <= date && date <= end;
+	});
+	eleventyConfig.addFilter('getBDayStars', function (dateMonth) {
+		return characters.filter(ch => ch.attr?.Birth?.substring(5) === dateMonth);
+	});
+	eleventyConfig.addFilter('getHolidays', function (dateMonth) {
+		return holidays[dateMonth]?.days;
 	});
 }
 
