@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-16
+
+- Birthdays and holidays on the front page are back;
+	- They're just simple one-liners though;
+
 ## 2026-04-13
 
 - Fixed the timeline;

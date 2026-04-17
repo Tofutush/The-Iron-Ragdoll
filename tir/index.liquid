@@ -12,11 +12,31 @@ widepage: true
   <p style="text-align: center; font-style: italic; font-weight: bold;">9·18 事变纪念日</p>
   <p style="text-align: center; font-style: italic; font-weight: bold;">缅怀先辈，铭记历史</p>
 {% endif %}
+{% assign dateMonth = '03-12' %}
+{% assign bdayStars = dateMonth | getBDayStars %}
+{% assign holidays = dateMonth | getHolidays %}
 <section id="title">
   <p><em>Welcome to the world of</em></p>
   <img alt="The Iron Ragdoll" title="The Iron Ragdoll" src="/img/bg/home banner english.png"/>
   <img alt="The Iron Ragdoll" title="The Iron Ragdoll" src="/img/bg/home banner bauhinian.png"/>
 </section>
+{% if bdayStars or holidays %}
+  <section id="bday-holiday">
+    {% if bdayStars.size > 0 %}
+      <p style="text-align: right"><em>
+        {% if bdayStars.size == 2 %}
+          Today is <a href="/characters/{{ bdayStars[0].name | lowerCase }}/">{{ bdayStars[0].name }}</a> and <a href="/characters/{{ bdayStars[1].name | lowerCase }}/">{{ bdayStars[1].name }}</a>'s birthday!
+        {% elsif bdayStars.size == 1 %}
+          Today is <a href="/characters/{{ bdayStars[0].name | lowerCase }}/">{{ bdayStars[0].name }}</a>'s birthday!
+        {% else %}
+          Today is {% for ch in bdayStars %}{% unless forloop.first %}, {% endunless %}{% if forloop.last %}and {% endif %}<a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a>{% endfor %}'s birthday!</em></p>
+        {% endif %}
+    {% endif %}
+    {% if holidays.size > 0 %}
+      <p style="text-align: right"><em>Today is {% for h in holidays %}{% unless forloop.first %}, {% endunless %}<a href="{{ h.url }}">{{ h.alt }}</a>{% endfor %}!</em></p>
+    {% endif %}
+  </section>
+{% endif %}
 <section id="flex">
   <section id="left">
     {% image 'qibli home' 800 'qibli home' 'float-left qibli' %}
