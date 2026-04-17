@@ -22,8 +22,22 @@ Throughout the classroom, students started listing countries. Sky tapped the key
 
 I heard people talking about the Iron Curtain on TV plenty of times. "The president returned from behind the Iron Curtain," they would report. I had always thought it meant a curtain draped in front of some secret room where they did negotiations.
 
-I looked at the map, expecting to see country borders, but it was a pure geographical map with only green mountains and blue rivers.
+I looked at the map, expecting to see country borders, but it was a pure geographical map with only green plains and blue rivers.
 
-"I think I can," Sugarcane raised her hand. She walked in front of the board and picked up a piece of chalk.
+"I think I can," Sugarcane raised her hand. She walked in front of the board and picked up a piece of chalk. Her shadow blocked out the projection, and she had to awkwardly maneuver around to see where she should draw.
 
-"This is the border between Atlasia and Westavia," she said as she drew a vertical line over the tallest mountain on the map.
+"This is the border between Atlasia and Westavia," she said as she drew a short vertical line in the center of the map. "This part is definitely the separation between Westavia and Fanton, with the desert on the north and the Fantoni Plateau on the south." She drew a line between the pale yellow desert and the light blue plateau, connecting it to the bottom of the vertical line. "And the border between Atlasia and Moreland is somewhere around here." She extended the top of the vertical line to the northeast until it hit the ocean.
+
+"Excellent, Sugarcane! That's not very far off." Sky pulled the screen back down, covering up Sugarcane's chalk lines, and switched to the next slide, featuring the country borders. "We're here, of course," he pointed to Bauhinia at the bottom of the map. "And this border between Fanton and Westavia right here, Westavia and Atlasia right here, and Atlasia and Moreland right here, is what we call the Iron Curtain, separating the south from the north."
+
+I liked the previous map better. Just the continent like it was, while all the separation was only Sugarcane's chalk marks on the board.
+
+"When did the Cold War start?" Sky asked.
+
+"1947?" Cosmo said.
+
+"1947 was when the Atlasian-Westavian war started. The consensus is 1955, when it ended. Though that doesn't change the nature of the war as a proxy war between us and Moreland. That's all you need to know for this class; you'll learn more in history eventually."
+
+They were going so fast I couldn't keep up. What *was* the Atlasian-Westavian war? They didn't include those in children's picture books!
+
+I zoned out and started doodling on my textbook as Sky droned on with a brief summary of what we were going to learn about in the class. Government structures, international relations…

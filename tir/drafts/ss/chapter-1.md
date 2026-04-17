@@ -1,6 +1,5 @@
 ---
 chNum: 1
-draft: true
 ---
 
 It was a Sunday afternoon. I was curled up on the sofa with a book when there came a knock on the door. Dad went to get it.

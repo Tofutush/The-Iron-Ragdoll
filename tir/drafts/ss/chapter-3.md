@@ -1,13 +1,12 @@
 ---
-chNum: 2
-draft: true
+chNum: 3
 ---
 
-The digital alarm I set on her new phone rang at seven o'clock sharp, but I had been awake long before.
+The digital alarm I set on my new phone rang at seven o'clock sharp, but I had been awake long before.
 
 I ate another one of their buns — just about how many did Mom make? — but she insisted on packing another in my bag. "You'll get hungry after taking the exam."
 
-Silly. I had taken plenty of exams in elementary school and she never got *hungry* from sitting at a desk doing multiple choice questions. But I wasn't in the mood to argue with Mom. She put a bun into a plastic bag and stuffed it in my bag, among my new textbooks.
+Silly. I had taken plenty of exams in elementary school and I never got *hungry* from sitting at a desk doing multiple choice questions. But I wasn't in the mood to argue with Mom. She put a bun into a plastic bag and stuffed it in my bag, among my new textbooks.
 
 I started for Sugarcane's, skipping along the way, which soon proved to be a bad idea as I was heaving when I met Sugarcane.
 
@@ -19,7 +18,7 @@ I started for Sugarcane's, skipping along the way, which soon proved to be a bad
 
 Front and center had always been Sugarcane's favorite seat in any classroom. I didn't quite like the teacher's attention it brought me, but I wanted to be next to Sugarcane.
 
-Sky was standing in front of the door when we arrived at the classroom. He was no longer wearing his MSS uniform, but instead a wrinkly checkered shirt, which I have concluded after years of observation was the official uniform for teachers who appear nice and lenient but grade harshly. All the other students were along the wall, setting down their backpacks and taking out their pencil cases.
+Sky was standing in front of the door when we arrived at the classroom. He was no longer wearing his MSS uniform, but instead a wrinkly checkered shirt, which I have concluded after years of observation was the official uniform for teachers who appeared nice and lenient but graded harshly. All the other students were along the wall, setting down their backpacks and taking out their pencil cases.
 
 "Please put your backpacks and electronics outside the classroom!" Sky was holding a metal detector. "You may only bring your pencil cases and student cards."
 
@@ -27,7 +26,7 @@ Sky was standing in front of the door when we arrived at the classroom. He was n
 
 "Let me take a look."
 
-We put their backpacks next to each other and unzipped them to take out our pencil cases. There was a line assembled near the door, waiting to pass through Sky's metal detector. He wasn't even checking too hard; just a nominal wave and you were in.
+We put our backpacks next to each other and unzipped them to take out our pencil cases. There was a line assembled near the door, waiting to pass through Sky's metal detector. He wasn't even checking too hard; just a nominal wave and you were in.
 
 "Find the desk with your number on it," Sky said.
 
@@ -35,9 +34,9 @@ It seemed like the arrangement was in alphabetical order. I sat in the first row
 
 "What I'm going to do next is hand out the answer sheets," Sky said. "Some of you may have seen this before, but for those of you who haven't, exams are different from elementary school now. You have the questions, and then you have an answer sheet that you write your answers onto. For multiple choice questions, you will color in one of the options with a pencil."
 
-I glanced around. Cosmo was a couple seats away from her, with a helmet fitted over her head. A mind-reading blocker. She looked miserable in it, but a tired sort of misery, like she was also used to this. Another student seemed to have a hyperawareness-blocking cloak on too, but being in the first row, my sight was limited.
+I glanced around. Cosmo was a couple seats away from me, with a helmet fitted over her head. A mind-reading blocker. She looked miserable in it, but with a tired sort of misery, like she was also used to this. Another student seemed to have a hyperawareness-blocking cloak on too, but being in the first row, my sight was limited.
 
-"The most important part is to color your student number in, at the top here." Sky held up an empty answer sheet and gestured to the space at the top, a wide grid of digits. "Your student number can be found on your desk, or if you sat in the wrong spot, on your student card. I will be handing these out now."
+"The most important part is to color your student number in, at the top here." Sky held up an empty answer sheet and gestured to the space at the top, a wide grid of digits. "Your student number can be found taped to your desk, or if you sat in the wrong spot, on your student card. I will be handing these out now."
 
 When I received mine, I wrote my name and colored in my number at the appropriate spots, double-checking to make sure I got it right.
 
@@ -45,7 +44,7 @@ When I received mine, I wrote my name and colored in my number at the appropriat
 
 Three hours?! And we're allowed to leave early? What kind of an exam *is* this?
 
-The stack of questions landed on her desk. I took one and passed the rest behind me. It was a really long, continuous strip, four pages wide, so front and back made eight. The text was tiny, suffocatingly crammed onto the page.
+The stack of questions landed on my desk. I took one and passed the rest behind me. It was a really long, continuous strip, four pages wide, so front and back made eight. The text was tiny, suffocatingly crammed onto the page.
 
 I scanned the questions. The first section was math. And then science. Reading comprehension — I had never seen a passage this long!
 
@@ -55,15 +54,15 @@ And on that note, a loud, screeching sound came blasting out of the speakers.
 
 "You may begin."
 
-Equations. What's the value of *x*? The first question was easy enough. Question two. *Uh, what does this little "2" above the* x *mean?* She skipped that one. *What is "log"?* Skipped again. *What is this weird crowbar? Oh my…* The bun in my stomach was acting up.
+Equations. What's the value of *x*? The first question was easy enough. Question two. *Uh, what does this little "2" above the* x *mean?* I skipped that one. *What is "log"?* Skipped again. *What is this weird crowbar? Oh my…* The bun in my stomach was acting up.
 
 I ended up skipping the entire math section and moved onto science.
 
 I knew the answer to the first few questions from random books and TV shows. But soon I also became stuck. I couldn't even understand the questions, let alone answer them.
 
-I glanced around again. The kid beside her was still on page two, and that made me feel a little better. But then I realized I had skipped over the first three pages and the dread returned.
+I glanced around again. The kid beside me was still on page two, and that made me feel a little better. But then I realized I had skipped over the first three pages and the dread returned.
 
-*Name the components of an atom.* Paired with a funny picture with blank labels. More skips. On my answer sheet, there was a huge blank box — is that space for an essay? I checked out the corresponding question. It was programming. A chunk of example code was given, but I could understand none of it.
+*Name the components of an atom.* Paired with a funny picture with blank labels. More skips. On my answer sheet, there was a huge blank box — *is that space for an essay?* I checked out the corresponding question. It was programming. A chunk of example code was given, but I could understand none of it.
 
 After that came two interesting ones. I had to crack an encoded message. The first one was a set of numbers. Maybe I should replace them with letters? If A is 1 and B is 2… Slowly, a coherent message emerged. Wow, this is great!
 
@@ -193,7 +192,7 @@ I opened my mouth to talk to Sugarcane, but Cosmo suddenly popped up. She pointe
 
 "The video is thirty minutes long," Sunny said with playful concern.
 
-"Heavens forbid a cat keep herself clean," Cosmo shot back.
+"Heavens forbid a cat keeps herself clean," Cosmo shot back.
 
 "I'm more concerned about you just recording her for half an hour straight," Sunny said.
 
@@ -215,19 +214,21 @@ That was reassuring, I guess. I just have to be mindful not to lie in front of h
 
 "Don't be sorry, you're born with this! And I don't mind the feeling," Sunny said.
 
-"Oh, thank you. It's just that my grandma gets mad at me if my chopsticks makes noises against the plate."
+"Oh, thank you. I was apologizing because my grandma gets mad at me if my chopsticks makes noises against the plate."
 
 Sugarcane cleared her throat. "Two truths and a lie. So I have forty-six plushies on my bed; the food here is way worse than my family's; and I like you two a lot."
 
-It was the third. Sugarcane had always loved her family's cooking. I do too, whenever she invited me; whenever Dad was in the kitchen, he kept hurting himself in ways I couldn't have imagined, and all Mom wanted to make was steamed buns. Sugarcane's parents made delicious food, and her grandparents' cooking was even better. As for the plushies, there were exactly forty-six, lined up neatly along where her bed touched the wall. Carrots, Slushy, Taffy, Spotty, Joy, Truffle…
+It was the third. Sugarcane had always loved her family's cooking. I do too; whenever Dad was in the kitchen, he kept hurting himself in ways I couldn't have imagined, and all Mom wanted to make was steamed buns. Sugarcane's parents made delicious food, and her grandparents' cooking was even better. As for the plushies, there were exactly forty-six, lined up neatly along where her bed touched the wall. Carrots, Slushy, Taffy, Spotty, Joy, Truffle…
 
-"*You* know, of course," Sugarcane said, cutting off my thoughts. "And I bet Harmony does too. Sunny, which one do you think it is?" I took a couple seconds to realize she had been addressing Cosmo at the start.
+"*You* know, of course," Sugarcane said, cutting off my thoughts. "And I bet Harmony does too. Sunny, which one do you think it is?"
+
+I took a couple seconds to realize she had been addressing Cosmo at the start.
 
 Sunny scratched his head. "Uh… the plushie one?"
 
 Cosmo smiled. "All three are true."
 
-Sugarcane… liked them a lot?
+Wait, what? Sugarcane… liked them a lot?
 
 What was I thinking. Sugarcane was always friendly and sweet. Of course she would say that. She liked everyone. She just liked me more.
 
@@ -235,8 +236,4 @@ When we were all finished with our food, we put our plates away and headed back 
 
 The desks were still placed in exam order, but some students were arranging them back into order. We joined them, and after we finished, sat down where we sat on orientation day.
 
-Students slowly filled the room, and Sky walked in just as the preparation bell rang.
-
-"Hear this music?" He asked as the bell ended. "That's the preparation bell, but in my class it's the bell for class. So," he addressed the students slipping in right now, "in the future, coming in class later than this bell, and you will be considered late for class."
-
-Sugarcane leaned in and whispered, "what an ass." I snickered. Sugarcane should be the last person to worry about this; she was always in class ahead of time, her textbook and notebook ready like she was now.
+Students slowly filled the room, and Sky walked in just as the preparation bell rang. And our first class in Spy School is about to begin.
