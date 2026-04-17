@@ -19,7 +19,7 @@ I started for Sugarcane's, skipping along the way, which soon proved to be a bad
 
 Front and center had always been Sugarcane's favorite seat in any classroom. I didn't quite like the teacher's attention it brought me, but I wanted to be next to Sugarcane.
 
-Sky was standing in front of the door when we arrived at the classroom. All the other students were along the wall, setting down their backpacks and taking out their pencil cases.
+Sky was standing in front of the door when we arrived at the classroom. He was no longer wearing his MSS uniform, but instead a wrinkly checkered shirt, which I have concluded after years of observation was the official uniform for teachers who appear nice and lenient but grade harshly. All the other students were along the wall, setting down their backpacks and taking out their pencil cases.
 
 "Please put your backpacks and electronics outside the classroom!" Sky was holding a metal detector. "You may only bring your pencil cases and student cards."
 
@@ -31,7 +31,7 @@ We put their backpacks next to each other and unzipped them to take out our penc
 
 "Find the desk with your number on it," Sky said.
 
-It seemed like the arrangement was in alphabetical order. I sat in the first row, right in front of the teacher's desk. Soon everyone was seated, and Sky came in with four thick brown folders, all of which were marked as "confidential."
+It seemed like the arrangement was in alphabetical order. I sat in the first row, right in front of the teacher's desk, where the "#1 teacher" cup sat steaming. Soon everyone was seated, and Sky came in with four thick brown folders, all of which were marked as "confidential."
 
 "What I'm going to do next is hand out the answer sheets," Sky said. "Some of you may have seen this before, but for those of you who haven't, exams are different from elementary school now. You have the questions, and then you have an answer sheet that you write your answers onto. For multiple choice questions, you will color in one of the options with a pencil."
 
@@ -73,7 +73,7 @@ I skipped to reading comprehension, but by the time I reached the end of the pas
 
 The second passage was in ancient language. We had studied ancient language in sixth grade, but those passages were at most two to three lines long. This one had three entire paragraphs, and I couldn't understand a thing.
 
-I looked at Sky. He was holding his own copy of the questions sheet, mouth curved into a relaxed smile, occasionally jotting down some calculations.
+I looked at Sky. He was holding his own copy of the questions sheet, mouth curved into a relaxed smile, occasionally jotting down some calculations and sipping from his cup.
 
 The exam continued in silence, save for the shuffling of paper and creaking of the chairs. The clock ticked.
 
@@ -177,4 +177,66 @@ A voice came from behind them. "Why was the exam like *that*?" followed by some 
 
 "Fine," I wasn't about to disagree with Sugarcane, but I did sit diagonally from Sunny.
 
-I opened my mouth to talk to Sugarcane, but Cosmo popped up behind us
+I opened my mouth to talk to Sugarcane, but Cosmo suddenly popped up. She pointed to the seat right in front of me, next to Sunny. "Mind if I sit here?"
+
+"Of course not," Sunny said.
+
+"Nope!" Sugarcane said at the same time. I nodded in agreement, though I didn't really like the way Sugarcane smiled at her. It was distinct from her "I'm better than you" smile she showed to Rose all the time, her "I *have* to smile on this occasion" smile in class photos, and her "I'm so mature and obedient and could do no wrong" smile that she put on in front of adults. It nearly resembled that friendly smile she had shown me and me only.
+
+"I'm so tired," Cosmo said. "I don't think I wanna do another exam ever again, if they're all like that."
+
+"Yeah, it's like an exam about an exam," Sunny repeated. "I don't even see the point." he concluded his point with a loud sneeze.
+
+"Bless you," Cosmo said. "You wanna see my cat? Her name is Fluffy." She pulled out her phone and showed us a picture of a gray cat with long fur.
+
+"That's so cute!" Sugarcane's eyes lit up. Cosmo swiped to a video of Fluffy grooming herself.
+
+"The video is thirty minutes long," Sunny said with playful concern.
+
+"Heavens forbid a cat keep herself clean," Cosmo shot back.
+
+"I'm more concerned about you just recording her for half an hour straight," Sunny said.
+
+I had always wanted my own cat, but Mom was allergic and Dad got freaked out by anything that moved. I loved going to the pet store at the mall with Sugarcane and just staring at the kittens in their boxes.
+
+"Harmony, right?" Cosmo's voice made my head snap up. "You don't seem to talk a lot. How are you doing?"
+
+I was at a loss of what to say. "Um. Pretty fine."
+
+As soon as I opened my mouth, I felt the tingling sensation in my head again. I started blasting the most popular and catchy song I could think of, while also trying hard to come up with something else to say. "Uh, how does your mind reading work?"
+
+"I'm glad you asked!" That was surprising. I was expecting her to be more upset about it. "The thing is, I technically *do* have mind-reading, but I can only tell whether people are lying or not," she explained in a practiced way that suggested she said the same thing over and over to different people all the time. "So I can't read your thoughts the same way usual mind-readers could. Another interesting thing is that it seems to work in the background, and I don't have to be intentionally focused to tell."
+
+That was reassuring, I guess. I just have to be mindful not to lie in front of her.
+
+"That's really cool still!" Sunny said. "I've met a few mind-readers, but none of them made me feel that weird feeling."
+
+"Oh, that." Cosmo shook her head. "I couldn't really sign up for any training because my level is too low. But I had literally never been wrong *once*. They still only gave me a super low level because I fail most of the tests. It's so annoying. So I hadn't learned *anything* about mind-reading, or how to prevent you from feeling that thing." She banged her chopsticks against her plate in frustration. "Sorry."
+
+"Don't be sorry, you're born with this! And I don't mind the feeling," Sunny said.
+
+"Oh, thank you. It's just that my grandma gets mad at me if my chopsticks makes noises against the plate."
+
+Sugarcane cleared her throat. "Two truths and a lie. So I have forty-six plushies on my bed; the food here is way worse than my family's; and I like you two a lot."
+
+It was the third. Sugarcane had always loved her family's cooking. I do too, whenever she invited me; whenever Dad was in the kitchen, he kept hurting himself in ways I couldn't have imagined, and all Mom wanted to make was steamed buns. Sugarcane's parents made delicious food, and her grandparents' cooking was even better. As for the plushies, there were exactly forty-six, lined up neatly along where her bed touched the wall. Carrots, Slushy, Taffy, Spotty, Joy, Truffle…
+
+"*You* know, of course," Sugarcane said, cutting off my thoughts. "And I bet Harmony does too. Sunny, which one do you think it is?" I took a couple seconds to realize she had been addressing Cosmo at the start.
+
+Sunny scratched his head. "Uh… the plushie one?"
+
+Cosmo smiled. "All three are true."
+
+Sugarcane… liked them a lot?
+
+What was I thinking. Sugarcane was always friendly and sweet. Of course she would say that. She liked everyone. She just liked me more.
+
+When we were all finished with our food, we put our plates away and headed back to class. Sugarcane consulted the schedule and concluded that the first class in the afternoon was tradecraft.
+
+The desks were still placed in exam order, but some students were arranging them back into order. We joined them, and after we finished, sat down where we sat on orientation day.
+
+Students slowly filled the room, and Sky walked in just as the preparation bell rang.
+
+"Hear this music?" He asked as the bell ended. "That's the preparation bell, but in my class it's the bell for class. So," he addressed the students slipping in right now, "in the future, coming in class later than this bell, and you will be considered late for class."
+
+Sugarcane leaned in and whispered, "what an ass." I snickered. Sugarcane should be the last person to worry about this; she was always in class ahead of time, her textbook and notebook ready like she was now.
