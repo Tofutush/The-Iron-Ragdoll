@@ -10,5 +10,6 @@
   "newLinkFormat": "absolute",
   "readableLineLength": true,
   "showUnsupportedFiles": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newFileLocation": "current"
 }
