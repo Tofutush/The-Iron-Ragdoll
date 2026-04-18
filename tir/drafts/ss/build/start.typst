@@ -1,0 +1,46 @@
+#set page(
+  width: 5.25in,
+  height: 7.625in,
+  margin: 0.8in,
+  numbering: none
+)
+#set text(
+  font: "Crimson Pro",
+  size: 12pt
+)
+#set par(
+  justify: true,
+  first-line-indent: 1.5em
+)
+
+#let horizontalrule = align(center)[*\*\*\**]
+
+#show heading: set align(center)
+#show heading: set block(below: 1.5em)
+
+#page(margin: 0pt, image("ss cover.png", width: 100%, height: 100%))
+#pagebreak()
+
+#v(1fr)
+#align(center)[
+  = The Spy School in Flower City
+  #v(1em)
+  Tofutush
+]
+#v(1fr)
+#pagebreak()
+
+= Contents
+#outline(title: none)
+
+#set page(numbering: "1")
+#counter(page).update(1)
+
+#show heading: it => {
+  pagebreak()
+  v(40%)
+  it
+  v(1cm)
+}
+
+

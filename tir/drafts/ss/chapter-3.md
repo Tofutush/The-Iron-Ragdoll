@@ -236,4 +236,4 @@ When we were all finished with our food, we put our plates away and headed back 
 
 The desks were still placed in exam order, but some students were arranging them back into order. We joined them, and after we finished, sat down where we sat on orientation day.
 
-Students slowly filled the room, and Sky walked in just as the preparation bell rang. And our first class in Spy School is about to begin.
+Students slowly filled the room. Sky walked in just as the class bell rang, and our first class in Spy School is about to begin.

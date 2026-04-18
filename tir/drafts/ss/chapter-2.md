@@ -80,7 +80,7 @@ A new student arrived at the door and poked his head in. "Is this class five?" H
 
 We spent the rest of the time chatting. Well, them at least. I didn't speak a lot; I just watched. They caught Sunny up to Cosmo's eye situation. I wanted Sugarcane to stop talking to these strangers, but I didn't know how to do that without being too obvious. So I just watched as Cosmo and Sunny grabbed Sugarcane's full attention.
 
-The classroom slowly filled up.
+The classroom slowly filled up. I glanced around, estimating about thirty or so people in our class.
 
 At eight o'clock sharp, a teacher walked inside and the chatter died down. It was none other than Sky Elmwood Dazzle himself, in his MSS uniform, holding a cup of coffee that said "#1 teacher."
 
