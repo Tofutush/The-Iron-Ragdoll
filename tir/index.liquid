@@ -6,11 +6,11 @@ widepage: true
 <link rel="stylesheet" href="/css/home.css"/>
 {% assign dateMonth = 0 | getMMDD %}
 {% if dateMonth == '12-13' %}
-  <p style="text-align: center; font-style: italic; font-weight: bold;">12-13 国家公祭日</p>
-  <p style="text-align: center; font-style: italic; font-weight: bold;">勿忘国耻，警钟长鸣</p>
+  <p style="text-align: center;"><em><strong>12-13 国家公祭日</strong></em></p>
+  <p style="text-align: center;"><em><strong>勿忘国耻，警钟长鸣</strong></em></p>
 {% elsif dateMonth == '09-18' %}
-  <p style="text-align: center; font-style: italic; font-weight: bold;">9·18 事变纪念日</p>
-  <p style="text-align: center; font-style: italic; font-weight: bold;">缅怀先辈，铭记历史</p>
+  <p style="text-align: center;"><em><strong>9·18 事变纪念日</strong></em></p>
+  <p style="text-align: center;"><em><strong>缅怀先辈，铭记历史</strong></em></p>
 {% endif %}
 {% assign bdayStars = dateMonth | getBDayStars %}
 {% assign holidays = dateMonth | getHolidays %}
@@ -28,8 +28,8 @@ widepage: true
         {% elsif bdayStars.size == 1 %}
           Today is <a href="/characters/{{ bdayStars[0].name | lowerCase }}/">{{ bdayStars[0].name }}</a>'s birthday!
         {% else %}
-          Today is {% for ch in bdayStars %}{% unless forloop.first %}, {% endunless %}{% if forloop.last %}and {% endif %}<a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a>{% endfor %}'s birthday!</em></p>
-        {% endif %}
+          Today is {% for ch in bdayStars %}{% unless forloop.first %}, {% endunless %}{% if forloop.last %}and {% endif %}<a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a>{% endfor %}'s birthday!
+        {% endif %}</em></p>
     {% endif %}
     {% if holidays.size > 0 %}
       <p style="text-align: right"><em>Today is {% for h in holidays %}{% unless forloop.first %}, {% endunless %}<a href="{{ h.url }}">{{ h.alt }}</a>{% endfor %}!</em></p>
