@@ -58,6 +58,20 @@
         "type": "DIRECTORIES",
         "pattern": "drafts/ss/build/font",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "drafts/ss/build/end.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "drafts/ss/build/ss cover.png",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

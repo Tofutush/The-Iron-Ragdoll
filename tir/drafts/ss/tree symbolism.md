@@ -1,0 +1,10 @@
+- banyan: longevity, elderliness, experience
+- flame tree: love, passion
+- bauhinia (red): loyalty, patriotism, resilience
+- white bauhinia: treason, spite, avoidance
+- cotton tree:
+- azalea: (not a tree technically)
+- mango:
+- mangrove:
+- trumpet tree:
+- willow:

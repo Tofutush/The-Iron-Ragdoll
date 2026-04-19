@@ -1,4 +1,4 @@
-We headed out to the soccer field. The sun was blazing overhead, so I looked downwards to avoid the light. A single person was standing in the only shade provided by a bauhinia tree near the wall. She beckoned us over to the empty spot in front of her, next to the racetrack, but still made of the same synthetic red floor.
+We headed out to the soccer field. The sun was blazing overhead, so I looked downwards to avoid the light. A single person was standing in the only shade provided by a banyan tree growing in an L-shape in the corner. She beckoned us over to the empty spot in front of her, next to the racetrack, but still made of the same synthetic red floor.
 
 "It's so hot," I said to Sugarcane.
 
@@ -36,7 +36,9 @@ The teacher shook her head. "Who's your head teacher?"
 
 "Mr. Sky," was the reply.
 
-"That stupid fucking moronic excuse of a human," the P.E. teacher muttered under her breath. Some student giggled, evidently offput by an adult swearing. They should meet my dad when he thought I wasn't listening. "You," the teacher said, handing the clipboard and pen to the student closest to her, a tall boy with yellow horns not unlike her own. "You're taking attendance for this class from now on."
+"That stupid fucking moronic excuse of a human," the P.E. teacher muttered under her breath. Some student giggled, evidently offput by an adult swearing. They should meet my dad when he thought I wasn't listening.
+
+"You," the teacher said, handing the clipboard and pen to the student closest to her, a tall boy with yellow horns not unlike her own. "You're taking attendance for this class from now on."
 
 The boy looked like he regret standing this close to the teacher.
 
@@ -70,4 +72,12 @@ The exam was different; I was used to being separated from Sugarcane during exam
 
 A boy came next to me. Dimple and Juice, my alphabet neighbors. I'd be seeing them a lot later.
 
-Thunder continued calling on people. It was taking a while.
+Thunder continued calling on people. It was taking a while. Finally, he called on "Sugarcane." She stood in the third row, immediately before "Sunny." I looked behind my shoulder as Sunny winked at Sugarcane and she smiled back.
+
+I should be happy that Sugarcane was happy. But why do I feel jealous, then?
+
+It was the smile, I concluded. I had never seen Sugarcane smile at other people like that, except at me. And now, she was using it on Cosmo *and* Sunny.
+
+"And I'm the last one," Thunder said, clicking the pen shut and handing it back to the teacher along with the clipboard.
+
+"That's convenient," she said as Thunder joined in behind Sunny.
