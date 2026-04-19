@@ -34,7 +34,7 @@ They sat down around the tea table. I put her book face-down on the sofa and sco
 
 For the second time, he looked into my eyes. I averted my gaze, feeling my heart beat quicken. Was he serious?
 
-I felt compelled to say something lest Sky thought she was an idiot. "Uh, what's Ministry Affiliate?" She asked.
+I felt compelled to say something lest Sky thought I was an idiot. "Uh, what's Ministry Affiliate?" I asked.
 
 "It's a special school ran by the Ministry of State Security," Sky said. "Where you can start early in your training to become an officer there. We will teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me."
 

@@ -24,15 +24,15 @@ I felt tears welling up in my eyes, but just when they were about to fall, a sha
 
 I sat in a folding chair in the teacher's office, right next to Sugarcane, determined to swallow back my tears in front of Sky. He was shuffling through a pile of folders in a box until he found one bearing our names.
 
-"Harmony and Sugarcane," he finally said. "You will not be taking part in the final exam this semester. Instead, we have decided to give you a mission."
+"Harmony and Sugarcane," he finally said. "Here it is. Your mission."
 
 "A mission?" Sugarcane echoed.
 
-"Yes," Sky opened the folder and pulled out a picture of a girl with a short, tidy haircut and a single blue horn.
+"Yes. We assigned everyone missions that you'll need to complete for the rest of the semester and over winter break." Sky opened the folder and pulled out a picture of a girl with a short, tidy haircut and a single blue horn.
 
 "This is Jelly Checkers. She is the daughter of Checkers, the cultural attaché of the Westavian Embassy in Bauhinia.
 
-"Checkers is a person of interest of ours. His background was a bit too clean for someone posted to Bauhinia, and \[other reason]. We put off our suspicions until now, a year after he came here. If he were an intelligence officer of the Westavian Intelligence Service, he would've started working by now.
+"Checkers is a person of interest of ours. His background is a bit too clean for someone posted to Bauhinia, and he has been way too diligent and hardworking for someone whose job is essentially just an embassy mascot, as if he's trying to overcompensate. We put off our suspicions until now, a year after he came here. If he were an intelligence officer of the Westavian Intelligence Service, he would've started working his real job by now.
 
 "His daughter, Jelly, is the same age as you, having just started middle school. Her mom stayed behind in Westavia, and her dad is busy working every day. She doesn't have any friends here, and she's really lonely.
 

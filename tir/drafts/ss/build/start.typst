@@ -1,6 +1,5 @@
 #set page(
-  width: 5.25in,
-  height: 7.625in,
+  paper: "a5",
   margin: 0.8in,
   numbering: none
 )
@@ -10,10 +9,11 @@
 )
 #set par(
   justify: true,
-  first-line-indent: 1.5em
+  first-line-indent: 1.5em,
+  spacing: 0.7em
 )
 
-#let horizontalrule = align(center)[*\*\*\**]
+#let horizontalrule = block(v(1em))
 
 #show heading: set align(center)
 #show heading: set block(below: 1.5em)
