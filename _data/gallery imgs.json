@@ -6036,5 +6036,13 @@
       "willow"
     ],
     "comment": "Willow drawing with her 3D hologram drawing device, developed by of course Starcorp!"
+  },
+  {
+    "name": "entity frosting tree",
+    "date": "2026-04-19",
+    "ch": [
+      "entity",
+      "frosting"
+    ]
   }
 ]

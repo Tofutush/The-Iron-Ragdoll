@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-19
+
+- Added `entity frosting tree.png`;
+
 ## 2026-04-16
 
 - Birthdays and holidays on the front page are back;
