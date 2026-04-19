@@ -32,11 +32,9 @@ We put our backpacks next to each other and unzipped them to take out our pencil
 
 It seemed like the arrangement was in alphabetical order. I sat in the first row, right in front of the teacher's desk, where the "#1 teacher" cup sat steaming. Soon everyone was seated, and Sky came in with four thick brown folders, all of which were marked as "confidential."
 
-"What I'm going to do next is hand out the answer sheets," Sky said. "Some of you may have seen this before, but for those of you who haven't, exams are different from elementary school now. You have the questions, and then you have an answer sheet that you write your answers onto. For multiple choice questions, you will color in one of the options with a pencil."
-
 I glanced around. Cosmo was a couple seats away from me, with a helmet fitted over her head. A mind-reading blocker. She looked miserable in it, but with a tired sort of misery, like she was also used to this. Another student seemed to have a hyperawareness-blocking cloak on too, but being in the first row, my sight was limited.
 
-"The most important part is to color your student number in, at the top here." Sky held up an empty answer sheet and gestured to the space at the top, a wide grid of digits. "Your student number can be found taped to your desk, or if you sat in the wrong spot, on your student card. I will be handing these out now."
+"I'm going to hand out the answer sheets," Sky said, and explained how they worked. "The most important part is to color your student number in, at the top here." He held up an empty answer sheet and gestured to the space at the top.
 
 When I received mine, I wrote my name and colored in my number at the appropriate spots, double-checking to make sure I got it right.
 
