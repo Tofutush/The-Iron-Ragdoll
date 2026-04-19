@@ -148,7 +148,7 @@ The school was a twenty-minute walk away from my home — fifteen minutes from S
 
 "That sounds great!" Sugarcane said. Dad was falling behind them.
 
-We reached the address. It was a large campus, surrounded by barbed wires and gray walls. Tall, foreboding buildings loomed down at us, with dark windows and paint peeling off the walls. I must've passed this building many times in my thirteen years of living in Flower City, but it had never occurred to me that this place was a school. A juvie, more like. Oh no, was Rose correct?
+We reached the address. It was a large campus, surrounded by barbed wires mounted on gray walls. Tall, foreboding buildings loomed down at us, with barred windows and paint peeling off. I must've passed this building many times in my thirteen years of living in Flower City, but it had never occurred to me that this place was a school. A juvie, more like. Oh no, was Rose correct?
 
 A security guard stood at the intersection, guarding the road leading to the gate. "State your business," he ordered.
 
@@ -174,7 +174,7 @@ Again, Sugarcane already had hers ready. I had decided to put hers back in the f
 
 After checking our IDs, the gatekeeper pressed some controls. Next to the big sliding gate, a small human gate swung open. "Right there," he said. "You'll see it."
 
-We entered to find a clearing of dusty concrete tiles between us and the main buildings. Against the side of the building was a single canopy tent labeled *New Student Registration*. In the shade of the tent, behind a laptop on the table, sat none other than Sky himself.
+We entered to find a clearing of dusty concrete tiles between us and the main buildings. A single bauhinia tree, evident by its signature heart-shaped leaves, sat in a tree pit near the corner. Under its shade was a single canopy tent labeled *New Student Registration*. In the shade of the tent, behind a laptop on the table, sat none other than Sky himself.
 
 "Sky!" I yelled out in excitement and ran towards him. Sugarcane followed close behind.
 
