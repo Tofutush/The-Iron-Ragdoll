@@ -162,7 +162,7 @@ The cafeteria wasn't hard to find, as it was the only place on campus where all 
 
 A voice came from behind them. "Why was the exam like *that*?" followed by some snuffling. It was Sunny. "That was so weird. An exam about an exam!"
 
-"Are you okay?" I tiled her head at him. "You sound sick."
+"Are you okay?" I tilted my head at him. "You sound sick."
 
 "I'm fine. Just turned the AC on too low yesterday," he insisted, but immediately sneezed into his hands. "Eh, maybe not that fine. I was going to ask to sit with you two, but…"
 
@@ -234,4 +234,4 @@ When we were all finished with our food, we put our plates away and headed back 
 
 The desks were still placed in exam order, but some students were arranging them back into order. We joined them, and after we finished, sat down where we sat on orientation day.
 
-Students slowly filled the room. Sky walked in just as the class bell rang, and our first class in Spy School is about to begin.
+Students slowly filled the room. Sky walked in just as the class bell rang, and our first class in Spy School was about to begin.

@@ -4,11 +4,15 @@ Dark blue had taken over the red sunset in the sky above and Cosmo was impatient
 
 "Sure, uncle," Sugarcane said, always eager to please an adult.
 
+"Just Harm, please."
+
+Sugarcane and Cosmo looked at me as I followed Dad around the corner.
+
 "What thing?" I asked.
 
 "The *thing*," was his reply.
 
-He led us along the school's wall until we reached a tree, standing taller than the wall and reaching over the barbed wire on top, half of it inside school perimeters.
+He led me along the school's wall until we reached a tree, standing taller than the wall and reaching over the barbed wire on top, half of it inside school perimeters.
 
 "It grew back," he said.
 
@@ -20,9 +24,9 @@ He led us along the school's wall until we reached a tree, standing taller than 
 
 "It was fate that brought us together again, this many years later. Maybe it's because this flame tree grew back and blessed us."
 
-Dad walked near the trunk and put both hands on it, one leg pulled up against the bark, as if he was about to climb it. the trunk was rather smooth and hard to scale due to a lack of protruding branches near the bottom.
+Dad didn't like talking in public much, due to an intense irrational fear of being eavesdropped on. I had never heard him talk for this long before, outside our home.
 
-He hesitated for a moment, made several bouncing motions, but eventually put his foot back down. "I was more agile back then. Also I had a rope to help."
+Dad walked near the trunk and put both hands on it, one leg pulled up against the bark, as if he was about to climb it. the trunk was rather smooth and hard to scale due to a lack of protruding branches near the bottom. He hesitated for a moment, made several bouncing motions, but eventually put his foot back down. "I was more agile back then. Also I had a rope to help."
 
 Dots were connecting in my head, but in such a scattered way as if every dot was trying to connect with every other at the same time.
 
@@ -36,4 +40,20 @@ I just needed to hear him say it out loud. "Mom went to… Ministry Affiliate? R
 
 He merely replied, "They used to only go home during the holidays. Otherwise they live in the dorms, even over the weekends. One of the few things they had actually improved."
 
-He didn't bother taking the detour to Sugarcane's and simply dropped us both off at my home. He didn't say another word during the ride, except when asking Cosmo to input her address into the map app.
+He ran his hands against the bark again. "But it all worked out, didn't it? We each had a stable job enough to feed the family, and we had *you*."
+
+He walked away from the tree and towards me, staring at a patch of ground next to my feet. "Your mom just doesn't want you to repeat her mistakes. The school *will* change you, Harm."
+
+I suddenly felt a burst of anger. Why didn't they just *tell* me? Why did they have to do these convoluted tricks to make me quit? What was *wrong* with them?? "Isn't changing someone the *whole point* of schools?" I yelled at Dad. "If you want me to quit that badly then why not just *make* me? It's not like I would get a say in the matter if you initiate transfer procedures!"
+
+Dad looked like he really didn't know how to respond to that. Now that the initial anger wore out, I just felt confused. I knew that if my parents decided to move me to another school, then I wouldn't really get a say in the matter. Why didn't they, then? Maybe Ministry Affiliate was again different in this regards?
+
+But he admitted. Everything my parents said to me, that I wasn't smart, that Sugarcane was better than me — there wasn't an ounce of truth to that. They only said that to make me to quit. And I bet *they* planted the knife to get me in trouble.
+
+That was it. All the worry, all the doubt, all faded away and I saw clarity. I *belonged* here at Spy School.
+
+"I won't repeat Mom's mistakes," I said. "I will study hard, and I *will* be at the top of my class."
+
+Dad seemed to mutter something like "that *was* her mistake," but I might've been just hearing things.
+
+He didn't bother taking the detour to Sugarcane's and simply dropped us both off at my home. He didn't say a word during the ride, except when asking Cosmo to input her address into the map app.
