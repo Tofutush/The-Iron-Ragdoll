@@ -6,7 +6,7 @@ Sugarcane raised her hand. "A cold war is an ideological rivalry between two maj
 
 "Nuclear war," many students muttered at once.
 
-"Yes. A nuclear war, which would be catastrophic," Sky said. "What, then, is the other nuclear power?"
+"Yes. A nuclear war, which would be catastrophic," Sky said. "What country, then, is the other nuclear power?"
 
 "The other?" I whispered to Sugarcane. "What's the first one?"
 
@@ -18,7 +18,7 @@ Across the room, Thunder raised his hand. "Moreland."
 
 "Yes," Sky said. "They developed the bomb fairly quickly using information stolen from Bauhinia. Now, I hope you all know which countries were on Bauhinia's side, and which are on Moreland's side."
 
-Throughout the classroom, students started listing countries. Sky tapped the keyboard and moved on to the next slide, featuring a map of the continent. He stowed the projector screen back up so the image was projected right onto the blackboard "Does anyone want to draw a line representing the Iron Curtain?"
+Throughout the classroom, students started listing countries. Sky tapped the keyboard and moved on to the next slide, featuring a map of the continent. He stowed the projector screen back up so the image was projected right onto the blackboard. "Does anyone want to draw a line representing the Iron Curtain?"
 
 I heard people talking about the Iron Curtain on TV plenty of times. "The president returned from behind the Iron Curtain," they would report. I had always thought it meant a curtain draped in front of some secret room where they did negotiations.
 
@@ -40,4 +40,14 @@ I liked the previous map better. Just the continent like it was, while all the s
 
 They were going so fast I couldn't keep up. What *was* the Atlasian-Westavian war? They didn't include those in children's picture books!
 
-I zoned out and started doodling on my textbook as Sky droned on with a brief summary of what we were going to learn about in the class. Government structures, international relations…
+"What about the Fantoni war?" Sunny raised his hand. "Is that an example of a proxy war, even though Bauhinia directly participated? And isn't Fanton on our side?"
+
+I snapped to attention. The Fantoni war was something Mom and Dad talked about often, how I was born right when it started, how bad those days were, trying to raise a newborn with all the stress. But whenever I asked, they refused to elaborate.
+
+Sky lifted an eyebrow. "Those are good questions, but that's not the focus of today's class."
+
+"Then *is* it going to be covered in this class?" Sunny pressed on. "Because I think it's too recent to be covered in history class."
+
+"It will be, but not today."
+
+Sky moved on to a brief summary of what we were going to learn about in the class. Government structures, international relations… I zoned out and started doodling on my textbook.
