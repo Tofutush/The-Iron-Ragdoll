@@ -11,5 +11,6 @@
   "readableLineLength": true,
   "showUnsupportedFiles": false,
   "showLineNumber": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "focusNewTab": false
 }

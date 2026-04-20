@@ -10,7 +10,7 @@ A man in a jet-black uniform stood in the doorway, sporting two blue horns and a
 
 "Why, Mr. Entity, if there's anything you did, that was raising a wonderful daughter! Is little Harmony home?"
 
-His eyes locked with mine for a split second. I pretended to not notice, sinking back into my book, though my attention was still focused on him. Black uniform, purple boots, and the shiny silver badge on the hat — the man was from the Ministry of State Security. What did he want with me, a mere sixth-grader?
+His eyes locked with mine for a split second. I pretended to not notice, sinking back into my book, though my attention was still focused on him. Black uniform, purple boots, and the shiny silver badge on the hat — the man was from the Ministry of State Security. What did he want with me?
 
 Dad turned around to face me, looking relieved that the officer wasn't coming for him. "Harm? It's for you."
 
