@@ -35,10 +35,6 @@
 				animation: large 1s infinite;
 			}
 		}
-
-		& #new-here {
-			clear: both;
-		}
 	}
 
 	& #right-flex {
@@ -53,6 +49,23 @@
 		& img {
 			max-height: 11em;
 			width: auto;
+		}
+	}
+}
+
+#new-news {
+	display: flex;
+	gap: 1em;
+
+	&>div {
+		flex: 1;
+
+		& .callout-content {
+			padding: 1em 1.5em;
+
+			& p {
+				margin: 0;
+			}
 		}
 	}
 }
@@ -90,9 +103,21 @@
 	}
 }
 
+@media only screen and (max-width: 900px) {
+	#new-news {
+		flex-direction: column;
+		gap: 0;
+	}
+}
+
 @media only screen and (max-width: 720px) {
 	#flex {
 		flex-direction: column;
+	}
+
+	#new-news {
+		flex-direction: row;
+		gap: 1em;
 	}
 }
 
@@ -112,6 +137,11 @@
 				width: 50%;
 			}
 		}
+	}
+
+	#new-news {
+		flex-direction: column;
+		gap: 0;
 	}
 }
 

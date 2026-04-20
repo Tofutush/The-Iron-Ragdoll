@@ -18,7 +18,7 @@ He then pulled up a slideshow and blabbered a bit about the history of the MSS, 
 
 Across the classroom, students started groaning.
 
-[pe class]
+# pe class
 
 We headed out to the soccer field. The sun was blazing overhead, so I looked downwards to avoid the light. A single person was standing in the only shade provided by a banyan tree growing in an L-shape in the corner. She beckoned us over to the empty spot in front of her, next to the racetrack, but still made of the same synthetic red floor.
 
