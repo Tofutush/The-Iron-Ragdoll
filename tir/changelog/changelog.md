@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-04-20
+
+- Added a "What's new" section, though there's nothing there yet;
+
 ## 2026-04-19
 
 - Added `entity frosting tree.png`;
