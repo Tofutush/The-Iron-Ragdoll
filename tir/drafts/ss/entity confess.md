@@ -6,7 +6,7 @@ Dark blue had taken over the red sunset in the sky above and Cosmo was impatient
 
 "Just Harm, please."
 
-Sugarcane and Cosmo looked at me as I followed Dad around the corner.
+Sugarcane and Cosmo looked at each other as I followed Dad around the corner.
 
 "What thing?" I asked.
 
@@ -52,7 +52,7 @@ But he admitted. Everything my parents said to me, that I wasn't smart, that Sug
 
 That was it. All the worry, all the doubt, all faded away and I saw clarity. I *belonged* here at Spy School.
 
-"I won't repeat Mom's mistakes," I said. "I will study hard, and I *will* be at the top of my class."
+"I won't repeat Mom's mistakes," I said. "I will study hard, and I *will* be at the top of my class. And stop calling me 'Harm,' it's fucking stupid."
 
 Dad seemed to mutter something like "that *was* her mistake," but I might've been just hearing things.
 
