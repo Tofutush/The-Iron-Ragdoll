@@ -64,7 +64,7 @@ I stashed my textbook into my desk drawer and followed them out onto the soccer 
 
 "No shit," she said. "The autumn tiger makes everything hell."
 
-We merged ourselves into the blob that was forming in front of the teacher. She was short, about the same height as I have. And only then did I realize how… odd, she looked. She was a bicorn, but one of her horns were broken, and she seemed to hang her head a bit lopsidedly as a result of unbalanced weight. She had an eyepatch over one eye, and she wore a thick trench coat in the heat. Oh no, I thought Dad was the only person who insisted on wearing that awful trench coat no matter what. Was there a secret society of them?
+We merged ourselves into the blob that was forming in front of the teacher. She was short, about the same height as me. And only then did I realize how… odd, she looked. She was a bicorn, but one of her horns were broken, and she seemed to hang her head a bit lopsidedly as a result of unbalanced weight. She had an eyepatch over one eye, and she wore a thick trench coat in the heat. Oh no, I thought Dad was the only person who insisted on wearing that awful trench coat no matter what. Was there a secret society of them?
 
 I saw Sugarcane frowning. "What's wrong?" I asked.
 
