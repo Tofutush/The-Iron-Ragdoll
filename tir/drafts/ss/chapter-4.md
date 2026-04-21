@@ -12,15 +12,53 @@ I noticed another box near the foot of the teacher's desk. Were those our textbo
 
 "In addition, we also need to protect our *own* information from getting stolen. That's called *counter*-intelligence. Intelligence and counter-intelligence are what we do the most, and the focus of this class."
 
-He then pulled up a slideshow and blabbered a bit about the history of the MSS, about its predecessor, which was the intelligence unit of the Republican revolutionary army, and its finalization through a series of leaders and restructures into the Ministry we all know and love today. I wasn't sure on either knowing or loving, but I guess that was what I was here to learn.
+He then pulled up a slideshow and blabbered a bit about the history of the MSS, about its predecessor the intelligence unit of the Republican revolutionary army, and its finalization through a series of leaders and restructures into the Ministry we all know and love today. I wasn't sure on either knowing or loving, but I guess that was what I was here to learn.
 
 "I hope the entrance exam this morning is still fresh on your minds," Sky said.
 
 Across the classroom, students started groaning.
 
-# pe class
+"That is an introduction of something you will need to learn: to quickly memorize information you will not see for a second time."
 
-We headed out to the soccer field. The sun was blazing overhead, so I looked downwards to avoid the light. A single person was standing in the only shade provided by a banyan tree growing in an L-shape in the corner. She beckoned us over to the empty spot in front of her, next to the racetrack, but still made of the same synthetic red floor.
+"Is *every* test going to be like that from now on?" Sunny asked.
+
+"Oh, no," Sky replied. "That was only for the entrance exam. I came up with that idea, actually. Every year I'm reminded of my own genius." I rolled my eyes as he genuinely sounded obsessed with this idea. "But from now on you will have exams specifically about memorization."
+
+We spent the rest of class memorizing number sequences that got longer and longer.
+
+Towards the end of class, Sky finally pointed to the box beside the desk. "Will someone hand them out for me, please? Each student's name should be written on the inside."
+
+After a while of confusion and name-shouting, everyone had their copy of the book. Its cover was plain gray, made with a weird texture that felt dusty when I touched it, though I knew from the smell that the book was brand new. My full legal name was not only printed on the inside cover, but also watermarked across every page.
+
+"This is your tradecraft textbook," Sky said. "Read out the word on the first page."
+
+"Classified," the student read.
+
+"Right. Let me lay out the most important rule here at Ministry Affiliate. Never leak the textbook."
+
+I nodded absent-mindedly, skimming the first couple pages of the contents. It was a brief history of espionage, which seemed like easily-obtainable information.
+
+"This text is the foundation of which Ministry Affiliate was built. Leaking it would essentially be broadcasting the curriculum to any random person — even our enemies. It is punishable by prison time. And of course, you will also be expelled."
+
+*Now* he caught my attention. I stroked the cover, in awe of the importance such a plain-looking book carried.
+
+"If I see you treating this book like just a normal book you can leave scattering around, I *will* be having a serious talk with you."
+
+He didn't need to say any more. I was already clutching the book close to my chest.
+
+"For homework today, read the section on espionage history. Class dismissed."
+
+And on that note, the bell rung.
+
+"That was melodramatic," Cosmo said immediately.
+
+"Better safe than sorry," Sugarcane said. "Because I don't think they're joking about prison."
+
+Sunny was holding the book like a bar of gold.
+
+"Come on," Cosmo gave him a nudge. "P.E. is next. Let's get there on time."
+
+I stashed my textbook into my desk drawer and followed them out onto the soccer field. The sun was blazing overhead, so I looked downwards to avoid the light. A single person was standing in the only shade provided by a banyan tree growing in an L-shape in the corner. She beckoned us over to the empty spot in front of her, next to the racetrack, but still made of the same synthetic red floor.
 
 "It's so hot," I said to Sugarcane.
 

@@ -18,7 +18,7 @@ Across the room, Thunder raised his hand. "Moreland."
 
 "Yes," Sky said. "They developed the bomb fairly quickly using information stolen from Bauhinia. Now, I hope you all know which countries were on Bauhinia's side, and which are on Moreland's side."
 
-Throughout the classroom, students started listing countries. Sky tapped the keyboard and moved on to the next slide, featuring a map of the continent. He stowed the projector screen back up so the image was projected right onto the blackboard. "Does anyone want to draw a line representing the Iron Curtain?"
+I was pretty sure now that by "I hope" Sky always meant either "I demand" or "this should be common sense so fuck those of you who don't know." Just as I thought, throughout the classroom students started listing countries. Sky tapped the keyboard and moved on to the next slide, featuring a map of the continent. He stowed the projector screen back up so the image was projected right onto the blackboard. "Does anyone want to draw a line representing the Iron Curtain?"
 
 I heard people talking about the Iron Curtain on TV plenty of times. "The president returned from behind the Iron Curtain," they would report. I had always thought it meant a curtain draped in front of some secret room where they did negotiations.
 
