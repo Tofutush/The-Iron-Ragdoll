@@ -64,7 +64,7 @@ I stashed my textbook into my desk drawer and followed them out onto the soccer 
 
 "No shit," she said. "The autumn tiger makes everything hell."
 
-We merged ourselves into the blob that was forming in front of the teacher. She was short, about the same height as me. And only then did I realize how… odd, she looked. She was a bicorn, but one of her horns were broken, and she seemed to hang her head a bit lopsidedly as a result of unbalanced weight. She had an eyepatch over one eye, and she wore a thick trench coat in the heat. Oh no, I thought Dad was the only person who insisted on wearing that awful trench coat no matter what. Was there a secret society of them?
+We merged ourselves into the blob that was forming in front of the teacher. She was short, about the same height as me. And only then did I realize how… odd, she looked. She was a bicorn, but one of her horns was broken, and she seemed to hang her head a bit lopsidedly as a result of unbalanced weight. She had an eyepatch over one eye, and wore a thick trench coat in the heat. Oh no, I thought Dad was the only person who insisted on wearing that awful trench coat no matter what. Was there a secret society of them?
 
 I saw Sugarcane frowning. "What's wrong?" I asked.
 
@@ -74,7 +74,7 @@ I saw Sugarcane frowning. "What's wrong?" I asked.
 
 I looked at Sugarcane's tall, thin horns, suddenly growing worried if she would be in danger and I wasn't there to save her. Worse, I *was* there but I failed. I started to feel dizzy as my heartbeat quickened.
 
-I shook my head. I had had this thought way too many times a day. Sugarcane could take care of herself. She would be fine. I took deep breaths and forced myself to calm down.
+I shook my head. I had had this thought way too many times a day. Sugarcane could take care of herself. She'd be fine. I took deep breaths and forced myself to calm down.
 
 The preparation bell rung.
 
@@ -90,7 +90,7 @@ No one moved.
 
 "What? Where's the class president?"
 
-"There… is no class president," a few students said, their scattered voices forming a coherent sentence together. "It's like the first day of school."
+"There… is no class president," a few students said, their scattered voices forming a sentence with inferable meaning. "It's like the first day of school."
 
 The teacher shook her head. "Who's your head teacher?"
 
@@ -106,7 +106,7 @@ The boy looked like he regret standing this close to the teacher.
 
 "Thunder," he replied.
 
-"When Thunder calls your name, come stand here in a row." She scanned over us, counting under her breath. "Make three rows, each with 10 people. Hurry."
+"When Thunder calls your name, come stand here in a row." She scanned over us, counting under her breath. "Make three rows, each with ten people. Hurry."
 
 Thunder looked at the clipboard and said, "Bloom?"
 
@@ -132,7 +132,7 @@ The exam was different; I was used to being separated from Sugarcane during exam
 
 A boy came next to me. Dimple and Juice, my alphabet neighbors. I'd be seeing them a lot later, unless I could help it.
 
-Thunder continued calling on people. It was taking a while. Finally, he called on "Sugarcane." She stood in the third row, immediately before "Sunny." I looked behind my shoulder as Sunny winked at Sugarcane and she smiled back.
+Thunder continued calling on people. It took a while. Finally, he called on "Sugarcane." She stood in the third row, immediately before "Sunny." I looked behind my shoulder as Sunny winked at Sugarcane and she smiled back.
 
 I should be happy that Sugarcane was happy. But why do I feel jealous, then?
 
@@ -140,4 +140,4 @@ It was the smile, I concluded. I had never seen Sugarcane smile at other people 
 
 "And I'm the last one," Thunder said, clicking the pen shut and handing it back to the teacher along with the clipboard.
 
-"That's convenient," she said as Thunder joined in behind Sunny. "You" — she pointed at Bloom — "start running. Five laps. The rest follow in line."
+"Convenient," she said as Thunder joined in behind Sunny. "You" — she pointed at Bloom — "start running. Five laps. The rest follow in line."
