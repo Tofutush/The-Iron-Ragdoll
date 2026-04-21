@@ -2,7 +2,7 @@
 - politics class
 - coding club
 - double ninth wilderness survival
-	- 8th grade girl joining in because she failed it last year
+	- jewel joining in because she missed it last year
 	- fight blackjack for extra credit
 - knife thing, cosmo lie detection, entity to school, cosmo cannot sense hes lying, too late to go home herself, entity drives her, entity reveals tree cut sneaking in to see frosting
 - slushy & taffy invite jelly to bauhinia tower
