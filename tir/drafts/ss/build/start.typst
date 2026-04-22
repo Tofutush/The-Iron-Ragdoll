@@ -1,7 +1,8 @@
 #set page(
   paper: "a5",
   margin: 0.8in,
-  numbering: none
+  numbering: "i",
+  footer: none
 )
 #set text(
   font: "Crimson Pro",
@@ -17,6 +18,7 @@
 
 #show heading: set align(center)
 #show heading: set block(below: 1.5em)
+#show heading: set text(font: "Lexend")
 
 #page(margin: 0pt, image("ss cover.png", width: 100%, height: 100%))
 #pagebreak()
@@ -37,7 +39,14 @@
 
 #set heading(outlined: true)
 
-#set page(numbering: "1")
+#set page(
+  numbering: "1",
+  footer: align(center, text(
+    font: "Lexend",
+    size: 10pt,
+    context { counter(page).display("1") }
+  ))
+)
 #counter(page).update(1)
 
 #show heading: it => {
