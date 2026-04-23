@@ -1,8 +1,8 @@
-"We often do things together with the Investigative Investigators," she said. "There's a lot of member overlap too. Go check them out!" She pointed to the booth right next to hers, where a tall girl with a ponytail was sitting.
+"We often do things together with the Investigative Investigators," she said. "There's a lot of member overlap too. Go check them out!" She pointed to the booth right next to hers, where a tall girl with a ponytail was sitting. Her ears were black, instead of the usual white.
 
 "Hi!" She said excitedly. "I'm Jewel, vice-president of the Investigative Investigators! We investigate suspicious people and mysterious phenomenon."
 
-She showed us a poster full of capital letters decorated with painted dripping blood. Phrases like "HALCYON: FOX SPIRIT?" and "BLACKJACK: A SECRET SYLVANDIAN PAST?" were all over the poster.
+She showed us a poster full of capital letters decorated with painted dripping blood. Phrases like "HALCYON: FOX SPIRIT?" and "BLACKJACK: A SECRET PAST?" were all over the poster.
 
 I tried to read the smaller text, but Jewel kept talking. "Our proudest achievement is catching Halcyon in fox form." She showed us a horribly-photoshopped picture of a man in MSS uniform. His ears were stretched so much the background was also distorted, and a cartoon fox tail was pasted over his butt.
 
@@ -36,8 +36,10 @@ She took out a battered notebook and started scribbling, all the while talking a
 
 "Who's Blackjack?" I asked.
 
-"The P.E. teacher! Short, trench coat, broken horns?"
+"The P.E. teacher! Short, black eyes, trench coat, broken horns?"
 
 "Her name is *Blackjack*?" Sugarcane said.
 
-"Oh, right," Jewel said. "I forgot she didn't like telling new students her name."
+"Oh, right," Jewel said. "I forgot she didn't like telling new students her name. We think she is connected to Sky's casino past."
+
+"Yeah, this is pretty fun," Sugarcane said. "We want to go check out some other clubs now. Come back to you soon, maybe!"
