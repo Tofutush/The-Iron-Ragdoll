@@ -1,5 +1,6 @@
 ---
 chNum: 4
+word-goal: 1
 ---
 
 "Welcome to your first class of middle school," Sky said. "Tradecraft. This will undoubtedly be the most important class in this school, given our nature, but I don't want you slacking in any other classes either." He scanned his gaze sternly across the room.
@@ -22,17 +23,23 @@ Across the classroom, students started groaning.
 
 "Is *every* test going to be like that from now on?" Sunny asked.
 
-"Oh, no," Sky replied. "That was only for the entrance exam. I came up with that idea, actually. Every year I'm reminded of my own genius." I rolled my eyes as he genuinely sounded obsessed with this idea. "But from now on you will have exams specifically about memorization."
+"Oh, no," Sky replied. "That was only for the entrance exam. I came up with that idea, actually. Every year I'm reminded of my own genius." I rolled my eyes as he genuinely sounded obsessed with this idea. "But from now on you will have exams specifically about memorization and observation. For example, does anyone notice anything different about the classroom?"
 
-We spent the rest of class memorizing number sequences that got longer and longer.
+People looked around and took random guesses, none of which were correct.
+
+"The two posters by the blackboard swapped places," Sky revealed after a while. I didn't even notice there were two posters there, but now that I looked, the one on the left bore a portrait of the former chairman of Starcorp, saying "innovation is the driver of success," while the one on the right was an ugly ink drawing of an ancient man saying something in ancient language.
+
+"Now, I swapped them myself, so it's kind of cheating," Sky smiled smugly, "but consider this. Someone breaks into your home and searched it. Afterwards, they put everything back exactly the way it was, save for one tiny detail. Whether or not you get to live to see the sun tomorrow depends on whether you can notice something's wrong."
+
+We spent the rest of class memorizing number sequences that got longer and longer, and Sky taught us some tricks to help.
 
 Towards the end of class, Sky finally pointed to the box beside the desk. "Will someone hand them out for me, please? Each student's name should be written on the inside."
 
-After a while of confusion and name-shouting, everyone had their copy of the book. Its cover was plain gray, made with a weird texture that felt dusty when I touched it, though I knew from the smell that the book was brand new. My full legal name was not only printed on the inside cover, but also watermarked across every page.
+After a while of confusion and name-shouting, everyone had their copy of the book. Its cover was plain gray with nothing written on it, made with a weird texture that felt dusty when I touched it, though I knew from the smell that the book was brand new. My full legal name was printed not only on the inside cover, but also watermarked across every page.
 
 "This is your tradecraft textbook," Sky said. "Read out the word on the first page."
 
-"Classified," the student read.
+"Classified," the students read.
 
 "Right. Let me lay out the most important rule here at Ministry Affiliate. Never leak the textbook."
 
@@ -54,11 +61,11 @@ And on that note, the bell rung.
 
 "Better safe than sorry," Sugarcane said. "Because I don't think they're joking about prison."
 
-Sunny was holding the book like a bar of gold.
+Sunny was holding the book like a bar of gold, scanning over the pages as if trying to memorize it all in one go.
 
 "Come on," Cosmo gave him a nudge. "P.E. is next. Let's get there on time."
 
-I stashed my textbook into my desk drawer and followed them out onto the soccer field. The sun was blazing overhead, so I looked downwards to avoid the light. A single person was standing in the only shade provided by a banyan tree growing in an L-shape in the corner. She beckoned us over to the empty spot in front of her, next to the racetrack, but still made of the same synthetic red floor.
+I stashed my textbook into my desk drawer and followed them out onto the soccer field. The sun was blazing overhead. A single person was standing in the only shade provided by a banyan tree growing in an L-shape in the corner. She beckoned us over to the empty spot in front of her, next to the racetrack, but still made of the same synthetic red floor.
 
 "It's so hot," I said to Sugarcane.
 
@@ -141,3 +148,31 @@ It was the smile, I concluded. I had never seen Sugarcane smile at other people 
 "And I'm the last one," Thunder said, clicking the pen shut and handing it back to the teacher along with the clipboard.
 
 "Convenient," she said as Thunder joined in behind Sunny. "You" — she pointed at Bloom — "start running. Five laps. The rest follow in line."
+
+Students groaned and mumbled complaints as they started running around the tracks. The tracks were *big*! A huge loop where I could only barely see the other end.
+
+I soon fell behind, part intentionally, part being I really couldn't keep up, until I was level with Sugarcane and Sunny. By the time we finished the laps and reassembled ourselves into the rows, I had sneaked in between Sugarcane and Sunny on the third row.
+
+The teacher seemed not to care, or even notice. She talked a bit about class policies and a thousand different ways she would fail us if we stepped out of line, like "I will *not* be doing any sort of curves. Curving is for the *weak*" and "participation is worth zero percent of your total grade, but I *will* subtract from your total grade if you don't show up!"
+
+"Who does she think she is?" Sunny whispered jokingly into my ear. I jumped, surprised that he just *did* that. Did he think we were friends or something?
+
+He noticed this and said, "whoops, sorry! Did I startle you?"
+
+"A little," I said, glancing at Sugarcane. She had her attention on me, which made me feel better. "It's fine, I just got surprised."
+
+The teacher then showed us some basic moves in Wood-style martial arts, using poor Thunder as a prop while pushing and throwing him around. It was actually quite cool. I imagined myself, all strong and muscular, easily beating up all the bad guys. It was a funny image, but I could imagine Sugarcane doing that. We spent the rest of class practicing the standing pose until we all got it right.
+
+The last class of the day was language and literature, taught by this old lady who looked like she wanted nothing more than to retire, and could make the computer malfunction in ways I couldn't have conceived of. By the time she finally got her slideshow working, class was nearly ending, so she simply dismissed us.
+
+With that, the first day of school was over. I had my classified textbook stowed in the laptop compartment of my backpack, as I had no laptop anyways. We walked outside to see some other students putting up posters on the wall.
+
+"Clubs fair?" I asked, reading the posters.
+
+"Yes!" The girl putting up the poster said. "Two weeks from now. You're seventh graders, aren't you?"
+
+"Uh-huh," Sugarcane nodded.
+
+"You should totally join us, the Student Activities Union," the girl said. "We're the club in charge of all the clubs, as well as organizing the clubs fair every year."
+
+"Thanks, we'll see!" Cosmo said. Sunny appeared entirely disinterested. Sugarcane said goodbye to them at the gate, and I finally had her all to myself again.
