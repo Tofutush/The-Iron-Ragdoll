@@ -2,7 +2,7 @@ Dark blue had taken over the red sunset in the sky above and Cosmo was impatient
 
 "Since I'm already here," he said, "I might as well go see that thing. Mind coming with me?"
 
-"Sure, uncle," Sugarcane said, always eager to please an adult.
+"Sure, uncle," Sugarcane said immediately.
 
 "Just Harm, please."
 
@@ -30,21 +30,35 @@ Dad walked near the trunk and put both hands on it, one leg pulled up against th
 
 Dots were connecting in my head, but in such a scattered way as if every dot was trying to connect with every other at the same time.
 
+"I first got up there because I wanted to see what the mysterious Ministry Affiliate looked like on the inside, and I was so excited to have found this tree that grew on the outside but extended its way in. Though all I could see was the back side of the cafeteria. Not a lot to see there. I nearly climbed back down, but then a girl with pigtails approached me and asked me how I got up there.
+
+"So I replied, I had a rope. And I'm not actually from this school. I climbed up from the other side. Something like that. It was a long time ago.
+
+"Is the view up there nice? She asked.
+
+"Not really, I said. Just the building. I didn't know it was the cafeteria at that time.
+
+"I want to see for myself, she said. Can you get me up there?
+
+"Of course I can. I dropped the rope down and she scaled the wall with it. She told me her name was Frosting, and that was the cafeteria we were looking at. She said, I've always wanted to sit on this tree, but the wall was impossible to climb. Promise to come back again? Next month, I said. Next month, same date, I'd be free.
+
 "I would climb up there, dangle over the fence, and drop the rope down so Frosting could scale the wall with it. And then we'd both be up there, feeling like nothing else in the world mattered more than each other. We would sit among the fiery red poincianas, dreaming about the future, enjoying the present."
 
 The truth was right there, yet I shied away from it.
 
-"Monthly meetings turned to weekly, and then I found myself sneaking out of *my* high school to meet her daily. And then *they* found out and cut the tree down. I never saw Frosting again, but I remembered her grade and looked at their graduation pictures and she wasn't there. I obsessively scanned over every face, even the teachers', but there wasn't a sign of her. I thought, maybe the smart girl graduated early. But she wasn't on the previous year's photos either. Then maybe she was be graduating late? Taking more time to hone her skills? So for the next five years, I examined every single graduation photo taken. Still no sign. I tried waiting for her by the front gates whenever the high schoolers were let out too; but in a sea of people and cars and police yelling at you if you loitered too long, it was impossible. It was only after we met again, as adults, did I know she dropped out."
+"Monthly meetings turned to weekly, and then I found myself sneaking out of *my* high school to meet her daily. And then *they* found out and cut the tree down. We hadn't thought of exchanging any other sort of contact information, because we thought up there in the tree we were safe and we'd always have each other. I never saw Frosting again, but I remembered her grade and looked at their graduation pictures and she wasn't there. I obsessively scanned over every face, even the teachers', but there wasn't a sign of her. I thought, maybe the smart girl graduated early. But she wasn't on the previous year's photos either. Then maybe she was be graduating late? Taking more time to hone her skills? So for the next five years, I examined every single graduation photo taken. Still no sign. I tried waiting for her by the front gates whenever the high schoolers were let out too; but in a sea of people and cars and police yelling at you if you loitered too long, it was impossible. It was only after we met again, as adults, did I know she dropped out."
 
-I just needed to hear him say it out loud. "Mom went to… Ministry Affiliate? Right here?"
+I just needed to hear him say it out loud.
 
-He merely replied, "They used to only go home during the holidays. Otherwise they live in the dorms, even over the weekends. One of the few things they had actually improved."
+"Mom went to… Ministry Affiliate? Right here?"
+
+He merely replied, "They used to only go home during the holidays. Otherwise they live in the dorms, even over the weekends. One of the few things they had actually improved on."
 
 He ran his hands against the bark again. "But it all worked out, didn't it? We each had a stable job enough to feed the family, and we had *you*."
 
 He walked away from the tree and towards me, staring at a patch of ground next to my feet. "Your mom just doesn't want you to repeat her mistakes. The school *will* change you, Harm."
 
-I suddenly felt a burst of anger. Why didn't they just *tell* me? Why did they have to do these convoluted tricks to make me quit? What was *wrong* with them?? "Isn't changing someone the *whole point* of schools?" I yelled at Dad. "If you want me to quit that badly then why not just *make* me? It's not like I would get a say in the matter if you initiate transfer procedures!"
+I suddenly felt a burst of anger. Why didn't they just *tell* me? Why did they have to do these convoluted tricks to make me quit? What was *wrong* with them?? "Isn't changing someone the *whole point* of schools?" I yelled at Dad. "If you want me to quit that badly then why not just *make* me?"
 
 Dad looked like he really didn't know how to respond to that. Now that the initial anger wore out, I just felt confused. I knew that if my parents decided to move me to another school, then I wouldn't really get a say in the matter. Why didn't they, then? Maybe Ministry Affiliate was again different in this regards?
 
