@@ -161,18 +161,8 @@ He noticed this and said, "whoops, sorry! Did I startle you?"
 
 "A little," I said, glancing at Sugarcane. She had her attention on me, which made me feel better. "It's fine, I just got surprised."
 
-The teacher then showed us some basic moves in Wood-style martial arts, using poor Thunder as a prop while pushing and throwing him around. It was actually quite cool. I imagined myself, all strong and muscular, easily beating up all the bad guys. It was a funny image, but I could imagine Sugarcane doing that. We spent the rest of class practicing the standing pose until we all got it right.
+The teacher then showed us some basic moves in Wood-style martial arts, using poor Thunder as a prop while pushing and throwing him around. It was actually quite cool. I imagined myself, all strong and muscular, easily beating up all the bad guys. It was a funny image, but I could imagine Sugarcane doing that. We spent the rest of class practicing the standing pose until we all got it right. When the bell finally rang again, I was weak in the legs and soaked with sweat, dying to sit down.
 
-The last class of the day was language and literature, taught by this old lady who looked like she wanted nothing more than to retire, and could make the computer malfunction in ways I couldn't have conceived of. By the time she finally got her slideshow working, class was nearly ending, so she simply dismissed us.
+"Two more classes?" Sunny sighed as we flopped into our seats. "I can't wait for the day to be over."
 
-With that, the first day of school was over. I had my classified textbook stowed in the laptop compartment of my backpack, as I had no laptop anyways. We walked outside to see some other students putting up posters on the wall.
-
-"Clubs fair?" I asked, reading the posters.
-
-"Yes!" The girl putting up the poster said. "Two weeks from now. You're seventh graders, aren't you?"
-
-"Uh-huh," Sugarcane nodded.
-
-"You should totally join us, the Student Activities Union," the girl said. "We're the club in charge of all the clubs, as well as organizing the clubs fair every year."
-
-"Thanks, we'll see!" Cosmo said. Sunny appeared entirely disinterested. Sugarcane said goodbye to them at the gate, and I finally had her all to myself again.
+"Politics, language and literature," Sugarcane consulted the schedule again. Sky was already sitting at the teacher's desk like he'd never left, sipping from his "#1 teacher" mug. "I'm actually really interested in what this 'politics' class is about. Guess we're about to find out."

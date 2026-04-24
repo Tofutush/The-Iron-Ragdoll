@@ -9,6 +9,10 @@ I ate another one of their buns — just about how many did Mom make? — but sh
 
 Silly. I had taken plenty of exams in elementary school and I never got *hungry* from sitting at a desk doing multiple choice questions. But I wasn't in the mood to argue with Mom. She put a bun into a plastic bag and stuffed it in my bag, among my new textbooks.
 
+"And remember, if you ever get stressed, you can always quit —"
+
+"Mom!" I covered my ears and shut the door behind me.
+
 I started for Sugarcane's, skipping along the way, which soon proved to be a bad idea as I was heaving when I met Sugarcane.
 
 "Are you worried about the exam?" Sugarcane asked.
