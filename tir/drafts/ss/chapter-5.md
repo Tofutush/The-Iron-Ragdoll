@@ -3,9 +3,7 @@ chNum: 5
 word-goal: 1
 ---
 
-The preparation bell rang and Sky sprung up to set things up, pulling down the projector screen and setting up the slideshow.
-
-"Can anybody define the term 'cold war' for me?" He asked after the class bell ended.
+"Can anybody define the term 'cold war' for me?" Sky asked after the class bell ended.
 
 Sugarcane raised her hand. "A cold war is an ideological rivalry between two major powers, waged on political, economic, and propaganda fronts, with espionage, covert operations, and proxy wars, but avoiding direct 'hot' warfare."
 
@@ -139,4 +137,36 @@ Mom, Dad and I spent the next ten minutes putting the buns back into the fridge.
 
 "It was really hard."
 
-"Maybe they're using the exam to weed out some students,"
+"Maybe they're using the exam to weed out some students," Mom suggested.
+
+"Stop it, mom!" I picked up the last bun, shoved it haphazardly into the fridge, closed the door, and stomped back in my room, shutting the door again and trying hard not to think of myself as the last bun shutting herself into the fridge.
+
+I picked up the secret textbook, lay on my bed, and started reading about espionage history. The watermark was pretty annoying, but I soon got used to it.
+
+I was on the section about tactics developed by the Morelandian Armed Forces in surveilling and suppressing opposition during the coup when someone knocked. "Harm?" Came Dad's voice.
+
+"Yes," I said.
+
+He came in, leaving the door open. "Don't read in bed," he said immediately upon seeing me. I groaned in response, not moving.
+
+"What are you reading?" Was his second question as he sat down on my bed.
+
+"Homework."
+
+"What homework exactly? Can I take a look?"
+
+"It's for tradecraft class. The textbook is confidential so I don't think I can show you." Why was Dad suddenly so interested in my schoolwork? For years he didn't give a single shit, insisting that I should just "be happy," even when I went to him for help on my math homework. I had come to realize that maybe he didn't know enough math to help me.
+
+"So is the homework just reading?" He asked.
+
+"Yeah."
+
+"Then that's not urgent at all. When I was in school, I did the reading right before class started."
+
+Maybe that was why you couldn't do fourth grade math, I thought.
+
+"Because it makes more sense," he explained. "If you read through this tonight, barely comprehending, how much of it would you still remember tomorrow? But if you read it right before class, and it gets immediately reinforced by the lecture, it helps with the retention way more."
+
+That actually made sense. Even as we talked, the contents of the book was dripping out of my mind like sand in a sieve. "You're right," I said. "What should I do, then?"
+
+"Play a game with me!" Dad said, pulling out his own phone.

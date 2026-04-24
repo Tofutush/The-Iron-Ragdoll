@@ -77,7 +77,7 @@ I saw Sugarcane frowning. "What's wrong?" I asked.
 
 "That must've hurt," she said. "It broke fairly close to the base, where there are way more nerves."
 
-"Oh, my." I reached up and touched my ears, thinking how much it would've hurt if someone pulled them off my head. When I was a kid, I would scratch my ears all the time until all the fur fell off and the skin showed. I dropped the habit when I became close friends in Sugarcane in third grade.
+"Oh, my." I reached up and touched my ears, thinking how much it would've hurt if someone pulled them off my head. When I was a kid, I would scratch my ears all the time until all the fur fell off and the skin showed. I dropped the habit when I became close friends with Sugarcane in third grade.
 
 I looked at Sugarcane's tall, thin horns, suddenly growing worried if she would be in danger and I wasn't there to save her. Worse, I *was* there but I failed. I started to feel dizzy as my heartbeat quickened.
 
@@ -107,7 +107,7 @@ The teacher shook her head. "Who's your head teacher?"
 
 "You," the teacher said, handing the clipboard and pen to the student closest to her, a tall boy with yellow horns not unlike her own. "You're taking attendance for this class from now on."
 
-The boy looked like he regret standing this close to the teacher.
+The boy looked like he regretted standing this close to the teacher.
 
 "When… what's your name?" The teacher asked.
 
@@ -151,7 +151,7 @@ It was the smile, I concluded. I had never seen Sugarcane smile at other people 
 
 Students groaned and mumbled complaints as they started running around the tracks. The tracks were *big*! A huge loop where I could only barely see the other end.
 
-I soon fell behind, part intentionally, part being I really couldn't keep up, until I was level with Sugarcane and Sunny. By the time we finished the laps and reassembled ourselves into the rows, I had sneaked in between Sugarcane and Sunny on the third row.
+I soon fell behind, partly intentional, partly because I really couldn't keep up, until I was level with Sugarcane and Sunny. By the time we finished the laps and reassembled ourselves into the rows, I had sneaked in between Sugarcane and Sunny on the third row.
 
 The teacher seemed not to care, or even notice. She talked a bit about class policies and a thousand different ways she would fail us if we stepped out of line, like "I will *not* be doing any sort of curves. Curving is for the *weak*" and "participation is worth zero percent of your total grade, but I *will* subtract from your total grade if you don't show up!"
 
@@ -163,6 +163,8 @@ He noticed this and said, "whoops, sorry! Did I startle you?"
 
 The teacher then showed us some basic moves in Wood-style martial arts, using poor Thunder as a prop while pushing and throwing him around. It was actually quite cool. I imagined myself, all strong and muscular, easily beating up all the bad guys. It was a funny image, but I could imagine Sugarcane doing that. We spent the rest of class practicing the standing pose until we all got it right. When the bell finally rang again, I was weak in the legs and soaked with sweat, dying to sit down.
 
+"Next up is politics, and then language and literature," Sugarcane consulted the schedule again. Sky was already sitting at the teacher's desk like he'd never left, sipping from his "#1 teacher" mug. "I'm actually really interested in what this 'politics' class is about. Guess we're about to find out."
+
 "Two more classes?" Sunny sighed as we flopped into our seats. "I can't wait for the day to be over."
 
-"Politics, language and literature," Sugarcane consulted the schedule again. Sky was already sitting at the teacher's desk like he'd never left, sipping from his "#1 teacher" mug. "I'm actually really interested in what this 'politics' class is about. Guess we're about to find out."
+I was tired too, and I didn't feel ready at all when the preparation bell rang again. Something something new norm, I thought as Sky sprung up to set things up, pulling down the projector screen and setting up the slideshow.
