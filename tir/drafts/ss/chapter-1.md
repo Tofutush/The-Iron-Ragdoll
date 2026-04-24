@@ -1,6 +1,6 @@
 ---
 chNum: 1
-word-goal: 70000
+word-goal: 60000
 ---
 
 It was a Sunday afternoon. I was curled up on the sofa with a book when there came a knock on the door. Dad went to get it.
@@ -149,7 +149,7 @@ The school was a twenty-minute walk away from my home — fifteen minutes from S
 
 "That sounds great!" Sugarcane said. Dad was falling behind them.
 
-We reached the address. It was a large campus, surrounded by barbed wires mounted on gray walls. Tall, foreboding buildings loomed down at us, with barred windows and paint peeling off. I must've passed this building many times in my thirteen years of living in Flower City, but it had never occurred to me that this place was a school. A juvie, more like. Oh no, was Rose correct?
+We reached the address. It was a large campus, surrounded by barbed wires mounted on gray walls. Tall, foreboding buildings loomed down at us, with barred windows and paint peeling off. I lived in Flower City my whole life and I must've passed this building many times, but it had never occurred to me that this place was a school. A juvie, more like. Oh no, was Rose correct?
 
 A security guard stood at the intersection, guarding the road leading to the gate. "State your business," he ordered.
 
