@@ -5254,8 +5254,7 @@
     "ch": [
       "willow"
     ],
-    "comment": "Canonically, Willow drew this herself.",
-    "kind": "featured"
+    "comment": "Canonically, Willow drew this herself."
   },
   {
     "name": "goose camera",
@@ -6043,6 +6042,7 @@
     "ch": [
       "entity",
       "frosting"
-    ]
+    ],
+    "kind": "featured"
   }
 ]
