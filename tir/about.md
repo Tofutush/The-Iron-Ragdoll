@@ -32,6 +32,13 @@ This site and its contents feature strong language, cartoon violence, and occasi
 
 It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't treat it so seriously.
 
+## Miscellaneous questions
+
+There's just this one for now and I don't know where else to put this.
+
+> [!question]+ What are the sexualities of the characters?
+> Everyone is aro-ace unless otherwise contradicted. That is, if they're married, or have a canon partner, etc. You're always free to headcanon though!
+
 ## JavaScript usage
 
 This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the relationship graph, the scavenger hunt result page, and most of the [fun](/fun/) pages. It should be fine to view most other things with JS disabled.
