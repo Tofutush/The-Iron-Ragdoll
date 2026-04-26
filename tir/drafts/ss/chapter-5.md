@@ -165,8 +165,18 @@ He came in, leaving the door open. "Don't read in bed," he said immediately upon
 
 Maybe that was why you couldn't do fourth grade math, I thought.
 
-"Because it makes more sense," he explained. "If you read through this tonight, barely comprehending, how much of it would you still remember tomorrow? But if you read it right before class, and it gets immediately reinforced by the lecture, it helps with the retention way more."
+"Because it works better," he explained. "If you read through this tonight, barely comprehending, how much of it would you still remember tomorrow? But if you read it right before class, and it gets immediately reinforced by the lecture, it helps with the retention way more."
 
 That actually made sense. Even as we talked, the contents of the book was dripping out of my mind like sand in a sieve. "You're right," I said. "What should I do, then?"
 
-"Play a game with me!" Dad said, pulling out his own phone.
+"Play a game with me!" Dad said, pulling out his own phone. "There's this fighting game I love, but it's boring fighting strangers on the internet and your mom didn't want to play. Here, get your phone and I'll download it for you."
+
+I had never known Dad liked playing games, let alone fighting games. But I guessed I didn't really know Dad that well.
+
+He installed the game on my phone, walked me through the tutorial, and added him as a friend. Then he opened the game on his own phone and started a one-on-one challenge with me.
+
+I glanced at his screen. "Your level isn't really high either," I observed. He was on level four, and the tutorial had already brought me to level two.
+
+"I made a new account so I won't be too far ahead of you."
+
+Dad scooted back to lean against the wall, his legs crossed on my bed, and I leaned against his shoulder. We smashed controls and beat each other up, occasionally giggling, but I didn't enjoy it as much. I liked calmer games where I could dress my character up in pretty clothes than all the dusty leather armor this game offered. But what struck me as weird was that Dad didn't seem to enjoy it as much as he claimed, either. Maybe it was boring to play with me.
