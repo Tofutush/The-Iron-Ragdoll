@@ -179,7 +179,7 @@ I glanced at his screen. "Your level isn't really high either," I observed. He w
 
 "I made a new account so I won't be too far ahead of you."
 
-Dad scooted back to lean against the wall, his legs crossed on my bed, and I leaned against his shoulder. We smashed controls and beat each other up, occasionally giggling, but I didn't enjoy it as much. I liked calmer games where I could dress my character up in pretty clothes than all the dusty leather armor this game offered. But what struck me as weird was that Dad didn't seem to enjoy it as much as he claimed, either. Maybe it was boring to play with me.
+Dad scooted back to lean against the wall, his legs crossed on my bed, and I leaned against his shoulder. We smashed controls and beat each other up, occasionally giggling, but I didn't enjoy it as much. I liked calmer games where I could dress my character up in pretty clothes, and all this game had were stick figures with at most a bandana. But what struck me as weird was that Dad didn't seem to enjoy it as much as he claimed, either. Maybe it was boring to play with me.
 
 I was suddenly awoken by Dad's yelp of pain as my phone slipped out of my hands and dropped on his knee when I dozed off.
 
@@ -187,4 +187,4 @@ I was suddenly awoken by Dad's yelp of pain as my phone slipped out of my hands 
 
 Dad hesitated for a moment, perhaps debating whether to ask for another round, but nodded and headed back to his own room.
 
-The entire exchange was… weird. But whatever, I thought. Maybe Dad had just read some parenting book and decided to spend more time with his daughter.
+The entire exchange was… weird. But whatever. Maybe Dad had just read some parenting book and decided to spend more time with his daughter.
