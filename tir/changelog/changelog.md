@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-04-26
 
 - Added `harmony sugarcane dance.png`;
+- Added ability to directly open an image specified by the URL, and updated the [RSS feed](/gallery/feed.xml) accordingly;
 
 ## 2026-04-20
 
