@@ -23,7 +23,7 @@ Dad nodded. "Darling!" he called.
 
 Mom came out from her study. "What is it?" And then she saw the man in the doorway. "Oh. What's the matter, officer?"
 
-They sat down around the tea table. I put her book face-down on the sofa and scooted over. The man introduced himself as Sky Elmwood Dazzle. Mom made tea.
+We sat down around the tea table. The man introduced himself as Sky Elmwood Dazzle. Mom made tea.
 
 "I am here on behalf of the the Middle School for Young Officers in Training Affiliated to the Ministry of State Security." Sky began. "I know it's a mouthful. We usually call it Ministry Affiliate.
 
