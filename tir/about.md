@@ -38,6 +38,8 @@ There's just this one for now and I don't know where else to put this.
 
 > [!question]+ What are the sexualities of the characters?
 > Everyone is aro-ace unless otherwise contradicted. That is, if they're married, or have a canon partner, etc. You're always free to headcanon though!
+>
+> And no, that picture of Harmony and Sugarcane in bride and groom outfits doesn't make them partners I have headcanon rights too
 
 ## JavaScript usage
 
