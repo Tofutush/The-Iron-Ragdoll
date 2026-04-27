@@ -59,7 +59,7 @@ I coughed.
 
 "Do we have time to consider?" Dad asked.
 
-"Of course," Sky produced a booklet from his pocket. It was an introduction of the school. "When you're ready to attend, come to our office" — he pointed to an address written on the back cover — "with your ID, elementary school diploma, and a document photo receipt. Make sure to take a new photo. The deadline is August 1st. Please don't tell anyone else about it until then."
+"Of course," Sky produced a booklet from his pocket. It was an introduction of the school. "When you're ready to attend, come to our office" — he pointed to an address written on the back cover — "with the required documents. The deadline is August 1st. Please don't tell anyone else about it until then."
 
 "Thank you, officer," Mom said.
 
@@ -91,7 +91,7 @@ I thought about my future as a middle school dropout. But I also thought about g
 
 ---
 
-Sugarcane was already there when I arrived at the playground. She was sitting on a bench, legs crossed, too cool for any of the swings or slides; she wasn't on her usual bench, but another one, next to some shrubs. I yelled at her, and she turned to face me.
+Sugarcane was already there when I arrived at the playground. She was sitting on a bench, legs crossed, too cool for any of the swings or slides. She wasn't on her usual bench, but another one, next to some shrubs. I yelled at her, and she turned to face me.
 
 "Hey!" she yelled back, swiping her bangs out of her eyes.
 
@@ -109,7 +109,7 @@ Sugarcane smiled. "Yes."
 
 Rose was a classmate of ours. Sugarcane didn't like her, and she refused to hang out with any of Rose's friends either. Except that Rose was friends with nearly everyone else. Sugarcane would've been alone all the time if it weren't for me, although I suspected that she would've been fine with that. *I* would not allow that to happen. Sugarcane, all alone. What a horrible image in my head. I shoved the thought away.
 
-"Oh, hey Rose," Sugarcane said without turning her head. "What's 'great' is that you're here, and you can play with things appropriate for your age." She waved at the swings and slides, around which a couple of kindergarteners were happily chasing each other.
+"Oh, hey Rose," Sugarcane said without turning her head. "What's 'great' is that you're here, and you can play with things appropriate for your age." She waved at the swings and slides, around which a couple of kindergartners were happily chasing each other.
 
 Rose decided to ignore the comment. "What is this 'ministry school' I heard from you two?" She said with a face full of smug. "Some fancy version of a juvie?"
 
@@ -133,7 +133,7 @@ When they were far enough away from Rose, Sugarcane finally turned excitedly to 
 
 ---
 
-The day of graduation finally came. We had received our diplomas, went to take pictures right after the ceremony, and returned to my home, where we begged Dad to walk us over.
+The day of graduation finally came. We had received our diplomas and returned to my home, where we begged Dad to walk us over.
 
 "Can't you wait until your mom gets home?" Dad rubbed his temples.
 
@@ -183,7 +183,7 @@ We entered to find a clearing of dusty concrete tiles between us and the main bu
 
 I gave my folder to Sky, realized that my ID was still in my hand, and handed that over as well. Sugarcane, however, had put her ID back into her folder during the run and simply handed over the entire thing.
 
-Sky went to work, checking their IDs against their diplomas and against a list he had on the table. He typed into the laptop, shoved their photo receipts in a bag, returned their documents, and typed some more.
+Sky went to work, checking our IDs against our diplomas and against a list he had on the table. He typed into the laptop, shoved our photos in a bag, returned our documents, and typed some more.
 
 "You're all set!" He smiled. "Orientation day is on September the first. I expect to see you then!"
 

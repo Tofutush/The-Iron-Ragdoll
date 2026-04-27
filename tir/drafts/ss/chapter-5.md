@@ -55,7 +55,7 @@ Sky lifted an eyebrow. "Those are good questions, but that's not the focus of to
 
 "It will be, but not today."
 
-Sky moved on to a brief summary of what we were going to learn about in the class. Government structures, international relations… I zoned out and started doodling on my textbook until class ended.
+I really wanted to learn about the Fantoni war too. Guess I'd just have to be patient until we covered it. Sky moved on to a brief summary of what we were going to learn about in the class. Government structures, international relations… I zoned out and started doodling on my textbook until class ended.
 
 The last class of the day was language and literature, taught by this old lady who looked like she wanted nothing more than to retire, and could make the computer malfunction in ways I couldn't have conceived of. By the time she finally got her slideshow working, class was nearly ending, so she simply dismissed us.
 
@@ -111,7 +111,7 @@ What if Sky never wanted me at all? What if he only came to me so Sugarcane woul
 
 ---
 
-Steamed buns for dinner again. More buns sat in the pot, in case anyone craved more blandness in their lives. Mom had went on steaming sprees before, but this was on another level. I was sure plenty of perfectly good vegetables were rotting in the fridge while Mom bought more bags of flour. The only other kind of food on the table was a small plate of pickled vegetables. I spent most of the dinner hogging that plate, eating some with every bite of my buns.
+Steamed buns for dinner again. More buns sat in the pot, in case anyone craved more blandness in their lives. Mom had gone on steaming sprees before, but this was on another level. I was sure plenty of perfectly good vegetables were rotting in the fridge while Mom bought more bags of flour. The only other kind of food on the table was a small plate of pickled vegetables. I spent most of the dinner hogging that plate, eating some with every bite of my buns.
 
 "How was the first day of school?" Mom asked. "How did the exam go?"
 
@@ -143,7 +143,11 @@ Mom, Dad and I spent the next ten minutes putting the buns back into the fridge.
 
 I picked up the secret textbook, lay on my bed, and started reading about espionage history. The watermark was pretty annoying, but I soon got used to it.
 
-I was on the section about tactics developed by the Morelandian Armed Forces in surveilling and suppressing opposition during the coup when someone knocked. "Harm?" Came Dad's voice.
+The language was difficult to understand, a huge leap from the children's books I liked to read. The paragraphs were so long and so were the chapters, and when I finished a page I would immediately forget what the page was even about.
+
+Sugarcane's voice surfaced in my head again, feeling like an unwelcome intruder despite how much I loved her calm and authoritative voice. *He only came to you because I demanded it.* That wasn't even what she said, but it rang in my head in her voice regardless. I tried shaking it off my head and focusing on the book.
+
+I was on the section about Morelandian tactics when someone knocked. "Harm?" Came Dad's voice.
 
 "Yes," I said.
 
@@ -165,7 +169,7 @@ He came in, leaving the door open. "Don't read in bed," he said immediately upon
 
 Maybe that was why you couldn't do fourth grade math, I thought.
 
-"Because it works better," he explained. "If you read through this tonight, barely comprehending, how much of it would you still remember tomorrow? But if you read it right before class, and it gets immediately reinforced by the lecture, it helps with the retention way more."
+"Because it works better," he explained. "If you read through this tonight, barely comprehending it, how much of it would you still remember tomorrow? But if you read it right before class, and it gets immediately reinforced by the lecture, it helps with the retention way more."
 
 That actually made sense. Even as we talked, the contents of the book was dripping out of my mind like sand in a sieve. "You're right," I said. "What should I do, then?"
 
@@ -187,4 +191,6 @@ I was suddenly awoken by Dad's yelp of pain as my phone slipped out of my hands 
 
 Dad hesitated for a moment, perhaps debating whether to ask for another round, but nodded and headed back to his own room.
 
-The entire exchange was… weird. But whatever. Maybe Dad had just read some parenting book and decided to spend more time with his daughter.
+Back in fourth grade, there was a long time when I thought Dad was a robot. He didn't talk much, always walked in a beeline, scared of bugs because he was also scared of *computer* bugs. The trench coat was for concealing the machinery below his neck. Sugarcane and I often stalked behind him, trying to catch him recharging.
+
+Now that I think about it, maybe I felt that way because Dad had always been pretty cold and distant. Now that he was making an effort to spend time with me, he was somehow *still* bot-like in his demeanors. I shrugged, deciding to leave it at that.
