@@ -72,6 +72,13 @@
         "type": "FILES",
         "pattern": "drafts/ss/build/ss cover.png",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "drafts/ss/build",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
