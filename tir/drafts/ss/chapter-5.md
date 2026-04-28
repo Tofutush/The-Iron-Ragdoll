@@ -191,6 +191,6 @@ I was suddenly awoken by Dad's yelp of pain as my phone slipped out of my hands 
 
 Dad hesitated for a moment, perhaps debating whether to ask for another round, but nodded and headed back to his own room.
 
-Back in fourth grade, there was a long time when I thought Dad was a robot. He didn't talk much, always walked in a beeline, scared of bugs because he was also scared of *computer* bugs. The trench coat was for concealing the machinery below his neck. Sugarcane and I often stalked behind him, trying to catch him recharging.
+Back in fourth grade, there was a long time when I thought Dad was a robot. He didn't talk much, always walked in a beeline, scared of bugs because of *computer* bugs. The trench coat was for concealing the machinery below his neck. Sugarcane and I often stalked behind him, trying to catch him recharging.
 
 Now that I think about it, maybe I felt that way because Dad had always been pretty cold and distant. Now that he was making an effort to spend time with me, he was somehow *still* bot-like in his demeanors. I shrugged, deciding to leave it at that.
