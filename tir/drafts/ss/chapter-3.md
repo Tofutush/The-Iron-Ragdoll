@@ -221,7 +221,7 @@ That was reassuring, I guess. I just have to be mindful not to lie in front of h
 
 Sugarcane cleared her throat. "Two truths and a lie. So I have forty-six plushies on my bed; the food here is way worse than my family's; and I like you two a lot."
 
-It was the third. Sugarcane had always loved her family's cooking. I do too; whenever Dad was in the kitchen, he kept hurting himself in ways I couldn't have imagined, and all Mom wanted to make was steamed buns. Sugarcane's parents made delicious food, and her grandparents' cooking was even better. As for the plushies, there were exactly forty-six, lined up neatly along where her bed touched the wall. Carrots, Slushy, Taffy, Spotty, Joy, Truffle…
+It was the third. Sugarcane had always loved her family's cooking. I do too; whenever Dad was in the kitchen, he kept hurting himself in ways I couldn't have imagined, and all Mom wanted to make was steamed buns. Sugarcane's parents made delicious food, and her grandparents' cooking was even better. As for the plushies, there were exactly forty-six, lined up neatly along where her bed touched the wall. Carrots, Slushy, Taffy, Joy, Spotty, Truffle…
 
 "*You* know, of course," Sugarcane said, cutting off my thoughts. "And I bet Harmony does too. Sunny, which one do you think it is?"
 
