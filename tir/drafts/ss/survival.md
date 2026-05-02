@@ -1,16 +1,10 @@
-"You brought a *kite*?" I stared at the folded-up fabric sticking out of Sunny's backpack.
-
-"My parents insisted, since I'm missing Double-Ninth with them," he replied. "Although, I did forget that we're going to a forest and it would be pretty hard to fly a kite there."
-
-[extra credit fight]
-
 "Teacher?" I asked.
 
-"Finally found you," the teacher said. "Hiding in a goddamn corner."
+"Finally found you," Blackjack said. "Hiding in a goddamn corner."
 
 "We don't even know this is a corner," Cosmo objected.
 
-"Whatever." The teacher held up two fists. "Fight me, for extra credit."
+"Whatever." Blackjack set her inflatable hammer down against a tree and held up two fists. "Fight me, for extra credit."
 
 "What?" I asked.
 

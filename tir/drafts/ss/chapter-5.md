@@ -1,6 +1,5 @@
 ---
 chNum: 5
-word-goal: 1
 ---
 
 "Can anybody define the term 'cold war' for me?" Sky asked after the class bell ended.
