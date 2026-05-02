@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-05-02
+
+- Added `thyme thumb.png`;
+
 ## 2026-05-01
 
 - New character, [Jewel](/characters/jewel/);

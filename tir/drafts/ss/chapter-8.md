@@ -130,12 +130,8 @@ Jewel tested it. South was pointing behind us. "Let's make sure we walk in a str
 
 We continued on, with Jewel checking her watch every couple hundred meters to make sure we were on the right track.
 
-My backpack was weighing down on me more and more, making every step an effort. Sugarcane offered many times to help me carry it, but I refused.
+The sun beamed down. My backpack was weighing down on me more and more, making every step an effort. Sugarcane offered many times to help me carry it, but I refused.
 
 "I did this to myself," I said. "I will keep doing it."
 
 "You're so stubborn," Sugarcane sighed.
-
-After a while my arm started itching. I saw a big bump of a mosquito bite sitting near my elbow.
-
-"I got bitten by a mosquito," I said.

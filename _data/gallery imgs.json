@@ -6061,5 +6061,13 @@
       "jewel"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "thyme thumb",
+    "date": "2026-05-02",
+    "ch": [
+      "thyme"
+    ],
+    "kind": "thumb"
   }
 ]
