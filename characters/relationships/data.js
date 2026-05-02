@@ -364,7 +364,7 @@ img: "/The-Iron-Ragdoll/img/Q0SIqiGUWo-200.webp",
 {
 id: "Thyme",
 color: "#3d7510",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/cVEhsr1haL-200.webp",
 },
 
 {

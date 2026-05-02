@@ -485,7 +485,7 @@ img: "/The-Iron-Ragdoll/img/Q0SIqiGUWo-500.webp"
 name: "Thyme",
 color: "#3d7510",
 desc: "Leader of a tiny nameless village on the outskirts of Area 29",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/cVEhsr1haL-500.webp"
 },
 
 
