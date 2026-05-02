@@ -1,6 +1,5 @@
 ---
 chNum: 2
-word-goal: 1
 ---
 
 September the first happened to be a Monday. I woke up early, even before Mom had left for work, and asked her to send a message to Sugarcane's mom saying that I was leaving. I stuffed a re-heated bun into my mouth, triple-checked my school bag, and set off for Sugarcane's.

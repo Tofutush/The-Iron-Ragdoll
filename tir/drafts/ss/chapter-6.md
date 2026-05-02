@@ -1,6 +1,5 @@
 ---
 chNum: 6
-word-goal: 1
 ---
 
 I spent the past few weeks of school paying attention in class, paying attention to Sugarcane, and trying to stay on top of my schoolwork, which was proving harder and harder because why did *every* teacher pile work on us like there was no tomorrow? The language teacher, despite her incompetence at technology, was way too competent at assigning essays and reading. The math teacher seemingly found it funny to have a quiz at the start of *every* class, which he didn't even grade himself. And Sky. Oh Sky was the worst. He would completely and thoroughly torture us in and out of class, and walk away *whistling*.
@@ -175,13 +174,13 @@ Sugarcane picked up a brochure on the table and started reading it.
 
 "It's not a hard limit," the girl with glasses smiled at me and nudged her partner. "Anyone is welcome to our first meeting of the school year. After it ended, you can choose to join or not."
 
-"October the second?" Sugarcane asked.
+"October the ninth?" Sugarcane asked, pointing to a date on the brochure.
 
 "Yes," she replied. "I hope to see you there!"
 
 "You bet," Sugarcane tucked the brochure into her pocket.
 
-October the second. That was one week from now. I *have* to join the Coding Club with Sugarcane. And I *will* crash course coding so I could join.
+October the ninth. That was two weeks from now. I *have* to join the Coding Club with Sugarcane. And I *will* crash course coding so I could join.
 
 "Are there any clubs you want to see?" Sugarcane asked me.
 

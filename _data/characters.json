@@ -1837,6 +1837,27 @@
     }
   },
   {
+    "name": "Jewel",
+    "namezh": "珠宝",
+    "color": "#d6af29",
+    "desc": "Catgirl.",
+    "quote": "Why would the hunter be scared of bullets, when she's the one holding the gun?",
+    "tags": [
+      "Spy School",
+      "Flower City",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "ring": "#C77514",
+      "hair": "#2e2e2e"
+    },
+    "about": "Vice-president (and later president) of the Investigative Investigators, with a penchant for baseless conspiracy, but also relentless curiosity and desire to find the truth, which I'm sure won't cause her any problems!",
+    "trivia": "- 白族。"
+  },
+  {
     "name": "Jelly",
     "namezh": "果冻",
     "color": "#1091b1",

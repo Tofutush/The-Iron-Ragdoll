@@ -5,6 +5,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-05-01
+
+- New character, [Jewel](/characters/jewel/);
+- Added `jewel stand.png`;
+- Privated Spy School while I work on the book;
+
 ## 2026-04-26
 
 - Added `harmony sugarcane dance.png`;

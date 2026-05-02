@@ -1,5 +1,5 @@
 - banyan: longevity, elderliness, experience
-- flame tree: love, passion
+- phoenix tree: love, passion
 - bauhinia (red): loyalty, patriotism, resilience
 - white bauhinia: treason, spite, avoidance
 - cotton tree:
