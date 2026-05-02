@@ -482,6 +482,12 @@ img: "/The-Iron-Ragdoll/img/-DCSm1hLip-200.webp",
 },
 
 {
+id: "Jewel",
+color: "#d6af29",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
 id: "Jelly",
 color: "#1091b1",
 img: "/The-Iron-Ragdoll/img/7HdgGyVM0G-200.webp",
