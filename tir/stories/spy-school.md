@@ -13,6 +13,7 @@ chs:
   - sunny
   - thunder
   - jewel
+  - blackjack
 time: "2053"
 desc: Harmony goes to a special school.
 myTags:
