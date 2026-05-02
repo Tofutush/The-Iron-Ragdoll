@@ -642,6 +642,14 @@ img: "/The-Iron-Ragdoll/img/-DCSm1hLip-500.webp"
 
 
 {
+name: "Jewel",
+color: "#d6af29",
+desc: "Catgirl.",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
 name: "Jelly",
 color: "#1091b1",
 desc: "Lonely little kid.",
