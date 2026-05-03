@@ -202,7 +202,7 @@ Make it two! Make it *two*!
 
 "Each group send a person up here to get a tent."
 
-Cosmo and Sunny had already settled next to me and Sugarcane. To my surprise, Jewel was also edging closer to us. "I'll go get our tent!" She volunteered.
+Cosmo and Sunny had already settled next to me and Sugarcane. To my surprise, Jewel was also edging closer to us. "I'll go get our tent!" She volunteered. "Some of them are torn. We have to get a good one."
 
 An alarm bell rung. It was the teacher's own phone.
 
