@@ -102,7 +102,9 @@ We all brought food. Well, everyone else brought snacks. Compressed crackers, en
 
 We all shared our food with each other. I gave everyone a bun, Jewel passed her nuts around, and there was nothing I could've done to convince Sugarcane to not share her energy bars with everyone else. It would've been a really fun picnic, where we could've chatted and laughed, but we ate quickly and silently to avoid another branch or whatever punishment they could've doled out from a distance. When I was finished, though, I still felt the slight drowsiness from a fulfilling meal.
 
-We continued on our way. Maybe after another hour or two, I couldn't keep track, we came across another fallen branch.
+We continued on our way. Some parts of the forest was easy to navigate, with tidy trees and soft grass to walk on. Some parts were entirely covered in shrubs, which we had to walk through, the small branches catching on my pants and scraping my arms. I tried cutting through them with Mom's pocket knife, but it was no help at all. Some parts of the forest was overgrown with giant banyan trees — or maybe just a single huge one, with its roots bursting out of the ground, threatening to trip us and sprain our ankles.
+
+By the time my shoulders were hurting and my legs were threatening to give up, we came across another fallen branch.
 
 "Another one here," Sunny said, breaking the silence.
 
@@ -112,7 +114,7 @@ I couldn't tell, but I trusted Sugarcane.
 
 "You're right," Jewel said. "They have the same number of smaller branches."
 
-"What does this mean?" Cosmo said, confused.
+"How could this have happened?" Cosmo said, confused.
 
 Sugarcane stood up. "Why, we've been walking in a circle!"
 
@@ -122,7 +124,7 @@ We all shook our heads.
 
 "There may be a way though," Cosmo said. "Does anyone have an analog watch?"
 
-"I do," Jewel offered.
+"I do," Jewel offered. A golden watch was wrapped around her wrist, much like a tiny pet collar.
 
 "Point the hour hand at the sun," Cosmo instructed. "South would be halfway between twelve o'clock and the hour hand."
 
@@ -132,6 +134,52 @@ We continued on, with Jewel checking her watch every couple hundred meters to ma
 
 The sun beamed down. My backpack was weighing down on me more and more, making every step an effort. Sugarcane offered many times to help me carry it, but I refused.
 
-"I did this to myself," I said. "I will keep doing it."
+"I did this to myself," I said. "And I will keep doing it."
 
 "You're so stubborn," Sugarcane sighed.
+
+As we stopped for a break, collapsing on the ground panting, I noticed that the dirt was a lot softer and wetter than it had been near the entrance. It made a mess on my pants, but worse, I heard an incessant buzzing all around us.
+
+"Mosquitos," Cosmo hissed, swatting at the air.
+
+Jewel examined the soft earth. "And the ground is… Wait, I know! We're near the river!"
+
+"The river?" Sunny echoed.
+
+"It flows down from the mountain. If we walk upstream, we'll eventually reach it!"
+
+I once again realized just how convenient it was to have an upperclassman on our team, who knew the layout of this mysterious facility. I couldn't imagine me and Sugarcane wandering around in circles, searching for a mountain neither of us could see.
+
+"I have some mosquito sprays," I offered. I reached into my bag and pulled out all three of them. They weren't heavy at all, but packing three was just adding unnecessary weight, which I was glad to be rid of.
+
+We all sprayed ourselves from head to toe, and I insisted the bottles didn't go back in my bag, but to whoever wanted it the most instead. "My bag's heavy enough without them."
+
+We walked quickly as the sun edged closer to the horizon. Finally, on the tail of twilight, we heard running water and burst through a row of trees to find a tiny stream, less wide than my arm's length.
+
+"We're here!" I exclaimed, collapsing onto a banyan tree root, which quickly proved to be a bad idea as it hurt my butt, so I stood up again.
+
+"Let's camp for the night," Jewel said. "We'll follow the river tomorrow."
+
+"We should probably find somewhere drier, though," Sugarcane said. "I'd say we cross the river right here, while it's still narrow."
+
+"Good idea," Jewel agreed. We hopped over the stream and found a patch of clearing big enough to set up the tent.
+
+Jewel unpacked the tent kit she had been carrying. It had once been orange, the color faded with age, but there were no rips or tears, thanks to Jewel picking the right one.
+
+When we were setting it up, however, we quickly realized a problem. It was missing two stakes.
+
+Without the stakes, the tent collapsed awkwardly on us, landing on our heads like a big shared headdress. Also, it was built for four people, and all five of us cramped into the small space.
+
+"Eh, I suppose this can work?" Jewel chuckled. We filed out of the tent, and it immediately collapsed on itself.
+
+"Looks nice to me," Cosmo shrugged. "Who wants some dinner?"
+
+The sun had set completely. I stuck my flashlight upright into the dirt to give us some light. We ended up passing it around and putting it under our chins, making faces and telling ghost stories.
+
+Eventually we were all too tired and crawled in the tent for the night. Jewel took out a blanket, but it was only enough for two people. "Sorry," she said. "I told myself I'd definitely get a partner this year so I won't be traveling alone, but I didn't expect and entire team!"
+
+"I have a sleeping bag," I said. Mom was right; the tent was indeed just a thin piece of fabric, and my back hurt from the tiny pebbles beneath. There was no way I could lay my whole sleeping bag out without taking up too much space, but maybe I could lay it across us as a blanket.
+
+The bag had a side zipper, which was even better. When unzipped, it could cover me, Sugarcane, and Cosmo, while Jewel and Sunny had Jewel's blanket. I huddled close to Sugarcane, feeling like this uncomfortable tent and cold forest safer than my own bed at home.
+
+The
