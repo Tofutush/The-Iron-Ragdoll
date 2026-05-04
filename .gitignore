@@ -1,5 +1,7 @@
 _site/
+_neocities/
 node_modules/
+.cache/
 tir/.obsidian/workspace.json
 tir/.obsidian/plugins/various-complements/histories.json
 tir/.obsidian/plugins/novel-word-count/data.json
