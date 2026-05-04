@@ -180,6 +180,14 @@ Eventually we were all too tired and crawled in the tent for the night. Jewel to
 
 "I have a sleeping bag," I said. Mom was right; the tent was indeed just a thin piece of fabric, and my back hurt from the tiny pebbles beneath. There was no way I could lay my whole sleeping bag out without taking up too much space, but maybe I could lay it across us as a blanket.
 
-The bag had a side zipper, which was even better. When unzipped, it could cover me, Sugarcane, and Cosmo, while Jewel and Sunny had Jewel's blanket. I huddled close to Sugarcane, feeling like this uncomfortable tent and cold forest safer than my own bed at home.
+The bag had a side zipper, which was even better. When unzipped, it could cover me, Sugarcane, and Cosmo, while Jewel and Sunny had Jewel's blanket. I huddled close to Sugarcane, trying to make myself comfortable.
 
-The
+I did not sleep well, and neither did anyone else. When I woke up with a back sore, feeling like I hadn't slept at all, only Cosmo and I were still in the tent. I poked my head outside and found Sugarcane and the other two huddled around each other, sitting on the ground.
+
+"Hey Sugarcane!" I said.
+
+All three of them immediately turned their heads towards me and held a finger to their mouths.
+
+I clasped my own mouth shut, and advanced quietly around them to see what they were on about.
+
+Lying on the grass beside a small backpack, with his head resting on a tree root and his body covered by Sunny's kite, was Thunder, fast asleep.
