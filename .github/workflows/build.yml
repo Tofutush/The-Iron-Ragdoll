@@ -33,9 +33,6 @@ jobs:
       - name: buildneo
         run: npm run buildneo
 
-      # - name: copy images
-      #   run: npm run copy
-
       - name: im a stats nerd
         run: du -sh _site _neocities
 
