@@ -1,5 +1,5 @@
 import Image from "@11ty/eleventy-img";
-import { existsSync } from "fs";
+import { existsSync, cpSync } from "fs";
 import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
@@ -50,7 +50,7 @@ function imagePlugin(eleventyConfig) {
 		let options = {
 			widths: [size],
 			formats: [format || 'webp'],
-			outputDir: './_site/img/'
+			outputDir: './.cache/img/'
 		};
 		if (animate && src.substring(src.length - 3) === 'gif') options.sharpOptions = { animated: true, };
 		return await Image(src, options);
@@ -69,6 +69,13 @@ function imagePlugin(eleventyConfig) {
 		};
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	}
+	// copy over to both
+	eleventyConfig.on("eleventy.after", () => {
+		cpSync(".cache/img/", "_site/img/", { recursive: true });
+	});
+	eleventyConfig.on("eleventy.after", () => {
+		cpSync(".cache/img/", "_neocities/img/", { recursive: true });
+	});
 }
 
 export default imagePlugin;
