@@ -33,11 +33,13 @@ Story privated for the time being while I write the book! It's going to be a nov
 
 > *The Spy School in Flower City* is a silly little coming-of-age story about friendship and belonging.
 >
-> Ministry Affiliate, often dubbed "Spy School" by its students, is the most prestigious school in all of Bauhinia. When Harmony and her best friend Sugarcane both receive an offer to attend, she finds it impossible to refuse. But to navigate the complexities of the school and prove that she belongs, Harmony must learn how to make new friends… and how to let them go.
+> Ministry Affiliate, often dubbed "Spy School" by its students, is the most prestigious school in all of Bauhinia, where students learn the art of espionage and partake in real-life missions. When Harmony and her best friend Sugarcane both receive an offer to attend, she finds it impossible to refuse. But to navigate the complexities of the school and prove that she belongs, Harmony must learn how to make new friends… and how to let them go.
+>
+> The downloads include both an EPUB and a PDF. You can also read it online on [my website](https://tofutush.neocities.org/stories/spy-school/chapter-1/)!
 
 > 《花城里的间谍学校》讲的是一个有关友谊、归属和成长的小故事。
 >
-> 国安附中——经常被同学们戏称为"间谍学校"——是紫荆国最顶尖的学府。和谐声和她最好的朋友甘蔗一同被邀请入学，这种难得的机会怎么能错过呢？但是要在这种复杂的学校里站稳脚跟，证明自己的能力，和谐声必须学会怎么交朋友……以及如何放手。
+> 国安附中——经常被同学们戏称为"间谍学校"——是紫荆国最顶尖的学府。在这里，学生学习间谍的艺术，并执行实战任务。和谐声和她最好的朋友甘蔗一同被邀请入学，这种难得的机会怎么能错过呢？但是要在这种复杂的学校里站稳脚跟，证明自己的能力，和谐声必须学会怎么交朋友……以及如何放手。
 >
 > 哈哈骗你的，没有中文版，某天我闲了可能会做个翻译吧。
 
