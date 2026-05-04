@@ -6,7 +6,7 @@ I stared at Thunder's body for a while, worried that he might be dead, but he wa
 
 I sat down next to Sugarcane and joined the arc of people watching him. Jewel had a stick in her hand, and she poked Thunder's arm with it. No response from the sleeping boy.
 
-A couple minutes later, Cosmo shouted from the tent, "*whoa*! Where did you go?!" She scrambled out of the tent, but hit her forehead just above the door frame and nearly brought the entire tent collapsing forward.
+A couple minutes later, Cosmo shouted from the tent, "*whoa*! Where is everyone?!" She scrambled out of the tent, but hit her forehead just above the door frame and nearly brought the entire tent collapsing forward.
 
 The commotion woke Thunder up. He opened his eyes to stare right into Jewel's face.
 
@@ -57,3 +57,5 @@ He then scratched his head, as if there was an itchy spot deep in his skull he c
 Jewel looked at Cosmo with wide-eyed interest, before focusing back on Thunder. "Your group kicked you out, didn't they?" She said.
 
 "Yeah…" He admitted. Cosmo nodded in approval.
+
+"What happened?" Sunny asked.
