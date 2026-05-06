@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-05-05
+
+- Updated the [Favorites Leaderboard](https://tofutush.leprd.space/), with a more leaderboard look!
+
 ## 2026-05-02
 
 - Added `thyme thumb.png`;
