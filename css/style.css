@@ -342,6 +342,10 @@ pre {
 	font-size: smaller;
 }
 
+.footnote-item:target {
+	outline: 1px dashed var(--c);
+}
+
 ::marker {
 	color: var(--text);
 	font-size: smaller;
