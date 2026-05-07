@@ -6,7 +6,9 @@ I stared at Thunder's body for a while, worried that he might be dead, but he wa
 
 I sat down next to Sugarcane and joined the arc of people watching him. Jewel had a stick in her hand, and she poked Thunder's arm with it. No response from the sleeping boy.
 
-A couple minutes later, Cosmo shouted from the tent, "*whoa*! Where is everyone?!" She scrambled out of the tent, but hit her forehead just above the door frame and nearly brought the entire tent collapsing forward.
+A couple minutes later, Cosmo shouted from the tent, "*whoa*! Where is everyone?!" She tried scrambling out of the tent, looking for the exit.
+
+Sugarcane went to help her with it, holding the tip of the tent up so the entrance stayed open enough for Cosmo to crawl out.
 
 The commotion woke Thunder up. He opened his eyes to stare right into Jewel's face.
 
@@ -24,7 +26,7 @@ Sunny was busily checking the kite for damages. "You had the time to detach the 
 
 I was pretty sure whenever Thunder came, I had been awake, desperately *trying* to sleep. But not awake enough to hear him rummaging through our bags, apparently. I checked my bag, but it looked untouched. Cosmo's and Sunny's were the only ones Thunder had gone through.
 
-"Um." Thunder said, and I recognized the tone. When I had refused to eat enough dinner at the table and later in the night asked Mom to unlock the snacks cabinet, I had used the same tone. "Would you mind if I joined your group?" Thunder asked.
+"Um." Thunder said, and I recognized the tone. When I had refused to eat enough dinner at the table and later in the night asked Mom to unlock the snacks cabinet, I had used the same tone. "Can I join your group?" Thunder asked.
 
 "Sure," Sugarcane shrugged. Cosmo shook her head, while Sunny nodded.
 

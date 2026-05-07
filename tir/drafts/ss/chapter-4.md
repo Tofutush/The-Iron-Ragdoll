@@ -104,7 +104,7 @@ The teacher shook her head. "Who's your head teacher?"
 
 "That stupid fucking moronic son of a mutt," the P.E. teacher muttered under her breath. Some student giggled, evidently offput by an adult swearing. They should meet my dad when he thought I wasn't listening.
 
-"You," the teacher said, handing the clipboard and pen to the student closest to her, a tall boy with yellow horns not unlike her own. "You're taking attendance for this class from now on."
+"You," the teacher said, handing the clipboard and pen to the student closest to her, a tall, muscular boy with yellow horns not unlike her own. "You're taking attendance for this class from now on."
 
 The boy looked like he regretted standing this close to the teacher.
 

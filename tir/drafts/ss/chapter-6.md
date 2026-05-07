@@ -2,9 +2,17 @@
 chNum: 6
 ---
 
-I spent the past few weeks of school paying attention in class, paying attention to Sugarcane, and trying to stay on top of my schoolwork, which was proving harder and harder because why did *every* teacher pile work on us like there was no tomorrow? The language teacher, despite her incompetence at technology, was way too competent at assigning essays and reading. The math teacher seemingly found it funny to have a quiz at the start of *every* class, which he didn't even grade himself. And Sky. Oh Sky was the worst. He would completely and thoroughly torture us in and out of class, and walk away *whistling*.
+I spent the past few weeks of school paying attention in class and paying attention to Sugarcane.
 
-But Sugarcane was there to help me, like always. Except that… every time we studied together, Cosmo and Sunny were also there, asking Sugarcane questions and giving their own advice. I wished I could tell Sugarcane to stay away from them, who were clearly only there to get help. We were helpful to each other occasionally, but I was sure it wouldn't last long. Maybe I would talk to her on the walk home today.
+It soon became apparent that everyone was recruited to the school for a reason. Cosmo for her lie-detection abilities that would be useful in questioning. Sunny for his incredible talent in math. He was taking some courses with the high-schoolers! Thunder might appear dumb, but you could see the muscles trying to burst out from under his skin and the P.E. teacher seemed to regard him as her crown jewel (which was a source of pain and misery for Thunder). And Sugarcane. Sugarcane was an obvious choice. She was the best of them all.
+
+But me? Why was *I* here? To convince Sugarcane to come?
+
+I tried to stay on top of my schoolwork, which was proving harder and harder because why did *every* teacher pile work on us like there was no tomorrow? The language teacher, despite her incompetence at technology, was way too competent at assigning essays and reading. The math teacher seemingly found it funny to have a quiz at the start of *every* class, which he wouldn't even grade himself. And Sky. Oh Sky was the worst. He would completely and thoroughly torture us in and out of class, and walk away *whistling*.
+
+But Sugarcane was there to help me, like always. Except that… every time we studied together, Cosmo and Sunny were also there, asking Sugarcane questions and giving their own advice.
+
+I wished I could tell Sugarcane to stay away from them, who were clearly only there to get help. Tall, fashionable, and long-haired, Cosmo reminded me too much of Rose. Surely Sugarcane could see that and avoid her? And Sunny was so nice to everyone that he *had* to have an ulterior motive. We were helpful to each other occasionally, but I was sure it wouldn't last long. Maybe I would talk to her on the walk home today.
 
 When we went to the soccer field for P.E., we saw a lot of canopy tents and tables being set up.
 
@@ -68,7 +76,7 @@ The crowd was so large we ended up looking at the tent next to them first. It wa
 
 "If you phrase it like that, not particularly," I said.
 
-"Heh, it'll be fun! We often do things together with the Investigative Investigators right there," she said. "There's a lot of member overlap too." She pointed to the booth right next to hers, where the crowd had dispersed, leaving a tall girl with a ponytail sitting behind the table. Her ears were black, instead of the usual white; and with her thin face and yellow eyes, she looked like a cat. Her shadow was unusually dark, too, like a black cat materializing from the shadows.
+"Heh, it'll be fun! We often do things together with the Investigative Investigators right there," she said. "There's a lot of member overlap too." She pointed to the booth right next to hers, where the crowd had dispersed, leaving a tall girl with a long ponytail sitting behind the table. Her ears were black, instead of the usual white; and with her thin face and yellow eyes, she looked like a cat. Her shadow was unusually dark, too, like a black cat materializing from the shadows.
 
 "Hey," Cosmo said. "Looks like the people are gone. Let's go, before another group comes in."
 
@@ -154,11 +162,11 @@ For a moment I thought she was purposefully getting rid of Cosmo so she could be
 
 "Oh, I want to look at it too," I said quickly.
 
-"I might go home, actually," Cosmo said. "Rush hour starts a bit later and I want to grab a seat on the subway."
+"I'll go home," Cosmo said. "Rush hour starts a bit later and I want to grab a seat on the subway."
 
 Sugarcane and I were finally alone! I opened my mouth to talk to her about Cosmo and Sunny, but she was already talking to the two high-schoolers in the Coding Club.
 
-"Our club is one of the biggest in the whole school," the high-schooler was saying. She wore glasses so thick it distorted her face. "There's something for everyone, and you're bound to meet new friends!"
+"Our club is one of the biggest in the whole school," the girl was saying. She wore glasses so thick it distorted her face. "There's something for everyone, and you're bound to meet new friends!"
 
 New friends. More Cosmos and Sunnys? No. That couldn't be happening.
 

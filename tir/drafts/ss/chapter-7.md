@@ -24,7 +24,7 @@ I had expected her to refuse, but not like *this*. "But I haven't even started!"
 
 "Yes, but I know a bit of programming and I know you. All these concepts would be too hard for you to handle. You're already struggling with schoolwork. Don't try to do any extra."
 
-I picked at my buns. I had shredded them to little pieces and soaked them in the porridge, which turned them a more appetizing, but not a lot.
+I picked at my buns. I had shredded them to little pieces and soaked them in the porridge, which turned them a little more appetizing, but not a lot.
 
 "Besides," Mom continued, "you're only doing this because Sugarcane did, right? You know you don't have to do everything Sugarcane does. Find your own hobbies."
 
@@ -38,7 +38,7 @@ After dinner, I went to help Dad with the dishes. And by "help," I meant standin
 
 "You don't happen to have a secret computer of your own?" I asked.
 
-"No," he answered curtly.
+"No," he answered curtly. Or rather, he answered normally, since curtness was his norm.
 
 "You really don't *ever* use a computer? What about your lesson plans? Slides? How do you make those?"
 
@@ -60,7 +60,7 @@ I spent all weekend weighing my options, and it suddenly dawned on me. The libra
 
 "No, it's fine, I can wait," I said quickly. "I'll wait in the library."
 
-How the stars had aligned for me. I was wondering when I would have time to study, since I needed to spend every waking moment around Sugarcane. Now I could go through her coding resources while she cleaned up the classroom. I would've offered to help her with the cleanup too; but in fifth grade she insisted on doing it without my help, so I hadn't brought it up since.
+How convenient. I was wondering when I would have time to study, since I needed to spend every waking moment around Sugarcane. Now I could go through her coding resources while she cleaned up the classroom. I would've offered to help her with the cleanup too; but in fifth grade she insisted on doing it without my help, so I hadn't brought it up since.
 
 I swiped my student card at the library entrance. The door swung open and a gust of cold wind greeted me. Everything seemed to be operating at a full capacity here: the air conditioners, the lights, and the students. The ground was a tranquil light-brown shade of wood. Bookshelves and tables lined up everywhere, with potted plants tucked in every corner.
 
@@ -72,7 +72,9 @@ For the next half-hour, I read through manuals and tutorials, answered quizzes, 
 
 "You forgot to save the file. It's been running the old version this whole time."
 
-I turned around to see Sugarcane sitting beside me. How long had she been here? How come I didn't notice? "Sugarcane!" I said, perhaps a little too loudly.
+I nearly jumped out of my seat, the instinctive part of my brain thinking it was Rose taunting me. But as soon as the surprise wore off, I knew I recognized the voice. I would never *not* recognize the voice.
+
+"Sugarcane!" I said, perhaps a little too loudly. How long had she been here? How come I didn't notice?
 
 I saved the file and ran the code. The result was correct.
 
@@ -90,7 +92,9 @@ I was *not* prepared.
 
 The boy from the clubs fair was the host. The whole time he was talking gibberish while Sugarcane nodded along. His laptop screen was projected for all of us to see while he typed into a hacker-esque interface, black screen with white and shiny green text.
 
-I started to zone out when his voice just became background noise. I stared at Sugarcane, who was taking notes on her phone.
+Most of the people here had their own laptops, where they typed into similar black screens. It was like some hacker's enclave. The people without laptops were mostly middle-schoolers, either staring intently at the projector screen, or nodding off, like me.
+
+The host's voice just became background noise. I stared at Sugarcane, who was taking notes on her phone.
 
 After what seemed like an eternity, it was over. Sugarcane headed to the front of the room to sign up and join the club while I waited in my seat.
 
@@ -100,7 +104,7 @@ After what seemed like an eternity, it was over. Sugarcane headed to the front o
 
 "Thanks," she said. "Will you continue to learn programming, though?"
 
-I wasn't sure. "Maybe." I hated that the *one* time I didn't notice Sugarcane next to me was when I got enthralled in a coding problem. Besides, Mom was right. I would only drag her down.
+I wasn't sure. "Maybe." Mom was right. I would only drag her down.
 
 "I'm glad," Sugarcane smiled. "Also, isn't the wilderness survival training tomorrow?"
 
@@ -130,7 +134,7 @@ Along with the buns, she also packed a week's worth of clothes and a sleeping ba
 
 "I also prepared matches, lighters, mosquito sprays, flashlights and batteries —"
 
-"Mom! Let me do this myself!" I said. I knew she wouldn't let me, and I was secretly quite grateful she got all of this ready for me, but still. How was I going to learn anything if she did all of it for me?
+"Mom! Let me do this myself!" I said. I knew she wouldn't let me, and I was secretly quite grateful she got all of this ready, but still. How was I going to learn anything if she did all of it for me?
 
 "Sure, you can look through here. I'll fetch the pocket knife in my room."
 
@@ -152,7 +156,7 @@ The next morning, I met Sugarcane at our usual spot in front of her apartment. S
 
 "I'm sure," I said. We made it to school with no problems.
 
-Thunder was near the gate. "To the clearing on the right, there's a bus," he said and yawned.
+Thunder was near the gate. "To the clearing on the right. There's a bus," he said and yawned.
 
 "Thanks," Sugarcane said and headed towards the clearing facing our classrooms, and sure enough, the P.E. teacher stood in front of a bus.
 
@@ -162,9 +166,13 @@ The bus slowly filled, and Sugarcane invited Cosmo and Sunny to sit in the two s
 
 "Jewel?" Sunny asked. "What are you doing here?"
 
-"I missed this last year," she said. "So I have to make it up."
+"You have to call me Vice-president Jewel," she answered, "since you're my minion now!"
 
-She sat behind us, and the P.E. teacher got on herself. "Class five," she announced. "There may be some eighth and ninth graders here who need to redo this assignment. Don't be like them."
+As she sat behind us, the P.E. teacher got on herself. "Class five," she announced. "There may be some eighth and ninth graders here who need to redo this assignment. Don't be like them."
+
+"And yeah, that's why," Jewel said. "I failed it last year."
+
+Wow. I would probably fail too. I could already see Mom's face in my mind, saying "You just need *more* stuff next year!"
 
 Thunder did attendance, and after confirming everyone was here, we were on our way.
 
@@ -172,7 +180,7 @@ It felt like an eternity, and the smell of bus seats made me sick. I drifted off
 
 Sugarcane shook me awake as the bus pulled to a stop. "We're here."
 
-I reluctantly stood up, stretching my numb limbs and put on my backpack. I checked the time. It was half past nine. We had been traveling for two hours??
+I reluctantly stood up, stretching my numb limbs and put on my backpack. I checked the time. It was half past nine. We had been traveling for two hours?
 
 We seemed to be in the middle of nowhere. The bus stood to the side of a dirt path leading to a nondescript gray block of a building standing in the center of attention, with equally gray and imposing walls extending from its sides all the way to the horizons. All around us were patchy, yellowed grass and weeds, with a few trees here and there. If we had all been kidnapped, I wouldn't have imagined anything different.
 
@@ -180,7 +188,7 @@ We seemed to be in the middle of nowhere. The bus stood to the side of a dirt pa
 
 We filed into the building. The door beeped for each person passing through. A metal detector?
 
-The entire building seemed to just be an antechamber, with the only other door being on the opposite wall. There was a single light flickering on the ceiling. It looked larger from the outside. Were there any secret rooms? Yet I couldn't find a single other door.
+The entire building seemed to just be an antechamber, with the only other door being on the opposite wall. There was a single light flickering on the ceiling. It looked larger from the outside. Were there any secret rooms? Yet I couldn't find any other door.
 
 The teacher produced a box. "Put your phones in here." The box was passed around as students dropped their phones inside. I parted with mine, whispering to it that we would reunite soon. Some people didn't have phones in the first place.
 

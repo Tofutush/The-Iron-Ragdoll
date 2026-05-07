@@ -26,9 +26,9 @@ The teacher sighed. "This happens every year." She headed back to the antechambe
 
 "You brought a *kite*?" Cosmo tilted her head at Sunny.
 
-"I don't get to celebrate Chongyang this year because of this stupid thing," Sunny frowned. "I thought at least I could just fly a kite myself." He showed us a spool of clear kite string, and tucked it back into his bag. "None of you observe that?"
+"I don't get to observe Chongyang this year because of this stupid thing," Sunny frowned. "I thought at least I could just fly a kite myself." He showed us a spool of clear kite string, and tucked it back into his bag. "None of you observe that?"
 
-I shook my head. Neither of my parents were a fan of holidays. For Chongyang specifically, both of Dad's parents were alive and kicking with endless energy about. They handled everything and Dad left them alone. Mom's parents were both dead and she didn't know where the rest of her family were. From conversations I picked up, it seemed that Mom's dad — my grandpa — was in a situation where he and Mom had to cut the rest of the family off.
+I shook my head. Neither of my parents were a fan of holidays. For Chongyang specifically, both of Dad's parents were alive and kicking with endless energy about. They handled everything and Dad left them alone. Mom's parents were both dead and she didn't know where the rest of her family were.
 
 "City kids," Sunny sighed.
 
@@ -46,7 +46,7 @@ Before I could breathe a sigh of relief: "Blackjack?"
 
 "How does she *say* all of this bullshit with a straight face?" Sugarcane shook her head.
 
-"Whoa, whoa," Jewel said. "Have you seen her eyes? Or eye. Just one eye. Her soul is so dark it's almost black. I've heard that these kinds of people don't have emotions. And she's not Bauhinian! I'm sure of that. I she's a Moose who defected!"
+"Whoa, whoa," Jewel said. "Have you seen her eyes? Or eye. Just one eye. Her soul is so dark it's almost black. I've heard that these kinds of people don't have emotions. And she's not Bauhinian! I'm sure of that. I think she's a Moose who defected!"
 
 "Defected from Moreland?" I said. "That sounds very dramatic."
 
@@ -56,21 +56,25 @@ Suddenly, a branch fell down from its tree, aimed straight at Cosmo's head.
 
 "Watch out!" Sugarcane shouted and tugged Cosmo back out of its path. The branch landed in front of Cosmo and behind Jewel.
 
-"Phew," Cosmo sighed. "Thanks, Sugarcane!"
+"Phew," Cosmo sighed. "Thanks, Sugar!"
 
 "No problem," Sugarcane replied.
+
+What the *fuck* did Cosmo say???
 
 Jewel turned around and bent down to examine the branch.
 
 "The base is a little burnt," she pointed out. "They blew the branch off with a bit of dynamite. They must've heard us dilly-dallying. Let's go quicker."
 
-"What?" I said. "Did they really? Why would they?"
+"What?" Sunny asked. "Did they really? Why would they?"
 
 "How do they even know?" Sugarcane asked.
 
 "Won't the wood catch fire?" Cosmo asked.
 
-"You saw this," Jewel waved at the branch. "They know what they're doing. They won't risk a fire hazard. Let's go first, before they blow another branch."
+I barely heard them. Did Cosmo just call Sugarcane *Sugar*?
+
+"You saw it," Jewel waved at the branch. "They know what they're doing. They won't risk a fire hazard. Let's go first, before they blow another branch."
 
 We hurriedly left the scene.
 
@@ -86,11 +90,11 @@ We hurriedly left the scene.
 
 "It doesn't matter. They can hear us regardless," Jewel said, keeping her original, loud volume. "Besides, we're training to be *like* them in the future! Why would the hunter be scared of bullets, when she's the one holding the gun?"
 
-She had a point, but I still felt weary, knowing now that our every movement was being watched.
+She had a point, but I still felt weary, knowing now that our every movement was being watched. This was not the right time to talk about Cosmo.
 
 The sun was high in the sky. It might be noon, for all I knew. But I did feel my stomach growl.
 
-"I'm hungry," Cosmo said out loud.
+"I'm hungry," Cosmo said out loud. I felt a wave of annoyance. You are *hungry*? *You* are hungry?? But I was hungry too and I didn't object.
 
 "It does seem to be lunch time," Sugarcane glanced at the sky. "Let's eat something."
 
@@ -100,7 +104,7 @@ We all brought food. Well, everyone else brought snacks. Compressed crackers, en
 
 "My mom loved making these," I said. "I've been eating them for dinner the entire month."
 
-We all shared our food with each other. I gave everyone a bun, Jewel passed her nuts around, and there was nothing I could've done to convince Sugarcane to not share her energy bars with everyone else. It would've been a really fun picnic, where we could've chatted and laughed, but we ate quickly and silently to avoid another branch or whatever punishment they could've doled out from a distance. When I was finished, though, I still felt the slight drowsiness from a fulfilling meal.
+We all shared our food with each other. I wanted to share mine with only Sugarcane, but everyone else was all sharing and I didn't want to appear weird. I gave everyone a bun, Jewel passed her nuts around, and Sugarcane shared her energy bars with everyone else. It would've been a really fun picnic, where we could've chatted and laughed, but we ate quickly and silently to avoid another branch or whatever punishment they could've doled out from a distance. When I was finished, though, I still felt the slight drowsiness from a fulfilling meal.
 
 We continued on our way. Some parts of the forest was easy to navigate, with tidy trees and soft grass to walk on. Some parts were entirely covered in shrubs, which we had to walk through, the small branches catching on my pants and scraping my arms. I tried cutting through them with Mom's pocket knife, but it was no help at all. Some parts of the forest was overgrown with giant banyan trees — or maybe just a single huge one, with its roots bursting out of the ground, threatening to trip us and sprain our ankles.
 
@@ -138,6 +142,8 @@ The sun beamed down. My backpack was weighing down on me more and more, making e
 
 "You're so stubborn," Sugarcane sighed.
 
+I kept trying to find a time to talk about the Cosmo thing. But every time I looked at Sugarcane, I felt weird and stopped myself.
+
 As we stopped for a break, collapsing on the ground panting, I noticed that the dirt was a lot softer and wetter than it had been near the entrance. It made a mess on my pants, but worse, I heard an incessant buzzing all around us.
 
 "Mosquitos," Cosmo hissed, swatting at the air.
@@ -148,15 +154,17 @@ Jewel examined the soft earth. "And the ground is… Wait, I know! We're near th
 
 "It flows down from the mountain. If we walk upstream, we'll eventually reach it!"
 
-I once again realized just how convenient it was to have an upperclassman on our team, who knew the layout of this mysterious facility. I couldn't imagine me and Sugarcane wandering around in circles, searching for a mountain neither of us could see.
+I should be grateful have an upperclassman on our team, who knew the layout of this mysterious facility. I couldn't imagine me and Sugarcane wandering around in circles, searching for a mountain neither of us could see.
 
 "I have some mosquito sprays," I offered. I reached into my bag and pulled out all three of them. They weren't heavy at all, but packing three was just adding unnecessary weight, which I was glad to be rid of.
 
 We all sprayed ourselves from head to toe, and I insisted the bottles didn't go back in my bag, but to whoever wanted it the most instead. "My bag's heavy enough without them."
 
+Sugarcane gave a can to Cosmo, and I secretly imagined daggers shooting out of my eyes, stabbing her in the face. Sunny, too. Why were they so close to each other?
+
 We walked quickly as the sun edged closer to the horizon. Finally, on the tail of twilight, we heard running water and burst through a row of trees to find a tiny stream, less wide than my arm's length.
 
-"We're here!" I exclaimed, collapsing onto a banyan tree root, which quickly proved to be a bad idea as it hurt my butt, so I stood up again.
+"We're here!" Sunny exclaimed, collapsing onto a banyan tree root.
 
 "Let's camp for the night," Jewel said. "We'll follow the river tomorrow."
 
@@ -178,11 +186,49 @@ The sun had set completely. I stuck my flashlight upright into the dirt to give 
 
 Eventually we were all too tired and crawled in the tent for the night. Jewel took out a blanket, but it was only enough for two people. "Sorry," she said. "I told myself I'd definitely get a partner this year so I won't be traveling alone, but I didn't expect and entire team!"
 
-"I have a sleeping bag," I said. Mom was right; the tent was indeed just a thin piece of fabric, and my back hurt from the tiny pebbles beneath. There was no way I could lay my whole sleeping bag out without taking up too much space, but maybe I could lay it across us as a blanket.
+"I have a sleeping bag," I said. Mom was right; the tent was indeed just a thin piece of fabric, and my back hurt from the tiny pebbles beneath. There was no way I could lay my whole sleeping bag out without taking up too much space, but maybe I could lay it across us as a blanket. The bag had a side zipper, which was even better. When unzipped, it could cover three people.
 
-The bag had a side zipper, which was even better. When unzipped, it could cover me, Sugarcane, and Cosmo, while Jewel and Sunny had Jewel's blanket. I huddled close to Sugarcane, trying to make myself comfortable.
+I thought about asking to exchange it for Jewel's blanket, so Sugarcane and I could use the blanket while those three had my sleeping bag, but Jewel was already throwing the blanket over herself and Sunny, so I was stuck with Cosmo.
 
-I did not sleep well, and neither did anyone else. When I woke up with a back sore, feeling like I hadn't slept at all, only Cosmo and I were still in the tent. I poked my head outside and found Sugarcane and the other two huddled around each other, sitting on the ground.
+Sugarcane lay between me and Cosmo, and I snuggled close. Now was the time.
+
+"Did Cosmo call you 'Sugar' back there?" I asked.
+
+"Huh?" Sugarcane sounded surprised.
+
+"When the branch was about to hit her, and you pulled her back. She said, 'thanks, Sugar' or something."
+
+"Oh yeah," Sugarcane said. "Cosmo likes calling her friends nicknames."
+
+Her friends? She wasn't friends with Sugarcane. *I* was!
+
+"I wanted to call her 'Cane' because it's one syllable, but she insisted on 'Sugar,'" came Cosmo's voice. "On second thought yeah, I admit Sugar is better."
+
+"What should Harmony's nickname be?" Sugarcane wondered.
+
+"Harm?" Cosmo suggested. "That's kind of funny."
+
+"My dad calls me 'Harm' all the time and I hate it," I said.
+
+"Aww, sorry," Cosmo said. "How about Mony then?"
+
+"Mony," Sugarcane said. "I like that. What do you think?"
+
+I hated it. I wanted to be called Harmony in its full glory. But if Sugarcane liked it…
+
+No, Sugarcane would always call me "Harmony" the way I would always call her "Sugarcane." If Cosmo couldn't get to call me one of her stupid nicknames, that was on her.
+
+"Eh, can you just call me Harmony?"
+
+"Fair," Cosmo said. "Harmony's a good name."
+
+I slowly drifted into a light sleep.
+
+---
+
+I did not sleep well, and I was pretty sure neither did anyone else. When I woke up with a back sore, feeling like I hadn't slept at all, only Cosmo and I were still in the tent. The tent was practically collapsed already, the roof functioning as another layer of blankets.
+
+I poked my head outside and found Sugarcane and the other two huddled around each other, sitting on the ground.
 
 "Hey Sugarcane!" I said.
 
