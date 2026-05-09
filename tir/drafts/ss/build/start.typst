@@ -11,7 +11,8 @@
 #set par(
   justify: true,
   first-line-indent: 1.5em,
-  spacing: 0.7em
+  leading: 1em,
+  spacing: 1em
 )
 
 #let horizontalrule = block(v(1em))
