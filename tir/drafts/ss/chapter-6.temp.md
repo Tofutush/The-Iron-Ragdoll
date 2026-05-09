@@ -1,3 +1,6 @@
+---
+chNum: 6
+---
 
 About half an hour in, I gave up. Sugarcane had left already, so I did as well. I packed up her backpack and found Sugarcane on a bench.
 

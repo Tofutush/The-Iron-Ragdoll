@@ -8,6 +8,7 @@
     "categories": "multitext",
     "draft": "checkbox",
     "complete": "checkbox",
-    "word-goal": "number"
+    "word-goal": "number",
+    "chNum": "number"
   }
 }

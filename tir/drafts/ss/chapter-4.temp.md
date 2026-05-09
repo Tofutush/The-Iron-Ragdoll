@@ -1,5 +1,5 @@
 ---
-chNum: "4"
+chNum: 4
 ---
 
 After we returned to the air-conditioning of the classroom, Sky unpacked the box on the table. It contained a stack of cards.
