@@ -40,9 +40,9 @@ Jewel moaned in pain as she sat up. "I think you're just messing with us now," s
 
 "There was an 8th grader with them who told them about it," the teacher answered.
 
-We all looked at Jewel, who sat embarrassingly scratching her head. "I forgot…"
+We all looked at Jewel, who sat embarrassingly scratching her head. "You never came to *me*…"
 
-The teacher had left without a word.
+"I went to get your unconscious sleepy-head and carried you all the way to the bus," Blackjack said. She picked up her inflatable hammer and left.
 
 "Speaking of, how did *you* coordinate the kite string thing?" I asked Sugarcane.
 

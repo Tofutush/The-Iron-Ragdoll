@@ -1,5 +1,5 @@
 ---
-chNum: 9
+chNum: 17
 ---
 
 I stared at Thunder's body for a while, worried that he might be dead, but he was breathing. He was just out cold.
@@ -61,3 +61,37 @@ Jewel looked at Cosmo with wide-eyed interest, before focusing back on Thunder. 
 "Yeah…" He admitted. Cosmo nodded in approval.
 
 "What happened?" Sunny asked.
+
+"Well," Thunder scratched the back of his head. "We were coming back from the mountain when —"
+
+Jewel cut him off. "You signed your name already?"
+
+"In the cave? Yes."
+
+"Then fuck off," Jewel said. "And leave us alone."
+
+"Jewel," Sunny started.
+
+"Don't argue with me. Don't argue with Blackjack's rules. Five people is the limit."
+
+"We don't know where the cave is," Sugarcane stated. "Thunder can lead the way."
+
+"Yes," Sunny agreed.
+
+"Didn't he steal your kite?" Cosmo said to Sunny. "You still want him here?"
+
+Ulterior motives, I concluded again. Sunny was *too* friendly towards everyone, even to people who stole his stuff.
+
+Thunder, despite being the tallest person here, looked smaller than all of us, standing awkwardly and staring at the ground as we argued.
+
+"He was alone, hungry, and cold," Sunny said. "If he had asked, I would've lent anything to him!"
+
+"But he *didn't* ask," Cosmo said. "Besides, Jewel knows the way to the cave, doesn't she?"
+
+Jewel opened her mouth awkwardly, but before she could speak, Sugarcane answered for her.
+
+"If she had known, she wouldn't be here this year."
+
+"I have a vague idea," Jewel insisted. "I can…"
+
+She trailed off and started staring at me. I stared back blankly, and felt Sugarcane's hand tugging me aside as a branch from the tree above smashed into my shoulder.
