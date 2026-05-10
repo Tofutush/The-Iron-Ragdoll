@@ -38,7 +38,10 @@
 #pagebreak()
 
 = Contents
-#outline(title: none)
+
+#columns(2)[
+  #outline(title: none)
+]
 
 #set heading(outlined: true)
 

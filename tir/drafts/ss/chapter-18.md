@@ -4,11 +4,13 @@ chNum: 18
 
 It would've landed on my head. But Sugarcane pulled me aside. She saved me.
 
-But my ankle *hurts*!
+But my arm *hurts*!
+
+The branch bounced to the ground beside my feet.
 
 "You okay, Harmony?" Sugarcane asked.
 
-"Ooooowwwww……" was all I could muster. The branch was still on my foot, pinning it to the ground.
+"Ooooowwwww……" was all I could muster.
 
 "Lie down," Sugarcane said. "Let me get this stick off your leg."
 
