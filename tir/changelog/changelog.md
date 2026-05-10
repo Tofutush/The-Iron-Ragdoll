@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-05-10
 
 - Added some statistics to the front page;
+- Added `sky tailcoat.png`, updated `sky ref.png`;
 
 ## 2026-05-05
 

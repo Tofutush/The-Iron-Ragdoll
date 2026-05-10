@@ -5672,7 +5672,7 @@
   },
   {
     "name": "sky ref",
-    "date": "2026-02-25",
+    "date": "2026-05-10",
     "ch": [
       "sky"
     ],
@@ -6069,5 +6069,13 @@
       "thyme"
     ],
     "kind": "thumb"
+  },
+  {
+    "name": "sky tailcoat",
+    "date": "2026-05-10",
+    "ch": [
+      "sky"
+    ],
+    "kind": "fullbody"
   }
 ]
