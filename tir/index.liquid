@@ -2,7 +2,6 @@
 layout: layout.liquid
 title: Root
 widepage: true
-news: Working on Spy School the novel! 20k words in
 ---
 <link rel="stylesheet" href="/css/home.css"/>
 {% assign dateMonth = 0 | getMMDD %}
@@ -60,7 +59,7 @@ news: Working on Spy School the novel! 20k words in
           <div class="callout-title-inner">What's up?</div>
         </div>
         <div class="callout-content">
-          {% if news %}{{ news | renderMD }}{% else %}<p>Nothing much.</p>{% endif %}
+          <p>Working on Spy School the novel! 20k words in.</p>
         </div>
       </div>
     </section>
@@ -86,6 +85,7 @@ news: Working on Spy School the novel! 20k words in
     </div>
   </section>
 </section>
+<p style="text-align: center;"><strong>Do you know?</strong> The Iron Ragdoll currently consists of <a href="/characters/"><strong>{{ characters.size }}</strong> characters</a>, <a href="/stories/"><strong>{{ stories.size }}</strong> stories</a>, and <a href="/gallery/"><strong>{{ gallery.size }}</strong> pictures</a>!</p>
 <section id="ch-scroll" tabindex="-1">
   <div id="scroll-content"></div>
 </section>

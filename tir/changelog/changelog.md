@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-05-10
+
+- Added some statistics to the front page;
+
 ## 2026-05-05
 
 - Updated the [Favorites Leaderboard](https://tofutush.leprd.space/), with a more leaderboard look!
