@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-05-12
+
+- Added `peony stand.png`;
+
 ## 2026-05-11
 
 - New characters, [Orchid](/characters/orchid/) and [Peony](/characters/peony/);

@@ -1060,6 +1060,18 @@
     "attr": {
       "Nationality": "Bauhinian (undocumented)",
       "Power": "Invisibility"
+    },
+    "palette": {
+      "dress 1": "#451631",
+      "dress 2": "#844074",
+      "dress 3": "#946291",
+      "bead 1": "#DEB1D8",
+      "bead 2": "#BE86B6",
+      "bead 3": "#8B5090",
+      "bead 4": "#70378A",
+      "sleeves": "#CCBA8D",
+      "hat": "#AC8D35",
+      "crown rim": "#8D5D28"
     }
   },
   {
