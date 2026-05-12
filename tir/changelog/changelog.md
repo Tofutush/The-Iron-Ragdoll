@@ -5,6 +5,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-05-11
+
+- New characters, [Orchid](/characters/orchid/) and [Peony](/characters/peony/);
+	- That brings us to 100!
+- Renamed *The Yacht Trip* to [The Last Bauhinian](/stories/the-last-bauhinian/);
+
 ## 2026-05-10
 
 - Added some statistics to the front page;

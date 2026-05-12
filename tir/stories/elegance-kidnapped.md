@@ -11,7 +11,7 @@ myTags:
   - Bauhinia
   - Coastline
 prev:
-  - "[The Yacht Trip](/stories/the-yacht-trip/)"
+  - "[The Last Bauhinian](/stories/the-last-bauhinian/)"
 ---
 
 Hyrax got a hunch that there might be a plot to kidnap Animus, so he hired a bodyguard to follow him around everywhere.

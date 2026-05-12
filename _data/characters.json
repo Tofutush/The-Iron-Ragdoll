@@ -1025,6 +1025,44 @@
     "about": "Hyrax is the chairman of Starcorp and the father of 5 children — four, actually."
   },
   {
+    "name": "Orchid",
+    "namezh": "兰",
+    "color": "#b74785",
+    "desc": "The Bauhinian princess.",
+    "tags": [
+      "Bauhinia",
+      "Froggy Island",
+      "Mind Reading"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian (undocumented)",
+      "Power": "Mind reading"
+    },
+    "palette": {
+      "dress 1": "#DEB1D8",
+      "dress 2": "#BE86B6",
+      "dress 3": "#8B5090",
+      "dress 4": "#70378A",
+      "sleeves": "#CCBA8D",
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Peony",
+    "namezh": "牡丹",
+    "color": "#770954",
+    "desc": "The Bauhinian emperor.",
+    "tags": [
+      "Bauhinia",
+      "Froggy Island",
+      "Invisibility"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian (undocumented)",
+      "Power": "Invisibility"
+    }
+  },
+  {
     "name": "Bunchberry",
     "namezh": "红串果",
     "color": "#ca4d3f",

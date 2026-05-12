@@ -1,5 +1,5 @@
 ---
-title: The Yacht Trip
+title: The Last Bauhinian
 chs:
   - sparky
   - peacock
@@ -10,6 +10,8 @@ chs:
   - devotion
   - elegance
   - animus
+  - orchid
+  - peony
 time: 2032-07
 desc: The two families go on a vacation.
 myTags:
@@ -25,3 +27,7 @@ Peacock's family and Hyrax's family go on Hyrax's fancy private yacht to sail to
 Also Peacock found Fantasy's little brother Ironheart and wrenched him away from his original adoptive parents (legally, like always).
 
 They sailed across the sea for a week to the island.
+
+There, Sparky, being Sparky, decided to explore and venture where she shouldn't. She found people she wasn't supposed to meet too, like a pair of twins descended from the last emperor of the Bauhinian Empire.
+
+And then shit happens because when does it not.

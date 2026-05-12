@@ -5,7 +5,7 @@ categories:
   - Locations
 ---
 
-[Hyrax](/characters/minor/#hyrax)'s personal island. He often goes there for vacations, sometimes taking his kids there too (see [The Yacht Trip](/stories/the-yacht-trip/)).
+[Hyrax](/characters/minor/#hyrax)'s personal island. He often goes there for vacations, sometimes taking his kids there too (see [The Last Bauhinian](/stories/the-last-bauhinian/)).
 
 ## Geography
 

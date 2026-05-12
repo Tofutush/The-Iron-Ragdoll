@@ -6078,5 +6078,13 @@
       "sky"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "orchid stand",
+    "date": "2026-05-11",
+    "ch": [
+      "orchid"
+    ],
+    "kind": "fullbody"
   }
 ]
