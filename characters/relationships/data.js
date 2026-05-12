@@ -248,6 +248,18 @@ img: "/The-Iron-Ragdoll/img/nERn0QKcm0-200.webp",
 },
 
 {
+id: "Orchid",
+color: "#b74785",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Peony",
+color: "#770954",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
 id: "Bunchberry",
 color: "#ca4d3f",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
@@ -1806,6 +1818,14 @@ target: "Kismet",
 rel1: "acquaintance",
 rel2: "acquaintance",
 
+},
+
+{
+source: "Orchid",
+target: "Peony",
+rel1: "twin sister",
+rel2: "twin brother",
+minor: true
 },
 
 {

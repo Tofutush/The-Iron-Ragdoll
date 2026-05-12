@@ -1,6 +1,16 @@
 const data = [
 
     {
+        id: "The Last Bauhinian",
+        parentIds: [
+            
+                "Pearl's Journey Home - Sylvandia",
+            
+        ],
+        url: "/stories/the-last-bauhinian/"
+    },
+
+    {
         id: "Coastline Middle School Mysteries",
         parentIds: [
             
@@ -123,20 +133,10 @@ const data = [
     },
 
     {
-        id: "The Yacht Trip",
-        parentIds: [
-            
-                "Pearl's Journey Home - Sylvandia",
-            
-        ],
-        url: "/stories/the-yacht-trip/"
-    },
-
-    {
         id: "Elegance Kidnapped",
         parentIds: [
             
-                "The Yacht Trip",
+                "The Last Bauhinian",
             
         ],
         url: "/stories/elegance-kidnapped/"
