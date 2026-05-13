@@ -40,7 +40,7 @@ They all looked towards me. I stared back blankly, until I realized I needed to 
 
 My brain started to panic. I wanted to support Sugarcane's decisions, but this time I really didn't want more people around her, taking her attention away. Besides, Thunder stole Cosmo's snacks and Sunny's kite. But wait… if I allowed Thunder into the group, would Cosmo and Sunny leave on their own accords? If they did, that would be great. But *would* they? I imagined Cosmo and Sunny packing up, leaving us because of Thunder. They'd take the tent, and disappear into the horizon, never bothering Sugarcane ever again —
 
-The tent. We only had one, because we grouped up.
+Hold on. The tent. We only had one, because we grouped up.
 
 "Where's your tent?" I blurted out.
 
@@ -82,7 +82,7 @@ Jewel cut him off. "You signed your name already?"
 
 Ulterior motives, I concluded again. Sunny was *too* friendly towards everyone, even to people who stole his stuff.
 
-Thunder, despite being the tallest person here, looked smaller than all of us, standing awkwardly and staring at the ground as we argued.
+Thunder, despite being the tallest person here, looked smaller than all of us, standing awkwardly and staring at the ground as we argued. He caught my eye and I shrugged.
 
 "He was alone, hungry, and cold," Sunny said. "If he had asked, I would've lent anything to him!"
 
