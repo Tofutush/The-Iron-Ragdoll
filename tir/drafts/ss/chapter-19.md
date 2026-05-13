@@ -4,7 +4,7 @@ chNum: 19
 
 "This place used to be a military training ground, before it retired and Ministry Affiliate decided to make use of it," Blackjack said.
 
-"Teacher?" I asked.
+"Teacher?" I said.
 
 "Finally found you," Blackjack said. "Hiding in a goddamn corner."
 

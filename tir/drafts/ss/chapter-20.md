@@ -2,7 +2,9 @@
 chNum: 20
 ---
 
-There wasn't enough space for me to set my bag down at ease, so I asked, "Sugarcane, can you open my bag and take out the flashlights?"
+Jewel poked her head in the tunnel. "It's awfully dark in there," she said. "Harmony? Can we get your flashlights?"
+
+"Sure," I said. There wasn't enough space for me to set my bag down at ease, so I asked, "Sugarcane, can you open my bag and take out the flashlights?"
 
 Except it was Sunny who answered. "Okay, let me."
 
