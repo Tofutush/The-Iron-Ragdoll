@@ -1,3 +1,8 @@
+if (navigator.userAgent === "Screenjesus") {
+	document.body.innerHTML = `<img src="/img/bg/icon.png style="height: 100vh; margin: auto;"/>`;
+	return;
+}
+
 const keys = Object.keys(imgs);
 const div = document.getElementById('scroll-content');
 function randomize() {
