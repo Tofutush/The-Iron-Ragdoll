@@ -1,4 +1,4 @@
-if (navigator.userAgent === "Screenjesus") {
+if (navigator.userAgent.includes("Screenjesus")) {
 	document.body.innerHTML = `<img src="/img/bg/icon.png style="height: 100vh; margin: auto;"/>`;
 	return;
 }
