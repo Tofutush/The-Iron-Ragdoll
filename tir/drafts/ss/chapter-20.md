@@ -75,3 +75,41 @@ She slung the bag over her shoulder. "Where's Blackjack?"
 "She's collecting anyone who's still out there. She told us to wait here."
 
 "Fine," Cosmo picked an empty patch of ground and sat down. We joined her.
+
+Sugarcane laid on the ground, using her bag as a pillow. "I can't wait to go home," she said. "One weekend wasted on whatever this is. What even is the point?"
+
+"Something something teamwork something," Cosmo mumbled.
+
+"I thought we would be fighting bears," I said. "Lucky that we don't have to, though."
+
+"I would literally faint and die," Sunny said. "Where's Jewel?" He looked around.
+
+"Jewel?" Sugarcane called out.
+
+"Huh?" Jewel was on the other side of the room, sniffing the wall.
+
+"Um… What are you doing?" I asked.
+
+"Looking for a hidden door," she answered. "Come here, Sunny. You're the club member."
+
+"Okay," Sunny said, bounding over to Jewel. "What hidden door?"
+
+"Leading to the room with the camera feed," Jewel said. "There must be a room here where they watch and listen to us."
+
+"Oooh," Sunny said. "I never thought of that."
+
+"Oh, right!" I jumped up. "When I first got here, I felt like the building was bigger on the outside."
+
+Sunny immediately ran out to check. A moment later, he came back. "You're right! There's definitely a secret room on this side," he said.
+
+"I never got to look closely last year, and I definitely won't be back again, so this is my only chance," Jewel said as we went back in. "Watch and learn."
+
+She traced her hand over the dusty cement wall, walking from this side to the next. Sunny and I followed close behind, mimicking her movements, though I didn't really know what we were looking for. Bumps in the wall? But nowhere on the wall was even smooth. Bumps were everywhere.
+
+"You should join the Investigators club," Jewel said to me.
+
+"Eh, I'll think about it," I said, though I knew I would not, as long as Sugarcane wasn't interested.
+
+All three of us were plastered to the wall like this when Blackjack walked in with the rest of the students.
+
+"What are you doing?" She said.
