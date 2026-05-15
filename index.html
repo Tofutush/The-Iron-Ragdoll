@@ -29,6 +29,12 @@
       max-width: 1200px;
     }
   </style>
+  <script>
+    if (navigator.userAgent.toLowerCase().includes("screenjesus")) document.addEventListener('DOMContentLoaded', () => {
+      document.body.innerHTML = `<img src="/img/bg/icon.png" style="height: 100vh; margin: auto;"/>`;\
+      document.body.style.backgroundColor = '#000';
+    });
+  </script>
 </head>
 
 <body>
@@ -43,12 +49,6 @@
     <a href="/The-Iron-Ragdoll/changelog/">Updates</a>
   </nav>
   <main>
-    <script>
-      if (navigator.userAgent.toLowerCase().includes("screenjesus")) {
-        document.body.innerHTML = `<img src="/img/bg/icon.png" style="height: 100vh; margin: auto;"/>`;
-        return;
-      }
-    </script>
     <link rel="stylesheet" href="/The-Iron-Ragdoll/css/home.css">
     <section id="title">
       <p><em>Welcome to the world of</em></p>
