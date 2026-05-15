@@ -50,6 +50,7 @@ function utilPlugin(eleventyConfig) {
 		return arr[Math.floor(Math.random() * arr.length)];
 	});
 	eleventyConfig.addFilter('getMMDD', function (bleh) {
+		console.log(`you asked for date: ${new Date().toISOString().slice(5, 10)}`);
 		return new Date().toISOString().slice(5, 10);
 	});
 	eleventyConfig.addFilter('toDateObj', function (date) {
