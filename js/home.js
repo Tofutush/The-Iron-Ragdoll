@@ -1,4 +1,4 @@
-if (navigator.userAgent.includes("Screenjesus")) {
+if (navigator.userAgent.toLowerCase().includes("screenjesus")) {
 	document.body.innerHTML = `<img src="/img/bg/icon.png" style="height: 100vh; margin: auto;"/>`;
 	return;
 }
