@@ -42,6 +42,6 @@ We made a beeline for the south, Jewel leading the way with the watch trick Suga
 
 "It must be a nightmare to clean these up," Sunny said, looking at the branches.
 
-"Who cares?" Jewel said.
+"Who cares?" Jewel said. "They blew them up in the first place."
 
-It occurred to me that Jewel didn't need us at this point. She had the watch.
+It occurred to me that Jewel didn't need us at this point. She had the watch. She could've just went ahead herself.
