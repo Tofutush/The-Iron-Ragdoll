@@ -122,6 +122,8 @@ All three of us were plastered to the wall like this when Blackjack walked in wi
 
 "Oh. I do that on my phone." Blackjack held up her phone to demonstrate. A video feed of a part of the forest was displayed on the screen.
 
-"But… the building looks bigger on the outside!" Sunny said.
+"But… the building looks bigger on the outside?" Sunny said.
 
 "Soundproof walls are thick," Blackjack said. "Now are we ready to go, or do you want me to tear the walls down?"
+
+We were ready.
