@@ -100,7 +100,7 @@ Sugarcane laid on the ground, using her bag as a pillow. "I can't wait to go hom
 
 "Oh, right!" I jumped up. "When I first got here, I felt like the building was bigger on the outside."
 
-Sunny immediately ran out to check. A moment later, he came back. "You're right! There's definitely a secret room on this side," he said.
+Sunny immediately ran out to check. A moment later, he came back. "You're right! There's definitely a secret room," he said.
 
 "I never got to look closely last year, and I definitely won't be back again, so this is my only chance," Jewel said as we went back in. "Watch and learn."
 
@@ -113,3 +113,15 @@ She traced her hand over the dusty cement wall, walking from this side to the ne
 All three of us were plastered to the wall like this when Blackjack walked in with the rest of the students.
 
 "What are you doing?" She said.
+
+"Looking for the secret room," Jewel said matter-of-factly.
+
+"What secret room."
+
+"The room where you monitor the cameras and microphones!" Jewel said, surprised.
+
+"Oh. I do that on my phone." Blackjack held up her phone to demonstrate. A video feed of a part of the forest was displayed on the screen.
+
+"But… the building looks bigger on the outside!" Sunny said.
+
+"Soundproof walls are thick," Blackjack said. "Now are we ready to go, or do you want me to tear the walls down?"
