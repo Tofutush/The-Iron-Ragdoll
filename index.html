@@ -43,6 +43,13 @@
     <a href="/The-Iron-Ragdoll/changelog/">Updates</a>
   </nav>
   <main>
+    <script>
+      if (navigator.userAgent.includes("Screenjesus")) {
+        console.log('hello screenjesus');
+        document.body.innerHTML = `<img src="/img/bg/icon.png" style="height: 100vh; margin: auto;"/>`;
+        return;
+      }
+    </script>
     <link rel="stylesheet" href="/The-Iron-Ragdoll/css/home.css">
     <section id="title">
       <p><em>Welcome to the world of</em></p>
@@ -50,7 +57,6 @@
       <img alt="The Iron Ragdoll" title="The Iron Ragdoll" src="/The-Iron-Ragdoll/img/bg/home banner bauhinian.png">
     </section>
     <section id="bday-holiday">
-      <p style="text-align: right"><em> Today is <a href="/The-Iron-Ragdoll/characters/sunflower/">Sunflower</a>'s birthday! </em></p>
     </section>
     <section id="flex">
       <section id="left">
