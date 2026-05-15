@@ -110,7 +110,7 @@ A strap on my bag was dangling loose, bouncing up and down as Cosmo ran. I manag
 
 "Hey, hey, what's that?" Cosmo suddenly stopped, sending me crashing into the bag on her back. She stumbled, but kept her balance.
 
-I peeked out from behind her. We seemed to be on a dirt road, two grooves etched into the ground by car tires. A single rusty barrier that might have once been pink lay on the road, attached to what looked like a toll booth, equally rusty. No walls were on either side of the barrier, making it pretty easy to circumvent, but no attempts had apparently been made, judging from the lush and largely intact bushes and grass on either side.
+I peeked out from behind her. We seemed to be on a dirt road, two grooves etched into the ground by car tires. The sky was not covered by the trees for once. A single rusty barrier that might have once been pink lay on the road, attached to what looked like a toll booth, equally rusty. No walls were on either side of the barrier, making it pretty easy to circumvent, but no attempts had apparently been made, judging from the lush and largely intact bushes and grass on either side.
 
 "Is this some sort of an entrance?" Jewel popped up beside us and said.
 

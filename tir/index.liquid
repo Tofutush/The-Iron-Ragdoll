@@ -3,6 +3,13 @@ layout: layout.liquid
 title: Root
 widepage: true
 ---
+<script>
+  if (navigator.userAgent.includes("Screenjesus")) {
+    console.log('hello screenjesus');
+    document.body.innerHTML = `<img src="/img/bg/icon.png" style="height: 100vh; margin: auto;"/>`;
+    return;
+  }
+</script>
 <link rel="stylesheet" href="/css/home.css"/>
 {% assign dateMonth = 0 | getMMDD %}
 {% if dateMonth == '12-13' %}

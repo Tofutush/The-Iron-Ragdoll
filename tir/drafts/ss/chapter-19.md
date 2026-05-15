@@ -86,9 +86,9 @@ She did as I asked, but instead of just giving it to me, she decided to put the 
 
 "No problem," she replied.
 
-"It's two o'clock," Jewel called to us, a distance away.
+"It's three o'clock," Jewel called to us, a distance away.
 
-"It's actually one thirty," Sunny, standing next to her, corrected. "But yeah, it's good idea to hurry," he added when Jewel started glaring at him.
+"It's actually two thirty," Sunny, standing next to her, corrected. "But yeah, it's good idea to hurry," he added when Jewel started glaring at him.
 
 We walked along the car path until we came to an intersection. Well, kind of. The wider path with the tire tracks veered off the mountain, heading towards ground level. The path upwards continued in a narrow stone ledge, just wide enough for two people to walk side by side.
 
