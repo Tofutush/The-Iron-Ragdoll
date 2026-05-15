@@ -44,4 +44,34 @@ We made a beeline for the south, Jewel leading the way with the watch trick Suga
 
 "Who cares?" Jewel said. "They blew them up in the first place."
 
-It occurred to me that Jewel didn't need us at this point. She had the watch. She could've just went ahead herself.
+It occurred to me that Jewel didn't need us at this point. She had the watch. She could've just went ahead herself. But she still stayed with us.
+
+But maybe she just thought she might still need us.
+
+The return trip felt much shorter now that we knew where we were going. We saw the gray block of the antechamber at four thirty.
+
+"Finally!" Sunny said, raising a fist.
+
+"What if they'd left without us?" I said.
+
+"Let's find out then," Sugarcane pushed the door open and went in.
+
+There were only about a dozen people there, most sitting on the ground, chatting or snacking. Blackjack was not present.
+
+Thunder was sitting on the only chair, Cosmo's backpack by his feet. He stood up as we entered.
+
+"Here," he handed the bag to Cosmo.
+
+She slung the bag over her shoulder. "Where's Blackjack?"
+
+"Blackjack?"
+
+"The teacher."
+
+"Oh!" Thunder's eyes lit up. "So *that* was who you were talking about! I was so confused. I thought you were talking about like, the rules of the game."
+
+"So where *is* she?" Cosmo asked.
+
+"She's collecting anyone who's still out there. She told us to wait here."
+
+"Fine," Cosmo picked an empty patch of ground and sat down. We joined her.
