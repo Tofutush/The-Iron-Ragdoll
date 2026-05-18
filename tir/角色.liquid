@@ -42,12 +42,13 @@
 		</section>
 		{% for ch in characters %}
 			<article id="{{ ch.namezh }}">
-				<h2 style="color: {{ ch.color }}">{{ ch.namezh }} <span class="en">{{ ch.name }}</span></h2>
 				{% assign filteredGallery = gallery | filterGallery: ch.name %}
+				{% assign thumb = filteredGallery | getFirstOfKind: "thumb" %}
 				{% assign ref = filteredGallery | getFirstOfKind: "ref" %}
 				{% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
+				<h2 style="color: {{ ch.color }}">{% if thumb %}<img class="thumb" src="{% imageRaw thumb %}"/>{% endif %} {{ ch.namezh }} <span class="en">{{ ch.name }}</span></h2>
 				{% if ch.desczh %}
-					{% if fullbody %}<img src="{% imageRaw fullbody %}"/>{% endif %}
+					{% if fullbody %}<img class="float" src="{% imageRaw fullbody %}"/>{% endif %}
 					{{ ch.desczh | renderMD }}
 				{% endif %}
 				{% if ref %}<img src="{% imageRaw ref %}"/>{% endif %}

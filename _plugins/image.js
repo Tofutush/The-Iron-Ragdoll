@@ -16,7 +16,7 @@ function imagePlugin(eleventyConfig) {
 	});
 	// githubusercontent link
 	eleventyConfig.addShortcode('imageRaw', async function (img) {
-		return `https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/${getImgSrc(img)}`;
+		return `https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/${getImgSrc(img).src}`;
 	});
 	// for character icons, double fallback from profile - thumb - placeholder
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
