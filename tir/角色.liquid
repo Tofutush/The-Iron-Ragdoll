@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="角色 | 铁打洋娃娃">
+	<meta name="author" content="吸螺壳">
+	<meta name="theme-color" content="#555555" />
+	<meta property="og:title" content="角色 | 铁打洋娃娃">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png">
+	<meta property="og:site_name" content="铁打洋娃娃">
+	<meta property="og:description" content="角色 | 铁打洋娃娃">
+	<title>角色 | 铁打洋娃娃</title>
+	<link rel="stylesheet" href="style.css" />
+	<link rel="icon" href="icon.ico" />
+</head>
+
+<body>
+	<header>
+		<h1>铁打洋娃娃</h1>
+		<nav>
+			<a href="/tdyww/">主页</a>
+			<a href="#">角色</a>
+			<a href="故事.html">故事</a>
+			<a href="世界观.html">世界观</a>
+			<a href="更新日志.html">更新日志</a>
+		</nav>
+	</header>
+	<main>
+		<section id="toc">
+			<input type="checkbox" id="toc-toggle" />
+			<label for="toc-toggle">目录</label>
+			<section id="toc-content">
+				<ul>
+					{% for ch in characters %}
+						<li><a style="--c: {{ ch.color }};" href="#{{ ch.namezh }}">{{ ch.namezh }}</a></li>
+					{% endfor %}
+				</ul>
+			</section>
+		</section>
+		{% for ch in characters %}
+			<article id="{{ ch.namezh }}">
+				<h2 style="color: {{ ch.color }}">{{ ch.namezh }} <span class="en">{{ ch.name }}</span></h2>
+				{% assign filteredGallery = gallery | filterGallery: ch.name %}
+				{% assign ref = filteredGallery | getFirstOfKind: "ref" %}
+				{% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
+				{% if ch.desczh %}
+					{% if fullbody %}<img src="{% imageRaw fullbody %}"/>{% endif %}
+					{{ ch.desczh | renderMD }}
+				{% endif %}
+				{% if ref %}<img src="{% imageRaw ref %}"/>{% endif %}
+			</article>
+		{% endfor %}
+	</main>
+	<footer>
+		<p>铁打洋娃娃（作者吸螺壳）采用 <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a> 授权。</p>
+	</footer>
+</body>
+
+</html>

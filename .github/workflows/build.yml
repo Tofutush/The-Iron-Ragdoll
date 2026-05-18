@@ -28,10 +28,14 @@ jobs:
         run: npm ci
 
       - name: build
-        run: npm run build
+        run: |
+          npm run build
+          npm run buildneo
 
-      - name: buildneo
-        run: npm run buildneo
+      - name: delete
+        run: |
+          rm -r _site/角色/
+          rm -r _neocities/角色/
 
       - name: im a stats nerd
         run: du -sh _site _neocities
