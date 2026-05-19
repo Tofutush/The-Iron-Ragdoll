@@ -24,7 +24,7 @@ Mom came out from her study. "What is it?" And then she saw the man in the doorw
 
 We sat down around the tea table. The man introduced himself as Sky Elmwood Dazzle. Mom made tea.
 
-"I am here on behalf of the the Middle School for Young Officers in Training Affiliated to the Ministry of State Security." Sky began. "I know it's a mouthful. We usually call it Ministry Affiliate.
+"I am here on behalf of the Middle School for Young Officers in Training Affiliated to the Ministry of State Security." Sky began. "I know it's a mouthful. We usually call it Ministry Affiliate.
 
 "Your daughter is about to graduate elementary school. We are giving her an offer to attend middle school here."
 
@@ -32,11 +32,11 @@ We sat down around the tea table. The man introduced himself as Sky Elmwood Dazz
 
 "You are not mistaken. Our administration sees potential in a student like Harmony."
 
-For the second time, he looked into my eyes. I averted my gaze, feeling my heart beat quicken. Was he serious?
+For the second time, he looked into my eyes. I averted my gaze, feeling my heartbeat quicken. Was he serious?
 
 I felt compelled to say something lest Sky thought I was an idiot. "Uh, what's Ministry Affiliate?" I asked.
 
-"It's a special school ran by the Ministry of State Security," Sky said. "Where you can start early in your training to become an officer there. We will teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me."
+"It's a special school run by the Ministry of State Security," Sky said. "Where you can start early in your training to become an officer there. We will teach you things you'd never learn anywhere else." Sky took another sip of tea. "You get to participate in missions, catching spies that are damaging our national security. And finally you can graduate into becoming an officer just like me."
 
 Oh. I had heard about the mystical school before, of its prestige and its secrecy. *Everyone* wanted to attend Ministry Affiliate.
 
@@ -70,7 +70,7 @@ I coughed.
 
 "What is there to consider?" I picked the book back up from the sofa and headed for my room. "Sugarcane is going."
 
-"Do you know what that school is?" Mom chased walked after me. "They all call it Spy School."
+"Do you know what that school is?" Mom chased after me. "They all call it Spy School."
 
 "I think I've heard of it," I set the book facedown on my desk.
 
@@ -110,7 +110,7 @@ Rose was a classmate of ours. Sugarcane didn't like her, and she refused to hang
 
 "Oh, hey Rose," Sugarcane said without turning her head. "What's 'great' is that you're here, and you can play with things appropriate for your age." She waved at the swings and slides, around which a couple of kindergartners were happily chasing each other.
 
-Rose decided to ignore the comment. "What is this 'ministry school' I heard from you two?" She said with a face full of smug. "Some fancy version of a juvie?"
+Rose decided to ignore the comment. "What is this 'ministry school' I heard from you two?" She said with a face full of smugness. "Some fancy version of a juvie?"
 
 "Sitting in the grass getting your ass all wet and a bunch of bug bites, just to ask that basic question." Sugarcane shook her head. "This is why they didn't recruit you." She stood up, still facing away from Rose. "C'mon, Harmony, let's go. Talk somewhere without little spies snooping on us. Not that she's a good spy, but still."
 
@@ -120,7 +120,7 @@ I got up to follow Sugarcane, but I needed to defend her too. "You're just jealo
 
 "Don't mind her," Sugarcane said. "You're right, she's just jealous she couldn't be like us."
 
-When they were far enough away from Rose, Sugarcane finally turned excitedly to me, her face blooming into a whole-hearted smile unlike the cool condescending smile she put on in front of Rose. "You're really coming! I said I'd only attend if you do!"
+When we were far away enough from Rose, Sugarcane finally turned excitedly to me, her face blooming into a whole-hearted smile unlike the cool condescending smile she put on in front of Rose. "You're really coming! I said I'd only attend if you do!"
 
 "Hey, I also said that!"
 

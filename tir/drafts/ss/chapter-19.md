@@ -104,4 +104,22 @@ We walked along the car path until we came to an intersection. Well, kind of. Th
 
 We all got on behind Jewel. I looked steadily forward, trying not to think about the cliff, though when I looked, it didn't seem that high off the ground, with all the bushes. But maybe it was taller than it looked.
 
-"It's right here!" Came Jewel's voice. We rushed around a corner, and sure enough, there was an entrance to a narrow tunnel. A red arrow was painted on the wall, confirming that this was the right place. We had reached our destination at last.
+"It's right here!" Came Jewel's voice ahead of us.
+
+"Coming!" Cosmo yelled back, running forward. I followed close behind, when suddenly something caught on my foot and the ground came tumbling upwards, smashing into my face — or rather, I fell face-flat on the ground. Ouch. I tasted blood.
+
+"Harmony!" Sugarcane said.
+
+I could imagine her reaching for me when Sunny also screamed.
+
+"Sunny!" Sugarcane said again, with the same tone. Sunny was still screaming.
+
+I felt a hand removing my backpack and helping me sit up. It was Cosmo.
+
+"You okay?" She asked, squatting in front of me.
+
+"Aaarrrgh…" I mumbled, head still dizzy, nose still throbbing. Over Cosmo's shoulder, I saw Sugarcane lying on her stomach, hand dangling over the ledge, but I couldn't make out what exactly she was doing.
+
+"Sugarcane?" I said, not sure if the words even came out right. My mouth also hurt, and I could still taste the blood on my tongue.
+
+Cosmo stood up to join her, reaching for whatever Sugarcane was holding onto. That was when I realized Sunny must've fallen off the ledge.
