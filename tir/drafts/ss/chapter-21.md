@@ -26,7 +26,7 @@ She slung the bag over her shoulder. "Where's Blackjack?"
 
 "She's collecting anyone who's still out there. She told us to wait here."
 
-"Fine," Cosmo picked an empty patch of ground and sat down. We joined her.
+"Fine." Cosmo picked an empty patch of ground and sat down. We joined her.
 
 Sugarcane laid on the ground, using her bag as a pillow. "I can't wait to go home," she said. "One weekend wasted on whatever this is. What even is the point?"
 
@@ -82,7 +82,7 @@ They were plastered to the wall like this when Blackjack walked in with the rest
 
 "Soundproof walls are thick," Blackjack said. "Now are we ready to go, or do you want me to tear the walls down?"
 
-"Sorry," I said, and we all filed back into the bus. The box of phones was passed around and we all collected ours. Before we left, I took one last look at the nondescript building. Maybe there was a secret room, or maybe it was indeed just thick walls. Either way, we wouldn't be back here again.
+"Sorry," Jewel said, and we all filed back into the bus. The box of phones was passed around and we all collected ours. Before we left, I took one last look at the nondescript building. Maybe there was a secret room, or maybe it was indeed just thick walls. Either way, we wouldn't be back here again.
 
 I leaned on the window and fell asleep.
 
@@ -95,3 +95,45 @@ We didn't talk much along the way, exhausted by the exertion and because we didn
 She yawned and said, "have an early night."
 
 "I will."
+
+I knew I would not, and that was before I knew what was coming next.
+
+Mom had a grave expression on when she opened the door.
+
+"What is it?" I asked.
+
+"Come in first. Have dinner."
+
+We had some normal food. For once, the table wasn't flooded with steam buns. Instead, I actually had rice and some really juicy fried beef.
+
+Dad cleared his throat.
+
+"We got your entrance exam scores back," he said.
+
+"What? They said they wouldn't grade them!"
+
+"But of course they did," Mom said. "They told us not to tell you, but I think you deserve to know."
+
+"We're a family," Dad added. "We shouldn't keep secrets from each other."
+
+"But I don't *want* to know!" My mood had been at rock bottom today already, dealing with whatever was going on with Sugarcane. I didn't want to hear about how terribly I had failed before school even began and how I needed to transfer away.
+
+"You got a nine," Mom said. "Out of a hundred."
+
+"Sky said —" Dad started.
+
+"That I'd better get out of here before it's too late, right?"
+
+"Um. Right."
+
+"Why don't they just give Spy School some special privilege to expel students? That would make my life easier! Just kick me out!"
+
+I ran back to my room and slammed the door, throwing myself on the bed and burying my nose into the pillow.
+
+Sugarcane's voice rang in my head again.
+
+*"I told him I wouldn't attend unless you do too."*
+
+This was it. Sky got Sugarcane, the kid he really wanted. Now I had overstayed my welcome.
+
+Time to go. Away from Sugarcane. To Flower City Middle School, I suppose. Maybe I would even end up in the same class as Rose.

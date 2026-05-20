@@ -1,6 +1,6 @@
 #set page(
   paper: "a5",
-  margin: 0.8in,
+  margin: 0.7in,
   numbering: "i",
   footer: none
 )
@@ -11,8 +11,8 @@
 #set par(
   justify: true,
   first-line-indent: 1.5em,
-  leading: 1em,
-  spacing: 1em
+  leading: 0.8em,
+  spacing: 0.8em
 )
 
 #let horizontalrule = block(v(1em))
@@ -49,7 +49,7 @@
   numbering: "1",
   footer: align(center, text(
     font: "Lexend",
-    size: 10pt,
+    size: 8pt,
     context { counter(page).display("1") }
   ))
 )
