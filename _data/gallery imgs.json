@@ -2909,8 +2909,7 @@
     "date": "2025-05-04",
     "ch": [
       "nebula"
-    ],
-    "kind": "fullbody"
+    ]
   },
   {
     "name": "qibli into trinket",
@@ -3121,8 +3120,7 @@
     "date": "2025-06-01",
     "ch": [
       "nebula"
-    ],
-    "kind": "pagedoll"
+    ]
   },
   {
     "name": "pearl footer",
@@ -5291,7 +5289,8 @@
     "date": "2026-01-06",
     "ch": [
       "nebula"
-    ]
+    ],
+    "kind": "pagedoll"
   },
   {
     "name": "helsinki cute",
@@ -6103,5 +6102,36 @@
       "equestria",
       "sky"
     ]
+  },
+  {
+    "name": "sparky bottle",
+    "date": "2026-05-21",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "nebula dance",
+    "date": "2026-05-21",
+    "ch": [
+      "nebula"
+    ],
+    "comment": "Tried a novel and cool way to color lineart. Was not really impressed with the results, so I made a black lines version too."
+  },
+  {
+    "name": "nebula dance black",
+    "date": "2026-05-21",
+    "ch": [
+      "nebula"
+    ],
+    "kind": "fullbody"
+  },
+  {
+    "name": "nebula ref",
+    "date": "2026-05-21",
+    "ch": [
+      "nebula"
+    ],
+    "kind": "ref"
   }
 ]
