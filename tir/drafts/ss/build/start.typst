@@ -15,7 +15,11 @@
   spacing: 0.8em
 )
 
-#let horizontalrule = block(v(1em))
+#let horizontalrule = align(center, block[
+  #v(0.7em)
+  #image("separator.png", height: 0.7em)
+  #v(0.7em)
+])
 
 #show heading: set align(center)
 #show heading: set block(below: 1.5em)
