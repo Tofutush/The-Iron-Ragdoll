@@ -1,237 +1,207 @@
 ---
-chNum: 5
+chNum: 7
 ---
 
-"Welcome to your first class of middle school," Sky said. "Tradecraft. This will undoubtedly be the most important class in this school, given our nature, but I don't want you slacking in any other classes either." He scanned his gaze sternly across the room.
+I spent the past few weeks of school paying attention in class and paying attention to Sugarcane.
 
-"Allow me to make a proper introduction. My name is Sky Elmwood Dazzle, reserve officer of the Ministry of State Security. I am the head teacher of class five, and I will be teaching both you and class four tradecraft and politics."
+It soon became apparent that everyone was recruited to the school for a reason. Cosmo for her lie-detection abilities that would be useful in questioning. Sunny for his incredible talent in math. He was taking some courses with the high-schoolers! Thunder might appear dumb, but you could see the muscles trying to burst out from under his skin and the P.E. teacher seemed to regard him as her crown jewel (which was a source of pain and misery for Thunder). And Sugarcane. Sugarcane was an obvious choice. She was the best of them all.
 
-I noticed another box near the foot of the teacher's desk. Were those our textbooks? Why didn't he give it to us yesterday?
+But me? Why was *I* here? To convince Sugarcane to come?
 
-"So, to begin," Sky said. "Espionage is a major way we fight the Cold War. Spies travel around the continent, infiltrating organizations and gathering intelligence. We, the Ministry of State Security, is the hand behind the veil controlling them. So will you, in the future.
+I tried to stay on top of my schoolwork, which was proving harder and harder because why did *every* teacher pile work on us like there was no tomorrow? The language teacher, despite her incompetence at technology, was way too competent at assigning essays and reading. The math teacher seemingly found it funny to have a quiz at the start of *every* class, which he wouldn't even grade himself. And Sky. Oh Sky was the worst. He would completely and thoroughly torture us in and out of class, and walk away *whistling*.
 
-"In addition, we also need to protect our *own* information from getting stolen. That's called *counter*-intelligence. Intelligence and counter-intelligence are what we do the most, and the focus of this class."
+But Sugarcane was there to help me, like always. Except that… every time we studied together, Cosmo and Sunny were also there, asking Sugarcane questions and giving their own advice.
 
-He then pulled up a slideshow and blabbered a bit about the history of the MSS, about its predecessor the intelligence unit of the Republican revolutionary army, and its finalization through a series of leaders and restructures into the Ministry we all know and love today. I wasn't sure on either knowing or loving, but I guess that was what I was here to learn.
+I wished I could tell Sugarcane to stay away from them, who were clearly only there to get help. Tall, fashionable, and long-haired, Cosmo reminded me too much of Rose. Surely Sugarcane could see that and avoid her? And Sunny was so nice to everyone that he *had* to have an ulterior motive. We were helpful to each other occasionally, but I was sure it wouldn't last long. Maybe I would talk to her on the walk home today.
 
-"I hope the entrance exam this morning is still fresh on your minds," Sky said.
+When we went to the soccer field for P.E., we saw a lot of canopy tents and tables being set up.
 
-Across the classroom, students started groaning.
+"I almost forgot!" Sugarcane said. "Today is the clubs fair. I think they start at lunch break."
 
-"That is an introduction of something you will need to learn: to quickly memorize information you will not see for a second time."
+The mean P.E. teacher demanded full attention and berated anyone who dared sneak a peek at the people, setting up the stands.
 
-"Is *every* test going to be like that from now on?" Sunny asked.
+"Two weeks from now, on Saturday, you will come to school for the wilderness survival assignment," the teacher said.
 
-"Oh, no," Sky replied. "That was only for the entrance exam. I came up with that idea, actually. Every year I'm reminded of my own genius." I rolled my eyes as he genuinely sounded obsessed with this idea. "But from now on you will have exams specifically about memorization and observation. For example, does anyone notice anything different about the classroom?"
+"What?" I blurted out. I was safely tucked next to Sugarcane, keeping myself between her and Sunny. My alphabet neighbors, Dimple and Juice, had been standing next to each other. The teacher never noticed or cared.
 
-People looked around and took random guesses, none of which were correct.
+The students were all muttering their questions and objections. Cosmo asked, "Saturday?" and Sunny said, "Isn't it Chongyang that day?"
 
-"The two posters by the blackboard swapped places," Sky revealed after a while. I didn't even notice there were two posters there, but now that I looked, the one on the left bore a portrait of the former chairman of Starcorp, saying "innovation is the driver of success," while the one on the right was an ugly ink drawing of an ancient man saying something in ancient language.
+"Quiet down!" The teacher yelled. "You will come to school at the usual time, seven-thirty, on Saturday morning. A bus will take you to the facility. I want *everyone* to come."
 
-"Now, I swapped them myself, so it's kind of cheating," Sky smiled smugly, "but consider this. Someone breaks into your home and searched it. Afterwards, they put everything back exactly the way it was, save for one tiny detail. Whether or not you get to live to see the sun tomorrow depends on whether you can notice something's wrong."
+Sunny raised his hand. "I have to do Chongyang with my family. We planned it and all."
 
-We spent the rest of class memorizing number sequences that got longer and longer, and Sky taught us some tricks to help.
+"Whatever the f— what is that?"
 
-Towards the end of class, Sky finally pointed to the box beside the desk. "Will someone hand them out for me, please? Each student's name should be written on the inside."
+"Chongyang?"
 
-After a while of confusion and name-shouting, everyone had their copy of the book. Its cover was plain gray with nothing written on it, made with a weird texture that felt dusty when I touched it, though I knew from the smell that the book was brand new. My full legal name was printed not only on the inside cover, but also watermarked across every page.
+"That's what I asked!"
 
-"This is your tradecraft textbook," Sky said. "Read out the word on the first page."
+"The holiday?"
 
-"Classified," the students read.
+The teacher blanked for a split second, and said, "you and your little fancy Bauhinian holidays every other day. Go ahead and miss this, then. It's worth fifty percent of your grade."
 
-"Right. Let me lay out the most important rule here at Ministry Affiliate. Never leak the textbook."
+That quickly shut Sunny up. Fifty percent? Does she want to fail everyone here?
 
-I nodded absent-mindedly, skimming the first couple pages of the contents. It was a brief history of espionage, which seemed like easily-obtainable information.
+"What if we get sick on that day?" Sugarcane asked.
 
-"This text is the foundation of which Ministry Affiliate was built. Leaking it would essentially be broadcasting the curriculum to any random person — even our enemies. It is punishable by prison time. And of course, you will also be expelled."
+"What if you get sick when stranded in a forest alone?" the teacher retorted. "Just curl up and wait to die? I repeat: come, or lose fifty percent. Laps, now," she pointed at Bloom, who at this point could basically guess when the teacher would order the laps already. We couldn't help but glance at the soccer field as we lapped around it, at the people setting up stands for their clubs. Most of them were high schoolers, I noticed. They have free time, huh. People put up posters and laid out merchandise. I had been looking forward to it all throughout these past few weeks, and it was finally here!
 
-*Now* he caught my attention. I stroked the cover, in awe of the importance such a plain-looking book carried.
+At lunch, we wolfed down our food to save as much time as possible for the fair. We put away our plates and headed for the soccer field. It was full of people already, noisy and busy.
 
-"If I see you treating this book like just a normal book you can leave scattering around, I *will* be having a serious talk with you."
+"Wow," Cosmo said. "Where do we even start?"
 
-He didn't need to say any more. I was already clutching the book close to my chest.
+"I think they're handing out maps there," Sugarcane pointed to a tent near the corner that said "Clubs Club."
 
-"For homework today, read the section on espionage history. Class dismissed."
+We, and Cosmo and Sunny, went over and each took a map, scanning it for club names that interested us. Almost simultaneously we decided to check out the Investigative Investigators.
 
-And on that note, the bell rung.
+I lifted my head, and unsurprisingly found a crowd of people gathered around the tent that was supposed to be the Investigators club. "Looks like plenty of other people are also interested," I said.
 
-"That was melodramatic," Cosmo said immediately.
+"Hype," Sugarcane said. "Let's see what it's about, then."
 
-"Better safe than sorry," Sugarcane said. "Because I don't think they're joking about prison."
+The crowd was so large we ended up looking at the tent next to them first. It was the Tailing Club, with a single person manning the table, looking very high-school and mature, and also quite bored.
 
-Sunny was holding the book like a bar of gold, scanning over the pages as if trying to memorize it all in one go.
+"Are you here to look at the Investigators?" She asked knowingly.
 
-"Come on," Cosmo gave him a nudge. "P.E. is next. Let's get there on time."
+"Yeah, but they look busy," Sugarcane smiled and waved at the crowd. "What's your club about?"
 
-I stashed my textbook into my desk drawer and followed them out onto the soccer field. The sun was blazing overhead. A single person was standing in the only shade provided by a banyan tree growing in an L-shape in the corner. She beckoned us over to the empty spot in front of her, next to the racetrack, but still made of the same synthetic red floor.
+"Tailing!" She said. "We follow people around and spy on them."
 
-"It's so hot," I said to Sugarcane.
+"Is that… allowed?" I asked.
 
-"No shit," she said. "The autumn tiger makes everything hell."
+"We're training to be spies," the booth manner rolled her eyes. "That's kind of literally our job."
 
-We merged ourselves into the blob that was forming in front of the teacher. She was short, about the same height as me. And only then did I realize how… odd, she looked. She was a bicorn, but one of her horns was broken, and she seemed to hang her head a bit lopsidedly as a result of unbalanced weight. She had an eyepatch over one eye, and her other eye looked black. I heard stories about the rare kind of people with black souls and therefore black eyes. The consensus was that they were all mean and scary. She also wore a thick trench coat in the heat. Oh no, I thought Dad was the only person who insisted on wearing that awful trench coat no matter what. Was there a secret society of them?
+"I thought we would be the people who *run* the spies," I said.
 
-I saw Sugarcane frowning. "What's wrong?" I asked.
+"Same thing, same thing," she waved her hand dismissively. "You middle schoolers love the distinction. I had some field experience and let me tell you, we aren't that different. So! Are you interested in being a stalker?"
 
-"That must've hurt," she said. "It broke fairly close to the base, where there are way more nerves."
+"If you phrase it like that, not particularly," I said.
 
-"Oh, my." I reached up and touched my ears, thinking how much it would've hurt if someone pulled them off my head. When I was a kid, I would scratch my ears all the time until all the fur fell off and the skin showed. I dropped the habit when I became close friends with Sugarcane in third grade.
+"Heh, it'll be fun! We often do things together with the Investigative Investigators right there," she said. "There's a lot of member overlap too." She pointed to the booth right next to hers, where the crowd had dispersed, leaving a tall girl with a long ponytail sitting behind the table. Her ears were black, instead of the usual white; and with her thin face and yellow eyes, she looked like a cat. Her shadow was unusually dark, too, like a black cat materializing from the shadows.
 
-I looked at Sugarcane's tall, thin horns, suddenly growing worried if she would be in danger and I wasn't there to save her. Worse, I *was* there but I failed. I started to feel dizzy as my heartbeat quickened.
+"Hey," Cosmo said. "Looks like the people are gone. Let's go, before another group comes in."
 
-I shook my head. I had had this thought way too many times a day. Sugarcane could take care of herself. She'd be fine. I took deep breaths and forced myself to calm down.
+"Hi!" The girl said excitedly as we walked near. "I'm Jewel, eighth grade and the vice-president of the Investigative Investigators! We investigate suspicious people and mysterious phenomenon! I had a bunch of people here just now and I was *so excited* but I *kind of* scared them away a little BUT now *you're* here and I won't fuck up this time!"
 
-The preparation bell rung.
+I felt like she was already "fucking up," but Sugarcane and the other two both seemed really attentive.
 
-"Hear this music?" The teacher asked as the bell ended. "That's the preparation bell, but in my class it's the bell for class. So," she addressed the students joining the group as she talked, "in the future, come in class later than this bell, and you will be considered late."
+Jewel showed us a poster full of capital letters decorated with painted dripping blood. Phrases like "HALCYON: FOX SPIRIT?" and "BLACKJACK: A SECRET PAST?" were all over the poster.
 
-Sugarcane leaned in and whispered, "what an ass."
+I tried to read the smaller text, but Jewel kept talking. "Our proudest achievement is catching Halcyon in fox form." She showed us a horribly-photoshopped picture of a man in MSS uniform. His ears were stretched so much the background was also distorted, and a cartoon fox tail was pasted over his butt.
 
-I snickered. Sugarcane should be the last person to worry about this; she was always ready ahead of time.
+"That looks very convincing," Sugarcane commented.
 
-"This is P.E. class. Call me 'teacher' or 'coach' or whatever. You'll be learning Wood-style martial arts." She pulled out a clipboard and a pen. "Class president, take attendance."
+"The story behind this is even crazier. Halcyon used to be an officer in the MSS, who occasionally came here to give guest lectures twenty years ago. What happened since? He got outed as a Morelandian mole!"
 
-No one moved.
+"Whoa," I said, not sure whether to believe that or not.
 
-"What? Where's the class president?"
+"Does that mean you haven't had any new advancements in twenty years?" Sugarcane asked smugly.
 
-"There… is no class president," a few students said, their scattered voices forming a sentence with inferable meaning. "It's like the first day of school."
+"Pfffft," Jewel rolled her eyes. "That was supposed to inform you that our club is one of the oldest here at Spy School. You want new stuff? Name any teacher. We'd know stuff about them that you don't."
 
-The teacher shook her head. "Who's your head teacher?"
+"Sky," Sugarcane said.
 
-"Mr. Sky," was the reply.
+As soon as she said that, a head lifted from behind Jewel. What I thought was Jewel's shadow was actually Sky, legs lazily crossed, twiddling with a deck of cards in his right hand.
 
-"That stupid fucking moronic son of a mutt," the P.E. teacher muttered under her breath. Some student giggled, evidently offput by an adult swearing. They should meet my dad when he thought I wasn't listening.
+"Funny you asked!" Jewel's eyes lit up. "Do you know Sky helped in exposing Halcyon? He was around our age when it happened!" She scooted over, exposing Sky to the light. "Tell them about it!"
 
-"You," the teacher said, handing the clipboard and pen to the student closest to her, a tall, muscular boy with yellow horns not unlike her own. "You're taking attendance for this class from now on."
+"Jewel," Sky said. "I'm old but I'm not that old. Maybe save that for when I'm plugged in to a hospital bed. I can narrate my memoir to you and you can publish it with whatever exaggeration suits your fancy."
 
-The boy looked like he regretted standing this close to the teacher.
+"He also used to work at a casino," Jewel continued. "Have you seen him playing with his cards? I've never seen anything like that! Show them!"
 
-"When… what's your name?" The teacher asked.
+He was already showing us. He split the deck into two equal parts, flipped the top half over a couple times, and moved it under the other half, merging them seamlessly again. He did another trick with splitting it in three, spinning the middle third, and merging them back together. All with one hand.
 
-"Thunder," he replied.
+"Wow," Sunny said. "That's so cool."
 
-"When Thunder calls your name, come stand here in a row." She scanned over us, counting under her breath. "Make three rows, each with ten people. Hurry."
+"It's just the basics," Sky shook his head and smiled.
 
-Thunder looked at the clipboard and said, "Bloom?"
+"Although, we're having trouble fitting his casino experience in the timeline. Right now the only parts of his timeline not confirmed is the span from ages 1 - 13, right before his involvement with Halcyon."
 
-"Here," a girl walked up to where the teacher pointed.
+Sugarcane facepalmed. "You think he worked at a casino since he was a kid?"
 
-Thunder scribbled something onto the clipboard and opened his mouth to say the next name, but his voice was drowned out by the class bell. We waited awkwardly, Bloom especially so, and the teacher tapped her feet impatiently until the music ended.
+Sky was still twiddling his cards.
 
-"Go on," she said.
+"How's that impossible?" Jewel questioned. "Maybe his parents owned the place. Wait, that's it! He grew up in his parents' casino!"
 
-"Cosmo," Thunder said. Cosmo walked to stand beside Bloom.
+She took out a battered notebook and started scribbling, all while Sky sat right behind her.
 
-"Dimple."
+"What are you doing here really, Mr. Sky?" I asked.
 
-I recognized her as the kid beside me during the exam. Hang on…
+"I'm the representative teacher for this club, after the last one retired," Sky answered. "I thought doing that would free me from the speculation. I was wrong and now there is no turning back."
 
-"Harmony."
+"But you just let them snoop around you like that?" Sugarcane asked.
 
-I went to stand beside Dimple. The list was still in alphabetical order again. Which meant Sugarcane was again going to be far behind me.
+"I mean, they're kind of the only thing keeping the Tailing Club alive, and we like *that* one very much," Sky said. "So, by the way, you should totally join. The Tailing Club, I mean."
 
-The exam was different; I was used to being separated from Sugarcane during exams. And if I were to sit near her, I couldn't have resisted the urge to peek at her papers, so it was for the better. But for P.E. classes, we had always stood together. But now, she was probably going to be in the third row. What was the point of going to the same school if we kept being separated?
+"We'll think about it," Sugarcane said. "It's almost time for class."
 
-"Juice."
+Sky checked his watch. "You're right. Jewel?"
 
-A boy came next to me. Dimple and Juice, my alphabet neighbors. I'd be seeing them a lot later, unless I could help it.
+"I need to wait for the next person here," Jewel said. "She'll be here anytime now. I'll only be late for a couple minutes!"
 
-Thunder continued calling on people. It took a while. Finally, he called on "Sugarcane." She stood in the third row, immediately before "Sunny." I looked behind my shoulder as Sunny winked at Sugarcane and she smiled back.
+Sky sighed and got to his feet. "Well, don't make that a habit."
 
-I should be happy that Sugarcane was happy. But why do I feel jealous, then?
+"Come again after school!" Jewel shouted behind us. "Please join us!"
 
-It was the smile, I concluded. I had never seen Sugarcane smile at other people like that, except at me. And now, she was using it on Cosmo *and* Sunny.
+As we walked back to the classroom, Sugarcane had the map in her hands and said, "we didn't even get to see many other clubs. I wanna check over here after school."
 
-"And I'm the last one," Thunder said, clicking the pen shut and handing it back to the teacher along with the clipboard.
+"I kind of liked Jewel and the Investigation club," Sunny said.
 
-"Convenient," she said as Thunder joined in behind Sunny. "You" — she pointed at Bloom — "start running. Five laps. The rest follow in line."
+"What *I* found interesting was that Jewel hadn't told a single lie," Cosmo said. "She really believes in that stuff."
 
-Students groaned and mumbled complaints as they started running around the tracks. The tracks were *big*! A huge loop where I could only barely see the other end.
+"But some of it is obviously false, right?" I asked.
 
-I soon fell behind, partly intentional, partly because I really couldn't keep up, until I was level with Sugarcane and Sunny. By the time we finished the laps and reassembled ourselves into the rows, I had sneaked in between Sugarcane and Sunny on the third row.
+"Definitely. But I can't tell. You aren't lying to me if you whole-heartedly believe in what you say, that's how it works."
 
-The teacher seemed not to care, or even notice. She talked a bit about class policies and a thousand different ways she would fail us if we stepped out of line, like "I will *not* be doing any sort of curves. Curving is for the *weak*" and "participation is worth zero percent of your total grade, but I *will* subtract from your total grade if you don't show up!"
+---
 
-"Who does she think she is?" Sunny whispered jokingly into my ear. I jumped, surprised that he just *did* that. Did he think we were friends or something?
+The last class of the day finally ended, and we headed out onto the soccer field again. Sugarcane made a beeline for another row of tables. Cosmo followed us, while Sunny went to join the Investigative Investigators.
 
-He noticed this and said, "whoops, sorry! Did I startle you?"
+"I want to look at the Coding Club," Sugarcane said. "If you aren't interested, you can go somewhere else."
 
-"A little," I said, glancing at Sugarcane. She had her attention on me, which made me feel better. "It's fine, I just got surprised."
+For a moment I thought she was purposefully getting rid of Cosmo so she could be with me alone. But from the way she looked at me, I realized the statement also applied to *me*.
 
-The teacher then showed us some basic moves in Wood-style martial arts, using poor Thunder as a prop while pushing and throwing him around. It was actually quite cool. I imagined myself, all strong and muscular, easily beating up all the bad guys. It was a funny image, but I could imagine Sugarcane doing that. We spent the rest of class practicing the standing pose until we all got it right. When the bell finally rang again, I was weak in the legs and soaked with sweat, dying to sit down.
+"Oh, I want to look at it too," I said quickly.
 
-"Next up is politics, and then language and literature," Sugarcane consulted the schedule again. Sky was already sitting at the teacher's desk like he'd never left, sipping from his "#1 teacher" mug. "I'm actually really interested in what this 'politics' class is about. Guess we're about to find out."
+"I'll go home," Cosmo said. "Rush hour starts a bit later and I want to grab a seat on the subway."
 
-"Two more classes?" Sunny sighed as we flopped into our seats. "I can't wait for the day to be over."
+Sugarcane and I were finally alone! I opened my mouth to talk to her about Cosmo and Sunny, but she was already talking to the two high-schoolers in the Coding Club.
 
-I was tired too, and I didn't feel ready at all when the preparation bell rang again. Something something new norm, I thought as Sky sprung up to set things up, pulling down the projector screen and setting up the slideshow.
+"Our club is one of the biggest in the whole school," the girl was saying. She wore glasses so thick it distorted her face. "There's something for everyone, and you're bound to meet new friends!"
 
-"Can anybody define the term 'cold war' for me?" Sky asked after the class bell ended.
+New friends. More Cosmos and Sunnys? No. That couldn't be happening.
 
-Sugarcane raised her hand. "A cold war is an ideological rivalry between two major powers, waged on political, economic, and propaganda fronts, with espionage, covert operations, and proxy wars, but avoiding direct 'hot' warfare."
+Sugarcane picked up a brochure on the table and started reading it.
 
-"Read the textbook, I see. Yes, that is correct. The Cold War is characterized by a lack of direct conflict between the two powers, as such a conflict would lead to mutually assured destruction. Does anyone know what that entails?"
+"Do you take people with no coding experience?" I asked.
 
-"Nuclear war," many students muttered at once.
+"I'm sorry, but no," the other person said.
 
-"Yes. A nuclear war, which would be catastrophic," Sky said. "What country, then, is the other nuclear power?"
+"How do you determine coding experience?" Sugarcane asked, lifting her eyes from the brochure.
 
-"The other?" I whispered to Sugarcane. "What's the first one?"
+"We won't teach you the basics, so if you don't understand a thing at our first meeting, you'd better not join."
 
-"It's *us*!" Sugarcane hissed.
+"It's not a hard limit," the girl with glasses smiled at me and nudged her partner. "Anyone is welcome to our first meeting of the school year. After it ended, you can choose to join or not."
 
-"Oooh, right."
+"October the ninth?" Sugarcane asked, pointing to a date on the brochure.
 
-Across the room, Thunder raised his hand. "Moreland."
+"Yes," she replied. "I hope to see you there!"
 
-"Yes," Sky said. "They developed the bomb fairly quickly using information stolen from Bauhinia. Now, I hope you all know which countries were on Bauhinia's side, and which are on Moreland's side."
+"You bet," Sugarcane tucked the brochure into her pocket.
 
-I was pretty sure now that by "I hope" Sky always meant either "I demand" or "this should be common sense so fuck those of you who don't know." Just as I thought, throughout the classroom students started listing countries. Sky tapped the keyboard and moved on to the next slide, featuring a map of the continent. He stowed the projector screen back up so the image was projected right onto the blackboard. "Does anyone want to draw a line representing the Iron Curtain?"
+October the ninth. That was two weeks from now. I *have* to join the Coding Club with Sugarcane. And I *will* crash course coding so I could join.
 
-I heard people talking about the Iron Curtain on TV plenty of times. "Diplomats have returned from behind the Iron Curtain," they would report. I had always thought it meant a curtain draped in front of some secret room where they did negotiations.
+"Are there any clubs you want to see?" Sugarcane asked me.
 
-I looked at the map, expecting to see country borders, but it was a pure geographical map with only green plains and blue rivers.
+"Oh, no, I don't. Let's go home. Um, by the way, do you know any good places to learn coding?"
 
-"I think I can," Sugarcane raised her hand. She walked in front of the board and picked up a piece of chalk. Her shadow blocked out the projection, and she had to awkwardly maneuver around to see where she should draw.
+"Why, do you want to join the club too?"
 
-"This is the border between Atlasia and Westavia," she said as she drew a short vertical line in the center of the map. "This part is definitely the separation between Westavia and Fanton, with the desert on the north and the Fantoni Plateau on the south." She drew a line between the pale yellow desert and the light blue plateau, connecting it to the bottom of the vertical line. "And the border between Atlasia and Moreland is somewhere around here." She extended the top of the vertical line to the northeast until it hit the ocean.
+"Yes."
 
-"Excellent, Sugarcane! That's not very far off." Sky pulled the screen back down, covering up Sugarcane's chalk lines, and switched to the next slide, featuring the country borders. "We're here, of course," he pointed to Bauhinia at the bottom of the map. "And this border between Fanton and Westavia right here, Westavia and Atlasia right here, and Atlasia and Moreland right here, is what we call the Iron Curtain, separating the south from the north."
+"You don't have to, you know. I mean, if you're only joining because of me."
 
-I liked the previous map better. Just the continent like it was, while all the separation was only Sugarcane's chalk marks on the board.
+Was she trying to convince me not to join? "No, I *do* want to learn coding."
 
-"When did the Cold War start?" Sky asked.
+"Then that's great! I took a summer class, but the teacher gave us some websites with free courses. I'll text you the links."
 
-"1947?" Cosmo guessed.
-
-"1947 was when the Atlasian-Westavian war started. The consensus is 1955, when it ended. Though that doesn't change the nature of the war as a proxy war between us and Moreland. That's all you need to know for this class; you'll learn more in history eventually."
-
-They were going so fast I couldn't keep up. What *was* the Atlasian-Westavian war? They didn't include those in children's picture books!
-
-"What about the Fantoni war?" Sunny raised his hand. "Is that an example of a proxy war, even though Bauhinia directly participated? And isn't Fanton on our side?"
-
-I snapped to attention. The Fantoni war was something Mom and Dad talked about often, how I was born right when it started, how bad those days were, trying to raise a newborn with all the stress. But whenever I asked, they refused to elaborate.
-
-Sky lifted an eyebrow. "Those are good questions, but that's not the focus of today's class."
-
-"Then *is* it going to be covered in this class?" Sunny pressed on. "Because I think it's too recent to be covered in history class."
-
-"It will be, but not today."
-
-I really wanted to learn about the Fantoni war too. Guess I'd just have to be patient until we covered it. Sky moved on to a brief summary of what we were going to learn about in the class. Government structures, international relations… I zoned out and started doodling on my textbook until class ended.
-
-The last class of the day was language and literature, taught by this old lady who looked like she wanted nothing more than to retire, and could make the computer malfunction in ways I couldn't have conceived of. By the time she finally got her slideshow working, class was nearly ending, so she simply dismissed us.
-
-With that, the first day of school was over. I had my classified textbook stowed in the laptop compartment of my backpack, as I had no laptop anyways. We walked outside to see some other students putting up posters on the wall.
-
-"Clubs fair?" I asked, reading the posters.
-
-"Yes!" The girl putting up the poster said. "Three weeks from now. You're seventh graders, aren't you?"
-
-"Uh-huh," Sugarcane nodded.
-
-"You *have* to be there," she said. "We have so many really fun clubs. I'm in the Clubs Club, and we manage all the clubs, including organizing the clubs fair every year."
-
-"Thanks, we'll be there then!" Cosmo said. Sunny appeared entirely disinterested. Sugarcane said goodbye to them at the gate, and I finally had her all to myself again.
+We spent the walk home browsing through websites and online books. By the time we got to Sugarcane's home, I realized I had forgotten to talk to her about Cosmo and Sunny.

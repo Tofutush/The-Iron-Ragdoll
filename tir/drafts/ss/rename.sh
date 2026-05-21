@@ -11,17 +11,11 @@ for file in chapter-*.md; do
         echo "$file has no chNum"
         continue
     fi
-    new_name="chapter-${chNum}.md"
-    if [ "$file" = "$new_name" ]; then
-        echo "$file is correct"
-        continue
-    fi
-    if [ -e "$new_name" ]; then
-        echo "$new_name exist, $file skipped"
-        continue
-    fi
-    # mv "$file" "$new_name"
+    new_name="chapter-${chNum}.temp.md"
+    mv "$file" "$new_name"
     echo "rename $file to $new_name"
 done
-echo "done"
+for file in chapter-*.temp.md; do
+	mv "$file" "${file%.temp.md}.md"
+done
 

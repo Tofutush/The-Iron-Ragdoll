@@ -1,127 +1,245 @@
 ---
-chNum: 6
+chNum: 10
 ---
 
-"I'm so tired," I said, stretching my arms and shaking my legs.
+It would've landed on my head. But Sugarcane pulled me aside. She saved me.
 
-"Me too," Sugarcane said, leaning in closer to me. "But we'll definitely get used to it."
+But my arm *hurts*!
 
-"Maybe my mom's right," I said. I knew this was a little selfish, but I just wanted to hear it. Hear she say that she wanted me.
+The branch bounced to the ground beside my feet.
 
-"What about your mom?"
+"You okay, Harmony?" Sugarcane asked.
 
-"She said Ministry Affiliate is too hard for me and I should just quit and go to Flower City Middle School like we planned."
+"Ooooowwwww……" was all I could muster.
 
-"But will you?" Sugarcane asked. "Will you quit?"
+"Can you move your arm? Is anything broken?"
 
-"I don't know," I said, and I hated how honest the statement actually was. "Do you think I should?"
+I wouldn't be able to tell if my arm was broken, I thought. I tried moving it, and it felt okay. At least it could move. The initial shock wore off, and the pain was subsiding into an incessant sore.
 
-"*I* don't want you to leave," Sugarcane said. "Of course I'd want you with me. I even told Sky, when he first came to my home, I even told him I wouldn't attend unless you do too!"
+I took a look at the offending branch on the ground. The shape of its leaves suggested it was a bauhinia tree. Blowing off a bauhinia tree branch… that sounded a bit treacherous, didn't it?
 
-That was enough for me. I smiled and said, "yeah, I told my mom I'd go wherever you go too."
+"Maybe we should get her back to the entrance," Sunny said.
 
-"What prompted this?" Sugarcane raised an eyebrow. "Should I be concerned?"
+"No," Jewel shook her head. She sounded more irritated every second. "Unless you want to redo this next year. Believe me, this was what happened to me. Loitered too long, branch fell on my head, passed out with no one to help. When I woke up, I was in the bus, and Blackjack was telling me I failed."
 
-"Nah. It's just my mom getting to me a little with her worrying. And I'm tired."
+"Try holding your arm up with the other one," Sugarcane suggested. "Move it as little as possible."
 
-"Go to bed early," Sugarcane suggested. "I hope you feel better."
+"Let me carry your bag," Cosmo said. Without waiting for a reply, she heaved my bag onto her shoulders.
 
-We hugged each other goodbye at her apartment again, and I continued on my way.
+"I'll carry yours then," I said. I knew Cosmo was trying to help, but I didn't trust my bag in someone else's hands.
 
-During the walk, though, Sugarcane's voice kept echoing in my head.
+"No," Cosmo said. "I can't let you do that. Thunder?"
 
-*"I told him I wouldn't attend unless you do too."*
+"Eh?" Thunder was apparently still here.
 
-She had told me that before, when Sky first came to find me.
+"Bring my bag with you, since you aren't carrying anything."
 
-*"Looks like they* did *go find you!"*
+Thunder stared at her blankly as she held out her bag.
 
-An ugly truth fluttered around the edge of my mind, looking for a place to land.
+"It's only got a couple shirts in it, since you ate all my food. And it has my name on it. Take it back with you to the entrance building."
 
-What if Sky never wanted me at all? What if he only came to me so Sugarcane would agree to attend?
+Thunder took her bag and headed off.
 
----
+"All brawns and no brains," Cosmo said as soon as he was out of earshot.
 
-Steamed buns for dinner again. More buns sat in the pot, in case anyone craved more blandness in their lives. Mom had gone on steaming sprees before, but this was on another level. I was sure plenty of perfectly good vegetables were rotting in the fridge while Mom bought more bags of flour. The only other kind of food on the table was a small plate of pickled vegetables. I spent most of the dinner hogging that plate, eating some with every bite of my buns.
+"Why's he like this?" Jewel shook her head.
 
-"How was the first day of school?" Mom asked. "How did the exam go?"
+I couldn't help but think maybe Thunder and I were a little too alike. Just standing there, staring blankly at everyone else, passively waiting for orders while wondering what was going on.
 
-"Is there anything other than buns to eat?"
+"I'm so sorry," I said.
 
-"Well," Mom smiled apologetically, "I made too much. Trust me, I'm tired of it too."
+"Don't be," Sugarcane said.
 
-"I'll go fry myself an egg or something," I stood up and headed for the fridge. I was pretty sure I would blow up the kitchen, but I had to eat something else.
+"How are we going to get there and back on time now?" I asked. "What if we *don't* make it back by four?"
 
-"Wait!" Mom tried to stop me, but I had already pulled the fridge door open — and very quickly saw why Mom tried to stop me. A flurry of buns rained down on me, spilling all over the floor.
+"It's like, ten past eight," Jewel said, consulting her watch. "And we're really close to the mountain. Let's get going and stop wasting time."
 
-"… I spent a lot of time fitting them all in," Mom grimaced.
+Wasting time. *I* was the one wasting time. I wanted to go home already.
 
-"Just how many did you make?" I shook my head and stared at the mess around my feet. A couple more buns dropped out of the fridge.
+"Thank Thunder for that," Cosmo said. Jewel nodded.
 
-Mom, Dad and I spent the next ten minutes putting the buns back into the fridge.
+So were they talking about Thunder wasting time? Maybe it was both of us. Useless burdens.
 
-"You still haven't told me about your day," Mom said as I put a handful — though I could only grab two with one hand — of buns into her hand.
+How was this even wilderness survival? I had half-expected us fighting wolves, bears, and other dangerous animals. All we had here were trees. But on second thought, the school probably wouldn't put us in real danger.
 
-"It was tiring but okay."
+Why were we here then? What was the actual test? Avoiding falling branches?
 
-"What about the exam?"
+We walked along the stream. Jewel led the way. I walked next to Cosmo, keeping an eye on my bag.
 
-"It was really hard."
+The stream widened as we walked, until it turned into a big river with water tumbling on the surface. Occasional shadows beneath the waves hinted at fish swimming underneath the surface. And the ground started to slope. The grass turned sparse, revealing the rock beneath.
 
-"Maybe they're using the exam to weed out some students," Mom suggested.
+"We're at the mountain!" Jewel exclaimed. "Now we just gotta find the cave!"
 
-"Stop it, mom!" I picked up the last bun, shoved it haphazardly into the fridge, closed the door, and stomped back in my room, shutting the door again and trying hard not to think of myself as the last bun shutting herself into the fridge.
+The river that we could follow ended in a waterfall high above us.
 
-I picked up the secret textbook, lay on my bed, and started reading about espionage history. The watermark was pretty annoying, but I soon got used to it.
+"There's no way we can climb up there," Sugarcane said. "We'd have to find somewhere else."
 
-The language was difficult to understand, a huge leap from the children's books I liked to read. The paragraphs were so long and so were the chapters, and when I finished a page I would immediately forget what the page was even about.
+"Let's leave that for later," Cosmo said. "I'm so hungry right now."
 
-Sugarcane's voice surfaced in my head again, feeling like an unwelcome intruder despite how much I loved her calm and authoritative voice. *He only came to you because I demanded it.* That wasn't even what she said, but it rang in my head in her voice regardless. I tried shaking it off my head and focusing on the book.
+We sat down on a big slab of rock and had lunch. At this point, everyone's snack supply had basically been depleted, but I still had more than enough steam buns to spare.
 
-I was on the section about Morelandian tactics when someone knocked. "Harm?" Came Dad's voice.
+"Your mom really foresaw how much we were going to eat," Sunny said.
 
-"Yes," I said.
+I gingerly touched my shoulder. It didn't hurt as much. I tried moving my arm again.
 
-He came in, leaving the door open. "Don't read in bed," he said immediately upon seeing me. I groaned in response, not moving.
+"Feeling better?" Sugarcane asked, gentle and caring.
 
-"What are you reading?" Was his second question as he sat down on my bed.
+"Much better," I said. I made a point by holding my bun with the bad arm, though halfway through the meal it started hurting again so I changed arms.
 
-"Homework."
+"Now how exactly do we find the cave?" Sunny asked. "I don't see a big gap anywhere near."
 
-"What homework exactly? Can I take a look?"
+I looked at the mountain above us. It wasn't tall enough for us to see it above the treetops before, but now that I was right underneath it, it looked too tall to climb.
 
-"It's for tradecraft class. The textbook is confidential so I don't think I can show you." Why was Dad suddenly so interested in my schoolwork? For years he didn't give a single shit, insisting that I should just "be happy," even when I went to him for help on my math homework. I had come to realize that maybe he didn't know enough math to help me.
+"We'll just walk around the mountain," Sugarcane said. "If students had been here since 2034, there must be a path somewhere."
 
-"So is the homework just reading?" He asked.
+We finished up the lunch and started circling the mountain, looking for a way up. Cosmo still insisted on carrying my bag.
 
-"Yeah."
+"Is your shoulder feeling better?" She asked. Funny that she asked that! Clearly she had already decided that it wasn't good enough for me to carry my own bag.
 
-"Then that's not urgent at all. When I was in school, I did the reading right before class started."
+"Yeah, so give me my bag!"
 
-Maybe that was why you couldn't do fourth grade math, I thought.
+"Nope," she said, and strode forward.
 
-"Because it works better," he explained. "If you read through this tonight, barely comprehending it, how much of it would you still remember tomorrow? But if you read it right before class, and it gets immediately reinforced by the lecture, it helps with the retention way more."
+"Hey!" I chased after her.
 
-That actually made sense. Even as we talked, the contents of the book was dripping out of my mind like sand in a sieve. "You're right," I said. "What should I do, then?"
+"Girls, save your energy," Jewel sighed as we ran past her.
 
-"Play a game with me!" Dad said, pulling out his own phone. "There's this fighting game I love, but it's boring fighting strangers on the internet and your mom didn't want to play. Here, get your phone and I'll download it for you."
+A strap on my bag was dangling loose, bouncing up and down as Cosmo ran. I managed to latch my good hand on there, pulling Cosmo back. In response, she just ran even quicker, dragging me forward.
 
-I had never known Dad liked playing games, let alone fighting games. But I guessed I didn't really know Dad that well.
+"I mean it! Cut it out!" Jewel shouted from behind.
 
-He installed the game on my phone, walked me through the tutorial, and added him as a friend. Then he opened the game on his own phone and started a one-on-one challenge with me.
+"Hey, hey, what's that?" Cosmo suddenly stopped, sending me crashing into the bag on her back. She stumbled, but kept her balance.
 
-I glanced at his screen. "Your level isn't really high either," I observed. He was on level four, and the tutorial had already brought me to level two.
+I peeked out from behind her. We seemed to be on a dirt road, two grooves etched into the ground by car tires. The sky was not covered by the trees for once. A single rusty barrier that might have once been pink lay on the road, attached to what looked like a toll booth, equally rusty. No walls were on either side of the barrier, making it pretty easy to circumvent, but no attempts had apparently been made, judging from the lush and largely intact bushes and grass on either side.
 
-"I made a new account so I won't be too far ahead of you."
+"Is this some sort of an entrance?" Jewel popped up beside us and said.
 
-Dad scooted back to lean against the wall, his legs crossed on my bed, and I leaned against his shoulder. We smashed controls and beat each other up, occasionally giggling, but I didn't enjoy it as much. I liked calmer games where I could dress my character up in pretty clothes, and all this game had were stick figures with at most a bandana. But what struck me as weird was that Dad didn't seem to enjoy it as much as he claimed, either. Maybe it was boring to play with me.
+Sugarcane and Sunny also caught up to us.
 
-I was suddenly awoken by Dad's yelp of pain as my phone slipped out of my hands and dropped on his knee when I dozed off.
+"The barrier," Sugarcane said. "Isn't that color reserved for military areas?"
 
-"Whoops, did I fall asleep?" I checked the time. It was ten o'clock. "I should shower now. I'm tired."
+"Correct!" A new voice echoed behind us.
 
-Dad hesitated for a moment, perhaps debating whether to ask for another round, but nodded and headed back to his own room.
+I turned to see the P.E. teacher — Blackjack — walking down the road towards us, inflatable hammer in hand.
 
-Back in fourth grade, there was a long time when I thought Dad was a robot. He didn't talk much, always walked in a beeline, was scared of bugs because of *computer* bugs. The trench coat was for concealing the machinery below his neck. Sugarcane and I often stalked behind him, trying to catch him recharging.
+"This place used to be a military training ground, before it retired and Ministry Affiliate decided to make use of it," Blackjack said.
 
-Now that I think about it, maybe I felt that way because Dad had always been pretty cold and distant. Now that he was making an effort to spend time with me, he was somehow *still* bot-like in his demeanors. I shrugged, deciding to leave it at that.
+"Teacher?" I said.
+
+"Finally found you," Blackjack said. "Hiding in a goddamn corner."
+
+"We don't even know this is a corner," Cosmo objected. "There aren't even any walls. What if a group just walks out there and never comes back?"
+
+"Whatever." Blackjack set her inflatable hammer down on the ground next to our bags, and held up two fists. "Fight me, for extra credit."
+
+"What?" I asked.
+
+"You heard me. If you can beat me, you all get extra credit." She was shifting her weight back and forth from her left leg to the right, bouncing a little.
+
+"How much is the extra credit?" Cosmo asked, putting my bag down. The others did the same. Sunny had his kite spool in his hand, apparently ready to brandish it as a weapon.
+
+"One to two," she said.
+
+"One to two points?" Sunny said. "Out of a hundred?" He eyed Blackjack warily. Though she was short and wearing that thick trench coat she always wore, we had all experienced her sheer strength, from when she dragged us off for scolding, or yanked our limbs into position during drills. One to two points was most likely *not* worth the risk.
+
+"No, no, it's not for *this* assignment. This one is graded on whether your name's on the sheet. The extra credit is for the entire class, for one to two letter grades."
+
+We practically pounced on her, Sugarcane going for her legs and Cosmo for her arms. She kicked Sugarcane away and pulled Cosmo into a headlock as Jewel jumped on her back, trying to grab her neck. She bent over and tossed Jewel over her head, smashing her to the ground, before throwing off another attack of Sugarcane's by sweeping her legs out from under her — all while Cosmo was still under one of her arms. I watched the commotion, rubbing my shoulder, thinking of ways to attack, but only getting more and more discouraged each second.
+
+And that was when Blackjack fell hard on the ground, dragging Cosmo down with her. Only then did I notice a string wrapped several times around Blackjack's leg.
+
+Sunny's kite string.
+
+He stood triumphantly, holding the spool. Blackjack looked at Sugarcane, also lying on the ground near her, and shook her head.
+
+"Nice teamwork," she said, "but not so fast."
+
+She jerked her wrapped leg, pulling the spool out of Sunny's hands, and then pulled out a pocket knife to slice the string cleanly off her ankle. As Sunny bent down to pick up the spool, she walked in front of him, grabbed his head, and slammed his face into her knee. He bounced back from the impact, rubbing his nose as he staggered back and sat down on the grass.
+
+"That was pretty good. You were almost there. If only you had come pin my limbs down when I first tripped."
+
+She might have been looking at me when she said that, the only person who hadn't done anything to fight her, and the only person still standing when Sunny tripped her.
+
+But it wasn't my fault! My arm was hurt! I tried convincing myself, but really, I barely felt any pain by this point and my shoulder could move around freely.
+
+Jewel moaned in pain as she sat up. "I think you're just messing with us now," she said. "Would anyone ever actually get this extra credit?"
+
+"There was already a group that did!" Blackjack put her hands on her hips. "They led me into a trap they built that even I couldn't get out."
+
+"They built a trap ahead of time?" Cosmo asked. "How did they know you were coming?"
+
+"There was an 8th grader with them who told them about it," Blackjack answered.
+
+We all looked at Jewel, who sat embarrassingly scratching her head. "You never came to *me*…"
+
+"I went to get your unconscious sleepy-head and carried you all the way to the bus," Blackjack said. She picked up her inflatable hammer and left.
+
+"Speaking of, how did *you* coordinate the kite string thing?" I asked Sugarcane.
+
+"Oh, I was talking with Sunny about what to do with the kite since we obviously can't fly it, and turned out there's a lot of stuff you can do with a kite string. They're very strong and can even saw off small branches, given enough time! We also thought about wrapping it around someone's legs and pulling it, and you'll never guess who showed up immediately afterwards."
+
+Oh.
+
+So that was what they were doing when I was chasing Cosmo and Jewel was chasing us. Chatting with each other. Coming up with fun ideas.
+
+Like she did with me, and me only.
+
+Was I not good enough for her? Why couldn't she have talked about this with *me*?
+
+I knew the reasonable answer was that, Sunny was the one with the string, and I was chasing Cosmo — but she ran away first! I *had* to chase her! Why did Sugarcane decide to chat with Sunny at that time, like he was her *friend*?
+
+Jewel interrupted my thoughts. "Let's get going," she said. "I say we just walk along the road here. It looks like it's sloping up."
+
+"Yeah," Sugarcane agreed like nothing had happened. Having fun with weird people with possible ulterior motives, what a totally normal thing to do! This wasn't like the Sugarcane I know. The Sugarcane I knew was always smart and level-headed. She knew who to avoid (Rose and her minions, usually) and who to please (adults, usually). Sunny certainly didn't fall into the second category, did he?
+
+"Harmony?" Sugarcane asked. I snapped back to attention. Cosmo had my bag.
+
+"I'm feeling way better now," I said, spinning my arm in a big circle to demonstrate. "I can carry my own bag."
+
+"You sure?" Cosmo said. "I don't mind, you know."
+
+But I did. "No, no, I gave you enough trouble. Hand the bag over."
+
+She did as I asked, but instead of just giving it to me, she decided to put the bag down on my shoulders. Very slowly and carefully, like I would shatter on impact. I did *not*, as a matter of fact, shatter.
+
+"Thanks," I said as soon as she let go.
+
+"No problem," she replied.
+
+"It's three o'clock," Jewel called to us, a distance away.
+
+"It's actually two thirty," Sunny, standing next to her, corrected. "But yeah, it's good idea to hurry," he added when Jewel started glaring at him.
+
+We walked along the car path until we came to an intersection. Well, kind of. The wider path with the tire tracks veered off the mountain, heading towards ground level. The path upwards continued in a narrow stone ledge, just wide enough for two people to walk side by side.
+
+"The cave has to be somewhere along this road, if you can call it a road," Jewel pointed at the ledge.
+
+"It looks dangerous," Sunny said.
+
+"No shit," Jewel replied. She walked forward without saying another word.
+
+"I feel like she's getting a little impatient?" I observed.
+
+"I would be, too, if this were my second time here," Sugarcane said. "Come on, let's not fall too far behind."
+
+We all got on behind Jewel. I looked steadily forward, trying not to think about the cliff, though when I looked, it didn't seem that high off the ground, with all the bushes. But maybe it was taller than it looked.
+
+"It's right here!" Came Jewel's voice ahead of us.
+
+"Coming!" Cosmo yelled back, running forward. I followed close behind, when suddenly something caught on my foot and the ground came tumbling upwards, smashing into my face — or rather, I fell face-flat on the ground. Ouch. I tasted blood.
+
+"Harmony!" Sugarcane said.
+
+I could imagine her reaching for me when Sunny also screamed.
+
+"Sunny!" Sugarcane said again, with the same tone. Sunny was still screaming.
+
+I felt a hand removing my backpack and helping me sit up. It was Cosmo.
+
+"You okay?" She asked, squatting in front of me.
+
+"Aaarrrgh…" I mumbled, head still dizzy, nose still throbbing. Over Cosmo's shoulder, I saw Sugarcane lying on her stomach, hand dangling over the ledge, but I couldn't make out what exactly she was doing.
+
+"Sugarcane?" I said, not sure if the words even came out right. My mouth also hurt, and I could still taste the blood on my tongue.
+
+Cosmo stood up to join her, reaching for whatever Sugarcane was holding onto. That was when I realized Sunny must've fallen off the ledge.
