@@ -188,7 +188,7 @@ Across the room, Thunder raised his hand. "Moreland."
 
 "Yes," Sky said. "They developed the bomb fairly quickly using information stolen from Bauhinia. Now, I hope you all know which countries were on Bauhinia's side, and which are on Moreland's side."
 
-I was pretty sure now that by "I hope" Sky always meant either "I demand" or "this should be common sense so fuck those of you who don't know." Just as I thought, throughout the classroom students started listing countries. Sky tapped the keyboard and moved on to the next slide, featuring a map of the continent. He stowed the projector screen back up so the image was projected right onto the blackboard. "Does anyone want to draw a line representing the Iron Curtain?"
+I was pretty sure by now that by "I hope" Sky always meant either "I demand" or "this should be common sense so screw those of you who don't know." Just as I thought, throughout the classroom students started listing countries. Sky tapped the keyboard and moved on to the next slide, featuring a map of the continent. He stowed the projector screen back up so the image was projected right onto the blackboard. "Does anyone want to draw a line representing the Iron Curtain?"
 
 I heard people talking about the Iron Curtain on TV plenty of times. "Diplomats have returned from behind the Iron Curtain," they would report. I had always thought it meant a curtain draped in front of some secret room where they did negotiations.
 
@@ -198,7 +198,7 @@ I looked at the map, expecting to see country borders, but it was a pure geograp
 
 "This is the border between Atlasia and Westavia," she said as she drew a short vertical line in the center of the map. "This part is definitely the separation between Westavia and Fanton, with the desert on the north and the Fantoni Plateau on the south." She drew a line between the pale yellow desert and the light blue plateau, connecting it to the bottom of the vertical line. "And the border between Atlasia and Moreland is somewhere around here." She extended the top of the vertical line to the northeast until it hit the ocean.
 
-"Excellent, Sugarcane! That's not very far off." Sky pulled the screen back down, covering up Sugarcane's chalk lines, and switched to the next slide, featuring the country borders. "We're here, of course," he pointed to Bauhinia at the bottom of the map. "And this border between Fanton and Westavia right here, Westavia and Atlasia right here, and Atlasia and Moreland right here, is what we call the Iron Curtain, separating the south from the north."
+"Excellent, Sugarcane! That's not very far off." Sky pulled the screen back down, covering up Sugarcane's chalk lines, and switched to the next slide, featuring the country borders. "We're here, of course," he pointed to Bauhinia at the bottom of the map. "And this line here is what we call the Iron Curtain, separating the south from the north."
 
 I liked the previous map better. Just the continent like it was, while all the separation was only Sugarcane's chalk marks on the board.
 
@@ -216,7 +216,7 @@ I snapped to attention. The Fantoni war was something Mom and Dad talked about o
 
 Sky lifted an eyebrow. "Those are good questions, but that's not the focus of today's class."
 
-"Then *is* it going to be covered in this class?" Sunny pressed on. "Because I think it's too recent to be covered in history class."
+"Then *is* it going to be covered in this class?" Sunny pressed on. "Because I think it's too recent to be covered in history."
 
 "It will be, but not today."
 
