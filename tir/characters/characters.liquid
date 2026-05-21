@@ -102,23 +102,24 @@ parent: Characters
   {% if majorRelations.size > 0 or minorRelations.size > 0 %}
     <h2 id="relationships">Relationships</h2>
     {% for rel in majorRelations %}
-      <section class="card">
-        {% assign otherCh = rel | getOtherCh: ch.name %}
-        {% assign relImg = rel | getRelImg %}
+      {% assign otherCh = rel | getOtherCh: ch.name %}
+      {% assign otherChName = otherCh[0] %}
+      {% assign otherChObj = characters | getChByName: otherChName %}
+      {% assign relImg = rel | getRelImg %}
+      <section class="card" style="border-color: {{ otherChObj.color }}">
         {% if relImg %}
-          {% assign alt = ch.name | append: ' and ' | append: otherCh[0] %}
+          {% assign alt = ch.name | append: ' and ' | append: otherChName %}
           {% if relImg.author %}
             {% assign alt = alt | append: ' by ' | append: relImg.author %}
           {% endif %}
           {% image relImg 500 alt 'float-right rel-img' %}
         {% else %}
-          {% assign iconPath = otherCh[0] | lowerCase | append: " thumb" %}
-          {% assign profilePath = otherCh[0] | lowerCase | append: " profile" %}
-          {% assign otherChName = otherCh[0] %}
+          {% assign iconPath = otherChName | lowerCase | append: " thumb" %}
+          {% assign profilePath = otherChName | lowerCase | append: " profile" %}
           {% image profilePath 200 otherChName 'float-right rel-img round' iconPath %}
         {% endif %}
         {% assign count = count | plus: 1 %}
-        <h3><a class="rel-h3" href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a></h3>
+        <h3><a class="rel-h3" href="../{{ otherChName | lowerCase }}/">{{ otherChName }}</a></h3>
         {% if otherCh[1] %}<p class="smaller-text lighter-text">{{ otherCh[1] }}</p>{% endif %}
         {{ rel.desc | renderMD }}
       </section>
