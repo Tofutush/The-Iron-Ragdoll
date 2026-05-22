@@ -2,6 +2,10 @@ Sunny did not come to school today. The seat next to Cosmo and behind Sugarcane 
 
 "Is Sunny sick?" Cosmo asked Sky as we finished a really confusing tradecraft period about cover stories.
 
+"Just a second," Sky said to her, and then turned his volume up to address the class. "No politics for today, but please stay in the classroom! I will be there." He turned back to Cosmo. "What is it?"
+
+"Is Sunny sick?" She repeated.
+
 "…No," Sky said, as if he thought about lying but decided against it, remembering what Cosmo could do.
 
 "Why isn't he here, then?"
@@ -30,7 +34,47 @@ Sugarcane looked at Cosmo, and Cosmo looked back at Sugarcane, and for a while t
 
 "Yeah," Sugarcane nodded. "Let's get out."
 
-It was cloudy today, which made for a great P.E. period. Blackjack stood at her usual spot, still under the banyan tree.
+It was cloudy today, which made for a great P.E. period. Blackjack stood at her usual spot, still under the banyan tree, even though it did not provide any special shade now that most of the ground was shielded from the sun.
+
+"Excellent wilderness survival —" Blackjack said, and the class bell started ringing.
+
+"Excellent wilderness survival last weekend," she repeated as the bell ended. "Most of you passed. Some may have to redo it next year. Some of you even defeated me and got the extra credit!"
+
+Blackjack actually *smiled*. I didn't know she was capable of doing that. What was it with teachers and weird facial expressions today?
+
+"You must be really tired."
+
+"No shit," Sugarcane whispered to me, and I giggled.
+
+"As a reward to all of you — yes, even the ones who failed, have a free period today. You are dismissed."
+
+This was it. My chance to talk to Sugarcane. Just the two of us.
+
+"The *one* day the sun isn't out to kill us," Sugarcane said as soon as we walked out of Blackjack's earshot.
+
+"Sugarcane!" Cosmo caught up to us. "Won't Jewel have some sort of contact info for Sunny? He's in the Investigators club, after all."
+
+…And there it went.
+
+"You're right!" Sugarcane said. "Which class is Jewel in, though?"
+
+"Grade eight," Cosmo said. "There are only five classes in each grade, right? Not that many to check. You coming?"
+
+"Of course," Sugarcane said. "Harmony?"
+
+"Huh?"
+
+"You coming to look for Jewel with us?"
+
+Why did she *ask*? She should've known that I would follow her *everywhere*! I added this to my mental list of the things I needed to talk about. If only I could catch her alone. Back in elementary school, we were *always* together, alone. Why was that so hard to get now? With Sunny gone, too!
+
+I glared at Cosmo behind her back, thankful that she didn't have full mind-reading powers.
+
+---
+
+The building seemed to be neatly organized into four stories: the seventh grade on the first, eighth on the second, ninth on the third, and the teachers' offices on the fourth.
+
+---
 
 "Because I need new friends!" Sugarcane nearly yelled. We were turning heads. "I can't have a repeat of elementary school where everyone else isolated me!"
 
