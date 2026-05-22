@@ -1,5 +1,5 @@
 ---
-chNum: 9
+chNum: 8
 ---
 
 Some students headed out. Most stayed in place, looking at each other in confusion.

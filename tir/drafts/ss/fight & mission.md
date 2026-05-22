@@ -1,3 +1,37 @@
+Sunny did not come to school today. The seat next to Cosmo and behind Sugarcane was empty.
+
+"Is Sunny sick?" Cosmo asked Sky as we finished a really confusing tradecraft period about cover stories.
+
+"…No," Sky said, as if he thought about lying but decided against it, remembering what Cosmo could do.
+
+"Why isn't he here, then?"
+
+"He… won't be coming to school anymore."
+
+"I can tell you're hiding something," Cosmo said sternly.
+
+For a split second, Sky glared at her. It was the first time I had even seen him display anything but affection towards his students. But again, it was also the first time I had seen anyone talk back to him. The glare was gone as soon as it came, and it was replaced by a tired face.
+
+"Talk to him yourself if you want to," he said. "I will be answering no more questions."
+
+Sugarcane looked at Cosmo, and Cosmo looked back at Sugarcane, and for a while they stayed like that.
+
+"Do you have Sunny's contact info?" Sugarcane broke the silence. Between them, at least; the classroom during recess was noisy.
+
+"No. I was hoping you'd have it."
+
+"Who else could have it?"
+
+"Sky," Cosmo said, "but I doubt he would just give it to us."
+
+"Plus, he would probably only have Sunny's parents'," Sugarcane added.
+
+"It's P.E. next," I said, desperate to get their minds — or rather, just Sugarcane's mind — off Sunny. So what if he didn't show up for a day? He would probably be back tomorrow like nothing happened.
+
+"Yeah," Sugarcane nodded. "Let's get out."
+
+It was cloudy today, which made for a great P.E. period. Blackjack stood at her usual spot, still under the banyan tree.
+
 "Because I need new friends!" Sugarcane nearly yelled. We were turning heads. "I can't have a repeat of elementary school where everyone else isolated me!"
 
 Isolated her? She *chose* to not be friends with them because none of them were as good as me!
@@ -7,8 +41,6 @@ We reached the end of the hallway and she leaned against the wall.
 "Am I not good enough for you?" I asked, my voice barely above a whisper.
 
 "Not if I need *your permission* to make new friends!" She snapped, her voice dripping with the kind of vitriol I had only ever heard her use on Rose.
-
-Was I not good enough for her?
 
 *Am I just like Rose?*
 

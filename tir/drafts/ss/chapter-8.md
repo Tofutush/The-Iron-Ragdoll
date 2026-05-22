@@ -1,5 +1,5 @@
 ---
-chNum: 8
+chNum: 7
 ---
 
 Guess what? I had also forgotten you needed a computer to code. And the only computer at home was in Mom's study.

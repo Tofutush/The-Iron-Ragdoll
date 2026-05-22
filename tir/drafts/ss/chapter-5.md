@@ -1,5 +1,5 @@
 ---
-chNum: 5
+chNum: 4
 ---
 
 "Welcome to your first class of middle school," Sky said. "Tradecraft. This will undoubtedly be the most important class in this school, given our nature, but I don't want you slacking in any other classes either." He scanned his gaze sternly across the room.

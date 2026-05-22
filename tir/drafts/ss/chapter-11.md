@@ -1,5 +1,5 @@
 ---
-chNum: 11
+chNum: 10
 ---
 
 "What is going on back there?" Jewel came back to see the splatter of my blood on the ground. "Damn." And then she noticed Sugarcane and Cosmo.
@@ -257,6 +257,10 @@ Sugarcane's voice rang in my head again.
 *"I told him I wouldn't attend unless you do too."*
 
 This was it. Sky got Sugarcane, the kid he really wanted. Now I had overstayed my welcome.
+
+Dad was knocking on my door. "Wanna have another round at Stickman Arena?"
+
+"Go away!" I yelled, and went back to drowning in my own misery.
 
 Time to go. Away from Sugarcane. To Flower City Middle School, I suppose. Maybe I would even end up in the same class as Rose.
 

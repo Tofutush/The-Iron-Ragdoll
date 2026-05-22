@@ -1,5 +1,5 @@
 ---
-chNum: 7
+chNum: 6
 ---
 
 I spent the past few weeks of school paying attention in class and paying attention to Sugarcane.
