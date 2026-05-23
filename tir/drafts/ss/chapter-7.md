@@ -60,7 +60,7 @@ I spent all weekend weighing my options, and it suddenly dawned on me. The libra
 
 "No, it's fine, I can wait," I said quickly. "I'll wait in the library."
 
-How convenient. I was wondering when I would have time to study, since I needed to spend every waking moment around Sugarcane. Now I could go through her coding resources while she cleaned up the classroom. I would've offered to help her with the cleanup too; but in fifth grade she insisted on doing it without my help, so I hadn't brought it up since.
+How convenient. I was wondering when I would have time to study, since I needed to spend every waking moment around Sugarcane. Now I could go through her coding resources while she cleaned up the classroom. I would've offered to help her with the cleanup too; but in fifth grade we had one of our few fights about this, so I hadn't brought it up since.
 
 I swiped my student card at the library entrance. The door swung open and a gust of cold wind greeted me. Everything seemed to be operating at a full capacity here: the air conditioners, the lights, and the students. The ground was a tranquil light-brown shade of wood. Bookshelves and tables lined up everywhere, with potted plants tucked in every corner.
 

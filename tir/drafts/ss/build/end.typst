@@ -1,4 +1,4 @@
-#set page(footer: none)
+#set page(footer: none, margin: 1in)
 #show link: underline
 #show link: set text(fill: blue)
 #pagebreak()

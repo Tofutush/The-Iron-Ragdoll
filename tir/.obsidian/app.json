@@ -12,5 +12,6 @@
   "showUnsupportedFiles": false,
   "showLineNumber": false,
   "newFileLocation": "current",
-  "focusNewTab": false
+  "focusNewTab": false,
+  "showInlineTitle": true
 }
