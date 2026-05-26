@@ -265,3 +265,17 @@ I nodded, still processing the information. It had been, what, a little more tha
 "Please review the file before taking any action," Sky said. There was only one copy. "Sorry about that, but you're not allowed to make your own copy either. Just read it together when you both have time."
 
 "Yes, teacher," Sugarcane said, and took the file in her hands.
+
+"I'll walk you back to the classroom. Remember," Sky added, "the file is confidential. Don't share your mission with anyone else. Not your classmates, not your parents. No one should know that you're even doing a mission."
+
+"But I *do* know that everyone in the grade is doing one, right?" Sugarcane asked as we headed down the stairs.
+
+"Yeah, of course," Sky laughed. "But that's all you would know."
+
+"Would their missions be similar?" Sugarcane asked again as we approached the classroom.
+
+"Similar in difficulty, but different in content. There are not a whole ton of diplomat children running around, as you can well imagine. Now go sit down."
+
+We sat down in our usual seats, right next to each other.
+
+"Cosmo," Sky said. "Come with me." And then to us: "Don't read that in *here*."
