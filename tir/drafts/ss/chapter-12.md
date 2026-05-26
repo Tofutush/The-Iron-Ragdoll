@@ -22,4 +22,36 @@ But we had to pretend to still be friends, so we could befriend Jelly.
 
 "I have literally never heard of this," Sugarcane said. "Let me look it up."
 
-She pulled out her phone and
+She pulled out her phone and started typing. I glanced around at her plushies, always arranged in the order in which they were bought. Carrots, Slushy, Taffy, all the way to… Kitty.
+
+I had wanted plushies too. They were cute, and I could play pretend with them. I used to have some, and they were fine for a couple weeks, but then Dad suddenly developed a belief that they were either secret listening devices, or actually sentient and waiting to murder us, or both. He threw all of them away one day, and I came home to an empty room.
+
+The only one that survived was Kitty, because I had brought her to school that day. After finding out the fate of all the others, I gave Kitty to Sugarcane. She now sat at the end of the queue, the last plushie Sugarcane ever acquired.
+
+I used to think it was because she didn't need any more now that she had mine.
+
+"It's a Westavian school," Sugarcane announced, reading from her phone. "Mostly children of diplomats or businesspeople."
+
+"Um-hm," I nodded.
+
+"We have to remember that we weren't supposed to know that yet," Sugarcane said.
+
+"Right," I agreed. "But wait, if we have to approach her, shouldn't we both have code names?"
+
+"You're right!" Sugarcane said. "But what should we call ourselves?"
+
+I glanced around at her plushies. The answer seemed obvious. "Carrots and Slushy."
+
+"Eww, no one names their kid 'Carrots.' How about Spotty and Truffle? I'll be Spotty and you'll be Truffle."
+
+"Yeah, that sounds okay." I thought about protesting more, but honestly I liked Truffle.
+
+"Hey, look here, *Truffle*!" Sugarcane said. "There's a playground she loves to play at."
+
+There were several black-and-white photos of Jelly at the playground, taken from the same high angle with a date and time printed in the corner, possibly from a surveillance camera. Sometimes there were many people, sometimes just Jelly herself. In the pictures, she was usually found sitting in a corner, under the slides, or on a swing, but always alone.
+
+"Take a look at the pictures where she was completely by herself," Sugarcane said.
+
+I shuffled out the photos. "Here you are, *Spotty*."
+
+"They're all on Friday," Sugarcane observed.

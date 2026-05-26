@@ -238,11 +238,13 @@ I felt tears welling up in my eyes, but just when they were about to fall, a sha
 
 ---
 
-I sat in a folding chair in the teacher's office, right next to Sugarcane, determined to swallow back my tears in front of Sky. He was shuffling through a pile of folders in a box until he found one bearing our names.
+We were at the back of the classroom, a good distance from the last row of seats. It was far enough so that anyone trying to eavesdrop would look extremely obvious.
+
+I was determined to swallow back my tears in front of Sky. He was shuffling through a pile of folders in a box at the corner until he found one bearing our names.
 
 "I decided to start earlier; sorry for interrupting your recess, but there are a lot of groups to go through. Now, Harmony and Sugarcane," he said. "Here it is. Your mission."
 
-I noticed a folder, identical to all the others, labeled "Sunny," sitting in a trash can. Looked like he really wasn't coming back.
+I noticed a folder, identical to all the others, labeled "Sunny," but the name was crossed out and the file was marked for shredding. Looked like he really wasn't coming back.
 
 "A mission?" Sugarcane echoed.
 
@@ -266,13 +268,13 @@ I nodded, still processing the information. It had been, what, a little more tha
 
 "Yes, teacher," Sugarcane said, and took the file in her hands.
 
-"I'll walk you back to the classroom. Remember," Sky added, "the file is confidential. Don't share your mission with anyone else. Not your classmates, not your parents. No one should know that you're even doing a mission."
+"Remember," Sky added, "the file is confidential. Don't share your mission with anyone else. Not your classmates, not your parents. No one should know that you're even doing a mission."
 
-"But I *do* know that everyone in the grade is doing one, right?" Sugarcane asked as we headed down the stairs.
+"But I *do* know that everyone in the grade is doing one, right?" Sugarcane asked, tilting her head at the roomful of students curiously looking our way.
 
 "Yeah, of course," Sky laughed. "But that's all you would know."
 
-"Would their missions be similar?" Sugarcane asked again as we approached the classroom.
+"Would their missions be similar?"
 
 "Similar in difficulty, but different in content. There are not a whole ton of diplomat children running around, as you can well imagine. Now go sit down."
 
