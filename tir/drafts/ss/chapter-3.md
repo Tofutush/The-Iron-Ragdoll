@@ -56,7 +56,7 @@ And on that note, a loud, screeching sound came blasting out of the speakers.
 
 "You may begin."
 
-Equations. What's the value of *x*? The first question was easy enough. Question two. *Uh, what does this little "2" above the* x *mean?* I skipped that one. *What is "log"?* Skipped again. *What is this weird crowbar? Oh my…* The bun in my stomach was acting up.
+Equations. *What's the value of x?* The first question was easy enough. Question two. *Uh, what does this little "2" above the* x *mean?* I skipped that one. *What is "log"?* Skipped again. *What is this weird crowbar? Oh my…* The bun in my stomach was acting up.
 
 I ended up skipping the entire math section and moved onto science.
 
@@ -100,7 +100,7 @@ I quickly added my own sheet onto the pile and handed it to Sky.
 
 We met at our backpacks. I shot Sugarcane an exasperated expression. Sugarcane simply shook her head.
 
-Mom was right, I *did* feel hungry. I ate the bun, which had been flattened into pie between her books, and threw the plastic bag away.
+Mom was right, I *did* feel hungry. I ate the bun, which had been flattened into pie between my books, and threw the plastic bag away.
 
 The ten minutes were up, and Sky called everyone back into the classroom.
 
@@ -110,15 +110,15 @@ I stared at the paper.
 
 "For all the questions below, 'the exam' refers to the first part of the exam that you have just finished taking.
 
-"How many pages did the exam's question sheet have?"
+*How many pages did the exam's question sheet have?*
 
 It was eight. I remembered.
 
-"Repeat the second question on the third page. Include the options as well."
+*Repeat the second question on the third page. Include the options as well.*
 
 I had skipped that page.
 
-"How many paragraphs did the second reading passage have?"
+*How many paragraphs did the second reading passage have?*
 
 The first one, with the ancient language, had three. I hadn't counted the second.
 
@@ -200,7 +200,7 @@ I opened my mouth to talk to Sugarcane, but Cosmo suddenly popped up. She pointe
 
 "I'm more concerned about you just recording her for half an hour straight," Sunny said.
 
-I had always wanted my own cat, but Mom was allergic and Dad got freaked out by anything that moved. I loved going to the pet store at the mall with Sugarcane and just staring at the kittens in their boxes.
+I had always wanted my own cat, but Mom was allergic and Dad got freaked out by anything that moved. And also anything that didn't move. I loved going to the pet store at the mall with Sugarcane and just staring at the kittens in their boxes.
 
 "Harmony, right?" Cosmo's voice made my head snap up. "You don't seem to talk a lot. How are you doing?"
 
