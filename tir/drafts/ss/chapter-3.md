@@ -56,7 +56,7 @@ And on that note, a loud, screeching sound came blasting out of the speakers.
 
 "You may begin."
 
-Equations. *What's the value of x?* The first question was easy enough. Question two. *Uh, what does this little "2" above the* x *mean?* I skipped that one. *What is "log"?* Skipped again. *What is this weird crowbar? Oh my…* The bun in my stomach was acting up.
+Equations. *What's the value of* x*?* The first question was easy enough. Question two. Uh, what does this little "2" above the x mean? I skipped that one. What is "log"? Skipped again. What is this weird crowbar? Oh my… The bun in my stomach was acting up.
 
 I ended up skipping the entire math section and moved onto science.
 
