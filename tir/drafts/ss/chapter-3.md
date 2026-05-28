@@ -4,7 +4,7 @@ chNum: 3
 
 The digital alarm I set on my new phone rang at seven o'clock sharp, but I had been awake long before.
 
-I ate another one of their buns — just about how many did Mom make? — but she insisted on packing another in my bag. "You'll get hungry after taking the exam."
+I ate another one of our buns — just about how many did Mom make? — but she insisted on packing another in my bag. "You'll get hungry after taking the exam."
 
 Silly. I had taken plenty of exams in elementary school and I never got *hungry* from sitting at a desk doing multiple choice questions. But I wasn't in the mood to argue with Mom. She put a bun into a plastic bag and stuffed it in my bag, among my new textbooks.
 

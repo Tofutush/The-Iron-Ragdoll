@@ -232,7 +232,11 @@ Sugarcane was my whole life. But it seemed that I was only a little part of hers
 
 "Just so you know," Sugarcane added, a final twist of the knife. "If you force me to choose between them and you, I would choose them."
 
-I felt tears welling up in my eyes, but just when they were about to fall, a shadow draped over us and I turned to see Sky.
+I felt tears welling up in my eyes. This was it. Sugarcane didn't want me.
+
+I'd just quit the school, then, like my parents had been telling me to do since the beginning. Because what was the point of going to the same damned school with her if we would end up separated either way?
+
+Just when the tears were about to fall, a shadow draped over us and I turned to see Sky.
 
 "Harmony! Sugarcane! Here you are. Would you both come with me, please?"
 
@@ -242,7 +246,7 @@ We were at the back of the classroom, a good distance from the last row of seats
 
 I was determined to swallow back my tears in front of Sky. He was shuffling through a pile of folders in a box at the corner until he found one bearing our names.
 
-"I decided to start earlier; sorry for interrupting your recess, but there are a lot of groups to go through. Now, Harmony and Sugarcane," he said. "Here it is. Your mission."
+"I decided to start earlier; sorry for interrupting your recess, but there are a lot of these to go through. Now, Harmony and Sugarcane," he said. "Here it is. Your mission."
 
 I noticed a folder, identical to all the others, labeled "Sunny," but the name was crossed out and the file was marked for shredding. Looked like he really wasn't coming back.
 
@@ -276,7 +280,13 @@ I nodded, still processing the information. It had been, what, a little more tha
 
 "Would their missions be similar?"
 
-"Similar in difficulty, but different in content. There are not a whole ton of diplomat children running around, as you can well imagine. Now go sit down."
+"Similar in difficulty, but different in content. There are not a whole ton of diplomat children running around, as you can well imagine."
+
+"Would they also have teams?" I asked. It hadn't slipped my mind that Sunny was going to be assigned an individual mission.
+
+"We make groups where we think fit," Sky said. "But for this class, you're the only group. Now go sit down."
+
+*So it was true. The teachers never trusted me to do anything without Sugarcane.*
 
 We sat down in our usual seats, right next to each other.
 

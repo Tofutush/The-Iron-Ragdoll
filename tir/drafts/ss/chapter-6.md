@@ -4,7 +4,7 @@ chNum: 6
 
 I spent the past few weeks of school paying attention in class and paying attention to Sugarcane.
 
-It soon became apparent that everyone was recruited to the school for a reason. Cosmo for her lie-detection abilities that would be useful in questioning. Sunny for his incredible talent in math. He was taking some courses with the high-schoolers! Thunder might appear dumb, but you could see the muscles trying to burst out from under his skin and the P.E. teacher seemed to regard him as her crown jewel (which was a source of pain and misery for Thunder). And Sugarcane. Sugarcane was an obvious choice. She was the best of them all.
+It soon became apparent that everyone was recruited to the school for a reason. Cosmo for her lie-detection abilities that would be useful in questioning. Sunny for his incredible talent in math. He was taking some courses with the high-schoolers! Thunder might appear dumb, but you could see the muscles trying to burst out from under his skin and the P.E. teacher seemed to regard him as her crown jewel (which was a source of pain and misery for Thunder). And Sugarcane. Sugarcane was an obvious choice. She was the best of them all. She got elected class president, and was consistently the first place of just about every class. All the teachers adored her. All the students looked up to her.
 
 But me? Why was *I* here? To convince Sugarcane to come?
 

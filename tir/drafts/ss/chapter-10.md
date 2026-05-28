@@ -242,13 +242,17 @@ Dad cleared his throat.
 
 "You got a nine," Mom said. "Out of a hundred."
 
-"Sky said —" Dad started.
+"I think —" Dad started.
 
 "That I'd better get out of here before it's too late, right?"
 
 "Um. Right."
 
-"Why don't they just give Spy School some special privilege to expel students? That would make my life easier! Just kick me out!"
+I sighed. "What about Sugarcane?"
+
+"Auntie Snowstorm didn't tell me," Mom said. "But I mean, Sugarcane's just a smarter kid than you. There's no shame in admitting that."
+
+"Shut up! I said I don't want to hear it!"
 
 I ran back to my room and slammed the door, throwing myself on the bed and burying my nose into the pillow.
 
@@ -258,7 +262,7 @@ Sugarcane's voice rang in my head again.
 
 This was it. Sky got Sugarcane, the kid he really wanted. Now I had overstayed my welcome.
 
-Dad was knocking on my door. "Wanna have another round at Stickman Arena?"
+Dad was knocking on my door. "Wanna have another round at *Stickman Arena*?"
 
 "Go away!" I yelled, and went back to drowning in my own misery.
 

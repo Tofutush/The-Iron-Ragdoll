@@ -14,7 +14,13 @@ chNum: 12
 
 We were in Sugarcane's room, lying belly-down on her bed, surrounded by her forty-six plushies, the file laid out on the pillow in front of us. The air was tense. I could no longer immediately tell what Sugarcane was thinking about. Or, I had never been able to in the first place. All I knew was that I was still not over our argument. We were no longer friends. We would probably never be friends again. We would grow old and die without seeing each other, ever again. We wouldn't be buried together. We probably couldn't even die on the same date like we had planned.
 
-But we had to pretend to still be friends, so we could befriend Jelly.
+Earlier today, I had stood in front of the teachers' office, thinking about entering and telling Sky that I wanted to quit. But in the end, I turned around and left.
+
+Because I knew I didn't want to. I knew that no matter what Sugarcane thought of me, I would always think of her first.
+
+I would never leave her, even if it meant I needed to keep toiling at this school, putting up with its stupid missions.
+
+Also, doing the mission with Sugarcane ensures that we would succeed, didn't it? My parents were right, after all. Sugarcane was much smarter than I was.
 
 *Attends Sunlight Academy, seventh grade.*
 
@@ -110,13 +116,39 @@ Sugarcane played a couple rounds with her parents and me to help me get familiar
 
 I spent the rest of the week writing and reciting lines. "There you are, Spotty!" Too enthusiastic. Also, people didn't really say each other's names like that all the time. "There you are!" "Finally!" Standing up as I talked.
 
-On Tuesday evening, Mom asked me why Sugarcane and I were suddenly giving each other nicknames now. She and Sugarcane's mom were colleagues. Sometimes they shared too much with each other.
+On Tuesday evening, Mom asked me why Sugarcane and I were suddenly giving each other nicknames now. Sometimes Sugarcane's mom shared too much with mine. And we were having steamed buns *again*.
 
 "It's just something fun," I said. "They're the names of some of her plushies."
 
 Dad frowned at the mention of plushies. Well, he frowned at everything anyways.
 
-We no longer walked home together. I could go back home sooner without the detour, but I found myself waiting until I could no longer see Sugarcane in the crowd before taking off myself, so I still arrived at home at about the same time. Which meant my parents didn't notice anything off, which was good.
+"Are you doing anything fun at school lately?" Mom asked.
+
+"No."
+
+"Come on, honey."
+
+"I said no."
+
+"We're a family," Dad said again. "Family don't keep secrets from each other."
+
+Somehow they were onto me. What *did* Auntie Snowstorm tell Mom?
+
+"It's just some homework," I said.
+
+"I do remember now, they're supposed to do a mission in middle school," Mom poked the lid off of the topic. "Is that it?"
+
+"I'm not supposed to tell you," I said.
+
+"Nobody's gonna know! Your dad's right, we shouldn't keep secrets from each other."
+
+"I said no!" I went back to my room where I prepared a secret stash of snacks to munch on.
+
+Sugarcane and I no longer walked home together. I could go back home sooner without the detour, but I found myself waiting until I could no longer see Sugarcane in the crowd before taking off myself, so I still arrived at home at about the same time. Which meant my parents didn't notice anything off about that, which was good. Didn't really help if they noticed literally everything else, though. They kept prying me about details of my mission. I let loose that I was doing it with Sugarcane.
+
+"Good!" Mom immediately said. "She'll get you through it. Don't drag her down, though!"
+
+I sighed. I secretly knew that was exactly the case, though it still hurt.
 
 I could no longer get help with my homework, either. Now only Sugarcane and Cosmo were found together, discussing problems. More often discussing what had happened to Sunny. I was glad to not be a part of that conversation. I just worked on the problems myself. It was scary and hard, but by the end of the week, I had a much easier time completing them.
 

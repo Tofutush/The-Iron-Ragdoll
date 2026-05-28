@@ -68,7 +68,7 @@ Mom, Dad and I spent the next ten minutes putting the buns back into the fridge.
 
 "It was really hard."
 
-"Maybe they're using the exam to weed out some students," Mom suggested.
+"Maybe they're using the exam to weed out some students," Mom suggested. "Auntie Snowstorm told me Sugarcane aced it."
 
 "Stop it, mom!" I picked up the last bun, shoved it haphazardly into the fridge, closed the door, and stomped back in my room, shutting the door again and trying hard not to think of myself as the last bun shutting herself into the fridge.
 

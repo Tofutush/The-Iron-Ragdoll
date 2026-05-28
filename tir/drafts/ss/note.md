@@ -1,0 +1,4 @@
+- motives and lines a little messy. fix.
+	- make emotional lines clear
+		- impostor syndrome come from parents
+		- friendship line…?
