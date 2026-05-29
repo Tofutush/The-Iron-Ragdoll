@@ -6,7 +6,7 @@
 
 .img {
 	background-color: var(--box);
-	border-radius: 12%;
+	border-radius: .7em;
 	cursor: pointer;
 	box-sizing: border-box;
 	padding: .5em;
@@ -19,6 +19,7 @@
 
 	&>img {
 		object-fit: cover;
+		border-radius: .5em;
 		width: 100%;
 		height: auto;
 		aspect-ratio: 1;
