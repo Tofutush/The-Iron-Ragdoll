@@ -8,7 +8,7 @@ I scanned the crowd for Jelly. Sugarcane told me to find an empty spot near her.
 
 There were many people there, sitting on the benches, walking their dogs, or playing with their children. Trying to look inconspicuous, I walked around the place, scanning the crowd, taking deep breaths, trying to suppress my thumping heart. Everyone must be onto me, I thought. They all saw me. They all know what I was here to do!
 
-Maybe that was how they planned to get rid of me. I would fail spectacularly, Sugarcane would do all the work, and they would say I did some academic misconduct or something. Then, finally, I would go somewhere I actually belong, while Sugarcane continued to shine.
+Maybe that was how they planned to get rid of me. I would fail spectacularly, Sugarcane would do all the work, and they would say I did some academic misconduct, or even a state security breach. Then, finally, I would go somewhere I actually belong, while Sugarcane continued to shine.
 
 I secretly wondered what really happened to Sunny.
 
@@ -68,7 +68,7 @@ Find a couple of other people first, we had planned. Or rather, Sugarcane planne
 
 Finally, I approached Jelly. I had wanted Sugarcane to do it, but she insisted that I fit her vibes better. Not that I could even infer her "vibes" from the file.
 
-*Best subject is Biology. Quiet and shy.* That was all we knew about her, aside from the cold, hard facts.
+*Favorite subject Biology. Quiet and shy.* That was all we knew about her, aside from the cold, hard facts.
 
 "Hi!" I grabbed her attention. "Do you want to play a game with us?"
 
@@ -96,7 +96,7 @@ She picked blue. Sugarcane picked green. There was no purple, so I went with red
 
 "We're still figuring it out," Sugarcane said. "But basically, you draw cards from this main deck to 'explore' them, and they might be good things or bad things. And there's a task, a boon, and a bane. Our goal is to complete the task together. Do you want to pick a task?" Sugarcane held out the deck of task cards. Jelly pulled one out from the middle.
 
-"Night of the full moon," she read. "Add three *Werewolf* cards to the deck. Defeat them while ensuring at least one player survives. Extra challenge for six or more players: add the remaining two *Werewolf* cards for a total of five."
+"'Night of the full moon,'" she read. "Add three *Werewolf* cards to the deck. Defeat them while ensuring at least one player survives. Extra challenge for six or more players: add the remaining two *Werewolf* cards for a total of five."
 
 "Alright." Sugarcane found the Werewolf cards and shuffled them into the main deck. "What about the boon? Truffle?"
 
@@ -110,4 +110,34 @@ I pulled a boon card from the deck. "It costs minus one healing items to heal," 
 
 "Spotty, then?"
 
-"Sure," Sugarcane said.
+"Sure," Sugarcane said. She moved her token one card north, and drew a new card. "Ooh, I got some medicine," she said.
+
+"Jelly?" I asked again.
+
+"Sure." Jelly moved her token to the east and drew a card. "Ammunition."
+
+"That's great!" I said as I moved mine south and drew another card. "Um. It's a monster."
+
+"This early?" Sugarcane said. "Jelly, you're the only one with ammo right now. You need to shoot it next round!"
+
+"Got it," Jelly said.
+
+She didn't manage to kill the monster the next round, and I got injured, but Sugarcane obtained some medicine healed me with just one unit thanks to our boon. We were off to a bad start, but we managed to stock up on a good amount of resources before encountering our first werewolf.
+
+Jelly was warming up to us. When she drew out the Werewolf card, her eyes went wide and she announced, "the full moon shines high in the night sky. An unsuspecting man transforms into a deadly beast!" Dramatically, she slammed the card down next to her player token. "I think we're screwed!" She pretended to talk into a walkie-talkie.
+
+"Fear not, Ms. Blue!" Sugarcane said. "For I have… uh, food. *You* have a lot of ammo. You should just shoot it, if you still have energy left for this round."
+
+"I have only one left, so if I shoot it, I couldn't run away. Ms. Green, what should I choose?"
+
+"Run, then."
+
+"I have a better question," I said. "Am I 'Ms. Purple' or 'Ms. Red'?" I pointed to the player token that mismatched my soul color.
+
+"Which one do you prefer?" Jelly asked.
+
+"Purple."
+
+"Then Ms. Purple it is! Ms. Purple! I'm fleeing! Save me!"
+
+The rest of the game pretty much went by in fits of 

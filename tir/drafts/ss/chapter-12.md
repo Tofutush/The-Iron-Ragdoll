@@ -104,7 +104,9 @@ The impatience was leaking out of Sugarcane's voice. "Alright," I said. Her poin
 
 Which was exactly how we planned to get acquainted with Jelly.
 
-Sugarcane played a couple rounds with her parents and me to help me get familiar with the game. In the game, the entire team worked towards a collective goal, so we often had to watch out and ensure each other's survival. Sugarcane's parents were nice and gentle, just normal government employees like my own parents, except with better cooking skills. I had dinner at her place.
+Sugarcane played a couple rounds with her parents and me to help me get familiar with the game. In the game, the entire team worked towards a collective goal, so we often had to watch out and ensure each other's survival. The game was quite fun, as long as I brainlessly listened to another player's instructions. In this case, it's Sugarcane's mom's.
+
+Sugarcane's parents were nice and gentle, just normal government employees like my own parents, except with better cooking skills. I had dinner at her place.
 
 "Next Saturday," Sugarcane reminded me as I left. "At the playground. I'll take care of the game. See you then, Truffle!"
 
