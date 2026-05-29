@@ -30,7 +30,7 @@ Also, I call "pages" in this site "files" because it sounds cool. If I said "pag
 
 This site and its contents feature strong language, cartoon violence, and occasional mature themes. It's generally rated as 16+.
 
-It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't treat it so seriously.
+It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't take it too seriously.
 
 ## Miscellaneous questions
 

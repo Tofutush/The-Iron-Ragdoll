@@ -104,4 +104,10 @@ I pulled a boon card from the deck. "It costs minus one healing items to heal," 
 
 "That's great!" Sugarcane said. "I'll grab the bane, then. Don't hate me for this," she added with a smile. "Your base is no longer fortified. I wasn't aware that it was!" She flipped through the rule book. "Ah, there it is. Monsters will lose one health upon entering and for every turn they spend in your base. So basically, they don't lose health for it now."
 
-"Let's start, then!"
+"Let's start, then!" I said. "Jelly, why don't you go first?"
+
+"I'd rather not," Jelly said. "One of you can go."
+
+"Spotty, then?"
+
+"Sure," Sugarcane said.
