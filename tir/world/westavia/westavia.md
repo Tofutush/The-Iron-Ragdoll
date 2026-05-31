@@ -23,6 +23,8 @@ categories:
   <dd><a href="/world/westavia/peoples-vanguard/">People's Vanguard</a></dd>
   <dt>Symbol</dt>
   <dd>The seven-point star</dd>
+  <dt>Currency</dt>
+  <dd>Westavian Sack (WTS)</dd>
 </dl>
 
 The brown alcoholics.
@@ -72,13 +74,15 @@ Eastern Westavia is more industrialized, and western Westavia is a lot more agri
 
 Westavians are known for being passionate, hospitable, and friendly to guests. To visitors, they treat them to their best food and wine; to their neighbors, they trust each other so much that in villages, people hardly lock their doors. It helps that most of their living rooms don't have roofs, and is essentially just a yard with tables in it.
 
+The number 7 has a very strong connotation to Westavia across the continent, because of its strong association to the 7-point star, which is the symbol of Westavia[^1]. It has evolved to be quite a lucky number, and phone numbers or license plates containing the number 7 would often be more expensive.
+
 ### Naming conventions
 
 The surname of a Westavian is their father's given name. For example, [Jelly](/characters/jelly/) [Checkers](/characters/checkers/). In recent times, more and more people have started to take on their mother's names too.
 
 ### Wine culture
 
-Westavians love making wine because they have way too many grapes. And raisins too[^1].
+Westavians love making wine because they have way too many grapes. And raisins too[^2].
 
 Wine culture is all too big in Westavia. People *love* drinking. Though the legal drinking age is still 18, kids would still drink, and simply mandating an ID check in stores won't work, because most people would have homemade wine right in their homes.
 
@@ -103,4 +107,5 @@ However, Westavians believe that Moreland's neocolonial actions in Sylvandia bet
 - If Westavia were ever to have a theme song (not national anthem), it would be titled *Commie Propaganda*.
 	- Ironically, most of Westavia's propaganda efforts were directed at *countering* Bauhinian propaganda. The title was too good to pass up, though.
 
-[^1]: Too bad. I hate both raisins and wine.
+[^1]: Why is that? Well the meta reason is that I like the 7-point star. In-universe IDK yet
+[^2]: Too bad. I hate both raisins and wine.

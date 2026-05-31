@@ -23,6 +23,8 @@ categories:
   <dd><a href="/world/atlasia/the-capital/">The Capital</a></dd>
   <dt>Symbol</dt>
   <dd>Money!!!</dd>
+  <dt>Currency</dt>
+  <dd>Atlasian Moolah (ALM)</dd>
 </dl>
 
 The green money-lovers.

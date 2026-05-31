@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-05-31
+
+- Added currency to the countries' pages;
+
 ## 2026-05-21
 
 - Added `sparky bottle.png`, `nebula dance.png`, `nebula dance black.png`, `nebula ref.png`;

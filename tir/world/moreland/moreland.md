@@ -25,6 +25,8 @@ categories:
   <dd>December 21<sup>st</sup> — 23<sup>rd</sup></dd>
   <dt>Symbol</dt>
   <dd>The moose</dd>
+  <dt>Currency</dt>
+  <dd>Moose Credit (MLC)</dd>
 </dl>
 
 The green moose people.

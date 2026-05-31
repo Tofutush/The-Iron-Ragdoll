@@ -25,6 +25,8 @@ categories:
   <dd>July 29<sup>th</sup></dd>
   <dt>Symbol</dt>
   <dd>tba</dd>
+  <dt>Currency</dt>
+  <dd>Sylvandian Sack (SVS), but uses BHB and ALM way more</dd>
 </dl>
 
 The blue-and-yellow-colored huge mess. It is nominally independent but still in colonial limbo.

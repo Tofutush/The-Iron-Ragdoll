@@ -25,6 +25,8 @@ categories:
   <dd>February 24<sup>th</sup></dd>
   <dt>Symbol</dt>
   <dd>The bauhinia flower</dd>
+  <dt>Currency</dt>
+  <dd>Bauhinian Buck (BHB)</dd>
 </dl>
 
 The pink bureaucratic fanatic.

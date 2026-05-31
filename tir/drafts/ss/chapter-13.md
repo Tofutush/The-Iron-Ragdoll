@@ -4,7 +4,7 @@ chNum: 13
 
 I reached the playground at our agreed time. It wasn't far from our homes; just a couple subway stops away, at the center of a park.
 
-I scanned the crowd for Jelly. Sugarcane told me to find an empty spot near her.
+I scanned the crowd for Jelly. Sugarcane had told me to find an empty spot near her.
 
 There were many people there, sitting on the benches, walking their dogs, or playing with their children. Trying to look inconspicuous, I walked around the place, scanning the crowd, taking deep breaths, trying to suppress my thumping heart. Everyone must be onto me, I thought. They all saw me. They all know what I was here to do!
 
@@ -140,4 +140,4 @@ Jelly was warming up to us. When she drew out the Werewolf card, her eyes went w
 
 "Then Ms. Purple it is! Ms. Purple! I'm fleeing! Save me!"
 
-The rest of the game pretty much went by in fits of 
+The rest of the game pretty much went by in fits of "help!" "we're running out of food!" "Spotty why do you always draw monsters" and "Truffle, stop stealing resources!"

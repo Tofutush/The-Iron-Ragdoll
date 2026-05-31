@@ -1,5 +1,5 @@
 {
-  "accentColor": "#7d7d7d",
+  "accentColor": "#108bea",
   "baseFontSize": 20,
   "enabledCssSnippets": [
     "justify",
@@ -9,7 +9,8 @@
     "word count",
     "complement",
     "folder tree",
-    "font weight"
+    "font weight",
+    "heading colors"
   ],
   "interfaceFontFamily": "DIN Round Pro",
   "textFontFamily": "Courier Prime,Lexend,Noto Sans Arabic,霞鹜文楷",

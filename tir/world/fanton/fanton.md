@@ -23,6 +23,8 @@ categories:
   <dd><a href="/world/fanton/lotus-lake-city/">Lotus Lake City</a></dd>
   <dt>Symbol</dt>
   <dd>The lotus flower</dd>
+  <dt>Curreny</dt>
+  <dd>Fantoni Buck (FTB)</dd>
 </dl>
 
 The purple starry-eyed tree-lovers.
