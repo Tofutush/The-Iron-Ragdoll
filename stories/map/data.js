@@ -287,6 +287,16 @@ const data = [
     },
 
     {
+        id: "The Soul Research Center",
+        parentIds: [
+            
+                "Coastline Middle School Mysteries",
+            
+        ],
+        url: "/stories/the-soul-research-center/"
+    },
+
+    {
         id: "The Gambit Five",
         parentIds: [
             

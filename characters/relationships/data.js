@@ -601,6 +601,18 @@ color: "#45519d",
 img: "/The-Iron-Ragdoll/img/Q-b3N7u-JY-200.webp",
 },
 
+{
+id: "Starlight",
+color: "#0b1d66",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Sparrow",
+color: "#f0dd0f",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
 ],
 rel: [
 
@@ -2210,6 +2222,14 @@ target: "Cornflower",
 rel1: "friend",
 rel2: "friend",
 minor: true
+},
+
+{
+source: "Starlight",
+target: "Sparrow",
+rel1: "colleague",
+rel2: "colleague",
+
 },
 
 ]
