@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-01
+
+- New characters: [Starlight](/characters/starlight/), [Sparrow](/characters/sparrow/);
+- New story: [The Soul Research Center](/stories/the-soul-research-center/);
+
 ## 2026-05-31
 
 - Added currency to the countries' pages;
