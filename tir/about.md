@@ -64,3 +64,15 @@ I welcome any sort of derivative content, like fanart, OCs, and everything, as l
 CC-BY-NC-SA license applies; see the [License](#license) section!
 
 That being said, my paracosm is still something I hold dear to myself. This is not a media franchise, and should not be regarded as such. If the way you're interacting that makes me uncomfortable, I have a right to stop interacting with you. Thanks for understanding, and happy browsing!
+
+## About me
+
+I don't have much to say here because I'm a remarkably boring person and TIR is way more interesting than I am, but there are still some things I'd rather people know!
+
+I'm Tofutush, full name is technically Skipper Tofutush but I just go by Tofutush. The name is from Captain Underpants book 4, *The Perilous Plot of Professor Poopypants*. There's a section where Poopypants forced everyone to change their names, and I got Skipper Tofutush!
+
+My pronouns are she/her. I speak Chinese and English, both with native fluency, both with the vocabulary of an immature kid. I use semicolons and em-dashes like it's my last day on Earth and I chose to spend the entire day using semicolons and em-dashes.
+
+I like cats and OCs. Here is a list of [places I'm at](https://tilde.town/~tofutush). Here are some [blog posts](https://tofutush.github.io) where I overshare stuff about myself.
+
+Enough about me. Go read the [World overview](/world/overview/) if you haven't already!
