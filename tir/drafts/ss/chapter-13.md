@@ -140,4 +140,70 @@ Jelly was warming up to us. When she drew out the Werewolf card, her eyes went w
 
 "Then Ms. Purple it is! Ms. Purple! I'm fleeing! Save me!"
 
-The rest of the game pretty much went by in fits of "help!" "we're running out of food!" "Spotty why do you always draw monsters" and "Truffle, stop stealing resources!"
+The rest of the game pretty much went by in fits of "help!" "we're running out of food!" "Spotty why do you always draw monsters" and "Truffle, stop stealing resources!" By the time we defeated the last Werewolf, Sugarcane and I were both dead, and Jelly was injured when she fired the last round that finally killed the Werewolf that was camping in our base for four rounds.
+
+"Yes!" She said triumphantly. "That bane you drew was really bad. It would've died a lot sooner if it had been losing health."
+
+"Yeah," Sugarcane laughed, scratching her head. "I read through some of these other banes, though, and ours was honestly a pretty tame one. Another round?"
+
+Jelly glanced at the reddening sky. "It's a little late, isn't it?"
+
+"You're right," Sugarcane said. "We just spent, what, more than an hour? There's not enough time for another round."
+
+"Where do you live?" Jelly asked. "Can we play together again someday? Maybe tomorrow?"
+
+I remembered Sky's instructions. "Never invite her to your home, or meet your parents, or whatever. Always make sure you know more about her than she does you," he had said. "And by the hair on my head, do *not* tell her you attend *the* one and only Spy School!"
+
+"We live nearby," Sugarcane said. "Tomorrow when?"
+
+"This is practically my second home," Jelly said. "Come anytime. I'll bring my plushies! I have a lot of them!"
+
+"Hey, I also have a lot of plushies," Sugarcane said. "I'll bring some over too!"
+
+---
+
+There was no question that we would *not* bring Truffle and Spotty.
+
+"Let's start at the end," Sugarcane said. "Kitty. Do you want to hold her?"
+
+"Sure," I said. Whenever we played with Sugarcane's plushies, she had always let me take Kitty, as if Kitty was still mine and was just attending some sort of eternal daycare on her bed.
+
+"And I'll grab Goggles," Sugarcane said, picking up the owl with big googly eyes next to Kitty. "And we make sure we get the selfie this time."
+
+When Jelly saw us, she got up excitedly and waved, jumping up and down so we could see her through the people. She had a long caterpillar plushie wound around her neck, and was holding an ant plushie in her arm.
+
+"Spotty!" She yelled. "Truffle!"
+
+"Here!" Sugarcane yelled back. She was carrying the *Explorers* game, and I carried Kitty and Goggles.
+
+We played a round of the game, with four players this time: Kitty, Goggles, and the caterpillar and ant, which were simply called Caterpillar and Ant. By the time we finished, it was lunch time.
+
+"I usually have lunch at one of the restaurants near the park," Jelly said. "I understand if you need to go home, though."
+
+"We can stay!" Sugarcane said quickly.
+
+---
+
+"I need to take a picture," Jelly said as she pulled out her phone. She snapped a photo of the game board, and then held the phone up high. "A photo?"
+
+"Sure," Sugarcane said casually, and even a bit reluctantly. I had barely managed to hide my enthusiasm. Jelly doing our job *for* us!
+
+We slithered up beside her and smiled into the camera. A press and it was done.
+
+"Send it to us!" Sugarcane said. "Let's make a group on StarChat."
+
+"Oh, I'm not allowed to have a StarChat account," Jelly said. "Just give me your number and I'll send it over SMS."
+
+"Wait, why can't you have a StarChat account?" Sugarcane asked, feigning confusion.
+
+"I'm from Westavia, actually," Jelly smiled apologetically. It almost made me grab her face, shake it, and scream "It's not your fault!" But I stayed silent and let Sugarcane carry the conversation.
+
+"Oh. Does StarChat not allow you to make an account, then?"
+
+"No, not really. It's just that… Well, my dad doesn't want me to tell this to any random people I see, but *you* are my friends so I think you deserve to know." She said this quite quickly and quietly, as if someone was eavesdropping on us and would step in and stop her any time. "He works in the Westavian Embassy in Flower City, so there are more stuff he can't do, and somehow *I* also have to follow these rules. So I can't make a StarChat account because Starcorp is a Bauhinian company. Which is funny, because I have a Bauhinian phone number and that's also managed by Starcorp."
+
+"That *is* pretty funny," Sugarcane stated, "but I guess it would be *too* hard to get by without a phone number."
+
+"True," Jelly said. "Let me add you to my contacts, then!"
+
+We exchanged phone numbers, and Jelly sent the selfie of us three over.
