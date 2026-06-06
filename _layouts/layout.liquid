@@ -47,8 +47,7 @@ eleventyComputed:
 			}
 		</style>
 	{% endif %}
-	{% assign dateMonth = 0 | getMMDD %}
-	{% if dateMonth == '12-13' %}
+	{% if MMDD == '12-13' %}
 		<style>
 			html {
 				filter: grayscale(1);

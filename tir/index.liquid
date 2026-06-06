@@ -4,16 +4,15 @@ title: Root
 widepage: true
 ---
 <link rel="stylesheet" href="/css/home.css"/>
-{% assign dateMonth = 0 | getMMDD %}
-{% if dateMonth == '12-13' %}
+{% if MMDD == '12-13' %}
   <p style="text-align: center;"><em><strong>12-13 国家公祭日</strong></em></p>
   <p style="text-align: center;"><em><strong>勿忘国耻，警钟长鸣</strong></em></p>
-{% elsif dateMonth == '09-18' %}
+{% elsif MMDD == '09-18' %}
   <p style="text-align: center;"><em><strong>9·18 事变纪念日</strong></em></p>
   <p style="text-align: center;"><em><strong>缅怀先辈，铭记历史</strong></em></p>
 {% endif %}
-{% assign bdayStars = dateMonth | getBDayStars %}
-{% assign holidays = dateMonth | getHolidays %}
+{% assign bdayStars = MMDD | getBDayStars %}
+{% assign holidays = MMDD | getHolidays %}
 <section id="title">
   <p><em>Welcome to the world of</em></p>
   <img alt="The Iron Ragdoll" title="The Iron Ragdoll" src="/img/bg/home banner english.png"/>

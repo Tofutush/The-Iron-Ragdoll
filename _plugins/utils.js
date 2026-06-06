@@ -49,9 +49,6 @@ function utilPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('randomItem', function (arr) {
 		return arr[Math.floor(Math.random() * arr.length)];
 	});
-	eleventyConfig.addFilter('getMMDD', function (bleh) {
-		return new Date().toISOString().slice(5, 10);
-	});
 	eleventyConfig.addFilter('toDateObj', function (date) {
 		let year = date.slice(0, 4);
 		let month = date.slice(5, 7);
