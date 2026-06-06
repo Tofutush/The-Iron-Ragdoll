@@ -69,7 +69,7 @@ That being said, my paracosm is still something I hold dear to myself. This is n
 
 I don't have much to say here because I'm a remarkably boring person and TIR is way more interesting than I am, but there are still some things I'd rather people know!
 
-I'm Tofutush; full name is technically Skipper Tofutush but I just go by Tofutush. The name is from Captain Underpants book 4, *The Perilous Plot of Professor Poopypants*. There's a section where Poopypants forced everyone to change their names, and I got Skipper Tofutush!
+I'm Tofutush; full name is technically Skipper Tofutush but I just go by Tofutush. Tofu for short. The name is from Captain Underpants book 4, *The Perilous Plot of Professor Poopypants*. There's a section where Poopypants forced everyone to change their names, and I got Skipper Tofutush!
 
 My pronouns are she/her. I speak Chinese and English, both with native fluency, both with the vocabulary of an immature kid. I use semicolons and em-dashes like it's my last day on Earth and I chose to spend the entire day using semicolons and em-dashes.
 
