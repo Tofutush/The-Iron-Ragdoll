@@ -180,7 +180,9 @@ We played a round of the game, with four players this time: Kitty, Goggles, and 
 
 "I usually have lunch at one of the restaurants near the park," Jelly said. "I understand if you need to go home, though."
 
-"We can stay!" Sugarcane said quickly.
+"We can stay!" Sugarcane said quickly. "Where do you want to go?"
+
+Jelly led us to a fast food restaurant run by Starcorp.
 
 ---
 
