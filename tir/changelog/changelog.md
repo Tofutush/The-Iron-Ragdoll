@@ -9,6 +9,7 @@ eleventyNavigation:
 
 - Off-screen enhancements to the [Favorites Leaderboard](https://tofutush.leprd.space/);
 	- One on-screen enhancement is the confetti! Try it!
+- Added `moon.svg`;
 
 ## 2026-06-01
 

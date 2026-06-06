@@ -6133,5 +6133,11 @@
       "nebula"
     ],
     "kind": "ref"
+  },
+  {
+    "name": "moon",
+    "date": "2026-06-06",
+    "type": "svg",
+    "comment": "I learned how to draw low-poly art!! Yaaay!"
   }
 ]
