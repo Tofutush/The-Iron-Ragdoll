@@ -76,6 +76,22 @@ The class in the afternoon was just another round of blabbering about Westavia's
 
 "We only covered Moreland. There aren't a lot of references to go off of, are there?"
 
-"Harmony," Sugarcane said, sounding even more concerned. "We went though Fanton and Atlasia already. After Westavia, only Sylvandia is left now. Have you been paying attention at *all*?"
+"Harmony," Sugarcane said, sounding even more concerned. "We went though Fanton and Atlasia already. After Westavia, only Sylvandia will be left. Have you been paying attention at *all*?"
 
-I hadn't. What was the point?
+I hadn't. What was the point? I had mostly given up with regards to schoolwork. Especially when I spent a couple hours playing *Stickman Arena* with Dad every day. He'd constantly pester me about it until I agreed, and I wanted to show some recognition towards his efforts. Also, rich for Sugarcane to say that, since *she* was the one who stopped studying with me. Actually, it was me who had been avoiding her, but I mean, like…
+
+Ugh. I put my hands on the table and my chin on my hands.
+
+"Anyways," Sugarcane continued, "Westavia's entire government was defined around paranoia. Purges constantly happen. It's a miracle the government even functions to an extent. You'd think they'd be too busy killing each other to do work. Checkers must be under constant stress."
+
+"*If* he's actually a spy. For all we know, he could just be a normal diplomat."
+
+"If he isn't a spy, Sky wouldn't have assigned us the mission," Sugarcane argued.
+
+"Isn't our mission to find out if he is?"
+
+"Our mission is to collect evidence," Sugarcane explained. "Because from a legal standpoint, he is not a spy until we could prove he is. Otherwise, he is not a spy, no matter how obvious it seems."
+
+"Hrm," I shrugged, not really paying attention.
+
+"Anyway, I need to go ask Sky a question. See you soon!" Sugarcane rushed out the classroom to catch Sky before he went too far away.

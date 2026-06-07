@@ -104,7 +104,7 @@ Maybe that was why you couldn't do fourth grade math, I thought.
 
 That actually made sense. Even as we talked, the contents of the book was dripping out of my mind like sand in a sieve. "You're right," I said. "What should I do, then?"
 
-"Play a game with me!" Dad said, pulling out his own phone. "There's this fighting game I love, but it's boring fighting strangers on the internet and your mom didn't want to play. Here, get your phone and I'll download it for you. It's called Stickman Arena."
+"Play a game with me!" Dad said, pulling out his own phone. "There's this fighting game I love, but it's boring fighting strangers on the internet and your mom didn't want to play. Here, get your phone and I'll download it for you. It's called 'Stickman Arena.'"
 
 I had never known Dad liked playing games, let alone fighting games. But I guessed I didn't really know Dad that well.
 
