@@ -90,7 +90,7 @@ Ugh. I put my hands on the table and my chin on my hands.
 
 "Isn't our mission to find out if he is?"
 
-"Our mission is to collect evidence," Sugarcane explained. "Because from a legal standpoint, he is not a spy until we could prove he is. Otherwise, he is not a spy, no matter how obvious it seems."
+"Our mission is to collect evidence," Sugarcane explained. "Because from a legal standpoint, he is not a spy until we could prove he is. Otherwise, he is not a spy, even if everyone knows he is."
 
 "Hrm," I shrugged, not really paying attention.
 
