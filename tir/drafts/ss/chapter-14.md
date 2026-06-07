@@ -36,7 +36,7 @@ It was in the same pot that Mom always used to brew soup, though.
 
 "…Interesting toy tower you got there," Sky commented on our selfie.
 
-It was lunch break, and we were sitting in two folding chairs next to Sky's cubicle. I was dying to get back to my seat down in our classroom.
+It was lunch break, and we were sitting in two folding chairs next to Sky's cubicle as he ran the photo through a bunch of computer programs to make sure we didn't fake it. I was dying to get back to my seat down in our classroom.
 
 "I would recommend looking into Jelly's toys. The caterpillar, the ant, and the new ant farm you said she got."
 
@@ -45,3 +45,37 @@ Sugarcane nodded. I nodded along. Would be helpful to know what in the world he 
 "But overall, great job! It's only been a week since you were assigned this mission. You're way ahead of the other students."
 
 Sugarcane's credit. I bowed my head.
+
+"Your next task is to obtain a picture of the main page of Jelly's passport," Sky said.
+
+"Her passport?" I echoed.
+
+"Yes. It would be a diplomatic one."
+
+"But won't that thing already be stored in a database somewhere?" Sugarcane asked.
+
+"Yes, of course," Sky answered. "But I want to see it from *you*."
+
+"Why would she randomly show us her passport?" I said.
+
+"That's what you'll have to figure out," Sky smirked. "And a reminder, just in case: you're looking for the page *inside* the cover, the one with a photo of her face. *Not* the cover itself. Far too many kids mix that up. If we wanted the cover, we could just look it up on the internet."
+
+"If you want the main page, you can also look it up in the database," Sugarcane retorted in a teasing manner.
+
+"Well, consider this," Sky played along. "I personally don't have access to the database. You'll have to help me out here. Please?"
+
+"Alright," Sugarcane laughed.
+
+We got up to go, but Sky had a last message. "It's worth it to look into Westavia's contemporary history," he said. "Because you're not going to cover that in history class for a long while. And politics, too. We would be talking about Westavia this afternoon, in fact, but you need to do more research yourselves."
+
+The class in the afternoon was just another round of blabbering about Westavia's government structure. Most of it barely glazed the surface of my mind before slipping away or bouncing off. Beside me, Sugarcane was intently taking notes, her brows furrowing.
+
+"What's wrong?" I asked when class ended. "You look concerned."
+
+"Haven't you been paying attention?" She said. "Westavia is not like any other country we've covered so far."
+
+"We only covered Moreland. There aren't a lot of references to go off of, are there?"
+
+"Harmony," Sugarcane said, sounding even more concerned. "We went though Fanton and Atlasia already. After Westavia, only Sylvandia is left now. Have you been paying attention at *all*?"
+
+I hadn't. What was the point?
