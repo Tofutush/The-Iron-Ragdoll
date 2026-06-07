@@ -76,7 +76,7 @@ I got a piece of tissue paper out of my bag to wipe the blood off my face as I w
 
 "Sorry about that," Sugarcane said.
 
-Sorry? She had nothing about which to be sorry. It was Sunny who should apologize!
+Sorry? She had nothing to be sorry about. It was *Sunny* who should apologize!
 
 "Sorry," Sunny also said, which annoyed me because I couldn't be mad at him for not apologizing anymore, and that made me mad.
 
@@ -112,7 +112,7 @@ We made a beeline for the south, Jewel leading the way with the watch trick Suga
 
 "Who cares?" Jewel said. "They blew them up in the first place."
 
-It occurred to me that Jewel didn't need us at this point. She had the watch. She could've just went ahead herself. But she still stayed with us.
+It occurred to me that Jewel didn't need us at this point. She had the watch. She could've just gone ahead herself. But she still stayed with us.
 
 But maybe she just thought she might still need us.
 

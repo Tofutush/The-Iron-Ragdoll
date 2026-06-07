@@ -2,7 +2,7 @@
 chNum: 13
 ---
 
-I reached the playground at our agreed time. It wasn't far from our homes; just a couple subway stops away, at the center of a park.
+I reached the playground at our agreed time. It wasn't far from our homes; just a few subway stops away, at the center of a park.
 
 I scanned the crowd for Jelly. Sugarcane had told me to find an empty spot near her.
 
@@ -100,7 +100,7 @@ She picked blue. Sugarcane picked green. There was no purple, so I went with red
 
 "Alright." Sugarcane found the Werewolf cards and shuffled them into the main deck. "What about the boon? Truffle?"
 
-I pulled a boon card from the deck. "It costs minus one healing items to heal," I read. "This means you now only need two items to heal yourself, and three to heal another player."
+I pulled a boon card from the deck. "It costs minus one healing items to heal," I read. "This means you now only need one item to heal another player, and two to heal yourself."
 
 "That's great!" Sugarcane said. "I'll grab the bane, then. Don't hate me for this," she added with a smile. "Your base is no longer fortified. I wasn't aware that it was!" She flipped through the rule book. "Ah, there it is. Monsters will lose one health upon entering and for every turn they spend in your base. So basically, they don't lose health for it now."
 
@@ -122,7 +122,7 @@ I pulled a boon card from the deck. "It costs minus one healing items to heal," 
 
 "Got it," Jelly said.
 
-She didn't manage to kill the monster the next round, and I got injured, but Sugarcane obtained some medicine healed me with just one unit thanks to our boon. We were off to a bad start, but we managed to stock up on a good amount of resources before encountering our first werewolf.
+She didn't manage to kill the monster the next round, and I got injured, but Sugarcane obtained some medicine and healed me with just one unit thanks to our boon. We were off to a bad start, but we managed to stock up on a good amount of resources before encountering our first werewolf.
 
 Jelly was warming up to us. When she drew out the Werewolf card, her eyes went wide and she announced, "the full moon shines high in the night sky. An unsuspecting man transforms into a deadly beast!" Dramatically, she slammed the card down next to her player token. "I think we're screwed!" She pretended to talk into a walkie-talkie.
 
@@ -166,11 +166,11 @@ There was no question that we would *not* bring Truffle and Spotty.
 
 "Let's start at the end," Sugarcane said. "Kitty. Do you want to hold her?"
 
-"Sure," I said. Whenever we played with Sugarcane's plushies, she had always let me take Kitty, as if Kitty was still mine and was just attending some sort of eternal daycare on her bed.
+"Sure," I said. Whenever we played with Sugarcane's plushies, she had always let me take Kitty, as if Kitty was still mine and was just attending some sort of eternal daycare on her bed. Now, though, it felt more like seeing my child once in a while after a divorce.
 
 "And I'll grab Goggles," Sugarcane said, picking up the owl with big googly eyes next to Kitty. "And we make sure we get the selfie this time."
 
-When Jelly saw us, she got up excitedly and waved, jumping up and down so we could see her through the people. She had a long caterpillar plushie wound around her neck, and was holding an ant plushie in her arm.
+When Jelly saw us, she got up excitedly and waved, jumping up and down so we could see her through the crowd. She had a long caterpillar plushie wound around her neck, and was holding an ant plushie in her arm.
 
 "Spotty!" She yelled. "Truffle!"
 
@@ -182,15 +182,75 @@ We played a round of the game, with four players this time: Kitty, Goggles, and 
 
 "We can stay!" Sugarcane said quickly. "Where do you want to go?"
 
-Jelly led us to a fast food restaurant run by Starcorp.
+Jelly led us to a fast food restaurant. "I've always wanted to try this big combo meal," she said, pointing towards a menu item displayed in a screen above us. "But I don't have anyone to share it with."
 
----
+"It's for three people," Sugarcane observed. "Just enough!"
 
-"I need to take a picture," Jelly said as she pulled out her phone. She snapped a photo of the game board, and then held the phone up high. "A photo?"
+Jelly was jumping up and down, barely containing her excitement. "Thanks! I'll pay!" She pulled out a credit card and plugged it into the machine after several failed attempts because her arm was shaking so much.
+
+"You okay?" Sugarcane asked. "You look like you're about to explode."
+
+"With joy!" Jelly said. "Let's go find a seat!"
+
+We found a table for four and sat down to wait. Our plushies sat in the empty seat next to Jelly, on top of the *Explorers*' box. When the counter called our order number, Jelly sprang up to get it.
+
+She came back with a tray of food, and a little box of glass, about a hand's length tall and wide but very thin, with what seemed like nothing but sand inside.
+
+"It comes with a little ant farm," she said. "Mind if I keep that?"
+
+"Of course not," Sugarcane said. I suspected that she wanted the combo meal solely for the ant farm.
+
+"Ant," Jelly whispered to her plushie, holding the ant farm in front of it. "I got you some friends!"
+
+My suspicions were confirmed as Jelly only nibbled at her burger, frowning while she chewed though she tried to conceal it. She didn't like the food here at all. Though she still forced herself to finish it all, not wasting a single bit.
+
+We were both just using the other party to get what we want, I realized. Not real friends at all. And we would never be.
+
+When we finished and got ready to leave, Jelly wound Caterpillar around her neck again, and tried to pick up Ant and the new ant farm at the same time.
+
+"I can carry Ant for you if you want," Sugarcane offered.
+
+"I'm good," Jelly said. "Are you going home now?"
+
+"We have time," Sugarcane replied. "We just have to go home before dark."
+
+"Me too!" Jelly said. "Let's go back to the park, then!"
+
+I half expected Jelly to make up an excuse to go home. She got the ant farm, after all. Why did she want us to stay?
+
+But well, I shrugged it off. We still needed to get the selfie.
+
+"Another round?" Sugarcane asked, setting *Explorers* down on the table.
+
+Jelly shook her head. I caught her glaring at the game box, but it was gone as soon as it came and replaced with a gentle smile. "Can we play some role-playing? I already have an idea! This is Ant's home," she set her ant farm down on the table, on top of the *Explorers*' box. "It's in danger, and she needs to save it!"
+
+"In danger from what?" I asked.
+
+"From…" Jelly scratched her chin, glancing left and right.
+
+"From the Evil Goggles!" Sugarcane said, waving the owl around the ant farm. "I'm going to *eat you*!"
+
+"Oh, no!" Jelly said, holding Ant up. "I won't let you, Evil Goggles! Kitty, help!"
+
+"Do owls even eat ants?" I laughed, but I kept thinking about Jelly's glare. It gave me this feeling that Jelly not only didn't feel for the game, but actively hated it.
+
+I shook off the idea. She did have a fun time playing it with us.
+
+"Evil Goggles *loves* eating ants," Sugarcane stood on top of a stool and held Goggles high up in the air.
+
+Throughout the course of the afternoon, Evil Goggles was defeated and learnt the errs of her ways. She learned to catch mice instead of ants, and atoned for her actions by helping ants. Eventually, we got tired and quieted down. Jelly lay on the ground, watching the ants in her ant farm dig around the sand in the evening sun. Sugarcane sat at the table, looking at her phone. I somehow managed to balance Kitty on top of Goggles perfectly.
+
+"Whoa!" Jelly said as she noticed the plushie stack. "Hey, see if you can put them on here!" She put Ant on top of Caterpillar, an easy job, as the latter was way bigger.
+
+I carefully carried Goggles and Kitty over and set them on top of Ant. With a bit of effort, the four plushies stacked perfectly together in a tower.
+
+"Huh," Sugarcane said as she observed the tower. "How much time did you spend on this?"
+
+"I need to take a picture," Jelly said as she pulled out her phone. She snapped a photo of the tower, and then held the phone up high. "A photo?"
 
 "Sure," Sugarcane said casually, and even a bit reluctantly. I had barely managed to hide my enthusiasm. Jelly doing our job *for* us!
 
-We slithered up beside her and smiled into the camera. A press and it was done.
+We slithered up beside her and smiled into the camera, the plushie tower visible in the background. A press and it was done.
 
 "Send it to us!" Sugarcane said. "Let's make a group on StarChat."
 
@@ -202,10 +262,26 @@ We slithered up beside her and smiled into the camera. A press and it was done.
 
 "Oh. Does StarChat not allow you to make an account, then?"
 
-"No, not really. It's just that… Well, my dad doesn't want me to tell this to any random people I see, but *you* are my friends so I think you deserve to know." She said this quite quickly and quietly, as if someone was eavesdropping on us and would step in and stop her any time. "He works in the Westavian Embassy in Flower City, so there are more stuff he can't do, and somehow *I* also have to follow these rules. So I can't make a StarChat account because Starcorp is a Bauhinian company. Which is funny, because I have a Bauhinian phone number and that's also managed by Starcorp."
+"No, not really. It's just that… Well, my dad doesn't want me to tell this to any random people I see, but *you* are my friends so I think you deserve to know." She said this quickly and quietly, as if someone was eavesdropping on us and would step in and stop her any time. "He works in the Westavian Embassy in Flower City, so there are more stuff he can't do, and somehow *I* also have to follow these rules. So I can't make a StarChat account because Starcorp is a Bauhinian company. Which is funny, because I have a Bauhinian phone number and that's also managed by Starcorp."
 
 "That *is* pretty funny," Sugarcane stated, "but I guess it would be *too* hard to get by without a phone number."
 
 "True," Jelly said. "Let me add you to my contacts, then!"
 
-We exchanged phone numbers, and Jelly sent the selfie of us three over.
+We exchanged phone numbers, and Jelly sent the selfie of us three over. I breathed a sigh of relief as the photo lay safe in my album.
+
+"Thanks," she said, quietly. "I haven't had any friends since coming here, about a year ago."
+
+"Jelly," Sugarcane said. "Now that you have our numbers, feel free to call us any time."
+
+"Really?" Jelly looked up, her voice even fainter.
+
+"I mean it," Sugarcane said.
+
+Jelly leapt into Sugarcane's arms, engulfing Sugarcane in an embrace despite her smaller physique. While her face was buried in Sugarcane's shoulder, Sugarcane gave me a stern look. *Join in,* was her command.
+
+But I stayed where I was.
+
+I didn't even know why exactly, but a part of me still thought, *I* should've been the one to do this with Sugarcane.
+
+Not some fake friend.

@@ -120,7 +120,7 @@ I spent the rest of the week writing and reciting lines. "There you are, Spotty!
 
 On Tuesday evening, Mom asked me why Sugarcane and I were suddenly giving each other nicknames now. Sometimes Sugarcane's mom shared too much with mine. And we were having steamed buns *again*.
 
-"It's just something fun," I said. "They're the names of some of her plushies."
+"We're just role-playing," I said. "They're the names of some of her plushies."
 
 Dad frowned at the mention of plushies. Well, he frowned at everything anyways.
 
