@@ -81,9 +81,9 @@ parent: Characters
       {% endif %}
     </dl>
   {% endif %}
-  <div class="box-nav solid">
-    <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank">Attack {{ ch.name }} on Artfight!</a>
-    <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank">Give {{ ch.name }} a favorite!</a>
+  <div class="af-fav">
+    <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank" title="Attack {{ ch.name }} on Artfight!"><img src="/img/bg/af.png"/></a>
+    <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank" title="Give {{ ch.name }} a favorite!">{% lucide 'heart' '3em' %}</a>
   </div>
   {% if ch.quote %}
     <blockquote>{{ ch.quote | renderMD }}</blockquote>

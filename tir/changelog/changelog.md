@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-07
+
+- Changed the Artfight and favorite button display on character pages;
+- Added and removed some Artfight links on characters;
+
 ## 2026-06-06
 
 - Off-screen enhancements to the [Favorites Leaderboard](https://tofutush.leprd.space/);
