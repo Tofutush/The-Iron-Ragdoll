@@ -22,9 +22,3 @@ Appaloosa was a magician living in the Bauhinian Empire about three hundred year
 Later, wars and rebellions broke out within the empire. The emperor needed the magicians to defeat the rebels, but Appaloosa refused to, and fled. She managed to hide from the emperor for a long time, despite him sending out magicians to hunt her down, and even after the rebellion ended she was still being wanted. Many people helped her along the way, and she also helped many people herself. She also wrote a book on magic titled *A Guide to Magic*, and had high hopes of finding a fellow magician, but she never encountered one before the emperor got to them and the book had been lost to time.
 
 In the end, due to a betrayal from one person she trusted the most, she was caught and executed in a region that's inside modern-day Moreland. The people who helped her or whom she had helped came together and formed a group traveling around the area to honor her memories.
-
----
-
-But here's the thing: Appaloosa isn't a real person. The story above is fictional, merely mythology passed down through generations of tribe members. As to the true origins of the Appaloosa Tribe, well, Moreland's *full* of nomadic tribes; they're nothing new.
-
-But as for *A Guide to Magic*, who wrote it? (IDK yet.)

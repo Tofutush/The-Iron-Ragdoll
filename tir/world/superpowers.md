@@ -91,12 +91,6 @@ Immortality is stored in the bones, and as such it's the only power that can be 
 
 ### Magic
 
-Now, this is the best one of all. Powerful, mystical, and artificially rare.
-
-Magicians can do nearly anything they put their minds to. Most of it involve telekinesis, moving and levitating things without touching them; teleportation, moving things — or people — to other places instantly; and all sorts of little gimmicks like changing the words written on a book to prank your friends. The only things magicians can't do is bring dead things back to life, and magically manipulate other people's minds. (They can chop up their brains if they're strong enough though. And able to evade all the cops and live as a wanted fugitive the rest of their lives.)
-
-Magicians can choose to take their magic out of their body and into a vessel. Then they can only use their magic if they're physically in contact with the vessel. The magic is still theirs, and still only they can use it. But while all other spells function the same, they *cannot* take the magic back out again unless the vessel is completely broken — for example, snapped in half. Slight chipping doesn't count.
-
-Magic is stored in the blood, but people don't know that. That is, until Qibli out and started dripping tiny bits of it in vessels, allowing other people to use them. But even she is unable to give her magic completely to someone else and make them a magician.
+Now, this is the best one of all. Powerful, mystical, and artificially rare. So great that it warranted its own page. [Read more here!](/world/magic/)
 
 {% assign magic = characters | filterChByTag: 'Magic' %} {% include 'chs', chs: magic %}

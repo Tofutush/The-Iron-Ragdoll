@@ -7,7 +7,9 @@ categories:
   - Superpowers
 ---
 
-*You might wanna read [the main superpowers page](/world/superpowers/) first!*
+> [!tip] Haven't read the main Superpowers file yet?
+>
+> I recommend reading that one first! [Here it is!](/world/superpowers/)
 
 Bauhinia, being the bureaucratic fanatic it is, have a system of identifying and cataloging people with superpowers (called "the gifted").
 
@@ -30,6 +32,10 @@ Magicians can enchant helmets to block mind-readers, as stated in the main super
 Immortality does not have levels and is registered when they pop up in DNA tests. Unless the parents are from some rural area and didn't do one properly, or their hospital didn't report it. Even then, people would know you're immortal when you reach something like 120 years old anyways.
 
 ## Magic
+
+> [!tip] Haven't read the main Magic file yet?
+>
+> I recommend reading that one first! [Here it is!](/world/magic/)
 
 Magic has a bit of a history in Bauhinia. During ancient times, the emperors would often call magicians to the capital to serve in the government. They called people with common powers in too, but because the common powers are stored in the soul, it never had an impact on where people with common powers were born. But for magic, flowing in the blood, its origins being a lot of mystery and perhaps a little bit of genetics, the transport of all of them to the south eventually led to most magicians being born in the south. Especially in modern day, magicians are *only* found in the Republic of Bauhinia.
 

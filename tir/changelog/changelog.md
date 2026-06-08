@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-08
+
+- Cool new lore file: [Magic](/world/magic/);
+	- Basically moved the Magic section in [Superpowers](/world/superpowers/) here, and added new stuff;
+
 ## 2026-06-07
 
 - Changed the Artfight and favorite button display on character pages;
