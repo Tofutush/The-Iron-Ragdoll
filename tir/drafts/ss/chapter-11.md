@@ -32,7 +32,7 @@ But now, she might have other friends.
 
 Speaking of other friends, Sunny did not come to school today. The seat next to Cosmo and behind Sugarcane was empty.
 
-Sugarcane thought he might just be late, but in the afternoon, it was clear that he really was absent.
+Sugarcane thought he might just be late, but by the afternoon, it was clear that he really was absent.
 
 "Is Sunny sick?" Cosmo asked Sky as we finished a really confusing tradecraft period about cover stories.
 

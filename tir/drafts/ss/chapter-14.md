@@ -4,7 +4,7 @@ chNum: 14
 
 Through an online form, we signed up for a progress report with Sky on Monday. Sugarcane got off the subway one stop before mine. We waved each other goodbye.
 
-When I got back home, I was met with a nostalgic smell of chicken soup. It immediately hooked my nose and dragged me towards the dinner table, where a bit pot of it was sitting at the center.
+When I got back home, I was met with a nostalgic smell of chicken soup. It immediately hooked my nose and dragged me towards the dinner table, where a big pot of it was sitting at the center.
 
 Real food! This was the second proper, non-steam-bun meal Mom had made since I started Spy School.
 
@@ -160,7 +160,7 @@ Cosmo slapped her hand to her forehead. "So we still don't know anything."
 
 "*They*." Jewel simply said, and backed out of the classroom in a dramatic fashion, back hunched, hands clawing at the air.
 
-As she left, Sky came in, looking at her in confusion as they crossed each other at the door.
+As she left, Sky came in, looking at her in confusion as they crossed each other at the door. He was wearing his MSS uniform. He had just been wearing normal clothes when he gave the lesson, less than ten minutes ago.
 
 "Harmony," he turned to me and said. "Do you consent to a search of your backpack?"
 
@@ -181,3 +181,173 @@ Finally, he reached the last part, a little compartment meant for laptops, which
 But Sky found something. From the compartment, guided by Sky's hand, emerged a black handle, a silver blade… a wickedly sharp knife.
 
 "Harmony Frosting Entity," he said, "can you explain this?"
+
+Sky stared at me, and I stared at the knife.
+
+"Well?" He asked.
+
+"I — How — How did this get there?"
+
+I saw Sugarcane's and Cosmo's faces. Of surprise, shock, and even fear. *Why did she bring this to school*? They were most definitely wondering. *Who is she planning to hurt?* Their accusing glares burning into my face. Sugarcane. Sugarcane. Surely you know I'd never do this, right, Sugarcane?
+
+"That's what I'm asking."
+
+"*I* don't —"
+
+"Hang on," Sky cut me off. "Cosmo?"
+
+"Yes." Cosmo said, nodding. What was *that* about?
+
+Sugarcane got up. "I'll go find Jewel." She left the classroom. I stared wistfully after her. Don't abandon me!
+
+"Answer my question again, please," Sky said. "What do you know about this knife?"
+
+"I don't know *anything*!"
+
+The familiar itch in my brain.
+
+Sky looked at Cosmo, who nodded slightly.
+
+So *that* was it. Cosmo was his living lie-detector.
+
+"Did you put it in your bag?"
+
+"No!"
+
+Cosmo nodded again.
+
+"Do you know who did?"
+
+"No!" I felt sick in my stomach.
+
+"Have you recently had an altercation with anyone at the school?"
+
+"No!" That was a lie. I saw Cosmo frowning, but she turned back to Sky and nodded.
+
+The preparation bell rung. The language and literature teacher came in to the classroom.
+
+"Well, it's time for class," Sky said. "I'll take this knife somewhere safe. Please stay behind a bit after school. I will be calling your parents."
+
+I felt like I might vomit. My heart was pounding, and my head was dizzy.
+
+"There's no need to worry," Sky said. "Authorities won't be involved if this doesn't escalate."
+
+I collapsed on my desk, among the textbooks that Sky never bothered to put back. Pretty soon, though, the worry turned to anger.
+
+Who did this to me? *Who* put the knife in my backpack?
+
+But I could only wait through the agonizing class, unable to do anything.
+
+Sugarcane sat beside me, paying attention to the teacher's droning.
+
+---
+
+Mom was busy. Only Dad came. He met with Sky and Cosmo in his office. Sky was still wearing his MSS uniform. Jewel developed a strategy of searching every police station in the area to find which one was Sunny taken to, and had set off. I waited with Sugarcane on the bench outside the classroom.
+
+"You should go home," I said.
+
+"And leave you here? No way."
+
+A bit of silence.
+
+"Who do you think did it?" I said.
+
+"Did what?"
+
+"Put the knife in my bag."
+
+"I don't know," Sugarcane said. "But soon they would clear this up. I mean, Sky already knows that it wasn't you, doesn't he?"
+
+I buried my face in my hands. The wait was agonizing.
+
+After what seemed like an eternity, Dad, Cosmo, and Sky came down from the stairs.
+
+"Thank you for your cooperation," Sky said. "I'm sorry for causing this much trouble for you."
+
+"No, not at all," Dad said, not looking at Sky.
+
+Sky saw us and said, "why are you kids still here? It's late."
+
+"I'm waiting for them," Sugarcane answered.
+
+"Make sure you get home on time," Sky said and left.
+
+Dad walked over. "I drove here," he said. "I'll drive you girls home." We exited the front gates to the car Dad parked by the road.
+
+"Um, uncle?" Cosmo called behind us. "I'm sorry, but it's quite late. Would you mind giving me a ride?"
+
+"Sure," Dad said. "I'll drop Harm and Sugarcane off first."
+
+Dark blue had taken over the red sunset in the sky above and Cosmo was impatiently pacing around, but Dad didn't seem to be in a hurry.
+
+"Since I'm already here," he said, "I might as well go see that thing. Mind coming with me?"
+
+"Sure, uncle," Sugarcane said immediately.
+
+"Just Harm, please."
+
+Sugarcane and Cosmo looked at each other as I followed Dad around the corner.
+
+"What thing?" I asked.
+
+"The *thing*," was his reply.
+
+He led me along the school's wall until we reached a tree, standing taller than the wall and reaching over the barbed wire on top, half of it inside school perimeters.
+
+"It grew back," he said.
+
+"The tree?" I asked.
+
+"They cut it off, about twenty years ago. We thought it died, and I thought I'd never meet Frosting again."
+
+"What are you talking about, Dad?"
+
+"It was fate that brought us together again, this many years later. Maybe it's because this phoenix tree grew back and blessed us."
+
+Dad didn't like talking in public much, due to an intense irrational fear of being eavesdropped on. I had never heard him talk for this long before, outside our home.
+
+Dad walked near the trunk and put both hands on it, one leg pulled up against the bark, as if he were about to climb it. the trunk was rather smooth and hard to scale due to a lack of protruding branches near the bottom. He hesitated for a moment, made several bouncing motions, but eventually put his foot back down. "I was more agile back then. Also I had a rope to help."
+
+Dots were connecting in my head, but in such a scattered way as if every dot was trying to connect with everyone else at the same time.
+
+"I first got up there because I wanted to see what the mysterious Ministry Affiliate looked like on the inside, and I was so excited to have found this tree that grew on the outside but extended its way in. Though all I could see was the back side of the cafeteria. Not a lot to see there. I nearly climbed back down, but then a girl with pigtails approached me and asked me how I got up there.
+
+"So I replied, I had a rope. And I'm not actually from this school. I climbed up from the other side. Something like that. It was a long time ago.
+
+"Is the view up there nice? She asked.
+
+"Not really, I said. Just the building. I didn't know it was the cafeteria at that time.
+
+"I want to see for myself, she said. Can you get me up there?
+
+"Of course I can. I dropped the rope down and she scaled the wall with it. She told me her name was Frosting, and that was the cafeteria we were looking at. She said, I've always wanted to sit on this tree, but the wall was impossible to climb. Promise to come back again?
+
+"Next month, I said. Next month, same date, I'd be free.
+
+"I would climb up there, dangle over the fence, and drop the rope down so Frosting could scale the wall with it. And then we'd both be up there, feeling like nothing else in the world mattered more than each other. We would sit among the fiery red phoenix flowers, dreaming about the future, enjoying the present."
+
+The truth was right there, yet I shied away from it.
+
+"Monthly meetings turned to weekly, and then I found myself sneaking out of *my* high school to meet her every day. And then *they* found out and cut the tree down. We hadn't thought of exchanging any other sort of contact information, because we were stupid and thought up there in the tree we owned the world and we were safe and we'd always have each other. I never saw Frosting again, but I remembered her grade and looked at their graduation pictures and she wasn't there. I obsessively scanned over every face, even the teachers', but there wasn't a sign of her. I thought, maybe the smart girl graduated early. But she wasn't on the previous year's photos either. Then maybe she was be graduating late? Taking more time to hone her skills? So for the next five years, I examined every single graduation photo taken. Still no sign. I tried waiting for her by the front gates whenever the high schoolers were let out too; but in a sea of people and cars and police yelling at you if you loitered too long, it was impossible. It was only after we met again, as adults, did I know that she dropped out."
+
+I just needed to hear him say it out loud.
+
+"Mom went to… Ministry Affiliate? Right here?"
+
+He merely replied, "The barbed wires didn't use to be here either."
+
+He ran his hands against the bark again. "But it all worked out, didn't it? We each had a stable job enough to feed the family, and we had *you*."
+
+He walked away from the tree and towards me, staring at a patch of ground next to my feet. "Your mom just doesn't want you to repeat her mistakes. The school *will* change you, Harm."
+
+I felt a burst of anger. "Isn't changing someone the *whole point* of schools?" I yelled at Dad. "If you want me to quit that badly then why not just *tell* me like *normal people*?"
+
+Dad stayed silent.
+
+That was it. Everything my parents said to me, that I wasn't smart, that Sugarcane was better than me — there wasn't an ounce of truth to that. They only said that to convince me to quit, and they wanted *me* to quit because *mom* had a bad time here. I bet *they* planted the knife to get me in trouble.
+
+"I won't repeat Mom's mistakes," I said. "I won't drop out. I will study hard, and I *will* be at the top of my class. And stop calling me 'Harm,' it's fucking stupid."
+
+Dad seemed to mutter something like "that *was* her mistake," but I might've been just hearing things.
+
+He didn't bother taking the detour to Sugarcane's, and simply dropped us both off at my home. He didn't say a word during the ride, except when asking Cosmo to input her address into the map app.
