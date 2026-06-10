@@ -24,7 +24,7 @@ Sugarcane was still in a little shock, standing there with a confounded expressi
 
 Sugarcane had seemingly recovered, and she had her phone out, looking at herself with the camera. "I look bald," she said. "I look like a penguin."
 
-"You look fine to me," Jelly smiled. "And it only takes like a month to grow back."
+"You look fine to me," Jelly smiled. "And it only takes like a month to grow back. Just don't scratch it if it itches."
 
 Sugarcane put her phone back in her pocket and examined her fallen horns. "What do I do with these, then?"
 
@@ -33,3 +33,15 @@ Sugarcane put her phone back in her pocket and examined her fallen horns. "What 
 "We should make chopsticks with them," I said. "They're the right shape."
 
 "Eww, that's gross!" Sugarcane playfully bashed her horns on my head.
+
+Jelly laughed too. "Sugarcane," she started.
+
+"What?" Sugarcane said, perhaps a bit too quickly.
+
+"What?" Jelly echoed.
+
+"What Sugarcane?" I could tell Sugarcane was trying hard to conceal the fear in her eyes.
+
+"Oh," Jelly said, "your horns look a lot like sugarcane, don't they?"
+
+Sugarcane relaxed, and laughed. "Eh, they've always looked like bamboo to me."
