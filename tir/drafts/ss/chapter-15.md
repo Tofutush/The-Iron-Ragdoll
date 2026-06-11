@@ -202,4 +202,76 @@ Turned out, newspapers had a section for court trials that took place that day. 
 
 *Eagle S. J., sentenced to 6 months for attempted robbery. Canary S. I., fined 30,026 bucks for tax evasion.*
 
-"All we have to do is look for Sunny's name, and something similar to 'stealing state secrets' or 'leaking classified material,'" Sugarcane explained.
+"All we have to do is look for Sunny's name, and something similar to 'stealing state secrets' or 'leaking classified material,'" Sugarcane explained. "Though I wouldn't be surprised if the trial takes a few months at least."
+
+We were at a grocery store next to the subway station Cosmo went through every day to get to and from school. A little rack contained all sorts of newspapers, full to the brim, as if no one ever bought them. I wouldn't be surprised. Who reads newspapers these days?
+
+"I can take a look at these every day, then," Cosmo said. "I walk past here every day."
+
+Sugarcane nodded.
+
+I suddenly thought about the knife thing again. It had been constant background radiation in my mind the whole day, in fact.
+
+But now, learning what happened to Sunny… If Cosmo weren't there to report to Sky, would he have concluded that I did bring the knife? Would I have ended up in the same place as Sunny?
+
+Besides, I had lied. When Sky asked me whether I had an altercation, I was thinking about my fight with Sugarcane. Cosmo must've sensed that. She frowned. I saw her frown. But she told Sky I was telling the truth.
+
+"Um." I offered. Sugarcane's and Cosmo's eyes were on me. "I can check, during the weekends."
+
+Sugarcane laughed. "Thanks for the offer, but they don't hold courts during weekends. There's no point."
+
+"Oh," I said. "Alright then."
+
+"But I get the sentiment. Come on, let's go home."
+
+For the first time, I also waved goodbye to Cosmo.
+
+As Sugarcane and I walked home together for the first time since our fight, she asked me, "do you have any idea who might have planted the knife in your backpack?"
+
+"I think it's my parents," I told her.
+
+"But didn't Cosmo say your dad was telling the truth?"
+
+"That's the thing. You met my dad. He thoroughly believes there's a chip in his brain. I think that if he wants to believe something really badly, he *can* make himself really believe in it."
+
+"And fool Cosmo?"
+
+"I think he can."
+
+"Hmm," Sugarcane seemed to consider that for a moment. "That definitely simplifies things. I mean, it's far less dangerous than a total stranger doing it, isn't it?"
+
+"I suppose," I said. "And I know their motives. They want to get me in trouble so I get expelled."
+
+"Really? Then why did they let you come in the first place?"
+
+I sighed. "I don't know. I mean, maybe I insisted too hard and they relented, but then later regretted it."
+
+"That's still weird, though. By the way, what question were you asking Sky this morning?"
+
+"It's a little embarrassing," I admitted.
+
+"Come on; I won't judge!"
+
+"I know. I was just asking him whether he let me attend just to have you attend too."
+
+"What?" Sugarcane said, coincidentally using the exact same tone Sky used.
+
+I sighed again. "Remember when Sky first visited me, and I went to the playground to find you?"
+
+"Um-hm."
+
+"You said that you told Sky that you wouldn't attend unless I did. And later, he came to me. So I'd been thinking that he only let me join because he wanted you."
+
+"Harmony…" Sugarcane considered my words for a moment. "You've been thinking that this whole time?"
+
+"Well…"
+
+"I'm sure Sky had his reasons for recruiting you."
+
+"That's what he told me," I replied. "This morning."
+
+"Exactly," Sugarcane said. "Glad that's cleared up. So, are you ready for stage two?"
+
+"What stage two?"
+
+"Jelly's passport," Sugarcane smirked.
