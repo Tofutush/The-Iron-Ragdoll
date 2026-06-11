@@ -7,7 +7,7 @@ categories:
   - Superpowers
 ---
 
-> [!tip] Haven't read the main Superpowers file yet?
+> [!tip]+ Haven't read the main Superpowers file yet?
 >
 > I recommend reading that one first! [Here it is!](/world/superpowers/)
 
@@ -33,7 +33,7 @@ Immortality does not have levels and is registered when they pop up in DNA tests
 
 ## Magic
 
-> [!tip] Haven't read the main Magic file yet?
+> [!tip]+ Haven't read the main Magic file yet?
 >
 > I recommend reading that one first! [Here it is!](/world/magic/)
 
