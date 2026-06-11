@@ -9,6 +9,7 @@ eleventyNavigation:
 
 - Changed [Fanton](/world/fanton/) into a monarchy;
 	- Please do [tell me](https://tofutush.leprd.space/guestbook/) if there are still references somewhere saying it's a republic!
+- Retconned Westavia's history studies a bit;
 
 ## 2026-06-08
 
