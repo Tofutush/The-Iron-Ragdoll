@@ -90,9 +90,15 @@ Kids drinking is a small problem. Westavian adults could drink a ton during gath
 
 ### History studies
 
-History — and especially Westavian history — is a hushed-up subject in the country. It is forbidden to study history outside of government-approved narratives. One most prominent example is the changing of all city names to Area \[number] ([People's Vanguard](/world/westavia/peoples-vanguard/) is also a changed name), while referring to their original names is punishable by detainment.
+Amid the crackdown of the Great Westavian Strike (see History section below), the Bauhinians destroyed most historical records located in the region. Any information about the region of Westavia before the Strike was hard to obtain, the only first-hand documents left being in the Republic of Bauhinia, and some documents were lost forever. Westavia, then, was born as a nation with no history.
 
-Despite this, there are still a number of secret historians who collect and archive information on Westavia's history under the threat of jail time. These people are persecuted by the authorities (obviously), frowned upon by ordinary citizens, and revered by dissidents of the Westavian government.
+The government was less invested in finding out the truth than in building a Westavian identity separate from Bauhinia. As far as authorities were concerned, the Strike was the beginning of the world. Westavia's true history became a hushed-up subject in the country. It is forbidden to study history outside of government-approved narratives. One most prominent example is the changing of all city names to Area \[number] (People's Vanguard is also a changed name), while referring to their original names is punishable by detainment.
+
+Why, though? Because they feared that, in pursuit of Westavia's true history, what people find may confirm that there is no such thing as Westavia, and that Westavia has always been Bauhinian through and through. And that's exactly what the secret historians found.
+
+The secret historians seek to obtain and archive information on Westavia's history under the threat of jail time. These people are persecuted by the authorities, frowned upon by ordinary citizens, and revered by dissidents of the Westavian government.
+
+This information would put Westavia's national identity at risk. Post-Strike history was the only safe part. Because only that part was truly Westavian.
 
 ## History
 
