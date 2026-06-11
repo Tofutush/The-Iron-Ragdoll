@@ -1,5 +1,5 @@
 ---
-title: Fantoni Secret Service
+title: His Majesty's Secret Service
 categories:
   - Government Organizations
   - Organizations

@@ -1,5 +1,5 @@
 ---
-title: The Republic of Fanton
+title: The Kingdom of Fanton
 navTitle: Fanton
 parent: World
 eleventyNavigation:
@@ -49,7 +49,7 @@ The closest geographical mirror to Bauhinia is Sichuan plus the Yungui Plateau p
 
 ## Government
 
-Fanton is a republic. The government of Fanton highly values environmental preservation, which is one of its founding ideals, baked into the constitution.
+Fanton is a constitutional monarchy, with the king as a figurative head of state. The government of Fanton highly values environmental preservation, which is one of its founding ideals, baked into the constitution.
 
 Many things are banned in Fanton, including but not limited to drugs, alcohol, tobacco and nicotine, swearing in public, and addictive stuff like gambling, gacha games, and short video apps. The police train dogs to not only detect drugs, but also drinks and smokes.
 
@@ -77,11 +77,9 @@ Fanton has the same naming conventions as [Bauhinia](/world/bauhinia/). [See her
 
 ## History
 
-Fanton, like literally everyone else, was originally a part of the Bauhinian Empire. During the empire's industrialization, a group of people got mad at the destruction of nature and the endangerment of many plant and animal species. They saw their chance when revolution broke out in Bauhinia. Amid the chaos, they declared independence in 1943.
+Fanton, like literally everyone else, was originally a part of the Bauhinian Empire, except that they had a feudal lord ruling over them with a bit of autonomy from the Bauhinian Emperor. During the empire's industrialization, the lord got mad at the destruction of nature and the endangerment of many plant and animal species. The Fantoni people saw their chance when revolution broke out in Bauhinia. Amid the chaos, the lord declared independence in 1943, making himself the King of the Kingdom of Fanton.
 
-Fanton was created at such a convenient time when everyone else was too busy sorting out their own mess to give a fuck about Fanton. The republic survived.
-
-The creation of Fanton led a lot of the original inhabitants to move out in frustration, and a lot of like-minded individuals in other places to move in.
+Fanton was created at such a convenient time when everyone else was too busy sorting out their own mess to give a fuck about Fanton. The little kingdom survived.
 
 Fanton remained a place of sanctuary for people and creatures alike, where endangered plants and animals thrive, where war refugees could escape the gunfire. That is, until 2041, when Bauhinia launched an invasion against Fanton, aiming to annex it. The brave people of Fanton fought them off all by themselves, and though now Fanton has to make some concessions to Bauhinia a bit on the global stage, the sacrifice is to ensure the long-term wellbeing of the Fantoni.
 

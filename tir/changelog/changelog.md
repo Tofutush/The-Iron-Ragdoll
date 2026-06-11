@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-11
+
+- Changed [Fanton](/world/fanton/) into a monarchy;
+	- Please do [tell me](https://tofutush.leprd.space/guestbook/) if there are still references somewhere saying it's a republic!
+
 ## 2026-06-08
 
 - Cool new lore file: [Magic](/world/magic/);

@@ -45,7 +45,7 @@ Back home in Bauhinia, class conflict was getting high. Combined with resentment
 
 ### Fantoni's independence
 
-Amid the chaos, in 1943, an influential group of environmental preservationists announced independence of [The Republic of Fanton](/world/fanton/) over the territories of the Plateau and the Southern Basin, which got subsequently renamed to the Fantoni Plateau and the Fantoni Basin. As such, environmental preservation is a founding ideal of Fanton's.
+Amid the chaos, in 1943, the feudal lord assigned to the region of Fanton announced independence of [The Kingdom of Fanton](/world/fanton/) over his territories of the Plateau and the Southern Basin, which got subsequently renamed to the Fantoni Plateau and the Fantoni Basin. As such, environmental preservation is a founding ideal of Fanton's.
 
 ### The Republic of Bauhinia
 

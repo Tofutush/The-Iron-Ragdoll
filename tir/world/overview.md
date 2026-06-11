@@ -21,7 +21,7 @@ On the continent there are six countries. From south to north, they are [Bauhini
 
 To the east is a vast ocean where nobody can sail far. To the west is barren wastelands uninhabitable by man.
 
-All of them are republics, but Sylvandia's a federation while others are all unitary.
+Fanton is a monarchy. All the others are republics, but Sylvandia's a federation while the others are unitary.
 
 They're locked in an perpetual cold war between [Bauhinia](/world/bauhinia/) and [Moreland](/world/moreland/), splitting the continent into the north and the south.
 
