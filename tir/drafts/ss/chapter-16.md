@@ -52,7 +52,7 @@ I shrugged. She had been attending middle school for a month or so by the time t
 
 Caterpillar and Ant. The ant farm. Those were biological enough, I suppose. What exactly was that she liked? Just caterpillars and ants, or small creatures in general?
 
-An idea was starting to form in my head. I brought out my phone did another search, reading the results. Satisfactory.
+An idea was starting to form in my head. I brought out my phone and did another search, reading the results. Satisfactory.
 
 When I reached Sugarcane's apartment, I hurried up the stairs to her door. I gave a cursory greeting to her parents, and we shut ourselves in her room.
 
@@ -68,7 +68,7 @@ When I reached Sugarcane's apartment, I hurried up the stairs to her door. I gav
 
 "So… how can we create a situation where she needs to present her passport?"
 
-"Yes. And an excuse for one of us to handle it."
+"Yes," Sugarcane nodded. "And an excuse for one of us to handle it."
 
 What situations could there possibly be? In my mind, passports were only ever used at the border.
 
@@ -94,7 +94,7 @@ Suddenly, a thought crossed my mind. "The Bauhinia Tower Park," I said.
 
 Sugarcane nodded.
 
-"Remember when we all raised a little tadlet for school? I just looked it up on the way here. In Westavia they don't do that. Tadlets aren't really popular."
+"Remember when we each raised a little tadlet for school? I just looked it up on the way here. In Westavia they don't do that. Tadlets aren't really popular."
 
 Sugarcane's eyes widened, guessing what I was about to say.
 
@@ -107,3 +107,15 @@ The initial pride wore off, and a wave of anxiety hit me. "What if she doesn't l
 "Come on," Sugarcane said. "I'm sure she'll understand the sentiment. You've seen her. She's no Rose."
 
 "Alright," I took a deep breath and forced myself to calm down.
+
+---
+
+The plan was for me to go on Saturday morning, presenting the tadlet. Alone. And I would invite her to the park on Sunday, giving her enough time to get her passport.
+
+I had wanted Sugarcane to come with me. Why shouldn't she? But she insisted that it was my gift to give.
+
+However, nothing could've prepared me for what I saw.
+
+Rose. Sitting with Jelly. Talking to her.
+
+What could they be talking about? *How was Rose here??*
