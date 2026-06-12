@@ -16,7 +16,7 @@ The branch bounced to the ground beside my feet.
 
 I wouldn't be able to tell if my arm was broken, I thought. I tried moving it, and it felt okay. At least it could move. The initial shock wore off, and the pain was subsiding into an incessant sore.
 
-I took a look at the offending branch on the ground. The shape of its leaves suggested it was a bauhinia tree. Blowing off a bauhinia tree branch… that sounded a bit treacherous, didn't it?
+I took a look at the offending branch on the ground. Despite the absence of the remarkable pink flower, the shape of its leaves suggested it was a bauhinia tree. Blowing off a bauhinia tree branch… that sounded a bit treacherous, didn't it?
 
 "Maybe we should get her back to the entrance," Sunny said.
 

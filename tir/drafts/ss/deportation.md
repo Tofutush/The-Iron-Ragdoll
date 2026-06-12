@@ -40,9 +40,9 @@ I honestly hadn't thought about that. "Does it matter?"
 
 She pressed another crumpled piece of paper into my hand. I almost thought she gave my email back to me, but when I unwrapped it, it was *her* email.
 
-"Contact me if you're ready," she said. "I'll be waiting. Doesn't matter if it takes years, or decades. I'll always be waiting."
+"Contact me if you're ready," she said. "I'll be waiting. Doesn't matter if it takes years, or decades. It's never too late. And I'll always be waiting."
 
-I tucked the slip of paper in my pocket, not sure of what to think.
+I held the slip of paper in my hand, not sure of what to think.
 
 "And, well," Jelly said. "You think that our countries' rivalry kept us apart, right? But have you considered that it was the rivalry that brought us together in the first place? We would never have met each other if it weren't for our missions."
 
@@ -57,3 +57,31 @@ What could I possibly tell her, except the truth? "To be with my friend."
 We stood there, hugging, for a long while, before Jelly pulled away. "I have to go now," she said, grabbing the handle of her suitcase. "Take care."
 
 "Safe travels," I called as she disappeared behind the door.
+
+I stood there for a while, clutching the piece of paper with Jelly's email. Then, a strong hand pried my fist open and took it.
+
+"Hey!" I said, looking up into Sky's eyes.
+
+"I'll be taking that, thank you."
+
+"What are you doing here?"
+
+"I could ask you the same thing. What are *you* doing here, meeting with known *personae non gratae*?"
+
+"What?"
+
+Sky sighed. "It's the plural form of *persona non grata*."
+
+"No, I meant — You — I thought *you* said I could come!"
+
+"Did I?" Sky tilted his head and scratched his hair in a comical fashion. "Whenever did I say that? But anyways, you look like you need a ride home."
+
+"No I don't."
+
+"Then go squeeze yourself onto the subway. Be my guest."
+
+Sky shrugged and started to leave.
+
+I chased after him. "Wait!" I yelled. "I'll go with you!"
+
+I made myself comfortable in the passenger seat, staring out absent-mindedly at the passing scenery. Some of the bauhinia trees had bloomed, strings of pink flowers flashing underneath the green leaves. Winter had begun.
