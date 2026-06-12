@@ -1,9 +1,13 @@
 #set page(footer: none, margin: 1in)
+#set heading(outlined: true)
+#show heading: it => it.body
 #show link: underline
 #show link: set text(fill: blue)
 #pagebreak()
 #v(1fr)
 #align(center)[
+  = The End
+  #v(1em)
   Thank you so much for reading this book all the way to the end! Or maybe you skipped here to see what it looks like. Thank you either way!
   #v(1em)
   Read more about Harmony, Sugarcane, and the world they live in on #link("https://tofutush.neocities.org")[my website]!
