@@ -803,7 +803,7 @@ img: "/The-Iron-Ragdoll/img/Q-b3N7u-JY-500.webp"
 
 {
 name: "Starlight",
-color: "#0b1d66",
+color: "#262852",
 desc: "Head researcher at the Center for Research on Souls.",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 },
