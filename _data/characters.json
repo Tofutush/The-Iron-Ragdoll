@@ -2256,6 +2256,11 @@
       "Nationality": "Bauhinian",
       "Power": "Invisibility lv. 250"
     },
+    "palette": {
+      "glasses": "#696969",
+      "curls": "#D938AD",
+      "hair": "#2e2e2e"
+    },
     "about": "A grouchy psychologist researching on how to read souls from the outset in Flower City's Center for Research on Souls (CRS).\n\nShe had always been distant from her mother and wanted to connect, but hadn't had a chance before her mother was dying of cancer. Starlight illegally extracted her soul — in the shape of a solid rock — before she died. Starlight tried consuming it, but every single time, her body had rejected her mother's soul and she spit the chunk of rock out. She had kept it ever since, desperate to find a way to read it. The research she's doing right now thus became important to her not only professionally, but also personally."
   },
   {
@@ -2271,6 +2276,9 @@
     "attr": {
       "Nationality": "Bauhinian",
       "Power": "Invisibility lv. 200"
+    },
+    "palette": {
+      "hair": "#D938AD"
     },
     "about": "After people at the CRS found out that souls could be serialized into data, Sparrow was hired as a computer science specialist to work on the project alongside Starlight.\n\nThey're quite carefree in their demeanors, boldened by their family's connections in the government, and treat every day like \"any work for me to do? No? Well, time to go play!\" But when they find an interesting lead worth pursuing, they *will* work day and night until they're satisfied.\n\nAt first, they don't even believe in the concept of souls, thinking that someone is playing a deliberate prank on them. But later they came to accept that souls are actually a thing that exists.",
     "trivia": "- They belong to a group of people perhaps even rarer than immortals: people whose favorite color isn't their soul color. Perhaps this has something to do with them not believing in souls.\n    - They still like yellow (it's like, genetically impossible to hate your soul color); they just like pink *more*."

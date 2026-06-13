@@ -13,6 +13,7 @@ myTags:
   - Spy School
 prev:
   - "[Spy School](/stories/spy-school/)"
+banner: banner harmony
 ---
 
 Harmony and Sugarcane always thought their teacher, Sky, was just a douche who worked as a teacher because he sucked in the field. They were so wrong. Turned out, Sky Elmwood Dazzle codename The Joker was one of the most legendary spymasters during the Fantoni War.

@@ -16,6 +16,7 @@ myTags:
   - Spy School
 prev:
   - "[Poker Party](/stories/poker-party/)"
+banner: banner harmony
 ---
 
 Planned as an interactive choose-your-own-adventure with multiple endings, though there is a canon version of events.

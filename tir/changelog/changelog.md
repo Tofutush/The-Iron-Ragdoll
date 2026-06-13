@@ -5,6 +5,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-13
+
+- Added `sparrow stand.png`, `starlight stand.png`, `banner harmony.png`;
+	- Finally reunited with my beloved tablet; haven't gotten my drawy-feelies back again; forgot to flip canvas oh my days they look so ugly but isn't Sparrow *so cute* and so *hard on the eyes*?? They'll turn everyone around them blind if they hang around too long!
+	- Also, Harmony's banner is added to her file and related files, namely the four stories starring her;
+
 ## 2026-06-11
 
 - Changed [Fanton](/world/fanton/) into a monarchy;

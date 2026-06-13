@@ -27,6 +27,7 @@ comic: true
 prev:
   - "[Project Boomerang](/stories/project-boomerang/)"
   - "[Poker Spies](/stories/poker-spies/)"
+banner: banner harmony
 ---
 
 Story privated for the time being while I write the book! It's going to be a novel. Yes I know Tadlet Kingdom Adventures is also privated on here and that's in limbo. No I didn't forget that. No I hadn't been working on it. But I had been working on THIS! Here's the blurb:
