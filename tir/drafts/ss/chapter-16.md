@@ -118,6 +118,6 @@ I had wanted Sugarcane to come with me. Why shouldn't she? But she insisted that
 
 However, nothing could've prepared me for what I saw.
 
-Rose. Sitting with Jelly. Talking to her.
+Rose. Sitting with Jelly. At the chess table. Talking to her.
 
 What could they be talking about? *How was Rose here??*
