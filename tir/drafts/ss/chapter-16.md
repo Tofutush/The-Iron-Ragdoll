@@ -78,6 +78,8 @@ What situations could there possibly be? In my mind, passports were only ever us
 
 I thought towards things that required ID cards for me. Opening a bank account? Buying plane tickets? Those sounded as reasonable as taking her to Fanton.
 
+"…We get her in trouble and the police wants to see her passport?" Sugarcane was saying. "No way. That's stupid."
+
 Suddenly, a thought crossed my mind. "The Bauhinia Tower Park," I said.
 
 "You're right!" Sugarcane said. "The park requires an ID to enter!"
