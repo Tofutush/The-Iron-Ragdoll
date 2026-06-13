@@ -10,9 +10,9 @@
 )
 #set par(
   justify: true,
-  first-line-indent: 1.5em,
+  first-line-indent: 0em,
   leading: 0.8em,
-  spacing: 0.8em
+  spacing: 1.2em
 )
 
 #let horizontalrule = align(center, block[
@@ -39,8 +39,27 @@
   CC-BY-NC-SA
 ]
 #v(1fr)
-#pagebreak()
+#show link: underline
+#show link: set text(fill: blue)
 
+#pagebreak()
+#v(1fr)
+= Author's notes
+
+Hi! If you're reading this, I've probably begged you to read this LOL. But thank you!
+
+Some things to note:
+
+- This book takes place in my fictional world / paracosm, #link("https://tofutush.neocities.org")[The Iron Ragdoll]. I wrote this to be as self-contained as possible, but a basic idea of the world and some characters (especially Harmony's parents, #link("https://tofutush.neocities.org/characters/frosting/")[Frosting] and #link("https://tofutush.neocities.org/characters/entity/")[Entity]) might enhance the reading experience! It's not mandatory though (and I sure hope the book still makes sense if you go in blind LOL. If anything reads like total crap and doesn't make sense, rest assured it's completely my fault).
+- This book contains mature language and mild violence, and is recommended for people aged 16 or above!
+
+Thank you, and happy reading!
+#v(1fr)
+#pagebreak()
+#set par(
+  first-line-indent: 1.5em,
+  spacing: 0.8em
+)
 = Contents
 
 #columns(2)[
