@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-14
+
+- Added `jewel abstract.svg`;
+
 ## 2026-06-13
 
 - Added `sparrow stand.png`, `starlight stand.png`, `banner harmony.png`;
