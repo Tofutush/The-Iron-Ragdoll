@@ -1,13 +1,15 @@
 .callout {
-	border: .4em solid var(--box);
 	border-radius: 1em;
 	margin: 1em 0;
+	overflow: hidden;
+	background-color: var(--box);
 }
 
 .callout-title {
 	display: flex;
 	gap: .5em;
-	background-color: var(--box);
+	background-color: var(--c);
+	color: var(--bg);
 	padding: .5em 1em;
 	align-items: center;
 	user-select: none;
