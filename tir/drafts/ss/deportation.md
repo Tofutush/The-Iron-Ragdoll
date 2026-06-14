@@ -54,7 +54,7 @@ What could I possibly tell her, except the truth? "To be with my friend."
 
 "Oh, Harmony." Jelly wrapped me into an embrace this time, burying her head in my chest. "Oh, oh, Harmony. I like you too."
 
-We stood there, hugging, for a long while, before Jelly pulled away. "I have to go now," she said, grabbing the handle of her suitcase. "Take care."
+We stood there, hugging, for a long while, before Jelly pulled away. "I have to go now," she said, wiping away tears and grabbing the handle of her suitcase. "Take care."
 
 "Safe travels," I called as she disappeared behind the door.
 
