@@ -32,7 +32,7 @@ export default function (eleventyConfig) {
 	}).use(markdownItTOC, {
 		includeLevel: [2, 3, 4],
 		transformContainerOpen: () => {
-			return '<details id="toc-wrap" open><summary><h3>Contents</h3></summary><div id="toc">';
+			return '<details class="toc callout" open><summary class="callout-title"><div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-list"><path d = "M3 5h.01" ></path><path d="M3 12h.01"></path><path d="M3 19h.01"></path><path d="M8 5h13"></path><path d="M8 12h13"></path><path d="M8 19h13"></path></svg></div><div class="callout-title-inner">Contents</div></summary><div class="callout-content">';
 		},
 		transformContainerClose: () => {
 			return '</div></details>';

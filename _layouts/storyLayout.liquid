@@ -3,7 +3,10 @@ layout: layout.liquid
 ---
 <h1>{{ title }}</h1>
 <details class="callout">
-	<summary class="callout-title"><div class="callout-title-inner">Tag filter</div></summary>
+	<summary class="callout-title">
+		<div class="callout-title-icon">{% lucide 'tags' %}</div>
+		<div class="callout-title-inner">Tag filter</div>
+		</summary>
 	<div class="callout-content">
 		<div class="tags">
 			<a href="/stories/" {% if page.url == "/stories/" %}aria-current="true"{% endif %}>All</a>

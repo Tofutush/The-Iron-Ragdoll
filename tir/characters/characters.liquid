@@ -50,9 +50,12 @@ parent: Characters
       {% endif %}
     </div>
   </div>
-  <details id="toc-wrap">
-    <summary><h3>Contents</h3></summary>
-    <div id="toc">
+  <details class="toc callout" open>
+    <summary class="callout-title">
+      <div class="callout-title-icon">{% lucide 'list' %}</div>
+      <div class="callout-title-inner">Contents</div>
+    </summary>
+    <div class="callout-content">
       <ul>
         {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
         {% assign filteredStories = collections.stories | filterStory: ch.name %}

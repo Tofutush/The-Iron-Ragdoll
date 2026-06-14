@@ -5,14 +5,17 @@ eleventyComputed:
   navTitle: "{% if chNum %}Chapter {{ chNum }}{% endif %}{% if chTitle and chNum %}: {% endif %}{% if chTitle %}{{ chTitle }}{% endif %}"
 ---
 {% assign colName = parent | append: "-fic" %}
-<details id="toc-wrap">
-	<summary><h3>Chapters</h3></summary>
-	<div id="toc">
-	<ul>
-		{% for ch in collections[colName] %}
-			<li><a href="{{ ch.url }}">{% if ch.data.chTitle %}{{ ch.data.chTitle }}{% else %}Chapter {{ ch.data.chNum }}{% endif %}</a></li>
-		{% endfor %}
-	</ul>
+<details class="toc callout" open>
+	<summary class="callout-title">
+		<div class="callout-title-icon">{% lucide 'list' %}</div>
+		<div class="callout-title-inner">Contents</div>
+	</summary>
+	<div class="callout-content">
+		<ul>
+			{% for ch in collections[colName] %}
+				<li><a href="{{ ch.url }}">{% if ch.data.chTitle %}{{ ch.data.chTitle }}{% else %}Chapter {{ ch.data.chNum }}{% endif %}</a></li>
+			{% endfor %}
+		</ul>
 	</div>
 </details>
 <h1>{% if chTitle %}{{ chTitle }}{% else %}Chapter {{ chNum }}{% endif %}</h1>

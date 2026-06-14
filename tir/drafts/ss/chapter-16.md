@@ -140,4 +140,8 @@ No, no, no. We could not!
 
 "Really," Rose said, in a deliberately teasing tone.
 
-"People grow apart," I said. ""
+"People grow apart," I said.
+
+"When did you get all philosophical?"
+
+"It's just an observation," I said. "What are you doing here?"

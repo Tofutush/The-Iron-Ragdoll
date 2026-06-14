@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-06-14
 
 - Added `jewel abstract.svg`;
+- Changed the callout and ToC styles;
 
 ## 2026-06-13
 

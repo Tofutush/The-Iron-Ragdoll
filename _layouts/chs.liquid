@@ -4,7 +4,10 @@ layout: layout.liquid
 <link rel="stylesheet" href="/css/characterspage.css" />
 <h1>{{ title }}</h1>
 <details class="callout">
-	<summary class="callout-title"><div class="callout-title-inner">Tag filter</div></summary>
+	<summary class="callout-title">
+		<div class="callout-title-icon">{% lucide 'tags' %}</div>
+		<div class="callout-title-inner">Tag filter</div>
+	</summary>
 	<div class="callout-content">
 		<div class="tags">
 			<a href="/characters/" {% if page.url == "/characters/" %}aria-current="true"{% endif %}>All</a>
