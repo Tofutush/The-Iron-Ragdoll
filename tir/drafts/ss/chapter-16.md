@@ -120,4 +120,24 @@ However, nothing could've prepared me for what I saw.
 
 Rose. Sitting with Jelly. At the chess table. Talking to her.
 
-What could they be talking about? *How was Rose here??*
+What could they possibly be talking about? *How was Rose here??*
+
+Jelly saw me before Rose did, and waved happily. Under any other circumstances I would be delighted.
+
+"Truffle!" She said. "Come over here!"
+
+Rose shifted her attention to me, too. "Oh, *Truffle*!" She said. "It's such a surprise! Truffle and I went to the same elementary school," she said to Jelly.
+
+"What a coincidence!" Jelly said. "Now we can *all* be friends!"
+
+No, no, no. We could not!
+
+"Hey, *Truffle*," Rose said. "Not sticking to Sugarcane's butt for once, huh?"
+
+"Who's Sugarcane?" Jelly asked.
+
+"Sugarcane was also a classmate of ours," I cut in before Rose could answer for her. "But I hadn't seen her since starting middle school."
+
+"Really," Rose said, in a deliberately teasing tone.
+
+"People grow apart," I said. ""
