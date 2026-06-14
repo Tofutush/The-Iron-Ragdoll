@@ -7,7 +7,7 @@ eleventyNavigation:
 
 ## 2026-06-14
 
-- Added `jewel abstract.svg`;
+- Added `jewel abstract.svg`, `starlight sparrow footer.png`;
 - Changed the callout and ToC styles;
 
 ## 2026-06-13
