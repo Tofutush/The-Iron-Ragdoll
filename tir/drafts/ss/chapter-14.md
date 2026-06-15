@@ -328,7 +328,11 @@ Dots were connecting in my head, but in such a scattered way as if every dot was
 
 The truth was right there, yet I shied away from it.
 
-"Monthly meetings turned to weekly, and then I found myself sneaking out of *my* high school to meet her every day. And then *they* found out and cut the tree down. We hadn't thought of exchanging any other sort of contact information, because we were stupid and thought up there in the tree we owned the world and we were safe and we'd always have each other. I never saw Frosting again, but I remembered her grade and looked at their graduation pictures and she wasn't there. I obsessively scanned over every face, even the teachers', but there wasn't a sign of her. I thought, maybe the smart girl graduated early. But she wasn't on the previous year's photos either. Then maybe she was be graduating late? Taking more time to hone her skills? So for the next five years, I examined every single graduation photo taken. Still no sign. I tried waiting for her by the front gates whenever the high schoolers were let out too; but in a sea of people and cars and police yelling at you if you loitered too long, it was impossible. It was only after we met again, as adults, did I know that she dropped out."
+"Monthly meetings turned to weekly, and then I found myself sneaking out of *my* high school to meet her every day. And then *they* found out and cut the tree down. We hadn't thought of exchanging any other sort of contact information, because we thought up there in the tree we owned the world and we were safe and we'd always have each other."
+
+"You're stupid then," I snapped, trying to distract myself from what I didn't want to face.
+
+"Yes. We were stupid. I never saw Frosting again, but I remembered her grade and looked at their graduation pictures and she wasn't there. I obsessively scanned over every face, even the teachers', but there wasn't a sign of her. I thought, maybe the smart girl graduated early. But she wasn't on the previous year's photos either. Then maybe she was be graduating late? Taking more time to hone her skills? So for the next five years, I examined every single graduation photo taken. Still no sign. I tried waiting for her by the front gates whenever the high schoolers were let out too; but in a sea of people and cars and police yelling at you if you loitered too long, it was impossible. It was only after we met again, as adults, did I know that she dropped out."
 
 I just needed to hear him say it out loud.
 
@@ -344,7 +348,7 @@ I felt a burst of anger. "Isn't changing someone the *whole point* of schools?" 
 
 Dad stayed silent.
 
-That was it. Everything my parents said to me, that I wasn't smart, that Sugarcane was better than me — there wasn't an ounce of truth to that. They only said that to convince me to quit, and they wanted *me* to quit because *mom* had a bad time here. I bet *they* planted the knife to get me in trouble.
+That was it. Everything my parents said to me, that I wasn't smart, that Sugarcane was better than me — there wasn't an ounce of truth to that. They only said that to convince me to quit, and they wanted *me* to quit because *mom* had a bad time here. I bet *they* planted the knife to get me in trouble. Because what? She was *jealous* that I did better than her??
 
 "I won't repeat Mom's mistakes," I said. "I won't drop out. I will study hard, and I *will* be at the top of my class. And stop calling me 'Harm,' it's fucking stupid."
 

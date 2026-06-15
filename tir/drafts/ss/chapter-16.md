@@ -12,9 +12,9 @@ Steamed buns for dinner again.
 
 "Actually," Mom said, "I think we as a family aren't doing enough family activities together."
 
-I sighed. Mom was obsessed with these "family activities" she thought were so fun.
+I sighed.
 
-"What if we…" she tapped her chin, mind undoubtedly cycling rapidly through the most boring things ever conceived of. "… Watch a movie?"
+"What if we…" she tapped her chin, mind undoubtedly cycling rapidly through the most boring things that ever existed. "… Watch a movie?"
 
 "No."
 
