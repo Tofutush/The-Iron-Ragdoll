@@ -28,7 +28,7 @@ Sky looked at me for a good old second. "We never told your parents your scores.
 
 "So you *did* grade it."
 
-"Well yeah, smarty-pants, but the data was only shared among teachers. Besides, full marks isn't even a hundred. It was a hundred and fifty. Harmony, your parents must've made that up. You didn't do *that* badly."
+"Well yeah, smarty-pants, but the data was only shared among teachers. Besides, full marks wasn't even a hundred. It was a hundred and fifty. Harmony, your parents must've made that up. You didn't do *that* badly."
 
 "So what's my actual score?"
 
@@ -50,7 +50,7 @@ The folder was titled "Evidence."
 
 Sky hit a button on his keyboard and shut the screen off. "You saw nothing," he warned.
 
-"Okay…" I said, but I still had one last question. "Sky, did you recruit me to the school just to get Sugarcane here?"
+"Okay…" I said, but I still had one last question. "Mr. Sky, did you recruit me to the school just to get Sugarcane here?"
 
 "What?"
 
@@ -116,7 +116,7 @@ As if the mention of her name summoned her, Jewel popped up beside us and set do
 
 I found myself listening in. I *did* want to find out what happened to Sunny, not only because the truth would make Sugarcane happy, but also… I think I just cared. A little.
 
-"Yes. I found the police station he was taken to when first arrested. I found the police officers who first arrested him."
+"Yes. I found the police station he was taken to when he was arrested. I found the police officers who arrested him."
 
 Jewel paused for dramatic effect, perhaps expecting applause. Instead, Sugarcane just asked, "and then?"
 
@@ -152,7 +152,7 @@ I was suddenly met with all three girls' attention. I gulped, thought about Suga
 
 "One of you cliffhangs," Cosmo interrupted, pointing at Jewel, "and one of you rambles," directed at me. "No one can properly talk."
 
-"I'm getting to it!" I said. "So anyways, when he clicked off the window, there was another window underneath. It was titled 'Evidence,' and it was full of pictures. Of pieces and pieces of tissue paper. And they all had our entrance exam questions written on them. And the handwriting kind of looked like Sunny's. Sky closed that window too before I could take a closer look."
+"I'm getting to it!" I said. "So anyways, when he clicked off the window, there was another window underneath. And it was titled 'Evidence,' and it was full of pictures. And all the pictures were showing pieces and pieces of tissue paper. And they all had our entrance exam questions written on them. And the handwriting kind of looked like Sunny's. But Sky closed that window too before I could take a closer look."
 
 Now that I said this out loud, I had this feeling that Sky had intentionally let me see it. He couldn't possibly be this careless, could he?
 
@@ -186,7 +186,7 @@ Jewel looked at me. "They're classified," she said. "The exam questions are. And
 
 "Well, the officers didn't know either," Jewel said. "But of course it has to be some sort of jail, right? All we have to do is to search again, but for jails instead of police stations this time."
 
-"That doesn't sound practical at all," Sugarcane said. "It wouldn't be a normal jail. It wouldn't have a big sign on top that says 'MSS jail.' And the guards definitely won't let us in."
+"That doesn't sound practical at all," Sugarcane said. "It wouldn't be a normal jail. And it sure wouldn't have a big sign on top that says 'MSS jail.' And the guards definitely won't let us in."
 
 "Even if…" Jewel took out her Ministry Affiliate student card and waved it at Sugarcane.
 
@@ -206,7 +206,7 @@ Turned out, newspapers had a section for court trials that took place that day. 
 
 We were at a grocery store next to the subway station Cosmo went through every day to get to and from school. A little rack contained all sorts of newspapers, full to the brim, as if no one ever bought them. I wouldn't be surprised. Who reads newspapers these days?
 
-"I can take a look at these every day, then," Cosmo said. "I walk past here every day."
+"I can keep an eye out, then," Cosmo said. "I walk past here every day."
 
 Sugarcane nodded.
 
