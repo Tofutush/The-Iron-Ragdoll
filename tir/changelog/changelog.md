@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-17
+
+- New [microblog](https://tofutush.leprd.space/microblog/)!
+
 ## 2026-06-14
 
 - Added `jewel abstract.svg`, `starlight sparrow footer.png`;

@@ -54,6 +54,8 @@ Caterpillar and Ant. The ant farm. Those were biological enough, I suppose. What
 
 An idea was starting to form in my head. I brought out my phone and did another search, reading the results. Satisfactory.
 
+---
+
 When I reached Sugarcane's apartment, I hurried up the stairs to her door. I gave a cursory greeting to her parents, and we shut ourselves in her room.
 
 "Any ideas?" Sugarcane said as we sat down on her bed. "To get her passport?"
@@ -192,7 +194,7 @@ On that note, she left me and Jelly alone.
 
 "Why? She seemed really nice when she talked to me."
 
-"Because…" I took a deep breath. Listing and re-listing everything bad about Rose had been one of our favorite pastimes. Things I could tell Jelly was far too numerous to count, but I didn't want to waste any more time on her. "Just for a quick example. Whenever we wanted to buy, say, a comic book, she made sure to tell as many people as possible to buy the same issue, so it would be sold out by the time we get there. Also, Sugarcane has a *lot* of plushies. And Rose would constantly suggest that she didn't buy all of them, but rather stole them."
+"Because…" I took a deep breath. Listing and re-listing everything bad about Rose had been one of our favorite pastimes. Things I could tell Jelly was far too numerous to count, but I didn't want to waste any more time on Rose. "Just for a quick example. Whenever we wanted to buy, say, a comic book, she made sure to tell as many people as possible to buy the same issue, so it would be sold out by the time we get there. Also, Sugarcane has a *lot* of plushies. And Rose would constantly suggest that she didn't buy all of them, but rather stole them."
 
 "That does sound mean," Jelly said. "I guess she was just faking being nice back there?" She buried her face in her arms. "And I thought I was about to get a new friend. How silly of me."
 
@@ -206,7 +208,7 @@ I took out the tadlet box from the bag. Jelly gingerly accepted it, and when she
 
 Jelly set the box down on the chessboard and lifted the cover, carefully tearing along the dotted line. Inside was a tiny, ugly gray worm resting on a mountain of grain, its wings just small lumps on its sides, and its little horn barely a thorn on its head. On the inside of the lid was a set of caretaking instructions. The familiar tadlet lifecycle graph was crudely printed on it, showing the four stages: egg, tadpole form, cocoon, and finally adult form.
 
-"Feed grains," Jelly read. "Two months to metamorphosis. On week in cocoon!"
+"Feed grains," Jelly read. "Two months to metamorphosis. One week in cocoon!"
 
 She watched as the tiny, ugly tadpole squirmed among the grain pile.
 
@@ -226,4 +228,34 @@ She watched as the tiny, ugly tadpole squirmed among the grain pile.
 
 "How do they turn into other animals, anyways?"
 
-"They're still tadlets. They just *look* like other animals after their metamorphosis." I remembered a line from either the teacher or the textbook back in third grade: These little creatures had surprised generations of kids by turning into all sorts of animals post-metamorphosis.
+"They're still tadlets. They just *look* like other animals after their metamorphosis." I remembered a line from either the teacher or the textbook back in third grade: *These little creatures have surprised generations of kids by turning into all sorts of animals post-metamorphosis.*
+
+"I'll take good care of it. Thank you!" Jelly said again, holding the box in her hands like treasure. "Where's Spotty, anyways?"
+
+"She has a bit of homework to finish," I told her. "I actually have to leave soon, too."
+
+"Oh," Jelly's head dropped. "Will you be here tomorrow, then?"
+
+"Of course! And we kind of want to go somewhere else, if you're fine with that."
+
+"Where?" Her eyes lit up again.
+
+"The Bauhinia Tower Park," I said. "Have you been there before?"
+
+Jelly shook her head. "What's in there?"
+
+"It's just a park," I said. "There are a lot of snack vendors though, and we get to see the Bauhinia Tower. We can meet up here and go by subway."
+
+Jelly nodded furiously.
+
+"One more thing," I said. That was the important part. "You need an ID to get in the park."
+
+"My passport?" Jelly asked.
+
+"If possible, yes." Come on, why did I say "if possible"?
+
+"I'll ask papa for it!" Jelly said.
+
+"That's great. See you then?"
+
+"See you!" Jelly waved as I left.
