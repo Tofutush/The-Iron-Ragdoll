@@ -166,7 +166,7 @@ Jelly nodded excitedly. "Truffle and I just met last week! It's amazing, how sma
 
 "Because she'd been really mean to me and Sugarcane in elementary school," I said. "She would tell all the other kids to not play with us."
 
-"So *that's* the story you're going with now, huh?" Rose said. "No more 'we won't hang out with *you* because we're *better*'?" She turned to Jelly. "Truth is, there's been a misunderstanding between me and them. Truffle and Sugarcane. For years! Can you believe that? And now I plan to settle it while we're still here. Before we went to high school, for example. After that, I hope we can be great friends!"
+"So *that's* the story you're going with now, huh?" Rose said. "No more 'we won't hang out with *you* because we're *better*'?" She turned to Jelly. "Truth is, there's been a misunderstanding between me and them. Truffle and Sugarcane. For years! Can you believe that? And now I plan to settle it while we're still here. Before we went to high school, at least. After that, I hope we can be great friends!"
 
 No. Rose cannot be friends with Jelly! And I promise *this* time I wasn't just being possessive! Rose knew our real names, but we couldn't tell her about our mission. I didn't know why she was playing along and calling me "Truffle" right now, but with the way this conversation was going, I could *not* have Sugarcane, Jelly, and Rose be in the same place.
 
@@ -220,7 +220,7 @@ She watched as the tiny, ugly tadpole squirmed among the grain pile.
 
 "Can they be anything other than dogs or cats? When I look up tadlets online, all I see are those two."
 
-"Those are the most common," I said. "Other types are possible, too, but are quite rare."
+"Those are the most common," I said. "Other types are possible, too. Just rare."
 
 "Are there ant tadlets?"
 
