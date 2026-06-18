@@ -27,3 +27,25 @@ What? Of course I'd go. Whatever Rose wanted to do, I wanted to be protecting Su
 ---
 
 Sugarcane wasn't there when I arrived at the playground, but Rose was, sitting at the bottom of the slide to the dismay of other children.
+
+I trotted up to her and cast a shadow over her face. She lifted her head.
+
+"Hey, I didn't ask *you* to be here."
+
+"Well, I'm here now, so deal with it."
+
+"Pretty tough thing to say for someone who's nothing without Sugarcane. *Truffle*."
+
+"What do you want with her? Revenge? Reparation? Or forgiveness?"
+
+"Whoa, whoa, calm down," Rose said dismissively. "You haven't even made up your mind about who's the offender and who's the victim."
+
+She was right, honestly. It seemed that at this point, both Rose and Sugarcane knew exactly what was going on, and I was the only one still in the dark.
+
+"I mostly just want to end this once and for all," Rose continued. "You had nothing to do with it. It was between me and Sugarcane."
+
+Speaking of the devil, Sugarcane appeared, holding… was that Carrots in her arm?
+
+She tossed the bunny at Rose, who caught it perfectly.
+
+"There you go," Sugarcane said. "Now we get to forget each other ever existed."

@@ -10,4 +10,9 @@
 - they ask jelly to collect evidence
 - realize deportation (this point, harmony should already be genuine friend)
 - attempt blackmail, does not go far
+- jelly suspects (basically, both the selfie and passport went too well, something has to go wrong) (maybe *because* they turned their goal to blackmail instead of deportation?)
+	- harmony confesses about spy school
+	- jelly thinks about it
+		- after jelly left, go to slide, see top of bauhinia tower
+	- jelly decides to help them
 - ending sequence: play outside, jelly sick

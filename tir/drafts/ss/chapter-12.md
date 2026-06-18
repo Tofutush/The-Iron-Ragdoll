@@ -44,11 +44,11 @@ I used to think it was because she didn't need any more now that she had mine.
 
 "You're right!" Sugarcane said. "But what should we call ourselves?"
 
-I glanced around at her plushies. The answer seemed obvious. "Carrots and Slushy."
+I glanced around at her plushies. The answer seemed obvious. "Carrots and Slushy," I said, pointing at the bunny and puppy at the start of the line.
 
 "Eww, no one names their kid 'Carrots.' How about Spotty and Truffle? I'll be Spotty and you'll be Truffle."
 
-"Yeah, that sounds okay." I thought about protesting more, but honestly, I liked Truffle.
+"Yeah, that sounds okay." I thought about protesting more, but honestly, I liked Truffle. Also, no one names their kid Carrots? Sugarcane did, and she treated all of them like her children! Maybe she was just talking about human kids…
 
 "Hey, look here, *Truffle*!" Sugarcane said. "There's a playground she loves to play at."
 
