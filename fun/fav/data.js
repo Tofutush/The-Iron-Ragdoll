@@ -589,7 +589,7 @@ img: "/The-Iron-Ragdoll/img/GtfWqsWaS_-500.webp"
 name: "Jackalope",
 color: "#b90912",
 desc: "",
-img: "/The-Iron-Ragdoll/img/Celr0MrlfI-500.webp"
+img: "/The-Iron-Ragdoll/img/gyc9ICgF0U-500.webp"
 },
 
 
@@ -661,7 +661,7 @@ img: "/The-Iron-Ragdoll/img/-DCSm1hLip-500.webp"
 name: "Jewel",
 color: "#d6af29",
 desc: "Catgirl.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/vy3ZYHanaW-500.webp"
 },
 
 
@@ -749,7 +749,7 @@ img: "/The-Iron-Ragdoll/img/JKVnlHdvR8-500.webp"
 name: "Holly",
 color: "#1a5022",
 desc: "Prospective TV star.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/Yh1eAuNusH-500.webp"
 },
 
 

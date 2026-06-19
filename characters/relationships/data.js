@@ -496,7 +496,7 @@ img: "/The-Iron-Ragdoll/img/-DCSm1hLip-200.webp",
 {
 id: "Jewel",
 color: "#d6af29",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/vy3ZYHanaW-200.webp",
 },
 
 {
@@ -562,7 +562,7 @@ img: "/The-Iron-Ragdoll/img/Wjc8zKufnl-200.webp",
 {
 id: "Holly",
 color: "#1a5022",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/Yh1eAuNusH-200.webp",
 },
 
 {
