@@ -49,3 +49,13 @@ Speaking of the devil, Sugarcane appeared, holding… was that Carrots in her ar
 She tossed the bunny at Rose, who caught it perfectly.
 
 "There you go," Sugarcane said. "Now we get to forget each other ever existed."
+
+"Not so fast," Rose said. She carefully turned Carrots around in her hand, examining the plushie from all sides.
+
+What was happening?
+
+After quite a bit of turning and squishing, Rose finally said, "hm. You kept her in good condition."
+
+"Of course I did," Sugarcane snapped.
+
+"You know, all this could've been avoided if you'd just did this earlier."

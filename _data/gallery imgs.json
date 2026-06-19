@@ -5516,7 +5516,7 @@
   },
   {
     "name": "jackalope profile",
-    "date": "2026-02-07",
+    "date": "2026-06-19",
     "ch": [
       "jackalope"
     ],
@@ -6178,5 +6178,21 @@
       "sparrow"
     ],
     "kind": "footer"
+  },
+  {
+    "name": "holly thumb",
+    "date": "2026-06-19",
+    "ch": [
+      "holly"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "jewel thumb",
+    "date": "2026-06-19",
+    "ch": [
+      "jewel"
+    ],
+    "kind": "thumb"
   }
 ]

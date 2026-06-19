@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-19
+
+- Added `jewel thumb.png`, `holly thumb.png`; redrew `jackalope profile.png`;
+
 ## 2026-06-17
 
 - New [microblog](https://tofutush.leprd.space/microblog/)!
