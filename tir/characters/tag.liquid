@@ -12,6 +12,6 @@ eleventyNavigation:
 <ul>
   {% for tag in tagsplot %}
     {% assign num = characters | filterChByTag: tag | size %}
-    <li><a href="{{ tag | slug }}/">{% lucide 'tags' %} {{ tag }}</a><span class="lighter-text smaller-text"> ({{ num }} character{% if num != 1 %}s{% endif %})</span></li>
+    <li><a href="/characters/tag/{{ tag | slug }}/">{% lucide 'tags' %} {{ tag }}</a><span class="lighter-text smaller-text"> ({{ num }} character{% if num != 1 %}s{% endif %})</span></li>
   {% endfor %}
 </ul>
