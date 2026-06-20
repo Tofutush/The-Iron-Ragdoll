@@ -290,12 +290,6 @@ img: "/The-Iron-Ragdoll/img/O8Du-58hgo-200.webp",
 },
 
 {
-id: "Groovy",
-color: "#933384",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
-},
-
-{
 id: "Koala",
 color: "#7F8587",
 img: "/The-Iron-Ragdoll/img/vZY-fR4R9i-200.webp",
@@ -872,14 +866,6 @@ target: "Ironheart",
 rel1: "younger stepsister",
 rel2: "older stepbrother",
 minor: true
-},
-
-{
-source: "Willow",
-target: "Sundae",
-rel1: "girlfriend?",
-rel2: "girlfriend?",
-
 },
 
 {
@@ -1519,14 +1505,6 @@ source: "Nightsun",
 target: "Bramble",
 rel1: "stepfather",
 rel2: "stepson",
-
-},
-
-{
-source: "Nightsun",
-target: "Groovy",
-rel1: "agent",
-rel2: "case officer",
 
 },
 

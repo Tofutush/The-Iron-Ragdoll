@@ -386,14 +386,6 @@ img: "/The-Iron-Ragdoll/img/O8Du-58hgo-500.webp"
 
 
 {
-name: "Groovy",
-color: "#933384",
-desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
 name: "Koala",
 color: "#7F8587",
 desc: "Lead scientist of Project Boomerang.",
