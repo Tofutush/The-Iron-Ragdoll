@@ -1191,22 +1191,6 @@
     "trivia": "- If he had a lusus, it would be a dragonfly."
   },
   {
-    "name": "Groovy",
-    "color": "#933384",
-    "tags": [
-      "Coastline",
-      "Bauhinia"
-    ],
-    "attr": {
-      "Nickname": "Cocoa (by Nightsun)",
-      "Birth": "2017-05-01",
-      "Nationality": "Bauhinian"
-    },
-    "palette": {
-      "hair": "#2e2e2e"
-    }
-  },
-  {
     "name": "Koala",
     "namezh": "树袋",
     "color": "#7F8587",
