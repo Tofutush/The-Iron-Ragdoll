@@ -346,14 +346,6 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 
 
 {
-name: "Bunchberry",
-color: "#ca4d3f",
-desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
 name: "Kismet",
 color: "#000",
 desc: "President of Bauhinia.",
@@ -701,7 +693,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Jinx",
 color: "#629970",
 desc: "",
-img: "/The-Iron-Ragdoll/img/QJ4JjXyJB--500.webp"
+img: "/The-Iron-Ragdoll/img/zM3R59gdOR-500.webp"
 },
 
 

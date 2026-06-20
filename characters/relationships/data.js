@@ -260,12 +260,6 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
-id: "Bunchberry",
-color: "#ca4d3f",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
-},
-
-{
 id: "Kismet",
 color: "#000",
 img: "/The-Iron-Ragdoll/img/IkriICdn34-200.webp",
@@ -1521,14 +1515,6 @@ rel2: "wife",
 },
 
 {
-source: "Ironheart",
-target: "Bunchberry",
-rel1: "father",
-rel2: "daughter",
-
-},
-
-{
 source: "Nightsun",
 target: "Bramble",
 rel1: "stepfather",
@@ -1542,14 +1528,6 @@ target: "Groovy",
 rel1: "agent",
 rel2: "case officer",
 
-},
-
-{
-source: "Bramble",
-target: "Bunchberry",
-rel1: "friend",
-rel2: "friend",
-minor: true
 },
 
 {
@@ -1694,14 +1672,6 @@ target: "Hyrax",
 rel1: "daughter",
 rel2: "father",
 minor: true
-},
-
-{
-source: "Beauty",
-target: "Bunchberry",
-rel1: "mother",
-rel2: "daughter",
-
 },
 
 {
