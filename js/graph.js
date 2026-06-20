@@ -88,19 +88,19 @@ function updateGraph({ ch: nodes, rel: links }) {
 
 	linkLabel1 = linkGroup.append("text")
 		.attr("text-anchor", "middle")
-		.attr("fill", d => d.source.color)
-		.attr("font-size", font12)
-		.attr('opacity', 0.3)
-		.style('user-select', 'none')
-		.text(d => d.rel1);
-
-	linkLabel2 = linkGroup.append("text")
-		.attr("text-anchor", "middle")
 		.attr("fill", d => d.target.color)
 		.attr("font-size", font12)
 		.attr('opacity', 0.3)
 		.style('user-select', 'none')
 		.text(d => d.rel2);
+
+	linkLabel2 = linkGroup.append("text")
+		.attr("text-anchor", "middle")
+		.attr("fill", d => d.source.color)
+		.attr("font-size", font12)
+		.attr('opacity', 0.3)
+		.style('user-select', 'none')
+		.text(d => d.rel1);
 
 	nodeLabel = bigG.append("g").selectAll("text").data(nodes).join("text")
 		.attr("text-anchor", "middle")

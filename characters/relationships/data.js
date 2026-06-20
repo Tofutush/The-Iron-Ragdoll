@@ -128,12 +128,6 @@ img: "/The-Iron-Ragdoll/img/zUis3hvPIP-200.webp",
 },
 
 {
-id: "Bramble",
-color: "#E19D0E",
-img: "/The-Iron-Ragdoll/img/BVUSz79G7b-200.webp",
-},
-
-{
 id: "Goose",
 color: "#D54269",
 img: "/The-Iron-Ragdoll/img/wBmz9IJjvc-200.webp",
@@ -245,6 +239,24 @@ img: "/The-Iron-Ragdoll/img/bz1j03_rxk-200.webp",
 id: "Hyrax",
 color: "#66210a",
 img: "/The-Iron-Ragdoll/img/nERn0QKcm0-200.webp",
+},
+
+{
+id: "Bramble",
+color: "#E19D0E",
+img: "/The-Iron-Ragdoll/img/BVUSz79G7b-200.webp",
+},
+
+{
+id: "Bunchberry",
+color: "#ca4d3f",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Peach",
+color: "#ec74e8",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
 {
@@ -745,14 +757,6 @@ source: "Sparky",
 target: "Nightsun",
 rel1: "wife",
 rel2: "husband",
-
-},
-
-{
-source: "Sparky",
-target: "Bramble",
-rel1: "aunt (legal guardian)",
-rel2: "nephew",
 
 },
 
@@ -1489,7 +1493,7 @@ source: "Fantasy",
 target: "Bramble",
 rel1: "mother",
 rel2: "son",
-
+minor: true
 },
 
 {
@@ -1501,11 +1505,11 @@ rel2: "wife",
 },
 
 {
-source: "Nightsun",
-target: "Bramble",
-rel1: "stepfather",
-rel2: "stepson",
-
+source: "Ironheart",
+target: "Bunchberry",
+rel1: "father",
+rel2: "daughter",
+minor: true
 },
 
 {
@@ -1653,6 +1657,14 @@ minor: true
 },
 
 {
+source: "Beauty",
+target: "Bunchberry",
+rel1: "mother",
+rel2: "daughter",
+minor: true
+},
+
+{
 source: "Chastity",
 target: "Devotion",
 rel1: "older sister",
@@ -1765,6 +1777,14 @@ rel2: "father",
 },
 
 {
+source: "Animus",
+target: "Peach",
+rel1: "father",
+rel2: "daughter",
+minor: true
+},
+
+{
 source: "Cherry",
 target: "Hyrax",
 rel1: "wife",
@@ -1778,6 +1798,30 @@ target: "Kismet",
 rel1: "acquaintance",
 rel2: "acquaintance",
 
+},
+
+{
+source: "Bramble",
+target: "Bunchberry",
+rel1: "friend",
+rel2: "friend",
+minor: true
+},
+
+{
+source: "Bramble",
+target: "Peach",
+rel1: "friend",
+rel2: "friend",
+minor: true
+},
+
+{
+source: "Bunchberry",
+target: "Peach",
+rel1: "friend",
+rel2: "friend",
+minor: true
 },
 
 {

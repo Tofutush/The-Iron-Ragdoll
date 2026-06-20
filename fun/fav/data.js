@@ -170,14 +170,6 @@ img: "/The-Iron-Ragdoll/img/p-5settivW-500.webp"
 
 
 {
-name: "Bramble",
-color: "#E19D0E",
-desc: "Silly little boy who writes his feelings all over his face.",
-img: "/The-Iron-Ragdoll/img/BVUSz79G7b-500.webp"
-},
-
-
-{
 name: "Goose",
 color: "#D54269",
 desc: "Bandwagon girl.",
@@ -326,6 +318,30 @@ name: "Hyrax",
 color: "#66210a",
 desc: "Starcorp legend",
 img: "/The-Iron-Ragdoll/img/nERn0QKcm0-500.webp"
+},
+
+
+{
+name: "Bramble",
+color: "#E19D0E",
+desc: "Silly little boy who writes his feelings all over his face.",
+img: "/The-Iron-Ragdoll/img/BVUSz79G7b-500.webp"
+},
+
+
+{
+name: "Bunchberry",
+color: "#ca4d3f",
+desc: "",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
+name: "Peach",
+color: "#ec74e8",
+desc: "",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 },
 
 
