@@ -8,8 +8,8 @@ eleventyNavigation:
 ## 2026-06-20
 
 - Redrew `jinx profile.png`;
-- Removed Bunchberry;
-	- To be fair I haven't thought about this next generation of nepo kids too much. I would've removed Bramble too but he already has a bit of art.
+- Removed Groovy, Bunchberry;
+	- To be fair I haven't thought about this next generation of nepo kids too much. I would've removed Bramble too but he already has a bit of art. As for Groovy, she's related to Nightsun's espionage activities and I need to think about that more before knowing her role;
 
 ## 2026-06-19
 
