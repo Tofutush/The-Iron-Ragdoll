@@ -11,6 +11,9 @@ eleventyNavigation:
 - Removed Groovy, Bunchberry;
 	- To be fair I haven't thought about this next generation of nepo kids too much. I would've removed Bramble too but he already has a bit of art. As for Groovy, she's related to Nightsun's espionage activities and I need to think about that more before knowing her role;
 	- Okay I lied. I added [Bunchberry](/characters/bunchberry/) back, along with new [Peach](/characters/peach/), with age adjustments. Hopefully I didn't fuck anything up;
+- Changed the relationship labels of the [relationships graph](/characters/relationships/) to be way more intuitive. Really, I don't know what I had been thinking… this is clearly The Way;
+	- Basically now when you hover a character, different colors of links will be highlighted, so if you hover Sparky and see a dark blue "husband" it means the other dark blue character is Sparky's husband. It used to be when you hover Sparky a bunch of light blue links like "wife" would show up, meaning Sparky is *someone*'s wife… not very helpful.
+- Also fixed the link coloring to be less broad. So the "Pearl's Journey Home" series no longer have their colors. Shame, I liked those colors, but well cogs will spin;
 
 ## 2026-06-19
 
