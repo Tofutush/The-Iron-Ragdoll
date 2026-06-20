@@ -5,6 +5,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-20
+
+- Redrew `jinx profile.png`;
+- Removed Bunchberry;
+	- To be fair I haven't thought about this next generation of nepo kids too much. I would've removed Bramble too but he already has a bit of art.
+
 ## 2026-06-19
 
 - Added `jewel thumb.png`, `holly thumb.png`; redrew `jackalope profile.png`;

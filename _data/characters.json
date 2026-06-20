@@ -1076,28 +1076,6 @@
     }
   },
   {
-    "name": "Bunchberry",
-    "namezh": "红串果",
-    "color": "#ca4d3f",
-    "tags": [
-      "Coastline",
-      "Sparky's Family",
-      "Cherry-Hyrax Family",
-      "Fancy Private School",
-      "Bauhinia"
-    ],
-    "attr": {
-      "Full name": "Bunchberry Ironheart Beauty",
-      "Nickname": "Bunny (by everyone)",
-      "Birth": "2036-03-30",
-      "Nationality": "Bauhinian"
-    },
-    "palette": {
-      "hair": "#2e2e2e"
-    },
-    "about": "Trans girl."
-  },
-  {
     "name": "Kismet",
     "namezh": "天意",
     "color": "#000",
