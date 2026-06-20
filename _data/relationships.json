@@ -231,20 +231,7 @@
         "husband"
       ]
     ],
-    "desc": "They're both bisexual and deep in the closet. They both know the other is bisexual. They're both trying all sorts of gimmicks to make the other come out.\n\n---\n\nNightsun used to be a no-names [Starcorp](/world/bauhinia/starcorp/) employee in the headquarters in Coastline. Sparky developed a huge crush on him and kept trying to get close to him despite warnings from Animus. After [Fantasy](/characters/fantasy/) died and [Bramble](/characters/bramble/) became her child, she proposed to Nightsun and they got married.\n\nOnce they got married, Sparky started to exert control over him like she did everyone. She made Nightsun quit his job and stay at home to take care of Bramble. He did, so now Bramble likes him (\"papa!\") more than he likes Sparky (\"auntie\"), and now she's mad about it.\n\nLittle did she know, Nightsun was a spy sent to get information on Animus. After Animus found out, Sparky refused to let anything happen to Nightsun because she still loved him, and believed that he reciprocated, and also Bramble liked him too much. Animus decided to feed false information through Nightsun, though he didn't want Nightsun to know. Sparky, however, came clean to him about running him as a double agent.\n\nNightsun agreed, because deep down, he loved Sparky too."
-  },
-  {
-    "ch": [
-      [
-        "Sparky",
-        "aunt (legal guardian)"
-      ],
-      [
-        "Bramble",
-        "nephew"
-      ]
-    ],
-    "desc": "Bramble still refers to Sparky as his aunt even when he calls [Nightsun](/characters/nightsun/) his dad. Sparky is really mad about it. She really did care about Bramble. Now I wonder where I've seen this before... Ah yes, Sparky calling Peacock \"Peacock.\"\n\nBramble also constantly pesters Sparky into telling him what happened to [his mom](/characters/fantasy/), because \"Auntie knows *everything*!\" Truth is, Sparky would also very much like to know what happened to Fantasy."
+    "desc": "They're both bisexual and deep in the closet. They both know the other is bisexual. They're both trying all sorts of gimmicks to make the other come out.\n\n---\n\nNightsun used to be a no-names [Starcorp](/world/bauhinia/starcorp/) employee in the headquarters in Coastline. Sparky fell in love at first sight and insisted on marrying right then and there. Nightsun didn't fail to seize the opportunity.\n\nOnce they got married, Sparky started to exert control over him like she did everyone. She made Nightsun quit his job and stay at home to babysit the Starcorp children.\n\nLittle did she know, Nightsun was a spy sent to get information on Animus. After Animus found out, Sparky refused to let anything happen to Nightsun because she still loved him, and believed that he reciprocated, and also Bramble liked him too much. Animus decided to feed false information through Nightsun, though he didn't want Nightsun to know."
   },
   {
     "ch": [
@@ -1437,7 +1424,7 @@
         "son"
       ]
     ],
-    "desc": "Bramble doesn't remember many things about his mom, but he remembers enough to say \"Auntie is mean, I love mama.\""
+    "desc": ""
   },
   {
     "ch": [
@@ -1455,15 +1442,15 @@
   {
     "ch": [
       [
-        "Nightsun",
-        "stepfather"
+        "Ironheart",
+        "father"
       ],
       [
-        "Bramble",
-        "stepson"
+        "Bunchberry",
+        "daughter"
       ]
     ],
-    "desc": "Nightsun spends most of his time around Bramble after he quit his job after marrying [Sparky](/characters/sparky/). So naturally, Bramble likes him more. Nightsun, however, hates kids. He's just to scared to show it in front of Sparky.\n\nBramble thinks his papa is the best chef in the world. "
+    "desc": ""
   },
   {
     "ch": [
@@ -1702,6 +1689,19 @@
   {
     "ch": [
       [
+        "Beauty",
+        "mother"
+      ],
+      [
+        "Bunchberry",
+        "daughter"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Chastity",
         "older sister"
       ],
@@ -1884,6 +1884,19 @@
   {
     "ch": [
       [
+        "Animus",
+        "father"
+      ],
+      [
+        "Peach",
+        "daughter"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
         "Cherry",
         "wife"
       ],
@@ -1906,6 +1919,45 @@
       ]
     ],
     "desc": "Of course they know each other. The two most powerful beings in Bauhinia — and probably the entire continent. And of course they're both cishets. The world is run by cishets. It's a cishet world for cishets. If they were gay though I could've shipped them. Too bad :("
+  },
+  {
+    "ch": [
+      [
+        "Bramble",
+        "friend"
+      ],
+      [
+        "Bunchberry",
+        "friend"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Bramble",
+        "friend"
+      ],
+      [
+        "Peach",
+        "friend"
+      ]
+    ],
+    "desc": ""
+  },
+  {
+    "ch": [
+      [
+        "Bunchberry",
+        "friend"
+      ],
+      [
+        "Peach",
+        "friend"
+      ]
+    ],
+    "desc": ""
   },
   {
     "ch": [

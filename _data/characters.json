@@ -545,27 +545,6 @@
     "note": "- The highlight on his hair goes up, down, and then up."
   },
   {
-    "name": "Bramble",
-    "namezh": "荆棘",
-    "color": "#E19D0E",
-    "desc": "Silly little boy who writes his feelings all over his face.",
-    "tags": [
-      "Coastline",
-      "Sparky's Family",
-      "Fancy Private School",
-      "Bauhinia"
-    ],
-    "attr": {
-      "Full name": "Bramble Nightsun Sparky",
-      "Birth": "2036-08-29",
-      "Nationality": "Bauhinian"
-    },
-    "palette": {
-      "hair": "#2e2e2e"
-    },
-    "about": "Fantasy's son, now adopted by Sparky and Nightsun."
-  },
-  {
     "name": "Goose",
     "namezh": "白鹅",
     "color": "#D54269",
@@ -1020,6 +999,65 @@
       "hair": "#2e2e2e"
     },
     "about": "Hyrax is the chairman of Starcorp and the father of 5 children — four, actually."
+  },
+  {
+    "name": "Bramble",
+    "namezh": "荆棘",
+    "color": "#E19D0E",
+    "desc": "Silly little boy who writes his feelings all over his face.",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Starcorp children",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Birth": "2041-08-29",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    },
+    "about": "Fantasy's son, now adopted by Sparky and Nightsun."
+  },
+  {
+    "name": "Bunchberry",
+    "namezh": "红串果",
+    "color": "#ca4d3f",
+    "tags": [
+      "Coastline",
+      "Sparky's Family",
+      "Cherry-Hyrax Family",
+      "Starcorp children",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Full name": "Bunchberry Ironheart Beauty",
+      "Nickname": "Bunny (by everyone)",
+      "Birth": "2045-03-30",
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#2e2e2e"
+    }
+  },
+  {
+    "name": "Peach",
+    "namezh": "桃子",
+    "color": "#ec74e8",
+    "tags": [
+      "Coastline",
+      "Cherry-Hyrax Family",
+      "Starcorp children",
+      "Fancy Private School",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Birth": "2046-07-03",
+      "Nationality": "Bauhinian"
+    }
   },
   {
     "name": "Orchid",
