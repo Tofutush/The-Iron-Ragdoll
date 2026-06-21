@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-21
+
+- Added `orchid peony footer.png`;
+
 ## 2026-06-20
 
 - Redrew `jinx profile.png`;
