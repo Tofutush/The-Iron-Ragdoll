@@ -82,6 +82,24 @@ Sugarcane sighed. "So Carrots… actually belonged to Rose. I, I stole it from h
 
 "Why didn't you just buy an identical one for yourself?"
 
-"I bought that in Moreland," Rose said. "It's not sold anywhere in Bauhinia. Anyways, I wanna leave now so one last question." She pointed at me.
+"I bought that in Moreland," Rose said. "It's not sold anywhere in Bauhinia. Anyways, I wanna leave now so one last question." She stood up and pointed a finger at me. "Why is your name Truffle now?"
+
+"I, um, I —"
+
+"Some fancy little Spy School bullshit?"
+
+"Well…"
+
+"It's none of your business," Sugarcane cut in.
+
+"It *is* because I like that Jelly girl a lot."
+
+"Fine," Sugarcane said. "Please refer to her as Truffle if Jelly ever brings it up. She also knows me by the name of Spotty." Her head was bowed, not daring to meet Rose's gaze.
+
+"That works for me, as long as you don't piss me off again," Rose said. "See? I can be reasonable!"
 
 She got up and left, holding Carrots in her hand.
+
+Sugarcane was silent for a while. She walked over to her favorite bench and sat down, crossing her legs. I joined her.
+
+"Well," she said, "that was catastrophic."
