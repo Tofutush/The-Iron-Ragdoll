@@ -20,7 +20,7 @@ Sugarcane was still in a little shock, standing there with a confounded expressi
 
 "Will *I* shed my ears too?" I touched my ears, thinking about how weird it would feel without them.
 
-"Oh, no, aurians like you and unicorns like me don't do that," Jelly said. "Only Truffle would."
+"Oh, no, aurians like you and unicorns like me don't do that," Jelly said. "Only Spotty would."
 
 Sugarcane had seemingly recovered, and she had her phone out, looking at herself with the camera. "I look bald," she said. "I look like a penguin."
 
@@ -28,7 +28,7 @@ Sugarcane had seemingly recovered, and she had her phone out, looking at herself
 
 Sugarcane put her phone back in her pocket and examined her fallen horns. "What do I do with these, then?"
 
-"People usually just throw them away, but maybe you should show it to your parents first and see what they decide." At that moment, Jelly really seemed like an older sister to us, being calm and helpful even when Sugarcane was panicking.
+"People usually just throw them away, but maybe you should show it to your parents first." At that moment, Jelly really seemed like an older sister to us, being calm and helpful even when Sugarcane was panicking.
 
 "We should make chopsticks with them," I said. "They're the right shape."
 

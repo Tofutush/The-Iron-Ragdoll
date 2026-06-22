@@ -208,7 +208,7 @@ I took out the tadlet box from the bag. Jelly gingerly accepted it, and when she
 
 Jelly set the box down on the chessboard and lifted the cover, carefully tearing along the dotted line. Inside was a tiny, ugly gray worm resting on a mountain of grain, its wings just small lumps on its sides, and its little horn barely a thorn on its head. On the inside of the lid was a set of caretaking instructions. The familiar tadlet lifecycle graph was crudely printed on it, showing the four stages: egg, tadpole form, cocoon, and finally adult form.
 
-"Feed grains," Jelly read. "Two months to metamorphosis. One week in cocoon!"
+"Feed grains," Jelly read. "One month to metamorphosis. One week in cocoon!"
 
 She watched as the tiny, ugly tadpole squirmed among the grain pile.
 

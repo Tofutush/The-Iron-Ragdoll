@@ -59,3 +59,31 @@ After quite a bit of turning and squishing, Rose finally said, "hm. You kept her
 "Of course I did," Sugarcane snapped.
 
 "You know, all this could've been avoided if you'd just did this earlier."
+
+**THIS SCENE SUCKS!**
+
+Sugarcane took a deep breath.
+
+"You're right," she said. "I'm sorry."
+
+*WHAT*??
+
+"Sugarcane! Why are you apologizing?"
+
+Sugarcane opened her mouth, but Rose let out a scoff and she only said, "I'll let Rose explain."
+
+"I don't want her to explain," I said. "I want *you* to do it."
+
+"Yeah," Rose added. "*You* do it!"
+
+Sugarcane sighed. "So Carrots… actually belonged to Rose. I, I stole it from her, and… and I never gave it back."
+
+"What? When did that happen?"
+
+"In third grade," Sugarcane replied curtly. "Rose kept asking for it back, but I wanted to keep it, and the longer I kept it the more scared I was of giving it back."
+
+"Why didn't you just buy an identical one for yourself?"
+
+"I bought that in Moreland," Rose said. "It's not sold anywhere in Bauhinia. Anyways, I'll leave you two to talk it out."
+
+She got up and left, holding Carrots in her hand.
