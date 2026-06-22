@@ -60,8 +60,6 @@ After quite a bit of turning and squishing, Rose finally said, "hm. You kept her
 
 "You know, all this could've been avoided if you'd just did this earlier."
 
-**THIS SCENE SUCKS!**
-
 Sugarcane took a deep breath.
 
 "You're right," she said. "I'm sorry."
@@ -84,6 +82,6 @@ Sugarcane sighed. "So Carrots… actually belonged to Rose. I, I stole it from h
 
 "Why didn't you just buy an identical one for yourself?"
 
-"I bought that in Moreland," Rose said. "It's not sold anywhere in Bauhinia. Anyways, I'll leave you two to talk it out."
+"I bought that in Moreland," Rose said. "It's not sold anywhere in Bauhinia. Anyways, I wanna leave now so one last question." She pointed at me.
 
 She got up and left, holding Carrots in her hand.

@@ -10,9 +10,9 @@ One of her elegant green horns was gone from her head. I frantically looked arou
 
 "*What?*" Sugarcane was still heaving, but recovering a bit from the shock.
 
-"Bicorns shed their horns during puberty! I'd seen some of my classmates do that back in —"
+"Bicorns shed their horns during puberty! I'd seen some of my classmates do that back in…"
 
-Her words got cut off as Sugarcane's other horn toppled off her head and fell flat on the ground. Sugarcane winced.
+Her words trailed off as Sugarcane's other horn toppled off her head and fell flat on the ground. Sugarcane winced.
 
 "They'll grow back," Jelly reassured her.
 

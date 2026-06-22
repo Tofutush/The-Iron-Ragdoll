@@ -94,7 +94,7 @@ I spent the entire morning trying to find a good time to approach Cosmo. Finally
 
 "So what did they talk about?"
 
-"Sky basically just asked the same questions." Cosmo waved her chopsticks around, rolling her eyes and saying, "did you put the knife there? Did your wife? Do you know anything about it? Did your wife?" Cosmo leaned in closer. "The signal I got from your dad was really strong. A strong burst of 'he's telling the truth! Truth! Did you hear that!' I'd never seen anything like that before."
+"Sky basically just asked the same questions." Cosmo waved her chopsticks around, rolling her eyes and saying, "did you put the knife there? Did your wife? Do you know anything about it? Did your wife?" Cosmo leaned in closer. "The signal I got from your dad was really strong. A strong burst of 'he's telling the truth! Truth! Did you hear that!' It was so strong it felt artificial."
 
 "So what did you tell Sky?" I asked.
 
@@ -102,7 +102,7 @@ I spent the entire morning trying to find a good time to approach Cosmo. Finally
 
 "Then that means we still don't know who planted the knife in Harmony's bag," Sugarcane said.
 
-I sighed. I had already reached my conclusion, even if Cosmo said otherwise. Her mind-reading powers weren't that strong anyways.
+I sighed. I had already reached my conclusion. Not that I knew what reading other people's minds felt like, but Cosmo's description sounded a lot like Dad desperately convincing himself to hide signs that he was lying. Dad was the best liar I had ever seen.
 
 "Maybe it's Sunny," Cosmo said. "A call for help!"
 

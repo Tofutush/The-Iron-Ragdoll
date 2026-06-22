@@ -32,7 +32,7 @@ Jelly frowned, and snatched her hands out of my grasp. "That's easy for you to s
 
 I honestly hadn't thought about that. "Does it matter?"
 
-"Of course it does," Jelly snapped. "All you Bauhinians ever want is to conquer the world again and it really shows."
+"Of course it does," Jelly snapped. "All you Bauhinians ever want is to conquer the world again and it really shows. Westavia's border is there to keep Bauhinia *out*."
 
 "I don't want to conquer the world," I said earnestly. "I just want to be friends with you."
 
@@ -74,13 +74,11 @@ Sky sighed. "It's the plural form of *persona non grata*."
 
 "No, I meant — You — I thought *you* said I could come!"
 
-"Did I?" Sky tilted his head and scratched his hair in a comical fashion. "Whenever did I say that? But anyways, you look like you need a ride home."
+"Did I?" Sky tilted his head and scratched his hair in a comical fashion. "Whenever did I say that? But anyways, you look like you could use a ride home."
 
 "No I don't."
 
-"Then go squeeze yourself onto the subway. Be my guest."
-
-Sky shrugged and started to leave.
+"Then go squeeze yourself onto the subway. It's morning rush hour. Be my guest." Sky shrugged and started to leave.
 
 I chased after him. "Wait!" I yelled. "I'll go with you!"
 
