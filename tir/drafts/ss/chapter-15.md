@@ -1,5 +1,5 @@
 ---
-chNum: 15
+chNum: 14
 ---
 
 I went to Sky's office first thing in the morning, skipping the morning study hall. Most of the teachers aside from Sky weren't present, which was for the better.

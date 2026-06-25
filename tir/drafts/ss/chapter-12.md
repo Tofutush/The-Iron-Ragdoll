@@ -1,5 +1,5 @@
 ---
-chNum: 12
+chNum: 11
 ---
 
 *Jelly Checkers,* read the file. *Daughter of Checkers Sunfish. Born on 2041 Jan 25th.* We removed the portrait of Jelly so it wasn't blocking any text. It lay beside the file, staring up at us.

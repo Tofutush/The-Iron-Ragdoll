@@ -1,5 +1,5 @@
 ---
-chNum: 10
+chNum: 9
 ---
 
 "What is going on back there?" Jewel came back to see the splatter of my blood on the ground. "Damn." And then she noticed Sugarcane and Cosmo.

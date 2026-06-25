@@ -1,5 +1,5 @@
 ---
-chNum: 11
+chNum: 10
 ---
 
 I could count on one hand the number of times Sugarcane and I fought.

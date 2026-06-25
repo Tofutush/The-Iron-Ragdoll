@@ -1,5 +1,5 @@
 ---
-chNum: 17
+chNum: 16
 ---
 
 *Well.* I took my phone out and texted Sugarcane. She was going to see "Harmony is typing" on her end for a *while*.
@@ -152,6 +152,6 @@ Where had that gotten me? Sugarcane definitely didn't feel the same way about me
 
 Surprisingly, another voice started ringing in my skull. *I like you more than Spotty.*
 
-The mission. Right! I knew what to do now. I could do well on the mission. I could prove to be a great friend to Jelly.
+The mission. Right! I knew what to do now. I could do well on the mission. I could prove to be a great friend to Jelly, and I could do it without Sugarcane.
 
 Starting tomorrow at the Bauhinia Tower Park.

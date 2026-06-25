@@ -15,3 +15,4 @@
 15. girls reading newspaper
 16. jelly with tadlet box
 17. flat camera of harmony talking to rose sitting on slide
+18. sugarcane shed
