@@ -1,273 +1,157 @@
 ---
-chNum: 15
+chNum: 16
 ---
 
-Steamed buns for dinner again.
+*Well.* I took my phone out and texted Sugarcane. She was going to see "Harmony is typing" on her end for a *while*.
 
-"I'm going to Sugarcane's tonight," I said.
+Despite adding Jelly's number, we still found ourselves talking to her face more, because Jelly seemed to prefer that and also she couldn't spell to save her life. I could not comprehend the preference for face-to-face communication, though. When talking, you could not carefully compose your message until it was perfect before pressing send. When I talked to people directly, I've always found myself bursting out things that I later regret. Like "if possible," for instance.
 
-"Again?" Mom asked.
+Sky had told us that it was even an interrogation technique. To just sit there, say nothing, and stare meaningfully at the interrogated. They could potentially start saying things they might regret just to break the awkward silence.
 
-"Yeah," I said. *And that's final,* I tried to imply.
+I do hope that Jelly could get her passport. But even if she didn't manage it this time, we could come up with something new.
 
-"Actually," Mom said, "I think we as a family aren't doing enough family activities together."
+*Well. So here's the thing. Rose was making friends with Jelly. I saw her but she didn't blow my cover. She told me she wanted to meet you today in the afternoon at our usual playground. She said to "bring the thing," but I don't know what "the thing" is?*
 
-I sighed.
+It was originally way longer, but I cut it down to the essentials. A perfect message, really.
 
-"What if we…" she tapped her chin, mind undoubtedly cycling rapidly through the most boring things that ever existed. "… Watch a movie?"
+For a long while, I stared at the screen displaying its little "Sugarcane is typing" message.
 
-"No."
+Finally the message disappeared, and I was met with a single sentence: *Got it. I'll be there.*
 
-"We can watch *Talking Animals With Non-Biological Colors 5*!"
+Cut down to the essentials, huh.
 
-"That's for babies," I said.
+But there was more. *You don't have to come if you don't want to.*
 
-"What about *Literary Film of a Man Who Cheated On His Wife*, then? I heard it's very critically acclaimed."
-
-"A man who — what?"
-
-"Do you want to play *Stickman* —" Dad started.
-
-"I do *not*," I snapped. "The game is stupid and I have *homework* to do." I lost count of the days I spent playing that game with Dad, listening to his advice on when and how to do my homework. And after the confession by the tree last night, I had come to the conclusion that he was not exactly a model student.
-
-I dumped my bowl and chopsticks into the sink and walked out the door, heading for Sugarcane's. Right before I left, though, I leaned my head back and said, "I know you planted that knife!" and shut the door immediately after.
+What? Of course I'd go. Whatever Rose wanted to do, I wanted to be protecting Sugarcane for once.
 
 ---
 
-On the way to Sugarcane's, I pulled out my phone and did something I never thought I would do.
+Sugarcane wasn't there when I arrived at the playground, but Rose was, sitting at the bottom of the slide to the dismay of other children.
 
-I opened the search engine and typed in "how to make friends."
+I trotted up to her and cast a shadow over her face. She lifted her head.
 
-The phone must also think I'm pathetic now, I thought. I did make sure to open an incognito window, so hopefully the browser didn't yet know about my patheticness.
+"Hey, I didn't ask *you* to be here."
 
-*Be considerate,* the first result said. (And I never read past the first result.) *Be open-minded. But most importantly, be true to yourself.*
+"Well, I'm here now, so deal with it."
 
-Well, that wasn't helpful. The whole "friendship" was based on a lie. Besides, a more pressing question was "how to get evidence of a diplomat's espionage activities through his daughter," but I wasn't about to type *that* into a search box, incognito or not.
+"Pretty tough thing to say for someone who's nothing without Sugarcane. *Truffle*."
 
-Be considerate, though…
+"What do you want with her? Revenge? Reparation? Or forgiveness?"
 
-*Favorite subject Biology.* Jelly had been here for a year, and had just started middle school. There was no biology class in elementary school. It was lumped in with science.
+"Whoa, whoa, calm down," Rose said dismissively. "You haven't even made up your mind about who's the offender and who's the victim."
 
-I shrugged. She had been attending middle school for a month or so by the time the file was composed. That was probably enough time to decide on your favorite subject.
+She was right, honestly. It seemed that at this point, both Rose and Sugarcane knew exactly what was going on, and I was the only one still in the dark.
 
-Caterpillar and Ant. The ant farm. Those were biological enough, I suppose. What exactly was that she liked? Just caterpillars and ants, or small creatures in general?
+"I mostly just want to end this once and for all," Rose continued. "You had nothing to do with it. It was between me and Sugarcane."
 
-An idea was starting to form in my head. I brought out my phone and did another search, reading the results. Satisfactory.
+Speaking of the devil, Sugarcane appeared, holding… was that Carrots in her arm?
+
+She tossed the bunny at Rose, who caught it perfectly.
+
+"There you go," Sugarcane said. "Now we get to forget each other ever existed."
+
+"Not so fast," Rose said. She carefully turned Carrots around in her hand, examining the plushie from all sides.
+
+What was happening?
+
+After quite a bit of turning and squishing, Rose finally said, "hm. You kept her in good condition."
+
+"Of course I did," Sugarcane snapped.
+
+"You know, all this could've been avoided if you'd just did this earlier."
+
+Sugarcane took a deep breath.
+
+"You're right," she said. "I'm sorry."
+
+*WHAT*??
+
+"Sugarcane! Why are you apologizing?"
+
+Sugarcane opened her mouth, but Rose let out a scoff and she only said, "I'll let Rose explain."
+
+"I don't want her to explain," I said. "I want *you* to do it."
+
+"Yeah," Rose added. "*You* do it!"
+
+Sugarcane sighed. "So Carrots… actually belonged to Rose. I, I stole it from her, and… and I never gave it back."
+
+"What? When did that happen?"
+
+"In third grade," Sugarcane replied curtly. "Rose kept asking for it back, but I wanted to keep it, and the longer I kept it the more scared I was of giving it back."
+
+"Why didn't you just buy an identical one for yourself?"
+
+"I bought that in Moreland," Rose said. "It's not sold anywhere in Bauhinia. Anyways, I wanna leave now so one last question." She stood up and pointed a finger at me. "Why is your name Truffle now?"
+
+"I, um, I —"
+
+"Some fancy little Spy School bullshit?"
+
+"Well…"
+
+"It's none of your business," Sugarcane cut in.
+
+"It *is* because I like that Jelly girl a lot."
+
+"Fine," Sugarcane said. "Please refer to her as Truffle if Jelly ever brings it up. She also knows me by the name of Spotty." Her head was bowed, not daring to meet Rose's gaze.
+
+"That works for me, as long as you don't piss me off again," Rose said. "See? I can be reasonable!"
+
+She got up and left, holding Carrots in her hand.
+
+Sugarcane was silent for a while. She walked over to her favorite bench and sat down, crossing her legs. I joined her.
+
+"Well," she said. "This is it."
+
+"Sugarcane, can you explain to me what had happened?"
+
+"You saw it," Sugarcane shrugged apathetically. "Can you give me a moment, please?"
+
+"Sure," I said. Sugarcane sighed again.
+
+We sat in silence for a while. Finally, Sugarcane opened her mouth. "I'm sorry for lying to you this whole time. Rose might be really mean to people she doesn't like, but she's not a bad person like I've led you to believe."
+
+"So it was all because of Carrots."
+
+"Yes. I didn't want to give her up, but I also wanted friends. That was why I kept you away from Rose and everyone else."
+
+"Well, thanks for telling me," I said. "I'm going home now. I told Jelly to meet up at the playground tomorrow and go to the park together, so see you there."
+
+I left too, leaving Sugarcane sitting alone.
 
 ---
 
-When I reached Sugarcane's apartment, I hurried up the stairs to her door. I gave a cursory greeting to her parents, and we shut ourselves in her room.
+"It's quite early. I haven't even started making dinner yet," Mom said as I arrived home. "You had fun?"
 
-"Any ideas?" Sugarcane said as we sat down on her bed. "To get her passport?"
+"I'm tired," I said. "I want to take a nap."
 
-"Um, not really."
+"It's too late. It's almost time for dinner," Mom said with zero self-awareness. "If you sleep right now you won't be able to sleep at night."
 
-"Well, think. I really want to have a shot this weekend, so we'll have to come up with a plan before then. I would've started talking about it yesterday, but there was the whole thing with the knife and, you know."
+"Call me when dinner is ready." I headed to my room and closed the door.
 
-"Yeah, I know." I sighed a little, but my mind started to race. But it was a little hard to come up with two genius ideas in succession. Besides, my idea was for improving friendship. This one was pure deceit.
+Forty-five. It had always been forty-five. I lay on my bed and rubbed my temples.
 
-"Her passport would usually be with her dad," Sugarcane said. "She has no reason to take it out at random."
+We had been learning memorization techniques in tradecraft class. One of them was association. We were taught to remember things by associating them with things we were familiar with.
 
-"So… how can we create a situation where she needs to present her passport?"
+Of course, the list I chose was the order of Sugarcane's plushies. I could recite them forward and back, and it was long enough to contain all they might test us on.
 
-"Yes," Sugarcane nodded. "And an excuse for one of us to handle it."
+Order of the planets? Imagine Carrots, the little brown bunny, holding a little Mercury. Next was Slushy the white and gray husky dog, with Venus. Joy, the pink flamingo, balancing our Earth on her beak… I had never failed a single test with them.
 
-What situations could there possibly be? In my mind, passports were only ever used at the border.
+But now, Carrots… the order was all messed up. I couldn't imagine Carrots not at the start of the list.
 
-"We take her to visit Fanton, maybe?" I offered.
+I shook my head. Why was *that* what I was worried about the most? The order didn't matter! I could use Carrots for a stupid mental list whenever I want!
 
-"Um. That would be a bit too much," Sugarcane said. "Maybe as the ultimate fallback. Something doable in Flower City in a single day, preferably."
+The problem was that… had my friendship with Sugarcane all these years been built on a stolen plushie?
 
-I thought towards things that required ID cards for me. Opening a bank account? Buying plane tickets? Those sounded as reasonable as taking her to Fanton.
+*None of this had involved you at all, but you still decided to pick a side,* Rose had said.
 
-"…We get her in trouble and the police wants to see her passport?" Sugarcane was saying. "No way. That's stupid."
+Yeah, she was right. For years and years all I did was what Sugarcane did. I agreed with everything Sugarcane agreed with, and disliked everything Sugarcane disliked.
 
-Suddenly, a thought crossed my mind. "The Bauhinia Tower Park," I said.
+Where had that gotten me? Sugarcane definitely didn't feel the same way about me. She had her own goals and ambitions. She planned to make new friends in middle school. She was dead set on joining the MSS. What about me? Would I join the MSS just to be with her? To be her shadow while she shone?
 
-"You're right!" Sugarcane said. "The park requires an ID to enter!"
+Surprisingly, another voice started ringing in my skull. *I like you more than Spotty.*
 
-"We'll invite her there, tell her that she needs her passport, and you'll grab all of our IDs to buy tickets for all of us," I jumped up from her bed and paced around the room. "This is perfect!"
+The mission. Right! I knew what to do now. I could do well on the mission. I could prove to be a great friend to Jelly, and I could do it without Sugarcane.
 
-"I'm doing most of the work again?" Sugarcane raised an eyebrow teasingly.
-
-"Well," I said, "I have another idea of my own that I need to do."
-
-"What is it?" Sugarcane asked.
-
-"You know how Jelly likes Biology, right? The ant farm proved that pretty well."
-
-Sugarcane nodded.
-
-"Remember when we each raised a little tadlet for school? I just looked it up on the way here. In Westavia they don't do that. Tadlets aren't really popular."
-
-Sugarcane's eyes widened, guessing what I was about to say.
-
-"So I figured I'd give her a tadlet. She might like it."
-
-"That's really sweet," Sugarcane said.
-
-The initial pride wore off, and a wave of anxiety hit me. "What if she doesn't like it then? What if she hates it and starts to hate me too?"
-
-"Come on," Sugarcane said. "I'm sure she'll understand the sentiment. You've seen her. She's no Rose."
-
-"Alright," I took a deep breath and forced myself to calm down.
-
----
-
-The plan was for me to go on Saturday morning, presenting the tadlet. Alone. And I would invite her to the park on Sunday, giving her enough time to get her passport. After a week of strained relationship with my parents and buns for dinner, I was dying to meet Jelly again.
-
-I had wanted Sugarcane to come with me. Why shouldn't she? But she insisted that it was my gift to give. I walked into the park holding a bag with a little tadlet box inside.
-
-However, nothing could've prepared me for what I saw.
-
-Rose. Sitting with Jelly. At the chess table. Talking to her.
-
-What could they possibly be talking about? *How was Rose here??*
-
-Jelly saw me before Rose did, and waved happily. Under any other circumstances I would be delighted.
-
-"Truffle!" She said. "Come over here!"
-
-Rose shifted her attention to me, too. "Oh, *Truffle*!" She said. "It's such a surprise! Truffle and I went to the same elementary school," she said to Jelly.
-
-"What a coincidence!" Jelly said. "Now we can *all* be friends!"
-
-No, no, no. We could not!
-
-"Hey, *Truffle*," Rose said. "Not sticking to Sugarcane's butt for once, huh?"
-
-"Who's Sugarcane?" Jelly asked.
-
-"Sugarcane was also a classmate of ours," I cut in before Rose could answer for her. "But I hadn't seen her since starting middle school."
-
-"Really," Rose said, in a deliberately teasing tone.
-
-"People grow apart," I said.
-
-"When did you get all philosophical?"
-
-"It's just an observation," I said. "What are you doing here?"
-
-"Have a seat," Jelly said, patting the stool near her, but I remained standing.
-
-"Just chatting with a friend," Rose said. "You know her?"
-
-Jelly nodded excitedly. "Truffle and I just met last week! It's amazing, how small the world is! You make two friends and more start appearing!"
-
-"Two friends?" Rose asked. "Who is the second?"
-
-"Her name is Spotty! She's friends with Truffle."
-
-"Huh," Rose side-eyed me.
-
-"Jelly, stop talking to her," I said.
-
-"Why?" Jelly asked.
-
-"Because she'd been really mean to me and Sugarcane in elementary school," I said. "She would tell all the other kids to not play with us."
-
-"So *that's* the story you're going with now, huh?" Rose said. "No more 'we won't hang out with *you* because we're *better*'?" She turned to Jelly. "Truth is, there's been a misunderstanding between me and them. Truffle and Sugarcane. For years! Can you believe that? And now I plan to settle it while we're still here. Before we went to high school, at least. After that, I hope we can be great friends!"
-
-No. Rose cannot be friends with Jelly! And I promise *this* time I wasn't just being possessive! Rose knew our real names, but we couldn't tell her about our mission. I didn't know why she was playing along and calling me "Truffle" right now, but with the way this conversation was going, I could *not* have Sugarcane, Jelly, and Rose be in the same place.
-
-"No, Rose," I said. "Stop it already!"
-
-"Stop what? Trying to talk things out?"
-
-"You had *plenty* of chances to talk things out." The tadlet probably needed air soon.
-
-"Had I? That friend of yours *never* gave me any. And now that I *finally* caught you not taped to her ass," she stood up and leaned closer so that Jelly wouldn't hear us, "tell her to meet me at the usual playground and *bring the thing*."
-
-"Bring *what* thing?"
-
-"She'll know," Rose said. "It's pitiful, really," she shook her head. "That none of this had involved you at all, but you still decided to pick a side not even knowing what the battle was about."
-
-"What?" I was genuinely confused. Did something go on between Sugarcane and Rose that I didn't know about? How could that be possible?
-
-"That's what I'm talking about. Don't worry. Just pass the message on. And oh, by the way," Rose said, "I don't know what this whole 'Truffle' thing is about, but considering you're attending Ministry Affiliate, I suppose you wouldn't really want Jelly to know your real name."
-
-On that note, she left me and Jelly alone.
-
-"Why did you drive her away?" Jelly asked, tilting her head.
-
-"She had somewhere to be," I said. "Also, I would advise you to stay away from her."
-
-"Why? She seemed really nice when she talked to me."
-
-"Because…" I took a deep breath. Listing and re-listing everything bad about Rose had been one of our favorite pastimes. Things I could tell Jelly was far too numerous to count, but I didn't want to waste any more time on Rose. "Just for a quick example. Whenever we wanted to buy, say, a comic book, she made sure to tell as many people as possible to buy the same issue, so it would be sold out by the time we get there. Also, Sugarcane has a *lot* of plushies. And Rose would constantly suggest that she didn't buy all of them, but rather stole them."
-
-"That does sound mean," Jelly said. "I guess she was just faking being nice back there?" She buried her face in her arms. "And I thought I was about to get a new friend. How silly of me."
-
-"Speaking of new friends," I said, seizing the opportunity, "I got you this."
-
-I took out the tadlet box from the bag. Jelly gingerly accepted it, and when she read the label, her eyes went wide.
-
-"A tadlet? You got me a *tadlet*? Oh my oh my I've *always* wanted a tadlet! Thank you! Thank you!! I've been begging papa for years and years but he always said they die too quickly and then I'd be sad and would demand a new one but I… Well, I *would* demand a new one."
-
-"Eh," I laughed, "it's not like they're expensive."
-
-Jelly set the box down on the chessboard and lifted the cover, carefully tearing along the dotted line. Inside was a tiny, ugly gray worm resting on a mountain of grain, its wings just small lumps on its sides, and its little horn barely a thorn on its head. On the inside of the lid was a set of caretaking instructions. The familiar tadlet lifecycle graph was crudely printed on it, showing the four stages: egg, tadpole form, cocoon, and finally adult form.
-
-"Feed grains," Jelly read. "One month to metamorphosis. One week in cocoon!"
-
-She watched as the tiny, ugly tadpole squirmed among the grain pile.
-
-"You need to change the grains and clean the box every two to three days," I told her.
-
-"What's this gonna be?" She asked. "A dog? A cat?"
-
-"You'll have to wait until it finishes metamorphosis," I said. "There's no way to know beforehand. And that's part of the fun!"
-
-"Can they be anything other than dogs or cats? When I look up tadlets online, all I see are those two."
-
-"Those are the most common," I said. "Other types are possible, too. Just rare."
-
-"Are there ant tadlets?"
-
-"Uh, I don't know about that, honestly. Maybe?" I imagined an ant the size of my hand, with wings and a horn. "Usually the animal a tadlet looks like would have a tail. But I wouldn't assume there could be limitations."
-
-"How do they turn into other animals, anyways?"
-
-"They're still tadlets. They just *look* like other animals after their metamorphosis." I remembered a line from either the teacher or the textbook back in third grade: *These little creatures have surprised generations of kids by turning into all sorts of animals post-metamorphosis.*
-
-"I'll take good care of it. Thank you!" Jelly said again, holding the box in her hands like treasure. "Can you keep a secret?"
-
-My ears perked up. "What is it?"
-
-"Promise you'll keep it first!"
-
-"I promise," I said, dying to find out.
-
-"I like you more than Spotty," Jelly smirked. "I mean, of course I like Spotty. But I just like you a *little* better, okay? A little bit! Which is to say, you're my favorite friend!"
-
-"Oh, that's…" I was at a loss of what to say. "Thank you, Jelly. And I promise to not tell anyone else."
-
-"Where's Spotty, anyways?"
-
-"She has a bit of homework to finish," I told her. "I actually have to leave soon, too."
-
-"Oh," Jelly's head dropped. "Will you be here tomorrow, then?"
-
-"Of course! And we kind of want to go somewhere else, if you're fine with that."
-
-"Where?" Her eyes lit up again.
-
-"The Bauhinia Tower Park," I said. "Have you been there before?"
-
-Jelly shook her head. "What's in there?"
-
-"It's just a park," I said. "There are a lot of snack vendors though, and we get to see the Bauhinia Tower. We can meet up here and go by subway."
-
-Jelly nodded furiously.
-
-"One more thing," I said. That was the important part. "You need an ID to get in the park."
-
-"My passport?" Jelly asked.
-
-"If possible, yes." Come on, why did I say "if possible"?
-
-"I'll ask papa for it!" Jelly said.
-
-"That's great. See you then?"
-
-"See you!" Jelly waved as I left.
+Starting tomorrow at the Bauhinia Tower Park.

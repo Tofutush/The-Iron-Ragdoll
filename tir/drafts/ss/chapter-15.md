@@ -1,277 +1,273 @@
 ---
-chNum: 14
+chNum: 15
 ---
 
-I went to Sky's office first thing in the morning, skipping the morning study hall. Most of the teachers aside from Sky weren't present, which was for the better.
+Steamed buns for dinner again.
 
-"Harmony?" Sky asked. "What is it?"
+"I'm going to Sugarcane's tonight," I said.
 
-"Can… Can I talk to you, please?"
+"Again?" Mom asked.
 
-"Of course!" Sky pulled out a folding chair. "What do you want to talk about?"
+"Yeah," I said. *And that's final,* I tried to imply.
 
-I took a deep breath. "What did my dad say last night?"
+"Actually," Mom said, "I think we as a family aren't doing enough family activities together."
 
-"I'm not at liberty to divulge," Sky shook his head.
+I sighed.
 
-"Oh," I said, disappointed.
+"What if we…" she tapped her chin, mind undoubtedly cycling rapidly through the most boring things that ever existed. "… Watch a movie?"
 
-"Is that all?" Sky asked. "You still look like you have a lot on your mind."
+"No."
 
-"Well," I started, "did I really get a nine out of a hundred on the entrance exam?"
+"We can watch *Talking Animals With Non-Biological Colors 5*!"
 
-"What?"
+"That's for babies," I said.
 
-"My parents told me I got a nine out of a hundred."
+"What about *Literary Film of a Man Who Cheated On His Wife*, then? I heard it's very critically acclaimed."
 
-Sky looked at me for a good old second. "We never told your parents your scores."
+"A man who — what?"
 
-"So you *did* grade it."
+"Do you want to play *Stickman* —" Dad started.
 
-"Well yeah, smarty-pants, but the data was only shared among teachers. Besides, full marks wasn't even a hundred. It was a hundred and fifty. Harmony, your parents must've made that up. You didn't do *that* badly."
+"I do *not*," I snapped. "The game is stupid and I have *homework* to do." I lost count of the days I spent playing that game with Dad, listening to his advice on when and how to do my homework. And after the confession by the tree last night, I had come to the conclusion that he was not exactly a model student.
 
-"So what's my actual score?"
-
-"Why do you care this much?"
-
-"I'd really like to know. Please!"
-
-Sky sighed, turned on his computer, and clicked open a folder. But right before the folder covered up half the window, I caught a glance of another folder beneath it, full of images of what seemed like words written on many pieces of tissue paper. What was *that* about?
-
-Sky's cursor overed over a file named "entrance exam scores spreadsheet," but hesitated for a while, before closing the folder window.
-
-"You know what, I'm not telling you," Sky said. *And that's final,* he implied. "Besides, it *really* doesn't matter."
-
-Sky had left the window with all the tissue paper images open. Trying not to look suspicious, I snuck glances at them.
-
-The words were exam questions, I realized. From the entrance exam. *What's the value of* x*?* *Name the components of an atom.*
-
-The folder was titled "Evidence."
-
-Sky hit a button on his keyboard and shut the screen off. "You saw nothing," he warned.
-
-"Okay…" I said, but I still had one last question. "Mr. Sky, did you recruit me to the school just to get Sugarcane here?"
-
-"What?"
-
-Well, maybe I had a penchant for asking all the questions Sky would go "what" at.
-
-"When you went to Sugarcane, she said that she wouldn't attend unless *I* also went."
-
-"I think she did say something like that, yes," Sky scratched his chin.
-
-"And then you came to *me* next. Which made me think that you got me to go just because she said so."
-
-"Harmony," Sky's voice was sounding teasy by now, like I was a stupid kid asking silly questions. Which I kind of was. "I wouldn't like a kid tell *me* what to do! We wouldn't recruit a whole 'nother kid just because one kid wanted her friend over. And the recruitment list was made long before we visited any of you. I didn't even know you were friends! And I went to Sugarcane first because she lived closer to where I live."
-
-"So… are you saying, you really *did* want me here?"
-
-"Of course!" Sky said. "*Every* student has a reason to be here. Because we see potential in you. Harmony, you're smarter than you think."
-
-That was it. All the worry, all the doubt, all faded away and I saw clarity. I *belonged* here at Spy School.
-
-The preparation bell for the first period rung.
-
-"Better get going," Sky said.
-
-As I got up to leave, he added in a low voice nearly drowned out by the bell: "by the way, if you still want to know what your father said last evening. Think about your little friend. You didn't get this from me, though!"
-
-Sugarcane? But she didn't hear — oh, wait.
-
-Cosmo. Right. Cosmo had been lie-detecting Dad the whole conversation. She heard *everything*.
-
-"Thank you," I said, and left.
-
-I spent the entire morning trying to find a good time to approach Cosmo. Finally, at lunch, I opened my mouth.
-
-"Um. Can I ask you something?" I said.
-
-"Yeah?"
-
-"What did my dad say last night?"
-
-"I wasn't technically supposed to tell anyone about it," Cosmo said, and then shrugged. "But who cares. He mostly just said a bunch of no's."
-
-"So what did they talk about?"
-
-"Sky basically just asked the same questions." Cosmo waved her chopsticks around, rolling her eyes and saying, "did you put the knife there? Did your wife? Do you know anything about it? Did your wife?" Cosmo leaned in closer. "The signal I got from your dad was really strong. A strong burst of 'he's telling the truth! Truth! Did you hear that!' It was so strong it felt artificial."
-
-"So what did you tell Sky?" I asked.
-
-"What did I tell him? I said he was telling the truth. It was getting late and I wanted to go home already. Thanks for the ride, by the way."
-
-"Then that means we still don't know who planted the knife in Harmony's bag," Sugarcane said.
-
-I sighed. I had already reached my conclusion. Not that I knew what reading other people's minds felt like, but Cosmo's description sounded a lot like Dad desperately convincing himself to hide signs that he was lying. Dad was the best liar I had ever seen.
-
-"Maybe it's Sunny," Cosmo said. "A call for help!"
-
-"Jewel is growing on you," Sugarcane rolled her eyes at Cosmo.
-
-As if the mention of her name summoned her, Jewel popped up beside us and set down her lunch tray.
-
-"I found where Sunny is," she announced.
-
-"Really?" Sugarcane and Cosmo said at the same time.
-
-I found myself listening in. I *did* want to find out what happened to Sunny, not only because the truth would make Sugarcane happy, but also… I think I just cared. A little.
-
-"Yes. I found the police station he was taken to when he was arrested. I found the police officers who arrested him."
-
-Jewel paused for dramatic effect, perhaps expecting applause. Instead, Sugarcane just asked, "and then?"
-
-"They told me that Sunny hadn't been held for more than a couple of hours before being taken away by the MSS."
-
-"MSS?" Cosmo said. "What is going on?"
-
-"Are you sure it's the MSS, and not just Sky and some other teachers in uniform?" Sugarcane asked.
-
-"The actual MSS," Jewel said. "The officers contacted them and handed Sunny over."
-
-"Why?" Cosmo demanded. "Jewel, stop the cliffhangers already!"
-
-Jewel leaned in for the dramatic reveal. "Sunny had been caught making copies of the tradecraft textbook."
-
-There was a couple seconds of silence.
-
-"What?" I asked.
-
-"You heard me," Jewel said. "He was copying stuff down from the textbook, the police found out, arrested him, and called the MSS."
-
-"Are they sure he wasn't just making notes?" Sugarcane asked. "I mean, that's not illegal, is it? I've been making notes this whole time and I copy a lot of definitions verbatim."
-
-"No, no, no," Jewel shook her head. "He'd been writing the entire book down, formatting and all."
-
-I suddenly remembered the "Evidence" folder on Sky's computer. Now that I thought about it, the handwriting *did* look a little like Sunny's, didn't it?
-
-"Um," I started.
-
-I was suddenly met with all three girls' attention. I gulped, thought about Sugarcane, and forced myself to continue.
-
-"So I went to Sky's office this morning. And he turned on his computer to show me something, but then had second thoughts about it and decided to not show me that. So he closed the window, but closing the window revealed another window beneath —"
-
-"One of you cliffhangs," Cosmo interrupted, pointing at Jewel, "and one of you rambles," directed at me. "No one can properly talk."
-
-"I'm getting to it!" I said. "So anyways, when he clicked off the window, there was another window underneath. And it was titled 'Evidence,' and it was full of pictures. And all the pictures were showing pieces and pieces of tissue paper. And they all had our entrance exam questions written on them. And the handwriting kind of looked like Sunny's. But Sky closed that window too before I could take a closer look."
-
-Now that I said this out loud, I had this feeling that Sky had intentionally let me see it. He couldn't possibly be this careless, could he?
-
-"What were you doing at Sky's?" Sugarcane asked.
-
-"Just asking a question," I said.
-
-Sugarcane looked at me with a bit of suspicion. What was *that* about? But then she put her hand on her chin and said, "tissue paper…"
-
-Maybe she was just focusing and I was thinking too much into it.
-
-"What?" Jewel asked.
-
-"Sunny had a cold on the day of the entrance exam, didn't he?" Sugarcane said.
-
-"Right!" Cosmo said. "He brought a pack of tissues into the classroom."
-
-"Sky had a look at them before he let Sunny in," Sugarcane added. "He was checking for cheat sheets, I suppose, but actually Sunny wasn't sneaking anything in. He had snuck the questions *out*."
-
-"What is the meaning of this?" I asked. "What did he even *want*? To review the questions at home?"
-
-Jewel looked at me. "They're classified," she said. "The exam questions are. And the textbook. Of course any sort of copying down would be illegal."
-
-"But *why*?" I asked. "Who even cares if these got leaked?"
-
-"State security. What else?" Cosmo said.
-
-"That, but also, my teacher told us this once," Jewel added. "It's because it's training material. Kind of like the *source* of everything enemies want to find out about us. That's why it can never be leaked out anywhere."
-
-"So where is he now?" Cosmo asked Jewel.
-
-"Well, the officers didn't know either," Jewel said. "But of course it has to be some sort of jail, right? All we have to do is to search again, but for jails instead of police stations this time."
-
-"That doesn't sound practical at all," Sugarcane said. "It wouldn't be a normal jail. And it sure wouldn't have a big sign on top that says 'MSS jail.' And the guards definitely won't let us in."
-
-"Even if…" Jewel took out her Ministry Affiliate student card and waved it at Sugarcane.
-
-"Then they'd tell our teachers we're snooping around!" Sugarcane said. "There's no point in trying to locate exactly where he is. We should be focusing on what's going to happen to him. Because I sure don't think they're gonna let him off easy."
-
-"How are we gonna do that?" Cosmo asked. "Pester Sky until he tells us?"
-
-"Heh," Sugarcane laughed. "Of course not. We look at the good, old-fashioned newspapers."
+I dumped my bowl and chopsticks into the sink and walked out the door, heading for Sugarcane's. Right before I left, though, I leaned my head back and said, "I know you planted that knife!" and shut the door immediately after.
 
 ---
 
-Turned out, newspapers had a section for court trials that took place that day. It was cramped into a small box, but was really informative.
+On the way to Sugarcane's, I pulled out my phone and did something I never thought I would do.
 
-*Eagle S. J., sentenced to 6 months for attempted robbery. Canary S. I., fined 30,026 bucks for tax evasion.*
+I opened the search engine and typed in "how to make friends."
 
-"All we have to do is look for Sunny's name, and something similar to 'stealing state secrets' or 'leaking classified material,'" Sugarcane explained. "Though I wouldn't be surprised if the trial takes a few months at least."
+The phone must also think I'm pathetic now, I thought. I did make sure to open an incognito window, so hopefully the browser didn't yet know about my patheticness.
 
-We were at a grocery store next to the subway station Cosmo went through every day to get to and from school. A little rack contained all sorts of newspapers, full to the brim, as if no one ever bought them. I wouldn't be surprised. Who reads newspapers these days?
+*Be considerate,* the first result said. (And I never read past the first result.) *Be open-minded. But most importantly, be true to yourself.*
 
-"I can keep an eye out, then," Cosmo said. "I walk past here every day."
+Well, that wasn't helpful. The whole "friendship" was based on a lie. Besides, a more pressing question was "how to get evidence of a diplomat's espionage activities through his daughter," but I wasn't about to type *that* into a search box, incognito or not.
+
+Be considerate, though…
+
+*Favorite subject Biology.* Jelly had been here for a year, and had just started middle school. There was no biology class in elementary school. It was lumped in with science.
+
+I shrugged. She had been attending middle school for a month or so by the time the file was composed. That was probably enough time to decide on your favorite subject.
+
+Caterpillar and Ant. The ant farm. Those were biological enough, I suppose. What exactly was that she liked? Just caterpillars and ants, or small creatures in general?
+
+An idea was starting to form in my head. I brought out my phone and did another search, reading the results. Satisfactory.
+
+---
+
+When I reached Sugarcane's apartment, I hurried up the stairs to her door. I gave a cursory greeting to her parents, and we shut ourselves in her room.
+
+"Any ideas?" Sugarcane said as we sat down on her bed. "To get her passport?"
+
+"Um, not really."
+
+"Well, think. I really want to have a shot this weekend, so we'll have to come up with a plan before then. I would've started talking about it yesterday, but there was the whole thing with the knife and, you know."
+
+"Yeah, I know." I sighed a little, but my mind started to race. But it was a little hard to come up with two genius ideas in succession. Besides, my idea was for improving friendship. This one was pure deceit.
+
+"Her passport would usually be with her dad," Sugarcane said. "She has no reason to take it out at random."
+
+"So… how can we create a situation where she needs to present her passport?"
+
+"Yes," Sugarcane nodded. "And an excuse for one of us to handle it."
+
+What situations could there possibly be? In my mind, passports were only ever used at the border.
+
+"We take her to visit Fanton, maybe?" I offered.
+
+"Um. That would be a bit too much," Sugarcane said. "Maybe as the ultimate fallback. Something doable in Flower City in a single day, preferably."
+
+I thought towards things that required ID cards for me. Opening a bank account? Buying plane tickets? Those sounded as reasonable as taking her to Fanton.
+
+"…We get her in trouble and the police wants to see her passport?" Sugarcane was saying. "No way. That's stupid."
+
+Suddenly, a thought crossed my mind. "The Bauhinia Tower Park," I said.
+
+"You're right!" Sugarcane said. "The park requires an ID to enter!"
+
+"We'll invite her there, tell her that she needs her passport, and you'll grab all of our IDs to buy tickets for all of us," I jumped up from her bed and paced around the room. "This is perfect!"
+
+"I'm doing most of the work again?" Sugarcane raised an eyebrow teasingly.
+
+"Well," I said, "I have another idea of my own that I need to do."
+
+"What is it?" Sugarcane asked.
+
+"You know how Jelly likes Biology, right? The ant farm proved that pretty well."
 
 Sugarcane nodded.
 
-I suddenly thought about the knife thing again. It had been constant background radiation in my mind the whole day, in fact.
+"Remember when we each raised a little tadlet for school? I just looked it up on the way here. In Westavia they don't do that. Tadlets aren't really popular."
 
-But now, learning what happened to Sunny… If Cosmo weren't there to report to Sky, would he have concluded that I did bring the knife? Would I have ended up in the same place as Sunny?
+Sugarcane's eyes widened, guessing what I was about to say.
 
-Besides, I had lied. When Sky asked me whether I had an altercation, I was thinking about my fight with Sugarcane. Cosmo must've sensed that. She frowned. I saw her frown. But she told Sky I was telling the truth.
+"So I figured I'd give her a tadlet. She might like it."
 
-"Um." I offered. Sugarcane's and Cosmo's eyes were on me. "I can check, during the weekends."
+"That's really sweet," Sugarcane said.
 
-Sugarcane laughed. "Thanks for the offer, but they don't hold courts during weekends. There's no point."
+The initial pride wore off, and a wave of anxiety hit me. "What if she doesn't like it then? What if she hates it and starts to hate me too?"
 
-"Oh," I said. "Alright then."
+"Come on," Sugarcane said. "I'm sure she'll understand the sentiment. You've seen her. She's no Rose."
 
-"But I get the sentiment. Come on, let's go home."
+"Alright," I took a deep breath and forced myself to calm down.
 
-For the first time, I also waved goodbye to Cosmo.
+---
 
-As Sugarcane and I walked home together for the first time since our fight, she asked me, "do you have any idea who might have planted the knife in your backpack?"
+The plan was for me to go on Saturday morning, presenting the tadlet. Alone. And I would invite her to the park on Sunday, giving her enough time to get her passport. After a week of strained relationship with my parents and buns for dinner, I was dying to meet Jelly again.
 
-"I think it's my parents," I told her.
+I had wanted Sugarcane to come with me. Why shouldn't she? But she insisted that it was my gift to give. I walked into the park holding a bag with a little tadlet box inside.
 
-"But didn't Cosmo say your dad was telling the truth?"
+However, nothing could've prepared me for what I saw.
 
-"That's the thing. You met my dad. He thoroughly believes there's a chip in his brain. I think that if he wants to believe something really badly, he *can* make himself really believe in it."
+Rose. Sitting with Jelly. At the chess table. Talking to her.
 
-"And fool Cosmo?"
+What could they possibly be talking about? *How was Rose here??*
 
-"I think he can."
+Jelly saw me before Rose did, and waved happily. Under any other circumstances I would be delighted.
 
-"Hmm," Sugarcane seemed to consider that for a moment. "That definitely simplifies things. I mean, it's far less dangerous than a total stranger doing it, isn't it?"
+"Truffle!" She said. "Come over here!"
 
-"I suppose," I said. "And I know their motives. They want to get me in trouble so I get expelled."
+Rose shifted her attention to me, too. "Oh, *Truffle*!" She said. "It's such a surprise! Truffle and I went to the same elementary school," she said to Jelly.
 
-"Really? Then why did they let you come in the first place?"
+"What a coincidence!" Jelly said. "Now we can *all* be friends!"
 
-I sighed. "I don't know. I mean, maybe I insisted too hard and they relented, but then later regretted it."
+No, no, no. We could not!
 
-"That's still weird, though. By the way, what question were you asking Sky this morning?"
+"Hey, *Truffle*," Rose said. "Not sticking to Sugarcane's butt for once, huh?"
 
-"It's a little embarrassing," I admitted.
+"Who's Sugarcane?" Jelly asked.
 
-"Come on; I won't judge!"
+"Sugarcane was also a classmate of ours," I cut in before Rose could answer for her. "But I hadn't seen her since starting middle school."
 
-"I know. I was just asking him whether he let me attend just to have you attend too."
+"Really," Rose said, in a deliberately teasing tone.
 
-"What?" Sugarcane said, coincidentally using the exact same tone Sky used.
+"People grow apart," I said.
 
-I sighed again. "Remember when Sky first visited me, and I went to the playground to find you?"
+"When did you get all philosophical?"
 
-"Um-hm."
+"It's just an observation," I said. "What are you doing here?"
 
-"You said that you told Sky that you wouldn't attend unless I did. And later, he came to me. So I'd been thinking that he only let me join because he wanted you."
+"Have a seat," Jelly said, patting the stool near her, but I remained standing.
 
-"Harmony…" Sugarcane considered my words for a moment. "You've been thinking that this whole time?"
+"Just chatting with a friend," Rose said. "You know her?"
 
-"Well…"
+Jelly nodded excitedly. "Truffle and I just met last week! It's amazing, how small the world is! You make two friends and more start appearing!"
 
-"I'm sure Sky had his reasons for recruiting you."
+"Two friends?" Rose asked. "Who is the second?"
 
-"That's what he told me," I replied. "This morning."
+"Her name is Spotty! She's friends with Truffle."
 
-"Exactly," Sugarcane said. "Glad that's cleared up. So, are you ready for stage two?"
+"Huh," Rose side-eyed me.
 
-"What stage two?"
+"Jelly, stop talking to her," I said.
 
-"Jelly's passport," Sugarcane smirked.
+"Why?" Jelly asked.
+
+"Because she'd been really mean to me and Sugarcane in elementary school," I said. "She would tell all the other kids to not play with us."
+
+"So *that's* the story you're going with now, huh?" Rose said. "No more 'we won't hang out with *you* because we're *better*'?" She turned to Jelly. "Truth is, there's been a misunderstanding between me and them. Truffle and Sugarcane. For years! Can you believe that? And now I plan to settle it while we're still here. Before we went to high school, at least. After that, I hope we can be great friends!"
+
+No. Rose cannot be friends with Jelly! And I promise *this* time I wasn't just being possessive! Rose knew our real names, but we couldn't tell her about our mission. I didn't know why she was playing along and calling me "Truffle" right now, but with the way this conversation was going, I could *not* have Sugarcane, Jelly, and Rose be in the same place.
+
+"No, Rose," I said. "Stop it already!"
+
+"Stop what? Trying to talk things out?"
+
+"You had *plenty* of chances to talk things out." The tadlet probably needed air soon.
+
+"Had I? That friend of yours *never* gave me any. And now that I *finally* caught you not taped to her ass," she stood up and leaned closer so that Jelly wouldn't hear us, "tell her to meet me at the usual playground and *bring the thing*."
+
+"Bring *what* thing?"
+
+"She'll know," Rose said. "It's pitiful, really," she shook her head. "That none of this had involved you at all, but you still decided to pick a side not even knowing what the battle was about."
+
+"What?" I was genuinely confused. Did something go on between Sugarcane and Rose that I didn't know about? How could that be possible?
+
+"That's what I'm talking about. Don't worry. Just pass the message on. And oh, by the way," Rose said, "I don't know what this whole 'Truffle' thing is about, but considering you're attending Ministry Affiliate, I suppose you wouldn't really want Jelly to know your real name."
+
+On that note, she left me and Jelly alone.
+
+"Why did you drive her away?" Jelly asked, tilting her head.
+
+"She had somewhere to be," I said. "Also, I would advise you to stay away from her."
+
+"Why? She seemed really nice when she talked to me."
+
+"Because…" I took a deep breath. Listing and re-listing everything bad about Rose had been one of our favorite pastimes. Things I could tell Jelly was far too numerous to count, but I didn't want to waste any more time on Rose. "Just for a quick example. Whenever we wanted to buy, say, a comic book, she made sure to tell as many people as possible to buy the same issue, so it would be sold out by the time we get there. Also, Sugarcane has a *lot* of plushies. And Rose would constantly suggest that she didn't buy all of them, but rather stole them."
+
+"That does sound mean," Jelly said. "I guess she was just faking being nice back there?" She buried her face in her arms. "And I thought I was about to get a new friend. How silly of me."
+
+"Speaking of new friends," I said, seizing the opportunity, "I got you this."
+
+I took out the tadlet box from the bag. Jelly gingerly accepted it, and when she read the label, her eyes went wide.
+
+"A tadlet? You got me a *tadlet*? Oh my oh my I've *always* wanted a tadlet! Thank you! Thank you!! I've been begging papa for years and years but he always said they die too quickly and then I'd be sad and would demand a new one but I… Well, I *would* demand a new one."
+
+"Eh," I laughed, "it's not like they're expensive."
+
+Jelly set the box down on the chessboard and lifted the cover, carefully tearing along the dotted line. Inside was a tiny, ugly gray worm resting on a mountain of grain, its wings just small lumps on its sides, and its little horn barely a thorn on its head. On the inside of the lid was a set of caretaking instructions. The familiar tadlet lifecycle graph was crudely printed on it, showing the four stages: egg, tadpole form, cocoon, and finally adult form.
+
+"Feed grains," Jelly read. "One month to metamorphosis. One week in cocoon!"
+
+She watched as the tiny, ugly tadpole squirmed among the grain pile.
+
+"You need to change the grains and clean the box every two to three days," I told her.
+
+"What's this gonna be?" She asked. "A dog? A cat?"
+
+"You'll have to wait until it finishes metamorphosis," I said. "There's no way to know beforehand. And that's part of the fun!"
+
+"Can they be anything other than dogs or cats? When I look up tadlets online, all I see are those two."
+
+"Those are the most common," I said. "Other types are possible, too. Just rare."
+
+"Are there ant tadlets?"
+
+"Uh, I don't know about that, honestly. Maybe?" I imagined an ant the size of my hand, with wings and a horn. "Usually the animal a tadlet looks like would have a tail. But I wouldn't assume there could be limitations."
+
+"How do they turn into other animals, anyways?"
+
+"They're still tadlets. They just *look* like other animals after their metamorphosis." I remembered a line from either the teacher or the textbook back in third grade: *These little creatures have surprised generations of kids by turning into all sorts of animals post-metamorphosis.*
+
+"I'll take good care of it. Thank you!" Jelly said again, holding the box in her hands like treasure. "Can you keep a secret?"
+
+My ears perked up. "What is it?"
+
+"Promise you'll keep it first!"
+
+"I promise," I said, dying to find out.
+
+"I like you more than Spotty," Jelly smirked. "I mean, of course I like Spotty. But I just like you a *little* better, okay? A little bit! Which is to say, you're my favorite friend!"
+
+"Oh, that's…" I was at a loss of what to say. "Thank you, Jelly. And I promise to not tell anyone else."
+
+"Where's Spotty, anyways?"
+
+"She has a bit of homework to finish," I told her. "I actually have to leave soon, too."
+
+"Oh," Jelly's head dropped. "Will you be here tomorrow, then?"
+
+"Of course! And we kind of want to go somewhere else, if you're fine with that."
+
+"Where?" Her eyes lit up again.
+
+"The Bauhinia Tower Park," I said. "Have you been there before?"
+
+Jelly shook her head. "What's in there?"
+
+"It's just a park," I said. "There are a lot of snack vendors though, and we get to see the Bauhinia Tower. We can meet up here and go by subway."
+
+Jelly nodded furiously.
+
+"One more thing," I said. That was the important part. "You need an ID to get in the park."
+
+"My passport?" Jelly asked.
+
+"If possible, yes." Come on, why did I say "if possible"?
+
+"I'll ask papa for it!" Jelly said.
+
+"That's great. See you then?"
+
+"See you!" Jelly waved as I left.

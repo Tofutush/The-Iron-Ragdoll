@@ -1,277 +1,293 @@
 ---
-chNum: 9
+chNum: 10
 ---
 
-"What is going on back there?" Jewel came back to see the splatter of my blood on the ground. "Damn." And then she noticed Sugarcane and Cosmo.
+I could count on one hand the number of times Sugarcane and I fought.
 
-"Sunny!" Sugarcane said, "stop panicking! Find a place to steady your feet!"
+The first time was in third grade, soon after we first became friends. We wanted to hang out after school. Sugarcane wanted to invite me to her apartment, but I wanted to play in the playground near both of our homes. There was a bit of yelling in the classroom as we made our decisions. We ended up going to the playground, but Rose was already there, taking over the whole place. She didn't even live nearby.
 
-"I can't find any!" Sunny shouted.
+Thinking back, Rose probably overheard us, which was why she knew we were going there.
 
-"If you stop panicking, you can," Sugarcane said.
+I thought we could play with Rose, but soon it became apparent that she was there just to prevent us from having fun. We ran away, tails between our legs, to Sugarcane's home.
 
-"How far away is the ground?" Jewel asked.
+"Told you," she said as we put our bags down in her room.
 
-"I don't know!" Sunny yelled back. At the same time, Sugarcane said, "a couple meters, maybe three."
+"Told me what?" I said, a little more accusatively than I meant.
 
-"Just drop him, then," Jewel said. "And he can come back up the way we just came."
+"That we should've just come here in the first place!"
 
-"What? No!" Sunny somehow sounded less panicked. Maybe he was tired.
+Alright, that wasn't too much of a fight, but from then on I remembered to always listen to Sugarcane, because she was always right.
 
-"Why not? It's not too tall, and the cliff is sloped. Just slide down."
+Another time was in fifth grade, when I insisted on helping her clean up the classroom. Her partner that day reported it to Rose. The very next day, rumors of Sugarcane being lazy and useless went flying. I tried helping her with the cleanup again that evening, and she told me to leave. I tried taking the broom from her hands, and we started doing some sort of a tug-of-war and even *laughed*, until the broom handle came off and she told me to never even consider helping her with cleanup ever again.
 
-"It's not super sloped," Cosmo said. "I wouldn't have dared to jump down."
+"Okay," I said, "but you also have to promise to not help *me* do *my* cleanup."
 
-"But that's the only way," Jewel said. "We're not strong enough to pull him up. Unless one of us has superstrength. I know I don't."
+The next semester we happened to get assigned together. We laughed and played around and still got the work done. Cleanup duty used to be boring and tiring, but I found myself looking forward to them.
 
-Sugarcane and Cosmo shook their heads.
+Sugarcane made everything better.
 
-"Harmony?"
-
-It took me a while to register that Jewel was asking if I had superstrength. I shook my head as well.
-
-"See?" Jewel said. "Sunny, you'll have to try it. Or we can stall until we run out of strength and drop you anyways."
-
-"I can come with you," Sugarcane said.
-
-Wait, what?
-
-"What?" Sunny seemed to share my confusion, though for different reasons.
-
-Still holding onto Sunny's arm, Sugarcane threw one leg over the ledge, and then the other, until only her hand was grabbing hold.
-
-"We'll slide down together," Sugarcane said. "Cosmo, you can let go of his other hand."
-
-Cosmo did as instructed, and Sugarcane's hand disappeared over the cliff. Sunny started screaming again, but soon stopped.
-
-I heaved myself up and looked over the ledge. Sugarcane and Sunny were at the bottom, about four to five meters down, sitting in a bush.
-
-"We're fine!" Sugarcane called out to me. "Don't worry!"
-
-"I nearly died," Sunny was clutching tight on Sugarcane's arm. "I saw God."
-
-"That's *Sugarcane* you saw," I found myself snapping.
-
-"Thanks, Harmony," Sugarcane smiled. "We'll be here soon. I think the car path that went down led here, so if we follow that back up we would be at the intersection. Come on, Sunny."
-
-She started walking, dragging with her Sunny, who was still holding onto her arm.
-
-"I'm going to head into the cave," Jewel said. "But it's pretty dark in there. Mind if I borrow one of your flashlights, Harmony?"
-
-"Sure," I said. "I'll wait for them here."
-
-Cosmo went with Jewel, which was great. I needed some time alone to process what had just happened.
-
-So I tripped and fell on my face, and soon after, Sunny fell off the ledge. But Sugarcane decided to help Sunny, instead of *me*?
-
-I get it, my situation wasn't as serious as Sunny's or whatever, but it still hurt to think that Sugarcane was so quick to rescue Sunny, even getting so far as to slide down the cliff *with* him, instead of just letting go like Jewel instructed!
-
-Why did she do that? Were we not friends anymore?
-
-I got a piece of tissue paper out of my bag to wipe the blood off my face as I waited. Soon, Cosmo and Jewel came back.
-
-"The clipboard is a little bit far in," Jewel said. "Are they here yet?"
-
-"No," I said. I wanted them to leave me in my own contemplation for longer, but as soon as I said that, Sugarcane and Sunny appeared on the other side.
-
-"Sorry about that," Sugarcane said.
-
-Sorry? She had nothing to be sorry about. It was *Sunny* who should apologize!
-
-"Sorry," Sunny also said, which annoyed me because I couldn't be mad at him for not apologizing anymore, and that made me mad.
-
-"Just get to the cave already," Jewel said. She and Cosmo led us to the cave. A red arrow was painted on the wall, confirming that this was the right place.
-
-The cave was quite deep, and I was pretty sure I heard a couple bats flying overhead. Jewel strode at the lead, flashlight in hand, until the tunnel opened up into a cave, with a single clipboard on the ground and a pen attached to it.
-
-"Here," Jewel picked the clipboard up and handed it to Sugarcane. Sugarcane passed it to me, and as I signed, I saw that there were still fewer than twenty names on there. A lot of people would have to complete this next year.
-
-I passed the clipboard, reluctantly, to Sunny, who passed it to Cosmo, who wondered out loud, "I wonder what would happen if we simply just stole this."
-
-"Cosmo, there are cameras and microphones in here," Jewel said.
-
-"Can the cameras even catch anything, when it's so dark?" Cosmo said.
-
-"The microphones sure can," Jewel snapped back. "We all got our names? Let's get the fuck out of here."
-
-We filed out of the cave, back into the sunlight. "What time is it?" I asked Jewel.
-
-"Three," she replied.
-
-"What happens if we don't get back on time?"
-
-"I don't want to find out," Jewel rubbed her temples and shook her head. "Sorry, but I *really* don't want to be here for a third time."
-
-"I get it," Sugarcane said. "Let's get going, then."
-
-I couldn't bring myself to be mad at Jewel's irritation, because she had been such a great help to us, and I couldn't imagine doing this assignment again next year. But it was still jarring to see her being so visibly annoyed at us, and Sugarcane comforting her, instead of snapping at her, like she would've done with Rose and her disciples.
-
-We made a beeline for the south, Jewel leading the way with the watch trick Sugarcane taught her. There were a *lot* more fallen branches on the ground.
-
-"It must be a nightmare to clean these up," Sunny said, looking at the branches.
-
-"Who cares?" Jewel said. "They blew them up in the first place."
-
-It occurred to me that Jewel didn't need us at this point. She had the watch. She could've just gone ahead herself. But she still stayed with us.
-
-But maybe she just thought she might still need us.
+But now, she might have other friends.
 
 ---
 
-The return trip felt much shorter now that we knew where we were going. We saw the gray block of the antechamber at four thirty.
+Speaking of other friends, Sunny did not come to school today. The seat next to Cosmo and behind Sugarcane was empty.
 
-"Finally!" Sunny said, raising a fist like he had contributed anything at all to the task.
+Sugarcane thought he might just be late, but by the afternoon, it was clear that he really was absent.
 
-"What if they'd left without us?" I said.
+"Is Sunny sick?" Cosmo asked Sky as we finished a really confusing tradecraft period about cover stories.
 
-"Let's find out then," Sugarcane pushed the door open and went in.
+"Just a second," Sky said to her, and then turned his volume up to address the class. "No politics for today, but please stay in the classroom! I will be there." He turned back to Cosmo. "What is it?"
 
-There were only about a dozen people there, most sitting on the ground, chatting or snacking. Blackjack was not present.
+"Is Sunny sick?" She repeated.
 
-Thunder was sitting on the only chair, Cosmo's backpack by his feet. He stood up as we entered.
+"…No," Sky said, as if he thought about lying but decided against it, remembering what Cosmo could do.
 
-"Here," he handed the bag to Cosmo.
+"Why isn't he here, then?"
 
-She slung the bag over her shoulder. "Where's Blackjack?"
+"He… won't be coming to school anymore."
 
-"Blackjack?"
+"I can tell you're hiding something," Cosmo said sternly.
 
-"The teacher."
+For a split second, Sky glared at her. It was the first time I had even seen him display anything but affection towards his students. But again, it was also the first time I had seen anyone talk back to him. The glare was gone as soon as it came, replaced by a tired but gentle face.
 
-"Oh!" Thunder's eyes lit up. "So *that* was what you were talking about! I was so confused. I thought you were talking about like, the rules of the game Blackjack."
+"Talk to him yourself if you want to," he said. "I will be answering no more questions."
 
-"So where *is* she?" Cosmo asked.
+Sugarcane looked at Cosmo, and Cosmo looked back at Sugarcane, and for a while they stayed like that.
 
-"She's collecting anyone who's still out there. She told us to wait here."
+"Do you have Sunny's contact info?" Sugarcane broke the silence. Between them, at least; the classroom during recess was noisy.
 
-"Fine." Cosmo picked an empty patch of ground and sat down. We joined her.
+"No. I was hoping you'd have it."
 
-Sugarcane laid on the ground, using her bag as a pillow. "I can't wait to go home," she said. "One weekend wasted on whatever this is. What even is the point?"
+"Who else could have it?"
 
-"Something something teamwork something," Cosmo mumbled.
+"Sky," Cosmo said, "but I doubt he would just give it to us."
 
-"I thought we would be fighting bears," Sugarcane said. "Lucky that we don't have to, though."
+"Plus, he would probably only have Sunny's parents'," Sugarcane added.
 
-Me too! I also thought we had to fight bears or something. We were so alike. So why weren't we friends anymore?
+"It's P.E. next," I said, desperate to get their minds — or rather, just Sugarcane's mind — off Sunny. So what if he didn't show up for a day? He would probably be back tomorrow like nothing happened.
 
-"I would literally faint and die if I saw a bear," Sunny said.
+"Yeah," Sugarcane nodded. "Let's get out."
 
-"You nearly already did, just from a three-meter slide," Sugarcane said back, though in a teasing tone, like she was joking with Sunny.
+It was cloudy today, which made for a great P.E. period. Blackjack stood at her usual spot, still under the banyan tree, even though it did not provide any special shade now that most of the ground was shielded from the sun.
 
-"Hey!" Sunny said. He looked around. "Anyways, where's Jewel?"
+"Excellent wilderness survival —" Blackjack said, and the preparation bell started ringing.
 
-"Jewel?" Sugarcane called out.
+"Excellent wilderness survival last weekend," she repeated as the bell ended. "Most of you passed. Some may have to redo it next year. Some of you even defeated me and got the extra credit!"
 
-"Huh?" Jewel was on the other side of the room, sniffing the wall.
+Blackjack actually *smiled*. I didn't know she was capable of doing that. What was it with teachers and weird facial expressions today?
 
-"Um… What are you doing?" Sunny asked.
+"You must be really tired."
 
-"Looking for a hidden door," she answered. "Come here, Sunny. You're the club member."
+"No shit," Sugarcane whispered to me, and I giggled.
 
-"Okay," Sunny said, bounding over to Jewel. "What hidden door?"
+"As a reward to all of you — yes, even the ones who failed — have a free period today. You are dismissed."
 
-"Leading to the room with the camera feed," Jewel said. "There must be a room here where they watch and listen to us."
+Free time! This was it. My chance to talk to Sugarcane. Just the two of us.
 
-"Oooh," Sunny said. "I never thought of that."
+"The *one* day the sun isn't out to kill us," Sugarcane said as soon as we walked out of Blackjack's earshot.
 
-"Oh, right!" Cosmo jumped up. "When I first got here, I felt like the building was bigger on the outside."
+"Sugarcane!" Cosmo caught up to us. "Won't Jewel have some sort of contact info for Sunny? He's in the Investigators club, after all."
 
-Cosmo too. She had a *nickname* for Sugarcane. It was almost as if *they* were friends, instead of *us*. Sugarcane and I. The only real friends. Unlike Rose and all her fake friends. But now, the fact had turned questionable.
+…And there it went.
 
-Sunny immediately ran out to check. A moment later, he came back. "You're right! There's definitely a secret room," he said.
+"You're right!" Sugarcane said. "Which class is Jewel in?"
 
-"I never got to look closely last year, and I definitely won't be back again, so this is my only chance," Jewel said as we went back in. "Watch and learn."
+"Grade eight," Cosmo said. "There are only five classes in each grade, right? Not that many to check. You coming?"
 
-She traced her hand over the dusty cement wall, walking from this side to the next. Sunny followed close behind, mimicking her movements, though I didn't really know what they were looking for. Bumps in the wall? But nowhere on the wall was even smooth. Bumps were everywhere.
+"Of course," Sugarcane said. "Harmony?"
 
-They were plastered to the wall like this when Blackjack walked in with the rest of the students.
+"Huh?"
 
-"What are you doing?" She said.
+"You coming to look for Jewel with us?"
 
-"Looking for the secret room," Jewel said matter-of-factly.
+Why did she *ask*? She should've known that I would follow her *everywhere*! I added this to my mental list of the things I needed to talk about. If only I could catch her alone. Back in elementary school, we were *always* together, alone. Why was that so hard to get now? With Sunny gone, too!
 
-"What secret room."
+"Oh, yeah, of course," I said.
 
-"The room where you monitor the cameras and microphones!" Jewel said, surprised.
-
-"Oh. I do that on my phone." Blackjack held up her phone to demonstrate. A video feed of a part of the forest was displayed on the screen.
-
-"But… the building looks bigger on the outside?" Sunny said.
-
-"Soundproof walls are thick," Blackjack said. "Now are we ready to go, or do you want me to tear the walls down?"
-
-"Sorry," Jewel said, and we all filed back into the bus. The box of phones was passed around and we all collected ours. Before we left, I took one last look at the nondescript building. Maybe there was a secret room, or maybe it was indeed just thick walls. Either way, we wouldn't be back here again.
-
-I leaned on the window and fell asleep.
+I glared at Cosmo behind her back, thankful that she didn't have full mind-reading powers.
 
 ---
 
-The bus dropped us off at school, and Sugarcane and I walked back home as usual. After waving goodbye to Cosmo and Sunny, of course. And Jewel.
+The building was neatly organized into four stories: the seventh grade on the first, eighth on the second, ninth on the third, and the teachers' offices on the fourth. We went up to the second floor, peering through every window for Jewel.
 
-We didn't talk much along the way, exhausted by the exertion and because we didn't get enough sleep last night. Well, that was part of the reason. My mind was still occupied by the uncertainty about our future, if there even was still a future left. Did Sugarcane have new friends? Did she still want me?
+Class one, didn't seem to contain a black-eared tall girl. Neither did Class two. Class three was empty save for one student.
 
-Maybe Sugarcane was quiet not because she was tired either. Maybe it was because she didn't want to talk to me anymore.
+"Maybe they've went to P.E.?" Sugarcane said. "There was another class out there, on the other side of the field."
 
-"See you tomorrow," I said as we got to Sugarcane's.
+"Let's make sure," Cosmo said. She poked her head into the classroom and said, "Hello?"
 
-She yawned and said, "have an early night."
+The lone student raised his head. "Hi?"
 
-"I will."
+"Where did your class go?"
 
-I knew I would not, and that was before I knew what was coming next.
+"P.E.," he answered. "I'm excused today."
 
-Mom had a grave expression on when she opened the door.
+"Is there anyone named Jewel in your class?"
 
-"What is it?" I asked.
+"No," the student shook his head.
 
-"Come in first. Have dinner."
+"Do you know which class she's in, then? She's in eighth grade."
 
-We had some normal food. For once, the table wasn't flooded with steam buns. Instead, I actually had rice and some really juicy fried beef.
+"I don't, sorry."
 
-Dad cleared his throat.
+"Thanks," Cosmo said, and turned to us. "Let's check class four, then."
 
-"We got your entrance exam scores back," he said.
+That was when a teacher approached us. "What are you doing here? What class are you in?" She asked.
 
-"What? They said they wouldn't grade them!"
+"Grade eight class three. Free time in P.E.," Sugarcane answered sweetly.
 
-"But of course they did," Mom said. "They told us not to tell you, but I think you deserve to know."
+I knew Sugarcane never dared lie in front of adults unless she knew she could get away with it. But we had never met this teacher before. Sugarcane was gambling on the teacher not being a mind-reader.
 
-"We're a family," Dad added. "We shouldn't keep secrets from each other."
+A low-stakes gamble. Superpowers were, after all, rare. But a gamble nonetheless.
 
-"But I don't *want* to know!" My mood had been at rock bottom today already, dealing with whatever was going on with Sugarcane. I didn't want to hear about how terribly I had failed before school even began and how I needed to transfer away.
+She was willing to risk the teacher's wrath to find Sunny.
 
-"You got a nine," Mom said. "Out of a hundred."
+"Free time should still be spent on the soccer field," the teacher replied. "Now get down there."
 
-"I think —" Dad started.
+"We're looking for a student called Jewel," Sugarcane said. "She's from another class, but we don't know which."
 
-"That I'd better get out of here before it's too late, right?"
+"Jewel…" The teacher thought for a bit. "I remember at least two Jewels in eighth grade, one in class one and another in class four. Now get down there, I mean it."
 
-"Um. Right."
+She passed us and headed into class five.
 
-I sighed. "What about Sugarcane?"
+"Well, she must be in class four, then," Cosmo said.
 
-"Auntie Snowstorm didn't tell me," Mom said. "But I mean, Sugarcane's just a smarter kid than you. There's no shame in admitting that."
+"Let's leave, like she told us to," Sugarcane said.
 
-"Shut up! I said I don't want to hear it!"
+"What? We're here already! It's right there!"
 
-I ran back to my room and slammed the door, throwing myself on the bed and burying my nose into the pillow.
+"I don't want her getting mad at us, in case she comes back out soon," Sugarcane explained.
 
-Sugarcane's voice rang in my head again.
+"Yeah," I said. "We should go."
 
-*"I told him I wouldn't attend unless you do too."*
+"Besides, we can't talk to her even if she's in there. It's better to wait until recess," Sugarcane added.
 
-This was it. Sky got Sugarcane, the kid he really wanted. Now I had overstayed my welcome.
+"That makes sense," Cosmo said.
 
-Dad was knocking on my door. "Wanna have another round at *Stickman Arena*?"
+We headed back down the stairs.
 
-"Go away!" I yelled, and went back to drowning in my own misery.
+"Where do you wanna go next?" Sugarcane asked.
 
-Time to go. Away from Sugarcane. To Flower City Middle School, I suppose. Maybe I would even end up in the same class as Rose.
+"I kinda just wanna go rest in the classroom," Cosmo answered.
 
-But surely, Sugarcane did not want me to leave either, right? Didn't she want me there? I had to stay, for *her* sake.
+Now was my chance!
 
-But do I?
+"I want to go to the restroom," I said. "Sugarcane, can you come with me?"
 
-Didn't she have new friends now?
+"Sure," she nodded.
 
-I really, really needed to know. I would talk to her tomorrow.
+"I'll head back, then," Cosmo said. We reached the bottom of the stairs and parted ways.
+
+I stood in the stall for a while, flushed an empty toilet, and came out. Sugarcane was standing idly by, but snapped to attention when she saw the door open.
+
+I washed my hands, turned off the water, and took a deep breath.
+
+"Sugarcane, can I talk to you?"
+
+"Of course!" She said, a little surprised. "Let's get out first."
+
+I would've actually preferred to talk about it in the restrooms where fewer people would be listening, but I was not about to disagree with Sugarcane.
+
+We started down the hallway back to our classroom.
+
+"Why do you care about Sunny so much?" This was different from my prepared opening statement. I improvised a bit based on the events of today.
+
+"Why wouldn't I? He just suddenly disappeared, and the teacher won't tell us why. That feels a bit suspicious."
+
+"But like, does it really matter that much? Why do *you* specifically, and Cosmo, have to be the ones to find out?"
+
+"Because we're friends? Harmony, what's gotten into you today? I felt like you're the type to do anything for your friends."
+
+For *you*. You, you, and only you.
+
+"Friends? You're *friends* with him?" I had suspected this, but it was still disheartening to hear it confirmed, coming from Sugarcane herself.
+
+"Him and Cosmo. Why? What's wrong?"
+
+The bell rung. Class had ended, and recess had begun.
+
+"But… aren't *I* your friend?" My voice was weak, even without the bell drowning it out.
+
+"Why, you're my friend too! People can have more than one friend. Are you suggesting otherwise?"
+
+Many, many friends. Like Rose and her fake friends. I could tell Sugarcane was getting impatient. Other students emerged from their classrooms, filling the hallway with their chatter.
+
+"Why would you make new friends? You never even asked me!"
+
+"Because I *need* new friends!" Sugarcane nearly yelled. We were turning heads. "I can't have a repeat of elementary school where everyone else isolated me!"
+
+*Isolated* her? She *chose* to not be friends with them because none of them were as good as me!
+
+We walked past our classroom, reached the end of the hallway, and she leaned against the wall.
+
+"Am I not good enough for you?" I asked, my voice barely above a whisper.
+
+"Not if I need *your permission* to make new friends!" She snapped, her voice dripping with the kind of vitriol I had only ever heard her use on Rose.
+
+*Am I just like Rose?*
+
+But all I wanted was a friend. Just one friend.
+
+Sugarcane was my whole life. But it seemed that I was only a little part of hers.
+
+"Just so you know," Sugarcane added, a final twist of the knife. "If you force me to choose between them and you, I would choose them."
+
+I felt tears welling up in my eyes. This was it. Sugarcane didn't want me.
+
+I'd just quit the school, then, like my parents had been telling me to do since the beginning. Because what was the point of going to the same damned school with her if we would end up separated either way?
+
+Just when the tears were about to fall, a shadow draped over us and I turned to see Sky.
+
+"Harmony! Sugarcane! Here you are. Would you both come with me, please?"
+
+---
+
+We were at the back of the classroom, a good distance from the last row of seats. It was far enough so that anyone trying to eavesdrop would look extremely obvious.
+
+I was determined to swallow back my tears in front of Sky. He was shuffling through a pile of folders in a box at the corner until he found one bearing our names.
+
+"I decided to start earlier; sorry for interrupting your recess, but there are a lot of these to go through. Now, Harmony and Sugarcane," he said. "Here it is. Your mission."
+
+I noticed a folder, identical to all the others, labeled "Sunny," but the name was crossed out and the file was marked for shredding. Looked like he really wasn't coming back.
+
+"A mission?" Sugarcane echoed.
+
+"Yes. We assigned everyone missions that you'll need to complete for the rest of the semester and over winter break, whenever you complete it." Sky opened the folder and pulled out a picture of a girl with a short, tidy haircut, with a single blue horn on her forehead.
+
+"This is Jelly Checkers. She is the daughter of Checkers, the cultural attaché of the Westavian Embassy in Bauhinia.
+
+"Checkers is a person of interest of ours. His background is a bit too clean for someone posted to Bauhinia, and he has been way too diligent and hardworking for someone whose job is essentially just an embassy mascot, as if he's trying to compensate. We put off our suspicions until now, a year after he came here. If he were an intelligence officer of the Westavian Intelligence Service, he would've started working his real job by now.
+
+"His daughter, Jelly, is the same age as you, having just started middle school. Her mom stayed behind in Westavia, and her dad is busy working every day. She doesn't have any friends here, and she's really lonely.
+
+"You two, however, are an amazing pair of friends."
+
+I guessed he didn't overhear the fight we had before he approached us. Well, good for us.
+
+"Your task is to get close to Jelly as a means of collecting incriminating information on Checkers. I will act as your handler. Your first task is to obtain a selfie of you three. Don't photoshop it; I can tell."
+
+I nodded, still processing the information. It had been, what, a little more than a month? And we were already getting our very own mission?
+
+"Please review the file before taking any action," Sky said. There was only one copy. "Sorry about that, but you're not allowed to make your own copy either. Just read it together when you both have time."
+
+"Yes, teacher," Sugarcane said, and took the file in her hands.
+
+"Remember," Sky added, "the file is confidential. Don't share your mission with anyone else. Not your classmates, not your parents. No one should know that you're even doing a mission."
+
+"But I *do* know that everyone in the grade is doing one, right?" Sugarcane asked, tilting her head at the roomful of students curiously looking our way.
+
+"Yeah, of course," Sky laughed. "But that's all you would know."
+
+"Would their missions be similar?"
+
+"Similar in difficulty, but different in content. There are not a whole ton of diplomat children running around, as you can well imagine."
+
+"Would they also have teams?" I asked. It hadn't slipped my mind that Sunny was going to be assigned an individual mission.
+
+"We make groups where we think fit," Sky said. "But for this class, you're the only group. Now go sit down."
+
+*So it was true. The teachers never trusted me to do anything without Sugarcane.*
+
+We sat down in our usual seats, right next to each other.
+
+"Cosmo," Sky said. "Come with me." And then to us: "Don't read that in *here*."
