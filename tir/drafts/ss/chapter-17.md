@@ -139,3 +139,19 @@ Of course, the list I chose was the order of Sugarcane's plushies. I could recit
 Order of the planets? Imagine Carrots, the little brown bunny, holding a little Mercury. Next was Slushy the white and gray husky dog, with Venus. Joy, the pink flamingo, balancing our Earth on her beak… I had never failed a single test with them.
 
 But now, Carrots… the order was all messed up. I couldn't imagine Carrots not at the start of the list.
+
+I shook my head. Why was *that* what I was worried about the most? The order didn't matter! I could use Carrots for a stupid mental list whenever I want!
+
+The problem was that… had my friendship with Sugarcane all these years been built on a stolen plushie?
+
+*None of this had involved you at all, but you still decided to pick a side,* Rose had said.
+
+Yeah, she was right. For years and years all I did was what Sugarcane did. I agreed with everything Sugarcane agreed with, and disliked everything Sugarcane disliked.
+
+Where had that gotten me? Sugarcane definitely didn't feel the same way about me. She had her own goals and ambitions. She planned to make new friends in middle school. She was dead set on joining the MSS. What about me? Would I join the MSS just to be with her? To be her shadow while she shone?
+
+Surprisingly, another voice started ringing in my skull. *I like you more than Spotty.*
+
+The mission. Right! I knew what to do now. I could do well on the mission. I could prove to be a great friend to Jelly.
+
+Starting tomorrow at the Bauhinia Tower Park.

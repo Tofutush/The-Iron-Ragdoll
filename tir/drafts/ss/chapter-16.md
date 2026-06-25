@@ -230,7 +230,19 @@ She watched as the tiny, ugly tadpole squirmed among the grain pile.
 
 "They're still tadlets. They just *look* like other animals after their metamorphosis." I remembered a line from either the teacher or the textbook back in third grade: *These little creatures have surprised generations of kids by turning into all sorts of animals post-metamorphosis.*
 
-"I'll take good care of it. Thank you!" Jelly said again, holding the box in her hands like treasure. "Where's Spotty, anyways?"
+"I'll take good care of it. Thank you!" Jelly said again, holding the box in her hands like treasure. "Can you keep a secret?"
+
+My ears perked up. "What is it?"
+
+"Promise you'll keep it first!"
+
+"I promise," I said, dying to find out.
+
+"I like you more than Spotty," Jelly smirked. "I mean, of course I like Spotty. But I just like you a *little* better, okay? A little bit! Which is to say, you're my favorite friend!"
+
+"Oh, that's…" I was at a loss of what to say. "Thank you, Jelly. And I promise to not tell anyone else."
+
+"Where's Spotty, anyways?"
 
 "She has a bit of homework to finish," I told her. "I actually have to leave soon, too."
 

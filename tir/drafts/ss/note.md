@@ -2,3 +2,4 @@
 	- make emotional lines clear
 		- impostor syndrome come from parents
 		- friendship line…?
+- remember to add in sugarcane's goal of joining the mss somewhere in the beginning

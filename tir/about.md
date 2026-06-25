@@ -35,6 +35,7 @@ This site and its contents is written with a mature audience in mind. It feature
 > [!info]- More detailed CWs
 >
 > Violence: state violence, mentions of torture, mentions of domestic abuse
+> 
 > Mature themes: death and grieving, murder, suicide, war
 
 It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't take it too seriously.
