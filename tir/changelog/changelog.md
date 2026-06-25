@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-25
+
+- Spoilers styling, even though spoilers are literally only used on one page;
+- Added a wee bit more CWs to [About](/about/), and lowered the "miscellaneous questions" section;
+
 ## 2026-06-21
 
 - Added `orchid peony footer.png`;

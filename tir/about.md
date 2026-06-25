@@ -41,15 +41,6 @@ It should be obvious that I do not agree with everything presented on this site,
 
 If a content is missing and you would like it added, please just [tell me](https://tofutush.leprd.space/guestbook/)!
 
-## Miscellaneous questions
-
-There's just this one for now and I don't know where else to put this.
-
-> [!question]+ What are the sexualities of the characters?
-> Everyone is aro-ace unless otherwise contradicted. That is, if they're married, or have a canon partner, etc. You're always free to headcanon though!
->
-> And no, that picture of Harmony and Sugarcane in bride and groom outfits doesn't make them partners I have headcanon rights too
-
 ## JavaScript usage
 
 This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the relationship graph, the scavenger hunt result page, and most of the [fun](/fun/) pages. It should be fine to view most other things with JS disabled.
@@ -73,6 +64,15 @@ I welcome any sort of derivative content, like fanart, OCs, and everything, as l
 CC-BY-NC-SA license applies; see the [License](#license) section!
 
 That being said, my paracosm is still something I hold dear to myself. This is not a media franchise, and should not be regarded as such. If the way you're interacting that makes me uncomfortable, I have a right to stop interacting with you. Thanks for understanding, and happy browsing!
+
+## Miscellaneous questions
+
+There's just this one for now and I don't know where else to put this.
+
+> [!question]+ What are the sexualities of the characters?
+> Everyone is aro-ace unless otherwise contradicted. That is, if they're married, or have a canon partner, etc. You're always free to headcanon though!
+>
+> And no, that picture of Harmony and Sugarcane in bride and groom outfits doesn't make them partners I have headcanon rights too
 
 ## About me
 
