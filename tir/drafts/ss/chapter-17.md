@@ -102,4 +102,40 @@ She got up and left, holding Carrots in her hand.
 
 Sugarcane was silent for a while. She walked over to her favorite bench and sat down, crossing her legs. I joined her.
 
-"Well," she said, "that was catastrophic."
+"Well," she said. "This is it."
+
+"Sugarcane, can you explain to me what had happened?"
+
+"You saw it," Sugarcane shrugged apathetically. "Can you give me a moment, please?"
+
+"Sure," I said. Sugarcane sighed again.
+
+We sat in silence for a while. Finally, Sugarcane opened her mouth. "I'm sorry for lying to you this whole time. Rose might be really mean to people she doesn't like, but she's not a bad person like I've led you to believe."
+
+"So it was all because of Carrots."
+
+"Yes. I didn't want to give her up, but I also wanted friends. That was why I kept you away from Rose and everyone else."
+
+"Well, thanks for telling me," I said. "I'm going home now. I told Jelly to meet up at the playground tomorrow and go to the park together, so see you there."
+
+I left too, leaving Sugarcane sitting alone.
+
+---
+
+"It's quite early. I haven't even started making dinner yet," Mom said as I arrived home. "You had fun?"
+
+"I'm tired," I said. "I want to take a nap."
+
+"It's too late. It's almost time for dinner," Mom said with zero self-awareness. "If you sleep right now you won't be able to sleep at night."
+
+"Call me when dinner is ready." I headed to my room and closed the door.
+
+Forty-five. It had always been forty-five. I lay on my bed and rubbed my temples.
+
+We had been learning memorization techniques in tradecraft class. One of them was association. We were taught to remember things by associating them with things we were familiar with.
+
+Of course, the list I chose was the order of Sugarcane's plushies. I could recite them forward and back, and it was long enough to contain all they might test us on.
+
+Order of the planets? Imagine Carrots, the little brown bunny, holding a little Mercury. Next was Slushy the white and gray husky dog, with Venus. Joy, the pink flamingo, balancing our Earth on her beak… I had never failed a single test with them.
+
+But now, Carrots… the order was all messed up. I couldn't imagine Carrots not at the start of the list.

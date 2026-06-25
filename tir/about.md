@@ -30,9 +30,16 @@ Also, I call "pages" in this site "files" because it sounds cool. If I said "pag
 
 ## Content warnings
 
-This site and its contents feature strong language, cartoon violence, and occasional mature themes. It's generally rated as 16+.
+This site and its contents is written with a mature audience in mind. It features strong language, cartoon violence, and mature themes. It's generally rated as 16+.
+
+> [!info]- More detailed CWs
+>
+> Violence: state violence, mentions of torture, mentions of domestic abuse
+> Mature themes: death and grieving, murder, suicide, war
 
 It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't take it too seriously.
+
+If a content is missing and you would like it added, please just [tell me](https://tofutush.leprd.space/guestbook/)!
 
 ## Miscellaneous questions
 
