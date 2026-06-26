@@ -7,6 +7,7 @@ pagination:
   addAllPagesToCollections: true
 permalink: "stories/tag/{{ tagName | slug }}/"
 parent: "story-tags"
+pagefindIgnore: true
 eleventyComputed:
   title: "Tag: {{ tagName }}"
   navTitle: "{{ tagName }}"

@@ -76,7 +76,7 @@ eleventyComputed:
 		<a href="/changelog/">Updates</a>
 		<a href="/search/">Search</a>
 	</nav>
-	<main data-pagefind-body>
+	<main {% unless pagefindIgnore %}data-pagefind-body{% endunless %}>
 		{% unless noNav %}
 			{% assign bc = collections.all | eleventyNavigationBreadcrumb: key, navOptions %}
 			{% assign length = bc | size %}
