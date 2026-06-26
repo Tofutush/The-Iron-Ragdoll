@@ -8,6 +8,8 @@ eleventyNavigation:
 ## 2026-06-26
 
 - New story, [The Starcorp Massacre](/stories/the-starcorp-massacre);
+- Added [search](/search/)! Try it!
+- Moved the "back to top" button to the footer;
 
 ## 2026-06-25
 
