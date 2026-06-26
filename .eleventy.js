@@ -19,6 +19,7 @@ import relPlugin from './_plugins/rel.js';
 import storyPlugin from './_plugins/story.js';
 import utilPlugin from './_plugins/utils.js';
 import worldPlugin from './_plugins/world.js';
+import { execSync } from 'child_process';
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -101,6 +102,10 @@ export default function (eleventyConfig) {
 		if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
 			return false;
 		}
+	});
+	// pagefind
+	eleventyConfig.on('eleventy.after', () => {
+		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' });
 	});
 	return {
 		dir: {
