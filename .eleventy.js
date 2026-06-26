@@ -106,6 +106,7 @@ export default function (eleventyConfig) {
 	// pagefind
 	eleventyConfig.on('eleventy.after', () => {
 		execSync(`npx pagefind --source _site --glob \"**/*.html\"`, { encoding: 'utf-8' });
+		execSync(`npx pagefind --source _neocities --glob \"**/*.html\"`, { encoding: 'utf-8' });
 	});
 	return {
 		dir: {
