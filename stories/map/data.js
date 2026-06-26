@@ -197,6 +197,16 @@ const data = [
     },
 
     {
+        id: "The Starcorp Massacre",
+        parentIds: [
+            
+                "The Bodyguard Show",
+            
+        ],
+        url: "/stories/the-starcorp-massacre/"
+    },
+
+    {
         id: "The Rise of Kismet",
         parentIds: [
             

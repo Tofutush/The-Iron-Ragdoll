@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en" class="light">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Search the site!">
+  <meta name="author" content="Tofutush">
+  <meta name="theme-color" content="#555555">
+  <meta property="og:title" content="Search | The Iron Ragdoll">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png" data-pagefind-meta="image[content]">
+  <meta property="og:site_name" content="The Iron Ragdoll">
+  <meta property="og:description" content="Search the site!">
+  <title>Search | The Iron Ragdoll</title>
+  <script>
+    (function() {
+      let lightDark = parseInt(localStorage.getItem('light-dark'));
+      if (lightDark === 0) document.documentElement.className = 'dark';
+      if (lightDark === 1) document.documentElement.className = 'light';
+    })();
+  </script>
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/callout.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
+  <link rel="icon" href="/The-Iron-Ragdoll/icon.ico">
+</head>
+
+<body>
+  <header style="background-image: url(/The-Iron-Ragdoll/img/htShwmOnXm-2850.webp)"><a href="/The-Iron-Ragdoll/"></a></header>
+  <nav>
+    <a href="/The-Iron-Ragdoll/about/">About</a>
+    <a href="/The-Iron-Ragdoll/characters/">Characters</a>
+    <a href="/The-Iron-Ragdoll/stories/">Stories</a>
+    <a href="/The-Iron-Ragdoll/world/">World</a>
+    <a href="/The-Iron-Ragdoll/gallery/2026/">Gallery</a>
+    <a href="/The-Iron-Ragdoll/changelog/">Updates</a>
+    <a href="/The-Iron-Ragdoll/search/">Search</a>
+  </nav>
+  <main data-pagefind-body="">
+    <h1>Search</h1>
+    <p class="lighter-text">Search the site!</p>
+    <link href="/The-Iron-Ragdoll/pagefind/pagefind-ui.css" rel="stylesheet">
+    <style>
+      body {
+        --pagefind-ui-primary: var(--c);
+        --pagefind-ui-text: var(--text);
+        --pagefind-ui-background: var(--bg);
+        --pagefind-ui-border: var(--c);
+        --pagefind-ui-border-width: 4px;
+        --pagefind-ui-border-radius: .5em;
+        --pagefind-ui-image-border-radius: 12px;
+        --pagefind-ui-image-box-ratio: 1;
+        --pagefind-ui-font: lexend, lxgw;
+      }
+
+      .pagefind-ui {
+        line-height: 2;
+      }
+
+      .pagefind-ui__search-clear {
+        background-color: transparent !important;
+      }
+    </style>
+    <script src="/The-Iron-Ragdoll/pagefind/pagefind-ui.js"></script>
+    <div id="search"></div>
+    <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({
+          element: "#search",
+          showSubResults: true
+        });
+      });
+    </script>
+  </main>
+  <footer>
+    <button class="theme-toggle">
+      <div>
+        <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun">
+          <circle cx="12" cy="12" r="4"></circle>
+          <path d="M12 2v2"></path>
+          <path d="M12 20v2"></path>
+          <path d="m4.93 4.93 1.41 1.41"></path>
+          <path d="m17.66 17.66 1.41 1.41"></path>
+          <path d="M2 12h2"></path>
+          <path d="M20 12h2"></path>
+          <path d="m6.34 17.66-1.41 1.41"></path>
+          <path d="m19.07 4.93-1.41 1.41"></path>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon">
+          <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path>
+        </svg>
+      </div>
+    </button>
+    <script>
+      (function() {
+        let toggle = document.querySelector('.theme-toggle');
+        let lightDark = parseInt(localStorage.getItem('light-dark'));
+        toggle.addEventListener('click', e => {
+          if (lightDark === 0) {
+            lightDark = 1;
+            document.documentElement.className = 'light';
+          } else {
+            lightDark = 0;
+            document.documentElement.className = 'dark';
+          }
+          localStorage.setItem('light-dark', lightDark);
+        });
+      })();
+    </script>
+    <img src="/The-Iron-Ragdoll/img/VTx-RUADmB-500.webp" alt="poker spies footer" title="poker spies footer" loading="lazy" decoding="async" class="footer-img" width="500" height="423">
+  </footer>
+  <div id="flag" title="Pride" style="background-image:linear-gradient(#e40303,#e40303 16.7%,#ff8c00 16.7%,#ff8c00 33.4%,#ffed00 33.3%,#ffed00 50.1%,#008026 50.1%,#008026 66.8%,#004dff 66.8%,#004dff 83.5%,#750787 83.5%);"></div>
+  <div class="license">
+    <p>The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></p>
+    <p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/./tir/search.liquid">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll/search/">Archive this page</a> · <a href="#top">Back to top <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-move-up">
+          <path d="M8 6L12 2L16 6"></path>
+          <path d="M12 2V22"></path>
+        </svg></a></p>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
+  <script>
+    if (!window.location.href.includes('localhost')) {
+      window.addEventListener('load', () => {
+        quicklink.listen();
+      });
+    }
+  </script>
+</body>
+
+</html>
