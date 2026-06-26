@@ -72,7 +72,7 @@ We arrived at the entrance, where a line of quite a few people were already asse
 
 I fell in line, made sure Jelly wasn't looking my way, and flipped open her passport.
 
-*Jelly Checkers*, the passport page greeted me. *Birthday January 25<sup>th</sup>. Issued People's Vanguard, Westavia.*
+*Jelly Checkers*, the passport page greeted me. *Birthday January 25^th^. Issued People's Vanguard, Westavia.*
 
 People's Vanguard? I could kind of remember Sky saying the capital city of Westavia was called People's Vanguard. It was quite a mouthful for a name, though I could say the same for Flower City.
 

@@ -68,8 +68,6 @@ Thank you, and happy reading!
   #outline(title: none)
 ]
 
-#set heading(outlined: true)
-
 #set page(
   numbering: "1",
   footer: align(center, text(
@@ -80,10 +78,11 @@ Thank you, and happy reading!
 )
 #counter(page).update(1)
 
+#set heading(outlined: true)
 #show heading: it => {
   pagebreak()
-  v(40%)
+  v(1em)
   it
-  v(1cm)
+  v(1em)
 }
 
