@@ -33,6 +33,7 @@
     "markdown-it-footnote": "^4.0.0",
     "markdown-it-obsidian-callouts": "^0.3.2",
     "markdown-it-table-of-contents": "^1.0.0",
-    "markdown-it-table-wrap": "^1.0.0"
+    "markdown-it-table-wrap": "^1.0.0",
+    "pagefind": "^1.5.2"
   }
 }
