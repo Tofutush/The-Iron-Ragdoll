@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-26
+
+- New story, [The Starcorp Massacre](/stories/the-starcorp-massacre);
+
 ## 2026-06-25
 
 - Spoilers styling, even though spoilers are literally only used on one page;
