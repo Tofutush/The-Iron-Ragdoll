@@ -23,7 +23,7 @@ eleventyComputed:
 	<meta name="theme-color" content="{{ themeColor }}" />
 	<meta property="og:title" content="{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll">
 	<meta property="og:type" content="website">
-	<meta property="og:image" content="{{ image }}">
+	<meta property="og:image" content="{{ image }}" data-pagefind-meta="image[content]">
 	<meta property="og:site_name" content="The Iron Ragdoll">
 	<meta property="og:description" content="{{ desc }}">
 	<title>{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll</title>
@@ -68,20 +68,20 @@ eleventyComputed:
 <body>
 	<header style="background-image: url({% capture url %}{% imageUrl banner 3000 0 "banner sparky" %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
 	<nav>
-		<a href="#top">(Top)</a>
 		<a href="/about/">About</a>
 		<a href="/characters/">Characters</a>
 		<a href="/stories/">Stories</a>
 		<a href="/world/">World</a>
 		<a href="/gallery/2026/">Gallery</a>
 		<a href="/changelog/">Updates</a>
+		<a href="/search/">Search</a>
 	</nav>
-	<main>
+	<main {% unless pagefindIgnore %}data-pagefind-body{% endunless %}>
 		{% unless noNav %}
 			{% assign bc = collections.all | eleventyNavigationBreadcrumb: key, navOptions %}
 			{% assign length = bc | size %}
 			{% if length > 2 %}
-				<div class="breadcrumbs">
+				<div class="breadcrumbs" data-pagefind-ignore>
 					{% for item in bc %}
 						{% unless forloop.first %}
 							{% unless forloop.index == 2 %}
@@ -130,7 +130,7 @@ eleventyComputed:
 	{% include 'pride' %}
 	<div class="license">
 		<p>The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></p>
-		<p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/{{ page.inputPath }}">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll{{ page.url }}">Archive this page</a></p>
+		<p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/{{ page.inputPath }}">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll{{ page.url }}">Archive this page</a> · <a href="#top">Back to top</a></p>
 	</div>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
 	<script>

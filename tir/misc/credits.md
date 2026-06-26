@@ -17,6 +17,7 @@ Most content on this site is made by myself. What isn't:
 - 中文字体主体用的是[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)，标题用的是[霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)。
 - Markdown files are edited in [Obsidian](https://obsidian.md).
 - Most [wallpapers](/fun/wallpapers/) are made by [TheOliveOli](https://theoliveoli.blahaj.land/).
+- [Search](/search/) uses [Pagefind](https://pagefind.app).
 
 All stories and characters on this site are created by myself. Some artwork is by other people. If you would like me to remove your artwork, change the attribution link, or anything else, please [tell me](https://tofutush.leprd.space/guestbook/)!
 

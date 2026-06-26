@@ -1,0 +1,35 @@
+---
+layout: article.liquid
+title: Search
+desc: Search the site!
+parent: Root
+eleventyNavigation:
+  order: 1001
+---
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<style>
+	body {
+		--pagefind-ui-primary: var(--c);
+		--pagefind-ui-text: var(--text);
+		--pagefind-ui-background: var(--bg);
+		--pagefind-ui-border: var(--c);
+		--pagefind-ui-border-width: 4px;
+		--pagefind-ui-border-radius: .5em;
+		--pagefind-ui-image-border-radius: 12px;
+		--pagefind-ui-image-box-ratio: 1;
+		--pagefind-ui-font: lexend, lxgw;
+	}
+	.pagefind-ui {
+		line-height: 2;
+	}
+	.pagefind-ui__search-clear {
+		background-color: transparent !important;
+	}
+</style>
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
