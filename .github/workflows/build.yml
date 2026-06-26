@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -27,18 +27,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: build
+      - name: build github
         run: |
           npm run build
-          npm run buildneo
-
-      - name: delete
-        run: |
           rm -r _site/角色/
-          rm -r _neocities/角色/
-
-      - name: im a stats nerd
-        run: du -sh _site _neocities
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
@@ -47,9 +39,20 @@ jobs:
           publish_dir: _site
           publish_branch: gh-pages
 
+      - name: remove
+        run: rm -r _site
+
+      - name: build neocities
+        run: |
+          npm run buildneo
+          rm -r _site/角色/
+
+      - name: im a stats nerd
+        run: du -sh _site
+
       - name: Deploy to neocities
         uses: bcomnes/deploy-to-neocities@v3
         with:
           api_token: ${{ secrets.NEOCITIES_API_KEY }}
           cleanup: true
-          dist_dir: _neocities
+          dist_dir: _site

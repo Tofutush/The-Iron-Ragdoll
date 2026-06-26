@@ -76,7 +76,6 @@ function imagePlugin(eleventyConfig) {
 	// copy over to both
 	eleventyConfig.on("eleventy.after", () => {
 		cpSync(".cache/img/", "_site/img/", { recursive: true });
-		cpSync(".cache/img/", "_neocities/img/", { recursive: true });
 	});
 }
 
