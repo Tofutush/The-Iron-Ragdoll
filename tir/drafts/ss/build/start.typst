@@ -74,14 +74,23 @@ Thank you, and happy reading!
     font: "Lexend",
     size: 8pt,
     context { counter(page).display("1") }
-  ))
+  )),
+  background: context {
+    if query(heading.where(level: 1).after(here())).map(h => h.location().page()).at(0, default: 0) == here().page() [
+      #if calc.rem(here().page(), 2) == 0 [
+        #image("right.png")
+      ] else [
+        #image("left.png")
+      ]
+    ]
+  }
 )
 #counter(page).update(1)
 
 #set heading(outlined: true)
 #show heading: it => {
   pagebreak()
-  v(1em)
+  v(30%)
   it
   v(1em)
 }
