@@ -44,7 +44,7 @@ parent: Characters
     </div>
     <div class="names">
       {% if ch.namezh %}<h1 class="zh">{{ ch.namezh }}</h1>{% endif %}
-      <h1 class="en">{{ ch.name }}</h1>
+      <h1 class="en" data-pagefind-meta="title">{{ ch.name }}</h1>
       {% if ch.desc %}
         {{ ch.desc | renderMD }}
       {% endif %}

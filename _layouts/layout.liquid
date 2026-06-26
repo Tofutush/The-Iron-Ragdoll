@@ -23,7 +23,7 @@ eleventyComputed:
 	<meta name="theme-color" content="{{ themeColor }}" />
 	<meta property="og:title" content="{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll">
 	<meta property="og:type" content="website">
-	<meta property="og:image" content="{{ image }}">
+	<meta property="og:image" content="{{ image }}" data-pagefind-meta="image[content]">
 	<meta property="og:site_name" content="The Iron Ragdoll">
 	<meta property="og:description" content="{{ desc }}">
 	<title>{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll</title>
@@ -93,7 +93,7 @@ eleventyComputed:
 				</div>
 			{% endif %}
 		{% endunless %}
-		{{ content }}
+		<article data-pagefind-body>{{ content }}</article>
 	</main>
 	{% unless siteTheme and noFooterImage %}
 		<footer>
