@@ -22,9 +22,9 @@ I would never leave her, even if it meant I needed to keep toiling at this schoo
 
 Also, doing the mission with Sugarcane ensures that we would succeed, didn't it? My parents were right, after all. Sugarcane was much smarter than I was.
 
-*Attends Sunlight Academy, seventh grade.*
+*Attends Red Hill Middle School, seventh grade.*
 
-"I have literally never heard of this," Sugarcane said. "Let me look it up."
+"Red Hill," Sugarcane said. "Let me look it up."
 
 She pulled out her phone and started typing. I glanced around at her plushies, always arranged in the order in which they were bought. Carrots, Slushy, Taffy, all the way to… Kitty.
 
@@ -34,7 +34,7 @@ The only one that survived was Kitty, because I had brought her to school that d
 
 I used to think it was because she didn't need any more now that she had mine.
 
-"It's a Westavian school," Sugarcane announced, reading from her phone. "Mostly children of diplomats or businesspeople."
+"It's just a normal school," Sugarcane announced, reading from her phone. "Within walking distance to the Westavian Embassy."
 
 "Um-hm," I nodded.
 
