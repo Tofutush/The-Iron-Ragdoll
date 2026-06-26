@@ -50,7 +50,49 @@ Sugarcane was on her phone. After a moment, she tucked it in her pocket and said
 
 We got onto the subway, and soon arrived at the stop nearest the Bauhinia Tower Park.
 
-No matter how many times I visited, I would always be overtaken with awe when exiting the subway station and seeing the Tower.
+The Tower was visible right at the exit of the subway station, a majestic structure rocketing high above the treetops. Its golden roof, ostensibly made from pure gold, shone in the mid-morning light; and its dark red wooden walls were polished gleaming, devoid of a trace of its original messy texture. At night, I remembered, if the moon was bright, the Tower would seem to glow from the inside, a clever trick done with the moonlight and many well-placed mirrors. The light from the lanterns hanging from every corner of every floor, though, was a modern, electrical addition. Every floor of the Tower was essentially a pavilion, with all four sides opening up to the outdoors.
+
+Jelly was staring. "That must be the Bauhinia Tower!" she gasped, pointing.
+
+"Yeah," I said. "We're gonna get closer than this, though."
+
+"It's ironic," Sugarcane mused, "because you can't actually see the top anymore once you're in the park. Let's go!"
+
+This was the time. The purpose of the mission. Not to hang out and have fun with Jelly, but to get hold of her passport.
+
+We arrived at the entrance, where a line of quite a few people were already assembled at the ticket booth.
+
+"Would you mind lining up for all of us, Truffle?" Sugarcane asked. "Here's my ID." She handed me her card.
+
+"Sure," I said, holding out my other hand for Jelly's passport, which she already took out from her bag. She put it trustfully into my hand.
+
+"Let's go get some drinks while Truffle buys the tickets," Sugarcane said to Jelly.
+
+"Okay!" Jelly chirped and followed Sugarcane towards the row of snack vendors by the street.
+
+I fell in line, made sure Jelly wasn't looking my way, and flipped open her passport.
+
+*Jelly Checkers*, the passport page greeted me. *Birthday January 25<sup>th</sup>. Issued People's Vanguard, Westavia.*
+
+People's Vanguard? I could kind of remember Sky saying the capital city of Westavia was called People's Vanguard. It was quite a mouthful for a name, though I could say the same for Flower City.
+
+Quickly I snapped a photo of the page, and then a couple more as I found out my finger was blocking information, or that the image was too blurred, or that the lighting wasn't good… Finally I was satisfied with the photo. I uploaded it to a school-owned cloud storage, for which every student at Spy School had an account, and deleted all the photos off my own phone.
+
+"May I help you, miss?"
+
+I snapped to attention. Apparently I had reached the start of the line already, though I didn't know when that happened.
+
+The ticket clerk cleared her throat.
+
+"Oh, right!" I handed the passport and our IDs over. "Three children's tickets, please."
+
+"That'll be seventy-five bucks," the ticket clerk said. I paid up, and she handed me the tickets and the documents.
+
+"Um…" I said as I looked at my ticket, with "Harmony Frosting Entity" written on it, clear as day. "Do these need our names on it?"
+
+"Yes," she said, "you'll need to show your IDs again at the gate."
+
+"Okay," I mumbled, "thanks."
 
 ---
 
