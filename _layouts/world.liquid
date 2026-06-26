@@ -11,7 +11,7 @@ layout: layout.liquid
 {% capture related %}{{ collections.all | eleventyNavigation: title }}{% endcapture %}
 {% if related.size != 0 %}
     <hr/>
-    <div id="related" class="graybox">
+    <div id="related" class="graybox" data-pagefind-ignore>
         <h4>Related files</h4>
         {{ collections.all | eleventyNavigation: title | eleventyNavigationToHtml }}
     </div>

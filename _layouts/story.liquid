@@ -49,7 +49,7 @@ parent: Stories
 {% assign next = collections.stories | getNextStories: title %}
 {% if prev or next.size != 0 %}
 	<hr/>
-	<section id="prev-next">
+	<section id="prev-next" data-pagefind-ignore>
 		{% if prev %}
 			<div class="callout" open>
       			<div class="callout-title">
