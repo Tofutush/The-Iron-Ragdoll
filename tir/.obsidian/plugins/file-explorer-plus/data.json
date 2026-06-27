@@ -55,13 +55,6 @@
       {
         "name": "",
         "active": true,
-        "type": "DIRECTORIES",
-        "pattern": "drafts/ss/build/font",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
         "type": "FILES",
         "pattern": "drafts/ss/build/end.md",
         "patternType": "STRICT"
