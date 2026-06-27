@@ -52,7 +52,7 @@ I glanced around at her plushies. The answer seemed obvious. "Carrots and Slushy
 
 "Hey, look here, *Truffle*!" Sugarcane said. "There's a playground she loves to play at."
 
-There were several black-and-white photos of Jelly at the playground, taken from the same high angle with a date and time printed in the corner, possibly from a surveillance camera. Sometimes there were many people, sometimes just Jelly herself, with her phone. In the pictures, she was usually found sitting in a corner, under the slides, or on a swing, but always alone.
+There were several black-and-white photos of Jelly at the playground, taken from the same high angle with a date and time printed in the corner, possibly from a surveillance camera. Sometimes there were many people, sometimes just Jelly herself, with her phone. In the pictures, she was usually found sitting in a corner, on a swing, or at the top of the slide, but always alone.
 
 "Take a look at the pictures where she was completely by herself," Sugarcane said.
 
@@ -96,7 +96,7 @@ The impatience was leaking out of Sugarcane's voice. "Alright," I said. Her poin
 
 "But… what if she doesn't like us?"
 
-"Then, perhaps a bit of deceit is tolerable," Sugarcane said without hesitation. She tapped her chin and slowly said, "Truffle, have you ever played 'Explorers'?"
+"Then we *get* her to like us," Sugarcane said without hesitation. She tapped her chin and slowly said, "Truffle, have you ever played 'Explorers'?"
 
 ---
 
@@ -132,7 +132,7 @@ Dad frowned at the mention of plushies. Well, he frowned at everything anyways.
 
 "I said no."
 
-"We're a family," Dad said again. "Family don't keep secrets from each other."
+"We're family," Dad said again. "Family don't keep secrets from each other."
 
 Somehow they were onto me. What *did* Auntie Snowstorm tell Mom?
 
@@ -142,7 +142,7 @@ Somehow they were onto me. What *did* Auntie Snowstorm tell Mom?
 
 "I'm not supposed to tell you," I said.
 
-"Nobody's gonna know! Your dad's right, we shouldn't keep secrets from each other."
+"Nobody's going to know! Your dad's right, we shouldn't keep secrets from each other."
 
 "I said no!" I went back to my room where I prepared a secret stash of snacks to munch on.
 

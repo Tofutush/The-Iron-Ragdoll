@@ -114,7 +114,7 @@ Sugarcane clicked it open, pretending to be checking the transaction for errors.
 
 To the sides of the entrance road, there were billboards explaining the history of the Bauhinia Tower. Jelly paused in front of the first one.
 
-"'The beginning. Emperor Lilypad ordered the construction of the tallest building on the continent in 1536.' So this place is more than five hundred years old!" she exclaimed.
+"'The beginning,'" she read. "'Emperor Lilypad ordered the construction of the tallest building on the continent in 1536.' So this place is more than five hundred years old!" she exclaimed.
 
 "That's boring," Sugarcane said. "I can tell you the short story." She whisked Jelly away from the board and continued walking. "So this tower was originally for emperors and lords to play around and get drunk and write poems or something. After the republican revolution, people opened this place up for tourists. But all these people with their stomping feet weren't good for the creaky old wood, so now they shut it off again, but opened a park around it so people could still visit."
 
@@ -122,11 +122,19 @@ To the sides of the entrance road, there were billboards explaining the history 
 
 "No," Sugarcane shook her head. "But there are plenty of stuff to do in the park!"
 
----
+I wished that were true. I had been here a couple of times, once with Mom (because Dad wouldn't come no matter what with his irrational fears), and once as a school field trip, and both times the trip was excessively boring.
 
----
+Sugarcane was right. I hadn't paid much attention to this before, but inside the park, the golden peak of the Tower was hidden among the treetops. The base of it, just as extravagant as any higher level, was fenced off and guarded. Standing in front of it, we asked some other tourists to take a photo of us three. Jelly then took a few shots of the Tower herself, before opening the lid of her tadlet box and had Wormy see the Tower.
 
-And then suddenly, Sugarcane screamed.
+"See, Wormy? Do you see this?" she said.
+
+"I'm pretty sure Wormy couldn't see three meters ahead of her," I said.
+
+We had lunch at an overpriced and overcrowded restaurant that offered cups of pudding shaped like a miniature Tower. Jelly devoured it and promptly was no longer hungry for the main course. Afterwards, we went to the similarly overpriced souvenir shop but didn't end up buying anything.
+
+We exited the shop, blinking away the afternoon sun. Jelly yawned. I felt tired too. I should suggest we go home.
+
+I opened my mouth to talk, but suddenly, Sugarcane screamed.
 
 I immediately snapped to attention.
 
@@ -156,7 +164,7 @@ Sugarcane had seemingly recovered, and she had her phone out, looking at herself
 
 Sugarcane put her phone back in her pocket and examined her fallen horns. "What do I do with these, then?"
 
-"People usually just throw them away, but maybe you should show it to your parents first." At that moment, Jelly really seemed like an older sister to us, being calm and helpful even when Sugarcane was panicking.
+"People usually just throw them away, but maybe you should show it to your parents first." At that moment, Jelly felt like an older sister to us, being calm and helpful when even Sugarcane was panicking.
 
 "We should make chopsticks with them," I said. "They're the right shape."
 
@@ -173,3 +181,21 @@ Jelly laughed too. "Sugarcane?" She started.
 "Oh," Jelly said, "your horns look a lot like sugarcane, don't they?"
 
 Sugarcane relaxed, and laughed. "Eh, they've always looked like bamboo to me."
+
+"Well, now I want some sugarcane juice." Jelly pointed to a vendor on the other side of the road, with a pile of sugarcane sticks making fresh juice.
+
+We were still sipping the juice when Jelly got off the subway at Red Hill. We would ride straight home to show Auntie Snowstorm Sugarcane's horns.
+
+"It was a really nice day, thank you!" she said as she left. "Remember to come to the Embassy next week!"
+
+"We won't forget," I said as the subway door closed on us.
+
+---
+
+Auntie Snowstorm was delighted. She snatched the horns from Sugarcane's hand, chucked them right in the trash, and patted Sugarcane's bare head excitedly, muttering, "You grew up! You grew up! Have you ever seen blood when you're peeing?"
+
+"What? Is that supposed to happen??" Sugarcane yelled.
+
+"Yeah, just tell me if you do."
+
+She started to recount when she shed her own horns, promptly forgetting I was there. Sugarcane waved me goodbye, and I headed home.

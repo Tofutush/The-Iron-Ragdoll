@@ -116,7 +116,7 @@ We sat in silence for a while. Finally, Sugarcane opened her mouth. "I'm sorry f
 
 "Yes. I didn't want to give her up, but I also wanted friends. That was why I kept you away from Rose and everyone else."
 
-"Well, thanks for telling me," I said. "I'm going home now. I told Jelly to meet up at the playground tomorrow and go to the park together, so see you there."
+"Well, thanks for telling me," I said. "I'm going home now. I told Jelly to meet up at Red Hill tomorrow and go to the park together, so see you there."
 
 I left too, leaving Sugarcane sitting alone.
 

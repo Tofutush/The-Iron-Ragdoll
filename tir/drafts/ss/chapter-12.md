@@ -2,7 +2,7 @@
 chNum: 12
 ---
 
-I reached the playground at our agreed time. It wasn't far from our homes; just a few subway stops away, at the center of a park.
+I reached the playground at our agreed time. It wasn't far from our homes; just a few subway stops away, at the center of a park that was simply called Red Hill Park.
 
 I scanned the crowd for Jelly. Sugarcane had told me to find an empty spot near her.
 
