@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-06-27
+
+- Added `qibli sit cutely.png`, `qibli slide.png`;
+
 ## 2026-06-26
 
 - New story, [The Starcorp Massacre](/stories/the-starcorp-massacre);

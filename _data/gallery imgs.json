@@ -989,8 +989,7 @@
     "ch": [
       "qibli"
     ],
-    "date": "2024-10-15",
-    "kind": "pagedoll"
+    "date": "2024-10-15"
   },
   {
     "name": "404",
@@ -6203,5 +6202,20 @@
       "orchid"
     ],
     "kind": "footer"
+  },
+  {
+    "name": "qibli sit cutely",
+    "date": "2026-06-27",
+    "ch": [
+      "qibli"
+    ],
+    "kind": "pagedoll"
+  },
+  {
+    "name": "qibli slide",
+    "date": "2026-06-27",
+    "ch": [
+      "qibli"
+    ]
   }
 ]
