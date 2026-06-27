@@ -64,7 +64,7 @@ We arrived at the entrance, where a line of quite a few people were already asse
 
 "Would you mind lining up for all of us, Truffle?" Sugarcane asked. "Here's my ID." She handed me her card.
 
-"Sure," I said, holding out my other hand for Jelly's passport, which she already took out from her bag. She put it trustfully into my hand.
+"Sure," I said, holding out my other hand for Jelly's passport, which she already took out from her bag. She put it trustfully into my hand. Instead of just "passport," it said "diplomatic passport."
 
 "Let's go get some drinks while Truffle buys the tickets," Sugarcane said to Jelly.
 
@@ -88,11 +88,39 @@ The ticket clerk cleared her throat.
 
 "That'll be seventy-five bucks," the ticket clerk said. I paid up, and she handed me the tickets and the documents.
 
-"Um…" I said as I looked at my ticket, with "Harmony Frosting Entity" written on it, clear as day. "Do these need our names on it?"
+"Thanks," I said.
 
-"Yes," she said, "you'll need to show your IDs again at the gate."
+Sugarcane and Jelly were already waiting for me at the entrance gate. Jelly handed me a bottle of orange juice identical to the half-drunk one in her hand. "This is for you!"
 
-"Okay," I mumbled, "thanks."
+"Thank you!" I said as I handed back her passport. Mission complete.
+
+Jelly tucked the passport back into her bag, but didn't zip it up. "How much was the ticket?" she asked.
+
+"Oh, it's nothing."
+
+"No, no, no," Jelly shook her head. "I asked papa specifically for some cash because I know you definitely don't have a credit card reader." She took out a wallet and pulled out a bunch of notes.
+
+"It's really not necessary," I said.
+
+"But *she* will just send the money over digitally when you get home," Jelly pointed at Sugarcane. "Right?"
+
+"Um. No?" That was not convincing. "Fine, it's just twenty-five bucks."
+
+Jelly carefully counted out five five-buck notes and handed it to me, making sure I tucked them into my pocket.
+
+"I'll just wire mine over right now, since we're at it," Sugarcane said. She transferred her ticket money to me and my phone buzzed with the notification. I opened it to accept the money, but at the same time sent over the link to the passport photo.
+
+Sugarcane clicked it open, pretending to be checking the transaction for errors. She nodded. "Let's get in, then!"
+
+To the sides of the entrance road, there were billboards explaining the history of the Bauhinia Tower. Jelly paused in front of the first one.
+
+"'The beginning. Emperor Lilypad ordered the construction of the tallest building on the continent in 1536.' So this place is more than five hundred years old!" she exclaimed.
+
+"That's boring," Sugarcane said. "I can tell you the short story." She whisked Jelly away from the board and continued walking. "So this tower was originally for emperors and lords to play around and get drunk and write poems or something. After the republican revolution, people opened this place up for tourists. But all these people with their stomping feet weren't good for the creaky old wood, so now they shut it off again, but opened a park around it so people could still visit."
+
+"Oh, cool!" Jelly said. "But that means we won't be able to get up there?"
+
+"No," Sugarcane shook her head. "But there are plenty of stuff to do in the park!"
 
 ---
 
