@@ -35,7 +35,7 @@ This site and its contents is written with a mature audience in mind. It feature
 > [!info]- More detailed CWs
 >
 > Violence: state violence, mentions of torture, mentions of domestic abuse
-> 
+>
 > Mature themes: death and grieving, murder, suicide, war
 
 It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't take it too seriously.
@@ -83,6 +83,6 @@ I'm Tofutush; full name is technically Skipper Tofutush but I just go by Tofutus
 
 My pronouns are she/her. I speak Chinese and English, both with native fluency, both with the vocabulary of an immature kid. I use semicolons and em-dashes like it's my last day on Earth and I chose to spend the entire day using semicolons and em-dashes.
 
-I like cats and OCs. I'd say I love all my OCs equally but that would be a lie. I'd let [Goose](/characters/goose/) do anything to me/j. Here is a list of [places I'm at](https://tilde.town/~tofutush). Here are some [blog posts](https://tofutush.github.io) where I overshare stuff about myself.
+I like cats and OCs. I'd say I love all my OCs equally but that would be a lie. I'd let [Goose](/characters/goose/) do anything to me/j. Here is a list of [places I'm at](https://tofutush.leprd.space/links/). Here are some [blog posts](https://tofutush.github.io) where I overshare stuff about myself.
 
 Enough about me. Go read the [World overview](/world/overview/) if you haven't already!
