@@ -32,8 +32,6 @@ I sighed.
 
 I dumped my bowl and chopsticks into the sink and walked out the door, heading for Sugarcane's. Right before I left, though, I leaned my head back and said, "I know you planted that knife!" and shut the door immediately after.
 
----
-
 On the way to Sugarcane's, I pulled out my phone and did something I never thought I would do.
 
 I opened the search engine and typed in "how to make friends."
@@ -46,11 +44,7 @@ Well, that wasn't helpful. The whole "friendship" was based on a lie. Besides, a
 
 Be considerate, though…
 
-*Favorite subject Biology.* Jelly had been here for a year, and had just started middle school. There was no biology class in elementary school. It was lumped in with science.
-
-I shrugged. She had been attending middle school for a month or so by the time the file was composed. That was probably enough time to decide on your favorite subject.
-
-Caterpillar and Ant. The ant farm. Those were biological enough, I suppose. What exactly was that she liked? Just caterpillars and ants, or small creatures in general?
+*Favorite subject Biology.* Caterpillar and Ant. The ant farm. Those were biological enough, I suppose. What exactly was that she liked? Just caterpillars and ants, or small creatures in general?
 
 An idea was starting to form in my head. I brought out my phone and did another search, reading the results. Satisfactory.
 

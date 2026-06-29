@@ -36,7 +36,7 @@ Sky looked at me for a good old second. "We never told your parents your scores.
 
 "I'd really like to know. Please!"
 
-Sky sighed, turned on his computer, and clicked open a folder. But right before the folder covered up half the window, I caught a glance of another folder beneath it, full of images of what seemed like words written on many pieces of tissue paper. What was *that* about?
+Sky sighed, turned on his computer, and clicked open a folder. But right before the folder covered up most of the window, I caught a glance of another folder beneath it, full of images of what seemed like words written on many pieces of tissue paper. What was *that* about?
 
 Sky's cursor overed over a file named "entrance exam scores spreadsheet," but hesitated for a while, before closing the folder window.
 
@@ -98,7 +98,7 @@ I spent the entire morning trying to find a good time to approach Cosmo. Finally
 
 "So what did you tell Sky?" I asked.
 
-"What did I tell him? I said he was telling the truth. It was getting late and I wanted to go home already. Thanks for the ride, by the way."
+"What *did* I tell him? I said he was telling the truth. It was getting late and I wanted to go home already. Thanks for the ride, by the way."
 
 "Then that means we still don't know who planted the knife in Harmony's bag," Sugarcane said.
 
@@ -174,7 +174,7 @@ Maybe she was just focusing and I was thinking too much into it.
 
 "What is the meaning of this?" I asked. "What did he even *want*? To review the questions at home?"
 
-Jewel looked at me. "They're classified," she said. "The exam questions are. And the textbook. Of course any sort of copying down would be illegal."
+Jewel looked at me. "They're classified," she said, "the exam questions are. And the textbook. Of course any sort of copying down would be illegal."
 
 "But *why*?" I asked. "Who even cares if these got leaked?"
 

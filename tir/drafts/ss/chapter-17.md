@@ -146,7 +146,7 @@ One of her elegant green horns was gone from her head. I frantically looked arou
 
 "*What?*" Sugarcane was still heaving, but recovering a bit from the shock.
 
-"Bicorns shed their horns during puberty! I'd seen some of my classmates do that back in…"
+"Bicorns shed their horns during puberty! It's just like losing your baby teeth. I'd seen some of my classmates do that back in…"
 
 Her words trailed off as Sugarcane's other horn toppled off her head and fell flat on the ground. Sugarcane winced.
 
@@ -164,7 +164,9 @@ Sugarcane had seemingly recovered, and she had her phone out, looking at herself
 
 Sugarcane put her phone back in her pocket and examined her fallen horns. "What do I do with these, then?"
 
-"People usually just throw them away, but maybe you should show it to your parents first." At that moment, Jelly felt like an older sister to us, being calm and helpful when even Sugarcane was panicking.
+"People usually just throw them away, but maybe you should show it to your parents first."
+
+At that moment, Jelly felt like an older sister to us, being calm and helpful when even Sugarcane was panicking.
 
 "We should make chopsticks with them," I said. "They're the right shape."
 
@@ -198,4 +200,20 @@ Auntie Snowstorm was delighted. She snatched the horns from Sugarcane's hand, ch
 
 "Yeah, just tell me if you do."
 
-She started to recount the time when she shed her own horns, promptly forgetting I was there. Sugarcane waved me goodbye, and I headed home.
+She started to recount the time when she shed her own horns, promptly forgetting I was there. Sugarcane managed to wriggle one arm free of her mom and wave me goodbye, but I said, "May I please have dinner here?"
+
+Home had not been a particularly happy place to be since the whole knife thing. My parents still wouldn't talk about it, let alone apologize. Besides, Sugarcane's parents actually knew how to cook.
+
+"Of course!" Auntie Snowstorm said happily. I helped them lay out the dishes, breathing in the smell, careful not to drool inside the plates.
+
+"Are you still upset about the knife thing?" Sugarcane asked at the table. "I'm sorry, but I'm sure your parents had their reasons."
+
+"Well yeah, I know that," I said. "That doesn't make me feel any better though."
+
+I frowned a little. Now that I thought about it, Sugarcane had always trusted adults, perhaps a little too much. Maybe in her world, adults were always right, the way she used to be always right in mine.
+
+"And… what do you think the reason is?" Sugarcane asked on.
+
+"I thought I told you that the other day. They want to get me expelled."
+
+"That doesn't make a lot of sense to me," Sugarcane lowered her voice. "Please, I just want to confirm it with you: you *really* didn't bring it to school yourself, did you?"
