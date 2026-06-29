@@ -198,4 +198,4 @@ Auntie Snowstorm was delighted. She snatched the horns from Sugarcane's hand, ch
 
 "Yeah, just tell me if you do."
 
-She started to recount when she shed her own horns, promptly forgetting I was there. Sugarcane waved me goodbye, and I headed home.
+She started to recount the time when she shed her own horns, promptly forgetting I was there. Sugarcane waved me goodbye, and I headed home.
