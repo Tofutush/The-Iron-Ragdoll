@@ -28,9 +28,7 @@ jobs:
         run: npm ci
 
       - name: build github
-        run: |
-          npm run build
-          rm -r _site/角色/
+        run: npm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
@@ -43,9 +41,7 @@ jobs:
         run: rm -r _site
 
       - name: build neocities
-        run: |
-          npm run buildneo
-          rm -r _site/角色/
+        run: npm run buildneo
 
       - name: im a stats nerd
         run: du -sh _site
