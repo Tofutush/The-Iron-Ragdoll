@@ -1,6 +1,7 @@
 #set page(
-  paper: "a5",
-  margin: 0.7in,
+  width: 140mm,
+  height: 203mm,
+  margin: 0.8in,
   numbering: "i",
   footer: none,
   footer-descent: 50%
@@ -57,7 +58,7 @@ Some things to note:
 Thank you, and happy reading!
 #v(1fr)
 #pagebreak()
-#set page(margin: (bottom: 1in, rest: 0.7in))
+#set page(margin: (bottom: 0.8in, rest: 0.6in))
 #set par(
   first-line-indent: 1.5em,
   spacing: 0.8em

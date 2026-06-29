@@ -217,3 +217,11 @@ I frowned a little. Now that I thought about it, Sugarcane had always trusted ad
 "I thought I told you that the other day. They want to get me expelled."
 
 "That doesn't make a lot of sense to me," Sugarcane lowered her voice. "Please, I just want to confirm it with you: you *really* didn't bring it to school yourself, did you?"
+
+"Sugarcane! Of course I didn't!"
+
+I was a bit too loud that Sugarcane's parents stopped talking and looked at me. "What's the matter, dear?"
+
+"Never mind, sorry," I mumbled.
+
+"Sorry about that too," Sugarcane said to me. "I just wanted to make sure."

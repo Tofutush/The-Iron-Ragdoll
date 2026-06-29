@@ -36,7 +36,7 @@ It was in the same pot that Mom always used to brew soup, though.
 
 "…Interesting toy tower you got there," Sky commented on our selfie.
 
-It was lunch break, and we were sitting in two folding chairs next to Sky's cubicle as he ran the photo through a bunch of computer programs to make sure we didn't fake it. I was dying to take a nap. This morning, Mom woke me up too early rummaging through my backpack under the pretext of "organizing" it. Didn't even bother taking it out of my room before causing a ruckus.
+It was lunch break, and we were sitting in two folding chairs next to Sky's cubicle as he ran the photo through a bunch of computer programs to make sure we didn't fake it. I was dying to take a nap. This morning, Mom woke me up too early rummaging through my backpack under the pretext of "organizing" it. Didn't even bother taking it out of my room before causing a ruckus. And Sugarcane seemed to always be busy in a way that felt like she was purposefully avoiding me. *Is this what they call conservation of luck? I finish the task to smoothly, and the next day I feel like crap?*
 
 "I would recommend looking into Jelly's toys. The caterpillar, the ant, and the new ant farm you said she got."
 
@@ -72,7 +72,7 @@ The class in the afternoon was just another round of blabbering about Westavia's
 
 "What's wrong?" I asked when class ended. "You look concerned."
 
-"Haven't you been paying attention?" She said. "Westavia is not like any other country we've covered so far."
+"Haven't you been paying attention?" she said. "Westavia is not like any other country we've covered so far."
 
 "We only covered Moreland. There aren't a lot of references to go off of, are there?"
 
