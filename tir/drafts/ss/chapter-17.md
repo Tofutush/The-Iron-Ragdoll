@@ -42,9 +42,13 @@ Speaking of the devil, Sugarcane trotted over. "Sorry to keep you waiting! Are w
 
 "Sure!" I said. "When exactly is it?"
 
-"Saturday at four," Jelly said. "It goes until the evening. There's food and stuff!"
+"Saturday at four," Jelly said. She pulled out a couple of envelopes. One of them had the name "Truffle" written on it with thick purple crayon, and the other had "Spotty" in green. "This is for you… and this is for you! It goes until the evening. There's food and stuff!"
 
-Sugarcane was on her phone. After a moment, she tucked it in her pocket and said, "I wrote it down! Can we leave for the park now?"
+"Thanks." I tucked the envelope into my pocket. "Do we still meet here in the morning, then?"
+
+Jelly shook her head. "I have to help papa do the decorations."
+
+"Then we'll just head straight to the embassy," Sugarcane said. "Let's get to the park now!"
 
 "Of course!" Jelly bowed in a comedic fashion and said, "lead the way!"
 
@@ -208,7 +212,7 @@ Home had not been a particularly happy place to be since the whole knife thing. 
 
 "Are you still upset about the knife thing?" Sugarcane asked at the table. "I'm sorry, but I'm sure your parents had their reasons."
 
-"Well yeah, I know that," I said. "That doesn't make me feel any better though."
+"Well yeah, I know that," I said with my mouth half full. "That doesn't make me feel any better though."
 
 I frowned a little. Now that I thought about it, Sugarcane had always trusted adults, perhaps a little too much. Maybe in her world, adults were always right, the way she used to be always right in mine.
 
@@ -216,7 +220,7 @@ I frowned a little. Now that I thought about it, Sugarcane had always trusted ad
 
 "I thought I told you that the other day. They want to get me expelled."
 
-"That doesn't make a lot of sense to me," Sugarcane lowered her voice. "Please, I just want to confirm it with you: you *really* didn't bring it to school yourself, did you?"
+"That doesn't make a lot of sense to me," Sugarcane lowered her voice. "Please, I just want to confirm it with you… You *really* didn't bring it to school yourself, did you?"
 
 "Sugarcane! Of course I didn't!"
 
