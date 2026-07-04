@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-07-04
+
+- Added my Artfight attacks from yesterday;
+
 ## 2026-06-27
 
 - Added `qibli sit cutely.png`, `qibli slide.png`;

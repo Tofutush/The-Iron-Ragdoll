@@ -6294,5 +6294,56 @@
     "author": "stardustly",
     "authorUrl": "https://artfight.net/~stardustly",
     "comment": "Artfight 2026 defense!"
+  },
+  {
+    "name": "emergency meeting",
+    "date": "2026-07-01",
+    "comment": "Artfight attack for [BlankNinja](https://artfight.net/~BlankNinja), featuring a lot of characters!"
+  },
+  {
+    "name": "nova proto space",
+    "date": "2026-07-03",
+    "comment": "Artfight attack for [stardustly](https://artfight.net/~stardustly), featuring [Nova](https://artfight.net/character/6178029.nova) and [Proto](https://artfight.net/character/6178158.proto)!"
+  },
+  {
+    "name": "sol proxima stars",
+    "date": "2026-07-03",
+    "comment": "Artfight attack for [Kolo](https://numbersstory.com), featuring [Sol](https://characters.numbersstory.com/chara/sol/sol) and [Proxima](https://characters.numbersstory.com/chara/sol/proximacentauri)!"
+  },
+  {
+    "name": "thestias self body",
+    "date": "2026-07-03",
+    "comment": "Artfight attack for [Kolo](https://numbersstory.com), featuring [Thestias](https://characters.numbersstory.com/chara/sol/thestias)!"
+  },
+  {
+    "name": "enforcer",
+    "date": "2026-07-03",
+    "comment": "Artfight attack for [TheEnforcer](https://draggianuniverse.neocities.org), featuring [Enforcer](https://artfight.net/character/2124931.enforcer-literally-me)!"
+  },
+  {
+    "name": "clay",
+    "date": "2026-07-03",
+    "comment": "Artfight attack for [King Lee](https://artfight.net/~king-lee), featuring [Clay](https://artfight.net/character/4122874.clay)!"
+  },
+  {
+    "name": "tsunami kams_loyal",
+    "type": "gif",
+    "date": "2026-07-03",
+    "ch": [
+      "tsunami"
+    ],
+    "author": "Kams_loyal",
+    "authorUrl": "https://artfight.net/~Kams_loyal",
+    "comment": "Artfight 2026 defense!"
+  },
+  {
+    "name": "nebula kolo",
+    "date": "2026-07-03",
+    "ch": [
+      "nebula"
+    ],
+    "author": "Kolo",
+    "authorUrl": "https://numbersstory.com/",
+    "comment": "Artfight 2026 defense!"
   }
 ]
