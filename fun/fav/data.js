@@ -816,4 +816,12 @@ desc: "Silly tech enthusiast.",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 },
 
+
+{
+name: "Proxy",
+color: "#123e6d",
+desc: "",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
 ];

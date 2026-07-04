@@ -613,6 +613,12 @@ color: "#f0dd0f",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
+{
+id: "Proxy",
+color: "#123e6d",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
 ],
 rel: [
 
