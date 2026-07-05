@@ -34,7 +34,9 @@ Story privated for the time being while I write the book! It's going to be a nov
 
 > *The Spy School in Flower City* is a silly little coming-of-age story about friendship and belonging.
 >
-> Ministry Affiliate, often dubbed "Spy School" by its students, is the most prestigious school in all of Bauhinia, where students learn the art of espionage and partake in real-life missions. When Harmony and her best friend Sugarcane both receive an offer to attend, she finds it impossible to refuse. But to navigate the complexities of the school and prove that she belongs, Harmony must learn how to make new friends… and how to let them go.
+> Ministry Affiliate, often dubbed "Spy School" by its students, is the most prestigious school in all of Bauhinia, where students learn the art of espionage and partake in real-life missions. When Harmony and her best friend Sugarcane both receive an offer to attend, Harmony finds it impossible to refuse. But to navigate the complexities of the school and prove that she belongs, Harmony must learn how to make new friends… and how to let them go.
+>
+> This book contains mature language and mild violence, and is recommended for people aged 16 or above.
 >
 > The downloads include both an EPUB and a PDF. You can also read it online on [my website](https://tofutush.neocities.org/stories/spy-school/chapter-1/)!
 
