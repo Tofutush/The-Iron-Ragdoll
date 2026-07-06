@@ -101,6 +101,14 @@ Thank you, and happy reading!
 )
 #show box: it => {
   pagebreak()
+  set page(footer: none)
   place(center + horizon, it)
+  set page(
+    footer: align(center, text(
+      font: "Lexend",
+      size: 8pt,
+      context { counter(page).display("1") }
+    ))
+  )
 }
 
