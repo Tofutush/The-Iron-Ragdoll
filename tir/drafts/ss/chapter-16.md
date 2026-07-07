@@ -140,7 +140,7 @@ Order of the planets? Imagine Carrots, the little brown bunny, holding a little 
 
 But now, Carrots… the order was all messed up. I couldn't imagine Carrots not at the start of the list.
 
-I shook my head. Why was *that* what I was worried about the most? The order didn't matter! I could use Carrots for a stupid mental list whenever I want!
+I sat up and shook my head. Why was *that* what I was worried about the most? The order couldn't matter less! I could use Carrots for a stupid mental list whenever I want!
 
 The problem was that… had my friendship with Sugarcane all these years been built on a stolen plushie?
 

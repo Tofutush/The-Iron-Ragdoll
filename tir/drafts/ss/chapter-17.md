@@ -2,15 +2,23 @@
 chNum: 17
 ---
 
+SHOW HM AND SG FIGHTING OVER JL IN THIS CHAPTER.
+
 When I arrived at half past seven, Jelly wasn't even there, and the playground was quite empty, save for a few early birds. I sat down at our usual table and waited.
 
 A few moments later, Jelly came bounding over, with a little backpack on her back, holding the tadlet box.
 
 "Truffle, Truffle!" She yelled.
 
-"Jelly!" I yelled back. "You got your passport?"
+I winced a little, remembering all forty-*five* of Sugarcane's plushies again. I was glad I we end up naming ourselves —
 
-"Yes, of course! It's in the bag. I had to *really* convince papa to let me come alone. He's busy, but he said he didn't trust me not to lose the passport, so he wanted to take a day off, but I said I'm in *middle school* already and I won't just *lose* my very important passport like I lost my wallet last week! *That* was an accident!"
+*Eww, no one names their kid 'Carrots.'* That was Sugarcane.
+
+"Truffle? Are you with me?" Jelly shook my arm and I snapped out of it.
+
+"Jelly!" I said back. "You got your passport?"
+
+"Yes, of course! It's in the bag. I had to *really* convince papa to let me come alone. He's busy, but he said he didn't trust me not to lose the passport, so he wanted to take a day off, but I said I'm in *middle school* already and I won't just *lose* my very important passport like I lost my wallet yesterday! *That* was an accident!"
 
 "Well, I'm sure accidents won't happen twice," I said.
 
@@ -56,13 +64,11 @@ We got onto the subway, and soon arrived at the stop nearest the Bauhinia Tower 
 
 The Tower was visible right at the exit of the subway station, a majestic structure rocketing high above the treetops. Its golden roof, ostensibly made from pure gold, shone in the mid-morning light; and its dark red wooden walls were polished gleaming, devoid of a trace of its original messy texture. At night, I remembered, if the moon was bright, the Tower would seem to glow from the inside, a clever trick done with the moonlight and many well-placed mirrors. The light from the lanterns hanging from every corner of every floor, though, was a modern, electrical addition. Every floor of the Tower was essentially a pavilion, with all four sides opening up to the outdoors.
 
-Jelly was staring. "That must be the Bauhinia Tower!" she gasped, pointing.
+Jelly stared at it. "That must be the Bauhinia Tower!" she gasped, pointing.
 
 "Yeah," I said. "We're gonna get closer than this, though."
 
 "It's ironic," Sugarcane mused, "because you can't actually see the top anymore once you're in the park. Let's go!"
-
-This was the time. The purpose of the mission. Not to hang out and have fun with Jelly, but to get hold of her passport.
 
 We arrived at the entrance, where a line of quite a few people were already assembled at the ticket booth.
 
@@ -76,11 +82,11 @@ We arrived at the entrance, where a line of quite a few people were already asse
 
 I fell in line, made sure Jelly wasn't looking my way, and flipped open her passport.
 
-*Jelly Checkers*, the passport page greeted me. *Birthday January 25^th^. Issued People's Vanguard, Westavia.*
+*Jelly Checkers*, the passport page greeted me. *Birthday January 25^th^. Issued in People's Vanguard, Westavia.*
 
 People's Vanguard? I could kind of remember Sky saying the capital city of Westavia was called People's Vanguard. It was quite a mouthful for a name, though I could say the same for Flower City.
 
-Quickly I snapped a photo of the page, and then a couple more as I found out my finger was blocking information, or that the image was too blurred, or that the lighting wasn't good… Finally I was satisfied with the photo. I uploaded it to a school-owned cloud storage, for which every student at Spy School had an account, and deleted all the photos off my own phone.
+Quickly I snapped a photo of the page, and then a couple more as I found out my finger was blocking information, or that the image was too blurry, or that the lighting wasn't good… Finally I was satisfied with the photo. I uploaded it to our school-owned cloud storage, for which every student at Spy School had an account, and deleted all the photos off my own phone.
 
 "May I help you, miss?"
 
@@ -88,7 +94,13 @@ I snapped to attention. Apparently I had reached the start of the line already, 
 
 The ticket clerk cleared her throat.
 
-"Oh, right!" I handed the passport and our IDs over. "Three children's tickets, please."
+Right, tickets. I was about to hand over all our IDs before a thought struck me.
+
+What if I just *didn't* buy Sugarcane a ticket?
+
+Just Jelly and I. And Wormy. I wouldn't be constantly reminded of how Sugarcane stole Carrots. *And* I'd have Jelly all to myself. I could make some excuse and have Sugarcane either go home or wait for us outside. Shouldn't I do it?
+
+"You're holding up the line!" the man behind me yelled. I jumped and quickly shoved all three IDs towards the ticket clerk. "Three student tickets, please!"
 
 "That'll be seventy-five bucks," the ticket clerk said. I paid up, and she handed me the tickets and the documents.
 
@@ -97,6 +109,8 @@ The ticket clerk cleared her throat.
 Sugarcane and Jelly were already waiting for me at the entrance gate. Jelly handed me a bottle of orange juice identical to the half-drunk one in her hand. "This is for you!"
 
 "Thank you!" I said as I handed back her passport. Mission complete.
+
+And now that I had time to think about it, I probably wouldn't come up with a convincing excuse for leaving Sugarcane behind anyways. And Jelly might be happier if we were both with her. I sighed internally. How did I even get this idea?
 
 Jelly tucked the passport back into her bag, but didn't zip it up. "How much was the ticket?" she asked.
 
@@ -118,9 +132,11 @@ Sugarcane clicked it open, pretending to be checking the transaction for errors.
 
 To the sides of the entrance road, there were billboards explaining the history of the Bauhinia Tower. Jelly paused in front of the first one.
 
-"'The beginning,'" she read. "'Emperor Lilypad ordered the construction of the tallest building on the continent in 1536.' So this place is more than five hundred years old!" she exclaimed.
+"*The beginning,*" she read. "*Emperor Lilypad ordered the construction of the Bauhinia Tower in 1536.* So this place is more than five hundred years old!" she exclaimed. "*He hired the Empire's best architects, and explicitly said that the Tower should be the 'tallest building on the continent.' In order to make it taller, the architects built it on a hill.* Haha, that sounds like cheating."
 
-"That's boring," Sugarcane said. "I can tell you the short story." She whisked Jelly away from the board and continued walking. "So this tower was originally for emperors and lords to play around and get drunk and write poems or something. After the republican revolution, people opened this place up for tourists. But all these people with their stomping feet weren't good for the creaky old wood, so now they shut it off again, but opened a park around it so people could still visit."
+"It did remain the tallest for five hundred years," I said. "But mostly because no one else dared to build anything taller."
+
+Jelly started to walk to the next board, but Sugarcane said, "That's boring," and whisked her away. "I can tell you the short story." She whisked Jelly away from the board and continued walking. "So this tower was originally for emperors and lords to play around and get drunk and write poems or something. After the republican revolution, people opened this place up for tourists. But all these people with their stomping feet weren't good for the creaky old wood, so now they shut it off again, but opened a park around it so people could still visit."
 
 "Oh, cool!" Jelly said. "But that means we won't be able to get up there?"
 
@@ -128,11 +144,11 @@ To the sides of the entrance road, there were billboards explaining the history 
 
 I wished that were true. I had been here a couple of times, once with Mom (because Dad wouldn't come no matter what with his irrational fears), and once as a school field trip, and both times the trip was excessively boring.
 
-Sugarcane was right. I hadn't paid much attention to this before, but inside the park, the golden peak of the Tower was hidden among the treetops. The base of it, just as extravagant as any higher level, was fenced off and guarded. Standing in front of it, we asked some other tourists to take a photo of us three. Jelly then took a few shots of the Tower herself, before opening the lid of her tadlet box and had Wormy see the Tower.
+I hadn't paid much attention to this before, but Sugarcane was right — inside the park, the golden peak of the Tower was hidden among the treetops. The base of it, standing on the small hill and just as extravagant as any higher level, was fenced off and guarded. Standing in front of it, we asked some other tourists to take a photo of us three. Jelly then took a few shots of the Tower herself, before opening the lid of her tadlet box and had Wormy see the Tower.
 
 "See, Wormy? Do you see this?" she said.
 
-"I'm pretty sure Wormy couldn't see three meters ahead of her," I said.
+"I'm pretty sure Wormy couldn't see three meters ahead of her," I said. Jelly giggled and shut the lid back close.
 
 We had lunch at an overpriced and overcrowded restaurant that offered cups of pudding shaped like a miniature Tower. Jelly devoured it and promptly was no longer hungry for the main course. Afterwards, we went to the similarly overpriced souvenir shop but didn't end up buying anything.
 
@@ -190,42 +206,16 @@ Sugarcane relaxed, and laughed. "Eh, they've always looked like bamboo to me."
 
 "Well, now I want some sugarcane juice." Jelly pointed to a vendor on the other side of the road, with a pile of sugarcane sticks making fresh juice.
 
-We were still sipping the juice when Jelly got off the subway at Red Hill. We would ride straight home to show Auntie Snowstorm Sugarcane's horns.
+We were still sipping the juice when Jelly got off the subway at Red Hill.
 
 "It was a really nice day, thank you!" she said as she left. "Remember to come to the Embassy next week!"
 
 "We won't forget," I said as the subway door closed on us.
 
----
+Sugarcane turned to me and said, "Can you come to my home for dinner tonight?" She was clutching her horns tight in her hand.
 
-Auntie Snowstorm was delighted. She snatched the horns from Sugarcane's hand, chucked them right in the trash, and patted Sugarcane's bare head excitedly, muttering, "You grew up! You grew up! Have you ever seen blood when you're peeing?"
+"Sure," I said. "Are you still nervous about the horn thing?"
 
-"What? Is that supposed to happen??" Sugarcane yelled.
+She nodded.
 
-"Yeah, just tell me if you do."
-
-She started to recount the time when she shed her own horns, promptly forgetting I was there. Sugarcane managed to wriggle one arm free of her mom and wave me goodbye, but I said, "May I please have dinner here?"
-
-Home had not been a particularly happy place to be since the whole knife thing. My parents still wouldn't talk about it, let alone apologize. Besides, Sugarcane's parents actually knew how to cook.
-
-"Of course!" Auntie Snowstorm said happily. I helped them lay out the dishes, breathing in the smell, careful not to drool inside the plates.
-
-"Are you still upset about the knife thing?" Sugarcane asked at the table. "I'm sorry, but I'm sure your parents had their reasons."
-
-"Well yeah, I know that," I said with my mouth half full. "That doesn't make me feel any better though."
-
-I frowned a little. Now that I thought about it, Sugarcane had always trusted adults, perhaps a little too much. Maybe in her world, adults were always right, the way she used to be always right in mine.
-
-"And… what do you think the reason is?" Sugarcane asked on.
-
-"I thought I told you that the other day. They want to get me expelled."
-
-"That doesn't make a lot of sense to me," Sugarcane lowered her voice. "Please, I just want to confirm it with you… You *really* didn't bring it to school yourself, did you?"
-
-"Sugarcane! Of course I didn't!"
-
-I was a bit too loud that Sugarcane's parents stopped talking and looked at me. "What's the matter, dear?"
-
-"Never mind, sorry," I mumbled.
-
-"Sorry about that too," Sugarcane said to me. "I just wanted to make sure."
+"I know I'm not one to talk," I said, "but I'm sure it'll be fine."
