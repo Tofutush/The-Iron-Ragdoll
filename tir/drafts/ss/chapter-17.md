@@ -63,3 +63,13 @@ Sky gave her a wink. "I like the way you think, but I don't want to worry you to
 "Yes, Sky," we both nodded.
 
 ---
+
+I spent the entire week anticipating the event. I tucked the invitation safe in the middle of my very important confidential textbook, but I kept reopening and looking at it until the paper was all wrinkled.
+
+At dinner, my parents tried to convince me to drop the topic of the knife. Dad even suggested Sky put it in there himself — why else would he even know to search my bag? Even Mom gave him an angry stare and told him to stop talking. He actually looked guilty when it was Mom pointing out how wrong he was.
+
+Though I was still mad at them, I was more than happy to make this topic taboo. I'd rather not think about it at this point. Though Dad did make a point: Sky came down in uniform; he took the time to change. How *did* he know he would find something, then? Did he really plant it?
+
+I shook my head at myself. How absurd of a claim. It was my parents.
+
+I didn't bother telling them about the Embassy event. They were used to me being outside all day during the weekend by now.
