@@ -2,19 +2,21 @@
 chNum: 18
 ---
 
-Auntie Snowstorm was delighted. She snatched the horns from Sugarcane's hand, chucked them right in the trash, and patted Sugarcane's bare head excitedly, muttering, "You grew up! You grew up! Have you ever seen blood when you're peeing?"
+Auntie Snowstorm was delighted. She snatched the horns from Sugarcane's hand, examined them as if they were gold bars, and patted Sugarcane's bare head excitedly, muttering, "You grew up! You grew up! Have you ever seen blood when you're peeing?"
 
 "What? Is that supposed to happen??" Sugarcane yelled.
 
-"Yeah, just tell me if you do."
+"Yeah, just tell me if you do. After dinner we can put these on the roof so your new horns will grow faster!"
 
-She started to recount the time when she shed her own horns, promptly forgetting I was there. Sugarcane managed to wriggle one arm free of her mom and wave me goodbye, but I said, "May I please have dinner here?"
-
-Home had not been a particularly happy place to be since the whole knife thing. My parents still wouldn't talk about it, let alone apologize. Besides, Sugarcane's parents actually knew how to cook.
+She started to recount the time when she shed her own horns, promptly forgetting I was there. Sugarcane managed to wriggle free and say, "Can Harmony have dinner here?"
 
 "Of course!" Auntie Snowstorm said happily. I helped them lay out the dishes, breathing in the smell, careful not to drool inside the plates.
 
-"Are you still upset about the knife thing?" Sugarcane asked at the table. "I'm sorry, but I'm sure your parents had their reasons."
+"When are your parents expecting you home?" she asked at the table.
+
+"Eh, I can stay for a while," I said. Truth was, I'd been trying to avoid them as much as possible. They still hadn't admitted to planting the knife in my bag, let alone apologize. I put my head down and sent a spoonful of peas into my mouth, trying to shut down conversation from Auntie Snowstorm. Thankfully, she turned away and started talking to Sugarcane's dad.
+
+"Are you still upset about the knife thing?" Sugarcane asked quietly. "I'm sorry, but I'm sure your parents had their reasons."
 
 "Well yeah, I know that," I said with my mouth half full. "That doesn't make me feel any better though."
 
@@ -35,6 +37,8 @@ I was a bit too loud that Sugarcane's parents stopped talking and looked at me. 
 "Sorry about that too," Sugarcane said to me. "I just wanted to make sure."
 
 "Now that you've made your 'sure,' can I make mine?" I asked.
+
+"Hm?"
 
 ---
 
