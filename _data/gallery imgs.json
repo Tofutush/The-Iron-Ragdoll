@@ -6381,5 +6381,15 @@
     "name": "cosmos",
     "date": "2026-07-06",
     "comment": "Artfight attack for [KiwiMeowo](https://artfight.net/~KiwiMeowo), featuring [Cosmos](https://artfight.net/character/3131507.cosmos)!"
+  },
+  {
+    "name": "jackalope blank",
+    "date": "2026-07-08",
+    "ch": [
+      "jackalope"
+    ],
+    "author": "BlankNinja",
+    "authorUrl": "https://artfight.net/~BlankNinja",
+    "comment": "Artfight 2026 defense!"
   }
 ]

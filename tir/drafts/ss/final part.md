@@ -42,7 +42,7 @@ I took it with both hands. "Thank you."
 
 "Of course," Sky replied. "I think I know what you're thinking."
 
-"Can I -- May I see her off?"
+"Can I — May I see her off?"
 
 Sky sighed. "Yes, you may," he said after a long pause. "I'll inform you of the schedule once it has been set, but you're responsible for getting there on time. And don't tell Sugarcane."
 
