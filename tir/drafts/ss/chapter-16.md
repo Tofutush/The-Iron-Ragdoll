@@ -2,156 +2,220 @@
 chNum: 16
 ---
 
-*Well.* I took my phone out and texted Sugarcane. She was going to see "Harmony is typing" on her end for a *while*.
+SHOW HM AND SG FIGHTING OVER JL IN THIS CHAPTER.
 
-Despite adding Jelly's number, we still found ourselves talking to her face more, because Jelly seemed to prefer that and also she couldn't spell to save her life. I could not comprehend the preference for face-to-face communication, though. When talking, you could not carefully compose your message until it was perfect before pressing send. When I talked to people directly, I've always found myself bursting out things that I later regret. Like "if possible," for instance.
+When I arrived at half past seven, Jelly wasn't even there, and the playground was quite empty, save for a few early birds. I sat down at our usual table and waited.
 
-Sky had told us that it was even an interrogation technique. To just sit there, say nothing, and stare meaningfully at the interrogated. They could potentially start saying things they might regret just to break the awkward silence.
+A few moments later, Jelly came bounding over, with a little backpack on her back, holding the tadlet box.
 
-I do hope that Jelly could get her passport. But even if she didn't manage it this time, we could come up with something new.
+"Truffle, Truffle!" She yelled.
 
-*Well. So here's the thing. Rose was making friends with Jelly. I saw her but she didn't blow my cover. She told me she wanted to meet you today in the afternoon at our usual playground. She said to "bring the thing," but I don't know what "the thing" is?*
+I winced a little, remembering all forty-*five* of Sugarcane's plushies again. I was glad I we end up naming ourselves —
 
-It was originally way longer, but I cut it down to the essentials. A perfect message, really.
+*Eww, no one names their kid 'Carrots.'* That was Sugarcane.
 
-For a long while, I stared at the screen displaying its little "Sugarcane is typing" message.
+"Truffle? Are you with me?" Jelly shook my arm and I snapped out of it.
 
-Finally the message disappeared, and I was met with a single sentence: *Got it. I'll be there.*
+"Jelly!" I said back. "You got your passport?"
 
-Cut down to the essentials, huh.
+"Yes, of course! It's in the bag. I had to *really* convince papa to let me come alone. He's busy, but he said he didn't trust me not to lose the passport, so he wanted to take a day off, but I said I'm in *middle school* already and I won't just *lose* my very important passport like I lost my wallet yesterday! *That* was an accident!"
 
-But there was more. *You don't have to come if you don't want to.*
+"Well, I'm sure accidents won't happen twice," I said.
 
-What? Of course I'd go. Whatever Rose wanted to do, I wanted to be protecting Sugarcane for once.
+"Also also look! The tadlet hadn't grown at all last night, despite…" Jelly opened the lid of the box to show me the tadlet I gave her.
 
----
+"It's just been a day," I started. "Of course it won't — holy moly!"
 
-Sugarcane wasn't there when I arrived at the playground, but Rose was, sitting at the bottom of the slide to the dismay of other children.
+Jelly had given the tadlet an entire *mountain* of grains. It was practically buried. To a human, this would probably feel like sleeping on a bed made of rice.
 
-I trotted up to her and cast a shadow over her face. She lifted her head.
+"That is. So much," I said.
 
-"Hey, I didn't ask *you* to be here."
+"I'm worried it would go hungry."
 
-"Well, I'm here now, so deal with it."
+"And *I'm* worried it would stuff itself to death," I said. "Remember, you still need to clean the box. And you'll need to throw all the extra grain away."
 
-"Pretty tough thing to say for someone who's nothing without Sugarcane. *Truffle*."
+"Um-hm," Jelly nodded. "Also, I named it Wormy."
 
-"What do you want with her? Revenge? Reparation? Or forgiveness?"
+"Hi, Wormy," I said. "Do you know you're probably the richest tadlet alive? With a mountain full of treasure!"
 
-"Whoa, whoa, calm down," Rose said dismissively. "You haven't even made up your mind about who's the offender and who's the victim."
+"Where's Spotty, anyways?" Jelly asked, closing the lid of the tadlet box. "I have something to tell both of you."
 
-She was right, honestly. It seemed that at this point, both Rose and Sugarcane knew exactly what was going on, and I was the only one still in the dark.
+Speaking of the devil, Sugarcane trotted over. "Sorry to keep you waiting! Are we ready to go?"
 
-"I mostly just want to end this once and for all," Rose continued. "You had nothing to do with it. It was between me and Sugarcane."
+"One second," Jelly said. "Do you want to come to the Westavian Embassy next weekend?"
 
-Speaking of the devil, Sugarcane appeared, holding… was that Carrots in her arm?
+"What? What for?" Sugarcane asked.
 
-She tossed the bunny at Rose, who caught it perfectly.
+"There is some sort of a cultural event. Papa had been preparing for it for months! He told me to invite my Bauhinian friends at school, but I don't *have* Bauhinian friends at school, but now I have you two! You have to come; it's gonna be so fun!"
 
-"There you go," Sugarcane said. "Now we get to forget each other ever existed."
+"Sure!" I said. "When exactly is it?"
 
-"Not so fast," Rose said. She carefully turned Carrots around in her hand, examining the plushie from all sides.
+"Saturday at four," Jelly said. She pulled out a couple of envelopes. One of them had the name "Truffle" written on it with thick purple crayon, and the other had "Spotty" in green. "This is for you… and this is for you! It goes until the evening. There's food and stuff!"
 
-What was happening?
+"Thanks." I tucked the envelope into my pocket. "Do we still meet here in the morning, then?"
 
-After quite a bit of turning and squishing, Rose finally said, "hm. You kept her in good condition."
+Jelly shook her head. "I have to help papa do the decorations."
 
-"Of course I did," Sugarcane snapped.
+"Then we'll just head straight to the embassy," Sugarcane said. "Let's get to the park now!"
 
-"You know, all this could've been avoided if you'd just did this earlier."
+"Of course!" Jelly bowed in a comedic fashion and said, "lead the way!"
 
-Sugarcane took a deep breath.
+We got onto the subway, and soon arrived at the stop nearest the Bauhinia Tower Park.
 
-"You're right," she said. "I'm sorry."
+The Tower was visible right at the exit of the subway station, a majestic structure rocketing high above the treetops. Its golden roof, ostensibly made from pure gold, shone in the mid-morning light; and its dark red wooden walls were polished gleaming, devoid of a trace of its original messy texture. At night, I remembered, if the moon was bright, the Tower would seem to glow from the inside, a clever trick done with the moonlight and many well-placed mirrors. The light from the lanterns hanging from every corner of every floor, though, was a modern, electrical addition. Every floor of the Tower was essentially a pavilion, with all four sides opening up to the outdoors.
 
-*WHAT*??
+Jelly stared at it. "That must be the Bauhinia Tower!" she gasped, pointing.
 
-"Sugarcane! Why are you apologizing?"
+"Yeah," I said. "We're gonna get closer than this, though."
 
-Sugarcane opened her mouth, but Rose let out a scoff and she only said, "I'll let Rose explain."
+"It's ironic," Sugarcane mused, "because you can't actually see the top anymore once you're in the park. Let's go!"
 
-"I don't want her to explain," I said. "I want *you* to do it."
+We arrived at the entrance, where a line of quite a few people were already assembled at the ticket booth.
 
-"Yeah," Rose added. "*You* do it!"
+"Would you mind lining up for all of us, Truffle?" Sugarcane asked. "Here's my ID." She handed me her card.
 
-Sugarcane sighed. "So Carrots… actually belonged to Rose. I, I stole it from her, and… and I never gave it back."
+"Sure," I said, holding out my other hand for Jelly's passport, which she already took out from her bag. She put it trustfully into my hand. Instead of just "passport," it said "diplomatic passport."
 
-"What? When did that happen?"
+"Let's go get some drinks while Truffle buys the tickets," Sugarcane said to Jelly.
 
-"In third grade," Sugarcane replied curtly. "Rose kept asking for it back, but I wanted to keep it, and the longer I kept it the more scared I was of giving it back."
+"Okay!" Jelly chirped and followed Sugarcane towards the row of snack vendors by the street.
 
-"Why didn't you just buy an identical one for yourself?"
+I fell in line, made sure Jelly wasn't looking my way, and flipped open her passport.
 
-"I bought that in Moreland," Rose said. "It's not sold anywhere in Bauhinia. Anyways, I wanna leave now so one last question." She stood up and pointed a finger at me. "Why is your name Truffle now?"
+*Jelly Checkers*, the passport page greeted me. *Birthday January 25^th^. Issued in People's Vanguard, Westavia.*
 
-"I, um, I —"
+People's Vanguard? I could kind of remember Sky saying the capital city of Westavia was called People's Vanguard. It was quite a mouthful for a name, though I could say the same for Flower City.
 
-"Some fancy little Spy School bullshit?"
+Quickly I snapped a photo of the page, and then a couple more as I found out my finger was blocking information, or that the image was too blurry, or that the lighting wasn't good… Finally I was satisfied with the photo. I uploaded it to our school-owned cloud storage, for which every student at Spy School had an account, and deleted all the photos off my own phone.
 
-"Well…"
+"May I help you, miss?"
 
-"It's none of your business," Sugarcane cut in.
+I snapped to attention. Apparently I had reached the start of the line already, though I didn't know when that happened.
 
-"It *is* because I like that Jelly girl a lot."
+The ticket clerk cleared her throat.
 
-"Fine," Sugarcane said. "Please refer to her as Truffle if Jelly ever brings it up. She also knows me by the name of Spotty." Her head was bowed, not daring to meet Rose's gaze.
+Right, tickets. I was about to hand over all our IDs before a thought struck me.
 
-"That works for me, as long as you don't piss me off again," Rose said. "See? I can be reasonable!"
+What if I just *didn't* buy Sugarcane a ticket?
 
-She got up and left, holding Carrots in her hand.
+Just Jelly and I. And Wormy. I wouldn't be constantly reminded of how Sugarcane stole Carrots. *And* I'd have Jelly all to myself. I could make some excuse and have Sugarcane either go home or wait for us outside. Shouldn't I do it?
 
-Sugarcane was silent for a while. She walked over to her favorite bench and sat down, crossing her legs. I joined her.
+"You're holding up the line!" the man behind me yelled. I jumped and quickly shoved all three IDs towards the ticket clerk. "Three student tickets, please!"
 
-"Well," she said. "This is it."
+"That'll be seventy-five bucks," the ticket clerk said. I paid up, and she handed me the tickets and the documents.
 
-"Sugarcane, can you explain to me what had happened?"
+"Thanks," I said.
 
-"You saw it," Sugarcane shrugged apathetically. "Can you give me a moment, please?"
+Sugarcane and Jelly were already waiting for me at the entrance gate. Jelly handed me a bottle of orange juice identical to the half-drunk one in her hand. "This is for you!"
 
-"Sure," I said. Sugarcane sighed again.
+"Thank you!" I said as I handed back her passport. Mission complete.
 
-We sat in silence for a while. Finally, Sugarcane opened her mouth. "I'm sorry for lying to you this whole time. Rose might be really mean to people she doesn't like, but she's not a bad person like I've led you to believe."
+And now that I had time to think about it, I probably wouldn't come up with a convincing excuse for leaving Sugarcane behind anyways. And Jelly might be happier if we were both with her. I sighed internally. How did I even get this idea?
 
-"So it was all because of Carrots."
+Jelly tucked the passport back into her bag, but didn't zip it up. "How much was the ticket?" she asked.
 
-"Yes. I didn't want to give her up, but I also wanted friends. That was why I kept you away from Rose and everyone else."
+"Oh, it's nothing."
 
-"Well, thanks for telling me," I said. "I'm going home now. I told Jelly to meet up at Red Hill tomorrow and go to the park together, so see you there."
+"No, no, no," Jelly shook her head. "I asked papa specifically for some cash because I know you definitely don't have a credit card reader." She took out a wallet and pulled out a bunch of notes.
 
-I left too, leaving Sugarcane sitting alone.
+"It's really not necessary," I said.
 
----
+"But *she* will just send the money over digitally when you get home," Jelly pointed at Sugarcane. "Right?"
 
-"It's quite early. I haven't even started making dinner yet," Mom said as I arrived home. "You had fun?"
+"Um. No?" That was not convincing. "Fine, it's just twenty-five bucks."
 
-"I'm tired," I said. "I want to take a nap."
+Jelly carefully counted out five five-buck notes and handed it to me, making sure I tucked them into my pocket.
 
-"It's too late. It's almost time for dinner," Mom said with zero self-awareness. "If you sleep right now you won't be able to sleep at night."
+"I'll just wire mine over right now, since we're at it," Sugarcane said. She transferred her ticket money to me and my phone buzzed with the notification. I opened it to accept the money, but at the same time sent over the link to the passport photo.
 
-"Call me when dinner is ready." I headed to my room and closed the door.
+Sugarcane clicked it open, pretending to be checking the transaction for errors. She nodded. "Let's get in, then!"
 
-Forty-five. It had always been forty-five. I lay on my bed and rubbed my temples.
+To the sides of the entrance road, there were billboards explaining the history of the Bauhinia Tower. Jelly paused in front of the first one.
 
-We had been learning memorization techniques in tradecraft class. One of them was association. We were taught to remember things by associating them with things we were familiar with.
+"*The beginning,*" she read. "*Emperor Lilypad ordered the construction of the Bauhinia Tower in 1536.* So this place is more than five hundred years old!" she exclaimed. "*He hired the Empire's best architects, and explicitly said that the Tower should be the 'tallest building on the continent.' In order to make it taller, the architects built it on a hill.* Haha, that sounds like cheating."
 
-Of course, the list I chose was the order of Sugarcane's plushies. I could recite them forward and back, and it was long enough to contain all they might test us on.
+"It did remain the tallest for five hundred years," I said. "But mostly because no one else dared to build anything taller."
 
-Order of the planets? Imagine Carrots, the little brown bunny, holding a little Mercury. Next was Slushy the white and gray husky dog, with Venus. Joy, the pink flamingo, balancing our Earth on her beak… I had never failed a single test with them.
+Jelly started to walk to the next board, but Sugarcane said, "That's boring," and whisked her away. "I can tell you the short story." She whisked Jelly away from the board and continued walking. "So this tower was originally for emperors and lords to play around and get drunk and write poems or something. After the republican revolution, people opened this place up for tourists. But all these people with their stomping feet weren't good for the creaky old wood, so now they shut it off again, but opened a park around it so people could still visit."
 
-But now, Carrots… the order was all messed up. I couldn't imagine Carrots not at the start of the list.
+"Oh, cool!" Jelly said. "But that means we won't be able to get up there?"
 
-I sat up and shook my head. Why was *that* what I was worried about the most? The order couldn't matter less! I could use Carrots for a stupid mental list whenever I want!
+"No," Sugarcane shook her head. "But there are plenty of stuff to do in the park!"
 
-The problem was that… had my friendship with Sugarcane all these years been built on a stolen plushie?
+I wished that were true. I had been here a couple of times, once with Mom (because Dad wouldn't come no matter what with his irrational fears), and once as a school field trip, and both times the trip was excessively boring.
 
-*None of this had involved you at all, but you still decided to pick a side,* Rose had said.
+I hadn't paid much attention to this before, but Sugarcane was right — inside the park, the golden peak of the Tower was hidden among the treetops. The base of it, standing on the small hill and just as extravagant as any higher level, was fenced off and guarded. Standing in front of it, we asked some other tourists to take a photo of us three. Jelly then took a few shots of the Tower herself, before opening the lid of her tadlet box and had Wormy see the Tower.
 
-Yeah, she was right. For years and years all I did was what Sugarcane did. I agreed with everything Sugarcane agreed with, and disliked everything Sugarcane disliked.
+"See, Wormy? Do you see this?" she said.
 
-Where had that gotten me? Sugarcane definitely didn't feel the same way about me. She had her own goals and ambitions. She planned to make new friends in middle school. She was dead set on joining the MSS. What about me? Would I join the MSS just to be with her? To be her shadow while she shone?
+"I'm pretty sure Wormy couldn't see three meters ahead of her," I said. Jelly giggled and shut the lid back close.
 
-Surprisingly, another voice started ringing in my skull. *I like you more than Spotty.*
+We had lunch at an overpriced and overcrowded restaurant that offered cups of pudding shaped like a miniature Tower. Jelly devoured it and promptly was no longer hungry for the main course. Afterwards, we went to the similarly overpriced souvenir shop but didn't end up buying anything.
 
-The mission. Right! I knew what to do now. I could do well on the mission. I could prove to be a great friend to Jelly, and I could do it without Sugarcane.
+We exited the shop, blinking away the afternoon sun. Jelly yawned. I felt tired too. I should suggest we go home.
 
-Starting tomorrow at the Bauhinia Tower Park.
+I opened my mouth to talk, but suddenly, Sugarcane screamed.
+
+I immediately snapped to attention.
+
+One of her elegant green horns was gone from her head. I frantically looked around. It was on the floor by her feet. I bent down and snatched it up, feeling dizzy. *Is Sugarcane okay? Why did her horn fall off? Is she going to die?*
+
+"What's going on?" Sugarcane's shaking hand hovered over where her horn should've been. "Give me that!" She pulled her horn out of my hand and tried attaching it back on her head.
+
+"Calm down," Jelly said. "You're just shedding!"
+
+"*What?*" Sugarcane was still heaving, but recovering a bit from the shock.
+
+"Bicorns shed their horns during puberty! It's just like losing your baby teeth. I'd seen some of my classmates do that back in…"
+
+Her words trailed off as Sugarcane's other horn toppled off her head and fell flat on the ground. Sugarcane winced.
+
+"They'll grow back," Jelly reassured her.
+
+Sugarcane was still in a little shock, standing there with a confounded expression.
+
+"Will *I* shed my ears too?" I touched my ears, thinking about how weird it would feel without them.
+
+"Oh, no, aurians like you and unicorns like me don't do that," Jelly said. "Only Spotty would."
+
+Sugarcane had seemingly recovered, and she had her phone out, looking at herself with the camera. "I look bald," she said. "I look like a penguin."
+
+"You look fine to me," Jelly smiled. "And it only takes like a month to grow back. Just don't scratch it if it itches."
+
+Sugarcane put her phone back in her pocket and examined her fallen horns. "What do I do with these, then?"
+
+"People usually just throw them away, but maybe you should show it to your parents first."
+
+At that moment, Jelly felt like an older sister to us, being calm and helpful when even Sugarcane was panicking.
+
+"We should make chopsticks with them," I said. "They're the right shape."
+
+"Eww, that's gross!" Sugarcane playfully bashed her horns on my head.
+
+Jelly laughed too. "Sugarcane?" She started.
+
+"What?" Sugarcane said, perhaps a bit too quickly.
+
+"What?" Jelly echoed.
+
+"What 'sugarcane'?" I could tell Sugarcane was trying hard to conceal the fear in her eyes.
+
+"Oh," Jelly said, "your horns look a lot like sugarcane, don't they?"
+
+Sugarcane relaxed, and laughed. "Eh, they've always looked like bamboo to me."
+
+"Well, now I want some sugarcane juice." Jelly pointed to a vendor on the other side of the road, with a pile of sugarcane sticks making fresh juice.
+
+We were still sipping the juice when Jelly got off the subway at Red Hill.
+
+"It was a really nice day, thank you!" she said as she left. "Remember to come to the Embassy next week!"
+
+"We won't forget," I said as the subway door closed on us.
+
+Sugarcane turned to me and said, "Can you come to my home for dinner tonight?" She was clutching her horns tight in her hand.
+
+"Sure," I said. "Are you still nervous about the horn thing?"
+
+She nodded.
+
+"I know I'm not one to talk," I said, "but I'm sure it'll be fine."
