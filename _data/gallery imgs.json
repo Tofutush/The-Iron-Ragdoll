@@ -6408,5 +6408,15 @@
     "date": "2026-07-08",
     "type": "gif",
     "comment": "Artfight attack for [monosong](https://artfight.net/~monosong), featuring [Enty](https://artfight.net/character/9433761.enty)!"
+  },
+  {
+    "name": "sunflower snailmuffin",
+    "date": "2026-07-08",
+    "author": "SnailMuffin",
+    "authorUrl": "https://artfight.net/~SnailMuffin",
+    "ch": [
+      "sunflower"
+    ],
+    "comment": "Artfight 2026 defense!"
   }
 ]

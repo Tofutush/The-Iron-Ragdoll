@@ -1,7 +1,7 @@
 ---
 chNum: 17
 ---
-
+a
 Auntie Snowstorm was delighted. She snatched the horns from Sugarcane's hand, examined them as if they were gold bars, and patted Sugarcane's bare head excitedly, muttering, "You grew up! You grew up! Have you ever seen blood when you're peeing?"
 
 "What? Is that supposed to happen??" Sugarcane yelled.
@@ -68,8 +68,8 @@ I spent the entire week anticipating the event. I tucked the invitation safe in 
 
 At dinner, my parents tried to convince me to drop the topic of the knife. Dad even suggested Sky put it in there himself — why else would he even know to search my bag? Even Mom gave him an angry stare and told him to stop talking. He actually looked guilty when it was Mom pointing out how wrong he was.
 
-Though I was still mad at them, I was more than happy to make this topic taboo. I'd rather not think about it at this point. Though Dad did make a point: Sky came down in uniform; he took the time to change. How *did* he know he would find something, then? Did he really plant it?
+Though I was still mad at them, I was more than happy to make this topic taboo. I'd rather not think about it at this point. Dad did make a point, however: Sky came down in uniform; he took the time to change. How *did* he know he would find something, then? Did he really plant it?
 
 I shook my head at myself. How absurd of a claim. It was my parents.
 
-I didn't bother telling them about the Embassy event. They were used to me being outside all day during the weekend by now.
+I didn't bother telling them about the Embassy event. They were used to me being outside all day during the weekend by now anyways.
