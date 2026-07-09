@@ -1,7 +1,7 @@
 ---
 chNum: 17
 ---
-a
+
 Auntie Snowstorm was delighted. She snatched the horns from Sugarcane's hand, examined them as if they were gold bars, and patted Sugarcane's bare head excitedly, muttering, "You grew up! You grew up! Have you ever seen blood when you're peeing?"
 
 "What? Is that supposed to happen??" Sugarcane yelled.
