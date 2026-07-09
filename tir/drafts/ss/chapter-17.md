@@ -72,4 +72,4 @@ Though I was still mad at them, I was more than happy to make this topic taboo. 
 
 I shook my head at myself. How absurd of a claim. It was my parents.
 
-I didn't bother telling them about the Embassy event. They were used to me being outside all day during the weekend by now anyways.
+I didn't bother telling them about the Embassy event. They were used to me being outside all day during the weekend by now anyways, so when I went out on Saturday they didn't suspect a thing.

@@ -112,89 +112,11 @@ The plan was for me to go on Saturday morning, presenting the tadlet. Alone. And
 
 I had wanted Sugarcane to come with me. Why shouldn't she? But she insisted that it was my gift to give. I walked into the park holding a bag with a little tadlet box inside.
 
-However, nothing could've prepared me for what I saw.
+"Truffle! Truffle!" Jelly frantically waved her arms around as she saw me.
 
-Rose. Sitting with Jelly. At the chess table. Talking to her.
+"Hey, Jelly," I said, grabbing the tadlet box from the bag. "I got you this."
 
-What could they possibly be talking about? *How was Rose here??*
-
-Jelly saw me before Rose did, and waved happily. Under any other circumstances I would be delighted.
-
-"Truffle!" She said. "Come over here!"
-
-Rose shifted her attention to me, too. "Oh, *Truffle*!" She said. "It's such a surprise! Truffle and I went to the same elementary school," she said to Jelly.
-
-"What a coincidence!" Jelly said. "Now we can *all* be friends!"
-
-No, no, no. We could not!
-
-"Hey, *Truffle*," Rose said. "Not sticking to Sugarcane's butt for once, huh?"
-
-"Who's Sugarcane?" Jelly asked.
-
-"Sugarcane was also a classmate of ours," I cut in before Rose could answer for her. "But I hadn't seen her since starting middle school."
-
-"Really," Rose said, in a deliberately teasing tone.
-
-"People grow apart," I said.
-
-"When did you get all philosophical?"
-
-"It's just an observation," I said. "What are you doing here?"
-
-"Have a seat," Jelly said, patting the stool near her, but I remained standing.
-
-"Just chatting with a friend," Rose said. "You know her?"
-
-Jelly nodded excitedly. "Truffle and I just met last week! It's amazing, how small the world is! You make two friends and more start appearing!"
-
-"Two friends?" Rose asked. "Who is the second?"
-
-"Her name is Spotty! She's friends with Truffle."
-
-"Huh," Rose side-eyed me.
-
-"Jelly, stop talking to her," I said.
-
-"Why?" Jelly asked.
-
-"Because she'd been really mean to me and Sugarcane in elementary school," I said. "She would tell all the other kids to not play with us."
-
-"So *that's* the story you're going with now, huh?" Rose said. "No more 'we won't hang out with *you* because we're *better*'?" She turned to Jelly. "Truth is, there's been a misunderstanding between me and them. Truffle and Sugarcane. For years! Can you believe that? And now I plan to settle it while we're still here. Before we went to high school, at least. After that, I hope we can be great friends!"
-
-No. Rose cannot be friends with Jelly! And I promise *this* time I wasn't just being possessive! Rose knew our real names, but we couldn't tell her about our mission. I didn't know why she was playing along and calling me "Truffle" right now, but with the way this conversation was going, I could *not* have Sugarcane, Jelly, and Rose be in the same place.
-
-"No, Rose," I said. "Stop it already!"
-
-"Stop what? Trying to talk things out?"
-
-"You had *plenty* of chances to talk things out." The tadlet probably needed air soon.
-
-"Had I? That friend of yours *never* gave me any. And now that I *finally* caught you not taped to her ass," she stood up and leaned closer so that Jelly wouldn't hear us, "tell her to meet me at the usual playground and *bring the thing*."
-
-"Bring *what* thing?"
-
-"She'll know," Rose said. "It's pitiful, really," she shook her head. "That none of this had involved you at all, but you still decided to pick a side not even knowing what the battle was about."
-
-"What?" I was genuinely confused. Did something go on between Sugarcane and Rose that I didn't know about? How could that be possible?
-
-"That's what I'm talking about. Don't worry. Just pass the message on. And oh, by the way," Rose said, "I don't know what this whole 'Truffle' thing is about, but considering you're attending Ministry Affiliate, I suppose you wouldn't really want Jelly to know your real name."
-
-On that note, she left me and Jelly alone.
-
-"Why did you drive her away?" Jelly asked, tilting her head.
-
-"She had somewhere to be," I said. "Also, I would advise you to stay away from her."
-
-"Why? She seemed really nice when she talked to me."
-
-"Because…" I took a deep breath. Listing and re-listing everything bad about Rose had been one of our favorite pastimes. Things I could tell Jelly was far too numerous to count, but I didn't want to waste any more time on Rose. "Just for a quick example. Whenever we wanted to buy, say, a comic book, she made sure to tell as many people as possible to buy the same issue, so it would be sold out by the time we get there. Also, Sugarcane has a *lot* of plushies. And Rose would constantly suggest that she didn't buy all of them, but rather stole them."
-
-"That does sound mean," Jelly said. "I guess she was just faking being nice back there?" She buried her face in her arms. "And I thought I was about to get a new friend. How silly of me."
-
-"Speaking of new friends," I said, seizing the opportunity, "I got you this."
-
-I took out the tadlet box from the bag. Jelly gingerly accepted it, and when she read the label, her eyes went wide.
+"What is this?" Jelly gingerly accepted it, and when she read the label, her eyes went wide.
 
 "A tadlet? You got me a *tadlet*? Oh my oh my I've *always* wanted a tadlet! Thank you! Thank you!! I've been begging papa for years and years but he always said they die too quickly and then I'd be sad and would demand a new one but I… Well, I *would* demand a new one."
 
@@ -208,23 +130,19 @@ She watched as the tiny, ugly tadpole squirmed among the grain pile.
 
 "You need to change the grains and clean the box every two to three days," I told her.
 
-"What's this gonna be?" She asked. "A dog? A cat?"
+"I know," Jelly nodded. "I did a lot of research on them!"
 
-"You'll have to wait until it finishes metamorphosis," I said. "There's no way to know beforehand. And that's part of the fun!"
+"You did?"
 
-"Can they be anything other than dogs or cats? When I look up tadlets online, all I see are those two."
+"I was trying to convince papa I could keep one," Jelly said. "I hope it's something other than a dog or a cat! Those two are way too common and honestly they're kind of boring."
 
-"Those are the most common," I said. "Other types are possible, too. Just rare."
+"I kept one in third grade and it turned into a dog," I said.
 
-"Are there ant tadlets?"
+"I wonder if there are ant tadlets," Jelly said. "That would be awesome! But I never found any record of an ant tadlet. Do you know?" she perked her head up and started blabbering away, "Tadlets had lived before the dinosaurs went extinct! So sometimes there are dinosaur tadlets, because *they* know what dinosaurs looked like! Of course we have to make sure to separate the original dinosaur features from the horn and wings that tadlets have, and also the colors are all wrong. But it's still super cool! And in Fanton there was a tadlet who lived for *three* whole years after metamorphosis. It's so impressive! She had like more than ten thousand eggs! She's dead *now*, though. And once some scientists filmed ultrasounds of a tadlet in its cocoon to show how exactly it transformed — oh, sorry Truffle, am I boring you?"
 
-"Uh, I don't know about that, honestly. Maybe?" I imagined an ant the size of my hand, with wings and a horn. "Usually the animal a tadlet looks like would have a tail. But I wouldn't assume there could be limitations."
+She was. "Not at all! These are all super cool!"
 
-"How do they turn into other animals, anyways?"
-
-"They're still tadlets. They just *look* like other animals after their metamorphosis." I remembered a line from either the teacher or the textbook back in third grade: *These little creatures have surprised generations of kids by turning into all sorts of animals post-metamorphosis.*
-
-"I'll take good care of it. Thank you!" Jelly said again, holding the box in her hands like treasure. "Can you keep a secret?"
+"I'll take good care of this one. Thank you!" Jelly said, holding the box in her hands like treasure. "Can you keep a secret?"
 
 My ears perked up. "What is it?"
 
@@ -236,7 +154,11 @@ My ears perked up. "What is it?"
 
 "Oh, that's…" I was at a loss of what to say. "Thank you, Jelly. And I promise to not tell anyone else."
 
-"Where's Spotty, anyways?"
+Jelly spread her arms wide. "A huggie?"
+
+"Sure." I wrapped my arms around her. Jelly tilted her head to the side in a weird way, but then I realized it was to prevent her horn from jabbing into my face. She was short and her head nested perfectly into my shoulder.
+
+"Where's Spotty, anyways?" she asked as she pulled away.
 
 "She has a bit of homework to finish," I told her. "I actually have to leave soon, too."
 
@@ -248,13 +170,13 @@ My ears perked up. "What is it?"
 
 "The Bauhinia Tower Park," I said. "Have you been there before?"
 
-Jelly shook her head. "What's in there?"
+Jelly shook her head. "I've never been up there."
 
-"It's just a park," I said. "There are a lot of snack vendors though, and we get to see the Bauhinia Tower. We can meet up here and go by subway."
+"Then we can go!" I said. "There are a lot of snack vendors though, and we get to see the Bauhinia Tower. We can meet up here and go by subway."
 
 Jelly nodded furiously.
 
-"One more thing," I said. That was the important part. "You need an ID to get in the park."
+"One thing though," I said. That was the important part. "You need an ID to get in the park."
 
 "My passport?" Jelly asked.
 

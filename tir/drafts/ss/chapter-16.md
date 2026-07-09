@@ -8,15 +8,9 @@ When I arrived at half past seven, Jelly wasn't even there, and the playground w
 
 A few moments later, Jelly came bounding over, with a little backpack on her back, holding the tadlet box.
 
-"Truffle, Truffle!" She yelled.
+"Truffle, Truffle!" she yelled.
 
-I winced a little, remembering all forty-*five* of Sugarcane's plushies again. I was glad I we end up naming ourselves —
-
-*Eww, no one names their kid 'Carrots.'* That was Sugarcane.
-
-"Truffle? Are you with me?" Jelly shook my arm and I snapped out of it.
-
-"Jelly!" I said back. "You got your passport?"
+"Jelly!" I yelled back. "You got your passport?"
 
 "Yes, of course! It's in the bag. I had to *really* convince papa to let me come alone. He's busy, but he said he didn't trust me not to lose the passport, so he wanted to take a day off, but I said I'm in *middle school* already and I won't just *lose* my very important passport like I lost my wallet yesterday! *That* was an accident!"
 
@@ -24,7 +18,7 @@ I winced a little, remembering all forty-*five* of Sugarcane's plushies again. I
 
 "Also also look! The tadlet hadn't grown at all last night, despite…" Jelly opened the lid of the box to show me the tadlet I gave her.
 
-"It's just been a day," I started. "Of course it won't — holy moly!"
+"It's just been a day," I started. "Of course it won't — holy shit!"
 
 Jelly had given the tadlet an entire *mountain* of grains. It was practically buried. To a human, this would probably feel like sleeping on a bed made of rice.
 
@@ -43,6 +37,8 @@ Jelly had given the tadlet an entire *mountain* of grains. It was practically bu
 Speaking of the devil, Sugarcane trotted over. "Sorry to keep you waiting! Are we ready to go?"
 
 "One second," Jelly said. "Do you want to come to the Westavian Embassy next weekend?"
+
+MOVE THIS TO THE END
 
 "What? What for?" Sugarcane asked.
 
@@ -94,13 +90,7 @@ I snapped to attention. Apparently I had reached the start of the line already, 
 
 The ticket clerk cleared her throat.
 
-Right, tickets. I was about to hand over all our IDs before a thought struck me.
-
-What if I just *didn't* buy Sugarcane a ticket?
-
-Just Jelly and I. And Wormy. I wouldn't be constantly reminded of how Sugarcane stole Carrots. *And* I'd have Jelly all to myself. I could make some excuse and have Sugarcane either go home or wait for us outside. Shouldn't I do it?
-
-"You're holding up the line!" the man behind me yelled. I jumped and quickly shoved all three IDs towards the ticket clerk. "Three student tickets, please!"
+I jumped and quickly shoved all three IDs towards the ticket clerk. "Three student tickets, please!"
 
 "That'll be seventy-five bucks," the ticket clerk said. I paid up, and she handed me the tickets and the documents.
 
@@ -109,8 +99,6 @@ Just Jelly and I. And Wormy. I wouldn't be constantly reminded of how Sugarcane 
 Sugarcane and Jelly were already waiting for me at the entrance gate. Jelly handed me a bottle of orange juice identical to the half-drunk one in her hand. "This is for you!"
 
 "Thank you!" I said as I handed back her passport. Mission complete.
-
-And now that I had time to think about it, I probably wouldn't come up with a convincing excuse for leaving Sugarcane behind anyways. And Jelly might be happier if we were both with her. I sighed internally. How did I even get this idea?
 
 Jelly tucked the passport back into her bag, but didn't zip it up. "How much was the ticket?" she asked.
 
