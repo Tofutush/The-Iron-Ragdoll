@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-07-11
+
+- More Artfight attacks;
+
 ## 2026-07-04
 
 - Added my Artfight attacks from yesterday;
