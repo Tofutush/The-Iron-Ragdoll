@@ -40,6 +40,8 @@ I was a bit too loud that Sugarcane's parents stopped talking and looked at me. 
 
 "Hm?"
 
+(WHAT? UH. REWRITE)
+
 ---
 
 Sky was just as delighted as Snowstorm when he heard about how we got invited to the Westavian Embassy. He turned Sugarcane's invitation letter over and over in his hands, clutching it tightly, as if it would disappear into thin air the next second.
@@ -72,4 +74,78 @@ Though I was still mad at them, I was more than happy to make this topic taboo. 
 
 I shook my head at myself. How absurd of a claim. It was my parents.
 
-I didn't bother telling them about the Embassy event. They were used to me being outside all day during the weekend by now anyways, so when I went out on Saturday they didn't suspect a thing.
+I didn't bother telling them about the Embassy event. They were used to me being outside all day during the weekend by now anyways that they even asked me why I was *home* in the morning.
+
+"I'm just tired," I said.
+
+"Do you need us to make lunch for you, then?" Mom asked.
+
+"Yeah." As soon as I said that, I realized that lunch was probably just going to involve steamed buns. But surprisingly, Mom also made some other food to go with it.
+
+At three, I got ready to leave. I opened my backpack and took out the textbook with the invitation tucked inside. Taking it out, I hesitated a bit about where to put the textbook. Of course I wasn't going to put it back in the backpack and bring it to the Westavian Embassy. In the end, I put it in my drawer and made a mental note about it. I was getting better at remembering these sorts of mental notes, thanks to school.
+
+As I was tying my shoes, Dad appeared in the doorway.
+
+"No longer tired?"
+
+"Well duh."
+
+"Where are you going?"
+
+"To meet Sugarcane." I headed out the door before he could ask another question.
+
+---
+
+The subway stop right after Litchi Farm was literally called Red Hill, and was closer to the Embassy. We passed through Red Hill Middle School on the way.
+
+"This place is called the Embassy District," Sugarcane said, examining the map on her phone. "Not only Westavia's, the embassies of Fanton, Moreland, and Sylvandia are all around here."
+
+"But not Atlasia, because they don't do embassies," I added.
+
+"Good to see you paying attention in class," Sugarcane said.
+
+Pretty soon we arrived at the Westavian Embassy, as evident from the sign that greeted us, hanging from the side of the security booth which had the Westavian seven-point star on it. On either side of the main entrance was a fence topped by barbed wire that extended all around the building. Beyond the fence, we could see neatly trimmed bushes and freshly mowed grass surrounding the place. The Embassy itself was short but wide, with its walls painted sparkling white and a big Westavian flag, bearing the same seven-point star symbol, flying on the roof.
+
+"Once we step inside, we're technically on Westavian soil," Sugarcane said.
+
+I nodded in acknowledgement. What secrets lie behind these barbed wires? I looked at my phone. It was half past three.
+
+We walked up to the security booth. The guard inside opened the window to talk to us.
+
+"Hi, we're here for the Cultural Bridge Day," Sugarcane said to the guard.
+
+"You have an invite?" he asked.
+
+We handed our hand-drawn invitations over. The guard stared at them for a good old minute, frowning.
+
+"Is this a joke?" he finally said.
+
+"Um," I started. Did Jelly really just draw us some cards thinking we could get in? Were we really about to get chased out because of *this*? Sky was going to be so disappointed —
+
+"Our friend Jelly invited us," Sugarcane said. "Her father should be the main organizer of the event?"
+
+"Checkers?" the guard asked.
+
+"I think so, maybe," Sugarcane said.
+
+"Hang on a second, please." The guard picked up his phone and presumably called Checkers.
+
+After a while, a man with red eyes came out the building, bounded across the lane and entered the guard booth. He wore a suit, but on his head he had a funny hat with red patterns on it, as well as two strips of cloth dangling behind the hat, covering the back of his neck.
+
+"Hi, Mr. Checkers," the guard said to him. "Are these your daughter's friends?"
+
+He showed Checkers our invitations. Checkers looked at the crayon drawings, and looked at us.
+
+"This is Jelly's alright," he said as he handed the invitations back to the guard. "But I have never met these girls myself before. I'll fetch Jelly and have her confirm."
+
+"We understand. We can wait," Sugarcane said.
+
+Checkers nodded and went back inside the Embassy. After a while, he emerged with Jelly holding his hand. She was wearing a similarly funny hat, but blue instead, matching her eyes. And she seemed to be holding two more.
+
+As soon as she met our gaze, she jumped up and down in excitement, shaking her father's arm. "It's them! It's them! That's Truffle, and that's Spotty! Let them in! Let them in!"
+
+"Alright," the guard said. He pushed a clipboard out the window. "Please sign your names here."
+
+After we both signed our names and passed the clipboard back to the guard, he opened the door to a very excited Jelly.
+
+"Come in! Come in! I got these for you!"

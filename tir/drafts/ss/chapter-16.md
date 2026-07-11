@@ -2,8 +2,6 @@
 chNum: 16
 ---
 
-SHOW HM AND SG FIGHTING OVER JL IN THIS CHAPTER.
-
 When I arrived at half past seven, Jelly wasn't even there, and the playground was quite empty, save for a few early birds. I sat down at our usual table and waited.
 
 A few moments later, Jelly came bounding over, with a little backpack on her back, holding the tadlet box.
@@ -31,30 +29,6 @@ Jelly had given the tadlet an entire *mountain* of grains. It was practically bu
 "Um-hm," Jelly nodded. "Also, I named it Wormy."
 
 "Hi, Wormy," I said. "Do you know you're probably the richest tadlet alive? With a mountain full of treasure!"
-
-"Where's Spotty, anyways?" Jelly asked, closing the lid of the tadlet box. "I have something to tell both of you."
-
-Speaking of the devil, Sugarcane trotted over. "Sorry to keep you waiting! Are we ready to go?"
-
-"One second," Jelly said. "Do you want to come to the Westavian Embassy next weekend?"
-
-MOVE THIS TO THE END
-
-"What? What for?" Sugarcane asked.
-
-"There is some sort of a cultural event. Papa had been preparing for it for months! He told me to invite my Bauhinian friends at school, but I don't *have* Bauhinian friends at school, but now I have you two! You have to come; it's gonna be so fun!"
-
-"Sure!" I said. "When exactly is it?"
-
-"Saturday at four," Jelly said. She pulled out a couple of envelopes. One of them had the name "Truffle" written on it with thick purple crayon, and the other had "Spotty" in green. "This is for you… and this is for you! It goes until the evening. There's food and stuff!"
-
-"Thanks." I tucked the envelope into my pocket. "Do we still meet here in the morning, then?"
-
-Jelly shook her head. "I have to help papa do the decorations."
-
-"Then we'll just head straight to the embassy," Sugarcane said. "Let's get to the park now!"
-
-"Of course!" Jelly bowed in a comedic fashion and said, "lead the way!"
 
 We got onto the subway, and soon arrived at the stop nearest the Bauhinia Tower Park.
 
@@ -193,6 +167,22 @@ Jelly laughed too. "Sugarcane?" She started.
 Sugarcane relaxed, and laughed. "Eh, they've always looked like bamboo to me."
 
 "Well, now I want some sugarcane juice." Jelly pointed to a vendor on the other side of the road, with a pile of sugarcane sticks making fresh juice.
+
+As the vendor started shoving sugarcane sticks into the juice machine, Jelly said to us, "Do you have time next weekend?"
+
+"Of course," Sugarcane said. "What is it?"
+
+"There is some sort of a cultural event at the Embassy. Papa had been preparing for it for months! He told me to invite my Bauhinian friends at school, but I don't *have* Bauhinian friends at school, but now I have you two! You have to come; it's gonna be so fun!"
+
+"Sure!" I said. "When exactly is it?"
+
+"Saturday at four," Jelly said. She pulled out a couple of envelopes. One of them had the name "Truffle" written on it with thick purple crayon, and the other had "Spotty" in green. "This is for you… and this is for you! It goes until the evening. There's food and stuff!"
+
+"Thanks." I tucked the envelope into my pocket. "Do we still meet at Red Hill in the morning, then?"
+
+Jelly shook her head. "I have to help papa do the decorations."
+
+"Then we'll just head straight to the embassy," Sugarcane said. "Hey, our juice is done."
 
 We were still sipping the juice when Jelly got off the subway at Red Hill.
 
