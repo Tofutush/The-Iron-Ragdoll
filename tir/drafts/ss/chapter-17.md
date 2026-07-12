@@ -134,9 +134,13 @@ After a while, a man with red eyes came out the building, bounded across the lan
 
 "Hi, Mr. Checkers," the guard said to him. "Are these your daughter's friends?"
 
-He showed Checkers our invitations. Checkers looked at the crayon drawings, and looked at us.
+Checkers! Our target. I had nearly forgotten about the true purpose of our mission while trying to befriend Jelly, but now that he was right here in front of us, I was reminded of how this man was potentially a secret agent, and that Jelly was merely the key to open him up wide.
 
-"This is Jelly's alright," he said as he handed the invitations back to the guard. "But I have never met these girls myself before. I'll fetch Jelly and have her confirm."
+The thought somehow jabbed at my heart.
+
+The guard showed Checkers our invitations. Checkers looked at the crayon drawings, and looked at us.
+
+"These are Jelly's alright," he said as he handed the invitations back to the guard. "But I have never met these girls myself before. I'll fetch Jelly and have her confirm."
 
 "We understand. We can wait," Sugarcane said.
 
@@ -149,3 +153,5 @@ As soon as she met our gaze, she jumped up and down in excitement, shaking her f
 After we both signed our names and passed the clipboard back to the guard, he opened the door to a very excited Jelly.
 
 "Come in! Come in! I got these for you!"
+
+She handed us each of the two hats she was holding. It was really similar to the one that she and Checkers was wearing, except that mine was purple and Sugarcane's was green.
