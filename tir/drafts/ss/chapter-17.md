@@ -154,4 +154,40 @@ After we both signed our names and passed the clipboard back to the guard, he op
 
 "Come in! Come in! I got these for you!"
 
-She handed us each of the two hats she was holding. It was really similar to the one that she and Checkers was wearing, except that mine was purple and Sugarcane's was green.
+She handed us each of the two hats she was holding. It was really similar to the ones that she and Checkers were wearing, except that mine was purple and Sugarcane's was green. She shook both of them out until they unfolded into a proper hat, complete with the dangling straps.
+
+"This is a traditional Westavian hat," Jelly said, tapping at her own. "Usually we would have it custom made to match our eye color, but I hope these are similar enough!"
+
+"Thank you so much!" I said. The purple was a little too bright, but I wasn't about to point that out. I slid the hat over my head, letting the straps fall on my neck.
+
+"I made sure to buy one with horn holes on top," Jelly said to Sugarcane, "so it feels kind of redundant now but at least it's future-proof!"
+
+Though she tried to hide it, Sugarcane visibly winced.
+
+"Oh!" Jelly also noticed it. "Are you still upset? I'm so sorry!" She leaned in to hug Sugarcane, head tilting to the side again like she always did.
+
+"It's been a week, and they're still just tiny little stubs," Sugarcane sighed. "What if they never get as long as they used to be?"
+
+"Hey there," came Checkers' voice. "I had shed my horns before too. It takes a month or two to grow back. It happens to everyone."
+
+Sugarcane waved at me and Jelly.
+
+"Well, not *every* single person, but you get what I mean. If it helps, we can make a fake horn for you out of cardboard!"
+
+"Eh, that's not necessary, but thank you," Sugarcane laughed a little.
+
+"Aww, we have an arts and crafts table set up already where you can make cardboard headbands! Even if you don't make fake horns you should still come check it out. Oh, I haven't introduced myself properly, have I?" Checkers stood up right and straightened his suit. "I am Checkers Sunfish," he said in a practiced manner. "Jelly's dad. I'm glad you're having fun with her! She's always been too shy and I'm happy to see she's making friends. Welcome to the first annual Cultural Bridge Day at the Westavian Embassy in Flower City!"
+
+"Nice to meet you, Uncle Checkers," Sugarcane said. "I'm Spotty and this is Truffle."
+
+"I'm not *shy*," Jelly huffed.
+
+"Of course you aren't," Checkers patted her on the head as she pouted. "Oh, look! There's another group."
+
+He pointed to the entrance gate, where a group of children, perhaps fourth or fifth grade, was arriving. They were accompanied by a couple of adults.
+
+"That must be the kids from the Westavian school. I'll go greet them," Checkers said. "You girls behave!"
+
+"Come on, let's go in." Jelly led us away from the gate, but instead of going into the building, we went around it.
+
+"Where are we going?" I asked.

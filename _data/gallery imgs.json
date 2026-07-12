@@ -6454,5 +6454,25 @@
     "name": "3d flashdark",
     "date": "2026-07-11",
     "comment": "Artfight attack for [Lia](https://takeoverse.nekoweb.org/), featuring [Flashdark](https://takeoverse.nekoweb.org/chara/wto/flash)!"
+  },
+  {
+    "name": "nebula xylathemoth",
+    "date": "2026-07-11",
+    "author": "XylaTheMoth",
+    "authorUrl": "https://xylathemoth.neocities.org/",
+    "ch": [
+      "nebula"
+    ],
+    "comment": "Artfight 2026 defense!"
+  },
+  {
+    "name": "jumbo autistica",
+    "date": "2026-07-11",
+    "author": "Autistica",
+    "authorUrl": "https://artfight.net/~Autistica",
+    "ch": [
+      "jumbo"
+    ],
+    "comment": "Artfight 2026 defense!"
   }
 ]
