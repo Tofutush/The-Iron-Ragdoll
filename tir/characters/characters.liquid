@@ -91,12 +91,12 @@ parent: Characters
   {% if ch.quote %}
     <blockquote>{{ ch.quote | renderMD }}</blockquote>
   {% endif %}
-  {% if ch.about %}
+  {% if ch.about or ch.monolog %}
     <h2 id="about">About</h2>
     {% if fullbody %}
       {% image fullbody 500 'fullbody' 'float-right fullbody' %}
     {% endif %}
-    {{ ch.about | renderMD }}
+    {% if ch.about %}{{ ch.about | renderMD }}{% endif %}
   {% endif %}
   {% if filteredStories.size > 0 %}
       <h2 id="stories">Stories</h2>
