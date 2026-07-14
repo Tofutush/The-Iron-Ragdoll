@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-07-14
+
+- I got the *year* of this website's creation wrong I'm so embarrassed;
+
 ## 2026-07-13
 
 - Small change, but I moved the first-person "monologue" parts of a bio into a blockquote. Currently the only characters that have this are [Paperweight](/characters/paperweight/) and [Entity](/characters/entity/);

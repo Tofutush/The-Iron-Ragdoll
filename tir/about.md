@@ -24,7 +24,7 @@ eleventyNavigation:
 
 A paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage! This website is where I display everything I have created for this paracosm.
 
-The paracosm found its birth somewhere in 2022 - 2023 and started as a Homestuck (oh, the horrors) fanventure. It's impossible to remember the exact time at this point, so I just consider its anniversary to be 2023 July 24th, the date the Neocities site was created! (Even though the Github site predates the Neocities site and the paracosm predates the Github site LOL.)
+The paracosm found its birth somewhere in 2022 - 2023 and started as a Homestuck (oh, the horrors) fanventure. It's impossible to remember the exact time at this point, so I just consider its anniversary to be 2024 July 24th, the date the Neocities site was created! (Even though the Github site predates the Neocities site and the paracosm predates the Github site LOL.)
 
 Also, I call "pages" in this site "files" because it sounds cool. If I said "page" anywhere, it was probably a mistake.
 
