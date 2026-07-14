@@ -26,7 +26,7 @@ A paracosm about a little girl solving mysteries and getting tangled up in consp
 
 The paracosm found its birth somewhere in 2022 - 2023 and started as a Homestuck (oh, the horrors) fanventure. It's impossible to remember the exact time at this point, so I just consider its anniversary to be 2024 July 24th, the date the Neocities site was created! (Even though the Github site predates the Neocities site and the paracosm predates the Github site LOL.)
 
-Also, I call "pages" in this site "files" because it sounds cool. If I said "page" anywhere, it was probably a mistake.
+Also, I call "pages" in this site "files" because it's Cool and Edgy<sup>tm</sup>. If I said "page" anywhere, it was probably a mistake.
 
 ## Content warnings
 
@@ -44,17 +44,17 @@ If a content is missing and you would like it added, please just [tell me](https
 
 ## JavaScript usage
 
-This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the relationship graph, the scavenger hunt result page, and most of the [fun](/fun/) pages. It should be fine to view most other things with JS disabled.
+This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the relationship graph, the scavenger hunt result page, and most of the [fun](/fun/) pages. I know that sounds like a lot but it's actually, uh, actually it *is* a lot. But it should be fine to read character profiles, stories, and world files with JS disabled!
 
 ## License
 
-(Me pretending I totally know all about licenses) The contents of this site is licensed under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). This thang pretty much sums up my attitude towards *anything*, really: do whatever you want, credit the original author, don't make money off it, and don't prevent other people from doing the same to your version. If something out there *isn't* released under this license somehow, I'd be a good little pirate and pretend it is anyways. (Here is your daily reminder that pirating is good, actually. It doesn't cut off any profits from the seller. Basic economics apply: you cannot make money off a consumer whose willingness-to-pay is zero.)
+(Me pretending I totally know all about licenses) The contents of this site is licensed under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
 I'd love code to have a similar license too, but apparently noncommercial goes against being open-source? Like how come? The closest to CC-BY-NC-SA I've found is GNU GPLv3, but that still allows commercial use, which goes against my principle of "if *I* cannot make money, no one else should either." So I'm gonna tack this license to the code anyways. Who's gonna stop me? Who's *actually* gonna use the code? Right? If you *do* turn out wanting to copy my code (or a part of it), I have four things to say to you: go wild, credit me, don't make money (stay poor with me), and I love you.
 
 ## Art notice
 
-Some character art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn a character before and I forgot to put that here and you'd like me to, please <a class="external-link" target="_blank" href="https://tofutush.leprd.space/guestbook/">tell me</a>!
+Some character art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn a character before and I forgot to put that here and you'd like me to, please [tell me](https://tofutush.leprd.space/guestbook/)!
 
 ## Boundaries
 
@@ -83,6 +83,6 @@ I'm Tofutush; full name is technically Skipper Tofutush but I just go by Tofutus
 
 My pronouns are she/her. I speak Chinese and English, both with native fluency, both with the vocabulary of an immature kid. I use semicolons and em-dashes like it's my last day on Earth and I chose to spend the entire day using semicolons and em-dashes.
 
-I like cats and OCs. I'd say I love all my OCs equally but that would be a lie. I'd let [Goose](/characters/goose/) do anything to me/j. Here is a list of [places I'm at](https://tofutush.leprd.space/links/). Here are some [blog posts](https://tofutush.github.io) where I overshare stuff about myself.
+I like cats and OCs. I'd say I love all my OCs equally but that would be a lie. I'd let [Goose](/characters/goose/) do anything to me/j. Here is a list of [places I'm at](https://tofutush.leprd.space/links/). Here are some [blog posts](https://tofutush.github.io/tag/tir), and [microblog posts](https://tofutush.leprd.space/microblog/?tag=tir) about TIR.
 
 Enough about me. Go read the [World overview](/world/overview/) if you haven't already!
