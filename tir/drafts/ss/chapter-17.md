@@ -176,7 +176,7 @@ Sugarcane waved at me and Jelly.
 
 "Eh, that's not necessary, but thank you," Sugarcane laughed a little.
 
-"Aww, we have an arts and crafts table set up already where you can make cardboard headbands! Even if you don't make fake horns you should still come check it out. Oh, I haven't introduced myself properly, have I?" Checkers stood up right and straightened his suit. "I am Checkers Sunfish," he said in a practiced manner. "Jelly's dad. I'm glad you're having fun with her! She's always been too shy and I'm happy to see she's making friends. Welcome to the first annual Cultural Bridge Day at the Westavian Embassy in Flower City!"
+"Aww, we have an arts and crafts table set up already where you can make cardboard headbands! Even if you don't make fake horns you should still come check it out. Oh, I haven't introduced myself properly, have I?" Checkers stood up right and straightened his suit. "I am Checkers Sunfish," he said in a practiced manner. "Jelly's dad. I'm glad you're having fun with her! She's always too shy and I'm happy to see she's making friends. Welcome to the first annual Cultural Bridge Day at the Westavian Embassy in Flower City!"
 
 "Nice to meet you, Uncle Checkers," Sugarcane said. "I'm Spotty and this is Truffle."
 
@@ -191,3 +191,5 @@ He pointed to the entrance gate, where a group of children, perhaps fourth or fi
 "Come on, let's go in." Jelly led us away from the gate, but instead of going into the building, we went around it.
 
 "Where are we going?" I asked.
+
+"To the yard, where the food is!" Jelly said. "Come on, hurry!"

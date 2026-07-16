@@ -9,4 +9,7 @@
 		2. important for reasoning why harmony was so possessive…?
 	- ok we need to redo some stuff. what if it were *harmony* who kept sugarcane away from rose, deeming her a threat, and then building a narrative surrounding rose isolating them?
 		- no no no harmony is meek.
-	- just remove rose from the later story. appear towards the end to show that harmony has moved on from her shadow and is enjoying friends without the loom of rose judging her actions. yes
+	- [x] just remove rose from the later story. appear towards the end to show that harmony has moved on from her shadow and is enjoying friends without the loom of rose judging her actions. yes
+- [ ] make wilderness survival camp at first
+	- [ ] when they get there, announce true intentions, and that only the top 50 names would be counted
+- [ ] delete coding club

@@ -6,6 +6,7 @@ parent: Root
 eleventyNavigation:
   order: 5
 ---
+
 - In-universe
 	- [Bauhinian text converter](https://tofutush.github.io/bauhinian/)
 	- [Moose ID Calculator](/fun/moose-id/)
