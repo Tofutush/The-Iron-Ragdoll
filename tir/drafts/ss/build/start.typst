@@ -1,10 +1,9 @@
 #set page(
-  width: 140mm,
-  height: 203mm,
+  width: 5.5in,
+  height: 8.5in,
   margin: 0.8in,
   numbering: "i",
-  footer: none,
-  footer-descent: 50%
+  footer: none
 )
 #set text(
   font: "Crimson Pro",
@@ -79,9 +78,15 @@ Thank you, and happy reading!
   background: context {
     if query(heading.where(level: 1).after(here())).map(h => h.location().page()).at(0, default: 0) == here().page() [
       #if calc.rem(here().page(), 2) == 0 [
-        #image("right.png")
+        #place(
+          top + right,
+          image("right.png")
+        )
       ] else [
-        #image("left.png")
+        #place(
+          top + left,
+          image("left.png")
+        )
       ]
     ]
   }

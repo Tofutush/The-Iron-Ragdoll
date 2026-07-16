@@ -13,5 +13,9 @@
 13. entity near tree, flat camera
 14. girls reading newspaper
 15. jelly with tadlet box
-16. flat camera of harmony talking to rose sitting on slide
-17. sugarcane shed
+16. sugarcane shed
+
+size note. remember for cover art
+
+- en: 5.5 x 8.5in
+- zh: 140 x 203mm
