@@ -192,4 +192,4 @@ He pointed to the entrance gate, where a group of children, perhaps fourth or fi
 
 "Where are we going?" I asked.
 
-"To the yard, where the food is!" Jelly said. "Come on, hurry!"
+"To the yard, where the food is!" Jelly said. "Come on, hurry, before they run out!"
