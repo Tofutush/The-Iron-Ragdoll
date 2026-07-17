@@ -11,7 +11,7 @@ for f in $(ls ../chapter-*.md | sort -V); do
 done > merged.md
 pandoc authornotes.md merged.md end.md -o "Spy School.epub" --metadata-file metadata.yml --split-level 1 --toc --css empty.css
 # PDF
-pandoc merged.md -o temp.typ --metadata-file metadata.yml --toc -t typst
+pandoc merged.md -o temp.typ --metadata-file metadata.yml --toc -t typst --wrap=none
 echo "$(cat start.typst && cat temp.typ && cat end.typst)" > temp.typ
 typst compile temp.typ "Spy School.pdf"
 rm temp.typ

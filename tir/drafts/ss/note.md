@@ -2,7 +2,7 @@
 	- make emotional lines clear
 		- impostor syndrome come from parents
 		- friendship line…?
-- **remember to add in sugarcane's goal of joining the mss somewhere in the beginning**
+- [ ] **remember to add in sugarcane's goal of joining the mss somewhere in the beginning**
 - rose revamp
 	- shes necessary bc
 		1. i dont want to throw her away

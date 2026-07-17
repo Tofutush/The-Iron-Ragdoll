@@ -1,6 +1,6 @@
 [stuff about harmony waiting]
 
-Jelly was rolling along a pink suitcase decorated with magenta ants along a trail. She looked… mature. Despite still being shorter, now that I knew she was actually my big sister, she started to radiate maturity.
+Jelly was rolling along a pink suitcase decorated with magenta ants along a trail. She looked… mature. Despite still being shorter, now that I knew she was actually my big sister, she started to radiate maturity. She even looked taller.
 
 She seemed surprised to see me as I ran over and wrapped her into an embrace.
 
@@ -30,29 +30,33 @@ Jelly frowned, and snatched her hands out of my grasp. "That's easy for you to s
 
 "See?" She said. "Tell me, in this perfect, borderless world you're imagining, are there any Westavians in there? Or is everyone Bauhinian?"
 
-I honestly hadn't thought about that. "Does it matter?"
+That caught me off guard. "Why would everyone be Bauhinian?"
 
-"Of course it does," Jelly snapped. "All you Bauhinians ever want is to conquer the world again and it really shows. Westavia's border is there to keep Bauhinia *out*."
+"Didn't you just try turning me and my dad into Bauhinians?" Jelly snapped. "All you Bauhinians ever want is to conquer the world again and it really shows. Westavia's border is there to keep Bauhinia *out*."
 
 "I don't want to conquer the world," I said earnestly. "I just want to be friends with you."
 
-"Well, do you want me to be Bauhinian then, or do you want to be Westavian?" Jelly stared into my eyes. "Because you can. Become Westavian. It's not too late."
+"That's what makes it so hard," Jelly shook her head. "But there's a way."
+
+"What way?" My eyes went wide.
+
+Jelly grabbed my hand and whispered into my ear. "Become Westavian."
 
 She pressed another crumpled piece of paper into my hand. I almost thought she gave my email back to me, but when I unwrapped it, it was *her* email.
 
-"Contact me if you're ready," she said. "I'll be waiting. Doesn't matter if it takes years, or decades. It's never too late. And I'll always be waiting."
+"You want to play [stuff they played] with me again? Then come on over," she said. "Contact me if you're ready. I'll be waiting. Doesn't matter if it takes years, or decades. It's never too late. And I'll always be waiting."
 
 I held the slip of paper in my hand, not sure of what to think.
 
-"And, well," Jelly said. "You think that our countries' rivalry kept us apart, right? But have you considered that it was the rivalry that brought us together in the first place? We would never have met each other if it weren't for our missions."
+"And, well," Jelly leaned back straight and said, "you think that our countries' rivalry kept us apart, right? But have you considered that it was the rivalry that brought us together in the first place? We would never have met each other if it weren't for our missions."
 
 My heart lurched. She was right.
 
 "I joined our spy school because I wanted to contribute something to my country. To Westavia. Tell me, why did *you* join your spy school?"
 
-What could I possibly tell her, except the truth? "To be with my friend."
+What could I possibly tell her, except the truth? "To be with Sugarcane."
 
-"Oh, Harmony." Jelly wrapped me into an embrace this time, burying her head in my chest. "Oh, oh, Harmony. I like you too."
+"Oh, Harmony." Jelly wrapped me into an embrace this time, tilting her head aside like she always did. "Oh, oh, Harmony. I like you too."
 
 We stood there, hugging, for a long while, before Jelly pulled away. "I have to go now," she said, wiping away tears and grabbing the handle of her suitcase. "Take care."
 
