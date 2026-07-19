@@ -48,18 +48,26 @@ Jelly handed another full cup to Sugarcane, who took the chance to grab the teap
 
 After Checkers left, also lifted her cup to take a sip. "This is salty indeed," she frowned.
 
-"This is how milk tea is supposed to taste," Jelly said. "No one makes it better than Papa." Suddenly, she gasped and pointed at a woman coming over with a stack of pizza boxes. "Auntie Moonie! What have you got there? Pizza?!"
+"This is how milk tea is supposed to taste," Jelly said. "No one makes it better than Papa."
 
-Moonie laid out the boxes on the table. "Yes! Do you want a slice?"
+I stood there awkwardly, holding the cup, still nearly full, in my hand. Jelly seemed intent on waiting for her dad to come back.
 
-"Did you make this yourself?" Jelly asked.
+"So are we just waiting for him?" Sugarcane asked.
 
-"Ha, no. I order these online. I don't know how to make pizza. Are these your friends?"
+"Um-hm," Jelly nodded. "He'll be back soon. See, there he is!"
 
-"Yes!" Jelly eagerly showed us off. "This is Truffle and this is Spotty!"
+She rushed forward to take the full teapot from Checkers' hand, but he pulled it away. "This is too heavy for you."
 
-"Hi, Auntie," I said meekly.
+"No it isn't."
 
-"Take a slice, all of you," Moonie said, opening the lid of the box at the top. "Quick before your dad notices."
+"Yes it is," Checkers set the pot on the table. Jelly went to lift it up again to prove her point. Checkers interpreted it as her wanting to drink more tea, and 
 
-Someone cleared his throat behind us. I turned around to see Checkers, one hand holding a refilled teacup and the other on his hip.
+
+
+"Awwww, papa…" Jelly tried to protest. Checkers set the teapot down and left with Moonie.
+
+"Papa, auntie, where are you going?" Jelly called after her.
+
+"Your papa and I have a lot of work to do to make sure the event runs smoothly," Moonie said. "Go make your friends feel at home, won't you?"
+
+"I will!" Jelly yelled. Checkers and Moonie disappeared into the building.
