@@ -6522,5 +6522,15 @@
     "type": "gif",
     "date": "2026-07-19",
     "comment": "Artfight attack for [stardustly](https://artfight.net/~stardustly), featuring [Wren](https://artfight.net/character/8870397.wren)!"
+  },
+  {
+    "name": "sunflower seaslugparty",
+    "date": "2026-07-19",
+    "author": "seaslugparty",
+    "authorUrl": "https://seaslug.party/",
+    "ch": [
+      "sunflower"
+    ],
+    "comment": "Artfight 2026 defense!"
   }
 ]
