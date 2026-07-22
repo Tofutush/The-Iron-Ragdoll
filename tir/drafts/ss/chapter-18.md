@@ -60,11 +60,11 @@ She rushed forward to take the full teapot from Checkers' hand, but he pulled it
 
 "No it isn't."
 
-"Yes it is," Checkers set the pot on the table. Jelly went to lift it up again to prove her point. Checkers interpreted it as her wanting to drink more tea, and 
+"Yes it is," Checkers set the pot on the table. Jelly went to lift it up again to prove her point. Checkers interpreted it as her wanting to drink more tea, and said, "no more. You've had enough."
 
 
 
-"Awwww, papa…" Jelly tried to protest. Checkers set the teapot down and left with Moonie.
+
 
 "Papa, auntie, where are you going?" Jelly called after her.
 
