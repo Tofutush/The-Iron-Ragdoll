@@ -1,6 +1,6 @@
 ---
 title: Martial Arts
-desc: The types of martial arts in this world.
+desc: The types of martial arts on the continent.
 tags:
   - lore
 categories:
@@ -85,7 +85,7 @@ During the Bauhinian revolution, most of them defended the emperor to the death,
 
 Initially Earth-style didn't have a ranking system. More like the only two ranks were "welcome to the team" and "kill yourself or someone else will do it for you." But later people made rankings because we all *love* hierarchy and feeling like we're better than other people. The ranks are simply from 0 to 8[^3], with 6 being Starcorp Security's entry threshold, and 8 being the level [Dragonfly](/characters/dragonfly/) and [Sparky](/characters/sparky/) are at.
 
-## Pit them against each other!
+## Pit them against each other
 
 Yay! Speaking from a sheer strength standpoint, **Fire**-style is definitely the strongest, followed by **Gold**-style. **Wood**-style can't be rated that well but on average its practitioners are as weak as **Water**-style. **Earth**-style, being purely defensive, can't be rated alongside the offensive ones.
 

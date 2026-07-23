@@ -1,6 +1,6 @@
 ---
 title: Races
-desc: The types of off-humans in this world.
+desc: The types of off-humans on the continent.
 tags:
   - lore
 categories:

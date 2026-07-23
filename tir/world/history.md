@@ -1,6 +1,6 @@
 ---
 title: History
-desc: The history of the world.
+desc: The history of the continent.
 tags:
   - lore
 categories:
