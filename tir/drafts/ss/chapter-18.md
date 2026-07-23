@@ -56,18 +56,24 @@ I stood there awkwardly, holding the cup, still nearly full, in my hand. Jelly s
 
 "Um-hm," Jelly nodded. "He'll be back soon. See, there he is!"
 
-She rushed forward to take the full teapot from Checkers' hand, but he pulled it away. "This is too heavy for you."
+She rushed forward to take the full teapot from Checkers' hand, but he pulled it away. "You've had enough! This is for the guests."
 
-"No it isn't."
+"So it's for Truffle and Spotty."
 
-"Yes it is," Checkers set the pot on the table. Jelly went to lift it up again to prove her point. Checkers interpreted it as her wanting to drink more tea, and said, "no more. You've had enough."
+"And about a hundred other kids. Come on, take them somewhere else that's more fun."
 
+"Fiiiine," Jelly pouted. "Let's go to the arts and crafts table then," she said to us.
 
+"Good," Checkers said. "I'll get going too."
 
+"What? Where are you going?"
 
+"I have a lot of work to do to make sure the event runs smoothly," Checkers said. "*You* just have to focus on making your friends feel at home."
 
-"Papa, auntie, where are you going?" Jelly called after her.
+"I will!" Jelly yelled. Checkers disappeared into the building. She stared at her empty cup, still in her hands, for a while, perhaps contemplating getting another cup of milk tea, before tossing it into a nearby trash can. It bounced off the edge and landed on the ground, but Jelly didn't pick it up. Sugarcane dashed over and put it back into the trash can.
 
-"Your papa and I have a lot of work to do to make sure the event runs smoothly," Moonie said. "Go make your friends feel at home, won't you?"
+"Let's go, then. It's across the lawn." Jelly tugged on my arm.
 
-"I will!" Jelly yelled. Checkers and Moonie disappeared into the building.
+"Hey, are you upset that your dad didn't have time for you?"
+
+"It's nothing," Jelly shook her head. "He's always like that."
