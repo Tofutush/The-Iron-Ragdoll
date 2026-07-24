@@ -5,6 +5,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-07-24
+
+- Artfight attacks;
+- Started removing the old Bauhinian alphabet from the site. Today all the Bauhinian names on refsheets are removed;
+	- And I don't plan to include the new Bauhinian versions in the future either. Two names are way too enough for a refsheet;
+
 ## 2026-07-14
 
 - I got the *year* of this website's creation wrong I'm so embarrassed;
