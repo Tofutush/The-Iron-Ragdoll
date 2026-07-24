@@ -5,7 +5,7 @@ parent: Language
 ---
 <style>table img {max-width: 100px;margin: auto;}</style>
 
-This script is scrapped, but I kept it here for an archive. Feel free to use this, expand, or modify, for any purpose you want!
+This script is scrapped, but I kept it here as an archive. Feel free to use this, expand, or modify, for any purpose you want!
 
 See how it looks like with the [Bauhinian text converter (old)](https://tofutush.github.io/bauhinian-old/)!
 

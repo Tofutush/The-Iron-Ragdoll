@@ -6,4 +6,6 @@ categories:
   - Lore
 ---
 
-yeah ashhadh
+| Latin | Bauhinian (if I drew it) | Type | Meaning |
+| ----- | ------------------------ | ---- | ------- |
+| sili  |                          |      | ???     |
