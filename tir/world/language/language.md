@@ -76,6 +76,10 @@ Compound vowels or consonants are not allowed, except for the exceptions explain
 2. NG cannot appear at the start of a syllable.
 3. J, Q, and X cannot be followed by Ā, Ī, or U.
 
+### Merging
+
+If two (or more) letters got together, they're pronounced as if there's only one of them there. For example, suppose a word somehow got to "to + o + ol." It would be written as "toool," but pronounced like "tol." Same goes for consonants but I guess that's more obvious: "tok + kuz" = "tokkuz" but is pronounced as "tokuz."
+
 ### Exceptions
 
 #### Compound vowels?
@@ -92,6 +96,10 @@ This is reflected on the pronunciation alone. In written form, nothing has chang
 
 The vowel I is typically short in Bauhinian. However, if it's at the very end of a word, with no consonant behind it, it becomes a long I. For example, the Bauhinian word "sili" (this has no meaning, I pulled it out my ass) is pronounced the same as the English word "silly."
 
-#### Merging
+## Writing system
 
-If two (or more) letters got together, they're pronounced as if there's only one of them there. For example, suppose a word somehow got to "to + o + ol." It would be written as "toool," but pronounced like "tol." Same goes for consonants but I guess that's more obvious: "tok + kuz" = "tokkuz" but is pronounced as "tokuz."
+Bauhinian uses a syllabary, meaning each syllable is written as a single character. Please consult this handy graph:
+
+(graph not drawn yet)
+
+According to my calculations, the total possible number of characters in Bauhinian is 
