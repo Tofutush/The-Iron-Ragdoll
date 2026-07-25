@@ -6559,5 +6559,25 @@
     "name": "kurai",
     "date": "2026-07-24",
     "comment": "Artfight attack for [AstralVoid](https://astralvoidx.neocities.org/), featuring [Kurai](https://astralvoidx.neocities.org/pages/apotelesma_wiki/wiki_kurai)!"
+  },
+  {
+    "name": "tsunami aincretop",
+    "date": "2026-07-24",
+    "author": "Aincretop",
+    "authorUrl": "https://artfight.net/~Aincretop",
+    "ch": [
+      "tsunami"
+    ],
+    "comment": "Artfight 2026 defense!"
+  },
+  {
+    "name": "goose frostlull",
+    "date": "2026-07-24",
+    "author": "Frostlull",
+    "authorUrl": "https://artfight.net/~Frostlull",
+    "ch": [
+      "goose"
+    ],
+    "comment": "Artfight 2026 defense!"
   }
 ]
