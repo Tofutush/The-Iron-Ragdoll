@@ -1,5 +1,5 @@
 ---
-title: Alphabet
+title: Old Alphabet
 desc: The old, scrapped Bauhinian Alphabet.
 parent: Language
 ---
@@ -11,7 +11,7 @@ See how it looks like with the [Bauhinian text converter (old)](https://tofutush
 
 [[toc]]
 
-I made this writing system in a maniacal spree in one night. It is inspired by the Uyghurche alphabet, which is in turn based off of the Arabic abjad[^2]. Therefore, the Bauhinian alphabet has the features of being written from right to left, top to bottom; letters are joined together in a word, and each letter has a different way of being written, depending on their position in a word — beginning, middle, or end. It is more of a cipher, actually; designed to be directly transcribed from Uyghurche to Bauhinian.
+I made this writing system in a maniacal spree in one night. It is inspired by the Uyghurche alphabet, which is in turn based off of the Arabic abjad[^1]. Therefore, the Bauhinian alphabet has the features of being written from right to left, top to bottom; letters are joined together in a word, and each letter has a different way of being written, depending on their position in a word — beginning, middle, or end. It is more of a cipher, actually; designed to be directly transcribed from Uyghurche to Bauhinian.
 
 The next day, I organized the script a little more and made it transcribable from Chinese and English as well.
 
@@ -211,4 +211,4 @@ Tone is indicated at the end of a character by a bump with the appropriate diacr
 
 The separation character can be used isolated to signify a duplicate of the previous character. In this case, the character has to be completely duplicated, as in they have to be the same character, not just homophones.
 
-[^2]: An alphabet is a writing system where each sound, vowel and consonant, is represented by a symbol. An abjad only contains consonants and leaves the vowels up to reader's inference. Though the two are largely similar, Arabic uses an abjad while Uyghurche uses an alphabet.
+[^1]: An alphabet is a writing system where each sound, vowel and consonant, is represented by a symbol. An abjad only contains consonants and leaves the vowels up to reader's inference. Though the two are largely similar, Arabic uses an abjad while Uyghurche uses an alphabet.
