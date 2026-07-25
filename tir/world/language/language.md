@@ -185,7 +185,7 @@ Asking the real questions here! "Na-owa, lantap!"
 
 ### Bauhinian
 
-Literally the standard!
+Literally the standard! I like to imagine they sound like the British.
 
 ### Fantoni
 
