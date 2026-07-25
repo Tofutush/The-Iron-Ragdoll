@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-07-25
+
+- New files [Language](/world/language/) and [Lexicon](/world/lexicon/);
+- Moved Alphabet to [Old Alphabet](/world/language/old-alphabet/);
+
 ## 2026-07-24
 
 - Artfight attacks;
