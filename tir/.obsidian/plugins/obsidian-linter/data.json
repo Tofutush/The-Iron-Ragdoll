@@ -146,8 +146,8 @@
       "enabled": true
     },
     "quote-style": {
-      "enabled": true,
-      "single-quote-enabled": true,
+      "enabled": false,
+      "single-quote-enabled": false,
       "single-quote-style": "''",
       "double-quote-enabled": true,
       "double-quote-style": "\"\""
