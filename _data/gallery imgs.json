@@ -3412,7 +3412,7 @@
     "name": "jon",
     "type": "gif",
     "date": "2025-07-12",
-    "comment": "Artfight attack for [Lia](https://artfight.net/~Lia_Amanata), featuring [Jon](https://artfight.net/character/5811430.jon)."
+    "comment": "Artfight attack for [Lia](https://takeoverse.nekoweb.org/), featuring [Jon](https://artfight.net/character/5811430.jon)."
   },
   {
     "name": "ri",
@@ -3589,7 +3589,7 @@
   {
     "name": "mss lia",
     "date": "2025-07-24",
-    "authorUrl": "https://artfight.net/~Lia_Amanata",
+    "authorUrl": "https://takeoverse.nekoweb.org/",
     "author": "Lia",
     "ch": [
       "halcyon",
@@ -6578,6 +6578,19 @@
     "authorUrl": "https://artfight.net/~Frostlull",
     "ch": [
       "goose"
+    ],
+    "comment": "Artfight 2026 defense!"
+  },
+  {
+    "name": "ss3 lia",
+    "date": "2026-07-26",
+    "type": "gif",
+    "author": "Lia",
+    "authorUrl": "https://takeoverse.nekoweb.org/",
+    "ch": [
+      "harmony",
+      "jelly",
+      "sugarcane"
     ],
     "comment": "Artfight 2026 defense!"
   }
