@@ -14,9 +14,20 @@ Due to literally being one Bauhinian Empire for thousands of years, everyone on 
 
 [[toc]]
 
-Bauhinian features 8 vowels and 24 consonants.
+## Ancient vs. Modern
+
+Ancient Bauhinian is quite a different language from Modern Bauhinian, though I'm too lazy to make *two* entire conlangs so either of these two ideas are fine and can and do coexist:
+
+1. Ancient Bauhinian is the language described in this file, and Modern Bauhinian uses most of the same framework, except that some words in Ancient Bauhinian are discarded or changed because they were basically only used by aristocrats and were removed from daily use;
+2. Ancient Bauhinian is the language described in this file, and Modern Bauhinian is literally any language you'd like. It could be English as that's what most of this website is written in. It could be Chinese. It could be literally whatever, and the puns specific to that language would always make sense.
+
+Anything to make the plot work.
+
+Ancient Bauhinian is a school subject in most places.
 
 ## Phonology
+
+Bauhinian features 8 vowels and 24 consonants.
 
 ### Vowels
 
@@ -119,6 +130,8 @@ Well most of Bauhinian you're gonna see here are Latinizations because writing t
 
 In Latin transcriptions, affixes must be separated by hyphens.
 
+And if you don't want to type any diacritics at *all*, you can substitute the vowels ā, ī, and ū with aa, ii, and uu.
+
 ## Grammar
 
 Bauhinian is an agglutinative language, relying on affixes (only prefixes and suffixes here) to modify a word to give it additional meaning.
@@ -171,11 +184,29 @@ Telling someone about the property of something is a very common speech pattern.
 >
 > The apples are red = "sātan-nip-**nan** nad-**sīn**"
 >
-> Sparky is the girl who's eating = "Tantan-**nan**, nomni-watanka-mofilip-**sīn**"
+> Sparky is the girl who's eating = "Tantan-**nan**, nomni-tanka-mofilip-**sīn**"
 >
-> The boy standing there is Nightsun = "Chax-watanka-pufilip-**nan**, Yaminālaka-**sīn**"
+> The boy standing there is Nightsun = "Chax-tanka-pufilip-**nan**, Yaminālaka-**sīn**"
 
 ### Cause and effect
+
+This is literally the reason I made this in the first place but I just got too lazy to write it. One day.
+
+### Verb tenses
+
+Bauhinian has:
+
+- Past tense (did): -waq
+- Present ongoing (doing): -tanka
+- Present perfect (have just done): -…
+- Future (will do): -…
+- Just about to do: -…
+- Should do: -…
+- Must do: -…
+- Want to do: -…
+- And whatever more I can think of
+
+Okay some of these maybe (definitely) can't be categorized as "tenses" in a grammatical sense but I don't care.
 
 ### Saying "hello world"
 
@@ -201,7 +232,7 @@ Pronounces NG's like N's. "Nang" becomes "nan."
 
 ### Morelandian
 
-Softens T's into D's like them yankees. "Ata" and "ada" are the same in their mouths.
+Softens T's into D's like them yankees. "Ata" and "ada" are the same in their mouths. Also likes to connect consonants to the next syllable if that starts with a vowel. For example, the I in "yami + nāl" would usually be unaffected by the N in "nāl," but for the Moose would pronounce it like "yam-min-nāl."
 
 ### Sylvandian
 

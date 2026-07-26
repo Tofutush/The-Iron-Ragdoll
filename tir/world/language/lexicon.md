@@ -94,16 +94,18 @@ categories:
 
 ## Grammatical suffixes
 
-| Latin   | Bauhinian | Applied to | Purpose                                                                                  |
-| ------- | --------- | ---------- | ---------------------------------------------------------------------------------------- |
-| nip     |           | nouns      | plural                                                                                   |
-| nan     |           |            | denoting the "known" side of an [equivalence](/world/language/something-is-something)    |
-| sīn     |           |            | denoting the "new info" side of an [equivalence](/world/language#something-is-something) |
-| tik     |           | adjectives | to [reduce the degree](/world/language#emphasis) expressed by the adjective              |
-| watanka |           | verbs      | present ongoing tense                                                                    |
+| Latin | Bauhinian | Applied to | Purpose                                                                                  |
+| ----- | --------- | ---------- | ---------------------------------------------------------------------------------------- |
+| nip   |           | nouns      | plural                                                                                   |
+| nan   |           |            | denoting the "known" side of an [equivalence](/world/language/something-is-something)    |
+| sīn   |           |            | denoting the "new info" side of an [equivalence](/world/language#something-is-something) |
+| tik   |           | adjectives | to [reduce the degree](/world/language#emphasis) expressed by the adjective              |
+| waq   |           | verbs      | past tense                                                                               |
+| tanka |           | verbs      | present ongoing tense                                                                    |
 
 ## Misc
 
-| Latin | Bauhinian | Meaning |
-| ----- | --------- | ------- |
-| owa   |           | hello   |
+| Latin       | Bauhinian | Meaning |
+| ----------- | --------- | ------- |
+| owa         |           | hello   |
+| mumuqitafad |           | please  |
