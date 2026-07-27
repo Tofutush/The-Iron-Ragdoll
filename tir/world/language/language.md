@@ -16,14 +16,18 @@ Due to literally being one Bauhinian Empire for thousands of years, everyone on 
 
 ## Ancient vs. Modern
 
-Ancient Bauhinian is quite a different language from Modern Bauhinian, though I'm too lazy to make *two* entire conlangs so either of these two ideas are fine and can and do coexist:
+Ancient Bauhinian is split into two forms: Noble Bauhinian and Common Bauhinian (think Latin and Vulgar Latin). Modern Bauhinian is developed from Common Bauhinian, while Noble Bauhinian is taught as a school subject to torture students all over the continent. In most places, these two languages (the old Noble one and the modern one) are now called Ancient Bauhinian and Modern Bauhinian now, to rid the idea of an aristocrat-exclusive language, although in Fanton they still call it Noble and Common Bauhinian.
 
-1. Ancient Bauhinian is the language described in this file, and Modern Bauhinian uses most of the same framework, except that some words in Ancient Bauhinian are discarded or changed because they were basically only used by aristocrats and were removed from daily use;
-2. Ancient Bauhinian is the language described in this file, and Modern Bauhinian is literally any language you'd like. It could be English as that's what most of this website is written in. It could be Chinese. It could be literally whatever, and the puns specific to that language would always make sense.
+As far as we're concerned, there existed 3 languages on the continent:
 
-Anything to make the plot work.
+- Noble Bauhinian, used mainly by aristocrats, has extensive written records and documents
+- Common Bauhinian, no written documents until pretty late; linguists can only speculate on how it sounded like further back
+- Modern Bauhinian, spoken by everyone now, developed from Common
 
-Ancient Bauhinian is a school subject in most places.
+This file documents Noble Bauhinian. As for Modern Bauhinian, it could either be:
+
+1. A language that shares the phonology, writing system, and some other characteristics, though a little different (this is canon).
+2. Literally any language you'd like. It could be English as that's what most of this website is written in. It could be Chinese. It could be literally whatever, and the puns specific to that language would always make sense (this is for convenience).
 
 ## Phonology
 
