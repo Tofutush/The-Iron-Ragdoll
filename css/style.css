@@ -487,6 +487,8 @@ table {
 	border-collapse: collapse;
 	width: 100%;
 	line-height: 2;
+	border-radius: 1em;
+	overflow: hidden;
 }
 
 thead tr {
@@ -564,6 +566,8 @@ th.sortable {
 		margin-left: -60px;
 		opacity: 0;
 		transition: all .3s;
+		text-wrap-mode: wrap;
+		line-height: 1.5;
 		user-select: none;
 	}
 
@@ -571,6 +575,11 @@ th.sortable {
 		visibility: visible;
 		opacity: 1;
 	}
+}
+
+span.tooltip {
+	text-decoration: underline dotted 3px;
+	cursor: help;
 }
 
 .box-nav,

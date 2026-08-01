@@ -81,22 +81,22 @@ Letters with no sound-alikes sounds like how they would in English.
 
 Syllables in Bauhinian are constructed with one of these patterns:
 
-1. a single vowel (a, e)
-2. consonant + vowel (pa, mo)
-3. vowel + consonant (at, um)
-4. consonant + vowel + consonant (nam, wās)
+1. a single vowel (*a*, *e*)
+2. consonant + vowel (*pa*, *mo*)
+3. vowel + consonant (*at*, *um*)
+4. consonant + vowel + consonant (*nam*, *wās*)
 
 But here are some restrictions:
 
-1. Y cannot appear at the end of a syllable.
-2. NG cannot appear at the start of a syllable.
-3. J, Q, and X cannot be followed by Ā, Ī, or U.
+1. *y* cannot appear at the end of a syllable.
+2. ng cannot appear at the start of a syllable.
+3. *j*, *q*, and *x* cannot be followed by *ā*, *ī*, or *ū*.
 
 ### Pronunciation
 
 #### Special-ass consonants
 
-When J, Q, and X are followed by A, E, or O, they are pronounced with a compound I + whatever followed them. To illustrate:
+When *j*, *q*, and *x* are followed by *a*, *e*, or *o*, they are pronounced with a compound I + whatever followed them. To illustrate:
 
 - j + a = jia (加)
 - q + e = qie (切)
@@ -106,11 +106,11 @@ This is reflected on the pronunciation alone. In written form, nothing has chang
 
 #### Long and short "I"
 
-The vowel I is typically short in Bauhinian. However, if it's at the very end of a word, with no consonant behind it, it becomes a long I. For example, the Bauhinian word "sili" is pronounced the same as the English word "silly."
+The vowel I is typically short in Bauhinian. However, if it's at the very end of a word, with no consonant behind it, it becomes a long I. For example, the Bauhinian word *sili* is pronounced the same as the English word "silly."
 
 #### Merging
 
-If two (or more) letters got together, they're pronounced as if there's only one of them there. For example, suppose a word somehow got to "to + o + ol." It would be written as "toool," but pronounced like "tol." Same goes for consonants but I guess that's more obvious: "tok + kuz" = "tokkuz" but is pronounced as "tokuz."
+If two (or more) letters got together, they're pronounced as if there's only one of them there. For example, suppose a word somehow got to "to + o + ol." It would be written as *toool*, but pronounced like "tol." Same goes for consonants but I guess that's more obvious: "tok + kuz" = "tokkuz" but is pronounced as "tokuz."
 
 #### Stress
 
@@ -132,33 +132,33 @@ tba
 
 Well most of Bauhinian you're gonna see here are Latinizations because writing those characters, saving them as pictures, and putting them here is tedious.
 
-In Latin transcriptions, affixes must be separated by hyphens.
-
-And if you don't want to type any diacritics at *all*, you can substitute the vowels ā, ī, and ū with aa, ii, and uu.
+- Affixes must be separated by hyphens.
+- Syllables that start with a vowel must have an apostrophe in front of it, unless it's at the start of a word. In dictionaries, all syllables are separated by apostrophes. This is to separate, for example, *tetel* (*te'tel*) from *tet'el*.
+- And if you don't want to type any diacritics at *all*, you can substitute the vowels *ā*, *ī*, and *ū* with *ay*, *ai*, and *yu*.
 
 ## Grammar
 
-Bauhinian is an agglutinative language, relying on affixes (only prefixes and suffixes here) to modify a word to give it additional meaning.
+Bauhinian is an agglutinative language, relying on affixes (only prefixes and suffixes here) to modify a word to give it additional meaning. But it's also kinda rigid in word order. I don't know actually. Fuck it.
 
-The basic word order of Bauhinian is SVO (subject, verb, object), but other parts of the speech can be flexible due to affixes.
+The basic word order of Bauhinian is SVO (subject, verb, object).
 
 ### Plural
 
 The plural of a noun is denoted using the suffix "-nip." In Bauhinian, "plural" is only used when the number of things is uncertain. When the number is certain, no plural suffix is added.
 
-> [!example]
-> apple = "sātan"
->
-> apples = "sātan-**nip**"
->
-> two apples = "yax sātan"
+| Bauhinian                                                                   | English    |
+| --------------------------------------------------------------------------- | ---------- |
+| sātan                                                                       | apple      |
+| sātan-*nip*                                                                 | apples     |
+| <span class="tooltip"><span class="tooltip-text">two</span>yax</span> sātan | two apples |
 
 ### Adjectives
 
 Adjectives in Bauhinian are placed before nouns. For multiple adjectives, there is an order you need to follow, but I don't want to come up with it right now.
 
-> [!example]
-> colorful tadlet = "nadmun-fisili"
+| Bauhinian                                                                                                                                                 | English         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| <span class="tooltip"><span class="tooltip-text">colorful</span>nadmun</span>-<span class="tooltip"><span class="tooltip-text">tadlet</span>fisili</span> | colorful tadlet |
 
 #### Emphasis
 
@@ -166,31 +166,26 @@ In English, adjectives can be modified by "very" or "a little," to represent a d
 
 To express this idea in Bauhinian, you modify the adjective itself. To increase the degree, repeat the first syllable of the adjective (or the whole word if there's only one syllable) as many times as you'd like. To reduce the degree, add the suffix "-tik" as many times as you'd like. Note that doing this for more than one time will have society clock you as a brainrot kid!
 
-> [!example]
-> colorful = "nadmun"
->
-> very colorful = "**nad**nadmun"
->
-> literally eye-scorching = "**nadnadnad**nadmun" (also you're probably under 10 years old)
->
-> not so colorful = "nadmun**tik**"
->
-> literally grayscale = "nadmun**tiktiktik**"
+| Bauhinian           | English                                                           |
+| ------------------- | ----------------------------------------------------------------- |
+| nadmun              | colorful                                                          |
+| **nad**nadmun       | very colorful                                                     |
+| **nadnadnad**nadmun | literally eye-scorching (also you're probably under 10 years old) |
+| nadmun**tik**       | not so colorful                                                   |
+| nadmun**tiktiktik** | literally grayscale                                               |
 
 Also this type of speech is not accepted in academia, and you need to resort to precise and boring ways to express how your beaker of clear liquid turned a tiny bit blue after 8 hours. I have not come up with the boring way to express it and I don't want to because it's boring.
 
-### Something is something
+### Predicative
 
 Telling someone about the property of something is a very common speech pattern. "The world is big." "The apples are red." "Sparky is the girl who's eating." "The boy standing there is Nightsun." To express these ideas in Bauhinian, you add the suffix "-nan" to the thing being described, and "-sīn" to the property being assigned to it. 有点像古汉语里的“什么什么**者**，什么什么**也**”。 In speaking, a pause is usually between the two words / phrases. In writing, there may be a comma to represent the pause, but it's omittable.
 
-> [!example]
-> The world is big = "lantap-**nan** zhong-**sīn**"
->
-> The apples are red = "sātan-nip-**nan** nad-**sīn**"
->
-> Sparky is the girl who's eating = "Tantan-**nan**, nomni-tanka-mofilip-**sīn**"
->
-> The boy standing there is Nightsun = "Chax-tanka-pufilip-**nan**, Yaminālaka-**sīn**"
+| Bauhinian                                                                                                                                                                                                                                                                                                                                                                                                      | English                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>-**nan** <span class="tooltip"><span class="tooltip-text">big</span>zhong</span>-**sīn**                                                                                                                                                                                                                                             | The world is big                |
+| <span class="tooltip"><span class="tooltip-text">apple</span>sātan</span>-<span class="tooltip"><span class="tooltip-text">plural</span>nip</span>-**nan** <span class="tooltip"><span class="tooltip-text">red</span>nad</span>-**sīn**                                                                                                                                                                       | The apples are red              |
+| <span class="tooltip"><span class="tooltip-text">sparkly</span>Tan</span>tan-**nan**, <span class="tooltip"><span class="tooltip-text">eat</span>nomni</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">girl</span>mofilip</span>-**sīn**                                                                     | Sparky is the girl who's eating |
+| <span class="tooltip"><span class="tooltip-text">stand</span>Chax</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">boy</span>pufilip</span>-**nan**, <span class="tooltip"><span class="tooltip-text">night</span>Yamināl</span><span class="tooltip"><span class="tooltip-text">sun</span>aka</span>-**sīn** | The boy standing  is Nightsun   |
 
 ### Cause and effect
 
@@ -214,33 +209,24 @@ Okay some of these maybe (definitely) can't be categorized as "tenses" in a gram
 
 ### Saying "hello world"
 
-Asking the real questions here! "Na-owa, lantap!"
+Asking the real questions here! "<span class="tooltip"><span class="tooltip-text">you</span>Na</span>-<span class="tooltip"><span class="tooltip-text">hello</span>owa</span>, <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>!"
 
 ## Accents
 
-### Bauhinian
-
-Literally the standard! I like to imagine they sound like the British.
-
-### Fantoni
-
-Quite similar to Bauhinian, except they often mix up N's and L's. May pronounce "nat" as "lat," for example.
-
-### Atlasian
-
-Likes to drag out their I's, making all of them long. "Filip" becomes "feeeeeleeeeep!"
-
-### Westavian
-
-Pronounces NG's like N's. "Nang" becomes "nan."
-
-### Morelandian
-
-Softens T's into D's like them yankees. "Ata" and "ada" are the same in their mouths. Also likes to connect consonants to the next syllable if that starts with a vowel. For example, the I in "yami + nāl" would usually be unaffected by the N in "nāl," but for the Moose would pronounce it like "yam-min-nāl."
-
-### Sylvandian
-
-Pronounces V's like W's.
+<dl>
+<dt>Bauhinian</dt>
+<dd>Literally the standard! I like to imagine they sound like the British.</dd>
+<dt>Fantoni</dt>
+<dd>Quite similar to Bauhinian, except they often mix up N's and L's. May pronounce "nat" as "lat," for example.</dd>
+<dt>Atlasian</dt>
+<dd>Likes to drag out their I's, making all of them long. "Filip" becomes "feeeeeleeeeep!"</dd>
+<dt>Westavian</dt>
+<dd>Pronounces NG's like N's. "Nang" becomes "nan."</dd>
+<dt>Morelandian</dt>
+<dd>Softens T's into D's like them yankees. "Ata" and "ada" are the same in their mouths. Also likes to connect consonants to the next syllable if that starts with a vowel. For example, the I in "yami + nāl" would usually be unaffected by the N in "nāl," but for the Moose would pronounce it like "yam-min-nāl."</dd>
+<dt>Sylvandian</dt>
+<dd>Pronounces V's like W's.</dd>
+</dl>
 
 ## QnA
 
