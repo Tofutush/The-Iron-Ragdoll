@@ -10,7 +10,7 @@ categories:
 Due to literally being one Bauhinian Empire for thousands of years, everyone on the continent speaks one language. Though topolects and accents exist, the foundations of them are the same, and they always remain mutually intelligible. Here is all the info on the language! For a list of words in the language, refer to the [lexicon](/world/language/lexicon/)!
 
 > [!info]+ Info
-> This batshit file is going to be riddled in unprofessional terminology that can make a real linguist weep, and I'm sorry about that. Do [tell me](https://tofutush.leprd.space/guestbook/) if there's something you think I should change! Also, I would likely never make this into a fully-fledged conlang.
+> This batshit file is going to be riddled in unprofessional terminology that can make a real linguist weep, and I'm sorry about that. Do [tell me](https://tofutush.leprd.space/guestbook/) if there's something you think I should change! Also, I would likely never make this into a fully-fledged conlang, and more important than ever that everything here is subject to change!
 
 [[toc]]
 
@@ -28,6 +28,16 @@ This file documents Noble Bauhinian. As for Modern Bauhinian, it could either be
 
 1. A language that shares the phonology, writing system, and some other characteristics, though a little different (this is canon).
 2. Literally any language you'd like. It could be English as that's what most of this website is written in. It could be Chinese. It could be literally whatever, and the puns specific to that language would always make sense (this is for convenience).
+
+## In brief
+
+Since I'm never finishing this language anyways, I'm gonna talk about some important features of Bauhinian:
+
+1. It is very specific and precise when talking about objective things. Evidentiality (saw with your own eyes? heard from someone trustworthy? untrustworthy? inferred it?), when exactly an event happened (historical event? just happened like hot news? happened early in your life?), etc.
+2. However, it's insanely vague when it comes to subjective stuff. "I want to be in bed with you 25 hours a day and have ten billion children[^1]" and "I like you as a normal acquaintance. I might say hello to you on the street if I'm feeling nice" are literally expressed the same way, and there's no way around it unless you want to resort to literally saying "please have ten billion children with me" which just makes you sound perverted.
+3. Questions are worded completely differently when in normal contexts and in interrogations. Grammatically they are called "asking questions" and "requesting information," respectively. Exams are usually worded like "asking questions," except the exams at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/) which like the tone of "requesting information."
+
+I literally don't know how to make some (most) of these features LMAO…
 
 ## Phonology
 
@@ -232,3 +242,5 @@ Asking the real questions here! "<span class="tooltip"><span class="tooltip-text
 
 > [!question] Where do all these ideas come from?
 > Straight out my ass! I mean isn't conlanging basically just like that?
+
+[^1]: Halcyon behavior
