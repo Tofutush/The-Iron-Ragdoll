@@ -485,7 +485,8 @@ footer {
 
 table {
 	border-collapse: collapse;
-	width: 100%;
+	width: max-content;
+	min-width: 100%;
 	line-height: 2;
 	border-radius: 1em;
 	overflow: hidden;
@@ -505,7 +506,7 @@ td {
 	padding: 1em;
 	border: 0;
 	text-align: left;
-	white-space: nowrap;
+	max-width: 20em;
 }
 
 th.sortable {
