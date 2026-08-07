@@ -217,15 +217,15 @@ Asking the real questions here! "<span class="tooltip"><span class="tooltip-text
 <dt>Bauhinian</dt>
 <dd>Literally the standard! I like to imagine they sound like the British.</dd>
 <dt>Fantoni</dt>
-<dd>Quite similar to Bauhinian, except they often mix up N's and L's. May pronounce "nat" as "lat," for example.</dd>
+<dd>Quite similar to Bauhinian, except they often mix up *n*s and *l*s. May pronounce "nat" as "lat," for example.</dd>
 <dt>Atlasian</dt>
-<dd>Likes to drag out their I's, making all of them long. "Filip" becomes "feeeeeleeeeep!"</dd>
+<dd>Likes to drag out their *i*s, making all of them long. "Filip" becomes "feeeeeleeeeep!"</dd>
 <dt>Westavian</dt>
-<dd>Pronounces NG's like N's. "Nang" becomes "nan."</dd>
+<dd>Pronounces *ng*s like *n*s. "Nang" becomes "nan."</dd>
 <dt>Morelandian</dt>
-<dd>Softens T's into D's like them yankees. "Ata" and "ada" are the same in their mouths. Also likes to connect consonants to the next syllable if that starts with a vowel. For example, Nightsun's name is *Yamituk'aka*, and the *aka* should be crisp. But the Moose, along with some Atlasians too, would pronounce it as "kaka." Which is annoying.</dd>
+<dd>Softens *t*s into *d*s like them yankees. "Ata" and "ada" are the same in their mouths. Also likes to connect consonants to the next syllable if that starts with a vowel. For example, Nightsun's name is *Yamituk'aka*, and the *aka* should be crisp. But the Moose, along with some Atlasians too, would pronounce it as "kaka." Which is annoying.</dd>
 <dt>Sylvandian</dt>
-<dd>Pronounces V's like W's.</dd>
+<dd>Pronounces *v*s like *w*s.</dd>
 </dl>
 
 ## QnA
