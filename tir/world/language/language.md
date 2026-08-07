@@ -41,20 +41,17 @@ I literally don't know how to make some (most) of these features LMAO…
 
 ## Phonology
 
-Bauhinian features 8 vowels and 24 consonants.
+Bauhinian features 5 vowels and 23 consonants.
 
 ### Vowels
 
 | Latin | Bauhinian | Sound-alike |
 | ----- | --------- | ----------- |
 | a     |           | **a**pple   |
-| ā     |           | w**ay**     |
 | e     |           | s**e**t     |
 | i     |           | t**i**p     |
-| ī     |           | t**ie**     |
 | o     |           | b**oa**t    |
 | u     |           | b**oo**t    |
-| ū     |           | f**ew**     |
 
 ### Consonants
 
@@ -82,7 +79,6 @@ Letters with no sound-alikes sounds like how they would in English.
 | zh (**j**uice) |           |
 | ch             |           |
 | sh             |           |
-| h              |           |
 | y              |           |
 | w              |           |
 | ng (si**ng**)  |           |
@@ -94,19 +90,18 @@ Syllables in Bauhinian are constructed with one of these patterns:
 1. a single vowel (*a*, *e*)
 2. consonant + vowel (*pa*, *mo*)
 3. vowel + consonant (*at*, *um*)
-4. consonant + vowel + consonant (*nam*, *wās*)
+4. consonant + vowel + consonant (*nam*, *was*)
 
 But here are some restrictions:
 
 1. *y* cannot appear at the end of a syllable.
 2. ng cannot appear at the start of a syllable.
-3. *j*, *q*, and *x* cannot be followed by *ā*, *ī*, or *ū*.
 
 ### Pronunciation
 
 #### Special-ass consonants
 
-When *j*, *q*, and *x* are followed by *a*, *e*, or *o*, they are pronounced with a compound I + whatever followed them. To illustrate:
+When *j*, *q*, and *x* are followed by *a*, *e*, or *o*, they are pronounced with a compound *i* + whatever followed them. To illustrate:
 
 - j + a = jia (加)
 - q + e = qie (切)
@@ -114,13 +109,13 @@ When *j*, *q*, and *x* are followed by *a*, *e*, or *o*, they are pronounced wit
 
 This is reflected on the pronunciation alone. In written form, nothing has changed.
 
-#### Long and short "I"
+#### Long and short *i*
 
-The vowel I is typically short in Bauhinian. However, if it's at the very end of a word, with no consonant behind it, it becomes a long I. For example, the Bauhinian word *sili* is pronounced the same as the English word "silly."
+The vowel *i* is typically short in Bauhinian. However, if it's at the very end of a word, with no consonant behind it, it becomes a long *i*. For example, the Bauhinian word *sili* is pronounced the same as the English word "silly."
 
 #### Merging
 
-If two (or more) letters got together, they're pronounced as if there's only one of them there. For example, suppose a word somehow got to "to + o + ol." It would be written as *toool*, but pronounced like "tol." Same goes for consonants but I guess that's more obvious: "tok + kuz" = "tokkuz" but is pronounced as "tokuz."
+If two (or more) letters got together, they're pronounced as if there's only one of them there. For example, suppose a word somehow got to "to + o + ol." It would be written as *toool*, but pronounced like "tol." Same goes for consonants but I guess that's more obvious: "tok + kuz" = *tokkuz* but is pronounced as "tokuz."
 
 #### Stress
 
@@ -144,23 +139,20 @@ Well most of Bauhinian you're gonna see here are Latinizations because writing t
 
 - Affixes must be separated by hyphens.
 - Syllables that start with a vowel must have an apostrophe in front of it, unless it's at the start of a word. In dictionaries, all syllables are separated by apostrophes. This is to separate, for example, *tetel* (*te'tel*) from *tet'el*.
-- And if you don't want to type any diacritics at *all*, you can substitute the vowels *ā*, *ī*, and *ū* with *ay*, *ai*, and *yu*.
 
 ## Grammar
 
-Bauhinian is an agglutinative language, relying on affixes (only prefixes and suffixes here) to modify a word to give it additional meaning. But it's also kinda rigid in word order. I don't know actually. Fuck it.
-
-The basic word order of Bauhinian is SVO (subject, verb, object).
+Bauhinian is an agglutinative language, relying on affixes (only prefixes and suffixes here) to modify a word to give it additional meaning.
 
 ### Plural
 
-The plural of a noun is denoted using the suffix "-nip." In Bauhinian, "plural" is only used when the number of things is uncertain. When the number is certain, no plural suffix is added.
+The plural of a noun is denoted using the suffix *-nip*. In Bauhinian, "plural" is only used when the number of things is uncertain. When the number is certain, no plural suffix is added.
 
 | Bauhinian                                                                   | English    |
 | --------------------------------------------------------------------------- | ---------- |
-| sātan                                                                       | apple      |
-| sātan-*nip*                                                                 | apples     |
-| <span class="tooltip"><span class="tooltip-text">two</span>yax</span> sātan | two apples |
+| sotan                                                                       | apple      |
+| sotan-*nip*                                                                 | apples     |
+| <span class="tooltip"><span class="tooltip-text">two</span>yax</span> sotan | two apples |
 
 ### Adjectives
 
@@ -172,9 +164,7 @@ Adjectives in Bauhinian are placed before nouns. For multiple adjectives, there 
 
 #### Emphasis
 
-In English, adjectives can be modified by "very" or "a little," to represent a degree relative to a common, widespread notion of how the adjective looks like. For example, if you heard "the apple is red," you may imagine a red apple. But if it were "the apple is very red," "the apple is super red," you may imagine an apple that's redder than any you've ever seen. As for "the apple is not very red," you may think of the apple as still partially green, due to the commonly understood notion of apples being green before they turn red.
-
-To express this idea in Bauhinian, you modify the adjective itself. To increase the degree, repeat the first syllable of the adjective (or the whole word if there's only one syllable) as many times as you'd like. To reduce the degree, add the suffix "-tik" as many times as you'd like. Note that doing this for more than one time will have society clock you as a brainrot kid!
+In English, adjectives can be modified by "very" or "a little." To express this idea in Bauhinian, you modify the adjective itself. To increase the degree, repeat the first syllable of the adjective (or the whole word if there's only one syllable) as many times as you'd like. To reduce the degree, add the suffix *-tik* as many times as you'd like. Note that doing this for more than one time will have society clock you as a stupid kid!
 
 | Bauhinian           | English                                                           |
 | ------------------- | ----------------------------------------------------------------- |
@@ -188,14 +178,14 @@ Also this type of speech is not accepted in academia, and you need to resort to 
 
 ### Predicative
 
-Telling someone about the property of something is a very common speech pattern. "The world is big." "The apples are red." "Sparky is the girl who's eating." "The boy standing there is Nightsun." To express these ideas in Bauhinian, you add the suffix "-nan" to the thing being described, and "-sīn" to the property being assigned to it. 有点像古汉语里的“什么什么**者**，什么什么**也**”。 In speaking, a pause is usually between the two words / phrases. In writing, there may be a comma to represent the pause, but it's omittable.
+Telling someone about the property of something is a very common speech pattern. "The world is big." "The apples are red." "Sparky is the girl who's eating." "The boy standing there is Nightsun." To express these ideas in Bauhinian, you add the suffix "-nan" to the thing being described, and "-sin" to the property being assigned to it. 有点像古汉语里的“什么什么**者**，什么什么**也**”。 In speaking, a pause is usually between the two words / phrases. In writing, there may be a comma to represent the pause, but it's omittable.
 
-| Bauhinian                                                                                                                                                                                                                                                                                                                                                                                                      | English                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>-**nan** <span class="tooltip"><span class="tooltip-text">big</span>zhong</span>-**sīn**                                                                                                                                                                                                                                             | The world is big                |
-| <span class="tooltip"><span class="tooltip-text">apple</span>sātan</span>-<span class="tooltip"><span class="tooltip-text">plural</span>nip</span>-**nan** <span class="tooltip"><span class="tooltip-text">red</span>nad</span>-**sīn**                                                                                                                                                                       | The apples are red              |
-| <span class="tooltip"><span class="tooltip-text">sparkly</span>Tan</span>tan-**nan**, <span class="tooltip"><span class="tooltip-text">eat</span>nomni</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">girl</span>mofilip</span>-**sīn**                                                                     | Sparky is the girl who's eating |
-| <span class="tooltip"><span class="tooltip-text">stand</span>Chax</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">boy</span>pufilip</span>-**nan**, <span class="tooltip"><span class="tooltip-text">night</span>Yamināl</span><span class="tooltip"><span class="tooltip-text">sun</span>aka</span>-**sīn** | The boy standing  is Nightsun   |
+| Bauhinian                                                                                                                                                                                                                                                                                                                                                                                                       | English                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>-**nan** <span class="tooltip"><span class="tooltip-text">big</span>zhong</span>-**sin**                                                                                                                                                                                                                                              | The world is big                |
+| <span class="tooltip"><span class="tooltip-text">apple</span>sātan</span>-<span class="tooltip"><span class="tooltip-text">plural</span>nip</span>-**nan** <span class="tooltip"><span class="tooltip-text">red</span>nad</span>-**sin**                                                                                                                                                                        | The apples are red              |
+| <span class="tooltip"><span class="tooltip-text">sparkly</span>Tan</span>tan-**nan**, <span class="tooltip"><span class="tooltip-text">eat</span>nomni</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">girl</span>mofilip</span>-**sin**                                                                      | Sparky is the girl who's eating |
+| <span class="tooltip"><span class="tooltip-text">stand</span>Chax</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">boy</span>pufilip</span>-**nan**, <span class="tooltip"><span class="tooltip-text">night</span>Yamituk</span>'<span class="tooltip"><span class="tooltip-text">sun</span>aka</span>-**sin** | The boy standing is Nightsun    |
 
 ### Cause and effect
 

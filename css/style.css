@@ -580,6 +580,11 @@ th.sortable {
 span.tooltip {
 	text-decoration: underline dotted 3px;
 	cursor: help;
+	transition: text-decoration .2s;
+
+	&:hover {
+		text-decoration-color: var(--c);
+	}
 }
 
 .box-nav,

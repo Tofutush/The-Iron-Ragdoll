@@ -13,5 +13,6 @@
   "showLineNumber": false,
   "newFileLocation": "current",
   "focusNewTab": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "settingsPopoutWindow": false
 }

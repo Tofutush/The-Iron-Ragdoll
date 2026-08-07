@@ -26,11 +26,11 @@ categories:
 | mama / motefilip    |           | mother                              |
 | papa / putefilip    |           | father                              |
 | tefilip             |           | a person of the previous generation |
-| chacha / chosūfilip |           | older sister                        |
-| yaya / yīsūfilip    |           | younger sister                      |
-| tata / tasūfilip    |           | older brother                       |
-| gaga / gesūfilip    |           | younger brother                     |
-| sūfilip             |           | a person of the same generation     |
+| chacha / chosufilip |           | older sister                        |
+| yaya / yisufilip    |           | younger sister                      |
+| tata / tasufilip    |           | older brother                       |
+| gaga / gesufilip    |           | younger brother                     |
+| sufilip             |           | a person of the same generation     |
 | filip               |           | person, human                       |
 | mofilip             |           | woman, girl                         |
 | pufilip             |           | man, boy                            |
@@ -39,7 +39,7 @@ categories:
 | fisili              |           | tadlet                              |
 | lantap              |           | world                               |
 | tap                 |           | thing                               |
-| sātan               |           | apple                               |
+| sotan               |           | apple                               |
 | egenta              |           | morning                             |
 
 ## Numbers
@@ -48,14 +48,14 @@ categories:
 | ----- | --------- | ------- |
 | bil   |           | 1       |
 | yax   |           | 2       |
-| lāt   |           | 3       |
+| lat   |           | 3       |
 | mep   |           | 4       |
 | tok   |           | 5       |
 | dan   |           | 6       |
 | lun   |           | 7       |
 | dūk   |           | 8       |
 | zhin  |           | 9       |
-| chān  |           | 10      |
+| chan  |           | 10      |
 
 ## Adjectives
 
@@ -64,20 +64,20 @@ categories:
 | fi      |           | sapient, intelligent                                        |
 | nad     |           | red                                                         |
 | yop     |           | orange                                                      |
-| līt     |           | yellow                                                      |
+| lot     |           | yellow                                                      |
 | bosh    |           | green                                                       |
-| tān     |           | blue                                                        |
+| tun     |           | blue                                                        |
 | mun     |           | purple                                                      |
 | nadmun  |           | colorful                                                    |
 | lan     |           | all, total / many (denoting a large enough abstract number) |
 | zhong   |           | big                                                         |
 | chik    |           | small                                                       |
 | tan     |           | sparkly                                                     |
-| yamināl |           | night                                                       |
+| yamituk |           | night                                                       |
 | yami    |           | moon                                                        |
 | aka     |           | sun                                                         |
-| akanāl  |           | day                                                         |
-| nāl     |           | time                                                        |
+| akatuk  |           | day                                                         |
+| tuk     |           | time                                                        |
 
 ## Verbs
 
@@ -90,18 +90,18 @@ categories:
 
 | Latin | Bauhinian | Applied to | Purpose           |
 | ----- | --------- | ---------- | ----------------- |
-| nīt   |           |            | invert truthyness |
+| nit   |           |            | invert truthyness |
 
 ## Grammatical suffixes
 
-| Latin | Bauhinian | Applied to | Purpose                                                                                  |
-| ----- | --------- | ---------- | ---------------------------------------------------------------------------------------- |
-| nip   |           | nouns      | plural                                                                                   |
-| nan   |           |            | denoting the "known" side of an [equivalence](/world/language/something-is-something)    |
-| sīn   |           |            | denoting the "new info" side of an [equivalence](/world/language#something-is-something) |
-| tik   |           | adjectives | to [reduce the degree](/world/language#emphasis) expressed by the adjective              |
-| waq   |           | verbs      | past tense                                                                               |
-| tanka |           | verbs      | present ongoing tense                                                                    |
+| Latin | Bauhinian | Applied to | Purpose                                                                     |
+| ----- | --------- | ---------- | --------------------------------------------------------------------------- |
+| nip   |           | nouns      | plural                                                                      |
+| nan   |           |            | subject of sentence                                                         |
+| sin   |           |            | predicative                                                                 |
+| tik   |           | adjectives | to [reduce the degree](/world/language#emphasis) expressed by the adjective |
+| waq   |           | verbs      | past tense                                                                  |
+| tanka |           | verbs      | present ongoing tense                                                       |
 
 ## Misc
 
