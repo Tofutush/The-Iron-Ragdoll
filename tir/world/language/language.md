@@ -45,13 +45,13 @@ Bauhinian features 5 vowels and 23 consonants.
 
 ### Vowels
 
-| Latin | Bauhinian | Sound-alike |
-| ----- | --------- | ----------- |
-| a     |           | **a**pple   |
-| e     |           | s**e**t     |
-| i     |           | t**i**p     |
-| o     |           | b**oa**t    |
-| u     |           | b**oo**t    |
+| Latin | Bauhinian | Sound-alike                             |
+| ----- | --------- | --------------------------------------- |
+| a     |           | **a**pple                               |
+| e     |           | s**e**t                                 |
+| i     |           | t**i**p / sh**ee**p (if at end of word) |
+| o     |           | b**oa**t                                |
+| u     |           | b**oo**t                                |
 
 ### Consonants
 
@@ -70,6 +70,8 @@ Letters with no sound-alikes sounds like how they would in English.
 | l              |           |
 | f              |           |
 | v              |           |
+| y              |           |
+| w              |           |
 | j (机)          |           |
 | q (期)          |           |
 | x (希)          |           |
@@ -79,8 +81,6 @@ Letters with no sound-alikes sounds like how they would in English.
 | zh (**j**uice) |           |
 | ch             |           |
 | sh             |           |
-| y              |           |
-| w              |           |
 | ng (si**ng**)  |           |
 
 ### Rules

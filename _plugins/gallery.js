@@ -17,6 +17,9 @@ function galleryPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getOnlyMyArt', function (arr) {
 		return arr.filter(a => !a.author);
 	});
+	eleventyConfig.addFilter('getOnlyOthersArt', function (arr) {
+		return arr.filter(a => a.author);
+	});
 	eleventyConfig.addFilter('sortGalleryByChCount', function (arr) {
 		return arr.sort((a, b) => a.ch?.length - b.ch?.length);
 	});

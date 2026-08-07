@@ -5,6 +5,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-08-07
+
+- For the conlang: stripped number of vowels down to 5, removed consonant *h*;
+- Added [Others' art](/gallery/others-art/);
+- Help the internet here is so bad I can't push my changes. Y'all are gonna see this update way later;
+
 ## 2026-07-25
 
 - New files, [Language](/world/language/) and [Lexicon](/world/language/lexicon/);

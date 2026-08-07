@@ -1,0 +1,19 @@
+---
+layout: gallery.liquid
+title: Other's art
+desc: Art made by others. Thank you!
+parent: Gallery
+eleventyNavigation:
+  order: 11
+---
+
+<p>These art are from other people. If you see your art here and want me to remove it / change the attribution, or if you'd drawn a character before and I forgot to put that here and you'd like me to, please <a href="https://tofutush.leprd.space/guestbook/">tell me</a>!</p>
+
+{% for year in years reversed %}
+	{% assign filteredGallery = gallery | getOnlyOthersArt | filterGalleryByDate: year %}
+	{% if filteredGallery.size > 0 %}
+		<h2 id="{{ year }}">{{ year }}</h2>
+		{% include 'gallery' imgs: filteredGallery %}
+	{% endif %}
+{% endfor %}
+{% include 'galleryModal' %}
