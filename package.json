@@ -24,6 +24,7 @@
     "d3-dag": "^1.1.0",
     "html-minifier-terser": "^7.2.0",
     "js-beautify": "^1.15.4",
+    "js-yaml": "^5.2.3",
     "jsdom": "^27.0.0",
     "lucide-static": "^0.544.0",
     "markdown-it": "^14.1.0",
