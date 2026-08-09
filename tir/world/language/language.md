@@ -63,13 +63,13 @@ Letters with no sound-alikes sounds like how they would in English.
 | p              |           |
 | d              |           |
 | t              |           |
-| k              |           |
 | g              |           |
+| k              |           |
+| v              |           |
+| f              |           |
 | m              |           |
 | n              |           |
 | l              |           |
-| f              |           |
-| v              |           |
 | y              |           |
 | w              |           |
 | j (机)          |           |
@@ -94,7 +94,7 @@ Syllables in Bauhinian are constructed with one of these patterns:
 
 But here are some restrictions:
 
-1. *y* cannot appear at the end of a syllable.
+1. *y* and *l* cannot appear at the end of a syllable.
 2. ng cannot appear at the start of a syllable.
 
 ### Pronunciation
