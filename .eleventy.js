@@ -1,6 +1,6 @@
 import { EleventyHtmlBasePlugin, EleventyRenderPlugin } from '@11ty/eleventy';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
-import eleventyRssPlugin from '@11ty/eleventy-plugin-rss';
+import { execSync } from 'child_process';
 import pinyin from "chinese-to-pinyin";
 import beautify from 'js-beautify';
 import markdownIt from 'markdown-it';
@@ -19,7 +19,6 @@ import relPlugin from './_plugins/rel.js';
 import storyPlugin from './_plugins/story.js';
 import utilPlugin from './_plugins/utils.js';
 import worldPlugin from './_plugins/world.js';
-import { execSync } from 'child_process';
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
@@ -68,7 +67,6 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(storyPlugin);
 	eleventyConfig.addPlugin(worldPlugin);
 	eleventyConfig.addPlugin(funPlugin);
-	eleventyConfig.addPlugin(eleventyRssPlugin);
 	// copies
 	eleventyConfig.addPassthroughCopy('img/bg');
 	eleventyConfig.addPassthroughCopy('css');
@@ -79,7 +77,6 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('tofutush-public.asc');
 	// filters
 	eleventyConfig.addFilter('slug', slug);
-	eleventyConfig.addLiquidFilter("dateToRfc822", eleventyRssPlugin.dateToRfc822);
 	eleventyConfig.addFilter('getFooterImg', function (arr, name) {
 		return arr[Array.from(name).reduce((sum, i) => sum + i.charCodeAt(0), 0) % arr.length];
 	});
