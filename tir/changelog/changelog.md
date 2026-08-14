@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-08-14
+
+- Removed consonant *ng*;
+
 ## 2026-08-07
 
 - For the conlang: stripped number of vowels down to 5, removed consonant *h*;

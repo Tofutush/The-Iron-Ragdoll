@@ -45,13 +45,13 @@ Bauhinian features 5 vowels and 23 consonants.
 
 ### Vowels
 
-| Latin | Bauhinian | Sound-alike                             |
-| ----- | --------- | --------------------------------------- |
-| a     |           | **a**pple                               |
-| e     |           | s**e**t                                 |
-| i     |           | t**i**p / sh**ee**p (if at end of word) |
-| o     |           | b**oa**t                                |
-| u     |           | b**oo**t                                |
+| Latin         | Bauhinian |
+| ------------- | --------- |
+| a (**a**pple) |           |
+| e (s**e**t)   |           |
+| i (t**i**p)   |           |
+| o (b**oa**t)  |           |
+| u (b**oo**t)  |           |
 
 ### Consonants
 
@@ -69,9 +69,9 @@ Letters with no sound-alikes sounds like how they would in English.
 | f              |           |
 | m              |           |
 | n              |           |
-| l              |           |
 | y              |           |
 | w              |           |
+| l              |           |
 | j (机)          |           |
 | q (期)          |           |
 | x (希)          |           |
@@ -81,7 +81,6 @@ Letters with no sound-alikes sounds like how they would in English.
 | zh (**j**uice) |           |
 | ch             |           |
 | sh             |           |
-| ng (si**ng**)  |           |
 
 ### Rules
 
@@ -92,10 +91,7 @@ Syllables in Bauhinian are constructed with one of these patterns:
 3. vowel + consonant (*at*, *um*)
 4. consonant + vowel + consonant (*nam*, *was*)
 
-But here are some restrictions:
-
-1. *y* and *l* cannot appear at the end of a syllable.
-2. ng cannot appear at the start of a syllable.
+But the restrictions are that *y*, *w*, and *l* cannot appear at the end of a syllable.
 
 ### Pronunciation
 
