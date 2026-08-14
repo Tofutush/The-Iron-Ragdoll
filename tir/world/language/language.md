@@ -178,7 +178,7 @@ Telling someone about the property of something is a very common speech pattern.
 
 | Bauhinian                                                                                                                                                                                                                                                                                                                                                                                                       | English                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>-**nan** <span class="tooltip"><span class="tooltip-text">big</span>zhong</span>-**sin**                                                                                                                                                                                                                                              | The world is big                |
+| <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>-**nan** <span class="tooltip"><span class="tooltip-text">big</span>zhon</span>-**sin**                                                                                                                                                                                                                                              | The world is big                |
 | <span class="tooltip"><span class="tooltip-text">apple</span>sotan</span>-<span class="tooltip"><span class="tooltip-text">plural</span>nip</span>-**nan** <span class="tooltip"><span class="tooltip-text">red</span>nad</span>-**sin**                                                                                                                                                                        | The apples are red              |
 | <span class="tooltip"><span class="tooltip-text">sparkly</span>Tan</span>tan-**nan**, <span class="tooltip"><span class="tooltip-text">eat</span>nomni</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">girl</span>mofilip</span>-**sin**                                                                      | Sparky is the girl who's eating |
 | <span class="tooltip"><span class="tooltip-text">stand</span>Chax</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">boy</span>pufilip</span>-**nan**, <span class="tooltip"><span class="tooltip-text">night</span>Yamituk</span>'<span class="tooltip"><span class="tooltip-text">sun</span>aka</span>-**sin** | The boy standing is Nightsun    |
@@ -217,11 +217,11 @@ Asking the real questions here! "<span class="tooltip"><span class="tooltip-text
 <dt>Atlasian</dt>
 <dd>Likes to drag out their *i*s, making all of them long. "Filip" becomes "feeeeeleeeeep!"</dd>
 <dt>Westavian</dt>
-<dd>Pronounces *ng*s like *n*s. "Nang" becomes "nan."</dd>
+<dd>tba</dd>
 <dt>Morelandian</dt>
 <dd>Softens *t*s into *d*s like them yankees. "Ata" and "ada" are the same in their mouths. Also likes to connect consonants to the next syllable if that starts with a vowel. For example, Nightsun's name is *Yamituk'aka*, and the *aka* should be crisp. But the Moose, along with some Atlasians too, would pronounce it as "kaka." Which is annoying.</dd>
 <dt>Sylvandian</dt>
-<dd>Pronounces *v*s like *w*s.</dd>
+<dd>tba</dd>
 </dl>
 
 ## QnA

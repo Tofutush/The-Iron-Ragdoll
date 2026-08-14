@@ -14,7 +14,7 @@ categories:
 | ----- | --------- | -------------- |
 | wa    |           | I              |
 | na    |           | you (informal) |
-| nang  |           | you (formal)   |
+| nan   |           | you (formal)   |
 | sa    |           | she/he         |
 | mu    |           | this           |
 | chu   |           | that           |
@@ -70,7 +70,7 @@ categories:
 | mun     |           | purple                                                      |
 | nadmun  |           | colorful                                                    |
 | lan     |           | all, total / many (denoting a large enough abstract number) |
-| zhong   |           | big                                                         |
+| zhon    |           | big                                                         |
 | chik    |           | small                                                       |
 | tan     |           | sparkly                                                     |
 | yamituk |           | night                                                       |
