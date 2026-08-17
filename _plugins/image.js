@@ -4,7 +4,6 @@ import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
 	// img takes any: obj, name, or path (without 'img/')
-	// fallback must be path
 	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback, animate) {
 		let { src, alt } = getImgSrc(img, fallback);
 		return await getImg(src, size, alt0 || alt, className, animate);
