@@ -25,7 +25,7 @@ function imagePlugin(eleventyConfig) {
 	// image cropping, only used in gallery thumbnails
 	// so no fallback or url for now and must be square, even though i still added useless options like format animate and classname
 	// just leaving problems for future me yay!
-	eleventyConfig.addShortcode('imageThumb', async function (img, size, format, animate, className) {
+	eleventyConfig.addShortcode('imageThumb', async function (img, size, alt0, format, animate, className) {
 		let { src, alt } = getImgSrc(img);
 		// get metadata, replacing that function
 		let options = {
@@ -44,8 +44,8 @@ function imagePlugin(eleventyConfig) {
 		let metadata = await Image(src, options);
 		// generate html
 		let imageAttributes = {
-			alt: alt,
-			title: alt,
+			alt: alt0 || alt,
+			title: alt0 || alt,
 			loading: 'lazy',
 			decoding: 'async'
 		}

@@ -45,7 +45,7 @@ eleventyComputed:
 				{% else %}
 					{% assign alt = "Page " | append: page.pagenum %}
 				{% endif %}
-				{% image path 100 alt %}
+				{% imageThumb path 200 alt %}
 			</a>
 			{% endfor %}
 		</section>
@@ -56,7 +56,7 @@ eleventyComputed:
 			<a href="../{{ page.pagenum }}/">
 				{% assign path = "comics/" | append: page.url | append: '.png' %}
 				{% assign alt = "Page " | append: page.pagenum %}
-				{% image path 100 alt %}
+				{% imageThumb path 200 alt %}
 			</a>
 		{% endfor %}
 	</section>
