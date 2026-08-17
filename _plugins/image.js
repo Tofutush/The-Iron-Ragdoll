@@ -21,7 +21,7 @@ function imagePlugin(eleventyConfig) {
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
 		return await getImg(getImgSrc(`${name.toLowerCase()} profile`, `${name.toLowerCase()} thumb`).src, size, name);
 	});
-	// returns string starting from
+	// returns str string
 	function getImgSrc(main, fallback) {
 		if (typeof main === 'object') return { src: getSrcFromObj(main), alt: main.name };
 		if (typeof main === 'string') {
@@ -49,6 +49,7 @@ function imagePlugin(eleventyConfig) {
 		if (obj.author) return `img/others art/${obj.name}.${obj.type || 'png'}`;
 		return `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type || 'png'}`;
 	}
+	// calls the image processor
 	async function getMetadata(src, size, format, animate) {
 		let options = {
 			widths: [size],
@@ -58,6 +59,7 @@ function imagePlugin(eleventyConfig) {
 		if (animate && src.substring(src.length - 3) === 'gif') options.sharpOptions = { animated: true, };
 		return await Image(src, options);
 	}
+	// returns the html
 	async function getImg(src, size, alt, className, animate) {
 		let metadata = await getMetadata(src, size, 0, animate);
 		let imageAttributes = {
