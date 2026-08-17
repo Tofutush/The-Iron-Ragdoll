@@ -1,5 +1,6 @@
 import Image from "@11ty/eleventy-img";
-import { existsSync, cpSync } from "fs";
+import Sharp from "@11ty/eleventy-img/src/adapters/sharp.js";
+import { cpSync, existsSync } from "fs";
 import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
@@ -20,6 +21,36 @@ function imagePlugin(eleventyConfig) {
 	// for character icons, double fallback from profile - thumb - placeholder
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
 		return await getImg(getImgSrc(`${name.toLowerCase()} profile`, `${name.toLowerCase()} thumb`).src, size, name);
+	});
+	// image cropping, only used in gallery thumbnails
+	// so no fallback or url for now and must be square, even though i still added useless options like format animate and classname
+	// just leaving problems for future me yay!
+	eleventyConfig.addShortcode('imageThumb', async function (img, size, format, animate, className) {
+		let { src, alt } = getImgSrc(img);
+		// get metadata, replacing that function
+		let options = {
+			widths: [size],
+			formats: [format || 'webp'],
+			outputDir: './.cache/img/',
+			transform: (sharp) => {
+				sharp.resize({
+					width: size,
+					height: size,
+					position: Sharp.strategy.entropy
+				});
+			}
+		};
+		if (animate && src.substring(src.length - 3) === 'gif') options.sharpOptions = { animated: true, };
+		let metadata = await Image(src, options);
+		// generate html
+		let imageAttributes = {
+			alt: alt,
+			title: alt,
+			loading: 'lazy',
+			decoding: 'async'
+		}
+		if (className) imageAttributes.class = className;
+		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	});
 	// returns str string
 	function getImgSrc(main, fallback) {
@@ -68,10 +99,7 @@ function imagePlugin(eleventyConfig) {
 			loading: "lazy",
 			decoding: "async",
 		};
-		if (className) imageAttributes = {
-			...imageAttributes,
-			class: className
-		};
+		if (className) imageAttributes.class = className;
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	}
 	// copy over to both
