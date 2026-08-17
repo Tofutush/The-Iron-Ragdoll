@@ -1,10 +1,10 @@
 import Image from "@11ty/eleventy-img";
-import { existsSync, cpSync } from "fs";
+import Sharp from "@11ty/eleventy-img/src/adapters/sharp.js";
+import { cpSync, existsSync } from "fs";
 import gallery from '../_data/gallery.js';
 
 function imagePlugin(eleventyConfig) {
 	// img takes any: obj, name, or path (without 'img/')
-	// fallback must be path
 	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback, animate) {
 		let { src, alt } = getImgSrc(img, fallback);
 		return await getImg(src, size, alt0 || alt, className, animate);
@@ -22,7 +22,37 @@ function imagePlugin(eleventyConfig) {
 	eleventyConfig.addShortcode('getProfileOrThumb', async function (name, size) {
 		return await getImg(getImgSrc(`${name.toLowerCase()} profile`, `${name.toLowerCase()} thumb`).src, size, name);
 	});
-	// returns string starting from
+	// image cropping, only used in gallery thumbnails
+	// so no fallback or url for now and must be square, even though i still added useless options like format animate and classname
+	// just leaving problems for future me yay!
+	eleventyConfig.addShortcode('imageThumb', async function (img, size, alt0, format, animate, className) {
+		let { src, alt } = getImgSrc(img);
+		// get metadata, replacing that function
+		let options = {
+			widths: [size],
+			formats: [format || 'webp'],
+			outputDir: './.cache/img/',
+			transform: (sharp) => {
+				sharp.resize({
+					width: size,
+					height: size,
+					position: Sharp.strategy.entropy
+				});
+			}
+		};
+		if (animate && src.substring(src.length - 3) === 'gif') options.sharpOptions = { animated: true, };
+		let metadata = await Image(src, options);
+		// generate html
+		let imageAttributes = {
+			alt: alt0 || alt,
+			title: alt0 || alt,
+			loading: 'lazy',
+			decoding: 'async'
+		}
+		if (className) imageAttributes.class = className;
+		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
+	});
+	// returns str string
 	function getImgSrc(main, fallback) {
 		if (typeof main === 'object') return { src: getSrcFromObj(main), alt: main.name };
 		if (typeof main === 'string') {
@@ -50,6 +80,7 @@ function imagePlugin(eleventyConfig) {
 		if (obj.author) return `img/others art/${obj.name}.${obj.type || 'png'}`;
 		return `img/gallery/${obj.date.substring(0, 4)}/${obj.name}.${obj.type || 'png'}`;
 	}
+	// calls the image processor
 	async function getMetadata(src, size, format, animate) {
 		let options = {
 			widths: [size],
@@ -59,6 +90,7 @@ function imagePlugin(eleventyConfig) {
 		if (animate && src.substring(src.length - 3) === 'gif') options.sharpOptions = { animated: true, };
 		return await Image(src, options);
 	}
+	// returns the html
 	async function getImg(src, size, alt, className, animate) {
 		let metadata = await getMetadata(src, size, 0, animate);
 		let imageAttributes = {
@@ -67,10 +99,7 @@ function imagePlugin(eleventyConfig) {
 			loading: "lazy",
 			decoding: "async",
 		};
-		if (className) imageAttributes = {
-			...imageAttributes,
-			class: className
-		};
+		if (className) imageAttributes.class = className;
 		return Image.generateHTML(metadata, imageAttributes).replace(/>$/, "/>");
 	}
 	// copy over to both
