@@ -58,7 +58,7 @@ categories:
 | chan   |           | 10      |
 | fam    |           | 100     |
 | moppak |           | 1000    |
-|        |           |         |
+| muqu   |           | 1,0000  |
 
 ## Adjectives
 
