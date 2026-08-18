@@ -1,0 +1,18 @@
+.cm-content .tooltip,
+.markdown-rendered .tooltip {
+	all: unset;
+	&::before {
+		content: '(';
+		opacity: .5;
+	}
+	&::after {
+		content: ')';
+		opacity: .5;
+	}
+	& .tooltip-text {
+		opacity: .5;
+		&::after {
+			content: ': ';
+		}
+	}
+}

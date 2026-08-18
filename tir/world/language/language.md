@@ -156,7 +156,7 @@ Adjectives in Bauhinian are placed before nouns. For multiple adjectives, there 
 
 | Bauhinian                                                                                                                                                 | English         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| <span class="tooltip"><span class="tooltip-text">colorful</span>nadmun</span>-<span class="tooltip"><span class="tooltip-text">tadlet</span>fisili</span> | colorful tadlet |
+| <span class="tooltip"><span class="tooltip-text">colorful</span>nadmun</span> <span class="tooltip"><span class="tooltip-text">tadlet</span>fisili</span> | colorful tadlet |
 
 #### Emphasis
 
@@ -178,9 +178,9 @@ Telling someone about the property of something is a very common speech pattern.
 
 | Bauhinian                                                                                                                                                                                                                                                                                                                                                                                                       | English                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>-**nan** <span class="tooltip"><span class="tooltip-text">big</span>zhon</span>-**sin**                                                                                                                                                                                                                                              | The world is big                |
+| <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>-**nan** <span class="tooltip"><span class="tooltip-text">big</span>zhon</span>-**sin**                                                                                                                                                                                                                                               | The world is big                |
 | <span class="tooltip"><span class="tooltip-text">apple</span>sotan</span>-<span class="tooltip"><span class="tooltip-text">plural</span>nip</span>-**nan** <span class="tooltip"><span class="tooltip-text">red</span>nad</span>-**sin**                                                                                                                                                                        | The apples are red              |
-| <span class="tooltip"><span class="tooltip-text">sparkly</span>Tan</span>tan-**nan**, <span class="tooltip"><span class="tooltip-text">eat</span>nomni</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">girl</span>mofilip</span>-**sin**                                                                      | Sparky is the girl who's eating |
+| <span class="tooltip"><span class="tooltip-text">sparkly</span>Tan</span>tan-**nan**, <span class="tooltip"><span class="tooltip-text">eat</span>nomni</span> <span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span> <span class="tooltip"><span class="tooltip-text">girl</span>mofilip</span>-**sin**                                                                      | Sparky is the girl who's eating |
 | <span class="tooltip"><span class="tooltip-text">stand</span>Chax</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">boy</span>pufilip</span>-**nan**, <span class="tooltip"><span class="tooltip-text">night</span>Yamituk</span>'<span class="tooltip"><span class="tooltip-text">sun</span>aka</span>-**sin** | The boy standing is Nightsun    |
 
 ### Cause and effect
@@ -205,7 +205,7 @@ Okay some of these maybe (definitely) can't be categorized as "tenses" in a gram
 
 ### Saying "hello world"
 
-Asking the real questions here! "<span class="tooltip"><span class="tooltip-text">you</span>Na</span>-<span class="tooltip"><span class="tooltip-text">hello</span>owa</span>, <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>!"
+Asking the real questions here! "<span class="tooltip"><span class="tooltip-text">you</span>Na</span>-<span class="tooltip"><span class="tooltip-text">hello</span>owo</span>, <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>!"
 
 ## Accents
 

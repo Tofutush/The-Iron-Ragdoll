@@ -14,7 +14,7 @@ categories:
 | ----- | --------- | -------------- |
 | wa    |           | I              |
 | na    |           | you (informal) |
-| nan   |           | you (formal)   |
+| qa    |           | you (formal)   |
 | sa    |           | she/he         |
 | mu    |           | this           |
 | chu   |           | that           |
@@ -44,18 +44,21 @@ categories:
 
 ## Numbers
 
-| Latin | Bauhinian | Meaning |
-| ----- | --------- | ------- |
-| bil   |           | 1       |
-| yax   |           | 2       |
-| lat   |           | 3       |
-| mep   |           | 4       |
-| tok   |           | 5       |
-| dan   |           | 6       |
-| lun   |           | 7       |
-| dūk   |           | 8       |
-| zhin  |           | 9       |
-| chan  |           | 10      |
+| Latin  | Bauhinian | Meaning |
+| ------ | --------- | ------- |
+| bil    |           | 1       |
+| yax    |           | 2       |
+| lat    |           | 3       |
+| mep    |           | 4       |
+| tok    |           | 5       |
+| dan    |           | 6       |
+| lun    |           | 7       |
+| duk    |           | 8       |
+| zhin   |           | 9       |
+| chan   |           | 10      |
+| fam    |           | 100     |
+| moppak |           | 1000    |
+|        |           |         |
 
 ## Adjectives
 
@@ -107,5 +110,5 @@ categories:
 
 | Latin       | Bauhinian | Meaning |
 | ----------- | --------- | ------- |
-| owa         |           | hello   |
+| owo         |           | hello   |
 | mumuqitafad |           | please  |
