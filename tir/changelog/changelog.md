@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-08-19
+
+- Fixed the flags on the World page;
+
 ## 2026-08-17
 
 - Used cropping in the image gallery thumbnails so they're square and "focuses on the region with the highest shannon entropy" whatever that means. Makes some cropping better and some worse; not sure if I'll keep this around for long but well, trying doesn't hurt!
