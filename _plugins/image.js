@@ -6,7 +6,6 @@ import gallery from '../_data/gallery.js';
 function imagePlugin(eleventyConfig) {
 	// img takes any: obj, name, or path (without 'img/')
 	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback, animate) {
-		if (img?.name?.includes('flag')) console.log('image: ', img.name);
 		let { src, alt } = getImgSrc(img, fallback);
 		return await getImg(src, size, alt0 || alt, className, animate);
 	});
@@ -27,13 +26,13 @@ function imagePlugin(eleventyConfig) {
 	// so no fallback or url for now and must be square, even though i still added useless options like format animate and classname
 	// just leaving problems for future me yay!
 	eleventyConfig.addShortcode('imageThumb', async function (img, size, alt0, format, animate, className) {
-		if (img?.name?.includes('flag')) console.log('thumb: ', img.name);
 		let { src, alt } = getImgSrc(img);
 		// get metadata, replacing that function
 		let options = {
 			widths: [size],
 			formats: [format || 'webp'],
-			outputDir: './.cache/img/',
+			outputDir: './.cache/img/thumb/',
+			urlPath: '/img/thumb/',
 			transform: (sharp) => {
 				sharp.resize({
 					width: size,
