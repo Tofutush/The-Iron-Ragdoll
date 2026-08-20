@@ -36,6 +36,7 @@ Since I'm never finishing this language anyways, I'm gonna talk about some impor
 1. It is very specific and precise when talking about objective things. Evidentiality (saw with your own eyes? heard from someone trustworthy? untrustworthy? inferred it?), when exactly an event happened (historical event? just happened like hot news? happened early in your life?), etc.
 2. However, it's insanely vague when it comes to subjective stuff. "I want to be in bed with you 25 hours a day and have ten billion children[^1]" and "I like you as a normal acquaintance. I might say hello to you on the street if I'm feeling nice" are literally expressed the same way, and there's no way around it unless you want to resort to literally saying "please have ten billion children with me" which just makes you sound perverted.
 3. Questions are worded completely differently when in normal contexts and in interrogations. Grammatically they are called "asking questions" and "requesting information," respectively. Exams are usually worded like "asking questions," except the exams at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/) which like the tone of "requesting information."
+4. There are a shitton of different ways to say someone died, depending on the identity of said dead person and the way they died.
 
 I literally don't know how to make some (most) of these features LMAO…
 
@@ -109,10 +110,6 @@ This is reflected on the pronunciation alone. In written form, nothing has chang
 
 The vowel *i* is typically short in Bauhinian. However, if it's at the very end of a word, with no consonant behind it, it becomes a long *i*. For example, the Bauhinian word *sili* is pronounced the same as the English word "silly."
 
-#### Merging
-
-If two (or more) letters got together, they're pronounced as if there's only one of them there. For example, suppose a word somehow got to "to + o + ol." It would be written as *toool*, but pronounced like "tol." Same goes for consonants but I guess that's more obvious: "tok + kuz" = *tokkuz* but is pronounced as "tokuz."
-
 #### Stress
 
 Stress is not important in Bauhinian. Do whatever.
@@ -171,6 +168,16 @@ In English, adjectives can be modified by "very" or "a little." To express this 
 | nadmun**tiktiktik** | literally grayscale                                               |
 
 Also this type of speech is not accepted in academia, and you need to resort to precise and boring ways to express how your beaker of clear liquid turned a tiny bit blue after 8 hours. I have not come up with the boring way to express it and I don't want to because it's boring.
+
+### Numbers
+
+Numbers in Bauhinian work exactly like Chinese. You string numbers together and they're split every four digits rather than three (so "ten thousand" has its own word). Because of this, people of the continent also put commas every four digits, not three.
+
+| Bauhinian                                                                                                                                       | English      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| <span class="tooltip"><span class="tooltip-text">5</span>tok</span>-<span class="tooltip"><span class="tooltip-text">10</span>chan</span>       | fifty        |
+| <span class="tooltip"><span class="tooltip-text">1</span>bit</span>-<span class="tooltip"><span class="tooltip-text">10,000</span>muqu</span>   | ten thousand |
+| <span class="tooltip"><span class="tooltip-text">100</span>fam</span>-<span class="tooltip"><span class="tooltip-text">10,000</span>muqu</span> | a million    |
 
 ### Predicative
 

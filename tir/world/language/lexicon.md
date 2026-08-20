@@ -6,6 +6,8 @@ categories:
   - Lore
 ---
 
+WIP!! WIP!!!
+
 [[toc]]
 
 ## Pronouns
@@ -19,6 +21,38 @@ categories:
 | mu    |           | this           |
 | chu   |           | that           |
 
+## Numbers
+
+| Latin  | Bauhinian | Meaning  |
+| ------ | --------- | -------- |
+| bit    |           | 1        |
+| yax    |           | 2        |
+| lat    |           | 3        |
+| mep    |           | 4        |
+| tok    |           | 5        |
+| dan    |           | 6        |
+| lun    |           | 7        |
+| duk    |           | 8        |
+| zhin   |           | 9        |
+| chan   |           | 10       |
+| fam    |           | 100      |
+| moppak |           | 1,000    |
+| muqu   |           | 10,000   |
+| tim    |           | the n-th |
+
+## TIR terminology
+
+| Latin                    | Bauhinian | Meaning                   |
+| ------------------------ | --------- | ------------------------- |
+| Motezhondesput           |           | Archaic; Bauhinian Empire |
+| Zijindesput              |           | Bauhinia                  |
+| Fantondesput             |           | Fanton                    |
+| Yatelaxdesput            |           | Atlasia                   |
+| Westavdesput             |           | Westavia                  |
+| Moledesput               |           | Moreland                  |
+| Sivandadesput            |           | Sylvandia                 |
+| Papput Tim-yax-chan-zhin |           | Area 29                   |
+
 ## Nouns
 
 | Latin               | Bauhinian | Meaning                             |
@@ -31,34 +65,22 @@ categories:
 | tata / tasufilip    |           | older brother                       |
 | gaga / gesufilip    |           | younger brother                     |
 | sufilip             |           | a person of the same generation     |
-| filip               |           | person, human                       |
 | mofilip             |           | woman, girl                         |
 | pufilip             |           | man, boy                            |
+| filip               |           | person, human                       |
 | lip                 |           | creature, being                     |
 | sili                |           | tadpole                             |
 | fisili              |           | tadlet                              |
 | lantap              |           | world                               |
 | tap                 |           | thing                               |
 | sotan               |           | apple                               |
-| egenta              |           | morning                             |
-
-## Numbers
-
-| Latin  | Bauhinian | Meaning |
-| ------ | --------- | ------- |
-| bil    |           | 1       |
-| yax    |           | 2       |
-| lat    |           | 3       |
-| mep    |           | 4       |
-| tok    |           | 5       |
-| dan    |           | 6       |
-| lun    |           | 7       |
-| duk    |           | 8       |
-| zhin   |           | 9       |
-| chan   |           | 10      |
-| fam    |           | 100     |
-| moppak |           | 1000    |
-| muqu   |           | 1,0000  |
+| aka'egentatuk       |           | morning                             |
+| aka'egenta          |           | sunrise                             |
+| desput              |           | country                             |
+| papput              |           | region, city, area                  |
+| put                 |           | land, earth                         |
+| yate                |           | east                                |
+| westav              |           | west                                |
 
 ## Adjectives
 
