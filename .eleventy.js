@@ -19,7 +19,7 @@ import relPlugin from './_plugins/rel.js';
 import storyPlugin from './_plugins/story.js';
 import utilPlugin from './_plugins/utils.js';
 import worldPlugin from './_plugins/world.js';
-import langPlugin from './plugins/lang.js';
+import langPlugin from './_plugins/lang.js';
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
