@@ -5,9 +5,14 @@ parent: Language
 categories:
   - Lore
 ---
-
+<style>
+	dt {
+		color: var(--text) !important;
+	}
+</style>
 <dl>
 	{% for word in dictionary %}
 		<dt>{{ word.name }}</dt>
 		<dd><em class="lighter-text">{{ word.pos }}</em> {{ word.def }}</dd>
+	{% endfor %}
 </dl>

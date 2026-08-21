@@ -14,12 +14,12 @@ import chPlugin from './_plugins/ch.js';
 import funPlugin from './_plugins/fun.js';
 import galleryPlugin from './_plugins/gallery.js';
 import imagePlugin from './_plugins/image.js';
+import langPlugin from './_plugins/lang.js';
 import { eleventyLucideIconsPlugin, iconSVGString } from './_plugins/lucideicons.js';
 import relPlugin from './_plugins/rel.js';
 import storyPlugin from './_plugins/story.js';
 import utilPlugin from './_plugins/utils.js';
 import worldPlugin from './_plugins/world.js';
-import langPlugin from './_plugins/lang.js';
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
