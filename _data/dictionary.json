@@ -1,0 +1,62 @@
+[
+  {
+    "name": "mun",
+    "pos": "adj.",
+    "def": "purple"
+  },
+  {
+    "name": "nad",
+    "pos": "adj.",
+    "def": "red"
+  },
+  {
+    "name": "nadmun",
+    "pos": "adj.",
+    "def": "colorful"
+  },
+  {
+    "name": "mumuqitafad",
+    "pos": "exclam.",
+    "def": "please"
+  },
+  {
+    "name": "owo",
+    "pos": "exclam.",
+    "def": "hello, greeting"
+  },
+  {
+    "name": "sotan",
+    "pos": "n.",
+    "def": "apple"
+  },
+  {
+    "name": "chu",
+    "pos": "pron.",
+    "def": "that"
+  },
+  {
+    "name": "mu",
+    "pos": "pron.",
+    "def": "this"
+  },
+  {
+    "name": "na",
+    "pos": "pron.",
+    "def": "you (informal)"
+  },
+  {
+    "name": "qa",
+    "pos": "pron.",
+    "def": "you (formal)"
+  },
+  {
+    "name": "sa",
+    "pos": "pron.",
+    "def": "he, she, they (singular)"
+  },
+  {
+    "name": "wa",
+    "pos": "pron.",
+    "def": "I, me"
+  }
+]
