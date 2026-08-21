@@ -12,7 +12,7 @@ categories:
 </style>
 <dl>
 	{% for word in dictionary %}
-		<dt>{{ word.name }}</dt>
+		<dt id="{{ word.name }}">{% bauhinian word.name %} ({{ word.name }})</dt>
 		<dd><em class="lighter-text">{{ word.pos }}</em> {{ word.def }}</dd>
 	{% endfor %}
 </dl>

@@ -21,9 +21,22 @@ const yesEnd = [
 	"š",
 ]
 const noEnd = ['y', 'w', 'l'];
-function langPlugin(eleventyConfig) {
-	eleventyConfig.addFilter('bauhinian', function (str) {
 
+function attrsToString(attrs) {
+	return Object.keys(attrs).map(key => `${key === 'className' ? 'class' : key}="${attrs[key]}"`).join(' ');
+}
+
+function langPlugin(eleventyConfig) {
+	eleventyConfig.addShortcode('bauhinian', function (str, size, ruby = true, stroke, strokeWidth) {
+		let syllables = strToSyllables(str);
+		let final = '';
+		if (ruby) final = "<ruby>";
+		for (let syl of syllables) {
+			final += syllableToSVG(syl, size, stroke, strokeWidth);
+			if (ruby) final += `<rt>${syl.replaceAll('zh', 'ž').replaceAll('ch', 'č').replaceAll('sh', 'š')}</rt>`
+		}
+		if (ruby) final += '</ruby>';
+		return final;
 	});
 	function strToSyllables(str) {
 		let vowels = ['a', 'e', 'i', 'o', 'u'];
@@ -32,7 +45,7 @@ function langPlugin(eleventyConfig) {
 		let current = '';
 		let hasVowel = false;
 		for (let z = 0; z < str.length; z++) {
-			letter = str[z];
+			let letter = str[z];
 			// if punctuation, add syllable first
 			if (['·', '-', ' ', "'"].includes(letter)) {
 				if (current) result.push(current);
@@ -74,12 +87,31 @@ function langPlugin(eleventyConfig) {
 		if (current) result.push(current);
 		return result;
 	}
-	function syllableToSVG(syl) {
+	function syllableToSVG(syl, size, stroke, strokeWidth) {
+		// check if syllable valid (one consonant is also valid)
 		let vow = vowels.join('');
 		let con1 = yesEnd.join('');
 		let con2 = noEnd.join('');
-		console.assert(str.length <= 3 && str.length > 0);
+		console.assert(syl.length <= 3 && syl.length > 0);
 		console.assert(new RegExp(`^(?:[${vow}]|[${con1}${con2}]|[${vow}][${con1}]|[${con1}${con2}][${vow}]|[${con1}${con2}][${vow}][${con1}])$`).test(syl));
+		// copied from the lucide one
+		const defaultOptions = {
+			xmlns: "http://www.w3.org/2000/svg",
+			viewBox: "0 0 24 24", // this might need to change
+			fill: "none",
+			stroke: "currentColor",
+			"stroke-width": 2,
+			"stroke-linecap": "round",
+			"stroke-linejoin": "round",
+		};
+		let attrs = {
+			...defaultOptions,
+			width: size || '1.5em',
+			height: size || '1.5em',
+			stroke: stroke || 'currentColor',
+			"stroke-width": strokeWidth || 2,
+			className: `bauhinian bauhinian-${syl}`
+		};
 		let split = syl.split();
 		if (split.length === 1) {
 			if (vowels.includes(split[0])) {
@@ -96,6 +128,7 @@ function langPlugin(eleventyConfig) {
 			if (vowels.includes(split[1])) {
 			}
 		}
+		return `<svg ${attrsToString(attrs)}><rect width="24" height="24" fill="black"/></svg>`;
 	}
 }
 

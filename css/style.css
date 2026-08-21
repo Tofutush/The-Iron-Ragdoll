@@ -650,6 +650,11 @@ code {
 	overflow-wrap: anywhere;
 }
 
+rt {
+	font-size: calc(0.8 * var(--font-size-small));
+	margin-bottom: 10px;
+}
+
 .breadcrumbs {
 	align-items: center;
 	font-size: var(--font-size-small);
