@@ -72,8 +72,12 @@ She rushed forward to take the full teapot from Checkers' hand, but he pulled it
 
 "I will!" Jelly yelled. Checkers disappeared into the building. She stared at her empty cup, still in her hands, for a while, perhaps contemplating getting another cup of milk tea, before tossing it into a nearby trash can. It bounced off the edge and landed on the ground, but Jelly didn't pick it up. Sugarcane dashed over and put it back into the trash can.
 
-"Let's go, then. It's across the lawn." Jelly tugged on my arm.
+"Let's go, then. It's across the lawn." Jelly tugged on my arm, staring at the ground.
 
-"Hey, are you upset that your dad didn't have time for you?"
+"Hey, are you upset?" I asked.
 
-"It's nothing," Jelly shook her head. "He's always like that."
+"It's nothing," Jelly shook her head. "He's always like that. Come on!" she started smiling again. "Ooh, they've got pottery making there! Hey, Auntie Marmalade!"
+
+Three pottery wheels sat on a patch of concrete next to the lawn, two of them already occupied by kids with muddy hands. A woman stood near one of the kids, guiding her. She paused to wave at us.
+
+"Jelly, dear!"

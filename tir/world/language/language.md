@@ -24,10 +24,7 @@ As far as we're concerned, there existed 3 languages on the continent:
 - Common Bauhinian, no written documents until pretty late; linguists can only speculate on how it sounded like further back
 - Modern Bauhinian, spoken by everyone now, developed from Common
 
-This file documents Noble Bauhinian. As for Modern Bauhinian, it could either be:
-
-1. A language that shares the phonology, writing system, and some other characteristics, though a little different (this is canon).
-2. Literally any language you'd like. It could be English as that's what most of this website is written in. It could be Chinese. It could be literally whatever, and the puns specific to that language would always make sense (this is for convenience).
+This file documents Modern Bauhinian.
 
 ## In brief
 
