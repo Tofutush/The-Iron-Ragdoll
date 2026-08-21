@@ -791,6 +791,7 @@ dl {
 
 	dl {
 		grid-template-columns: 1fr;
+		gap: .5em;
 
 		&>dt {
 			text-align: left !important;
@@ -798,6 +799,7 @@ dl {
 
 		&>dd {
 			margin-left: 1em;
+			margin-bottom: 1em;
 		}
 	}
 
