@@ -4,7 +4,9 @@ import json
 
 
 def sorting(w):
-    return w["pos"]
+    if w["name"][0] == "-":
+        return w["name"][1:].lower()
+    return w["name"].lower()
 
 
 directory = "../tir-p/bauhinian/words/"

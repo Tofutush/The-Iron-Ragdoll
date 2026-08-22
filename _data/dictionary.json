@@ -1,80 +1,5 @@
 [
   {
-    "name": "bosh",
-    "pos": "adj.",
-    "def": "green"
-  },
-  {
-    "name": "chik",
-    "pos": "adj.",
-    "def": "small"
-  },
-  {
-    "name": "fi",
-    "pos": "adj.",
-    "def": "sapient, intelligent"
-  },
-  {
-    "name": "lan",
-    "pos": "adj.",
-    "def": "all, total, many"
-  },
-  {
-    "name": "lax",
-    "pos": "adj.",
-    "def": "free (as in freedom, not price)"
-  },
-  {
-    "name": "lot",
-    "pos": "adj.",
-    "def": "yellow"
-  },
-  {
-    "name": "mun",
-    "pos": "adj.",
-    "def": "purple"
-  },
-  {
-    "name": "nad",
-    "pos": "adj.",
-    "def": "red"
-  },
-  {
-    "name": "nadmun",
-    "pos": "adj.",
-    "def": "colorful"
-  },
-  {
-    "name": "tan",
-    "pos": "adj.",
-    "def": "sparkly"
-  },
-  {
-    "name": "tun",
-    "pos": "adj.",
-    "def": "blue"
-  },
-  {
-    "name": "yop",
-    "pos": "adj.",
-    "def": "orange"
-  },
-  {
-    "name": "zhon",
-    "pos": "adj.",
-    "def": "big"
-  },
-  {
-    "name": "mumuqitafad",
-    "pos": "exclam.",
-    "def": "please"
-  },
-  {
-    "name": "owo",
-    "pos": "exclam.",
-    "def": "hello, greeting"
-  },
-  {
     "name": "aka",
     "pos": "n.",
     "def": "sun"
@@ -85,9 +10,34 @@
     "def": "day"
   },
   {
+    "name": "bit",
+    "pos": "num.",
+    "def": "1"
+  },
+  {
+    "name": "bosh",
+    "pos": "adj.",
+    "def": "green"
+  },
+  {
     "name": "chacha",
     "pos": "n.",
     "def": "older sister"
+  },
+  {
+    "name": "chan",
+    "pos": "num.",
+    "def": "10"
+  },
+  {
+    "name": "chax",
+    "pos": "v.",
+    "def": "stand"
+  },
+  {
+    "name": "chik",
+    "pos": "adj.",
+    "def": "small"
   },
   {
     "name": "chosufilip",
@@ -95,9 +45,39 @@
     "def": "older sister"
   },
   {
+    "name": "chu",
+    "pos": "pron.",
+    "def": "that"
+  },
+  {
+    "name": "dan",
+    "pos": "num.",
+    "def": "6"
+  },
+  {
     "name": "desput",
     "pos": "n.",
     "def": "country"
+  },
+  {
+    "name": "duk",
+    "pos": "num.",
+    "def": "8"
+  },
+  {
+    "name": "fam",
+    "pos": "num.",
+    "def": "100"
+  },
+  {
+    "name": "Fantondesput",
+    "pos": "proper n.",
+    "def": "Fanton"
+  },
+  {
+    "name": "fi",
+    "pos": "adj.",
+    "def": "sapient, intelligent"
   },
   {
     "name": "filip",
@@ -120,9 +100,24 @@
     "def": "younger brother"
   },
   {
+    "name": "lan",
+    "pos": "adj.",
+    "def": "all, total, many"
+  },
+  {
     "name": "lantap",
     "pos": "n.",
     "def": "world"
+  },
+  {
+    "name": "lat",
+    "pos": "num.",
+    "def": "3"
+  },
+  {
+    "name": "lax",
+    "pos": "adj.",
+    "def": "free (as in freedom, not price)"
   },
   {
     "name": "lip",
@@ -130,9 +125,24 @@
     "def": "creature, being"
   },
   {
+    "name": "lot",
+    "pos": "adj.",
+    "def": "yellow"
+  },
+  {
+    "name": "lun",
+    "pos": "num.",
+    "def": "7"
+  },
+  {
     "name": "mama",
     "pos": "n.",
     "def": "mom"
+  },
+  {
+    "name": "mep",
+    "pos": "num.",
+    "def": "4"
   },
   {
     "name": "mofilip",
@@ -140,14 +150,84 @@
     "def": "girl"
   },
   {
+    "name": "Moledesput",
+    "pos": "proper n.",
+    "def": "Moreland"
+  },
+  {
     "name": "momo",
     "pos": "n.",
     "def": "girl"
   },
   {
+    "name": "moppak",
+    "pos": "num.",
+    "def": "1,000"
+  },
+  {
     "name": "motefilip",
     "pos": "n.",
     "def": "mother"
+  },
+  {
+    "name": "Motezhondesput",
+    "pos": "proper n.",
+    "def": "(archaic) Bauhinian Empire"
+  },
+  {
+    "name": "mu",
+    "pos": "pron.",
+    "def": "this"
+  },
+  {
+    "name": "mumuqitafad",
+    "pos": "exclam.",
+    "def": "please"
+  },
+  {
+    "name": "mun",
+    "pos": "adj.",
+    "def": "purple"
+  },
+  {
+    "name": "muqu",
+    "pos": "num.",
+    "def": "10,000"
+  },
+  {
+    "name": "na",
+    "pos": "pron.",
+    "def": "you (informal)"
+  },
+  {
+    "name": "nad",
+    "pos": "adj.",
+    "def": "red"
+  },
+  {
+    "name": "nadmun",
+    "pos": "adj.",
+    "def": "colorful"
+  },
+  {
+    "name": "-nan",
+    "pos": "suffix",
+    "def": "subject case"
+  },
+  {
+    "name": "-nip",
+    "pos": "suffix",
+    "def": "plural"
+  },
+  {
+    "name": "nomni",
+    "pos": "v.",
+    "def": "eat"
+  },
+  {
+    "name": "owo",
+    "pos": "exclam.",
+    "def": "hello, greeting"
   },
   {
     "name": "papa",
@@ -180,9 +260,29 @@
     "def": "father"
   },
   {
+    "name": "qa",
+    "pos": "pron.",
+    "def": "you (formal)"
+  },
+  {
+    "name": "sa",
+    "pos": "pron.",
+    "def": "he, she, they (singular)"
+  },
+  {
     "name": "sili",
     "pos": "n.",
     "def": "tadpole"
+  },
+  {
+    "name": "-sin",
+    "pos": "suffix",
+    "def": "predicate case"
+  },
+  {
+    "name": "Sivandadesput",
+    "pos": "proper n.",
+    "def": "Sylvandia"
   },
   {
     "name": "sotan",
@@ -193,6 +293,16 @@
     "name": "sufilip",
     "pos": "n.",
     "def": "sibling, a person of the same generation"
+  },
+  {
+    "name": "tan",
+    "pos": "adj.",
+    "def": "sparkly"
+  },
+  {
+    "name": "-tanka",
+    "pos": "suffix",
+    "def": "present ongoing tense"
   },
   {
     "name": "tap",
@@ -215,14 +325,44 @@
     "def": "a person of the previous generation"
   },
   {
+    "name": "-tik",
+    "pos": "suffix",
+    "def": "reduce the degree of the adjective modified"
+  },
+  {
+    "name": "tim-",
+    "pos": "prefix",
+    "def": "the n-th"
+  },
+  {
+    "name": "tok",
+    "pos": "num.",
+    "def": "5"
+  },
+  {
     "name": "tuk",
     "pos": "n.",
     "def": "time"
   },
   {
+    "name": "tun",
+    "pos": "adj.",
+    "def": "blue"
+  },
+  {
+    "name": "wa",
+    "pos": "pron.",
+    "def": "I, me"
+  },
+  {
     "name": "westav",
     "pos": "n.",
     "def": "west"
+  },
+  {
+    "name": "Westavdesput",
+    "pos": "proper n.",
+    "def": "Westavia"
   },
   {
     "name": "yami",
@@ -240,6 +380,16 @@
     "def": "east"
   },
   {
+    "name": "Yatelaxdesput",
+    "pos": "proper n.",
+    "def": "Atlasia"
+  },
+  {
+    "name": "yax",
+    "pos": "num.",
+    "def": "2"
+  },
+  {
     "name": "yaya",
     "pos": "n.",
     "def": "younger sister"
@@ -250,69 +400,9 @@
     "def": "younger sister"
   },
   {
-    "name": "zijin",
-    "pos": "n.",
-    "def": "bauhinia flower"
-  },
-  {
-    "name": "bit",
-    "pos": "num.",
-    "def": "1"
-  },
-  {
-    "name": "chan",
-    "pos": "num.",
-    "def": "10"
-  },
-  {
-    "name": "dan",
-    "pos": "num.",
-    "def": "6"
-  },
-  {
-    "name": "duk",
-    "pos": "num.",
-    "def": "8"
-  },
-  {
-    "name": "fam",
-    "pos": "num.",
-    "def": "100"
-  },
-  {
-    "name": "lat",
-    "pos": "num.",
-    "def": "3"
-  },
-  {
-    "name": "lun",
-    "pos": "num.",
-    "def": "7"
-  },
-  {
-    "name": "mep",
-    "pos": "num.",
-    "def": "4"
-  },
-  {
-    "name": "moppak",
-    "pos": "num.",
-    "def": "1,000"
-  },
-  {
-    "name": "muqu",
-    "pos": "num.",
-    "def": "10,000"
-  },
-  {
-    "name": "tok",
-    "pos": "num.",
-    "def": "5"
-  },
-  {
-    "name": "yax",
-    "pos": "num.",
-    "def": "2"
+    "name": "yop",
+    "pos": "adj.",
+    "def": "orange"
   },
   {
     "name": "zhin",
@@ -320,69 +410,14 @@
     "def": "9"
   },
   {
-    "name": "tim-",
-    "pos": "prefix",
-    "def": "the n-th"
+    "name": "zhon",
+    "pos": "adj.",
+    "def": "big"
   },
   {
-    "name": "chu",
-    "pos": "pron.",
-    "def": "that"
-  },
-  {
-    "name": "mu",
-    "pos": "pron.",
-    "def": "this"
-  },
-  {
-    "name": "na",
-    "pos": "pron.",
-    "def": "you (informal)"
-  },
-  {
-    "name": "qa",
-    "pos": "pron.",
-    "def": "you (formal)"
-  },
-  {
-    "name": "sa",
-    "pos": "pron.",
-    "def": "he, she, they (singular)"
-  },
-  {
-    "name": "wa",
-    "pos": "pron.",
-    "def": "I, me"
-  },
-  {
-    "name": "Fantondesput",
-    "pos": "proper n.",
-    "def": "Fanton"
-  },
-  {
-    "name": "Moledesput",
-    "pos": "proper n.",
-    "def": "Moreland"
-  },
-  {
-    "name": "Motezhondesput",
-    "pos": "proper n.",
-    "def": "(archaic) Bauhinian Empire"
-  },
-  {
-    "name": "Sivandadesput",
-    "pos": "proper n.",
-    "def": "Sylvandia"
-  },
-  {
-    "name": "Westavdesput",
-    "pos": "proper n.",
-    "def": "Westavia"
-  },
-  {
-    "name": "Yatelaxdesput",
-    "pos": "proper n.",
-    "def": "Atlasia"
+    "name": "zijin",
+    "pos": "n.",
+    "def": "bauhinia flower"
   },
   {
     "name": "Zijindesput",
@@ -393,40 +428,5 @@
     "name": "Zijinzhondesput",
     "pos": "proper n.",
     "def": "Bauhinian Empire"
-  },
-  {
-    "name": "-nan",
-    "pos": "suffix",
-    "def": "subject case"
-  },
-  {
-    "name": "-nip",
-    "pos": "suffix",
-    "def": "plural"
-  },
-  {
-    "name": "-sin",
-    "pos": "suffix",
-    "def": "predicate case"
-  },
-  {
-    "name": "-tanka",
-    "pos": "suffix",
-    "def": "present ongoing tense"
-  },
-  {
-    "name": "-tik",
-    "pos": "suffix",
-    "def": "reduce the degree of the adjective modified"
-  },
-  {
-    "name": "chax",
-    "pos": "v.",
-    "def": "stand"
-  },
-  {
-    "name": "nomni",
-    "pos": "v.",
-    "def": "eat"
   }
 ]
