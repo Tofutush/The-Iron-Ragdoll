@@ -1,5 +1,35 @@
 [
   {
+    "name": "bosh",
+    "pos": "adj.",
+    "def": "green"
+  },
+  {
+    "name": "chik",
+    "pos": "adj.",
+    "def": "small"
+  },
+  {
+    "name": "fi",
+    "pos": "adj.",
+    "def": "sapient, intelligent"
+  },
+  {
+    "name": "lan",
+    "pos": "adj.",
+    "def": "all, total, many"
+  },
+  {
+    "name": "lax",
+    "pos": "adj.",
+    "def": "free (as in freedom, not price)"
+  },
+  {
+    "name": "lot",
+    "pos": "adj.",
+    "def": "yellow"
+  },
+  {
     "name": "mun",
     "pos": "adj.",
     "def": "purple"
@@ -15,6 +45,26 @@
     "def": "colorful"
   },
   {
+    "name": "tan",
+    "pos": "adj.",
+    "def": "sparkly"
+  },
+  {
+    "name": "tun",
+    "pos": "adj.",
+    "def": "blue"
+  },
+  {
+    "name": "yop",
+    "pos": "adj.",
+    "def": "orange"
+  },
+  {
+    "name": "zhon",
+    "pos": "adj.",
+    "def": "big"
+  },
+  {
     "name": "mumuqitafad",
     "pos": "exclam.",
     "def": "please"
@@ -25,9 +75,254 @@
     "def": "hello, greeting"
   },
   {
+    "name": "aka",
+    "pos": "n.",
+    "def": "sun"
+  },
+  {
+    "name": "akatuk",
+    "pos": "n.",
+    "def": "day"
+  },
+  {
+    "name": "chacha",
+    "pos": "n.",
+    "def": "older sister"
+  },
+  {
+    "name": "chosufilip",
+    "pos": "n.",
+    "def": "older sister"
+  },
+  {
+    "name": "desput",
+    "pos": "n.",
+    "def": "country"
+  },
+  {
+    "name": "filip",
+    "pos": "n.",
+    "def": "person, human"
+  },
+  {
+    "name": "fisili",
+    "pos": "n.",
+    "def": "tadlet"
+  },
+  {
+    "name": "gaga",
+    "pos": "n.",
+    "def": "younger brother"
+  },
+  {
+    "name": "gesufilip",
+    "pos": "n.",
+    "def": "younger brother"
+  },
+  {
+    "name": "lantap",
+    "pos": "n.",
+    "def": "world"
+  },
+  {
+    "name": "lip",
+    "pos": "n.",
+    "def": "creature, being"
+  },
+  {
+    "name": "mama",
+    "pos": "n.",
+    "def": "mom"
+  },
+  {
+    "name": "mofilip",
+    "pos": "n.",
+    "def": "girl"
+  },
+  {
+    "name": "momo",
+    "pos": "n.",
+    "def": "girl"
+  },
+  {
+    "name": "motefilip",
+    "pos": "n.",
+    "def": "mother"
+  },
+  {
+    "name": "papa",
+    "pos": "n.",
+    "def": "dad"
+  },
+  {
+    "name": "papput",
+    "pos": "n.",
+    "def": "region, city, area"
+  },
+  {
+    "name": "pufilip",
+    "pos": "n.",
+    "def": "boy"
+  },
+  {
+    "name": "pupu",
+    "pos": "n.",
+    "def": "boy"
+  },
+  {
+    "name": "put",
+    "pos": "n.",
+    "def": "land, earth"
+  },
+  {
+    "name": "putefilip",
+    "pos": "n.",
+    "def": "father"
+  },
+  {
+    "name": "sili",
+    "pos": "n.",
+    "def": "tadpole"
+  },
+  {
     "name": "sotan",
     "pos": "n.",
     "def": "apple"
+  },
+  {
+    "name": "sufilip",
+    "pos": "n.",
+    "def": "sibling, a person of the same generation"
+  },
+  {
+    "name": "tap",
+    "pos": "n.",
+    "def": "thing"
+  },
+  {
+    "name": "tasufilip",
+    "pos": "n.",
+    "def": "older brother"
+  },
+  {
+    "name": "tata",
+    "pos": "n.",
+    "def": "older brother"
+  },
+  {
+    "name": "tefilip",
+    "pos": "n.",
+    "def": "a person of the previous generation"
+  },
+  {
+    "name": "tuk",
+    "pos": "n.",
+    "def": "time"
+  },
+  {
+    "name": "westav",
+    "pos": "n.",
+    "def": "west"
+  },
+  {
+    "name": "yami",
+    "pos": "n.",
+    "def": "moon"
+  },
+  {
+    "name": "yamituk",
+    "pos": "n.",
+    "def": "night"
+  },
+  {
+    "name": "yate",
+    "pos": "n.",
+    "def": "east"
+  },
+  {
+    "name": "yaya",
+    "pos": "n.",
+    "def": "younger sister"
+  },
+  {
+    "name": "yisufilip",
+    "pos": "n.",
+    "def": "younger sister"
+  },
+  {
+    "name": "zijin",
+    "pos": "n.",
+    "def": "bauhinia flower"
+  },
+  {
+    "name": "bit",
+    "pos": "num.",
+    "def": "1"
+  },
+  {
+    "name": "chan",
+    "pos": "num.",
+    "def": "10"
+  },
+  {
+    "name": "dan",
+    "pos": "num.",
+    "def": "6"
+  },
+  {
+    "name": "duk",
+    "pos": "num.",
+    "def": "8"
+  },
+  {
+    "name": "fam",
+    "pos": "num.",
+    "def": "100"
+  },
+  {
+    "name": "lat",
+    "pos": "num.",
+    "def": "3"
+  },
+  {
+    "name": "lun",
+    "pos": "num.",
+    "def": "7"
+  },
+  {
+    "name": "mep",
+    "pos": "num.",
+    "def": "4"
+  },
+  {
+    "name": "moppak",
+    "pos": "num.",
+    "def": "1,000"
+  },
+  {
+    "name": "muqu",
+    "pos": "num.",
+    "def": "10,000"
+  },
+  {
+    "name": "tok",
+    "pos": "num.",
+    "def": "5"
+  },
+  {
+    "name": "yax",
+    "pos": "num.",
+    "def": "2"
+  },
+  {
+    "name": "zhin",
+    "pos": "num.",
+    "def": "9"
+  },
+  {
+    "name": "tim-",
+    "pos": "prefix",
+    "def": "the n-th"
   },
   {
     "name": "chu",
@@ -58,5 +353,80 @@
     "name": "wa",
     "pos": "pron.",
     "def": "I, me"
+  },
+  {
+    "name": "Fantondesput",
+    "pos": "proper n.",
+    "def": "Fanton"
+  },
+  {
+    "name": "Moledesput",
+    "pos": "proper n.",
+    "def": "Moreland"
+  },
+  {
+    "name": "Motezhondesput",
+    "pos": "proper n.",
+    "def": "(archaic) Bauhinian Empire"
+  },
+  {
+    "name": "Sivandadesput",
+    "pos": "proper n.",
+    "def": "Sylvandia"
+  },
+  {
+    "name": "Westavdesput",
+    "pos": "proper n.",
+    "def": "Westavia"
+  },
+  {
+    "name": "Yatelaxdesput",
+    "pos": "proper n.",
+    "def": "Atlasia"
+  },
+  {
+    "name": "Zijindesput",
+    "pos": "proper n.",
+    "def": "Bauhinia"
+  },
+  {
+    "name": "Zijinzhondesput",
+    "pos": "proper n.",
+    "def": "Bauhinian Empire"
+  },
+  {
+    "name": "-nan",
+    "pos": "suffix",
+    "def": "subject case"
+  },
+  {
+    "name": "-nip",
+    "pos": "suffix",
+    "def": "plural"
+  },
+  {
+    "name": "-sin",
+    "pos": "suffix",
+    "def": "predicate case"
+  },
+  {
+    "name": "-tanka",
+    "pos": "suffix",
+    "def": "present ongoing tense"
+  },
+  {
+    "name": "-tik",
+    "pos": "suffix",
+    "def": "reduce the degree of the adjective modified"
+  },
+  {
+    "name": "chax",
+    "pos": "v.",
+    "def": "stand"
+  },
+  {
+    "name": "nomni",
+    "pos": "v.",
+    "def": "eat"
   }
 ]

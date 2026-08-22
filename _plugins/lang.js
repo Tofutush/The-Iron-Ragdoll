@@ -33,7 +33,7 @@ function langPlugin(eleventyConfig) {
 		if (ruby) final = "<ruby>";
 		for (let syl of syllables) {
 			final += syllableToSVG(syl, size, stroke, strokeWidth);
-			if (ruby) final += `<rt>${syl.replaceAll('zh', 'ž').replaceAll('ch', 'č').replaceAll('sh', 'š')}</rt>`
+			if (ruby) final += `<rt>${syl.replaceAll('ž', 'zh').replaceAll('č', 'ch').replaceAll('š', 'sh')}</rt>`
 		}
 		if (ruby) final += '</ruby>';
 		return final;
