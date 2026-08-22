@@ -7,7 +7,7 @@ categories:
   - Lore
 ---
 
-Due to literally being one Bauhinian Empire for thousands of years, everyone on the continent speaks one language. Though topolects and accents exist, the foundations of them are the same, and they always remain mutually intelligible. Here is all the info on the language! For a list of words in the language, refer to the [lexicon](/world/language/lexicon/)!
+Due to literally being one Bauhinian Empire for thousands of years, everyone on the continent speaks one language. Though topolects and accents exist, the foundations of them are the same, and they always remain mutually intelligible. Here is all the info on the language! For a list of words in the language, refer to the [dictionary](/world/language/dictionary/)!
 
 > [!info]+ Info
 > This batshit file is going to be riddled in unprofessional terminology that can make a real linguist weep, and I'm sorry about that. Do [tell me](https://tofutush.leprd.space/guestbook/) if there's something you think I should change! Also, I would likely never make this into a fully-fledged conlang, and more important than ever that everything here is subject to change!

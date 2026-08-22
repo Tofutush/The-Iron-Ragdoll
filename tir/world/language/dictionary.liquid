@@ -1,0 +1,18 @@
+---
+title: Dictionary
+desc: A list of words in Bauhinian.
+parent: Language
+categories:
+  - Lore
+---
+<style>
+	dt {
+		color: var(--text) !important;
+	}
+</style>
+<dl>
+	{% for word in dictionary %}
+		<dt id="{{ word.name }}">{% bauhinian word.name %} ({{ word.name }})</dt>
+		<dd><em class="lighter-text">{{ word.pos }}</em> {{ word.def }}</dd>
+	{% endfor %}
+</dl>
