@@ -1,9 +1,9 @@
-<svg width="92" height="89" viewBox="0 0 92 89" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="92" height="89" fill="white"/>
-<line x1="17.5" y1="18.5" x2="74.5" y2="18.5" stroke="black" stroke-width="3" stroke-linecap="round"/>
-<line x1="17.5" y1="72.5" x2="74.5" y2="72.5" stroke="black" stroke-width="3" stroke-linecap="round"/>
-<circle cx="73.5" cy="26.5" r="2.5" fill="black"/>
-<circle cx="18.5" cy="11.5" r="2.5" fill="black"/>
-<circle cx="73.5" cy="79.5" r="2.5" fill="black"/>
-<circle cx="18.5" cy="64.5" r="2.5" fill="black"/>
+<svg width="90" height="90" viewBox="0 0 90 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="90" height="90" fill="white"/>
+<line x1="17.5" y1="17.5" x2="74.5" y2="17.5" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<line x1="16.5" y1="72.5" x2="73.5" y2="72.5" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<circle cx="73.5" cy="25.5" r="2.5" fill="black"/>
+<circle cx="18.5" cy="10.5" r="2.5" fill="black"/>
+<circle cx="72.5" cy="79.5" r="2.5" fill="black"/>
+<circle cx="17.5" cy="64.5" r="2.5" fill="black"/>
 </svg>
