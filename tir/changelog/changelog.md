@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-08-22
+
+- Changed Lexicon to [Dictionary](/world/language/dictionary/), though I haven't drawn the characters yet so they're just black boxes;
+
 ## 2026-08-19
 
 - Fixed the flags on the World page;
