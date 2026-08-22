@@ -57,16 +57,16 @@ Letters with no sound-alikes sounds like how they would in English.
 
 | Latin          | Bauhinian |
 | -------------- | --------- |
-| b              |           |
 | p              |           |
-| d              |           |
+| b              |           |
 | t              |           |
-| g              |           |
+| d              |           |
 | k              |           |
-| v              |           |
+| g              |           |
 | f              |           |
-| m              |           |
+| v              |           |
 | n              |           |
+| m              |           |
 | y              |           |
 | w              |           |
 | l              |           |
