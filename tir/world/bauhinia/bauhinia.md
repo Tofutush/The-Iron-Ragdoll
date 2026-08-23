@@ -62,7 +62,7 @@ Bauhinia is also a dictatorship, in case you haven't noticed. It's on a happy-go
 
 ### Foreign relations
 
-Bauhinia is in a cold war against [Moreland](/world/moreland/). They have also finlandized and attempted to annex [Fanton](/world/fanton/), an attempt which failed but made Fanton take their side in the cold war. They engage in exploitive activities in [Sylvandia](/world/sylvandia/) not unlike that of Moreland's.
+Bauhinia is in a cold war against [Moreland](/world/moreland/). They have also attempted to annex [Fanton](/world/fanton/), an attempt which failed but made Fanton take their side in the cold war. They engage in exploitive activities in [Sylvandia](/world/sylvandia/) not unlike that of Moreland's.
 
 ### Eternal death
 
@@ -106,12 +106,14 @@ The industrial revolution started in 1911, and the new technology gave the empir
 
 However, some partisans within Moreland refused to accept this, and launched an illegal coup that took over the government in an event known as the Guardian Moose Takeover. The Guardian Moose ruled the newly-controlled country in a dictatorship and took an anti-Bauhinian stance in every way.
 
-(Meanwhile, Fanton declared independence, but like who are they anyways?)
+(Meanwhile, Fanton declared independence, but like who are they anyways? Surely that doesn't have an impact whatsoever and it's *definitely* not a loss!)
 
-The empire resumed their war with Moreland, but trouble was brewing back home. The Bauhinian people, tired of their outdated monarchy, also longed for a new form of government. The glorious republic revolution started in 1939 and in 1944, a republican government was established in Bauhinia. The new government recognized the necessity of a more multi-polar world and recognized the independence of Moreland, but not Fanton. The remaining imperial forces were wiped out in 1948 and the Empire had officially come to an end.
+The empire resumed their war with Moreland, but trouble was brewing back home. The Bauhinian people, tired of their outdated monarchy, also longed for a new form of government. The glorious republic revolution started in 1939 and in 1944, a republican government was established in Bauhinia, keeping the same capital city, Flower City, with all its ancient relics like the Central Palace and the city wall intact[^1]. The new government recognized the necessity of a more multi-polar world and recognized the independence of Moreland, but not Fanton. The remaining imperial forces were wiped out in 1948 and the Empire had officially come to an end.
 
 In Moreland, a group of dissidents of the regime went off and started their own country, Atlasia, and maintained independence from Moreland with Bauhinia's aid. At the same time, Westavia also declared independence as a satellite of Moreland's, and Bauhinia staged a border dispute which started a war between the two that ended when Bauhinia developed nuclear bombs and nuked Area 3, the industrial center of Westavia. To this day, Area 3 hasn't regained its industrial capabilities.
 
-At the end of the war, the world formed a bipolar structure with Bauhinia and Moreland being in a state of cold war. Bauhinia recognized Fanton, Westavia, and Sylvandia.
+At the end of the war, the world formed a bipolar structure with Bauhinia and Moreland being in a state of cold war.
 
-In 2041, Bauhinia launched a reunification campaign to take back Fanton. The campaign failed due to Moreland's backdoor support for Fanton, but successfully made Fanton finlandized to Bauhinia.
+In 2041, Bauhinia launched a reunification campaign to take back Fanton. The campaign failed due to Moreland's backdoor support for Fanton.
+
+[^1]: Because I hate being subtle, this represents how Bauhinia did not fundamentally change its status as an empire, and that its interests still lie in the subjugation of the entire continent — as opposed to Moreland who tore down the city wall and all imperial relics and renaming the city, symbolizing a complete new start.

@@ -43,9 +43,9 @@ The creation of a truly independent Moreland pissed off more people than just th
 
 Back home in Bauhinia, class conflict was getting high. Combined with resentment of the government because of the loss of Moreland, and revolutionary ideals from the success of Moreland, revolution broke out in 1939, throwing the country into a ten-year-long mess.
 
-### Fantoni's independence
+### Fanton's independence
 
-Amid the chaos, in 1943, the feudal lord assigned to the region of Fanton announced independence of [The Kingdom of Fanton](/world/fanton/) over his territories of the Plateau and the Southern Basin, which got subsequently renamed to the Fantoni Plateau and the Fantoni Basin. As such, environmental preservation is a founding ideal of Fanton's.
+Amid the chaos, in 1943, the feudal lord assigned to the region of Fanton announced independence of [The Kingdom of Fanton](/world/fanton/), crowning himself King, over his territories of the Plateau and the Southern Basin, which got subsequently renamed to the Fantoni Plateau and the Fantoni Basin. Environmental preservation is a founding ideal of Fanton's.
 
 ### The Republic of Bauhinia
 
@@ -57,15 +57,11 @@ In 1948, the struggles have finally come to an end. The republican government ha
 
 ## Sylvandia's independence
 
-Fueled by the revolutionary fire sweeping through the entire continent, [Sylvandia](/world/sylvandia/) also had their own independence movements against the Bauhinian Empire. However, they were scattered, ununited, and weak. Easily crushed by imperial troops. Unable to make much of a difference.
+Fueled by the revolutionary fire sweeping through the entire continent, [Sylvandia](/world/sylvandia/) also had their own independence movements against the Empire, often clashing with Morelandian troops in their claims to territory. However, they were scattered, ununited, and weak, unable to make much of a difference.
 
-Enter the newly-created Moreland to the rescue. In 1939, after driving away their own Bauhinians, Moreland began giving all sorts of material and moral support to Sylvandian resistance groups. The catch? "Unity" was not a word in their glossary. Each resistance group held to some extent the belief that they, fighting in their specific area, would become an independent state; and Moreland played right into it.
+The Bauhinian Republican Revolution saw opportunity and aided the Sylvandian independence movements in their efforts to weaken the imperial outposts in Sylvandia. One by one, Sylvandian states declared their independence, as well as their allegiance to the Republic of Bauhinia. This created a clash of interest as their neighbor, Moreland, does *not* want a bunch of Bauhinian satellites on their border, so after Westavia gained independence in 1945, Moreland also started meddling in Sylvandia.
 
-In 1945, after Westavia gained independence with their help, Moreland straight up launched an invasion of Sylvandia to drive away the Bauhinian troops.
-
-Bauhinia, being neck-deep in revolution themselves at that time, had scarcely any attention to pay to Sylvandia. Also a lot of the imperial troops were called back to suppress the revolution anyways. One by one, Sylvandian states declared their independence.
-
-In 1951, after the establishment of the fifth state, [Mistle](/world/sylvandia/mistle/), Moreland urged the five states to form a federation. (Like *now* they're talking "unity.") The federation agreement marked the independence of [The Sylvandian Federation](/world/sylvandia/). However, Moreland never took back their troops. To this day the country remains heavily under Morelandian control. Some may even call them a pseudo-colony.
+In 1951, after the establishment of the fifth state, [Mistle](/world/sylvandia/mistle/), Moreland urged the five states to form a federation. The federation agreement marked the independence of [The Sylvandian Federation](/world/sylvandia/), which is federally on Moreland's side in recognition of geographical advantages to being Moreland's ally, as well as a more practical opposition to Bauhinia, even the newly-created Republic. However, there are still plenty of "Foreign Zones" all over the countries where Bauhinia has jurisdiction, and plenty of private Bauhinian corporations (which is to say, mostly just Starcorp) still have a significant economic control over the region, with their own militias to support them.
 
 ## Westavia's independence
 
@@ -81,7 +77,7 @@ Being right next to each other, one in the west and one in the east, and backed 
 
 The war lasted for eight years, and ended when Bauhinia nuked Westavia. Surprise, motherfucker. We got nukes now. [Atlasia](/world/atlasia/) and [Westavia](/world/westavia/) drew permanent borders and signed a peace treaty. Moreland worked on their own nukes and pretty quickly made it, thanks to their spies. It was 1955[^5], and the cold war between the north and the south had started.
 
-[^1]: I am in no way a proper historian. I'm just here spending more time than I probably should have to attempt to build a coherent history to explain the current world order. Do yell at me (nicely) if there are things drastically wrong and illogical with these events. Also there are some phrases I may not know in English so there might be awkward phrasing (like "people who fight like whack-a-mole" instead of "guerrilla" for a recent example. I learned the word now).
+[^1]: I am in no way a proper historian. I'm just here spending more time than I probably should have to attempt to build a coherent history to explain the current world order.
 [^2]: Don't ask me why they use the same calendar as us. Convenience. Also the timeline has some weird explanation too. The comic started in 2023 and Sparky was 5 (almost 6), and everything else went from there. (Sparky's starting age got changed to 7 (almost 8) later.)
 [^3]: They skipped steam right. I guess they did. Also I wonder why there's "steampunk" and "cyberpunk" but not some sort of "electricpunk"? Why'd you leave my baby out?
 [^4]: Yknow. Like Sparta?

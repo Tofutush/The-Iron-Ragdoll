@@ -90,11 +90,7 @@ They took the plains in the east and declared independence in 1945. Since then, 
 
 ## Trivia
 
-It's kinda cringe, Atlasia is based off of Ayn Rand's works. I never actually read them. But I plan to. I just gotta read through all the Captain Underpants books for the 100th time first.
-
-I just thought this would be an interesting concept to explore. I mean, people always seem to either defend her ideas to the death or outright dismiss all of them. It seems that no one had ever thought about how a country that puts Rand's ideas to practice would look like. (I know because I once asked a half-ass terribly-worded question on Reddit before. They said the closest example would be gilded-age USA.)
-
-So here I am. I'm doing it.
+It's kinda cringe, Atlasia is based off of Ayn Rand's works. I never actually read them. But I plan to. I just gotta read through all the Captain Underpants books for the 100th time first. I just thought this would be an interesting concept to explore.
 
 My thought process is basically, what are some things that involves the government? And then take the government out of it. Turns out once you start thinking about it, a *lot* of things involve the government. Name changes need to go through the government. Okay now they don't. Buying a car? The government gives you the license plate. Okay now license plates are no more. Just get a car and drive. Passports are issued by the government. Okay, passports are no more. Leave anytime. (What about people coming in? I genuinely need to think about this.)
 

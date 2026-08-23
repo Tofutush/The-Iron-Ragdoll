@@ -59,8 +59,6 @@ Despite all that government control and their success in preserving the environm
 
 Fanton does *not* like meddling in international affairs. They prefer isolationism. But reality just won't let them.
 
-First they got finlandized to hell by [Bauhinia](/world/bauhinia/), and then they get invaded. Okay, we declare ourselves on your side in this petty cold war. Happy?
-
 ## Economy
 
 Fanton remains relatively unindustrialized and heavily relies on the exportation of crops and materials and the importation of products. However, due to the broad category of banned stuff, there is a flourishing underground black market rife with smuggling bootlegged stuff like drugs, alcohol, cigarettes, and [souls](/world/souls/).
