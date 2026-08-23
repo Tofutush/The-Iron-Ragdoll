@@ -43,42 +43,42 @@ Bauhinian features 5 vowels and 23 consonants.
 
 ### Vowels
 
-| Latin         | Bauhinian |
-| ------------- | --------- |
-| a (**a**pple) |           |
-| e (s**e**t)   |           |
-| i (t**i**p)   |           |
-| o (b**oa**t)  |           |
-| u (b**oo**t)  |           |
+| Bauhinian | Sound-alike |
+| --------- | ----------- |
+| a         | **a**pple   |
+| e         | s**e**t     |
+| i         | t**i**p     |
+| o         | b**oa**t    |
+| u         | b**oo**t    |
 
 ### Consonants
 
 Letters with no sound-alikes sounds like how they would in English.
 
-| Latin          | Bauhinian |
-| -------------- | --------- |
-| b              |           |
-| p              |           |
-| d              |           |
-| t              |           |
-| g              |           |
-| k              |           |
-| v              |           |
-| f              |           |
-| m              |           |
-| n              |           |
-| y              |           |
-| w              |           |
-| l              |           |
-| j (机)          |           |
-| q (期)          |           |
-| x (希)          |           |
-| z              |           |
-| c (do**ts**)   |           |
-| s              |           |
-| zh (**j**uice) |           |
-| ch             |           |
-| sh             |           |
+| Letter | Sound-alike |
+| ------ | ----------- |
+| b      |             |
+| p      |             |
+| d      |             |
+| t      |             |
+| g      |             |
+| k      |             |
+| v      |             |
+| f      |             |
+| m      |             |
+| n      |             |
+| y      |             |
+| w      |             |
+| l      |             |
+| j      | 机           |
+| q      | 期           |
+| x      | 希           |
+| z      |             |
+| c      | do**ts**    |
+| s      |             |
+| zh     | **j**uice   |
+| ch     |             |
+| sh     |             |
 
 ### Rules
 
@@ -90,6 +90,11 @@ Syllables in Bauhinian are constructed with one of these patterns:
 4. consonant + vowel + consonant (*nam*, *was*)
 
 But the restrictions are that *y*, *w*, and *l* cannot appear at the end of a syllable.
+
+For writing, the following rules apply:
+
+- Affixes must be separated by hyphens.
+- Syllables that start with a vowel must have an apostrophe in front of it, unless it's at the start of a word. In dictionaries, all syllables are separated by apostrophes. This is to separate, for example, *tetel* (*te'tel*) from *tet'el*.
 
 ### Pronunciation
 
@@ -110,25 +115,6 @@ The vowel *i* is typically short in Bauhinian. However, if it's at the very end 
 #### Stress
 
 Stress is not important in Bauhinian. Do whatever.
-
-## Writing system
-
-Bauhinian uses a syllabary, meaning each syllable is written as a single character. Please consult this handy graph:
-
-(graph not drawn yet)
-
-According to my calculations, the total possible number of characters in Bauhinian is 4392, so no way I'm drawing all that.
-
-### Font styles
-
-tba
-
-### Latin transcription
-
-Well most of Bauhinian you're gonna see here are Latinizations because writing those characters, saving them as pictures, and putting them here is tedious.
-
-- Affixes must be separated by hyphens.
-- Syllables that start with a vowel must have an apostrophe in front of it, unless it's at the start of a word. In dictionaries, all syllables are separated by apostrophes. This is to separate, for example, *tetel* (*te'tel*) from *tet'el*.
 
 ## Grammar
 
