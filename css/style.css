@@ -654,7 +654,8 @@ ruby {
 	user-select: none;
 
 	& svg {
-		vertical-align: -.7em;
+		vertical-align: -18px;
+		margin: -4px;
 	}
 }
 

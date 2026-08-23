@@ -1,3 +1,4 @@
+import letters from '../letters.json' with {type: 'json'};
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 const yesEnd = [
 	"b",
@@ -25,8 +26,8 @@ const noEnd = ['y', 'w', 'l'];
 function attrsToString(attrs) {
 	return Object.keys(attrs).map(key => `${key === 'className' ? 'class' : key}="${attrs[key]}"`).join(' ');
 }
-function mapSVGContent(icon) {
-	return icon.map(elt => `<${elt[0]} ${attrsToString(elt[1])}/>`).join('');
+function mapSVGContent(name) {
+	return letters[name].map(elt => `<${elt[0]} ${attrsToString(elt[1])}/>`).join('');
 }
 
 function strToSyllables(str) {
@@ -88,38 +89,60 @@ function syllableToSVG(syl, size, stroke, strokeWidth) {
 	// copied from the lucide one
 	const defaultOptions = {
 		xmlns: "http://www.w3.org/2000/svg",
-		viewBox: "0 0 24 24", // this might need to change
-		fill: "none",
-		stroke: "currentColor",
-		"stroke-width": 2,
+		viewBox: "0 0 90 90",
+		fill: 'none',
 		"stroke-linecap": "round",
 		"stroke-linejoin": "round",
 	};
 	let attrs = {
 		...defaultOptions,
-		width: size || '1.5em',
-		height: size || '1.5em',
+		width: size || '2em',
+		height: size || '2em',
 		stroke: stroke || 'currentColor',
-		"stroke-width": strokeWidth || 2,
+		"stroke-width": strokeWidth || 4,
 		className: `bauhinian bauhinian-${syl}`
 	};
-	let split = syl.split();
+	let split = syl.split('');
 	if (split.length === 1) {
 		if (vowels.includes(split[0])) {
 			// return single vowel
+			return `<svg ${attrsToString(attrs)}>
+				${mapSVGContent(split[0])}
+			</svg>`;
 		} else {
-			// return two parts of consonant (and 1 if y/w/l)
+			if (['y', 'w', 'l'].includes(split[0]))
+				return `<svg ${attrsToString(attrs)}>
+				${mapSVGContent(split[0] + '1')}
+			</svg>`;
+			// return two parts of consonant
+			return `<svg ${attrsToString(attrs)}>
+				${mapSVGContent(split[0] + '1')}
+				${mapSVGContent(split[0] + '2')}
+			</svg>`;
 		}
 	}
 	if (split.length === 3) {
+		return `<svg ${attrsToString(attrs)}>
+			${mapSVGContent(split[0] + '1')}
+			${mapSVGContent(split[1])}
+			${mapSVGContent(split[2] + '2')}
+			</svg>`;
 	}
 	if (split.length === 2) {
 		if (vowels.includes(split[0])) {
+			return `<svg ${attrsToString(attrs)}>
+				${mapSVGContent(split[0])}
+				${mapSVGContent(split[1] + '2')}
+			</svg>`;
 		}
 		if (vowels.includes(split[1])) {
+			return `<svg ${attrsToString(attrs)}>
+				${mapSVGContent(split[0] + '1')}
+				${mapSVGContent(split[1])}
+			</svg>`;
 		}
 	}
-	return `<svg ${attrsToString(attrs)}><rect width="24" height="24" fill="black"/></svg>`;
+	return `<svg ${attrsToString(attrs)}><rect width="90" height="90" fill="black"/></svg>`;
 }
 
 function langPlugin(eleventyConfig) {
