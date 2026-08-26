@@ -34,6 +34,10 @@ Both of these two countries have two allies, one staunch ally and one unwilling 
 
 {% image 'map allies' 1000 'Allies' 'max' %}
 
+Oh by the way the world of TIR is flat. This is canon.
+
+{% image 'map flat' 1000 'Flat world.' 'max' %}
+
 ## Bauhinia
 
 The main focus here is [Bauhinia](/world/bauhinia/), a bureaucratical fanatical corporate dictatorship[^1].
