@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-08-26
+
+- Added `orchid thumb.png`, `peony thumb.png`;
+
 ## 2026-08-23
 
 - Scrapped my un-released writing system because I didn't like that either. Maybe one day in the future I'd be able to create a writing system I like, but in the meantime, Bauhinian will be written completely with Latin;

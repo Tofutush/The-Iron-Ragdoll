@@ -6608,5 +6608,21 @@
     "name": "klancy",
     "date": "2026-07-27",
     "comment": "Artfight attack for [Rainieday](https://rainieday.neocities.org/), featuring [Klancy](https://artfight.net/character/3827915.klancy)!"
+  },
+  {
+    "name": "orchid thumb",
+    "date": "2026-08-26",
+    "ch": [
+      "orchid"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "peony thumb",
+    "date": "2026-08-26",
+    "ch": [
+      "peony"
+    ],
+    "kind": "thumb"
   }
 ]
