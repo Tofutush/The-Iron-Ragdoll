@@ -262,13 +262,13 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 {
 id: "Orchid",
 color: "#b74785",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/Lo5ID8w2E9-200.webp",
 },
 
 {
 id: "Peony",
 color: "#770954",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/jRjACmBHjI-200.webp",
 },
 
 {

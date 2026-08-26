@@ -349,7 +349,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Orchid",
 color: "#b74785",
 desc: "The Bauhinian princess.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/Lo5ID8w2E9-500.webp"
 },
 
 
@@ -357,7 +357,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Peony",
 color: "#770954",
 desc: "The Bauhinian emperor.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/jRjACmBHjI-500.webp"
 },
 
 
