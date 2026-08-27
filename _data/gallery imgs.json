@@ -6629,5 +6629,21 @@
     "name": "map flat",
     "date": "2026-08-26",
     "comment": "Important lore."
+  },
+  {
+    "name": "starlight thumb",
+    "date": "2026-08-27",
+    "ch": [
+      "starlight"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "sparrow thumb",
+    "date": "2026-08-27",
+    "ch": [
+      "sparrow"
+    ],
+    "kind": "thumb"
   }
 ]
