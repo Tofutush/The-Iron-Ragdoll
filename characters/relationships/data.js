@@ -604,13 +604,13 @@ img: "/The-Iron-Ragdoll/img/Q-b3N7u-JY-200.webp",
 {
 id: "Starlight",
 color: "#262852",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/VG7pk5yMHI-200.webp",
 },
 
 {
 id: "Sparrow",
 color: "#f0dd0f",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/rxxcjCpvT3-200.webp",
 },
 
 {

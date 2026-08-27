@@ -805,7 +805,7 @@ img: "/The-Iron-Ragdoll/img/Q-b3N7u-JY-500.webp"
 name: "Starlight",
 color: "#262852",
 desc: "Head researcher at the Center for Research on Souls.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/VG7pk5yMHI-500.webp"
 },
 
 
@@ -813,7 +813,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Sparrow",
 color: "#f0dd0f",
 desc: "Silly tech enthusiast.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/rxxcjCpvT3-500.webp"
 },
 
 
