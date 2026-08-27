@@ -39,7 +39,7 @@ I literally don't know how to make some (most) of these features LMAO…
 
 ## Phonology
 
-Bauhinian features 5 vowels and 23 consonants.
+Bauhinian features 5 vowels and 22 consonants.
 
 ### Vowels
 
