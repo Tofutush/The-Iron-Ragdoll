@@ -1,5 +1,10 @@
 [
   {
+    "name": "aba'aba",
+    "pos": "exclam.",
+    "def": "please (as in \"pretty please\")"
+  },
+  {
     "name": "aka",
     "pos": "n.",
     "def": "sun"
@@ -10,9 +15,14 @@
     "def": "day"
   },
   {
+    "name": "bechtum",
+    "pos": "n.",
+    "def": "north"
+  },
+  {
     "name": "bit",
     "pos": "num.",
-    "def": "1"
+    "def": "1; indefinite article"
   },
   {
     "name": "bosh",
@@ -23,6 +33,11 @@
     "name": "chacha",
     "pos": "n.",
     "def": "older sister"
+  },
+  {
+    "name": "chalikik",
+    "pos": "adj.",
+    "def": "having great aura \"Kismet-nan, ~sin.\""
   },
   {
     "name": "chan",
@@ -107,17 +122,12 @@
   {
     "name": "lantap",
     "pos": "n.",
-    "def": "world"
+    "def": "world; (with capital L) the continent"
   },
   {
     "name": "lat",
     "pos": "num.",
     "def": "3"
-  },
-  {
-    "name": "lax",
-    "pos": "adj.",
-    "def": "free (as in freedom, not price)"
   },
   {
     "name": "lip",
@@ -177,12 +187,12 @@
   {
     "name": "mu",
     "pos": "pron.",
-    "def": "this"
+    "def": "this; definite article"
   },
   {
     "name": "mumuqitafad",
     "pos": "exclam.",
-    "def": "please"
+    "def": "please (as in \"please do this\")"
   },
   {
     "name": "mun",
@@ -350,6 +360,11 @@
     "def": "blue"
   },
   {
+    "name": "vejgun",
+    "pos": "n.",
+    "def": "south"
+  },
+  {
     "name": "wa",
     "pos": "pron.",
     "def": "I, me"
@@ -375,12 +390,12 @@
     "def": "night"
   },
   {
-    "name": "yate",
+    "name": "yatlax",
     "pos": "n.",
     "def": "east"
   },
   {
-    "name": "Yatelaxdesput",
+    "name": "Yatlaxdesput",
     "pos": "proper n.",
     "def": "Atlasia"
   },
