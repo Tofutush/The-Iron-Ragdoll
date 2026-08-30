@@ -235,8 +235,7 @@
       "melody"
     ],
     "date": "2023-06-17",
-    "kind": "pagedoll",
-    "comment": "This is an old picture, but honestly Melody hasn't changed."
+    "comment": "Outdated."
   },
   {
     "name": "melody sparky tephra",
@@ -246,14 +245,14 @@
       "tephra"
     ],
     "date": "2024-06-25",
-    "comment": "Tephra, Sparky, and Melody as adults. They all became what's opposite of themselves.\n\nTephra is a cop, maintainer of law and order, when he used to live a life of crime. Sparky is a bodyguard for Animus, living for other people, guarding the interests of the few. Melody is a private detective, meddling in other people's affairs, when he used to keep to himself and mind only his own business."
+    "comment": "Outdated for Melody.\n\nTephra, Sparky, and Melody as adults. They all became what's opposite of themselves.\n\nTephra is a cop, maintainer of law and order, when he used to live a life of crime. Sparky is a bodyguard for Animus, living for other people, guarding the interests of the few. Melody is a private detective, meddling in other people's affairs, when she used to keep to herself and mind only her own business."
   },
   {
     "name": "melody thumb",
     "ch": [
       "melody"
     ],
-    "date": "2024-05-13",
+    "date": "2026-08-30",
     "kind": "thumb"
   },
   {
@@ -904,7 +903,8 @@
       "melody",
       "jerboa"
     ],
-    "date": "2024-09-27"
+    "date": "2024-09-27",
+    "comment": "Outdated for Melody. Actually just outdated in general; Jerboa never met Melody, not when they were kids."
   },
   {
     "name": "silhouettes",
@@ -922,7 +922,8 @@
       "melody",
       "dragonfly"
     ],
-    "date": "2024-09-30"
+    "date": "2024-09-30",
+    "comment": "Outdated for Melody."
   },
   {
     "name": "westavia flag",
@@ -1591,7 +1592,7 @@
       "sparky"
     ],
     "date": "2025-02-16",
-    "comment": "The text says \"S... Sorry...\"\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
+    "comment": "Outdated for Melody.\n\nThe text says \"S... Sorry...\"\n\nI actually cannot remember the precise date as the data's lost. So I put it down as the date I logged this picture in."
   },
   {
     "name": "myriad then",
@@ -6645,5 +6646,13 @@
       "sparrow"
     ],
     "kind": "thumb"
+  },
+  {
+    "name": "melody stand",
+    "date": "2026-08-30",
+    "ch": [
+      "melody"
+    ],
+    "kind": "fullbody"
   }
 ]

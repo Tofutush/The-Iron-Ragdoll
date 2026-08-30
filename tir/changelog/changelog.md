@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-08-30
+
+- Added `melody stand.png`;
+- Added [Flutter](/characters/flutter/);
+
 ## 2026-08-27
 
 - Added `starlight thumb.png`, `sparrow thumb.png`;

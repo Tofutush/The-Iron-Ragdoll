@@ -1645,8 +1645,8 @@
       "hat": "#575757",
       "hair": "#2e2e2e"
     },
-    "about": "…… … …… ……\n\n…… …… ……\n\n… … ……\n\n---\n\n… ……\n\n…… … …… …\n\n……\n\n… … ……\n\n… ……\n\n… …… … …\n\n… …… … …\n\n…… … …… ……\n\n---\n\n…… … … …\n\n… …… …\n\n…… …… ……\n\n…… … ……\n\n…\n\n---\n\n……\n\n… … … …\n\n… …\n\n… … …\n\n… … …… …… … …\n\n---\n\n…… … …… …\n\n…… …… ……\n\n…… …… ……\n\n… …… … …\n\n…… … …… … …… ……\n",
-    "trivia": "- His bio is a code."
+    "about": "Melody got fired from the police force after she transitioned, so she went to start her own detective agency, occasionally giving help to her former colleague Tephra.",
+    "note": "- All art featuring her with short hair are outdated."
   },
   {
     "name": "Tundra",
@@ -2293,5 +2293,15 @@
       "Nationality": "Atlasian"
     },
     "about": "Proxy used to be from an upper-middle-class family in Atlasia when a layoff destroyed it all. She quit school to look for means to support her family, and eventually found this opportunity from a Starcorp branch in Atlasia, hiring people to answer questions.\n\nShe had her brain plugged into a computer, and her task was that whenever she received a prompt from a user, she must answer it, and she had the entire internet at her disposal. Because her brain was plugged in, everything was super quick. She needn't type each letter out to answer prompts or do search queries; a thought and it was done.\n\nThe company required more and more hours every day as their operation scale grew, until eventually Proxy was plugged in 24/7 while her real body was living on the bare minimum through injected nutrients. But the worst part was, Proxy started to question whether she was really a human, or just a robot."
+  },
+  {
+    "name": "Flutter",
+    "namezh": "小蝶",
+    "color": "#33caf0",
+    "desc": "Time-loop warrior",
+    "attr": {
+      "Soul": "Gas, butterfly-shaped"
+    },
+    "about": "Don't even know her nationality yet but\n\nFlutter is stuck in a time loop that resets every time she fails to defeat the villain. With each iteration, she gains new intel on the villain and grows more confidence in defeating them, but to her surprise, she found that the villain *also* remembers all the time loops and was wiser in guarding against her too. Can she really free herself from the endless loops of defeat before she dies? (Yes she can; don't worry)"
   }
 ]
