@@ -424,7 +424,7 @@ img: "/The-Iron-Ragdoll/img/WlAsiWa6j3-200.webp",
 {
 id: "Melody",
 color: "#426600",
-img: "/The-Iron-Ragdoll/img/gUwudi5y5R-200.webp",
+img: "/The-Iron-Ragdoll/img/GfKe55FsZr-200.webp",
 },
 
 {
@@ -616,6 +616,12 @@ img: "/The-Iron-Ragdoll/img/rxxcjCpvT3-200.webp",
 {
 id: "Proxy",
 color: "#123e6d",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Flutter",
+color: "#33caf0",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 

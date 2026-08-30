@@ -565,7 +565,7 @@ img: "/The-Iron-Ragdoll/img/WlAsiWa6j3-500.webp"
 name: "Melody",
 color: "#426600",
 desc: "Quiet badass.",
-img: "/The-Iron-Ragdoll/img/gUwudi5y5R-500.webp"
+img: "/The-Iron-Ragdoll/img/GfKe55FsZr-500.webp"
 },
 
 
@@ -821,6 +821,14 @@ img: "/The-Iron-Ragdoll/img/rxxcjCpvT3-500.webp"
 name: "Proxy",
 color: "#123e6d",
 desc: "",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
+name: "Flutter",
+color: "#33caf0",
+desc: "Time-loop warrior",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 },
 
