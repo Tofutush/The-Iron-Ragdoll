@@ -2,6 +2,7 @@
 navOptions:
   includeSelf: true
 banner: "banner sparky"
+icon: "default"
 image: "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png"
 themeColor: "#555555"
 eleventyComputed:
@@ -39,7 +40,7 @@ eleventyComputed:
 	<link rel="stylesheet" href="/css/style.css"/>
 	<link rel="stylesheet" href="/css/callout.css"/>
 	<link rel="stylesheet" href="/css/linkcolor.css"/>
-	<link rel="icon" href="/icon.ico"/>
+	<link rel="icon" href="{% if icon == "default" %}/icon.ico{% else %}{% imageUrl icon 32 %}{% endif %}"/>
 	{% if widepage %}
 		<style>
 			main {

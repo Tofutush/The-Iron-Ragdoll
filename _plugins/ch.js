@@ -1,3 +1,5 @@
+import gallery from "../_data/gallery.js";
+
 function chPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getChByName', function (arr, name) {
 		return arr.find(ch => ch.name == name) || false;
@@ -15,6 +17,9 @@ function chPlugin(eleventyConfig) {
 	});
 	eleventyConfig.addFilter('sortByAge', function (arr) {
 		return arr.filter(ch => ch.attr?.Birth).sort((a, b) => a.attr.Birth.localeCompare(b.attr.Birth));
+	});
+	eleventyConfig.addFilter('getThumb', function (ch) {
+		return gallery.find(g => g.kind === 'thumb' && g.ch?.length === 1 && g.ch[0] == ch.toLowerCase())?.name;
 	});
 }
 
