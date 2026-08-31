@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-08-31
 
 - Added `flutter stand.png`;
+- Made the favicons on character pages their soul colors;
 
 ## 2026-08-30
 
