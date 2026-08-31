@@ -12,6 +12,7 @@ eleventyComputed:
   banner: "banner {{ ch.name | lowerCase }}"
   image: "{% assign iconPath = ch.name | lowerCase | append: ' thumb' %}{% assign profilePath = ch.name | lowerCase | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl profilePath 200 0 iconPath %}"
   themeColor: "{{ ch.color }}"
+  iconColor: "{{ ch.color }}"
 parent: Characters
 ---
 <link rel="stylesheet" href="/css/characters.css"/>
