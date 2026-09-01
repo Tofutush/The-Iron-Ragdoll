@@ -2,451 +2,541 @@
   {
     "name": "aba'aba",
     "pos": "exclam.",
-    "def": "please (as in \"pretty please\")"
+    "def": "please (as in \"pretty please\")",
+    "bh": "\u311a\u00b7\u3105\u311a\u00b7\u311a\u00b7\u3105\u311a"
   },
   {
     "name": "aka",
     "pos": "n.",
-    "def": "sun"
+    "def": "sun",
+    "bh": "\u65e5"
   },
   {
     "name": "akatuk",
     "pos": "n.",
-    "def": "day"
+    "def": "day",
+    "bh": "\u65e5\u65f6"
   },
   {
     "name": "bechtum",
     "pos": "n.",
-    "def": "north"
+    "def": "north",
+    "bh": "\u5317"
   },
   {
     "name": "bit",
     "pos": "num.",
-    "def": "1; indefinite article"
+    "def": "1; indefinite article",
+    "bh": "\u58f9"
   },
   {
     "name": "bosh",
     "pos": "adj.",
-    "def": "green"
+    "def": "green",
+    "bh": "\u7eff"
   },
   {
     "name": "chacha",
     "pos": "n.",
-    "def": "older sister"
+    "def": "older sister",
+    "bh": "\u3114\u311a\u00b7\u3114\u311a"
   },
   {
     "name": "chalikik",
     "pos": "adj.",
-    "def": "having great aura \"Kismet-nan, ~sin.\""
+    "def": "having great aura \"Kismet-nan, ~sin.\"",
+    "bh": "\u3114\u311a\u00b7\u310c\u3127\u00b7\u310e\u3127\u310e"
   },
   {
     "name": "chan",
     "pos": "num.",
-    "def": "10"
+    "def": "10",
+    "bh": "\u62fe"
   },
   {
     "name": "chax",
     "pos": "v.",
-    "def": "stand"
+    "def": "stand",
+    "bh": "\u7acb"
   },
   {
     "name": "chik",
     "pos": "adj.",
-    "def": "small"
+    "def": "small",
+    "bh": "\u5c0f"
   },
   {
     "name": "chosufilip",
     "pos": "n.",
-    "def": "older sister"
+    "def": "older sister",
+    "bh": "\u59d0\u4eba"
   },
   {
     "name": "chu",
     "pos": "pron.",
-    "def": "that"
+    "def": "that",
+    "bh": "\u90a3"
   },
   {
     "name": "dan",
     "pos": "num.",
-    "def": "6"
+    "def": "6",
+    "bh": "\u9646"
   },
   {
     "name": "desput",
     "pos": "n.",
-    "def": "country"
+    "def": "country",
+    "bh": "\u3109\u311c\u3119\u5730"
   },
   {
     "name": "duk",
     "pos": "num.",
-    "def": "8"
+    "def": "8",
+    "bh": "\u634c"
   },
   {
     "name": "fam",
     "pos": "num.",
-    "def": "100"
+    "def": "100",
+    "bh": "\u767e"
   },
   {
     "name": "Fantondesput",
     "pos": "proper n.",
-    "def": "Fanton"
+    "def": "Fanton",
+    "bh": "\u3108\u311a\u310b\u00b7\u310a\u311b\u310b\u00b7\u3109\u311c\u3119\u5730"
   },
   {
     "name": "fi",
     "pos": "adj.",
-    "def": "sapient, intelligent"
+    "def": "sapient, intelligent",
+    "bh": "\u7cbe"
   },
   {
     "name": "filip",
     "pos": "n.",
-    "def": "person, human"
+    "def": "person, human",
+    "bh": "\u4eba"
   },
   {
     "name": "fisili",
     "pos": "n.",
-    "def": "tadlet"
+    "def": "tadlet",
+    "bh": "\u7cbe\u3119\u3127\u00b7\u310c\u3127"
   },
   {
     "name": "gaga",
     "pos": "n.",
-    "def": "younger brother"
+    "def": "younger brother",
+    "bh": "\u310d\u311a\u00b7\u310d\u311a"
   },
   {
     "name": "gesufilip",
     "pos": "n.",
-    "def": "younger brother"
+    "def": "younger brother",
+    "bh": "\u5f1f\u4eba"
   },
   {
     "name": "kumo",
     "pos": "n.",
-    "def": "flower"
+    "def": "flower",
+    "bh": "\u82b1"
   },
   {
     "name": "lan",
     "pos": "adj.",
-    "def": "all, total, many"
+    "def": "all, total, many",
+    "bh": "\u4e07"
   },
   {
     "name": "lantap",
     "pos": "n.",
-    "def": "world; (with capital L) the continent"
+    "def": "world; (with capital L / \u5730) the continent (the \u5730 is often omitted, hence just \"Lantap.\")",
+    "bh": "\u4e07\u7269\uff08\u5730\uff09"
   },
   {
     "name": "lat",
     "pos": "num.",
-    "def": "3"
+    "def": "3",
+    "bh": "\u53c1"
   },
   {
     "name": "lip",
     "pos": "n.",
-    "def": "creature, being"
+    "def": "creature, being",
+    "bh": "\u7075"
   },
   {
     "name": "lot",
     "pos": "adj.",
-    "def": "yellow"
+    "def": "yellow",
+    "bh": "\u9ec4"
   },
   {
     "name": "lun",
     "pos": "num.",
-    "def": "7"
+    "def": "7",
+    "bh": "\u67d2"
   },
   {
     "name": "mama",
     "pos": "n.",
-    "def": "mom"
+    "def": "mom",
+    "bh": "\u3107\u311a\u00b7\u3107\u311a"
   },
   {
     "name": "mep",
     "pos": "num.",
-    "def": "4"
+    "def": "4",
+    "bh": "\u8086"
   },
   {
     "name": "mofilip",
     "pos": "n.",
-    "def": "girl"
+    "def": "girl",
+    "bh": "\u5973\u4eba"
   },
   {
     "name": "Moledesput",
     "pos": "proper n.",
-    "def": "Moreland"
+    "def": "Moreland",
+    "bh": "\u3107\u311b\u00b7\u310c\u311c\u00b7\u3109\u311c\u3119\u5730"
   },
   {
     "name": "momo",
     "pos": "n.",
-    "def": "girl"
+    "def": "girl",
+    "bh": "\u3107\u311b\u00b7\u3107\u311b"
   },
   {
     "name": "moppak",
     "pos": "num.",
-    "def": "1,000"
+    "def": "1,000",
+    "bh": "\u5343"
   },
   {
     "name": "motefilip",
     "pos": "n.",
-    "def": "mother"
+    "def": "mother",
+    "bh": "\u6bcd\u4eba"
   },
   {
     "name": "Motezhondesput",
     "pos": "proper n.",
-    "def": "(archaic) Bauhinian Empire"
+    "def": "(archaic) Bauhinian Empire",
+    "bh": "\u6bcd\u5927\u3109\u311c\u3119\u5730"
   },
   {
     "name": "mu",
     "pos": "pron.",
-    "def": "this; definite article"
+    "def": "this; definite article",
+    "bh": "\u8fd9"
   },
   {
     "name": "mumuqitafad",
     "pos": "exclam.",
-    "def": "please (as in \"please do this\")"
+    "def": "please (as in \"please do this\")",
+    "bh": "\u3107\u3128\u00b7\u3107\u3128\u00b7\u3111\u3127\u00b7\u310a\u311a\u00b7\u3108\u311a\u3109"
   },
   {
     "name": "mun",
     "pos": "adj.",
-    "def": "purple"
+    "def": "purple",
+    "bh": "\u7d2b"
   },
   {
     "name": "muqu",
     "pos": "num.",
-    "def": "10,000"
+    "def": "10,000",
+    "bh": "\u4e07"
   },
   {
     "name": "na",
     "pos": "pron.",
-    "def": "you (informal)"
+    "def": "you (informal)",
+    "bh": "\u4f60"
   },
   {
     "name": "nad",
     "pos": "adj.",
-    "def": "red"
+    "def": "red",
+    "bh": "\u7ea2"
   },
   {
     "name": "nadmun",
     "pos": "adj.",
-    "def": "colorful"
+    "def": "colorful",
+    "bh": "\u7ea2\u7d2b"
   },
   {
     "name": "-nan",
     "pos": "suffix",
-    "def": "subject case"
+    "def": "subject case",
+    "bh": "-\u310b\u311a\u310b"
   },
   {
     "name": "-nip",
     "pos": "suffix",
-    "def": "plural"
+    "def": "plural",
+    "bh": "-\u310b\u3127\u3106"
   },
   {
     "name": "nomni",
     "pos": "v.",
-    "def": "eat"
+    "def": "eat",
+    "bh": "\u5403"
   },
   {
     "name": "owo",
     "pos": "exclam.",
-    "def": "hello, greeting"
+    "def": "hello, greeting",
+    "bh": "\u311b\u00b7\u3129\u311b"
   },
   {
     "name": "papa",
     "pos": "n.",
-    "def": "dad"
+    "def": "dad",
+    "bh": "\u3106\u311a\u00b7\u3106\u311a"
   },
   {
     "name": "papput",
     "pos": "n.",
-    "def": "region, city, area"
+    "def": "region, city, area",
+    "bh": "\u3106\u311a\u3106\u5730"
   },
   {
     "name": "pufilip",
     "pos": "n.",
-    "def": "boy"
+    "def": "boy",
+    "bh": "\u7537\u4eba"
   },
   {
     "name": "pupu",
     "pos": "n.",
-    "def": "boy"
+    "def": "boy",
+    "bh": "\u3106\u3128\u00b7\u3106\u3128"
   },
   {
     "name": "put",
     "pos": "n.",
-    "def": "land, earth"
+    "def": "land, earth",
+    "bh": "\u5730"
   },
   {
     "name": "putefilip",
     "pos": "n.",
-    "def": "father"
+    "def": "father",
+    "bh": "\u7236\u4eba"
   },
   {
     "name": "qa",
     "pos": "pron.",
-    "def": "you (formal)"
+    "def": "you (formal)",
+    "bh": "\u60a8"
   },
   {
     "name": "sa",
     "pos": "pron.",
-    "def": "he, she, they (singular)"
+    "def": "he, she, they (singular)",
+    "bh": "\u7260"
   },
   {
     "name": "sili",
     "pos": "n.",
-    "def": "tadpole"
+    "def": "tadpole",
+    "bh": "\u3119\u3127\u00b7\u310c\u3127"
   },
   {
     "name": "-sin",
     "pos": "suffix",
-    "def": "predicate case"
+    "def": "predicate case",
+    "bh": "-\u3119\u3127\u310b"
   },
   {
     "name": "Sivandadesput",
     "pos": "proper n.",
-    "def": "Sylvandia"
+    "def": "Sylvandia",
+    "bh": "\u3119\u3127\u00b7\u310f\u311a\u310b\u00b7\u3109\u311a\u00b7\u3109\u311c\u3119\u5730"
   },
   {
     "name": "sotan",
     "pos": "n.",
-    "def": "apple"
+    "def": "apple",
+    "bh": "\u82f9\u679c"
   },
   {
     "name": "sufilip",
     "pos": "n.",
-    "def": "sibling, a person of the same generation"
+    "def": "sibling, a person of the same generation",
+    "bh": "\u3119\u3128\u4eba"
   },
   {
     "name": "tan",
     "pos": "adj.",
-    "def": "sparkly"
+    "def": "sparkly",
+    "bh": "\u95ea"
   },
   {
     "name": "-tanka",
     "pos": "suffix",
-    "def": "present ongoing tense"
+    "def": "present ongoing tense",
+    "bh": "-\u310a\u311a\u310b\u00b7\u310e\u311a"
   },
   {
     "name": "tap",
     "pos": "n.",
-    "def": "thing"
+    "def": "thing",
+    "bh": "\u7269"
   },
   {
     "name": "tasufilip",
     "pos": "n.",
-    "def": "older brother"
+    "def": "older brother",
+    "bh": "\u54e5\u4eba"
   },
   {
     "name": "tata",
     "pos": "n.",
-    "def": "older brother"
+    "def": "older brother",
+    "bh": "\u310a\u311a\u00b7\u310a\u311a"
   },
   {
     "name": "tefilip",
     "pos": "n.",
-    "def": "a person of the previous generation"
+    "def": "a person of the previous generation",
+    "bh": "\u310a\u311c\u4eba"
   },
   {
     "name": "-tik",
     "pos": "suffix",
-    "def": "reduce the degree of the adjective modified"
+    "def": "reduce the degree of the adjective modified",
+    "bh": "-\u310a\u3127\u310e"
   },
   {
     "name": "tim-",
     "pos": "prefix",
-    "def": "the n-th"
+    "def": "the n-th",
+    "bh": "\u310a\u3127\u3107-"
   },
   {
     "name": "tok",
     "pos": "num.",
-    "def": "5"
+    "def": "5",
+    "bh": "\u4f0d"
   },
   {
     "name": "tuk",
     "pos": "n.",
-    "def": "time"
+    "def": "time",
+    "bh": "\u65f6"
   },
   {
     "name": "tun",
     "pos": "adj.",
-    "def": "blue"
+    "def": "blue",
+    "bh": "\u84dd"
   },
   {
     "name": "vejgun",
     "pos": "n.",
-    "def": "south"
+    "def": "south",
+    "bh": "\u5357"
   },
   {
     "name": "wa",
     "pos": "pron.",
-    "def": "I, me"
+    "def": "I, me",
+    "bh": "\u6211"
   },
   {
     "name": "westav",
     "pos": "n.",
-    "def": "west"
+    "def": "west",
+    "bh": "\u897f"
   },
   {
     "name": "Westavdesput",
     "pos": "proper n.",
-    "def": "Westavia"
+    "def": "Westavia",
+    "bh": "\u897f\u3109\u311c\u3119\u5730"
   },
   {
     "name": "yami",
     "pos": "n.",
-    "def": "moon"
+    "def": "moon",
+    "bh": "\u6708"
   },
   {
     "name": "yamituk",
     "pos": "n.",
-    "def": "night"
+    "def": "night",
+    "bh": "\u6708\u65f6"
   },
   {
     "name": "yatlax",
     "pos": "n.",
-    "def": "east"
+    "def": "east",
+    "bh": "\u4e1c"
   },
   {
     "name": "Yatlaxdesput",
     "pos": "proper n.",
-    "def": "Atlasia"
+    "def": "Atlasia",
+    "bh": "\u4e1c\u3109\u311c\u3119\u5730"
   },
   {
     "name": "yax",
     "pos": "num.",
-    "def": "2"
+    "def": "2",
+    "bh": "\u8d30"
   },
   {
     "name": "yaya",
     "pos": "n.",
-    "def": "younger sister"
+    "def": "younger sister",
+    "bh": "\u3126\u311a\u00b7\u3126\u311a"
   },
   {
     "name": "yisufilip",
     "pos": "n.",
-    "def": "younger sister"
+    "def": "younger sister",
+    "bh": "\u59b9\u4eba"
   },
   {
     "name": "yop",
     "pos": "adj.",
-    "def": "orange"
+    "def": "orange",
+    "bh": "\u6a59"
   },
   {
     "name": "zhin",
     "pos": "num.",
-    "def": "9"
+    "def": "9",
+    "bh": "\u7396"
   },
   {
     "name": "zhon",
     "pos": "adj.",
-    "def": "big"
+    "def": "big",
+    "bh": "\u5927"
   },
   {
     "name": "zijin",
     "pos": "n.",
-    "def": "bauhinia flower"
+    "def": "bauhinia flower",
+    "bh": "\u7d2b\u8346"
   },
   {
     "name": "Zijindesput",
     "pos": "proper n.",
-    "def": "Bauhinia"
+    "def": "Bauhinia",
+    "bh": "\u7d2b\u8346\u3109\u311c\u3119\u5730"
   },
   {
     "name": "Zijinzhondesput",
     "pos": "proper n.",
-    "def": "Bauhinian Empire"
+    "def": "Bauhinian Empire",
+    "bh": "\u7d2b\u8346\u5927\u3109\u311c\u3119\u5730"
   }
 ]

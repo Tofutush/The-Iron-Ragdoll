@@ -10,9 +10,10 @@ categories:
 		color: var(--text) !important;
 	}
 </style>
+<p>Words listed: {{ dictionary.size }}</p>
 <dl>
 	{% for word in dictionary %}
-		<dt id="{{ word.name }}">{{ word.name }}</dt>
-		<dd><em class="lighter-text">{{ word.pos }}</em> {{ word.def }}</dd>
+		<dt id="{{ word.name }}">{{ word.bh }}<br><span class="smaller-text">{{ word.name }}</span></dt>
+		<dd><em class="lighter-text">{{ word.pos }}</em><br>{{ word.def }}</dd>
 	{% endfor %}
 </dl>
