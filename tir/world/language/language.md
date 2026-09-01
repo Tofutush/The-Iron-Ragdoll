@@ -43,42 +43,42 @@ Bauhinian features 5 vowels and 22 consonants.
 
 ### Vowels
 
-| Bauhinian | Sound-alike |
-| --------- | ----------- |
-| a         | **a**pple   |
-| e         | s**e**t     |
-| i         | t**i**p     |
-| o         | b**oa**t    |
-| u         | b**oo**t    |
+| Bauhinian | Latin | Sound-alike |
+| --------- | ----- | ----------- |
+| ㄚ         | a     | **a**pple   |
+| ㄜ[^2]     | e     | s**e**t     |
+| ㄧ[^2]     | i     | t**i**p     |
+| ㄛ         | o     | b**oa**t    |
+| ㄨ         | u     | b**oo**t    |
 
 ### Consonants
 
 Letters with no sound-alikes sounds like how they would in English.
 
-| Letter | Sound-alike |
-| ------ | ----------- |
-| b      |             |
-| p      |             |
-| d      |             |
-| t      |             |
-| g      |             |
-| k      |             |
-| v      |             |
-| f      |             |
-| m      |             |
-| n      |             |
-| y      |             |
-| w      |             |
-| l      |             |
-| j      | 机           |
-| q      | 期           |
-| x      | 希           |
-| z      |             |
-| c      | do**ts**    |
-| s      |             |
-| zh     | **j**uice   |
-| ch     |             |
-| sh     |             |
+| Bauhinian | Latin | Sound-alike |
+| --------- | ----- | ----------- |
+| ㄅ         | b     |             |
+| ㄆ         | p     |             |
+| ㄉ         | d     |             |
+| ㄊ         | t     |             |
+| ㄍ         | g     |             |
+| ㄎ         | k     |             |
+| ㄏ[^3]     | v     |             |
+| ㄈ         | f     |             |
+| ㄇ         | m     |             |
+| ㄋ         | n     |             |
+| ㄦ[^3]     | y     |             |
+| ㄩ[^3]     | w     |             |
+| ㄌ         | l     |             |
+| ㄐ         | j     | 机           |
+| ㄑ         | q     | 期           |
+| ㄒ         | x     | 希           |
+| ㄗ         | z     |             |
+| ㄘ         | c     | do**ts**    |
+| ㄙ         | s     |             |
+| ㄓ         | zh    | **j**uice   |
+| ㄔ         | ch    |             |
+| ㄕ         | sh    |             |
 
 ### Rules
 
@@ -115,6 +115,16 @@ The vowel *i* is typically short in Bauhinian. However, if it's at the very end 
 #### Stress
 
 Stress is not important in Bauhinian. Do whatever.
+
+## Writing system
+
+Bauhinian's writing system is literally Chinese and bopomofo, called "characters" and "letters." Some bopomofo characters are jammed into another sound because there weren't enough consonants.
+
+Chinese characters (ahem, *Bauhinian* characters) are used for words with concrete meaning, while bopomofo (ahem, *letters*) are used for grammatical particles, and to teach kids to read. With letters, every syllable should be separated with "·" regardless of whether they start with a vowel. This is for my own sanity. I would've preferred a system where each syllable is exactly one character. That worked out terribly.
+
+| Bauhinian                                                                        | English                      |
+| -------------------------------------------------------------------------------- | ---------------------------- |
+| <ruby>紫荆<rt>ㄗㄧ·ㄐㄧㄋ</rt>花<rt>ㄎㄨ·ㄇㄛ</rt></ruby>ㄋㄧㄆ，<ruby>紫色<rt>ㄇㄨㄋ</rt>ㄙㄧㄋ。</ruby> | Bauhinia flowers are purple. |
 
 ## Grammar
 
@@ -220,3 +230,5 @@ Asking the real questions here! "<span class="tooltip"><span class="tooltip-text
 > Straight out my ass! I mean isn't conlanging basically just like that?
 
 [^1]: Halcyon behavior
+[^2]: Pronunciation of this letter differs slightly from the bopomofo character
+[^3]: I literally took a whole 'nother letter and used it here. Pronunciation differs *completely*.

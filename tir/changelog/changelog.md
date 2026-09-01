@@ -9,6 +9,7 @@ eleventyNavigation:
 
 - Added `flutter stand.png`;
 - Made the favicons on character pages their soul colors;
+- Finally. The [writing system](/world/language/#writing-system) for Bauhinian. Rolling on the ground crying and teaching myself bopomofo only to completely trample on its legacy right after. At least I made use of the pretty ruby tags;
 
 ## 2026-08-30
 

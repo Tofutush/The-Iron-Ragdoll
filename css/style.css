@@ -650,17 +650,8 @@ code {
 	overflow-wrap: anywhere;
 }
 
-ruby {
-	user-select: none;
-
-	& svg {
-		vertical-align: -.7em;
-	}
-}
-
 rt {
 	font-size: calc(0.8 * var(--font-size-small));
-	margin-right: 5px;
 }
 
 .breadcrumbs {
