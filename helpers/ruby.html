@@ -24,6 +24,7 @@
 	<h1>ruby generator!</h1>
 	<textarea id="ruby-input"></textarea>
 	<p id="ruby-output"></p>
+	<p id="ruby-preview"></p>
 
 	<h1>tooltip generator!</h1>
 	<textarea id="tt-input"></textarea>
@@ -54,21 +55,26 @@
 			z: 'ㄗ',
 			c: 'ㄘ',
 			s: 'ㄙ',
-			zh: 'ㄓ',
-			ch: 'ㄔ',
-			sh: 'ㄕ',
+			ž: 'ㄓ',
+			č: 'ㄔ',
+			š: 'ㄕ',
 		};
 		const v = Object.keys(vow);
 		const c = Object.keys(con);
 
+		function replace(str, reverse) {
+			if (reverse) return str.replaceAll('ž', 'zh').replaceAll('č', 'ch').replaceAll('š', 'sh');
+			return str.replaceAll('zh', 'ž').replaceAll('ch', 'č').replaceAll('sh', 'š');
+		}
+
 		const rubyInput = document.getElementById('ruby-input');
-		const rubyOutput = document.getElementById('ruby-output');
-		rubyInput.addEventListener('change', e => {
+		rubyInput.addEventListener('input', e => {
 			let inRuby = false;
 			let inRT = false;
+			let input = replace(rubyInput.value);
 			let result = '';
-			for (let z = 0; z < rubyInput.value.length; z++) {
-				let letter = rubyInput.value[z];
+			for (let z = 0; z < input.length; z++) {
+				let letter = input[z];
 				// controls
 				if (letter == '[') {
 					inRuby = true;
@@ -105,7 +111,7 @@
 					result += '·';
 					continue;
 				}
-				if (letter == ',' && rubyInput.value[z + 1] == ' ') {
+				if (letter == ',' && input[z + 1] == ' ') {
 					result += '，';
 					z++;
 					continue;
@@ -121,13 +127,13 @@
 				}
 				result += letter;
 			}
-			rubyOutput.innerText = result;
+			document.getElementById('ruby-output').innerText = result;
+			document.getElementById('ruby-preview').innerHTML = result;
 		});
 
 		const ttInput = document.getElementById('tt-input');
-		const ttOutput = document.getElementById('tt-output');
-		ttInput.addEventListener('change', e => {
-			ttOutput.innerText = ttInput.value.replace(
+		ttInput.addEventListener('input', e => {
+			document.getElementById('tt-output').innerText = ttInput.value.replace(
 				/\[([^/]+)\/([^\]]+)\]/g,
 				'<span class="tooltip"><span class="tooltip-text">$2</span>$1</span>'
 			);
@@ -166,7 +172,7 @@
 						word += "'";
 					}
 				}
-				wordList.innerHTML += `<li>${word}</li>`;
+				wordList.innerHTML += `<li>${replace(word, true)}</li>`;
 			}
 		}
 	</script>
