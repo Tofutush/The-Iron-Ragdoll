@@ -3,7 +3,7 @@
     "name": "aba'aba",
     "pos": "exclam.",
     "def": "please (as in \"pretty please\")",
-    "bh": "\u311a\u00b7\u3105\u311a\u00b7\u311a\u00b7\u3105\u311a"
+    "bh": "\u311a\u3105\u311a\uff07\u311a\u3105\u311a"
   },
   {
     "name": "aka",
@@ -39,13 +39,13 @@
     "name": "chacha",
     "pos": "n.",
     "def": "older sister",
-    "bh": "\u3114\u311a\u00b7\u3114\u311a"
+    "bh": "\u3114\u311a\u3114\u311a"
   },
   {
     "name": "chalikik",
     "pos": "adj.",
     "def": "having great aura \"Kismet-nan, ~sin.\"",
-    "bh": "\u3114\u311a\u00b7\u310c\u3127\u00b7\u310e\u3127\u310e"
+    "bh": "\u3114\u311a\u310c\u3127\u310e\u3127\u310e"
   },
   {
     "name": "chan",
@@ -105,7 +105,7 @@
     "name": "Fantondesput",
     "pos": "proper n.",
     "def": "Fanton",
-    "bh": "\u3108\u311a\u310b\u00b7\u310a\u311b\u310b\u00b7\u3109\u311c\u3119\u5730"
+    "bh": "\u3108\u311a\u310b\u310a\u311b\u310b\u3109\u311c\u3119\u5730"
   },
   {
     "name": "fi",
@@ -123,13 +123,13 @@
     "name": "fisili",
     "pos": "n.",
     "def": "tadlet",
-    "bh": "\u7cbe\u3119\u3127\u00b7\u310c\u3127"
+    "bh": "\u7cbe\u3119\u3127\u310c\u3127"
   },
   {
     "name": "gaga",
     "pos": "n.",
     "def": "younger brother",
-    "bh": "\u310d\u311a\u00b7\u310d\u311a"
+    "bh": "\u310d\u311a\u310d\u311a"
   },
   {
     "name": "gesufilip",
@@ -183,7 +183,7 @@
     "name": "mama",
     "pos": "n.",
     "def": "mom",
-    "bh": "\u3107\u311a\u00b7\u3107\u311a"
+    "bh": "\u3107\u311a\u3107\u311a"
   },
   {
     "name": "mep",
@@ -201,13 +201,13 @@
     "name": "Moledesput",
     "pos": "proper n.",
     "def": "Moreland",
-    "bh": "\u3107\u311b\u00b7\u310c\u311c\u00b7\u3109\u311c\u3119\u5730"
+    "bh": "\u3107\u311b\u310c\u311c\u3109\u311c\u3119\u5730"
   },
   {
     "name": "momo",
     "pos": "n.",
     "def": "girl",
-    "bh": "\u3107\u311b\u00b7\u3107\u311b"
+    "bh": "\u3107\u311b\u3107\u311b"
   },
   {
     "name": "moppak",
@@ -237,7 +237,7 @@
     "name": "mumuqitafad",
     "pos": "exclam.",
     "def": "please (as in \"please do this\")",
-    "bh": "\u3107\u3128\u00b7\u3107\u3128\u00b7\u3111\u3127\u00b7\u310a\u311a\u00b7\u3108\u311a\u3109"
+    "bh": "\u3107\u3128\u3107\u3128\u3111\u3127\u310a\u311a\u3108\u311a\u3109"
   },
   {
     "name": "mun",
@@ -273,13 +273,13 @@
     "name": "-nan",
     "pos": "suffix",
     "def": "subject case",
-    "bh": "-\u310b\u311a\u310b"
+    "bh": "\u00b7\u310b\u311a\u310b"
   },
   {
     "name": "-nip",
     "pos": "suffix",
     "def": "plural",
-    "bh": "-\u310b\u3127\u3106"
+    "bh": "\u00b7\u310b\u3127\u3106"
   },
   {
     "name": "nomni",
@@ -291,13 +291,13 @@
     "name": "owo",
     "pos": "exclam.",
     "def": "hello, greeting",
-    "bh": "\u311b\u00b7\u3129\u311b"
+    "bh": "\u311b\u3129\u311b"
   },
   {
     "name": "papa",
     "pos": "n.",
     "def": "dad",
-    "bh": "\u3106\u311a\u00b7\u3106\u311a"
+    "bh": "\u3106\u311a\u3106\u311a"
   },
   {
     "name": "papput",
@@ -315,7 +315,7 @@
     "name": "pupu",
     "pos": "n.",
     "def": "boy",
-    "bh": "\u3106\u3128\u00b7\u3106\u3128"
+    "bh": "\u3106\u3128\u3106\u3128"
   },
   {
     "name": "put",
@@ -345,19 +345,19 @@
     "name": "sili",
     "pos": "n.",
     "def": "tadpole",
-    "bh": "\u3119\u3127\u00b7\u310c\u3127"
+    "bh": "\u3119\u3127\u310c\u3127"
   },
   {
     "name": "-sin",
     "pos": "suffix",
     "def": "predicate case",
-    "bh": "-\u3119\u3127\u310b"
+    "bh": "\u00b7\u3119\u3127\u310b"
   },
   {
     "name": "Sivandadesput",
     "pos": "proper n.",
     "def": "Sylvandia",
-    "bh": "\u3119\u3127\u00b7\u310f\u311a\u310b\u00b7\u3109\u311a\u00b7\u3109\u311c\u3119\u5730"
+    "bh": "\u3119\u3127\u310f\u311a\u310b\u3109\u311a\u3109\u311c\u3119\u5730"
   },
   {
     "name": "sotan",
@@ -381,7 +381,7 @@
     "name": "-tanka",
     "pos": "suffix",
     "def": "present ongoing tense",
-    "bh": "-\u310a\u311a\u310b\u00b7\u310e\u311a"
+    "bh": "\u00b7\u310a\u311a\u310b\u310e\u311a"
   },
   {
     "name": "tap",
@@ -399,7 +399,7 @@
     "name": "tata",
     "pos": "n.",
     "def": "older brother",
-    "bh": "\u310a\u311a\u00b7\u310a\u311a"
+    "bh": "\u310a\u311a\u310a\u311a"
   },
   {
     "name": "tefilip",
@@ -411,13 +411,13 @@
     "name": "-tik",
     "pos": "suffix",
     "def": "reduce the degree of the adjective modified",
-    "bh": "-\u310a\u3127\u310e"
+    "bh": "\u00b7\u310a\u3127\u310e"
   },
   {
     "name": "tim-",
     "pos": "prefix",
     "def": "the n-th",
-    "bh": "\u310a\u3127\u3107-"
+    "bh": "\u310a\u3127\u3107\u00b7"
   },
   {
     "name": "tok",
@@ -495,7 +495,7 @@
     "name": "yaya",
     "pos": "n.",
     "def": "younger sister",
-    "bh": "\u3126\u311a\u00b7\u3126\u311a"
+    "bh": "\u3126\u311a\u3126\u311a"
   },
   {
     "name": "yisufilip",

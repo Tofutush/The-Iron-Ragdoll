@@ -91,11 +91,6 @@ Syllables in Bauhinian are constructed with one of these patterns:
 
 But the restrictions are that *y*, *w*, and *l* cannot appear at the end of a syllable.
 
-For writing, the following rules apply:
-
-- Affixes must be separated by hyphens.
-- Syllables that start with a vowel must have an apostrophe in front of it, unless it's at the start of a word. In dictionaries, all syllables are separated by apostrophes. This is to separate, for example, *tetel* (*te'tel*) from *tet'el*.
-
 ### Pronunciation
 
 #### Special-ass consonants
@@ -120,11 +115,24 @@ Stress is not important in Bauhinian. Do whatever.
 
 Bauhinian's writing system is literally Chinese and bopomofo, called "characters" and "letters." Some bopomofo characters are jammed into another sound because there weren't enough consonants.
 
-Chinese characters (ahem, *Bauhinian* characters) are used for words with concrete meaning, while bopomofo (ahem, *letters*) are used for grammatical particles, and to teach kids to read. With letters, every syllable should be separated with "·" regardless of whether they start with a vowel. This is for my own sanity. I would've preferred a system where each syllable is exactly one character. That worked out terribly.
+Chinese characters (ahem, *Bauhinian* characters) are used for words with concrete meaning, while bopomofo (ahem, *letters*) are used for grammatical particles, and to teach kids to read.
 
-| Bauhinian                                                                        | English                      |
-| -------------------------------------------------------------------------------- | ---------------------------- |
-| <ruby>紫荆<rt>ㄗㄧ·ㄐㄧㄋ</rt>花<rt>ㄎㄨ·ㄇㄛ</rt></ruby>ㄋㄧㄆ，<ruby>紫色<rt>ㄇㄨㄋ</rt>ㄙㄧㄋ。</ruby> | Bauhinia flowers are purple. |
+You can also write Bauhinian in Latin, for sanity purposes. Here are the differences:
+
+### Bauhinian
+
+- Punctuation are big (全角). Here is a big space: "　"
+- If a syllable starts with a vowel and is *not* at the start of a word, it should be preceded with a big apostrophe: "＇"
+- Grammatical particles are separated by "·"
+
+### Latin
+
+- Small punctuation. Small spaces and apostrophes and such.
+- Grammatical particles are separated by "-"
+
+| Bauhinian                                                                                        | Latin                        | English                      |
+| ------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------- |
+| <ruby>紫荆<rt>ㄗㄧㄐㄧㄋ</rt></ruby>　<ruby>花<rt>ㄎㄨㄇㄛ</rt></ruby>·ㄋㄧㄆ·ㄋㄚㄋ，<ruby>紫<rt>ㄇㄨㄋ</rt></ruby>·ㄙㄧㄋ | Zijin kumo-nip-nan, mun-sin. | Bauhinia flowers are purple. |
 
 ## Grammar
 
@@ -134,31 +142,31 @@ Bauhinian is an agglutinative language, relying on affixes (only prefixes and su
 
 The plural of a noun is denoted using the suffix *-nip*. In Bauhinian, "plural" is only used when the number of things is uncertain. When the number is certain, no plural suffix is added.
 
-| Bauhinian                                                                   | English    |
-| --------------------------------------------------------------------------- | ---------- |
-| sotan                                                                       | apple      |
-| sotan-*nip*                                                                 | apples     |
-| <span class="tooltip"><span class="tooltip-text">two</span>yax</span> sotan | two apples |
+| Bauhinian | Latin                                                                       | English    |
+| --------- | --------------------------------------------------------------------------- | ---------- |
+| 苹果        | sotan                                                                       | apple      |
+| 苹果·ㄋㄧㄆ    | sotan-*nip*                                                                 | apples     |
+| 贰　苹果      | <span class="tooltip"><span class="tooltip-text">two</span>yax</span> sotan | two apples |
 
 ### Adjectives
 
 Adjectives in Bauhinian are placed before nouns. For multiple adjectives, there is an order you need to follow, but I don't want to come up with it right now.
 
-| Bauhinian                                                                                                                                                 | English         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| <span class="tooltip"><span class="tooltip-text">colorful</span>nadmun</span> <span class="tooltip"><span class="tooltip-text">tadlet</span>fisili</span> | colorful tadlet |
+| Bauhinian | Latin                                                                                                                                                     | English         |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| 红紫　精ㄙㄧㄌㄧ  | <span class="tooltip"><span class="tooltip-text">colorful</span>nadmun</span> <span class="tooltip"><span class="tooltip-text">tadlet</span>fisili</span> | colorful tadlet |
 
 #### Emphasis
 
-In English, adjectives can be modified by "very" or "a little." To express this idea in Bauhinian, you modify the adjective itself. To increase the degree, repeat the first syllable of the adjective (or the whole word if there's only one syllable) as many times as you'd like. To reduce the degree, add the suffix *-tik* as many times as you'd like. Note that doing this for more than one time will have society clock you as a stupid kid!
+In English, adjectives can be modified by "very" or "a little." To express this idea in Bauhinian, you modify the adjective itself (notice the lack of "·" or "-" between them). To increase the degree, repeat the first syllable of the adjective (or the whole word if there's only one syllable) as many times as you'd like. To reduce the degree, add the suffix *-tik* as many times as you'd like. In Bauhinian, this is represented by the character 甚. Note that doing this for more than one time will have society clock you as a stupid kid!
 
-| Bauhinian           | English                                                           |
-| ------------------- | ----------------------------------------------------------------- |
-| nadmun              | colorful                                                          |
-| **nad**nadmun       | very colorful                                                     |
-| **nadnadnad**nadmun | literally eye-scorching (also you're probably under 10 years old) |
-| nadmun**tik**       | not so colorful                                                   |
-| nadmun**tiktiktik** | literally grayscale                                               |
+| Bauhinian   | Latin               | English                                                           |
+| ----------- | ------------------- | ----------------------------------------------------------------- |
+| 红紫          | nadmun              | colorful                                                          |
+| 甚红紫         | **nad**nadmun       | very colorful                                                     |
+| 甚甚甚红紫       | **nadnadnad**nadmun | literally eye-scorching (also you're probably under 10 years old) |
+| 红紫ㄊㄧㄎ       | nadmun**tik**       | not so colorful                                                   |
+| 红紫ㄊㄧㄎㄊㄧㄎㄊㄧㄎ | nadmun**tiktiktik** | literally grayscale                                               |
 
 Also this type of speech is not accepted in academia, and you need to resort to precise and boring ways to express how your beaker of clear liquid turned a tiny bit blue after 8 hours. I have not come up with the boring way to express it and I don't want to because it's boring.
 
@@ -166,22 +174,22 @@ Also this type of speech is not accepted in academia, and you need to resort to 
 
 Numbers in Bauhinian work exactly like Chinese. You string numbers together and they're split every four digits rather than three (so "ten thousand" has its own word). Because of this, people of the continent also put commas every four digits, not three.
 
-| Bauhinian                                                                                                                                       | English      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| <span class="tooltip"><span class="tooltip-text">5</span>tok</span>-<span class="tooltip"><span class="tooltip-text">10</span>chan</span>       | fifty        |
-| <span class="tooltip"><span class="tooltip-text">1</span>bit</span>-<span class="tooltip"><span class="tooltip-text">10,000</span>muqu</span>   | ten thousand |
-| <span class="tooltip"><span class="tooltip-text">100</span>fam</span>-<span class="tooltip"><span class="tooltip-text">10,000</span>muqu</span> | a million    |
+| Bauhinian | Latin                                                                                                                                           | English      |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 伍拾        | <span class="tooltip"><span class="tooltip-text">5</span>tok</span>-<span class="tooltip"><span class="tooltip-text">10</span>chan</span>       | fifty        |
+| 壹万        | <span class="tooltip"><span class="tooltip-text">1</span>bit</span>-<span class="tooltip"><span class="tooltip-text">10,000</span>muqu</span>   | ten thousand |
+| 佰万        | <span class="tooltip"><span class="tooltip-text">100</span>fam</span>-<span class="tooltip"><span class="tooltip-text">10,000</span>muqu</span> | a million    |
 
 ### Predicative
 
 Telling someone about the property of something is a very common speech pattern. "The world is big." "The apples are red." "Sparky is the girl who's eating." "The boy standing there is Nightsun." To express these ideas in Bauhinian, you add the suffix "-nan" to the thing being described, and "-sin" to the property being assigned to it. 有点像古汉语里的“什么什么**者**，什么什么**也**”。 In speaking, a pause is usually between the two words / phrases. In writing, there may be a comma to represent the pause, but it's omittable.
 
-| Bauhinian                                                                                                                                                                                                                                                                                                                                                                                                       | English                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>-**nan** <span class="tooltip"><span class="tooltip-text">big</span>zhon</span>-**sin**                                                                                                                                                                                                                                               | The world is big                |
-| <span class="tooltip"><span class="tooltip-text">apple</span>sotan</span>-<span class="tooltip"><span class="tooltip-text">plural</span>nip</span>-**nan** <span class="tooltip"><span class="tooltip-text">red</span>nad</span>-**sin**                                                                                                                                                                        | The apples are red              |
-| <span class="tooltip"><span class="tooltip-text">sparkly</span>Tan</span>tan-**nan**, <span class="tooltip"><span class="tooltip-text">eat</span>nomni</span> <span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span> <span class="tooltip"><span class="tooltip-text">girl</span>mofilip</span>-**sin**                                                                      | Sparky is the girl who's eating |
-| <span class="tooltip"><span class="tooltip-text">stand</span>Chax</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">boy</span>pufilip</span>-**nan**, <span class="tooltip"><span class="tooltip-text">night</span>Yamituk</span>'<span class="tooltip"><span class="tooltip-text">sun</span>aka</span>-**sin** | The boy standing is Nightsun    |
+| Bauhinian              | Latin                                                                                                                                                                                                                                                                                                                                                                                                           | English                         |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 万物·ㄋㄚㄋ　大·ㄙㄧㄋ           | <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>-**nan** <span class="tooltip"><span class="tooltip-text">big</span>zhon</span>-**sin**                                                                                                                                                                                                                                               | The world is big                |
+| 苹果·ㄋㄧㄆ·ㄋㄚㄋ　红·ㄙㄧㄋ       | <span class="tooltip"><span class="tooltip-text">apple</span>sotan</span>-<span class="tooltip"><span class="tooltip-text">plural</span>nip</span>-**nan** <span class="tooltip"><span class="tooltip-text">red</span>nad</span>-**sin**                                                                                                                                                                        | The apples are red              |
+| 闪闪·ㄋㄚㄋ，食·ㄊㄚㄋㄎㄚ·女人·ㄙㄧㄋ  | <span class="tooltip"><span class="tooltip-text">sparkly</span>Tan</span>tan-**nan**, <span class="tooltip"><span class="tooltip-text">eat</span>nomni</span> <span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span> <span class="tooltip"><span class="tooltip-text">girl</span>mofilip</span>-**sin**                                                                      | Sparky is the girl who's eating |
+| 立·ㄊㄚㄋㄎㄚ·男人·ㄋㄚㄋ，月时日·ㄙㄧㄋ | <span class="tooltip"><span class="tooltip-text">stand</span>Chax</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">boy</span>pufilip</span>-**nan**, <span class="tooltip"><span class="tooltip-text">night</span>Yamituk</span>'<span class="tooltip"><span class="tooltip-text">sun</span>aka</span>-**sin** | The boy standing is Nightsun    |
 
 ### Cause and effect
 
@@ -205,7 +213,7 @@ Okay some of these maybe (definitely) can't be categorized as "tenses" in a gram
 
 ### Saying "hello world"
 
-Asking the real questions here! "<span class="tooltip"><span class="tooltip-text">you</span>Na</span>-<span class="tooltip"><span class="tooltip-text">hello</span>owo</span>, <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>!"
+Asking the real questions here! "你·ㄛㄩㄛ，万物！(<span class="tooltip"><span class="tooltip-text">you</span>Na</span>-<span class="tooltip"><span class="tooltip-text">hello</span>owo</span>, <span class="tooltip"><span class="tooltip-text">world</span>lantap</span>!)"
 
 ## Accents
 
@@ -219,7 +227,7 @@ Asking the real questions here! "<span class="tooltip"><span class="tooltip-text
 <dt>Westavian</dt>
 <dd>tba</dd>
 <dt>Morelandian</dt>
-<dd>Softens *t*s into *d*s like them yankees. "Ata" and "ada" are the same in their mouths. Also likes to connect consonants to the next syllable if that starts with a vowel. For example, Nightsun's name is *Yamituk'aka*, and the *aka* should be crisp. But the Moose, along with some Atlasians too, would pronounce it as "kaka." Which is annoying.</dd>
+<dd>Softens *t*s into *d*s like them yankees. "Ata" and "ada" are the same in their mouths.</dd>
 <dt>Sylvandian</dt>
 <dd>tba</dd>
 </dl>
