@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<head>
+	<title>helpful little conlang helper</title>
+</head>
+
+<body>
+	<h1>ruby generator!</h1>
+	<textarea id="ruby-input"></textarea>
+	<button id="ruby-gen">Result</button>
+	<p id="ruby-output"></p>
+	<h1>word generator!</h1>
+	<button onclick="genwords()">generate!</button>
+	<ul id="words"></ul>
+	<script>
+		const vow = ["a", "e", "i", "o", "u"]
+		const con = [
+			"b",
+			"p",
+			"d",
+			"t",
+			"g",
+			"k",
+			"v",
+			"f",
+			"m",
+			"n",
+			"y",
+			"w",
+			"l",
+			"j",
+			"q",
+			"x",
+			"z",
+			"c",
+			"s",
+			"zh",
+			"ch",
+			"sh",
+		];
+		const rubyInput = document.getElementById('ruby-input');
+		const rubyOutput = document.getElementById('ruby-output');
+		rubyInput.addEventListener('change', e => {
+			let inRuby = false;
+			let result = '';
+			for (let z = 0; z < rubyInput.value.length; z++) {
+				let letter = rubyInput.value[z];
+				if (letter == '[') {
+					inRuby = true;
+					result += '<ruby>';
+				}
+				if (letter == ']') {
+					inRuby = false;
+					result += '</ruby>';
+				}
+			}
+		});
+
+		const wordList = document.getElementById('words');
+		function genwords() {
+			wordList.innerHTML = '';
+			for (let z = 0; z < 50; z++) {
+				const length = Math.floor(Math.random() * 4) + 1;
+				let word = "";
+				for (let i = 0; i < length; i++) {
+					const kind = Math.floor(Math.random() * 9) + 1;
+					if (kind === 1) {
+						word += vow[Math.floor(Math.random() * vow.length)];
+					} else if (kind === 2 || kind === 3 || kind === 4) {
+						word += con[Math.floor(Math.random() * con.length)];
+						word += vow[Math.floor(Math.random() * vow.length)];
+					} else if (kind === 5 || kind === 6) {
+						word += vow[Math.floor(Math.random() * vow.length)];
+						let letter = con[Math.floor(Math.random() * con.length)];
+						while (["y", "w", "l"].includes(letter)) {
+							letter = con[Math.floor(Math.random() * con.length)];
+						}
+						word += letter;
+					} else {
+						word += con[Math.floor(Math.random() * con.length)];
+						word += vow[Math.floor(Math.random() * vow.length)];
+						let letter = con[Math.floor(Math.random() * con.length)];
+						while (["y", "w", "l"].includes(letter)) {
+							letter = con[Math.floor(Math.random() * con.length)];
+						}
+						word += letter;
+					}
+					if (i !== length - 1) {
+						word += "'";
+					}
+				}
+				wordList.innerHTML += `<li>${word}</li>`;
+			}
+		}
+	</script>
+</body>
