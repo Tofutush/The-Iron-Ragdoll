@@ -130,9 +130,9 @@ You can also write Bauhinian in Latin, for sanity purposes. Here are the differe
 - Small punctuation. Small spaces and apostrophes and such.
 - Grammatical particles are separated by "-"
 
-| Bauhinian                                                                                        | Latin                        | English                      |
-| ------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------- |
-| <ruby>紫荆<rt>ㄗㄧㄐㄧㄋ</rt></ruby>　<ruby>花<rt>ㄎㄨㄇㄛ</rt></ruby>·ㄋㄧㄆ·ㄋㄚㄋ，<ruby>紫<rt>ㄇㄨㄋ</rt></ruby>·ㄙㄧㄋ | Zijin kumo-nip-nan, mun-sin. | Bauhinia flowers are purple. |
+| Bauhinian                                             | Latin                                                                                                      | English                      |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| {% ruby "[紫荆/zijin] [花/kumo]-nip-nan，[紫/mun]-sin。" %} | {% tooltip "[Zijin/bauhinia] [kumo/flower]-[nip/plural]-[nan/subject], [mun/purple]-[sin/predicative]." %} | Bauhinia flowers are purple. |
 
 ## Grammar
 
