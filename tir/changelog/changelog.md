@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-09-04
+
+- Added `proxy float.png`;
+
 ## 2026-09-01
 
 - Added Bauhinian to the [Dictionary](/world/language/dictionary/);
