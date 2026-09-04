@@ -10,12 +10,12 @@
     "complement",
     "folder tree",
     "font weight",
-    "heading colors",
-    "tooltip"
+    "tooltip",
+    "heading colors"
   ],
   "interfaceFontFamily": "DIN Round Pro,幼圆",
   "textFontFamily": "Bookerly,Lexend,Noto Sans Arabic,霞鹜文楷",
-  "cssTheme": "",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑",
   "showRibbon": false
