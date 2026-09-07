@@ -107,7 +107,6 @@ h3,
 h4 {
 	color: var(--text);
 	line-height: 2;
-	font-family: lexend, lxgw-marker;
 	margin-bottom: .5em;
 	margin-top: 1.5em;
 }
@@ -139,8 +138,31 @@ h4 {
 	}
 }
 
+h5 {
+	font-size: var(--font-size-h4);
+
+	&::before {
+		content: '### ';
+		opacity: .5;
+	}
+}
+
+h6 {
+	font-size: var(--font-size-h4);
+
+	&::before {
+		content: '#### ';
+		opacity: .5;
+	}
+}
+
+
 [id] {
-	scroll-margin-top: 2em;
+	scroll-margin-top: 2.5em;
+
+	&:target {
+		outline: 1px dashed var(--c);
+	}
 }
 
 main {
@@ -177,7 +199,7 @@ a {
 	text-decoration-thickness: .2em;
 	text-underline-offset: .3em;
 	text-decoration-skip-ink: none;
-	transition: all .2s var(--bezier);
+	transition: color .2s var(--bezier), text-underline-offset .2s var(--bezier);
 
 	&:hover {
 		color: var(--c);
@@ -352,9 +374,7 @@ pre {
 	font-size: smaller;
 }
 
-.footnote-item:target {
-	outline: 1px dashed var(--c);
-}
+
 
 ::marker {
 	color: var(--text);
@@ -805,5 +825,9 @@ dl {
 
 	.card {
 		padding: 0 1em;
+	}
+
+	[id] {
+		scroll-margin-top: 5em;
 	}
 }

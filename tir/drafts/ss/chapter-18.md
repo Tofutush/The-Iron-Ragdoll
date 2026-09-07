@@ -70,7 +70,7 @@ She rushed forward to take the full teapot from Checkers' hand, but he pulled it
 
 "I have a lot of work to do to make sure the event runs smoothly," Checkers said. "*You* just have to focus on making your friends feel at home."
 
-"I will!" Jelly yelled. Checkers disappeared into the building. She stared at her empty cup, still in her hands, for a while, perhaps contemplating getting another cup of milk tea, before tossing it into a nearby trash can. It bounced off the edge and landed on the ground, but Jelly didn't pick it up. Sugarcane dashed over and put it back into the trash can.
+"I will!" Jelly yelled and did a salute with her left arm. Checkers disappeared into the building. She stared at her empty cup, still in her hands, for a while, perhaps contemplating getting another cup of milk tea, before tossing it into a nearby trash can. It bounced off the edge and landed on the ground, but Jelly didn't pick it up. Sugarcane dashed over and put it back into the trash can.
 
 "Let's go, then. It's across the lawn." Jelly tugged on my arm, staring at the ground.
 
@@ -80,4 +80,30 @@ She rushed forward to take the full teapot from Checkers' hand, but he pulled it
 
 Three pottery wheels sat on a patch of concrete next to the lawn, two of them already occupied by kids with muddy hands. A woman stood near one of the kids, guiding her. She paused to wave at us.
 
-"Jelly, dear!"
+"Jelly, dear! Are those the friends you've been talking about?"
+
+"Yes! Truffle and Spotty! Can we take this one?" Jelly pointed at the unoccupied pottery wheel.
+
+"Of course," Marmalade said. "I'll go get some more stools. You can help your friends with this, I suppose?"
+
+"You bet! There's only one though…" Jelly scratched her chin. "Maybe one of you go first and one of you go next? Or we can make one project together!"
+
+"That sounds great," Sugarcane smiled and took a seat at a stool Marmalade had pulled up. I sat on the third one, putting Jelly between us two.
+
+"So we start with some clay," Jelly said, "and we get the wheel spinning!"
+
+"You're good," Sugarcane observed.
+
+"This is basically all I do whenever I'm free and the bug zoo is closed," Jelly laughed.
+
+"I didn't know there was an insectarium in Flower City," Sugarcane said.
+
+"You don't? That's gotta be a crime! They've got *everything* here and I'd never even left the district! Well, except for that time I went to the Bauhinia Tower with you two. Which is to say, we should go sometime! To the, uh, insectarium? Was that what you said?" Jelly said as she sculpted the clay skillfully. We barely had a chance to touch the clay as she rambled on about the different sections of the Flower City Insectarium, as if she had the place memorized by heart — and she probably had.
+
+Soon, the chunk of clay turned into a tall and sleek flower vase.
+
+"It's pretty!" Sugarcane said.
+
+"Oops! I didn't even let you two touch it," Jelly attempted to scratch her head out of embarrassment, but stopped when she remembered that her hands were still full of wet clay. "I know! You can draw on it!" She rushed over to a table, grabbed a pair of disposable chopsticks, and handed us one each.
+
+"Thanks," I said, and started doodling stuff on my side of the pot, while Sugarcane worked on the other. I drew three figures, me, Sugarcane, and Jelly, holding hands, standing at the bottom of the pot.

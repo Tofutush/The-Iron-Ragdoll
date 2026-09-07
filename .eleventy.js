@@ -41,11 +41,6 @@ export default function (eleventyConfig) {
 	}).use(markdownItExternalLinks, {
 		externalTarget: '_blank'
 	}).use(markdownItObsidianCallouts).use(markdownitTableWrap);
-	mdIt.renderer.rules.footnote_caption = (tokens, idx) => {
-		let n = Number(tokens[idx].meta.id + 1).toString();
-		if (tokens[idx].meta.subId > 0) n += `:${tokens[idx].meta.subId}`;
-		return `${n}`;
-	}
 	mdIt.renderer.rules.footnote_anchor = (tokens, idx, options, env, slf) => {
 		const n = Number(tokens[idx].meta.id + 1).toString();
 		let prefix = '';

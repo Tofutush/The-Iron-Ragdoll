@@ -22,7 +22,9 @@ Jelly took the piece of crumpled paper and flattened it. "I don't have an email 
 
 "I'll keep that in mind," Jelly smiled a little. "Anything else?"
 
-I took a deep breath, and held Jelly's hands in mine. "I wish our countries weren't at rivalry. I wish we could be friends without all the adults meddling. I wish these fake borders and whatever iron curtain bullshit didn't become real barriers to our friendship!"
+I took a deep breath, held Jelly's hands in mine, and blurted out the words I'd been rehearsing in my brain all night and morning. "I wish our countries weren't at rivalry. I wish we could be friends without all the adults meddling. I wish these fake borders and whatever iron curtain bullshit didn't become real barriers to our friendship!"
+
+It sounded better in my head. But I hope I got my point across.
 
 Jelly frowned, and snatched her hands out of my grasp. "That's easy for you to say. You're Bauhinian."
 
@@ -44,7 +46,7 @@ Jelly grabbed my hand and whispered into my ear. "Become Westavian."
 
 She pressed another crumpled piece of paper into my hand. I almost thought she gave my email back to me, but when I unwrapped it, it was *her* email.
 
-"You want to play [stuff they played] with me again? Then come on over," she said. "Contact me if you're ready. I'll be waiting. Doesn't matter if it takes years, or decades. It's never too late. And I'll always be waiting."
+"You want to play [stuff they played] with me again? Then come on over," she said. "Contact me if you're ready. I'll be waiting. Doesn't matter if it takes years, or decades. It's never too late. And I'll always be waiting. Don't you forget about this. Remember me whenever Spring comes and the Bauhinia flowers fall."
 
 I held the slip of paper in my hand, not sure of what to think.
 
@@ -56,9 +58,9 @@ My heart lurched. She was right.
 
 What could I possibly tell her, except the truth? "To be with Sugarcane."
 
-"Oh, Harmony." Jelly wrapped me into an embrace this time, tilting her head aside like she always did. "Oh, oh, Harmony. I like you too."
+"Oh, Harmony." Jelly wrapped me into an embrace this time, tilting her head aside like she always did. "Oh, oh, Harmony. You complete idiot. I like you too."
 
-We stood there, hugging, for a long while, before Jelly pulled away. "I have to go now," she said, wiping away tears and grabbing the handle of her suitcase. "Take care."
+We stood there, hugging, for a long while, before Jelly pulled away. "I have to go now," she said, grabbing the handle of her suitcase. "Take care."
 
 "Safe travels," I called as she disappeared behind the door.
 
