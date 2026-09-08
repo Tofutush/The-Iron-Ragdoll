@@ -1,5 +1,11 @@
 [
   {
+    "name": "ab",
+    "pos": "v.",
+    "def": "take",
+    "bh": "\u62ff"
+  },
+  {
     "name": "aba'aba",
     "pos": "exclam.",
     "def": "please (as in \"pretty please\")",
@@ -18,6 +24,18 @@
     "bh": "\u65e5\u65f6"
   },
   {
+    "name": "ba",
+    "pos": "v.",
+    "def": "give",
+    "bh": "\u4e88"
+  },
+  {
+    "name": "balan",
+    "pos": "n.",
+    "def": "plate",
+    "bh": "\u789f"
+  },
+  {
     "name": "bechtum",
     "pos": "n.",
     "def": "north",
@@ -30,10 +48,46 @@
     "bh": "\u58f9"
   },
   {
+    "name": "bokbok",
+    "pos": "n.",
+    "def": "chicken",
+    "bh": "\u9e21"
+  },
+  {
     "name": "bosh",
     "pos": "adj.",
     "def": "green",
     "bh": "\u7eff"
+  },
+  {
+    "name": "bulundalu",
+    "pos": "v.",
+    "def": "come, arrive",
+    "bh": "\u81f3"
+  },
+  {
+    "name": "calan",
+    "pos": "n.",
+    "def": "bowl",
+    "bh": "\u7897"
+  },
+  {
+    "name": "calanbalan",
+    "pos": "n.",
+    "def": "dishes",
+    "bh": "\u7897\u789f"
+  },
+  {
+    "name": "canxu",
+    "pos": "v.",
+    "def": "spy on",
+    "bh": "\u5077\u8c0d"
+  },
+  {
+    "name": "cazav",
+    "pos": "adj.",
+    "def": "beautiful",
+    "bh": "\u7f8e"
   },
   {
     "name": "chacha",
@@ -44,7 +98,7 @@
   {
     "name": "chalikik",
     "pos": "adj.",
-    "def": "having great aura \"Kismet-nan, ~sin.\"",
+    "def": "charismatic; having great aura \"Kismet-nan, ~sin.\"",
     "bh": "\u3114\u311a\u310c\u3127\u310e\u3127\u310e"
   },
   {
@@ -60,16 +114,16 @@
     "bh": "\u7acb"
   },
   {
-    "name": "chik",
-    "pos": "adj.",
-    "def": "small",
-    "bh": "\u5c0f"
+    "name": "-chip",
+    "pos": "suffix",
+    "def": "how many times",
+    "bh": "\u3114\u3127\u3106\u00b7"
   },
   {
     "name": "chosufilip",
     "pos": "n.",
     "def": "older sister",
-    "bh": "\u59d0\u4eba"
+    "bh": "\u59d0"
   },
   {
     "name": "chu",
@@ -141,7 +195,67 @@
     "name": "gesufilip",
     "pos": "n.",
     "def": "younger brother",
-    "bh": "\u5f1f\u4eba"
+    "bh": "\u5f1f"
+  },
+  {
+    "name": "-gola",
+    "pos": "suffix",
+    "def": "towards",
+    "bh": "\u00b7\u310d\u311b\u310c\u311a"
+  },
+  {
+    "name": "gudong",
+    "pos": "n.",
+    "def": "egg",
+    "bh": "\u5375"
+  },
+  {
+    "name": "gudongmush",
+    "pos": "n.",
+    "def": "cake",
+    "bh": "\u5375\u7cd5"
+  },
+  {
+    "name": "if",
+    "pos": "adj.",
+    "def": "inanimate, insentient",
+    "bh": "\u3127\u3108"
+  },
+  {
+    "name": "iliktili",
+    "pos": "n.",
+    "def": "electricity",
+    "bh": "\u7535"
+  },
+  {
+    "name": "iliktilikitaponi",
+    "pos": "n.",
+    "def": "television",
+    "bh": "\u7535\u89c6"
+  },
+  {
+    "name": "-kana",
+    "pos": "suffix",
+    "def": "turns a verb into a noun, like \"-ing\" or \"-tion\"",
+    "bh": "\u00b7\u310e\u311a\u310b\u311a"
+  },
+  {
+    "name": "kiklicha",
+    "pos": "adj.",
+    "def": "having bad aura; off-putting; unpleasant",
+    "bh": "\u310e\u3127\u310e\u310c\u3127\u3114\u311a"
+  },
+  {
+    "name": "kita",
+    "pos": "v.",
+    "def": "see, watch",
+    "bh": "\u89c6"
+  },
+  {
+    "name": "kovun",
+    "pos": "n.",
+    "def": "right",
+    "bh": "\u53f3"
   },
   {
     "name": "kumo",
@@ -150,9 +264,15 @@
     "bh": "\u82b1"
   },
   {
+    "name": "-lago",
+    "pos": "suffix",
+    "def": "away from",
+    "bh": "\u00b7\u310c\u311a\u310d\u311b"
+  },
+  {
     "name": "lan",
     "pos": "adj.",
-    "def": "all, total, many",
+    "def": "all, total",
     "bh": "\u4e07"
   },
   {
@@ -225,7 +345,7 @@
     "name": "motefilip",
     "pos": "n.",
     "def": "mother",
-    "bh": "\u6bcd\u4eba"
+    "bh": "\u6bcd"
   },
   {
     "name": "Motezhondesput",
@@ -238,12 +358,6 @@
     "pos": "pron.",
     "def": "this; definite article",
     "bh": "\u8fd9"
-  },
-  {
-    "name": "mumuqitafad",
-    "pos": "exclam.",
-    "def": "please (as in \"please do this\")",
-    "bh": "\u3107\u3128\u3107\u3128\u3111\u3127\u310a\u311a\u3108\u311a\u3109"
   },
   {
     "name": "mun",
@@ -294,6 +408,18 @@
     "bh": "\u5403"
   },
   {
+    "name": "-nota",
+    "pos": "suffix",
+    "def": "at",
+    "bh": "\u4e8e"
+  },
+  {
+    "name": "nozh",
+    "pos": "adj.",
+    "def": "small",
+    "bh": "\u5c0f"
+  },
+  {
     "name": "owo",
     "pos": "exclam.",
     "def": "hello, greeting",
@@ -310,6 +436,24 @@
     "pos": "n.",
     "def": "region, city, area",
     "bh": "\u3106\u311a\u3106\u5730"
+  },
+  {
+    "name": "pin",
+    "pos": "conj.",
+    "def": "and",
+    "bh": "\u4e0e"
+  },
+  {
+    "name": "-pina",
+    "pos": "suffix",
+    "def": "subsequently",
+    "bh": "\u00b7\u3106\u3127\u310b\u311a"
+  },
+  {
+    "name": "-poni",
+    "pos": "suffix",
+    "def": "turns a verb into its actor, like \"-er\"",
+    "bh": "\u00b7\u3106\u311b\u310b\u3127"
   },
   {
     "name": "pufilip",
@@ -333,7 +477,7 @@
     "name": "putefilip",
     "pos": "n.",
     "def": "father",
-    "bh": "\u7236\u4eba"
+    "bh": "\u7236"
   },
   {
     "name": "qa",
@@ -342,10 +486,34 @@
     "bh": "\u60a8"
   },
   {
+    "name": "qopxi",
+    "pos": "v.",
+    "def": "like, adore, love",
+    "bh": "\u559c\u7231"
+  },
+  {
     "name": "sa",
     "pos": "pron.",
     "def": "he, she, they (singular)",
     "bh": "\u7260"
+  },
+  {
+    "name": "santa",
+    "pos": "n.",
+    "def": "home",
+    "bh": "\u5bb6"
+  },
+  {
+    "name": "savyu",
+    "pos": "n.",
+    "def": "left",
+    "bh": "\u5de6"
+  },
+  {
+    "name": "shushu",
+    "pos": "v.",
+    "def": "wash",
+    "bh": "\u6d17"
   },
   {
     "name": "sili",
@@ -399,7 +567,7 @@
     "name": "tasufilip",
     "pos": "n.",
     "def": "older brother",
-    "bh": "\u54e5\u4eba"
+    "bh": "\u54e5"
   },
   {
     "name": "tata",
@@ -412,6 +580,12 @@
     "pos": "n.",
     "def": "a person of the previous generation",
     "bh": "\u310a\u311c\u4eba"
+  },
+  {
+    "name": "-ti",
+    "pos": "suffix",
+    "def": "object case",
+    "bh": "\u00b7\u310a\u3127"
   },
   {
     "name": "-tik",
@@ -432,6 +606,12 @@
     "bh": "\u4f0d"
   },
   {
+    "name": "-tu",
+    "pos": "suffix",
+    "def": "'s",
+    "bh": "\u00b7\u310a\u3128"
+  },
+  {
     "name": "tuk",
     "pos": "n.",
     "def": "time",
@@ -442,6 +622,18 @@
     "pos": "adj.",
     "def": "blue",
     "bh": "\u84dd"
+  },
+  {
+    "name": "uchchu",
+    "pos": "v.",
+    "def": "want to reach out and get to know someone yet feeling too shy to make the first step",
+    "bh": "\u9ed8\u6ce8"
+  },
+  {
+    "name": "vapcaqopxi",
+    "pos": "v.",
+    "def": "appreciate someone whom you don't interact with often but still value their company, oft. used for online friends",
+    "bh": "\u310f\u311a\u3106\u3118\u311a\u7231"
   },
   {
     "name": "vejgun",
@@ -456,6 +648,12 @@
     "bh": "\u6211"
   },
   {
+    "name": "-waq",
+    "pos": "suffix",
+    "def": "past tense",
+    "bh": "\u00b7\u3129\u311a\u3111"
+  },
+  {
     "name": "westav",
     "pos": "n.",
     "def": "west",
@@ -466,6 +664,12 @@
     "pos": "proper n.",
     "def": "Westavia",
     "bh": "\u897f\u3109\u311c\u3119\u5730"
+  },
+  {
+    "name": "xuqitajad",
+    "pos": "exclam.",
+    "def": "please (as in \"please do this\")",
+    "bh": "\u8bf7"
   },
   {
     "name": "yami",
@@ -507,13 +711,19 @@
     "name": "yisufilip",
     "pos": "n.",
     "def": "younger sister",
-    "bh": "\u59b9\u4eba"
+    "bh": "\u59b9"
   },
   {
     "name": "yop",
     "pos": "adj.",
     "def": "orange",
     "bh": "\u6a59"
+  },
+  {
+    "name": "zavka",
+    "pos": "adj.",
+    "def": "ugly",
+    "bh": "\u4e11"
   },
   {
     "name": "zhin",
