@@ -189,7 +189,7 @@ Also this type of speech is not accepted in academia, and you need to resort to 
 
 | Bauhinian                                                                                         | Latin                                                                                                                                                                                                                                                                                                                                                    | English                                                                              |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| {% ruby "月时日 这 蛋糕-ti 食-waq，这 碗碟-nip-ti 洗-waq-pina，这 电视-ti 视-waq-tanka-pina 闪闪 家-gola 至-paj-于。" %} | {% tooltip "[Yamituk/night]'[aka/sun] [mu/this] [gudonmush/cake]-[ti/object] [nomni/eat]-[waq/past tense], mu [calanbalan/dishes]-[nip/plural]-ti [shushu/wash]-waq-[pina/and then], mu [iliktilikitaponi/TV]-ti [kita/watch]-waq-tanka-pina [Tantan/Sparky] [santa/home]-[gola/towards] [bulundalu/arrive]-[paj/just happened]-[nota/at this time]." %} | Nightsun ate the cake, washed the dishes, and was watching TV when Sparky came home. |
+| {% ruby "月时日 这 蛋糕-ti 食-waq，这 碗碟-nip-ti 洗-waq-pina，这 电视-ti 视-waq-tanka-pina 闪闪 家-gola 至-paj-于。" %} | {% tooltip "[Yamituk/night]'[aka/sun] [mu/this] [gudonmush/cake]-[ti/object] [nomni/eat]-[waq/past tense], mu [kalanbalan/dishes]-[nip/plural]-ti [shushu/wash]-waq-[pina/and then], mu [iliktilikitaponi/TV]-ti [kita/watch]-waq-tanka-pina [Tantan/Sparky] [santa/home]-[gola/towards] [bulundalu/arrive]-[paj/just happened]-[nota/at this time]." %} | Nightsun ate the cake, washed the dishes, and was watching TV when Sparky came home. |
 
 Wow that looks *horrendous*
 
@@ -222,7 +222,7 @@ Noun suffixes!
 
 #### Plural
 
-The plural of a noun is denoted using the suffix *-nip*. In Bauhinian, "plural" is only used when the number of things is uncertain. When the number is certain, no plural suffix is added. Some collective nouns, like *calanbalan* (dishes), nearly always have a plural suffix attached.
+The plural of a noun is denoted using the suffix *-nip*. In Bauhinian, "plural" is only used when the number of things is uncertain. When the number is certain, no plural suffix is added. Some collective nouns, like *kalanbalan* (dishes), nearly always have a plural suffix attached.
 
 | Bauhinian | Latin                                                                       | English    |
 | --------- | --------------------------------------------------------------------------- | ---------- |
