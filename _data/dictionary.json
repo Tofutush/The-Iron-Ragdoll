@@ -66,18 +66,6 @@
     "bh": "\u81f3"
   },
   {
-    "name": "calan",
-    "pos": "n.",
-    "def": "bowl",
-    "bh": "\u7897"
-  },
-  {
-    "name": "calanbalan",
-    "pos": "n.",
-    "def": "dishes",
-    "bh": "\u7897\u789f"
-  },
-  {
     "name": "canxu",
     "pos": "v.",
     "def": "spy on",
@@ -232,6 +220,18 @@
     "pos": "n.",
     "def": "television",
     "bh": "\u7535\u89c6"
+  },
+  {
+    "name": "kalan",
+    "pos": "n.",
+    "def": "bowl",
+    "bh": "\u7897"
+  },
+  {
+    "name": "kalanbalan",
+    "pos": "n.",
+    "def": "dishes",
+    "bh": "\u7897\u789f"
   },
   {
     "name": "-kana",
