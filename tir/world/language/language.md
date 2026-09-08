@@ -10,7 +10,7 @@ categories:
 Due to literally being one Bauhinian Empire for thousands of years, everyone on the continent speaks one language. Though topolects and accents exist, the foundations of them are the same, and they always remain mutually intelligible. Here is all the info on the language! For a list of words in the language, refer to the [dictionary](/world/language/dictionary/)!
 
 > [!info]+ Info
-> This batshit file is going to be riddled in unprofessional terminology that can make a real linguist weep, and I'm sorry about that. Do [tell me](https://tofutush.leprd.space/guestbook/) if there's something you think I should change! Also, I would likely never make this into a fully-fledged conlang, and more important than ever that everything here is subject to change!
+> This batshit file is going to be riddled in unprofessional terminology that can make a real linguist weep, and I'm sorry about that. Also, I would likely never make this into a fully-fledged conlang, and though "this file is subject to change" applies to all files on the website, it's especially true here!
 
 [[toc]]
 
@@ -115,7 +115,7 @@ Stress is not important in Bauhinian. Do whatever.
 
 Bauhinian's writing system is literally Chinese and bopomofo, called "characters" and "letters." Some bopomofo characters are jammed into another sound because there weren't enough consonants.
 
-Chinese characters (ahem, *Bauhinian* characters) are used for words with concrete meaning, while bopomofo (ahem, *letters*) are used for grammatical particles, and to teach kids to read.
+Chinese characters (ahem, *Bauhinian* characters) are used for words with concrete meaning, usually nouns, verbs, and adjectives, while bopomofo (ahem, *letters*) are used for grammatical particles, and to teach kids to read.
 
 You can also write Bauhinian in Latin, for sanity purposes. Here are the differences:
 
@@ -136,17 +136,7 @@ You can also write Bauhinian in Latin, for sanity purposes. Here are the differe
 
 ## Grammar
 
-Bauhinian is an agglutinative language, relying on affixes (only prefixes and suffixes here) to modify a word to give it additional meaning.
-
-### Plural
-
-The plural of a noun is denoted using the suffix *-nip*. In Bauhinian, "plural" is only used when the number of things is uncertain. When the number is certain, no plural suffix is added.
-
-| Bauhinian | Latin                                                                       | English    |
-| --------- | --------------------------------------------------------------------------- | ---------- |
-| 苹果        | sotan                                                                       | apple      |
-| 苹果·ㄋㄧㄆ    | sotan-*nip*                                                                 | apples     |
-| 贰　苹果      | <span class="tooltip"><span class="tooltip-text">two</span>yax</span> sotan | two apples |
+Bauhinian is an agglutinative language, relying on affixes (only prefixes and suffixes here) to modify a word to give it additional meaning. Generally, the word order is subject-object-verb.
 
 ### Adjectives
 
@@ -170,11 +160,90 @@ In English, adjectives can be modified by "very" or "a little." To express this 
 
 Also this type of speech is not accepted in academia, and you need to resort to precise and boring ways to express how your beaker of clear liquid turned a tiny bit blue after 8 hours. I have not come up with the boring way to express it and I don't want to because it's boring.
 
-#### hafing
+### Verbs
 
-##### ajskfajdg
+- Tense
+	- Happened historically
+	- Happened early in your life
+	- Normal past tense: -waq
+	- Had just happened: -paj
+	- Present: no special suffix
+	- Just about to do
+	- Future (will do)
+- Aspect
+	- Ongoing: -tanka
+	- Perfect
+- Whatever these are
+	- Should
+	- Must
+	- Want to
+	- Could
+	- Might
+	- Can (ability)
+	- Can (permission)
+- Subsequently: -pina
+- Modify
+	- Become a noun: -kana
+	- Become the actor: -poni
+- … And whatever more I can think of
 
-###### ajsfgs
+| Bauhinian                                                                                         | Latin                                                                                                                                                                                                                                                                                                                                                    | English                                                                              |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| {% ruby "月时日 这 蛋糕-ti 食-waq，这 碗碟-nip-ti 洗-waq-pina，这 电视-ti 视-waq-tanka-pina 闪闪 家-gola 至-paj-于。" %} | {% tooltip "[Yamituk/night]'[aka/sun] [mu/this] [gudonmush/cake]-[ti/object] [nomni/eat]-[waq/past tense], mu [calanbalan/dishes]-[nip/plural]-ti [shushu/wash]-waq-[pina/and then], mu [iliktilikitaponi/TV]-ti [kita/watch]-waq-tanka-pina [Tantan/Sparky] [santa/home]-[gola/towards] [bulundalu/arrive]-[paj/just happened]-[nota/at this time]." %} | Nightsun ate the cake, washed the dishes, and was watching TV when Sparky came home. |
+
+Wow that looks *horrendous*
+
+#### Habitual
+
+There isn't a habitual aspect to verbs in Bauhinian. To say "Nightsun spies on people," you say "Nightsun is a people-spier":
+
+| Bauhinian                               | Latin                                                                                                                           |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| {% ruby "月时日-nan，人-nip 偷谍-poni-sin。" %} | {% tooltip "[Yamituk/night]'[aka/sun]-[nan/subject], [filip/person]-[nip/plural] [canxu/spy on]-[poni/er]-[sin/predicative]" %} |
+
+### Nouns
+
+Noun suffixes!
+
+- Towards: -gola
+- Away from: -lago
+- To: -jika
+- From -kaji
+- On
+- Under
+- Besides
+- At (location)
+- At (time)
+- Um what else
+
+| Bauhinian                          | Latin                                                                                                   | English                   |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------- |
+| {% ruby "我 卵-ti 闪闪-jika 予-paj。" %} | {% tooltip "[Wa/I] [gudon/egg]-[ti/object] [Tantan/Sparky]-[jika/to] [ba/give]-[paj/just happened]." %} | I gave the egg to Sparky. |
+
+#### Plural
+
+The plural of a noun is denoted using the suffix *-nip*. In Bauhinian, "plural" is only used when the number of things is uncertain. When the number is certain, no plural suffix is added. Some collective nouns, like *calanbalan* (dishes), nearly always have a plural suffix attached.
+
+| Bauhinian | Latin                                                                       | English    |
+| --------- | --------------------------------------------------------------------------- | ---------- |
+| 苹果        | sotan                                                                       | apple      |
+| 苹果·ㄋㄧㄆ    | sotan-*nip*                                                                 | apples     |
+| 贰　苹果      | <span class="tooltip"><span class="tooltip-text">two</span>yax</span> sotan | two apples |
+
+### Opposite
+
+Some words have opposites. In this case, the two words with opposite meanings would be flipped versions of each other. If there are multiple syllables, the syllables are flipped. If there is only one syllable, the letters inside that are flipped. Only certain adjectives, verbs, and affixes do this.
+
+| Bauhinian | Latin    | English     |
+| --------- | -------- | ----------- |
+| 小         | nozh     | small       |
+| 大         | zhon     | big         |
+| 美         | cazav    | beautiful   |
+| 丑         | zavca    | ugly        |
+| ㄔㄚㄌㄧㄎㄧㄎ   | chalikik | charismatic |
+| ㄎㄧㄎㄌㄧㄔㄚ   | kiklicha | off-putting |
+| 予         | ba       | give        |
+| 拿         | ab       | take        |
 
 ### Numbers
 
@@ -197,25 +266,15 @@ Telling someone about the property of something is a very common speech pattern.
 | 闪闪·ㄋㄚㄋ，食·ㄊㄚㄋㄎㄚ·女人·ㄙㄧㄋ  | <span class="tooltip"><span class="tooltip-text">sparkly</span>Tan</span>tan-**nan**, <span class="tooltip"><span class="tooltip-text">eat</span>nomni</span> <span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span> <span class="tooltip"><span class="tooltip-text">girl</span>mofilip</span>-**sin**                                                                      | Sparky is the girl who's eating |
 | 立·ㄊㄚㄋㄎㄚ·男人·ㄋㄚㄋ，月时日·ㄙㄧㄋ | <span class="tooltip"><span class="tooltip-text">stand</span>Chax</span>-<span class="tooltip"><span class="tooltip-text">present ongoing tense</span>tanka</span>-<span class="tooltip"><span class="tooltip-text">boy</span>pufilip</span>-**nan**, <span class="tooltip"><span class="tooltip-text">night</span>Yamituk</span>'<span class="tooltip"><span class="tooltip-text">sun</span>aka</span>-**sin** | The boy standing is Nightsun    |
 
+### Evidentiality
+
+Evidentiality isn't required for informal speech, but for anything remotely formal, you need one of this at the start of every sentence or clause.
+
+- I just know this, trust me bro ()
+
 ### Cause and effect
 
 This is literally the reason I made this in the first place but I just got too lazy to write it. One day.
-
-### Verb tenses
-
-Bauhinian has:
-
-- Past tense (did): -waq
-- Present ongoing (doing): -tanka
-- Present perfect (have just done): -…
-- Future (will do): -…
-- Just about to do: -…
-- Should do: -…
-- Must do: -…
-- Want to do: -…
-- And whatever more I can think of
-
-Okay some of these maybe (definitely) can't be categorized as "tenses" in a grammatical sense but I don't care.
 
 ### Saying "hello world"
 

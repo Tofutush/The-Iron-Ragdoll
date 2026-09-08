@@ -15,6 +15,18 @@ text-decoration: underline;
 .markdown-preview-view h4,
 .cm-header-4
 {
+  color: var(--color-green);
+}
+
+.markdown-preview-view h5,
+.cm-header-5
+{
   color: var(--color-blue);
+}
+
+.markdown-preview-view h6,
+.cm-header-6
+{
+  color: var(--color-purple);
 }
 
