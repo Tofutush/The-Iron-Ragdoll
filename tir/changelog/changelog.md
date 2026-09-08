@@ -5,6 +5,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-09-07
+
+- Removed the language, dictionary, and the old writing system for that matter, for the time being. I have found myself incapable of creating any linguistic feature that I like, be it writing systems or conlangs. And knowing me, something I don't like is sure to be eventually removed from TIR. So for now, only a description of what a Bauhinian language would be like is on the website;
+	- Not to write a tiny essay in the changelog of all places, but in trying to make a conlang, I've really learned to appreciate the languages I know and all their intricacies that I will never be able to — and probably should not, for that matter — replicate. So it was a worthwhile though futile experiment;
+	- But I mean, there definitely are features I liked about it, such as the adjective emphasis thing; it's just that the sluggish drool of stuff I don't like drowned out
+
 ## 2026-09-04
 
 - Added `proxy float.png`;
