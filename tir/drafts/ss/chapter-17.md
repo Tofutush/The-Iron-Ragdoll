@@ -20,8 +20,6 @@ She started to recount the time when she shed her own horns, promptly forgetting
 
 "Well yeah, I know that," I said with my mouth half full. "That doesn't make me feel any better though."
 
-I frowned a little. Now that I thought about it, Sugarcane had always trusted adults, perhaps a little too much. Maybe in her world, adults were always right, the way she used to be always right in mine.
-
 "And… what do you think the reason is?" Sugarcane asked on.
 
 "I thought I told you that the other day. They want to get me expelled."
@@ -56,7 +54,7 @@ I had my letter in my own hand. When I first received the envelope with my name 
 
 "Worst-faith, then?" Sugarcane asked.
 
-Sky gave her a wink. "I like the way you think, but I don't want to worry you too much. Just assume he's happy his daughter is making friends and want to make you feel welcome."
+Sky gave her a wink. "I like the way you think, but I don't want to worry you too much. Just assume he's happy his daughter is making friends and wants to make you feel welcome."
 
 "Alright."
 
@@ -130,7 +128,7 @@ We handed our hand-drawn invitations over. The guard stared at them for a good o
 
 "Hang on a second, please." The guard picked up his phone and presumably called Checkers.
 
-After a while, a man with red eyes came out the building, bounded across the lane and entered the guard booth. He wore a suit, but on his head he had a funny hat with red patterns on it, as well as two strips of cloth dangling behind the hat, covering the back of his neck.
+After a while, a man with red eyes came out the building, bounded across the lane, and entered the guard booth. He wore a suit, but on his head he had a funny hat with red patterns on it, as well as two strips of cloth dangling behind the hat, covering the back of his neck.
 
 "Hi, Mr. Checkers," the guard said to him. "Are these your daughter's friends?"
 

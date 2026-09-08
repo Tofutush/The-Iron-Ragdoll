@@ -44,9 +44,9 @@ Jelly handed another full cup to Sugarcane, who took the chance to grab the teap
 
 "Do you need help with that, uncle?" Sugarcane immediately said.
 
-"I can handle that, thanks."
+"I can handle it, thanks."
 
-After Checkers left, also lifted her cup to take a sip. "This is salty indeed," she frowned.
+After Checkers left, Sugarcane also lifted her cup to take a sip. "This is salty indeed," she frowned.
 
 "This is how milk tea is supposed to taste," Jelly said. "No one makes it better than Papa."
 
@@ -56,7 +56,7 @@ I stood there awkwardly, holding the cup, still nearly full, in my hand. Jelly s
 
 "Um-hm," Jelly nodded. "He'll be back soon. See, there he is!"
 
-She rushed forward to take the full teapot from Checkers' hand, but he pulled it away. "You've had enough! This is for the guests."
+She rushed forward to take the full teapot from Checkers' hand, but he pulled it away. "You've had enough! This is for the *guests*."
 
 "So it's for Truffle and Spotty."
 
@@ -106,4 +106,24 @@ Soon, the chunk of clay turned into a tall and sleek flower vase.
 
 "Oops! I didn't even let you two touch it," Jelly attempted to scratch her head out of embarrassment, but stopped when she remembered that her hands were still full of wet clay. "I know! You can draw on it!" She rushed over to a table, grabbed a pair of disposable chopsticks, and handed us one each.
 
-"Thanks," I said, and started doodling stuff on my side of the pot, while Sugarcane worked on the other. I drew three figures, me, Sugarcane, and Jelly, holding hands, standing at the bottom of the pot.
+"Thanks," I said, and started doodling stuff on my side of the pot, while Sugarcane worked on the other. Jelly circled around us like an eager puppy, attempting to see what both of us were drawing at once. I drew three figures, me, Sugarcane, and Jelly, holding hands, standing at the bottom of the pot.
+
+"Is that me? Is that me?" Jelly pointed at the shortest figure in the middle.
+
+"Yeah," I admitted. "It's not very good though."
+
+"It's *amazing*! You draw so well!" Jelly snapped a picture.
+
+Sugarcane leaned her head forward and twisted her neck to take a look too. "Awww, you gave me horns."
+
+"Well yeah, because…"
+
+"Because I'm supposed to have them," Sugarcane finished for me.
+
+"Come on, this is just temporary!"
+
+Marmalade suddenly materialized next to us and cut us off. "Oh, those are lovely drawings," she said, "but unfortunately we don't have any paint. Are you finished?"
+
+"Yeah," we both nodded.
+
+"I'll bring this over there to dry, then," Marmalade said. "You girls can go do something else now. I'll be calling everyone over when all of your pots have finished firing."
