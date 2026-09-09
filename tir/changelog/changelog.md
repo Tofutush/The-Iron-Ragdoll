@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-09-08
+
+- Added `proxy small.png`, `flutter back.png`, `sparky small.png`;
+
 ## 2026-09-07
 
 - Removed the language, dictionary, and the old writing system for that matter, for the time being. I have found myself incapable of creating any linguistic feature that I like, be it writing systems or conlangs. And knowing me, something I don't like is sure to be eventually removed from TIR. So for now, only a description of what a Bauhinian language would be like is on the website;

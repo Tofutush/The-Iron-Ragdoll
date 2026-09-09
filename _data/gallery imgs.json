@@ -6670,5 +6670,29 @@
       "proxy"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "proxy small",
+    "date": "2026-09-08",
+    "ch": [
+      "proxy"
+    ],
+    "kind": "pagedoll",
+    "comment": "Experimenting with different brushes."
+  },
+  {
+    "name": "flutter back",
+    "date": "2026-09-08",
+    "ch": [
+      "flutter"
+    ],
+    "comment": "And there! I think I finially found my dream brush! No hate to my trusty plain anti-aliased brush, but I've always wanted something more crayon-looking, but turned out \"crayon\" was not the search term I was looking for. The brush is [this](https://assets.clip-studio.com/en-us/detail?id=1745651) however I adjusted the pressure to be exactly the way it was before… I should try the default pressure setting it came with (basically just thicker when slower eh); the example picture is *exactly* (well, one of) the type of lineart I adore oh my days.\n\nThis changes my workflow a little, since I can't draw patterns with select anymore, and I have to remember to use the original brush for sketches, but small price."
+  },
+  {
+    "name": "sparky shoot",
+    "date": "2026-09-08",
+    "ch": [
+      "sparky"
+    ]
   }
 ]
