@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-09-09
+
+- Added `sparrow sit.png`;
+
 ## 2026-09-08
 
 - Added `proxy small.png`, `flutter back.png`, `sparky small.png`;

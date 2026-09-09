@@ -6694,5 +6694,14 @@
     "ch": [
       "sparky"
     ]
+  },
+  {
+    "name": "sparrow sit",
+    "date": "2026-09-09",
+    "ch": [
+      "sparrow"
+    ],
+    "kind": "pagedoll",
+    "comment": "Still testing out different pressure settings… Also I Forgor Sparrow wore a skirt…"
   }
 ]
