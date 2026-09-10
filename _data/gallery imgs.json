@@ -6042,8 +6042,7 @@
     "ch": [
       "entity",
       "frosting"
-    ],
-    "kind": "featured"
+    ]
   },
   {
     "name": "harmony sugarcane dance",
@@ -6702,5 +6701,21 @@
       "sparrow"
     ],
     "comment": "Still testing out different pressure settings… Also I Forgor Sparrow wore a skirt…"
+  },
+  {
+    "name": "nebula conductor",
+    "date": "2026-09-10",
+    "ch": [
+      "nebula"
+    ],
+    "kind": "featured",
+    "comment": "So proud of this one! Titled \"conductor\" because the reference is a picture of like an orchestra conductor LOL."
+  },
+  {
+    "name": "nebula conductor no light",
+    "date": "2026-09-10",
+    "ch": [
+      "nebula"
+    ]
   }
 ]
