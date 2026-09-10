@@ -126,4 +126,12 @@ Marmalade suddenly materialized next to us and cut us off. "Oh, those are lovely
 
 "Yeah," we both nodded.
 
-"I'll bring this over there to dry, then," Marmalade said. "You girls can go do something else now. I'll be calling everyone over when all of your pots have finished firing."
+"I'll bring this over there to dry, then," Marmalade said. "You girls can go do something else now. I'll be calling everyone over when all of your pots have finished firing. Hey, isn't the performance starting?"
+
+She pointed at a stage in the middle of the lawn. A lot of people were gathered in front of it already, sitting in the army of folding chairs and standing all over the place. From the pottery stands in the corner, I could see some kids in fancy dresses standing behind the stage, talking to each other and practicing moves.
+
+"Yeah… You wanna go watch?" Jelly said.
+
+"What's wrong?" I asked.
+
+"It's just that I'd watched them rehearse about a billion times already, haha." Jelly shrugged. "But *you* haven't seen it, have you? It's a traditional Westavian story dance about these people who fell in love but their parents don't approve and they killed themselves or something. Which is basically every single Westavian dance ever and this is one of the easier ones. I learned it when I was a kid."

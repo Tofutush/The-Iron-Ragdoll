@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.folder == "drafts/ss"
+    - file.name.startsWith("chapter-")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - chNum
+    columnSize:
+      file.name: 92
+      note.chNum: 78
