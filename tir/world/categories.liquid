@@ -14,7 +14,8 @@ eleventyComputed:
 ---
 {% assign filteredFiles = collections.world | filterWorldByTag: tagName %}
 <ul>
-    {% for file in filteredFiles %}
+    {% assign sortedFiles = filteredFiles | sort: "url" %}
+    {% for file in sortedFiles %}
         {% include 'fileLi', file: file %}
     {% endfor %}
 </ul>

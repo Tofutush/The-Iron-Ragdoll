@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-09-10
 
 - Added `nebula conductor.png`;
+- Added lore file [Trivia](/world/trivia/);
 
 ## 2026-09-09
 
