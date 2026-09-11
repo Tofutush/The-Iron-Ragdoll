@@ -62,7 +62,7 @@ Westavia is a socialist country, a dictatorship of the proletariat. There is a c
 
 Westavia is on [Moreland](/world/moreland/)'s side in the cold war against [Bauhinia](/world/bauhinia/). That is the first thing they like to do.
 
-The second favorite thing is accusing Moreland of being revisionist while denying Moreland's accusation that *they* are the revisionists. They are against Moreland's colonizing and exploitive actions in [Sylvandia](/world/sylvandia/).
+The second favorite thing is accusing Moreland of being revisionist while denying Moreland's accusation that *they* are the revisionists.
 
 ## Economy
 
@@ -105,8 +105,6 @@ This information would put Westavia's national identity at risk. Post-Strike his
 In 1935, amid the Bauhinian Empire's crackdown on the Morelandian Revolution, the people residing in modern-day Westavia initiated a large-scale strike in protest. This marked the start of the Westavian independence movement and the worker's movement. The two movements are usually considered hand-in-hand; neither can be studied without the other.
 
 After the stabilization of Moreland, Westavia began receiving assistance, without which they would not have gained independence in 1945. Nearly immediately afterwards, border disputes with Atlasia led to the Atlasian-Westavian War, which lasted until 1954.
-
-However, Westavians believe that Moreland's neocolonial actions in Sylvandia betrayed their founding revolutionary ideals. After the war, they refused to accept their aid and placed an embargo on Sylvandia. Though they're united against Bauhinia, they were at odds with each other.
 
 ## Trivia
 
