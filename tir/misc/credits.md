@@ -18,6 +18,7 @@ Most content on this site is made by myself. What isn't:
 - Markdown files are edited in [Obsidian](https://obsidian.md).
 - Most [wallpapers](/fun/wallpapers/) are made by [TheOliveOli](https://theoliveoli.blahaj.land/).
 - [Search](/search/) uses [Pagefind](https://pagefind.app).
+- CSS pride flags are from [here](https://github.com/VynxTH/VynxCodes/tree/main/Pride%20Flags).
 
 All stories and characters on this site are created by myself. Some artwork is by other people. If you would like me to remove your artwork, change the attribution link, or anything else, please [tell me](https://tofutush.leprd.space/guestbook/)!
 
