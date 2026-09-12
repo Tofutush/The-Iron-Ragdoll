@@ -2329,7 +2329,12 @@
     "attr": {
       "Nationality": "Moose"
     },
-    "about": "Flutter's friend, who does not get to keep her memories each loop. The events of the last loop was the only thing that canon Dart experienced, and only Flutter knows about all the Darts she had met.\n\nShe is classified as an introvert."
+    "palette": {
+      "dress": "#7C150E",
+      "hair": "#2e2e2e"
+    },
+    "about": "Flutter's friend, who does not get to keep her memories each loop. The events of the last loop was the only thing that canon Dart experienced, and only Flutter knows about all the Darts she had met.\n\nShe is classified as an introvert.",
+    "note": "- （给我自己看的）裙子先填充红色，黑色 50% 透明度交叉划线，又回到红色同样透明度中间划更细的线。"
   },
   {
     "name": "Appaloosa",
@@ -2343,6 +2348,14 @@
     "attr": {
       "Nationality": "Bauhinian",
       "Power": "Magic"
+    },
+    "palette": {
+      "hat": "#B19463",
+      "sword handle": "#814212",
+      "sword sheath": "#553720",
+      "patterns": "#98A2C1",
+      "robe": "#0A1D57",
+      "hair": "#2e2e2e"
     },
     "about": "Appaloosa was a magician living in the Bauhinian Empire about three hundred years ago. Upon being found, the emperor called her to his palace to serve him alongside the other magicians.\n\nLater, wars and rebellions broke out within the empire. The emperor needed the magicians to defeat the rebels, but Appaloosa refused to, and fled. She managed to hide from the emperor for a long time, despite him sending out magicians to hunt her down, and even after the rebellion ended she was still being wanted. Many people helped her along the way, and she also helped many people herself. She also wrote a book on magic titled *A Guide to Magic*, and had high hopes of finding a fellow magician, but she never encountered one before the emperor got to them and the book had been lost to time.\n\nIn the end, due to a betrayal from one person she trusted the most, she was caught and executed in a region that's inside modern-day Moreland. The people who helped her or whom she had helped came together and formed a group traveling around the area to honor her memories."
   }

@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-09-12
 
 - Added [Dart](/characters/dart/), [Appaloosa](/characters/appaloosa/);
+- Added `dart stand.png`, `appaloosa stand.png`;
 
 ## 2026-09-10
 

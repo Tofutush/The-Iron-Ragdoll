@@ -6717,5 +6717,22 @@
     "ch": [
       "nebula"
     ]
+  },
+  {
+    "name": "dart stand",
+    "date": "2026-09-12",
+    "ch": [
+      "dart"
+    ],
+    "kind": "fullbody"
+  },
+  {
+    "name": "appaloosa stand",
+    "date": "2026-09-12",
+    "ch": [
+      "appaloosa"
+    ],
+    "kind": "fullbody",
+    "comment": "Took me an embarrasingly long time to realize the ear makes no sense at all with the veil… But whatever."
   }
 ]
