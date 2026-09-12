@@ -625,6 +625,18 @@ color: "#33caf0",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
+{
+id: "Dart",
+color: "#0e7c4c",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Appaloosa",
+color: "#c9781d",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
 ],
 rel: [
 
@@ -2234,6 +2246,14 @@ target: "Sparrow",
 rel1: "colleague",
 rel2: "colleague",
 
+},
+
+{
+source: "Flutter",
+target: "Dart",
+rel1: "friend",
+rel2: "friend",
+minor: true
 },
 
 ]

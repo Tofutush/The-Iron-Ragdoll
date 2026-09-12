@@ -832,4 +832,20 @@ desc: "Time-loop warrior",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 },
 
+
+{
+name: "Dart",
+color: "#0e7c4c",
+desc: "",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
+name: "Appaloosa",
+color: "#c9781d",
+desc: "",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
 ];
