@@ -91,7 +91,7 @@ Yay! Speaking from a sheer strength standpoint, **Fire**-style is definitely the
 
 Taking ranking into account, here's a list from the strongest to the weakest. Earth-style is listed behind the highest it can defend against.
 
-<img class="max" src="/img/bg/martial-arts-ranking.png"/>
+<img class="max" src="/img/bg/martial-arts-ranking.png" alt="Style ranking"/>
 
 1. **Wood**-style, rank Master
 2. **Water**-style, Purple (if dangerous place) // **Earth**-style, 8

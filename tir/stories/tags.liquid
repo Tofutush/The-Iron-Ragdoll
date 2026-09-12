@@ -9,6 +9,7 @@ permalink: "stories/tag/{{ tagName | slug }}/"
 parent: "story-tags"
 eleventyComputed:
   title: "Tag: {{ tagName }}"
+  desc: "Stories tagged {{ tagName }}"
   navTitle: "{{ tagName }}"
   key: "stories-{{ tagName }}"
 ---
