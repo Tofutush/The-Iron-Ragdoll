@@ -1,3 +1,5 @@
 - euphoria
 - basil
 - cascade
+- galaxy
+- vector

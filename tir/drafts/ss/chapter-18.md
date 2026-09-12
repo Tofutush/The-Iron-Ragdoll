@@ -134,4 +134,58 @@ She pointed at a stage in the middle of the lawn. A lot of people were gathered 
 
 "What's wrong?" I asked.
 
-"It's just that I'd watched them rehearse about a billion times already, haha." Jelly shrugged. "But *you* haven't seen it, have you? It's a traditional Westavian story dance about these people who fell in love but their parents don't approve and they killed themselves or something. Which is basically every single Westavian dance ever and this is one of the easier ones. I learned it when I was a kid."
+"It's just that I'd watched them rehearse about a billion times already, haha." Jelly shrugged. "But *you* haven't seen it, have you? It's a traditional Westavian story dance about these people who fell in love but their parents don't approve and they killed themselves or something. Which is basically every single Westavian dance ever and this is one of the easier ones. I learned it when I was a kid. You *should* watch it, actually."
+
+"No, no, we can go somewhere else," Sugarcane immediately said. "Where do you want to go? Lead the way."
+
+"Ah," Jelly smiled, looking relieved. "I wanna go find papa. He should be inside somewhere."
+
+"Sure," I said.
+
+Sugarcane gave me an excited expression over Jelly's head.
+
+We crossed the lawn towards the back door of the embassy, careful not to lose Jelly among the crowd of young kids whom she was barely taller than. It wasn't hard, though, as she was practically bounding like she could fly, and constantly running into other people. We did make it to the back door in one piece.
+
+It was locked by fingerprint, but apparently Jelly had access. As we entered and closed the door behind us, the music quieted down to background noise, as if the festivities outside did not exist. Likewise, the inside did not exist for the people outside either.
+
+The interior was cool, but the beige walls and light brown floors gave it a warmish feel. Ornamental tiles with fancy patterns were laid along where the floor met the wall , and all the doors were arched at the top, the semi-circular gap filled by slices of glass. In fact, the entire hall gave me a foreign feel.
+
+"Where *is* your dad?" I asked.
+
+"I don't know." Jelly shook her head. "I'm gonna check his office first, but he could be anywhere, really."
+
+"What if we don't find him?"
+
+"We will. I always do. We can also just repeatedly turn the lights on and off until Auntie Moonie sends us to him!"
+
+We walked past one elevator, turned a couple corners, and arrived at another. Jelly pressed the "up" button.
+
+"Why didn't we just take the other one? The one we just walked past?" Sugarcane asked.
+
+"Oh they restricted my access to only this one. Says I only *need* one elevator to get around, which is silly because if *I* only needed one then *nobody* needs more than one either!"
+
+As Jelly rambled away, I noticed a fire escape map on the wall nearby, detailing the layout of the first floor. I stared at it, trying to memorize the entire thing, though I knew that if there were a secret room in the building, it wouldn't have been drawn on a map and hung on the wall. Out of the corner of my eye, Sugarcane seemed to do the same.
+
+"… And so *that* was why they banned bubble blowers indoors. Hey, the elevators are here! Third floor!"
+
+The door opened with a ding and we all walked inside. There was another fingerprint lock that Jelly had to unlock before she could press the button. I zoned out and tried reconstructing the map in my head.
+
+"Anyway, isn't that so unfair?" Jelly said. I wondered what was unfair. I had been too busy looking at the map to listen.
+
+"I think blowing bubbles into the Ambassador's face kind of warrants a ban?" Sugarcane said.
+
+"Auntie Marmalade wasn't such a downer," Jelly pouted. "Papa wouldn't have minded either."
+
+The elevator dinged again and we arrived at the third floor.
+
+"The good thing about this one is that it *is* the one closest to papa's office."
+
+Jelly pointed at a door right opposite the elevator, with a sign on it that said "Cultural Attaché: Checkers Sunfish," and another fingerprint lock. Jelly unlocked it and stepped inside.
+
+The lights were off and she turned them on. The office was, expectedly, empty.
+
+"Not here!" Jelly announced, and started to turn away. Sugarcane just so happened to be standing in the doorway, blocking her.
+
+"Can you see the lawn from that window?" she asked.
+
+"Yeah, you want a look?" Jelly turned off the lights, leaving the office in the dark again, except for the window, which was letting in colorful light from the performance below.
