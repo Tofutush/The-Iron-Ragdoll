@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-09-12
+
+- Added [Dart](/characters/dart/), [Appaloosa](/characters/appaloosa/);
+
 ## 2026-09-10
 
 - Added `nebula conductor.png`;

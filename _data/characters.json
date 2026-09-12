@@ -2305,13 +2305,45 @@
     "namezh": "小蝶",
     "color": "#33caf0",
     "desc": "Time-loop warrior",
+    "tags": [
+      "Moreland"
+    ],
     "attr": {
-      "Soul": "Gas, butterfly-shaped"
+      "Soul": "Gas, butterfly-shaped",
+      "Nationality": "Moose"
     },
     "palette": {
       "dress": "#BAC4CF",
       "hair": "#2e2e2e"
     },
-    "about": "Don't even know her nationality yet but\n\nFlutter is stuck in a time loop that resets every time she fails to defeat the villain. With each iteration, she gains new intel on the villain and grows more confidence in defeating them, but to her surprise, she found that the villain *also* remembers all the time loops and was wiser in guarding against her too. Can she really free herself from the endless loops of defeat before she dies? (Yes she can; don't worry)"
+    "about": "Flutter is stuck in a time loop that resets every time she fails to defeat the villain. With each iteration, she gains new intel on the villain and grows more confidence in defeating them, but to her surprise, she found that the villain *also* remembers all the time loops and was wiser in guarding against her too. Can she really free herself from the endless loops of defeat before she dies? (Yes she can; don't worry)\n\nShe is classified as an introvert.",
+    "trivia": "- This is *not* a reference to a certain open-source UI software development kit created by Google for building cross-platform applications from a single codebase. I mean, if you want it to be then feel free."
+  },
+  {
+    "name": "Dart",
+    "namezh": "飞镖",
+    "color": "#0e7c4c",
+    "tags": [
+      "Moreland"
+    ],
+    "attr": {
+      "Nationality": "Moose"
+    },
+    "about": "Flutter's friend, who does not get to keep her memories each loop. The events of the last loop was the only thing that canon Dart experienced, and only Flutter knows about all the Darts she had met.\n\nShe is classified as an introvert."
+  },
+  {
+    "name": "Appaloosa",
+    "namezh": "阿波露莎",
+    "color": "#c9781d",
+    "tags": [
+      "Bauhinia",
+      "Moreland",
+      "Magic"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian",
+      "Power": "Magic"
+    },
+    "about": "Appaloosa was a magician living in the Bauhinian Empire about three hundred years ago. Upon being found, the emperor called her to his palace to serve him alongside the other magicians.\n\nLater, wars and rebellions broke out within the empire. The emperor needed the magicians to defeat the rebels, but Appaloosa refused to, and fled. She managed to hide from the emperor for a long time, despite him sending out magicians to hunt her down, and even after the rebellion ended she was still being wanted. Many people helped her along the way, and she also helped many people herself. She also wrote a book on magic titled *A Guide to Magic*, and had high hopes of finding a fellow magician, but she never encountered one before the emperor got to them and the book had been lost to time.\n\nIn the end, due to a betrayal from one person she trusted the most, she was caught and executed in a region that's inside modern-day Moreland. The people who helped her or whom she had helped came together and formed a group traveling around the area to honor her memories."
   }
 ]

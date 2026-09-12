@@ -34,7 +34,7 @@ Something most magicians can do is **telekinesis** and **teleportation**, as wel
 
 The titles you're going to see aren't like, in-universe or anything. I just think they're cool.
 
-### [Appaloosa](/world/moreland/appaloosa-tribe/)
+### [Appaloosa](/characters/appaloosa/)
 
 *The magician of epistemology*
 
