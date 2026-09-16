@@ -32,16 +32,11 @@ function utilPlugin(eleventyConfig) {
 		return `background-image: linear-gradient(to right, ${to6DigitHex(colors[keys[0]])} 50%, ${to6DigitHex(colors[keys[keys.length - 1]])} 50%)`;
 	});
 	eleventyConfig.addFilter('getColorName', async function (color) {
-		let hsl = hexToHSL(to6DigitHex(color));
-		console.log(hsl);
-		let hue = getHueName(hsl.h);
-		let lightness = '', saturation = '';
-		if (hsl.s > 0.8) saturation = 'vivid ';
-		if (hsl.s < 0.5) saturation = 'muted ';
-		if (hsl.l < 0.3) lightness = 'dark ';
-		if (hsl.l > 0.6) lightness = 'bright ';
-		console.log(`${saturation}${lightness}${hue}`);
-		return `${saturation}${lightness}${hue}`;
+		let response = await fetch(`https://api.color.pizza/v1/?values=${to6DigitHex(color).substring(1)}&list=mlmc_english`);
+		let json = await response.json();
+		console.log(json.colors[0].name);
+
+		return json.colors[0].name;
 	});
 	eleventyConfig.addFilter('calculateBlackWhite', function (color) {
 		color = color.substring(1);
