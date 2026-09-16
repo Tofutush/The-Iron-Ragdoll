@@ -70,21 +70,21 @@ parent: Characters
       </ul>
     </div>
   </details>
-  {% if ch.attr or ch.tags %}
-    <dl>
-      {% for att in ch.attr %}
-        <dt>{{ att[0] }}</dt>
-        <dd>{{ att[1] }}</dd>
-      {% endfor %}
-      {% if ch.tags %}
-        <dt>Tags</dt>
-        <dd>
-          {% assign sortedTags = ch.tags | sort %}
-          {% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
-        </dd>
-      {% endif %}
-    </dl>
-  {% endif %}
+  <dl>
+    <dt>Soul color</dt>
+    <dd>{{ ch.color | to6DigitHex }} ({{ ch.color | getColorName }})</dd>
+    {% for att in ch.attr %}
+      <dt>{{ att[0] }}</dt>
+      <dd>{{ att[1] }}</dd>
+    {% endfor %}
+    {% if ch.tags %}
+      <dt>Tags</dt>
+      <dd>
+        {% assign sortedTags = ch.tags | sort %}
+        {% for tag in sortedTags %}{% if forloop.index != 1 %}, {% endif %}<a href="/characters/tag/{{ tag | slug }}/">{{ tag }}</a>{% endfor %}
+      </dd>
+    {% endif %}
+  </dl>
   <div class="af-fav">
     <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank" title="Attack {{ ch.name }} on Artfight!"><img src="/img/bg/af.png" alt="Attack {{ ch.name }} on Artfight!"/></a>
     <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank" title="Give {{ ch.name }} a favorite!">{% lucide 'heart' '3em' %}</a>

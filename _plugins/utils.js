@@ -31,6 +31,9 @@ function utilPlugin(eleventyConfig) {
 		let keys = Object.keys(colors);
 		return `background-image: linear-gradient(to right, ${to6DigitHex(colors[keys[0]])} 50%, ${to6DigitHex(colors[keys[keys.length - 1]])} 50%)`;
 	});
+	eleventyConfig.addFilter('getColorName', async function (color) {
+
+	});
 	eleventyConfig.addFilter('calculateBlackWhite', function (color) {
 		color = color.substring(1);
 		let rgbArr = [
@@ -91,11 +94,9 @@ function utilPlugin(eleventyConfig) {
 }
 
 function to6DigitHex(hex) {
-	if (hex.length < 6) {
-		if (hex[0] == '#') hex = hex.substring(1);
-		hex = '#' + hex[0] + hex[0] + hex[1] + hex[1] + hex[2] + hex[2];
-	}
-	return hex;
+	if (hex.length < 6)
+		hex = '#' + hex[1] + hex[1] + hex[2] + hex[2] + hex[3] + hex[3];
+	return hex.toUpperCase();
 }
 
 export default utilPlugin;
