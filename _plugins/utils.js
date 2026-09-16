@@ -32,7 +32,16 @@ function utilPlugin(eleventyConfig) {
 		return `background-image: linear-gradient(to right, ${to6DigitHex(colors[keys[0]])} 50%, ${to6DigitHex(colors[keys[keys.length - 1]])} 50%)`;
 	});
 	eleventyConfig.addFilter('getColorName', async function (color) {
-
+		let hsl = hexToHSL(to6DigitHex(color));
+		console.log(hsl);
+		let hue = getHueName(hsl.h);
+		let lightness = '', saturation = '';
+		if (hsl.s > 0.8) saturation = 'vivid ';
+		if (hsl.s < 0.5) saturation = 'muted ';
+		if (hsl.l < 0.3) lightness = 'dark ';
+		if (hsl.l > 0.6) lightness = 'bright ';
+		console.log(`${saturation}${lightness}${hue}`);
+		return `${saturation}${lightness}${hue}`;
 	});
 	eleventyConfig.addFilter('calculateBlackWhite', function (color) {
 		color = color.substring(1);
@@ -97,6 +106,41 @@ function to6DigitHex(hex) {
 	if (hex.length < 6)
 		hex = '#' + hex[1] + hex[1] + hex[2] + hex[2] + hex[3] + hex[3];
 	return hex.toUpperCase();
+}
+function hexToHSL(hex) {
+	// hex to rgb first and then rgb to hsl
+	// requires 6 digit hex
+	let r, g, b;
+	var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+	r = parseInt(result[1], 16);
+	g = parseInt(result[2], 16);
+	b = parseInt(result[3], 16);
+	// to hsl next (same code as sort.js)
+	r /= 255; g /= 255; b /= 255;
+	let max = Math.max(r, g, b);
+	let min = Math.min(r, g, b);
+	let d = max - min;
+	let h;
+	if (d === 0) h = 0;
+	else if (max === r) h = ((g - b) / d + 6) % 6;
+	else if (max === g) h = (b - r) / d + 2;
+	else if (max === b) h = (r - g) / d + 4;
+	let l = (min + max) / 2;
+	let s = d === 0 ? 0 : d / (1 - Math.abs(2 * l - 1));
+	return { h: h * 60, s, l };
+}
+function getHueName(h) {
+	if (h < 15) return "red";
+	if (h < 45) return "orange";
+	if (h < 55) return "yellow";
+	if (h < 75) return "lime";
+	if (h < 120) return "green";
+	if (h < 165) return "blue-green";
+	if (h < 200) return "cyan";
+	if (h < 250) return "blue";
+	if (h < 285) return "purple";
+	if (h < 350) return "pink";
+	return "red";
 }
 
 export default utilPlugin;

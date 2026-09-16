@@ -70,7 +70,7 @@ class SortTable {
 		let d = max - min;
 		let h;
 		if (d === 0) h = 0;
-		else if (max === r) h = (g - b) / d % 6;
+		else if (max === r) h = ((g - b) / d + 6) % 6;
 		else if (max === g) h = (b - r) / d + 2;
 		else if (max === b) h = (r - g) / d + 4;
 		let l = (min + max) / 2;
