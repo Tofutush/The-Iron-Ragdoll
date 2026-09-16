@@ -134,7 +134,7 @@ She pointed at a stage in the middle of the lawn. A lot of people were gathered 
 
 "What's wrong?" I asked.
 
-"It's just that I'd watched them rehearse about a billion times already, haha." Jelly shrugged. "But *you* haven't seen it, have you? It's a traditional Westavian story dance about these people who fell in love but their parents don't approve and they killed themselves or something. Which is basically every single Westavian dance ever and this is one of the easier ones. I learned it when I was a kid. You *should* watch it, actually."
+"It's just that I'd watched them rehearse about a billion times already, haha." Jelly shrugged. "But *you* haven't seen it, have you? It's a traditional Westavian story dance about these people who fell in love but their parents didn't approve and they died or something. Which is basically every single Westavian dance ever and this is one of the easier ones. I learned it when I was a kid. You *should* watch it, actually."
 
 "No, no, we can go somewhere else," Sugarcane immediately said. "Where do you want to go? Lead the way."
 
@@ -182,10 +182,54 @@ The elevator dinged again and we arrived at the third floor.
 
 Jelly pointed at a door right opposite the elevator, with a sign on it that said "Cultural Attaché: Checkers Sunfish," and another fingerprint lock. Jelly unlocked it and stepped inside.
 
-The lights were off and she turned them on. The office was, expectedly, empty.
+The lights were off and she turned them on. The office was, expectedly, empty. The desk is facing towards us, clean and tidy.
+
+I imagined how ecstatic Sky would be if we took a look at Checkers' desk.
 
 "Not here!" Jelly announced, and started to turn away. Sugarcane just so happened to be standing in the doorway, blocking her.
 
 "Can you see the lawn from that window?" she asked.
 
 "Yeah, you want a look?" Jelly turned off the lights, leaving the office in the dark again, except for the window, which was letting in colorful light from the performance below.
+
+"I just wanna see what's it like from up here," Sugarcane said.
+
+"Then there's a bigger window in the meeting room. We can go there!" Jelly pushed Sugarcane out the door and, without letting go, pulled her down the hall.
+
+Sugarcane shot me a meaningful glance, but Jelly grabbed me too. "Don't be a slowpoke! They're probably dying already."
+
+"Wait, what?" It took me a moment to register that she was talking about the plot of the performance.
+
+"The lovers, Truffle!" Jelly led us into the meeting room and turned on the lights. The entire side of the room was a big window, offering a clear view of the lawn. On the stage, one kid was carrying another in her arms. "Ah, *one* of them is dead," Jelly informed us. "The girl is Orchard and the boy is Camel. Orchard always looked like she was laughing when rehearsing this part. She looks sad enough from up here though, but it's probably because I'm too far away."
+
+I looked around the meeting room. It was spotlessly clean, every chair tucked into place. A simple whiteboard sat in the front of the room, but it looked like it had just come out of the wrapper. There was nothing of interest, and I found myself absent-mindedly playing with the leaves of a potted plant in the corner.
+
+"How often do you come here?" Sugarcane asked. "To the embassy, I mean."
+
+"Practically every day! I come right over after school and go home when papa does."
+
+"And when is that?"
+
+"After dinner, usually. But if papa is working late he would get either Auntie Moonie or Auntie Marmalade to take me home. Oh, look, here comes the machine guns!"
+
+"What?" I said again, hurrying back to the window. On the stage below, several kids carrying cardboard machine guns were aiming them at Orchard as she spun around on one foot.
+
+"What is the context." Sugarcane also said.
+
+"The context is that they fell in love and their parents didn't approve, but there were these sci-fi mech pilots and… It's a little hard to explain in one go. Actually maybe I should've let you watch it. I'm sorry." She dipped her head down and pressed her forehead to the glass.
+
+"No, it's okay, we could always look it up afterwards!"
+
+Orchard landed on the ground in a split. The audience started clapping.
+
+"She didn't have to do a split there," Jelly said. "She's just showing off."
+
+"She's good, though," I said.
+
+"There you are!" A loud voice boomed behind us. "I've been so worried!"
+
+"Papa!" Jelly sprang across the meeting table and threw herself at Checkers.
+
+"Alright, alright," Checkers shook his head. "Now stop wandering around inside and get back out there. You too, Truffle, and… Spotty?"
+
+"Yes, uncle," Sugarcane nodded and we headed out of the meeting room.
