@@ -54,6 +54,9 @@ class SortTable {
 		return a.localeCompare(b, 'zh-CN');
 	}
 	static sortFuncHSL(a, b) {
+		// move red to start for sorting
+		if (a.h > 340) a.h = 360 - a.h;
+		if (b.h > 340) b.h = 360 - b.h;
 		return (a.h === b.h) ? ((a.s === b.s) ? a.l - b.l : a.s - b.s) : a.h - b.h;
 	}
 	static RGBToHSL(rgb) {
@@ -75,10 +78,6 @@ class SortTable {
 		else if (max === b) h = (r - g) / d + 4;
 		let l = (min + max) / 2;
 		let s = d === 0 ? 0 : d / (1 - Math.abs(2 * l - 1));
-
-		// move red to start for sorting purposes! not proper hsl!!
-		h = h * 60;
-		if (h > 340) h = 360 - h;
-		return { h, s, l };
+		return { h: h * 60, s, l };
 	}
 }
