@@ -70,11 +70,15 @@ class SortTable {
 		let d = max - min;
 		let h;
 		if (d === 0) h = 0;
-		else if (max === r) h = (g - b) / d % 6;
+		else if (max === r) h = ((g - b) / d + 6) % 6;
 		else if (max === g) h = (b - r) / d + 2;
 		else if (max === b) h = (r - g) / d + 4;
 		let l = (min + max) / 2;
 		let s = d === 0 ? 0 : d / (1 - Math.abs(2 * l - 1));
-		return { h: h * 60, s, l };
+
+		// move red to start for sorting purposes! not proper hsl!!
+		h = h * 60;
+		if (h > 340) h = 360 - h;
+		return { h, s, l };
 	}
 }

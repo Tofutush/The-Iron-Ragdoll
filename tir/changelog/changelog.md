@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-09-16
+
+- Fixed the color sorting order a bit in the [sortable list](/characters/list/);
+
 ## 2026-09-12
 
 - Added [Dart](/characters/dart/), [Appaloosa](/characters/appaloosa/);
