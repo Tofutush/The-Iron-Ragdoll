@@ -6734,5 +6734,15 @@
     ],
     "kind": "fullbody",
     "comment": "Took me an embarrasingly long time to realize the ear makes no sense at all with the veil… But whatever."
+  },
+  {
+    "name": "harmony family footer",
+    "date": "2026-09-19",
+    "ch": [
+      "frosting",
+      "harmony",
+      "entity"
+    ],
+    "kind": "footer"
   }
 ]

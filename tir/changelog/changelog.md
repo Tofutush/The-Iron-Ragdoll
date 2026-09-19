@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-09-19
+
+- Added `harmony family footer.png`;
+
 ## 2026-09-16
 
 - Fixed the color sorting order a bit in the [sortable list](/characters/list/);
