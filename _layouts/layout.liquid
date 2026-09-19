@@ -6,7 +6,7 @@ iconColor: "#00ccff"
 image: "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png"
 themeColor: "#555555"
 eleventyComputed:
-  desc: "{{ title }}"
+  desc: "{{ desc | default: title }}"
   navTitle: "{{ navTitle | default: title }}"
   key: "{{ key | default: title }}"
   eleventyNavigation:
