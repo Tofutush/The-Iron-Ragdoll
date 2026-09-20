@@ -6,9 +6,9 @@ iconColor: "#00ccff"
 image: "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png"
 themeColor: "#555555"
 eleventyComputed:
-  desc: "{{ desc | default: title }}"
-  navTitle: "{{ navTitle | default: title }}"
-  key: "{{ key | default: title }}"
+  desc: "{% if desc %}{{ desc }}{% else %}{{ title }}{% endif %}"
+  key: "{% if key %}{{ key }}{% else %}{{ title }}{% endif %}"
+  navTitle: "{% if navTitle %}{{ navTitle }}{% else %}{{ title }}{% endif %}"
   eleventyNavigation:
     key: "{{ key }}"
     title: "{{ navTitle }}"
