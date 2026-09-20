@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-09-19
 
 - Added `harmony family footer.png`;
+- Fixed a weird bug that made all the breadcrumbs disappear and I lowkey never noticed for an entire week LOL;
 
 ## 2026-09-16
 
