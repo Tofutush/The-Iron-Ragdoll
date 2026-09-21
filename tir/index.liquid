@@ -23,11 +23,11 @@ widepage: true
     {% if bdayStars.size > 0 %}
       <p style="text-align: right"><em>
         {% if bdayStars.size == 2 %}
-          Today is <a href="/characters/{{ bdayStars[0].name | lowerCase }}/">{{ bdayStars[0].name }}</a> and <a href="/characters/{{ bdayStars[1].name | lowerCase }}/">{{ bdayStars[1].name }}</a>'s <a href="/world/birthday/">birthday</a>!
+          Today is <a href="/characters/{{ bdayStars[0].name | lowerCase }}/">{{ bdayStars[0].name }}</a> and <a href="/characters/{{ bdayStars[1].name | lowerCase }}/">{{ bdayStars[1].name }}</a>'s <a href="/world/calendar/">birthday</a>!
         {% elsif bdayStars.size == 1 %}
-          Today is <a href="/characters/{{ bdayStars[0].name | lowerCase }}/">{{ bdayStars[0].name }}</a>'s <a href="/world/birthday/">birthday</a>!
+          Today is <a href="/characters/{{ bdayStars[0].name | lowerCase }}/">{{ bdayStars[0].name }}</a>'s <a href="/world/calendar/">birthday</a>!
         {% else %}
-          Today is {% for ch in bdayStars %}{% unless forloop.first %}, {% endunless %}{% if forloop.last %}and {% endif %}<a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a>{% endfor %}'s <a href="/world/birthday/">birthday</a>!
+          Today is {% for ch in bdayStars %}{% unless forloop.first %}, {% endunless %}{% if forloop.last %}and {% endif %}<a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a>{% endfor %}'s <a href="/world/calendar/">birthday</a>!
         {% endif %}</em></p>
     {% endif %}
     {% if holidays.size > 0 %}
