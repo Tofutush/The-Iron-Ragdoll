@@ -7,12 +7,9 @@ eleventyNavigation:
 
 ## 2026-09-21
 
+- Added `willow bottle.png`;
 - Reworked the comic a little, hopefully it doesn't blow up;
 - Deleted the Spy School comic;
-
-## 2026-09-21
-
-- Added `willow bottle.png`;
 
 ## 2026-09-19
 
