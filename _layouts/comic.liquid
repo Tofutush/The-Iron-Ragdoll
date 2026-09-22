@@ -57,8 +57,8 @@ eleventyComputed:
 <script>
 	// save
 	function save() {
-		localStorage.setItem('{{ comicTitle }} place', {{ pagination.pageNumber }});
-		alert(`Page {{ pagination.pageNumber }} saved!`);
+		localStorage.setItem('{{ comicTitle }} place', {{ index }});
+		alert(`Page {{ index }} saved!`);
 	}
 	function load() {
 		let place = localStorage.getItem('{{ comicTitle }} place');
