@@ -6,12 +6,14 @@ pagination:
   alias: comic
 noFooterImage: true
 noNav: true
-permalink: "stories/{{ comicTitle | slug }}/{{ comic.pagenum }}/"
+permalink: "stories/{{ comicTitle | slug }}/{% if comic.title %}{{ comic.title | slug }}{% else %}{{ pagination.pageNumber | plus: 1 }}{% endif %}/"
 eleventyComputed:
-  title: "{{ comicTitle }} - page {{ comic.pagenum }}"
+  title: "{{ comicTitle }} - {% if comic.title %}{{ comic.title }}{% else %}page {{ pagination.pageNumber | plus: 1 }}{% endif %}"
   siteTheme: "{% if comic.theme %}{{ comic.theme }}{% elsif siteTheme %}{{ siteTheme }}{% endif %}"
 ---
+{% assign index = pagination.pageNumber | plus: 1 %}
 <link rel="stylesheet" href="/css/comic.css"/>
+<link rel="stylesheet" href="/css/dialog.css"/>
 {% if comic.bg %}
 	<style>
 		body {
@@ -27,35 +29,20 @@ eleventyComputed:
 		}
 	</style>
 {% endif %}
-<div class="breadcrumbs"><a href="/stories/">Stories</a> {% lucide 'chevron-right' %} <a href="../">{{ comicTitle }}</a> {% lucide 'chevron-right' %} <a href="{{ page.url }}">Page {{ comic.pagenum }}</a></div>
-{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum, top: true %}
+<div class="breadcrumbs"><a href="/stories/">Stories</a> {% lucide 'chevron-right' %} <a href="../">{{ comicTitle }}</a> {% lucide 'chevron-right' %} <a href="{{ page.url }}">{% if comic.title %}{{ comic.title }}{% else %}Page {{ index }}{% endif %}</a></div>
+{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: index, top: true %}
 {% if comic.title %}<h2>{{ comic.title }}</h2>{% endif %}
-<div id="img">
-	{% if comic.url.first %}
-		{% for p in comic.url %}
-			{% assign path = 'comics/' | append: p | append: '.png' %}
-			{% if comic.alt %}
-				{% assign alt = comic.alt %}
-			{% else %}
-				{% assign alt = "Page " | append: comic.pagenum %}
-			{% endif %}
-			{% image path 1000 alt %}
-		{% endfor %}
+{% for part in comic.content %}
+	{% if part.first %}
+		{% comment %} is array, is dialog {% endcomment %}
+		{% include 'dialog', dialogContent: part %}
 	{% else %}
-		{% assign path = 'comics/' | append: comic.url | append: '.png' %}
-		{% if comic.alt %}
-			{% assign alt = comic.alt %}
-		{% else %}
-			{% assign alt = "Page " | append: comic.pagenum %}
-		{% endif %}
-		{% image path 1000 alt %}
+		{% assign path = 'comics/' | append: part | append: '.png' %}
+		{% if comic.title %}{% assign alt = comic.title %}{% else %}{% assign alt = "Page " | append: index %}{% endif %}
+		{% image path 1000 alt 'img' %}
 	{% endif %}
-</div>
-{% if comic.content %}
-	<link rel="stylesheet" href="/css/dialog.css"/>
-	{% include 'dialog', dialogContent: comic.content %}
-{% endif %}
-{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: comic.pagenum %}
+{% endfor %}
+{% include 'arrows', f: pagination.href.first, p: pagination.href.previous, n: pagination.href.next, l: pagination.href.last, num: index %}
 <div id="date-save">
 	<p>{{ comic.date }}</p>
 	<div id="save">
@@ -70,8 +57,8 @@ eleventyComputed:
 <script>
 	// save
 	function save() {
-		localStorage.setItem('{{ comicTitle }} place', {{ comic.pagenum }});
-		alert(`Page {{ comic.pagenum }} saved!`);
+		localStorage.setItem('{{ comicTitle }} place', {{ pagination.pageNumber }});
+		alert(`Page {{ pagination.pageNumber }} saved!`);
 	}
 	function load() {
 		let place = localStorage.getItem('{{ comicTitle }} place');

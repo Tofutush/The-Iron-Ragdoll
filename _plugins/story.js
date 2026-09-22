@@ -23,19 +23,18 @@ function storyPlugin(eleventyConfig) {
 		return str.slice(idx + 2);
 	});
 	eleventyConfig.addFilter("groupByChapter", function (pages) {
-		let chapters = {};
-		pages.forEach(page => {
-			let chap = page.chapter || 0;
-			if (!chapters[chap]) chapters[chap] = [];
-			chapters[chap].push(page);
-		});
-		// Convert to array of {chapter, pages}
-		return Object.keys(chapters)
-			.sort((a, b) => Number(a) - Number(b))
-			.map(chap => ({
-				chapter: chap,
-				pages: chapters[chap]
-			}));
+		let chapters = [];
+		let curr = 0;
+		for (let page of pages) {
+			if (page.chapter) {
+				chapters.push([page.chapter, [page]]);
+				curr = page.chapter;
+				continue;
+			}
+			chapters[curr][1].push(page);
+		}
+		console.log(chapters);
+		return chapters;
 	});
 	eleventyConfig.addFilter('getNameFromLink', function (link) {
 		return link.match(/\[.*\]/)[0].slice(1, -1);

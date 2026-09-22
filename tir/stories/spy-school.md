@@ -21,9 +21,7 @@ myTags:
   - Flower City
   - MSS
   - Spy School
-  - Comic
   - Fic
-comic: true
 prev:
   - "[Project Boomerang](/stories/project-boomerang/)"
   - "[Poker Spies](/stories/poker-spies/)"

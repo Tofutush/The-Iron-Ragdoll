@@ -36,7 +36,7 @@ parent: Stories
 {% if comic or fic %}
 	<div class="box-nav solid">
 		{% if comic %}
-			<a href="1/">Read the comic!</a>
+			<a href="{% if comicEntry %}{{ comicEntry }}{% else %}1{% endif %}/">Read the comic!</a>
 		{% endif %}
 		{% if fic %}
 			<a href="chapter-1/">Read the fic!</a>

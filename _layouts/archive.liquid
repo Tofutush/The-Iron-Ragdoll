@@ -24,6 +24,7 @@ eleventyComputed:
 </style>
 <h1>{{ comicTitle }} Archive</h1>
 {% if multiChapter %}
+	{% comment %} still needs redoing! {% endcomment %}
 	{% assign grouped = comicData[dataName] | groupByChapter %}
 	{% for group in grouped %}
 		{% if group.pages[0].title %}
@@ -53,10 +54,15 @@ eleventyComputed:
 {% else %}
 	<section class="archive">
 		{% for page in comicData[dataName] %}
-			<a href="../{{ page.pagenum }}/">
-				{% assign path = "comics/" | append: page.url | append: '.png' %}
-				{% assign alt = "Page " | append: page.pagenum %}
-				{% imageThumb path 200 alt %}
+			<a href="../{% if page.title %}{{ page.title | slug }}{% else %}{{ forloop.index }}{% endif %}/">
+				{% for part in page.content %}
+					{% if part.first == undefined %}
+						{% assign path = "comics/" | append: part | append: '.png' %}
+						{% if comic.title %}{% assign alt = comic.title %}{% else %}{% assign alt = "Page " | append: forloop.index %}{% endif %}
+						{% imageThumb path 200 alt %}
+						{% break %}
+					{% endif %}
+				{% endfor %}
 			</a>
 		{% endfor %}
 	</section>

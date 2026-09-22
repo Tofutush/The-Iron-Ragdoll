@@ -23,7 +23,7 @@ import worldPlugin from './_plugins/world.js';
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
-	const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/ /g, '-').replace(/[-]+/g, '-').replace(/[^\w-]+/g, '');
+	const slug = s => s.toString().trim().toLowerCase().replace(/ /g, '-').replace(/[-]+/g, '-').replace(/[^\w-]+/g, '');
 	const mdIt = markdownIt({
 		html: true,
 		breaks: true,

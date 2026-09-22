@@ -1,21 +1,11 @@
 [
   {
-    "pagenum": 1,
-    "chapter": 1,
-    "url": "gk/1",
     "date": "2025-02-25",
-    "title": "Goose's Visit"
-  },
-  {
-    "pagenum": 2,
-    "chapter": 1,
-    "url": "gk/2",
-    "date": "2025-02-25"
-  },
-  {
-    "pagenum": 3,
-    "chapter": 1,
-    "url": "gk/3",
-    "date": "2025-02-26"
+    "title": "Goose's Visit",
+    "content": [
+      "gk/1",
+      "gk/2",
+      "gk/3"
+    ]
   }
 ]
