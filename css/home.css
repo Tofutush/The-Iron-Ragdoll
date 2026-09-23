@@ -1,3 +1,7 @@
+main {
+	overflow-x: hidden;
+}
+
 #title {
 	display: flex;
 	gap: 1em;
@@ -90,8 +94,6 @@
 }
 
 #ch-scroll {
-	overflow-x: hidden;
-
 	& #scroll-content {
 		animation: scroll 50s linear infinite;
 		display: flex;

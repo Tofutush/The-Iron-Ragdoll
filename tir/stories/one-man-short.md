@@ -36,10 +36,6 @@ With the skills all acquired, they set sail in the soul market, catching people,
 
 When they finally found Kaleidoscope, would she recognize the woman with Co inside? Would *she* recognize the woman Kally had become?
 
-## Cobalt's Ironheart mishap
-
-Cobalt got into the body of Ironheart one day. See the events of [Ironheart Assassinated](/stories/ironheart-assassinated/).
-
 ## Climax, I guess
 
 Kaleidoscope's mafia ran into a wee bit of a problem, and needed a scapegoat to go to jail — and possibly face execution — for them. Who else, than their least-favorite slave, Kaleidoscope?
