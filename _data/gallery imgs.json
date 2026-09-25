@@ -6752,5 +6752,21 @@
       "willow"
     ],
     "kind": "pagedoll"
+  },
+  {
+    "name": "timber stand",
+    "date": "2026-09-25",
+    "ch": [
+      "timber"
+    ],
+    "kind": "fullbody"
+  },
+  {
+    "name": "galaxy stand",
+    "date": "2026-09-25",
+    "ch": [
+      "galaxy"
+    ],
+    "kind": "fullbody"
   }
 ]

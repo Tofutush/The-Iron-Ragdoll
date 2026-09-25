@@ -15,6 +15,8 @@ Notable corps include the [Military Intelligence Corps](/world/moreland/intellig
 
 ## Characters
 
+(Since all Moose are drafted, these characters refer only to those who made it their careers.)
+
 <link rel="stylesheet" href="/css/characterspage.css">
 {% assign filteredChs = characters | filterChByTag: 'Guardian Moose' %}
 {% include 'chs', chs: filteredChs %}

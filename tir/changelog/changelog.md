@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-09-25
+
+- Added [Timber](/characters/timber/), [Galaxy](/characters/galaxy/), and their fullbodies;
+
 ## 2026-09-21
 
 - Added `willow bottle.png`;
