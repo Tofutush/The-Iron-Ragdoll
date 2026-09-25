@@ -754,6 +754,14 @@ img: "/The-Iron-Ragdoll/img/Yh1eAuNusH-500.webp"
 
 
 {
+name: "Galaxy",
+color: "#ded318",
+desc: "Ridiculous bodyguard wannabe.",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
 name: "Spark",
 color: "#f25088",
 desc: "The pawn.",
@@ -845,6 +853,14 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Appaloosa",
 color: "#c9781d",
 desc: "",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+},
+
+
+{
+name: "Timber",
+color: "#a45e1f",
+desc: "Ace assassin.",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 },
 

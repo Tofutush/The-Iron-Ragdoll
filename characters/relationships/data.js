@@ -566,6 +566,12 @@ img: "/The-Iron-Ragdoll/img/Yh1eAuNusH-200.webp",
 },
 
 {
+id: "Galaxy",
+color: "#ded318",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
 id: "Spark",
 color: "#f25088",
 img: "/The-Iron-Ragdoll/img/sKN7MKYtpv-200.webp",
@@ -634,6 +640,12 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 {
 id: "Appaloosa",
 color: "#c9781d",
+img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+},
+
+{
+id: "Timber",
+color: "#a45e1f",
 img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 },
 
@@ -821,6 +833,14 @@ source: "Sparky",
 target: "Holly",
 rel1: "bodyguard",
 rel2: "principal",
+
+},
+
+{
+source: "Sparky",
+target: "Galaxy",
+rel1: "",
+rel2: "crush",
 
 },
 
