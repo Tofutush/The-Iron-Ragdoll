@@ -39,6 +39,10 @@ Has a shitton of levels of formal, ranging from speaking down to someone, to spe
 
 Clauses, like because/so, if/then, and but, have the words attached to an individual word in the sentence rather than decorating the entire clause, so changing where the word is attached might slightly change the meaning. Take "Sparky got berated because she ate the curtains" as an example. "Sparky got berated-**effect**, she ate-**cause** the curtains" is the common interpretation here, since eating (rather than playing with or pulling) the curtains got her berated. But if it was "…she ate the curtains-**cause**," that implies they were in the middle of lunch maybe so eating was fair game, and she just ate the wrong things. This may be completely genius or laughably impractical and I think it's paramount to my failure that I don't know which.
 
+Sounds like j, q, and x are more common in Ancient Bauhinian, and are used in Modern Bauhinian mostly as more archaic and literary words. Saying "can't even pronounce j, q, x" is used to insult someone's intelligence.
+
+Adjectives in Bauhinian can be emphasized by repeating the first syllable as many times as you'd like. For example, take the adjective "tungsahur." If someone says "tung-tung-tungsahur," it means "very very tungsahur."
+
 ## Accents
 
 <dl>
