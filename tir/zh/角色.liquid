@@ -4,5 +4,46 @@ title: 角色
 desc: 角色！
 parent: 铁打洋娃娃
 ---
-
-登记卡发生的固定价格
+<style>
+h2 {
+	border-bottom: .2em solid;
+}
+.en {
+	font-size: var(--font-size-h3);
+}
+img {
+	width: auto;
+	height: auto;
+}
+.thumb {
+	display: inline;
+	height: 1.2em;
+	vertical-align: center;
+}
+.fullbody {
+	max-width: 30%;
+}
+</style>
+<h1>角色</h1>
+{% for ch in characters %}
+	<article id="{{ ch.namezh }}" style="--c: {{ ch.color }}">
+		{% assign filteredGallery = gallery | filterGallery: ch.name %}
+		{% assign thumb = filteredGallery | getFirstOfKind: "thumb" %}
+		{% assign ref = filteredGallery | getFirstOfKind: "ref" %}
+		{% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
+		<h2 style="color: {{ ch.color }}">{% if thumb %}{% image thumb 200 ch.namezh 'thumb' %}{% endif %} {{ ch.namezh }} <span class="en lighter-text">{{ ch.name }}</span></h2>
+		{% if ch.desczh %}
+			{% if fullbody %}{% image fullbody 500 ch.namezh 'float-right fullbody' %}{% endif %}
+			{{ ch.desczh | renderMD }}
+		{% endif %}
+		{% if ref %}
+			{% assign refAlt = ch.namezh | append: "参考图" %}
+			<a target="_blank" href="{% imageUrl ref 9999 'png' %}">
+			<figure>
+				{% image ref 500 refAlt 'max' %}
+				<figcaption>点击查看全图</figcaption>
+			</figure>
+    		</a>
+		{% endif %}
+	</article>
+{% endfor %}
