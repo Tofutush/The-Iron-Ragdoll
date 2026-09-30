@@ -1,0 +1,68 @@
+---
+layout: layout.liquid
+title: 铁打洋娃娃
+desc: 铁打洋娃娃中文站
+parent: Root
+eleventyNavigation:
+  order: 9999
+---
+<link rel="stylesheet" href="/css/characterspage.css">
+<style>
+.qibli {
+	max-width: 30%;
+	height: auto;
+	shape-outside: polygon(0 0, 50% 9%, 80% 12%, 75% 25%, 100% 30%, 100% 40%, 95% 60%, 90% 77%, 65% 90%, 0 100%);
+
+	&:hover {
+		animation: large 1s infinite;
+	}
+}
+@keyframes large {
+	0% {
+		transform: translateY(0);
+	}
+
+	26% {
+		transform: translateY(-1.5em);
+	}
+
+	40% {
+		transform: translateY(0);
+	}
+
+	50% {
+		transform: translateY(-0.6em);
+	}
+
+	62% {
+		transform: translateY(0);
+	}
+
+	100% {
+		transform: translateY(0);
+	}
+}
+</style>
+<h1>铁打洋娃娃</h1>
+{% image 'qibli home' 800 '主页奇轹' 'float-left qibli' %}
+<p>我是黑帮老大，欢迎来到这个小小的网站！这里是我 OC 和世界介绍的中文版。</p>
+<p>《铁打洋娃娃》是我的世界观！一堆五颜六色小人，顶着耳朵或角，游山玩水、破案、打谍战。他们生活在一个反乌托邦里，这里有间谍，有特工，有背叛，有真实的和虚假的友谊……好像和我们的世界也没什么两样吧。</p>
+<p><strong>注意！中文站非常非常未完工，主要是我懒，但我要是自己的 OC 只有英文介绍的话我心里过不去。我很少更新本站，主要都是在更新<a href="/">英文站</a>！</strong></p>
+
+<div class="box-nav solid">
+	<a href="/zh/角色/">角色</a>
+	<a href="/zh/故事/">故事</a>
+	<a href="/zh/世界/">世界观</a>
+</div>
+
+<h2>角色目录</h2>
+<div class="chs">
+	{% for ch in characters %}
+		<div style="--c: {{ ch.color }}">
+			<div class="ch">
+				<a href="/zh/角色/#{{ ch.namezh }}" tabindex="-1">{% getProfileOrThumb ch.name 200 %}</a>
+			</div>
+			<a class="character-button" style="color: {{ characters | getChColor: ch.name | to6DigitHex | calculateBlackWhite }}" href="/zh/角色/#{{ ch.namezh }}/">{{ ch.namezh }}</a>
+		</div>
+	{% endfor %}
+</div>
