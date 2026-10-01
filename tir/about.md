@@ -85,4 +85,6 @@ My pronouns are she/her. I speak Chinese and English, both with native fluency, 
 
 I like cats and OCs. I'd say I love all my OCs equally but that would be a lie. I'd let [Goose](/characters/goose/) do anything to me/j. Here is a list of [places I'm at](https://tofutush.leprd.space/links/). Here are some [blog posts](https://tofutush.github.io/tag/tir), and [microblog posts](https://tofutush.leprd.space/microblog/?tag=tir) about TIR.
 
+My art requests are always open! Just leave me a message on either Neocities or my [guestbook](https://tofutush.leprd.space/guestbook/). Requests can be of fanart, your OCs, or mine if you wish. Do note that it's heavily up to me when I draw it, if at all; I don't do trades for the same reason, but it would be sweet if you'd draw me something back — but not before I had drawn your picture first!
+
 Enough about me. Go read the [World overview](/world/overview/) if you haven't already!
