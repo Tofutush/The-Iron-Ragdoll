@@ -31,6 +31,11 @@ main {
 		stroke: var(--text);
 		height: clamp(1.5rem, 5vw, 2.5rem);
 		width: clamp(1.5rem, 5vw, 2.5rem);
+		transition: stroke .2s var(--bezier);
+	}
+
+	& a:hover svg {
+		stroke: var(--c);
 	}
 }
 
@@ -59,6 +64,11 @@ main {
 	& svg {
 		height: clamp(1.5rem, 5vw, 2.5rem);
 		width: clamp(1.5rem, 5vw, 2.5rem);
+		transition: color .2s var(--bezier);
+	}
+
+	& button:hover svg {
+		color: var(--c);
 	}
 
 }
@@ -79,6 +89,7 @@ main {
 a[disabled] {
 	& svg {
 		opacity: 0.5;
+		stroke: var(--text) !important;
 	}
 
 	&:hover {
