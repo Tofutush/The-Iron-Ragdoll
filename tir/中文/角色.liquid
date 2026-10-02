@@ -26,12 +26,12 @@ img {
 </style>
 <h1>角色</h1>
 {% for ch in characters %}
-	<article id="{{ ch.namezh }}" style="--c: {{ ch.color }}">
+	<article style="--c: {{ ch.color }}">
 		{% assign filteredGallery = gallery | filterGallery: ch.name %}
 		{% assign thumb = filteredGallery | getFirstOfKind: "thumb" %}
 		{% assign ref = filteredGallery | getFirstOfKind: "ref" %}
 		{% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
-		<h2 style="color: {{ ch.color }}">{% if thumb %}{% image thumb 200 ch.namezh 'thumb' %}{% endif %} {{ ch.namezh }} <span class="en lighter-text">{{ ch.name }}</span></h2>
+		<h2 id="{{ ch.namezh }}" style="color: {{ ch.color }}">{% if thumb %}{% image thumb 200 ch.namezh 'thumb' %}{% endif %} {{ ch.namezh }} <span class="en lighter-text">{{ ch.name }}</span></h2>
 		{% if ch.desczh %}
 			{% if fullbody %}{% image fullbody 500 ch.namezh 'float-right fullbody' %}{% endif %}
 			{{ ch.desczh | renderMD }}

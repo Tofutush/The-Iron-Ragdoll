@@ -60,9 +60,9 @@ eleventyNavigation:
 	{% for ch in characters %}
 		<div style="--c: {{ ch.color }}">
 			<div class="ch">
-				<a href="/zh/角色/#{{ ch.namezh }}" tabindex="-1">{% getProfileOrThumb ch.name 200 %}</a>
+				<a href="/中文/角色/#{{ ch.namezh }}" tabindex="-1">{% getProfileOrThumb ch.name 200 %}</a>
 			</div>
-			<a class="character-button" style="color: {{ characters | getChColor: ch.name | to6DigitHex | calculateBlackWhite }}" href="/zh/角色/#{{ ch.namezh }}/">{{ ch.namezh }}</a>
+			<a class="character-button" style="color: {{ characters | getChColor: ch.name | to6DigitHex | calculateBlackWhite }}" href="/中文/角色/#{{ ch.namezh }}/">{{ ch.namezh }}</a>
 		</div>
 	{% endfor %}
 </div>

@@ -8,7 +8,7 @@ tags:
 	<dd class="tags">
 		{% for ch in chs %}
 			{% assign char = characters | getChByName: ch %}
-			<a class="character-button" style="color: {{ characters | getChColor: char.name | to6DigitHex | calculateBlackWhite }}" href="/zh/角色/#{{ char.namezh }}/">{{ char.namezh }}</a>
+			<a class="character-button" style="--c: {{ char.color }}; color: {{ characters | getChColor: char.name | to6DigitHex | calculateBlackWhite }}" href="/zh/角色/#{{ char.namezh }}/">{{ char.namezh }}</a>
 		{% endfor %}
 	</dd>
 	<dt>时间</dt>

@@ -1,4 +1,4 @@
-<p style="text-align:center"><label for="story-detail-check"><input type="checkbox" id="story-detail-check" /> Hide summaries?</label></p>
+<p style="text-align:center"><label for="story-detail-check"><input type="checkbox" id="story-detail-check" /> {% if lang == 'zh' %}隐藏简介？{% else %}Hide summaries?{% endif %}</label></p>
 <ul class="story-list">
 	{% for story in stories %}
 		{% include 'fileLi', file: story %}
