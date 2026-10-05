@@ -204,8 +204,8 @@ img: "/The-Iron-Ragdoll/img/yxLboOkVJ6-500.webp"
 {
 name: "Gecko",
 color: "#a40ca7",
-desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+desc: "Serial smuggler.",
+img: "/The-Iron-Ragdoll/img/2mEy1WZOQ_-500.webp"
 },
 
 

@@ -154,7 +154,7 @@ img: "/The-Iron-Ragdoll/img/egggbunWpz-200.webp",
 {
 id: "Gecko",
 color: "#a40ca7",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/2mEy1WZOQ_-200.webp",
 },
 
 {
