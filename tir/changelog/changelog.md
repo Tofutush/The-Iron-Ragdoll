@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-10-05
+
+- Added `gecko thumb.png`, `mlp.png`;
+
 ## 2026-09-25
 
 - Added [Timber](/characters/timber/), [Galaxy](/characters/galaxy/), and their fullbodies;

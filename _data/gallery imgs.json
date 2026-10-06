@@ -6768,5 +6768,27 @@
       "galaxy"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "gecko thumb",
+    "date": "2026-10-05",
+    "ch": [
+      "gecko"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "mlp",
+    "date": "2026-10-05"
+  },
+  {
+    "name": "goose echokairadark",
+    "date": "2026-10-05",
+    "type": "jpg",
+    "author": "echokairadark",
+    "authorUrl": "https://bakatako.com/u/echokairadark",
+    "ch": [
+      "goose"
+    ]
   }
 ]

@@ -41,7 +41,9 @@ jobs:
         run: rm -r _site
 
       - name: build neocities
-        run: npm run buildneo
+        run: |
+          npm run buildneo
+          rm _site/sitemap.xml
 
       - name: im a stats nerd
         run: du -sh _site
