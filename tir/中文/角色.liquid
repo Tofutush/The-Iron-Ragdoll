@@ -7,6 +7,20 @@ parent: 铁打洋娃娃
 <style>
 h2 {
 	border-bottom: .2em solid;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+details>summary::after,
+details[open]>summary::after {
+	content: '';
+}
+.details-icon {
+	transition: transform .2s var(--bezier);
+}
+details[open] .details-icon {
+	transform: rotate(-90deg);
 }
 .en {
 	font-size: var(--font-size-h3);
@@ -26,12 +40,21 @@ img {
 </style>
 <h1>角色</h1>
 {% for ch in characters %}
-	<article style="--c: {{ ch.color }}">
+	<details style="--c: {{ ch.color }}">
 		{% assign filteredGallery = gallery | filterGallery: ch.name %}
 		{% assign thumb = filteredGallery | getFirstOfKind: "thumb" %}
 		{% assign ref = filteredGallery | getFirstOfKind: "ref" %}
 		{% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
-		<h2 id="{{ ch.namezh }}" style="color: {{ ch.color }}">{% if thumb %}{% image thumb 200 ch.namezh 'thumb' %}{% endif %} {{ ch.namezh }} <span class="en lighter-text">{{ ch.name }}</span></h2>
+		<summary>
+			<h2 id="{{ ch.namezh }}" style="color: {{ ch.color }}">
+				<span>
+					{% if thumb %}{% image thumb 200 ch.namezh 'thumb' %}{% endif %}
+					{{ ch.namezh }}
+					<span class="en lighter-text">{{ ch.name }}</span>
+				</span>
+				<span class="details-icon">{% lucide 'chevron-left' %}</span>
+			</h2>
+		</summary>
 		{% if ch.desczh %}
 			{% if fullbody %}{% image fullbody 500 ch.namezh 'float-right fullbody' %}{% endif %}
 			{{ ch.desczh | renderMD }}
@@ -45,5 +68,11 @@ img {
 			</figure>
     		</a>
 		{% endif %}
-	</article>
+	</details>
 {% endfor %}
+<script>
+	let target = window.location.hash;
+	if(target) {
+		document.querySelector(decodeURI(target)).parentElement.parentElement.open = true;
+	}
+</script>
