@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-10-06
+
+- Updated `gecko thumb.png` with a new design;
+
 ## 2026-10-05
 
 - Added `gecko thumb.png`, `mlp.png`;
