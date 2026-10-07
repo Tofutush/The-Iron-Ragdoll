@@ -1,0 +1,93 @@
+---
+layout: layout.liquid
+pagination:
+  data: characters
+  size: 50
+  addAllPagesToCollections: true
+permalink: "中文/角色/{% if pagination.pageNumber != 0 %}{{ pagination.pageNumber | plus: 1 }}/{% endif %}"
+eleventyComputed:
+  title: "角色第 {{ pagination.pageNumber | plus: 1 }} 页"
+desc: 角色！
+parent: 铁打洋娃娃
+---
+<style>
+	h2 {
+		border-bottom: .2em solid;
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	details>summary::after,
+	details[open]>summary::after {
+		content: '';
+	}
+	.details-icon {
+		transition: transform .2s var(--bezier);
+	}
+	details[open] .details-icon {
+		transform: rotate(-90deg);
+	}
+	.en {
+		font-size: var(--font-size-h3);
+	}
+	img {
+		width: auto;
+		height: auto;
+	}
+	.thumb {
+		display: inline;
+		height: 1.2em;
+		vertical-align: center;
+	}
+	.fullbody {
+		max-width: 30%;
+	}
+</style>
+<h1>角色</h1>
+<div class="box-nav">
+	{% for p in pagination.pages %}
+		<a href="{{ pagination.hrefs[forloop.index0] }}" {% if page.url == pagination.hrefs[forloop.index0] %} aria-current="page" {% endif %}>{{ forloop.index }}</a>
+	{% endfor %}
+</div>
+{% for ch in pagination.items %}
+	<details style="--c: {{ ch.color }}">
+		{% assign filteredGallery = gallery | filterGallery: ch.name %}
+		{% assign thumb = filteredGallery | getFirstOfKind: "thumb" %}
+		{% assign ref = filteredGallery | getFirstOfKind: "ref" %}
+		{% assign fullbody = filteredGallery | getFirstOfKind: "fullbody" %}
+		<summary>
+			<h2 id="{{ ch.namezh }}" style="color: {{ ch.color }}">
+				<span>
+					{% if thumb %}{% image thumb 200 ch.namezh 'thumb' %}{% endif %}
+					{{ ch.namezh }}
+					<span class="en lighter-text">{{ ch.name }}</span>
+				</span>
+				<span class="details-icon">{% lucide 'chevron-left' %}</span>
+			</h2>
+		</summary>
+		{% if ch.desczh %}
+			{% if fullbody %}{% image fullbody 500 ch.namezh 'float-right fullbody' %}{% endif %}
+			{{ ch.desczh | renderMD }}
+		{% endif %}
+		{% if ref %}
+			{% assign refAlt = ch.namezh | append: "参考图" %}
+			<a target="_blank" href="{% imageUrl ref 9999 'png' %}">
+			<figure>
+				{% image ref 500 refAlt 'max' %}
+				<figcaption>点击查看全图</figcaption>
+			</figure>
+    		</a>
+		{% endif %}
+	</details>
+{% endfor %}
+<hr/>
+<div class="prev-next">
+	{% if pagination.previous %}<p><a href="{{ pagination.previous }}">{% lucide 'chevron-left' %} 上一页</a></p>{% endif %}
+	<div></div>
+	{% if pagination.next %}<p><a href="{{ pagination.next }}">下一页 {% lucide 'chevron-right' %}</a></p>{% endif %}
+</div>
+<script>
+	let target = window.location.hash;
+	if(target) document.querySelector(decodeURI(target)).parentElement.parentElement.open = true;
+</script>

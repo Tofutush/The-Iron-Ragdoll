@@ -1,6 +1,6 @@
 function chPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getChByName', function (arr, name) {
-		return arr.find(ch => ch.name == name) || false;
+		return arr.find(ch => ch.name == name || ch.namezh == name) || false;
 	});
 	eleventyConfig.addFilter('getChColor', function (arr, name) {
 		let ch = arr.filter(c => c.name.toLowerCase() == name.toLowerCase());
