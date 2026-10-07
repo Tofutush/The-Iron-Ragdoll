@@ -5,6 +5,11 @@ h3 {
 	color: var(--accent);
 }
 
+dl {
+	border: 0;
+	margin: 0;
+}
+
 .img>.thumb:hover {
 	box-shadow: 0 0 0 .4em var(--accent);
 }
@@ -72,6 +77,26 @@ blockquote {
 			margin-bottom: 0;
 		}
 	}
+}
+
+.fancy {
+	display: flex;
+	align-items: center;
+	gap: 1em;
+
+	&::before,
+	&::after {
+		content: '';
+		flex: 1;
+		border-bottom: 8px dashed var(--box);
+	}
+}
+
+.contents {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 1em;
 }
 
 .af-fav {
