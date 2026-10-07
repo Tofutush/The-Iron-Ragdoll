@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-10-07
+
+- 添加了[中文站](/中文/)！很未完工；
+
 ## 2026-10-06
 
 - Updated `gecko thumb.png` with a new design;
