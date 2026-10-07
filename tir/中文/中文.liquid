@@ -68,12 +68,11 @@ h1 {
 <h2>角色目录</h2>
 <div class="chs">
 	{% for ch in characters %}
-		{% assign p = forloop.index | divided_by: 50 | floor | plus: 1 %}
 		<div style="--c: {{ ch.color }}">
 			<div class="ch">
-				<a href="/中文/角色/{% if p > 1 %}{{ p }}/{% endif %}#{{ ch.namezh }}" tabindex="-1">{% getProfileOrThumb ch.name 200 %}</a>
+				<a href="{% zhLink ch.namezh %}" tabindex="-1">{% getProfileOrThumb ch.name 200 %}</a>
 			</div>
-			<a class="character-button" style="color: {{ characters | getChColor: ch.name | to6DigitHex | calculateBlackWhite }}" href="/中文/角色/{% if p > 1 %}{{ p }}/{% endif %}#{{ ch.namezh }}/">{{ ch.namezh }}</a>
+			<a class="character-button" style="color: {{ characters | getChColor: ch.name | to6DigitHex | calculateBlackWhite }}" href="{% zhLink ch.namezh %}">{{ ch.namezh }}</a>
 		</div>
 	{% endfor %}
 </div>
