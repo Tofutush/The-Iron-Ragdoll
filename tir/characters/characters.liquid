@@ -51,26 +51,20 @@ parent: Characters
       {% endif %}
     </div>
   </div>
-  <details class="toc callout" open data-pagefind-ignore>
-    <summary class="callout-title">
-      <div class="callout-title-icon">{% lucide 'list' 24 %}</div>
-      <div class="callout-title-inner">Contents</div>
-    </summary>
-    <div class="callout-content">
-      <ul>
-        {% if ch.about %}<li><a href="#about">About</a></li>{% endif %}
-        {% assign filteredStories = collections.stories | filterStory: ch.name %}
-        {% if filteredStories.size > 0 %}<li><a href="#stories">Stories</a></li>{% endif %}
-        {% assign majorRelations = relationships | getMajorRels: ch.name %}
-        {% assign minorRelations = relationships | getMinorRels: ch.name %}
-        {% if majorRelations.size > 0 or minorRelations.size > 0 %}<li><a href="#relationships">Relationships</a></li>{% endif %}
-        {% if ch.trivia %}<li><a href="#trivia">Trivia</a></li>{% endif %}
-        <li><a href="#reference">Reference</a></li>
-        {% if filteredGallery.size > 0 %}<li><a href="#gallery">Gallery</a></li>{% endif %}
-      </ul>
-    </div>
-  </details>
+  <h2 id="contents" class="fancy">Contents</h2>
+  <section class="contents">
+    {% if ch.about %}<a href="#about">About</a>{% endif %}
+    {% assign filteredStories = collections.stories | filterStory: ch.name %}
+    {% if filteredStories.size > 0 %}<a href="#stories">Stories</a>{% endif %}
+    {% assign majorRelations = relationships | getMajorRels: ch.name %}
+    {% assign minorRelations = relationships | getMinorRels: ch.name %}
+    {% if majorRelations.size > 0 or minorRelations.size > 0 %}<a href="#relationships">Relationships</a>{% endif %}
+    {% if ch.trivia %}<a href="#trivia">Trivia</a>{% endif %}
+    <a href="#reference">Reference</a>
+    {% if filteredGallery.size > 0 %}<a href="#gallery">Gallery</a>{% endif %}
+  </section>
   {% if ch.attr or ch.tags %}
+    <h2 id="info" class="fancy">Info</h2>
     <dl>
       {% for att in ch.attr %}
         <dt>{{ att[0] }}</dt>
@@ -85,6 +79,7 @@ parent: Characters
       {% endif %}
     </dl>
   {% endif %}
+  <hr/>
   <div class="af-fav">
     <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank" title="Attack {{ ch.name }} on Artfight!"><img src="/img/bg/af.png" alt="Attack {{ ch.name }} on Artfight!"/></a>
     <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank" title="Give {{ ch.name }} a favorite!">{% lucide 'heart' '3em' %}</a>

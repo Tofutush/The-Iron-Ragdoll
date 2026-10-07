@@ -734,7 +734,7 @@ li {
 
 hr {
 	border: 0;
-	border-bottom: .4em dashed var(--box);
+	border-bottom: 8px dashed var(--box);
 	margin: 2em 0;
 }
 
