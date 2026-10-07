@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-10-06
 
 - Updated `gecko thumb.png` with a new design;
+- Changed the design of the character page's table of contents;
 
 ## 2026-10-05
 
