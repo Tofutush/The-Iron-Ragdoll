@@ -1,0 +1,10 @@
+- analyst
+- spymaster
+- surveillance officer (hyperawareness, Echo)
+- handler
+- special ops
+- spycatcher
+- cryptologist
+- technical ops
+- intelligence operative
+- hacker

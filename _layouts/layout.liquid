@@ -68,15 +68,25 @@ eleventyComputed:
 	{% endif %}
 </head>
 <body>
-	<header style="background-image: url({% capture url %}{% imageUrl banner 3000 0 "banner sparky" %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="/"></a></header>
+	<header style="background-image: url({% capture url %}{% imageUrl banner 3000 0 "banner sparky" %}{% endcapture %}{{ url | htmlBaseUrl }})"><a href="{% if lang == 'zh' %}/中文/{% else %}/{% endif %}"></a></header>
 	<nav>
-		<a href="/about/">About</a>
-		<a href="/characters/">Characters</a>
-		<a href="/stories/">Stories</a>
-		<a href="/world/">World</a>
-		<a href="/gallery/2026/">Gallery</a>
-		<a href="/changelog/">Updates</a>
-		<a href="/search/">Search</a>
+		{% if lang == 'zh' %}
+			<a href="/">英文站</a>
+			<a href="/中文/">主页</a>
+			<a href="/中文/故事/">故事</a>
+			<a href="/中午/世界/">世界</a>
+			<a href="/gallery/2026/">画廊</a>
+			<a href="/changelog/">更新日志</a>
+			<a href="/search/">搜索</a>
+		{% else %}
+			<a href="/about/">About</a>
+			<a href="/characters/">Characters</a>
+			<a href="/stories/">Stories</a>
+			<a href="/world/">World</a>
+			<a href="/gallery/2026/">Gallery</a>
+			<a href="/changelog/">Updates</a>
+			<a href="/search/">Search</a>
+		{% endif %}
 	</nav>
 	<main {% unless pagefindIgnore %}data-pagefind-body{% endunless %}>
 		{% unless noNav %}
