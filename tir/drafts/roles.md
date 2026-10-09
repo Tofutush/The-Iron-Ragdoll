@@ -1,7 +1,7 @@
 - analyst
 - spymaster
 - surveillance officer (hyperawareness, Echo)
-- handler
+- handler (mind-reading)
 - special ops
 - spycatcher
 - cryptologist

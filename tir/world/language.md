@@ -43,6 +43,12 @@ Sounds like j, q, and x are more common in Ancient Bauhinian, and are used in Mo
 
 Adjectives in Bauhinian can be emphasized by repeating the first syllable as many times as you'd like. For example, take the adjective "tungsahur." If someone says "tung-tung-tungsahur," it means "very very tungsahur."
 
+In different contexts, "please" is expressed differently. Examples include
+
+- "If you don't mind" (inquiries)
+- "If you would be so kind" (requests)
+- "I implore you to" (imperative please)
+
 ## Accents
 
 <dl>
