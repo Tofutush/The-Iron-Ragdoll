@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-10-10
+
+- New lore file [Geography](/world/geography/);
+
 ## 2026-10-09
 
 - Added `flutter dart.png`, `iyemalis.png`;
