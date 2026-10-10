@@ -57,6 +57,6 @@ The northwestern corner can be understood as a rookie version of its southern co
 
 Not much is known about the northeastern corner of the world. I'm just too lazy to come up with something. I will. One day.
 
-### Southwestern
+### Southeastern
 
-The southwestern corner is not very studied or explored due to how dangerous it is. It is completely ocean, and where the ocean bed breaks into floating islands, giant waterfalls cascade directly into the void gas below. Many exploring ships and submarines had fallen down these falls before, as it is incredibly hard to swim up the currents.
+The southeastern corner is not very studied or explored due to how dangerous it is. It is completely ocean, and where the ocean bed breaks into floating islands, giant waterfalls cascade directly into the void gas below. Many exploring ships and submarines had fallen down these falls before, as it is incredibly hard to swim up the currents.
