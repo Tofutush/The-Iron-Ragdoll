@@ -48,6 +48,7 @@ In different contexts, "please" is expressed differently. Examples include
 - "If you don't mind" (inquiries)
 - "If you would be so kind" (requests)
 - "I implore you to" (imperative please)
+- "I beg you" (pretty please with sugar on top?)
 
 ## Accents
 

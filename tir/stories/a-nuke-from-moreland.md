@@ -31,7 +31,9 @@ prev:
 
 [[toc]]
 
-## The discovery
+## Part 1: the nuke,
+
+### The discovery
 
 The kids gained a little fame around the place as pet detectives after they recovered Qibli's cat, Sandstorm. So one of Qibli's neighbors came to her for help when their cat went missing.
 
@@ -51,7 +53,7 @@ The kids figured out that they left the nuke in the basement to get picked up to
 >
 > Because they *knew* Sparky was Peacock's daughter, and they already suspect Starcorp. They *let* Sparky attempt to steal it, so she could get involved.
 
-## The theft
+### The theft
 
 They arrived near the abandoned house at midnight. Sparky brought a cart. She and Firecrackers went down to get the nuke out, while Sky and Qibli stood watch outside.
 
@@ -67,7 +69,7 @@ They got shoved in the back of a car and hauled off to an interrogation room at 
 
 Also Paperweight got extremely pissed off at Qibli, because her warmth spells *had* been working, but they got cast on a stalking Paperweight instead of Sky. He almost got a heat stroke.
 
-## The challenge
+### The challenge
 
 So Paperweight had the kids cuffed to the heater and on more than one occasion zapped them through knocking the radiator with a stun baton. Pumpkin burst in, pleading to Paperweight to treat the kids better. Classic good-cop-bad-cop, but they fell for it.
 
@@ -80,8 +82,6 @@ Pumpkin, with orders from Halcyon but ultimately Paperweight, dragged Sky off to
 
 > [!question]+ Why let him into the MSS then, if he has such an ego?
 > He attended [Spy School](/world/bauhinia/ministry-affiliate/) and had special recommendation from Goose.
-
-## Day 1
 
 The kids needed something to do during the summer. They've got it! Find out how the nuke got there, and win the nuke itself! Now where would they start?
 
@@ -99,101 +99,69 @@ Pumpkin was waiting for Sky at the bottom of his apartment building. Sky reporte
 >
 > "Sparky," Sky said again. "Her dad is stupidly rich."
 
-But Pumpkin ran away afterwards, leaving Sky to pay the bill.
+With that, Sky had a new direction. Was Starcorp involved in buying the nuke?
 
-## Day 2
+Keep an eye on your dad, he told Sparky the next day. *And I'll keep an eye on you.*
 
-They dug around the house again, though nothing new turned up.
+Sure enough, the MSS were just using Sparky's Peacock connection since they suspected it was Starcorp. And Gecko, the smuggler who stashed the nuke in the house, contacted Peacock as soon as she found out the nuke had been found.
 
-That was when a mysterious figure in a hat appeared, jacket slung over his shoulders, a flute in his pocket. He was on the other side of the short, dusty wall, elbows on the top, leaning in at the kids, apparently having heard everything.
-
-{% image "lark wall" 1000 "Lark on the wall" 'max' %}
-
-> "Do you need help?"
-
-The stranger introduces himself as Lark. He wanted to help the kids beat the MSS. Why? Because he hates the MSS with a passion and would like to see them get owned by a bunch of kids. So that's why you should not tell them about me, because then they would know we cheated. We want to pretend this is all *your* credit!
-
-Sparky was happy. Sky was debating with himself whether to report Lark. Firecrackers was suspicious. Qibli seemed unsure.
-
-Lark knew Sparky was the weak chain. He interpreted Sky's debating as whether to trust him. He decided to appeal to Qibli and Sky, while trying to get Sparky to vouch for him.
-
-> "You see, your task is to find out how a nuke from *Moreland* ended up in *Bauhinia*, right? Then think from the perspective of the nuke. What does it need to go through in order to end up here? It's from Moreland. It needs to exit the nuclear storage there, cross the border of at least one country — Atlasia, and travel all the way across Bauhinia to here in the south.
->
-> "Now, for Atlasia, it is easy. You can do *anything* in Atlasia if you have enough money. That gives us the first clue: the smuggler has a lot of money.
->
-> "As for Bauhinia? With our one police every five steps and one police station every ten steps? How did the smuggler get a nuke all the way across the country?"
->
-> He did not wait for an answer. "They told the police to look the other way. They had special transport; it's none of the police's business! That gives us the second clue: the smuggler is powerful in Bauhinia."
-
-Qibli was bought. Sky was still debating whether to report Lark. Firecrackers would take none of it.
-
-*Elementary, Mr. Lark, that's just basic induction,* he said.
-
-"Didn't that also mean they were powerful in Moreland, too?" Qibli asked.
-
-Lark ignored Firecrackers, pretending that he could not read sign. "Yes, but what kind of a person is so powerful in *two* countries, yet no one knows their name?"
-
-Qibli took this as an actual question and paused to think.
-
-Lark continued. "This means that there is *more than one* smuggler, who passed the nuke to each other in different regions!"
-
-It dawned on Qibli. Sky decided against reporting him, which Lark interpreted as trust. Three to one, Firecrackers could go to hell, thought Lark.
-
-And with that, Lark got himself a group of new contacts.
-
-> [!question]+ Who is Lark?
-> Morelandian agent sent to recover the nuke. At least, find out where it is. He succeeded.
-
-## ramble zone
-
-*Consider the content below non-canon*.
-
-The MSS were just using Sparky's Peacock connection since they suspected it was Starcorp. Sure enough, Gecko, the smuggler who stashed the nuke there, contacted Peacock as soon as she knew the nuke had been found.
-
-Sparky overheard their phone conversation and noted down the time and place for the meeting. Starlight cafe. Tomorrow afternoon.
+Sparky overheard their phone conversation and noted down the time and place for the meeting. Starlight Café. Tomorrow afternoon.
 
 She informed her friends, of course. Who could make it? Ah, Qibli wasn't coming. Firecrackers could. Sky? Depends. He would let you know in the morning. Good.
 
-### Pumpkin's confession
+Sky went to the MSS to tattle like he was told. Starlight Café, tomorrow afternoon. This is great, keep it up. Would you like a lollipop? Have an ice cream. Oh, can *you* go? We'd recommend against it.
 
-Sky went to the MSS to tattle. Starlight cafe, tomorrow afternoon. This is great, keep it up. Would you like a lollipop? Have an ice cream. Oh, can *you* go? We'd recommend against it.
+### The end
 
-It was getting late, and it was raining, so Pumpkin drove Sky back home. But as a mole, Pumpkin's fragile string was snapping.
+The next day, Sparky bought some melatonin in the morning and drugged Peacock at lunch. She tucked him into bed, took his phone and briefcase, hailed a taxi, picked up Firecrackers from his dad's grocery store, and got to Starlight Café.
 
-> They stopped at a red light.
->
-> "Sky, can I ask you a question?" Pumpkin said, staring straight ahead at the road.
->
-> "What question?"
->
-> "If you found out that someone is a spy. Betrayed Bauhinia. Spying on us. What would you do?"
->
-> "Report to the MSS immediately!"
->
-> "What if you *are* the MSS?"
->
-> Sky sat there dumbfounded for a split second, but he got the implication.
->
-> "I'd report to my boss, then." he said.
->
-> "What if — " Pumpkin stopped himself. "This stuff is complicated, but the short story is that you can't just 'report to your boss.'"
->
-> "You have to tell *someone*. Anyone! Officer Goose! Paperweight! Halcyon!"
->
-> Pumpkin gave a startled jolt when he said "Halcyon," but it was only because the light turned green. They drove straight on.
->
-> "What if exposing the mole would ruin your own life?" Pumpkin asked. "For example, he could hire someone to assassinate you and your family."
->
-> "You still gotta do it," Sky said. "No doubts I would do it," he added, though he knew that if he were really in the same situation he would also second-guess himself.
->
-> "What if…" Pumpkin started. Sky was worried he might be more focused on coming up with the question than on the road. But he never finished.
->
-> The journey was completed in silence.
+Gecko and Peacock had a signal agreed: a man, with a briefcase placed by his feet and his jacket slung on the back of the seat. Sparky stole both of them from her home, and Firecrackers sat in the place Peacock was supposed to sit. Sparky sat where Gecko would've had her back to her.
 
-> [!note]+ A sentence I don't know where to put
-> Sky sat watching the raindrops race each other to the bottom of the window. He lost the bet. His drop was going so fast, but it got stuck just a couple centimeters away from the bottom. He took his eyes off the side window.
+The MSS was there even before they arrived, sitting in corners.
 
-He didn't know our dear Halcyon bugged the car and overheard their entire conversation.
+Gecko arrived, looked around the place, and headed for Firecrackers, probably thinking he was a bit too young for his voice. Before Sparky could walk towards her, before Gecko even sat down, the MSS plainclothes pounced on her and took her away. Sparky tried to stop them, but she was heavily outnumbered. Gecko was taken into custody by the MSS. Now they could get a lead out of her, and the kids had fulfilled their purpose and failed the challenge.
+
+Sparky was fuming. That literally wasn't fair! They set us up to be used! They never wanted us to win in the first place!
+
+But Sky was in his own room, contemplating. If he had never tattled to the MSS, had he kept the meeting a secret, maybe Gecko wouldn't have been caught?
+
+## Part 2: all that came after,
+
+Sky was waiting for Pumpkin at the kebab restaurant. I need to talk, he said. I had been visiting here every day for the past week for you to show.
+
+You sure do know where to catch me, Pumpkin said. What is that you want to talk about? Remember I'm off-duty right now.
+
+I feel terrible for what I did! I went behind my friends' backs! I never told them Gecko got caught because of me!
+
+What do you plan to do? Pumpkin asked.
+
+I don't know! That's why I came looking for you! *You* made me do this!
+
+And you did as I told, which is good. As an MSS officer, I would advise you to keep this in your heart forever. But since I'm off-duty right now, as a friend, I will tell you to do what you think is right.
+
+I think I want to tell them.
+
+Then tell them, Pumpkin said. And come here again in a week to tell me how it went.
+
+### The confession
+
+Sparky was livid, but Qibli and Firecrackers were actually sensible human beings.
+
+You followed orders, Qibli said. You had to. Otherwise they'd probably punish you.
+
+*We had no hope of succeeding anyways,* Firecrackers said. *Sparky can go fuck herself. Or just ask her dad to buy her a new one.*
+
+Damn right I will! Sparky screamed. I'll make him buy me an orbital cannon!
+
+Having gotten that off his chest, Sky returned to Pumpkin at the kebab shop. But before he could say anything, Pumpkin led him into his MSS car. Fewer listeners, he explained as he drove in circles in random streets.
+
+Sky told him about the confession and how it made him feel like he could face his friends properly again, yada yada.
+
+Pumpkin said, well, if you could do it, I suppose you've given me the courage to do the same.
+
+Sky didn't know what he meant, and Pumpkin refused to explain.
+
+Pumpkin didn't know our dear Halcyon bugged the car and overheard their entire conversation.
 
 After Pumpkin dropped Sky off at his place, he drove the MSS car back to the lot, and hopped on his bike to ride home.
 
@@ -209,46 +177,16 @@ He strangled him, shoved him into the trunk of a car without a license plate, an
 > [!note]+
 > Maybe there was no camera in or near the alley. Wouldn't that be convenient.
 
-### Gecko
-
-The next day, Sparky bought some melatonin in the morning and drugged Peacock at lunch. She tucked him into bed, took his phone and briefcase, hailed a taxi, picked up Firecrackers from his parents' grocery store, and got to Starlight Cafe.
-
-Gecko and Peacock had a signal agreed: a male, with a briefcase placed by his feet and his jacket slung on the back of the seat. Sparky stole both of them from her home, and Firecrackers sat in the place Peacock was supposed to sit. Sparky sat where Gecko would've had her back to her.
-
-The MSS was there even before they arrived, sitting in corners.
-
-Gecko arrived, looked around the place, and headed for Firecrackers, probably thinking he was a bit too young for his voice. Before Sparky could walk towards her, before Gecko even sat down, the MSS plainclothes pounced on her and took her away. Sparky tried to stop them, but she was heavily outnumbered. Gecko was taken into custody by the MSS.
-
 ### The investigation of Pumpkin's disappearance
 
-The next morning, the police were knocking on Sky's door. He was the last person seen with Pumpkin, so they wanted some questions answered.
+A couple days later, the police were knocking on Sky's door. He was the last person seen with Pumpkin at the kebab restaurant, so they wanted some questions answered.
 
-Apparently, Pumpkin's boyfriend called the police after not having Pumpkin return home two nights ago, and not being able to find him for an entire day (the same day Sparky went to meet Gecko). The police saw Pumpkin sending Sky home, and saw the plate-less car, but couldn't trace its origins.
+Apparently, Pumpkin's boyfriend called the police after not seeing Pumpkin return home two nights ago, and not being able to find him for an entire day. The police found footage of Pumpkin and Sky leaving the kebab restaurant and entering the MSS car, but on the cameras, Pumpkin just disappeared after exiting the car and getting on his bike. The bike was still in the alleyway, lying on the ground when the police went there.
 
-At the police station, the MSS came to get Sky. They obtained an alibi from his parents that he did get home and stay there right after Pumpkin dropped him off. They asked him whether Pumpkin was acting weird during the ride. Sky was so nervous he couldn't think straight. He didn't tell them about the mole thing.
+At the police station, the MSS came to get Sky. They obtained an alibi from his parents that he did get home and stay there right after Pumpkin dropped him off. They asked him whether Pumpkin was acting weird during the ride. Sky was so nervous he couldn't think straight. He didn't tell them about the weird conversation; just said that they were having dinner and Pumpkin gave him a ride home. (Even though his home was close enough to not warrant a ride.)
 
-#### What should (probably) be going through a logical person's mind right now?
+So Sky told his friends about it.
 
-For Sky, he should think that if something happened to Pumpkin right after him telling Sky about the mole, he must've been targeted *by* the mole to prevent him from tattling (which is exactly what Halcyon intended). And he must've bugged the car in order to overhear their conversation. So by this logic, the mole would be coming for *Sky* next. His task is to figure out *who* the mole is (the suspect pool only contains 3 people), and expose them with evidence. If he could not achieve that, he must run and hide. His friends chose the former route for him.
-
-For Goose and Paperweight, since they do not know about Pumpkin's confession, *and* they're not even sure Pumpkin is dead, they would start by collaborating with the police and approach the disappearance with your usual methods: interviewing his family, friends, and neighbors to figure out where he might have gone, or the worst case scenario in which he is dead.
-
-For Halcyon, his main task is to aid the investigation without drawing suspicion onto himself, which should be easy. Ideally, Pumpkin would never be found, and declared presumed dead, and the case would get shoved on the shelf with all the other unsolved mysteries.
-
-### Ramble zone
-
-So they go find Pumpkin's boyfriend, who doesn't even have a name or design or *anything*. Sorry, Pumpkin. Candlelight's a better boyfriend for ya.
-
-BF says Pumpkin hasn't come home that night, he wasn't that worried since he does work late sometimes, but the entire day he couldn't get in contact with him. the last message he received from pumpkin was "i wont be home for dinner tonight."
-
-why do pumpkin and his bf live together? idk gay behavior? they rented the apartment together. is that like too uncommon
-
-when asked about pumpkins work nature, he just said "he worked in the government"
-
-when do the kids meet lark?
-
-how do the kids figure out halcyon did it?
-
-sky told his friends about pumpkins car confession.
+## Part 3: and all that went wrong.
 
 [^1]: Why is there a wall heater in Coastline of all places where it never snows? I don't care I like cuffing people to heaters.
