@@ -177,7 +177,7 @@ He strangled him, shoved him into the trunk of a car without a license plate, an
 > [!note]+
 > Maybe there was no camera in or near the alley. Wouldn't that be convenient.
 
-### The investigation of Pumpkin's disappearance
+### The investigation
 
 A couple days later, the police were knocking on Sky's door. He was the last person seen with Pumpkin at the kebab restaurant, so they wanted some questions answered.
 

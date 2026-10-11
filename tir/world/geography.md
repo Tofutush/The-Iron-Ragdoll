@@ -27,7 +27,7 @@ Void gas may be the only unsurmountable barrier to science, and it's clear that 
 
 ## Celestial bodies
 
-Which is to say, the Sun and the Moon (always capitalized). The Sun is what gives off light, and the Moon is just a literal rock that doesn't even symbolize nighttime, as will be explained below. Scientists have speculated that the Sun was a huge mass of void gas so condensed it started nuclear fusing.
+Which is to say, the Sun and the Moon (always capitalized). The Sun is what gives off light, and the Moon is just a literal rock that doesn't even symbolize nighttime, as will be explained below. Scientists have speculated that the Sun was a huge mass of void gas so condensed it started nuclear fusing, and that the Moon was a piece of the land that floated upwards into a ball somehow.
 
 The Sun and the Moon orbit the continent at slightly different speeds, converging on one day where the Moon lands directly in front of the Sun. This happens every 365 days, and is called the New Year, or the Full Eclipse.
 
