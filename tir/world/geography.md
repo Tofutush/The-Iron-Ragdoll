@@ -39,7 +39,7 @@ The axis around which the sun and the moon rotate is leaned southwards, making i
 
 ### Calendar system
 
-TIR uses the Georgian calendar. Right, instead of anything that makes more sense given the 24 solar terms they canonically have, and New Year does not lie on January 1<sup>st</sup>. Meta reason is that I can reference my calendar apps for dates and such and it's easier, and that TIR dates can map perfectly to our dates so I can celebrate them in real life (which I don't do). In-universe reason is that there is no reason. The months especially, since there's no lunar cycle, months won't even make sense. An emperor took a day out of February to give to August, just like Augustus. They just did that for shits and giggles. 'Tis all shits and giggles until someone giggles and shits!
+TIR uses the Gregorian calendar. Right, instead of anything that makes more sense given the 24 solar terms they canonically have, and New Year does not lie on January 1<sup>st</sup>. Meta reason is that I can reference my calendar apps for dates and such and it's easier, and that TIR dates can map perfectly to our dates so I can celebrate them in real life (which I don't do). In-universe reason is that there is no reason. The months especially, since there's no lunar cycle, months won't even make sense. An emperor took a day out of February to give to August, just like Augustus. They just did that for shits and giggles. 'Tis all shits and giggles until someone giggles and shits!
 
 ## The corners
 
