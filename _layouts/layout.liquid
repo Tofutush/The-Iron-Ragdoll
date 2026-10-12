@@ -5,6 +5,7 @@ banner: "banner sparky"
 iconColor: "#00ccff"
 image: "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png"
 themeColor: "#555555"
+lang: en
 eleventyComputed:
   desc: "{% if desc %}{{ desc }}{% else %}{{ title }}{% endif %}"
   key: "{% if key %}{{ key }}{% else %}{{ title }}{% endif %}"
@@ -16,7 +17,7 @@ eleventyComputed:
 ---
 <!doctype html>
 {% assign siteTheme = siteTheme | default: false %}
-<html lang="en" class="{{ siteTheme | default: 'light' }}">
+<html lang="{{ lang }}" class="{{ siteTheme | default: 'light' }}">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
