@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 
 - In-universe
-	- [Bauhinian text converter](https://tofutush.github.io/bauhinian/)
+	- [Digital Orrery](/fun/orrery/)
 	- [Moose ID Calculator](/fun/moose-id/)
 - Games
 	- [Fav Picker](/fun/fav/)

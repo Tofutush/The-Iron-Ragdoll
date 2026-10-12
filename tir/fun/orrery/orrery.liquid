@@ -22,6 +22,7 @@ eleventyNavigation:
 	<meta property="og:site_name" content="The Iron Ragdoll">
 	<meta property="og:description" content="{{ desc }}">
 	<title>{{ title }} | The Iron Ragdoll</title>
+	<link rel="stylesheet" href="/css/orrery.css"/>
 	<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='22' height='23' fill='none'><path fill='%23{{ iconColor | remove: "#" }}' d='M22 0H3L0 14h9l-2 9 14-13h-6z'/></svg>"/>
 	{% if MMDD == '12-13' %}
 		<style>
@@ -32,5 +33,6 @@ eleventyNavigation:
 	{% endif %}
 </head>
 <body>
+<script src="/js/orrery.js"></script>
 </body>
 </html>
