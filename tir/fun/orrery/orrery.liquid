@@ -1,0 +1,36 @@
+---
+iconColor: "#00ccff"
+image: "https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png"
+themeColor: "#555555"
+title: Orrery
+desc: A digital orrery of the TIR continent.
+eleventyNavigation:
+  key: "Orrery"
+  parent: "Fun"
+---
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="{{ desc }}" >
+	<meta name="author" content="Tofutush">
+	<meta name="theme-color" content="{{ themeColor }}" />
+	<meta property="og:title" content="{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="{{ image }}" data-pagefind-meta="image[content]">
+	<meta property="og:site_name" content="The Iron Ragdoll">
+	<meta property="og:description" content="{{ desc }}">
+	<title>{{ title }} | The Iron Ragdoll</title>
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='22' height='23' fill='none'><path fill='%23{{ iconColor | remove: "#" }}' d='M22 0H3L0 14h9l-2 9 14-13h-6z'/></svg>"/>
+	{% if MMDD == '12-13' %}
+		<style>
+			html {
+				filter: grayscale(1);
+			}
+		</style>
+	{% endif %}
+</head>
+<body>
+</body>
+</html>
