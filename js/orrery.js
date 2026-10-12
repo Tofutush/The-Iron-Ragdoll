@@ -3,6 +3,7 @@ let timer = null;
 
 const dateP = document.getElementById('date');
 const timeP = document.getElementById('time');
+const starsDiv = document.getElementById('stars');
 
 const colors = {
 	sunrise: ["oklch(0.5638 0.1762 16.02)", "oklch(0.7823 0.1318 41.85)"],
@@ -53,8 +54,20 @@ function updateOrrery(dateObj) {
 	timeP.innerHTML = timeString;
 	// bg
 	updateBackground(minutes);
+	updateStars(minutes);
 }
-
+function updateStars(m) {
+	let opacity;
+	if (m > 7 * 60 && m < 18 * 60) // day
+		opacity = 0;
+	else if (m < 4 * 60 || m > 22 * 60) // night
+		opacity = 1;
+	else if (m <= 7 * 60) // dawn
+		opacity = 1 - (m - 4 * 60) / (3 * 60);
+	else // sunset
+		opacity = (m - 18 * 60) / (5 * 60);
+	starsDiv.style.opacity = opacity;
+}
 function updateBackground(m) {
 	for (let i = 0; i < colorTime.length - 1; i++) {
 		if (m == colorTime[i].time) {
