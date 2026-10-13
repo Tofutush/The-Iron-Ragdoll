@@ -4,6 +4,8 @@ let timer = null;
 const dateP = document.getElementById('date');
 const timeP = document.getElementById('time');
 const starsDiv = document.getElementById('stars');
+const sunDiv = document.getElementById('sun');
+const moonDiv = document.getElementById('moon');
 
 const colors = {
 	sunrise: ["oklch(0.5638 0.1762 16.02)", "oklch(0.7823 0.1318 41.85)"],
@@ -55,6 +57,38 @@ function updateOrrery(dateObj) {
 	// bg
 	updateBackground(minutes);
 	updateStars(minutes);
+	// sun
+	let sunAngle = 360 * (minutes / (24 * 60)) + 180;
+	sunDiv.style.transform = `rotate(${sunAngle}deg)`;
+	// moon
+	updateMoon(dateObj, sunAngle);
+}
+function updateMoon(dateObj, sunAngle) {
+	if (dateObj.getMonth() == 0 && dateObj.getDate() == 23) { // eclipse day
+		moonDiv.style.transform = `rotate(${sunAngle}deg)`;
+		return;
+	}
+	// get last jan 23
+	let lastNYYear = dateObj.getFullYear();
+	let today = utc(dateObj.getFullYear(), dateObj.getMonth(), dateObj.getDate());
+	let lastNewYear = utc(dateObj.getFullYear(), 0, 23);
+	// if today isnt jan 23 yet, use last years
+	if (today < lastNewYear) {
+		lastNewYear = utc(dateObj.getFullYear() - 1, 0, 23);
+		lastNYYear = dateObj.getFullYear() - 1;
+	}
+	// days since last new year
+	let diff = (today - lastNewYear) / 1000 / 60 / 60 / 24;
+	// we need to account for the fucking leap years
+	let lastYear = utc(lastNYYear, 0, 23);
+	let nextYear = utc(lastNYYear + 1, 0, 23);
+	let yearLength = (nextYear - lastYear) / 1000 / 60 / 60 / 24;
+	console.assert(yearLength == 365 || yearLength == 366);
+	let offset = 360 * (diff / yearLength);
+	moonDiv.style.transform = `rotate(${sunAngle + offset}deg)`;
+}
+function utc(y, m, d) {
+	return Date.UTC(y, m, d);
 }
 function updateStars(m) {
 	let opacity;
@@ -75,8 +109,8 @@ function updateBackground(m) {
 			return;
 		}
 		if (m > colorTime[i].time && m < colorTime[i + 1].time) {
-			a = colorTime[i];
-			b = colorTime[i + 1];
+			let a = colorTime[i];
+			let b = colorTime[i + 1];
 			let t = (m - a.time) / (b.time - a.time);
 			const topColor = interpolateColor(a.color[0], b.color[0], t);
 			const bottomColor = interpolateColor(a.color[1], b.color[1], t);
