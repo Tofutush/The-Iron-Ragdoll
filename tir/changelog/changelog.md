@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-10-12
+
+- Added `peach half.png`;
+
 ## 2026-10-10
 
 - New lore file [Geography](/world/geography/);
