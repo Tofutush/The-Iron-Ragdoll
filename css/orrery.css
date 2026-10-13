@@ -98,3 +98,28 @@ body {
 		left: 50%;
 	}
 }
+
+#island img {
+	position: fixed;
+	width: 80vmin;
+	height: 80vmin;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	filter: drop-shadow(0 0 6px white);
+	animation: float 5s infinite ease-in-out;
+}
+
+@keyframes float {
+	0% {
+		transform: translate(-50%, -50%) translateY(-1em);
+	}
+
+	50% {
+		transform: translate(-50%, -50%) translateY(1em);
+	}
+
+	100% {
+		transform: translate(-50%, -50%) translateY(-1em);
+	}
+}
