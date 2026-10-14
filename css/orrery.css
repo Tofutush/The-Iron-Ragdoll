@@ -1,0 +1,127 @@
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	font-size: clamp(1rem, 0.8929rem + 0.5357vw, 1.375rem);
+}
+
+#hud {
+	position: fixed;
+	z-index: 99;
+	padding: 1em;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	height: 100%;
+	align-items: baseline;
+	box-sizing: border-box;
+
+	a,
+	aside {
+		background-color: #fff7;
+		color: black;
+		text-decoration: none;
+		padding: 4px 6px;
+		border-radius: 4px;
+	}
+
+	#date {
+		margin: 0;
+	}
+
+	#time {
+		margin: 0;
+		font-size: 150%;
+		text-align: right;
+	}
+}
+
+#stars {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -99;
+	background-image: radial-gradient(white 1px, transparent 2px),
+		radial-gradient(white 1px, transparent 0px),
+		radial-gradient(white 1px, transparent 2px),
+		radial-gradient(white 1px, transparent 0px),
+		radial-gradient(white 1px, transparent 2px),
+		radial-gradient(white 1px, transparent 0px),
+		radial-gradient(white 1px, transparent 2px),
+		radial-gradient(white 1px, transparent 0px),
+		radial-gradient(white 1px, transparent 2px),
+		radial-gradient(white 1px, transparent 0px),
+		radial-gradient(white 1px, transparent 2px),
+		radial-gradient(white 1px, transparent 0px);
+	background-size: 135px 135px, 352px 352px, 213px 213px, 210px 210px, 272px 272px, 128px 128px, 266px 266px, 388px 388px, 126px 126px, 349px 349px, 345px 345px, 399px 399px;
+	background-position: 385px 228px, 126px 279px, 247px 259px, 370px 153px, 186px 269px, 225px 293px, 238px 371px, 379px 306px, 328px 397px, 243px 291px, 246px 287px, 313px 123px;
+}
+
+#sun,
+#moon {
+	inset: 0;
+	position: fixed;
+}
+
+#sun {
+	z-index: 2;
+
+	div {
+		width: 6em;
+		height: 6em;
+		background-color: #fff;
+		border-radius: 999px;
+		position: fixed;
+		transform: translate(-50%, -50%) translateY(-40vmin);
+		top: 50%;
+		left: 50%;
+	}
+}
+
+#moon {
+	z-index: 3;
+
+	div {
+		width: 5em;
+		height: 5em;
+		background-color: #000;
+		border-radius: 999px;
+		position: fixed;
+		transform: translate(-50%, -50%) translateY(-40vmin);
+		top: 50%;
+		left: 50%;
+	}
+}
+
+#island img {
+	position: fixed;
+	width: 80vmin;
+	height: 80vmin;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	filter: drop-shadow(0 0 6px white);
+	animation: float 5s infinite ease-in-out;
+	z-index: 100;
+	user-select: none;
+}
+
+@keyframes float {
+	0% {
+		transform: translate(-50%, -50%) translateY(-1em);
+	}
+
+	50% {
+		transform: translate(-50%, -50%) translateY(1em);
+	}
+
+	100% {
+		transform: translate(-50%, -50%) translateY(-1em);
+	}
+}
