@@ -9,6 +9,7 @@ eleventyNavigation:
 
 - In-universe
 	- [Digital Orrery](/fun/orrery/)
+		- [Live wallpaper guide](/fun/orrery/guide/)
 	- [Moose ID Calculator](/fun/moose-id/)
 - Games
 	- [Fav Picker](/fun/fav/)
