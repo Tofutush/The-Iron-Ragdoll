@@ -6,13 +6,14 @@ const timeP = document.getElementById('time');
 const starsDiv = document.getElementById('stars');
 const sunDiv = document.getElementById('sun');
 const moonDiv = document.getElementById('moon');
+const islands = document.querySelectorAll('#island img');
 
 const colors = {
-	sunrise: ["oklch(0.5638 0.1762 16.02)", "oklch(0.7823 0.1318 41.85)"],
-	day: ["oklch(0.6647 0.1855 0.53)", "oklch(0.8131 0.1263 88.66)"],
-	evening: ["oklch(0.4807 0.151 320.47)", "oklch(0.5786 0.1669 25.64)"],
-	twilight: ["oklch(0.1809 0.1092 279.35)", "oklch(0.3457 0.1394 302.85)"],
-	night: ["oklch(0 0 0)", "oklch(0.1809 0.1092 279.35)"]
+	sunrise: ["oklch(0.5638 0.1762 16.02)", "oklch(0.7823 0.1318 41.85)", "oklch(0.9001 0.1548 94.52)"],
+	day: ["oklch(0.6647 0.1855 0.53)", "oklch(0.8131 0.1263 88.66)", "oklch(0.728163 0.153367 243.1184)"],
+	evening: ["oklch(0.4807 0.151 320.47)", "oklch(0.5786 0.1669 25.64)", "oklch(0.9001 0.1548 94.52)"],
+	twilight: ["oklch(0.1809 0.1092 279.35)", "oklch(0.3457 0.1394 302.85)", "oklch(0.6573 0.1548 354.12)"],
+	night: ["oklch(0 0 0)", "oklch(0.1809 0.1092 279.35)", "oklch(0.728163 0.153367 243.1184)"]
 };
 const colorTime = [
 	{ time: 0, color: colors.night },
@@ -114,7 +115,9 @@ function updateBackground(m) {
 			let t = (m - a.time) / (b.time - a.time);
 			const topColor = interpolateColor(a.color[0], b.color[0], t);
 			const bottomColor = interpolateColor(a.color[1], b.color[1], t);
+			const shadowColor = interpolateColor(a.color[2], b.color[2], t);
 			document.body.style.background = `linear-gradient(${topColor}, ${bottomColor})`;
+			for (let img of islands) img.style.filter = `drop-shadow(0 0 6px ${shadowColor})`;
 		}
 	}
 }
