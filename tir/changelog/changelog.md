@@ -5,6 +5,12 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-10-14
+
+- Check out the cool new digital [Orrery](/fun/orrery/);
+	- I originally wanted the islands to be low-poly vector graphics because I'm a sucker for those stupidly paywalled low-poly color-by-number games, but I found it too hard to draw it myself. In the future though, I wish to make 3D versions of the islands that you can even rotate yourself! (That raises the question of if the sun and moon would rotate with it, though…)
+	- I'm also looking to turn this into a live wallpaper. That'd be so cool, but I think Android doesn't support lockscreen only. That might be a deal-breaker but perhaps I can find a workaround;
+
 ## 2026-10-12
 
 - Added `peach half.png`;
