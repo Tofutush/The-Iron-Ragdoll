@@ -166,11 +166,13 @@ We walked past one elevator, turned a couple corners, and arrived at another. Je
 
 As Jelly rambled away, I noticed a fire escape map on the wall nearby, detailing the layout of the first floor. I stared at it, trying to memorize the entire thing, though I knew that if there were a secret room in the building, it wouldn't have been drawn on a map and hung on the wall. Out of the corner of my eye, Sugarcane seemed to do the same.
 
-"… And so *that* was why they banned bubble blowers indoors. Hey, the elevators are here! Third floor!"
+"… And so *that* was why they banned bubble blowers indoors. Hey, the elevator is here! Third floor!"
 
 The door opened with a ding and we all walked inside. There was another fingerprint lock that Jelly had to unlock before she could press the button. I zoned out and tried reconstructing the map in my head.
 
-"Anyway, isn't that so unfair?" Jelly said. I wondered what was unfair. I had been too busy looking at the map to listen.
+"Anyway, isn't that so unfair?" Jelly said.
+
+I wondered what was unfair. I had been too busy looking at the map to listen.
 
 "I think blowing bubbles into the Ambassador's face kind of warrants a ban?" Sugarcane said.
 
@@ -227,6 +229,8 @@ Orchard landed on the ground in a split. The audience started clapping.
 "She's good, though," I said.
 
 "There you are!" A loud voice boomed behind us. "I've been so worried!"
+
+I turned around to see Checkers standing in the doorway.
 
 "Papa!" Jelly sprang across the meeting table and threw herself at Checkers.
 
