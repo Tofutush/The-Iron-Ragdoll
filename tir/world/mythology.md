@@ -1,6 +1,6 @@
 ---
 title: Mythology
-desc: The gods people believe in on the continent.
+desc: The spirits people believe in on the continent.
 categories:
   - Lore
 tags:
@@ -8,7 +8,7 @@ tags:
 draft: true
 ---
 
-The deities and legends that the Ancient Bauhinians came up with, and how it affects their culture. These are some of the deities about whom people of the continent tell stories, and to whom they leave offerings. They're probably fake, but what if they aren't?
+The spirits and legends that the Ancient Bauhinians came up with, and how it affects their culture. These are some of the beings about whom people of the continent tell stories, and to whom they leave offerings. They're probably fake, but what if they aren't?
 
 (They *are* indeed fake, just legends and myths that originated a long time ago. They're not real like [Meng Po](/world/meng-po/). Get pwned, losers!)
 
@@ -16,9 +16,11 @@ None of these deities have any "official" visual representation, as all records 
 
 [[toc]]
 
-## Echo
+## God
 
-Associated superpower: hyperawareness
+At the very very top, there lies God. Everything in the world is determined by God. Your actions, thoughts, speech, etc., are all controlled by Her. Ancient Bauhinians, it seems, were mostly determinists.
+
+## Echo
 
 Echo lives in your walls. And floors, and ceilings. She listens to everything you say, sees everything you do, and knows all your secrets.
 
@@ -30,7 +32,9 @@ Parents would also sometimes tell their children things like, "if you go flashli
 
 ##
 
-- handler mind-reading
-- analyst
-- secret holder timekeeping
-- spymaster
+- one who delivers judgement. when she delivers judgement, you accept it, dont fight back
+- the one who steals your thoughts (when you have a tip-of-the-tongue moment, this is who you blame)
+- mirror spirit. a shapeshifter who can turn into anyone
+- the one who plays you like a game
+- the one who understands you and you go to for guidance
+- the archivist, recordkeeper, stores everything
