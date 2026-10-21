@@ -1,3 +1,11 @@
+---
+title: Details
+desc: Details about the Bauhinian language.
+parent: Language
+categories:
+  - Lore
+---
+
 ## Vowels
 
 | Bauhinian | Latin | Sound-alike |
