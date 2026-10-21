@@ -7,7 +7,9 @@ categories:
   - Lore
 ---
 
-Due to literally being one Bauhinian Empire for thousands of years, everyone on the continent speaks one language. Though topolects and accents exist, the foundations of them are the same, and they always remain mutually intelligible. Here is all the info on the language!
+Due to literally being one Bauhinian Empire for thousands of years, everyone on the continent speaks one language. Though topolects and accents exist, the foundations of them are the same, and they always remain mutually intelligible.
+
+(For heavily WIP conlanging efforts, see [Details](details/) and [Dictionary](dictionary/)!)
 
 [[toc]]
 
