@@ -11,9 +11,42 @@ categories:
 	}
 </style>
 <p>Words listed: {{ dictionary.size }}</p>
-<dl>
-	{% for word in dictionary %}
-		<dt id="{{ word.name }}">{{ word.bh }}<br><span class="smaller-text">{{ word.name }}</span></dt>
-		<dd><em class="lighter-text">{{ word.pos }}</em><br>{{ word.def }}</dd>
-	{% endfor %}
-</dl>
+<div class="table-responsive">
+	<table>
+		<thead>
+			<tr>
+				<th>Definition</th>
+				<th>Latin</th>
+				<th>باۋھىنيا سەث</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for word in dictionary %}
+				<tr>
+					<td><span class="lighter-text">[{{ word.pos }}]</span> {{ word.def }}</td>
+					<td>{{ word.name }}</td>
+					<td>{{ word.bh }}</td>
+				</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</div>
+<script src="/js/sort.js"></script>
+<script>
+	let sort = new SortTable(document.querySelector('table'));
+	sort.addSort({
+		colName: 'Definition',
+		keyFunc: td => td.innerText,
+		sortFunc: SortTable.sortFuncString
+	});
+	sort.addSort({
+		colName: 'Latin',
+		keyFunc: td => td.innerText,
+		sortFunc: SortTable.sortFuncString
+	});
+	sort.addSort({
+		colName: 'باۋھىنيا سەث',
+		keyFunc: td => td.innerText,
+		sortFunc: SortTable.sortFuncString
+	});
+</script>

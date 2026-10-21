@@ -6,6 +6,8 @@ categories:
   - Lore
 ---
 
+[[toc]]
+
 ## Vowels
 
 | Bauhinian | Latin | Sound-alike |
