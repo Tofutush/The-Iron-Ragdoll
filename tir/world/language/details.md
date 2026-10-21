@@ -8,7 +8,9 @@ categories:
 
 [[toc]]
 
-## Vowels
+## Phonology
+
+### Vowels
 
 | Bauhinian | Latin | Sound-alike |
 | --------- | ----- | ----------- |
@@ -18,7 +20,7 @@ categories:
 | ئو        | o     |             |
 | ئۇ        | u     |             |
 
-### Compound vowels
+#### Compound vowels
 
 | Bauhinian | Latin | Sound-alike                                                                       |
 | --------- | ----- | --------------------------------------------------------------------------------- |
@@ -26,7 +28,7 @@ categories:
 | ئاي       | ai    | t**y**pe (note how the second letter is a "y" but is spelled "i" in Latin)        |
 | ئەي       | ei    | s**ay**                                                                           |
 
-## Consonants
+### Consonants
 
 | Letter | Latin | Sound-alike |
 | ------ | ----- | ----------- |
