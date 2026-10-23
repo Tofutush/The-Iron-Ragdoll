@@ -26,7 +26,7 @@ You add ۇ to the end of a word to make it plural.
 
 - "Plural" only applies to uncertain amounts. If the number is certain, no plural gets applied.
 - If the modified word ends in a ى, the ى gets dropped in oral speech.
-- If it ends in a ۇ, the gets dropped in both oral and writing.
+- If it ends in a ۇ, the ۇ gets dropped in both oral and writing.
 
 | English      | Latin | سەثىس باۋھىنياتا |
 | ------------ | ----- | ---------------- |

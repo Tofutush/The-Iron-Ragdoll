@@ -54,9 +54,9 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 | 25    | ch    |                                     | چ                |
 | 26    | sh    |                                     | ش                |
 | 27    | r     | **r**aw, to**r**e                   | ر                |
-| 28    | j     | 机                                   | [^4]ژ            |
-| 29    | q     | 期                                   | [^4]ق            |
-| 30    | x     | 希                                   | [^4]خ            |
+| 28    | j     | 机                                   | ژ                |
+| 29    | q     | 期                                   | ق                |
+| 30    | x     | 希                                   | خ                |
 | 31    | th    | **th**ing                           | ث                |
 | 32    | dh    | **th**e                             | ذ                |
 
