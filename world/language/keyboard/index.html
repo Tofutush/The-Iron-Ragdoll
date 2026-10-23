@@ -21,7 +21,6 @@
     })();
   </script>
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
-  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/callout.css">
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='22' height='23' fill='none'><path fill='%2300ccff' d='M22 0H3L0 14h9l-2 9 14-13h-6z'/></svg>">
 </head>
@@ -146,220 +145,220 @@
         </div>
       </div>
     </div>
-  </main>
-  <script>
-    const keys = [
-      [ // row 1
-        {
-          en: "Q",
-          bh: "ق",
-          shift: "ـ"
-        }, {
-          en: "W",
-          bh: "ۋ"
-        }, {
-          en: "E",
-          bh: "ە"
-        }, {
-          en: "R",
-          bh: "ر"
-        }, {
-          en: "T",
-          bh: "ت",
-          shift: "ث"
-        }, {
-          en: "Y",
-          bh: "ي"
-        }, {
-          en: "U",
-          bh: "ۇ"
-        }, {
-          en: "I",
-          bh: "ى",
-          shift: "ې"
-        }, {
-          en: "O",
-          bh: "و"
-        }, {
-          en: "P",
-          bh: "پ"
-        }, {
-          en: "[",
-          shift: "»"
-        }, {
-          en: "]",
-          shift: "«"
-        }
-      ],
-      [ // row 2
-        {
-          en: "A",
-          bh: "ا"
-        }, {
-          en: "S",
-          bh: "س",
-          shift: "ش"
-        }, {
-          en: "D",
-          bh: "د",
-          shift: "ذ"
-        }, {
-          en: "F",
-          bh: "ف"
-        }, {
-          en: "G",
-          bh: "گ"
-        }, {
-          en: "H",
-          bh: "ھ"
-        }, {
-          en: "J",
-          bh: "ژ"
-        }, {
-          en: "K",
-          bh: "ك"
-        }, {
-          en: "L",
-          bh: "ل",
-          shift: "لا"
-        }, {
-          en: ";",
-          bh: "؛"
-        }
-      ],
-      [ // row 3
-        {
-          en: "Z",
-          bh: "ز",
-          shift: "ج"
-        }, {
-          en: "X",
-          bh: "خ"
-        }, {
-          en: "C",
-          bh: "څ",
-          shift: "چ"
-        }, {
-          en: "V",
-          bh: "ڤ"
-        }, {
-          en: "B",
-          bh: "ب"
-        }, {
-          en: "N",
-          bh: "ن"
-        }, {
-          en: "M",
-          bh: "م"
-        }, {
-          en: ",",
-          bh: "،"
-        }, {
-          en: ".",
-          bh: ""
-        }, {
-          en: "/",
-          bh: "ئ",
-          shift: "؟"
-        }
-      ]
-    ];
-    const textareaDiv = document.getElementById('output');
-    let shiftOn = false;
-    // init
-    buildKeyboard();
-    document.addEventListener('click', e => {
-      // find key div
-      let keyDiv = e.target.closest('.key');
-      if (!keyDiv) return;
-      if (keyDiv.id == 'shift') {
-        toggleShift();
-        return;
-      }
-      if (keyDiv.id == 'space') {
-        addText(' ');
-        return;
-      }
-      if (shiftOn) {
-        addText(keyDiv.data.shift || keyDiv.data.bh || keyDiv.data.en);
-        toggleShift(false);
-      } else addText(keyDiv.data.bh || keyDiv.data.en);
-    });
-    document.addEventListener('keydown', e => {
-      // dont interfere w/ these
-      if (e.ctrlKey || e.altKey || e.metaKey) return;
-      // toggle shift
-      if (e.shiftKey) toggleShift(true);
-      // find key
-      let key;
-      if (e.code == 'Slash') key = keys[2][9];
-      else if (e.code == 'BracketLeft') key = keys[0][11];
-      else if (e.code == 'BracketRight') key = keys[0][10];
-      else {
-        let pressedKey = e.key.toUpperCase();
-        key = keys.flat().find(k => k.en == pressedKey);
-        if (!key) return;
-      }
-      e.preventDefault();
-      if (e.shiftKey) addText(key.shift || key.bh || key.en);
-      else addText(key.bh || key.en);
-    });
-    document.addEventListener('keyup', e => {
-      if (e.key == 'Shift') toggleShift(false);
-    });
-
-    function buildKeyboard() {
-      for (let row in keys) {
-        let rowDiv = document.getElementById('row' + (parseInt(row) + 1));
-        rowDiv.innerHTML = '';
-        // if row 3, add shift key
-        if (row == 2) rowDiv.appendChild(elt('div', {
-          className: `key ${shiftOn ? 'pressed' : ''}`,
-          id: 'shift'
-        }, "Shift"));
-        for (let key of keys[row]) {
-          let en = elt('span', {
-            className: 'en'
-          }, key.en);
-          let keyDiv = elt('div', {
-            className: 'key',
-            data: key
-          }, en);
-          let bh;
-          // the weird classname is for layout consistency: instead of not adding the letters, hide them
-          if (shiftOn) bh = elt('span', {
-            className: 'bh'
-          }, key.shift || '');
-          else bh = elt('span', {
-            className: 'bh'
-          }, key.bh || '');
-          keyDiv.appendChild(bh);
-          rowDiv.appendChild(keyDiv);
-        }
-      }
-    }
-
-    function addText(text) {
-      textareaDiv.setRangeText(text, textareaDiv.selectionStart, textareaDiv.selectionEnd, "end");
-    }
-
-    function toggleShift(on) {
-      if (on) shiftOn = true;
-      else if (on == false) shiftOn = false;
-      else shiftOn = !shiftOn;
+    <script>
+      const keys = [
+        [ // row 1
+          {
+            en: "Q",
+            bh: "ق",
+            shift: "ـ"
+          }, {
+            en: "W",
+            bh: "ۋ"
+          }, {
+            en: "E",
+            bh: "ە"
+          }, {
+            en: "R",
+            bh: "ر"
+          }, {
+            en: "T",
+            bh: "ت",
+            shift: "ث"
+          }, {
+            en: "Y",
+            bh: "ي"
+          }, {
+            en: "U",
+            bh: "ۇ"
+          }, {
+            en: "I",
+            bh: "ى",
+            shift: "ې"
+          }, {
+            en: "O",
+            bh: "و"
+          }, {
+            en: "P",
+            bh: "پ"
+          }, {
+            en: "[",
+            shift: "»"
+          }, {
+            en: "]",
+            shift: "«"
+          }
+        ],
+        [ // row 2
+          {
+            en: "A",
+            bh: "ا"
+          }, {
+            en: "S",
+            bh: "س",
+            shift: "ش"
+          }, {
+            en: "D",
+            bh: "د",
+            shift: "ذ"
+          }, {
+            en: "F",
+            bh: "ف"
+          }, {
+            en: "G",
+            bh: "گ"
+          }, {
+            en: "H",
+            bh: "ھ"
+          }, {
+            en: "J",
+            bh: "ژ"
+          }, {
+            en: "K",
+            bh: "ك"
+          }, {
+            en: "L",
+            bh: "ل",
+            shift: "لا"
+          }, {
+            en: ";",
+            bh: "؛"
+          }
+        ],
+        [ // row 3
+          {
+            en: "Z",
+            bh: "ز",
+            shift: "ج"
+          }, {
+            en: "X",
+            bh: "خ"
+          }, {
+            en: "C",
+            bh: "څ",
+            shift: "چ"
+          }, {
+            en: "V",
+            bh: "ڤ"
+          }, {
+            en: "B",
+            bh: "ب"
+          }, {
+            en: "N",
+            bh: "ن"
+          }, {
+            en: "M",
+            bh: "م"
+          }, {
+            en: ",",
+            bh: "،"
+          }, {
+            en: ".",
+            bh: ""
+          }, {
+            en: "/",
+            bh: "ئ",
+            shift: "؟"
+          }
+        ]
+      ];
+      const textareaDiv = document.getElementById('output');
+      let shiftOn = false;
+      // init
       buildKeyboard();
-    }
+      document.addEventListener('click', e => {
+        // find key div
+        let keyDiv = e.target.closest('.key');
+        if (!keyDiv) return;
+        if (keyDiv.id == 'shift') {
+          toggleShift();
+          return;
+        }
+        if (keyDiv.id == 'space') {
+          addText(' ');
+          return;
+        }
+        if (shiftOn) {
+          addText(keyDiv.data.shift || keyDiv.data.bh || keyDiv.data.en);
+          toggleShift(false);
+        } else addText(keyDiv.data.bh || keyDiv.data.en);
+      });
+      document.addEventListener('keydown', e => {
+        // dont interfere w/ these
+        if (e.ctrlKey || e.altKey || e.metaKey) return;
+        // toggle shift
+        if (e.shiftKey) toggleShift(true);
+        // find key
+        let key;
+        if (e.code == 'Slash') key = keys[2][9];
+        else if (e.code == 'BracketLeft') key = keys[0][11];
+        else if (e.code == 'BracketRight') key = keys[0][10];
+        else {
+          let pressedKey = e.key.toUpperCase();
+          key = keys.flat().find(k => k.en == pressedKey);
+          if (!key) return;
+        }
+        e.preventDefault();
+        if (e.shiftKey) addText(key.shift || key.bh || key.en);
+        else addText(key.bh || key.en);
+      });
+      document.addEventListener('keyup', e => {
+        if (e.key == 'Shift') toggleShift(false);
+      });
 
-    function elt(type, props, ...children) {
-      let dom = document.createElement(type);
-      if (props) Object.assign(dom, props);
-      for (let child of children) {
-        if (typeof child == "string") dom.appendChild(document.createTextNode(child));
-        else dom.appendChild(child);
+      function buildKeyboard() {
+        for (let row in keys) {
+          let rowDiv = document.getElementById('row' + (parseInt(row) + 1));
+          rowDiv.innerHTML = '';
+          // if row 3, add shift key
+          if (row == 2) rowDiv.appendChild(elt('div', {
+            className: `key ${shiftOn ? 'pressed' : ''}`,
+            id: 'shift'
+          }, "Shift"));
+          for (let key of keys[row]) {
+            let en = elt('span', {
+              className: 'en'
+            }, key.en);
+            let keyDiv = elt('div', {
+              className: 'key',
+              data: key
+            }, en);
+            let bh;
+            // the weird classname is for layout consistency: instead of not adding the letters, hide them
+            if (shiftOn) bh = elt('span', {
+              className: 'bh'
+            }, key.shift || '');
+            else bh = elt('span', {
+              className: 'bh'
+            }, key.bh || '');
+            keyDiv.appendChild(bh);
+            rowDiv.appendChild(keyDiv);
+          }
+        }
       }
-      return dom;
-    }
-  </script>
+
+      function addText(text) {
+        textareaDiv.setRangeText(text, textareaDiv.selectionStart, textareaDiv.selectionEnd, "end");
+      }
+
+      function toggleShift(on) {
+        if (on) shiftOn = true;
+        else if (on == false) shiftOn = false;
+        else shiftOn = !shiftOn;
+        buildKeyboard();
+      }
+
+      function elt(type, props, ...children) {
+        let dom = document.createElement(type);
+        if (props) Object.assign(dom, props);
+        for (let child of children) {
+          if (typeof child == "string") dom.appendChild(document.createTextNode(child));
+          else dom.appendChild(child);
+        }
+        return dom;
+      }
+    </script>
+  </main>
   <footer>
     <button class="theme-toggle">
       <div>
