@@ -1,0 +1,4 @@
+body {
+	--table-border-color: var(--text-normal);
+	--table-header-border-color: var(--text-normal);
+}

@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-10-23
 
 - [Keyboard](/world/language/keyboard/).
+- Added `timber flowing hair.png`;
 
 ## 2026-10-15
 

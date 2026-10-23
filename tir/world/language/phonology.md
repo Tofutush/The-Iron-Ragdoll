@@ -6,7 +6,7 @@ categories:
   - Language
 ---
 
-Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/) be kind to me.[^1]
+Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) be kind to me.[^1] Also I have successfully explained this language in a way that only Chinese and English bilinguals with a familiarity with the Arabic writing system (for example, me) would be able to get, so if anything's confusing worry not it's not your fault. Sorry I'm so bad at this 😭.
 
 [[toc]]
 
@@ -79,6 +79,21 @@ Bauhinian uses the Arabic script, which is written right-to-left, except for num
 Just know that, like Uyghurche, the letter ئ is used as a vowel separator; and also if a word starts with a vowel, it must be preceded by this letter.
 
 In addition, letters with two dots can be simplified in to a line in handwriting, and three dots can be simplified into a little arrow.
+
+## Pronunciation rules
+
+If an ى is at the end of a word, it gets prolonged into an ې.
+
+The letters ق ,ژ, and خ are the most archaic letters, and there are explicit rules about their vowel combinations.
+
+- When followed by ى or ې, nothing changes and everything is fine.
+- When followed by ا or و, they get pronounced as if there's a ي in between. E.g. 架, 秋.
+- When followed by ۇ, the 乌 turns into 淤. Same thing happens with ي for this point in particular.
+- They cannot be followed by ai or ei.
+- This is terrible because Chinese speakers don't need to be told this and non-speakers won't get it.
+- Whatever (bashes head against computer screen). Anyway this reminded me of this joke. International student at TSA. "Do you have a laptop?" "No." TSA agent searches bag and pulls out a laptop. "What is this?" "This is computer."
+
+The letter ۋ is not allowed to be after a vowel, except in the *only* exception, Bauhinia (bawhinya).
 
 [^1]: That's actually 32 in total, same as Uyghurche even. But Uyghurche has clear front / back vowel pairings and I don't! Help. So many consonants. Yet I love every one of them dearly and don't want to delete any of them. (It's mostly to flex how many consonants I can pronounce well though.)
 [^2]: The beauty of the Arabic script (aside from the fact that it's just really pretty) is how you can just make new letters by adding a shitton of dots to everything without them looking *obviously* extra. One dot, two dot, three dot; could've sworn I saw four-dot variants while digging through font files too. You can technically do the same in Latin with accents, but they just look so obviously added on.
