@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-10-23
+
+- [Keyboard](/world/language/keyboard/).
+
 ## 2026-10-15
 
 - Added `harmony cascade whatever this is.png`;

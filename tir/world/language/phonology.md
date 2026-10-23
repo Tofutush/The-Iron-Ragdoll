@@ -1,29 +1,26 @@
 ---
-title: Details
-desc: Details about the Bauhinian language.
+title: Phonology
+desc: Phonology of the Bauhinian language.
 parent: Language
 categories:
-  - Lore
-draft: true
+  - Language
 ---
+
+Bauhinian features 5 basic vowels, 3 compound vowels, and 26 consonants. May God be kind to me.[^1]
 
 [[toc]]
 
-## Phonology
+## Vowels
 
-Bauhinian featured 5 basic vowels, 3 compound vowels, and 26 consonants. May God be kind to me.[^1]
+| Order | Bauhinian | Latin | Sound-alike       |
+| ----- | --------- | ----- | ----------------- |
+| 1     | ئا        | a     | **a**pple         |
+| 2     | ئە        | e     | s**e**t           |
+| 3     | ئى        | i     | t**i**p / t**ea** |
+| 4     | ئو        | o     | s**oa**p          |
+| 5     | ئۇ        | u     | l**oo**p          |
 
-### Vowels
-
-| Order | Bauhinian | Latin | Sound-alike |
-| ----- | --------- | ----- | ----------- |
-| 1     | ئا        | a     |             |
-| 2     | ئە        | e     |             |
-| 3     | ئى        | i     |             |
-| 4     | ئو        | o     |             |
-| 5     | ئۇ        | u     |             |
-
-#### Compound vowels
+### Compound vowels
 
 | Bauhinian | Latin | Sound-alike                                                                       |
 | --------- | ----- | --------------------------------------------------------------------------------- |
@@ -31,43 +28,43 @@ Bauhinian featured 5 basic vowels, 3 compound vowels, and 26 consonants. May God
 | ئاي       | ai    | t**y**pe (note how the second letter is a "y" but is spelled "i" in Latin)        |
 | ئەي       | ei    | s**ay**                                                                           |
 
-### Consonants
+## Consonants
 
-| Order | Letter | Latin | Sound-alike |
-| ----- | ------ | ----- | ----------- |
-| 6     | ب      | b     |             |
-| 7     | پ      | p     |             |
-| 8     | د      | d     |             |
-| 9     | ت      | t     |             |
-| 10    | ك      | k     |             |
-| 11    | گ      | g     |             |
-| 12    | ف      | f     |             |
-| 13    | ڤ      | v     |             |
-| 14    | ھ      | h     |             |
-| 15    | م      | m     |             |
-| 16    | ن      | n     |             |
-| 17    | ي      | y     |             |
-| 18    | ۋ      | w     |             |
-| 19    | ل      | l     |             |
-| 20    | ز      | z     |             |
-| 21    | څ      | c     |             |
-| 22    | س      | s     |             |
-| 23    | ج      | zh    |             |
-| 24    | چ      | ch    |             |
-| 25    | ش      | sh    |             |
-| 26    | ر      | r     |             |
-| 27    | [^4]ژ  | j     |             |
-| 28    | [^4]ق  | q     |             |
-| 29    | [^4]خ  | x     |             |
-| 30    | ث      | θ     |             |
-| 31    | ذ      | ð     |             |
+| Order | Letter | Latin | Sound-alike                         |
+| ----- | ------ | ----- | ----------------------------------- |
+| 6     | ب      | b     |                                     |
+| 7     | پ      | p     |                                     |
+| 8     | د      | d     |                                     |
+| 9     | ت      | t     |                                     |
+| 10    | ك      | k     |                                     |
+| 11    | گ      | g     |                                     |
+| 12    | ف      | f     |                                     |
+| 13    | ڤ      | v     |                                     |
+| 14    | ھ      | h     |                                     |
+| 15    | م      | m     |                                     |
+| 16    | ن      | n     |                                     |
+| 17    | ي      | y     |                                     |
+| 18    | ۋ      | w     |                                     |
+| 19    | ل      | l     |                                     |
+| 20    | ز      | z     |                                     |
+| 21    | څ      | c     | ca**ts**                            |
+| 22    | س      | s     |                                     |
+| 23    | ج      | zh    | **j**uice and mea**s**ure both work |
+| 24    | چ      | ch    |                                     |
+| 25    | ش      | sh    |                                     |
+| 26    | ر      | r     | **r**aw, to**r**e                   |
+| 27    | [^4]ژ  | j     | 机                                   |
+| 28    | [^4]ق  | q     | 期                                   |
+| 29    | [^4]خ  | x     | 希                                   |
+| 30    | ث      | th    | **th**ing                           |
+| 31    | ذ      | dh    | **th**e                             |
 
 > [!info]- Note on the letter choices
 > The script is largely based on the Uyghurche alphabet. I mixed and matched some letters from different languages here. I'm not sure which ones are absent from Arabic since I only learned Uyghurche and not Arabic, but for the ones not present in Uyghurche, ث and ذ are from Arabic, څ is from Pashto, and ڤ is from Kurdish, Swahili, and a number of other languages.[^2]
 >
 > The only letters for which I changed the pronunciation drastically were ق , غ, and خ, into Chinese j, q, and x, respectively. This is because I can't find any readily-available equivalent and don't want to add my own little dots while knowing shit.
 
-### Writing rules
+## Writing rules
 
 Bauhinian uses the Arabic script, which is written right-to-left, except for numbers which are left-to-right. I won't go into detail on writing in Arabic script here since there are plenty of other resources for it.
 
