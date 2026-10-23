@@ -16,7 +16,6 @@ Starcorp is the most important corporation on the entire continent. It's the bac
 
 ## Characters
 
-<link rel="stylesheet" href="/css/characterspage.css">
 {% assign filteredChs = characters | filterChByTag: 'Starcorp' %}
 {% include 'chs', chs: filteredChs %}
 

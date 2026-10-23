@@ -25,6 +25,5 @@ dialog:
 chTitle: Harmony's Arrest
 draft: true
 ---
-<link rel="stylesheet" href="/css/dialog.css"/>
 
 {% include 'dialog', dialogContent: dialog %}

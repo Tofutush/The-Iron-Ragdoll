@@ -7,7 +7,6 @@ categories:
   - Lore
   - Superpowers
 ---
-<link rel="stylesheet" href="/css/characterspage.css">
 
 [[toc]]
 

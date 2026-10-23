@@ -31,7 +31,6 @@ dialog:
     - "Pumpkin: Oh, right, sorry! I'm Curly."
     - "Candlelight: Candlelight. It's a pleasure meeting you."
 ---
-<link rel="stylesheet" href="/css/dialog.css"/>
 
 Context: [Candlelight Back Home](/stories/candlelight-back-home/).
 

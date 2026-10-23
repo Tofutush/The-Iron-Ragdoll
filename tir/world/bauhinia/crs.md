@@ -10,6 +10,5 @@ categories:
 
 ## Characters
 
-<link rel="stylesheet" href="/css/characterspage.css">
 {% assign filteredChs = characters | filterChByTag: 'CRS' %}
 {% include 'chs', chs: filteredChs %}

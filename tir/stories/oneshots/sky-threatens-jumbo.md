@@ -36,7 +36,6 @@ dialog:
   - He jingled the handcuffs in his left hand. Both hands are extended towards Jumbo. She swallowed.
   - - "Jumbo: I'll work with you. Th-thank you."
 ---
-<link rel="stylesheet" href="/css/dialog.css"/>
 
 Context: [Poker Spies](/stories/poker-spies/), Sky follows Jumbo to her home.
 

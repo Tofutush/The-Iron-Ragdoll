@@ -41,7 +41,6 @@ The ultimate purpose of the magic academy is to limit magicians' power and to tr
 
 ## Characters
 
-<link rel="stylesheet" href="/css/characterspage.css">
 {% assign filteredChs = characters | filterChByTag: 'Magic Academy' %}
 {% include 'chs', chs: filteredChs %}
 

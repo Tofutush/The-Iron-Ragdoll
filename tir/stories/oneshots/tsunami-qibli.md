@@ -10,7 +10,6 @@ dialog:
   - - "Qibli: Did you rat me out?"
     - "Tsunami: No!"
 ---
-<link rel="stylesheet" href="/css/dialog.css"/>
 
 Context: [Poker Spies](/stories/poker-spies/), Tsunami finds Qibli and confronts her.
 

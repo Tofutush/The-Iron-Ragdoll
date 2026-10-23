@@ -16,7 +16,6 @@ dialog:
     - "Qibli: Because they're migrated. If they're killed en masse, things would be different. Do you think Kismet would risk that? I know he's listening. He can consider it right now."
     - "Qibli: I can work for you. In exchange for you destroying that magic machine and never attempting anything like that ever again. Is that a deal?"
 ---
-<link rel="stylesheet" href="/css/dialog.css"/>
 
 Context: [Qibli on the Run](/stories/qibli-on-the-run/), Qibli gets captured and interrogated about where her magic was stored.
 

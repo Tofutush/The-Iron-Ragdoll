@@ -21,7 +21,6 @@ The subjects taught are wildly different too.
 
 ## Characters
 
-<link rel="stylesheet" href="/css/characterspage.css">
 {% assign filteredChs = characters | filterChByTag: 'Spy School' %}
 {% include 'chs', chs: filteredChs %}
 
