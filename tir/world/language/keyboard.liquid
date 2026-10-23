@@ -39,6 +39,15 @@ categories:
 			border-radius: 6px;
 			user-select: none;
 			cursor: pointer;
+			transition: transform .2s var(--bezier);
+
+			&:hover{
+				transform: translateY(-.2em);
+			}
+
+			&:active{
+				transform: translateY(0);
+			}
 
 			.en {
 				align-self: end;
@@ -47,7 +56,7 @@ categories:
 			}
 
 			.bh {
-				font-weight: bold;
+				font-weight: 500;
 				font-size: var(--font-size-h3);
 				line-height: 0.5;
 			}
@@ -141,6 +150,10 @@ categories:
 			toggleShift();
 			return;
 		}
+		if (keyDiv.id == 'space') {
+			addText(' ');
+			return;
+		}
 		if (shiftOn) {
 			addText(keyDiv.data.shift || keyDiv.data.bh || keyDiv.data.en);
 			toggleShift(false);
@@ -156,8 +169,8 @@ categories:
 		// find key
 		let key;
 		if (e.code == 'Slash') key = keys[2][9];
-		else if (e.code == 'BracketLeft') key = keys[0][10];
-		else if (e.code == 'BracketRight') key = keys[0][11];
+		else if (e.code == 'BracketLeft') key = keys[0][11];
+		else if (e.code == 'BracketRight') key = keys[0][10];
 		else {
 			let pressedKey = e.key.toUpperCase();
 			key = keys.flat().find(k => k.en == pressedKey);
@@ -193,7 +206,6 @@ categories:
 
 	function addText(text) {
 		textareaDiv.setRangeText(text, textareaDiv.selectionStart, textareaDiv.selectionEnd, "end");
-		textareaDiv.focus();
 	}
 
 	function toggleShift(on) {
