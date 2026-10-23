@@ -1,0 +1,404 @@
+<!doctype html>
+<html lang="en" class="light">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Type Bauhinian!">
+  <meta name="author" content="Tofutush">
+  <meta name="theme-color" content="#555555">
+  <meta property="og:title" content="Keyboard | The Iron Ragdoll">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://raw.githubusercontent.com/Tofutush/The-Iron-Ragdoll/refs/heads/main/img/bg/icon.png" data-pagefind-meta="image[content]">
+  <meta property="og:site_name" content="The Iron Ragdoll">
+  <meta property="og:description" content="Type Bauhinian!">
+  <title>Keyboard | The Iron Ragdoll</title>
+  <script>
+    (function() {
+      let lightDark = parseInt(localStorage.getItem('light-dark'));
+      if (lightDark === 0) document.documentElement.className = 'dark';
+      if (lightDark === 1) document.documentElement.className = 'light';
+    })();
+  </script>
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/callout.css">
+  <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='22' height='23' fill='none'><path fill='%2300ccff' d='M22 0H3L0 14h9l-2 9 14-13h-6z'/></svg>">
+</head>
+
+<body>
+  <header style="background-image: url(/The-Iron-Ragdoll/img/htShwmOnXm-2850.webp)"><a href="/The-Iron-Ragdoll/"></a></header>
+  <nav>
+    <a href="/The-Iron-Ragdoll/about/">About</a>
+    <a href="/The-Iron-Ragdoll/characters/">Characters</a>
+    <a href="/The-Iron-Ragdoll/stories/">Stories</a>
+    <a href="/The-Iron-Ragdoll/world/">World</a>
+    <a href="/The-Iron-Ragdoll/gallery/2026/">Gallery</a>
+    <a href="/The-Iron-Ragdoll/changelog/">Updates</a>
+    <a href="/The-Iron-Ragdoll/search/">Search</a>
+  </nav>
+  <main data-pagefind-body="">
+    <div class="breadcrumbs" data-pagefind-ignore="">
+      <a href="/The-Iron-Ragdoll/world/">World</a>
+      <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+        <path d="m9 18 6-6-6-6"></path>
+      </svg>
+      <a href="/The-Iron-Ragdoll/world/language/">Language</a>
+      <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right">
+        <path d="m9 18 6-6-6-6"></path>
+      </svg>
+      <a href="/The-Iron-Ragdoll/world/language/keyboard/">Keyboard</a>
+    </div>
+    <style>
+      #related ul {
+        font-size: var(--font-size-small);
+      }
+    </style>
+    <p class="smaller-text lighter-text">Categories: <a href="/The-Iron-Ragdoll/world/category/language/">Language</a></p>
+    <h1>Keyboard</h1>
+    <p class="lighter-text">Type Bauhinian!</p>
+    <style>
+      #output {
+        width: 100%;
+        height: 8em;
+        font-family: lexend, lxgw, noto sans arabic;
+        font-size: var(--font-size);
+      }
+
+      #wrapper {
+        width: 100%;
+        overflow-x: auto;
+      }
+
+      #keyboard {
+        width: fit-content;
+      }
+
+      .row {
+        display: flex;
+        justify-content: center;
+        gap: .5em;
+        margin: .5em;
+
+        .key {
+          width: 2em;
+          height: 2em;
+          background-color: var(--box);
+          padding: .3em;
+          display: flex;
+          justify-content: space-between;
+          border-radius: 6px;
+          user-select: none;
+          cursor: pointer;
+
+          .en {
+            align-self: end;
+            color: var(--c);
+            font-size: var(--font-size-small);
+          }
+
+          .bh {
+            font-weight: bold;
+            font-size: var(--font-size-h3);
+            line-height: 0.5;
+          }
+        }
+      }
+
+      #row2 {
+        padding-left: 2em;
+      }
+
+      #shift {
+        width: 4em;
+        justify-content: center;
+        align-items: center;
+
+        &.pressed {
+          outline: 2px solid var(--c);
+        }
+      }
+
+      #space {
+        width: 20em;
+      }
+    </style>
+    <p>Here you can type in Bauhinian without hassle! Mostly for myself LMAO.</p>
+    <textarea id="output" dir="rtl"></textarea>
+    <div id="wrapper">
+      <div id="keyboard">
+        <div class="row" id="row1"></div>
+        <div class="row" id="row2"></div>
+        <div class="row" id="row3">
+          <div class="key" id="shift">Shift</div>
+        </div>
+        <div class="row" id="row4">
+          <div class="key" id="space"></div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script>
+    const keys = [
+      [ // row 1
+        {
+          en: "Q",
+          bh: "ق",
+          shift: "ـ"
+        }, {
+          en: "W",
+          bh: "ۋ"
+        }, {
+          en: "E",
+          bh: "ە"
+        }, {
+          en: "R",
+          bh: "ر"
+        }, {
+          en: "T",
+          bh: "ت",
+          shift: "ث"
+        }, {
+          en: "Y",
+          bh: "ي"
+        }, {
+          en: "U",
+          bh: "ۇ"
+        }, {
+          en: "I",
+          bh: "ى"
+        }, {
+          en: "O",
+          bh: "و"
+        }, {
+          en: "P",
+          bh: "پ"
+        }, {
+          en: "[",
+          shift: "»"
+        }, {
+          en: "]",
+          shift: "«"
+        }
+      ],
+      [ // row 2
+        {
+          en: "A",
+          bh: "ا"
+        }, {
+          en: "S",
+          bh: "س",
+          shift: "ش"
+        }, {
+          en: "D",
+          bh: "د",
+          shift: "ذ"
+        }, {
+          en: "F",
+          bh: "ف"
+        }, {
+          en: "G",
+          bh: "گ"
+        }, {
+          en: "H",
+          bh: "ھ"
+        }, {
+          en: "J",
+          bh: "ژ"
+        }, {
+          en: "K",
+          bh: "ك"
+        }, {
+          en: "L",
+          bh: "ل",
+          shift: "لا"
+        }, {
+          en: ";",
+          bh: "؛"
+        }
+      ],
+      [ // row 3
+        {
+          en: "Z",
+          bh: "ز",
+          shift: "ج"
+        }, {
+          en: "X",
+          bh: "خ"
+        }, {
+          en: "C",
+          bh: "څ",
+          shift: "چ"
+        }, {
+          en: "V",
+          bh: "ڤ"
+        }, {
+          en: "B",
+          bh: "ب"
+        }, {
+          en: "N",
+          bh: "ن"
+        }, {
+          en: "M",
+          bh: "م"
+        }, {
+          en: ",",
+          bh: "،"
+        }, {
+          en: ".",
+          bh: ""
+        }, {
+          en: "/",
+          bh: "ئ",
+          shift: "؟"
+        }
+      ]
+    ];
+    const textareaDiv = document.getElementById('output');
+    let shiftOn = false;
+    // init
+    buildKeyboard();
+    document.addEventListener('click', e => {
+      // find key div
+      let keyDiv = e.target.closest('.key');
+      if (!keyDiv) return;
+      if (keyDiv.id == 'shift') {
+        toggleShift();
+        return;
+      }
+      if (shiftOn) {
+        addText(keyDiv.data.shift || keyDiv.data.bh || keyDiv.data.en);
+        toggleShift(false);
+      } else addText(keyDiv.data.bh || keyDiv.data.en);
+    });
+    document.addEventListener('keydown', e => {
+      // dont interfere w/ these
+      if (e.ctrlKey || e.altKey || e.metaKey) return;
+      // toggle shift
+      if (e.shiftKey) toggleShift(true);
+      // find key
+      let key;
+      if (e.code == 'Slash') key = keys[2][9];
+      else if (e.code == 'BracketLeft') key = keys[0][10];
+      else if (e.code == 'BracketRight') key = keys[0][11];
+      else {
+        let pressedKey = e.key.toUpperCase();
+        key = keys.flat().find(k => k.en == pressedKey);
+        if (!key) return;
+      }
+      e.preventDefault();
+      if (e.shiftKey) addText(key.shift || key.bh || key.en);
+      else addText(key.bh || key.en);
+    });
+    document.addEventListener('keyup', e => {
+      if (e.key == 'Shift') toggleShift(false);
+    });
+
+    function buildKeyboard() {
+      for (let row in keys) {
+        let rowDiv = document.getElementById('row' + (parseInt(row) + 1));
+        rowDiv.innerHTML = '';
+        // if row 3, add shift key
+        if (row == 2) rowDiv.appendChild(elt('div', {
+          className: `key ${shiftOn ? 'pressed' : ''}`,
+          id: 'shift'
+        }, "Shift"));
+        for (let key of keys[row]) {
+          let en = elt('span', {
+            className: 'en'
+          }, key.en);
+          let keyDiv = elt('div', {
+            className: 'key',
+            data: key
+          }, en);
+          let bh;
+          // the weird classname is for layout consistency: instead of not adding the letters, hide them
+          if (shiftOn) bh = elt('span', {
+            className: 'bh'
+          }, key.shift || '');
+          else bh = elt('span', {
+            className: 'bh'
+          }, key.bh || '');
+          keyDiv.appendChild(bh);
+          rowDiv.appendChild(keyDiv);
+        }
+      }
+    }
+
+    function addText(text) {
+      textareaDiv.setRangeText(text, textareaDiv.selectionStart, textareaDiv.selectionEnd, "end");
+      textareaDiv.focus();
+    }
+
+    function toggleShift(on) {
+      if (on) shiftOn = true;
+      else if (on == false) shiftOn = false;
+      else shiftOn = !shiftOn;
+      buildKeyboard();
+    }
+
+    function elt(type, props, ...children) {
+      let dom = document.createElement(type);
+      if (props) Object.assign(dom, props);
+      for (let child of children) {
+        if (typeof child == "string") dom.appendChild(document.createTextNode(child));
+        else dom.appendChild(child);
+      }
+      return dom;
+    }
+  </script>
+  <footer>
+    <button class="theme-toggle">
+      <div>
+        <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun">
+          <circle cx="12" cy="12" r="4"></circle>
+          <path d="M12 2v2"></path>
+          <path d="M12 20v2"></path>
+          <path d="m4.93 4.93 1.41 1.41"></path>
+          <path d="m17.66 17.66 1.41 1.41"></path>
+          <path d="M2 12h2"></path>
+          <path d="M20 12h2"></path>
+          <path d="m6.34 17.66-1.41 1.41"></path>
+          <path d="m19.07 4.93-1.41 1.41"></path>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon">
+          <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path>
+        </svg>
+      </div>
+    </button>
+    <script>
+      (function() {
+        let toggle = document.querySelector('.theme-toggle');
+        let lightDark = parseInt(localStorage.getItem('light-dark'));
+        toggle.addEventListener('click', e => {
+          if (lightDark === 0) {
+            lightDark = 1;
+            document.documentElement.className = 'light';
+          } else {
+            lightDark = 0;
+            document.documentElement.className = 'dark';
+          }
+          localStorage.setItem('light-dark', lightDark);
+        });
+      })();
+    </script>
+    <img src="/The-Iron-Ragdoll/img/Qll1Bf2hba-500.webp" alt="orchid peony footer" title="orchid peony footer" loading="lazy" decoding="async" class="footer-img" width="500" height="405">
+  </footer>
+  <div class="license">
+    <p>The Iron Ragdoll by Tofutush is licensed under <a class="plain-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a></p>
+    <p><a target="_blank" href="https://github.com/Tofutush/The-Iron-Ragdoll/blob/main/./tir/world/language/keyboard.liquid">Page source</a> · <a target="_blank" href="https://web.archive.org/save/https://tofutush.github.io/The-Iron-Ragdoll/world/language/keyboard/">Archive this page</a> · <a href="#top">Back to top <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-move-up">
+          <path d="M8 6L12 2L16 6"></path>
+          <path d="M12 2V22"></path>
+        </svg></a></p>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
+  <script>
+    if (!window.location.href.includes('localhost')) {
+      window.addEventListener('load', () => {
+        quicklink.listen();
+      });
+    }
+  </script>
+</body>
+
+</html>
