@@ -24,7 +24,7 @@ As far as we're concerned, there existed 3 languages on the continent:
 
 ## Features
 
-Here are some important features of Bauhinian:
+Here are some important features of Bauhinian. Most will probably not make it into the speak-able version of the conlang, but we can pretend they exist.
 
 - It is very specific and precise when talking about objective things. Evidentiality (saw with your own eyes? heard from someone trustworthy? untrustworthy? inferred it?), when exactly an event happened (historical event? just happened like hot news? happened early in your life?), etc.
 - However, it's insanely vague when it comes to subjective stuff. "I want to be in bed with you 25 hours a day and have ten billion children[^1]" and "I like you as a normal acquaintance. I might say hello to you on the street if I'm feeling nice" are literally expressed the same way (roughly "we're on good terms with each other" in English), and there's no way around it unless you want to resort to literally saying "please have ten billion children with me" which just makes you sound perverted.

@@ -33,9 +33,9 @@ You add ۇ to the end of a word to make it plural. "Plural" only applies to unce
 
 | English      | Latin      | سەثىس باۋھىنياتا |
 | ------------ | ---------- | ---------------- |
-| Apples       | seitinu    | سەيتىنۇ          |
+| Apples       | seitinu    | سەيتىنۇ      |
 | Three apples | pan seitin | پان سەيتىن       |
-| Nights       | yamu       | يامىۇ            |
+| Nights       | yamu       | يامىۇ        |
 | Guns         | padhu      | پاذۇ             |
 
 ## Pronouns
@@ -62,10 +62,10 @@ The suffix تا is used on the possessor, and a corresponding suffix on the poss
 
 See how patterned it is?? Aside from the 1st-person where the ۋ got replaced with م. Let's do some examples.
 
-| English                           | Latin                | سەثىس باۋھىنياتا      |
-| --------------------------------- | -------------------- | --------------------- |
-| My apple                          | seitinim wata        | سەيتىنىم ۋاتا         |
-| My apple (with the owner omitted) | seitinim             | سەيتىنىم              |
+| English                           | Latin                | سەثىس باۋھىنياتا              |
+| --------------------------------- | -------------------- | ----------------------------- |
+| My apple                          | seitinim wata        | سەيتىنىم ۋاتا             |
+| My apple (with the owner omitted) | seitinim             | سەيتىنىم                  |
 | Bauhinian language                | sethis bawhinyata    | سەثىس باۋھىنياتا      |
 | Sparky's gun                      | a Berberlënta padhus | ئا بەربەرلېنتا پاذۇىس |
 
