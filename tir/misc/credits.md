@@ -15,6 +15,7 @@ Most content on this site is made by myself. What isn't:
 - Adjectives and adverbs in the [scenario generator](/fun/scenarios/) and [OC generator](/fun/generator/) are from [Corpora](https://github.com/dariusk/corpora).
 - English font is [Lexend](https://lexend.com).
 - 中文字体主体用的是[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)，标题用的是[霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)。
+- Arabic font is Noto Sans.
 - Markdown files are edited in [Obsidian](https://obsidian.md).
 - Most [wallpapers](/fun/wallpapers/) are made by [TheOliveOli](https://theoliveoli.blahaj.land/).
 - [Search](/search/) uses [Pagefind](https://pagefind.app).
