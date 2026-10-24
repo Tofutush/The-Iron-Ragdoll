@@ -14,7 +14,7 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 
 | Order | Latin | Sound-alike | سەثىس باۋھىنياتا |
 | ----- | ----- | ----------- | ---------------- |
-| 1     | a     | **a**pple   | ئا               |
+| 1     | a     | m**aw**     | ئا               |
 | 2     | e     | s**e**t     | ئە               |
 | 3     | ë     | t**ea**     | ئې               |
 | 4     | i     | t**i**p     | ئى               |
@@ -82,18 +82,34 @@ In addition, letters with two dots can be simplified in to a line in handwriting
 
 ## Pronunciation rules
 
-If an ى is at the end of a word, it gets prolonged into an ې.
+- For most words, try winging it how it might've sounded in English.
+- If an ى is at the end of a word, it gets prolonged into an ë.
+- The letters ق ,ژ, and خ are the most archaic letters, and there are explicit rules about their vowel combinations.
+	- When followed by ى or ې, nothing changes and everything is fine.
+	- When followed by ا or و, they get pronounced as if there's a ي in between. E.g. 架, 秋.
+	- When followed by ۇ, the 乌 turns into 淤. Same thing happens with ي for this point in particular.
+	- They cannot be followed by ai or ei.
+	- This is terrible because Chinese speakers don't need to be told this and non-speakers won't get it.
+	- Whatever (bashes head against computer screen). Anyway this reminded me of this joke. International student at TSA. "Do you have a laptop?" "No." TSA agent searches bag and pulls out a laptop. "What is this?" "This is computer."
+- The letter ۋ is not allowed to be after a vowel, except in the *only* exception, Bauhinia (bawhinya).
 
-The letters ق ,ژ, and خ are the most archaic letters, and there are explicit rules about their vowel combinations.
+## Syllable formation
 
-- When followed by ى or ې, nothing changes and everything is fine.
-- When followed by ا or و, they get pronounced as if there's a ي in between. E.g. 架, 秋.
-- When followed by ۇ, the 乌 turns into 淤. Same thing happens with ي for this point in particular.
-- They cannot be followed by ai or ei.
-- This is terrible because Chinese speakers don't need to be told this and non-speakers won't get it.
-- Whatever (bashes head against computer screen). Anyway this reminded me of this joke. International student at TSA. "Do you have a laptop?" "No." TSA agent searches bag and pulls out a laptop. "What is this?" "This is computer."
+One syllable can only have one vowel. It could have 0-2 consonants before and after, but doesn't usually get more than that. So (C)(C)V(C)(C).
 
-The letter ۋ is not allowed to be after a vowel, except in the *only* exception, Bauhinia (bawhinya).
+> [!Example]+
+> A good example for all the rules above is Nightsun يامىئاكا (Yami'aka). Note the ئ between "yami" and "aka." It's typically pronounced "yamaka," dropping the ى.
+>
+> Now I put this here because it breaks the typical stress rules below. Yami'aka is stressed on the first syllable (so is "yami"). Sparky بەربەرلېن (Berberlën) is stressed on the last.
+
+## Stress
+
+General rules; except when there are exceptions.
+
+- 2-syllable words stress the second syllable.
+- 3-syllable words stress either the second or the last, depending on the word. Typically if a word is a 2-syllable one with a suffix that made it three, the last syllable gets stressed.
+- Words with more syllables stress the second-to-last syllable.
+- For irregular stressing patterns, syllables whose vowel is i are prioritized last. Because it's a short vowel.
 
 [^1]: That's actually 32 in total, same as Uyghurche even. But Uyghurche has clear front / back vowel pairings and I don't! Help. So many consonants. Yet I love every one of them dearly and don't want to delete any of them. (It's mostly to flex how many consonants I can pronounce well though.)
 [^2]: The beauty of the Arabic script (aside from the fact that it's just really pretty) is how you can just make new letters by adding a shitton of dots to everything without them looking *obviously* extra. One dot, two dot, three dot; could've sworn I saw four-dot variants while digging through font files too. You can technically do the same in Latin with accents, but they just look so obviously added on.
