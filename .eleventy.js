@@ -1,7 +1,6 @@
 import { EleventyHtmlBasePlugin, EleventyRenderPlugin } from '@11ty/eleventy';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
 import { execSync } from 'child_process';
-import pinyin from "chinese-to-pinyin";
 import beautify from 'js-beautify';
 import markdownIt from 'markdown-it';
 import markdownItAnchor from "markdown-it-anchor";
@@ -23,7 +22,7 @@ import worldPlugin from './_plugins/world.js';
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
-	const slug = s => s.toString().trim().toLowerCase().replace(/ /g, '-').replace(/[-]+/g, '-').replace(/[^\w-]+/g, '');
+	const slug = s => s.toString().trim().toLowerCase().replace(/ /g, '-').replace(/[-]+/g, '-').replace(/[^\w\p{Script=Han}-]+/gu, '');
 	const mdIt = markdownIt({
 		html: true,
 		breaks: true,
