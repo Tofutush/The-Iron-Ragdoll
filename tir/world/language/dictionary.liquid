@@ -3,6 +3,7 @@ title: Dictionary
 desc: A list of words in Bauhinian.
 parent: Language
 draft: true
+widepage: true
 categories:
   - Language
 ---
@@ -16,17 +17,19 @@ categories:
 	<table>
 		<thead>
 			<tr>
+				<th>Type</th>
 				<th>Definition</th>
 				<th>Latin</th>
-				<th>سەثىس باۋھىنياتا</th>
+				<th dir="rtl">سەثىس باۋھىنياتا</th>
 			</tr>
 		</thead>
 		<tbody>
 			{% for word in dictionary %}
 				<tr>
-					<td><span class="lighter-text">[{{ word.pos }}]</span> {{ word.def }}</td>
+					<td>{{ word.pos }}</td>
+					<td>{{ word.def }}</td>
 					<td>{{ word.name }}</td>
-					<td>{{ word.bh }}</td>
+					<td dir="rtl">{{ word.bh }}</td>
 				</tr>
 			{% endfor %}
 		</tbody>
@@ -35,6 +38,11 @@ categories:
 <script src="/js/sort.js"></script>
 <script>
 	let sort = new SortTable(document.querySelector('table'));
+	sort.addSort({
+		colName: 'type',
+		keyFunc: td => td.innerText,
+		sortFunc: SortTable.sortFuncString
+	});
 	sort.addSort({
 		colName: 'Definition',
 		keyFunc: td => td.innerText,
