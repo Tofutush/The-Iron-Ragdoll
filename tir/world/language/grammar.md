@@ -37,9 +37,9 @@ You add ۇ to the end of a word to make it plural. Always gets added first, befo
 
 | English      | Latin      | سەثىس باۋھىنياتا |
 | ------------ | ---------- | ---------------- |
-| Apples       | seitinu    | سەيتىنۇ      |
+| Apples       | seitinu    | سەيتىنۇ          |
 | Three apples | pan seitin | پان سەيتىن       |
-| Nights       | yamu       | يامىۇ        |
+| Nights       | yam(i)u    | يامىۇ            |
 | Guns         | padhu      | پاذۇ             |
 
 ### Pronouns
@@ -66,12 +66,12 @@ The suffix تا is used on the possessor, and a corresponding suffix on the poss
 
 See how patterned it is?? Aside from the 1st-person where the ۋ got replaced with م. Let's do some examples.
 
-| English                           | Latin                | سەثىس باۋھىنياتا              |
-| --------------------------------- | -------------------- | ----------------------------- |
-| My apple                          | seitinim wata        | سەيتىنىم ۋاتا             |
-| My apple (with the owner omitted) | seitinim             | سەيتىنىم                  |
-| Bauhinian language                | sethis bawhinyata    | سەثىس باۋھىنياتا      |
-| Sparky's gun                      | a Berberlënta padhus | ئا بەربەرلېنتا پاذۇىس |
+| English                           | Latin                   | سەثىس باۋھىنياتا      |
+| --------------------------------- | ----------------------- | --------------------- |
+| My apple                          | seitinim wata           | سەيتىنىم ۋاتا         |
+| My apple (with the owner omitted) | seitinim                | سەيتىنىم              |
+| Bauhinian language                | sethis bawhinyata       | سەثىس باۋھىنياتا      |
+| Sparky's gun                      | a Berberlënta padhu(i)s | ئا بەربەرلېنتا پاذۇىس |
 
 ### Personal article
 
@@ -87,7 +87,7 @@ To mark the subject. This is usually omitted, but it's نان for anyone who car
 
 #### Accusative
 
-To mark the object, i.e. the direct object of a verb. "I eat apples." The apple should be in the accusative case.
+To mark the object, i.e. the direct object of a verb. "I eat apples." The apple should be in the accusative case: ىپ.
 
 #### Predicate
 

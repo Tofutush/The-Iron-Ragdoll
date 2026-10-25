@@ -6,7 +6,12 @@ categories:
   - Language
 ---
 
-Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) be kind to me.[^1] Also I have successfully explained this language in a way that only Chinese and English bilinguals with a familiarity with the Arabic writing system (for example, me) would be able to get, so if anything's confusing worry not it's not your fault. Sorry I'm so bad at this 😭.
+Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) be kind to me.[^1]
+
+> [!info]- Some readability rambling
+> Also I have successfully explained this language in a way that only Chinese and English bilinguals with a familiarity with the Arabic writing system (for example, me) would be able to get, so if anything's confusing worry not it's not your fault. Sorry I'm so bad at this 😭. I try not to assume anything though. No big promises. This is unfamiliar territory to me too.
+>
+> What this file (and the others that I haven't made public but will eventually but you can go on my Github to check out) *does* assume is a familiarity with the Arabic writing system. I give you the complete pronunciation mapping here, but won't teach you the separate forms and how they connect. If you want to, there are plenty of online resources to help you (I used the [Uyghurche textbook](https://annas-archive.pk/md5/1370d113851a06bcda27762d5d753a19?&check=1) personally and it works wonders but it's in Chinese). I think that even if "learning Bauhinian" is a pointless waste of effort, being familiar with the Arabic script is totally worthwhile! I might write a blog post on this, IDK. I have too many blog drafts.
 
 [[toc]]
 
