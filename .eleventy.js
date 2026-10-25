@@ -6,6 +6,7 @@ import markdownIt from 'markdown-it';
 import markdownItAnchor from "markdown-it-anchor";
 import markdownItExternalLinks from 'markdown-it-external-links';
 import markdownItFootnote from "markdown-it-footnote";
+import markdownItMark from 'markdown-it-mark';
 import markdownItObsidianCallouts from "markdown-it-obsidian-callouts";
 import markdownItTOC from 'markdown-it-table-of-contents';
 import markdownitTableWrap from 'markdown-it-table-wrap';
@@ -40,12 +41,13 @@ export default function (eleventyConfig) {
 		breaks: true,
 		linkify: true
 	})
+		.use(addDirAuto)
+		.use(markdownItMark)
 		.use(markdownItFootnote)
+		.use(markdownitTableWrap)
+		.use(markdownItObsidianCallouts)
 		.use(markdownItAnchor, { slugify: slug })
 		.use(markdownItExternalLinks, { externalTarget: '_blank' })
-		.use(markdownItObsidianCallouts)
-		.use(markdownitTableWrap)
-		.use(addDirAuto)
 		.use(markdownItTOC, {
 			includeLevel: [2, 3, 4],
 			transformContainerOpen: () => {

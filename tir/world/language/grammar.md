@@ -35,12 +35,12 @@ You add ۇ to the end of a word to make it plural. Always gets added first, befo
 
 "Plural" only applies to uncertain amounts. If the number is certain, no plural gets applied.
 
-| English      | Latin      | سەثىس باۋھىنياتا |
-| ------------ | ---------- | ---------------- |
-| Apples       | seitinu    | سەيتىنۇ          |
-| Three apples | pan seitin | پان سەيتىن       |
-| Nights       | yam(i)u    | يامىۇ            |
-| Guns         | padhu      | پاذۇ             |
+| English      | سەثىس باۋھىنياتا |
+| ------------ | ---------------- |
+| Apples       | سەيتىنۇ          |
+| Three apples | پان سەيتىن       |
+| Nights       | يامىۇ            |
+| Guns         | پاذۇ             |
 
 ### Pronouns
 
@@ -66,12 +66,12 @@ The suffix تا is used on the possessor, and a corresponding suffix on the poss
 
 See how patterned it is?? Aside from the 1st-person where the ۋ got replaced with م. Let's do some examples.
 
-| English                           | Latin                   | سەثىس باۋھىنياتا      |
-| --------------------------------- | ----------------------- | --------------------- |
-| My apple                          | seitinim wata           | سەيتىنىم ۋاتا         |
-| My apple (with the owner omitted) | seitinim                | سەيتىنىم              |
-| Bauhinian language                | sethis bawhinyata       | سەثىس باۋھىنياتا      |
-| Sparky's gun                      | a Berberlënta padhu(i)s | ئا بەربەرلېنتا پاذۇىس |
+| English                           | سەثىس باۋھىنياتا              |
+| --------------------------------- | ----------------------------- |
+| My apple                          | سەيتىن==ىم== ۋا==تا==         |
+| My apple (with the owner omitted) | سەيتىن==ىم==                  |
+| Bauhinian language                | سەث==ىس== باۋھىنيا==تا==      |
+| Sparky's gun                      | ئا بەربەرلېن==تا== پاذۇ==ىس== |
 
 ### Personal article
 
@@ -91,15 +91,15 @@ To mark the object, i.e. the direct object of a verb. "I eat apples." The apple 
 
 #### Predicate
 
-In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky was cute." "She became a bodyguard." In Bauhinian, predicates have their own suffix to mark them: رەي. Typically, in simple predicate sentences, the [nominative case marking](#nominative) is often added.
+In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky is cute." "She became a bodyguard." In Bauhinian, predicates have their own suffix to mark them: رەي. Typically, in simple predicate sentences, the [nominative case marking](#nominative) is often added.
 
 Linking verbs are treated the same as normal verbs, except for "be" which doesn't exist. For those, the verb suffixes get added to the subject.
 
-| English                | Latin                                                           | سەثىس باۋھىنياتا          |
-| ---------------------- | --------------------------------------------------------------- | ------------------------- |
-| I am Tofutush.         | wanan, a Tofutushrei.                                           | ۋانان، ئا توفۇتۇشرەي.     |
-| Sparky was cute.       | a Berberlënnan, kutërei.                                        | ئا بەربەرلېننان، كۇتېرەي. |
-| Xe became a bodyguard. | sa (when i come up with the words for "bodyguard" and "become") |                           |
+| English                                   | سەثىس باۋھىنياتا              |
+| ----------------------------------------- | ----------------------------- |
+| I am Tofutush.                            | ۋا==نان==، ئا توفۇتۇش==رەي==. |
+| Sparky is cute. (With nominative omitted) | ئا بەربەرلېن كۇتې==رەي==.     |
+| Xe became a bodyguard.                    | سا…                           |
 
 ## Verbs
 
