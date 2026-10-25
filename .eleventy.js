@@ -23,23 +23,38 @@ import worldPlugin from './_plugins/world.js';
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
 	const slug = s => s.toString().trim().toLowerCase().replace(/ /g, '-').replace(/[-]+/g, '-').replace(/[^\w\p{Script=Han}-]+/gu, '');
+	// dir=auto
+	const addDirAuto = md => {
+		const defaultRender = md.renderer.renderToken.bind(md.renderer);
+		md.renderer.renderToken = function (tokens, idx, options) {
+			const token = tokens[idx];
+			if (token.nesting === 1 && token.block == true) { // opening tags only
+				token.attrSet("dir", "auto");
+			}
+			return defaultRender(tokens, idx, options);
+		};
+	}
+
 	const mdIt = markdownIt({
 		html: true,
 		breaks: true,
 		linkify: true
-	}).use(markdownItFootnote).use(markdownItAnchor, {
-		slugify: slug
-	}).use(markdownItTOC, {
-		includeLevel: [2, 3, 4],
-		transformContainerOpen: () => {
-			return '<details class="toc callout" open><summary class="callout-title"><div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-list"><path d = "M3 5h.01" ></path><path d="M3 12h.01"></path><path d="M3 19h.01"></path><path d="M8 5h13"></path><path d="M8 12h13"></path><path d="M8 19h13"></path></svg></div><div class="callout-title-inner">Contents</div></summary><div class="callout-content">';
-		},
-		transformContainerClose: () => {
-			return '</div></details>';
-		},
-	}).use(markdownItExternalLinks, {
-		externalTarget: '_blank'
-	}).use(markdownItObsidianCallouts).use(markdownitTableWrap);
+	})
+		.use(markdownItFootnote)
+		.use(markdownItAnchor, { slugify: slug })
+		.use(markdownItExternalLinks, { externalTarget: '_blank' })
+		.use(markdownItObsidianCallouts)
+		.use(markdownitTableWrap)
+		.use(addDirAuto)
+		.use(markdownItTOC, {
+			includeLevel: [2, 3, 4],
+			transformContainerOpen: () => {
+				return '<details class="toc callout" open><summary class="callout-title"><div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-list"><path d = "M3 5h.01" ></path><path d="M3 12h.01"></path><path d="M3 19h.01"></path><path d="M8 5h13"></path><path d="M8 12h13"></path><path d="M8 19h13"></path></svg></div><div class="callout-title-inner">Contents</div></summary><div class="callout-content">';
+			},
+			transformContainerClose: () => {
+				return '</div></details>';
+			},
+		});
 	mdIt.renderer.rules.footnote_anchor = (tokens, idx, options, env, slf) => {
 		const n = Number(tokens[idx].meta.id + 1).toString();
 		let prefix = '';
