@@ -42,7 +42,7 @@ Here are some important features of Bauhinian. Most will probably not make it in
 	- "I beg you" (pretty please with sugar on top?)
 - There is no habitual aspect to verbs. If you want to say something like "Nightsun spies on people," you say "Nightsun is a people-spier."
 
-My end goal is to make the language somewhat speakable and consistent, at least for myself only. Then I can scatter character quotes around as fun little translation exercises for y'all (or just include the translation in a tooltip or something because I hate subtlety). The most important goal is translating Spy School into Bauhinian. Which comes after translating it to Chinese. Which comes after finishing the damn thing first.
+My end goal is to make the language somewhat speakable and consistent, at least for myself only. Then I can scatter character quotes around as fun little translation exercises for y'all (or just include the translation in a tooltip or something because I hate subtlety). The most important goal is translating Spy School into Bauhinian. Which comes after translating it to Chinese. Which comes after finishing the damn thing first. Oh and maybe self-referentially make a Bauhinian version of the website.
 
 ## Accents
 
