@@ -15,6 +15,7 @@ eleventyComputed:
   iconColor: "{{ ch.color }}"
 parent: Characters
 ---
+<link rel="stylesheet" href="/css/characters.css"/>
 <div style="--accent: {{ ch.color }}">
   {% assign filteredGallery = gallery | filterGallery: ch.name %}
   {% assign pagedoll = filteredGallery | getFirstOfKind: "pagedoll" %}
