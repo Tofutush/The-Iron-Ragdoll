@@ -27,9 +27,13 @@ Bauhinian is an agglutinative language with a flexible sentence order but SOV by
 
 Both these rules are demonstrated in the plural examples below.
 
-## Plural
+## Nouns
 
-You add ۇ to the end of a word to make it plural. "Plural" only applies to uncertain amounts. If the number is certain, no plural gets applied.
+### Plural
+
+You add ۇ to the end of a word to make it plural. Always gets added first, before any other case marking.
+
+"Plural" only applies to uncertain amounts. If the number is certain, no plural gets applied.
 
 | English      | Latin      | سەثىس باۋھىنياتا |
 | ------------ | ---------- | ---------------- |
@@ -38,7 +42,7 @@ You add ۇ to the end of a word to make it plural. "Plural" only applies to unce
 | Nights       | yamu       | يامىۇ        |
 | Guns         | padhu      | پاذۇ             |
 
-## Pronouns
+### Pronouns
 
 There are 8 pronouns in Bauhinian, with the 2nd-person one having a formal version and informal version. I hope you know when to use formal and when to use informal because I sure as hell don't but I like the idea of them.
 
@@ -49,7 +53,7 @@ There are 8 pronouns in Bauhinian, with the 2nd-person one having a formal versi
 | 2nd (formal)    | قا       | قۇ     |
 | 3rd             | سا       | سۇ     |
 
-## Possessive
+### Possessive
 
 The suffix تا is used on the possessor, and a corresponding suffix on the possessed, depending on the possessor's person and number. The owner can be omitted if the context makes it clear.
 
@@ -69,13 +73,25 @@ See how patterned it is?? Aside from the 1st-person where the ۋ got replaced wi
 | Bauhinian language                | sethis bawhinyata    | سەثىس باۋھىنياتا      |
 | Sparky's gun                      | a Berberlënta padhus | ئا بەربەرلېنتا پاذۇىس |
 
-## Personal article
+### Personal article
 
-What was the "a" in front of Berberlën in the previous example? That's the personal article, required before all people names. This is because Bauhinians like naming their children after things and there's no capitalization so it's clearer what's a name and what's not!
+What was the "ئا" in front of Berberlën in the previous example? That's the personal article, required before all people names. This is because Bauhinians like naming their children after things and there's no capitalization so it's clearer what's a name and what's not!
 
-## Predicate (and nominative)
+### Cases
 
-In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky was cute." "She became a bodyguard." In Bauhinian, predicates have their own suffix to mark them: رەي. Typically, in simple predicate sentences, the nominative case (subject) marking نان is also added. Most of the time you don't need to explicitly mark the nominative.
+Or, stuff you can add to nouns.
+
+#### Nominative
+
+To mark the subject. This is usually omitted, but it's نان for anyone who cares.
+
+#### Accusative
+
+To mark the object, i.e. the direct object of a verb. "I eat apples." The apple should be in the accusative case.
+
+#### Predicate
+
+In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky was cute." "She became a bodyguard." In Bauhinian, predicates have their own suffix to mark them: رەي. Typically, in simple predicate sentences, the [nominative case marking](#nominative) is often added.
 
 Linking verbs are treated the same as normal verbs, except for "be" which doesn't exist. For those, the verb suffixes get added to the subject.
 
@@ -84,6 +100,8 @@ Linking verbs are treated the same as normal verbs, except for "be" which doesn'
 | I am Tofutush.         | wanan, a Tofutushrei.                                           | ۋانان، ئا توفۇتۇشرەي.     |
 | Sparky was cute.       | a Berberlënnan, kutërei.                                        | ئا بەربەرلېننان، كۇتېرەي. |
 | Xe became a bodyguard. | sa (when i come up with the words for "bodyguard" and "become") |                           |
+
+## Verbs
 
 ### Habitual
 

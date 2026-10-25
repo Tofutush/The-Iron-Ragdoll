@@ -1,5 +1,5 @@
 {
-  "accentColor": "#6675e5",
+  "accentColor": "",
   "baseFontSize": 20,
   "enabledCssSnippets": [
     "justify",
@@ -16,7 +16,7 @@
   ],
   "interfaceFontFamily": "DIN Round Pro,幼圆",
   "textFontFamily": "Bookerly,Lexend,Noto Sans Arabic,霞鹜文楷",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "theme": "obsidian",
   "monospaceFontFamily": "JetBrains Mono,微软雅黑",
   "showRibbon": false
