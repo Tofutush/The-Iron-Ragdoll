@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-10-25
+
+- Added `xiaqiu.png`;
+
 ## 2026-10-23
 
 - [Keyboard](/world/language/keyboard/).
