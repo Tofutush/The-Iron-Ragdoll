@@ -193,6 +193,12 @@ p {
 	}
 }
 
+mark {
+	border-radius: 4px;
+	color: var(--text);
+	background-color: #ff77e973;
+}
+
 a {
 	color: inherit;
 	text-decoration: underline;
