@@ -29,7 +29,7 @@ Both these rules are demonstrated in the plural examples below.
 
 ## Nouns
 
-### Plural
+### Plural: ۇ
 
 You add ۇ to the end of a word to make it plural. Always gets added first, before any other case marking.
 
@@ -73,23 +73,29 @@ See how patterned it is?? Aside from the 1st-person where the ۋ got replaced wi
 | Bauhinian language                | سەث==ىس== باۋھىنيا==تا==      |
 | Sparky's gun                      | ئا بەربەرلېن==تا== پاذۇ==ىس== |
 
-### Personal article
+### Articles: ئا and لا
 
 What was the "ئا" in front of Berberlën in the previous example? That's the personal article, required before all people names. This is because Bauhinians like naming their children after things and there's no capitalization so it's clearer what's a name and what's not!
+
+There's also an article for proper nouns that aren't people, لا. So to say Bauhinia, you say "لا باۋھىنيا."
 
 ### Cases
 
 Or, stuff you can add to nouns.
 
-#### Nominative
+#### Nominative: نان
 
 To mark the subject. This is usually omitted, but it's نان for anyone who cares.
 
-#### Accusative
+#### Accusative: ىپ
 
 To mark the object, i.e. the direct object of a verb. "I eat apples." The apple should be in the accusative case: ىپ.
 
-#### Predicate
+| English       | سەثىس باۋھىنياتا         |
+| ------------- | ------------------------ |
+| I eat apples. | ۋا ئومنوم سەيتىنۇ==ىپ==. |
+
+#### Predicate: رەي
 
 In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky is cute." "She became a bodyguard." In Bauhinian, predicates have their own suffix to mark them: رەي. Typically, in simple predicate sentences, the [nominative case marking](#nominative) is often added.
 
@@ -103,6 +109,62 @@ Linking verbs are treated the same as normal verbs, except for "be" which doesn'
 
 ## Verbs
 
+### Evidentiality & epistemic modality
+
+Evidentiality and epistemic modality are required for Bauhinian verbs. You add these suffixes on, evidentiality first and modality second.
+
+They can both be omitted and assumed to be "assumption" and "confident" respectively (unless the evidentiality is "untrusted source"; then an omitted modality is assumed to be "neutral"), but in formal speech and documents you cannot omit anything. In novels and shows, the narration often leaves out both evidentiality and epistemic modality, but it's more common for 1st-person narration to be grammatically complete.
+
+With 8 levels of evidentiality and 5 levels of epistemic modality, there are a total of 40 combinations.
+
+Evidentiality:
+
+| English                                                              | سەثىس باۋھىنياتا |
+| -------------------------------------------------------------------- | ---------------- |
+| Assumption (trust me bro)                                            |                  |
+| Universal ("as we all know…")                                        |                  |
+| Experience (saw it with my own eyes)                                 |                  |
+| Inferrence (inferred it from evidence)                               |                  |
+| Trusted source (heard it from someone I trust)                       |                  |
+| Untrusted source (heard it from someone I don't trust)               |                  |
+| Dubious source (heard it from someone I'm not sure whether to trust) |                  |
+| Direct source (heard it from the subject in question)                |                  |
+
+> [!Note]+
+> Note the last one: "heard it from the subject in question." This is used in contexts such as "Sparky told me she would eat dinner." If you want to express it, Bauhinians often say "Sparky would eat dinner" with the evidentiality of that. If it were "Sparky told me Nightsun would eat dinner," this stops being applicable (because Sparky isn't saying information about herself) and instead you either say the entire sentence, or say "Nightsun would eat dinner" with evidentiality set to however much you trust Sparky.
+
+Epistemic modality:
+
+| English                                        | سەثىس باۋھىنياتا |
+| ---------------------------------------------- | ---------------- |
+| Very confident (I'll kill myself if I'm wrong) |                  |
+| Confident (I'm pretty sure)                    |                  |
+| Neutral (take it as you will)                  |                  |
+| Unconfident (I'm not confident)                |                  |
+| Doubtful (this is prolly bullshit)             |                  |
+
+Had fun coming up with these examples.
+
+| English                                                                                                                                                                | سەثىس باۋھىنياتا |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| New Madoka Magica movie is coming out?! (Dubious source + neutral)                                                                                                     |                  |
+| Chastity is studying. (Direct source + doubtful)                                                                                                                       |                  |
+| I got kidnapped by mermaids! (Experience + very confident)                                                                                                             |                  |
+| Animus, this is Nightsun. (Trusted source) Nightsun, this is Animus. (Untrusted source) <== said by Sparky after she bumped into Nightsun and Animus ran into them two |                  |
+| My name is Tofutush. (Both omitted)                                                                                                                                    |                  |
+| My name is Tofutush. (universal, because I'm self-absorbed + omitted)                                                                                                  |                  |
+| Our nation is under attack! (universal + omitted)                                                                                                                      |                  |
+| OuR nAtIoN iS uNdEr AtTaCk! (universal (instead of untrusted source, to mirror the statement above) + doubtful)                                                        |                  |
+| The continent is flat. (Untrusted source + doubtful)                                                                                                                   |                  |
+
+### Tense
+
+Tense is optional and described using adjectives.
+
 ### Habitual
 
 Verbs in Bauhinian have no habitual aspect. To say "Nightsun spies on people," you have to say "Nightsun is a people-spier."
+
+## Adjectives
+
+In Bauhinian both nouns and verbs use adjectives to be described (so there aren't any adverbs).
