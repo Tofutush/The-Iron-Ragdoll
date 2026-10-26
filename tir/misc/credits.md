@@ -14,7 +14,7 @@ Most content on this site is made by myself. What isn't:
 - The hosting is provided by either Github Pages or [Neocities](https://neocities.org), depending on where you are.
 - Adjectives and adverbs in the [scenario generator](/fun/scenarios/) and [OC generator](/fun/generator/) are from [Corpora](https://github.com/dariusk/corpora).
 - English font is [Lexend](https://lexend.com).
-- 中文字体主体用的是[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)，标题用的是[霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)。
+- 中文字体主体用的是[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)。
 - Arabic font is Noto Sans.
 - Markdown files are edited in [Obsidian](https://obsidian.md).
 - Most [wallpapers](/fun/wallpapers/) are made by [TheOliveOli](https://theoliveoli.blahaj.land/).

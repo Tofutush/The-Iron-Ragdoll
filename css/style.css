@@ -13,13 +13,6 @@
 }
 
 @font-face {
-	font-family: lxgw-marker;
-	src: local(霞鹭漫黑),
-		url(/The-Iron-Ragdoll/fonts/LXGWMarkerGothic-Regular.ttf),
-		url(/fonts/LXGWMarkerGothic-Regular.ttf);
-}
-
-@font-face {
 	font-family: noto sans arabic;
 	src: local(Noto Sans Arabic),
 		url(/The-Iron-Ragdoll/fonts/NotoSansArabic-VariableFont_wdth\,wght.ttf),
