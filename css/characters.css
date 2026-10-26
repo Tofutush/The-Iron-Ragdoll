@@ -67,10 +67,9 @@ blockquote {
 		}
 
 		&>.zh {
-			font-weight: bold;
-			margin-top: 0;
-			margin-bottom: 1rem;
-			font-family: lxgw-marker;
+			font-size: var(--font-size-h2);
+			font-weight: normal;
+			margin: 0;
 		}
 
 		&>p:last-child {
