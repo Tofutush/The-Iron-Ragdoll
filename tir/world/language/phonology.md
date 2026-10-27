@@ -74,8 +74,10 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 
 | Latin | Sound-alike | سەثىس باۋھىنياتا |
 | ----- | ----------- | ---------------- |
-| zhr   | **dr**ive   | جر               |
-| chr   | **tr**ee    | چر               |
+| dr    | **dr**ive   | جر               |
+| tr    | **tr**ee    | چر               |
+
+Other consonant combos exist, but these are the only ones with different Latin spelling.
 
 ## Writing rules
 

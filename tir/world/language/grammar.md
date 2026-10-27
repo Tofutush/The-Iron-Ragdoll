@@ -157,6 +157,7 @@ Had fun coming up with these examples.
 | Our nation is under attack! (universal + omitted)                                                                                                                      |                  |
 | OuR nAtIoN iS uNdEr AtTaCk! (universal (instead of untrusted source, to mirror the statement above) + doubtful)                                                        |                  |
 | The continent is flat. (Untrusted source + doubtful)                                                                                                                   |                  |
+| I'm either hungry (unconfident) or tired (confident).                                                                                                                  |                  |
 
 ### Tense
 

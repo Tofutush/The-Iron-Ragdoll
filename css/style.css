@@ -521,7 +521,7 @@ thead tr {
 	color: var(--bg);
 }
 
-tbody tr:nth-child(odd) {
+tbody tr:nth-last-child(odd) {
 	background-color: var(--box);
 }
 
