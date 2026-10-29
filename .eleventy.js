@@ -1,5 +1,6 @@
 import { EleventyHtmlBasePlugin, EleventyRenderPlugin } from '@11ty/eleventy';
 import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
+import eleventyTOCPlugin from '@uncenter/eleventy-plugin-toc';
 import { execSync } from 'child_process';
 import beautify from 'js-beautify';
 import markdownIt from 'markdown-it';
@@ -71,6 +72,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
 	eleventyConfig.addPlugin(eleventyLucideIconsPlugin);
+	eleventyConfig.addPlugin(eleventyTOCPlugin);
 	eleventyConfig.addPlugin(galleryPlugin);
 	eleventyConfig.addPlugin(utilPlugin);
 	eleventyConfig.addPlugin(chPlugin);
