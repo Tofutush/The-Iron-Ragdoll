@@ -521,7 +521,7 @@ thead tr {
 	color: var(--bg);
 }
 
-tbody tr:nth-child(odd) {
+tbody tr:nth-last-child(odd) {
 	background-color: var(--box);
 }
 
@@ -562,13 +562,6 @@ th.sortable {
 	& h4::before {
 		content: '';
 	}
-}
-
-.card {
-	border: .4em solid var(--box);
-	border-radius: 1em;
-	padding: 1em 2em;
-	margin: 2em 0;
 }
 
 .tooltip {
@@ -825,10 +818,6 @@ dl {
 			margin-left: 1em;
 			margin-bottom: 1em;
 		}
-	}
-
-	.card {
-		padding: 0 1em;
 	}
 
 	[id] {
