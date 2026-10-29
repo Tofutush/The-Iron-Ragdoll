@@ -137,12 +137,19 @@ blockquote {
 	}
 }
 
-.card h3 {
-	margin-top: .5em;
-	color: var(--text);
+.card {
+	border: .4em solid var(--box);
+	border-radius: 1em;
+	padding: 1em 2em;
+	margin: 2em 0;
 
-	&::before {
-		content: '';
+	h3 {
+		margin-top: .5em;
+		color: var(--text);
+
+		&::before {
+			content: '';
+		}
 	}
 }
 
@@ -303,5 +310,9 @@ blockquote {
 @media only screen and (max-width: 480px) {
 	.title>div>img:last-child {
 		right: 0 !important;
+	}
+
+	.card {
+		padding: 0 1em;
 	}
 }

@@ -105,7 +105,7 @@ In addition, letters with two dots can be simplified in to a line in handwriting
 One syllable can only have one vowel. It could have 0-2 consonants before and after, but doesn't usually get more than that. So (C)(C)V(C)(C).
 
 > [!Example]+
-> A good example for all the rules above is Nightsun يامىئاكا (Yami'aka). Note the ئ between "yami" and "aka." It's typically pronounced "yamaka," dropping the ى.
+> A good example for all the rules above is Nightsun يامىاكا (Yamiaka). It's typically pronounced "yamaka," dropping the *i*.
 >
 > Now I put this here because it breaks the typical stress rules below. Yami'aka is stressed on the first syllable (so is "yami"). Sparky بەربەرلېن (Berberlën) is stressed on the last.
 

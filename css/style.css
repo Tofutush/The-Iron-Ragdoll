@@ -564,13 +564,6 @@ th.sortable {
 	}
 }
 
-.card {
-	border: .4em solid var(--box);
-	border-radius: 1em;
-	padding: 1em 2em;
-	margin: 2em 0;
-}
-
 .tooltip {
 	position: relative;
 
@@ -825,10 +818,6 @@ dl {
 			margin-left: 1em;
 			margin-bottom: 1em;
 		}
-	}
-
-	.card {
-		padding: 0 1em;
 	}
 
 	[id] {

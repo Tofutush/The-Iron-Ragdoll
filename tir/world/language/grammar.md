@@ -129,7 +129,6 @@ Evidentiality:
 | Untrusted source (heard it from someone I don't trust)               |                  |
 | Dubious source (heard it from someone I'm not sure whether to trust) |                  |
 | Direct source (heard it from the subject in question)                |                  |
-| Speculative (used in if / then sentences)                            |                  |
 
 > [!Note]+
 > Note the last one: "heard it from the subject in question." This is used in contexts such as "Sparky told me she would eat dinner." If you want to express it, Bauhinians often say "Sparky would eat dinner" with the evidentiality of that. If it were "Sparky told me Nightsun would eat dinner," this stops being applicable (because Sparky isn't saying information about herself) and instead you either say the entire sentence, or say "Nightsun would eat dinner" with evidentiality set to however much you trust Sparky.
