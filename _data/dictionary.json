@@ -1,9 +1,21 @@
 [
   {
+    "name": "a",
+    "pos": "art.",
+    "def": "personal article",
+    "bh": "\u0626\u0627"
+  },
+  {
     "name": "aka",
     "pos": "n.",
     "def": "sun",
     "bh": "\u0626\u0627\u0643\u0627"
+  },
+  {
+    "name": "atla",
+    "pos": "n.",
+    "def": "east",
+    "bh": "\u0626\u0627\u062a\u0644\u0627"
   },
   {
     "name": "atleizha",
@@ -18,10 +30,88 @@
     "bh": "\u0628\u0627\u06cb\u06be\u0649\u0646\u064a\u0627"
   },
   {
+    "name": "berl\u00ebn",
+    "pos": "adj.",
+    "def": "sparkly",
+    "bh": "\u0628\u06d5\u0631\u0644\u06d0\u0646"
+  },
+  {
+    "name": "ete",
+    "pos": "n.",
+    "def": "moon",
+    "bh": "\u0626\u06d5\u062a\u06d5"
+  },
+  {
     "name": "fanten",
     "pos": "proper n.",
     "def": "Fanton",
     "bh": "\u0641\u0627\u0646\u062a\u06d5\u0646"
+  },
+  {
+    "name": "-im",
+    "pos": "suffix",
+    "def": "1st person possessive (belonging to me)",
+    "bh": "-\u0649\u0645"
+  },
+  {
+    "name": "-imu",
+    "pos": "suffix",
+    "def": "1st person plural possessive (belonging to us)",
+    "bh": "-\u0649\u0645\u06c7"
+  },
+  {
+    "name": "-in",
+    "pos": "suffix",
+    "def": "2nd person possessive informal (belonging to you)",
+    "bh": "-\u0649\u0646"
+  },
+  {
+    "name": "-inu",
+    "pos": "suffix",
+    "def": "2nd person plural possessive informal (belonging to y'all)",
+    "bh": "-\u0649\u0646\u06c7"
+  },
+  {
+    "name": "-ip",
+    "pos": "suffix",
+    "def": "accusative case marker",
+    "bh": "-\u0649\u067e"
+  },
+  {
+    "name": "-iq",
+    "pos": "suffix",
+    "def": "2nd person possessive formal",
+    "bh": "-\u0649\u0642"
+  },
+  {
+    "name": "-iqu",
+    "pos": "suffix",
+    "def": "2nd person plural possessive formal",
+    "bh": "-\u0649\u0642\u06c7"
+  },
+  {
+    "name": "-is",
+    "pos": "suffix",
+    "def": "3rd person possessive (belonging to xem)",
+    "bh": "-\u0649\u0633"
+  },
+  {
+    "name": "-isu",
+    "pos": "suffix",
+    "def": "3rd person plural possessive (belonging to them)",
+    "bh": "-\u0649\u0633\u06c7"
+  },
+  {
+    "name": "la",
+    "pos": "art.",
+    "def": "proper article",
+    "bh": "\u0644\u0627"
+  },
+  {
+    "name": "l\u00eb",
+    "pos": "conj.",
+    "def": "and",
+    "bh": "\u0644\u06d0"
   },
   {
     "name": "mama",
@@ -42,16 +132,58 @@
     "bh": "\u0646\u0627"
   },
   {
+    "name": "nu",
+    "pos": "pron.",
+    "def": "you (plural, informal)",
+    "bh": "\u0646\u06c7"
+  },
+  {
+    "name": "padhu",
+    "pos": "n.",
+    "def": "gun (general)",
+    "bh": "\u067e\u0627\u0630\u06c7"
+  },
+  {
+    "name": "pan",
+    "pos": "number",
+    "def": "3",
+    "bh": "\u067e\u0627\u0646"
+  },
+  {
     "name": "papa",
     "pos": "n.",
     "def": "dad",
     "bh": "\u067e\u0627\u067e\u0627"
   },
   {
+    "name": "qa",
+    "pos": "pron.",
+    "def": "you (formal)",
+    "bh": "\u0642\u0627"
+  },
+  {
+    "name": "qu",
+    "pos": "pron.",
+    "def": "you (plural, formal)",
+    "bh": "\u0642\u06c7"
+  },
+  {
     "name": "sa",
     "pos": "pron.",
-    "def": "third person pronoun",
+    "def": "xe",
     "bh": "\u0633\u0627"
+  },
+  {
+    "name": "seitin",
+    "pos": "n.",
+    "def": "apple",
+    "bh": "\u0633\u06d5\u064a\u062a\u0649\u0646"
+  },
+  {
+    "name": "seth",
+    "pos": "n.",
+    "def": "way of speech; rhetoric",
+    "bh": "\u0633\u06d5\u062b"
   },
   {
     "name": "silvandya",
@@ -60,16 +192,46 @@
     "bh": "\u0633\u0649\u0644\u06a4\u0627\u0646\u062f\u064a\u0627"
   },
   {
+    "name": "su",
+    "pos": "pron.",
+    "def": "they",
+    "bh": "\u0633\u06c7"
+  },
+  {
+    "name": "-ta",
+    "pos": "suffix",
+    "def": "genitive case marker, i.e. 's",
+    "bh": "-\u062a\u0627"
+  },
+  {
+    "name": "-u",
+    "pos": "suffix",
+    "def": "plural",
+    "bh": "-\u06c7"
+  },
+  {
     "name": "wa",
     "pos": "pron.",
     "def": "I",
     "bh": "\u06cb\u0627"
   },
   {
+    "name": "wesda",
+    "pos": "n.",
+    "def": "west",
+    "bh": "\u06cb\u06d5\u0633\u062f\u0627"
+  },
+  {
     "name": "wesdeivya",
     "pos": "proper n.",
     "def": "Westavia",
     "bh": "\u06cb\u06d5\u0633\u062f\u06d5\u064a\u06a4\u064a\u0627"
+  },
+  {
+    "name": "wu",
+    "pos": "pron.",
+    "def": "we",
+    "bh": "\u06cb\u06c7"
   },
   {
     "name": "yami",

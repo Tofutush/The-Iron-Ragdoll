@@ -20,6 +20,8 @@ None of these deities have any "official" visual representation, as all records 
 <dl>
 <dt>Places of worship</dt>
 <dd>That part of the Palace that's open to tourists for this exact purpose</dd>
+<dt>Animal</dt>
+<dd>Dragon</dd>
 <dt>Associations</dt>
 <dd>Bauhinia flowers, authority, power</dd>
 </dl>
@@ -41,6 +43,8 @@ So anyways yeah, God. Royal Seal. In modern society, even in Bauhinia and Fanton
 <dl>
 <dt>Places of worship</dt>
 <dd>Courtrooms</dd>
+<dt>Animal</dt>
+<dd>Tiger</dd>
 <dt>Associations</dt>
 <dd>Justice, truth, balance, equality, state-sanctioned violence</dd>
 </dl>
@@ -52,6 +56,8 @@ The law as we know it was named after Law. Law delivers judgement. When she deci
 <dl>
 <dt>Places of worship</dt>
 <dd>Your own room with the doors closed and curtains drawn</dd>
+<dt>Animal</dt>
+<dd>Moth</dd>
 <dt>Associations</dt>
 <dd>Tailers, cameras, listening devices, surveillance</dd>
 </dl>
@@ -69,6 +75,8 @@ Parents would also sometimes tell their children things like, "if you go flashli
 <dl>
 <dt>Places of worship</dt>
 <dd>libraries, archives</dd>
+<dt>Animal</dt>
+<dd>Crane</dd>
 <dt>Associations</dt>
 <dd>Books, paper, scrolls, shelves, ink</dd>
 </dl>
@@ -92,6 +100,8 @@ Still, though, Copy's archives remain the single source of truth within the univ
 <dl>
 <dt>Places of worship</dt>
 <dd>Schools, especially classrooms</dd>
+<dt>Animal</dt>
+<dd>Deer</dd>
 <dt>Associations</dt>
 <dd>Friendship, confidants, wisdom and teachings, manipulation</dd>
 </dl>
@@ -103,6 +113,8 @@ Guide is the deity who understands you best and whom you pray to when you need g
 <dl>
 <dt>Places of worship</dt>
 <dd>In front of mirrors</dd>
+<dt>Animal</dt>
+<dd>Koi</dd>
 <dt>Associations</dt>
 <dd>Mirrors, masks, doubles, identity theft</dd>
 </dl>
@@ -114,6 +126,8 @@ The legends surrounding prism developed quickly after the invention of the mirro
 <dl>
 <dt>Places of worship</dt>
 <dd>Any secluded space</dd>
+<dt>Animal</dt>
+<dd>Snake</dd>
 <dt>Associations</dt>
 <dd>Theft (of knowledge specifically), betrayal, blackmail, plagiarism, interrogation</dd>
 </dl>
