@@ -44,7 +44,13 @@ parent: Characters
       {% endif %}
     </div>
     <div class="names">
-      {% if ch.namezh %}<h1 class="zh">{{ ch.namezh }}</h1>{% endif %}
+      {% if ch.namezh or ch.namebh %}
+        <h1 class="zh">
+          {% if ch.namezh %}{{ ch.namezh }}{% endif %}
+          {% if ch.namebh and ch.namezh %} · {% endif %}
+          {% if ch.namebh %}{{ ch.namebh }}{% endif %}
+        </h1>
+      {% endif %}
       <h1 class="en" data-pagefind-meta="title">{{ ch.name }}</h1>
       {% if ch.desc %}
         {{ ch.desc | renderMD }}

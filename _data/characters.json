@@ -2,6 +2,7 @@
   {
     "name": "Sparky",
     "namezh": "闪闪",
+    "namebh": "بەربەرلېن",
     "color": "#0cf",
     "desc": "Our protagonist! Need I say more?",
     "quote": "What's this? Cake? Eat! What's this? Donut? Eat! What's this? More food? Eat! Hey, you took the last pancake! I'M GOING TO KILL YOU!",
@@ -142,6 +143,7 @@
   {
     "name": "Qibli",
     "namezh": "奇娳",
+    "namebh": "قېبلې",
     "color": "#440044",
     "desc": "(KEE-blee) Magic chicken ADHD girl.",
     "quote": "This pearl was not from an oyster. It was from a human. No, not man-made. From a human, the way ivory was from elephants.",
@@ -517,6 +519,7 @@
   {
     "name": "Nightsun",
     "namezh": "午夜阳",
+    "namebh": "يامىاكا",
     "color": "#130b51",
     "desc": "Freelance spy.",
     "quote": "Here comes my arch-nemesis… Daymoon!",
@@ -1430,8 +1433,8 @@
   {
     "name": "Helsinki",
     "namezh": "赫尔辛基",
+    "namebh": "ھەلزىنكې",
     "color": "#5b3896",
-    "desc": "ھەلزىنكې",
     "tags": [
       "Westavia",
       "Nameless Village"
@@ -1491,6 +1494,7 @@
   {
     "name": "Natasha",
     "namezh": "娜塔莎",
+    "namebh": "ناتاشا",
     "color": "#e665d5",
     "desc": "Annoying devil-girl.",
     "quote": "TAKE THAT, YOU MOTHERFUCKING MOTHERFUCKER!",
@@ -2310,6 +2314,7 @@
   {
     "name": "Proxy",
     "namezh": "代理",
+    "namebh": "پراكسى",
     "color": "#123e6d",
     "tags": [
       "Atlasia"
@@ -2362,6 +2367,7 @@
   {
     "name": "Appaloosa",
     "namezh": "阿波露莎",
+    "namebh": "ئاپپالۇسا",
     "color": "#c9781d",
     "tags": [
       "Bauhinia",
