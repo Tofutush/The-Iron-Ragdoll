@@ -44,16 +44,21 @@ You add ۇ to the end of a word to make it plural. Always gets added first, befo
 
 ### Pronouns
 
-There are 8 pronouns in Bauhinian, with the 2nd-person one having a formal version and informal version. I hope you know when to use formal and when to use informal because I sure as hell don't but I like the idea of them.
+There are 5 pronouns in Bauhinian: one first-person, two second-person (formal and informal), two third-person (animate and inanimate). Each one also has a plural.
+
+"Animate" includes people, countries, groups (like the [ISA](/world/isa/)), and institutions (like the [MSS](/world/bauhinia/mss/). I guess they count as "groups" too technically). I know that doesn't sound very "animate" but trust me it like says something about their culture, especially considering that in Fanton the animate pronoun is usually used for plants and animals as well. Inanimate is just everything else. As you can see from the examples, "the Bauhinian language" is always translated as "سەثىس باۋھىنياتا," with "سەثىس" and not "سەثىذ."
+
+As for formal and informal, I hope you know when to use which because I sure as hell don't but I like the idea of them.
 
 | Person / Number | Singular | Plural |
 | --------------- | -------- | ------ |
 | 1st             | ۋا       | ۋۇ     |
 | 2nd (informal)  | نا       | نۇ     |
 | 2nd (formal)    | قا       | قۇ     |
-| 3rd             | سا       | سۇ     |
+| 3rd (animate)   | سا       | سۇ     |
+| 3rd (inanimate) | كا       | كۇ     |
 
-### Possessive
+### Possessive: تا
 
 The suffix تا is used on the possessor, and a corresponding suffix on the possessed, depending on the possessor's person and number. The owner can be omitted if the context makes it clear.
 
@@ -62,7 +67,8 @@ The suffix تا is used on the possessor, and a corresponding suffix on the poss
 | 1st             | -ىم      | -ىمۇ   |
 | 2nd (informal)  | -ىن      | -ىنۇ   |
 | 2nd (formal)    | -ىق      | -ىقۇ   |
-| 3rd             | -ىس      | -ىسۇ   |
+| 3rd (animate)   | -ىس      | -ىسۇ   |
+| 3rd (inanimate) | -ىك      | -ىكۇ   |
 
 See how patterned it is?? Aside from the 1st-person where the ۋ got replaced with م. Let's do some examples.
 

@@ -17,14 +17,14 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 
 ## Vowels
 
-| Order | Latin | Sound-alike | سەثىس باۋھىنياتا |
-| ----- | ----- | ----------- | ---------------- |
-| 1     | a     | m**aw**     | ئا               |
-| 2     | e     | s**e**t     | ئە               |
-| 3     | ë     | t**ea**     | ئې               |
-| 4     | i     | t**i**p     | ئى               |
-| 5     | o     | s**oa**p    | ئو               |
-| 6     | u     | l**oo**p    | ئۇ               |
+| Order | Latin | Sound-alike         | سەثىس باۋھىنياتا |
+| ----- | ----- | ------------------- | ---------------- |
+| 1     | a     | m**aw** / **a**pple | ئا               |
+| 2     | e     | s**e**t             | ئە               |
+| 3     | ë     | t**ea**             | ئې               |
+| 4     | i     | t**i**p             | ئى               |
+| 5     | o     | s**oa**p            | ئو               |
+| 6     | u     | l**oo**p            | ئۇ               |
 
 ### Compound vowels
 
@@ -99,6 +99,9 @@ In addition, letters with two dots can be simplified in to a line in handwriting
 	- This is terrible because Chinese speakers don't need to be told this and non-speakers won't get it.
 	- Whatever (bashes head against computer screen). Anyway this reminded me of this joke. International student at TSA. "Do you have a laptop?" "No." TSA agent searches bag and pulls out a laptop. "What is this?" "This is computer."
 - The letter ۋ is not allowed to be after a vowel, except in the *only* exception, Bauhinia (bawhinya).
+- When the letter ل is after a vowel, it becomes… maybe not so much as a "dark L" but like, you immediately curl your tongue inwards as you pronounce the vowel. If you get it.
+- Some voiced consonants turn unvoiced at the end of a word. Some unvoiced do the opposite. I don't know. I'll flesh this out later.
+- Most of these rules are in place because I found conjugations that made words awfully hard to pronounce for me at least and it should be illegal for ME to be unable to speak MY LANGUAGE fluently.
 
 ## Syllable formation
 
@@ -114,7 +117,8 @@ One syllable can only have one vowel. It could have 0-2 consonants before and af
 General rules; except when there are exceptions.
 
 - 2-syllable words stress the second syllable.
-- 3-syllable words stress either the second or the last, depending on the word. Typically if a word is a 2-syllable one with a suffix that made it three, the last syllable gets stressed.
+- 3-syllable words stress either the second or the last, depending on the word.
+	- If a 2-syllable word got one suffix that made it 3-syllable, then: if the 2-syllable word was stressed on the first syllable then the 3-syllable one will also be stressed on the first.
 - Words with more syllables stress the second-to-last syllable.
 - For irregular stressing patterns, syllables whose vowel is i are prioritized last. Because it's a short vowel.
 
