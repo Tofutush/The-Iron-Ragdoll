@@ -484,7 +484,7 @@ img: "/The-Iron-Ragdoll/img/G-Wipn636T-500.webp"
 {
 name: "Helsinki",
 color: "#5b3896",
-desc: "ھەلزىنكې",
+desc: "",
 img: "/The-Iron-Ragdoll/img/cC00NvezX3-500.webp"
 },
 
