@@ -27,7 +27,6 @@ prev:
   - "[Halcyon's Backstory](/stories/halcyon-backstory/)"
   - "[Paperweight's Backstory](/stories/paperweight-backstory/)"
   - "[The Migration of Peng](/stories/the-migration-of-peng/)"
-toc: true
 ---
 
 [[toc]]
