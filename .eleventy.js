@@ -72,7 +72,13 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
 	eleventyConfig.addPlugin(eleventyLucideIconsPlugin);
-	eleventyConfig.addPlugin(eleventyTOCPlugin);
+	eleventyConfig.addPlugin(eleventyTOCPlugin, {
+		wrapper: function (toc) {
+			// wrapper around the generated TOC
+			// (i deleted the nav)
+			return `${toc}`;
+		},
+	});
 	eleventyConfig.addPlugin(galleryPlugin);
 	eleventyConfig.addPlugin(utilPlugin);
 	eleventyConfig.addPlugin(chPlugin);

@@ -88,6 +88,9 @@ eleventyComputed:
 			<a href="/search/">Search</a>
 		{% endif %}
 	</nav>
+	{% if toc %}
+		<div id="wrapper">
+	{% endif %}
 	<main {% unless pagefindIgnore %}data-pagefind-body{% endunless %}>
 		{% unless noNav %}
 			{% assign bc = collections.all | eleventyNavigationBreadcrumb: key, navOptions %}
@@ -107,6 +110,10 @@ eleventyComputed:
 		{% endunless %}
 		{{ content }}
 	</main>
+	{% if toc %}
+		<aside data-pagefind-ignore>{{ content | toc }}</aside>
+		</div>
+	{% endif %}
 	{% unless siteTheme and noFooterImage %}
 		<footer>
 			{% unless siteTheme %}

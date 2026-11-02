@@ -27,11 +27,12 @@ prev:
   - "[Halcyon's Backstory](/stories/halcyon-backstory/)"
   - "[Paperweight's Backstory](/stories/paperweight-backstory/)"
   - "[The Migration of Peng](/stories/the-migration-of-peng/)"
+toc: true
 ---
 
 [[toc]]
 
-## Part 1: the nuke,
+## Part 1: the nuke
 
 ### The discovery
 
@@ -125,7 +126,7 @@ Sparky was fuming. That literally wasn't fair! They set us up to be used! They n
 
 But Sky was in his own room, contemplating. If he had never tattled to the MSS, had he kept the meeting a secret, maybe Gecko wouldn't have been caught?
 
-## Part 2: all that came after,
+## Part 2: all that came after
 
 Sky was waiting for Pumpkin at the kebab restaurant. I need to talk, he said. I had been visiting here every day for the past week for you to show.
 
@@ -187,6 +188,6 @@ At the police station, the MSS came to get Sky. They obtained an alibi from his 
 
 So Sky told his friends about it.
 
-## Part 3: and all that went wrong.
+## Part 3: and all that went wrong
 
 [^1]: Why is there a wall heater in Coastline of all places where it never snows? I don't care I like cuffing people to heaters.
