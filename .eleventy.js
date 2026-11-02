@@ -9,7 +9,6 @@ import markdownItExternalLinks from 'markdown-it-external-links';
 import markdownItFootnote from "markdown-it-footnote";
 import markdownItMark from 'markdown-it-mark';
 import markdownItObsidianCallouts from "markdown-it-obsidian-callouts";
-import markdownItTOC from 'markdown-it-table-of-contents';
 import markdownitTableWrap from 'markdown-it-table-wrap';
 import chPlugin from './_plugins/ch.js';
 import funPlugin from './_plugins/fun.js';
@@ -48,16 +47,7 @@ export default function (eleventyConfig) {
 		.use(markdownitTableWrap)
 		.use(markdownItObsidianCallouts)
 		.use(markdownItAnchor, { slugify: slug })
-		.use(markdownItExternalLinks, { externalTarget: '_blank' })
-		.use(markdownItTOC, {
-			includeLevel: [2, 3, 4],
-			transformContainerOpen: () => {
-				return '<details class="toc callout" open><summary class="callout-title"><div class="callout-title-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-list"><path d = "M3 5h.01" ></path><path d="M3 12h.01"></path><path d="M3 19h.01"></path><path d="M8 5h13"></path><path d="M8 12h13"></path><path d="M8 19h13"></path></svg></div><div class="callout-title-inner">Contents</div></summary><div class="callout-content">';
-			},
-			transformContainerClose: () => {
-				return '</div></details>';
-			},
-		});
+		.use(markdownItExternalLinks, { externalTarget: '_blank' });
 	mdIt.renderer.rules.footnote_anchor = (tokens, idx, options, env, slf) => {
 		const n = Number(tokens[idx].meta.id + 1).toString();
 		let prefix = '';
