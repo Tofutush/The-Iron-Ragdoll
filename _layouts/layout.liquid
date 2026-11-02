@@ -88,7 +88,8 @@ eleventyComputed:
 			<a href="/search/">Search</a>
 		{% endif %}
 	</nav>
-	{% if toc %}
+	{% assign tocContent = content | toc %}
+	{% if toc and tocContent != '' %}
 		<div id="wrapper">
 	{% endif %}
 	<main {% unless pagefindIgnore %}data-pagefind-body{% endunless %}>
@@ -110,8 +111,8 @@ eleventyComputed:
 		{% endunless %}
 		{{ content }}
 	</main>
-	{% if toc %}
-		<aside data-pagefind-ignore>{{ content | toc }}</aside>
+	{% if toc and tocContent != '' %}
+		<aside data-pagefind-ignore>{{ tocContent }}</aside>
 		</div>
 	{% endif %}
 	{% unless siteTheme and noFooterImage %}

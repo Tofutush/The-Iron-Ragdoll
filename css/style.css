@@ -475,7 +475,6 @@ aside {
 	top: 4em;
 	max-height: calc(100vh - 4em);
 	overflow-y: auto;
-	overscroll-behavior: contain;
 	scrollbar-width: thin;
 
 	ol {
