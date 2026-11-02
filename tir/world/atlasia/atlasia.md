@@ -29,8 +29,6 @@ categories:
 
 The green money-lovers.
 
-[[toc]]
-
 ## Geography
 
 Atlasia borders [Bauhinia](/world/bauhinia/) on the south, shares a short border with [Fanton](/world/fanton/) on the southwest, [Westavia](/world/westavia/) on the west, [Moreland](/world/moreland/) on the northwest, and shares a short border with [Sylvandia](/world/sylvandia/) on the north.

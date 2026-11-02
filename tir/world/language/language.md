@@ -13,8 +13,6 @@ Due to literally being one Bauhinian Empire for thousands of years, everyone on 
 > [!note]+
 > This file is basically holding a lot of placeholder information until I could get the language solidly down enough to redo this page to be more cohesive. Ideally this page should serve as a hub to get to know everything you really need about the Bauhinian language as much as you "need" any of the other lore files, while the sub-files will actually document, like, the entire language, and will be entirely optional.
 
-[[toc]]
-
 ## History
 
 Ancient Bauhinian is split into two forms: Noble Bauhinian and Common Bauhinian (think Latin and Vulgar Latin). Modern Bauhinian is developed from Common Bauhinian (difference is paramount to modern Chinese and Ming and Qing Dynasty novels), while Noble Bauhinian is taught as a school subject to torture students all over the continent. In most places, these two languages (the old Noble one and the modern one) are now called Ancient Bauhinian and Modern Bauhinian now, to rid the idea of an aristocrat-exclusive language, although in Fanton they still call it Noble and Common Bauhinian.

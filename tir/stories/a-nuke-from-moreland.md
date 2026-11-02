@@ -29,9 +29,7 @@ prev:
   - "[The Migration of Peng](/stories/the-migration-of-peng/)"
 ---
 
-[[toc]]
-
-## Part 1: the nuke
+## Part 1: the nuke,
 
 ### The discovery
 

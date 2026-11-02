@@ -42,6 +42,7 @@ The ultimate purpose of the magic academy is to limit magicians' power and to tr
 ## Characters
 
 {% assign filteredChs = characters | filterChByTag: 'Magic Academy' %}
+
 {% include 'chs', chs: filteredChs %}
 
 [^1]: This reads like Inform 7 code.

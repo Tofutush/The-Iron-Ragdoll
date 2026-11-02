@@ -31,8 +31,6 @@ categories:
 
 The blue-and-yellow-colored huge mess. It is nominally independent but still in colonial limbo.
 
-[[toc]]
-
 ## Geography
 
 Sylvandia borders [Moreland](/world/moreland/) on the south, and shares a short border with [Atlasia](/world/atlasia/) on the southeast.

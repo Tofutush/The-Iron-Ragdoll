@@ -22,8 +22,6 @@ banner: banner sky
 
 Any info is subject to change! This story is really experimental to me (for some reason, because I can't name any qualities that make it so experimental. Maybe because it's some actual spy shit lmao) but I am pretty proud of it!
 
-[[toc]]
-
 During the Fantoni War, [MSS](/world/bauhinia/mss/) officer [Sky](/characters/sky/) ran a ring of four spies gathering intel and doing deception. Sky liked representing them with the ace cards of the four suits, which is why they are later referred to as the "Poker Spies."
 
 ## The spies

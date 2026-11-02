@@ -9,8 +9,6 @@ categories:
 
 Everyone has a soul. It contains a person's entire identity: their self, their memories, their emotions, their worldview. They are born with them and ideally should stay inside the person's body until death. The soul's color leaks into the person's eye and ears or horns, coloring them in as well. In the case of magicians, the soul color is also the color of their magic.
 
-[[toc]]
-
 Souls come in three forms: solid, liquid, and gas. (Or non-Newtonian, though that's incredibly rare.) The only way to determine what the form of a person's soul is is to extract it.
 
 Everyone is born with a perfectly spherical gas soul. The soul changes shape and form as the person grows (but the color never changes), and generally settles in place in their thirties.

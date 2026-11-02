@@ -16,8 +16,6 @@ prev:
 complete: true
 ---
 
-[[toc]]
-
 ## 1
 
 Candlelight went to Mooncake's after school as usual. She was becoming more and more like his sister.

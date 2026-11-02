@@ -9,8 +9,6 @@ categories:
 
 Oh boy, here we go.
 
-[[toc]]
-
 > [!note]+ Terminology
 > For the purposes of explaining all this, in this file (and any other Bauhinian language-related file), "xe/xem/xir" will be used as the *singular* 3rd-person pronoun like how Springhole does it. This is to avoid mixing it up with "they/them," which will exclusively refer to *plural* 3rd-persons.
 >

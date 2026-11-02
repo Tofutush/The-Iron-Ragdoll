@@ -8,8 +8,6 @@ eleventyNavigation:
 
 Characters that I have a name of but doesn't have a large role in the story. Or pets.
 
-[[toc]]
-
 ## Background characters
 
 - Jackal: [Sparky](/characters/sparky/)'s biological father. A construction worker. Didn't allow Sparky to go to school, and instead made her work on the construction site with him.

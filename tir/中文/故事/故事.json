@@ -1,4 +1,5 @@
 {
 	"layout": "storyzh.liquid",
-	"parent": "故事"
+	"parent": "故事",
+	"toc": true
 }

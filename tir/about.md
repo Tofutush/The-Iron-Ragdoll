@@ -5,9 +5,8 @@ desc: About The Iron Ragdoll.
 parent: Root
 eleventyNavigation:
   order: 2
+toc: true
 ---
-
-[[toc]]
 
 <section style="border-sizing: border-box; --orange-500: #f66d1e; --blue-800: #162c33; --gray-900: #ffffff;">
   <div style="display: flex; flex-direction: column; align-items: center; background-color: var(--blue-800); padding: 1rem; border-radius: 0.5rem; color: var(--gray-900);">

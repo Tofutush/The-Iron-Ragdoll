@@ -21,8 +21,6 @@ prev:
   - "[A Nuke From Moreland](/stories/a-nuke-from-moreland/)"
 ---
 
-[[toc]]
-
 ## New Year
 
 Fantasy came home from college for the new year. She didn't come alone though. Peacock's parents were also tagging along.

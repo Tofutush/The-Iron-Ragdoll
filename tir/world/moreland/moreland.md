@@ -31,8 +31,6 @@ categories:
 
 The green moose people.
 
-[[toc]]
-
 ## Geography
 
 Moreland borders [Westavia](/world/westavia/) to the southwest, [Atlasia](/world/atlasia/) to the southeast, and [Sylvandia](/world/sylvandia/) to the north.

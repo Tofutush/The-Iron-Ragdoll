@@ -21,8 +21,6 @@ banner: banner qibli
 
 After murdering Nebula, Qibli couldn't be a normal member of society anymore. She had to run away to live a life at large.
 
-[[toc]]
-
 ## Pocket dimension
 
 She rested herself in a pocket dimension she created, where there's a treehouse she lives in, and the outside terrain can shift to her liking. In the pocket dimension, and flows normally; and because she will physically enter her pocket dimension, she cannot connect to the internet. Contrast with [Sunflower](/characters/sunflower/)'s paracosm.
