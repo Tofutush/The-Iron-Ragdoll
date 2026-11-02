@@ -92,13 +92,11 @@ Kids drinking is a small problem. Westavian adults could drink a ton during gath
 
 Amid the crackdown of the Great Westavian Strike (see History section below), the Bauhinians destroyed most historical records located in the region. Any information about the region of Westavia before the Strike was hard to obtain, the only first-hand documents left being in the Republic of Bauhinia, and some documents were lost forever. Westavia, then, was born as a nation with no history.
 
-The government was less invested in finding out the truth than in building a Westavian identity separate from Bauhinia. As far as authorities were concerned, the Strike was the beginning of the world. Westavia's true history became a hushed-up subject in the country. It is forbidden to study history outside of government-approved narratives. One most prominent example is the changing of all city names to Area \[number] (People's Vanguard is also a changed name), while referring to their original names is punishable by detainment.
-
-Why, though? Because they feared that, in pursuit of Westavia's true history, what people find may confirm that there is no such thing as Westavia, and that Westavia has always been Bauhinian through and through. And that's exactly what the secret historians found.
+The government was less invested in obtaining that lost history than in crafting a new national identity that does not require Bauhinia's permission. As far as authorities were concerned, the Strike was the beginning of the world. Westavia's "true" history, i.e. the history written by the very Empire that wanted to prevent Westavia's independence, became a hushed-up subject in the country. It is forbidden to study history outside of government-approved narratives. One most prominent example is the changing of all city names to Area \[number] (People's Vanguard is also a changed name), while referring to their original names is punishable by detainment.
 
 The secret historians seek to obtain and archive information on Westavia's history under the threat of jail time. These people are persecuted by the authorities, frowned upon by ordinary citizens, and revered by dissidents of the Westavian government.
 
-This information would put Westavia's national identity at risk. Post-Strike history was the only safe part. Because only that part was truly Westavian.
+This information would put Westavia's national identity at risk. Post-Strike history was the only safe part. Because only that part was truly Westavian, and that part was proof that a nation is more than a pedigree.
 
 ## History
 
@@ -110,6 +108,7 @@ After the stabilization of Moreland, Westavia began receiving assistance, withou
 
 - If Westavia were ever to have a theme song (not national anthem), it would be titled *Commie Propaganda*.
 	- Ironically, most of Westavia's propaganda efforts were directed at *countering* Bauhinian propaganda. The title was too good to pass up, though.
+- Modern boba tea (originated from [Bauhinia](/world/bauhinia/)) is based on the traditional Westavian milk tea, one of the few traditional Westavian stuff that's actually older than the country. Bauhinian boba tea is banned in Westavia.
 
 [^1]: Why is that? Well the meta reason is that I like the 7-point star. In-universe IDK yet
 [^2]: Too bad. I hate both raisins and wine.

@@ -11,20 +11,20 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 > [!info]- Some readability rambling
 > Also I have successfully explained this language in a way that only Chinese and English bilinguals with a familiarity with the Arabic writing system (for example, me) would be able to get, so if anything's confusing worry not it's not your fault. Sorry I'm so bad at this 😭. I try not to assume anything though. No big promises. This is unfamiliar territory to me too.
 >
-> What this file (and the others that I haven't made public but will eventually but you can go on my Github to check out) *does* assume is a familiarity with the Arabic writing system. I give you the complete pronunciation mapping here, but won't teach you the separate forms and how they connect. If you want to, there are plenty of online resources to help you (I used the [Uyghurche textbook](https://annas-archive.pk/md5/1370d113851a06bcda27762d5d753a19?&check=1) personally and it works wonders but it's in Chinese). I think that even if "learning Bauhinian" is a pointless waste of effort, being familiar with the Arabic script is totally worthwhile! I might write a blog post on this, IDK. I have too many blog drafts.
+> What this file (and the others that I haven't made public but will eventually but you can go on my Github to check out) *does* assume is a familiarity with the Arabic writing system. I give you the complete pronunciation mapping here, and have written a [blog post](https://tofutush.github.io/posts/2026-10-27.html) to teach you to read! (When I learned it, I used the [Uyghurche textbook](https://annas-archive.pk/md5/1370d113851a06bcda27762d5d753a19?&check=1) and it works wonders but it's in Chinese). I think that even if "learning Bauhinian" is a pointless waste of effort, being familiar with the Arabic script is totally worthwhile!
 
 [[toc]]
 
 ## Vowels
 
-| Order | Latin | Sound-alike | سەثىس باۋھىنياتا |
-| ----- | ----- | ----------- | ---------------- |
-| 1     | a     | m**aw**     | ئا               |
-| 2     | e     | s**e**t     | ئە               |
-| 3     | ë     | t**ea**     | ئې               |
-| 4     | i     | t**i**p     | ئى               |
-| 5     | o     | s**oa**p    | ئو               |
-| 6     | u     | l**oo**p    | ئۇ               |
+| Order | Latin | Sound-alike         | سەثىس باۋھىنياتا |
+| ----- | ----- | ------------------- | ---------------- |
+| 1     | a     | m**aw** / **a**pple | ئا               |
+| 2     | e     | s**e**t             | ئە               |
+| 3     | ë     | t**ea**             | ئې               |
+| 4     | i     | t**i**p             | ئى               |
+| 5     | o     | s**oa**p            | ئو               |
+| 6     | u     | l**oo**p            | ئۇ               |
 
 ### Compound vowels
 
@@ -99,6 +99,11 @@ In addition, letters with two dots can be simplified in to a line in handwriting
 	- This is terrible because Chinese speakers don't need to be told this and non-speakers won't get it.
 	- Whatever (bashes head against computer screen). Anyway this reminded me of this joke. International student at TSA. "Do you have a laptop?" "No." TSA agent searches bag and pulls out a laptop. "What is this?" "This is computer."
 - The letter ۋ is not allowed to be after a vowel, except in the *only* exception, Bauhinia (bawhinya).
+- When the letter ل is after a vowel, it becomes… maybe not so much as a "dark L" but like, you immediately curl your tongue inwards as you pronounce the vowel. If you get it.
+- The letter ئا is standardly pronounced like "m**aw**," or "c**o**py," but can be shifted heavily into "**a**pple" in words like "mama" or "papa." However, northerners like the Moose and the Sylvandians tend to pronounce it as **a**pple in every word.
+- The letter ج can be pronounced as either a hard "**j**uice" or a soft "mea**s**ure," and is usually hard at the beginning of a word and soft in the middle.
+- Some voiced consonants turn unvoiced at the end of a word. Some unvoiced do the opposite. I don't know. I'll flesh this out later.
+- Most of these rules are in place because I found conjugations that made words awfully hard to pronounce for me at least and it should be illegal for ME to be unable to speak MY LANGUAGE fluently.
 
 ## Syllable formation
 
@@ -114,7 +119,8 @@ One syllable can only have one vowel. It could have 0-2 consonants before and af
 General rules; except when there are exceptions.
 
 - 2-syllable words stress the second syllable.
-- 3-syllable words stress either the second or the last, depending on the word. Typically if a word is a 2-syllable one with a suffix that made it three, the last syllable gets stressed.
+- 3-syllable words stress either the second or the last, depending on the word.
+	- If a 2-syllable word got one suffix that made it 3-syllable, then: if the 2-syllable word was stressed on the first syllable then the 3-syllable one will also be stressed on the first.
 - Words with more syllables stress the second-to-last syllable.
 - For irregular stressing patterns, syllables whose vowel is i are prioritized last. Because it's a short vowel.
 

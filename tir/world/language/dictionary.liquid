@@ -3,59 +3,43 @@ title: Dictionary
 desc: A list of words in Bauhinian.
 parent: Language
 draft: true
-widepage: true
 categories:
   - Language
 ---
 <style>
-	dt {
-		color: var(--text) !important;
+	h2 {
+		text-align: center;
+	}
+	.box-nav a {
+		line-height: 1.5;
 	}
 </style>
 <p>Words listed: {{ dictionary.size }}</p>
-<div class="table-responsive">
-	<table>
-		<thead>
-			<tr>
-				<th>Type</th>
-				<th>Definition</th>
-				<th>Latin</th>
-				<th dir="rtl">سەثىس باۋھىنياتا</th>
-			</tr>
-		</thead>
-		<tbody>
-			{% for word in dictionary %}
-				<tr>
-					<td>{{ word.pos }}</td>
-					<td>{{ word.def }}</td>
-					<td>{{ word.name }}</td>
-					<td dir="rtl">{{ word.bh }}</td>
-				</tr>
-			{% endfor %}
-		</tbody>
-	</table>
+<div class="box-nav" dir="rtl">
+	{% for letter in groupedDict %}
+		<a href="#{{ letter[1] }}">{{ letter[0] }}</a>
+	{% endfor %}
 </div>
-<script src="/js/sort.js"></script>
-<script>
-	let sort = new SortTable(document.querySelector('table'));
-	sort.addSort({
-		colName: 'type',
-		keyFunc: td => td.innerText,
-		sortFunc: SortTable.sortFuncString
-	});
-	sort.addSort({
-		colName: 'Definition',
-		keyFunc: td => td.innerText,
-		sortFunc: SortTable.sortFuncString
-	});
-	sort.addSort({
-		colName: 'Latin',
-		keyFunc: td => td.innerText,
-		sortFunc: SortTable.sortFuncString
-	});
-	sort.addSort({
-		colName: 'سەثىس باۋھىنياتا',
-		keyFunc: td => td.innerText,
-		sortFunc: SortTable.sortFuncString
-	});
-</script>
+{% for letter in groupedDict %}
+	<h2 id="{{ letter[1] }}">{{ letter[0] }}</h2>
+	<div class="table-responsive">
+		<table>
+			<thead>
+				<tr>
+					<th>Type</th>
+					<th>Definition</th>
+					<th dir="rtl">سەثىس باۋھىنياتا</th>
+				</tr>
+			</thead>
+			<tbody>
+				{% for word in letter[2] %}
+					<tr>
+						<td>{{ word.pos }}</td>
+						<td>{{ word.def }}</td>
+						<td dir="rtl">{{ word.bh }}</td>
+					</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+	</div>
+{% endfor %}
