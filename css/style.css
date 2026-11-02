@@ -460,6 +460,21 @@ nav>a:hover,
 	color: var(--bg);
 }
 
+#wrapper {
+	display: flex;
+}
+
+aside {
+	min-width: 12em;
+	margin-top: 4em;
+	position: sticky;
+	top: 4em;
+	max-height: calc(100vh - 4em);
+	overflow-y: auto;
+	overscroll-behavior: contain;
+	scrollbar-width: thin;
+}
+
 footer {
 	position: relative;
 }
@@ -792,6 +807,12 @@ dl {
 	}
 }
 
+@media only screen and (max-width: 1000px) {
+	aside {
+		display: none;
+	}
+}
+
 @media only screen and (max-width: 480px) {
 	p {
 		text-align: start;
@@ -822,6 +843,16 @@ dl {
 
 	[id] {
 		scroll-margin-top: 5em;
+	}
+
+	.dialog-bubble {
+		grid-template-areas:
+			"icon name"
+			"bubble bubble";
+	}
+
+	.callout-content {
+		padding: 0 1em;
 	}
 }
 
@@ -864,12 +895,6 @@ dl {
 #prev-next .callout-content,
 .toc .callout-content {
 	padding-left: 0;
-}
-
-@media only screen and (max-width: 480px) {
-	.callout-content {
-		padding: 0 1em;
-	}
 }
 
 /* characterspage */
@@ -968,13 +993,5 @@ dl {
 		padding: .5em 1em;
 		border-radius: 1em;
 		border-top-left-radius: 0;
-	}
-}
-
-@media only screen and (max-width: 480px) {
-	.dialog-bubble {
-		grid-template-areas:
-			"icon name"
-			"bubble bubble";
 	}
 }
