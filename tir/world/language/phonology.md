@@ -100,6 +100,8 @@ In addition, letters with two dots can be simplified in to a line in handwriting
 	- Whatever (bashes head against computer screen). Anyway this reminded me of this joke. International student at TSA. "Do you have a laptop?" "No." TSA agent searches bag and pulls out a laptop. "What is this?" "This is computer."
 - The letter ۋ is not allowed to be after a vowel, except in the *only* exception, Bauhinia (bawhinya).
 - When the letter ل is after a vowel, it becomes… maybe not so much as a "dark L" but like, you immediately curl your tongue inwards as you pronounce the vowel. If you get it.
+- The letter ئا is standardly pronounced like "m**aw**," or "c**o**py," but can be shifted heavily into "**a**pple" in words like "mama" or "papa." However, northerners like the Moose and the Sylvandians tend to pronounce it as **a**pple in every word.
+- The letter ج can be pronounced as either a hard "**j**uice" or a soft "mea**s**ure," and is usually hard at the beginning of a word and soft in the middle.
 - Some voiced consonants turn unvoiced at the end of a word. Some unvoiced do the opposite. I don't know. I'll flesh this out later.
 - Most of these rules are in place because I found conjugations that made words awfully hard to pronounce for me at least and it should be illegal for ME to be unable to speak MY LANGUAGE fluently.
 

@@ -42,6 +42,12 @@
     "bh": "\u0686\u0627\u0686\u0627"
   },
   {
+    "name": "dham",
+    "pos": "n.",
+    "def": "tree",
+    "bh": "\u0630\u0627\u0645"
+  },
+  {
     "name": "ete",
     "pos": "n.",
     "def": "moon",
@@ -52,6 +58,18 @@
     "pos": "proper n.",
     "def": "Fanton",
     "bh": "\u0641\u0627\u0646\u062a\u06d5\u0646"
+  },
+  {
+    "name": "-ifu",
+    "pos": "suffix",
+    "def": "epistemic modality: doubtful",
+    "bh": "-\u0649\u0641\u0648"
+  },
+  {
+    "name": "-ig\u00eb",
+    "pos": "suffix",
+    "def": "-ig\u00eb",
+    "bh": "-\u0649\u06af\u06d0"
   },
   {
     "name": "-ik",
@@ -72,6 +90,12 @@
     "bh": "-\u0649\u0645"
   },
   {
+    "name": "-ima",
+    "pos": "suffix",
+    "def": "epistemic modality: very confident",
+    "bh": "-\u0649\u0645\u0627"
+  },
+  {
     "name": "-imu",
     "pos": "suffix",
     "def": "1st person plural possessive (belonging to us)",
@@ -84,10 +108,28 @@
     "bh": "-\u0649\u0646"
   },
   {
+    "name": "-ina",
+    "pos": "suffix",
+    "def": "evidentiality: inference",
+    "bh": "-\u0649\u0646\u0627"
+  },
+  {
+    "name": "-ine",
+    "pos": "suffix",
+    "def": "epistemic modality: neural",
+    "bh": "-\u0649\u0646\u06d5"
+  },
+  {
     "name": "-inu",
     "pos": "suffix",
     "def": "2nd person plural possessive informal (belonging to y'all)",
     "bh": "-\u0649\u0646\u06c7"
+  },
+  {
+    "name": "-in\u00eb",
+    "pos": "suffix",
+    "def": "evidentiality: experienced",
+    "bh": "-\u0649\u0646\u06d0"
   },
   {
     "name": "-ip",
@@ -114,10 +156,52 @@
     "bh": "-\u0649\u0633"
   },
   {
+    "name": "-isha",
+    "pos": "suffix",
+    "def": "evidentiality: universal",
+    "bh": "-\u0649\u0634\u0627"
+  },
+  {
+    "name": "-ishu",
+    "pos": "suffix",
+    "def": "evidentiality: direct source",
+    "bh": "-\u0649\u0634\u06c7"
+  },
+  {
     "name": "-isu",
     "pos": "suffix",
     "def": "3rd person plural possessive (belonging to them)",
     "bh": "-\u0649\u0633\u06c7"
+  },
+  {
+    "name": "-ithe",
+    "pos": "suffix",
+    "def": "evidentiality: untrusted source",
+    "bh": "-\u0649\u062b\u06d5"
+  },
+  {
+    "name": "-itho",
+    "pos": "suffix",
+    "def": "evidentiality: dubious source",
+    "bh": "-\u0649\u062b\u0648"
+  },
+  {
+    "name": "-ithu",
+    "pos": "suffix",
+    "def": "evidentiality: trusted source",
+    "bh": "-\u0649\u062b\u06c7"
+  },
+  {
+    "name": "-itu",
+    "pos": "suffix",
+    "def": "epistemic modality: confident",
+    "bh": "-\u0649\u062a\u06c7"
+  },
+  {
+    "name": "-iwa",
+    "pos": "suffix",
+    "def": "evidentiality: assumption / self-knowledge",
+    "bh": "-\u0649\u06cb\u0627"
   },
   {
     "name": "ka",

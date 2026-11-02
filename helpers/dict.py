@@ -31,7 +31,6 @@ VOWELS = "a e ë i o u".split()
 CONSONANTS = "b p d t k g f v h m n y w l z c s zh ch sh r j q x th dh".split()
 COMPOUND_VOWELS = "aw ai ei".split()
 MULTI_UNITS = COMPOUND_VOWELS + "zh ch sh th dh dr tr".split()
-VOWEL_TOKENS = set(VOWELS + COMPOUND_VOWELS)
 PHONEME_PATTERN = "|".join(MULTI_UNITS) + "|."
 
 
@@ -44,8 +43,8 @@ def _phonemes(word):
     return result
 
 
-def _bar(value, maximum):
-    return "·" if not value else "█" * max(1, round(16 * value / maximum))
+def _bar(value, maximum, width):
+    return "·" if not value else "█" * max(1, round(width * value / maximum))
 
 
 def _pct(value, total):
@@ -55,16 +54,17 @@ def _pct(value, total):
     return f"{share:.0f}%" if share >= 10 else f"{share:.1f}%"
 
 
-def _distribution(rows, total, label, color, maximum):
+def _distribution(rows, total, label, color, width):
     table = Table(box=SIMPLE_HEAD, pad_edge=False, padding=(0, 1), show_edge=False)
     table.add_column(label, no_wrap=True)
     table.add_column("frequency", no_wrap=True)
     table.add_column("n", justify="right")
     table.add_column("%", justify="right")
+    maximum = max((count for _, count in rows), default=1)
     for value, count in rows:
         table.add_row(
             Text(value, style=color),
-            Text(_bar(count, maximum), style=color),
+            Text(_bar(count, maximum, width), style=color),
             str(count),
             _pct(count, total),
         )
@@ -81,8 +81,6 @@ def linguistic_summary(entries):
     phonemes = [p for name in names for p in _phonemes(name)]
     counts = Counter(phonemes)
     total = len(phonemes)
-    maximum = max(counts.values(), default=1)
-    vowels = sum(p in VOWEL_TOKENS for p in phonemes)
     affixes = sum(name.startswith("-") or name.endswith("-") for name in names)
 
     def rows(letters):
@@ -103,7 +101,15 @@ def linguistic_summary(entries):
     ):
         console.print()
         console.print(Text(title, style=f"bold {color}"))
-        console.print(_distribution(rows(letters), total, label, color, maximum))
+        console.print(
+            _distribution(
+                rows(letters),
+                total,
+                label,
+                color,
+                max(20, console.width - len(label) - 16),
+            )
+        )
 
 
 if __name__ == "__main__":
