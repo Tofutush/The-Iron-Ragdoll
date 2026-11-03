@@ -221,7 +221,7 @@ svg {
 
 .max,
 .max img {
-	height: 100%;
+	height: auto;
 	width: 100%;
 	margin-top: 1em;
 	margin-bottom: 1em;
@@ -378,8 +378,6 @@ pre {
 	font-size: smaller;
 }
 
-
-
 ::marker {
 	color: var(--text);
 	font-size: smaller;
@@ -458,6 +456,56 @@ nav>a:hover,
 .license a:hover {
 	text-decoration: underline;
 	color: var(--bg);
+}
+
+#wrapper {
+	display: grid;
+	grid-template-columns: minmax(0, 800px) 12em;
+	gap: 2em;
+	margin: 0 auto;
+	padding: 0 2em;
+	width: fit-content;
+
+	main {
+		margin: 2em 0;
+		padding: 0;
+	}
+
+	aside {
+		min-width: 0;
+		margin-top: 4em;
+		padding-right: 1em;
+		position: sticky;
+		top: 4em;
+		max-height: calc(100vh - 5em);
+		overflow-y: auto;
+		scrollbar-width: thin;
+		direction: rtl;
+
+		ol {
+			font-size: var(--font-size-small);
+			list-style: none;
+			padding-inline-start: 2em;
+			direction: ltr;
+
+			li {
+				line-height: 1.5;
+
+				a {
+					color: var(--c);
+					text-decoration: none;
+
+					&:hover {
+						color: var(--text);
+					}
+				}
+			}
+		}
+	}
+
+	.top-toc.hide-desktop {
+		display: none;
+	}
 }
 
 footer {
@@ -792,6 +840,25 @@ dl {
 	}
 }
 
+@media only screen and (max-width: 1000px) {
+	#wrapper {
+		display: contents;
+
+		main {
+			margin: 2em auto;
+			padding: 0 2em;
+		}
+
+		aside {
+			display: none;
+		}
+
+		.top-toc.hide-desktop {
+			display: block;
+		}
+	}
+}
+
 @media only screen and (max-width: 480px) {
 	p {
 		text-align: start;
@@ -822,6 +889,16 @@ dl {
 
 	[id] {
 		scroll-margin-top: 5em;
+	}
+
+	.dialog-bubble {
+		grid-template-areas:
+			"icon name"
+			"bubble bubble";
+	}
+
+	.callout-content {
+		padding: 0 1em;
 	}
 }
 
@@ -857,19 +934,13 @@ dl {
 }
 
 /* special cases, toc & story prev-next */
-.toc.callout {
-	width: fit-content;
+.top-toc.callout {
+	width: 100%;
 }
 
 #prev-next .callout-content,
-.toc .callout-content {
+.top-toc .callout-content {
 	padding-left: 0;
-}
-
-@media only screen and (max-width: 480px) {
-	.callout-content {
-		padding: 0 1em;
-	}
 }
 
 /* characterspage */
@@ -968,13 +1039,5 @@ dl {
 		padding: .5em 1em;
 		border-radius: 1em;
 		border-top-left-radius: 0;
-	}
-}
-
-@media only screen and (max-width: 480px) {
-	.dialog-bubble {
-		grid-template-areas:
-			"icon name"
-			"bubble bubble";
 	}
 }
