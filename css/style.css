@@ -460,13 +460,14 @@ nav>a:hover,
 
 #wrapper {
 	display: grid;
-	grid-template-columns: minmax(0, 1fr) 12em;
-	margin-inline: auto;
-	max-width: 1200px;
+	grid-template-columns: minmax(0, 800px) 12em;
+	gap: 2em;
+	margin: 0 auto;
+	width: fit-content;
 
 	main {
 		margin: 2em 0;
-		place-self: end;
+		padding: 0;
 	}
 
 	aside {
