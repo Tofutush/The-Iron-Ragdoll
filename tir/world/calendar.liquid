@@ -6,25 +6,12 @@ categories:
   - Lore
 widepage: true
 toc: false
+topToc: true
 ---
 <link rel="stylesheet" href="/css/calendar.css"/>
-<details class="toc callout" open>
-	<summary class="callout-title">
-		<div class="callout-title-icon">{% lucide 'list' 24 %}</div>
-		<div class="callout-title-inner">Contents</div>
-	</summary>
-	<div class="callout-content">
-    <ul>
-      {% for month in calendar %}
-        <li><a href="#{{ month.name | lowerCase }}">{{ month.name }}</a></li>
-      {% endfor %}
-      <li><a href="#notes">Notes</a></li>
-    </ul>
-  </div>
-</details>
 {% for month in calendar %}
 <div class="calendar">
-  <div><h1 id="{{ month.name | lowerCase }}">{{ month.name }}</h1></div>
+  <div><h2 id="{{ month.name | lowerCase }}">{{ month.name }}</h2></div>
   {% for day in month.days %}
     <div>
       <div class="number{% if day.bdays.holidays %} has-holiday tooltip{% endif %}">
