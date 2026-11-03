@@ -21,4 +21,4 @@ They had a bunch of soon-to-be parents sign up for their children to be observed
 
 The TIR equivalent of six seven. Accompanying gesture is poking the two sides of your nose with your two index fingers. Abbreviation "GBBG." Someone made an AI-generated mascot of a slimy worm holding a frying pan, named "Gooby-Boog," that went viral. Stores sell gummy worms named "Goober boogers" and all of them are off-brand because there is no original brand. Every time someone sneezes, instead of "bless you," kids would say "goober boogers!"
 
-This happened in [Harmony](/characters/harmony/) and [Sugarcane](/characters/sugarcane/)'s generation. [Sparrow](/characters/sparrow/), despite being in their 20s at its peak, was a huge fan of the trend.
+This happened in [Harmony](/characters/harmony/) and [Sugarcane](/characters/sugarcane/)'s generation. [Sparrow](/characters/sparrow/), despite being in her 20s at its peak, was a huge fan of the trend.

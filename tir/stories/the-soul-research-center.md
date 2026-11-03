@@ -27,4 +27,4 @@ They gave the [CRS](/world/bauhinia/crs/) a deadline. Here's Tomato's soul. We *
 
 Starlight got to work, trying to figure out how to extract Tomato's memories, which will also help her in examining her mother's memories.
 
-After hearing about how they managed to serialize a soul into data, they sent Sparrow, a computer science specialist, to join the research program. They were very cheerful and too bright on the eyes, which annoyed Starlight.
+After hearing about how they managed to serialize a soul into data, they sent Sparrow, a computer science specialist, to join the research program. She was very cheerful and too bright on the eyes, which annoyed Starlight.
