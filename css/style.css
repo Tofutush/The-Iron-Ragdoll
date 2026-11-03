@@ -482,10 +482,17 @@ nav>a:hover,
 		scrollbar-width: thin;
 		direction: rtl;
 
+		p {
+			direction: ltr;
+			padding-left: 2rem;
+			margin-bottom: 0;
+			font-weight: bold;
+		}
+
 		ol {
 			font-size: var(--font-size-small);
 			list-style: none;
-			padding-inline-start: 2em;
+			padding-inline-start: 2rem;
 			direction: ltr;
 
 			li {
@@ -495,7 +502,8 @@ nav>a:hover,
 					color: var(--c);
 					text-decoration: none;
 
-					&:hover {
+					&:hover,
+					&.active {
 						color: var(--text);
 					}
 				}

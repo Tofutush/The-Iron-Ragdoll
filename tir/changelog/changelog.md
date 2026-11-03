@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-11-03
 
 - Sidebar tables of contents;
+	- It also highlights your current section, though it's not super accurate;
 
 ## 2026-10-25
 

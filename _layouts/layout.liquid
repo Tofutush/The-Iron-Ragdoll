@@ -123,7 +123,10 @@ eleventyComputed:
 		{{ content }}
 	</main>
 	{% if toc and tocContent != '' and topToc != true %}
-		<aside data-pagefind-ignore>{{ tocContent }}</aside>
+		<aside data-pagefind-ignore>
+			<p style="font-weight: bold">{% if lang == 'zh' %}目录{% else %}Contents{% endif %}</p>
+			{{ tocContent }}
+		</aside>
 		</div>
 	{% endif %}
 	{% unless siteTheme and noFooterImage %}
@@ -135,22 +138,7 @@ eleventyComputed:
 						{% lucide 'moon' %}
 					</div>
 				</button>
-				<script>
-					(function () {
-						let toggle = document.querySelector('.theme-toggle');
-						let lightDark = parseInt(localStorage.getItem('light-dark'));
-						toggle.addEventListener('click', e => {
-							if (lightDark === 0) {
-								lightDark = 1;
-								document.documentElement.className = 'light';
-							} else {
-								lightDark = 0;
-								document.documentElement.className = 'dark';
-							}
-							localStorage.setItem('light-dark', lightDark);
-						});
-					})();
-				</script>
+				<script src="/js/theme.js"></script>
 			{% endunless %}
 			{% unless noFooterImage %}
 				{% assign footerimg = gallery | filterGalleryByKind: 'footer' | getFooterImg: title %}
@@ -171,5 +159,6 @@ eleventyComputed:
 			});
 		}
 	</script>
+	{% if toc %}<script src="/js/intersection.js"></script>{% endif %}
 </body>
 </html>
