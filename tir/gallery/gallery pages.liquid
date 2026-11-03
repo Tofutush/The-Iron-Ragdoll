@@ -12,6 +12,7 @@ eleventyComputed:
   navTitle: "{{ year }}"
   desc: "A bunch of pictures I drew in {{ year }}."
 toc: true
+sideTocOnly: true
 ---
 {% for month in (1..12) reversed %}
 	{% assign paddedMonth = month | padStart: 2, '0' %}

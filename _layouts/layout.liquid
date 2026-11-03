@@ -110,7 +110,7 @@ eleventyComputed:
 			{% endif %}
 		{% endunless %}
 		{% if toc or topToc %}
-		{% if tocContent != '' %}
+		{% if sideTocOnly != true and tocContent != '' %}
 			<details class="top-toc{% unless topToc %} hide-desktop{% endunless %} callout">
 				<summary class="callout-title">
 					<div class="callout-title-icon">{% lucide 'list' %}</div>

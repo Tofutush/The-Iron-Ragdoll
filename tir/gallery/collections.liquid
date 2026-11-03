@@ -5,6 +5,7 @@ desc: Pictures with specific categories.
 parent: Gallery
 eleventyNavigation:
   order: 9
+toc: true
 ---
 <style>
 	#footers-div {
@@ -65,29 +66,6 @@ eleventyNavigation:
 	}
 </style>
 <p>Here you can see specific categories of pictures I drew. Some of them scroll!</p>
-<details class="toc callout" open>
-	<summary class="callout-title">
-		<div class="callout-title-icon">{% lucide 'list' 24 %}</div>
-		<div class="callout-title-inner">Contents</div>
-	</summary>
-	<div class="callout-content">
-		<ul>
-			<li><a href="#banners">Banners</a></li>
-			<li><a href="#footers">Footers</a></li>
-			<li><a href="#new-year">New Year</a></li>
-			<li><a href="#featured">Featured</a></li>
-			<li><a href="#wallpapers">Wallpapers</a></li>
-			<li>
-				<a href="#characters">Characters</a>
-				<ul>
-					<li><a href="#fullbodies">Fullbodies</a></li>
-					<li><a href="#pagedolls">Pagedolls</a></li>
-					<li><a href="#references">References</a></li>
-				</ul>
-			</li>
-		</ul>
-	</div>
-</details>
 <h2 id="banners">Banners</h2>
 {% assign banners = gallery | filterGalleryByKind: "banner" %}
 {% for b in banners %}
