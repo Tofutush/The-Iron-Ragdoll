@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-03
+
+- Sidebar tables of contents;
+
 ## 2026-10-25
 
 - Added `xiaqiu.png`;
