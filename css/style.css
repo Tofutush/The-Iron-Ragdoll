@@ -378,8 +378,6 @@ pre {
 	font-size: smaller;
 }
 
-
-
 ::marker {
 	color: var(--text);
 	font-size: smaller;
@@ -468,6 +466,7 @@ nav>a:hover,
 
 	main {
 		margin: 2em 0;
+		place-self: end;
 	}
 
 	aside {
@@ -476,7 +475,7 @@ nav>a:hover,
 		padding-right: 1em;
 		position: sticky;
 		top: 4em;
-		max-height: calc(100vh - 4em);
+		max-height: calc(100vh - 5em);
 		overflow-y: auto;
 		scrollbar-width: thin;
 		direction: rtl;
@@ -500,6 +499,10 @@ nav>a:hover,
 				}
 			}
 		}
+	}
+
+	.top-toc.hide-desktop {
+		display: none;
 	}
 }
 
@@ -846,6 +849,10 @@ dl {
 		aside {
 			display: none;
 		}
+
+		.top-toc.hide-desktop {
+			display: block;
+		}
 	}
 }
 
@@ -924,12 +931,12 @@ dl {
 }
 
 /* special cases, toc & story prev-next */
-.toc.callout {
-	width: fit-content;
+.top-toc.callout {
+	width: 100%;
 }
 
 #prev-next .callout-content,
-.toc .callout-content {
+.top-toc .callout-content {
 	padding-left: 0;
 }
 
