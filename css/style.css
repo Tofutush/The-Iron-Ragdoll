@@ -463,34 +463,36 @@ nav>a:hover,
 #wrapper {
 	display: flex;
 	margin: auto;
-	width: fit-content;
-}
+	width: 100%;
 
-aside {
-	width: 12em;
-	min-width: 0;
-	margin-top: 4em;
-	padding-right: 1em;
-	position: sticky;
-	top: 4em;
-	max-height: calc(100vh - 4em);
-	overflow-y: auto;
-	scrollbar-width: thin;
+	aside {
+		width: 12em;
+		min-width: 0;
+		margin-top: 4em;
+		padding-right: 1em;
+		position: sticky;
+		top: 4em;
+		max-height: calc(100vh - 4em);
+		overflow-y: auto;
+		scrollbar-width: thin;
+		direction: rtl;
 
-	ol {
-		font-size: var(--font-size-small);
-		list-style: none;
-		padding-inline-start: 2em;
+		ol {
+			font-size: var(--font-size-small);
+			list-style: none;
+			padding-inline-start: 2em;
+			direction: ltr;
 
-		li {
-			line-height: 1.5;
+			li {
+				line-height: 1.5;
 
-			a {
-				color: var(--c);
-				text-decoration: none;
+				a {
+					color: var(--c);
+					text-decoration: none;
 
-				&:hover {
-					color: var(--text);
+					&:hover {
+						color: var(--text);
+					}
 				}
 			}
 		}
