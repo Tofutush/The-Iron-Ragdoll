@@ -107,6 +107,7 @@
       <p dir="auto">The southeastern corner is not very studied or explored due to how dangerous it is. It is completely ocean, and where the ocean bed breaks into floating islands, giant waterfalls cascade directly into the void gas below. Many exploring ships and submarines had fallen down these falls before, as it is incredibly hard to swim up the currents.</p>
     </main>
     <aside data-pagefind-ignore="">
+      <p style="font-weight: bold">Contents</p>
       <ol>
         <li><a href="#voidspace">Voidspace</a></li>
         <li><a href="#celestial-bodies">Celestial bodies</a>
@@ -144,22 +145,7 @@
         </svg>
       </div>
     </button>
-    <script>
-      (function() {
-        let toggle = document.querySelector('.theme-toggle');
-        let lightDark = parseInt(localStorage.getItem('light-dark'));
-        toggle.addEventListener('click', e => {
-          if (lightDark === 0) {
-            lightDark = 1;
-            document.documentElement.className = 'light';
-          } else {
-            lightDark = 0;
-            document.documentElement.className = 'dark';
-          }
-          localStorage.setItem('light-dark', lightDark);
-        });
-      })();
-    </script>
+    <script src="/The-Iron-Ragdoll/js/theme.js"></script>
     <img src="/The-Iron-Ragdoll/img/kRUF1AfjLK-500.webp" alt="sparky willow hug" title="sparky willow hug" loading="lazy" decoding="async" class="footer-img" width="500" height="363">
   </footer>
   <div class="license">
@@ -177,6 +163,7 @@
       });
     }
   </script>
+  <script src="/The-Iron-Ragdoll/js/intersection.js"></script>
 </body>
 
 </html>

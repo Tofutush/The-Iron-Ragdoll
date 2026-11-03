@@ -42,7 +42,10 @@
       <p class="lighter-text">Changelog</p>
       <h2 id="2026-11-03" tabindex="-1" dir="auto">2026-11-03</h2>
       <ul dir="auto">
-        <li dir="auto">Sidebar tables of contents;</li>
+        <li dir="auto">Sidebar tables of contents; <ul dir="auto">
+            <li dir="auto">It also highlights your current section, though it's not super accurate;</li>
+          </ul>
+        </li>
       </ul>
       <h2 id="2026-10-25" tabindex="-1" dir="auto">2026-10-25</h2>
       <ul dir="auto">
@@ -740,6 +743,7 @@
       <p dir="auto"><em>Never seen someone read a changelog with this much enthusiasm. Anyways, more for you: <a href="/The-Iron-Ragdoll/changelog/2025/">2025 changelog</a>.</em></p>
     </main>
     <aside data-pagefind-ignore="">
+      <p style="font-weight: bold">Contents</p>
       <ol>
         <li><a href="#2026-11-03">2026-11-03</a></li>
         <li><a href="#2026-10-25">2026-10-25</a></li>
@@ -899,22 +903,7 @@
         </svg>
       </div>
     </button>
-    <script>
-      (function() {
-        let toggle = document.querySelector('.theme-toggle');
-        let lightDark = parseInt(localStorage.getItem('light-dark'));
-        toggle.addEventListener('click', e => {
-          if (lightDark === 0) {
-            lightDark = 1;
-            document.documentElement.className = 'light';
-          } else {
-            lightDark = 0;
-            document.documentElement.className = 'dark';
-          }
-          localStorage.setItem('light-dark', lightDark);
-        });
-      })();
-    </script>
+    <script src="/The-Iron-Ragdoll/js/theme.js"></script>
     <img src="/The-Iron-Ragdoll/img/tryiKYu79N-500.webp" alt="icicle starry footer" title="icicle starry footer" loading="lazy" decoding="async" class="footer-img" width="500" height="348">
   </footer>
   <div class="license">
@@ -932,6 +921,7 @@
       });
     }
   </script>
+  <script src="/The-Iron-Ragdoll/js/intersection.js"></script>
 </body>
 
 </html>

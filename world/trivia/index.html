@@ -76,6 +76,7 @@
       <p dir="auto">This happened in <a href="/The-Iron-Ragdoll/characters/harmony/">Harmony</a> and <a href="/The-Iron-Ragdoll/characters/sugarcane/">Sugarcane</a>'s generation. <a href="/The-Iron-Ragdoll/characters/sparrow/">Sparrow</a>, despite being in her 20s at its peak, was a huge fan of the trend.</p>
     </main>
     <aside data-pagefind-ignore="">
+      <p style="font-weight: bold">Contents</p>
       <ol>
         <li><a href="#the-study-of-rainbows">The Study of Rainbows</a></li>
         <li><a href="#goober-boogers">Goober boogers</a></li>
@@ -101,22 +102,7 @@
         </svg>
       </div>
     </button>
-    <script>
-      (function() {
-        let toggle = document.querySelector('.theme-toggle');
-        let lightDark = parseInt(localStorage.getItem('light-dark'));
-        toggle.addEventListener('click', e => {
-          if (lightDark === 0) {
-            lightDark = 1;
-            document.documentElement.className = 'light';
-          } else {
-            lightDark = 0;
-            document.documentElement.className = 'dark';
-          }
-          localStorage.setItem('light-dark', lightDark);
-        });
-      })();
-    </script>
+    <script src="/The-Iron-Ragdoll/js/theme.js"></script>
     <img src="/The-Iron-Ragdoll/img/SzKl8uSUZn-500.webp" alt="sparky nightsun footer" title="sparky nightsun footer" loading="lazy" decoding="async" class="footer-img" width="500" height="637">
   </footer>
   <div class="license">
@@ -134,6 +120,7 @@
       });
     }
   </script>
+  <script src="/The-Iron-Ragdoll/js/intersection.js"></script>
 </body>
 
 </html>

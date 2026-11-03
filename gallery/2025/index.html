@@ -612,6 +612,7 @@
       <script src="/The-Iron-Ragdoll/js/gallery.js"></script>
     </main>
     <aside data-pagefind-ignore="">
+      <p style="font-weight: bold">Contents</p>
       <ol>
         <li><a href="#december">December</a></li>
         <li><a href="#november">November</a></li>
@@ -647,22 +648,7 @@
         </svg>
       </div>
     </button>
-    <script>
-      (function() {
-        let toggle = document.querySelector('.theme-toggle');
-        let lightDark = parseInt(localStorage.getItem('light-dark'));
-        toggle.addEventListener('click', e => {
-          if (lightDark === 0) {
-            lightDark = 1;
-            document.documentElement.className = 'light';
-          } else {
-            lightDark = 0;
-            document.documentElement.className = 'dark';
-          }
-          localStorage.setItem('light-dark', lightDark);
-        });
-      })();
-    </script>
+    <script src="/The-Iron-Ragdoll/js/theme.js"></script>
     <img src="/The-Iron-Ragdoll/img/VTx-RUADmB-500.webp" alt="poker spies footer" title="poker spies footer" loading="lazy" decoding="async" class="footer-img" width="500" height="423">
   </footer>
   <div class="license">
@@ -680,6 +666,7 @@
       });
     }
   </script>
+  <script src="/The-Iron-Ragdoll/js/intersection.js"></script>
 </body>
 
 </html>

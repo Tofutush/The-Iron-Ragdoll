@@ -83,6 +83,7 @@
       <p dir="auto"><em>You found a puzzle piece: <strong>Hlav</strong>! Next clue: longest page in site… but not so long either! (<a href="/The-Iron-Ragdoll/fun/hunt/">What is this?</a>)</em></p>
     </main>
     <aside data-pagefind-ignore="">
+      <p style="font-weight: bold">Contents</p>
       <ol>
         <li><a href="#headquarters">Headquarters</a></li>
         <li><a href="#council">Council</a></li>
@@ -109,22 +110,7 @@
         </svg>
       </div>
     </button>
-    <script>
-      (function() {
-        let toggle = document.querySelector('.theme-toggle');
-        let lightDark = parseInt(localStorage.getItem('light-dark'));
-        toggle.addEventListener('click', e => {
-          if (lightDark === 0) {
-            lightDark = 1;
-            document.documentElement.className = 'light';
-          } else {
-            lightDark = 0;
-            document.documentElement.className = 'dark';
-          }
-          localStorage.setItem('light-dark', lightDark);
-        });
-      })();
-    </script>
+    <script src="/The-Iron-Ragdoll/js/theme.js"></script>
     <img src="/The-Iron-Ragdoll/img/c20DhD8JhY-500.webp" alt="harmony family footer" title="harmony family footer" loading="lazy" decoding="async" class="footer-img" width="500" height="498">
   </footer>
   <div class="license">
@@ -142,6 +128,7 @@
       });
     }
   </script>
+  <script src="/The-Iron-Ragdoll/js/intersection.js"></script>
 </body>
 
 </html>

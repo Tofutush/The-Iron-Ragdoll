@@ -119,6 +119,7 @@
       <p dir="auto">This is why the <a href="/The-Iron-Ragdoll/world/bauhinia/magic-academy/">Magic Academy</a> was established. As soon as a magician is discovered, they would be required to store their magic inside a vessel &quot;for their own good.&quot; Young magicians have to go through training at the Academy to be entrusted with magic. For some select people, maybe a couple hundred, who were adults when these policies came into place though, they would be required to transfer it to an ID-card look-alike, which is then stored in a government archive, which was exactly what happened to <a href="/The-Iron-Ragdoll/characters/halcyon/">Halcyon</a> after he returned from Moreland.</p>
     </main>
     <aside data-pagefind-ignore="">
+      <p style="font-weight: bold">Contents</p>
       <ol>
         <li><a href="#mind-reading">Mind reading</a></li>
         <li><a href="#immortality">Immortality</a></li>
@@ -145,22 +146,7 @@
         </svg>
       </div>
     </button>
-    <script>
-      (function() {
-        let toggle = document.querySelector('.theme-toggle');
-        let lightDark = parseInt(localStorage.getItem('light-dark'));
-        toggle.addEventListener('click', e => {
-          if (lightDark === 0) {
-            lightDark = 1;
-            document.documentElement.className = 'light';
-          } else {
-            lightDark = 0;
-            document.documentElement.className = 'dark';
-          }
-          localStorage.setItem('light-dark', lightDark);
-        });
-      })();
-    </script>
+    <script src="/The-Iron-Ragdoll/js/theme.js"></script>
     <img src="/The-Iron-Ragdoll/img/SzKl8uSUZn-500.webp" alt="sparky nightsun footer" title="sparky nightsun footer" loading="lazy" decoding="async" class="footer-img" width="500" height="637">
   </footer>
   <div class="license">
@@ -178,6 +164,7 @@
       });
     }
   </script>
+  <script src="/The-Iron-Ragdoll/js/intersection.js"></script>
 </body>
 
 </html>
