@@ -88,6 +88,10 @@ eleventyComputed:
 			<a href="/search/">Search</a>
 		{% endif %}
 	</nav>
+	{% assign tocContent = content | toc %}
+	{% if toc and tocContent != '' and topToc != true %}
+		<div id="wrapper">
+	{% endif %}
 	<main {% unless pagefindIgnore %}data-pagefind-body{% endunless %}>
 		{% unless noNav %}
 			{% assign bc = collections.all | eleventyNavigationBreadcrumb: key, navOptions %}
@@ -105,8 +109,23 @@ eleventyComputed:
 				</div>
 			{% endif %}
 		{% endunless %}
+		{% if toc or topToc %}
+		{% if sideTocOnly != true and tocContent != '' %}
+			<details class="top-toc{% unless topToc %} hide-desktop{% endunless %} callout">
+				<summary class="callout-title">
+					<div class="callout-title-icon">{% lucide 'list' %}</div>
+					<div class="callout-title-inner">Contents</div>
+				</summary>
+				<div class="callout-content">{{ tocContent }}</div>
+			</details>
+		{% endif %}
+		{% endif %}
 		{{ content }}
 	</main>
+	{% if toc and tocContent != '' and topToc != true %}
+		<aside data-pagefind-ignore>{{ tocContent }}</aside>
+		</div>
+	{% endif %}
 	{% unless siteTheme and noFooterImage %}
 		<footer>
 			{% unless siteTheme %}

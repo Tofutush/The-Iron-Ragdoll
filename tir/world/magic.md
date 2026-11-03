@@ -12,8 +12,6 @@ categories:
 >
 > I recommend reading that one first! [Here it is!](/world/superpowers/)
 
-[[toc]]
-
 Magic is stored in the blood, but people don't know that. That is, until Qibli out and started dripping tiny bits of it in vessels, allowing other people to use them. But even she is unable to give her magic completely to someone else and make them a magician.
 
 See also: [the Magic section in "Superpowers in Bauhinia"](/world/bauhinia/superpowers/#magic)

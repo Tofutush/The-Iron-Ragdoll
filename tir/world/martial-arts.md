@@ -11,8 +11,6 @@ People do martial arts and fight each other on the continent. But considering st
 
 One person can always study and use more than one style, but to master a style takes a lifetime, and unless you have suspiciously too much time on your hands, one can only master one style.
 
-[[toc]]
-
 ## Gold-style
 
 Gold-style martial arts focus on the effective wielding of swords. It originated from the plains of [Atlasia](/world/atlasia/), where in modern times there are plenty of blacksmith companies selling swords carefully crafted with century-old techniques. The most famous one, Sworcery, was established during the industrial boom in the newly-independent Atlasia in the 1950s. The secret formula, passed down from the founder's family, has always been a prime target of unsuccessful corporate espionage operations.

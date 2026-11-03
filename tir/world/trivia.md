@@ -9,8 +9,6 @@ categories:
 
 Here are some small fun facts that aren't long enough to deserve their own page!
 
-[[toc]]
-
 ## The Study of Rainbows
 
 A famous unethical study conducted in the 1960s in Bauhinia, where researchers studied whether people's preference for their own soul colors is innate as we had long assumed, or was it merely a product of culture.

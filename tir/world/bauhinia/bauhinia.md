@@ -31,8 +31,6 @@ categories:
 
 The pink bureaucratic fanatic.
 
-[[toc]]
-
 ## Geography
 
 Bauhinia borders [Fanton](/world/fanton/) on the northwest and [Atlasia](/world/atlasia/) on the north.

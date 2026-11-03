@@ -31,8 +31,6 @@ The brown alcoholics.
 
 A sandy country north of [Fanton](/world/fanton/), south of [Moreland](/world/moreland/), and west of [Atlasia](/world/atlasia/).
 
-[[toc]]
-
 ## Geography
 
 Westavia is quite sandy, with some really hot basins surrounded by mountain ranges. Eastern winds don't blow this far into the continent, so the place is dry and desertic. The wide fluctuation between day / night temperatures made the fruit produced on the land sweet; and grapes are probably most loved by the Westavians.

@@ -11,4 +11,5 @@ categories:
 ## Characters
 
 {% assign filteredChs = characters | filterChByTag: 'CRS' %}
+
 {% include 'chs', chs: filteredChs %}

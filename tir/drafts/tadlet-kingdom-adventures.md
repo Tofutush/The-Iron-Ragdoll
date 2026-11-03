@@ -21,8 +21,6 @@ Her phone stopped progressing time. It stayed stuck on July the third, 2031, whe
 
 When Sunflower died, the school covered it up and shut up her parents' mouth. Candlelight faced a hearing, held merely two weeks after the fact, and was found not guilty. He quit his job regardless.
 
-[[toc]]
-
 ## Entries
 
 ### Area 1 Middle School

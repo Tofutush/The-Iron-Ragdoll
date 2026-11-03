@@ -22,6 +22,7 @@ The subjects taught are wildly different too.
 ## Characters
 
 {% assign filteredChs = characters | filterChByTag: 'Spy School' %}
+
 {% include 'chs', chs: filteredChs %}
 
 ## History

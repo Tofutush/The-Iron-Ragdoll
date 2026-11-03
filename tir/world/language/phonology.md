@@ -13,8 +13,6 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 >
 > What this file (and the others that I haven't made public but will eventually but you can go on my Github to check out) *does* assume is a familiarity with the Arabic writing system. I give you the complete pronunciation mapping here, and have written a [blog post](https://tofutush.github.io/posts/2026-10-27.html) to teach you to read! (When I learned it, I used the [Uyghurche textbook](https://annas-archive.pk/md5/1370d113851a06bcda27762d5d753a19?&check=1) and it works wonders but it's in Chinese). I think that even if "learning Bauhinian" is a pointless waste of effort, being familiar with the Arabic script is totally worthwhile!
 
-[[toc]]
-
 ## Vowels
 
 | Order | Latin | Sound-alike         | سەثىس باۋھىنياتا |

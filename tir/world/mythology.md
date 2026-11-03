@@ -13,8 +13,6 @@ The spirits / gods / deities / whatever that the Ancient Bauhinians came up with
 
 None of these deities have any "official" visual representation, as all records of them exist only in text.
 
-[[toc]]
-
 ## God
 
 <dl>

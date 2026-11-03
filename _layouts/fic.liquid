@@ -5,19 +5,6 @@ eleventyComputed:
   navTitle: "{% if chNum %}Chapter {{ chNum }}{% endif %}{% if chTitle and chNum %}: {% endif %}{% if chTitle %}{{ chTitle }}{% endif %}"
 ---
 {% assign colName = parent | append: "-fic" %}
-<details class="toc callout" open>
-	<summary class="callout-title">
-		<div class="callout-title-icon">{% lucide 'list' 24 %}</div>
-		<div class="callout-title-inner">Contents</div>
-	</summary>
-	<div class="callout-content">
-		<ul>
-			{% for ch in collections[colName] %}
-				<li><a href="{{ ch.url }}">{% if ch.data.chTitle %}{{ ch.data.chTitle }}{% else %}Chapter {{ ch.data.chNum }}{% endif %}</a></li>
-			{% endfor %}
-		</ul>
-	</div>
-</details>
 <h1>{% if chTitle %}{{ chTitle }}{% else %}Chapter {{ chNum }}{% endif %}</h1>
 {{ content }}
 {% assign prev = collections[colName] | getPreviousCollectionItem %}
@@ -26,3 +13,16 @@ eleventyComputed:
 	<hr class="solid-hr"/>
 	{% include 'prevnext' prev: prev.url, next: next.url %}
 {% endif %}
+<details class="toc callout">
+	<summary class="callout-title">
+		<div class="callout-title-icon">{% lucide 'list' 24 %}</div>
+		<div class="callout-title-inner">Chapters</div>
+	</summary>
+	<div class="callout-content">
+		<ol>
+			{% for ch in collections[colName] %}
+				<li><a href="{{ ch.url }}">{% if ch.data.chTitle %}{{ ch.data.chTitle }}{% else %}Chapter {{ ch.data.chNum }}{% endif %}</a></li>
+			{% endfor %}
+		</ol>
+	</div>
+</details>

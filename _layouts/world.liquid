@@ -1,18 +1,23 @@
 ---
 layout: layout.liquid
 ---
-<style>#related ul { font-size: var(--font-size-small); }</style>
-{% if categories %}
-<p class="smaller-text lighter-text">Categories: {% assign sortedCats = categories | sort %}{% for cat in sortedCats %}{% if forloop.index != 1 %}, {% endif %}<a href="/world/category/{{ cat | slug }}/">{{ cat }}</a>{% endfor %}</p>
-{% endif %}
 <h1>{{ title }}</h1>
 {% if desc %}<p class="lighter-text">{{ desc }}</p>{% endif %}
+{% if categories %}
+    <p class="smaller-text lighter-text">Categories: {% assign sortedCats = categories | sort %}{% for cat in sortedCats %}{% if forloop.index != 1 %}, {% endif %}<a href="/world/category/{{ cat | slug }}/">{{ cat }}</a>{% endfor %}</p>
+{% endif %}
 {{ content }}
 {% capture related %}{{ collections.all | eleventyNavigation: title }}{% endcapture %}
 {% if related.size != 0 %}
+    <style>
+        #related {
+            h2 { font-size: var(--font-size-h4); }
+            ul { font-size: var(--font-size-small); }
+        }
+    </style>
     <hr/>
     <div id="related" class="graybox" data-pagefind-ignore>
-        <h4>Related files</h4>
+        <h2 id="related-files">Related files</h2>
         {{ collections.all | eleventyNavigation: title | eleventyNavigationToHtml }}
     </div>
 {% endif %}

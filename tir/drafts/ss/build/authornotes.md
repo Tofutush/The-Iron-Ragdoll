@@ -8,4 +8,3 @@ Some things to note:
 - This book contains mature language and mild violence, and is recommended for people aged 16 or above. Same goes for the rest of the content in The Iron Ragdoll!
 
 Thank you, and happy reading!
-

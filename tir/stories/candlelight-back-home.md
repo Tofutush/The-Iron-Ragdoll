@@ -18,8 +18,6 @@ prev:
 
 Candlelight, disillusioned and worn-down from his [SPF](/world/westavia/spf/) job, decided to quit and go back to being a farmer. He moved from [Area 1](/world/westavia/area-1/) back to the nameless village near [Area 29](/world/westavia/area-29/) in which he was born.
 
-[[toc]]
-
 At the train station in Area 1, he met a nervous little guy, apparently new to Westavia, asking around for directions. He introduced himself as Curly. Candlelight figured that Curly might be going to his own village, and invited him on the same train.
 
 When they got home, he met his childhood friend Mooncake, who was also a cop and faring way better than him. Curly also met his distant relative, Helsinki. Candlelight found that the other villagers had long ago sold every removable furniture at his house, including the pot of wine in the basement, and divided the spoils which had again long ago been spent.

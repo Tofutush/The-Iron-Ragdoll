@@ -1,4 +1,5 @@
 {
     "layout": "world.liquid",
-    "parent": "World"
+    "parent": "World",
+    "toc": true
 }

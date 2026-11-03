@@ -9,8 +9,6 @@ tags:
 
 *(You can find information on the geography of each country on their respective pages!)*
 
-[[toc]]
-
 The continent, artfully named "the continent," is where all of TIR takes place. But the entire world of TIR isn't much bigger.
 
 The world is a flat rectangle, slightly longer on the north-south axis than on the east-west one. On the edges, the earth crumbles into the void, forming many floating islands of various sizes. The central continent is, in fact, just a giant floating island itself. The corners of the world range from famous tourist attractions (the northwestern one) to unexplored dangers (the southeastern one). At the bottom, all that drop down will be consumed by the merciless Voidspace.

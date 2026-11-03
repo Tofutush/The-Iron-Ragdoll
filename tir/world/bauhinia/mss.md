@@ -32,6 +32,7 @@ That being said, most MSS agents operate in plain clothes, similar to how normal
 ## Members
 
 {% assign filteredChs = characters | filterChByTag: 'Ministry of State Security' %}
+
 {% include 'chs', chs: filteredChs %}
 
 Heed the apprentice chain: Whiteout mentored Paperweight mentored Goose mentored Sky mentored Sugarcane.

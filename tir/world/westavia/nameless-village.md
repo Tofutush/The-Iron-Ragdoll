@@ -22,4 +22,5 @@ Most of the people there are farmers planting grapes, wheat, and cotton. Very st
 ## Characters
 
 {% assign filteredChs = characters | filterChByTag: 'Nameless Village' %}
+
 {% include 'chs', chs: filteredChs %}

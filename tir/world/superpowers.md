@@ -8,8 +8,6 @@ categories:
   - Superpowers
 ---
 
-[[toc]]
-
 Some people are born with ~~convenient plot devices~~ superpowers. There are some different types of superpowers. You might be either strong or weak in it.
 
 All common powers are active except for timekeeping, which is passive. More explained in their respective sections.
