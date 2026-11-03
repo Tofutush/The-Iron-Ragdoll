@@ -13,7 +13,6 @@ Characters that I have a name of but doesn't have a large role in the story. Or 
 ## Background characters
 
 - Jackal: [Sparky](/characters/sparky/)'s biological father. A construction worker. Didn't allow Sparky to go to school, and instead made her work on the construction site with him.
-- Peach: [Animus](/characters/animus/)'s daughter.
 - Muscat: [Candlelight](/characters/candlelight/)'s mother.
 - Ember: [Candlelight](/characters/candlelight/)'s father.
 - Snowstorm: [Frosting](/characters/frosting/)'s colleague, Sugarcane's mother (#2D649F).
