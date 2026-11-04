@@ -104,4 +104,4 @@ That was a lie, but it was so real that I found myself being roped in too.
 
 "Okay, this is actually getting hard," Sugarcane set her elbows down on the table and pretended to think really hard. Or perhaps really thinking hard, but knowing Sugarcane, she probably scripted this beforehand. I just wish she had done it with me, though. I could've helped!
 
-"You know," Sugarcane lifted her head to say, "specific situations require specific solutions."
+"You know," Sugarcane lifted her head to say, "specific situations demand specific solutions. *Why* is your dad so busy?"

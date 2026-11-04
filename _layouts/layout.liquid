@@ -108,7 +108,7 @@ eleventyComputed:
 			<details class="top-toc{% unless topToc %} hide-desktop{% endunless %} callout">
 				<summary class="callout-title">
 					<div class="callout-title-icon">{% lucide 'list' %}</div>
-					<div class="callout-title-inner">Contents</div>
+					<div class="callout-title-inner">{% if lang == 'zh' %}目录{% else %}Contents{% endif %}</div>
 				</summary>
 				<div class="callout-content">{{ tocContent }}</div>
 			</details>
