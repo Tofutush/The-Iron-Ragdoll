@@ -15,8 +15,6 @@ None of these deities have any "official" visual representation, as all records 
 
 ## God
 
-{% image "god seal" 200 "God seal" 'float-right' %}
-
 <dl>
 <dt>Places of worship</dt>
 <dd>That part of the Palace that's open to tourists for this exact purpose</dd>
@@ -27,6 +25,8 @@ None of these deities have any "official" visual representation, as all records 
 <dt>Bauhinian</dt>
 <dd>لا خوكسا</dd>
 </dl>
+
+{% image "god seal" 200 "God seal" 'float-right' %}
 
 At the very very top, there lies God. Everything in the world is determined by God. Your actions, thoughts, speech, etc., are all controlled by her. Ancient Bauhinians, it seems, were mostly determinists.
 
@@ -42,8 +42,6 @@ So anyways yeah, God. Royal Seal. In modern society, even in Bauhinia and Fanton
 
 ## Law
 
-{% image "law seal" 200 "Law seal" 'float-right' %}
-
 <dl>
 <dt>Places of worship</dt>
 <dd>Courtrooms</dd>
@@ -53,11 +51,11 @@ So anyways yeah, God. Royal Seal. In modern society, even in Bauhinia and Fanton
 <dd>Justice, truth, balance, equality, state-sanctioned violence</dd>
 </dl>
 
+{% image "law seal" 200 "Law seal" 'float-right' %}
+
 The law as we know it was named after Law. Law delivers judgement. When she decides on your verdict, you accept it and you do not fight back. Historically used as a concept alongside God to justify the Emperor's right to exert violence, modern interpretations now emphasize the individual's inability to resist against the judgement.
 
 ## Echo
-
-{% image "echo seal" 200 "Echo seal" 'float-right' %}
 
 <dl>
 <dt>Places of worship</dt>
@@ -68,6 +66,8 @@ The law as we know it was named after Law. Law delivers judgement. When she deci
 <dd>Tailers, cameras, listening devices, surveillance</dd>
 </dl>
 
+{% image "echo seal" 200 "Echo seal" 'float-right' %}
+
 Echo lives in your walls. And floors, and ceilings. She listens to everything you say, sees everything you do, and knows all your secrets.
 
 In all ancient contexts, Echo was portrayed as a benevolent spirit who knows you like a best friend and is your confidant. In the modern day, there have been subversive interpretations that draw similarities between Echo and the all-compassing state surveillance apparatus.
@@ -77,8 +77,6 @@ In the modern day, children begin their diaries with "Dear Echo." Well, unless y
 Parents would also sometimes tell their children things like, "if you go flashlight-under-covers to read comics late at night, Echo would know!"
 
 ## Copy
-
-{% image "copy seal" 200 "Copy seal" 'float-right' %}
 
 <dl>
 <dt>Places of worship</dt>
@@ -91,9 +89,11 @@ Parents would also sometimes tell their children things like, "if you go flashli
 <dd>لا كاپې</dd>
 </dl>
 
+{% image "copy seal" 200 "Copy seal" 'float-right' %}
+
 Creation god. Copy is a scribe, an archivist. She meticulously writes everything down, from the dawn of history to the latest advancements, in her infinite archives. Sometimes Echo tells her about stuff behind closed doors that Copy wouldn't have known about, but most of the time Echo just gatekeeps.
 
-You just can't read the archives.[^1] That would be overstepping your boundaries.
+You can't just read the archives.[^1] That would be overstepping your boundaries.
 
 It wasn't always like this, though. Copy was the first thing to ever exist in the universe. First there was Copy, and then Copy started defining concepts and ideas. When something is defined by Copy, that thing comes into existence. Copy is the creation god — and de facto *God* — of TIR.
 
@@ -107,8 +107,6 @@ Still, though, Copy's archives remain the single source of truth within the univ
 
 ## Guide
 
-{% image "guide seal" 200 "Guide seal" 'float-right' %}
-
 <dl>
 <dt>Places of worship</dt>
 <dd>Schools, especially classrooms</dd>
@@ -118,11 +116,11 @@ Still, though, Copy's archives remain the single source of truth within the univ
 <dd>Friendship, confidants, wisdom and teachings, manipulation</dd>
 </dl>
 
+{% image "guide seal" 200 "Guide seal" 'float-right' %}
+
 Guide is the deity who understands you best and whom you pray to when you need guidance. That's like, it. The interesting part is that Guide's advice (which you won't ever receive, just so you know, because she's fake…) always puts Guide's interests first and foremost and yours second. So don't trust her that easily!
 
 ## Prism
-
-{% image "prism seal" 200 "Prism seal" 'float-right' %}
 
 <dl>
 <dt>Places of worship</dt>
@@ -133,11 +131,11 @@ Guide is the deity who understands you best and whom you pray to when you need g
 <dd>Mirrors, masks, doubles, identity theft</dd>
 </dl>
 
+{% image "prism seal" 200 "Prism seal" 'float-right' %}
+
 The legends surrounding prism developed quickly after the invention of the mirror. The idea is that everyone's reflections are actually Prism the shapeshifter, who can also conveniently split herself into as many mirrors as she can. Prism takes joy in resemblance and blending in and promptly ignoring you in favor of mirroring your every action, like the annoying friend where you go "stop copying me!" and they go "stop copying me!".
 
 ## Quote
-
-{% image "quote seal" 200 "Quote seal" 'float-right' %}
 
 <dl>
 <dt>Places of worship</dt>
@@ -149,6 +147,8 @@ The legends surrounding prism developed quickly after the invention of the mirro
 <dt>Bauhinian</dt>
 <dd>لا سەث</dd>
 </dl>
+
+{% image "quote seal" 200 "Quote seal" 'float-right' %}
 
 The one who steals your thoughts and uses them against you. When you have a tip-of-the-tongue moment, Quote is who you blame.
 
