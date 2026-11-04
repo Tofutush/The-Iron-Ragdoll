@@ -43,7 +43,19 @@ If a content is missing and you would like it added, please just [tell me](https
 
 ## JavaScript usage
 
-This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the relationship graph, the scavenger hunt result page, and most of the [fun](/fun/) pages. I know that sounds like a lot but it's actually, uh, actually it *is* a lot. But it should be fine to read character profiles, stories, and world files with JS disabled!
+This site uses JavaScript for the following:
+
+- Theme switching
+- Table of contents section highlighting
+- Comic save / load
+- Table sorting
+- Gallery lightbox
+- Webrings
+- The [relationship graph](/characters/relationships/)
+- The scavenger hunt result page
+- Most of the [fun](/fun/) pages
+
+I know that sounds like a lot but it's actually mostly just quality-of-life stuff (aside from the gallery lightbox without which you can't view most art)! It should be fine to read character profiles, stories, and world files with JS disabled!
 
 ## License
 

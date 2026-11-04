@@ -9,6 +9,7 @@ eleventyNavigation:
 
 - Sidebar tables of contents;
 	- It also highlights your current section, though it's not super accurate;
+- Added seal images for all the deities;
 
 ## 2026-10-25
 

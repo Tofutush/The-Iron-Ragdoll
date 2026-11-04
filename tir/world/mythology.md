@@ -15,6 +15,8 @@ None of these deities have any "official" visual representation, as all records 
 
 ## God
 
+{% image "god seal" 200 "God seal" 'float-right' %}
+
 <dl>
 <dt>Places of worship</dt>
 <dd>That part of the Palace that's open to tourists for this exact purpose</dd>
@@ -22,6 +24,8 @@ None of these deities have any "official" visual representation, as all records 
 <dd>Dragon</dd>
 <dt>Associations</dt>
 <dd>Bauhinia flowers, authority, power</dd>
+<dt>Bauhinian</dt>
+<dd>لا خوكسا</dd>
 </dl>
 
 At the very very top, there lies God. Everything in the world is determined by God. Your actions, thoughts, speech, etc., are all controlled by her. Ancient Bauhinians, it seems, were mostly determinists.
@@ -38,6 +42,8 @@ So anyways yeah, God. Royal Seal. In modern society, even in Bauhinia and Fanton
 
 ## Law
 
+{% image "law seal" 200 "Law seal" 'float-right' %}
+
 <dl>
 <dt>Places of worship</dt>
 <dd>Courtrooms</dd>
@@ -50,6 +56,8 @@ So anyways yeah, God. Royal Seal. In modern society, even in Bauhinia and Fanton
 The law as we know it was named after Law. Law delivers judgement. When she decides on your verdict, you accept it and you do not fight back. Historically used as a concept alongside God to justify the Emperor's right to exert violence, modern interpretations now emphasize the individual's inability to resist against the judgement.
 
 ## Echo
+
+{% image "echo seal" 200 "Echo seal" 'float-right' %}
 
 <dl>
 <dt>Places of worship</dt>
@@ -70,6 +78,8 @@ Parents would also sometimes tell their children things like, "if you go flashli
 
 ## Copy
 
+{% image "copy seal" 200 "Copy seal" 'float-right' %}
+
 <dl>
 <dt>Places of worship</dt>
 <dd>libraries, archives</dd>
@@ -77,6 +87,8 @@ Parents would also sometimes tell their children things like, "if you go flashli
 <dd>Crane</dd>
 <dt>Associations</dt>
 <dd>Books, paper, scrolls, shelves, ink</dd>
+<dt>Bauhinian</dt>
+<dd>لا كاپې</dd>
 </dl>
 
 Creation god. Copy is a scribe, an archivist. She meticulously writes everything down, from the dawn of history to the latest advancements, in her infinite archives. Sometimes Echo tells her about stuff behind closed doors that Copy wouldn't have known about, but most of the time Echo just gatekeeps.
@@ -95,6 +107,8 @@ Still, though, Copy's archives remain the single source of truth within the univ
 
 ## Guide
 
+{% image "guide seal" 200 "Guide seal" 'float-right' %}
+
 <dl>
 <dt>Places of worship</dt>
 <dd>Schools, especially classrooms</dd>
@@ -107,6 +121,8 @@ Still, though, Copy's archives remain the single source of truth within the univ
 Guide is the deity who understands you best and whom you pray to when you need guidance. That's like, it. The interesting part is that Guide's advice (which you won't ever receive, just so you know, because she's fake…) always puts Guide's interests first and foremost and yours second. So don't trust her that easily!
 
 ## Prism
+
+{% image "prism seal" 200 "Prism seal" 'float-right' %}
 
 <dl>
 <dt>Places of worship</dt>
@@ -121,6 +137,8 @@ The legends surrounding prism developed quickly after the invention of the mirro
 
 ## Quote
 
+{% image "quote seal" 200 "Quote seal" 'float-right' %}
+
 <dl>
 <dt>Places of worship</dt>
 <dd>Any secluded space</dd>
@@ -128,6 +146,8 @@ The legends surrounding prism developed quickly after the invention of the mirro
 <dd>Snake</dd>
 <dt>Associations</dt>
 <dd>Theft (of knowledge specifically), betrayal, blackmail, plagiarism, interrogation</dd>
+<dt>Bauhinian</dt>
+<dd>لا سەث</dd>
 </dl>
 
 The one who steals your thoughts and uses them against you. When you have a tip-of-the-tongue moment, Quote is who you blame.
