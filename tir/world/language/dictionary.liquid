@@ -5,6 +5,8 @@ parent: Language
 draft: true
 categories:
   - Language
+toc: true
+topTocOnly: true
 ---
 <style>
 	h2 {
@@ -15,11 +17,6 @@ categories:
 	}
 </style>
 <p>Words listed: {{ dictionary.size }}</p>
-<div class="box-nav" dir="rtl">
-	{% for letter in groupedDict %}
-		<a href="#{{ letter[1] }}">{{ letter[0] }}</a>
-	{% endfor %}
-</div>
 {% for letter in groupedDict %}
 	<h2 id="{{ letter[1] }}">{{ letter[0] }}</h2>
 	<div class="table-responsive">
