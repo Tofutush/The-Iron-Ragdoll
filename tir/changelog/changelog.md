@@ -10,6 +10,8 @@ eleventyNavigation:
 - Sidebar tables of contents;
 	- It also highlights your current section, though it's not super accurate;
 - Added seal images for all the deities;
+- Added `prefers-color-scheme` fallback for unset values;
+	- Also put the theme switching JS code into their own files. Dunno why I hadn't been doing this before…
 
 ## 2026-10-25
 

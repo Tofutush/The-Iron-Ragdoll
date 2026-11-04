@@ -50,6 +50,48 @@ body {
 	background-color: var(--bg);
 }
 
+@media (prefers-color-scheme: light) {
+	body {
+		--text: var(--off-black);
+		--bg: var(--off-white);
+		--c: var(--c-light);
+		--box: var(--box-light);
+
+		& .theme-toggle>div {
+			left: 0px;
+
+			& svg:first-child {
+				display: block;
+			}
+
+			& svg:last-child {
+				display: none;
+			}
+		}
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		--text: var(--off-white);
+		--bg: var(--off-black);
+		--c: var(--c-dark);
+		--box: var(--box-dark);
+
+		& .theme-toggle>div {
+			left: 36px;
+
+			& svg:first-child {
+				display: none;
+			}
+
+			& svg:last-child {
+				display: block;
+			}
+		}
+	}
+}
+
 html {
 	&.dark body {
 		--text: var(--off-white);

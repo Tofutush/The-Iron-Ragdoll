@@ -17,7 +17,7 @@ eleventyComputed:
 ---
 <!doctype html>
 {% assign siteTheme = siteTheme | default: false %}
-<html lang="{{ lang }}" class="{{ siteTheme | default: 'light' }}">
+<html lang="{{ lang }}" class="{% if siteTheme %}{{ siteTheme }}{% endif %}">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,13 +31,7 @@ eleventyComputed:
 	<meta property="og:description" content="{{ desc }}">
 	<title>{% if page.url != '/' %}{{ title }} | {% endif %}The Iron Ragdoll</title>
 	{% unless siteTheme %}
-		<script>
-			(function () {
-				let lightDark = parseInt(localStorage.getItem('light-dark'));
-				if (lightDark === 0) document.documentElement.className = 'dark';
-				if (lightDark === 1) document.documentElement.className = 'light';
-			})();
-		</script>
+		<script src="/js/lightdark.js"></script>
 	{% endunless %}
 	<link rel="stylesheet" href="/css/style.css"/>
 	<link rel="stylesheet" href="/css/linkcolor.css"/>
