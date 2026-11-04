@@ -62,8 +62,46 @@ Jelly stood in the doorway in silence for a moment. Then she said, "I'm sorry."
 
 "Can't believe I'm doing this," Sugarcane said. "But why not."
 
-The Goober Booger gummies were apparently quite popular with the kids. We managed to hoard the last bits for ourselves. They tasted a bit different from last time; probably a different brand. This one was chewier.
+We made our way to the snacks table again. Jelly tested the milk tea pot, but it was empty. The Goober Booger gummies were apparently quite popular with the kids. We managed to hoard the last bits for ourselves. They tasted a bit different from last time; probably a different brand. This one was chewier.
 
 "I hate it when dads do that," Sugarcane suddenly said.
 
-"No, no, I should apologize," Jelly said. "I should've focused more on playing with you than on looking for papa."
+"No, no, I should apologize," Jelly said. "I should've focused more on playing with you than on looking for papa. Here, have more boogers."
+
+"No way," Sugarcane shook her head vigorously. "If you couldn't even get ahold of him during a holiday, when *can* you?"
+
+"Well, today isn't technically a holiday. It's an event he organized. Of course he's busy. I'm just stupid."
+
+"How much time *does* he spend with you, Jelly?"
+
+Jelly was leaning against the table and staring at the ground. "Sometimes he makes me dinner. Moonie does that most of the time, though."
+
+"Seriously! My dad is *always* busy for one reason or another. He's literally the worst," Sugarcane said with scathing bitterness.
+
+That was a lie, but it was so real that I found myself being roped in too.
+
+"Moonie makes better food than papa anyway," Jelly said.
+
+"That's not an excuse. But you see, I know *exactly* how to deal with these types of dads." Sugarcane crossed her arms and put on a mischievous grin.
+
+"How?" Jelly's eyebrows lifted in skepticism.
+
+"Plenty of ways. Play sick. Injure yourself. Make him take time off to take care of you."
+
+"I tried that before," Jelly said. "But I'm bad at playing sick and I don't want to intentionally hurt myself."
+
+"Take extremely long cold showers," I offered.
+
+"He could tell by the fog on the mirror."
+
+"Yikes, seriously?" I asked.
+
+"He's not stupid," Jelly sighed.
+
+"You can also pretend there's a homework assignment you need to complete with a parent," Sugarcane said.
+
+"But that's so much effort!" Jelly said. "Also I'm pretty sure he knows my teacher personally."
+
+"Okay, this is actually getting hard," Sugarcane set her elbows down on the table and pretended to think really hard. Or perhaps really thinking hard, but knowing Sugarcane, she probably scripted this beforehand. I just wish she had done it with me, though. I could've helped!
+
+"You know," Sugarcane lifted her head to say, "specific situations require specific solutions."
