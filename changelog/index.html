@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="light">
+<html lang="en" class="">
 
 <head>
   <meta charset="utf-8">
@@ -13,13 +13,7 @@
   <meta property="og:site_name" content="The Iron Ragdoll">
   <meta property="og:description" content="Changelog">
   <title>Changelog | The Iron Ragdoll</title>
-  <script>
-    (function() {
-      let lightDark = parseInt(localStorage.getItem('light-dark'));
-      if (lightDark === 0) document.documentElement.className = 'dark';
-      if (lightDark === 1) document.documentElement.className = 'light';
-    })();
-  </script>
+  <script src="/The-Iron-Ragdoll/js/lightdark.js"></script>
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='22' height='23' fill='none'><path fill='%2300ccff' d='M22 0H3L0 14h9l-2 9 14-13h-6z'/></svg>">
@@ -44,6 +38,11 @@
       <ul dir="auto">
         <li dir="auto">Sidebar tables of contents; <ul dir="auto">
             <li dir="auto">It also highlights your current section, though it's not super accurate;</li>
+          </ul>
+        </li>
+        <li dir="auto">Added seal images for all the deities;</li>
+        <li dir="auto">Added <code>prefers-color-scheme</code> fallback for unset values; <ul dir="auto">
+            <li dir="auto">Also put the theme switching JS code into their own files. Dunno why I hadn't been doing this before…</li>
           </ul>
         </li>
       </ul>

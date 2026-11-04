@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="light">
+<html lang="en" class="">
 
 <head>
   <meta charset="utf-8">
@@ -13,13 +13,7 @@
   <meta property="og:site_name" content="The Iron Ragdoll">
   <meta property="og:description" content="About The Iron Ragdoll.">
   <title>About | The Iron Ragdoll</title>
-  <script>
-    (function() {
-      let lightDark = parseInt(localStorage.getItem('light-dark'));
-      if (lightDark === 0) document.documentElement.className = 'dark';
-      if (lightDark === 1) document.documentElement.className = 'light';
-    })();
-  </script>
+  <script src="/The-Iron-Ragdoll/js/lightdark.js"></script>
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/style.css">
   <link rel="stylesheet" href="/The-Iron-Ragdoll/css/linkcolor.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='22' height='23' fill='none'><path fill='%2300ccff' d='M22 0H3L0 14h9l-2 9 14-13h-6z'/></svg>">
@@ -102,7 +96,19 @@
       <p dir="auto">It should be obvious that I do not agree with everything presented on this site, such as the opinions and actions of the characters. Even a lot of the out-of-character content is written with an exaggerated joking tone. Please don't take it too seriously.</p>
       <p dir="auto">If a content is missing and you would like it added, please just <a href="https://tofutush.leprd.space/guestbook/" class="external-link" target="_blank">tell me</a>!</p>
       <h2 id="javascript-usage" tabindex="-1" dir="auto">JavaScript usage</h2>
-      <p dir="auto">This site uses JavaScript for theme switching, comic save / load, table sorting, gallery popups, webrings, the relationship graph, the scavenger hunt result page, and most of the <a href="/The-Iron-Ragdoll/fun/">fun</a> pages. I know that sounds like a lot but it's actually, uh, actually it <em>is</em> a lot. But it should be fine to read character profiles, stories, and world files with JS disabled!</p>
+      <p dir="auto">This site uses JavaScript for the following:</p>
+      <ul dir="auto">
+        <li dir="auto">Theme switching</li>
+        <li dir="auto">Table of contents section highlighting</li>
+        <li dir="auto">Comic save / load</li>
+        <li dir="auto">Table sorting</li>
+        <li dir="auto">Gallery lightbox</li>
+        <li dir="auto">Webrings</li>
+        <li dir="auto">The <a href="/The-Iron-Ragdoll/characters/relationships/">relationship graph</a></li>
+        <li dir="auto">The scavenger hunt result page</li>
+        <li dir="auto">Most of the <a href="/The-Iron-Ragdoll/fun/">fun</a> pages</li>
+      </ul>
+      <p dir="auto">I know that sounds like a lot but it's actually mostly just quality-of-life stuff (aside from the gallery lightbox without which you can't view most art)! It should be fine to read character profiles, stories, and world files with JS disabled!</p>
       <h2 id="license" tabindex="-1" dir="auto">License</h2>
       <p dir="auto">(Me pretending I totally know all about licenses) The contents of this site is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" class="external-link" target="_blank">CC-BY-NC-SA</a>.</p>
       <p dir="auto">I'd love code to have a similar license too, but apparently noncommercial goes against being open-source? Like how come? The closest to CC-BY-NC-SA I've found is GNU GPLv3, but that still allows commercial use, which goes against my principle of &quot;if <em>I</em> cannot make money, no one else should either.&quot; So I'm gonna tack this license to the code anyways. Who's gonna stop me? Who's <em>actually</em> gonna use the code? Right? If you <em>do</em> turn out wanting to copy my code (or a part of it), I have four things to say to you: go wild, credit me, don't make money (stay poor with me), and I love you.</p>
