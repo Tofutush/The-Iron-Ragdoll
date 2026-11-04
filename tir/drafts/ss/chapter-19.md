@@ -47,3 +47,23 @@ Checkers pulled out a small tube from his pocket. "Anti-itch cream. Put that on 
 "Thank you, uncle," Sugarcane took the tube.
 
 Checkers opened the door and the music and lights leaked in. "Out, kids!" he said as he shoved us out the door and closed it behind us.
+
+Jelly stood in the doorway in silence for a moment. Then she said, "I'm sorry."
+
+"Don't be," I said. "Let's go and make sure Spotty gets the anti-itch cream on her head."
+
+"But I want to wash my hair today!" Sugarcane said. "I'm just gonna wash it right off. I'll do it before bed."
+
+"Goober boogers," Jelly said, pinching her nose in the iconic gesture.
+
+"Come on!" Sugarcane smacked her playfully on the shoulder. "You're doing this *too*?"
+
+"I think Auntie Moonie actually bought some. Wanna check it out?"
+
+"Can't believe I'm doing this," Sugarcane said. "But why not."
+
+The Goober Booger gummies were apparently quite popular with the kids. We managed to hoard the last bits for ourselves. They tasted a bit different from last time; probably a different brand. This one was chewier.
+
+"I hate it when dads do that," Sugarcane suddenly said.
+
+"No, no, I should apologize," Jelly said. "I should've focused more on playing with you than on looking for papa."
