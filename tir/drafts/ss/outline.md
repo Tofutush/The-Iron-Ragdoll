@@ -1,18 +1,14 @@
 - tradecraft class
 - politics class
-- coding club
-- double ninth wilderness survival
-	- jewel joining in because she missed it last year
-	- fight blackjack for extra credit
-- knife thing, cosmo lie detection, entity to school, cosmo cannot sense hes lying, too late to go home herself, entity drives her, entity reveals tree cut sneaking in to see frosting
-- slushy & taffy invite jelly to bauhinia tower
+- spotty & truffle invite jelly to bauhinia tower
+- knife thing, cosmo lie detection, entity to school, cosmo cannot sense hes lying
 - jelly inviting them to the embassy
+	- they give jelly ideas on how to make her dad spend more time with her
 - they ask jelly to collect evidence
 - realize deportation (this point, harmony should already be genuine friend)
 - attempt blackmail, does not go far
 - jelly suspects (basically, both the selfie and passport went too well, something has to go wrong) (maybe *because* they turned their goal to blackmail instead of deportation?)
 	- harmony confesses about spy school
 	- jelly thinks about it
-		- after jelly left, go to slide, see top of bauhinia tower
 	- jelly decides to help them
 - ending sequence: play outside, jelly sick
