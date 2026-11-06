@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-06
+
+- Added `nebula kismet side by side.png`;
+
 ## 2026-11-05
 
 - Sorted the character galleries by year;
