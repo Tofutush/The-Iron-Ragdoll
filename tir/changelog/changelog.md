@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-11-05
 
 - Sorted the character galleries by year;
+- Added "last drawn" field to [sortable list](/characters/list/); mostly for me to see who deserves a bit more love now and then (I will still end up drawing 100 more Gooses);
 
 ## 2026-11-03
 

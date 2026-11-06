@@ -20,9 +20,6 @@ function galleryPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getOnlyOthersArt', function (arr) {
 		return arr.filter(a => a.author);
 	});
-	eleventyConfig.addFilter('sortGalleryByChCount', function (arr) {
-		return arr.sort((a, b) => a.ch?.length - b.ch?.length);
-	});
 	eleventyConfig.addFilter('getFirst10', function (arr) {
 		return arr.slice(0, 10);
 	});

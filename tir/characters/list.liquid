@@ -20,12 +20,13 @@ eleventyNavigation:
 	<table>
 		<thead>
 			<tr>
-				<th>No.</th>
-				<th>Name</th>
-				<th>中文</th>
-				<th>Image count</th>
-				<th>Birthday</th>
-				<th>Color</th>
+				<th class="sortable">No.</th>
+				<th class="sortable">Name</th>
+				<th class="sortable">中文</th>
+				<th class="sortable">Image count</th>
+				<th class="sortable">Last drawn</th>
+				<th class="sortable">Birthday</th>
+				<th class="sortable">Color</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -36,6 +37,8 @@ eleventyNavigation:
 					<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
 					{% assign filteredGallery = gallery | filterGallery: ch.name %}
 					<td><a href="/characters/{{ ch.name | lowerCase }}/{% if filteredGallery.size > 10 %}gallery/{% else %}#gallery{% endif %}">{{ filteredGallery.size }}</a></td>
+					{% assign lastDrawn = filteredGallery | getOnlyMyArt %}
+					<td>{{ lastDrawn[0].date }}</td>
 					<td>{{ ch.attr.Birth }}</td>
 					<td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upperCase }}</td>
 				</tr>
@@ -68,6 +71,11 @@ eleventyNavigation:
 	});
 	sort.addSort({
 		colName: 'Birthday',
+		keyFunc: td => td.innerText,
+		sortFunc: SortTable.sortFuncString
+	});
+	sort.addSort({
+		colName: 'Last drawn',
 		keyFunc: td => td.innerText,
 		sortFunc: SortTable.sortFuncString
 	});
