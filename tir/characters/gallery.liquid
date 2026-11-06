@@ -6,7 +6,6 @@ pagination:
   alias: ch
   addAllPagesToCollections: true
 permalink: "characters/{{ ch.name | lowerCase }}/gallery/"
-widepage: true
 eleventyComputed:
   title: "{{ ch.name }}'s Gallery"
   navTitle: "Gallery"
@@ -16,6 +15,8 @@ eleventyComputed:
   iconColor: "{{ ch.color }}"
   image: "{% assign iconPath = ch.name | lowerCase | append: ' thumb' %}{% assign profilePath = ch.name | lowerCase | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl profilePath 200 0 iconPath %}"
   parent: "{{ ch.name }}"
+toc: true
+sideTocOnly: true
 ---
 <style>
   .img>.thumb:hover {
@@ -23,6 +24,13 @@ eleventyComputed:
   }
 </style>
 <h1>{{ ch.name }}'s Gallery</h1>
-{% assign filteredGallery = gallery | filterGallery: ch.name %}
-<div style="--accent: {{ ch.color }}">{% include 'gallery' imgs: filteredGallery %}</div>
+<div style="--accent: {{ ch.color }}">
+  {% for year in years reversed %}
+    {% assign filteredGallery = gallery | filterGallery: ch.name | filterGalleryByDate: year %}
+    {% if filteredGallery.size > 0 %}
+      <h2 id="{{ year }}">{{ year }}</h2>
+      {% include 'gallery' imgs: filteredGallery %}
+    {% endif %}
+  {% endfor %}
+</div>
 {% include 'galleryModal' %}

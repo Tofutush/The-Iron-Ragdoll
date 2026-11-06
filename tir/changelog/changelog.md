@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-05
+
+- Sorted the character galleries by year;
+
 ## 2026-11-03
 
 - Sidebar tables of contents;
