@@ -1519,8 +1519,8 @@ rel2: "teammate",
 {
 source: "Nebula",
 target: "Kismet",
-rel1: "advisor",
-rel2: "boss",
+rel1: "wife",
+rel2: "husband",
 
 },
 
