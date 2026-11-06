@@ -13,3 +13,5 @@ She saw me and waved. I waved back, trotted over, and plopped down beside her.
 "Does it matter, really?" I shrugged. "I mean, if we're both attending, why hide it from each other?"
 
 Sugarcane considered my words for a moment, and said, "well, if he told you about it first, I guess that makes it okay. Yes, I have made my choice to attend."
+
+"This is amazing!"

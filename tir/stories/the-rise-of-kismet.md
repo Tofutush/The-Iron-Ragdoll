@@ -19,7 +19,7 @@ When he learned about superpowers, he was insanely jealous of people who were bo
 
 One day when he was 23, he saw a magician girl about to be publicly murdered for being a magician, because people thought she stole a lot of stuff with her magic. Whether that's true or not remains irrelevant, as Kismet leaped in to help her, fighting off the crowd with his superstrength. The girl later introduced herself as Nebula, and promised to do everything in her power to return the life-saving favor.
 
-Together, Kismet and Nebula hunted down people with superpowers until he had all five, with Kismet gladly accumulating his raw strength and Nebula gleefully seeking vengeance against those who had wronged her.
+Together, Kismet and Nebula hunted down people with superpowers until he had all five, with Kismet gladly accumulating his raw strength and Nebula gleefully seeking vengeance against those who had wronged her. During this phase, they fell in love, though they were both hesitant to take it further because Nebula feared what falling in love with such a powerful man could do to her, and Kismet didn't want private affairs to interfere with his political pursuits.
 
 Two years later, in this fateful 2010, Kismet had all five superpowers stored in his body, his father died, and all the way in Coastline, Hyrax was crowned the new chairman of [Starcorp](/world/bauhinia/starcorp/). Using his late father's last bit of connection, Kismet scheduled a meeting with Hyrax, hoping to create a collaboration.
 
@@ -31,9 +31,13 @@ So he told Hyrax, I'm actually your reincarnation, and together we can rule the 
 
 Hyrax was in a predicament. After a brief period of being a great and awesome arms-dealer, Starcorp was falling into the background, and his family only had one expectation of him — just don't run the company into the ground and we'll be fine. But Hyrax was ambitious. He wanted to be more. He wanted to dominate!
 
-Two hands shook, and the rest was history (and yaoi RPF material). They eliminated political and economic rivals, took office in the last real election in Bauhinia, and thus the age you and I are familiar with begun.
+Two hands shook, and the rest was history (and yaoi RPF material). They eliminated political and economic rivals, took office in the last real election in Bauhinia in 2015, and thus the age you and I are familiar with begun.
 
-The soul vault was created to prevent people like Peacock or Kismet from happening again. [Superpower testing](/world/bauhinia/superpowers/) was implemented, and the first person to be tested was none other than Kismet himself. From then on, whenever someone had higher-leveled superpowers than him, he would replace that specific soul with the stronger one. The [Magic Academy](/world/bauhinia/magic-academy/) was founded in 2017 by Nebula, a part of a series of measures exerting control over magicians, though also protecting them from the mob violence Nebula had once faced.
+Before all that boring policy stuff, though, Kismet did one thing: propose to the girl without whom he never could've done all this.
+
+Privately, of course. Nebula had to accept, because she knew Kismet well enough by now that he was someone who would stop at nothing to get what he wanted. But also she liked him too. They hosted a small wedding at their own home. Hyrax was the officiant, man of honor, best man, bridesman, groomsman, ring boy, flower boy, and usher (he had a busy day for sure). Kismet's two older siblings and elderly mother were the only audience. (Nebula was an orphan and had no friends :((()
+
+Getting back to policy. The soul vault was created to prevent people like Peacock or Kismet from happening again. [Superpower testing](/world/bauhinia/superpowers/) was implemented, and the first person to be tested was none other than Kismet himself, upon whom the standards were built. From then on, whenever someone had higher-leveled superpowers than him, he would replace that specific soul with the stronger one. The [Magic Academy](/world/bauhinia/magic-academy/) was founded in 2017 by Nebula, a part of a series of measures exerting control over magicians, though also protecting them from the mob violence Nebula had once faced.
 
 His iron fist over the country established, his personal superpowers maximized, Kismet had only one goal left in mind: immortality.
 
