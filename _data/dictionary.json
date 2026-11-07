@@ -72,6 +72,12 @@
     "bh": "\u0641\u0627\u0646\u062a\u06d5\u0646"
   },
   {
+    "name": "gw\u00ebnik",
+    "pos": "n.",
+    "def": "guide; (proper n.) Guide",
+    "bh": "\u06af\u06cb\u06d0\u0646\u0649\u0643"
+  },
+  {
     "name": "-ifu",
     "pos": "suffix",
     "def": "epistemic modality: doubtful",
@@ -294,10 +300,22 @@
     "bh": "\u067e\u0627\u067e\u0627"
   },
   {
+    "name": "prizma",
+    "pos": "n.",
+    "def": "prism; (proper n.) Prism",
+    "bh": "\u067e\u0631\u0649\u0632\u0645\u0627"
+  },
+  {
     "name": "qa",
     "pos": "pron.",
     "def": "you (formal)",
     "bh": "\u0642\u0627"
+  },
+  {
+    "name": "qillo",
+    "pos": "n.",
+    "def": "law; (proper n.) Law",
+    "bh": "\u0642\u0649\u0644\u0644\u0648"
   },
   {
     "name": "qu",

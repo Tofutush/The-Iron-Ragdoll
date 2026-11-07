@@ -49,6 +49,8 @@ So anyways yeah, God. Royal Seal. In modern society, even in Bauhinia and Fanton
 <dd>Tiger</dd>
 <dt>Associations</dt>
 <dd>Justice, truth, balance, equality, state-sanctioned violence</dd>
+<dt>Bauhinian</dt>
+<dd>لا قىللو</dd>
 </dl>
 
 {% image "law seal" 200 "Law seal" 'float-right' %}
@@ -116,6 +118,8 @@ Still, though, Copy's archives remain the single source of truth within the univ
 <dd>Deer</dd>
 <dt>Associations</dt>
 <dd>Friendship, confidants, wisdom and teachings, manipulation</dd>
+<dt>Bauhinian</dt>
+<dd>لا گۋېنىك</dd>
 </dl>
 
 {% image "guide seal" 200 "Guide seal" 'float-right' %}
@@ -131,6 +135,8 @@ Guide is the deity who understands you best and whom you pray to when you need g
 <dd>Koi</dd>
 <dt>Associations</dt>
 <dd>Mirrors, masks, doubles, identity theft</dd>
+<dt>Bauhinian</dt>
+<dd>لا پرىزما</dd>
 </dl>
 
 {% image "prism seal" 200 "Prism seal" 'float-right' %}

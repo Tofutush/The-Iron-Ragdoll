@@ -1,3 +1,2 @@
 - sword of generations heist (starcorp by sworcery?)
 - sworcery formula height (jaguar & ex)
-- moose master assassin killing like idk 10 kismets in two weeks
