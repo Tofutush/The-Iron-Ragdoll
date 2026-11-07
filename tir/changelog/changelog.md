@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-07
+
+- Added `timber thumb.png`, `goose winter uniform.png`;
+
 ## 2026-11-06
 
 - Added `nebula kismet side by side.png`;
