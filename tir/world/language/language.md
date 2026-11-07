@@ -34,6 +34,7 @@ Here are some important features of Bauhinian. Most will probably not make it in
 - Questions are worded completely differently when in normal contexts and in interrogations. Grammatically they are called "asking questions" and "requesting information," respectively. Exams are usually worded like "asking questions," except the exams at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/) which like the tone of "requesting information."
 - There are a shitton of different ways to say someone died, depending on the identity of said dead person and the way they died.
 - Sounds like j, q, and x are more common in Ancient Bauhinian, and are used in Modern Bauhinian mostly as more archaic and literary words. Saying "can't even pronounce j, q, x" is used to insult someone's intelligence.
+	- Ancient Bauhinian words in Modern Bauhinian are also often spelled with double voiceless consonants in random places for no fucking reason.
 - Adjectives in Bauhinian can be emphasized by repeating the first syllable as many times as you'd like. For example, take the adjective "tungsahur." If someone says "tung-tung-tungsahur," it means "very very tungsahur."
 - In different contexts, "please" is expressed differently. Examples include
 	- "If you don't mind" (inquiries)

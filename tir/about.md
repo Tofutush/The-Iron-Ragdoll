@@ -90,12 +90,10 @@ There's just this one for now and I don't know where else to put this.
 
 I don't have much to say here because I'm a remarkably boring person and TIR is way more interesting than I am, but there are still some things I'd rather people know!
 
-I'm Tofutush; full name is technically Skipper Tofutush but I just go by Tofutush. Tofu for short. The name is from Captain Underpants book 4, *The Perilous Plot of Professor Poopypants*. There's a section where Poopypants forced everyone to change their names, and I got Skipper Tofutush!
-
-My pronouns are she/her. I speak Chinese and English, both with native fluency, both with the vocabulary of an immature kid. I use semicolons and em-dashes like it's my last day on Earth and I chose to spend the entire day using semicolons and em-dashes.
-
-I like cats and OCs. I'd say I love all my OCs equally but that would be a lie. I'd let [Goose](/characters/goose/) do anything to me/j. Here is a list of [places I'm at](https://tofutush.leprd.space/links/). Here are some [blog posts](https://tofutush.github.io/tag/tir), and [microblog posts](https://tofutush.leprd.space/microblog/?tag=tir) about TIR.
+I'm Tofutush[^1]. My pronouns are she/her. My age and location is that I remember the difference between red and green taxis. I speak Chinese and English, both with native fluency, both with the vocabulary of an immature kid. I use semicolons and em-dashes like it's my last day on Earth and I chose to spend the entire day using semicolons and em-dashes. I like cats and OCs. I'd say I love all my OCs equally but that would be a lie. I'd let [Goose](/characters/goose/) do anything to me/j. Here is a list of [places I'm at](https://tofutush.leprd.space/links/). Here are some [blog posts](https://tofutush.github.io/tag/tir), and [microblog posts](https://tofutush.leprd.space/microblog/?tag=tir) about TIR.
 
 My art requests are always open! Just leave me a message on either Neocities or my [guestbook](https://tofutush.leprd.space/guestbook/). Requests can be of fanart, your OCs, or mine if you wish. Do note that it's heavily up to me when I draw it, if at all; I don't do trades for the same reason, but it would be sweet if you'd draw me something back — but not before I had drawn your picture first!
 
 Enough about me. Go read the [World overview](/world/overview/) if you haven't already!
+
+[^1]: Full name is technically Skipper Tofutush but I just go by Tofutush. Tofu for short. The name is from Captain Underpants book 4, *The Perilous Plot of Professor Poopypants*. There's a section where Poopypants forced everyone to change their names, and I got Skipper Tofutush!

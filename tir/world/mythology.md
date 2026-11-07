@@ -23,7 +23,7 @@ None of these deities have any "official" visual representation, as all records 
 <dt>Associations</dt>
 <dd>Bauhinia flowers, authority, power</dd>
 <dt>Bauhinian</dt>
-<dd>لا خوكسا</dd>
+<dd>لا خوكسسا</dd>
 </dl>
 
 {% image "god seal" 200 "God seal" 'float-right' %}
@@ -64,6 +64,8 @@ The law as we know it was named after Law. Law delivers judgement. When she deci
 <dd>Moth</dd>
 <dt>Associations</dt>
 <dd>Tailers, cameras, listening devices, surveillance</dd>
+<dt>Bauhinian</dt>
+<dd>لا ئەككو</dd>
 </dl>
 
 {% image "echo seal" 200 "Echo seal" 'float-right' %}

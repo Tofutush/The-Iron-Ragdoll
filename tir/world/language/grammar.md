@@ -79,7 +79,7 @@ See how patterned it is?? Aside from the 1st-person where the ۋ got replaced wi
 | My apple (with the owner omitted) | سەيتىن==ىم==                 |
 | The tree's apple                  | سەىتىن==ىك== ذام==تا==       |
 | Bauhinian language                | سەث==ىس== باۋھىنيا==تا==     |
-| Sparky's gun                      | ئا بەربەرلېن==تا== پاذۇ==س== |
+| Sparky's gun                      | ئا پاذۇ==س== بەربەرلېن==تا== |
 
 ### Articles: ئا and لا
 

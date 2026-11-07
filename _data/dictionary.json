@@ -54,6 +54,12 @@
     "bh": "\u0630\u0627\u0645"
   },
   {
+    "name": "ekko",
+    "pos": "n.",
+    "def": "echo; (proper n.) Echo",
+    "bh": "\u0626\u06d5\u0643\u0643\u0648"
+  },
+  {
     "name": "ete",
     "pos": "n.",
     "def": "moon",
@@ -74,8 +80,14 @@
   {
     "name": "-ig\u00eb",
     "pos": "suffix",
-    "def": "-ig\u00eb",
+    "def": "epistemic modality: unconfident",
     "bh": "-\u0649\u06af\u06d0"
+  },
+  {
+    "name": "-ij\u00eb",
+    "pos": "suffix",
+    "def": "epistemic modality: total confidence",
+    "bh": "-\u0649\u0698\u06d0"
   },
   {
     "name": "-ik",
@@ -369,7 +381,7 @@
     "name": "xoksa",
     "pos": "proper n.",
     "def": "God",
-    "bh": "\u062e\u0648\u0643\u0633\u0627"
+    "bh": "\u062e\u0648\u0643\u0633\u0633\u0627"
   },
   {
     "name": "yami",
