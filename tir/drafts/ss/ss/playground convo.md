@@ -14,4 +14,4 @@ She saw me and waved. I waved back, trotted over, and plopped down beside her.
 
 Sugarcane considered my words for a moment, and said, "well, if he told you about it first, I guess that makes it okay. Yes, I have made my choice to attend."
 
-"This is amazing!"
+"This is amazing!" I wrapped Sugarcane into a hug. "We're still gonna be together in middle school!"

@@ -10,9 +10,12 @@ categories:
 Oh boy, here we go.
 
 > [!note]+ Terminology
-> For the purposes of explaining all this, in this file (and any other Bauhinian language-related file), "xe/xem/xir" will be used as the *singular* 3rd-person pronoun like how Springhole does it. This is to avoid mixing it up with "they/them," which will exclusively refer to *plural* 3rd-persons.
+> For the purposes of explaining all this, in this file (and any other Bauhinian language-related file), "xe/xem/xir" will be used as the *singular* 3rd-person pronoun like how Springhole does it (unless an example is given using an existing character, for example Sparky will still be she/her). This is to avoid mixing it up with "they/them," which will exclusively refer to *plural* 3rd-persons.
 >
-> As for "you," I didn't want to bother with a bunch of fancy new yous so I think I'll just differentiate them in parentheses when it matters.
+> As for "you," the plural will be "y'all." The formal and informal versions will be differentiated with parentheses when necessary.
+
+> [!warning]+
+> Don't even *try* to learn linguistics from me!!! Hell no!!! See some jargon or professional terminology? Try disregarding it because I'm probably using them wrong.
 
 ## Overview
 
@@ -120,13 +123,11 @@ Evidentiality and epistemic modality are an important part of Bauhinian verbs. Y
 
 They can both be omitted and assumed to be "assumption" and "confident" respectively (unless the evidentiality is "untrusted source"; then an omitted modality is assumed to be "neutral"), but in formal speech and documents you cannot omit anything. In novels and shows, the narration often leaves out both evidentiality and epistemic modality, but it's more common for 1st-person narration to be grammatically complete.
 
-With 8 levels of evidentiality and 5 levels of epistemic modality, there are a total of 40 combinations.
-
 Evidentiality:
 
 | English                                                              | سەثىس باۋھىنياتا |
 | -------------------------------------------------------------------- | ---------------- |
-| Assumption (trust me bro)                                            | -ىۋا             |
+| Assumption / self-knowledge (trust me bro)                           | -ىۋا             |
 | Universal ("as we all know…")                                        | -ىشا             |
 | Experience (saw it with my own eyes)                                 | -ىنې             |
 | Inference (inferred it from evidence)                                | -ىنا             |
@@ -140,13 +141,17 @@ Evidentiality:
 
 Epistemic modality:
 
-| English                                        | سەثىس باۋھىنياتا |
-| ---------------------------------------------- | ---------------- |
-| Very confident (I'll kill myself if I'm wrong) | -ىما             |
-| Confident (I'm pretty sure)                    | -ىتۇ             |
-| Neutral (take it as you will)                  | -ىنە             |
-| Unconfident (I'm not confident)                | -ىگې             |
-| Doubtful (this is prolly bullshit)             | -ىفو             |
+| English                                          | سەثىس باۋھىنياتا |
+| ------------------------------------------------ | ---------------- |
+| Total confidence (I'll kill myself if I'm wrong) | -ىژې             |
+| Very confident (this must be the case)           | -ىما             |
+| Confident (I'm pretty sure)                      | -ىتۇ             |
+| Neutral (take it as you will)                    | -ىنە             |
+| Unconfident (I'm not confident)                  | -ىگې             |
+| Doubtful (this is prolly bullshit)               | -ىفو             |
+
+> [!note]+
+> The first one, total confidence, is only used in specific situations, such as swearing oaths at a wedding, or promising to tell the truth in court. It is not to be used lightly. You *are* expected to kill yourself if you're wrong.
 
 Had fun coming up with these examples.
 
@@ -162,6 +167,19 @@ Had fun coming up with these examples.
 | OuR nAtIoN iS uNdEr AtTaCk! (universal (instead of untrusted source, to mirror & respond to the statement above) + doubtful)                                           |                  |
 | The continent is flat. (Untrusted source + doubtful)                                                                                                                   |                  |
 | I'm either hungry (unconfident) or tired (confident).                                                                                                                  |                  |
+
+### Deontic modality
+
+Another type of modality is deontic modality, which are things like "must," "can," "should," and stuff. While epistemic modality expresses how confident the speaker is, deontic modality expresses obligation, permission, or ability and stuff.
+
+Deontic modality is of course not required in speech, and are expressed as prefixes on verbs when present.
+
+| English                 | سەثىس باۋھىنياتا |
+| ----------------------- | ---------------- |
+| Must (high obligation)  |                  |
+| Should (low obligation) |                  |
+| May (permission)        |                  |
+| Can (ability)           |                  |
 
 ### Tense
 
