@@ -861,7 +861,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Timber",
 color: "#a45e1f",
 desc: "Ace assassin.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/NiAsumSHis-500.webp"
 },
 
 ];

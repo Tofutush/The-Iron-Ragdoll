@@ -646,7 +646,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
 {
 id: "Timber",
 color: "#a45e1f",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp",
+img: "/The-Iron-Ragdoll/img/NiAsumSHis-200.webp",
 },
 
 ],
