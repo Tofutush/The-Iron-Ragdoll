@@ -3,8 +3,7 @@ title: Geography
 desc: The geography of the continent.
 categories:
   - Lore
-tags:
-  - lore
+  - Nature
 ---
 
 *(You can find information on the geography of each country on their respective pages!)*

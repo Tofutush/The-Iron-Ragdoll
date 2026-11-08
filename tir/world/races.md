@@ -1,10 +1,9 @@
 ---
 title: Races
 desc: The types of off-humans on the continent.
-tags:
-  - lore
 categories:
   - Lore
+  - Nature
 ---
 
 The people in TIR are just "humans." But not really since they have ears and horns.

@@ -1,10 +1,9 @@
 ---
 title: History
 desc: The history of the continent.
-tags:
-  - lore
 categories:
   - Lore
+  - Humanities
 ---
 
 The history of the world[^1]!

@@ -1,15 +1,12 @@
 ---
 title: Creatures
-tags:
-  - lore
 desc: Creatures of the world!
 categories:
   - Lore
+  - Nature
 ---
 
-brrruuuhhh i dont even have pictures
-
-They are all open species — see more [here](/about/#fan-content).
+heavy wip brrruuuhhh i dont even have pictures
 
 ## Winghorses
 

@@ -1,11 +1,10 @@
 ---
 title: Superpowers
 desc: Superpowers, common and rare!
-tags:
-  - lore
 categories:
   - Lore
   - Superpowers
+  - Nature
 ---
 
 Some people are born with ~~convenient plot devices~~ superpowers. There are some different types of superpowers. You might be either strong or weak in it.

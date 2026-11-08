@@ -1,12 +1,11 @@
 ---
 title: International Superpowers Association
 desc: The international organization for everything surrounding superpowers.
-tags:
-  - lore
 categories:
   - Organizations
   - IGOs
   - Superpowers
+  - International Organizations
 ---
 
 Association of superpowered people, or "the gifted" as they're known in [Bauhinia](/world/bauhinia/). Its main task is to promote equality between normal and superpowered people and ensure proper regulations around superpower usage.

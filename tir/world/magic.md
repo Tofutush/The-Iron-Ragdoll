@@ -1,11 +1,10 @@
 ---
 title: Magic
 desc: The most mystical superpower.
-tags:
-  - lore
 categories:
   - Superpowers
   - Lore
+  - Nature
 ---
 
 > [!tip]+ Haven't read the main Superpowers file yet?

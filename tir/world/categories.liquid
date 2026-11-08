@@ -12,10 +12,9 @@ eleventyComputed:
   key: "cat-{{ tagName }}"
   title: "{{ tagName }}"
 ---
-{% assign filteredFiles = collections.world | filterWorldByTag: tagName %}
+{% assign filteredFiles = collections.world | filterWorldByTag: tagName | sort: "url" %}
 <ul>
-    {% assign sortedFiles = filteredFiles | sort: "url" %}
-    {% for file in sortedFiles %}
+    {% for file in filteredFiles %}
         {% include 'fileLi', file: file %}
     {% endfor %}
 </ul>

@@ -3,8 +3,7 @@ title: Meng Po
 desc: The afterlife and reincarnation.
 categories:
   - Lore
-tags:
-  - lore
+  - Nature
 ---
 
 When you die normally, you will walk along the "yellow spring" road beside the "forget everything" river, until you come to the "I can't do anything about it" bridge. On the bridge there is a lady called Meng Po who is constantly brewing her Meng Po Soup, which she makes you drink and wipes out your memory. You then move on to your next life, with no burden of the memories of your previous.

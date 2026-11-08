@@ -1,10 +1,9 @@
 ---
 title: Martial Arts
 desc: The types of martial arts on the continent.
-tags:
-  - lore
 categories:
   - Lore
+  - Humanities
 ---
 
 People do martial arts and fight each other on the continent. But considering style and functions, there are five major mainstream styles of martial arts. Each have their unique characteristics and ranking system.

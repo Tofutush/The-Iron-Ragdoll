@@ -25,7 +25,7 @@ toc: false
   <a href="category/">Categories</a>
   <a href="/fun/random/world/">Random world file</a>
 </div>
-<h2>Countries</h2>
+<h2 id="countries">Countries</h2>
 <div class="imgs">
   <a href="/world/bauhinia/"><figure>{% image 'bauhinia flag' 200 'Bauhinia' %}<figcaption>Bauhinia</figcaption></figure></a>
   <a href="/world/fanton/"><figure>{% image 'fanton flag' 200 'Fanton' %}<figcaption>Fanton</figcaption></figure></a>
@@ -34,9 +34,32 @@ toc: false
   <a href="/world/moreland/"><figure>{% image 'moreland flag' 200 'Moreland' %}<figcaption>Moreland</figcaption></figure></a>
   <a href="/world/sylvandia/"><figure>{% image 'sylvandia flag' 200 'Sylvandia' %}<figcaption>Sylvandia</figcaption></figure></a>
 </div>
-<h2>Lore files</h2>
+<h2 id="lore-files">Lore files</h2>
+<p>This section has gotten longer and messier over time. The best place to start remains the <a href="/world/overview/">Overview</a>!</p>
+<h3 id="the-world">The world…</h3>
 <ul>
-  {% assign sortedLore = collections.lore | sort: "url" %}
+  {% assign sortedLore = collections.world | filterWorldByTag: "Nature" | sort: "url" %}
+  {% for file in sortedLore %}
+    {% include 'fileLi', file: file %}
+  {% endfor %}
+</ul>
+<h3 id="and-what-they-did-with-it">…and what they did with it</h3>
+<ul>
+  {% assign sortedLore = collections.world | filterWorldByTag: "Humanities" | sort: "url" %}
+  {% for file in sortedLore %}
+    {% include 'fileLi', file: file %}
+  {% endfor %}
+</ul>
+<h4 id="international-organizations">International organizations</h4>
+<ul>
+  {% assign sortedLore = collections.world | filterWorldByTag: "International Organizations" | sort: "url" %}
+  {% for file in sortedLore %}
+    {% include 'fileLi', file: file %}
+  {% endfor %}
+</ul>
+<h3 id="meta">Meta</h3>
+<ul>
+  {% assign sortedLore = collections.world | filterWorldByTag: "Meta" | sort: "url" %}
   {% for file in sortedLore %}
     {% include 'fileLi', file: file %}
   {% endfor %}

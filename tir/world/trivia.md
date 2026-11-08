@@ -1,10 +1,9 @@
 ---
 title: Trivia
 desc: Random worldbuilding fun facts.
-tags:
-  - lore
 categories:
   - Lore
+  - Meta
 ---
 
 Here are some small fun facts that aren't long enough to deserve their own page!

@@ -3,8 +3,7 @@ title: Mythology
 desc: The spirits people believe in on the continent.
 categories:
   - Lore
-tags:
-  - lore
+  - Humanities
 ---
 
 The spirits / gods / deities / whatever that the Ancient Bauhinians came up with, and how it affects their culture. These are some of the beings about whom people of the continent tell stories, and to whom they leave offerings. They're probably fake, but what if they aren't?
