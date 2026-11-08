@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-08
+
+- New file: [Bauhinian Empire](/world/bauhinian-empire);
+- Organized the [World](/world/) page a little;
+
 ## 2026-11-07
 
 - Added `timber thumb.png`, `goose winter uniform.png`;

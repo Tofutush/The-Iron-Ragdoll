@@ -7,7 +7,7 @@ categories:
   - Humanities
 ---
 
-Due to literally being one Bauhinian Empire for thousands of years, everyone on the continent speaks one language. Though topolects and accents exist, the foundations of them are the same, and they always remain mutually intelligible.
+Due to literally being one [Bauhinian Empire](/world/bauhinian-empire/) for thousands of years, everyone on the continent speaks one language. Though topolects and accents exist, the foundations of them are the same, and they always remain mutually intelligible.
 
 > [!note]+
 > This file is basically holding a lot of placeholder information until I could get the language solidly down enough to redo this page to be more cohesive. Ideally this page should serve as a hub to get to know everything you really need about the Bauhinian language as much as you "need" any of the other lore files, while the sub-files will actually document, like, the entire language, and will be entirely optional.

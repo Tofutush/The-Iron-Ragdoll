@@ -16,7 +16,7 @@ The history of the world[^1]!
 > [!Note]+ Note 2
 > This file documents the objective history of events. There are history sections in each country's file, but all of them are told through the government's perspective and of course biased towards said country.
 
-It all started from the [Bauhinian](/world/bauhinia/) Empire, a huge kingdom spanning across the entire continent. How did Bauhinia become an empire? Nah, I don't care.
+It all started from the [Bauhinian Empire](/world/bauhinian-empire/), a huge kingdom spanning across the entire continent.
 
 The Industrial Revolution broke out in 1911[^2] when people found out how to use electricity[^3].
 

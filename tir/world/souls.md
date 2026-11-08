@@ -44,7 +44,7 @@ Typically, gas souls are the most compatible with other forms, while solid the l
 
 Gray (or black, but collectively called "gray," as opposed to "colorful") souls are extremely rare, and a white soul had never been observed.
 
-In the Bauhinian Empire times, people believed gray souls to be genetic and eugenicists would usually kill a gray-souled baby on sight. In modern times, it is proven that gray souls (and soul color in general) have no relation to genetics. It appears spontaneously, in a similar fashion to [superpowers](/world/superpowers/).
+In the [Bauhinian Empire](/world/bauhinian-empire/) times, people believed gray souls to be genetic and eugenicists would usually kill a gray-souled baby on sight. In modern times, it is proven that gray souls (and soul color in general) have no relation to genetics. It appears spontaneously, in a similar fashion to [superpowers](/world/superpowers/).
 
 There had never been a successful merging of a gray soul, proven by many experiments, consensual or otherwise, aimed at merging gray souls of all forms with colorful souls or with each other. It is widely believed that a gray soul cannot be merged at all.
 

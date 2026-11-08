@@ -18,7 +18,7 @@ categories:
   <dt>Pronunciation</dt>
   <dd>Bau-HEE-nee-a</dd>
   <dt>Demonym</dt>
-  <dd>Bauhunian</dd>
+  <dd>Bauhinian</dd>
   <dt>Capital</dt>
   <dd><a href="/world/bauhinia/flower-city/">Flower City</a></dd>
   <dt>National day</dt>
@@ -98,7 +98,7 @@ When your legal guardians change, they can apply for a name change for you.
 
 ## History
 
-Bauhinia used to be a huge empire spanning across almost the entire continent. That was why everyone spoke the same language, totally not because I'm too lazy.
+Bauhinia used to be a huge [empire](/world/bauhinian-empire/) spanning across almost the entire continent. That was why everyone spoke the same language, totally not because I'm too lazy.
 
 The industrial revolution started in 1911, and the new technology gave the empire's peripheral too much power and they started dreaming of independence. The region that is modern-day Moreland launched a rebellion against the emperor. They were quickly crushed into submission by the imperial forces, who instead of killing the leaders to make an example, negotiated with them and came to an agreement that the Republic of Moreland is allowed to exist if they continue to honor the Bauhinian Emperor.
 

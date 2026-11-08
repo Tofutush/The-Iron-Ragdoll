@@ -31,13 +31,7 @@ At the very very top, there lies God. Everything in the world is determined by G
 
 The Bauhinian Emperor was the voice of God. All his powers come from her, and he has divine right to govern his subjects as long as he is in possession of the Royal Seal, a sacred object said to be created by God herself (and that's the only thing God created. The creation god of this world is Copy). God validates the Emperor and approves of his next chosen heir. Very conveniently all of God's approved Emperors were men.
 
-There's a bit of history surrounding the process of choosing the next heir. I might have to make a Bauhinian Empire file if I get enough information. But basically, in the early days of human civilization, Emperors were chosen by merit. Whoever has the most skills to govern will become the next Emperor.
-
-One day, an Emperor decided to choose his oldest son to succeed him. This caused skepticism, especially when there were more suitable candidates who weren't a literal child. The Emperor pulled a stamp out of his ass and called it the Royal Seal, saying that this validates his choice. He gave the Seal to his son. As long as he has it, he is the heir. It was around that time that legends surrounding God started to develop, too.
-
-Later down the line, one Emperor decided that even setting the heir with the Seal wasn't enough, because that decision is permanent — still subject to checks from his oldest son, who possesses the Seal. Instead, he kept the Seal by him all his life, and noted the heir in a little piece of paper tucked inside his pillow. This way, he could change the heir any time he wanted to. This was when the idea of the Seal as a channel through which to exert God's authority started. (One time the Emperor and his heir died together in an accident and sparked quite the succession drama. After that they started doing 2nd and 3rd choice candidates.)
-
-So anyways yeah, God. Royal Seal. In modern society, even in Bauhinia and Fanton, open worship of God is still quite frowned upon, as her association with the Bauhinian Empire is simply too strong. But there are modern spins on the interpretation of God, portraying her as a mastermind who plays with your lives like a game.
+In modern society, even in Bauhinia and Fanton, open worship of God is still quite frowned upon, as her association with the [Bauhinian Empire](/world/bauhinian-empire/) is simply too strong. But there are modern spins on the interpretation of God, portraying her as a mastermind who plays with your lives like a game.
 
 ## Law
 

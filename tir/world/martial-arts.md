@@ -76,10 +76,6 @@ Fire-style martial arts does not have a ranking system, as there is no authority
 
 Earth-style martial arts focus on the defensive, which is why it's often favored by bodyguards, and was the expected standard in Starcorp Security. Developed with bodyguarding in mind, it does not promote striking first, but doesn't shy away from killing when they pose a threat. Starcorp Security is the central authority on this, administering exams and handing out certificates.
 
-It is developed by the Bauhinian Emperor's personal security force, in ancient times when most technologies we know and love didn't exist; and its techniques, successful enough to keep them safe for centuries, were kept extremely secret. Training was passed down from senior members to new recruits, and trainees who failed to make it onto the team were executed to ensure they didn't spread what they learned to those who shouldn't hear it. None who made it their mission to learn by studying the guards had stayed alive long enough to learn anything.
-
-During the Bauhinian revolution, most of them defended the emperor to the death, save for this one guy who was an undercover Republican. He helped the revolutionaries kill the emperor, and for years he was remembered as the only person on the continent who even knew Earth-style martial arts, seeing as he personally ensured the death of many members of his team. Fearing that this art form would die out forever (and also everyone was yelling at him to do it), he trained many people in Earth-style martial arts, so that it survived and flourished to this day.
-
 Initially Earth-style didn't have a ranking system. More like the only two ranks were "welcome to the team" and "kill yourself or someone else will do it for you." But later people made rankings because we all *love* hierarchy and feeling like we're better than other people. The ranks are simply from 0 to 8[^3], with 6 being Starcorp Security's entry threshold, and 8 being the level [Dragonfly](/characters/dragonfly/) and [Sparky](/characters/sparky/) are at.
 
 ## Pit them against each other
