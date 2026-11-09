@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-09
+
+- Added `year of the cat.png`;
+
 ## 2026-11-08
 
 - New file: [Bauhinian Empire](/world/bauhinian-empire);
