@@ -36,7 +36,7 @@ You add ۇ to the end of a word to make it plural. Always gets added first, befo
 
 "Plural" only applies to uncertain amounts. If the number is certain, no plural gets applied.
 
-| English      | سەثىس باۋھىنياتا |
+| English      | سەث |
 | ------------ | ---------------- |
 | Apples       | سەيتىن==ۇ==      |
 | Three apples | پان سەيتىن       |
@@ -47,7 +47,10 @@ You add ۇ to the end of a word to make it plural. Always gets added first, befo
 
 There are 5 pronouns in Bauhinian: one first-person, two second-person (formal and informal), two third-person (animate and inanimate). Each one also has a plural.
 
-"Animate" includes people and things that are primarily made up of people, like countries and organizations (like the [ISA](/world/isa/) or the [MSS](/world/bauhinia/mss/)). In Fanton, the animate pronoun is usually used for plants and animals as well. Inanimate is just everything else. As you can see from the examples, "the Bauhinian language" is always translated as "سەثىس باۋھىنياتا," with "سەثى==س==" and not "سەثى==ك==."
+"Animate" includes people and things that are primarily made up of people, like countries and organizations (like the [ISA](/world/isa/) or the [MSS](/world/bauhinia/mss/)). In Fanton, the animate pronoun is usually used for plants and animals as well. Inanimate is just everything else. As you can see from the examples, "the Bauhinian language" is always translated as "سەثى==س==" and not "سەثى==ك==."
+
+> [!note]+
+> Do note that the people of TIR never say "Bauhinian language," as language to them is just language.
 
 As for formal and informal, I hope you know when to use which because I sure as hell don't but I like the idea of them.
 
@@ -59,7 +62,7 @@ As for formal and informal, I hope you know when to use which because I sure as 
 | 3rd (animate)   | سا       | سۇ     |
 | 3rd (inanimate) | كا       | كۇ     |
 
-### Possessive: تا
+### Possessive
 
 The suffix تا is used on the possessor, and a corresponding suffix on the possessed, depending on the possessor's person and number. The owner, or just the possessor suffix on the owner, can be omitted if the context makes it clear.
 
@@ -73,47 +76,70 @@ The suffix تا is used on the possessor, and a corresponding suffix on the poss
 
 See how patterned it is?? Aside from the 1st-person where the ۋ got replaced with م. Let's do some examples.
 
-| English                           | سەثىس باۋھىنياتا             |
+| English                           | سەث                          |
 | --------------------------------- | ---------------------------- |
 | My apple                          | سەيتىن==ىم== ۋا==تا==        |
 | My apple (with the owner omitted) | سەيتىن==ىم==                 |
-| The tree's apple                  | سەىتىن==ىك== ذام==تا==       |
-| Bauhinian language                | سەث==ىس== باۋھىنيا==تا==     |
-| Sparky's gun                      | ئا پاذۇ==س== بەربەرلېن==تا== |
+| The tree's apple                  | سەيتىن==ىك== ذام==تا==       |
+| Bauhinian language                | سەث==ىس== لا باۋھىنيا==تا==  |
+| Sparky's gun                      | پاذۇ==س== ئا بەربەرلېن==تا== |
+
+#### Linking particle
+
+You can also use "[owner] دې [owned]" to link them, in cases when it's not literally ownership.
+
+| English               | سەث             |
+| --------------------- | --------------- |
+| Year of the cat       | مېيو دې كلىپسسو |
+| The color of blood    |                 |
+| The price of oblivion |                 |
+
+These two are often interchangeable, though the former is more often used in daily speech and the latter can be more dramatic, as it is a relic straight from Ancient Bauhinian.
 
 ### Articles: ئا and لا
 
-What was the "ئا" in front of Berberlën in the previous example? That's the personal article, required before all people names. This is because Bauhinians like naming their children after things and there's no capitalization so it's clearer what's a name and what's not!
+What was the "ئا" in front of Berberlën? That's the personal article, required before all people names. This is because Bauhinians like naming their children after things and there's no capitalization so it's clearer what's a name and what's not!
 
 There's also an article for proper nouns that aren't people, لا. So to say Bauhinia, you say "لا باۋھىنيا." Gods are also referred to with لا.
 
-### Cases
+### Markings
 
 Or, stuff you can add to nouns.
 
-#### Nominative: نان
+#### Subject
 
 To mark the subject. This is usually omitted, but it's نان for anyone who cares.
 
-#### Accusative: ىپ
+#### Object
 
 To mark the object, i.e. the direct object of a verb. "I eat apples." The apple should be in the accusative case: ىپ.
 
-| English       | سەثىس باۋھىنياتا        |
+| English       | سەث        |
 | ------------- | ----------------------- |
 | I eat apples. | ۋا سەيتىنۇ==پ== ئومنوم. |
 
-#### Predicate: رەي
+#### Predicate
 
-In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky is cute." "She became a bodyguard." In Bauhinian, predicates have their own suffix to mark them: رەي. Typically, in simple predicate sentences, the [nominative case marking](#nominative) is often added.
+In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky is cute." "She became a bodyguard." In Bauhinian, predicates have their own suffix to mark them.
 
-Linking verbs are treated the same as normal verbs, except for "be" which doesn't exist. For those, the verb suffixes get added to the subject.
+The predicate marking needs to agree with the subject.
 
-| English                                   | سەثىس باۋھىنياتا              |
-| ----------------------------------------- | ----------------------------- |
-| I am Tofutush.                            | ۋا==نان==، ئا توفۇتۇش==رەي==. |
-| Sparky is cute. (With nominative omitted) | ئا بەربەرلېن كۇتې==رەي==.     |
-| Xe became a bodyguard.                    | سا…                           |
+| Person / Number | Singular | Plural |
+| --------------- | -------- | ------ |
+| 1st             | -تايم    | -تايمۇ |
+| 2nd (informal)  | -تاين    | -تاينۇ |
+| 2nd (formal)    | -تايق    | -تايقۇ |
+| 3rd (animate)   | -تايس    | -تايسۇ |
+| 3rd (inanimate) | -تايك    | -تايكۇ |
+
+Typically, in simple predicate sentences, the [subject marking](#subject) is often added.
+
+| English                                   | سەث                            |
+| ----------------------------------------- | ------------------------------ |
+| I am Tofutush.                            | ۋا==نان==، ئا توفۇتۇش==تايم==. |
+| Sparky is cute. (With nominative omitted) | ئا بەربەرلېن كۇتې==تايس==.     |
+
+If you need to modify the sentences above with, say, [evidentiality or epistemic modality](#evidentiality-epistemic-modality), you can add that onto the predicate instead of the verb, as there is no verb.
 
 ## Verbs
 
@@ -125,7 +151,7 @@ They can both be omitted and assumed to be "assumption" and "confident" respecti
 
 Evidentiality:
 
-| English                                                              | سەثىس باۋھىنياتا |
+| English                                                              | سەث |
 | -------------------------------------------------------------------- | ---------------- |
 | Assumption / self-knowledge (trust me bro)                           | -ىۋا             |
 | Universal ("as we all know…")                                        | -ىشا             |
@@ -141,7 +167,7 @@ Evidentiality:
 
 Epistemic modality:
 
-| English                                          | سەثىس باۋھىنياتا |
+| English                                          | سەث |
 | ------------------------------------------------ | ---------------- |
 | Total confidence (I'll kill myself if I'm wrong) | -ىژې             |
 | Very confident (this must be the case)           | -ىما             |
@@ -155,7 +181,7 @@ Epistemic modality:
 
 Had fun coming up with these examples.
 
-| English                                                                                                                                                                | سەثىس باۋھىنياتا |
+| English                                                                                                                                                                | سەث |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | New Madoka Magica movie is coming out?! (Dubious source + neutral)                                                                                                     |                  |
 | Chastity is studying. (Direct source + doubtful)                                                                                                                       |                  |
@@ -174,7 +200,7 @@ Another type of modality is deontic modality, which are things like "must," "can
 
 Deontic modality is of course not required in speech, and are expressed as prefixes on verbs when present.
 
-| English                 | سەثىس باۋھىنياتا |
+| English                 | سەث |
 | ----------------------- | ---------------- |
 | Must (high obligation)  |                  |
 | Should (low obligation) |                  |

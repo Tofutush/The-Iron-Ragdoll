@@ -15,7 +15,7 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 
 ## Vowels
 
-| Order | Latin | Sound-alike         | سەثىس باۋھىنياتا |
+| Order | Latin | Sound-alike         | سەث |
 | ----- | ----- | ------------------- | ---------------- |
 | 1     | a     | m**aw** / **a**pple | ئا               |
 | 2     | e     | s**e**t             | ئە               |
@@ -26,7 +26,7 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 
 ### Compound vowels
 
-| Latin | Sound-alike                                                                       | سەثىس باۋھىنياتا |
+| Latin | Sound-alike                                                                       | سەث |
 | ----- | --------------------------------------------------------------------------------- | ---------------- |
 | aw    | b**au**hinian. Just this one place. I don't permit this to be used anywhere else. | ئاۋ              |
 | ai    | t**y**pe (note how the second letter is a "y" but is spelled "i" in Latin)        | ئاي              |
@@ -34,7 +34,7 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 
 ## Consonants
 
-| Order | Latin | Sound-alike                         | سەثىس باۋھىنياتا |
+| Order | Latin | Sound-alike                         | سەث |
 | ----- | ----- | ----------------------------------- | ---------------- |
 | 7     | b     |                                     | ب                |
 | 8     | p     |                                     | پ                |
@@ -70,7 +70,7 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 
 ### Compound consonants
 
-| Latin | Sound-alike | سەثىس باۋھىنياتا |
+| Latin | Sound-alike | سەث |
 | ----- | ----------- | ---------------- |
 | dr    | **dr**ive   | جر               |
 | tr    | **tr**ee    | چر               |

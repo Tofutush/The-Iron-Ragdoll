@@ -54,6 +54,12 @@
     "bh": "\u0630\u0627\u0645"
   },
   {
+    "name": "d\u00eb",
+    "pos": "part.",
+    "def": "genitive linker",
+    "bh": "\u062f\u06d0"
+  },
+  {
     "name": "ekko",
     "pos": "n.",
     "def": "echo; (proper n.) Echo",
@@ -98,19 +104,19 @@
   {
     "name": "-ik",
     "pos": "suffix",
-    "def": "3rd person inanimate possessive (belonging to it)",
+    "def": "3rd person possessive (inanimate)",
     "bh": "-\u0649\u0643"
   },
   {
     "name": "-iku",
     "pos": "suffix",
-    "def": "3rd person plural inanimate possessive (belonging to them)",
+    "def": "3rd person possessive (plural, inanimate)",
     "bh": "-\u0649\u0643\u06c7"
   },
   {
     "name": "-im",
     "pos": "suffix",
-    "def": "1st person possessive (belonging to me)",
+    "def": "1st person possessive",
     "bh": "-\u0649\u0645"
   },
   {
@@ -122,13 +128,13 @@
   {
     "name": "-imu",
     "pos": "suffix",
-    "def": "1st person plural possessive (belonging to us)",
+    "def": "1st person possessive (plural)",
     "bh": "-\u0649\u0645\u06c7"
   },
   {
     "name": "-in",
     "pos": "suffix",
-    "def": "2nd person possessive informal (belonging to you)",
+    "def": "2nd person possessive (informal)",
     "bh": "-\u0649\u0646"
   },
   {
@@ -146,7 +152,7 @@
   {
     "name": "-inu",
     "pos": "suffix",
-    "def": "2nd person plural possessive informal (belonging to y'all)",
+    "def": "2nd person possessive (plural, informal)",
     "bh": "-\u0649\u0646\u06c7"
   },
   {
@@ -158,25 +164,25 @@
   {
     "name": "-ip",
     "pos": "suffix",
-    "def": "accusative case marker",
+    "def": "object marking",
     "bh": "-\u0649\u067e"
   },
   {
     "name": "-iq",
     "pos": "suffix",
-    "def": "2nd person possessive formal",
+    "def": "2nd person possessive (formal)",
     "bh": "-\u0649\u0642"
   },
   {
     "name": "-iqu",
     "pos": "suffix",
-    "def": "2nd person plural possessive formal",
+    "def": "2nd person possessive (plural, formal)",
     "bh": "-\u0649\u0642\u06c7"
   },
   {
     "name": "-is",
     "pos": "suffix",
-    "def": "3rd person possessive (belonging to xem)",
+    "def": "3rd person possessive (animate)",
     "bh": "-\u0649\u0633"
   },
   {
@@ -194,7 +200,7 @@
   {
     "name": "-isu",
     "pos": "suffix",
-    "def": "3rd person plural possessive (belonging to them)",
+    "def": "3rd person possessive (plural, animate)",
     "bh": "-\u0649\u0633\u06c7"
   },
   {
@@ -240,6 +246,12 @@
     "bh": "\u0643\u0627\u0643\u0627"
   },
   {
+    "name": "klipsso",
+    "pos": "n.",
+    "def": "year, (proper n.) the eclipse, new year",
+    "bh": "\u0643\u0644\u0649\u067e\u0633\u0633\u0648"
+  },
+  {
     "name": "ku",
     "pos": "pron.",
     "def": "they (inanimate)",
@@ -270,10 +282,22 @@
     "bh": "\u0645\u0648\u0631\u0644\u0627\u0646\u062f"
   },
   {
+    "name": "m\u00ebyo",
+    "pos": "n.",
+    "def": "cat",
+    "bh": "\u0645\u0649\u064a\u0648"
+  },
+  {
     "name": "na",
     "pos": "pron.",
     "def": "you (informal)",
     "bh": "\u0646\u0627"
+  },
+  {
+    "name": "-nan",
+    "pos": "suffix",
+    "def": "subject marking",
+    "bh": "-\u0646\u0627\u0646"
   },
   {
     "name": "nu",
@@ -356,8 +380,68 @@
   {
     "name": "-ta",
     "pos": "suffix",
-    "def": "genitive case marker, i.e. 's",
+    "def": "genitive marking, i.e. 's",
     "bh": "-\u062a\u0627"
+  },
+  {
+    "name": "-taik",
+    "pos": "suffix",
+    "def": "3rd person predicate (inanimate)",
+    "bh": "-\u062a\u0627\u064a\u0643"
+  },
+  {
+    "name": "-taiku",
+    "pos": "suffix",
+    "def": "3rd person predicate (plural, inanimate)",
+    "bh": "-\u062a\u0627\u064a\u0643\u06c7"
+  },
+  {
+    "name": "-taim",
+    "pos": "suffix",
+    "def": "1st person predicate",
+    "bh": "-\u062a\u0627\u064a\u0645"
+  },
+  {
+    "name": "-taimu",
+    "pos": "suffix",
+    "def": "1st person predicate (plural)",
+    "bh": "-\u062a\u0627\u064a\u0645\u06c7"
+  },
+  {
+    "name": "-tain",
+    "pos": "suffix",
+    "def": "2nd person predicate (informal)",
+    "bh": "-\u062a\u0627\u064a\u0646"
+  },
+  {
+    "name": "-tainu",
+    "pos": "suffix",
+    "def": "2nd person predicate (plural, informal)",
+    "bh": "-\u062a\u0627\u064a\u0646\u06c7"
+  },
+  {
+    "name": "-taiq",
+    "pos": "suffix",
+    "def": "2nd person predicate (formal)",
+    "bh": "-\u062a\u0627\u064a\u0642"
+  },
+  {
+    "name": "-taiqu",
+    "pos": "suffix",
+    "def": "2nd person predicate (plural, formal)",
+    "bh": "-\u062a\u0627\u064a\u0642\u06c7"
+  },
+  {
+    "name": "-tais",
+    "pos": "suffix",
+    "def": "3rd person predicate (animate)",
+    "bh": "-\u062a\u0627\u064a\u0633"
+  },
+  {
+    "name": "-taisu",
+    "pos": "suffix",
+    "def": "3rd person predicate (plural, animate)",
+    "bh": "-\u062a\u0627\u064a\u0633\u06c7"
   },
   {
     "name": "tata",
@@ -396,7 +480,7 @@
     "bh": "\u06cb\u06c7"
   },
   {
-    "name": "xoksa",
+    "name": "xokssa",
     "pos": "proper n.",
     "def": "God",
     "bh": "\u062e\u0648\u0643\u0633\u0633\u0627"
