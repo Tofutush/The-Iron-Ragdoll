@@ -4,7 +4,7 @@ navTitle: Bauhinia
 parent: World
 eleventyNavigation:
   order: 1
-desc: What if CEOs made a country?
+desc: What if bureaucrats made a country?
 tags:
   - bauhinia
 categories:
