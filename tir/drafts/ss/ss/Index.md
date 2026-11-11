@@ -8,5 +8,6 @@ longform:
     - pre-school
     - - recruitment
       - playground convo
+      - dinner convo
   ignoredFiles: []
 ---

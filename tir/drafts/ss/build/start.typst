@@ -1,7 +1,7 @@
 #set page(
-  width: 5.5in,
-  height: 8.5in,
-  margin: 0.8in,
+  width: 140mm,
+  height: 203mm,
+  margin: 20mm,
   numbering: "i",
   footer: none
 )
@@ -51,13 +51,13 @@ Hi! If you're reading this, I've probably begged you to read this LOL. But thank
 
 Some things to note:
 
-- This book takes place in my fictional world / paracosm, #link("https://tofutush.neocities.org")[The Iron Ragdoll]. I wrote this to be as self-contained as possible, but a basic idea of the world and some characters (especially Harmony's parents, #link("https://tofutush.neocities.org/characters/frosting/")[Frosting] and #link("https://tofutush.neocities.org/characters/entity/")[Entity]) might enhance the reading experience! It's not mandatory though (and I sure hope the book still makes sense if you go in blind LOL. If anything reads like total crap and doesn't make sense, rest assured it's completely my fault).
+- This book takes place in my fictional world / paracosm, #link("https://tofutush.neocities.org")[The Iron Ragdoll]. I wrote this to be as self-contained as possible, but a basic idea of the world and some characters might enhance the reading experience! It's not mandatory though (and I sure hope the book still makes sense if you go in blind LOL. If anything reads like total crap and doesn't make sense, rest assured it's completely my fault).
 - This book contains mature language and mild violence, and is recommended for people aged 16 or above!
 
 Thank you, and happy reading!
 #v(1fr)
 #pagebreak()
-#set page(margin: (bottom: 0.8in, rest: 0.6in))
+#set page(margin: (bottom: 20mm, rest: 16mm))
 #set par(
   first-line-indent: 1.5em,
   spacing: 0.8em

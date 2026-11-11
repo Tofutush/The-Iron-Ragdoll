@@ -22,7 +22,7 @@ None of these deities have any "official" visual representation, as all records 
 <dt>Associations</dt>
 <dd>Bauhinia flowers, authority, power</dd>
 <dt>Bauhinian</dt>
-<dd>لا خوكسسا</dd>
+<dd>لا خوككسا</dd>
 </dl>
 
 {% image "god seal" 200 "God seal" 'float-right' %}
