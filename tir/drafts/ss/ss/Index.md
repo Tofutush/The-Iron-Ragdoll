@@ -10,5 +10,7 @@ longform:
       - playground convo
       - dinner convo
     - first day
+    - final part
+    - deportation
   ignoredFiles: []
 ---
