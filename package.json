@@ -18,7 +18,7 @@
     "@11ty/eleventy-img": "^7.0.0",
     "@11ty/eleventy-navigation": "^1.0.4",
     "@uncenter/eleventy-plugin-toc": "^2.1.2",
-    "js-beautify": "^1.14.9",
+    "js-beautify": "^1.14.8",
     "lucide-static": "^0.544.0",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.2.0",
