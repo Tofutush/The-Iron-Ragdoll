@@ -16,6 +16,13 @@ function randomize() {
 		}
 }
 randomize();
+
+const proverbs = [
+	{
+		bh: "لا كاپېنان، لا كاپېتايسىشا.",
+		en: "As we all know, Copy is Copy."
+	}
+]
 function elt(type, props, ...children) {
 	let dom = document.createElement(type);
 	if (props) Object.assign(dom, props);
