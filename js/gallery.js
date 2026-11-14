@@ -82,7 +82,8 @@ function showImg(idx) {
 		chButtons.innerHTML = button.getAttribute('data-ch');
 		chButtons.style.display = 'flex';
 	} else chButtons.style.display = 'none';
-	info.children[0].innerText = button.getAttribute('data-name');
+	info.children[0].children[0].innerText = button.getAttribute('data-name');
+	info.children[0].children[0].href = button.getAttribute('data-permalink');
 	info.children[1].innerText = button.getAttribute('data-date');
 	if (button.getAttribute('data-comment')) {
 		comment.innerHTML = button.getAttribute('data-comment');
