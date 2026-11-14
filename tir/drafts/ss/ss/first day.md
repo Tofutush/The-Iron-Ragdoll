@@ -1,0 +1,1 @@
+The night before school started, I nearly couldn't fall asleep. I kept tossing and turning as excitement overwhelmed me. I wished that time would go quicker and it could be morning soon, but then I realized that actually falling asleep was the best way to skip time quickly.

@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-13
+
+- Added `staraptor.png`, `fursona.png`, `moonflower bow.png`;
+
 ## 2026-11-09
 
 - Added `year of the cat.png`;

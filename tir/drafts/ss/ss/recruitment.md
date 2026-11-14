@@ -60,7 +60,7 @@ I coughed.
 
 "The decision is up to Harmony herself to make," Sky explained to Mom, but turned to address me again. "We *chose* you. If you don't turn it down yourself, we will assume you will be attending."
 
-"She doesn't even know what you do in that school," Mom frowned. She kept talking about me in third person, as if I weren't there.
+"She doesn't even know what you do in that school," Mom frowned. She kept talking about me i as if I weren't there.
 
 "That's the paradox, you see," Sky said apologetically. "If we tell you what you would expect from the school, and you turn it down, that would be a breach of confidentiality on my part. To avoid that, you have to make the decision with all the information you have right now."
 

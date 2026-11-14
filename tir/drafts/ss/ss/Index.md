@@ -9,5 +9,6 @@ longform:
     - - recruitment
       - playground convo
       - dinner convo
+    - first day
   ignoredFiles: []
 ---
