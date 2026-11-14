@@ -3,6 +3,7 @@
 	<button class="img"
 		data-url="{% capture url %}{% imageUrl img 1000 0 0 true %}{% endcapture %}{{ url | htmlBaseUrl }}"
 		data-name="{{ img.name }}"
+		data-permalink="{% capture url %}/gallery/{{ img | getYear }}/?img={{ img.name | url_encode }}{% endcapture %}{{ url | htmlBaseUrl }}"
 		data-date="{{ img.date }}"
 		{% if img.author %}
 			data-author="{{ img.author }}"

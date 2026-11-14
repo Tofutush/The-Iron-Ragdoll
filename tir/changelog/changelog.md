@@ -8,6 +8,7 @@ eleventyNavigation:
 ## 2026-11-13
 
 - Added `staraptor.png`, `fursona.png`, `moonflower bow.png`;
+- Added permalink to gallery images;
 
 ## 2026-11-09
 
