@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-15
+
+- Added `kismet smug.png`, `witch of blood.png`;
+
 ## 2026-11-13
 
 - Added `staraptor.png`, `fursona.png`, `moonflower bow.png`;

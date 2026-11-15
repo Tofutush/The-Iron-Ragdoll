@@ -6913,5 +6913,21 @@
     "ch": [
       "moonflower"
     ]
+  },
+  {
+    "name": "kismet smug",
+    "date": "2026-11-15",
+    "ch": [
+      "kismet"
+    ],
+    "kind": "pagedoll"
+  },
+  {
+    "name": "witch of blood",
+    "date": "2026-11-15",
+    "ch": [
+      "qibli"
+    ],
+    "comment": "Ironically she smashed her wand long ago when killing Nebula and hadn't had a replacement since."
   }
 ]

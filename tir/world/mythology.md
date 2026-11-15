@@ -144,7 +144,7 @@ The legends surrounding prism developed quickly after the invention of the mirro
 <dt>Animal</dt>
 <dd>Snake</dd>
 <dt>Associations</dt>
-<dd>Theft (of knowledge specifically), betrayal, blackmail, plagiarism, interrogation</dd>
+<dd>Theft (of knowledge specifically), betrayal, blackmail, plagiarism, interrogation, propaganda</dd>
 <dt>Bauhinian</dt>
 <dd>لا سەث</dd>
 </dl>
