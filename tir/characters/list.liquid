@@ -15,6 +15,11 @@ eleventyNavigation:
 		align-items: center;
 		justify-content: center;
 	}
+	td a {
+		width: 100%;
+		height: 100%;
+		display: inline-block;
+	}
 </style>
 <div class="table-responsive">
 	<table>
@@ -23,7 +28,7 @@ eleventyNavigation:
 				<th>No.</th>
 				<th>Name</th>
 				<th>中文</th>
-				<th>سەث</th>
+				<th dir="rtl">سەث</th>
 				<th>Image count</th>
 				<th>Last drawn</th>
 				<th>Birthday</th>
@@ -35,8 +40,8 @@ eleventyNavigation:
 				<tr>
 					<td>{{ forloop.index }}</td>
 					<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
-					<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
-					<td dir="rtl"><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namebh }}</a></td>
+					<td>{{ ch.namezh }}</td>
+					<td dir="rtl">{{ ch.namebh }}</td>
 					{% assign filteredGallery = gallery | filterGallery: ch.name %}
 					<td><a href="/characters/{{ ch.name | lowerCase }}/{% if filteredGallery.size > 10 %}gallery/{% else %}#gallery{% endif %}">{{ filteredGallery.size }}</a></td>
 					{% assign lastDrawn = filteredGallery | getOnlyMyArt %}
@@ -126,12 +131,12 @@ eleventyNavigation:
 	});
 	sort.addSort({
 		colName: '中文',
-		keyFunc: td => td.querySelector('a').innerText,
+		keyFunc: td => td.innerText,
 		sortFunc: SortTable.sortFuncZh
 	});
 	sort.addSort({
 		colName: 'سەث',
-		keyFunc: td => td.querySelector('a').innerText,
+		keyFunc: td => td.innerText,
 		sortFunc: sortBh
 	});
 	sort.addSort({

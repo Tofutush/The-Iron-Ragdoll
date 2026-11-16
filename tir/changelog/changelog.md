@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-16
+
+- Added Bauhinian names to [sortable list](/characters/list/);
+
 ## 2026-11-15
 
 - Added `kismet smug.png`, `witch of blood.png`;

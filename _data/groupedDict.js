@@ -52,7 +52,8 @@ function sortBh(a, b) {
 	const bStripped = stripWord(b);
 	const aFirst = firstKey(aStripped);
 	const bFirst = firstKey(bStripped);
-	if (aFirst == a || bFirst == b) return 1;
+	if (aFirst == a) return 1;
+	if (bFirst == b) return -1;
 	const len = Math.min(aStripped.length, bStripped.length);
 	for (let i = 0; i < len; i++) {
 		const comp = order.indexOf(firstKey(aStripped.slice(i))) - order.indexOf(firstKey(bStripped.slice(i)));
