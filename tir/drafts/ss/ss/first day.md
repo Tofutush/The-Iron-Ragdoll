@@ -2,4 +2,10 @@ The night before school started, I nearly couldn't fall asleep. I kept tossing a
 
 Seven-thirty. I had set it to six. What? Who did this?
 
-I dashed out of bed and pulled on my school uniform, which I had took out of the wardrobe last night.
+I dashed out of bed and pulled on my school uniform, which I had took out of the wardrobe last night. Then I threw my backpack, also ready since last night, onto my back, and dashed out of my room.
+
+Mom was making breakfast. "Morning, Harm," she said.
+
+"Stop calling me that," I said. "Also the weirdest thing happened. I could've sworn my alarm clock was set for six. I'm gonna be late for school!"
+
+"Class starts at nine today," Mom said. "First day."

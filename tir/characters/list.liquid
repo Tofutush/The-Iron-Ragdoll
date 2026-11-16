@@ -20,13 +20,14 @@ eleventyNavigation:
 	<table>
 		<thead>
 			<tr>
-				<th class="sortable">No.</th>
-				<th class="sortable">Name</th>
-				<th class="sortable">中文</th>
-				<th class="sortable">Image count</th>
-				<th class="sortable">Last drawn</th>
-				<th class="sortable">Birthday</th>
-				<th class="sortable">Color</th>
+				<th>No.</th>
+				<th>Name</th>
+				<th>中文</th>
+				<th>سەث</th>
+				<th>Image count</th>
+				<th>Last drawn</th>
+				<th>Birthday</th>
+				<th>Color</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -35,6 +36,7 @@ eleventyNavigation:
 					<td>{{ forloop.index }}</td>
 					<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
 					<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namezh }}</a></td>
+					<td dir="rtl"><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.namebh }}</a></td>
 					{% assign filteredGallery = gallery | filterGallery: ch.name %}
 					<td><a href="/characters/{{ ch.name | lowerCase }}/{% if filteredGallery.size > 10 %}gallery/{% else %}#gallery{% endif %}">{{ filteredGallery.size }}</a></td>
 					{% assign lastDrawn = filteredGallery | getOnlyMyArt %}
@@ -48,6 +50,69 @@ eleventyNavigation:
 </div>
 <script src="/js/sort.js"></script>
 <script>
+	const order = [
+		"ئا",
+		"ئە",
+		"ئې",
+		"ئى",
+		"ئو",
+		"ئۇ",
+		"ب",
+		"پ",
+		"د",
+		"ت",
+		"ك",
+		"گ",
+		"ف",
+		"ڤ",
+		"ھ",
+		"م",
+		"ن",
+		"ي",
+		"ۋ",
+		"ل",
+		"ز",
+		"څ",
+		"س",
+		"ج",
+		"چ",
+		"ش",
+		"ر",
+		"ژ",
+		"ق",
+		"خ",
+		"ث",
+		"ذ"
+	];
+	function getFirst(word) {
+		let letter = stripWord(word)[0];
+		if ("اەېىوۇ".includes(letter)) letter = 'ئ' + letter;
+		return letter;
+	}
+	function stripWord(word) {
+		return word.replaceAll('-', '').replaceAll('ئ', '');
+	}
+	function firstKey(stripped) {
+		let letter = stripped[0];
+		if ("اەېىوۇ".includes(letter)) letter = 'ئ' + letter;
+		return letter;
+	}
+	function sortBh(a, b) {
+		if (a == '') return 1;
+		if (b == '') return -1;
+		const aStripped = stripWord(a);
+		const bStripped = stripWord(b);
+		const aFirst = firstKey(aStripped);
+		const bFirst = firstKey(bStripped);
+		if (aFirst == a) return 1;
+		if (bFirst == b) return -1;
+		const len = Math.min(aStripped.length, bStripped.length);
+		for (let i = 0; i < len; i++) {
+			const comp = order.indexOf(firstKey(aStripped.slice(i))) - order.indexOf(firstKey(bStripped.slice(i)));
+			if (comp != 0) return comp;
+		}
+		return 1;
+	}
 	let sort = new SortTable(document.querySelector('table'));
 	sort.addSort({
 		colName: 'No.',
@@ -63,6 +128,11 @@ eleventyNavigation:
 		colName: '中文',
 		keyFunc: td => td.querySelector('a').innerText,
 		sortFunc: SortTable.sortFuncZh
+	});
+	sort.addSort({
+		colName: 'سەث',
+		keyFunc: td => td.querySelector('a').innerText,
+		sortFunc: sortBh
 	});
 	sort.addSort({
 		colName: 'Image count',
