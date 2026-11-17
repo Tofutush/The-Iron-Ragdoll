@@ -21,9 +21,48 @@ import storyPlugin from './_plugins/story.js';
 import utilPlugin from './_plugins/utils.js';
 import worldPlugin from './_plugins/world.js';
 
+const letters = {
+	"ا": "a",
+	"ە": "e",
+	"ې": "ë",
+	"ى": "i",
+	"و": "o",
+	"ۇ": "u",
+	"ب": "b",
+	"پ": "p",
+	"د": "d",
+	"ت": "t",
+	"ك": "k",
+	"گ": "g",
+	"ف": "f",
+	"ڤ": "v",
+	"ھ": "h",
+	"م": "m",
+	"ن": "n",
+	"ي": "y",
+	"ۋ": "w",
+	"ل": "l",
+	"ز": "z",
+	"څ": "c",
+	"س": "s",
+	"ج": "zh",
+	"چ": "ch",
+	"ش": "sh",
+	"ر": "r",
+	"ژ": "j",
+	"ق": "q",
+	"خ": "x",
+	"ث": "th",
+	"ذ": "dh"
+};
+
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
-	const slug = s => s.toString().trim().toLowerCase().replace(/ /g, '-').replace(/[-]+/g, '-').replace(/[^\w\p{Script=Han}-]+/gu, '');
+	const slug = s => s.toString().trim().toLowerCase()
+		.replaceAll(' ', '-')
+		.replace(/[^\w\p{Script=Han}-]+/gu, '')
+		.replaceAll('ئ', '')
+		.replace(/[-]+/g, '-');
 	// dir=auto
 	const addDirAuto = md => {
 		const defaultRender = md.renderer.renderToken.bind(md.renderer);

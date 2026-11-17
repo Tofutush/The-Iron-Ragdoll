@@ -217,4 +217,10 @@ Verbs in Bauhinian have no habitual aspect. To say "Nightsun spies on people," y
 
 ## Adjectives
 
-In Bauhinian both nouns and verbs use adjectives to be described (so there aren't any adverbs).
+In Bauhinian both nouns and verbs use adjectives to be described (so there aren't any adverbs). So watch out because not every adjective can describe both nouns and verbs. You can run fast and be a fast runner, and you can be blue, but you can't sing bluely.
+
+Adjectives go after the nouns and verbs they're describing.
+
+## Clauses
+
+Oh my God. Anyway, clauses are essentially sentences in the places of what would originally be nouns or adjectives.
