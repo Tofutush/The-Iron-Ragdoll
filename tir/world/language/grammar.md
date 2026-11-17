@@ -84,6 +84,9 @@ See how patterned it is?? Aside from the 1st-person where the ۋ got replaced wi
 | Bauhinian language                | سەث==ىس== لا باۋھىنيا==تا==  |
 | Sparky's gun                      | پاذۇ==س== ئا بەربەرلېن==تا== |
 
+> [!note]+
+> Note that the suffixes for 1st person usually end with "m," while the ones for 2nd person informal usually end with "n." They are quite similar and may get mixed up often which isn't good, but I feel a magical spiritual connection from the letter "m" to the sense of self and the letter "n" to the sense of the other. That or I'm just making a Uyghurche clone because it's the only agglutinative language I know shit about. Regardless, Bauhinian is not a real language spoken by real people and most if not all of its materials will be in writing so I think it works.
+
 #### Linking particle
 
 You can also use "[owner] دې [owned]" to link them, in cases when it's not literally ownership.
@@ -151,48 +154,48 @@ They can both be omitted and assumed to be "assumption" and "confident" respecti
 
 Evidentiality:
 
-| English                                                              | سەث |
-| -------------------------------------------------------------------- | ---------------- |
-| Assumption / self-knowledge (trust me bro)                           | -ىۋا             |
-| Universal ("as we all know…")                                        | -ىشا             |
-| Experience (saw it with my own eyes)                                 | -ىنې             |
-| Inference (inferred it from evidence)                                | -ىنا             |
-| Trusted source (heard it from someone I trust)                       | -ىثۇ             |
-| Untrusted source (heard it from someone I don't trust)               | -ىثە             |
-| Dubious source (heard it from someone I'm not sure whether to trust) | -ىثو             |
-| Direct source (heard it from the subject in question)                | -ىشۇ             |
+| English                                                              | سەث  |
+| -------------------------------------------------------------------- | ---- |
+| Assumption / self-knowledge (trust me bro)                           | -ىۋا |
+| Universal ("as we all know…")                                        | -ىشا |
+| Experience (saw it with my own eyes)                                 | -ىنې |
+| Inference (inferred it from evidence)                                | -ىنا |
+| Trusted source (heard it from someone I trust)                       | -ىثۇ |
+| Untrusted source (heard it from someone I don't trust)               | -ىثە |
+| Dubious source (heard it from someone I'm not sure whether to trust) | -ىثو |
+| Direct source (heard it from the subject in question)                | -ىشۇ |
 
 > [!Note]+
 > Note the last one: "heard it from the subject in question." This is used in contexts such as "Sparky told me she would eat dinner." If you want to express it, Bauhinians often say "Sparky would eat dinner" with the evidentiality of that. If it were "Sparky told me Nightsun would eat dinner," this stops being applicable (because Sparky isn't saying information about herself) and instead you either say the entire sentence, or say "Nightsun would eat dinner" with evidentiality set to however much you trust Sparky — though in the latter case you wouldn't be conveying that Sparky specifically told you that.
 
 Epistemic modality:
 
-| English                                          | سەث |
-| ------------------------------------------------ | ---------------- |
-| Total confidence (I'll kill myself if I'm wrong) | -ىژې             |
-| Very confident (this must be the case)           | -ىما             |
-| Confident (I'm pretty sure)                      | -ىتۇ             |
-| Neutral (take it as you will)                    | -ىنە             |
-| Unconfident (I'm not confident)                  | -ىگې             |
-| Doubtful (this is prolly bullshit)               | -ىفو             |
+| English                                          | سەث   |
+| ------------------------------------------------ | ----- |
+| Total confidence (I'll kill myself if I'm wrong) | -ىژېت |
+| Very confident (this must be the case)           | -ىمات |
+| Confident (I'm pretty sure)                      | -ىتۇت |
+| Neutral (take it as you will)                    | -ىنەت |
+| Unconfident (I'm not confident)                  | -ىگېت |
+| Doubtful (this is prolly bullshit)               | -ىفوت |
 
 > [!note]+
 > The first one, total confidence, is only used in specific situations, such as swearing oaths at a wedding, or promising to tell the truth in court. It is not to be used lightly. You *are* expected to kill yourself if you're wrong.
 
 Had fun coming up with these examples.
 
-| English                                                                                                                                                                | سەث |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| New Madoka Magica movie is coming out?! (Dubious source + neutral)                                                                                                     |                  |
-| Chastity is studying. (Direct source + doubtful)                                                                                                                       |                  |
-| I got kidnapped by mermaids! (Experience + very confident)                                                                                                             |                  |
-| Animus, this is Nightsun. (Trusted source) Nightsun, this is Animus. (Untrusted source) <== said by Sparky after she bumped into Nightsun and Animus ran into them two |                  |
-| My name is Tofutush. (Both omitted)                                                                                                                                    |                  |
-| My name is Tofutush. (universal, because I'm self-absorbed + omitted)                                                                                                  |                  |
-| Our nation is under attack! (universal + omitted)                                                                                                                      |                  |
-| OuR nAtIoN iS uNdEr AtTaCk! (universal (instead of untrusted source, to mirror & respond to the statement above) + doubtful)                                           |                  |
-| The continent is flat. (Untrusted source + doubtful)                                                                                                                   |                  |
-| I'm either hungry (unconfident) or tired (confident).                                                                                                                  |                  |
+| English                                                                                                                                                                                                                                         | سەث                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| New Madoka Magica movie is coming out?! (Dubious source + neutral)                                                                                                                                                                              | مادوكا ماجىكا                                                        |
+| Chastity is studying. (Direct source + doubtful)                                                                                                                                                                                                |                                                                      |
+| I got kidnapped by mermaids! (Experience + very confident)                                                                                                                                                                                      |                                                                      |
+| Animus, this is Nightsun. (Trusted source) Nightsun, this is Animus. (Untrusted source) <== said by Sparky after she bumped into Nightsun and Animus ran into them two. The irony here is that in such scenarios you usually use direct source. | ئا ئەپتاناس، مې ئا يامىاكا==ثۇ==. ئا يامىاكا، مې ئا ئەپتاناس==ىثە==. |
+| My name is Tofutush. (Both omitted)                                                                                                                                                                                                             |                                                                      |
+| My name is Tofutush. (universal, because I'm self-absorbed + omitted)                                                                                                                                                                           |                                                                      |
+| Our nation is under attack! (universal + omitted)                                                                                                                                                                                               |                                                                      |
+| OuR nAtIoN iS uNdEr AtTaCk! (universal (instead of untrusted source, to mirror & respond to the statement above) + doubtful)                                                                                                                    |                                                                      |
+| The continent is flat. (Untrusted source + doubtful)                                                                                                                                                                                            |                                                                      |
+| I'm either hungry (unconfident) or tired (confident).                                                                                                                                                                                           |                                                                      |
 
 ### Deontic modality
 

@@ -1,5 +1,6 @@
 p,
 .cm-line,
-li {
+li,
+.table-cell-wrapper {
    line-height: 2;
 }

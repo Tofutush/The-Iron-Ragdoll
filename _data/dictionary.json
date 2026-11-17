@@ -84,22 +84,22 @@
     "bh": "\u06af\u06cb\u06d0\u0646\u0649\u0643"
   },
   {
-    "name": "-ifu",
+    "name": "-ifut",
     "pos": "suffix",
     "def": "epistemic modality: doubtful",
-    "bh": "-\u0649\u0641\u0648"
+    "bh": "-\u0649\u0641\u0648\u062a"
   },
   {
-    "name": "-ig\u00eb",
+    "name": "-ig\u00ebt",
     "pos": "suffix",
     "def": "epistemic modality: unconfident",
-    "bh": "-\u0649\u06af\u06d0"
+    "bh": "-\u0649\u06af\u06d0\u062a"
   },
   {
-    "name": "-ij\u00eb",
+    "name": "-ij\u00ebt",
     "pos": "suffix",
     "def": "epistemic modality: total confidence",
-    "bh": "-\u0649\u0698\u06d0"
+    "bh": "-\u0649\u0698\u06d0\u062a"
   },
   {
     "name": "-ik",
@@ -120,10 +120,10 @@
     "bh": "-\u0649\u0645"
   },
   {
-    "name": "-ima",
+    "name": "-imat",
     "pos": "suffix",
     "def": "epistemic modality: very confident",
-    "bh": "-\u0649\u0645\u0627"
+    "bh": "-\u0649\u0645\u0627\u062a"
   },
   {
     "name": "-imu",
@@ -144,10 +144,10 @@
     "bh": "-\u0649\u0646\u0627"
   },
   {
-    "name": "-ine",
+    "name": "-inet",
     "pos": "suffix",
     "def": "epistemic modality: neural",
-    "bh": "-\u0649\u0646\u06d5"
+    "bh": "-\u0649\u0646\u06d5\u062a"
   },
   {
     "name": "-inu",
@@ -222,10 +222,10 @@
     "bh": "-\u0649\u062b\u06c7"
   },
   {
-    "name": "-itu",
+    "name": "-itut",
     "pos": "suffix",
     "def": "epistemic modality: confident",
-    "bh": "-\u0649\u062a\u06c7"
+    "bh": "-\u0649\u062a\u06c7\u062a"
   },
   {
     "name": "-iwa",
@@ -480,10 +480,10 @@
     "bh": "\u06cb\u06c7"
   },
   {
-    "name": "xokssa",
+    "name": "xokksa",
     "pos": "proper n.",
     "def": "God",
-    "bh": "\u062e\u0648\u0643\u0633\u0633\u0627"
+    "bh": "\u062e\u0648\u0643\u0643\u0633\u0627"
   },
   {
     "name": "yami",
