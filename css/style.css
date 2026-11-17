@@ -283,12 +283,16 @@ svg {
 	float: left;
 	margin: 1em 1em 1em 0;
 	user-select: none;
+	width: 10em;
+	height: auto;
 }
 
 .float-right {
 	float: right;
 	margin: 1em 0 1em 1em;
 	user-select: none;
+	width: 10em;
+	height: auto;
 }
 
 .flex-around {
