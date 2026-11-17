@@ -24,6 +24,9 @@ Bauhinian features 6 vowels and 26 consonants. May [God](/world/mythology/#god) 
 | 5     | o     | s**oa**p            | ئو               |
 | 6     | u     | l**oo**p            | ئۇ               |
 
+> [!note]+
+> "ë" can be "ee" if you're lazy (and is always "ee" in slugs on this website). By the way, Windows Powertoys has a pretty good Quick Accent thing!
+
 ### Compound vowels
 
 | Latin | Sound-alike                                                                       | سەث |

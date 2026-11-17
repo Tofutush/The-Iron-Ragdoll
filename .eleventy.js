@@ -24,7 +24,7 @@ import worldPlugin from './_plugins/world.js';
 const letters = {
 	"ا": "a",
 	"ە": "e",
-	"ې": "ë",
+	"ې": "ee",
 	"ى": "i",
 	"و": "o",
 	"ۇ": "u",
@@ -60,8 +60,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
 	const slug = s => s.toString().trim().toLowerCase()
 		.replaceAll(' ', '-')
-		.replace(/[^\w\p{Script=Han}-]+/gu, '')
-		.replaceAll('ئ', '')
+		.replace(/[^\w\p{Script=Han}-]/gu, c => letters[c] ?? '')
 		.replace(/[-]+/g, '-');
 	// dir=auto
 	const addDirAuto = md => {
