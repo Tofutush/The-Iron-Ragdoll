@@ -50,8 +50,6 @@ There had never been a successful merging of a gray soul, proven by many experim
 
 Some people theorize that a gray soul is the sixth superpower a soul can have, as its appearance patterns are similar to that of other superpowers, and it does indeed have the "power" of repelling every other soul. Their argument is defeated by the fact that there have been plenty of gray-souled people with a superpower. But one can argue that the gray soul superpower is special.
 
-All the characters with gray souls that you have met or will meet are all pretty much grouches with hearts of gold though, but let's not be physiognomic about this.
-
 ## Related files
 
 - [Goose](/characters/goose/), an MSS officer who could extract souls through ~~torture~~ Ideology Normalization Therapy

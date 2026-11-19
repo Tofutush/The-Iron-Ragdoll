@@ -10,7 +10,7 @@ categories:
 Oh boy, here we go.
 
 > [!note]+ Terminology
-> For the purposes of explaining all this, in this file (and any other Bauhinian language-related file), "xe/xem/xir" will be used as the *singular* 3rd-person pronoun like how Springhole does it (unless an example is given using an existing character, for example Sparky will still be she/her). This is to avoid mixing it up with "they/them," which will exclusively refer to *plural* 3rd-persons.
+> For the purposes of explaining all this, in this file (and any other Bauhinian language-related file), "she/her" will be used as the singular 3rd-person pronoun (unless an example is given using an existing he/him character). This is to avoid using "they/them" to refer to a singular person, which can be mixed up with plural 3rd-persons.
 >
 > As for "you," the plural will be "y'all." The formal and informal versions will be differentiated with parentheses when necessary.
 
@@ -30,24 +30,16 @@ Bauhinian is an agglutinative language with a flexible sentence order but SOV by
 
 ## Nouns
 
-### Plural: ۇ
-
-You add ۇ to the end of a word to make it plural. Always gets added first, before any other case marking.
-
-"Plural" only applies to uncertain amounts. If the number is certain, no plural gets applied.
-
-| English      | سەث |
-| ------------ | ---------------- |
-| Apples       | سەيتىن==ۇ==      |
-| Three apples | پان سەيتىن       |
-| Nights       | يامى==ۇ==        |
-| Guns         | پاذۇ             |
-
 ### Pronouns
 
 There are 5 pronouns in Bauhinian: one first-person, two second-person (formal and informal), two third-person (animate and inanimate). Each one also has a plural.
 
-"Animate" includes people and things that are primarily made up of people, like countries and organizations (like the [ISA](/world/isa/) or the [MSS](/world/bauhinia/mss/)). In Fanton, the animate pronoun is usually used for plants and animals as well. Inanimate is just everything else. As you can see from the examples, "the Bauhinian language" is always translated as "سەثى==س==" and not "سەثى==ك==."
+"Animate" includes people and things that are primarily made up of people, like countries and organizations (like the [ISA](/world/isa/) or the [MSS](/world/bauhinia/mss/)). In Fanton, the animate pronoun is usually used for plants and animals as well. Inanimate is just everything else. Note that animacy isn't really a noun class; it's just what's considered human and what's not.
+
+> [!note]+
+> When a Fantoni person calls a plant "سا," when translating it to English, you must always translate it as "she" and not "it" or "they."
+
+As you can see from the examples, "the Bauhinian language" is always translated as "سەثى==س==" and not "سەثى==ك==," because Bauhinia is animate.
 
 > [!note]+
 > Do note that the people of TIR never say "Bauhinian language," as language to them is just language.
@@ -61,6 +53,34 @@ As for formal and informal, I hope you know when to use which because I sure as 
 | 2nd (formal)    | قا       | قۇ     |
 | 3rd (animate)   | سا       | سۇ     |
 | 3rd (inanimate) | كا       | كۇ     |
+
+### Plural: ۇ
+
+You add ۇ to the end of a word to make it plural. Always gets added first, before any other case marking.
+
+"Plural" only applies to figurative speech. If the things you're describing are certain and concrete, no plural gets applied, and you need to use a [unit noun](#unit-nouns).
+
+| English | سەث         |
+| ------- | ----------- |
+| Apples  | سەيتىن==ۇ== |
+| Nights  | يامى==ۇ==   |
+| Guns    | پاذۇ        |
+
+### Unit nouns
+
+Most, if not all, nouns in Bauhinian are uncountable in the English sense. For English uncountable nouns, you can specify quantity with a unit noun, like the "cup" in "two cups of water." In Bauhinian, all (or most, who knows) nouns are like that. Each noun will have one or more unit nouns applicable to them.
+
+Many normal nouns, especially that of containers, such as "cup," "bottle," or "sack," can double as unit nouns. Here is a non-exhaustive list of common unit nouns.
+
+| Usage                                 | سەث |
+| ------------------------------------- | --- |
+| Animate (people, institutions)        | فۇ  |
+| Animals                               |     |
+| Sheets (thin stuff)                   |     |
+| Blocks (blocky stuff)                 |     |
+| Lumps (half-solid stuff, like yogurt) |     |
+
+Example usage: <span dir="rtl">پان فۇ چۇكا</span> (three people).
 
 ### Possessive
 
@@ -98,6 +118,8 @@ You can also use "[owner] دې [owned]" to link them, in cases when it's not lit
 | The price of oblivion |                 |
 
 These two are often interchangeable, though the former is more often used in daily speech and the latter can be more dramatic, as it is a relic straight from Ancient Bauhinian.
+
+You can omit the linking particle if the owner and owned is tight enough. "Year of the [animal]" often have the particle omitted, becoming just "مېيو كلىپسسو." Another example would be "" (Starcorp family).
 
 ### Articles: ئا and لا
 
@@ -210,11 +232,9 @@ Deontic modality is of course not required in speech, and are expressed as prefi
 | May (permission)        |                  |
 | Can (ability)           |                  |
 
-### Tense
+### Tense & aspect
 
-Tense is optional and described using adjectives.
-
-### Habitual
+Tense and aspect are optional and described using adjectives.
 
 Verbs in Bauhinian have no habitual aspect. To say "Nightsun spies on people," you have to say "Nightsun is a people-spier."
 
