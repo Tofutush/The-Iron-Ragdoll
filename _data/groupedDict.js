@@ -1,39 +1,40 @@
-import dict from './dictionary.json' with {type: 'json'};
-const letters = {
-	"ئا": "a",
-	"ئە": "e",
-	"ئې": "ë",
-	"ئى": "i",
-	"ئو": "o",
-	"ئۇ": "u",
-	"ب": "b",
-	"پ": "p",
-	"د": "d",
-	"ت": "t",
-	"ك": "k",
-	"گ": "g",
-	"ف": "f",
-	"ڤ": "v",
-	"ھ": "h",
-	"م": "m",
-	"ن": "n",
-	"ي": "y",
-	"ۋ": "w",
-	"ل": "l",
-	"ز": "z",
-	"څ": "c",
-	"س": "s",
-	"ج": "zh",
-	"چ": "ch",
-	"ش": "sh",
-	"ر": "r",
-	"ژ": "j",
-	"ق": "q",
-	"خ": "x",
-	"ث": "th",
-	"ذ": "dh"
-};
-const order = Object.keys(letters);
+import fs from "fs";
+import Papa from "papaparse";
+
+const order = [
+	"ئا",
+	"ئە",
+	"ئې",
+	"ئى",
+	"ئو",
+	"ئۇ",
+	"ب",
+	"پ",
+	"د",
+	"ت",
+	"ك",
+	"گ",
+	"ف",
+	"ڤ",
+	"ھ",
+	"م",
+	"ن",
+	"ي",
+	"ۋ",
+	"ل",
+	"ز",
+	"څ",
+	"س",
+	"ج",
+	"چ",
+	"ش",
+	"ر",
+	"ژ",
+	"ق",
+	"خ",
+	"ث",
+	"ذ"
+];
 function getFirst(word) {
 	let letter = stripWord(word)[0];
 	if ("اەېىوۇ".includes(letter)) letter = 'ئ' + letter;
@@ -61,6 +62,13 @@ function sortBh(a, b) {
 	}
 	return 1;
 }
-export default Object.entries(Object.groupBy(dict, word => getFirst(word.bh)))
+
+let csv = fs.readFileSync('./dictionary.csv', 'utf-8');
+let dict = Papa.parse(csv, {
+	header: true,
+	skipEmptyLines: true
+}).data;
+
+export default [dict.length, ...Object.entries(Object.groupBy(dict, word => getFirst(word.bh)))
 	.sort((a, b) => order.indexOf(a[0]) - order.indexOf(b[0]))
-	.map(group => [group[0], letters[group[0]], group[1].sort((a, b) => sortBh(a.bh, b.bh))]);
+	.map(group => [group[0], group[1].sort((a, b) => sortBh(a.bh, b.bh))])];

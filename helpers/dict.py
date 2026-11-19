@@ -1,30 +1,23 @@
-import json
+import csv
 import os
 import re
 from collections import Counter
 
-import frontmatter
 from rich.box import SIMPLE_HEAD
 from rich.console import Console
 from rich.table import Table
 from rich.text import Text
 
-directory = "../tir-p/bauhinian/words/"
-lexicon = []
-for word in os.listdir(directory):
-    with open(os.path.join(directory, word), "r", encoding="utf-8") as file:
-        data = frontmatter.load(file)
-    lexicon.append(
-        {
-            "name": os.path.splitext(word)[0],
-            "pos": data["pos"],
-            "def": data["def"],
-            "bh": data["bauhinian"],
-        }
-    )
-lexicon.sort(key=lambda w: w["name"].strip("-").lower())
-with open("./_data/dictionary.json", "w") as file:
-    json.dump(lexicon, file, indent=2)
+CSV_PATH = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "dictionary.csv"
+)
+
+
+def load_lexicon():
+    with open(CSV_PATH, "r", encoding="utf-8", newline="") as file:
+        lexicon = list(csv.DictReader(file))
+    lexicon.sort(key=lambda w: w["en"].strip("-").lower())
+    return lexicon
 
 
 VOWELS = "a e ë i o u".split()
@@ -73,7 +66,7 @@ def _distribution(rows, total, label, color, width):
 
 def linguistic_summary(entries):
     console = Console()
-    names = [entry["name"] for entry in entries]
+    names = [entry["en"] for entry in entries]
     if not names:
         console.print("Lexicon is empty.")
         return
@@ -113,4 +106,4 @@ def linguistic_summary(entries):
 
 
 if __name__ == "__main__":
-    linguistic_summary(lexicon)
+    linguistic_summary(load_lexicon())

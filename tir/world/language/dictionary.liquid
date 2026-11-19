@@ -16,27 +16,29 @@ topTocOnly: true
 		line-height: 1.5;
 	}
 </style>
-<p>Words listed: {{ dictionary.size }}</p>
+<p>Words listed: {{ groupedDict[0] }}</p>
 {% for letter in groupedDict %}
-	<h2 id="{{ letter[1] }}">{{ letter[0] }}</h2>
-	<div class="table-responsive">
-		<table>
-			<thead>
-				<tr>
-					<th>Type</th>
-					<th>Definition</th>
-					<th dir="rtl">سەث</th>
-				</tr>
-			</thead>
-			<tbody>
-				{% for word in letter[2] %}
+	{% unless forloop.first %}
+		<h2 id="{{ letter[0] | slug }}">{{ letter[0] }}</h2>
+		<div class="table-responsive">
+			<table>
+				<thead>
 					<tr>
-						<td>{{ word.pos }}</td>
-						<td>{{ word.def }}</td>
-						<td dir="rtl">{{ word.bh }}</td>
+						<th>Type</th>
+						<th>Definition</th>
+						<th dir="rtl">سەث</th>
 					</tr>
-				{% endfor %}
-			</tbody>
-		</table>
-	</div>
+				</thead>
+				<tbody>
+					{% for word in letter[1] %}
+						<tr>
+							<td>{{ word.pos }}</td>
+							<td>{{ word.def }}</td>
+							<td dir="rtl">{{ word.bh }}</td>
+						</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+		</div>
+	{% endunless %}
 {% endfor %}
