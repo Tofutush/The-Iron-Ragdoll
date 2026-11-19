@@ -1,69 +1,72 @@
 ﻿en,pos,def,bh
 a,art.,personal article,ئا
+la,art.,proper article,لا
 aka,n.,sun,ئاكا
 atla,n.,east,ئاتلا
-atleizha,proper n.,Atlasia,ئاتلەيجا
 bawhinya,proper n.,Bauhinia,باۋھىنيا
+fanten,proper n.,Fanton,فانتەن
+atleizha,proper n.,Atlasia,ئاتلەيجا
+morland,proper n.,Moreland,مورلاند
 berlën,adj.,sparkly,بەرلېن
+eptanas,n.,excellence,ئەپتاناس
 capë,n.,copy; (proper n.) Copy,كاپې
-chacha,n.,older sister,چاچا
-chu,pron.,those,چۇ
-chuka,n.,person; human,چۇكا
+gwënik,n.,guide; (proper n.) Guide,گۋېنىك
+prizma,n.,prism; (proper n.) Prism,پرىزما
+ekko,n.,echo; (proper n.) Echo,ئەككو
+na,pron.,you (informal),نا
+nu,pron.,"you (plural, informal)",نۇ
+qa,pron.,you (formal),قا
+qu,pron.,"you (plural, formal)",قۇ
+ka,pron.,it,كا
+ku,pron.,they (inanimate),كۇ
+më,pron.,this,مې
+mu,pron.,these,مۇ
 chë,pron.,that,چې
+chu,pron.,those,چۇ
+chusa,n.,person; human,چۇسا
 dham,n.,tree,ذام
 dë,part.,genitive linker,دې
-ekko,n.,echo; (proper n.) Echo,ئەككو
-eptanas,n.,excellence,ئەپتاناس
 ete,n.,moon,ئەتە
-fanten,proper n.,Fanton,فانتەن
 fu,unit n.,unit noun for animate nouns,فۇ
-gwënik,n.,guide; (proper n.) Guide,گۋېنىك
--ifut,suffix,epistemic modality: doubtful,-ىفوت
--igët,suffix,epistemic modality: unconfident,-ىگېت
--ijët,suffix,epistemic modality: total confidence,-ىژېت
--ik,suffix,3rd person possessive (inanimate),-ىك
--iku,suffix,"3rd person possessive (plural, inanimate)",-ىكۇ
 -im,suffix,1st person possessive,-ىم
--imat,suffix,epistemic modality: very confident,-ىمات
 -imu,suffix,1st person possessive (plural),-ىمۇ
 -in,suffix,2nd person possessive (informal),-ىن
--ina,suffix,evidentiality: inference,-ىنا
--inet,suffix,epistemic modality: neural,-ىنەت
 -inu,suffix,"2nd person possessive (plural, informal)",-ىنۇ
--inë,suffix,evidentiality: experienced,-ىنې
--ip,suffix,object marking,-ىپ
 -iq,suffix,2nd person possessive (formal),-ىق
 -iqu,suffix,"2nd person possessive (plural, formal)",-ىقۇ
 -is,suffix,3rd person possessive (animate),-ىس
--isha,suffix,evidentiality: universal,-ىشا
--ishu,suffix,evidentiality: direct source,-ىشۇ
 -isu,suffix,"3rd person possessive (plural, animate)",-ىسۇ
--ithe,suffix,evidentiality: untrusted source,-ىثە
--itho,suffix,evidentiality: dubious source,-ىثو
--ithu,suffix,evidentiality: trusted source,-ىثۇ
+-ik,suffix,3rd person possessive (inanimate),-ىك
+-iku,suffix,"3rd person possessive (plural, inanimate)",-ىكۇ
+,,,
+-ijët,suffix,epistemic modality: total confidence,-ىژېت
+-imat,suffix,epistemic modality: very confident,-ىمات
 -itut,suffix,epistemic modality: confident,-ىتۇت
+-inet,suffix,epistemic modality: neutral,-ىنەت
+-igët,suffix,epistemic modality: unconfident,-ىگېت
+-ifut,suffix,epistemic modality: doubtful,-ىفوت
+,,,
+-isha,suffix,evidentiality: universal,-ىشا
 -iwa,suffix,evidentiality: assumption / self-knowledge,-ىۋا
-ka,pron.,it,كا
+-inë,suffix,evidentiality: experienced,-ىنې
+-ina,suffix,evidentiality: inference,-ىنا
+-ithu,suffix,evidentiality: trusted source,-ىثۇ
+-itho,suffix,evidentiality: dubious source,-ىثو
+-ithe,suffix,evidentiality: untrusted source,-ىثە
+-ishu,suffix,evidentiality: direct source,-ىشۇ
+,,,
+-ip,suffix,object marking,-ىپ
+mama,n.,mom,ماما
+papa,n.,dad,پاپا
+chacha,n.,older sister,چاچا
 kaka,n.,younger brother,كاكا
 klipsso,n.,"year, (proper n.) the eclipse, new year",كلىپسسو
-ku,pron.,they (inanimate),كۇ
-la,art.,proper article,لا
 lë,conj.,and,لې
-mama,n.,mom,ماما
-morland,proper n.,Moreland,مورلاند
-mu,pron.,these,مۇ
-më,pron.,this,مې
 mëyo,n.,cat,مېيو
-na,pron.,you (informal),نا
 -nan,suffix,subject marking,-نان
-nu,pron.,"you (plural, informal)",نۇ
 padhu,n.,gun (general),پاذۇ
 pan,number,3,پان
-papa,n.,dad,پاپا
-prizma,n.,prism; (proper n.) Prism,پرىزما
-qa,pron.,you (formal),قا
 qillo,n.,law; (proper n.) Law,قىللو
-qu,pron.,"you (plural, formal)",قۇ
 sa,pron.,she,سا
 seitin,n.,apple,سەيتىن
 seth,n.,way of speech; rhetoric; (proper n.) Quote,سەث

@@ -14,8 +14,11 @@ CSV_PATH = os.path.join(
 
 
 def load_lexicon():
-    with open(CSV_PATH, "r", encoding="utf-8", newline="") as file:
-        lexicon = list(csv.DictReader(file))
+    with open(CSV_PATH, "r", encoding="utf-8-sig", newline="") as file:
+        cleaned_file = (
+            line for line in file if line.strip() and line.replace(",", "").strip()
+        )
+        lexicon = list(csv.DictReader(cleaned_file))
     lexicon.sort(key=lambda w: w["en"].strip("-").lower())
     return lexicon
 

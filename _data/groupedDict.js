@@ -66,7 +66,7 @@ function sortBh(a, b) {
 let csv = fs.readFileSync('./dictionary.csv', 'utf-8');
 let dict = Papa.parse(csv, {
 	header: true,
-	skipEmptyLines: true
+	skipEmptyLines: 'greedy'
 }).data;
 
 export default [dict.length, ...Object.entries(Object.groupBy(dict, word => getFirst(word.bh)))
