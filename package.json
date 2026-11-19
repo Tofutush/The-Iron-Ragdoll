@@ -26,6 +26,7 @@
     "markdown-it-footnote": "^4.0.0",
     "markdown-it-mark": "^4.0.0",
     "markdown-it-obsidian-callouts": "^0.3.2",
-    "markdown-it-table-wrap": "^1.0.0"
+    "markdown-it-table-wrap": "^1.0.0",
+    "papaparse": "^5.7.1"
   }
 }
