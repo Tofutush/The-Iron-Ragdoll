@@ -1,32 +1,39 @@
 ﻿en,pos,def,bh
 a,art.,personal article,ئا
 la,art.,proper article,لا
-aka,n.,sun,ئاكا
-atla,n.,east,ئاتلا
+,,,
 bawhinya,proper n.,Bauhinia,باۋھىنيا
 fanten,proper n.,Fanton,فانتەن
 atleizha,proper n.,Atlasia,ئاتلەيجا
+wesdeivya,proper n.,Westavia,ۋەسدەيڤيا
 morland,proper n.,Moreland,مورلاند
+silvandya,proper n.,Sylvandia,سىلڤانديا
+,,,
 berlën,adj.,sparkly,بەرلېن
 eptanas,n.,excellence,ئەپتاناس
+,,,
+xokksa,proper n.,God,خوككسا
 capë,n.,copy; (proper n.) Copy,كاپې
+qillo,n.,law; (proper n.) Law,قىللو
 gwënik,n.,guide; (proper n.) Guide,گۋېنىك
+seth,n.,way of speech; rhetoric; (proper n.) Quote,سەث
 prizma,n.,prism; (proper n.) Prism,پرىزما
 ekko,n.,echo; (proper n.) Echo,ئەككو
+,,,
+wa,pron.,I,ۋا
+wu,pron.,we,ۋۇ
 na,pron.,you (informal),نا
 nu,pron.,"you (plural, informal)",نۇ
 qa,pron.,you (formal),قا
 qu,pron.,"you (plural, formal)",قۇ
+sa,pron.,she,سا
+su,pron.,they,سۇ
 ka,pron.,it,كا
 ku,pron.,they (inanimate),كۇ
 më,pron.,this,مې
 mu,pron.,these,مۇ
 chë,pron.,that,چې
 chu,pron.,those,چۇ
-chusa,n.,person; human,چۇسا
-dham,n.,tree,ذام
-dë,part.,genitive linker,دې
-ete,n.,moon,ئەتە
 fu,unit n.,unit noun for animate nouns,فۇ
 -im,suffix,1st person possessive,-ىم
 -imu,suffix,1st person possessive (plural),-ىمۇ
@@ -55,26 +62,6 @@ fu,unit n.,unit noun for animate nouns,فۇ
 -ithe,suffix,evidentiality: untrusted source,-ىثە
 -ishu,suffix,evidentiality: direct source,-ىشۇ
 ,,,
--ip,suffix,object marking,-ىپ
-mama,n.,mom,ماما
-papa,n.,dad,پاپا
-chacha,n.,older sister,چاچا
-kaka,n.,younger brother,كاكا
-klipsso,n.,"year, (proper n.) the eclipse, new year",كلىپسسو
-lë,conj.,and,لې
-mëyo,n.,cat,مېيو
--nan,suffix,subject marking,-نان
-padhu,n.,gun (general),پاذۇ
-pan,number,3,پان
-qillo,n.,law; (proper n.) Law,قىللو
-sa,pron.,she,سا
-seitin,n.,apple,سەيتىن
-seth,n.,way of speech; rhetoric; (proper n.) Quote,سەث
-silvandya,proper n.,Sylvandia,سىلڤانديا
-su,pron.,they,سۇ
--ta,suffix,"genitive marking, i.e. 's",-تا
--taik,suffix,3rd person predicate (inanimate),-تايك
--taiku,suffix,"3rd person predicate (plural, inanimate)",-تايكۇ
 -taim,suffix,1st person predicate,-تايم
 -taimu,suffix,1st person predicate (plural),-تايمۇ
 -tain,suffix,2nd person predicate (informal),-تاين
@@ -83,12 +70,34 @@ su,pron.,they,سۇ
 -taiqu,suffix,"2nd person predicate (plural, formal)",-تايقۇ
 -tais,suffix,3rd person predicate (animate),-تايس
 -taisu,suffix,"3rd person predicate (plural, animate)",-تايسۇ
-tata,n.,older brother,تاتا
--u,suffix,plural,-ۇ
-wa,pron.,I,ۋا
-wesda,n.,west,ۋەسدا
-wesdeivya,proper n.,Westavia,ۋەسدەيڤيا
-wu,pron.,we,ۋۇ
-xokksa,proper n.,God,خوككسا
-yami,n.,night,يامى
+-taik,suffix,3rd person predicate (inanimate),-تايك
+-taiku,suffix,"3rd person predicate (plural, inanimate)",-تايكۇ
+,,,
+-nan,suffix,subject marking,-نان
+-ip,suffix,object marking,-ىپ
+,,,
+lë,conj.,and,لې
+dë,part.,genitive linker,دې
+-ta,suffix,"genitive marking, i.e. 's",-تا
+,,,
+mama,n.,mom,ماما
+papa,n.,dad,پاپا
+chacha,n.,older sister,چاچا
 yaya,n.,younger sister,يايا
+tata,n.,older brother,تاتا
+kaka,n.,younger brother,كاكا
+,,,
+chusa,n.,person; human,چۇسا
+aka,n.,sun,ئاكا
+ete,n.,moon,ئەتە
+yami,n.,night,يامى
+klipsso,n.,"year, (proper n.) the eclipse, new year",كلىپسسو
+dham,n.,tree,ذام
+mëyo,n.,cat,مېيو
+seitin,n.,apple,سەيتىن
+padhu,n.,gun (general),پاذۇ
+,,,
+atla,n.,east,ئاتلا
+wesda,n.,west,ۋەسدا
+,,,
+pan,number,3,پان
