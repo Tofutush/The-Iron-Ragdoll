@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-20
+
+- Added `mice.png` and its parts;
+
 ## 2026-11-19
 
 - New stories: [Sparky Dies and Joins a Cult](/stories/sparky-dies-and-joins-a-cult/), [Sparky Dies For Real](/stories/sparky-dies-for-real/);

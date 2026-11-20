@@ -6929,5 +6929,43 @@
       "qibli"
     ],
     "comment": "Ironically she smashed her wand long ago when killing Nebula and hadn't had a replacement since."
+  },
+  {
+    "name": "mice",
+    "date": "2026-11-20",
+    "ch": [
+      "blackjack",
+      "mulberry",
+      "jumbo",
+      "tsunami"
+    ]
+  },
+  {
+    "name": "blackjack mice",
+    "date": "2026-11-20",
+    "ch": [
+      "blackjack"
+    ]
+  },
+  {
+    "name": "mulberry mice",
+    "date": "2026-11-20",
+    "ch": [
+      "mulberry"
+    ]
+  },
+  {
+    "name": "jumbo mice",
+    "date": "2026-11-20",
+    "ch": [
+      "jumbo"
+    ]
+  },
+  {
+    "name": "tsunami mice",
+    "date": "2026-11-20",
+    "ch": [
+      "tsunami"
+    ]
   }
 ]
