@@ -18,8 +18,9 @@ desc: Tofutush gets bored with her toys and kills them all.
 myTags:
   - Bauhinia
   - Froggy Island
+  - Main story
 prev:
-  - "[The Bodyguard Show](/stories/the-bodyguard-show/)"
+  - "[Elegance Kidnapped](/stories/elegance-kidnapped/)"
 ---
 
 In the summer of 2062, the two big Starcorp families — Cherry-Hyrax and Amber-Peacock, though neither of these four people came (Amber died and the others were too old and didn't want to travel) — went on a much anticipated trip to Froggy Island (oh it's named StarLand now by the way) again. Most of them hadn't been here for years, and miss their repurposed[^1] Winter Palace deeply.

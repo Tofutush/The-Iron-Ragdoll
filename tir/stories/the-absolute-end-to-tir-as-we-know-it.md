@@ -7,6 +7,7 @@ myTags:
   - Bauhinia
   - Complete
   - Moreland
+  - Main story
 time: end
 complete: true
 prev:

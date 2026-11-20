@@ -11,10 +11,11 @@ chs:
 myTags:
   - Bauhinia
   - MSS
+  - Main story
 time: 2039 - present
 desc: Qibli is now a wanted criminal. How is she doing?
 prev:
-  - "[Pearl's Journey Home - Sylvandia](/stories/pearls-journey-home-sylvandia/)"
+  - "[Pearl's Journey Home](/stories/pearls-journey-home/)"
   - "[The Magic Academy](/stories/the-magic-academy/)"
 banner: banner qibli
 ---

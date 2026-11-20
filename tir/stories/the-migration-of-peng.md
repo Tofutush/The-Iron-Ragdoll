@@ -9,9 +9,8 @@ myTags:
   - Bauhinia
   - Coastline
   - Complete
+  - Main story
 time: 2031-05
-prev:
-  - "[Sparky Turns into a Dragon](/stories/sparky-turns-into-a-dragon/)"
 ---
 
 Once in a century, Peng is coming down south!

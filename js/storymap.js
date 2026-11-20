@@ -1,10 +1,16 @@
+// drop orphans
+let parents = new Set(data.flatMap(({ parentIds }) => parentIds));
+let connected = data.filter(
+    ({ id, parentIds }) => parentIds.length > 0 || parents.has(id)
+);
+
 // ----- //
 // Setup //
 // ----- //
 
 // create our builder and turn the raw data into a graph
 const builder = d3.graphStratify();
-const graph = builder(data);
+const graph = builder(connected);
 
 // -------------- //
 // Compute Layout //

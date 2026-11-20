@@ -10,9 +10,9 @@ myTags:
   - Comic
   - Flower City
   - MSS
-  - Oneshot
   - Spy School
   - Complete
+  - Main story
 comic: true
 time: 2059-06
 prev:

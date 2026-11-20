@@ -6,6 +6,9 @@ chs:
   - sky
   - firecrackers
   - pearl
+  - jackpot
+  - snowball
+  - halcyon
 time: "2032"
 desc: The friends send a kidnapped girl home, all the way across the continent. When the journey ends, everything stays the same, and yet no one is the same anymore.
 myTags:
@@ -13,6 +16,7 @@ myTags:
   - Coastline
   - Sparky and her friends
   - Pearl's Journey Home
+  - Main story
 prev:
   - "[New Year 2032](/stories/new-year-2032/)"
 ---
@@ -36,3 +40,35 @@ February 29<sup>th</sup>, 2032. A special day in more ways than one.
 Sparky drove. Sky rode shotgun. Qibli and Firecrackers sat at the back with Pearl in the middle. They camped, slept in the car, ate junk food for meals. Finally, they arrived at the Fantoni border.
 
 They crossed without much trouble. Pearl's Bauhinian passport was used.
+
+## Fanton
+
+They got to Fanton. They had a good time there, with all the beautiful scenery and tofu. They also saw pandas. They got to the border.
+
+At the Fantoni-Westavian border, they were told that their Bauhinian-plated car was not eligible to cross the strait without a pass, which they had not applied for, and the application process could take months. They decided to hire a driver to drive the car back to Bauhinia.
+
+They then tried to take the ferry, but was subsequently told they needed adult company. They rented a boat and tried crossing to Westavia themselves — which was not illegal.
+
+The waters were calm, but Qibli still had severe ship-sickness. They had to turn back and send her on land, where she called the hired driver and went back to Bauhinia with her.
+
+Because of the time wasted on the waters, night fell, winds blew, and it was getting dangerous. When they dared lift the flap over their ship again, they found themselves at not the Westavian coast, but Atlasian.
+
+## Atlasia
+
+They got to Atlasia and met Jackpot and his son Snake in their mansion.
+
+Pearl became good friends with Snake because they were the same age.
+
+When they thanked Jackpot for his hospitality and decided to move on to Moreland, he took Sky hostage, saying that he would be released if the other kids could get 250 Moose to buy his birth control pills.
+
+Sparky, Firecrackers, and Pearl went ahead to Moreland clutching a QR code.
+
+## Moreland
+
+They got to Moreland and met the [Appaloosa Tribe](/world/moreland/appaloosa-tribe/).
+
+They also met [Halcyon](/characters/halcyon/), whom they all thought was executed, as Paperweight promised them. Apparently not. Turned out he was merely traded away. He was now living happily with his ex-mistress now-wife and kids.
+
+## Sylvandia
+
+They finally got to Sylvandia.

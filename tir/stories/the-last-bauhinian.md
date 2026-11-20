@@ -18,8 +18,9 @@ myTags:
   - Bauhinia
   - Coastline
   - Froggy Island
+  - Main story
 prev:
-  - "[Pearl's Journey Home - Sylvandia](/stories/pearls-journey-home-sylvandia/)"
+  - "[Pearl's Journey Home](/stories/pearls-journey-home/)"
 ---
 
 Peacock's family and Hyrax's family go on Hyrax's fancy private yacht to sail to Hyrax's fancy private and insanely big island, [Froggy Island](/world/bauhinia/froggy-island/). Stuff happen.

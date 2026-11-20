@@ -9,6 +9,7 @@ myTags:
   - Bauhinia
   - Flower City
   - Kismet's presidency
+  - Main story
 time: 2023 - end
 prev:
   - "[Operation Ice Age](/stories/operation-ice-age/)"

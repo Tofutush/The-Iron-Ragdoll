@@ -8,10 +8,6 @@ chs:
   - sky
   - jelly
   - checkers
-  - rose
-  - cosmo
-  - sunny
-  - thunder
   - jewel
   - blackjack
 time: "2053"
@@ -22,6 +18,7 @@ myTags:
   - MSS
   - Spy School
   - Fic
+  - Main story
 prev:
   - "[Project Boomerang](/stories/project-boomerang/)"
   - "[Poker Spies](/stories/poker-spies/)"

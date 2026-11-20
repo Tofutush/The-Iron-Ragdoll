@@ -15,9 +15,8 @@ myTags:
   - Coastline
   - Sparky and her friends
   - Complete
+  - Oneshot
 time: 2031-04
-prev:
-  - "[Coastline Middle School Mysteries](/stories/cms-mysteries/)"
 complete: true
 ---
 

@@ -8,8 +8,9 @@ desc: Candlelight gets an annoying suicide watch target and ends up quitting his
 myTags:
   - Westavia
   - Area 1
+  - Main story
 prev:
-  - "[The Occupation](/stories/the-occupation/)"
+  - "[Nameless Village Backstory](/stories/nameless-village-backstory/)"
 ---
 
 Candlelight, a young and eager [SPF](/world/westavia/spf/) officer, is assigned his first very-own actual suicide watch target: Sunflower, a middle school girl who paracosms[^1].

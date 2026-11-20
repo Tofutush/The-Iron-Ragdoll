@@ -1,16 +1,16 @@
 ---
 title: The Bodyguard Show
+desc: Sparky goes on a reality show.
 chs:
   - sparky
   - animus
   - holly
+  - galaxy
 time: "2047"
-desc: Sparky goes on a reality show.
 myTags:
   - Bauhinia
   - Coastline
-prev:
-  - "[Elegance Kidnapped](/stories/elegance-kidnapped)"
+  - Oneshot
 ---
 
 Animus suddenly fell sick and was advised to not leave the house for a month, so Sparky has the entire month to herself.

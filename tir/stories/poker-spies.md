@@ -11,12 +11,13 @@ myTags:
   - Bauhinia
   - Fanton
   - MSS
+  - Main story
 time: 2041 - 2044
 desc: The story of four spies in the Fantoni invasion war.
 tags:
   - poker-spies
 prev:
-  - "[Pearl's Journey Home - Sylvandia](/stories/pearls-journey-home-sylvandia/)"
+  - "[Pearl's Journey Home](/stories/pearls-journey-home/)"
 banner: banner sky
 ---
 

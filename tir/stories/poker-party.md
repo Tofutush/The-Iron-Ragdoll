@@ -11,6 +11,7 @@ myTags:
   - Flower City
   - MSS
   - Spy School
+  - Main story
 prev:
   - "[Spy School](/stories/spy-school/)"
 banner: banner harmony

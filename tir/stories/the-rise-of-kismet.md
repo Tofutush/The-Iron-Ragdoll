@@ -10,6 +10,7 @@ myTags:
   - Flower City
   - Bauhinia
   - Kismet's presidency
+  - Main story
 complete: true
 ---
 

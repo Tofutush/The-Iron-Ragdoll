@@ -54,18 +54,6 @@ As for formal and informal, I hope you know when to use which because I sure as 
 | 3rd (animate)   | سا       | سۇ     |
 | 3rd (inanimate) | كا       | كۇ     |
 
-### Plural: ۇ
-
-You add ۇ to the end of a word to make it plural. Always gets added first, before any other case marking.
-
-"Plural" only applies to figurative speech. If the things you're describing are certain and concrete, no plural gets applied, and you need to use a [unit noun](#unit-nouns).
-
-| English | سەث         |
-| ------- | ----------- |
-| Apples  | سەيتىن==ۇ== |
-| Nights  | يامى==ۇ==   |
-| Guns    | پاذۇ        |
-
 ### Unit nouns
 
 Most, if not all, nouns in Bauhinian are uncountable in the English sense. For English uncountable nouns, you can specify quantity with a unit noun, like the "cup" in "two cups of water." In Bauhinian, all (or most, who knows) nouns are like that. Each noun will have one or more unit nouns applicable to them.
@@ -74,13 +62,20 @@ Many normal nouns, especially that of containers, such as "cup," "bottle," or "s
 
 | Usage                                 | سەث |
 | ------------------------------------- | --- |
-| Animate (people, institutions)        | فۇ  |
+| Animate (people, organizations)       | فۇ  |
 | Animals                               |     |
 | Sheets (thin stuff)                   |     |
 | Blocks (blocky stuff)                 |     |
 | Lumps (half-solid stuff, like yogurt) |     |
 
 Example usage: <span dir="rtl">پان فۇ چۇكا</span> (three people).
+
+Some unit nouns describe quantity.
+
+| Usage | سەث |
+| ----- | --- |
+| Some  |     |
+| A lot |     |
 
 ### Possessive
 
@@ -187,8 +182,11 @@ Evidentiality:
 | Dubious source (heard it from someone I'm not sure whether to trust) | -ىثو |
 | Direct source (heard it from the subject in question)                | -ىشۇ |
 
-> [!Note]+
-> Note the last one: "heard it from the subject in question." This is used in contexts such as "Sparky told me she would eat dinner." If you want to express it, Bauhinians often say "Sparky would eat dinner" with the evidentiality of that. If it were "Sparky told me Nightsun would eat dinner," this stops being applicable (because Sparky isn't saying information about herself) and instead you either say the entire sentence, or say "Nightsun would eat dinner" with evidentiality set to however much you trust Sparky — though in the latter case you wouldn't be conveying that Sparky specifically told you that.
+> [!note]+ On universal
+> This isn't just for universal facts like the Sun rising in the west; its usage restriction is very loose. "You know" can essentially be expressed with this.
+
+> [!Note]+ On direct source
+> Direct source is used in contexts such as "Sparky told me she would eat dinner." If you want to express it, Bauhinians often say "Sparky would eat dinner" with the evidentiality of that. If it were "Sparky told me Nightsun would eat dinner," this stops being applicable (because Sparky isn't saying information about herself) and instead you either say the entire sentence, or say "Nightsun would eat dinner" with evidentiality set to however much you trust Sparky — though in the latter case you wouldn't be conveying that Sparky specifically told you that.
 
 Epistemic modality:
 
@@ -247,3 +245,5 @@ Adjectives go after the nouns and verbs they're describing.
 ## Clauses
 
 Oh my God. Anyway, clauses are essentially sentences in the places of what would originally be nouns or adjectives.
+
+## Derivations

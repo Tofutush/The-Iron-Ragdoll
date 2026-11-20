@@ -14,6 +14,7 @@ myTags:
   - Bauhinia
   - Flower City
   - MSS
+  - Main story
 tags:
   - gambit-five
 desc: Goose hunts for the deepest spy ring in Bauhinia.
