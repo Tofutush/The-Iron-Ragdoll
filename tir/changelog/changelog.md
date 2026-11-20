@@ -8,7 +8,7 @@ eleventyNavigation:
 ## 2026-11-19
 
 - New stories: [Sparky Dies and Joins a Cult](/stories/sparky-dies-and-joins-a-cult/), [Sparky Dies For Real](/stories/sparky-dies-for-real/);
-- Added [Main story](/stories/tag/main-story/) tags to the main stories, to complement oneshots and backstories;
+- Added [Main story](/stories/tag/main-story/) tags to the main stories, to complement [oneshots](/stories/tag/oneshot/) and [backstories](/stories/tag/backstory/);
 - Removed orphans from the [story map](/stories/map/);
 - Removed some boring [oneshots](/stories/oneshots/);
 

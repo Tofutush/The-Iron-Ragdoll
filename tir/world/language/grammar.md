@@ -224,11 +224,11 @@ Another type of modality is deontic modality, which are things like "must," "can
 Deontic modality is of course not required in speech, and are expressed as prefixes on verbs when present.
 
 | English                 | سەث |
-| ----------------------- | ---------------- |
-| Must (high obligation)  |                  |
-| Should (low obligation) |                  |
-| May (permission)        |                  |
-| Can (ability)           |                  |
+| ----------------------- | --- |
+| Must (high obligation)  |     |
+| Should (low obligation) |     |
+| May (permission)        |     |
+| Can (ability)           |     |
 
 ### Tense & aspect
 
@@ -242,8 +242,36 @@ In Bauhinian both nouns and verbs use adjectives to be described (so there aren'
 
 Adjectives go after the nouns and verbs they're describing.
 
-## Clauses
+## Easy clauses
 
-Oh my God. Anyway, clauses are essentially sentences in the places of what would originally be nouns or adjectives.
+Stuff like if / then, although / but. These are just conjunctions. They're completely normal. Nothing weird. I don't wanna think about it.
+
+| English          | سەث | English              | سەث |
+| ---------------- | --- | -------------------- | --- |
+| If               |     | Then                 |     |
+| Because          |     | So                   |     |
+| Although         |     | But                  |     |
+| Or (can be both) |     | Xor (cannot be both) |     |
+
+One thing about clauses here is that for the pairs, like if / then and because / so, there's a leading clause (the one created by "if" and "because") and a subordinate clause (the one created by "then" and "so.") If the leading clause precedes the subordinate clause, the leading conjunction can be omitted, but they can both be present (as contrasted with English). If the leading is after the subordinate, *only* the leading one should be present. To illustrate:
+
+| Sentence                                              | Valid in Bauhinian? |
+| ----------------------------------------------------- | ------------------- |
+| ==Because== the weather is bad, ==so== I stay inside. | Yes.                |
+| The weather is bad, ==so== I stay inside.             | Yes.                |
+| ==Because== the weather is bad, I stay inside.        | No.                 |
+| ==So== I stay inside, ==because== the weather is bad. | No.                 |
+| I stay inside, ==because== the weather is bad.        | Yes.                |
+| ==So== I stay inside, the weather is bad.             | No.                 |
+
+## Annoying clauses
+
+Oh my God. Anyway, annoying clauses are essentially sentences in the places of what would originally be nouns or adjectives. This is just English. Clauses can go to hell.
 
 ## Derivations
+
+Or, how to turn a type of verb into another!
+
+### Verb to noun
+
+### Noun to other noun

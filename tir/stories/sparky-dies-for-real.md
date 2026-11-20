@@ -13,6 +13,8 @@ chs:
   - nightsun
 time: 2050-06-13
 complete: true
+prev:
+  - "[Elegance Kidnapped](/stories/elegance-kidnapped/)"
 ---
 
 Sparky was sitting in Animus' home at the roof of the Starcorp skyscraper, drinking. It was a Blood Moon and she climbed on the railing, wanting to pluck the moon out of the sky. She fell down due to imbalance from intoxication. See ya sucka.
