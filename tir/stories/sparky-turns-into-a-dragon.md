@@ -24,19 +24,27 @@ complete: true
 
 One weekend in April, Sparky and her friends were walking by a river when they noticed a big gate thing positioned across the two banks. Sparky, being Sparky, decided to jump over it. She managed to do it because of her superstrength.
 
+### The heading 3
+
 She turned into a dragon.
 
 She tried turning back by jumping over again from the other side, but she turned into a fish instead. She opted to over to the dragon side again.
 
+#### The heading 4
+
 Now, her friends didn't know how to turn her back and didn't want to. They figured out how to make Sparky spit water and started using her as a water hose, spraying everywhere. They put out a fire and got on the news, which alerted the cops.
 
 {% image "sparky dragon" 1000 "Sparky putting out the fire" 'max' %}
+
+##### The heading 5
 
 ## The station
 
 They found Sparky and really didn't know what to do with her. They called the MSS, called over a slopping wet Mr. Jam (guess why), and spent the rest of their time shutting up the media. The MSS contacted the Arch-Magician, and Nebula came over to the police station, apologizing profusely that she took the gate out for a class demonstration yesterday but forgot to take it back.
 
 Before Nebula could cast the spell, a group of fishers burst into the police station. "Yet another day with no catch!" they yelled. "You have to go investigate!"
+
+###### The heading 6
 
 Turns out, fishers have not been able to catch a single fish in Honeypot Lake for weeks. They think something weird is happening, and have been requesting an investigation, preferably with submarines and scuba-divers; but the police insist that they had simply fished the lake to depletion.
 

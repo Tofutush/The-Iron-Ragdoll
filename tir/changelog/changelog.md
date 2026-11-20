@@ -11,6 +11,7 @@ eleventyNavigation:
 - Added [Main story](/stories/tag/main-story/) tags to the main stories, to complement [oneshots](/stories/tag/oneshot/) and [backstories](/stories/tag/backstory/);
 - Removed orphans from the [story map](/stories/map/);
 - Removed some boring [oneshots](/stories/oneshots/);
+- Changed heading styles again;
 
 ## 2026-11-16
 
