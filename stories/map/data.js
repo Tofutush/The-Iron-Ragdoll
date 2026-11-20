@@ -4,8 +4,6 @@ const data = [
         id: "Coastline Middle School Mysteries",
         parentIds: [
             
-                "Peacock's Backstory",
-            
         ],
         url: "/stories/cms-mysteries/"
     },
@@ -14,8 +12,6 @@ const data = [
         id: "Sparky Turns into a Dragon",
         parentIds: [
             
-                "Coastline Middle School Mysteries",
-            
         ],
         url: "/stories/sparky-turns-into-a-dragon/"
     },
@@ -23,8 +19,6 @@ const data = [
     {
         id: "The Migration of Peng",
         parentIds: [
-            
-                "Sparky Turns into a Dragon",
             
         ],
         url: "/stories/the-migration-of-peng/"
@@ -42,7 +36,7 @@ const data = [
             
                 "Paperweight's Backstory",
             
-                "The Migration of Peng",
+                "Coastline Middle School Mysteries",
             
         ],
         url: "/stories/a-nuke-from-moreland/"
@@ -69,50 +63,6 @@ const data = [
     },
 
     {
-        id: "Pearl's Journey Home - Fanton",
-        parentIds: [
-            
-                "Pearl's Journey Home",
-            
-        ],
-        url: "/stories/pearls-journey-home-fanton/"
-    },
-
-    {
-        id: "Pearl's Journey Home - Atlasia",
-        parentIds: [
-            
-                "Pearl's Journey Home - Fanton",
-            
-                "Jackpot's Backstory",
-            
-        ],
-        url: "/stories/pearls-journey-home-atlasia/"
-    },
-
-    {
-        id: "Pearl's Journey Home - Moreland",
-        parentIds: [
-            
-                "Pearl's Journey Home - Atlasia",
-            
-        ],
-        url: "/stories/pearls-journey-home-moreland/"
-    },
-
-    {
-        id: "Pearl's Journey Home - Sylvandia",
-        parentIds: [
-            
-                "Pearl's Journey Home - Moreland",
-            
-                "Buttercup's Backstory",
-            
-        ],
-        url: "/stories/pearls-journey-home-sylvandia/"
-    },
-
-    {
         id: "The Magic Academy",
         parentIds: [
             
@@ -126,7 +76,7 @@ const data = [
         id: "The Last Bauhinian",
         parentIds: [
             
-                "Pearl's Journey Home - Sylvandia",
+                "Pearl's Journey Home",
             
         ],
         url: "/stories/the-last-bauhinian/"
@@ -156,7 +106,7 @@ const data = [
         id: "Sunflowers in the Dark",
         parentIds: [
             
-                "The Occupation",
+                "Nameless Village Backstory",
             
         ],
         url: "/stories/sunflowers-in-the-dark/"
@@ -178,7 +128,7 @@ const data = [
         id: "Qibli on the Run",
         parentIds: [
             
-                "Pearl's Journey Home - Sylvandia",
+                "Pearl's Journey Home",
             
                 "The Magic Academy",
             
@@ -190,17 +140,31 @@ const data = [
         id: "The Bodyguard Show",
         parentIds: [
             
-                "Elegance Kidnapped",
-            
         ],
         url: "/stories/the-bodyguard-show/"
+    },
+
+    {
+        id: "Sparky Dies and Joins a Cult",
+        parentIds: [
+            
+        ],
+        url: "/stories/sparky-dies-and-joins-a-cult/"
+    },
+
+    {
+        id: "Sparky Dies For Real",
+        parentIds: [
+            
+        ],
+        url: "/stories/sparky-dies-for-real/"
     },
 
     {
         id: "The Starcorp Massacre",
         parentIds: [
             
-                "The Bodyguard Show",
+                "Elegance Kidnapped",
             
         ],
         url: "/stories/the-starcorp-massacre/"
@@ -248,7 +212,7 @@ const data = [
         id: "Poker Spies",
         parentIds: [
             
-                "Pearl's Journey Home - Sylvandia",
+                "Pearl's Journey Home",
             
         ],
         url: "/stories/poker-spies/"
@@ -405,8 +369,6 @@ const data = [
     {
         id: "The Occupation",
         parentIds: [
-            
-                "Nameless Village Backstory",
             
         ],
         url: "/stories/the-occupation/"
