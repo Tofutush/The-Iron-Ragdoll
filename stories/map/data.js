@@ -156,6 +156,8 @@ const data = [
         id: "Sparky Dies For Real",
         parentIds: [
             
+                "Elegance Kidnapped",
+            
         ],
         url: "/stories/sparky-dies-for-real/"
     },
@@ -164,7 +166,7 @@ const data = [
         id: "The Starcorp Massacre",
         parentIds: [
             
-                "Elegance Kidnapped",
+                "Sparky Dies For Real",
             
         ],
         url: "/stories/the-starcorp-massacre/"
