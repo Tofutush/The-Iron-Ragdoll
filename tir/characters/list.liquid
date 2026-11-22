@@ -39,15 +39,15 @@ eleventyNavigation:
 			{% for ch in characters %}
 				<tr>
 					<td>{{ forloop.index }}</td>
-					<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></td>
+					<td><a href="/characters/{{ ch.name | downcase }}/">{{ ch.name }}</a></td>
 					<td>{{ ch.namezh }}</td>
 					<td dir="rtl">{{ ch.namebh }}</td>
 					{% assign filteredGallery = gallery | filterGallery: ch.name %}
-					<td><a href="/characters/{{ ch.name | lowerCase }}/{% if filteredGallery.size > 10 %}gallery/{% else %}#gallery{% endif %}">{{ filteredGallery.size }}</a></td>
+					<td><a href="/characters/{{ ch.name | downcase }}/{% if filteredGallery.size > 10 %}gallery/{% else %}#gallery{% endif %}">{{ filteredGallery.size }}</a></td>
 					{% assign lastDrawn = filteredGallery | getOnlyMyArt %}
 					<td>{{ lastDrawn[0].date }}</td>
 					<td>{{ ch.attr.Birth }}</td>
-					<td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upperCase }}</td>
+					<td class="color" style="background-color: {{ ch.color }}; color: {{ ch.color | calculateBlackWhite }}">{{ ch.color | to6DigitHex | upcase }}</td>
 				</tr>
 			{% endfor %}
 		</tbody>

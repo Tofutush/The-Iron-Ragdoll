@@ -7,7 +7,7 @@ ch: [
 {
 id: "{{ ch.name }}",
 color: "{{ ch.color }}",
-img: "{% assign name = ch.name | lowerCase | append: ' thumb' %}{% capture url %}{% imageUrl name 200 %}{% endcapture %}{{ url | htmlBaseUrl }}",
+img: "{% assign name = ch.name | downcase | append: ' thumb' %}{% capture url %}{% imageUrl name 200 %}{% endcapture %}{{ url | htmlBaseUrl }}",
 },
 {% endfor %}
 ],

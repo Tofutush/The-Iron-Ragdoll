@@ -44,7 +44,7 @@ eleventyNavigation:
 				{% if soul.length == 0 or thumb.length == 0 or profile.length == 0 or fullbody.length == 0 or pagedoll.length == 0 or ref.length == 0 %}
 					{% assign prevTotal = total %}
 					<tr>
-						<td><a href="/characters/{{ ch.name | lowerCase }}/">{{ ch.name }}</a></th>
+						<td><a href="/characters/{{ ch.name | downcase }}/">{{ ch.name }}</a></th>
 						<td>{% if soul.length == 0 %}Soul{% else %}{% assign total = total | plus: 1 %}{% endif %}</td>
 						<td>{% if thumb.length == 0 %}Thumb{% else %}{% assign total = total | plus: 1 %}{% endif %}</td>
 						<td>{% if profile.length == 0 %}Profile{% else %}{% assign total = total | plus: 1 %}{% endif %}</td>

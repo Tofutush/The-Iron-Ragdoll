@@ -11,7 +11,7 @@ topToc: true
 <link rel="stylesheet" href="/css/calendar.css"/>
 {% for month in calendar %}
 <div class="calendar">
-  <div><h2 id="{{ month.name | lowerCase }}">{{ month.name }}</h2></div>
+  <div><h2 id="{{ month.name | downcase }}">{{ month.name }}</h2></div>
   {% for day in month.days %}
     <div>
       <div class="number{% if day.bdays.holidays %} has-holiday tooltip{% endif %}">

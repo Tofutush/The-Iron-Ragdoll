@@ -5,15 +5,15 @@ pagination:
   size: 1
   alias: ch
   addAllPagesToCollections: true
-permalink: "characters/{{ ch.name | lowerCase }}/gallery/"
+permalink: "characters/{{ ch.name | downcase }}/gallery/"
 eleventyComputed:
   title: "{{ ch.name }}'s Gallery"
   navTitle: "Gallery"
   desc: "{{ ch.name }}'s gallery."
-  banner: "banner {{ ch.name | lowerCase }}"
+  banner: "banner {{ ch.name | downcase }}"
   themeColor: "{{ ch.color }}"
   iconColor: "{{ ch.color }}"
-  image: "{% assign iconPath = ch.name | lowerCase | append: ' thumb' %}{% assign profilePath = ch.name | lowerCase | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl profilePath 200 0 iconPath %}"
+  image: "{% assign iconPath = ch.name | downcase | append: ' thumb' %}{% assign profilePath = ch.name | downcase | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl profilePath 200 0 iconPath %}"
   parent: "{{ ch.name }}"
 toc: true
 sideTocOnly: true

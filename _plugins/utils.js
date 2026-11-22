@@ -12,15 +12,6 @@ function utilPlugin(eleventyConfig) {
 	}).use(markdownItExternalLinks, {
 		externalTarget: '_blank'
 	});
-	eleventyConfig.addFilter('lowerCase', function (s) {
-		return s.toLowerCase();
-	});
-	eleventyConfig.addFilter('upperCase', function (s) {
-		return s.toUpperCase();
-	});
-	eleventyConfig.addFilter('capitalize', function (s) {
-		return s[0].toUpperCase() + s.slice(1);
-	});
 	eleventyConfig.addFilter('padStart', function (n, num, token) {
 		return n.toString().padStart(num, token);
 	});
@@ -45,8 +36,6 @@ function utilPlugin(eleventyConfig) {
 		return mdRender.render(rawString);
 	});
 	eleventyConfig.addFilter('fileExists', function (filename) {
-		console.log(filename, existsSync('tir/' + filename));
-
 		return existsSync('tir/' + filename);
 	});
 	eleventyConfig.addFilter('slice', function (str, s, e) {
