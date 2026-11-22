@@ -51,6 +51,6 @@ The last emperor before the end of the Empire; intentionally yet ironically name
 
 ## Characters
 
-{% assign filteredChs = characters | filterChByTag: 'Bauhinian Empire' %}
+{% assign filteredChs = 'Bauhinian Empire' | filterChByTag %}
 
 {% include 'chs', chs: filteredChs %}

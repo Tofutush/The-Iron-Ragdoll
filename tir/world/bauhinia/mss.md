@@ -31,7 +31,7 @@ That being said, most MSS agents operate in plain clothes, similar to how normal
 
 ## Members
 
-{% assign filteredChs = characters | filterChByTag: 'Ministry of State Security' %}
+{% assign filteredChs = 'Ministry of State Security' | filterChByTag %}
 
 {% include 'chs', chs: filteredChs %}
 

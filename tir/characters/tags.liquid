@@ -13,7 +13,7 @@ eleventyComputed:
   navTitle: "{{ tagName }}"
   key: "chs-{{ tagName }}"
 ---
-{% assign filteredChs = characters | filterChByTag: tagName %}
+{% assign filteredChs = tagName | filterChByTag %}
 {% include 'chs', chs: filteredChs %}
 {% assign slugged = tagName | slug %}
 {% if collections[slugged] %}

@@ -10,6 +10,6 @@ categories:
 
 ## Characters
 
-{% assign filteredChs = characters | filterChByTag: 'CRS' %}
+{% assign filteredChs = 'CRS' | filterChByTag %}
 
 {% include 'chs', chs: filteredChs %}
