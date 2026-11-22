@@ -22,10 +22,6 @@ myTags:
   - Sparky and her friends
   - Fic
 prev:
-  - "[Pumpkin's Backstory](/stories/pumpkin-backstory/)"
-  - "[Goose's Backstory](/stories/goose-backstory/)"
-  - "[Halcyon's Backstory](/stories/halcyon-backstory/)"
-  - "[Paperweight's Backstory](/stories/paperweight-backstory/)"
   - "[Coastline Middle School Mysteries](/stories/cms-mysteries/)"
 ---
 
