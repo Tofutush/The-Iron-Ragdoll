@@ -53,6 +53,11 @@ parent: Characters
       {% endif %}
     </div>
   </div>
+  {% assign hasBackstory = 'characters/backstory/' | append: ch.name | lowerCase | append: '.md' | fileExists %}
+  {% if hasBackstory or big %}
+    <section class="nav-wrap">
+      <section>
+  {% endif %}
   <h2 id="contents" class="fancy">Contents</h2>
   <section class="contents">
     {% if ch.about %}<a href="#about">About</a>{% endif %}
@@ -65,6 +70,17 @@ parent: Characters
     <a href="#reference">Reference</a>
     {% if filteredGallery.size > 0 %}<a href="#gallery">Gallery</a>{% endif %}
   </section>
+  {% if hasBackstory or big %}
+      </section>
+      <section>
+        <h2 id="subfiles" class="fancy">Subfiles</h2>
+        <section class="contents">
+          {% if big %}<a href="gallery/">Gallery</a>{% endif %}
+          {% if hasBackstory %}<a href="backstory/">Backstory</a>{% endif %}
+        </section>
+      </section>
+    </section>
+  {% endif %}
   {% if ch.attr or ch.tags %}
     <h2 id="info" class="fancy">Info</h2>
     <dl>

@@ -2,6 +2,7 @@ import markdownIt from "markdown-it";
 import markdownItExternalLinks from "markdown-it-external-links";
 import holidays from '../_data/holidays.json' with { type: 'json' };
 import characters from '../_data/characters.json' with { type: 'json' };
+import { existsSync } from "fs";
 
 function utilPlugin(eleventyConfig) {
 	const mdRender = new markdownIt({
@@ -42,6 +43,11 @@ function utilPlugin(eleventyConfig) {
 	});
 	eleventyConfig.addFilter('renderMD', function (rawString) {
 		return mdRender.render(rawString);
+	});
+	eleventyConfig.addFilter('fileExists', function (filename) {
+		console.log(filename, existsSync('tir/' + filename));
+
+		return existsSync('tir/' + filename);
 	});
 	eleventyConfig.addFilter('slice', function (str, s, e) {
 		return str.slice(s, e ? e : str.length);
