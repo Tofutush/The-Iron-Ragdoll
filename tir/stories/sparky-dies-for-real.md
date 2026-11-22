@@ -11,7 +11,7 @@ chs:
   - animus
   - peacock
   - nightsun
-time: 2050-06-13
+time: 2050-06-23
 complete: true
 prev:
   - "[Elegance Kidnapped](/stories/elegance-kidnapped/)"
