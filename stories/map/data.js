@@ -28,14 +28,6 @@ const data = [
         id: "A Nuke From Moreland",
         parentIds: [
             
-                "Pumpkin's Backstory",
-            
-                "Goose's Backstory",
-            
-                "Halcyon's Backstory",
-            
-                "Paperweight's Backstory",
-            
                 "Coastline Middle School Mysteries",
             
         ],
@@ -300,64 +292,6 @@ const data = [
             
         ],
         url: "/stories/tadlet-kingdom-adventures/"
-    },
-
-    {
-        id: "Buttercup's Backstory",
-        parentIds: [
-            
-        ],
-        url: "/stories/buttercup-backstory/"
-    },
-
-    {
-        id: "Goose's Backstory",
-        parentIds: [
-            
-        ],
-        url: "/stories/goose-backstory/"
-    },
-
-    {
-        id: "Halcyon's Backstory",
-        parentIds: [
-            
-        ],
-        url: "/stories/halcyon-backstory/"
-    },
-
-    {
-        id: "Paperweight's Backstory",
-        parentIds: [
-            
-        ],
-        url: "/stories/paperweight-backstory/"
-    },
-
-    {
-        id: "Jackpot's Backstory",
-        parentIds: [
-            
-        ],
-        url: "/stories/jackpot-backstory/"
-    },
-
-    {
-        id: "Peacock's Backstory",
-        parentIds: [
-            
-        ],
-        url: "/stories/peacock-backstory/"
-    },
-
-    {
-        id: "Pumpkin's Backstory",
-        parentIds: [
-            
-                "Nameless Village Backstory",
-            
-        ],
-        url: "/stories/pumpkin-backstory/"
     },
 
     {

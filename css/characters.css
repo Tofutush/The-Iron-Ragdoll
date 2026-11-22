@@ -78,6 +78,15 @@ blockquote {
 	}
 }
 
+.nav-wrap {
+	display: flex;
+	flex-wrap: wrap;
+
+	& section {
+		flex: 1;
+	}
+}
+
 .fancy {
 	display: flex;
 	align-items: center;
@@ -147,6 +156,7 @@ blockquote {
 		margin-top: .5em;
 		color: var(--text);
 		border: none;
+		padding: 0;
 	}
 }
 
