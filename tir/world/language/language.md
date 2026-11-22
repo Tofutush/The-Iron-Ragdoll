@@ -28,12 +28,16 @@ By the way, since the TIR people have only one language, there isn't really a co
 
 Here are some important features of Bauhinian. Most will probably not make it into the speak-able version of the conlang, but we can pretend they exist.
 
-- There are like a billion terms ranging from "this person annoys me" to "this person is my arch-nemesis."
+- Uses the Arabic writing system (right to left, top to down).
+- You talk about everyone, from friends to partners, as basically "I'm on good terms with this person" and it's like super hard to get more specific than that. People would go like "this is the person I'm on good terms with!" and your friends would go "ooooohhhhhh" and you'd say "not *that* kind of good terms!!!"
+- But there are like a billion terms ranging from "this person annoys me" to "this person is my arch-nemesis."
 - Espionage jargon is baked into the language.
 - Questions are worded completely differently when in normal contexts and in interrogations. Grammatically they are called "asking questions" and "requesting information," respectively. Exams are usually worded like "asking questions," except the exams at [Ministry Affiliate](/world/bauhinia/ministry-affiliate/) which like the tone of "requesting information."
 - There are a shitton of different ways to say someone died, depending on the identity of said dead person and the way they died.
 - Sounds like j, q, and x are more common in Ancient Bauhinian, and are used in Modern Bauhinian mostly as more archaic and literary words. Saying "can't even pronounce j, q, x" is used to insult someone's intelligence.
-	- Ancient Bauhinian words in Modern Bauhinian are also often spelled with double consonants in random places for no fucking reason.
+	- Near the south, j, q, x sounds are often replaced with z, c, s for those who can't pronounce it; while near the north they tend to be replaced with zh, ch, sh.
+	- Although there are more proper j, q, x pronouncers in the south.
+- Ancient Bauhinian words in Modern Bauhinian are also often spelled with double consonants in random places for no fucking reason.
 - Adjectives in Bauhinian can be emphasized by repeating the first syllable as many times as you'd like. For example, take the adjective "tungsahur." If someone says "tung-tung-tungsahur," it means "very very tungsahur."
 - In different contexts, "please" is expressed differently. Examples include
 	- "If you don't mind" (inquiries)

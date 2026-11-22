@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-21
+
+- Added `sparky cult.png`, `peach thumb.png`, `proxy thumb.png`;
+
 ## 2026-11-20
 
 - Added `mice.png` and its parts;

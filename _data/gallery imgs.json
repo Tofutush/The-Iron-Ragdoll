@@ -6967,5 +6967,28 @@
     "ch": [
       "tsunami"
     ]
+  },
+  {
+    "name": "sparky cult",
+    "date": "2026-11-21",
+    "ch": [
+      "sparky"
+    ]
+  },
+  {
+    "name": "peach thumb",
+    "date": "2026-11-21",
+    "ch": [
+      "peach"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "proxy thumb",
+    "date": "2026-11-21",
+    "ch": [
+      "proxy"
+    ],
+    "kind": "thumb"
   }
 ]
