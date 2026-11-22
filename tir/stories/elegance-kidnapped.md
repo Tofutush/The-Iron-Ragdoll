@@ -10,7 +10,6 @@ desc: Elegance gets kidnapped. Sparky refuses to leave her side and also gets ki
 myTags:
   - Bauhinia
   - Coastline
-  - Main story
 prev:
   - "[The Last Bauhinian](/stories/the-last-bauhinian/)"
 ---

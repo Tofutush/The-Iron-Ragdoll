@@ -17,7 +17,6 @@ myTags:
   - Coastline
   - Sparky and her friends
   - Pearl's Journey Home
-  - Main story
 prev:
   - "[A Nuke From Moreland](/stories/a-nuke-from-moreland/)"
 ---

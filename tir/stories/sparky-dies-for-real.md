@@ -4,7 +4,6 @@ desc: Sparky just dies.
 myTags:
   - Bauhinia
   - Coastline
-  - Main story
   - Complete
 chs:
   - sparky

@@ -9,7 +9,6 @@ myTags:
   - Bauhinia
   - Coastline
   - MSS
-  - Main story
 prev:
   - "[A Nuke From Moreland](/stories/a-nuke-from-moreland/)"
 ---

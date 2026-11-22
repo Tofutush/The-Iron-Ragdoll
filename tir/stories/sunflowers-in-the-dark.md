@@ -8,7 +8,6 @@ desc: Candlelight gets an annoying suicide watch target and ends up quitting his
 myTags:
   - Westavia
   - Area 1
-  - Main story
 prev:
   - "[Nameless Village Backstory](/stories/nameless-village-backstory/)"
 ---

@@ -16,7 +16,6 @@ myTags:
   - Coastline
   - Sparky and her friends
   - Pearl's Journey Home
-  - Main story
 prev:
   - "[New Year 2032](/stories/new-year-2032/)"
 ---

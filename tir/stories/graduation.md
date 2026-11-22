@@ -12,7 +12,6 @@ myTags:
   - MSS
   - Spy School
   - Complete
-  - Main story
 comic: true
 time: 2059-06
 prev:

@@ -18,7 +18,6 @@ myTags:
   - Bauhinia
   - Coastline
   - Froggy Island
-  - Main story
 prev:
   - "[Pearl's Journey Home](/stories/pearls-journey-home/)"
 ---

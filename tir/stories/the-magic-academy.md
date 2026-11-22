@@ -7,7 +7,6 @@ chs:
 myTags:
   - Bauhinia
   - Coastline
-  - Main story
 time: 2030 - 2035
 desc: Qibli and Trinket attend Magic Academy.
 tags:

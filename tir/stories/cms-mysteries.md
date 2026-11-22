@@ -20,7 +20,6 @@ myTags:
   - Coastline
   - CMS
   - Sparky and her friends
-  - Main story
 ---
 
 Sparky is a girl who clinged on her mom too much, hated her stepdad and half-sister, and was about to start middle school.

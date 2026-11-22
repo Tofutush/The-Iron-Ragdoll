@@ -9,7 +9,6 @@ myTags:
   - Bauhinia
   - Fanton
   - Kismet's presidency
-  - Main story
 prev:
   - "[Project Boomerang](/stories/project-boomerang/)"
 ---

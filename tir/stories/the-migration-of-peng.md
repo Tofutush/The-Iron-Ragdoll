@@ -9,7 +9,6 @@ myTags:
   - Bauhinia
   - Coastline
   - Complete
-  - Main story
 time: 2031-05
 ---
 

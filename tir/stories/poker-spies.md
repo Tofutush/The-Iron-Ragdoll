@@ -11,7 +11,6 @@ myTags:
   - Bauhinia
   - Fanton
   - MSS
-  - Main story
 time: 2041 - 2044
 desc: The story of four spies in the Fantoni invasion war.
 tags:

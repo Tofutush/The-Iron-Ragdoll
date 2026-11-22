@@ -14,7 +14,6 @@ myTags:
   - Bauhinia
   - Flower City
   - Spy School
-  - Main story
 prev:
   - "[Poker Party](/stories/poker-party/)"
 banner: banner harmony

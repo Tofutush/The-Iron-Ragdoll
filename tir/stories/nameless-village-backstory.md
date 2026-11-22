@@ -11,7 +11,6 @@ time: 1950 - present
 desc: Backstory of the characters in the Nameless Village. Condensed into one as some points overlap.
 myTags:
   - Area 1
-  - Backstory
   - Westavia
   - Nameless village
   - Complete

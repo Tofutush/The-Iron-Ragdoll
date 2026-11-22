@@ -13,7 +13,6 @@ desc: Bauhinia initiated a top-secret project to develop the time machine.
 myTags:
   - Bauhinia
   - Kismet's presidency
-  - Main story
 prev:
   - "[The Rise of Kismet](/stories/the-rise-of-kismet/)"
 ---

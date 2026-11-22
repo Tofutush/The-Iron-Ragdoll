@@ -18,7 +18,6 @@ desc: Tofutush gets bored with her toys and kills them all.
 myTags:
   - Bauhinia
   - Froggy Island
-  - Main story
 prev:
   - "[Sparky Dies For Real](/stories/sparky-dies-for-real/)"
 ---

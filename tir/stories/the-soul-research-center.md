@@ -9,7 +9,6 @@ time: 2050s something
 myTags:
   - Flower City
   - Bauhinia
-  - Main story
 prev:
   - "[Coastline Middle School Mysteries](/stories/cms-mysteries/)"
 ---
