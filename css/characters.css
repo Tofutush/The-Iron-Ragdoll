@@ -146,10 +146,7 @@ blockquote {
 	h3 {
 		margin-top: .5em;
 		color: var(--text);
-
-		&::before {
-			content: '';
-		}
+		border: none;
 	}
 }
 
