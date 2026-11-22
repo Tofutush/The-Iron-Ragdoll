@@ -2,6 +2,7 @@ import markdownIt from "markdown-it";
 import markdownItExternalLinks from "markdown-it-external-links";
 import holidays from '../_data/holidays.json' with { type: 'json' };
 import characters from '../_data/characters.json' with { type: 'json' };
+import { existsSync } from "fs";
 
 function utilPlugin(eleventyConfig) {
 	const mdRender = new markdownIt({
@@ -10,15 +11,6 @@ function utilPlugin(eleventyConfig) {
 		linkify: true
 	}).use(markdownItExternalLinks, {
 		externalTarget: '_blank'
-	});
-	eleventyConfig.addFilter('lowerCase', function (s) {
-		return s.toLowerCase();
-	});
-	eleventyConfig.addFilter('upperCase', function (s) {
-		return s.toUpperCase();
-	});
-	eleventyConfig.addFilter('capitalize', function (s) {
-		return s[0].toUpperCase() + s.slice(1);
 	});
 	eleventyConfig.addFilter('padStart', function (n, num, token) {
 		return n.toString().padStart(num, token);
@@ -42,6 +34,9 @@ function utilPlugin(eleventyConfig) {
 	});
 	eleventyConfig.addFilter('renderMD', function (rawString) {
 		return mdRender.render(rawString);
+	});
+	eleventyConfig.addFilter('fileExists', function (filename) {
+		return existsSync('tir/' + filename);
 	});
 	eleventyConfig.addFilter('slice', function (str, s, e) {
 		return str.slice(s, e ? e : str.length);

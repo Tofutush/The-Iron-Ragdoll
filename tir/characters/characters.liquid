@@ -5,12 +5,12 @@ pagination:
   size: 1
   alias: ch
   addAllPagesToCollections: true
-permalink: "characters/{{ ch.name | lowerCase }}/"
+permalink: "characters/{{ ch.name | downcase }}/"
 eleventyComputed:
   title: "{{ ch.name }}"
   desc: "{{ ch.desc }}"
-  banner: "banner {{ ch.name | lowerCase }}"
-  image: "{% assign iconPath = ch.name | lowerCase | append: ' thumb' %}{% assign profilePath = ch.name | lowerCase | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl profilePath 200 0 iconPath %}"
+  banner: "banner {{ ch.name | downcase }}"
+  image: "{% assign iconPath = ch.name | downcase | append: ' thumb' %}{% assign profilePath = ch.name | downcase | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl profilePath 200 0 iconPath %}"
   themeColor: "{{ ch.color }}"
   iconColor: "{{ ch.color }}"
 parent: Characters
@@ -53,6 +53,11 @@ parent: Characters
       {% endif %}
     </div>
   </div>
+  {% assign hasBackstory = 'characters/backstory/' | append: ch.name | downcase | append: '.md' | fileExists %}
+  {% if hasBackstory or big %}
+    <section class="nav-wrap">
+      <section>
+  {% endif %}
   <h2 id="contents" class="fancy">Contents</h2>
   <section class="contents">
     {% if ch.about %}<a href="#about">About</a>{% endif %}
@@ -65,6 +70,17 @@ parent: Characters
     <a href="#reference">Reference</a>
     {% if filteredGallery.size > 0 %}<a href="#gallery">Gallery</a>{% endif %}
   </section>
+  {% if hasBackstory or big %}
+      </section>
+      <section>
+        <h2 id="subfiles" class="fancy">Subfiles</h2>
+        <section class="contents">
+          {% if big %}<a href="gallery/">Gallery</a>{% endif %}
+          {% if hasBackstory %}<a href="backstory/">Backstory</a>{% endif %}
+        </section>
+      </section>
+    </section>
+  {% endif %}
   {% if ch.attr or ch.tags %}
     <h2 id="info" class="fancy">Info</h2>
     <dl>
@@ -84,7 +100,7 @@ parent: Characters
   <hr/>
   <div class="af-fav">
     <a href="{% if ch.af %}{{ ch.af }}{% else %}https://artfight.net/character/4927468.other-character{% endif %}" target="_blank" title="Attack {{ ch.name }} on Artfight!"><img src="/img/bg/af.png" alt="Attack {{ ch.name }} on Artfight!"/></a>
-    <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | lowerCase }}" target="_blank" title="Give {{ ch.name }} a favorite!">{% lucide 'heart' '3em' %}</a>
+    <a target="_blank" href="https://tofutush.leprd.space/{{ ch.name | downcase }}" target="_blank" title="Give {{ ch.name }} a favorite!">{% lucide 'heart' '3em' %}</a>
   </div>
   {% if ch.quote %}
     <blockquote>{{ ch.quote | renderMD }}</blockquote>
@@ -105,7 +121,7 @@ parent: Characters
     {% for rel in majorRelations %}
       {% assign otherCh = rel | getOtherCh: ch.name %}
       {% assign otherChName = otherCh[0] %}
-      {% assign otherChObj = characters | getChByName: otherChName %}
+      {% assign otherChObj = otherChName | getChByName %}
       {% assign relImg = rel | getRelImg %}
       <section class="card" style="border-color: {{ otherChObj.color }}">
         {% if relImg %}
@@ -115,12 +131,12 @@ parent: Characters
           {% endif %}
           {% image relImg 500 alt 'float-right rel-img' %}
         {% else %}
-          {% assign iconPath = otherChName | lowerCase | append: " thumb" %}
-          {% assign profilePath = otherChName | lowerCase | append: " profile" %}
+          {% assign iconPath = otherChName | downcase | append: " thumb" %}
+          {% assign profilePath = otherChName | downcase | append: " profile" %}
           {% image profilePath 200 otherChName 'float-right rel-img round' iconPath %}
         {% endif %}
         {% assign count = count | plus: 1 %}
-        <h3><a class="rel-h3" href="../{{ otherChName | lowerCase }}/">{{ otherChName }}</a></h3>
+        <h3><a class="rel-h3" href="../{{ otherChName | downcase }}/">{{ otherChName }}</a></h3>
         {% if otherCh[1] %}<p class="smaller-text lighter-text">{{ otherCh[1] }}</p>{% endif %}
         {{ rel.desc | renderMD }}
       </section>
@@ -129,7 +145,7 @@ parent: Characters
       <ul>
         {% for rel in minorRelations %}
           {% assign otherCh = rel | getOtherCh: ch.name %}
-          <li><a href="../{{ otherCh[0] | lowerCase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</li>
+          <li><a href="../{{ otherCh[0] | downcase }}/">{{ otherCh[0] }}</a>{% if otherCh[1] %} ({{ otherCh[1] }}){% endif %}</li>
         {% endfor %}
       </ul>
     {% endif %}

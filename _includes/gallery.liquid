@@ -10,7 +10,7 @@
 			data-authorUrl="{{ img.authorUrl }}"
 		{% endif %}
 		{% if img.ch %}
-			data-ch='{% capture chHTML %}{% for ch in img.ch %}<a class="character-button" style="color: {{ characters | getChColor: ch | to6DigitHex | calculateBlackWhite }}" href="{% capture url %}/characters/{{ ch | lowerCase }}/{% endcapture %}{{ url | htmlBaseUrl }}">{{ ch | capitalize }}</a>{% endfor %}{% endcapture %}{{ chHTML | escape }}'
+			data-ch='{% capture chHTML %}{% for ch in img.ch %}<a class="character-button" style="color: {{ ch | getChColor | to6DigitHex | calculateBlackWhite }}" href="{% capture url %}/characters/{{ ch | downcase }}/{% endcapture %}{{ url | htmlBaseUrl }}">{{ ch | capitalize }}</a>{% endfor %}{% endcapture %}{{ chHTML | escape }}'
 		{% endif %}
 		{% if img.comment %}
 			data-comment="{{ img.comment | renderMD | escape }}"

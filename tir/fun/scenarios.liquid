@@ -15,7 +15,7 @@ desc: "Generate stupid scenarios!"
 <script>
   let characters = [
     {% for ch in characters %}
-      {% assign chUrl = '/characters/' | append: ch.name | lowerCase | append: '/' | htmlBaseUrl %}
+      {% assign chUrl = '/characters/' | append: ch.name | downcase | append: '/' | htmlBaseUrl %}
       '<a href="{{ chUrl }}">{{ ch.name }}</a>',
     {% endfor %}
   ];

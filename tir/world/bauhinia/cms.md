@@ -12,6 +12,6 @@ A shitty middle school in a shitty city.
 
 ## Characters
 
-{% assign filteredChs = characters | filterChByTag: 'Coastline Middle School' %}
+{% assign filteredChs = 'Coastline Middle School' | filterChByTag %}
 
 {% include 'chs', chs: filteredChs %}

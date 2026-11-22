@@ -1,0 +1,14 @@
+{
+  "layout": "article.liquid",
+  "toc": true,
+  "permalink": "characters/{{ ch }}/backstory/",
+  "navTitle": "Backstory",
+  "eleventyComputed": {
+    "themeColor": "{{ ch | getChColor }}",
+    "title": "{{ ch | capitalize }}'s Backstory",
+    "desc": "{% if desc %}{{ desc }}{% else %}{{ ch | capitalize }}'s backstory.{% endif %}",
+    "banner": "banner {{ ch }}",
+    "image": "{% assign iconPath = ch | append: ' thumb' %}{% assign profilePath = ch | append: ' profile' %}https://tofutush.github.io/The-Iron-Ragdoll{% imageUrl profilePath 200 0 iconPath %}",
+    "parent": "{{ ch | capitalize }}"
+  }
+}

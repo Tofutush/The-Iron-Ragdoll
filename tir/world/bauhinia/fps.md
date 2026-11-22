@@ -12,6 +12,6 @@ A fancy and expensive 12-year institution, where all the Starcorp family childre
 
 ## Characters
 
-{% assign filteredChs = characters | filterChByTag: 'Fancy Private School' %}
+{% assign filteredChs = 'Fancy Private School' | filterChByTag %}
 
 {% include 'chs', chs: filteredChs %}

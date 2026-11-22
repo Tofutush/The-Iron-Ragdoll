@@ -25,7 +25,7 @@ Of course strength is something that can be trained up, and a lack of exercise c
 
 This power is active, which means that a strongperson has to call upon their power if they want to lift heavy stuff, and that they wouldn't accidentally break things because of their strength. This also means you can catch their unawares.
 
-{% assign superstrength = characters | filterChByTag: 'Superstrength' %} {% include 'chs', chs: superstrength %}
+{% assign superstrength = 'Superstrength' | filterChByTag %} {% include 'chs', chs: superstrength %}
 
 ### Timekeeping
 
@@ -35,7 +35,7 @@ This power is passive, so they will always know what time it is or how much time
 
 Under duress, a timekeeper's internal clock could be messed up. For example, it's common to mistake their own heartbeat for seconds when timekeepers are panicking.
 
-{% assign timekeeping = characters | filterChByTag: 'Timekeeping' %} {% include 'chs', chs: timekeeping %}
+{% assign timekeeping = 'Timekeeping' | filterChByTag %} {% include 'chs', chs: timekeeping %}
 
 ### Hyperawareness
 
@@ -45,7 +45,7 @@ This power is active, which means that a person with hyperawareness has to be co
 
 There is a special fabric that can conceal a person from people with hyperawareness. They hate 'em, we love 'em! Of course, you need extra layers of said fabric to hide yourself from stronger people.
 
-{% assign hyperawareness = characters | filterChByTag: 'Hyperawareness' %} {% include 'chs', chs: hyperawareness %}
+{% assign hyperawareness = 'Hyperawareness' | filterChByTag %} {% include 'chs', chs: hyperawareness %}
 
 ### Invisibility
 
@@ -57,7 +57,7 @@ This power is active, obviously. You hide yourself if you want to. Though if som
 
 No matter the level, invisible people can always been seen in a mirror, or by a camera. There's also the old trick of pouring flour everywhere, as they can never make themselves pass-through.
 
-{% assign invisibility = characters | filterChByTag: 'Invisibility' %} {% include 'chs', chs: invisibility %}
+{% assign invisibility = 'Invisibility' | filterChByTag %} {% include 'chs', chs: invisibility %}
 
 ### Mind Reading
 
@@ -69,7 +69,7 @@ This power is active, which means that a mind-reader has to be concentrating (an
 
 Everyone can be trained to shield their own thoughts from mind-readers. There is also a special enchanted helmet that can block off mind-readers completely regardless of level, but only magicians can make it. Another type of helmet blocks the ability for mind-readers to read other people's minds, which can be made without magicians. These two types of helmets are different, with the latter being way more common than the former.
 
-{% assign mr = characters | filterChByTag: 'Mind Reading' %} {% include 'chs', chs: mr %}
+{% assign mr = 'Mind Reading' | filterChByTag %} {% include 'chs', chs: mr %}
 
 ## Special powers
 
@@ -83,10 +83,10 @@ For each immortal there is *one* thing that can kill them. And you won't know wh
 
 Immortality is stored in the bones, and as such it's the only power that can be detected through medical tests. Since it's in the bones, it comes with the body, unlike the common powers that come with the soul. This is the rarest superpower, followed by magic.
 
-{% assign immortality = characters | filterChByTag: 'Immortality' %} {% include 'chs', chs: immortality %}
+{% assign immortality = 'Immortality' | filterChByTag %} {% include 'chs', chs: immortality %}
 
 ### Magic
 
 Now, this is the best one of all. Powerful, mystical, and artificially rare. So great that it warranted its own page. [Read more here!](/world/magic/)
 
-{% assign magic = characters | filterChByTag: 'Magic' %} {% include 'chs', chs: magic %}
+{% assign magic = 'Magic' | filterChByTag %} {% include 'chs', chs: magic %}

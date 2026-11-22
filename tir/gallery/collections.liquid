@@ -130,9 +130,9 @@ toc: true
 				{% assign thumb = gallery | filterGallery: ch.name | getFirstOfKind: 'thumb' %}
 				{% assign soul = gallery | filterGallery: ch.name | getFirstOfKind: 'soul' %}
 				{% if profile or thumb or soul %}
-					<a href="/characters/{{ ch.name | lowerCase }}">{% image profile 200 0 '' 'gallery/literally empty.png' %}</a>
-					<a href="/characters/{{ ch.name | lowerCase }}">{% image thumb 200 0 '' 'gallery/literally empty.png' %}</a>
-					<a href="/characters/{{ ch.name | lowerCase }}">{% image soul 200 0 '' 'gallery/literally empty.png' %}</a>
+					<a href="/characters/{{ ch.name | downcase }}">{% image profile 200 0 '' 'gallery/literally empty.png' %}</a>
+					<a href="/characters/{{ ch.name | downcase }}">{% image thumb 200 0 '' 'gallery/literally empty.png' %}</a>
+					<a href="/characters/{{ ch.name | downcase }}">{% image soul 200 0 '' 'gallery/literally empty.png' %}</a>
 				{% endif %}
 			{% endfor %}
 		</div>

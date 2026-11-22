@@ -1,15 +1,15 @@
 import characters from '../_data/characters.json' with {type: 'json'};
 function chPlugin(eleventyConfig) {
-	eleventyConfig.addFilter('getChByName', function (arr, name) {
-		return arr.find(ch => ch.name == name || ch.namezh == name) || false;
+	eleventyConfig.addFilter('getChByName', function (name) {
+		return characters.find(ch => ch.name == name || ch.namezh == name) || false;
 	});
-	eleventyConfig.addFilter('getChColor', function (arr, name) {
-		let ch = arr.filter(c => c.name.toLowerCase() == name.toLowerCase());
+	eleventyConfig.addFilter('getChColor', function (name) {
+		let ch = characters.filter(c => c.name.toLowerCase() == name.toLowerCase());
 		if (ch.length) return ch[0].color;
 		return `Character ${name} not found!`;
 	});
-	eleventyConfig.addFilter('filterChByTag', function (chs, tag) {
-		return chs.filter(c => c.tags?.some(t => t == tag));
+	eleventyConfig.addFilter('filterChByTag', function (tag) {
+		return characters.filter(c => c.tags?.some(t => t == tag));
 	});
 	eleventyConfig.addFilter('getFullPalette', function (ch) {
 		return Object.assign({ "soul": ch.color }, ch.palette);
