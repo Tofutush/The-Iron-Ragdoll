@@ -5,6 +5,10 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-22
+
+- Removed character backstories from [stories](/stories/) and to a subpage instead. Example: [Goose's Backstory](/characters/goose/backstory/);
+
 ## 2026-11-21
 
 - Added `sparky cult.png`, `peach thumb.png`, `proxy thumb.png`;
