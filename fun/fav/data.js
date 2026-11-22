@@ -341,7 +341,7 @@ img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
 name: "Peach",
 color: "#ec74e8",
 desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/hn6RpLUVlL-500.webp"
 },
 
 
@@ -829,7 +829,7 @@ img: "/The-Iron-Ragdoll/img/rxxcjCpvT3-500.webp"
 name: "Proxy",
 color: "#123e6d",
 desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+img: "/The-Iron-Ragdoll/img/Bf1ryBeAUw-500.webp"
 },
 
 
