@@ -3,6 +3,13 @@ import Sharp from "@11ty/eleventy-img/src/adapters/sharp.js";
 import { cpSync, existsSync } from "fs";
 import gallery from '../_data/gallery.js';
 
+const galleryByName = new Map();
+for (const item of gallery) {
+	let list = galleryByName.get(item.name);
+	if (list) list.push(item);
+	else galleryByName.set(item.name, [item]);
+}
+
 function imagePlugin(eleventyConfig) {
 	// img takes any: obj, name, or path (without 'img/')
 	eleventyConfig.addShortcode('image', async function (img, size, alt0, className, fallback, animate) {
@@ -57,7 +64,7 @@ function imagePlugin(eleventyConfig) {
 	function getImgSrc(main, fallback) {
 		if (typeof main === 'object') return { src: getSrcFromObj(main), alt: main.name };
 		if (typeof main === 'string') {
-			let list = gallery.filter(i => i.name === main);
+			let list = galleryByName.get(main) || [];
 			if (list.length === 1) return { src: getSrcFromObj(list[0]), alt: list[0].name };
 			if (list.length > 1) throw new Error(`multiple imgs named ${main} found!`);
 			// name not found, try path
@@ -67,7 +74,7 @@ function imagePlugin(eleventyConfig) {
 		if (fallback) {
 			if (typeof fallback === Object) return { src: getSrcFromObj(fallback), alt: fallback.name };
 			if (typeof fallback === 'string') {
-				let list = gallery.filter(i => i.name === fallback);
+				let list = galleryByName.get(fallback) || [];
 				if (list.length === 1) return { src: getSrcFromObj(list[0]), alt: list[0].name };
 				if (list.length > 1) throw new Error(`multiple imgs named ${fallback} found!`);
 				// name not found, try path

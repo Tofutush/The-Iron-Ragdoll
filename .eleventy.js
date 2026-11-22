@@ -16,6 +16,7 @@ import galleryPlugin from './_plugins/gallery.js';
 import imagePlugin from './_plugins/image.js';
 import langPlugin from './_plugins/lang.js';
 import { eleventyLucideIconsPlugin, iconSVGString } from './_plugins/lucideicons.js';
+import navPlugin from './_plugins/nav.js';
 import relPlugin from './_plugins/rel.js';
 import storyPlugin from './_plugins/story.js';
 import utilPlugin from './_plugins/utils.js';
@@ -110,6 +111,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPlugin(galleryPlugin);
 	eleventyConfig.addPlugin(utilPlugin);
 	eleventyConfig.addPlugin(chPlugin);
+	eleventyConfig.addPlugin(navPlugin);
 	eleventyConfig.addPlugin(relPlugin);
 	eleventyConfig.addPlugin(imagePlugin);
 	eleventyConfig.addPlugin(storyPlugin);

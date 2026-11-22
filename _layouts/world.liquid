@@ -7,7 +7,7 @@ layout: layout.liquid
     <p class="smaller-text lighter-text">Categories: {% assign sortedCats = categories | sort %}{% for cat in sortedCats %}{% if forloop.index != 1 %}, {% endif %}<a href="/world/category/{{ cat | slug }}/">{{ cat }}</a>{% endfor %}</p>
 {% endif %}
 {{ content }}
-{% capture related %}{{ collections.all | eleventyNavigation: title }}{% endcapture %}
+{% assign related = collections.all | eleventyNavigation: title %}
 {% if related.size != 0 %}
     <style>
         #related {
@@ -18,6 +18,6 @@ layout: layout.liquid
     <hr/>
     <div id="related" class="graybox" data-pagefind-ignore>
         <h2 id="related-files">Related files</h2>
-        {{ collections.all | eleventyNavigation: title | eleventyNavigationToHtml }}
+        {{ related | eleventyNavigationToHtml }}
     </div>
 {% endif %}

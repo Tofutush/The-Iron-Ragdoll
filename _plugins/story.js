@@ -33,7 +33,6 @@ function storyPlugin(eleventyConfig) {
 			}
 			chapters[curr][1].push(page);
 		}
-		console.log(chapters);
 		return chapters;
 	});
 	eleventyConfig.addFilter('getNameFromLink', function (link) {

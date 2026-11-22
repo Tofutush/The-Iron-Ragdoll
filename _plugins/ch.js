@@ -1,11 +1,21 @@
 import characters from '../_data/characters.json' with {type: 'json'};
+
+const byName = new Map();
+const byLowerName = new Map();
+for (const ch of characters) {
+	if (!byName.has(ch.name)) byName.set(ch.name, ch);
+	if (ch.namezh !== undefined && !byName.has(ch.namezh)) byName.set(ch.namezh, ch);
+	const lowerName = ch.name.toLowerCase();
+	if (!byLowerName.has(lowerName)) byLowerName.set(lowerName, ch);
+}
+
 function chPlugin(eleventyConfig) {
 	eleventyConfig.addFilter('getChByName', function (name) {
-		return characters.find(ch => ch.name == name || ch.namezh == name) || false;
+		return byName.get(name) || false;
 	});
 	eleventyConfig.addFilter('getChColor', function (name) {
-		let ch = characters.filter(c => c.name.toLowerCase() == name.toLowerCase());
-		if (ch.length) return ch[0].color;
+		let ch = byLowerName.get(name.toLowerCase());
+		if (ch) return ch.color;
 		return `Character ${name} not found!`;
 	});
 	eleventyConfig.addFilter('filterChByTag', function (tag) {
