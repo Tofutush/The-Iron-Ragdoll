@@ -9,6 +9,7 @@
     "draft": "checkbox",
     "complete": "checkbox",
     "word-goal": "number",
-    "chNum": "number"
+    "chNum": "number",
+    "ch": "text"
   }
 }

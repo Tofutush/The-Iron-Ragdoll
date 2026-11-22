@@ -1,15 +1,5 @@
 ---
-title: Jackpot's Backstory
-chs:
-  - jackpot
-time: 1994 - present
-desc: Jackpot's backstory.
-myTags:
-  - Backstory
-  - Atlasia
-  - The Capital
-  - Complete
-complete: true
+ch: jackpot
 ---
 
 Jackpot grew up a pheasant in Atlasia. He never knew who his dad was, and his over-sacrificing mom gave her all to him in the hopes that he could rise above his station one day. When they ran out of food one winter night, she cut off bits of her own flesh to feed Jackpot. The little kid watched as his mom bled out in front of him, the blood leaking down to the lower floors, which got him chased out of the attic.

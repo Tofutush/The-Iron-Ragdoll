@@ -1,19 +1,5 @@
 ---
-title: Pumpkin's Backstory
-chs:
-  - pumpkin
-time: 2003 - present
-desc: Pumpkin's backstory.
-myTags:
-  - Backstory
-  - Bauhinia
-  - Westavia
-  - MSS
-  - Nameless village
-  - Complete
-prev:
-  - "[Nameless Village Backstory](/stories/nameless-village-backstory/)"
-complete: true
+ch: pumpkin
 ---
 
 Pumpkin's grandparents immigrated to northern [Bauhinia](/world/bauhinia/) from [Westavia](/world/westavia/). His family still kept many of their Westavian traditions.

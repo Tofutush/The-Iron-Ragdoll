@@ -1,12 +1,5 @@
 ---
-title: Peacock's Backstory
-chs:
-  - peacock
-time: 1986 - present
-desc: Peacock's backstory.
-myTags:
-  - Backstory
-  - Bauhinia
+ch: peacock
 ---
 
 ## Past Life
