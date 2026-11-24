@@ -1,7 +1,7 @@
 import csv
 import os
 import re
-from collections import Counter
+from collections import Counter, defaultdict
 
 from rich.box import SIMPLE_HEAD
 from rich.console import Console
@@ -108,5 +108,54 @@ def linguistic_summary(entries):
         )
 
 
+def duplicate_summary(entries):
+    console = Console()
+    headwords = defaultdict(list)
+    for entry in entries:
+        headword = entry.get("en", "").strip()
+        if headword:
+            headwords[headword.casefold()].append(entry)
+
+    duplicates = {key: group for key, group in headwords.items() if len(group) > 1}
+    if not duplicates:
+        return
+
+    console.print()
+    console.rule("[bold yellow]Duplicate headwords[/bold yellow]")
+
+    table = Table(box=SIMPLE_HEAD, pad_edge=False, padding=(0, 1), show_edge=False)
+    table.add_column("headword", no_wrap=True)
+    table.add_column("pos", no_wrap=True)
+    table.add_column("definition")
+    table.add_column("Arabic", no_wrap=True)
+
+    for index, key in enumerate(sorted(duplicates)):
+        if index:
+            table.add_section()
+
+        group = duplicates[key]
+        positions = {entry.get("pos", "").strip() for entry in group}
+        rows = {
+            (
+                entry.get("en", "").strip(),
+                entry.get("pos", "").strip(),
+                entry.get("def", "").strip(),
+                entry.get("bh", "").strip(),
+            )
+            for entry in group
+        }
+
+        for row_index, entry in enumerate(group):
+            table.add_row(
+                Text(entry.get("en", "").strip(), style="yellow"),
+                entry.get("pos", "").strip(),
+                entry.get("def", "").strip(),
+                entry.get("bh", "").strip(),
+            )
+    console.print(table)
+
+
 if __name__ == "__main__":
-    linguistic_summary(load_lexicon())
+    entries = load_lexicon()
+    linguistic_summary(entries)
+    duplicate_summary(entries)

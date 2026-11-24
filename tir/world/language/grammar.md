@@ -138,6 +138,8 @@ To mark the object, i.e. the direct object of a verb. "I eat apples." The apple 
 | ------------- | ----------------------- |
 | I eat apples. | ۋا سەيتىنۇ==پ== ئومنوم. |
 
+There is no passive voice. To create the same effect, just omit the subject and keep the object and verb.
+
 #### Predicate
 
 In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky is cute." "She became a bodyguard." In Bauhinian, predicates have their own suffix to mark them.
@@ -223,6 +225,8 @@ Another type of modality is deontic modality, which are things like "must," "can
 
 Deontic modality is of course not required in speech, and are expressed as prefixes on verbs when present.
 
+Evidentiality and epistemic modality are both still required (and omittable) when the verb has a deontic modality prefix, though in this case, the evidentiality will describe who told you you have to do this thing.
+
 | English                 | سەث |
 | ----------------------- | --- |
 | Must (high obligation)  |     |
@@ -230,17 +234,36 @@ Deontic modality is of course not required in speech, and are expressed as prefi
 | May (permission)        |     |
 | Can (ability)           |     |
 
-### Tense & aspect
+### Infinitive / verbal nouns
 
-Tense and aspect are optional and described using adjectives.
+Simply add ىش to the end. It becomes a noun that functions like any other noun.
 
-Verbs in Bauhinian have no habitual aspect. To say "Nightsun spies on people," you have to say "Nightsun is a people-spier."
+### Stuff you don't use verbs for
+
+- [Tense or aspect](#tense-aspect): expressed with optional adjectives.
+- [Imperative](#imperative): expressed with adverbs, which in Bauhinian are also adjectives.
 
 ## Adjectives
 
 In Bauhinian both nouns and verbs use adjectives to be described (so there aren't any adverbs). So watch out because not every adjective can describe both nouns and verbs. You can run fast and be a fast runner, and you can be blue, but you can't sing bluely.
 
 Adjectives go after the nouns and verbs they're describing.
+
+### Tense & aspect
+
+Tense and aspect are optional and described using adjectives. Some examples
+
+Verbs in Bauhinian have no habitual aspect. To say "Nightsun spies on people," you have to say "Nightsun is a people-spier."
+
+### Imperative
+
+Imperative is an adverb (or adjective, since those are one and the same) essentially meaning "please" but with different formality levels.
+
+| English                                    | سەث |
+| ------------------------------------------ | --- |
+| Ordering a subordinate                     |     |
+| Asking normally                            |     |
+| Asking a superior for a favor or something |     |
 
 ## Easy clauses
 
