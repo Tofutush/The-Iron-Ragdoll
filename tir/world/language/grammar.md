@@ -265,7 +265,15 @@ Imperative is an adverb (or adjective, since those are one and the same) essenti
 | Asking normally                            |     |
 | Asking a superior for a favor or something |     |
 
-## Easy clauses
+## Conjunctions
+
+I love a good run-on. Anyway, here are some.
+
+| English     | سەث |
+| ----------- | --- |
+| and         |     |
+
+### Easy clauses
 
 Stuff like if / then, although / but. These are just conjunctions. They're completely normal. Nothing weird. I don't wanna think about it.
 
@@ -275,6 +283,10 @@ Stuff like if / then, although / but. These are just conjunctions. They're compl
 | Because          |     | So                   |     |
 | Although         |     | But                  |     |
 | Or (can be both) |     | Xor (cannot be both) |     |
+| In order to      |     |                      |     |
+
+> [!note]
+> The clause led by "in order to" can have the subject omitted. But if it's not, it can mean "in order to make [sentence subject] do something."
 
 One thing about clauses here is that for the pairs, like if / then and because / so, there's a leading clause (the one created by "if" and "because") and a subordinate clause (the one created by "then" and "so.") If the leading clause precedes the subordinate clause, the leading conjunction can be omitted, but they can both be present (as contrasted with English). If the leading is after the subordinate, *only* the leading one should be present. To illustrate:
 
