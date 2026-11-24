@@ -1,0 +1,12 @@
+- 榕树：longevity, elderliness, experience
+- 凤凰：love, passion
+- 红紫荆：loyalty, patriotism, resilience
+- 白紫荆：treason, spite, avoidance
+- 木棉：
+- 杜鹃：
+- 三角梅：
+- 芒果：
+- 红木：
+- 风铃木：
+- 柳树：
+- 竹子：

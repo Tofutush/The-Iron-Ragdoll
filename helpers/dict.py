@@ -26,7 +26,7 @@ def load_lexicon():
 VOWELS = "a e ë i o u".split()
 CONSONANTS = "b p d t k g f v h m n y w l z c s zh ch sh r j q x th dh".split()
 COMPOUND_VOWELS = "aw ai ei".split()
-MULTI_UNITS = COMPOUND_VOWELS + "zh ch sh th dh dr tr".split()
+MULTI_UNITS = COMPOUND_VOWELS + "zh ch sh th dh".split()
 PHONEME_PATTERN = "|".join(MULTI_UNITS) + "|."
 
 

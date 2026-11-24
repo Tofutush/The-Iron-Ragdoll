@@ -1,14 +1,14 @@
-- tradecraft class
-- politics class
-- spotty & truffle invite jelly to bauhinia tower
-- knife thing, cosmo lie detection, entity to school, cosmo cannot sense hes lying
+- mission EARLY
+- selfie & passport: preliminary tasks
+	- spotty & truffle invite jelly to bauhinia tower
 - jelly inviting them to the embassy
 	- they give jelly ideas on how to make her dad spend more time with her
 - they ask jelly to collect evidence
-- realize deportation (this point, harmony should already be genuine friend)
-- attempt blackmail, does not go far
-- jelly suspects (basically, both the selfie and passport went too well, something has to go wrong) (maybe *because* they turned their goal to blackmail instead of deportation?)
-	- harmony confesses about spy school
-	- jelly thinks about it
-	- jelly decides to help them
+- harmony & sugarcane relationship reach breaking point
+- harmony sloppy tradecraft
+	- jelly suspects, saying that this could get her and her dad deported
+		- harmony confesses about spy school
+		- jelly thinks about it
+		- jelly decides to help them
+- attempt blackmail (bc deportation, want her to stay), does not go far
 - ending sequence: play outside, jelly sick

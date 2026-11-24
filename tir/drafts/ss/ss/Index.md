@@ -9,7 +9,8 @@ longform:
     - - recruitment
       - playground convo
       - dinner convo
-    - first day
+    - first day (breakfast)
+    - - the walk
     - final part
     - deportation
   ignoredFiles: []
