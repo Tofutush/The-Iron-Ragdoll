@@ -35,50 +35,50 @@ mu,pron.,these,مۇ
 chë,pron.,that,چې
 chu,pron.,those,چۇ
 fu,unit n.,unit noun for animate nouns,فۇ
--im,suffix,1st person possessive,-ىم
--imu,suffix,1st person possessive (plural),-ىمۇ
--in,suffix,2nd person possessive (informal),-ىن
--inu,suffix,"2nd person possessive (plural, informal)",-ىنۇ
--iq,suffix,2nd person possessive (formal),-ىق
--iqu,suffix,"2nd person possessive (plural, formal)",-ىقۇ
--is,suffix,3rd person possessive (animate),-ىس
--isu,suffix,"3rd person possessive (plural, animate)",-ىسۇ
--ik,suffix,3rd person possessive (inanimate),-ىك
--iku,suffix,"3rd person possessive (plural, inanimate)",-ىكۇ
+-im,suffix,1st person possessive,-ـىم
+-imu,suffix,1st person possessive (plural),-ـىمۇ
+-in,suffix,2nd person possessive (informal),-ـىن
+-inu,suffix,"2nd person possessive (plural, informal)",-ـىنۇ
+-iq,suffix,2nd person possessive (formal),-ـىق
+-iqu,suffix,"2nd person possessive (plural, formal)",-ـىقۇ
+-is,suffix,3rd person possessive (animate),-ـىس
+-isu,suffix,"3rd person possessive (plural, animate)",-ـىسۇ
+-ik,suffix,3rd person possessive (inanimate),-ـىك
+-iku,suffix,"3rd person possessive (plural, inanimate)",-ـىكۇ
 ,,,
--ijët,suffix,epistemic modality: total confidence,-ىژېت
--imat,suffix,epistemic modality: very confident,-ىمات
--itut,suffix,epistemic modality: confident,-ىتۇت
--inet,suffix,epistemic modality: neutral,-ىنەت
--igët,suffix,epistemic modality: unconfident,-ىگېت
--ifut,suffix,epistemic modality: doubtful,-ىفوت
+-ijët,suffix,epistemic modality: total confidence,-ـىژېت
+-imat,suffix,epistemic modality: very confident,-ـىمات
+-itut,suffix,epistemic modality: confident,-ـىتۇت
+-inet,suffix,epistemic modality: neutral,-ـىنەت
+-igët,suffix,epistemic modality: unconfident,-ـىگېت
+-ifut,suffix,epistemic modality: doubtful,-ـىفوت
 ,,,
--isha,suffix,evidentiality: universal,-ىشا
--iwa,suffix,evidentiality: assumption / self-knowledge,-ىۋا
--inë,suffix,evidentiality: experienced,-ىنې
--ina,suffix,evidentiality: inference,-ىنا
--ithu,suffix,evidentiality: trusted source,-ىثۇ
--itho,suffix,evidentiality: dubious source,-ىثو
--ithe,suffix,evidentiality: untrusted source,-ىثە
--ishu,suffix,evidentiality: direct source,-ىشۇ
+-isha,suffix,evidentiality: universal,-ـىشا
+-iwa,suffix,evidentiality: assumption / self-knowledge,-ـىۋا
+-inë,suffix,evidentiality: experienced,-ـىنې
+-ina,suffix,evidentiality: inference,-ـىنا
+-ithu,suffix,evidentiality: trusted source,-ـىثۇ
+-itho,suffix,evidentiality: dubious source,-ـىثو
+-ithe,suffix,evidentiality: untrusted source,-ـىثە
+-ishu,suffix,evidentiality: direct source,-ـىشۇ
 ,,,
--taim,suffix,1st person predicate,-تايم
--taimu,suffix,1st person predicate (plural),-تايمۇ
--tain,suffix,2nd person predicate (informal),-تاين
--tainu,suffix,"2nd person predicate (plural, informal)",-تاينۇ
--taiq,suffix,2nd person predicate (formal),-تايق
--taiqu,suffix,"2nd person predicate (plural, formal)",-تايقۇ
--tais,suffix,3rd person predicate (animate),-تايس
--taisu,suffix,"3rd person predicate (plural, animate)",-تايسۇ
--taik,suffix,3rd person predicate (inanimate),-تايك
--taiku,suffix,"3rd person predicate (plural, inanimate)",-تايكۇ
+-taim,suffix,1st person predicate,-ـتايم
+-taimu,suffix,1st person predicate (plural),-ـتايمۇ
+-tain,suffix,2nd person predicate (informal),-ـتاين
+-tainu,suffix,"2nd person predicate (plural, informal)",-ـتاينۇ
+-taiq,suffix,2nd person predicate (formal),-ـتايق
+-taiqu,suffix,"2nd person predicate (plural, formal)",-ـتايقۇ
+-tais,suffix,3rd person predicate (animate),-ـتايس
+-taisu,suffix,"3rd person predicate (plural, animate)",-ـتايسۇ
+-taik,suffix,3rd person predicate (inanimate),-ـتايك
+-taiku,suffix,"3rd person predicate (plural, inanimate)",-ـتايكۇ
 ,,,
--nan,suffix,subject marking,-نان
--ip,suffix,object marking,-ىپ
+-nan,suffix,subject marking,-ـنان
+-ip,suffix,object marking,-ـىپ
 ,,,
 lë,conj.,and,لې
 dë,part.,genitive linker,دې
--ta,suffix,"genitive marking, i.e. 's",-تا
+-ta,suffix,"genitive marking, i.e. 's",-ـتا
 ga,exclam.,yes,گا
 yo,exclam.,no,يو
 ,,,
@@ -103,6 +103,18 @@ atla,n.,east,ئاتلا
 wesda,n.,west,ۋەسدا
 ,,,
 pan,number,3,پان
+,,,
+,n.,red,
+,n.,orange,
+,n.,yellow,
+,n.,green,
+,n.,blue,
+,n.,purple,
+,n.,black,
+,n.,gray,
+,n.,white,
+,n.,colorful,
+,n.,grayscale,
 ,,,
 korskarus,n.,propaganda,كورسكارۇس 
 ,,,

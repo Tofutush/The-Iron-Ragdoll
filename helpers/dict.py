@@ -19,7 +19,7 @@ def load_lexicon():
             line for line in file if line.strip() and line.replace(",", "").strip()
         )
         lexicon = list(csv.DictReader(cleaned_file))
-    lexicon.sort(key=lambda w: w["en"].strip("-").lower())
+    lexicon.sort(key=lambda w: w["en"].strip("-").strip("ـ").lower())
     return lexicon
 
 
