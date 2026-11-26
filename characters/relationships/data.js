@@ -598,7 +598,7 @@ img: "/The-Iron-Ragdoll/img/j8vKYSPQwX-200.webp",
 {
 id: "Tiara",
 color: "#919191",
-img: "/The-Iron-Ragdoll/img/CpdLRweMgL-200.webp",
+img: "/The-Iron-Ragdoll/img/AXcvhK5HrY-200.webp",
 },
 
 {

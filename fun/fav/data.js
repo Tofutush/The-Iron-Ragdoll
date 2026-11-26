@@ -797,7 +797,7 @@ img: "/The-Iron-Ragdoll/img/j8vKYSPQwX-500.webp"
 name: "Tiara",
 color: "#919191",
 desc: "The queen.",
-img: "/The-Iron-Ragdoll/img/CpdLRweMgL-500.webp"
+img: "/The-Iron-Ragdoll/img/AXcvhK5HrY-500.webp"
 },
 
 
