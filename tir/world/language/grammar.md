@@ -19,7 +19,7 @@ Oh boy, here we go.
 
 ## Overview
 
-Bauhinian is an agglutinative language with a flexible sentence order but SOV by default. Adjectives are often placed after the noun they're describing. But you can place it before if you want to. Um. Yeah.
+Bauhinian is an agglutinative (kinda?) language with a SOV sentence order.
 
 ## Affix adding rules
 
@@ -32,17 +32,12 @@ Bauhinian is an agglutinative language with a flexible sentence order but SOV by
 
 ### Pronouns
 
-There are 5 pronouns in Bauhinian: one first-person, two second-person (formal and informal), two third-person (animate and inanimate). Each one also has a plural.
+There are 5 pronouns: one first-person, two second-person (formal and informal), two third-person (people and things). Each one also has a plural.
 
-"Animate" includes people and things that are primarily made up of people, like countries and organizations (like the [ISA](/world/isa/) or the [MSS](/world/bauhinia/mss/)). In Fanton, the animate pronoun is usually used for plants and animals as well. Inanimate is just everything else. Note that animacy isn't really a noun class; it's just what's considered human and what's not.
+"People" includes people and things that are primarily made up of people, like countries and organizations (like the [ISA](/world/isa/) or the [MSS](/world/bauhinia/mss/)). In Fanton, the people pronoun is usually used for plants and animals as well. "Things" is just everything else.
 
 > [!note]+
 > When a Fantoni person calls a plant "سا," when translating it to English, you must always translate it as "she" and not "it" or "they."
-
-As you can see from the examples, "the Bauhinian language" is always translated as "سەثى==س==" and not "سەثى==ك==," because Bauhinia is animate.
-
-> [!note]+
-> Do note that the people of TIR never say "Bauhinian language," as language to them is just language.
 
 As for formal and informal, I hope you know when to use which because I sure as hell don't but I like the idea of them.
 
@@ -51,12 +46,12 @@ As for formal and informal, I hope you know when to use which because I sure as 
 | 1st             | ۋا       | ۋۇ     |
 | 2nd (informal)  | نا       | نۇ     |
 | 2nd (formal)    | قا       | قۇ     |
-| 3rd (animate)   | سا       | سۇ     |
-| 3rd (inanimate) | كا       | كۇ     |
+| 3rd (people)    | سا       | سۇ     |
+| 3rd (things)    | كا       | كۇ     |
 
 ### Unit nouns
 
-Most, if not all, nouns in Bauhinian are uncountable in the English sense. For English uncountable nouns, you can specify quantity with a unit noun, like the "cup" in "two cups of water." In Bauhinian, all (or most, who knows) nouns are like that. Each noun will have one or more unit nouns applicable to them.
+Most, if not all, nouns are uncountable in the English sense. For English uncountable nouns, you can specify quantity with a unit noun, like the "cup" in "two cups of water." In Bauhinian, all (or most, who knows) nouns are like that. Each noun will have one or more unit nouns applicable to them.
 
 Many normal nouns, especially that of containers, such as "cup," "bottle," or "sack," can double as unit nouns. Here is a non-exhaustive list of common unit nouns.
 
@@ -142,7 +137,7 @@ There is no passive voice. To create the same effect, just omit the subject and 
 
 #### Predicate
 
-In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky is cute." "She became a bodyguard." In Bauhinian, predicates have their own suffix to mark them.
+In English, predicates are what follows linking verbs. "I am Tofutush." "Sparky is cute." "She became a bodyguard." Predicates have their own suffix to mark them.
 
 The predicate marking needs to agree with the subject.
 
@@ -163,11 +158,17 @@ Typically, in simple predicate sentences, the [subject marking](#subject) is oft
 
 If you need to modify the sentences above with, say, [evidentiality or epistemic modality](#evidentiality-epistemic-modality), you can add that onto the predicate instead of the verb, as there is no verb.
 
+#### To
+
+(See also: [objective](#objective))
+
+#### From
+
 ## Verbs
 
 ### Evidentiality & epistemic modality
 
-Evidentiality and epistemic modality are an important part of Bauhinian verbs. You add these suffixes on, evidentiality first and modality second.
+Evidentiality and epistemic modality are an important part of verbs. You add these suffixes on, evidentiality first and modality second.
 
 They can both be omitted and assumed to be "assumption" and "confident" respectively (unless the evidentiality is "untrusted source"; then an omitted modality is assumed to be "neutral"), but in formal speech and documents you cannot omit anything. In novels and shows, the narration often leaves out both evidentiality and epistemic modality, but it's more common for 1st-person narration to be grammatically complete.
 
@@ -240,20 +241,20 @@ Simply add ىش to the end. It becomes a noun that functions like any other noun
 
 ### Stuff you don't use verbs for
 
-- [Tense or aspect](#tense-aspect): expressed with optional adjectives.
-- [Imperative](#imperative): expressed with adverbs, which in Bauhinian are also adjectives.
+- [Tense or aspect](#tense-aspect): expressed with optional attributes.
+- [Imperative](#imperative): expressed with attributes.
 
-## Adjectives
+## Attributes
 
-In Bauhinian both nouns and verbs use adjectives to be described (so there aren't any adverbs). So watch out because not every adjective can describe both nouns and verbs. You can run fast and be a fast runner, and you can be blue, but you can't sing bluely.
+Both nouns and verbs use attributes to be described (so adjectives and adverbs are the same thing collectively called "attributes"). So watch out because not every attribute can describe both nouns and verbs. You can listen to loud music and sing loudly, and you can be blue, but you can't sing bluely.
 
-Adjectives go after the nouns and verbs they're describing.
+Attributes go after the nouns and verbs they're describing.
 
 ### Tense & aspect
 
-Tense and aspect are optional and described using adjectives. Some examples
+Tense and aspect are optional and described using attributes. Some examples
 
-Verbs in Bauhinian have no habitual aspect. To say "Nightsun spies on people," you have to say "Nightsun is a people-spier."
+Verbs have no habitual aspect. To say "Nightsun spies on people," you have to say "Nightsun is a people-spier."
 
 ### Imperative
 
@@ -273,7 +274,7 @@ I love a good run-on. Anyway, here are some.
 | ----------- | --- |
 | and         |     |
 
-### Easy clauses
+### Clauses
 
 Stuff like if / then, although / but. These are just conjunctions. They're completely normal. Nothing weird. I don't wanna think about it.
 
@@ -283,10 +284,6 @@ Stuff like if / then, although / but. These are just conjunctions. They're compl
 | Because          |     | So                   |     |
 | Although         |     | But                  |     |
 | Or (can be both) |     | Xor (cannot be both) |     |
-| In order to      |     |                      |     |
-
-> [!note]
-> The clause led by "in order to" can have the subject omitted. But if it's not, it can mean "in order to make [sentence subject] do something."
 
 One thing about clauses here is that for the pairs, like if / then and because / so, there's a leading clause (the one created by "if" and "because") and a subordinate clause (the one created by "then" and "so.") If the leading clause precedes the subordinate clause, the leading conjunction can be omitted, but they can both be present (as contrasted with English). If the leading is after the subordinate, *only* the leading one should be present. To illustrate:
 
@@ -299,14 +296,21 @@ One thing about clauses here is that for the pairs, like if / then and because /
 | I stay inside, ==because== the weather is bad.        | Yes.                |
 | ==So== I stay inside, the weather is bad.             | No.                 |
 
-## Annoying clauses
-
-Oh my God. Anyway, annoying clauses are essentially sentences in the places of what would originally be nouns or adjectives. This is just English. Clauses can go to hell.
-
 ## Derivations
 
-Or, how to turn a type of verb into another!
+Or, how to turn a type of word into another!
 
 ### Verb to noun
+
+#### Objective
+
+(Not to be confused with [object](#object))
+
+By adding the suffix for [to](#to) to a verbal noun, it becomes an attribute that describes the goal, target, or objective of an action.
+
+| English                         | سەث |
+| ------------------------------- | --- |
+| I worked hard to reach my goal. |     |
+| I stopped to take a break.      |     |
 
 ### Noun to other noun

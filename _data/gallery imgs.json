@@ -5918,7 +5918,7 @@
   },
   {
     "name": "tiara thumb",
-    "date": "2026-03-28",
+    "date": "2026-11-25",
     "ch": [
       "tiara"
     ],
@@ -6990,5 +6990,21 @@
       "proxy"
     ],
     "kind": "thumb"
+  },
+  {
+    "name": "bunny stand",
+    "date": "2026-11-25",
+    "ch": [
+      "bunchberry"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "tiara stand",
+    "date": "2026-11-25",
+    "ch": [
+      "tiara"
+    ],
+    "kind": "fullbody"
   }
 ]

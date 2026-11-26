@@ -2244,6 +2244,11 @@
     ],
     "attr": {
       "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "dress pattern": "#B5B5B5",
+      "crown & necklace": "#B4E0F1",
+      "hair": "#2e2e2e"
     }
   },
   {
