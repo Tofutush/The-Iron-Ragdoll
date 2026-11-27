@@ -826,6 +826,14 @@ img: "/The-Iron-Ragdoll/img/rxxcjCpvT3-500.webp"
 
 
 {
+name: "Mist",
+color: "#e246c3",
+desc: "Professional hacker.",
+img: "/The-Iron-Ragdoll/img/CHJljhAffS-500.webp"
+},
+
+
+{
 name: "Proxy",
 color: "#123e6d",
 desc: "",

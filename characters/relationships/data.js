@@ -620,6 +620,12 @@ img: "/The-Iron-Ragdoll/img/rxxcjCpvT3-200.webp",
 },
 
 {
+id: "Mist",
+color: "#e246c3",
+img: "/The-Iron-Ragdoll/img/CHJljhAffS-200.webp",
+},
+
+{
 id: "Proxy",
 color: "#123e6d",
 img: "/The-Iron-Ragdoll/img/Bf1ryBeAUw-200.webp",
@@ -2265,6 +2271,14 @@ source: "Starlight",
 target: "Sparrow",
 rel1: "colleague",
 rel2: "colleague",
+
+},
+
+{
+source: "Sparrow",
+target: "Mist",
+rel1: "classmate",
+rel2: "classmate",
 
 },
 
