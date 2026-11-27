@@ -4,6 +4,7 @@ const promptDiv = terminal.querySelector("#prompt");
 const inputDiv = terminal.querySelector("#input");
 
 let theme = '#00ccff';
+let pwd = '~';
 
 let prompt = "Enter username: ";
 let firstLine = true;
@@ -15,9 +16,10 @@ function enterInput() {
 		firstLine = false;
 		let name = input.trim()
 			.replaceAll(' ', '-')
-			.replace(/[^a-zA-Z0-9]/g, '')
-			.replace(/[-]+/g, '-') || "guest";
-		prompt = `${name}@tiros:~$ `;
+			.replace(/[^a-zA-Z0-9\-]/g, '')
+			.replace(/[-]+/g, '-')
+			.substring(0, 40) || "guest";
+		prompt = `${name}@tiros:${pwd}$ `;
 		promptDiv.innerHTML = prompt;
 		promptDiv.style.color = theme;
 		outputDiv.innerHTML = `
@@ -34,7 +36,7 @@ function enterInput() {
 Hello, ${name}! Type "help" to get started!
 `;
 	} else {
-		outputDiv.innerHTML += `<span style="color: ${theme}">${prompt}</span>${input}\n`;
+		outputDiv.innerHTML += `<span style="color: ${theme}">${prompt}</span>${input}\n${handleInput(input)}\n`;
 	}
 
 	terminal.scrollTop = terminal.scrollHeight;
@@ -56,3 +58,21 @@ terminal.addEventListener("click", event => {
 });
 
 inputDiv.focus();
+
+function handleInput(input) {
+	input = input.toLowerCase();
+	if (input === 'help') {
+		return `Welcome to TIROS, the ultimate database for all things TIR!
+Here are the commands available to you:
+- tables: list the tables inside the database
+- list (alias l): list the contents within a table
+- inspect (alias i): inspect a record
+As a non-admin, you only have read permissions.
+`;
+	}
+	if (input === 'rm -rf /') {
+		terminal.remove();
+		return;
+	}
+	return 'Unknown command.'
+}
