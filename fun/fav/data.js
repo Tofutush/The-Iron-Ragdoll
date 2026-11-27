@@ -1,875 +1,547 @@
-const data = [
 
-
-{
-name: "Sparky",
-color: "#0cf",
-desc: "Our protagonist! Need I say more?",
-img: "/The-Iron-Ragdoll/img/jZ2nylDn7l-500.webp"
-},
-
-
-{
-name: "Amber",
-color: "#e15f19",
-desc: "Hardworking girl who would be cheerful if she had the time to smile.",
-img: "/The-Iron-Ragdoll/img/iuHhPR_M7h-500.webp"
-},
-
-
-{
-name: "Peacock",
-color: "#20f",
-desc: "Creepy old boy who knows everything and more.",
-img: "/The-Iron-Ragdoll/img/SjmE0PEif4-500.webp"
-},
-
-
-{
-name: "Willow",
-color: "#199400",
-desc: "Princess of the family.",
-img: "/The-Iron-Ragdoll/img/TmYB1wXgX_-500.webp"
-},
-
-
-{
-name: "Ribbon",
-color: "#e368d3",
-desc: "Owner of the bakery!",
-img: "/The-Iron-Ragdoll/img/cGnz0mp_Z6-500.webp"
-},
-
-
-{
-name: "Qibli",
-color: "#440044",
-desc: "(KEE-blee) Magic chicken ADHD girl.",
-img: "/The-Iron-Ragdoll/img/pIDB6BpkkZ-500.webp"
-},
-
-
-{
-name: "Sky",
-color: "#236ce1",
-desc: "Adventurous fidgety boy.",
-img: "/The-Iron-Ragdoll/img/NJaCw0fUpv-500.webp"
-},
-
-
-{
-name: "Firecrackers",
-color: "#8214bd",
-desc: "Big kind boy with no manners.",
-img: "/The-Iron-Ragdoll/img/6kVpHWFazd-500.webp"
-},
-
-
-{
-name: "Myriad",
-color: "#d01b84",
-desc: "Quiet, grumpy girl.",
-img: "/The-Iron-Ragdoll/img/3TqotZ1fDK-500.webp"
-},
-
-
-{
-name: "Alaska",
-color: "#6C0404",
-desc: "",
-img: "/The-Iron-Ragdoll/img/ZSwZUZm8X8-500.webp"
-},
-
-
-{
-name: "Tomato",
-color: "#A10000",
-desc: "The guy who can solve all your problems but doesn't want to.",
-img: "/The-Iron-Ragdoll/img/4K8SvIh7hg-500.webp"
-},
-
-
-{
-name: "Potato",
-color: "#bdad1b",
-desc: "",
-img: "/The-Iron-Ragdoll/img/scIAwaDZXQ-500.webp"
-},
-
-
-{
-name: "Guillotine",
-color: "#d0ae3a",
-desc: "",
-img: "/The-Iron-Ragdoll/img/LuTpj-1rdH-500.webp"
-},
-
-
-{
-name: "Tephra",
-color: "#008282",
-desc: "The boss of everything at once, but nothing in particular.",
-img: "/The-Iron-Ragdoll/img/Vsj4j7bY5c-500.webp"
-},
-
-
-{
-name: "Jerboa",
-color: "#0867af",
-desc: "",
-img: "/The-Iron-Ragdoll/img/JLmmGj4kNR-500.webp"
-},
-
-
-{
-name: "Jam",
-color: "#75430b",
-desc: "Teacher of all the subjects because I'm too lazy to make more.",
-img: "/The-Iron-Ragdoll/img/NgwTDBX9sZ-500.webp"
-},
-
-
-{
-name: "Trinket",
-color: "#28aed1",
-desc: "Nebula's successor.",
-img: "/The-Iron-Ragdoll/img/8Xho2_LDrf-500.webp"
-},
-
-
-{
-name: "Nebula",
-color: "#d87099",
-desc: "Arch-Magician.",
-img: "/The-Iron-Ragdoll/img/1pt1BCnpa_-500.webp"
-},
-
-
-{
-name: "Fantasy",
-color: "#ce00af",
-desc: "",
-img: "/The-Iron-Ragdoll/img/7VxTeivOkc-500.webp"
-},
-
-
-{
-name: "Ironheart",
-color: "#69272b",
-desc: "The cocky sibling we all hate.",
-img: "/The-Iron-Ragdoll/img/X1UC_94NBe-500.webp"
-},
-
-
-{
-name: "Nightsun",
-color: "#130b51",
-desc: "Freelance spy.",
-img: "/The-Iron-Ragdoll/img/p-5settivW-500.webp"
-},
-
-
-{
-name: "Goose",
-color: "#D54269",
-desc: "Bandwagon girl.",
-img: "/The-Iron-Ragdoll/img/NS87GcDb1F-500.webp"
-},
-
-
-{
-name: "Pumpkin",
-color: "#E3744D",
-desc: "Doormat boy.",
-img: "/The-Iron-Ragdoll/img/bBDPIKAzCM-500.webp"
-},
-
-
-{
-name: "Halcyon",
-color: "#008E9B",
-desc: "The only one in the team who actually works.",
-img: "/The-Iron-Ragdoll/img/oXzV1wErBW-500.webp"
-},
-
-
-{
-name: "Paperweight",
-color: "#2e2e2e",
-desc: "Grouchy old guy who hates fun.",
-img: "/The-Iron-Ragdoll/img/yxLboOkVJ6-500.webp"
-},
-
-
-{
-name: "Gecko",
-color: "#a40ca7",
-desc: "Serial smuggler.",
-img: "/The-Iron-Ragdoll/img/p1jsjHQ9Vp-500.webp"
-},
-
-
-{
-name: "Lark",
-color: "#06B87B",
-desc: "",
-img: "/The-Iron-Ragdoll/img/zLidiF6wRX-500.webp"
-},
-
-
-{
-name: "Pearl",
-color: "#caf1f1",
-desc: "A little girl who cries pearls",
-img: "/The-Iron-Ragdoll/img/IyjhPSRX5i-500.webp"
-},
-
-
-{
-name: "Fern",
-color: "#089b19",
-desc: "",
-img: "/The-Iron-Ragdoll/img/FKb6TPH7jB-500.webp"
-},
-
-
-{
-name: "Jackpot",
-color: "#AC7C26",
-desc: "Star entrepreneur.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Snake",
-color: "#c30963",
-desc: "",
-img: "/The-Iron-Ragdoll/img/ljCsEnGq_k-500.webp"
-},
-
-
-{
-name: "Snowball",
-color: "#D920D2",
-desc: "",
-img: "/The-Iron-Ragdoll/img/SnePzHLLG_-500.webp"
-},
-
-
-{
-name: "Buttercup",
-color: "#8c7503",
-desc: "Fleash rebel fighting for independence from Sylvandia.",
-img: "/The-Iron-Ragdoll/img/mlp-bT_fhj-500.webp"
-},
-
-
-{
-name: "Beauty",
-color: "#CE6C07",
-desc: "Obnoxious fangirl.",
-img: "/The-Iron-Ragdoll/img/Tfgayi1fw5-500.webp"
-},
-
-
-{
-name: "Chastity",
-color: "#C3BB4E",
-desc: "A freaking psychopath.",
-img: "/The-Iron-Ragdoll/img/4GF-DHLkHn-500.webp"
-},
-
-
-{
-name: "Devotion",
-color: "#017909",
-desc: "The boss of everything in existence.",
-img: "/The-Iron-Ragdoll/img/E0urr3te0V-500.webp"
-},
-
-
-{
-name: "Elegance",
-color: "#1054ad",
-desc: "For fuck's sake the only normal person in the family.",
-img: "/The-Iron-Ragdoll/img/NrbPgsGcOq-500.webp"
-},
-
-
-{
-name: "Animus",
-color: "#a10000",
-desc: "Would be normal too if he weren't a boy which makes him oh-so-special.",
-img: "/The-Iron-Ragdoll/img/yzU3D1P0VB-500.webp"
-},
-
-
-{
-name: "Cherry",
-color: "#601346",
-desc: "",
-img: "/The-Iron-Ragdoll/img/bz1j03_rxk-500.webp"
-},
-
-
-{
-name: "Hyrax",
-color: "#66210a",
-desc: "Starcorp legend",
-img: "/The-Iron-Ragdoll/img/nERn0QKcm0-500.webp"
-},
-
-
-{
-name: "Bramble",
-color: "#E19D0E",
-desc: "Silly little boy who writes his feelings all over his face.",
-img: "/The-Iron-Ragdoll/img/BVUSz79G7b-500.webp"
-},
-
-
-{
-name: "Bunchberry",
-color: "#ca4d3f",
-desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Peach",
-color: "#ec74e8",
-desc: "",
-img: "/The-Iron-Ragdoll/img/hn6RpLUVlL-500.webp"
-},
-
-
-{
-name: "Orchid",
-color: "#b74785",
-desc: "The Bauhinian princess.",
-img: "/The-Iron-Ragdoll/img/Lo5ID8w2E9-500.webp"
-},
-
-
-{
-name: "Peony",
-color: "#770954",
-desc: "The Bauhinian emperor.",
-img: "/The-Iron-Ragdoll/img/jRjACmBHjI-500.webp"
-},
-
-
-{
-name: "Kismet",
-color: "#000",
-desc: "President of Bauhinia.",
-img: "/The-Iron-Ragdoll/img/IkriICdn34-500.webp"
-},
-
-
-{
-name: "Pinecone",
-color: "#094205",
-desc: "",
-img: "/The-Iron-Ragdoll/img/en9PhMEXjF-500.webp"
-},
-
-
-{
-name: "Rosemary",
-color: "#14adab",
-desc: "Your gentle, caring friend?",
-img: "/The-Iron-Ragdoll/img/OY_D4SSO2t-500.webp"
-},
-
-
-{
-name: "Sundae",
-color: "#863094",
-desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Dragonfly",
-color: "#00adad",
-desc: "Some martial arts master.",
-img: "/The-Iron-Ragdoll/img/O8Du-58hgo-500.webp"
-},
-
-
-{
-name: "Koala",
-color: "#7F8587",
-desc: "Lead scientist of Project Boomerang.",
-img: "/The-Iron-Ragdoll/img/vZY-fR4R9i-500.webp"
-},
-
-
-{
-name: "Kangaroo",
-color: "#A36D1F",
-desc: "Co-lead scientist of Project Boomerang.",
-img: "/The-Iron-Ragdoll/img/qc0Jt8CwFM-500.webp"
-},
-
-
-{
-name: "Robin",
-color: "#a72b0c",
-desc: "Assistant physician in Project Boomerang.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Frosting",
-color: "#F676D2",
-desc: "",
-img: "/The-Iron-Ragdoll/img/lMY6pwjsa_-500.webp"
-},
-
-
-{
-name: "Jaculus",
-color: "#008bc7",
-desc: "Jerboa's big sister.",
-img: "/The-Iron-Ragdoll/img/Z9rtwST7gP-500.webp"
-},
-
-
-{
-name: "Candlelight",
-color: "#cb1616",
-desc: "A miserable wreck.",
-img: "/The-Iron-Ragdoll/img/VZx2xZYakL-500.webp"
-},
-
-
-{
-name: "Sundew",
-color: "#c93ba3",
-desc: "",
-img: "/The-Iron-Ragdoll/img/HS3QnjQpXU-500.webp"
-},
-
-
-{
-name: "Sunflower",
-color: "#cb9c1a",
-desc: "",
-img: "/The-Iron-Ragdoll/img/LlywIFBqGL-500.webp"
-},
-
-
-{
-name: "Starry",
-color: "#CC770F",
-desc: "Shy, quiet girl.",
-img: "/The-Iron-Ragdoll/img/8sldefbkqG-500.webp"
-},
-
-
-{
-name: "Icicle",
-color: "#72bed2",
-desc: "",
-img: "/The-Iron-Ragdoll/img/G-Wipn636T-500.webp"
-},
-
-
-{
-name: "Helsinki",
-color: "#5b3896",
-desc: "",
-img: "/The-Iron-Ragdoll/img/cC00NvezX3-500.webp"
-},
-
-
-{
-name: "Mooncake",
-color: "#0b8445",
-desc: "",
-img: "/The-Iron-Ragdoll/img/Q0SIqiGUWo-500.webp"
-},
-
-
-{
-name: "Thyme",
-color: "#3d7510",
-desc: "Leader of a tiny nameless village on the outskirts of Area 29",
-img: "/The-Iron-Ragdoll/img/cVEhsr1haL-500.webp"
-},
-
-
-{
-name: "Natasha",
-color: "#e665d5",
-desc: "Annoying devil-girl.",
-img: "/The-Iron-Ragdoll/img/ib6lw8wRYN-500.webp"
-},
-
-
-{
-name: "Moonflower",
-color: "#c78d0e",
-desc: "A dancer, but also an informer.",
-img: "/The-Iron-Ragdoll/img/kh2TwBrER5-500.webp"
-},
-
-
-{
-name: "Cobalt",
-color: "#0e81c8",
-desc: "Majiang-loving soul-dealer.",
-img: "/The-Iron-Ragdoll/img/Ab19PaiUbR-500.webp"
-},
-
-
-{
-name: "Kaleidoscope",
-color: "#6f4a16",
-desc: "",
-img: "/The-Iron-Ragdoll/img/LMXonkwLqP-500.webp"
-},
-
-
-{
-name: "Nightingale",
-color: "#d22dae",
-desc: "",
-img: "/The-Iron-Ragdoll/img/0wl8M_DeLf-500.webp"
-},
-
-
-{
-name: "Skyhawk",
-color: "#077838",
-desc: "",
-img: "/The-Iron-Ragdoll/img/yJ2qDbMd2H-500.webp"
-},
-
-
-{
-name: "Moonbeam",
-color: "#08d8e7",
-desc: "",
-img: "/The-Iron-Ragdoll/img/WlAsiWa6j3-500.webp"
-},
-
-
-{
-name: "Melody",
-color: "#426600",
-desc: "Quiet badass.",
-img: "/The-Iron-Ragdoll/img/GfKe55FsZr-500.webp"
-},
-
-
-{
-name: "Tundra",
-color: "#800080",
-desc: "",
-img: "/The-Iron-Ragdoll/img/jQn5TjNevW-500.webp"
-},
-
-
-{
-name: "Vampire",
-color: "#dd8736",
-desc: "Has spent more time as a dragon than as a human.",
-img: "/The-Iron-Ragdoll/img/GtfWqsWaS_-500.webp"
-},
-
-
-{
-name: "Jackalope",
-color: "#b90912",
-desc: "",
-img: "/The-Iron-Ragdoll/img/gyc9ICgF0U-500.webp"
-},
-
-
-{
-name: "Whiteout",
-color: "#178c79",
-desc: "Senior MSS agent",
-img: "/The-Iron-Ragdoll/img/FevBLXGT6v-500.webp"
-},
-
-
-{
-name: "Entity",
-color: "#1692bb",
-desc: "State-sanctioned murderer",
-img: "/The-Iron-Ragdoll/img/YglDaO_qaD-500.webp"
-},
-
-
-{
-name: "Harmony",
-color: "#6d4091",
-desc: "Aspiring spy kid.",
-img: "/The-Iron-Ragdoll/img/CY2fmWJzMG-500.webp"
-},
-
-
-{
-name: "Sugarcane",
-color: "#0fa982",
-desc: "Faithful student at Spy School.",
-img: "/The-Iron-Ragdoll/img/rDsfswLdUL-500.webp"
-},
-
-
-{
-name: "Rose",
-color: "#b7155b",
-desc: "",
-img: "/The-Iron-Ragdoll/img/2KQtBdWNX9-500.webp"
-},
-
-
-{
-name: "Cosmo",
-color: "#998cbd",
-desc: "",
-img: "/The-Iron-Ragdoll/img/scFrnq_kVy-500.webp"
-},
-
-
-{
-name: "Sunny",
-color: "#071cbb",
-desc: "",
-img: "/The-Iron-Ragdoll/img/LQE_YBXArW-500.webp"
-},
-
-
-{
-name: "Thunder",
-color: "#DCCB09",
-desc: "",
-img: "/The-Iron-Ragdoll/img/-DCSm1hLip-500.webp"
-},
-
-
-{
-name: "Jewel",
-color: "#d6af29",
-desc: "Catgirl.",
-img: "/The-Iron-Ragdoll/img/vy3ZYHanaW-500.webp"
-},
-
-
-{
-name: "Jelly",
-color: "#1091b1",
-desc: "Lonely little kid.",
-img: "/The-Iron-Ragdoll/img/7HdgGyVM0G-500.webp"
-},
-
-
-{
-name: "Checkers",
-color: "#a01c0d",
-desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Jasmine",
-color: "#1ca091",
-desc: "Poet, writer, and a free soul.",
-img: "/The-Iron-Ragdoll/img/5tuQvnEw5W-500.webp"
-},
-
-
-{
-name: "Gorgeous",
-color: "#1babd0",
-desc: "Executed ghost.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Jinx",
-color: "#629970",
-desc: "",
-img: "/The-Iron-Ragdoll/img/zM3R59gdOR-500.webp"
-},
-
-
-{
-name: "Typhoon",
-color: "#5d3209",
-desc: "",
-img: "/The-Iron-Ragdoll/img/FiBuyhMHq7-500.webp"
-},
-
-
-{
-name: "Tsunami",
-color: "#0a58bd",
-desc: "Some random hotel concierge with a lot of aura about.",
-img: "/The-Iron-Ragdoll/img/nsddj5ib4E-500.webp"
-},
-
-
-{
-name: "Jumbo",
-color: "#cc0f0f",
-desc: "",
-img: "/The-Iron-Ragdoll/img/0FUrC1X_K5-500.webp"
-},
-
-
-{
-name: "Mulberry",
-color: "#06740d",
-desc: "",
-img: "/The-Iron-Ragdoll/img/GfVpeZpf2h-500.webp"
-},
-
-
-{
-name: "Blackjack",
-color: "#2e2e2e",
-desc: "",
-img: "/The-Iron-Ragdoll/img/JKVnlHdvR8-500.webp"
-},
-
-
-{
-name: "Holly",
-color: "#1a5022",
-desc: "Prospective TV star.",
-img: "/The-Iron-Ragdoll/img/Yh1eAuNusH-500.webp"
-},
-
-
-{
-name: "Galaxy",
-color: "#ded318",
-desc: "Ridiculous bodyguard wannabe.",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Spark",
-color: "#f25088",
-desc: "The pawn.",
-img: "/The-Iron-Ragdoll/img/sKN7MKYtpv-500.webp"
-},
-
-
-{
-name: "Chariot",
-color: "#dab80b",
-desc: "The rook.",
-img: "/The-Iron-Ragdoll/img/lCBmBvPZOJ-500.webp"
-},
-
-
-{
-name: "Equestria",
-color: "#339ee1",
-desc: "The knight.",
-img: "/The-Iron-Ragdoll/img/5KfPUkNndd-500.webp"
-},
-
-
-{
-name: "Ivory",
-color: "#ae51ec",
-desc: "The bishop.",
-img: "/The-Iron-Ragdoll/img/j8vKYSPQwX-500.webp"
-},
-
-
-{
-name: "Tiara",
-color: "#919191",
-desc: "The queen.",
-img: "/The-Iron-Ragdoll/img/AXcvhK5HrY-500.webp"
-},
-
-
-{
-name: "Cornflower",
-color: "#45519d",
-desc: "Wiretapper for the MSS.",
-img: "/The-Iron-Ragdoll/img/Q-b3N7u-JY-500.webp"
-},
-
-
-{
-name: "Starlight",
-color: "#262852",
-desc: "Head researcher at the Center for Research on Souls.",
-img: "/The-Iron-Ragdoll/img/VG7pk5yMHI-500.webp"
-},
-
-
-{
-name: "Sparrow",
-color: "#f0dd0f",
-desc: "Silly tech enthusiast.",
-img: "/The-Iron-Ragdoll/img/rxxcjCpvT3-500.webp"
-},
-
-
-{
-name: "Mist",
-color: "#e246c3",
-desc: "Professional hacker.",
-img: "/The-Iron-Ragdoll/img/CHJljhAffS-500.webp"
-},
-
-
-{
-name: "Proxy",
-color: "#123e6d",
-desc: "",
-img: "/The-Iron-Ragdoll/img/Bf1ryBeAUw-500.webp"
-},
-
-
-{
-name: "Flutter",
-color: "#33caf0",
-desc: "Time-loop warrior",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Dart",
-color: "#0e7c4c",
-desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Appaloosa",
-color: "#c9781d",
-desc: "",
-img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
-},
-
-
-{
-name: "Timber",
-color: "#a45e1f",
-desc: "Ace assassin.",
-img: "/The-Iron-Ragdoll/img/NiAsumSHis-500.webp"
-},
-
-];
+const data = [{
+  name: "Sparky",
+  color: "#0cf",
+  desc: "Our protagonist! Need I say more?",
+  img: "/The-Iron-Ragdoll/img/jZ2nylDn7l-500.webp"
+}, {
+  name: "Amber",
+  color: "#e15f19",
+  desc: "Hardworking girl who would be cheerful if she had the time to smile.",
+  img: "/The-Iron-Ragdoll/img/iuHhPR_M7h-500.webp"
+}, {
+  name: "Peacock",
+  color: "#20f",
+  desc: "Creepy old boy who knows everything and more.",
+  img: "/The-Iron-Ragdoll/img/SjmE0PEif4-500.webp"
+}, {
+  name: "Willow",
+  color: "#199400",
+  desc: "Princess of the family.",
+  img: "/The-Iron-Ragdoll/img/TmYB1wXgX_-500.webp"
+}, {
+  name: "Ribbon",
+  color: "#e368d3",
+  desc: "Owner of the bakery!",
+  img: "/The-Iron-Ragdoll/img/cGnz0mp_Z6-500.webp"
+}, {
+  name: "Qibli",
+  color: "#440044",
+  desc: "(KEE-blee) Magic chicken ADHD girl.",
+  img: "/The-Iron-Ragdoll/img/pIDB6BpkkZ-500.webp"
+}, {
+  name: "Sky",
+  color: "#236ce1",
+  desc: "Adventurous fidgety boy.",
+  img: "/The-Iron-Ragdoll/img/NJaCw0fUpv-500.webp"
+}, {
+  name: "Firecrackers",
+  color: "#8214bd",
+  desc: "Big kind boy with no manners.",
+  img: "/The-Iron-Ragdoll/img/6kVpHWFazd-500.webp"
+}, {
+  name: "Myriad",
+  color: "#d01b84",
+  desc: "Quiet, grumpy girl.",
+  img: "/The-Iron-Ragdoll/img/3TqotZ1fDK-500.webp"
+}, {
+  name: "Alaska",
+  color: "#6C0404",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/ZSwZUZm8X8-500.webp"
+}, {
+  name: "Tomato",
+  color: "#A10000",
+  desc: "The guy who can solve all your problems but doesn't want to.",
+  img: "/The-Iron-Ragdoll/img/4K8SvIh7hg-500.webp"
+}, {
+  name: "Potato",
+  color: "#bdad1b",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/scIAwaDZXQ-500.webp"
+}, {
+  name: "Guillotine",
+  color: "#d0ae3a",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/LuTpj-1rdH-500.webp"
+}, {
+  name: "Tephra",
+  color: "#008282",
+  desc: "The boss of everything at once, but nothing in particular.",
+  img: "/The-Iron-Ragdoll/img/Vsj4j7bY5c-500.webp"
+}, {
+  name: "Jerboa",
+  color: "#0867af",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/JLmmGj4kNR-500.webp"
+}, {
+  name: "Jam",
+  color: "#75430b",
+  desc: "Teacher of all the subjects because I'm too lazy to make more.",
+  img: "/The-Iron-Ragdoll/img/NgwTDBX9sZ-500.webp"
+}, {
+  name: "Trinket",
+  color: "#28aed1",
+  desc: "Nebula's successor.",
+  img: "/The-Iron-Ragdoll/img/8Xho2_LDrf-500.webp"
+}, {
+  name: "Nebula",
+  color: "#d87099",
+  desc: "Arch-Magician.",
+  img: "/The-Iron-Ragdoll/img/1pt1BCnpa_-500.webp"
+}, {
+  name: "Fantasy",
+  color: "#ce00af",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/7VxTeivOkc-500.webp"
+}, {
+  name: "Ironheart",
+  color: "#69272b",
+  desc: "The cocky sibling we all hate.",
+  img: "/The-Iron-Ragdoll/img/X1UC_94NBe-500.webp"
+}, {
+  name: "Nightsun",
+  color: "#130b51",
+  desc: "Freelance spy.",
+  img: "/The-Iron-Ragdoll/img/p-5settivW-500.webp"
+}, {
+  name: "Goose",
+  color: "#D54269",
+  desc: "Bandwagon girl.",
+  img: "/The-Iron-Ragdoll/img/NS87GcDb1F-500.webp"
+}, {
+  name: "Pumpkin",
+  color: "#E3744D",
+  desc: "Doormat boy.",
+  img: "/The-Iron-Ragdoll/img/bBDPIKAzCM-500.webp"
+}, {
+  name: "Halcyon",
+  color: "#008E9B",
+  desc: "The only one in the team who actually works.",
+  img: "/The-Iron-Ragdoll/img/oXzV1wErBW-500.webp"
+}, {
+  name: "Paperweight",
+  color: "#2e2e2e",
+  desc: "Grouchy old guy who hates fun.",
+  img: "/The-Iron-Ragdoll/img/yxLboOkVJ6-500.webp"
+}, {
+  name: "Gecko",
+  color: "#a40ca7",
+  desc: "Serial smuggler.",
+  img: "/The-Iron-Ragdoll/img/p1jsjHQ9Vp-500.webp"
+}, {
+  name: "Lark",
+  color: "#06B87B",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/zLidiF6wRX-500.webp"
+}, {
+  name: "Pearl",
+  color: "#caf1f1",
+  desc: "A little girl who cries pearls",
+  img: "/The-Iron-Ragdoll/img/IyjhPSRX5i-500.webp"
+}, {
+  name: "Fern",
+  color: "#089b19",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/FKb6TPH7jB-500.webp"
+}, {
+  name: "Jackpot",
+  color: "#AC7C26",
+  desc: "Star entrepreneur.",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Snake",
+  color: "#c30963",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/ljCsEnGq_k-500.webp"
+}, {
+  name: "Snowball",
+  color: "#D920D2",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/SnePzHLLG_-500.webp"
+}, {
+  name: "Buttercup",
+  color: "#8c7503",
+  desc: "Fleash rebel fighting for independence from Sylvandia.",
+  img: "/The-Iron-Ragdoll/img/mlp-bT_fhj-500.webp"
+}, {
+  name: "Beauty",
+  color: "#CE6C07",
+  desc: "Obnoxious fangirl.",
+  img: "/The-Iron-Ragdoll/img/Tfgayi1fw5-500.webp"
+}, {
+  name: "Chastity",
+  color: "#C3BB4E",
+  desc: "A freaking psychopath.",
+  img: "/The-Iron-Ragdoll/img/4GF-DHLkHn-500.webp"
+}, {
+  name: "Devotion",
+  color: "#017909",
+  desc: "The boss of everything in existence.",
+  img: "/The-Iron-Ragdoll/img/E0urr3te0V-500.webp"
+}, {
+  name: "Elegance",
+  color: "#1054ad",
+  desc: "For fuck's sake the only normal person in the family.",
+  img: "/The-Iron-Ragdoll/img/NrbPgsGcOq-500.webp"
+}, {
+  name: "Animus",
+  color: "#a10000",
+  desc: "Would be normal too if he weren't a boy which makes him oh-so-special.",
+  img: "/The-Iron-Ragdoll/img/yzU3D1P0VB-500.webp"
+}, {
+  name: "Cherry",
+  color: "#601346",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/bz1j03_rxk-500.webp"
+}, {
+  name: "Hyrax",
+  color: "#66210a",
+  desc: "Starcorp legend",
+  img: "/The-Iron-Ragdoll/img/nERn0QKcm0-500.webp"
+}, {
+  name: "Bramble",
+  color: "#E19D0E",
+  desc: "Silly little boy who writes his feelings all over his face.",
+  img: "/The-Iron-Ragdoll/img/BVUSz79G7b-500.webp"
+}, {
+  name: "Bunchberry",
+  color: "#ca4d3f",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Peach",
+  color: "#ec74e8",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/hn6RpLUVlL-500.webp"
+}, {
+  name: "Orchid",
+  color: "#b74785",
+  desc: "The Bauhinian princess.",
+  img: "/The-Iron-Ragdoll/img/Lo5ID8w2E9-500.webp"
+}, {
+  name: "Peony",
+  color: "#770954",
+  desc: "The Bauhinian emperor.",
+  img: "/The-Iron-Ragdoll/img/jRjACmBHjI-500.webp"
+}, {
+  name: "Kismet",
+  color: "#000",
+  desc: "President of Bauhinia.",
+  img: "/The-Iron-Ragdoll/img/IkriICdn34-500.webp"
+}, {
+  name: "Pinecone",
+  color: "#094205",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/en9PhMEXjF-500.webp"
+}, {
+  name: "Rosemary",
+  color: "#14adab",
+  desc: "Your gentle, caring friend?",
+  img: "/The-Iron-Ragdoll/img/OY_D4SSO2t-500.webp"
+}, {
+  name: "Sundae",
+  color: "#863094",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Dragonfly",
+  color: "#00adad",
+  desc: "Some martial arts master.",
+  img: "/The-Iron-Ragdoll/img/O8Du-58hgo-500.webp"
+}, {
+  name: "Koala",
+  color: "#7F8587",
+  desc: "Lead scientist of Project Boomerang.",
+  img: "/The-Iron-Ragdoll/img/vZY-fR4R9i-500.webp"
+}, {
+  name: "Kangaroo",
+  color: "#A36D1F",
+  desc: "Co-lead scientist of Project Boomerang.",
+  img: "/The-Iron-Ragdoll/img/qc0Jt8CwFM-500.webp"
+}, {
+  name: "Robin",
+  color: "#a72b0c",
+  desc: "Assistant physician in Project Boomerang.",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Frosting",
+  color: "#F676D2",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/lMY6pwjsa_-500.webp"
+}, {
+  name: "Jaculus",
+  color: "#008bc7",
+  desc: "Jerboa's big sister.",
+  img: "/The-Iron-Ragdoll/img/Z9rtwST7gP-500.webp"
+}, {
+  name: "Candlelight",
+  color: "#cb1616",
+  desc: "A miserable wreck.",
+  img: "/The-Iron-Ragdoll/img/VZx2xZYakL-500.webp"
+}, {
+  name: "Sundew",
+  color: "#c93ba3",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/HS3QnjQpXU-500.webp"
+}, {
+  name: "Sunflower",
+  color: "#cb9c1a",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/LlywIFBqGL-500.webp"
+}, {
+  name: "Starry",
+  color: "#CC770F",
+  desc: "Shy, quiet girl.",
+  img: "/The-Iron-Ragdoll/img/8sldefbkqG-500.webp"
+}, {
+  name: "Icicle",
+  color: "#72bed2",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/G-Wipn636T-500.webp"
+}, {
+  name: "Helsinki",
+  color: "#5b3896",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/cC00NvezX3-500.webp"
+}, {
+  name: "Mooncake",
+  color: "#0b8445",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/Q0SIqiGUWo-500.webp"
+}, {
+  name: "Thyme",
+  color: "#3d7510",
+  desc: "Leader of a tiny nameless village on the outskirts of Area 29",
+  img: "/The-Iron-Ragdoll/img/cVEhsr1haL-500.webp"
+}, {
+  name: "Natasha",
+  color: "#e665d5",
+  desc: "Annoying devil-girl.",
+  img: "/The-Iron-Ragdoll/img/ib6lw8wRYN-500.webp"
+}, {
+  name: "Moonflower",
+  color: "#c78d0e",
+  desc: "A dancer, but also an informer.",
+  img: "/The-Iron-Ragdoll/img/kh2TwBrER5-500.webp"
+}, {
+  name: "Cobalt",
+  color: "#0e81c8",
+  desc: "Majiang-loving soul-dealer.",
+  img: "/The-Iron-Ragdoll/img/Ab19PaiUbR-500.webp"
+}, {
+  name: "Kaleidoscope",
+  color: "#6f4a16",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/LMXonkwLqP-500.webp"
+}, {
+  name: "Nightingale",
+  color: "#d22dae",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/0wl8M_DeLf-500.webp"
+}, {
+  name: "Skyhawk",
+  color: "#077838",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/yJ2qDbMd2H-500.webp"
+}, {
+  name: "Moonbeam",
+  color: "#08d8e7",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/WlAsiWa6j3-500.webp"
+}, {
+  name: "Melody",
+  color: "#426600",
+  desc: "Quiet badass.",
+  img: "/The-Iron-Ragdoll/img/GfKe55FsZr-500.webp"
+}, {
+  name: "Tundra",
+  color: "#800080",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/jQn5TjNevW-500.webp"
+}, {
+  name: "Vampire",
+  color: "#dd8736",
+  desc: "Has spent more time as a dragon than as a human.",
+  img: "/The-Iron-Ragdoll/img/GtfWqsWaS_-500.webp"
+}, {
+  name: "Jackalope",
+  color: "#b90912",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/gyc9ICgF0U-500.webp"
+}, {
+  name: "Whiteout",
+  color: "#178c79",
+  desc: "Senior MSS agent",
+  img: "/The-Iron-Ragdoll/img/FevBLXGT6v-500.webp"
+}, {
+  name: "Entity",
+  color: "#1692bb",
+  desc: "State-sanctioned murderer",
+  img: "/The-Iron-Ragdoll/img/YglDaO_qaD-500.webp"
+}, {
+  name: "Harmony",
+  color: "#6d4091",
+  desc: "Aspiring spy kid.",
+  img: "/The-Iron-Ragdoll/img/CY2fmWJzMG-500.webp"
+}, {
+  name: "Sugarcane",
+  color: "#0fa982",
+  desc: "Faithful student at Spy School.",
+  img: "/The-Iron-Ragdoll/img/rDsfswLdUL-500.webp"
+}, {
+  name: "Rose",
+  color: "#b7155b",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/2KQtBdWNX9-500.webp"
+}, {
+  name: "Cosmo",
+  color: "#998cbd",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/scFrnq_kVy-500.webp"
+}, {
+  name: "Sunny",
+  color: "#071cbb",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/LQE_YBXArW-500.webp"
+}, {
+  name: "Thunder",
+  color: "#DCCB09",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/-DCSm1hLip-500.webp"
+}, {
+  name: "Jewel",
+  color: "#d6af29",
+  desc: "Catgirl.",
+  img: "/The-Iron-Ragdoll/img/vy3ZYHanaW-500.webp"
+}, {
+  name: "Jelly",
+  color: "#1091b1",
+  desc: "Lonely little kid.",
+  img: "/The-Iron-Ragdoll/img/7HdgGyVM0G-500.webp"
+}, {
+  name: "Checkers",
+  color: "#a01c0d",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Jasmine",
+  color: "#1ca091",
+  desc: "Poet, writer, and a free soul.",
+  img: "/The-Iron-Ragdoll/img/5tuQvnEw5W-500.webp"
+}, {
+  name: "Gorgeous",
+  color: "#1babd0",
+  desc: "Executed ghost.",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Jinx",
+  color: "#629970",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/zM3R59gdOR-500.webp"
+}, {
+  name: "Typhoon",
+  color: "#5d3209",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/FiBuyhMHq7-500.webp"
+}, {
+  name: "Tsunami",
+  color: "#0a58bd",
+  desc: "Some random hotel concierge with a lot of aura about.",
+  img: "/The-Iron-Ragdoll/img/nsddj5ib4E-500.webp"
+}, {
+  name: "Jumbo",
+  color: "#cc0f0f",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/0FUrC1X_K5-500.webp"
+}, {
+  name: "Mulberry",
+  color: "#06740d",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/GfVpeZpf2h-500.webp"
+}, {
+  name: "Blackjack",
+  color: "#2e2e2e",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/JKVnlHdvR8-500.webp"
+}, {
+  name: "Holly",
+  color: "#1a5022",
+  desc: "Prospective TV star.",
+  img: "/The-Iron-Ragdoll/img/Yh1eAuNusH-500.webp"
+}, {
+  name: "Galaxy",
+  color: "#ded318",
+  desc: "Ridiculous bodyguard wannabe.",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Spark",
+  color: "#f25088",
+  desc: "The pawn.",
+  img: "/The-Iron-Ragdoll/img/sKN7MKYtpv-500.webp"
+}, {
+  name: "Chariot",
+  color: "#dab80b",
+  desc: "The rook.",
+  img: "/The-Iron-Ragdoll/img/lCBmBvPZOJ-500.webp"
+}, {
+  name: "Equestria",
+  color: "#339ee1",
+  desc: "The knight.",
+  img: "/The-Iron-Ragdoll/img/5KfPUkNndd-500.webp"
+}, {
+  name: "Ivory",
+  color: "#ae51ec",
+  desc: "The bishop.",
+  img: "/The-Iron-Ragdoll/img/j8vKYSPQwX-500.webp"
+}, {
+  name: "Tiara",
+  color: "#919191",
+  desc: "The queen.",
+  img: "/The-Iron-Ragdoll/img/AXcvhK5HrY-500.webp"
+}, {
+  name: "Cornflower",
+  color: "#45519d",
+  desc: "Wiretapper for the MSS.",
+  img: "/The-Iron-Ragdoll/img/Q-b3N7u-JY-500.webp"
+}, {
+  name: "Starlight",
+  color: "#262852",
+  desc: "Head researcher at the Center for Research on Souls.",
+  img: "/The-Iron-Ragdoll/img/VG7pk5yMHI-500.webp"
+}, {
+  name: "Sparrow",
+  color: "#f0dd0f",
+  desc: "Silly tech enthusiast.",
+  img: "/The-Iron-Ragdoll/img/rxxcjCpvT3-500.webp"
+}, {
+  name: "Mist",
+  color: "#e246c3",
+  desc: "Professional hacker.",
+  img: "/The-Iron-Ragdoll/img/CHJljhAffS-500.webp"
+}, {
+  name: "Proxy",
+  color: "#123e6d",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/Bf1ryBeAUw-500.webp"
+}, {
+  name: "Flutter",
+  color: "#33caf0",
+  desc: "Time-loop warrior",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Dart",
+  color: "#0e7c4c",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Appaloosa",
+  color: "#c9781d",
+  desc: "",
+  img: "/The-Iron-Ragdoll/img/V6YTJTL9cL-100.webp"
+}, {
+  name: "Timber",
+  color: "#a45e1f",
+  desc: "Ace assassin.",
+  img: "/The-Iron-Ragdoll/img/NiAsumSHis-500.webp"
+}, ];
