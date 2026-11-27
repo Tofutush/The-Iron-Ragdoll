@@ -19,6 +19,13 @@
 		url(/fonts/NotoSansArabic-VariableFont_wdth\,wght.ttf);
 }
 
+@font-face {
+	font-family: jetbrain mono;
+	src: local(Jetbrains Mono),
+		url(/The-Iron-Ragdoll/fonts/JetBrainsMono-VariableFont_wght.ttf),
+		url(/fonts/JetBrainsMono-VariableFont_wght.ttf);
+}
+
 & {
 	interpolate-size: allow-keywords;
 }
@@ -738,7 +745,8 @@ span.tooltip {
 code {
 	background-color: var(--box);
 	border-radius: 6px;
-	font-family: Consolas;
+	font-family: jetbrains mono;
+	font-size: var(--font-size-small);
 	padding: 3px 8px;
 	overflow-wrap: anywhere;
 }

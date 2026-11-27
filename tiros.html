@@ -39,7 +39,27 @@
     </div>
     <h1>TIROS</h1>
     <p class="lighter-text">Browse the website in a fake terminal!</p>
-    <section class="terminal"></section>
+    <style>
+      .terminal {
+        background-color: rgb(0, 0, 0);
+        height: 20em;
+        border-radius: 1em;
+        resize: vertical;
+        overflow-y: auto;
+        overscroll-behavior: contain;
+        padding: 1em;
+
+        pre {
+          margin: 0;
+          font-family: jetbrains mono;
+          font-size: var(--font-size-small);
+        }
+      }
+    </style>
+    <section class="terminal">
+      <pre>
+Enter username: </pre>
+    </section>
     <script src="js/tiros.js"></script>
   </main>
   <footer>
