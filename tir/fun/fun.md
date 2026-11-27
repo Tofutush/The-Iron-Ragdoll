@@ -8,27 +8,28 @@ eleventyNavigation:
 ---
 
 - In-universe
-	- [Digital Orrery](/fun/orrery/)
-		- [Live wallpaper guide](/fun/orrery/guide/)
-	- [Moose ID Calculator](/fun/moose-id/)
+	- [Digital Orrery](orrery/)
+		- [Live wallpaper guide](orrery/guide/)
+	- [Moose ID Calculator](moose-id/)
 - Games
-	- [Fav Picker](/fun/fav/)
-	- [Guessing Game](/fun/guess/)
-	- [Scavenger Hunt](/fun/hunt/)
+	- [Fav Picker](fav/)
+	- [Guessing Game](guess/)
+	- [Scavenger Hunt](hunt/)
 	- [Feed Sparky something!](https://tofutush.itch.io/sparky-hungry)
 	- [Idle Forced Labor Camp](https://tofutush.github.io/idlegame), a cursed game about running a forced labor camp. (INCOMPLETE)
 - Personality quizzes
-	- [MSS Quiz](/fun/mss-quiz/)
-	- [Superpower Quiz](/fun/superpower-quiz/)
+	- [MSS Quiz](mss-quiz/)
+	- [Superpower Quiz](superpower-quiz/)
 - Generators
-	- [OC Generator](/fun/generator/)
-	- [Scenario Generator](/fun/scenarios/)
+	- [OC Generator](generator/)
+	- [Scenario Generator](scenarios/)
 - Meta
 	- [Favorites Leaderboard](https://tofutush.leprd.space)
+	- [TIROS](tiros/)
 	- [Blog posts about TIR](https://tofutush.github.io/tag/tir)
 	- [Microblog posts about TIR](https://tofutush.leprd.space/microblog/?tag=tir)
 - Random pages
-	- [Random file](/fun/random/file/)
-	- [Random character](/fun/random/character/)
-	- [Random story](/fun/random/story/)
-	- [Random world file](/fun/random/world/)
+	- [Random file](random/file/)
+	- [Random character](random/character/)
+	- [Random story](random/story/)
+	- [Random world file](random/world/)

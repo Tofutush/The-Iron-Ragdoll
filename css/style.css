@@ -386,21 +386,6 @@ blockquote {
 	}
 }
 
-pre {
-	max-width: 100%;
-	overflow-x: auto;
-	overflow-y: hidden;
-	padding: 1rem;
-	background-color: var(--box);
-	color: var(--text);
-	font-size: var(--font-size);
-	border-radius: 12px;
-
-	& code {
-		background-color: transparent;
-	}
-}
-
 .footnote-ref a {
 	text-decoration: none;
 }
