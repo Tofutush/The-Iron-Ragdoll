@@ -40,25 +40,50 @@
     <h1>TIROS</h1>
     <p class="lighter-text">Browse the website in a fake terminal!</p>
     <style>
-      .terminal {
-        background-color: rgb(0, 0, 0);
+      #terminal {
+        background-color: #000;
+        color: var(--off-white);
         height: 20em;
         border-radius: 1em;
         resize: vertical;
         overflow-y: auto;
         overscroll-behavior: contain;
         padding: 1em;
+        font-family: jetbrains mono;
+        font-size: var(--font-size-small);
 
-        pre {
+        #output {
           margin: 0;
-          font-family: jetbrains mono;
-          font-size: var(--font-size-small);
+          overflow-wrap: anywhere;
+        }
+
+        #line {
+          display: flex;
+
+          #prompt {
+            white-space: pre;
+          }
+
+          #input {
+            flex: 1;
+            min-width: 0;
+            padding: 0;
+            border: 0;
+            outline: 0;
+            background: transparent;
+            color: inherit;
+            font: inherit;
+            caret-color: currentColor;
+          }
         }
       }
     </style>
-    <section class="terminal">
-      <pre>
-Enter username: </pre>
+    <section id="terminal">
+      <pre id="output"></pre>
+      <div id="line">
+        <span id="prompt">Enter username: </span>
+        <input id="input" type="text" />
+      </div>
     </section>
     <script src="js/tiros.js"></script>
   </main>
