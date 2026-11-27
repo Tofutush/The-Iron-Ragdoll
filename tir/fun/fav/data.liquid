@@ -13,4 +13,4 @@ img: "{{ url | htmlBaseUrl }}"
 },
 {% endfor %}
 ];{% endcapture %}
-{% text | beautify %}
+{{ text | beautify }}
