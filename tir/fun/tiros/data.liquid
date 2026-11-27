@@ -1,0 +1,63 @@
+---
+permalink: "fun/tiros/data.js"
+eleventyExcludeFromCollections: true
+---
+{% capture text %}// yes i reproduced like half the site in here dont look plz
+const data = {
+  characters: [
+    {% for ch in characters %}
+      {
+        name: "{{ ch.name }}",
+        {% if ch.namezh %}"chinese-name": "{{ ch.namezh }}",{% endif %}
+        {% if ch.namebh %}"bauhinian-name": "{{ ch.namebh }}",{% endif %}
+        color: "{{ ch.color }}",
+        {% if ch.desc %}desc: "{{ ch.desc }}",{% endif %}
+        {% if ch.quote %}quote: {{ ch.quote | json }},{% endif %}
+        {% if ch.about %}about: {{ ch.about | json }},{% endif %}
+        {% if ch.trivia %}trivia: {{ ch.trivia | json }},{% endif %}
+        {% if ch.note %}note: {{ ch.note | json }},{% endif %}
+        {% if ch.tags.size > 0 %}tags: {{ ch.tags | json }},{% endif %}
+        {% if ch.palette %}palette: {{ ch.palette | json }},{% endif %}
+        url: "{{ '/characters/' | append: ch.name | downcase | append: '/' | htmlBaseUrl }}",
+        {% for att in ch.attr %}
+          "{{ att[0] }}": "{{ att[1] }}",
+        {% endfor %}
+      },
+    {% endfor %}
+  ],
+  stories: [
+    {% for s in collections.stories %}
+    {
+      id: "{{ s.fileSlug }}",
+      title: "{{ s.data.title }}",
+      {% if s.data.desc %}desc: {{ s.data.desc | json }},{% endif %}
+      {% if s.data.time %}time: "{{ s.data.time }}",{% endif %}
+      {% if s.data.chs.size > 0 %}chs: {{ s.data.chs | json }},{% endif %}
+      {% if s.data.myTags.size > 0 %}tags: {{ s.data.myTags | json }},{% endif %}
+      {% if s.data.prev.size > 0 %}
+        parentIds: [
+          {% for parent in s.data.prev %}
+            "{{ parent | getNameFromLink }}",
+          {% endfor %}
+        ],
+      {% endif %}
+      url: "{{ s.url | htmlBaseUrl }}"
+    },
+    {% endfor %}
+  ],
+  gallery: {{ gallery | json }},
+  rel: {{ relationships | json }},
+  events: {{ timeline | json }},
+  world: [
+    {% for p in collections.world %}
+      {
+        id: "{{ p.fileSlug }}",
+        title: "{{ p.data.title }}",
+        {% if p.data.desc %}desc: "{{ p.data.desc }}",{% endif %}
+        {% if p.data.categories.size > 0 %}categories: {{ p.data.categories | json }},{% endif %}
+        url: "{{ p.url | htmlBaseUrl }}"
+      },
+    {% endfor %}
+  ]
+};{% endcapture %}
+{{ text | beautify }}
