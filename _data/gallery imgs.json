@@ -7006,5 +7006,21 @@
       "tiara"
     ],
     "kind": "fullbody"
+  },
+  {
+    "name": "mist thumb",
+    "date": "2026-11-27",
+    "ch": [
+      "mist"
+    ],
+    "kind": "thumb"
+  },
+  {
+    "name": "trinket arch",
+    "date": "2026-11-27",
+    "ch": [
+      "trinket"
+    ],
+    "kind": "fullbody"
   }
 ]

@@ -9,3 +9,4 @@
 	- inspect (i)
 	- query (q)
 	- include & exclude as pipes?
+	- chat: post messages

@@ -5,6 +5,11 @@ eleventyNavigation:
   order: 990
 ---
 
+## 2026-11-27
+
+- Added character [Mist](/characters/mist/);
+- Added `mist thumb.png`, `trinket arch.png`;
+
 ## 2026-11-25
 
 - Added `bunny stand.png`, `tiara stand.png`, updated `tiara thumb.png`;

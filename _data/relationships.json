@@ -2623,6 +2623,19 @@
   {
     "ch": [
       [
+        "Sparrow",
+        "classmate"
+      ],
+      [
+        "Mist",
+        "classmate"
+      ]
+    ],
+    "desc": "These two keep beefing with each other but *will* start kissing once everyone else looks away."
+  },
+  {
+    "ch": [
+      [
         "Flutter",
         "friend"
       ],

@@ -2320,7 +2320,25 @@
       "hair": "#D938AD"
     },
     "about": "After people at the CRS found out that souls could be serialized into data, Sparrow was hired as a computer science specialist to work on the project alongside Starlight.\n\nShe's quite carefree in its demeanors, confident in her hard skills, and treats every day like \"any work for me to do? No? Well, time to go play!\" But when she finds an interesting lead worth pursuing, she *will* work day and night until it's satisfied.\n\nAt first, she doesn't even believe in the concept of souls, thinking that someone is playing a deliberate prank on her. But later she came to accept that souls are actually a thing that exists.",
-    "trivia": "- She belongs to a group of people perhaps even rarer than immortals: people whose favorite color isn't their soul color. Perhaps this has something to do with her not believing in souls.\n    - She still likes yellow (it's like, genetically impossible to hate your soul color); she just likes pink *more*."
+    "trivia": "- She belongs to a group of people perhaps even rarer than immortals: people whose favorite color isn't their soul color. Perhaps this has something to do with her not believing in souls.\n    - She still likes yellow (it's like, genetically impossible to hate your soul color); she just likes pink *more*.\n- She says shit like \"oh my compiler\" and \"compiler bless you\" because the compiler is her God."
+  },
+  {
+    "name": "Mist",
+    "namezh": "迷雾",
+    "color": "#e246c3",
+    "desc": "Professional hacker.",
+    "tags": [
+      "Flower City",
+      "Bauhinia"
+    ],
+    "attr": {
+      "Nationality": "Bauhinian"
+    },
+    "palette": {
+      "hair": "#241348"
+    },
+    "about": "Mist graduated from University of Flower City's cybersecurity program alongside Sparrow. While most of her classmates then go to work in defense or that type of stuff, or go contracting like Sparrow, Mist became a cybercriminal.\n\nOne thing about this program is that, because of the small class size, they all know each other's styles and shit by heart and could practically all recognize it was Mist whenever she attacked a certain thing. So Mist is not a very successful criminal. The only thing keeping her from jail was that she also knows her classmates' weaknesses and could always resolve things without involving the police or the courts.",
+    "trivia": "- She seeds a torrent of [Copy's Archive](/world/mythology/#trivia)."
   },
   {
     "name": "Proxy",
