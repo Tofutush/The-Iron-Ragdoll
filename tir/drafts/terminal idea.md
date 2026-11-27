@@ -1,0 +1,11 @@
+- data
+	- characters
+	- gallery
+		- dithered / ascii art?
+	- world (how to get content?)
+	- stories
+	- timeline?
+- commands
+	- inspect (i)
+	- query (q)
+	- include & exclude as pipes?
