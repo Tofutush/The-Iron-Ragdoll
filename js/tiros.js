@@ -9,21 +9,36 @@ let prompt = "Enter username: ";
 let firstLine = true;
 
 function enterInput() {
-	let value = inputDiv.value;
-	outputDiv.textContent += prompt + value + "\n";
-	inputDiv.value = "";
+	let input = inputDiv.value;
 
 	if (firstLine) {
 		firstLine = false;
-		let name = value.trim()
+		let name = input.trim()
 			.replaceAll(' ', '-')
 			.replace(/[^a-zA-Z0-9]/g, '')
 			.replace(/[-]+/g, '-') || "guest";
 		prompt = `${name}@tiros:~$ `;
 		promptDiv.innerHTML = prompt;
 		promptDiv.style.color = theme;
+		outputDiv.innerHTML = `
+ ________  ______  _______            ______    ______
+/        |/      |/       \\          /      \\  /      \\
+████████/ ██████/ ███████  |        /██████  |/██████  |
+   ██ |     ██ |  ██ |__██ | ______ ██ |  ██ |██ \\__██/
+   ██ |     ██ |  ██    ██< /      |██ |  ██ |██      \\
+   ██ |     ██ |  ███████  |██████/ ██ |  ██ | ██████  |
+   ██ |    _██ |_ ██ |  ██ |        ██ \\__██ |/  \\__██ |
+   ██ |   / ██   |██ |  ██ |        ██    ██/ ██    ██/
+   ██/    ██████/ ██/   ██/          ██████/   ██████/
+
+Hello, ${name}! Type "help" to get started!
+`;
+	} else {
+		outputDiv.innerHTML += `<span style="color: ${theme}">${prompt}</span>${input}\n`;
 	}
+
 	terminal.scrollTop = terminal.scrollHeight;
+	inputDiv.value = '';
 	inputDiv.focus();
 }
 
