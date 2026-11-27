@@ -2,9 +2,10 @@
 permalink: "fun/guess/data.js"
 eleventyExcludeFromCollections: true
 ---
-{% assign data = characters | getGuessData: relationships %}
+{% capture text %}{% assign data = characters | getGuessData: relationships %}
 const data = {{ data | json }};
 
 const imgs = {
     {% for ch in data.ch %}{% assign profile = ch | downcase | append: ' profile' %}{% assign thumb = ch | downcase | append: ' thumb' %}{% capture url %}{% imageUrl profile 200 0 thumb %}{% endcapture %}{{ ch }}: "{{ url | htmlBaseUrl }}",{% endfor %}
-};
+};{% endcapture %}
+{{ text | beautify }}

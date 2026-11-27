@@ -3,7 +3,7 @@ permalink: "stories/map/data.js"
 layout: ""
 eleventyExcludeFromCollections: true
 ---
-const data = [
+{% capture text %}const data = [
 {% for s in collections.stories %}
     {
         id: "{{ s.data.title }}",
@@ -15,4 +15,5 @@ const data = [
         url: "{{ s.url }}"
     },
 {% endfor %}
-]
+];{% endcapture %}
+{{ text | beautify }}

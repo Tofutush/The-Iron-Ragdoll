@@ -1,7 +1,7 @@
 ---
 permalink: "characters/relationships/data.js"
 ---
-const data = {
+{% capture text %}const data = {
 ch: [
 {% for ch in characters %}
 {
@@ -22,4 +22,5 @@ rel2: "{{ rel.ch[1][1] }}",
 },
 {% endfor %}
 ]
-};
+};{% endcapture %}
+{{ text | beautify }}
