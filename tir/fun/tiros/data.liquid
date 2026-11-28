@@ -2,9 +2,9 @@
 permalink: "fun/tiros/data.js"
 eleventyExcludeFromCollections: true
 ---
-{% capture text %}// yes i reproduced like half the site in here dont look plz
+{% capture text %}// yes i reproduced like half the site in here dont look dont laugh plz
 const data = {
-  characters: [
+  chs: [
     {% for ch in characters %}
       {
         name: "{{ ch.name }}",
@@ -45,9 +45,9 @@ const data = {
     },
     {% endfor %}
   ],
-  gallery: {{ gallery | json }},
+  img: {{ gallery | json }},
   rel: {{ relationships | json }},
-  events: {{ timeline | json }},
+  tl: {{ timeline | json }},
   world: [
     {% for p in collections.world %}
       {
