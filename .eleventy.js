@@ -134,6 +134,12 @@ export default function (eleventyConfig) {
 	eleventyConfig.addFilter('isArray', function (arg) {
 		return Array.isArray(arg);
 	});
+	eleventyConfig.addFilter('beautify', function (content) {
+		return beautify.js(content, {
+			indent_size: 2,
+			preserve_newlines: false
+		});
+	})
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
 			let beautified = beautify.html(content, {

@@ -2,7 +2,7 @@
 permalink: "fun/fav/data.js"
 eleventyExcludeFromCollections: true
 ---
-const data = [
+{% capture text %}const data = [
 {% for ch in characters %}
 {% assign profile = ch.name | downcase | append: ' profile' %}{% assign thumb = ch.name | downcase | append: ' thumb' %}{% capture url %}{% imageUrl profile 500 'webp' thumb %}{% endcapture %}
 {
@@ -12,4 +12,5 @@ desc: "{{ ch.desc }}",
 img: "{{ url | htmlBaseUrl }}"
 },
 {% endfor %}
-];
+];{% endcapture %}
+{{ text | beautify }}
