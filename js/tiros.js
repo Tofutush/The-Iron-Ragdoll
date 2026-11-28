@@ -59,17 +59,27 @@ terminal.addEventListener("click", event => {
 
 inputDiv.focus();
 
-function handleInput(input) {
-	let parsed = parseCommand(input.toLowerCase());
-	input = input.toLowerCase();
-	if (input === 'help') {
-		return `Welcome to TIROS, the ultimate database for all things TIR!
+const commands = [
+	{
+		name: ['help'],
+		return: input => {
+			return `Welcome to TIROS, the ultimate database for all things TIR!
 Here are the commands available to you:
 - tables: list the tables inside the database
 - list (alias l): list the contents within a table
 - inspect (alias i): inspect a record
+- manual (alias man):
+Use "man [command]" to learn more about a specific command!
 As a non-admin, you only have read permissions.
 `;
+		}
+	}
+];
+
+function handleInput(input) {
+	let parsed = parseCommand(input.toLowerCase());
+	input = input.toLowerCase();
+	if (input === 'help') {
 	}
 	if (input === 'rm -rf /') {
 		terminal.remove();
