@@ -51,6 +51,7 @@
         padding: 1em;
         font-family: jetbrains mono;
         font-size: var(--font-size-small);
+        --color: #0cf;
 
         #output {
           margin: 0;
@@ -76,9 +77,14 @@
             caret-color: currentColor;
           }
         }
+
+        .colored {
+          color: var(--color);
+        }
       }
 
       #terminal::selection,
+      #terminal span::selection,
       #output::selection,
       #prompt::selection,
       #input::selection {

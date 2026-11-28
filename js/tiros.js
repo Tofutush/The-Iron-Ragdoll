@@ -36,7 +36,7 @@ function enterInput() {
 Hello, ${name}! Type "help" to get started!
 `;
 	} else {
-		outputDiv.innerHTML += `<span style="color: ${theme}">${prompt}</span>${input}\n${handleInput(input)}\n`;
+		outputDiv.innerHTML += `<span class="colored">${prompt}</span>${input}\n${handleInput(input)}\n`;
 	}
 
 	terminal.scrollTop = terminal.scrollHeight;
