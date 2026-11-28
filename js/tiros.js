@@ -8,6 +8,8 @@ let pwd = '~';
 
 let prompt = "Enter username: ";
 let firstLine = true;
+let hist = [];
+let histIdx = 0;
 
 function enterInput() {
 	let input = inputDiv.value;
@@ -36,6 +38,10 @@ function enterInput() {
 Hello, ${name}! Type "help" to get started!
 `;
 	} else {
+		if (hist.length == 0 || hist[hist.length - 1] !== input) {
+			hist.push(input);
+			histIdx = hist.length;
+		}
 		outputDiv.innerHTML += `<span class="colored">${prompt}</span>${input}\n${handleInput(input)}\n`;
 	}
 
@@ -48,6 +54,22 @@ inputDiv.addEventListener("keydown", event => {
 	if (event.key == "Enter") {
 		event.preventDefault();
 		enterInput();
+	} else if (event.key == 'ArrowUp') {
+		event.preventDefault();
+		if (hist.length == 0) return;
+		histIdx -= 1;
+		if (histIdx >= 0 && histIdx < hist.length)
+			inputDiv.value = hist[histIdx];
+		else
+			histIdx = Math.min(Math.max(histIdx, 0), hist.length);
+	} else if (event.key == 'ArrowDown') {
+		event.preventDefault();
+		histIdx += 1;
+		if (histIdx >= 0 && histIdx < hist.length)
+			inputDiv.value = hist[histIdx];
+		else
+			histIdx = Math.min(Math.max(histIdx, 0), hist.length);
+		if (histIdx >= hist.length) inputDiv.value = '';
 	}
 });
 
@@ -62,30 +84,38 @@ inputDiv.focus();
 const commands = [
 	{
 		name: ['help'],
-		return: input => {
+		execute: s => {
 			return `Welcome to TIROS, the ultimate database for all things TIR!
-Here are the commands available to you:
+Here are the database commands available to you:
 - tables: list the tables inside the database
 - list (alias l): list the contents within a table
 - inspect (alias i): inspect a record
-- manual (alias man):
-Use "man [command]" to learn more about a specific command!
-As a non-admin, you only have read permissions.
+- manual (alias man): check the documentation of a command or filter
+Use "man [command]" to learn more about a specific command.
+TIROS is a custom build of Ubuntu. As a non-admin, you only have read permissions.
 `;
+		}
+	},
+	{
+		name: ['rm'],
+		execute: s => {
+			if (s[1] == '-rf' && s[2] == '/') {
+				terminal.remove();
+				return;
+			}
+			return `${s.join(' ')}: Permission denied.`
 		}
 	}
 ];
 
 function handleInput(input) {
 	let parsed = parseCommand(input.toLowerCase());
-	input = input.toLowerCase();
-	if (input === 'help') {
+	for (let z = 0; z < parsed.length; z++) {
+		let curr = parsed[z];
+		let command = commands.find(c => c.name.includes(curr[0]));
+		if (!command) return `${curr[0]}: command not found.`
+		return command.execute(curr);
 	}
-	if (input === 'rm -rf /') {
-		terminal.remove();
-		return;
-	}
-	return 'Unknown command.'
 }
 
 function parseCommand(line) {
