@@ -25,7 +25,7 @@ eleventyNavigation:
 	- [Scenario Generator](scenarios/)
 - Meta
 	- [Favorites Leaderboard](https://tofutush.leprd.space)
-	- [TIROS](tiros/)
+	- [TIR-OS](tir-os/)
 	- [Blog posts about TIR](https://tofutush.github.io/tag/tir)
 	- [Microblog posts about TIR](https://tofutush.leprd.space/microblog/?tag=tir)
 - Random pages
