@@ -60,6 +60,7 @@ terminal.addEventListener("click", event => {
 inputDiv.focus();
 
 function handleInput(input) {
+	let parsed = parseCommand(input.toLowerCase());
 	input = input.toLowerCase();
 	if (input === 'help') {
 		return `Welcome to TIROS, the ultimate database for all things TIR!
@@ -76,3 +77,14 @@ As a non-admin, you only have read permissions.
 	}
 	return 'Unknown command.'
 }
+
+function parseCommand(line) {
+	let pipes = [];
+	let parts = line.trim().split('|');
+	for (let z = 0; z < parts.length; z++)
+		pipes.push(parts[z].trim().split(' ').filter(Boolean));
+	console.log(pipes);
+
+	return pipes.filter(Boolean);
+}
+// if quotes detected, say "no i dont parse quotes who do you think i am"

@@ -16,11 +16,11 @@ const data = {
         {% if ch.about %}about: {{ ch.about | json }},{% endif %}
         {% if ch.trivia %}trivia: {{ ch.trivia | json }},{% endif %}
         {% if ch.note %}note: {{ ch.note | json }},{% endif %}
-        {% if ch.tags.size > 0 %}tags: {{ ch.tags | json }},{% endif %}
-        {% if ch.palette %}palette: {{ ch.palette | json }},{% endif %}
+        {% if ch.tags.size > 0 %}tags: [{% for tag in ch.tags %}"{{ tag | slug }}",{% endfor %}],{% endif %}
+        {% if ch.palette %}palette: { {% for c in ch.palette %}"{{ c[0] | slug }}":"{{ c[1] }}",{% endfor %}},{% endif %}
         url: "{{ '/characters/' | append: ch.name | downcase | append: '/' | htmlBaseUrl }}",
         {% for att in ch.attr %}
-          "{{ att[0] }}": "{{ att[1] }}",
+          "{{ att[0] | slug }}": "{{ att[1] }}",
         {% endfor %}
       },
     {% endfor %}
@@ -33,7 +33,7 @@ const data = {
       {% if s.data.desc %}desc: {{ s.data.desc | json }},{% endif %}
       {% if s.data.time %}time: "{{ s.data.time }}",{% endif %}
       {% if s.data.chs.size > 0 %}chs: {{ s.data.chs | json }},{% endif %}
-      {% if s.data.myTags.size > 0 %}tags: {{ s.data.myTags | json }},{% endif %}
+      {% if s.data.myTags.size > 0 %}tags: [{% for tag in s.data.myTags %}"{{ tag | slug }}",{% endfor %}],{% endif %}
       {% if s.data.prev.size > 0 %}
         parentIds: [
           {% for parent in s.data.prev %}
@@ -45,7 +45,6 @@ const data = {
     },
     {% endfor %}
   ],
-  img: {{ gallery | json }},
   rel: {{ relationships | json }},
   tl: {{ timeline | json }},
   world: [
@@ -54,7 +53,7 @@ const data = {
         id: "{{ p.fileSlug }}",
         title: "{{ p.data.title }}",
         {% if p.data.desc %}desc: "{{ p.data.desc }}",{% endif %}
-        {% if p.data.categories.size > 0 %}categories: {{ p.data.categories | json }},{% endif %}
+        {% if p.data.categories.size > 0 %}categories: [{% for c in p.data.categories %}"{{ c | slug }}",{% endfor %}],{% endif %}
         url: "{{ p.url | htmlBaseUrl }}"
       },
     {% endfor %}
